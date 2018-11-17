@@ -1,0 +1,6 @@
+bin/
+*.o
+log/
+ashes/lib/plrobjs/
+ashes/lib/plrtext/
+ashes/lib/etc/
