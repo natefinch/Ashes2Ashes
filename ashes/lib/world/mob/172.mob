@@ -1,0 +1,1038 @@
+#17200
+Blacksmith~
+a large muscular blacksmith~
+A large muscular blacksmith stands here ready to sell you a weapon
+~
+A large man dressed entirely in black.  You notice his massive arms as he
+works over the fire making a sword.  The blacksmith is not a person to be
+messed with!
+~
+10 0 0 W2
+94 35 -54 10d10+11900 14d10+2
+282000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-540 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17201
+Armorer~
+the Armorer~
+The Armorer is standing here ready to sell you his wonderful armors
+~
+A short but powerful looking man stands before you.  He is wearing a suit
+and looks like a person who is capable of selling anything.
+~
+10 0 0 W2
+94 35 -54 10d10+11900 14d10+2
+282000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-540 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17202
+Dan man~
+Dan the Water Man~
+Dan the Water Man is here waiting to sell you some quality water
+~
+Dan the water man is a lazy looking guy who is wearing some loose fitting
+jeans and a striped shirt.  He must be having a good day because he is
+actually standing up.
+~
+10 0 0 W2
+94 35 -54 10d10+11900 14d10+2
+282000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-540 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17203
+Bubba owner store~
+Bubba, the Lagmart owner~
+Bubba, the owner of the Lagmart is standing here waiting for a sale
+~
+This chubby owner of the Lagmart is wearing a white shirt and a solid blue
+tie.  He waits patiently behind the counter for his next sale.
+~
+10 0 0 W2
+94 35 -54 10d10+11900 14d10+2
+282000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-540 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17204
+Great Lagini~
+the Great Lagini~
+The Great Lagini appears out of thin air and points to the piece of paper
+~
+You see a wise old man wearing dark blue robes and a pointed blue hat.  He
+is a master magician and the best in all the land.  He knows just about
+every spell in existance.
+~
+10 0 0 W2
+94 35 -54 10d10+11900 14d10+2
+282000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-540 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17205
+tiger paw friend~
+Tiger Paw-Friend of Animals~
+Tiger Paw-Friend of Animals is standing here waiting to sell you an animal
+~
+She is a nice looking native american woman who is wearing a brightly colored
+gown and has a long grey feather in her hair.  She is highly skilled with
+animals and almost seems to be able to talk to them.
+~
+10 0 0 W2
+94 35 -54 10d10+11900 14d10+2
+282000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-540 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17206
+man uniform selling~
+a man selling tickets~
+A man in a fancy uniform is here selling tickets
+~
+You see a large man in a bright red uniform standing behind a small counter.
+He has had a long day and is looks very tired.
+~
+10 0 350 W2
+45 20 -10 5d20+550 4d5+15
+40135 50000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 3 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17207
+lag beast~
+a Lag Beast~
+A well trained Lag Beast stands here ready to assist you.
+~
+A large hideous looking thing.  It is kind of like a horse, but much larger.
+It has a nice leather saddle and is ready for you to ride it off to your
+next adventure.
+~
+8 0 100 W2
+12 1 1 1d1+250 1d4+0
+0 2000
+8 8 0
+13 0 13 13 13 13 8
+0 4 3
+10 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#17208
+large spam square~
+a Large Spam Square~
+A large spam square is standing here.
+~
+You have always wondered where spam came from.  Now you know.  This large
+pink animal looks pleasant enough, but he can be mean if attacked.
+~
+8 0 20 W2
+13 5 -1 2d10+190 2d4+2
+0 1000
+6 8 0
+13 0 13 13 13 13 0
+0 3 0
+-10 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#17209
+small spam square~
+a Small Spam Square~
+A small spam square is wandering around in search of food.
+~
+This smaller version of a spam square is not as nice as it's larger counterpart,
+but is to small to do any real damage.
+~
+8 0 -10 W2
+10 3 5 1d6+97 2d3+0
+10 150
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#17210
+lag man~
+a Lag Man~
+A lag man is sta . . . walk . . . stand . . . walkin . . . standing here.
+~
+You see a strong looking man with a blank expression on his face.  He appears
+to be freezing every other second though.
+~
+8 0 0 W2
+35 15 -3 2d7+190 4d5+1
+725 35000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-30 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#17211
+lag woman~
+a Lag Woman~
+A lag woman is wal . . . stan . . . walkin . . . standing here.
+~
+You see a strong looking woman who has long blond hair.  She is tall and has
+a wonderful smile.
+~
+8 0 0 W2
+35 19 -2 1d5+197 4d5+0
+750 35000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#17212
+lag child~
+a Lag Child~
+A lag child is here looking for some trouble to get into.
+~
+A small child with muddy cloths and a sinister expression on his face.  At
+times the child can seem inocent, but you know better.
+~
+8 0 0 W2
+28 10 -1 2d5+150 4d4+0
+500 26500
+8 8 0
+13 0 13 13 13 13 0
+0 1 2
+-10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#17213
+golden knight~
+a Golden Knight~
+A golden knight stands here guarding the door.
+~
+~
+11 128 0 W2
+50 20 1 2d9+420 4d5+2
+2000 50000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 4 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#17214
+lag master~
+a Lag Master~
+A Lag Master stands here.
+~
+This expert lag fighter is constantly preparing for his next battle with the
+dreaded LAG!  Lag is not something to be taken lightly as it has killed the
+best of players.  FEAR LAG!!!!!
+~
+24584 0 0 W2
+43 16 0 4d5+508 2d7+2
+2500 43000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 4 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#17215
+grand lag master~
+the Grand Lag Master~
+The Grand Lag Master sits here at his desk.
+~
+You see a seasoned veteran of the lag wars sitting before you.  He has fought
+long and hard to stop the forces of lag from advancing upon us.
+~
+10 0 50 W2
+102 30 -30 2d11+2758 9d5+3
+35000 98000
+6 8 1
+13 0 13 13 13 13 0
+0 2 2
+-300 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17216
+receptionist~
+a Receptionist~
+A receptionist sits here talking on the phone.
+~
+You see a beautiful looking receptionist in a dark red dress.  She is talking
+to her friends on the phone so it probably is not a good idea to bother her.
+~
+11 0 0 W2
+60 15 -6 5d5+1005 4d9+0
+500 56000
+6 8 2
+13 0 13 13 13 13 0
+18 2 2
+-60 0 2 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#17217
+server~
+a Server~
+A server is running around trying to keep up with the hungry lag masters.
+~
+She is a thin, but strong looking girl with dark brown hair.  She wears a
+dark green dress with a white apron over it.
+~
+8 0 2 W2
+35 10 -2 5d5+505 3d5+1
+50 35000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#17218
+viking~
+a Viking~
+A viking stands here drinking and singing, "SPAM, SPAM, SPAM, SPAM, SPAM"
+~
+You see a large looking viking with a horned helmet and a long beard.  He is
+fairly strong looking and it seems as if he has not taken a bath in a long
+time.
+~
+8200 0 0 W2
+45 14 -6 4d5+508 4d9+0
+2000 45000
+8 8 1
+15 0 13 13 13 13 0
+0 3 2
+-60 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#17219
+head waitress~
+the Waitress at the Counter~
+The waitress at the counter stands here and says, 'we got spam, spam, and cheeze, spam and spam, . . .
+~
+You see an older woman who is in charge of all of the other waitresses.
+She has black hair which is slowly changing over to gray.  She makes sure
+everything in the cafe runs smoothly.
+~
+10 65536 0 W2
+65 25 -6 6d5+1002 4d9+2
+5000 65000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17220
+waitress~
+a Waitress~
+A waitress is standing here taking orders.
+~
+You see a medium sized girl with long blond hair.  She looks like she is
+overworked and underpaid.
+~
+8 0 0 W2
+47 25 -2 4d5+358 3d5+1
+500 45000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#17221
+manager cafe~
+the Manager of the Cafe~
+A manager sits behind his behind his desk reading a newspaper.
+~
+You see a huge looking man in a blue suit sitting behind his desk.  He has
+a large cup of coffee sitting on the desk along with a large pile of work
+which he keeps putting off.
+~
+10 0 0 W2
+75 25 -14 4d7+1730 5d9+1
+40000 75000
+6 8 1
+13 0 13 13 13 13 0
+0 2 2
+-140 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17222
+big al janitor~
+Big Al the Janitor~
+Big Al stands here trying to fix the toilet.
+~
+This former trumpet professor at a major conservatory became a janitor
+when his students revolted last year.  He made them sing and tortured
+them with his own singing.  He has brown hair and a beard.  FEAR Big Al
+the janitor.
+~
+11 0 -10 W2
+95 25 -18 5d7+2530 6d9+2
+500 95000
+8 8 1
+13 0 13 13 13 13 0
+5 2 2
+-180 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17223
+woman~
+a Woman~
+You walked in on a woman washing her hands.
+~
+You see a fairly large woman with a light blue dress on.  She seems VERY angry
+that you walked in on her!
+~
+42 0 0 W2
+90 32 -10 2d5+744 6d9+2
+1000 90000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#17224
+security guard~
+a Security Guard~
+A security guard stands here waiting for his shift to end.
+~
+You see a large man in a blue uniform.  He looks like he could care less about
+what is going on in the theater.  His shift is about over and he is getting
+tired.
+~
+10 0 2 W2
+50 15 -4 4d5+588 4d9+0
+500 50000
+8 8 1
+13 0 13 13 13 13 0
+0 4 2
+-40 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#17225
+usher~
+an Usher~
+An usher is standing here ready to help people.
+~
+You see a boy in a red uniform with gold buttons.  He makes sure that people
+get to where they need to go.
+~
+8 0 0 W2
+43 10 0 5d5+445 4d5+16
+100 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#17226
+vendor~
+a Vendor~
+A Vendor stands here selling all sorts of food and drinks
+~
+An older looking boy with a red and white striped shirt.  He sells everything
+from popcorn to candy.
+~
+8 0 0 W2
+45 15 -2 6d5+602 4d5+2
+2500 40000
+6 8 1
+13 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#17227
+projectionist~
+the Projectionist~
+A projectionist is running around trying to get the movie started on time.
+~
+You see a woman wearing all black.  She is franticly throwing things
+all over the place trying to find the film which should have already
+started.
+~
+11 0 0 W2
+85 25 -14 5d5+1835 5d9+0
+5000 85000
+8 8 2
+13 0 13 13 13 13 0
+19 2 2
+-140 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17228
+manager~
+the Manager~
+The Manager sits here working.
+~
+A younger looking woman in a red business suit.  She is here running over
+the numbers and making sure everything runs smoothly.
+~
+10 0 0 W2
+65 24 -6 4d9+980 4d9+0
+10000 65000
+3 8 2
+13 0 13 13 13 13 0
+0 2 2
+-60 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17229
+large man eating~
+a Large Man~
+A large man sits here eating popcorn.
+~
+You see a large man in a yellow dress shirt and brown polyester pants.
+He has a long beard and smells of old socks.
+~
+8 0 0 W2
+25 10 2 2d5+214 3d3+1
+100 25000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#17230
+elderly lady~
+an Elderly Lady~
+An elderly lady wandering around in search of her husband.
+~
+You see an old woman with long grey hair.  She seems to be very nice, but has
+become impatient with her husband.  He seems to have lost the tickets and
+went off in search of them without her.
+~
+8 0 5 W2
+10 3 0 3d3+94 2d3+1
+50 9000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+0 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#17231
+elderly man~
+an Elderly Man~
+An Elderly man wanders around the theater in search of his tickets.
+~
+You see an old man with a white shirt and blue sweater.  He is looking on the
+floor trying to figure out what had happened to his tickets.
+~
+8 0 5 W2
+18 8 3 2d9+150 2d5+1
+50 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+30 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#17232
+kid~
+a Kid~
+A kid is standing here playing video games.
+~
+A pre-teen kid with nothing better to do with his life is here playing the
+video games.  He is wearing a New York Yankees cap and a blue shirt.
+~
+8 0 0 W2
+25 15 0 4d5+188 3d3+1
+25 26000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#17233
+teenage guy~
+a Teenage Guy~
+A teenage guy stands here hanging out with his friends.
+~
+You see a teenager with dark black blue jeans and cool hair.  He stands
+here waiting for a cute girl to walk by.
+~
+8 0 -5 W2
+37 10 -7 4d9+380 4d5+0
+1000 35000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-70 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#17234
+teenage girl~
+a Teenage Girl~
+A teenage girl is standing here chatting with her friends.
+~
+You see a girl with SHORT shorts and a tight red shirt.  She has her phone
+with her at all times and wears A LOT of make-up.
+~
+8 0 -10 W2
+35 8 -2 5d3+390 4d4+0
+1500 35000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#17235
+space invaders~
+Space Invaders~
+A newer version of space invaders sits here.
+~
+You see a large machine with a small crowd of people standing in front of it.
+As you look at it you can hear the bips and bleaps have always been asociated
+with this game.
+~
+10 0 0 W2
+60 21 -6 4d7+637 7d4+14
+20000 60000
+6 8 0
+13 0 13 13 13 13 0
+0 2 0
+-60 12 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#17236
+centipede~
+Centipede~
+The origonal version of Centipede sits here surrounded by kids.
+~
+You see a large old looking machine being played just as much as when it
+first came out.
+~
+10 0 0 W2
+65 25 -10 4d9+800 4d9+2
+30000 65000
+6 8 0
+13 0 13 13 13 13 0
+0 2 0
+-100 12 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#17237
+missile command~
+Missile Command~
+A new and improved version of missile command sits here surrounded by kids.
+~
+You see a huge blue machine with people crowding all around it to watch the
+action.  It has many of the ideas of the old missile command with updated
+graphics and colors.
+~
+10 0 0 W2
+90 30 -14 4d9+1000 5d9+2
+45000 90000
+6 8 0
+13 0 13 13 13 13 0
+0 2 0
+-140 12 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17238
+lagged mud connection terminal~
+a connection to a very lagged mud~
+There is a terminal set up here with a connection to a very lagged mud.
+~
+You notice that the children are mysteriously attracted to this slow running
+game.  It is very popular here in The Land of Lag.
+~
+10 0 0 W2
+105 35 -20 6d9+1978 6d9+0
+50000 105000
+6 8 0
+13 0 13 13 13 13 0
+0 2 0
+-200 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17239
+blind man~
+a Blind Man~
+A blind man is walking around trying to figure out where he is.
+~
+You see a middle aged man with a long cane and dark glasses.  He appears to
+be lost, but that may just be because of his blindness.
+~
+8 1 12 W2
+55 20 -6 4d9+500 4d9+2
+100 50000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#17240
+police policeman~
+a Policeman~
+A policeman walks around making sure there is no trouble.
+~
+You see a large tall officer in a dark blue uniform.  He has a pair of dark
+sunglasses and a silver badge.
+~
+6152 0 0 W2
+75 30 -6 4d9+900 4d9+0
+500 75000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#17241
+desk sergent~
+Desk Sergent~
+The desk sergent sits here writing a report.
+~
+A huge police officer with a dark blue uniform and sergent's stripes on
+the left arm.  He looks fairly strong.
+~
+8 0 0 W2
+75 20 -7 4d9+950 6d7+0
+2000 75000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+-70 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17242
+chief~
+the Chief of Police~
+The chief of police sits at his desk drinking his coffe.
+~
+You see before you the man in charge of keeping law and order in this
+city.  He wears a dark blue uniform with gold bars on his shoulders
+and cuffs.
+~
+8 0 0 W2
+90 30 -14 6d9+1620 5d9+1
+10000 90000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+-140 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17243
+drunk angry~
+an Angry Drunk~
+An angry drunk stands here about to go off at any minute.
+~
+You see a fat, but tall man with a huge beer belly and covered in beer.
+The smell of alcohol and the stench of the man make you sick.
+~
+42 0 -15 W2
+47 20 -1 4d9+440 3d5+1
+10 45000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-10 0 4 0 0
+40 40 40 40 40
+0 0 0
+6 10
+~
+#17244
+thief~
+a Thief~
+A Thief sits here wondering how he was caught.
+~
+A person dressed completely in black clothing.  He is a very sneaky
+individual and can get himself out of situations easily.
+~
+9 262144 -10 W2
+85 25 -14 4d9+1600 5d9+2
+10000 85000
+6 8 1
+13 0 13 13 13 13 0
+7 2 2
+-140 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17245
+mayor~
+the Mayor~
+The Mayor sits here trying to figure out a way to lower the taxes.
+~
+You see an older looking man with a large build and red eyes.  The mayor
+works hard to keep everything in the city running smoothly.
+
+~
+16394 65536 0 W2
+75 25 -7 4d9+1000 5d7+2
+30000 75000
+6 8 1
+13 0 13 13 13 13 0
+0 2 2
+-70 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17246
+council member~
+a Member of the City Council~
+A member of the city council sits here talking to his friends.
+~
+A fairly young man who is wearing a formal business suit.  He has trouble
+paying attention because the sights outside the windows seem much more
+interesting.
+~
+8 0 0 W2
+40 14 -10 5d3+300 5d5+0
+5000 40000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#17247
+president council~
+the President of the City Council~
+The president of the city council sits here trying to get everyone's attention.
+~
+She seems to be a very nice lady at times, but she can be impatient at
+others.  She just wishes she could get this meeting started.
+~
+10 0 0 W2
+85 30 -14 4d7+1000 4d7+2
+10000 85000
+6 8 2
+13 0 13 13 13 13 0
+0 2 2
+-140 0 2 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#17248
+enormous receptionist~
+an Enormous Receptionist~
+An Enormous Receptionist sits here taking down the lag people's complaints.
+~
+This massive receptionist is not one to be messed with.  She is one mean
+looking lady and can scare a person out of the office with a single glance.
+~
+10 0 0 W2
+110 35 -12 5d4+12000 11d9+2
+40000 150000
+6 8 2
+13 0 13 13 13 13 0
+0 3 2
+-120 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17249
+large security guard~
+a Large Security Guard~
+A large security guard stands here making sure there is no trouble.
+~
+You see a large muscular man in a dark blue uniform.  He has a gold badge
+and a pair of dark sunglasses.
+~
+4106 0 2 W2
+67 25 -7 4d9+900 5d9+0
+2000 65000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-70 0 2 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#17250
+post master~
+the Post Master~
+The post master is sitting here moving very slowly.
+~
+You see an old man sitting in a wooden chair.  You decide that you should go
+somewhere else to send your mail.
+~
+11 0 0 W2
+45 10 -2 4d9+500 4d5+0
+2000 30000
+6 8 1
+13 0 13 13 13 13 0
+2 2 2
+-20 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#17251
+unused~
+unused~
+unused
+~
+~
+10 2097152 -10 W2
+5 3 5 1d6+97 2d3+0
+10 200
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#17252
+unused~
+unused~
+unused
+~
+~
+10 2097152 20 W2
+8 5 -1 2d10+110 2d4+2
+3000 4000
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+-10 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#17258
+unused~
+unused~
+unused
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+$

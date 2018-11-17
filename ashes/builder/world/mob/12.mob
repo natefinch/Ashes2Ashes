@@ -1,0 +1,580 @@
+#1200
+zombie~
+a zombie~
+A zombie stands here.
+~
+This guy is disgusting!  He is a corpse that has been brought back to life.
+~
+8 0 0 W3
+0 0 8 0d0+0 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 2 1
+80 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#1201
+statue~
+a Statue of Cati~
+Cati's statue lies curled up by the fireplace, purring contently.
+~
+Gazing at the statue you are reminded of the AIMP Cati.  The smooth
+feline features are more promenant than the sharper features of her
+elven half.  The eyes of the statue open enough to look lazily at you
+with emerald green eyes.  Then it gets up, stretches, yawns then curls
+back up by the fireplace, swishing her tail at you as it does so.  It
+obviously doesn't think you're a threat to her very existance.
+~
+26702 1192 1000 W3
+54 30 -1 20d5+3500 4d1+35
+54000 150000
+4 4 2
+13 0 13 13 13 13 0
+0 2 2
+-10 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1202
+statue~
+Jahana's Statue~
+A beautiful statue stands here, enrapturing you.
+~
+A statue of the most beautiful goddess you have ever seen stands before you.
+The statue is carved with such accuracy, every detail of her body is shown
+in perfect imagery. Her hair, flowing down her shoulders, ending in curls.
+Her skin, even on this statue, is smooth as silk. The wondrous smile, a smile
+that could light up entire galaxies, makes your heart melt. Eyes, those eyes,
+they entrance you and hold you to their gaze, and you know you would do
+anything to please her....anything.
+~
+9 128 1000 W3
+127 100 -100 1d100+30000 100d100+100
+0 0
+8 8 2
+18 100 18 18 18 18 0
+15 2 2
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1203
+test mob~
+a Test Mob~
+A test mob awaits "testing"
+~
+it looks bland.
+~
+40 0 -500 W3
+150 0 -5 0d0+10000 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+-50 0 2 0 0 90
+100 100 100 100 100
+0 0 16
+6 15
+~
+#1205
+jen jenn jennifer~
+Jennifer~
+Jennifer Morelos is here, flaunting her gorgeous body for attention.
+~
+You see a very beautiful woman.  She waves to you and says "hello there!"
+Just the very sight of this wonderful creature makes you gasp as her incredible
+charm and beauty overtakes you.
+~
+24783 197768 0 W3
+50 40 -20 5d25+10000 5d5+105
+150000 1000000
+8 8 2
+18 100 18 18 18 18 0
+12 2 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1206
+poppy phil phillip ilj~
+Poppy~
+Poppy sits here, looking at you with his head rested on his knees.
+~
+You see a young teenager.  He is really in love with Jennifer, who doesn't
+really care for him.
+~
+24783 168 0 W3
+50 40 -10 10d10+650 5d5+25
+100000 100000
+8 8 1
+18 100 18 18 18 18 0
+4 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1209
+cat Xander~
+Xander~
+Xander peers at you innocently.
+~
+This seemingly normal domestic tabby has been well fed and does not wear a
+collar.  You interest is not unnoticed, and he looks up with a smile.
+~
+3901467 67273896 -1000 W3
+100 100 -10 100d10+1 100d10+0
+1 100000
+5 5 1
+25 0 25 25 25 25 25
+8 1 3
+-100 8 4 0 100 0
+100 100 100 100 100
+16 1 16
+6 1
+~
+#1210
+hostess daphne woman blonde~
+Daphne~
+A petite and attractive hostess is here to ensure your comfort.
+~
+She is a short, petite blonde with a rosy-cheeked complexion, gentle eyes,
+and a sweet smile. One immediately feels at ease in her company, knowing
+she has made fulfillment of your wishes her charge.
+~
+4202506 1064 1000 W3
+52 0 10 1d1+10000 1d8+0
+0 1000
+8 8 2
+9 0 14 15 18 14 0
+0 2 2
+100 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1211
+mob experience exp~
+an experience mob.~
+Lots of exp stands here.
+~
+~
+8 0 0 W3
+101 0 10 1d1+10 0d0+0
+0 1000000
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#1212
+rodney king beat~
+Rodney King~
+Rodney King lies on the ground covered in blood.
+~
+Can't we all just get along?~
+305163 131072 0 W3
+54 100 -40 10d10+12000 10d10+90
+0 250000
+8 8 0
+13 0 13 13 13 13 0
+13 3 0
+-400 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1213
+rana~
+Rana~
+Rana, Matt's girlfriend is here.
+~
+You see utter beauty in tis purest form, she has earned the total love
+and devotion of her to be husband, Matt
+~
+4218891 128 0 W3
+57 40 -20 20d5+30000 100d100+100
+171000 1
+5 8 2
+18 0 13 13 13 13 0
+11 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1214
+statue of ryno~
+Statue of Ryno~
+You see a statue, that looks like Ryno.
+~
+This is the statue of Ryno, it has red hair, and loves subway.
+~
+2058 128 0 W3
+55 20 0 5d5+4000 1d8+50
+165000 1000000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1215
+golem~
+golem~
+
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#1216
+emily hellchild hell child~
+Emily, hellion extraordinare~
+Emily, the wonder hellion, is sleeping quietly here.
+~
+This child is about 3 feet tall.  She has this wonderful blonde hair that 
+curls up around her ears and her usually sparkling blue eyes are closed. She 
+is sleeping quietly.  DO NOT WAKE HER UP OR TEDDY WILL KILL YOU!
+~
+4194410 16384 1000 W3
+70 42 -50 14d14+5000 5d5+40
+0 35000
+8 4 2
+13 0 13 13 13 13 0
+0 0 0
+-500 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#1218
+Prime~
+Al Gore~
+Al Gore the Vice President of the United States of America
+~
+~
+4514059 201148 1000 W3
+99 100 -100 100d100+999 100d100+16
+100 1000000
+8 8 1
+18 100 18 18 18 18 0
+20 5 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#1219
+Prime~
+Optimus Prime~
+Optimus Prime the leader of the Autobots
+~
+~
+4514059 201148 1000 W3
+99 100 -100 100d100+999 100d100+16
+100 1000000
+8 8 1
+18 100 18 18 18 18 0
+20 5 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#1223
+koosh kitty cat kitten~
+a cute little tan and white kitty~
+A cute little tan and white kitty sits here looking curious.
+~
+Koosh is a cute little tan and white kitty who just steals your heart!
+He has a soft coat of fur, and an extra toe on each of his little white
+feet. ~
+4218955 136232 1000 W3
+0 0 -90 1d4+3 1d1+0
+0 0
+6 6 1
+8 0 15 13 18 13 0
+0 0 3
+-900 0 4 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#1241
+test mob~
+test mob~
+test mob
+~
+testmob stands here.
+~
+8 268435456 0 W3
+127 40 -30 1d1+1000 4d4+20
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-300 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1250
+bob weir~
+Bob Weir~
+Bob Weir stands here, wondering if he is too old for this sh*t
+~
+Bob Weir stands here wondering if he is too old for this shit.
+~
+6280 128 0 W3
+50 20 0 1d8+5000 1d8+40
+150000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1251
+test~
+test~
+test
+~
+test
+~
+8 0 0 W3
+0 0 0 1d1+10000 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#1255
+pile clothes stuff~
+a Pile of Clothes~
+A Pile of Clothes lies here.
+~
+  You see an enormous pile of clothes lying on the floor here.  It
+looks almost comfy enough to go to sleep in, but you don't dare.  It 
+could just happen to be a nasty creature.  It seems to be made up of
+a lot of T-Shirts, some jeans, socks, underwear, and the occasional
+dress shirt.  You notice something that just might be Draven's foot...
+~
+4251722 128 0 W3
+55 0 0 1d1+1 0d0+0
+0 0
+4 4 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1260
+fluffy~
+Fluffy~
+Fluffy lies curled up on the windowseat.
+~
+A beautiful cat lies here napping on the windowseat.  She has long, soft fur,
+mostly grey, with orange and brown and white patches.  She opens her
+yellow/green eyes as you approach her, and quickly measures you up.
+Apparently, she is not overly impressed, as she turns her back on you
+and stretches out again.  She will tolerate your presence here, but be
+careful about approaching her.  She is a one-woman cat, and tends to
+bite anyone who touches her - except for Maeve.
+~
+313419 196608 1000 W3
+52 40 -100 2d100+30000 100d100+100
+0 10
+8 8 2
+18 100 13 13 13 13 0
+6 1 3
+-1000 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#1265
+bod~
+~
+~
+~
+8 0 0 W3
+56 -20 -100 100d100+30000 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1270
+Minmei persian cat feline~
+Minmei~
+A white Persian cat lies curled up on a rug by the fireplace.
+~
+Persian cats are by far the noblest of all felines, well known for their
+calm demeanor, and long, fluffy white fur, silky and luxurious to the
+touch. This particular one has one eye a deep blue, the other a deep
+forest green. This particular one is also very smart, and a great purrer.
+~
+2122 136232 1000 W3
+1 40 -94 1d20+20 12d1+0
+0 12000
+5 5 2
+13 0 15 18 18 13 0
+0 0 3
+-940 0 4 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#1280
+2~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#1288
+Tiamat the Chromatic Dragon.~
+Tiamat, Queen of the Dragons.~
+Tiamat the Chromatic Dragon.
+~
+Tiamat is the ruler of the first plane of the nine hells, where she spawns 
+all evil.   Tiamat has five heads, white, red, black, green and blue.
+These colors run the length of each neck and into the forepart of the body
+as stripes, gradually blending to three stripes of gray, blue green, and
+purple over her back and hind quarters.
+~
+27179 1152 -1000 W3
+70 40 -4 1d1+7500 1d8+20
+50000 1000000
+8 8 2
+18 99 18 18 18 17 0
+8 5 4
+-40 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#1290
+lag beast lagbeast~
+the Lag Beast~
+The Lag Beast is standing here sucking on your link.
+~
+As you look upon this moonstrous beast, you can feel the energy drain
+from your body.  Your legs lose their form and you cannot move.  It
+peers deep into your eyes and you can feel your link with reality weaken.
+Maybe you should take what little energy you have left and flee from this
+beast.
+~
+4222986 1160 -1000 W3
+59 40 -100 1d1+30000 0d0+0
+0 0
+8 8 0
+18 100 18 18 18 18 0
+0 5 5
+-1000 0 2 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#1291
+test mob~
+a TEST MOB~
+A TEST MOB
+~
+A TEST MOB
+A TEST MOB
+~
+9 128 0 W3
+50 60 0 1d100+1000 5d5+20
+0 0
+8 8 0
+13 0 13 13 18 13 0
+20 5 0
+0 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1297
+Kender~
+a kender~
+A kender is here playing with all the toys.
+~
+A small, imp like creature with a misch. smile.  He has a twinkle in
+his eye and is currently playing with all the neat and nifty gadgets
+of the playhouse.  Watch yourself or you could quickly find yourself
+handcuffed to something.  He has numerous pouches on his belt and 
+his top knot is blowing in the wind.
+~
+286728 65672 150 W3
+100 40 -100 20d5+30000 100d100+100
+0 0
+5 5 1
+13 0 18 13 18 18 0
+0 1 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1298
+Silicon~
+Silicon~
+Silicon tends the bar and watches the room with a sharp eye.
+~
+A short fellow with big ears and pointy teeth.  He wears a colorfull
+suit and seems happy to see you but from some reason you feel wary of him.
+~
+8332 0 -500 W3
+30 20 -2 50d20+500 5d5+5
+10000 50000
+5 5 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+$

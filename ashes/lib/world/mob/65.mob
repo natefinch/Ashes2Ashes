@@ -1,0 +1,256 @@
+#6500
+dwarf dwarven guard~
+the dwarf guard~
+A dwarven guard is here.
+~
+The guard looks very tough and mean. He wears his beard long, and he smells
+like he hasn't bathed in over a month.
+~
+6155 136 1000 W
+35 20 -2 6d20+560 2d8+9
+10000 29000
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+-20 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6501
+dwarf dwarven worker~
+the dwarf worker~
+A dwarven mining worker is here.
+~
+He is very dirty, and looks extremely over-worked.
+~
+2120 0 900 W
+20 15 2 41d5+280 2d4+12
+3500 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#6502
+wraith~
+the wraith~
+A wraith is awaiting your first move here.
+~
+A black, almost transparent wraith.
+~
+43 8202 -900 W
+41 16 -6 15d7+833 4d5+25
+45708 44000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-60 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#6503
+storekeeper~
+the Hide & Tooth storekeeper~
+The Hide & Tooth storekeeper is standing here, waiting patiently.
+~
+The storekeeper is very rotund, but looks in excellent condition.
+~
+2058 8 1000 W
+55 20 -10 1d1+30000 2d8+32
+33500 150000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6504
+baker~
+Granite Head the baker~
+Granite Head, the baker, is waiting for a customer here.
+~
+Granite Head is covered with flour and grains.
+~
+10 0 900 W
+55 20 -10 1d1+30000 2d8+22
+55000 150000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6505
+lizard~
+the giant lizard~
+A giant lizard is foraging for food along the cavern floor here.
+~
+This scaly creature looks like it is well adapted to it's underground
+habitat.  He looks very powerful.
+~
+72 8 100 W
+35 20 -1 6d20+566 3d7+4
+200 41000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6506
+giant~
+the giant~
+A giant is wandering around the mountainside here.
+~
+The giant is about 18 feet tall, with arms of steel, and looks in
+excellent physical condition.
+~
+2121 0 600 W
+25 15 0 6d20+500 4d3+2
+2000 50000
+8 8 1
+18 100 13 13 13 13 0
+18 2 0
+0 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#6507
+dwarven dwarf miner mineworker worker~
+the dwarven mineworker~
+A dwarven mineworker is here.
+~
+The mineworker is very tired, and very dirty, and he has bulging muscles.
+~
+2058 0 500 W
+6 10 7 13d5+70 1d3+2
+600 1750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#6508
+dwarven mineleader dwarf mine leader~
+the mine leader~
+A dwarven mine leader is here, supervising the work.
+~
+The mine leader is very big and very strong, though he must be fairly bright
+also, to have gotten this job.
+~
+2058 0 700 W
+31 19 0 83d2+450 3d4+6
+18000 36000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+20 20 20 20 20
+0 0 0
+6 0
+#6509
+dwarven healer~
+the dwarven healer~
+The dwarven healer is here, aiding the sick of his people.
+~
+He is a very skilled healer, and extremely faithful to his god.
+~
+2059 136 999 W
+36 20 -1 15d4+625 3d8+4
+20000 34000
+8 8 1
+13 0 13 13 13 13 0
+10 2 0
+-10 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6510
+dwarven peon~
+the dwarven peon~
+A dwarven peon is awaiting help here.
+~
+~
+10 0 500 W
+5 2 7 16d3+58 2d3+2
+75 875
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#6511
+dwarf~
+the Dwarf~
+A dwarf is here.
+~
+~
+10 0 500 W
+10 5 4 1d15+116 3d3+1
+625 3750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#6514
+barrack guard~
+the barrack's guard~
+A barrack guard is here, lounging around while off duty.
+~
+~
+10 0 100 W
+23 14 1 8d10+283 2d5+4
+1300 21000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#6516
+mazekeeper~
+the mazekeeper~
+A mazekeeper is here.
+~
+He looks VERY tough.
+~
+43 128 -1000 W
+48 20 -7 416d4+3333 4d3+5
+2000 145000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-70 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#6517
+giant snake~
+the giant snake~
+There is a giant snake here.
+~
+~
+8234 0 -1000 W
+45 20 -10 500d6+1000 4d4+22
+3000 90000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+$

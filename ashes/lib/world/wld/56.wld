@@ -1,0 +1,1028 @@
+#5600
+~
+
+~
+56 6152 6
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 5601
+S
+#5601
+The Seaport of Ithaka~
+A gentle breeze coming from the wine-dark sea pulls you toward the seaport of
+Ithaka.  Seagulls circle above you crying out, and the islanders stand at the
+water's edge to offer their greetings and farewells to the visitors that come
+and go throughout the day.  Men on the docks are preparing a ship for travel
+to some distant land.
+~
+56 6144 6
+0d0+0 0 0
+D2
+~
+~
+0 -1 5602
+S
+#5602
+On the Docks of Ithaka~
+There is much commotion at the docks of Ithaka today, as there was a war
+declared at Troy, and the town's men are preparing to set sail for battle.
+There are several black ships grounded here while their stores are
+replenished before they set sail. The waves roll in and rock the ships,
+making the wood creek as it rubs against the dock.
+~
+56 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 5601
+D2
+~
+~
+0 -1 5604
+S
+#5603
+The Coast of Ithaka~
+The shoreline of Ithaka changes with each rolling tide.  The pebble beach is
+lined with trees that move with the wind.  You catch a glimpse of two larger
+trees that separate to give way for a foot path leading up a hill.  At the
+top of the hill overlooking the port is Odysseus' manor.
+~
+56 6152 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 5604
+D4
+~
+~
+0 -1 5606
+S
+#5604
+Along the Beach~
+There are many towns people carrying out their business today on this pebble
+beach.  The town's cryer wails about the bloodshead to be had in the land of
+the Trojan in the coming days, and the port is anchored with a fleet of ships
+preparing to set sail.
+~
+56 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 5602
+D1
+~
+~
+0 -1 5605
+D3
+~
+~
+0 -1 5603
+S
+#5605
+The Coast of Ithaka~
+The seaport glows a radiant orange with the come of a calm day, but not
+today. There are baskets, amphori, and sacks full of supplies all in a line
+before the dock on this day.  The time calls for a journey to be made.  There
+is a large fire roaring for the traveler's hecatomb to be set ablaze, and
+libations prepared and set aside while the final preparations are made.
+~
+56 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 5633
+D3
+~
+~
+0 -1 5604
+S
+#5606
+A Path Along the Sea~
+You stand on a stony road overlooking Ithaka's seaport.  The strong breeze
+carries the mist of the water up the rocky edge to where you stand.  Many sea
+worthy boats are parked in the harbor rocking with each wave that comes
+ashore.  The sight and sound of the waves roll in with perfect harmony.
+~
+56 0 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 5607
+D5
+~
+~
+0 -1 5603
+S
+#5607
+Along a Road~
+You travel along a trail, and there are seagulls gliding through the sky in
+the near distance.  The seaport is near and you smell seasalt in the breeze.
+Lining the trail are olive trees, and above the tops of these trees you have
+a glamerous view of the King's Manor.
+~
+56 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 5606
+D2
+~
+~
+0 -1 5608
+S
+#5608
+The Swineherd's Hut~
+After long days of grazing in the pastures, the swineherd and his men take
+shelter here on beds of balsam near the crackling fire.  There is a hut where
+the master swineherd sleeps through the night wrapped in heavy blanket cloaks
+and sheepskin, while the rest of his men take up the warmth of the fire with
+their watch dogs.
+~
+56 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 5607
+D2
+~
+~
+0 -1 5610
+D3
+~
+~
+0 -1 5609
+S
+#5609
+Grazing Fields~
+Lined by olive tree bushes, this paddock is home to the many sheep belonging
+to the King of Ithaka.  The grass is short, but plentiful enough to fatten
+the animals for the feasting.  At the edge of this plot runs a spring that
+trickles water down the hill and feads into the sea.
+~
+56 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 5608
+S
+#5610
+On a Path~
+
+~
+56 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 5608
+D3
+~
+~
+0 -1 5611
+S
+#5611
+The Road to Odysseus's Manor~
+Along the stony trail just outside Odysseus's Manor, there is a spring house
+where many of the villagers fill their jars of the ice cold spring water.
+You can hear children playing in a nearby field, and a beggar is resting on a
+large rock by the spring begging for food and clothing.  Before you is a
+massive stone wall that surrounds the King's dwelling and hall.
+~
+56 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 5612
+D1
+~
+~
+0 -1 5610
+D3
+~
+~
+0 -1 5613
+S
+#5612
+At the Spring~
+coming soon
+~
+56 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 5611
+S
+#5613
+In Front of the Manor~
+A great wall stands before you with it's enormous gates.  The surrounding
+grounds lead down hill into town and to the harbor.  The view from Odysseus'
+Manar is breathtaking.
+~
+56 4 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 5611
+D3
+~
+gate~
+2 5608 5614
+S
+#5614
+Inside the Courtyard of the King's Manor~
+The minstrel sits here playing his harp for the children while they bathe a
+puppy in a wash tub, in the middle of the courtyard.  In the distance there
+are maidens tending to the various fruit trees.  The gate wall provides good
+shade for the residents of the manor in the heat of the day and good
+protection from the vagabond's in the dark of the night.
+~
+56 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 5615
+D1
+~
+gate~
+2 5608 5613
+D2
+~
+~
+0 -1 5629
+D3
+~
+~
+0 -1 5624
+S
+#5615
+In the Courtyard~
+The minstrel's song is barely heard over the joyful laughter of the children
+as they drench each other in their attempt to give a puppy a bath. This part
+of the courtyard has many miniture gardens of flowers outlined with small
+rocks.  There is a small stone water pond for the birds, and beautiful berry
+bushes that have just begun to blossom.
+~
+56 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 5614
+D7
+~
+~
+0 -1 5616
+S
+#5616
+The Vineyards~
+The leaves of the grape vines russle in the wind as you pass by rows and rows
+of vines.  Because of the dry air, many skins of water are poured on these
+grounds daily.  In the distance you hear the sound of someone getting water
+from the pump.
+~
+56 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 5617
+D8
+~
+~
+0 -1 5615
+S
+#5617
+Amoung the Olive Bushes~
+Scattered throughout the drupaceous thickets loaded with all shades of green
+and black olives, are large wicker baskets for gathering and storing the
+fruit of this land.  The trees are low and hang full of olives ranging from
+yellow, green, and black.
+~
+56 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 5616
+D5
+~
+~
+0 -1 5618
+S
+#5618
+An Entranceway~
+Large square pillars that are painted a pale green give way to the stairway
+between the olive thickets, and the olive storage room.  The steps are
+constructed of stone and the delicately painted walls tell a story, as the
+mural covers the walls throughout the stairway.
+~
+56 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5619
+D4
+~
+~
+0 -1 5617
+S
+#5619
+The Olive Room~
+There is a large press in the center of this room that rests atop a vessel
+for storing olive oil.  Many baskets of black olives line the painted walls,
+and a few branches hang on the walls.  There is a window with it's shutters
+open to allow the beams of light fill the room.  The air is thick with the
+scent of oil.
+~
+56 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5618
+D8
+~
+door~
+1 -1 5624
+S
+#5620
+The Wine Cellar~
+The smell of firmented fruit hits you when you enter the cellar.  There are rows
+and rows of shelves sporting various vintage wines, and empty skins and jugs
+on the table in the middle of the room for transporting the wine from the vat.
+The room is kept dark and cold.
+~
+56 6153 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 5624
+S
+#5621
+The Maid's Quarters~
+Many straw mats are lined up along the wall with goatskins and wool cloaks
+folded up neatly in the corner.  There is a small window to the court yard
+where you can hear children's laughter and a dog barking.  The scent of a
+roasting animal seeps into the room.
+~
+56 6152 0
+0d0+0 0 0
+D6
+~
+door~
+1 -1 5624
+S
+#5622
+The Vault~
+The walls of this room display many sorts of weaponry, from shields to
+crossbows. Above the entrance way door is where Odysseus' legendary bow
+hangs.  He is the only one granted the power to ever string it, as many
+others have tried, and failed. It is customary that when visitors call upon
+your house, their weapons are put to rest in a safe room while they drink and
+feast.
+~
+56 14472 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 5624
+S
+#5623
+The Storeroom~
+As you enter this great vault where gold and bronze lay piled along with
+chests of clothes, and fragrant oil.  There are jars of earthenware in rows,
+holding an old wine, mellow, unmixed, and rare; cool stood the jars against
+the wall, kept for whatever day Odysseus, worn by hardships, might come home.
+~
+56 14344 0
+0d0+0 0 0
+D7
+~
+door~
+1 -1 5624
+S
+#5624
+The King's Manor Hall~
+Just inside the King's manor hall, is a large room with many long heavy
+tables for feasting.  The ceiling is high with it's long beams supporting the
+balcony where Queen Penelope weaves her loom.  The town's men all gather here
+to court her while Odysseus, the King is thought to be away on a journey.
+The men are all served good wine and the pick of the swineherd's flock is
+roasting in the fire.
+~
+56 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5614
+D2
+~
+door~
+1 -1 5622
+D3
+~
+door~
+1 -1 5620
+D4
+~
+~
+0 -1 5625
+D7
+~
+door~
+1 -1 5619
+D8
+~
+door~
+1 -1 5623
+D9
+~
+door~
+1 -1 5621
+S
+#5625
+Stairway to the Balcony~
+The stairway is solid marble with an elaborate red carpet lining the steps.
+There are torches along the wall to light the way.  The solid banister is
+delicately carved with an intricate design and accentuates the curve of the
+stairway.
+~
+56 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5626
+D5
+~
+~
+0 -1 5624
+S
+#5626
+The Balcony~
+Upon this balcony is where Queen Penelope spent many years weaving her loom
+of vast fabric while she awaits her King Odysseus' return from his journey.
+The balcony overlooks the great manor hall where many suitors come to bring
+Penelope gifts in hopes to tempt her to remarry.  She kept them at bay for
+three years, and on the fourth, she was caught unweaving by the candlelight
+at night.
+~
+56 6152 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 5627
+D1
+~
+~
+0 -1 5625
+D3
+~
+door~
+1 -1 5628
+S
+#5627
+The Master Bedroom~
+An old olive tree grew like a pillar on the building plot for this massive
+bedroom suite.  The tree was used as one of the bedposts, and is inlaid with
+gold, silver and ivory.  The bed is made of a pliant web of oxhide thongs
+that is stretched taught.  The stone walls and roof were built up around the
+tree, and a doorway with it's smooth fitted doors mark the entrance.  Along
+one of the walls there is an elegant table holding several candles to light
+the room.
+~
+56 6152 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 5626
+S
+#5628
+Telemakhos's Bedroom~
+This bedroom is lined with strong stone walls that are decorated with
+tapestries and has a grand window overlooking the land abroad.  The bedding
+is piled with large bed fleece, rugs, and the sheets are of the purest linen.
+Under the window is a keepsake chest that is draped with red silk.
+~
+56 6152 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 5626
+S
+#5629
+Courtyard South~
+Just inside the courtyard, the manor chambers seem to grow one out of
+another. The strong walls of the gate capture the fumes of the mutton
+roasting, and echo the minstrel's harp song rippling in the air.
+~
+56 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 5614
+D9
+~
+~
+0 -1 5630
+S
+#5630
+By the Orchards~
+A gust of wind carries the alarming sound of a raven's cry as you pass
+through the courtyard.  The shade trees standing tall beside the elaborately
+carved bench seem unaffected by the wind, and you wonder if the gods look
+upon you with grace at this hour of the day.
+~
+56 0 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 5631
+D6
+~
+~
+0 -1 5629
+S
+#5631
+The Apple Orchards~
+look again soon
+~
+56 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5630
+D3
+~
+door~
+1 -1 5632
+S
+#5632
+A Little House~
+You pass through a lofty doorway constructed of wide smooth ash into an
+elaborate house belonging to Laertes, the father to Odysseus.  The walls of
+this house are crafted from oak, and have wide bay windows decorated with
+rich silken linen.  The hardwood floors are covered with antique rugs, bright
+in design.  The openness of this house gives you a warm comforting feeling.
+~
+56 6152 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 5631
+S
+#5633
+On the Docks~
+As you step onto the dock, you take one last look at the land of Ithaka, and
+it's natural beauty.  The docks are busy with men loading the ships that are
+about to set sail for Troy.  The trojan war has taken many lives already, and
+the people of Ithaka were asked to help.  The sound of the town's crier
+echo's in your thoughs as you are about to set sail.
+~
+56 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 5634
+S
+#5634
+Aboard a Sailing Vessel~
+You step on board Odysseus' ship and are ordered to prepare to set sail.  The
+stores and libations have already been placed on board and secured in their
+place. The black sail is wrapped up tight until the crew rows this giant
+vessel out of the harbor. The brisk smell of sea water surrounds you as the
+waves come into shore rocking you gently.
+~
+56 8192 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 5635
+D3
+
+~
+~
+0 -1 5633
+S
+#5635
+The Seaport of Ithaka~
+As the crew members of this ship cast off, they attempt to refocus their
+minds to what lies ahead when they reach their destination.  The shoreline
+crawls with Ithacans bidding their farwell to their friends and family
+members, hoping to see them again soon.  The men at the oars take on a steady
+rhythm, and the wind picks up as the distance between the shore increases.
+~
+56 14337 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 5636
+D1
+~
+~
+0 -1 5636
+D2
+~
+~
+0 -1 5634
+D3
+~
+~
+0 -1 5637
+S
+#5636
+The Seaport of Ithaka~
+As the waves crash all around you, the undercurrent from the wine-dark sea
+pulls you increasingly further away from the shorline of Ithaka.  The wind
+blows steadly out of the northwest carrying thick grey clouds towards the
+port that is filled with sailing vessels heading out to sea.
+~
+56 14339 6
+10d6+100 50 0
+D0
+~
+~
+0 -1 5636
+D1
+~
+~
+0 -1 5636
+D2
+~
+~
+0 -1 5636
+D3
+~
+~
+0 -1 5635
+S
+#5637
+The Seaport of Ithaka~
+All of the sailing vessels that filled the seaport of Ithaka now make their
+way through the mouth of the port and head out to sea.  The wind blows
+stronger and fills the large sails.  The water swells and the crests get
+larger to remind you that Lord Poseidon rules the waters.  All the men on
+Odysseus' ship please the gods with roasted thigh and bittersweet libations
+in hopes that they will soon return to the land if Ithaka.
+~
+56 14337 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 5638
+D1
+
+~
+~
+0 -1 5635
+D2
+~
+~
+0 -1 5636
+D3
+~
+~
+0 -1 5636
+S
+#5638
+Out to Sea~
+The sailing vessel with Odysseus and his crew skim the broad back of the wine
+dark sea.  The flutist plays a tune while the crew members, with their
+bellies full, rest and await the Trojan seaboard.  A visit from the goddess
+Athena stirred the heart of Odysseus, and he dwells upon the words she layed
+upon his ears.
+~
+56 14337 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 5640
+D1
+~
+~
+0 -1 5639
+D2
+~
+~
+0 -1 5637
+D3
+~
+~
+0 -1 5639
+S
+#5639
+Out to Sea~
+The thunderous waves of the wine dark sea crash all around you.  The god who
+laps the land in water must be near and toying with you, as he is the ruler
+of the water you find yourself in now.  You catch a glimpse of the dark
+clouds that have formed above you, and it starts to rain.
+~
+56 14337 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 5640
+D1
+~
+~
+0 -1 5639
+D2
+~
+~
+0 -1 5639
+D3
+~
+~
+0 -1 5639
+S
+#5640
+Out to Sea~
+The high fiery winds blow and the surf boils with a thundering crash as the
+waves break into high surf tossing the ship.  A stormcloud rounds the peak
+ahead and is seemingly never to dissolve.  The deck of the ship becomes
+drenched in sea mist, and the crew members pray they've not offended the lord
+that rules the sea.
+~
+56 14337 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 5639
+D1
+~
+~
+0 -1 5639
+D2
+~
+~
+0 -1 5638
+D3
+~
+~
+0 -1 5641
+S
+#5641
+Out to Sea~
+You travel across the broad back of the sea and draw near to the rocky
+seawall where the thunderous waves crash upon the cliffs.  The beaches of
+Troy are just around the corner, and many giant sailing vessels line the
+shore.  The place where the water meets the land is crawling with men hauling
+their supplies to shore, and the wind carries the scent of fire from inland.
+~
+56 14337 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 5639
+D1
+~
+~
+0 -1 5640
+D2
+~
+~
+0 -1 5639
+D3
+~
+~
+0 -1 5642
+S
+#5642
+Approaching Troy~
+As you approach Troy, the land unfolds itself through the many layers of rock
+formations.  There is a beach area enveloped by giant rocks and surrounded by
+huge cliffs.  The beach area is crawling with men and the sound of their
+shouts echo in the wind.  The wind and waves seem to calm as you get closer
+to the shoreline.
+~
+56 14337 7
+0d0+0 0 0
+D1
+~
+~
+0 -1 5641
+D2
+~
+~
+0 -1 5643
+S
+#5643
+Out to Sea~
+~
+56 14337 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 5642
+D5
+~
+~
+0 -1 5644
+S
+#5644
+The Undercurrent~
+~
+56 14401 8
+0d0+0 0 0
+D4
+~
+~
+0 -1 5643
+D5
+~
+~
+0 -1 5645
+S
+#5645
+Under the Deep~
+~
+56 14401 8
+0d0+0 0 0
+D4
+~
+~
+0 -1 5644
+D5
+~
+~
+0 -1 5646
+S
+#5646
+Under the Deep~
+~
+56 14401 8
+0d0+0 0 0
+D4
+~
+~
+0 -1 5645
+S
+#5650
+~
+
+~
+56 6152 0
+0d0+0 0 0
+S
+#5651
+~
+
+~
+56 6152 0
+0d0+0 0 0
+S
+#5652
+~
+
+~
+56 6152 0
+0d0+0 0 0
+S
+#5653
+~
+
+~
+56 6152 0
+0d0+0 0 0
+S
+#5654
+~
+
+~
+56 6152 0
+0d0+0 0 0
+S
+#5655
+~
+
+~
+56 6153 0
+0d0+0 0 0
+S
+#5656
+~
+
+~
+56 6152 0
+0d0+0 0 0
+S
+#5657
+~
+
+~
+56 0 1
+0d0+0 0 0
+S
+#5658
+~
+
+~
+56 0 1
+0d0+0 0 0
+S
+#5659
+~
+
+~
+56 0 1
+0d0+0 0 0
+S
+#5660
+~
+
+~
+56 0 1
+0d0+0 0 0
+S
+#5661
+~
+
+~
+56 0 0
+0d0+0 0 0
+S
+#5662
+~
+
+~
+56 0 2
+0d0+0 0 0
+S
+#5663
+~
+
+~
+56 6152 0
+0d0+0 0 0
+S
+#5664
+~
+
+~
+56 0 11
+0d0+0 0 0
+S
+#5665
+~
+
+~
+56 0 2
+0d0+0 0 0
+S
+#5666
+~
+
+~
+56 0 11
+0d0+0 0 0
+S
+#5667
+~
+
+~
+56 0 11
+0d0+0 0 0
+S
+#5680
+Pokemon Quest Room~
+This is one of the rooms for the Pokemon quest
+~
+56 0 1
+0d0+0 0 0
+S
+$

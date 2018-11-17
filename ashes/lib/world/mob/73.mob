@@ -1,0 +1,648 @@
+#7300
+bully~
+a bully~
+A bully sits on the swing, kicking the little kids away.
+~
+The bully is a tall, chubby kid.  You think he may be growing
+a bit too fast for his age - he doesn't seem to know quite what
+to dowith his arms and legs.  He's wearing a T-shirt, and a small
+pair of boots.  He's picking on all the smaller kids, stealing
+their lunch money and making them cry.  How rude!
+~
+4194314 0 -1000 W3
+7 5 5 8d6+20 2d7+2
+3000 10000
+6 6 1
+16 0 10 10 13 13 0
+0 2 0
+50 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#7301
+student~
+a Map student~
+A student stand here looking at the map
+~
+It's a student.
+~
+4194506 0 0 W3
+1 1 10 2d2+10 1d1+0
+20 90
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#7302
+Principal Jack~
+Principal Jack~
+Principal Jack is standing here.
+~
+This man is definately the principal of the school.  The power
+that you feel radiating from him is like none you have ever
+felt before, yet it does not appear that he outwardly menaces or
+attempts to control the students under his power.  Perhaps you
+could learn a few lessons from this man.
+~
+4489227 16777352 500 W3
+75 20 -100 20d20+20000 1d1+0
+18794 2500
+8 8 1
+13 0 13 13 13 13 0
+3 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#7303
+Nurse~
+the ABC nurse~
+The ABC nurse looks more then ready to help.
+~
+Looking at the ABC nurse, you have the strong desire to drool and
+bellow HEEEELLLLLLOOO NURSE!! As you close your mouth and repress
+this desire, she turns around and looks in your direction.
+~
+294920 128 800 W3
+24 17 4 7d10+50 5d5+10
+100 1000
+8 8 2
+13 0 18 18 13 13 0
+0 2 0
+40 0 2 0 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#7304
+Mud school Student~
+Mud school student~
+There is a mud school student wandering around.
+~
+This student looks like he'd rather be out having a good time
+than be stuck in school.  He's just a normal-looking student,
+nothing special.
+~
+4194440 0 0 W3
+3 4 8 1d2+5 1d1+0
+10 1500
+8 8 0
+13 0 10 13 13 13 0
+0 1 0
+80 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#7305
+Considering Student~
+Considering Student~
+The student here seems to be looking at something considering the worth.
+~
+This student looks at his target and is trying to consider if
+he could take it in a fight or if it would kick his butt.  He
+doesn't seem to be sure though.
+~
+4194318 0 10 W3
+3 4 8 3d3+10 1d2+1
+20 1500
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+80 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#7306
+member team player~
+a player~
+A member of the "Players" team stands here.
+~
+They are of average height for there age. They're wearing red,
+white, and blue uniforms. White socks with red shorts with a blue
+stripe on each side and a blue shirt with red and white stripes.
+~
+4194314 0 1000 W3
+3 2 10 10d3+5 2d3+1
+250 1500
+8 8 1
+9 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#7307
+mob monster team member~
+a monster~
+A team member of "Monsters" stands here.
+~
+They are a little larger and bigger builter then the team
+members of the players. They are wearing black and orange
+uniforns. Orange socks with black stripes, orange shorts with
+black stripes and a black shirt with a skull and cross bone
+on the front and the team name on the back.
+~
+4194314 0 -10 W3
+5 4 8 10d3+10 3d2+3
+450 10000
+8 8 0
+15 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#7308
+third base coach~
+third base coach~
+The third base coach stands here.
+~
+This is one of the older kids. He seems to know what he is doing.
+He is wearing a black and white uniforms since he is on neither team.
+~
+4194314 0 0 W3
+7 6 8 2d30+10 1d8+5
+100 8000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#7309
+umpire ump~
+a umpire~
+An umpire stands here.
+~
+He is a teacher at this school. You have seen him before in one
+of the classrooms. He is wearing a black and white umpires uniform
+with a whistle around his neck.
+~
+4194314 0 0 W3
+5 6 7 2d30+10 2d4+1
+50 3000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#7310
+vice principal~
+Vice Principal~
+The mudschool's Vice Principal stands here with your diploma in his hand.
+~
+He is a average built, middle aged guy. He has a VERY receded
+hairline. Guess these students have started to get on his nerves.
+He is wearing a gray pinstriped suit that looks to be out of date.
+He is wearing a small pair of reading glasses so he makes sure you
+get the right diplomia.
+~
+4194314 0 1000 W3
+3 3 9 10d2+10 1d3+2
+500 1500
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+90 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#7311
+mudschool graduate~
+mudschool graduate~
+A mudschool graduate stands here getting his diploma.
+~
+He is a wearing a graduation cap and gown made of paper. He is of
+average build and height. 
+~
+4194314 0 500 W3
+3 3 9 2d6+5 2d2+2
+350 1500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#7312
+bug bugs~
+bug~
+There is a bug creeping around here.
+~
+The bug looks slimy and icky.  You don't want to have to pick it
+up because of all the goo coming off from it.
+~
+4194314 0 0 W3
+1 1 7 3d2+2 1d1+1
+0 1200
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+70 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 10
+~
+#7313
+Newbies 'R' Us shopkeeper~
+Newbie's 'R' Us Shopkeeper~
+The Newbies 'R' Us shopkeeper stands here trying to sell you some goods.
+~
+A short, roly-poly man beams at you from underneath his fringe
+of white hair.  He gives you a friendly wave and bellows a
+greeting as you come through the door.  It is utterly impossible
+to be near this man and not feel welcome.  Of course, you could
+probably do without half of the stuff he wants you buy, but
+he's so nice about it who can say no?
+~
+4218890 0 1000 W3
+127 40 -100 1d1+30000 2d2+5
+100000 0
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#7314
+wimpy student ~
+Wimpy student~
+There is a student here fleeing from the nasty looking teacher.
+~
+This student looks absolutly terrified of the teacher.  He is trying 
+to get out of the room, befor the teacher kills him for what he did.
+~
+4194442 0 10 W3
+3 4 8 2d3+2 1d2+0
+20 1500
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+80 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#7315
+student reappear~
+Quitting Student~
+A student has just reappeard here.
+~
+The student looks very happy as she seems to have figured out
+how to quit without losing her equipment.  But she knows that
+if she does ever lose equipment she can always talk to an immortal.
+~
+4194314 0 10 W3
+3 5 7 3d4+2 2d1+1
+30 1500
+8 8 2
+13 0 13 13 13 13 0
+0 1 0
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#7316
+Deathtrap Student~
+Deathtrap student~
+There is a student here looking around carefully.
+~
+The student if looking very carefully in every possible direction,
+before he takes even one step.
+~
+4194314 0 0 W3
+3 6 8 2d4+1 2d2+0
+30 500
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+80 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#7317
+mudschool guard~
+MudSchool Guard~
+A MudSchool Guard stands here only allowing the newbies pass into the school.
+~
+This guard is one tough looking woman.  She's 6'3, and wearing
+a muscle shirt that displays muscles which make you feel like
+quite a girly man. You take one look at her and you can tell that
+she is the type of person who is proficient in types of martial
+arts that you can't even pronounce. She also seems to be very
+agile, and you can tell she will be HARD to hit. Her uniform is
+dark blue, and there is a gun in her holster.  You'd better not
+mess with her - you won't live to regret it.
+~
+319498 131208 1000 W3
+200 40 -100 100d20+30000 1d1+1
+25000 3000
+8 8 2
+18 100 13 13 18 13 0
+0 5 0
+-1000 0 2 0 200 0
+10 10 10 10 10
+63 0 0
+6 0
+~
+#7318
+help helping student students~
+Help student~
+There is a student here looking through a VERY big book.
+~
+This student seems to be trying to find something in the book in
+front of her.  She seems to be having trouble because of all the
+cross referancing, but she finally finds it and goes onto another
+topic.
+~
+4194314 0 0 W3
+2 5 9 3d3+3 2d1+1
+40 900
+8 8 2
+13 0 13 13 13 13 0
+0 1 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#7319
+student~
+Recall Student~
+A student has suddenly appeared here.
+~
+It's a student all right.
+~
+8 0 0 W3
+1 1 10 2d2+30 1d1+0
+8 450
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#7320
+BBarney Commando~
+a KILLER Barney Commando~
+A KILL Barney Commando is here, guarding Barney..
+~
+~
+30731 393344 -1000 W3
+127 30 -7 100d100+3500 6d7+30
+40000 0
+8 8 1
+18 0 13 13 13 13 0
+10 5 0
+-70 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#7321
+Barney fanatic's mother~
+a Barney Fanatic's loving mother~
+a Barney Fanatic's loving mother stands here, smilling happily...
+~
+~
+12809 65664 -1000 W3
+66 25 -5 20d100+3500 6d6+30
+25000 0
+8 8 1
+13 0 13 13 13 13 0
+20 5 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#7322
+Barney Fanatic~
+a little Barney Fanatic~
+a liitle Barney fanatic is here, making people puke..
+~
+~
+10252 128 -1000 W3
+63 20 -6 10d10+2600 7d4+25
+20000 0
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#7323
+Barney~
+Barney, the BIG purple ALIAN!~
+Barney stands here spreading his filthy happiness!
+~
+~
+8203 131200 -1000 W3
+127 35 -10 100d10+10345 8d5+35
+381000 0
+8 8 1
+18 0 13 13 13 13 0
+8 5 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#7324
+student~
+Door Student~
+A student is opening a door here.
+~
+Yep. It's a student.
+~
+8 0 0 W3
+2 2 8 2d2+50 1d2+1
+20 850
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#7325
+student~
+ID student~
+A student stands here reciting a scroll.
+~
+It's a student alright.
+~
+8 0 0 W3
+1 1 9 3d3+35 1d1+1
+10 666
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#7326
+mistdemon demon~
+a mistdemon~
+A demon suddenly appears out of the mist in front of you.
+~
+It looks as if the demon is created completly from mist so it might be
+difficult to hit.
+~
+104 0 -50 W3
+5 3 5 5d4+90 3d3+1
+0 2000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 10
+~
+#7327
+boy king boyking~
+Sandcastle king~
+A boy sits here on a throne of sand and he has dubbed himself king.
+~
+This is the boy that has created this sandcastle for him and his friends,
+the mist demons, to play in.  He's going to give you one chance to get
+out of here, but after that he is more than willing to kill you.
+~
+4194378 0 0 W3
+0 5 3 6d4+150 2d3+2
+0 12000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+30 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#7328
+mistdemon demon~
+a mistdemon~
+A demon suddenly appears out of the mist in front of you.
+~
+It looks as if the demon is created completly from mist so it might be
+difficult to hit.
+~
+4194376 0 -50 W3
+5 3 5 5d4+90 3d3+1
+0 2000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#7336
+dr armitage~
+Dr. Armitage~
+This insane doctor is murmuring something intelligable.
+~
+~
+9 524290 0 W3
+10 0 2 100d1+0 1d20+0
+666 20000
+8 8 0
+13 0 13 13 13 13 0
+10 2 1
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#7350
+pirate~
+Little Pirate~
+A small pirate is here snarling at you..
+~
+You see here a young boy, dressed as a pirate and playing some
+game. Yet, he snarls at you in seriousness and brandishes his
+tiny sword in a very meanacing manner.  It is distressing to see
+this small boy dressed in rags...I wonder where his parent area.
+~
+78 0 200 W3
+4 5 5 10d2+0 1d6+0
+50 650
+8 8 1
+12 0 5 11 15 14 0
+0 1 0
+50 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#7351
+Head~
+Big Head~
+You are startled by the big head that greets you..
+~
+You look at this hideous head..which is beginning to remind
+you of one of those stupid japanese "B" movies you watched
+as a child.  Hmm..he holds a nice item...
+~
+8265 136 0 W3
+7 1 2 50d1+1 2d5+1
+500 5000
+8 8 0
+13 0 13 13 13 13 0
+19 4 0
+20 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#7399
+mudschool training dummy~
+Mudschool's training dummy~
+A MudSchool Training Dummy is lying on the floor here.
+~
+It is the height of a average man. The dummy has alot of holes in it from
+years of us.
+~
+10 512 0 W3
+3 0 9 5d5+20 2d2+2
+150 0
+4 4 0
+13 0 13 13 13 13 0
+0 5 0
+90 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+$

@@ -1,0 +1,382 @@
+#11500
+ghost~
+a ghost~
+A ghost is haunting you.
+~
+The ghost can barely be seen, but it sure is frightening!
+~
+72 2 -500 W3
+11 10 10 5d5+100 4d4+4
+1000 10000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#11501
+skeleton~
+a skeleton~
+A skeleton is here, getting ready to attack you.
+~
+You see an enchanted arrangement of bones leering at you.
+~
+1608 524288 -200 W3
+4 0 10 4d4+40 2d2+4
+50 750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#11502
+zombie~
+a zombie~
+A zombie is wandering around.
+~
+You see a walking, decaying corpse filled with worms and surrounded by flies.
+~
+72 0 -200 W3
+5 0 10 3d3+40 1d6+5
+15 1000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#11503
+vampire~
+the vampire~
+The evil vampire creeps out of shadows.
+~
+You see a fanged man who comes from the shadows of night.
+~
+3656 8388652 -500 W3
+10 7 0 10d8+6 3d6+2
+200 1700
+8 8 1
+13 0 13 13 13 13 0
+0 2 1
+0 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#11504
+vampire lord~
+the Vampire Lord~
+A malevolent vampire glares hungrily at you.
+~
+A tall pale skin figured humanoid looms before you. It'd the Vampire Lord! Glowing red
+eyes peer out from his dark ankle length cloak. Long shiny front teeth gleam
+with evil as a drop of blood trickles down his left cheek. Prepare to die!
+~
+2155 128 -500 W3
+67 40 -10 20d10+1000 6d6+20
+10000 75000
+8 8 1
+18 100 15 15 18 13 0
+9 2 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#11505
+lich~
+a lich~
+An evil lich lurks here.
+~
+You see an abomination of evil.  A magic skeleton enshrouded in darkness,
+lurches over you.
+~
+26795 524416 -400 W3
+43 25 -5 5d5+500 5d5+5
+10000 50000
+8 8 0
+13 0 13 13 13 13 0
+8 2 1
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#11506
+jeffrey jef dahmer jeff~
+Jeffrey Dahmer~
+Jeffrey Dahmer is here, serving up a fabulous appetizer.
+~
+You see a decayed figure of a man.  He has greyish skin, as if he himself
+has crossed over into the world of darkness.
+~
+10250 8388648 -700 W3
+47 60 -5 10d10+2500 7d7+20
+375 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#11507
+samhain necromancer man~
+Samhain~
+Samhain sits here on his throne glaring at you with an evil grimace.
+~
+You see a dark, evil, old man.  He has a long, silver beard, a blackened face
+(quite resembling an ancient corpse), and boney, withered hands.  He wears 
+a frayed, blackened robe and holds a marvelous cane.  You should think
+twice about using magic against him!
+~
+3594 8388740 -1000 W3
+39 40 -5 10d10+1000 5d5+10
+25000 60000
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11508
+ghoul~
+a ghoul~
+A ghoul is lurking around, looking for flesh to eat.
+~
+You see a walking, decaying corpse.
+~
+232 40 -400 W3
+3 1 7 2d8+2 1d8+0
+50 300
+8 8 0
+13 0 13 13 13 13 0
+0 2 1
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 10
+~
+#11509
+skeleton skeletal guard guardian~
+the skeletal guardian~
+A skeletal guardian is guarding the king.
+~
+You see a skeleton wearing magical armor and holding a huge sword.
+~
+10 40 -800 W3
+12 13 10 2d100+50 2d8+2
+2000 11000
+8 8 0
+13 0 13 13 13 13 0
+0 2 1
+100 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#11510
+shadow demon~
+the shadow demon~
+A shadow demon is hiding in the shadows, waiting for a kill.
+~
+You see a dark shadow.
+~
+2152 8912936 -1000 W3
+3 6 10 2d30+5 2d5+0
+200 2250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 10
+~
+#11525
+yujdgek vampire troll~
+Yujdgek~
+Yujdgek stands here guarding the way.
+~
+You see a small troll before you. Standing only 5 feet in stature, this little
+guy with his bulging muslces can pack a real wallop! He must be guarding something special.
+~
+321547 132 -1000 W3
+39 30 -5 10d10+350 5d5+10
+0 60000
+8 8 1
+18 100 13 13 18 13 0
+20 2 0
+-50 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11526
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11527
+vampire bat~
+a vampire bat~
+A vampire bat swoops in and tries to bite you.
+~
+The gnarled face of a vampire bat hovers in front of your face. Armed with
+sharp poisonous fangs, it goes for your neck!
+~
+73 8388648 -1000 W3
+3 60 10 2d30+5 2d5+0
+200 2250
+8 8 0
+13 0 13 13 13 13 0
+6 0 0
+100 4 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 10
+~
+#11576
+Leila Vampiress vampire queen~
+Leila, Queen of vampires~
+Leila , Queen of vampires appears from the mist.
+~
+Beautiful as a summer day, Liela, looks out of place down here. Long flowing
+red hair decorates her head while, puppy dog eyes peer out from her wonderful
+figure. If not for the 2 inch fangs emmiting from her mouth, you would consider
+taking her home to meet mom.
+~
+4168 128 -1000 W3
+51 40 -30 30d10+2700 5d5+15
+153000 150000
+8 8 2
+16 0 13 13 15 13 0
+0 2 0
+-300 0 2 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#11578
+Soul lost ghost~
+a wondering soul~
+A wondering soul weeps before you.
+~
+Caught between good and bad, this soul has been banished to this desolate 
+location. The apparition approaches you as you enter.
+~
+138 136 0 W3
+51 40 -27 6d70+90 4d5+25
+50000 100000
+8 8 0
+16 0 13 13 15 13 0
+0 2 0
+-270 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11585
+Ursula zombie lost~
+Ursula the deformed zombie~
+A deformed zombie gropes at you.
+~
+Banished because of his deformed appearance a large zombie stands before you.
+Standing 7'0" tall with 3 eyes, Ursula, doesn't even fit in down here and has
+been sent to separate chambers. She is not very happy and plans on taking her
+aggressions out on you!
+~
+11 2177 -1000 W3
+50 40 -20 1d1+2000 4d5+25
+100000 125000
+8 8 2
+16 0 13 13 15 13 0
+9 2 0
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11590
+vampire women vampiress~
+a vampiress~
+A vampiress stands before you.
+~
+The female counterpart of the vampires found in the castle, this women vampire
+glows with a nasty smelling aura that gives you the impression she might be
+a little tougher than the vampires found above.
+~
+33288 0 -500 W3
+20 15 -10 10d10+0 2d5+5
+300 5000
+8 8 2
+16 0 13 13 15 13 0
+0 2 0
+-100 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#11598
+Crypt Keeper corpse~
+the Crypt Keeper~
+The Crypt Keeper decomposes before you.
+~
+Centuries old, the Crypt Keeper has been telling stories that leave grown men
+weeping in puddles. Made of decomposed flesh and bones, he sits here and 
+enjoys his seductive vampiresses. Startled by your appearance, he jumps to 
+attack.
+~
+4138 2184 -1000 W3
+79 65 -27 50d100+2000 5d5+50
+100000 100000
+8 8 0
+16 0 13 13 15 13 0
+0 2 0
+-270 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#11599
+hell hound hellhound~
+a hellhound~
+A Hellhound stands here, guarding the gate.
+~
+You see a small powerful dog standing here.  He is made of pure concrete.  His
+eyes glow brightly now that you are close to him.  You think you can here
+a glow in the bowels of his soul.
+~
+296970 132 -1000 W3
+39 30 -5 10d10+300 5d5+10
+0 60000
+6 8 0
+13 0 13 13 13 13 0
+0 2 0
+-50 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

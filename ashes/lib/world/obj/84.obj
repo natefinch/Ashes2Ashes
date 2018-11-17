@@ -1,0 +1,677 @@
+#8400
+broad sword broadsword~
+a broadsword~
+A well-crafted broadsword lies here~
+~
+5 8192 8193 0
+0 0 0
+0 7 2 3
+8 1000 0
+#8401
+plate mail platemail suit~
+a suit of platemail~
+A sturdy suit of plate mail lies in a heap~
+~
+9 9457664 9 0
+0 0 0
+7 0 0 0
+20 10000 0
+#8402
+key~
+a key~
+~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#8403
+girdle giant strength str~
+Girdle of Giant Strength~
+A thick leather girdle with a huge iron buckle~
+~
+9 9457666 2049 0
+0 0 0
+2 0 0 0
+10 1500 0
+A
+1 2
+A
+18 1
+#8404
+pot enchanted~
+an enchanted pot~
+A pot big enough to fit over your head lies here~
+~
+9 129 17 0
+0 0 0
+8 0 0 0
+12 15 0
+A
+2 -2
+#8405
+staff magi~
+the Staff of the Magi~
+An ornate oak staff inlaid with jewels hovers inches above the ground
+~
+~
+1 10412096 16385 0
+0 0 0
+0 0 -1 0
+3 15000 0
+A
+10 15
+A
+13 2
+#8406
+staff magi~
+the Staff of the Magi~
+A magnificent jeweled staff hovers before you, waiting for a new master
+~
+~
+1 10412099 16385 0
+0 0 0
+0 0 -1 0
+2 150000 0
+A
+13 3
+A
+10 15
+#8407
+staff black blackstaff~
+the Blackstaff~
+A staff of pure black stands upright by itself~
+~
+5 10412098 8193 0
+0 0 0
+0 7 4 7
+10 50000 0
+A
+13 4
+#8408
+small part mystra power~
+a Small Part of Mystra's Power~
+A Glowing field of blue-white energy floats before your eyes~
+~
+11 704865 16385 0
+0 0 0
+0 0 0 0
+0 1000 0
+A
+13 4
+A
+10 25
+#8409
+holy symbol mystra~
+a Holy Symbol of Mystra~
+A small disk with a gold chain glitters invitingly from the ground~
+~
+11 968001 5 0
+0 0 0
+0 0 0 0
+1 50 0
+A
+23 -3
+A
+13 2
+#8410
+life stone lifestone~
+the Lifestone~
+A lump of stone on a chain wills you to pick it up~
+~
+9 450 5 0
+0 0 0
+2 0 0 0
+3 25000 0
+A
+14 5
+#8411
+hole portable~
+a portable hole~
+There's a hole in the floor~
+~
+15 64 16385 0
+0 0 0
+300 1 0 0
+0 4000 0
+#8412
+dagger~
+a blood-dripping dagger~
+A discarded dagger lies her, covered in blood
+~
+~
+5 512 24577 0
+0 0 0
+0 2 4 11
+2 100 0
+#8416
+ring elemental water command~
+a Ring of Elemental Command: Water~
+A large bulky ring, depicting a water scene, rests here.~
+~
+22 65 3 0
+0 0 0
+0 0 0 0
+2 60000 0
+E
+ring elemental water command~
+This ring is big and bulky, but in the water your as dexterous as can be.
+Attuned to the Elemental Plane of Water, this ring gives command 
+over that element, which means you don't even need a boat to safely
+travel across the water...how neat!
+~
+#8417
+keg smokepowder small~
+a small keg of smokepowder~
+A small, smelly keg of something-or-other is on the ground here.~
+~
+3 12 16385 0
+0 0 0
+20 1 1 26
+25 70000 0
+A
+12 -30
+A
+4 -3
+E
+keg smokepowder small~
+   Smokepowder is the common man's fireball, and the bane of every
+mage (as well as everyone who hates huge explosions). When touched
+off, smokepowder explodes just like the mages' spell 'fireball'.
+   Smokepowder was first introduced to the Realms by Gond himself,
+as a gift to his followers after the Time of Troubles.
+~
+#8418
+rod divining~
+a divining rod~
+A small metal rod with a prism at one end lies here.~
+~
+3 0 16385 0
+0 0 0
+10 3 3 44
+6 12000 0
+E
+rod divining~
+Odd...you'd think that a "divining rod" would find water, or detect
+something. Obviously, truth-in-labelling laws aren't enforced here.
+~
+#8419
+scroll instantaneous travel~
+a scroll of instantaneous travel~
+A scroll with confusing writing is waiting to be read.~
+~
+2 0 1 0
+0 0 0
+20 2 2 2
+2 1000 0
+E
+scroll instantaneous travel~
+   The only word you can make out on the scroll is......."teleport".....
+TELEPORT!!!! And to think, if you hadn't read this you could be who-
+knows-where by now. You make a mental note to strangle that cheating
+merchant who sold you this.
+~
+#8420
+teal potion seeinvis see invis~
+a teal potion of see invisible~
+A pretty teal potion is just lying on the ground.~
+~
+10 32 1 0
+0 0 0
+35 19 0 0
+2 1000 0
+E
+teal potion seeinvis see invis~
+If you can see this, the potion is working. :)
+~
+#8421
+iron rations food~
+some iron rations~
+Various yucky foods that are good for you, lie scattered about.~
+~
+19 0 1 0
+0 0 0
+10 0 0 0
+5 50 0
+E
+iron rations food~
+This isn't the most appetizing food in the world, but it's nutritious as
+all get-out. Pinch your nose closed and chow down.
+~
+#8422
+lantern kerosene light~
+a kerosene lantern~
+A kerosene lantern lies on the ground, upright (not spilling kerosene).~
+~
+1 0 16385 0
+0 0 0
+0 0 150 0
+5 200 0
+A
+12 5
+E
+lantern kerosene light~
+It's a hooded lantern fueled by kerosene. It looks full enough to burn
+for hours, perhaps even days on end.
+~
+#8423
+waterskin canteen water skin~
+a waterskin~
+A waterkin lies on the ground.~
+~
+17 0 1 0
+0 0 0
+50 50 0 0
+55 800 0
+#8424
+pack professional adventurer's backpack~
+a professional adventurer's backpack~
+A big backpack with all sorts of pockets and pouches rests here.~
+~
+15 0 1025 0
+0 0 0
+100 0 0 0
+6 1200 0
+#8425
+map~
+a map of the Realms~
+A parchment map of the Realms is just sitting there on the ground.~
+~
+2 0 1 0
+0 0 0
+1 42 0 0
+1 10000 0
+E
+map~
+The map shows the northern portion of the Forgotten Realms. To the
+north of Waterdeep (where you got this map) is the dwarven city of
+Mithril Hall. To the east is the Great Desert of Anauroch. Past the
+desert to the east, there is the town of Shadowdale, and to the northeast
+of that is the city of Zhentil Keep. You also note that the desert may be
+avoided by taking the soutern route around the desert, which runs due
+east out of Waterdeep.
+~
+#8450
+scimitar Twinkle~
+Twinkle~
+A magnificent jeweled scimitar lies on the ground~
+~
+5 9105473 8193 0
+0 0 0
+0 6 5 3
+3 2000 0
+A
+17 4
+A
+16 -10
+E
+twinkle scimitar~
+Twinkle has a very sharp edge, and the curving blade common to all
+scimitars. It glows to warn its wielder of danger, allowing them to respond
+quickly to any attack.
+~
+#8451
+icingdeath scimitar~
+Icingdeath~
+A cold steam rises off a finely crafted scimitar
+~
+~
+5 9105473 16385 0
+1 0 0
+0 9 3 3
+5 20000 0
+A
+17 4
+A
+18 3
+E
+scimitar icingdeath~
+The blade of Icingdeath is made of silver, with a diamond edge. The hilt is 
+crafted of adamantite. You can feel the slight pull of the blade toward the 
+hottest thing near you....it seeks to destroy fire.
+~
+#8452
+chain dwarven finely shirt mail~
+a finely crafted dwarven chain mail shirt~
+A finely crafted dwarven chaim mail shirt lies here~
+~
+9 4096 9 0
+0 0 0
+8 0 0 0
+6 2000 0
+A
+2 2
+#8453
+bracers bracer speed~
+Bracers of Speed~
+An enchanted bracer lies here
+~
+~
+9 8400962 4097 0
+0 0 0
+3 0 0 0
+2 5000 0
+A
+2 2
+A
+17 -2
+#8454
+aegis fang aegisfang hammer~
+Aegis-Fang~
+A huge hammer made of adamantite and mithril, lies here
+~
+~
+5 8679746 8193 0
+0 0 0
+0 5 6 12
+25 135000 0
+A
+18 4
+A
+11 30
+E
+aegis fang aegisfang hammer~
+  This hammer was the ultimate achievement of Bruenor Battlehammer. The head of
+the hammer is was made from a single block of mithril, and the handle from a rod of 
+adamantite. Inscribed on the head are runes depicting the holy symbols of the
+dwarven gods, Clangeddin and Moradin, both of which are obscured by a rune of
+Dumathoin, the Keeper of Secrets Under the Mountain.
+~
+#8455
+biceps wulfgar huge~
+Wulfgar's Huge Biceps~
+Someone's huge biceps lie here. Wow, 30 inches around!
+~
+~
+9 8679424 257 0
+0 0 0
+4 0 0 0
+40 500 0
+A
+17 2
+A
+18 2
+E
+biceps wulfgar huge~
+  Wulfgar's strength was legendary. In feats of physical strength, no mortal could
+stand against him. With his strength, maybe YOU could be jmust like Wulfgar.
+~
+#8456
+shield battlehammer clan mug ale foaming~
+Shield bearing the Clan Battlehammer Crest~
+A sield with a crest depicting a foaming mug of ale, rests here~
+~
+9 9719808 513 0
+0 0 0
+16 0 0 0
+20 100000 0
+A
+5 2
+A
+12 -15
+#8457
+bruenor plate mithril ancestral armor~
+Bruenor's Ancestral Armor~
+A prefectly crafted suit of mithril plate armor lies under centuries of dust~
+~
+9 8679432 9 0
+0 0 0
+14 0 0 0
+50 350000 0
+A
+11 20
+A
+12 -20
+#8458
+taulmaril heartseeker bow~
+"Taulmaril," the Heartseeker~
+An elven-crafted bow leans up aginst the wall~
+~
+5 9089024 8193 0
+0 0 0
+0 2 8 9
+3 80000 0
+A
+17 2
+A
+18 2
+#8459
+cat eye head headband jewel ruby~
+the Cat's Eye~
+A headband with a red jewel in it sits neatly folded on the ground~
+~
+11 0 17 1024
+0 0 0
+0 0 0 0
+1 10000 0
+E
+cat eye head headband jewel ruby~
+  This small circlet, when worn, allows the wearer to see in the dark as if it were
+lit by pale startlight. Unlike most forms of infravision, the Cat's Eye does not 
+cause the wearer's eyes to glow red, giving an advantage in stealth.
+~
+#8460
+halfling gem ruby~
+the Halfling's Gem~
+A gem lies in the dirt...and you find yourself....staring at it...for a long time...fascinated~
+~
+4 163916 16385 0
+0 0 0
+24 4 3 7
+2 50000 0
+E
+halfling gem ruby~
+  Maybe looking at this gem wasn't the brightest thing to do. You feel your eyes
+being drawn into facets within facets of this most hypnotic of precious stones.
+You could have been looking at it for minutes, hours, or days...it doesn't matter
+you are endlessly fascinated with it.
+~
+#8461
+sabre sword~
+Artemis Entreri's sabre~
+A well-balanced sabre is on the ground here~
+~
+5 8532032 8193 0
+0 0 0
+0 5 5 3
+5 1000 0
+#8462
+jewel dagger jewelled gem emerald encrusted~
+an emerald encrusted dagger~
+A dagger is stabbed into the ground here~
+~
+5 8402947 24577 0
+0 0 0
+0 7 3 11
+1 20000 0
+A
+18 3
+A
+17 3
+E
+dagger~
+In looking at the dagger, you accidentally touch the blade. What you feel is
+the dagger pulling on your life force, like a vampire! Since you are also the
+one holding the dagger, you feel the life returning to you through the hilt.
+Though beautiful, with it's shining blade and emeralds everywhere, this is
+an evil thing.
+~
+#8463
+razor sharp steel bands band armor~
+Razor-sharp bands of steel~
+Some bands of steel look like they might fit on you as "armor"~
+~
+11 8810512 9 0
+0 0 0
+1 0 0 0
+20 200 0
+A
+18 3
+A
+11 -50
+#8464
+sharp glove spiked razor~
+Razor-sharp Spiked Gloves~
+A glove with nasty-looking spiked lies here...puttting it on might be dangerous~
+~
+11 8810496 129 0
+0 0 0
+0 0 0 0
+4 150 0
+A
+18 3
+A
+11 -5
+#8465
+spiked helmet spike spiked~
+Helmet with a 2 foot spike~
+A spiked helmet....looks like it would hurt....to be the one using it~
+~
+9 0 17 0
+0 0 0
+-20 0 0 0
+10 1200 0
+A
+18 2
+A
+17 2
+#8466
+keg holy water mead fountain huge~
+a keg of holy water~
+A huge keg of holy water rests on a pedestal, inviting you to drink.
+~
+~
+23 0 1 0
+0 0 0
+2000 2000 1 0
+2005 20000 0
+E
+keg holy water~
+This batch of holy water went bad....not enough kick! The dwarves certainly
+wouldn't mind if you took it off their hands.
+~
+#8467
+keg holy water mead fountain huge~
+a huge keg of holy water~
+A huge keg of holy water rests on a pedestal, inviting you to drink.
+~
+~
+23 0 0 0
+0 0 0
+2000 2000 4 0
+2005 20000 0
+E
+keg holy meal ale water~
+hehe, it figures!
+The dwarves' idea of holy water is blessed ale. Wouldn't want to offend their
+gods...drink up!~
+#8468
+dented helm one horned ~
+a dented, one-horned helm~
+A battered old helm lies here, with one horn broken off~
+~
+9 8679424 17 0
+0 0 0
+8 0 0 0
+5 500 0
+A
+18 1
+A
+5 2
+E
+helm dented one horned~
+This old helm is every bit as valuable to Breunor as his crown. He has worn it
+in more battles than most men could fight in two lifetimes. The dent and the
+broken horn were a result of a particularly nasty encounted wih some orcs and
+barbarians.
+~
+#8469
+crown mithril hall bruenor battlehammer garumn helmet gem jewel gems jewels~
+the Crown of Mithril Hall~
+A helmet ringed with a thousand gems rests reverently on a pedestal.~
+~
+9 8942592 17 0
+0 0 0
+8 0 0 0
+12 20000 0
+A
+11 20
+A
+17 2
+E
+crown mithril hall breunor battlehammer garumn helmet jewels gem jewel gems~
+Last worn by Breunor's grandfather, Garumn Battlehammer, this crown is a
+typical dwarven mix of asthetics and practicality. While is is made of gold, and
+has thousands of gems and jewels arouns it, it also provides excellent defense.
+The only magic that dwarves make fgrequent use of is the kind that strengthens
+weapons and armor, and they spared little magic on protecting their King.
+~
+#8470
+bracelet dragon scales shimmering black scales~
+a bracelet of shimmering black dragon scales~
+A few scales from a blacker-than-black dragon lie here~
+~
+9 131584 4097 0
+0 0 0
+5 0 0 0
+4 24000 0
+A
+18 2
+A
+13 2
+#8471
+bracelet dragon scales blacker black scales~
+a bracelet of blacker-than-black dragon scales~
+A few scales from a blacker-than-black dragon lie here~
+~
+9 133632 4097 0
+0 0 0
+5 0 0 0
+4 24000 0
+A
+18 2
+A
+10 20
+#8472
+mine car minecar~
+a minecar~
+A minecar is parked here, as dwarves fill it with mithril.
+~
+~
+15 16 0 0
+0 0 0
+5000 0 0 0
+500 2000 0
+#8473
+mithril chunk raw mined newly~
+a chunk of newly mined mithril~
+A chunk of mirthil is lying among other raw minerals~
+~
+8 0 1 0
+0 0 0
+0 0 0 0
+10 50000 0
+#8499
+sign note crate crates shipping greeting~
+the Zone Greeting Sign.~
+A stack of shipping crates is here, with a note tacked to it (READ NOTE).~
+~
+0 20 0 0
+0 0 0
+0 0 0 0
+2000 50 0
+E
+sign note crate crates shipping greeting~
+                   Welcome to the Forgotten Realms, friend!
+   The vast region is full of interesting people and places. With luck, you may be able to
+explore all the Realms. However, be warned. Outside of Waterdeep the world can be a
+very dangerous place. If you are low level, you probably don't want to venture outside the
+gates of the city alone. Also keep in mind that only the most heinous (and brainless) of
+mobs will attack you without reason. For the most part, many of them will leave you alone.
+For those that are agressive, you should be able to tell from context. If you pay attention
+to descriptions and room names, you should be ok.
+   Have Fun!! I hope you enjoy my little world :)
+
+-Shifter 11/96
+~
+$

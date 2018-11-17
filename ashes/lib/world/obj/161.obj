@@ -1,0 +1,1447 @@
+#16100
+well stone~
+a stone well~
+A well maintained stone well sits here, providing Tam with water.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 15 0
+10000 0 0
+#16101
+simple key~
+a simple key~
+A short silver key with the word Tam etched into it.~
+~
+18 4 5 0
+0 0 0
+0 0 0 0
+2 1 1
+#16102
+waterskin water~
+a Waterskin~
+A simple waterskin lies here, made of leather.~
+~
+17 0 2049 0
+0 0 0
+250 250 0 0
+255 1000 1000
+A
+16 -6
+A
+8 2
+A
+17 1
+#16103
+cheese~
+a piece of cheese~
+A yummy piece of cheddar cheese lays here, getting trampled with dirt.~
+~
+19 0 1 0
+0 0 0
+7 0 0 0
+1 0 0
+#16104
+boiling pot~
+a pot full of boiling water~
+A dangerous looking pot of water boils and pops here.~
+~
+17 1052676 16385 0
+0 2 0
+30 12 0 0
+17 5000 5000
+A
+17 2
+A
+18 2
+A
+2 1
+#16105
+spoon~
+a dull spoon~
+A dull spoon has been discarded. You don't know why because it's dull and
+HURTS MORE!~
+~
+5 1052993 24577 0
+0 0 0
+0 3 6 14
+2 100 100
+A
+18 3
+A
+6 1
+A
+17 2
+A
+15 2
+#16106
+bed bump~
+a bed~
+A bed with a huge bump in it, sits here.~
+~
+15 0 0 0
+0 0 0
+400 13 16101 0
+300 20000 20000
+E
+bed bump~
+It looks like a bed with a big bump on it. The bump is probably caused by
+something under it.
+~
+#16107
+gold coin coins~
+a big pile of gold coins~
+A big pile of gold sits here just waiting to be taken.~
+~
+20 0 1 0
+0 0 0
+10000 0 0 0
+1 0 0
+#16108
+sign~
+a welcome sign~
+You see a welcome sign here, better read it!~
+
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+200 1 1
+E
+sign welcome~
+Welcome to The Wheel Turns. This zone is designed for {ALL} but please mind
+that newbies should not leave past the wagon bridge. Travel at your own
+peril, but I think you will like what you find.   Please send any
+errors/questions to HigherAnarchy.
+~
+#16109
+willow bark branch~
+willow bark branch~
+A soothing willow branch rests here.~
+Some bark rubs off a willow bark branch as it soothes $N.~
+3 524608 16385 0
+0 0 0
+60 6 6 75
+3 30000 30000
+A
+14 1
+E
+branch willow bark~
+Made by the wisdom of Emond's field, this branch has healing properties.
+~
+#16110
+table tab~
+a small table~
+A small wooden table sits here cloaked in dust.~
+~
+15 16 1 0
+0 0 0
+100 0 0 0
+9 100 100
+#16111
+bow broken bro bo~
+Rand's broken hunting bow~
+A badly mangled bow sits here undistured.~
+~
+25 102238226 16385 0
+0 0 0
+50 0 5 0
+6 5000 5000
+A
+16 -4
+A
+14 5
+A
+17 3
+A
+18 2
+E
+bow~
+It looks like the Trollocs destroied it in the attack.
+~
+#16112
+Rolling pin~
+a Rolling pin~
+A fine marble rolling pin is here, waiting to help make a nice apple pie.~
+~
+5 0 8193 0
+0 0 0
+0 4 3 6
+9 3320 3320
+#16113
+dress dirty yellow~
+a large yellow dress~
+A large yellow dress is here being eaten by moths.~
+~
+11 0 1025 0
+0 0 0
+0 0 0 0
+4 1000 1000
+A
+11 10
+A
+6 3
+A
+16 -3
+A
+15 2
+E
+dress~
+Tam's wife once wore this dress.
+~
+#16114
+storage bin~
+a storage bin~
+A shiny new storage bin sits here.~
+~
+15 16 1 0
+0 0 0
+300 0 0 0
+25 100 100
+E
+bin~
+It looks like Tam stores food in here.
+~
+#16115
+bread~
+some filling home-made bread~
+Some crusty home-made bread is here making you hungry.~
+~
+19 0 1 0
+0 0 0
+20 0 0 0
+1 10 10
+#16116
+meat beef roast~
+a beef roast~
+A delicious-looking beef roast is lying here.~
+~
+19 0 1 0
+0 0 0
+24 0 0 0
+5 50 50
+#16117
+sign~
+a warning sign~
+You see a warning sign here, maybe you should read it.~
+
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+200 1 1
+E
+sign warning~
+Warning! This point marks the end of the newbie area of The Wheel Turns.
+~
+#16118
+badge rank bad ran~
+a badge of rank~
+A badge of rank lays here, waiting to promote someone.~
+~
+11 33957960 257 0
+0 0 0
+0 0 0 0
+2 1170 1170
+A
+16 -3
+A
+17 1
+A
+18 1
+A
+6 -2
+A
+15 2
+E
+badge rank~
+This badge shows that the wearer is a Trolloc commander.
+~
+#16119
+stench vile~
+Narg's Vile Stench~
+Narg's Vile Stench is here smelling the room up.~
+~
+5 65729 8193 0
+0 0 0
+0 5 5 12
+6 4 4
+A
+5 -2
+A
+16 -2
+A
+18 4
+A
+17 2
+A
+6 -1
+E
+vile stench narg's~
+The smell is so bad you want to gag.
+~
+#16120
+chalice blood~
+a chalice of blood~
+A chalice of blood sits here, waiting to steal your soul.~
+Pierce~
+10 8192 16385 0
+0 0 0
+80 55 4 61
+1 10 10
+#16121
+sword long~
+a nice long sword~
+A long sword has been left here.~
+slash~
+5 8400904 8193 0
+0 0 0
+0 1 20 3
+8 450 10
+#16122
+bones leg huge club~
+a huge club made from human leg bones~
+Some poor guy got his leg cut off here.~
+pound~
+5 4096 24577 0
+0 0 0
+0 5 5 7
+6 500 10
+#16123
+cup brew herbal~
+a herbal brew~
+A herbal brew is here.~
+~
+17 0 1 0
+0 0 0
+5 5 11 1
+10 11 5
+#16124
+leather trousers~
+a pair of leather trousers~
+A simple pair of leather trousers sits here.~
+~
+9 0 33 0
+0 0 0
+6 0 0 0
+4 2000 2000
+A
+16 -1
+A
+14 1
+#16125
+band elegant wedding~
+an elegant wedding band~
+A elegant wedding band sits here, waiting for the perfect groom.~
+~
+11 0 3 0
+0 0 0
+0 0 0 0
+1 35000 5500
+A
+16 -10
+A
+3 1
+A
+15 3
+A
+14 3
+E
+band wedding elegant~
+Made of white gold, this wedding band is quite elegant. Three yellow gold X's
+border a channel of diamonds at its center.
+~
+#16126
+emerald gem~
+a small emerald~
+A small emerald lays here, sparkling in the sunlight.~
+~
+8 0 1 0
+0 0 0
+0 0 0 0
+6 20000 0
+A
+1 1
+#16127
+pearl gem~
+a large pearl~
+A shiny white pearl is here, doing nothing in particular.~
+~
+8 0 1 0
+0 0 0
+0 0 0 0
+6 10000 0
+#16128
+cloak midnight~
+the cloak of midnight~
+The cloak of midnight shades the room.~
+A wave of pure darkness engulfs the room.~
+4 68593800 16389 0
+0 0 0
+80 20 15 29
+4 10 10
+A
+16 -9
+A
+10 15
+A
+13 3
+E
+cloak midnight~
+It's so black, it blocks out the light of everything.
+~
+#16129
+mace charred~
+a charred mace~
+A charred mace lies here, smoldering quietly.~
+~
+5 2240 8193 0
+0 2 1
+0 4 5 6
+10 4000 4000
+A
+5 1
+#16130
+ring wedding~
+an elegant wedding ring~
+A elegant wedding ring is here, waiting for a lovely bride.~
+~
+11 0 3 0
+0 0 0
+0 0 0 0
+1 35000 5500
+A
+4 1
+A
+16 -10
+A
+13 2
+A
+10 10
+E
+ring wedding~
+You see a simple yellow gold band, marked by a white gold channel with four
+small diamonds.  X's mark the channel ends and atop sits a diamond solitare.
+~
+#16131
+medallion silver balance~
+a Silver medallion depicting a balanced scale~
+Silver medallion depicting a balanced scale has been discarded here.~
+A Silver medallion glows brightly.~
+4 35144963 16389 0
+0 0 0
+80 10 10 3
+2 10000 10000
+A
+13 2
+A
+10 10
+A
+6 1
+A
+7 6
+E
+medallion balance med medall bal~
+This Silver medallion has long been the symbol of leadership in the Two
+Rivers.
+~
+#16132
+feedbag~
+a feedbag~
+You see a feedbag lying here, but where's the horse? Darn it we must have
+left it on the roof of the car!!!~
+A horse is a horse, of course of course.~
+3 344 16401 0
+0 0 0
+40 8 6 12
+4 157 157
+A
+8 10
+A
+1 1
+E
+feedbag feed~
+It looks magical.
+~
+#16133
+well vile~
+a vile well~
+A vile well sits here, filled with blood.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 13 0
+10000 1 1
+#16134
+sinister ring~
+a sinister black ring~
+The ring of the black rider sits here, doing the bidding of Ba'alzamon.~
+~
+9 75934432 3 4194304
+0 0 0
+8 0 0 0
+1 30000 30000
+A
+10 5
+A
+13 1
+A
+17 1
+E
+ring sinister~
+Only a high lord in Ba'alzamon service could ever hope to obtain this ring as
+a gift.
+~
+#16135
+stick Nynaeve~
+Nynaeve's stick~
+Nynaeve's stick has been foolishly discarded here.~
+May the winds protect you.~
+3 0 16385 0
+0 0 0
+75 2 1 56
+25 1000000 1000000
+#16136
+pack herb~
+a pack of herbs~
+A packet of herbs has been scattered on the ground.~
+What's that smell? It sure isn't 11 herbs and spices.~
+10 0 16385 0
+0 0 0
+45 57 0 0
+1 10000 10000
+#16137
+cap steel round~
+a round steel cap~
+A round steel cap is on the ground.~
+~
+9 64 17 0
+0 0 0
+8 0 0 0
+5 5000 5000
+A
+14 1
+A
+1 1
+E
+cap round~
+The cap looks like it is made well.
+~
+#16138
+jerkin leather studded~
+a studded leather jerkin~
+A well-crafted studded leather jerkin has been discarded here.~
+~
+9 0 1025 0
+0 0 0
+5 0 0 0
+1 0 0
+A
+16 -2
+A
+15 1
+E
+jerkin studded~
+Small steel plates, and studs cover the jerkin offering additional
+protection.
+~
+#16139
+quarterstaff blacksteel~
+a blacksteel quarterstaff~
+A brutal looking blacksteel quarterstaff is lying in the dust.~
+~
+5 0 24577 0
+0 0 0
+0 5 4 10
+10 7000 7000
+E
+blacksteel quarterstaff~
+Made of blacksteel, this quarterstaff looks like it has just the right weight
+and heft to break open someone's skull.
+~
+#16140
+honey cake honeycake~
+some delicious honeycake~
+Some delicious honeycake sits here, covered in dirt.~
+~
+19 0 16385 0
+0 0 0
+20 0 0 0
+4 100 100
+A
+8 5
+E
+honey cake honeycake~
+YUMMY!
+~
+#16141
+swordsheath shifting~
+an ever shifting swordsheath~
+An ever shifting swordsheath lays here, blending in with the surroundings.~
+~
+15 76026953 2049 262144
+0 0 0
+40 0 0 0
+3 10000 10000
+A
+16 -6
+A
+2 1
+E
+shifting swordsheath~
+Made of a special magical material, this sheath blends in to the
+surroundings.
+~
+#16142
+heart beating pusling~
+the beating heart of Mashadar~
+The beating heart of Mashadar pulses with a evil fire of pure darkness.~
+~
+9 33851456 16385 0
+0 0 0
+14 0 0 0
+4 60000 60000
+A
+18 2
+A
+14 10
+A
+13 4
+A
+5 2
+A
+1 2
+A
+15 10
+#16143
+ring kingdom malkeri~
+the ring of Malkeri~
+The ring of Malkeri is here, weeping for the seven towers.~
+~
+9 9440513 3 0
+0 0 0
+6 0 0 0
+1 20000 20000
+A
+3 2
+A
+4 2
+A
+6 2
+E
+ring malkeri~
+Lan was going to give this as his engagement ring.  It is the last symbol of
+his fallen kingdom.
+~
+#16144
+greatsword massive towers~
+a massive greatsword of the seven towers~
+A massive greatsword of the Seven Towers is collecting dust.~
+~
+5 8672321 8193 0
+0 0 0
+0 5 6 3
+22 5000 5000
+A
+2 -1
+A
+18 4
+A
+17 4
+A
+14 4
+#16145
+ring darkfire~
+a ring of pulsing darkfire~
+A ring of pulsing darkfire ignites the air around you.~
+A small stack of firewood catches fire.~
+9 141825 16387 1048576
+0 0 0
+9 0 0 0
+2 10 10
+A
+11 10
+A
+14 8
+A
+17 2
+#16146
+Staff Channeling~
+a staff of channeling~
+A staff of channeling is here, waiting to assist a Aes Sedai~
+~
+5 43959619 24577 0
+0 0 0
+0 5 6 5
+5 25000 25000
+A
+10 15
+A
+13 3
+A
+16 -5
+A
+3 2
+E
+staff channeling~
+A powerful ter'angreal, this staff is imbued with magic that helps the
+wielder summon the power of saidar.
+~
+#16147
+wand ter'angreal~
+a ter'angreal in the shape of a wand~
+A ter'angreal in the shape of a wand is here, glorifying the age of legends.~
+A toliet appears in the middle of the room.~
+3 34819 16385 0
+0 0 0
+60 10 10 59
+2 6000 6000
+#16148
+staff ter'angreal~
+a ter'angreal staff~
+A ter'angreal staff surges with power, as it warms the ground.~
+A wave of white hot fire shoots forth from a ter'angreal staff.~
+4 35308881 16385 0
+0 0 0
+50 6 6 26
+6 40000 40000
+E
+ter'angreal staff~
+A wave of white hot fire sweeps forth from a ter'angreal staff.
+~
+#16149
+statue ter'angreal~
+a small ter'angreal statue~
+A small ter'angreal statue is taking up a section of the ground here.~
+Look now, and see the true nature of things.~
+2 0 16385 0
+0 0 0
+80 19 20 18
+1 5000 5000
+E
+statue~
+It looks like the statue has some sort of inscription.  It looks like some
+ancient spell.
+~
+#16150
+silver penny~
+a silver penny~
+A silver penny of Tar Valon has been foolishly dropped here.~
+~
+8 0 16513 0
+0 0 0
+0 0 0 0
+2 4000 4000
+A
+13 1
+A
+24 2
+E
+penny silver~
+It looks like its worth quite a bit.
+~
+#16151
+white cloak sunburst~
+a long white cloak with a golden sunburst on the left breast~
+A long white cloak with a golden sunburst on the left breast is here.~
+May the Light Protect you.~
+2 3328 17409 0
+0 0 0
+90 1 0 0
+8 6000 6000
+A
+16 -9
+E
+sunburst~
+With nothing beneath the sunburst, this cloak indicates that the owner was a
+lower member in the order.
+~
+#16152
+iron hot white~
+a white hot iron~
+A white hot iron chars the floor.~
+~
+5 0 8193 8388608
+0 0 0
+0 5 6 0
+8 5 5
+E
+white hot iron~
+It glows faintly with the heat of a forge.
+~
+#16153
+cap conical metal~
+a conical metal cap~
+A cheap conical metal cap occupies the ground.~
+~
+9 0 17 0
+0 0 0
+7 0 0 0
+5 2000 2000
+#16154
+breastplate simple~
+a simple breastplate~
+A simple breastplate fell off someone's breasts, exposing them.~
+~
+9 0 9 0
+0 0 0
+8 0 0 0
+12 1000 1000
+#16155
+pinchers nasty~
+some nasty pinchers~
+Some nasty pinchers gather dust.~
+~
+5 64 24577 0
+0 0 0
+0 2 3 8
+2 20 20
+A
+17 1
+A
+18 4
+A
+6 -1
+E
+pincher~
+They look good for torture, but bad for battle.
+~
+#16156
+knife bloody~
+a bloody knife~
+A bloody knife is the murder weapon.~
+~
+5 403712 24577 0
+0 0 0
+0 5 5 11
+3 5000 5000
+A
+18 2
+A
+17 2
+A
+2 -1
+A
+16 -1
+A
+15 -1
+A
+12 -10
+#16157
+cloak questioner crook~
+a white cloak of the Questioners~
+A white cloak of the Questioners inspires fear.~
+NO ONE EXPECTS THE SPANISH INQUISITION!~
+2 0 1025 0
+0 0 0
+80 0 0 17
+8 5000 5000
+A
+16 -9
+A
+6 -3
+E
+questioner cloak~
+You see a long white cloak with a golden sunburst on the left breast with a
+red shepherd's crook beneath it.
+~
+#16158
+sword not~
+a sword that is not a sword~
+A strange glowing light in the shape of a blade is here.~
+~
+2 0 257 0
+0 0 0
+100 30 0 0
+1 80000 80000
+A
+16 -10
+A
+17 1
+A
+18 1
+#16159
+boots rotting~
+a pair of rotting boots~
+A pair of boots is rotting here.~
+~
+11 0 65 0
+0 0 0
+0 0 0 0
+2 10 10
+A
+16 -3
+A
+12 5
+#16160
+blackmail spikes plain~
+some plain spiked blackmail~
+A suit of plain spiked black-mail isn't protecting anyone.~
+~
+9 4608 9 0
+0 0 0
+10 0 0 0
+18 20000 20000
+A
+9 3
+A
+19 -1
+#16161
+sword blacksteel~
+a blacksteel sword~
+A sword of the blackest steel makes you shudder as it pierces the ground.~
+~
+5 0 8193 0
+0 0 0
+0 5 5 11
+3 10 10
+A
+17 4
+A
+18 2
+A
+2 -3
+A
+1 -1
+#16162
+dagger ruby-hilted shadar logoth~
+the cursed dagger of shadar logoth~
+A ruby-hilted dagger glows with a evil light, like that of a million lost
+souls.~
+~
+5 60272777 24577 2048
+0 0 0
+0 5 6 11
+1 10000 10000
+A
+17 4
+A
+18 4
+A
+5 -6
+A
+3 -2
+A
+1 -2
+#16163
+platter gold~
+a gold platter~
+A gold platter lays here, with the scent of meals eons old.~
+A great cloud fills the sky, raining forth the sacred mushrooms that fed the
+people of anchient times.~
+4 0 16897 0
+0 0 0
+80 2 2 12
+2 50000 50000
+A
+16 -7
+#16164
+shield evil spiked~
+an evil looking spiked shield~
+A shield with evil looking spikes sits here, sending shivers down your spine.~
+~
+11 34746880 513 0
+0 0 0
+0 0 0 0
+5 2000 2000
+A
+17 1
+A
+18 1
+A
+16 -2
+#16165
+gutter~
+a gutter~
+A vile stream of black blood fills the gutter.~
+~
+23 0 0 0
+0 0 0
+500000 400000 13 1
+10000 1 1
+E
+gutter~
+Its filled with the blood of Trollocs.
+~
+#16166
+meat rabbit~
+a piece of rabbit meat~
+A piece of rabbit meat is on the ground, covered in blood.~
+~
+19 0 1 0
+0 0 0
+10 0 0 0
+2 10 10
+#16167
+mushroom queen's crown~
+a queen's crown mushroom~
+A delicious queen's crown mushroom is growing here.~
+~
+19 0 1 0
+0 0 0
+24 0 0 0
+1 2000 2000
+#16168
+officer's lance~
+an officer's lance~
+There's a worthless officers lance on the ground.~
+~
+5 10276160 24577 0
+0 0 0
+0 4 5 14
+3 3 3
+A
+16 -6
+A
+17 1
+A
+10 10
+#16169
+cloak white officer~
+an officer's White Cloak~
+An Officer's white cloak is getting older, not bolder.~
+Feel the vengence of the Children of the Light!~
+2 0 1025 0
+0 0 0
+80 6 0 0
+10 10000 10000
+A
+16 -10
+A
+11 5
+A
+8 5
+A
+4 2
+E
+cloak officer's~
+The cloak is long and white.  It has a golden sunburst on the left breast
+with a lightning bolt beneath it.
+~
+#16170
+cloak tarnished white~
+a slightly tarnished white cloak~
+A slightly tarnished white cloak sits here getting dirtier.~
+Feel the power of the Dark One! He answers your call!~
+2 0 1025 0
+0 0 0
+80 57 44 39
+12 10 10
+A
+16 -9
+E
+cloak tarnished~
+It is a long white cloak with a golden sunburst on the left breast.
+~
+#16171
+Min's Vison~
+Min's Vision~
+Min's Vision billows in fog.~
+~
+18 4 17 0
+0 0 0
+0 0 0 0
+1 2 2
+#16172
+dream Rand's~
+Rand's dream~
+Rand's dream is here, chilling you with terror.~
+~
+18 65612 17 0
+0 0 0
+0 0 0 0
+4 1 1
+#16173
+key lost~
+a lost key~
+A lost key is begging to be picked up.~
+~
+18 67174598 4097 0
+0 0 0
+0 0 0 0
+1 2 2
+E
+key lost~
+I wouldn't eat that if I were you.
+~
+#16174
+cloak baggy~
+a baggy cloak~
+A baggy cloak is here.~
+~
+11 2384 5 0
+0 0 0
+0 0 0 0
+5 3234 3234
+A
+16 -10
+A
+14 1
+A
+13 1
+A
+15 1
+A
+24 3
+E
+cloak baggy~
+The cloak covers the entire body of the wearer, and reveals absolutely
+nothing.
+~
+#16175
+Perrin's Eyes~
+Perrin's Eyes~
+Yellow eyes light up the room.~
+~
+1 67636553 16385 1024
+0 0 0
+0 0 -1 0
+2 200000 200000
+A
+16 -4
+A
+25 1
+A
+12 -30
+A
+2 3
+A
+5 3
+A
+15 2
+#16176
+crown broken~
+a broken crown~
+A crown is here, and somebody broke it.~
+~
+25 1048641 17 0
+0 0 0
+80 0 6 0
+10 10000 10000
+A
+3 1
+A
+5 1
+A
+16 -12
+A
+17 1
+#16177
+axe wicked half-moon~
+a wicked looking half-moon shaped axe~
+A wicked looking half-moon shaped axe is just waiting to draw blood.~
+~
+5 9985307 8193 0
+0 0 0
+0 5 6 10
+26 15000 15000
+A
+9 2
+A
+18 4
+A
+1 1
+A
+17 4
+A
+14 1
+#16178
+bow mat's~
+Mat's Bow~
+Mat's Bow is dusty.~
+~
+5 0 8193 0
+0 0 0
+0 5 6 14
+6 9000 9000
+A
+16 -12
+A
+13 2
+A
+1 1
+A
+22 -4
+#16179
+breeches tight-black~
+a pair of tight-black breeches~
+A pair of sexy tight-black breeches is hugging nobody.~
+~
+9 0 33 0
+0 0 0
+10 0 0 0
+1 0 0
+A
+14 2
+A
+5 1
+A
+12 -15
+A
+6 5
+E
+breeches tight-black~
+Wow, these are sexy looking.
+~
+#16180
+shirt snowy white~
+a snowy white shirt~
+A snowy white shirt is turning gray from all the people walking on it.~
+~
+9 0 9 0
+0 0 2
+12 0 0 0
+5 1000 1000
+A
+12 -5
+A
+4 1
+E
+shirt~
+It looks kinda tight.
+~
+#16181
+vest red~
+a long red vest thickly embroidered with gold~
+A long red vest thickly embroidered with gold has been foolishly discarded
+here.~
+~
+11 192 1025 0
+0 1 0
+0 0 0 0
+14 100000 100000
+A
+16 -2
+A
+17 1
+A
+18 1
+A
+15 -1
+E
+vest red gold~
+It looks very valuable.
+~
+#16182
+boots soft red~
+a pair of soft red boots~
+A gaudy pair of soft red boots sits here.~
+~
+9 0 65 0
+0 0 0
+4 0 0 0
+2 500 500
+A
+16 -2
+A
+15 3
+A
+13 1
+A
+6 -1
+#16183
+crossbow light~
+a light crossbow~
+A light crossbow is a piece of junk.~
+~
+5 0 28673 0
+0 0 0
+0 2 6 14
+2 1000 1000
+A
+16 -2
+A
+17 1
+#16184
+cowl~
+a dirty cowl~
+A dirty cowl is playing in the dirt.~
+~
+15 0 17 0
+0 0 0
+10 0 0 0
+2 0 0
+A
+16 -9
+A
+4 1
+#16185
+sword scythe curved~
+a heavy scythe curved sword~
+A heavy scythe curved sword has been pried out of its owners cold, dead
+fingers.~
+~
+5 60209817 24577 0
+0 0 0
+0 6 5 11
+19 9000 9000
+A
+17 3
+A
+18 3
+A
+16 -3
+#16186
+spear hooked~
+a hooked spear~
+A hooked spear is taking up vital floor space.~
+~
+5 0 8193 0
+0 0 0
+0 2 11 14
+7 200 200
+#16187
+spear~
+a spear~
+A spear has been discarded.~
+~
+5 0 8193 0
+0 0 0
+0 2 9 14
+2 700 700
+#16188
+scythe~
+a simple scythe~
+A simple looking scythe needs junked.~
+~
+5 0 8193 0
+0 0 0
+0 3 9 3
+3 400 400
+#16189
+magazine dirty~
+a dirty magazine~
+A dirty magazine is covered in dirt.~
+You'll go blind!~
+2 0 16385 0
+0 0 0
+60 4 0 0
+1 0 0
+A
+16 -8
+A
+14 6
+A
+11 15
+A
+5 1
+E
+magazine dirty~
+It looks very dirty.
+~
+#16190
+blackmail spikes~
+some spiked black-mail~
+A suit of spiked black-mail isn't protecting anyone.~
+~
+9 4608 9 0
+0 0 0
+9 0 0 0
+18 20000 20000
+A
+17 1
+A
+18 1
+#16191
+tea andilay root~
+some andilay root tea~
+A steaming glass of andilay root tea is here, waiting to cure you.~
+Who needs coffee, BAH!~
+10 0 1 0
+0 0 0
+30 43 75 0
+1 8000 8000
+#16192
+brew vile taste~
+a brew with a vile taste~
+Geez, if that brew over there tastes as bad as it smells...~
+Sometimes, we must suffer to cure the sickness.~
+10 0 1 0
+0 0 0
+80 35 81 14
+1 40000 40000
+#16193
+mark dark one~
+the mark of the dark one~
+The mark of the Dark One has been ripped from someones body and left here,
+dripping with blood.~
+~
+11 608 129 0
+0 0 0
+0 0 0 0
+1 1 1
+A
+1 2
+A
+16 -5
+#16195
+cloak Bornhald's~
+Bornhald's Cloak~
+Bornhald's long white cloak is being used as a rug.~
+~
+9 0 1025 0
+0 0 0
+12 0 0 0
+2 15000 15000
+A
+17 1
+A
+18 1
+A
+3 1
+A
+14 3
+E
+cloak bornhald~
+A golden knot below the breast shows that this cloak was worn by a lord
+captin.
+~
+#16196
+crown golden laurel leaves~
+a golden crown of laurel leaves~
+A golden crown of laurel leaves has sprung up out of the ground.~
+~
+9 2048 16401 0
+0 0 0
+4 0 0 0
+1 4000 4000
+A
+14 5
+A
+15 5
+A
+13 4
+A
+24 2
+A
+7 3
+#16197
+shirt tattered~
+a tattered shirt~
+A tattered shirt isn't getting any better.~
+~
+11 0 257 0
+0 0 0
+0 0 0 0
+2 0 0
+A
+16 -6
+#16198
+toadstool~
+a toadstool~
+A toadstool is growing here.~
+~
+19 0 1 0
+0 0 0
+10 0 0 1
+2 10 10
+#16199
+device small~
+a small device~
+A small device is here, it has a blinking red display that reads, "BEAM
+DOWN."~
+~
+24 0 1 0
+0 0 0
+3001 0 0 0
+10000 1 1
+$

@@ -1,0 +1,334 @@
+#18400
+fire drake dragon~
+a large firedrake~
+A firedrake, the largest you've ever seen, hides in the shadows of the cave.
+~
+The firedrake is a close cousin to the almost extinct species of great
+dragons that existed in Midkemia long ago. He is about 50 feet from
+head to tail and his wings could span 20 yards or more.
+~
+2155 524296 -600 W2
+71 40 -60 1d1+5000 7d6+20
+20000 150000
+5 5 0
+13 0 18 18 13 13 0
+12 3 4
+-600 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#18401
+wolf animal~
+a Frightened Wolf~
+A frightened wolf hides in the shadows of the cavern.
+~
+A frightened wolf hides in the shadows.
+~
+4302 525344 0 W2
+15 5 -2 1d1+300 3d4+5
+0 1000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+-20 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#18402
+pup puppy baby~
+a cute puppy~
+A cute little puppy lies here on the floor.
+~
+A cute little wolf pup.
+~
+202 1 0 W2
+8 2 4 1d1+100 4d1+5
+0 300
+4 4 2
+13 0 13 13 13 13 0
+0 0 3
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#18403
+matron wolf~
+the Matron Wolf~
+
+~
+The matron wolf hides while readying to protect her young.
+~
+4362 525312 0 W2
+12 10 4 1d1+250 3d3+3
+0 1000
+8 8 2
+13 0 13 13 13 13 0
+0 1 3
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#18404
+petty thief man idiot~
+a petty thief~
+Some idiot is peering at you as if you couldn't see him from behind a tree.
+~
+He doesn't seem to be a very good thief. He ducks behind the tree every
+time you look his way.
+~
+2056 0 -200 W2
+1 5 10 1d1+0 1d0+10
+1 10
+8 8 1
+14 0 13 13 17 13 0
+0 2 2
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#18405
+gnoll rat scout creature small~
+a gnoll scout~
+A small creature is scouting noisily through the bushes.
+~
+This creature is a small gnoll covered in stolen clothing that barely
+fit him. He must have stolen it from unwary souls who he chanced by
+here in the forest. As small, yet potent fighters (and more often than
+not thieves) they are cowards by themselves. But in the larger hunting
+parties that they sometimes form, they can be a terribly skilled
+opponent. You find this race of creatures disgusting due to thier
+human and rat like origins. It is said that they poison thier weapons
+with a natural toxin to weaken thier opponents. Now you can understand
+why they were driven back into the deep forests by humans.
+~
+9 1056 10 W2
+13 3 5 5d2+250 3d5+5
+350 650
+8 8 1
+13 0 7 7 17 16 0
+17 0 2
+50 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#18406
+elemental guard guardian lake monster~
+the Guardian of the Lake~
+A Large Elemental of Water is floating just beneath the waves.
+~
+This magically created creature stands fifteen feet tall. It has a sinister
+look about it.  You can see through its body as if it were waves in a stream.
+His body forms from the water and has four appendages that resemble arms.
+This faceless creature was placed here for a purpose, for he is readying 
+to destroy you.
+
+~
+26671 2 100 W2
+47 32 -27 20d100+1500 20d2+2
+0 20000
+8 8 0
+18 0 13 13 13 18 0
+18 3 0
+-270 0 2 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#18407
+cougar cat lion~
+a Large Cougar~
+A cougar is wandering aimlessly through the forest.
+~
+Cougars are common animals in these mountains, although few people live to 
+tell that to those idiots who roam aimlessly about in them. This cougar is
+quite large, and for now, seems to have satiated his appetite with a small
+rabbit. He is resting on a large tree limb devouring his meal while
+paying you no mind whatsoever. He obviously doesn't see you as a threat.
+You, however, still aren't comfortable staring into his huge yellow eyes.
+~
+2120 0 0 W2
+20 11 -2 100d1+300 12d2+3
+0 1200
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-20 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18408
+bandit thief man pilferer~
+a highway bandit~
+A scruffy, short man is hiding here, acting very strange.
+~
+You wouldn't think he was a thief if he wasn't hiding in the shadows.
+He looks common enough... a short, scruffy, stinky vagabond with nowhere to
+go and noone who cares. His torn grey tunic and ripped woolen trousers
+make you feel slightly sorry for him. He has a strange grin in his face.
+~
+6284 786432 -400 W2
+37 30 -15 5d100+1250 3d7+4
+10000 8000
+8 8 1
+13 0 13 13 18 13 0
+0 2 2
+-150 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18409
+man leader~
+the Leader of a Band of Highway Thieves~
+You see a well dressed man sleeping here, on an ornately fashioned mat.
+~
+This man looks to be a lost, rich noble. He must have been separated from
+his party and is taking a nap before he continues his search for his comrades.
+His mat is a beautiful oriental style rug, and he wears the finest of furs
+about his body. Jewelry adorns him from his head to his feet. Heh, this
+looks like easy pickin's.
+~
+207 0 -1000 W2
+60 40 -37 16d100+3000 10d5+0
+100000 120000
+4 4 0
+18 0 13 13 13 18 0
+7 2 2
+-370 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18410
+squirrel busy~
+the squirrel~
+A squirrel scampers around, collecting nuts as he contemplates his hunger.
+~
+It's a squirrel, for god's sake, it can't hurt you (badly); KILL IT!
+~
+200 16777216 0 W2
+6 4 6 28d10+5 1d2+0
+0 600
+8 8 0
+4 0 7 5 18 13 0
+0 0 3
+60 0 6 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#18411
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18430
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18442
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18445
+bear ~
+a bear~
+A wounded bear limps thru the underbrush.
+~
+As you quickly glance at the charging bear, you see an old arrow wound in 
+her side.  She looks crazed with the pain of her wound.
+~
+26761 1568 -700 W2
+17 9 -3 60d10+100 7d3+11
+0 8000
+8 8 2
+18 23 13 13 9 15 0
+18 5 3
+-30 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#18450
+keshian merchant man~
+a short merchant~
+A short, dark skinned merchant rests upon his wagon.
+~
+The Empire of Great Kesh lies at the southern border of the Kingdom of the
+Isles. Half of the border is disputed, and therefore, the relations between
+the lands are tense. Some in Kesh would like to go to war to gain those
+borders while others, such as this man, see profit in peace.
+~
+10 0 0 W2
+37 20 -10 1d1+999 2d4+20
+28000 28000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18451
+horse~
+a horse~
+A horse in a team of four is pulling a wagon here.
+~
+This poor animal looks terribly over worked. Drawing a wagon from here
+to Kesh is no easy task.
+~
+11 0 0 W2
+18 10 -4 100d10+0 2d10+0
+0 1000
+8 8 0
+13 0 13 13 13 13 0
+19 3 3
+-40 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+$

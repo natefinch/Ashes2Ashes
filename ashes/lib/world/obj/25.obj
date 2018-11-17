@@ -1,0 +1,603 @@
+#2500
+barrel large~
+a large barrel~
+A large barrel rests on the ground.~
+~
+15 0 1 0
+0 0 0
+500 1 -1 0
+10000 0 0
+#2501
+blade sword sharp quality~
+Sharp blade of quality~
+A blade lies on the ground.~
+~
+5 64 24577 0
+0 0 0
+0 4 5 3
+3 100 100
+A
+18 1
+A
+17 1
+#2502
+blade warrior maiming sword~
+Warrior's blade of maiming~
+A blade lies on the ground.~
+~
+5 64 24577 0
+0 0 0
+0 4 5 3
+3 140 140
+A
+18 2
+A
+17 2
+#2503
+blade knight gore sword~
+Knight's blade of gore~
+A blade lies on the ground.~
+~
+5 64 24577 0
+0 0 0
+0 4 5 3
+3 220 220
+A
+18 3
+A
+17 3
+#2504
+blade champion carnage sword~
+Champion's blade of carnage~
+A blade lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 4 5 3
+3 260 260
+A
+18 4
+A
+17 4
+#2505
+sword sharp quality~
+Sharp long sword of quality~
+A long sword lies on the ground.~
+~
+5 64 24577 0
+0 0 0
+0 8 3 3
+5 120 120
+A
+17 1
+A
+18 1
+#2506
+sword warrior maiming~
+Warrior's long sword of maiming~
+A long sword lies on the ground.~
+~
+5 64 24577 0
+0 0 0
+0 8 3 3
+5 1000 1000
+A
+18 2
+A
+17 2
+#2507
+sword knight gore~
+Knight's long sword of gore~
+A long sword lies on the ground.~
+~
+5 64 24577 0
+0 0 0
+0 8 3 3
+5 50000 50000
+A
+18 3
+A
+17 3
+#2508
+sword champion carnage~
+Champion's long sword of carnage~
+A long sword lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 8 3 3
+5 150000 150000
+A
+18 4
+A
+17 4
+#2509
+sword great sharp quality~
+Sharp great sword of quality~
+A very large sword lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 6 5 3
+22 10000 10000
+A
+18 1
+A
+17 1
+#2510
+sword great warrior maiming~
+Warrior's great sword of maiming~
+A very large sword lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 6 5 3
+22 30000 30000
+A
+18 2
+A
+17 2
+#2511
+sword great knight gore~
+Knight's great sword of gore~
+A very large sword lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 6 5 3
+22 150000 150000
+A
+18 3
+A
+17 3
+#2512
+sword king haste~
+King's sword of haste~
+A sword of spectacular make lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 6 5 3
+22 250000 250000
+A
+18 4
+A
+17 4
+#2513
+shortsword sword sharp quality~
+Sharp shortsword of quality~
+A shortsword lies on the ground.~
+~
+5 64 24577 0
+0 0 0
+0 2 6 11
+3 80 80
+A
+18 1
+A
+17 1
+#2514
+shortsword warrior maiming sword~
+Warrior's shortsword of maiming~
+A shortsword lies on the ground.~
+~
+5 64 24577 0
+0 0 0
+0 2 6 11
+3 100 100
+A
+18 2
+A
+17 2
+#2515
+shortsword sword knight gore~
+Knight's shortsword of gore~
+A shortsword lies on the ground.~
+~
+5 64 24577 0
+0 0 0
+0 2 6 11
+3 120 120
+A
+18 3
+A
+17 3
+#2516
+shortsword champion carnage sword~
+Champion's shortsword of carnage~
+A shortsword lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 2 6 11
+3 130 130
+A
+18 4
+A
+17 4
+#2517
+bow amber skill~
+Amber bow of skill~
+A large bow lies on the ground.~
+~
+5 64 8193 0
+0 0 2
+0 5 5 14
+4 4000 4000
+A
+2 1
+A
+16 -5
+#2518
+bow jade skill~
+Jade bow of skill~
+A large bow lies on the ground.~
+~
+5 64 8193 0
+0 0 34
+0 5 5 14
+4 4000 4000
+A
+2 1
+A
+16 -8
+#2519
+bow jade balance~
+Jade bow of balance~
+A large bow lies on the ground.~
+~
+5 64 8193 0
+0 0 34
+0 5 5 14
+4 6000 6000
+A
+2 2
+A
+16 -8
+#2520
+bow amber balance~
+Amber bow of balance~
+A large bow lies on the ground.~
+~
+5 64 8193 0
+0 0 2
+0 5 5 14
+4 5000 5000
+A
+2 2
+A
+16 -5
+#2521
+bow obsidian balance~
+Obsidian bow of balance~
+A large bow lies on the ground.~
+~
+5 64 8193 0
+0 0 6
+0 5 5 14
+4 50000 50000
+A
+2 2
+A
+16 -11
+#2522
+bow obsidian balance~
+Obsidian bow of precision~
+A large bow lies on the ground.~
+~
+5 64 8193 0
+0 0 6
+0 5 5 14
+4 50000 50000
+A
+2 4
+A
+16 -11
+#2523
+bow obsidian perfection~
+Obsidian bow of perfection~
+A large bow lies on the ground.~
+~
+5 64 8193 0
+0 0 6
+0 5 5 14
+4 60000 60000
+A
+2 5
+A
+16 -11
+#2524
+bow emerald precision~
+Emerald bow of precision~
+A large bow lies on the ground.~
+~
+5 64 8193 0
+0 0 13
+0 5 5 14
+4 250000 250000
+A
+2 4
+A
+16 -15
+#2525
+bow emerald precision~
+bow emerald perfection~
+A large bow lies on the ground.~
+~
+5 64 8193 0
+0 0 13
+0 5 5 14
+4 300000 300000
+A
+2 5
+A
+16 -15
+#2526
+axe sharp quality~
+Sharp small axe of quality~
+A small axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 4 5 6
+3 100 100
+A
+18 1
+A
+17 1
+#2527
+axe warrior maiming~
+Warrior's axe of maiming~
+A small axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 4 5 6
+3 140 140
+A
+18 2
+A
+17 2
+#2528
+axe knight gore~
+Knight's small axe of gore~
+A small axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 4 5 6
+3 220 220
+A
+18 3
+A
+17 3
+#2529
+axe champion  carnage~
+Champion's small axe of carnage~
+A small axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 4 5 6
+3 260 260
+A
+18 4
+A
+17 4
+#2530
+axe sharp quality~
+Sharp axe of quality~
+An axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 8 3 6
+5 120 120
+A
+17 1
+A
+18 1
+#2531
+axe warrior maiming~
+Warrior's axe of maiming~
+An axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 8 3 6
+5 1000 1000
+A
+18 2
+A
+17 2
+#2532
+axe knight gore~
+Knight's axe of gore~
+An axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 8 3 6
+5 50000 50000
+A
+18 3
+A
+17 3
+#2533
+axe champion carnage~
+Champion's axe of carnage~
+An axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 8 3 6
+5 150000 150000
+A
+18 4
+A
+17 4
+#2534
+axe battle sharp quality~
+Sharp battle axe of quality~
+A large axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 6 5 6
+22 1000 1000
+A
+18 1
+A
+17 1
+#2535
+axe battle warrior maiming~
+Warrior's battle axe of maiming~
+A large axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 6 5 6
+22 30000 30000
+A
+18 2
+A
+17 2
+#2536
+axe battle knight gore~
+Knight's battle axe of gore~
+A large axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 6 5 6
+22 150000 150000
+A
+18 3
+A
+17 3
+#2537
+axe great merciless slaughter~
+Merciless great axe of slaughter~
+A large axe lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 6 5 6
+28 250000 250000
+A
+18 4
+A
+17 4
+A
+1 4
+#2538
+staff angel magic~
+Angel's staff of magic~
+A large staff lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 5 5 7
+3 80 80
+A
+13 1
+A
+10 5
+#2539
+staff angel brilliance~
+Angel's staff of brilliance~
+A large staff lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 5 5 7
+3 1000 1000
+A
+13 2
+A
+10 10
+#2540
+staff archangel sorcery~
+Archangel's staff of sorcery~
+A large staff lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 5 5 7
+3 100000 100000
+A
+10 25
+A
+13 4
+#2541
+staff archangel wizardry~
+Archangel's staff of wizardry~
+A large staff lies on the ground.~
+~
+5 64 8193 0
+0 0 0
+0 5 5 7
+3 350000 350000
+A
+10 30
+A
+13 5
+#2542
+staff crimson brilliance~
+Crimson staff of brilliance~
+A large staff lies on the ground.~
+~
+5 64 8193 0
+0 0 1
+0 5 5 7
+3 3000 3000
+A
+13 3
+A
+10 15
+#2543
+staff lapis magic~
+Lapis staff of magic~
+A large staff lies on the ground.~
+~
+5 64 8193 0
+0 0 4
+0 5 5 7
+3 1500 1500
+A
+13 2
+A
+10 10
+#2544
+staff jade brilliance~
+Jade staff of brilliance~
+A large staff lies on the ground.~
+~
+5 64 8193 0
+0 0 13
+0 5 5 7
+3 50000 50000
+A
+13 2
+A
+10 10
+#2545
+sword knight stars~
+Knight's long sword of the stars~
+A long sword lies on the ground.~
+~
+5 64 24577 0
+0 0 0
+0 7 3 3
+5 50000 50000
+A
+18 2
+A
+17 2
+A
+3 1
+A
+1 1
+A
+2 1
+$

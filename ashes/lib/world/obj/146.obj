@@ -1,0 +1,1027 @@
+#14601
+key carved ebony~
+a carved ebony key~
+A key made of some sort of dark wood is lying here.  ~
+~
+18 12 1 0
+0 0 0
+0 0 0 0
+5 150 0
+#14602
+lead key ~
+a heavy lead key~
+A key made of a dense, grey metal lies here heavily.  ~
+~
+18 12 1 0
+0 0 0
+0 0 0 0
+16 200 0
+#14603
+skeleton key~
+a skeleton key~
+This key is to lock doors that cannot be unlocked - do not load
+~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+5 25 0
+#14604
+fountain water~
+a black marble fountain~
+The water in this black marble fountain looks stagnant.  ~
+This is a beautifully crafted fountain, carved from an piece of black
+marble.  The water looks clean and refreshing.  ~
+23 64 0 0
+0 0 0
+999999 999999 0 1
+9999 0 0
+E
+marble blue streaked~
+It is very beautiful white marble, shot through with electric blue streaks
+that look almost like lightning dancing along the sides of the fountain.
+~
+#14605
+light bulb fester festers~
+Fester's light bulb~
+A 60 watt light bulb lies here on the ground.  ~
+~
+1 311363 16385 0
+0 0 0
+6 0 -1 0
+15 40000 0
+A
+13 3
+#14606
+light bulb fester festers~
+Fester's light bulb~
+A 100 watt light bulb lies here on the ground.  ~
+~
+1 311363 16385 0
+0 0 0
+6 0 -1 0
+15 80000 0
+A
+15 0
+A
+13 4
+#14607
+fur collar Fester festers Festers fester's Fester's~
+Fester's fur collar~
+4
+An odd circular strip of brown fur lies in a heap on the floor.  ~
+~
+9 8531968 5 0
+0 0 0
+4 0 0 0
+2 50000 0
+A
+17 2
+A
+18 2
+#14608
+truss belt~
+a badly worn truss~
+One nasty-looking, rather worn truss is lying here.  ~
+~
+9 1450560 2049 0
+0 0 0
+15 0 0 0
+20 35000 20000
+A
+11 3
+A
+14 3
+E
+loincloth~
+A large loincloth made of near-indestructable material. It emits a
+low, vibrating hum, and is several sizes too large for you. You
+gather that whomever this originally belonged to was well adorned.
+~
+#14609
+helmet sapphire steel~
+a sapphire steel helmet(SHIMMERING)~
+A helmet made of sapphire steel rests here.  ~
+~
+9 0 17 0
+0 0 0
+7 0 0 0
+8 12000 7500
+#14610
+greaves sapphire steel~
+a pair of sapphire steel greaves(SHIMMERING)~
+Some greaves made of sapphire steel rest here.  ~
+~
+9 0 33 0
+0 0 0
+7 0 0 0
+8 12000 7500
+#14611
+vambraces sapphire steel~
+a pair of sapphire steel vambraces(SHIMMERING)~
+Some vambraces made of sapphire steel rest here.  ~
+~
+9 0 257 0
+0 0 0
+7 0 0 0
+8 12000 7500
+#14612
+helmet ruby steel~
+a ruby steel helmet(PULSATING)~
+A helmet made of ruby steel rests here.  ~
+~
+9 0 17 0
+0 0 0
+8 0 0 0
+8 18000 7500
+#14613
+greaves ruby steel~
+a pair of ruby steel greaves(PULSATING)~
+Some greaves made of ruby steel rest here.  ~
+~
+9 0 33 0
+0 0 0
+8 0 0 0
+8 18000 7500
+#14614
+vambraces ruby steel~
+a pair of ruby steel vambraces(PULSATING)~
+Some vambraces made of ruby steel rest here.  ~
+~
+9 0 257 0
+0 0 0
+8 0 0 0
+8 18000 7500
+#14615
+vambraces emerald steel~
+a pair of emerald steel vambraces(GLISTENING)~
+Some vambraces made of emerald steel rest here.  ~
+~
+9 0 257 0
+0 0 0
+9 0 0 0
+8 26000 7500
+#14616
+greaves emerald steel~
+a pair of emerald steel greaves(GLISTENING)~
+Some greaves made of emerald steel rest here.  ~
+~
+9 0 33 0
+0 0 0
+9 0 0 0
+8 28000 7500
+#14617
+helmet emerald steel~
+an emerald helmet(GLISTENING)~
+A helmet made of emerald steel rests here.  ~
+~
+9 0 17 0
+0 0 0
+9 0 0 0
+8 28000 7500
+#14618
+helmet diamond steel~
+a diamond steel helmet(PHASING)~
+A helmet made of diamond steel rests here.  ~
+~
+9 0 17 0
+0 0 0
+10 0 0 0
+8 40000 7500
+#14619
+greaves diamond steel~
+a pair of diamond steel greaves(PHASING)~
+Some greaves made of diamond steel rest here.  ~
+~
+9 0 33 0
+0 0 0
+10 0 0 0
+8 40000 7500
+#14620
+vambraces diamond steel~
+a pair of diamond steel vambraces(PHASING)~
+Some vambraces made of diamond steel rest here.  ~
+~
+9 0 257 0
+0 0 0
+10 0 0 0
+8 40000 7500
+#14621
+doll headless~
+a headless doll~
+A headless doll lies limply at your feet.  ~
+~
+9 1188352 16385 0
+0 0 0
+10 5 5 65
+5 12000 1200
+A
+14 -3
+A
+18 2
+E
+talisman medallion necklace~
+For every power there is a price...
+
+A strange sensation of strength-sapping cold overwhelms you as
+you gaze into the hypnotic empty sockets of the red skull on
+this black medallion. You wonder if your soul is lost...
+~
+#14622
+scooby fanny pack back backpack~
+a Scooby-Doo fanny pack~
+A fanny pack with everyone's favorite cartoon dog is here.  ~
+~
+15 64 17409 0
+0 0 0
+300 0 0 0
+16 35000 0
+#14623
+depends Depends briefs diapers~
+a pair of Depends(REEKING)~
+A nasty-looking pair of adult diapers lie here in a heap.  ~
+(null)~
+9 819712 2049 0
+0 0 0
+6 0 0 0
+25 10000 4000
+A
+5 2
+A
+13 2
+#14624
+geritol Geritol bottle potion~
+a bottle of Geritol~
+An almost empty bottle of Geritol has been left here.  ~
+~
+10 0 16385 0
+0 0 0
+25 14 36 55
+1 35500 2000
+E
+potion purple~
+It looks rather strange!
+~
+#14625
+shoes ortho orthopedic shoe~
+a pair of orthopedic shoes~
+A pair of greasy orthopedic shoes lie here.  ~
+~
+11 182273 65 0
+0 0 0
+0 0 0 0
+7 12000 0
+A
+5 2
+A
+13 2
+E
+slippers~
+These MUST be the famous ruby slippers.  Covered with shimmering sequins,
+the tiny slippers give off a gentle red glow.  Despite their small size, you
+get the impression that they will fit anyone who tries to put them on.
+You notice an inscription inside each shoe.
+~
+E
+inscription~
+The inscription inside the slipper reads, "Kinney Shoes."
+~
+#14626
+toupee wig hair~
+William Shatner's old toupee~
+A shapeless pile of human hair lies hear your foot.  ~
+~
+9 8974336 17 0
+0 0 0
+3 0 0 0
+4 9000 0
+A
+17 2
+A
+18 2
+#14627
+creme rinse potion~
+a bottle of creme rinse~
+A slippery bottle of creme rinse has been dropped here.  ~
+~
+10 65 1 0
+0 0 0
+25 39 4 3
+3 12000 0
+#14628
+cigar cuban havana ~
+an expensive Cuban cigar(SMOKING)~
+A rather expensive Cuban cigar lies here on the floor.  ~
+~
+1 311296 16385 0
+0 0 0
+0 0 -1 0
+2 3000 0
+A
+13 2
+A
+10 10
+#14629
+cigar cuban havana ~
+an expensive Cuban cigar(UNLIT)~
+A rather expensive Cuban cigar lies here on the floor.  ~
+~
+1 311296 16385 0
+0 0 0
+0 0 -1 0
+2 12000 0
+A
+13 3
+A
+10 25
+#14630
+jacket smoking red~
+a red smoking jacket~
+A red smoking jackets lies here getting wrinkled.  ~
+~
+9 8679488 1025 0
+0 0 0
+7 0 0 0
+12 35000 3000
+A
+18 2
+E
+assault breast plate armor~
+You see a simple plate mail breast plate.  It seems like a run-of-the-mill
+breast plate and doesn't seem particularly unique in any way.  You bring
+your finger closer to the plate mail and find your digit bleeding, pierced
+by a sudden dagger which appeared out of the armor...
+~
+#14631
+scissors scissor wicket pair~
+a wickedly sharp pair of scissors~
+A very sharp pair of scissors are stuck point first in the ground.  ~
+~
+5 8564739 8193 0
+0 0 0
+0 5 4 11
+6 10000 5000
+A
+17 2
+A
+18 2
+#14632
+necklace pearl pearls black~
+a black pearl necklace~
+A beautiful black pearl necklace gleams at you.  ~
+~
+9 9105409 5 0
+0 0 0
+4 0 0 0
+2 0 0
+A
+11 15
+A
+18 1
+#14633
+greaves sapphire steel~
+a pair of sapphire steel greaves(GLOWING)~
+Some greaves made of sapphire steel rest here.  ~
+~
+9 0 33 0
+0 0 0
+7 0 0 0
+8 10000 2500
+#14634
+vambraces sapphire steel~
+a pair of sapphire steel vambraces(GLOWING)~
+Some vambraces made of sapphire steel rest here.  ~
+~
+9 0 257 0
+0 0 0
+7 0 0 0
+8 10000 2500
+#14635
+robe bearskin bear skin~
+a musty bearskin robe~
+A huge furry lump on the floor is swarming with fleas.  ~
+~
+9 9851393 9 0
+0 0 0
+10 0 0 0
+6 35000 10000
+A
+23 -3
+E
+plate ethereal suit~
+You can almost see through it.
+~
+#14636
+cap coonskin hat~
+a coonskin cap~
+A furry hat with a raccoon tail on it lies here.  ~
+~
+9 410113 17 0
+0 0 0
+10 0 0 0
+5 15000 3500
+E
+helm ethereal~
+You can almost see through it.
+~
+#14637
+phaser gun plastic star trek~
+a plastic toy phaser~
+A plastic 'First Contact' phaser has been dropped here.  ~
+The phaser erupts with a brilliant bolt of energy.
+~
+3 8272 16385 0
+0 0 0
+40 10 10 30
+3 175000 1
+#14638
+boots pair bean boot~
+a pair of L.L. Bean boots~
+A pair of odd-looking boots made of rubber and leather are here.  ~
+~
+11 8419328 65 0
+0 0 0
+0 0 0 0
+12 150 0
+A
+1 2
+A
+12 -40
+#14639
+a ratty brown leather briefcase~
+a worn leather briefcase~
+This worn and ripped briefcase is made of old brown leather.  ~
+~
+15 0 16385 0
+0 0 0
+500 0 0 0
+5 15000 1500
+E
+girdle pouches many~
+It appears to be full of tiny pockets.
+~
+#14640
+baton black ~
+a small black baton~
+A rather short wooden stick painted black is stuck here.  ~
+~
+5 951810 16385 0
+0 0 0
+0 5 4 11
+5 1000 0
+A
+17 1
+A
+18 1
+#14641
+shirt flannel~
+an oversized flannel shirt~
+A large flannel shirt with a blue and black pattern lies here.  ~
+~
+9 688192 9 0
+0 0 0
+8 0 0 0
+3 22000 2760
+A
+11 5
+A
+14 2
+#14642
+freudian slip underwear lingerie black~
+a black Freudian slip~
+A slinky black silk slip lies here looking confused.  ~
+~
+11 427008 2049 0
+0 0 0
+0 0 0 0
+16 22000 0
+A
+10 20
+A
+13 3
+#14643
+bearing bearings diamond~
+a pair of diamond bearings~
+A pair of glittering bearings lie here by your feet.  ~
+~
+8 1 1 0
+0 0 0
+0 0 0 0
+16 35000 0
+#14644
+flask silver pocket~
+a silver pocket flask~
+A silver pocket flask lies here on its side.  ~
+~
+17 0 1 0
+0 0 0
+80 80 7 0
+85 45 15
+E
+canteen~
+It's a fairly big canteen.  Looks like it can hold a lot of liquid.
+~
+#14645
+vest black leather~
+a black leather vest~
+A heavy black vest made of leather lies here in a lump.  ~
+~
+9 0 9 0
+0 0 0
+4 0 0 0
+12 500 0
+A
+11 1
+#14646
+lampshade shade ~
+a lampshade~
+A somewhat dirty and dented lampshade lies here on its side.  ~
+~
+11 0 17 0
+0 0 0
+0 0 0 0
+10 200 0
+A
+5 2
+A
+2 1
+#14647
+bracelet medical medic alert~
+a medical alert bracelet~
+A shiny medical alert bracelet lies here forgotten.  ~
+~
+11 967745 4097 0
+0 0 0
+0 0 0 0
+10 24000 0
+A
+13 2
+A
+10 20
+E
+bracelet~
+The inscription on the bracelet reads, "Warning.  Wearer is
+sensitive to caustic dish washing detergents."
+~
+#14648
+ring spoon silver~
+a silver spoon ring~
+A ring fashioned from an antique silver spoon lies here.  ~
+~
+11 0 3 0
+0 0 0
+0 0 0 0
+5 38000 0
+A
+17 3
+A
+11 5
+#14649
+feather duster ~
+a feather duster~
+A new feather duster lies here in the, well, dust.  ~
+~
+9 64 16385 0
+0 0 0
+5 0 0 0
+5 65000 0
+A
+13 3
+A
+10 25
+#14650
+jacket tuxedo coat~
+a 48XL tuxedo jacket~
+A very large tuxedo jacket lies here in a pile.  ~
+~
+9 8679424 16393 0
+0 0 0
+7 0 0 0
+15 250000 50000
+A
+18 2
+E
+assault breast plate armor~
+You see a simple plate mail breast plate.  It seems like a run-of-the-mill
+breast plate and doesn't seem particularly unique in any way.  You bring
+your finger closer to the plate mail and find your digit bleeding, pierced
+by a sudden dagger which appeared out of the armor...
+~
+#14651
+electrodes electrode pair~
+a pair of electrodes~
+A heavy pair of electrodes lie here by your feet.  ~
+~
+9 8794194 5 0
+0 0 0
+3 100 100 7
+9 100000 1
+A
+11 5
+A
+18 2
+#14652
+platform boots leather heavy~
+a heavy pair of platform boots~
+A huge pair of heavy platform boots lie here side by side.  ~
+~
+11 8679936 65 0
+0 0 0
+0 0 0 0
+14 5000 0
+A
+12 25
+A
+18 1
+#14653
+teamster ring gold teamsters~
+a 21 karat teamsters ring~
+A 21 karat teamsters ring lies here glittering.  ~
+~
+9 541761 3 0
+0 0 0
+8 0 0 0
+5 20000 750
+A
+10 30
+A
+4 1
+E
+sandy ring~
+The ring is small, smooth, sandy-colored and unremarkable, save that
+it gives off a continuous low humming noise that tickles your fingertips.
+~
+#14654
+teamster ring gold teamsters~
+a 14 karat teamsters ring~
+A 14 karat teamsters ring lies here glittering.  ~
+~
+9 541761 3 0
+0 0 0
+5 0 0 0
+5 5000 750
+A
+10 15
+A
+4 1
+E
+sandy ring~
+The ring is small, smooth, sandy-colored and unremarkable, save that
+it gives off a continuous low humming noise that tickles your fingertips.
+~
+#14655
+hail stone hailstone ice chunk~
+a softball-sized hailstone~
+A softball-sized hailstone lies here melting slightly by your feet.  ~
+~
+5 9457728 8193 0
+0 0 0
+0 9 3 6
+10 10000 500
+A
+11 5
+A
+10 15
+E
+sword broadsword~
+This is a massive sword of a height reaching your neck. It is
+extremely heavy, and only those who are strong of arm may even
+attempt wielding. Tiny motes of light swirl around it continuously.
+~
+#14656
+knife red kitchen bobbit~
+Lorena Bobbit's kitchen knife~
+A red-handled kitchen knife lies here looking very sharp!  ~
+~
+5 8534530 8193 0
+0 0 0
+0 6 4 3
+10 3000 0
+A
+14 2
+A
+18 1
+#14657
+golf ball~
+a brand new golf ball~
+A shiny new golf ball is lying here in the grass.  ~
+~
+8 0 1 0
+0 0 0
+0 0 0 0
+8 2000 0
+#14658
+legal briefs brief~
+a pair of legal briefs~
+A rather ragged pair of briefs lie here unnoticed.  ~
+~
+9 64 2049 0
+0 0 0
+5 3 0 0
+2 1600 200
+A
+5 2
+A
+3 -1
+E
+girth~
+A think, stout leather band with a buckle, tongue, and notches
+in the back for securing to one's waist. This one has been
+taken off the dead body of a halfling Thain, their highest
+legal authority. Thain girths are traditionally a symbol of
+rank, respect, and command among halflings, and as such are never
+handed out to fools.
+~
+#14659
+pen bic ballpoint~
+a Bic ballpoint pen~
+A Bic ballpoint pen does look mightier than the sword.  ~
+~
+5 671808 8193 0
+0 0 0
+0 9 3 6
+10 10000 500
+A
+11 15
+A
+10 15
+E
+sword broadsword~
+This is a massive sword of a height reaching your neck. It is
+extremely heavy, and only those who are strong of arm may even
+attempt wielding. Tiny motes of light swirl around it continuously.
+~
+#14660
+Stevie Ray Vaughn tour jacket black satin~
+a Stevie Ray Vaughan tour jacket~
+A black satin Stevie Ray Vaughan tour jacket lies here in a pile.  ~
+~
+9 9189888 1025 0
+0 0 0
+8 0 0 0
+7 65000 10000
+A
+17 2
+A
+18 2
+#14661
+swimsuit bikini micro suit blue~
+a tiny blue bikini~
+Two small strips of blue material lie near your feet.  ~
+~
+11 401472 9 0
+0 0 0
+0 0 0 0
+2 150 0
+A
+3 -2
+A
+13 2
+#14662
+peroxide potion~
+a bottle of peroxide~
+A bottle of peroxide has been set carefully down on the floor.  ~
+~
+10 5 1 0
+0 0 0
+30 39 36 4
+5 3500 0
+#14663
+train engine lionel~
+a Lionel steam engine(CHUGGING)~
+A beautifully maintained O gauge Lionel steam engine is here.  ~
+~
+11 968706 16385 0
+0 0 0
+0 0 0 0
+10 3300 0
+A
+10 20
+A
+13 4
+#14664
+battery double A AA aklaline everyready~
+a AA Everready battery~
+A small AA size Everready battery looks unused here.  ~
+~
+8 574530 16385 0
+0 0 0
+0 0 0 0
+10 2000 0
+A
+7 6
+#14665
+gavel hammer walnut~
+a walnut gavel~
+A heavy gavel carved from a piece of walnut lies here.  ~
+~
+5 705536 24577 0
+0 0 0
+0 4 5 7
+12 800 0
+A
+13 1
+#14666
+box cookies girl scout tagalongs tagalong~
+a box of Girl Scout tagalong cookies~
+A box of Tagalong cookies with the Girl Scout emblem lie here.  ~
+~
+19 0 1 0
+0 0 0
+0 0 0 0
+7 20 0
+#14667
+punchbowl bowl punch~
+a punchbowl full of a sizzling red liquid~
+An ornate punchbowl filled with a red liquid that sizzles is on the bar.  ~
+a Huge quantity of Molson Export Ale is all around...take a drink!~
+23 0 0 0
+0 0 0
+30000 30000 7 0
+99 0 0
+#14668
+invitation paper ~
+an invitation~
+A folded piece of paper lies here on the floor.  ~
+~
+16 0 1 0
+0 0 0
+0 0 0 0
+1 10 0
+E
+paper~
+The invitation is for this evenings party in the Addam's family
+mansion in the ballroom.  Did you forget to RSVP?
+~
+E
+invitation~
+The invitation is for this evenings party in the Addam's family
+mansion in the ballroom.  Did you forget to RSVP?
+~
+#14669
+desk drawer~
+a desk drawer~
+The desk drawer here looks locked.  ~
+~
+15 0 0 0
+0 0 0
+999 15 14671 0
+99 0 0
+#14670
+money bills cash wad~
+a thick wad of bills~
+A thick wad of big denomination bills is rolled into a coil.  ~
+~
+8 0 1 0
+0 0 0
+46270 0 0 0
+5 345932 0
+#14671
+key small brass~
+a small brass key~
+A small brass key is lying here by your foot.  ~
+~
+18 4 1 0
+0 0 0
+0 0 0 0
+2 10 0
+#14672
+bowler hat~
+Cousin It's bowler hat~
+A fairly small bowler hat covered with hair lies by your feet.  ~
+~
+11 9073664 17 0
+0 0 0
+0 0 0 0
+5 12000 0
+A
+17 2
+A
+23 4
+#14673
+comb pocket red~
+a red pocket comb~
+An unusually large comb lies here with very, very sharp tines.  ~
+~
+5 950274 8193 0
+0 0 0
+0 6 5 3
+10 1200 0
+A
+17 3
+A
+11 10
+#14674
+wrench craftsman Craftsman Sears sears~
+a 1/4 inch Craftsman wrench~
+A Craftsman wrench has been dropped here.  ~
+~
+5 933889 24577 0
+0 0 0
+0 4 4 7
+5 2000 0
+A
+17 1
+A
+18 1
+#14675
+wrench craftsman Craftsman Sears sears~
+a 3/4 inch Craftsman wrench~
+A Craftsman wrench has been dropped here.  ~
+~
+5 933889 24577 0
+0 0 0
+0 5 4 7
+8 7000 0
+A
+17 2
+A
+18 2
+#14676
+wrench craftsman Craftsman Sears sears~
+a 1 1/2 inch Craftsman wrench~
+A Craftsman wrench has been dropped here.  ~
+~
+5 933889 24577 0
+0 0 0
+0 5 5 7
+15 15000 0
+A
+17 3
+A
+18 2
+#14677
+beer sam addams lager samuel bottle~
+a bottle of Samuel Addams lager~
+A bottle of Samuel Addams lager looks inviting here.  ~
+~
+17 0 16385 0
+0 0 0
+5 5 1 0
+10 5 0
+A
+5 1
+A
+3 -1
+#14678
+scalpel knife~
+a rusty scalpel~
+A rusty scalpel lies here glittering in the light.  ~
+~
+5 8695808 8193 0
+0 0 0
+0 6 4 3
+10 500 0
+A
+1 2
+A
+5 2
+#14679
+belt tool leather~
+a leather tool belt~
+A Tru-Value hardware tool belt lies here.  ~
+~
+11 0 2049 0
+0 0 0
+0 0 0 0
+7 8000 0
+A
+2 2
+A
+16 -4
+#14680
+key shed~
+the shed key~
+A key with 'SHED' scratched onto it lies here forgotten.  ~
+~
+18 44 1 0
+0 0 0
+0 0 0 0
+5 100 0
+#14681
+cap hat bubba gump~
+a Bubba Gump Shrimp Company hat~
+A colorful baseball cap with a logo on it lies here.  ~
+~
+11 9319424 17 0
+0 0 0
+0 0 0 0
+8 8 0
+A
+11 5
+A
+17 3
+#14682
+weed wacker Homelite homelite~
+a Homelite weed wacker~
+A heavy duty weed wacker made by Homelite lies here idle.  ~
+~
+5 8418306 8193 0
+0 0 0
+0 6 5 7
+19 1200 0
+A
+17 2
+A
+18 4
+$

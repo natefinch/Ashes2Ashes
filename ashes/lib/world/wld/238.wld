@@ -1,0 +1,425 @@
+#23800
+Grand Entrance to the Visitors Center~
+You are passing under immense stone columns and up large stone steps that
+have been encrusted with relics of the once-age of the mighty DINOSAURS! You
+stand in awe at the almost lifelike scenes that are before you of fighting
+beasts and dying men.  Did that Tri-tops skeleton just blink?
+~
+238 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23801
+D2
+~
+~
+0 -1 23716
+S
+#23801
+Climbing the steps to the Visitors Center~
+Mosaics of Days long past still surround you and the huge greek style columns
+depict vivid images of a time when all of mankind was but a flowering
+prospect in a pool of sludge. At your left and right you can almost encompass
+the entire island in but a glance, the architectural wonder of this building
+alone makes you wish you had visited this lost isle sooner.
+~
+238 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23802
+D2
+~
+~
+0 -1 23800
+S
+#23802
+The Grand Entranceway to the Visitor Center Museum~
+Someone has gone to great lengths to allow you to watch the re-creation of
+life through DNA reformatting and your eyes are particularly drawn to the
+giants of the era that are suspended from the Ceiling in the rooms ahead, you
+can make out the remains of the T-REX from here.
+~
+238 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23803
+D2
+~
+~
+0 -1 23801
+S
+#23803
+The Grand Foyer~
+To your left and right various exhibits displaying dinosaur skeletons hang
+from the ceiling in life-like poses, and straight ahead is the entrance to
+the dining facilities of the park.
+~
+238 6276 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23825
+D1
+~
+~
+0 -1 23829
+D2
+~
+~
+0 -1 23802
+D3
+~
+~
+0 -1 23831
+D6
+~
+~
+0 -1 23824
+D7
+~
+~
+0 -1 23826
+S
+#23804
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23805
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23806
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23807
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23808
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23809
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23810
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23811
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23812
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23813
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23814
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23815
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23816
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23817
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23818
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23819
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23820
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23821
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23822
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23823
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23824
+The Omnivore Exhibit~
+This room is dedicated to the omnivores of the age of the dinosaurs, the
+dilosaurus, the mastadon, and the master of all these, the Stegosaurus.  Over
+Thirty feet long and all muscle you can only imagine what beasts dared to
+stand up against this mighty dino. You see the corpses of many Sabretooth
+tigers, Lions, bears and tour guides...littering the floor...TOUR GUIDES?
+~
+238 14336 0
+0d0+0 0 0
+D9
+~
+~
+0 -1 23803
+S
+#23825
+Tri-tops exhibit~
+The bones that litter this room are of ancient man and ancient beast or not
+so ancient man as you get a closer look...some of them are fresh kills and
+the stench of the rotting flesh makes you search for a corner to relieve
+yourself in.
+~
+238 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 23803
+S
+#23826
+The Raptor Exhibit~
+This room is totally covered in flesh that has been rended from the bones of
+unwary wanderers and it seem to center around the large Raptor Skeleton at
+the northernmost part of the room.
+~
+238 14336 0
+0d0+0 0 0
+D8
+~
+~
+0 -1 23803
+S
+#23827
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23828
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23829
+Pteradactyl Exhibit~
+The bones that litter the floor of this exhibit seem to be picked clean,
+cracked and the marrow sucked out of them as if a giant savage beast was very
+hungry.  Just as you begin to admire the exhibit for it's realism you feel a
+drop of something warm hit the back of your neck, look up and see the largest
+set of glowing eyes floating in an empty skull seem to admire you as lunch.
+~
+238 14336 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 23803
+S
+#23830
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23831
+The T-Rex Exhibit~
+The walls of this room are covered in what seems to be the most realistic
+blood red paint you have ever seen.  Pieces of half eaten half rotten corpses
+adorn the floor of this chamber, and in the center of it all is a huge
+skeletal makeup of the mighty king of the dinosaurs the T-Rex.  Is it your
+imagination or did it just move?
+~
+238 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23803
+S
+#23832
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23833
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23834
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23835
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23836
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23837
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23838
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23839
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23840
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23841
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23842
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23843
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23844
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23845
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23846
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23847
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23848
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23849
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23850
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23851
+~
+~
+238 0 0
+0d0+0 0 0
+S
+#23852
+~
+~
+238 0 0
+0d0+0 0 0
+S
+$

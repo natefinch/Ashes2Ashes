@@ -1,0 +1,3962 @@
+#6601
+At the noodle bar~
+A long row of stools are here in front of a busy Noodle Bar counter.
+Flickering neon lights crackle above the chipped countertop which is
+cluttered with plates of sushi, bowls, chopsticks, and various utensils.
+The food must be good since most of the stools are taken.  Steam rises
+from the woks behind the counter while the cooks rush back and forth
+serving their customers.
+~
+66 0 1
+0d0+0 0 0
+D0
+You'll have to climb over the counter to go there.
+~
+~
+0 -1 6603
+D2
+~
+~
+0 -1 6664
+S
+#6602
+On the street - Sector 4~
+You are standing at the top of some grimy, rain-slick stairs which
+lead down to the subway station.  Rusty iron bars serve as handrails
+along the stairs which lead deep underground.  You can feel a blast of
+cold, foul air coming from below.
+~
+66 262144 1
+0d0+0 0 0
+D1
+A crowded noodle bar is just a few steps away.
+~
+~
+0 -1 6664
+D3
+Some old apartments are just down the street.
+~
+~
+0 -1 6610
+D5
+Stairs lead down towards the subway station.
+~
+~
+0 -1 6605
+S
+#6603
+Behind the counter~
+Steam and the smell of cooking food surrounds you as you stand in the
+middle of the noodle bar.  Rows of black iron woks filled with shrimp,
+chicken, and various vegetables are sizzling along the back.  Piles of
+cracked plates and tarnished knives and forks are stacked below the
+counters, along with dozens of cardboard boxes filled with produce.
+A freezer door is at the rear but it has a heavy padlock on it.
+~
+66 262144 0
+0d0+0 0 0
+D0
+A heavy stainless steel door leads to the freezer.  ~
+door~
+2 6608 6604
+D2
+If you climb over the counter to the south, you can get back on the street.
+~
+~
+0 -1 6601
+S
+#6604
+In the freezer~
+It's freezing cold inside this walkin freezer.  Despite the frigid
+temperature, it still smells like something has spoiled in here.
+Boxes and crates with Chinese writing on them are piled up to the
+ceiling.  For some strange reason, some of the boxes have a picture
+of a dog on the side.  The exit is to the south.
+~
+66 14345 0
+0d0+0 0 0
+D2
+A heavy stainless steel door is the only way out.  ~
+door~
+2 6608 6603
+S
+#6605
+On the stairs~
+You are standing on a long, dark stairway which angles down toward the
+subway station.  The stairs look rather odd and you suddenly realize
+that you are climbing a long-broken escalator.  Above you the sounds
+of the city sound oddly muffled, while below odd sounds echo in the
+damp air that swirls up from below.
+~
+66 262409 0
+0d0+0 0 0
+D4
+The stairs lead up toward the street.
+~
+~
+0 -1 6602
+D5
+You can see the bottom of the stairs in the distance.
+~
+~
+0 -1 6606
+S
+#6606
+At the turnstiles~
+Eight rusty turnstiles stand side by side waiting for you to drop a 
+token into their slot.  To the east stands a row of token machines,
+most of which have been broken into.  Beyond the turnstiles to the
+north is the eastern end of the subway platform.  Behind you are the
+stairs leading back up to the city streets.
+~
+66 9 0
+0d0+0 0 0
+D0
+Over the turnstiles you can see the subway platform.
+~
+~
+0 -1 6607
+D4
+A stairway leads up towards the south.  
+~
+~
+0 -1 6605
+S
+#6607
+East side of the platform~
+Standing on the eastern end of the underground subway platform, you
+shiver in the chill breeze blowing from the dark tunnels ahead.  You
+can see the platform stretching into the darkness to the west while
+to the south the exit turnstiles stand waiting.
+~
+66 262153 0
+0d0+0 0 0
+D0
+You can hear the powered rail crackling down on the tracks.
+~
+~
+0 -1 6772
+D2
+Beyond the exit turnstiles you can see token machines and the stairs.
+~
+~
+0 -1 6606
+D3
+The platform continues to the west.
+~
+~
+0 -1 6608
+S
+#6608
+Center of the platform~
+Here at the center of the subway station platform, you can clearly see
+the dark tunnels at both ends of the sunken track to the north.  Sparks
+of electricity shower occasionally from the high voltage rails, filling
+the air with the smell of ozone.  The cold breeze blowing fitfully from
+the subterranean tunnels does little to disperse the odor.  The
+platform continues to the east and the west.
+~
+66 9 0
+0d0+0 0 0
+D0
+You can hear the powered rail crackling down on the tracks.
+~
+~
+0 -1 6772
+D1
+The platform continues to the east.
+~
+~
+0 -1 6607
+D3
+The platform continues to the west.
+~
+~
+0 -1 6609
+S
+#6609
+West side of the platform~
+You are standing at the end of a long subway platform.  A foul, damp wind
+is blowing here from the black tunnel entrance that is in front of you.
+An ancient, abandoned subway car is to the north covered with graffiti.
+Piles of debris rustle at your feet while the sounds of rats, or something
+worse, echoes in the darkness.
+~
+66 13 0
+0d0+0 0 0
+D0
+The ancient subway car's door looks easy to open.  ~
+door~
+1 -1 6741
+D1
+The platform continues to the east.
+~
+~
+0 -1 6608
+E
+graffiti~
+Most of the graffiti is unintelligible, having something to do with some
+sort of gang called the Angels of Darkness.
+~
+S
+#6610
+On the street - Sector 4~
+You are standing outside the front entrance of the Ford Apartments.
+This crumbling building was constructed well over a century ago and
+has been rebuilt several times.  Only several stories tall, this
+neo-gothic structure is soot-blackened and slowly crumbling into
+obsolescence.
+~
+66 0 0
+0d0+0 0 0
+D0
+A heavy glass door leads into the building.  ~
+door~
+1 -1 6611
+D1
+A subway station entrance is just to the east.
+~
+~
+0 -1 6602
+D2
+A heavy glass door leads into the theater lobby.  ~
+door~
+1 -1 6737
+D3
+~
+~
+0 -1 6667
+S
+#6611
+In the lobby~
+You are in the central lobby of the Ford Apartment Building.  The lobby
+is decorated with lots of ferns and overstuffed chairs.  There is
+a small shop to the east and the front desk to the west.  The center
+of the building is open with walkways circling each floor.  There is
+a lift on the north side of the lobby.
+~
+66 262152 0
+0d0+0 0 0
+D0
+An accordian-like metal door leads to the lift.  ~
+door~
+1 -1 6614
+D1
+A small gift shop lies just beyond the door.  ~
+door~
+1 -1 6613
+D2
+A heavy glass door leads back to the street.  ~
+door~
+1 -1 6610
+D3
+The front desk is just to the west.
+~
+~
+0 -1 6612
+S
+#6612
+The front desk~
+The front desk of the apartment building is a massive, oak counter
+with rows of mail cubbyholes and keys lined up on the back wall.
+There is a large register on the counter and some brochures on the
+off-world colonies.  The odor of cigarettes is very strong here.
+~
+66 262152 0
+0d0+0 0 0
+D1
+The rather musty lobby is just beyond the desk.
+~
+~
+0 -1 6611
+S
+#6613
+The gift shop~
+This grimy little store has definitely seen better days.  Most of the
+shelves are empty and what little there is for sale doesn't interest
+you very much.  The hotel lobby was a lot more exciting.
+~
+66 8 0
+0d0+0 0 0
+D3
+The lobby is just beyond the door.  ~
+door~
+1 -1 6611
+S
+#6614
+In the lift - first floor~
+You are in a creaky, rusty lift that occasionally shudders and groans
+and makes you nervous as hell.  Through the cage you can see the lobby
+of the apartment building.  The controls are a simple up and down
+button, both of which are worn to near illegibility.
+~
+66 12 0
+0d0+0 0 0
+D2
+The lift door is rusty and difficult to move.  ~
+door~
+1 -1 6611
+D4
+A sputtering neon tube lights the lift.
+~
+~
+0 -1 6615
+S
+#6615
+In the lift - second floor~
+Stopped at the second floor, you have a nice view of the lobby below.
+The lift groans ominously and smells strongly of grease and hot
+electronics.  It will be nice to get off as soon as possible.
+~
+66 12 0
+0d0+0 0 0
+D0
+The lift exit is to your north.  ~
+door~
+1 -1 6617
+D4
+A sputtering neon tube lights the lift.
+~
+~
+0 -1 6616
+D5
+The floor lies beneath your feet.
+~
+~
+0 -1 6614
+S
+#6616
+In the lift - third floor~
+The third floor is dark and musty, you can't see very much from inside
+the lift.  You can hear the sound of water dripping and the soft 
+flutter of wings.  You can hear your blood rushing in your ears as
+each breath echoes faintly in the darkness.
+~
+66 12 0
+0d0+0 0 0
+D0
+The lift exit is to the north.  ~
+door~
+1 -1 6699
+D5
+The floor lies beneath your feet, of course.
+~
+~
+0 -1 6615
+S
+#6617
+The hallway~
+You are standing on the second floor walkway which leads to several
+different apartments.  The lift is directly to the south as is the
+open central atrium of the building.  You can see several people
+moving around the lobby below.  The hallway goes both east and west
+and you can see both turn towards the south.
+~
+66 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6618
+D2
+The lift is just to your south.  ~
+door~
+1 -1 6615
+D3
+~
+~
+0 -1 6621
+S
+#6618
+The hallway~
+You are standing on the second floor walkway where it turns
+between the north and east walls.  You can clearly see the lift just
+to the west and through the rusty railing, you can see the lobby far
+below.  There is a door to the north.
+~
+66 8 0
+0d0+0 0 0
+D0
+This door has the number 203 on it.  ~
+door~
+2 6601 6620
+D2
+~
+~
+0 -1 6619
+D3
+~
+~
+1 -1 6617
+S
+#6619
+The hallway~
+You're at the end of the walkway which runs along the inside of the
+second floor.  The sounds of the lobby drift up from below as you
+stand outside a door to your east.  You can see the lift just to the
+northwest, just past the point where the walkway turns west.
+~
+66 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6618
+D1
+This door has the number 204 on it.  ~
+door~
+2 6601 6620
+S
+#6620
+phantom room~
+This room used in blade runner zone as room past locked doors that
+do not lead anywhere.
+~
+66 14340 0
+0d0+0 0 0
+S
+#6621
+The hallway~
+You are standing where the second floor walkway turns to run along the
+north and west walls.  Through the rusty iron railings you can see the
+lobby below and the lift just to your east.  There is a door to the
+north.
+~
+66 8 0
+0d0+0 0 0
+D0
+This door has the number 202 on it.  ~
+door~
+2 6601 6620
+D1
+~
+~
+0 -1 6617
+D2
+~
+~
+0 -1 6622
+S
+#6622
+The hallway~
+You are standing at the end of the second floor walkway looking over
+the open atrium in the middle of the apartment building.  You can see
+the lift to the northeast through the rusty iron railing and far below,
+several people are moving about.  There is a door to the west.
+~
+66 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6621
+D3
+The door has the number 201 on it.  ~
+door~
+2 6609 6623
+S
+#6623
+The foyer~
+The foyer into this apartment is large with high, vaulted ceilings.
+Soft glowing neon tubes light the cluttered interior of this apartment
+where sheets cover most of the furniture and dust covers everything else.  
+You think you detect some faint sounds of movement somewhere inside.
+The exit is to the east.
+~
+66 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6625
+D1
+The front door is made of some type of dark metal.  ~
+door~
+2 6609 6622
+D3
+~
+~
+0 -1 6624
+S
+#6624
+The living room~
+The living room is filled with big, comfortable furniture.  A huge
+wool carpet covers the floor where stains and debris make the pattern
+difficult to distinguish.  A space heater is positioned in front of
+a large couch that is covered with journals on genetic engineering.
+~
+66 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6631
+D1
+~
+~
+0 -1 6623
+D3
+A sliding glass door leads to the balcony.  ~
+door~
+1 -1 6632
+S
+#6625
+The hallway~
+This short hallway leads from the foyer down towards what you assume
+are the bedrooms.  There is a brass coatrack mounted to the wall and
+you detect the faint odor of chemicals in the air.  You can see a
+flickering light coming from under the door just to the north.
+~
+66 9 0
+0d0+0 0 0
+D0
+A door leads to the next room.  ~
+door~
+1 -1 6626
+D1
+A door leads to the next room.  ~
+door~
+2 6602 6627
+D2
+~
+~
+0 -1 6623
+D3
+~
+~
+0 -1 6628
+E
+coatrack~
+This brass coatrack has hooks for eight different garments.  It is
+heavily tarnished and appears to be somewhat loosely mounted in the
+wall.
+~
+S
+#6626
+The master bedroom~
+This large bedroom is furnished with a massive trestle bed with matching
+dressers on either side.  Clothing and dirty dishes are strewn all
+over the floor and there is a book on the nightstand.  There
+is a beautiful marble chess set with a game in progress set in the
+middle of the floor.
+~
+66 9 0
+0d0+0 0 0
+D2
+A door leads back to the hallway.  ~
+door~
+1 -1 6625
+E
+bed~
+This large antique trestle bed is beautifully crafted from raw oak
+stained dark by time.  The heavy comforter thrown over the bed does not
+hide the unmade bed beneath.  The bed has a somewhat unpleasant, sour
+odor and looks rather unappealing.
+~
+E
+book~
+This heavy medical journal is on Methuslah's Syndrome.  You might find it
+interesting if you were having trouble sleeping.
+~
+E
+dresser~
+Both dressers are heavy, ornate pieces of furniture with some of the
+drawers missing.  Most of the drawers are empty since so many clothes
+appear to be strewn about on the floor.
+~
+S
+#6627
+The bedroom~
+This room has been converted into some sort of makeshift laboratory.
+There are mountains of arcane equipment, books, papers, and various
+electronic devices whose purpose you can't even begin to guess.
+There is a strong chemical odor in this room as well as the faint
+odor of decay.  
+~
+66 8 0
+0d0+0 0 0
+D3
+A door leads back to the hallway.  ~
+door~
+2 6602 6625
+S
+#6628
+The hallway~
+This short hallway leads from the bedrooms to the east to the kitchen.
+The carpeting shows signs of heavy wear here and the walls are marked
+and stained.  There is a door to the north from which you can hear
+the sound of dripping water.
+~
+66 9 0
+0d0+0 0 0
+D0
+A door leads to the next room.  ~
+door~
+1 -1 6629
+D1
+~
+~
+0 -1 6625
+D3
+~
+~
+0 -1 6630
+S
+#6629
+The bathroom~
+This large bathroom is dramatically done in black enamel and brass.
+Mirrors cover the walls and the floor has a black and white checkerboard
+pattern.  Once beautiful, this magnificent facility is now stained,
+cracked, and smells of mildew.  If you were desperate you might make
+use of the oddly small toilet or stub.
+~
+66 9 0
+0d0+0 0 0
+D2
+A door leads back to the hallway.  ~
+door~
+1 -1 6628
+E
+tub~
+This huge black tub has ornate brass faucets and numerous spa jets
+ringing its perimeter.  Soap scum has marred the beauty of this
+elegant tub where water drips constantly from the poorly maintained
+plumbing.
+~
+E
+toilet~
+This toilet is oddly smaller than usual and a quick, nervous glance
+reveals that it still works.  
+~
+E
+sink~
+The sink appears to be carved from a single, massive slab of black marble.
+Ornate brass faucets match the ones in the tub, and drip just as
+incessantly.
+~
+S
+#6630
+The kitchen~
+The kitchen is filthy and cluttered with piles of plates and cooking
+utensilss.  Open cans and vacupacks litter the floor, while the
+freezedry reconstitutor has been taken apart for some reason.  The
+oven looks operational and the refrigerator is humming quietly.  A
+single neon ring lights the room brightly.
+~
+66 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6628
+D3
+~
+~
+0 -1 6631
+S
+#6631
+The dining room~
+The dining room is empty except for a couple of mismatched chairs.
+The floor is covered with sawdust and splinters leaving you to believe
+that the table may have been cut into pieces.  An elaborate crystal
+chandelier hangs over the center of the room.
+~
+66 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6630
+D2
+~
+~
+0 -1 6624
+S
+#6632
+The balcony~
+This spacious balcony has a spectacular view of the city despite the
+fact that it is only on the second floor.  Heavy cast iron railings
+wrap around the balcony and there are some rotting pieces of lawn
+furniture out here.  It is cold and drizzling and you consider
+retreating back into the apartment.
+~
+66 0 0
+0d0+0 0 0
+D1
+A sliding glass door leads back into the apartment.  ~
+door~
+1 -1 6624
+S
+#6633
+On the street - Sector 7~
+You are standing outside of a huge, ancient building that looks like an
+old train station or warehouse.  Tall windows line both sides of the
+building and on the rooftop you can see Police spinners landing and
+taking off from the landing pad.  The station seems pretty busy and
+its oppressive appearance makes you reluctant to go inside.
+~
+66 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6669
+D2
+The massive steel door is marked 'Police'.  ~
+door~
+1 -1 6634
+D3
+A door with a broken lock leads into an old warehouse.  ~
+door~
+1 -1 6719
+S
+#6634
+Inside the station~
+The interior of the police station is a huge room with a very high
+ceiling.  Rows of windows pierce the east and west walls, high off of
+the floor.  The day sergeant sits to the west, the exit is to
+the north, and to the south are numerous benches and chairs where the
+police deal with criminals and their victims.  The air is rather smoky
+despite the slowly turning fans that hang from the ceiling.
+~
+66 12 0
+0d0+0 0 0
+D0
+This door leads back onto the street.  ~
+door~
+1 -1 6633
+D2
+~
+~
+0 -1 6637
+D3
+~
+~
+0 -1 6635
+S
+#6635
+At the day sergeant's desk~
+Here by the front door is where the day sergeant normally sits.  There
+is a cluttered oak desk behind which he keeps track of the daily
+business of the police station.  You notice empty donut boxes piled
+up behind the desk.
+~
+66 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6634
+D2
+~
+~
+0 -1 6636
+S
+#6636
+In the waiting room~
+The windows high above barely illuminate this part of the police station
+waiting room.  Rows of benches here remind you of the interior of a
+train station.  Various people move about and the hum of conversation echoes
+through the smoky, dim room.
+~
+66 262152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6635
+D1
+~
+~
+0 -1 6637
+D2
+~
+~
+0 -1 6638
+S
+#6637
+In the waiting room~
+Rows of benches run side by side here where policemen speak with victims
+and accused criminals.  There is a great deal of debris on the floor,
+including lots of cigarette butts that must be the reason for the smoky
+haze that covers the large waiting room around you.  There is a door in
+sight to the south and the exit to the north.
+~
+66 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6635
+D2
+~
+~
+0 -1 6639
+D3
+~
+~
+0 -1 6636
+S
+#6638
+In the waiting room~
+Here at the back of the police station waiting room the crowd has
+thinned somewhat, perhaps because people do not want to get too close
+to the grimy cellblock that is just to the south.  Flickering neon
+lights brightly illuminate the cellblock, casting long shadows behind
+you.
+~
+66 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6636
+D1
+~
+~
+0 -1 6639
+D2
+~
+~
+0 -1 6642
+D3
+The door reads "Interrogation Room."  ~
+door~
+2 -1 6641
+S
+#6639
+In the waiting room~
+Here at the far end of the waiting room you can see just how large this
+room is.  The exit door is barely visible through the smoke far to the
+north.  An office door is to your south and you can see an opening a
+ways to the west.  
+~
+66 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6637
+D2
+The frosted glass window on the door reads "Inspector Bryant - Blade
+Runner Section Commander."  ~
+door~
+1 -1 6640
+D3
+A soundproof door with "INTERROGATION" on it is here.  ~
+door~
+1 -1 6638
+S
+#6640
+Bryant's office~
+This cramped office is cluttered and dirty.  There is a large desk with
+an incredibly ugly lamp and piles of papers.  A television flickers from
+a wall mount next to an old coatrack and a wooden file cabinet.  The
+windows that once looked out over the waiting room have been painted 
+over.  A single fan blade turns slowly overhead, stirring the stale
+cigarette smoke that seems to fill the entire station.
+~
+66 8 0
+0d0+0 0 0
+D0
+This door has a large, frosted glass window.  ~
+door~
+1 -1 6639
+S
+#6641
+Interrogation room~
+This small room has heavy soundproof walls and a large mirror on the
+wall.  There is a single chair in the middle of the room with two cuffs
+attached to the arms.  There are some dark stains on the floor which
+you hope are just old coffee stains.
+~
+66 8328 0
+0d0+0 0 0
+D1
+The soundproof door has no knob on it.  ~
+door~
+2 6601 6638
+S
+#6642
+Cell block entrance~
+A massive door made of steel bars separates you from the dangerous
+criminals that undoubtedly are locked up in the cellblock to the
+south.  The acrid smell of disinfectant and unwashed bodies assaults
+your nose as you stand beneath the flickering neon lights.  
+~
+66 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6638
+D2
+A heavy barred door leads into the cell block.  ~
+door~
+2 6607 6643
+S
+#6643
+Cellblock hallway~
+You are standing on a short, brightly lit cellblock hallway.  There are
+two cells doors to either side of you and two more doors to your south.
+The exit door is to the north.
+~
+66 10248 0
+0d0+0 0 0
+D0
+A heavy barred door leads back into the station.  ~
+door~
+2 6607 6642
+D1
+The heavy steel door has a faded number 1 on it.  ~
+door~
+2 6610 6647
+D2
+~
+~
+0 -1 6644
+D3
+The heavy steel door has a faded number 4 on it.  ~
+door~
+2 6613 6648
+S
+#6644
+Cellblock hallway~
+You are at the end of the cellblock hallway.  Two cell doors are on
+either side of you and there are two more just to your north.  At the
+very end is the exit, a heavy steel door.  The unpleasant odors and
+the overbright lights make you want to leave as soon as possible.
+~
+66 10248 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6643
+D1
+The heavy steel door has a faded number 2 on it.  ~
+door~
+2 6611 6646
+D3
+The heavy steel door has a faded number 3 on it.  ~
+door~
+2 6612 6645
+S
+#6645
+Holding cell number 3~
+This small cell has the usual stainless steel toilet and sink with a
+hard bunk along the wall.  There is a large dark stain on the floor
+which has a faint brownish tinge to it.  Like the rest of the cellblock,
+this cell smells strongly of antiseptics and some less pleasant odors.
+The usual graffiti is scrawled on the walls.
+~
+66 10248 0
+0d0+0 0 0
+D1
+The heavy steel door is rusty but solid.  ~
+door~
+2 6612 6644
+E
+graffiti~
+The badly scrawled graffiti reads:
+   Fiery the angels fell.
+   Deep thunder rode around their shores.
+   Burning with the fires of Orc.
+~
+S
+#6646
+Holding cell number 2~
+This cell is a bit cleaner than the rest.  The stainless steel sink,
+toilet, and the hard bunk all look fairly clean.  Perhaps the recent
+inmates were cleaner than the usual customers here.  Numerous obscene
+drawings cover the walls, as well as the usual written graffiti.
+~
+66 10248 0
+0d0+0 0 0
+D3
+The heavy steel door is rusty but solid.  ~
+door~
+2 6611 6644
+E
+graffiti~
+The graffiti reads "Booof wrote this zone."  ~
+S
+#6647
+Holding cell number 1~
+This small cell has thousands of thin, vertical scratches in the walls
+as if some inmate repeatedly dragged his fingernails down the walls,
+gouging out the paint from the concrete.  There is the usual steel sink
+and toilet, and a somewhat sagging bunk.  As with most places like this,
+graffiti covers the walls.
+~
+66 0 0
+0d0+0 0 0
+D3
+The heavy steel door is rusty but solid.  ~
+door~
+2 6610 6643
+E
+graffiti~
+The graffiti reads:
+   Toad was here
+   INCEPT DATE:  12 June, 2016
+   FUNC:  Colonization Defense Prog
+   PHYS:  A
+   MENT:  A
+~
+S
+#6648
+Holding cell number 4~
+This small cell has a simple bunk with a metal toilet and sink.  The
+concrete floor looks freshly hosed down.  You wonder what the police
+may have been cleaning up.  The smell of strong antiseptics makes
+your  nose itch as you look at the graffiti on the wall.
+~
+66 10248 0
+0d0+0 0 0
+D1
+The heavy steel door is rusty but solid.  ~
+door~
+2 6613 6643
+E
+graffiti~
+Some has scrawled the words, "Ridley Scott is god" on the wall.  ~
+S
+#6649
+On the street - Sector 4~
+You are standing on the street outside of the notorious nightclub
+owned by Taffy Lewis.  The street is brightly lit by the neon lights
+which surround the sign describing the entertainment available within.
+You notice that they do take all major credit cards.
+~
+66 262144 1
+0d0+0 0 0
+D0
+A heavy armored door leads into the club.  ~
+door~
+1 -1 6650
+D1
+~
+~
+0 -1 6665
+D2
+The door to an abandoned storefront is to the south.  ~
+door~
+2 6601 6620
+D3
+An outdoor sushi bar is just down the street to the west.
+~
+~
+0 -1 6664
+E
+sign~
+The sign shows a picture of a beautiful woman with a large snake draped
+strategically across her nude body.  The caption reads "SEE MISS SOLAMAY
+AND HER SERPENT.  SEE HER TAKE THE PLEASURES FROM THE SERPENT THAT ONCE
+CORRUPTED MAN."
+~
+S
+#6650
+The cloakroom~
+Standing just inside the entrance to Taffy Lewis' nightclub, you can hear 
+music, laughter, and clinking glass coming from the smoky room to the
+north.  A hatcheck girl is here to take your coat and hat if you want.
+Open 24 hours a day, this club is notorious for attracting the rich
+and powerful, as well as the leading underworld figures in the sector.
+Hope you brought lots of money as the drink are very expensive here.
+~
+66 12 0
+0d0+0 0 0
+D0
+A busy bar lies just inside the club.  
+~
+~
+0 -1 6651
+D2
+An armored door leads back out to the street.  ~
+door~
+1 -1 6649
+S
+#6651
+At the bar~
+Here in the center of the long wooden bar is where Taffy Lewis is known
+to hold court.  With a commanding view of the entire nightclub, including
+the front door, Taffy can keep on eye on his business and his customers.
+The bartop here is a bit cleaner than the rest of the bar although there
+are still numerous glasses and cigarettes covering the polished surface.
+~
+66 262152 0
+0d0+0 0 0
+D1
+The bar continues to the east.  Just past the end you can see the
+dance floor and the stage.
+~
+~
+0 -1 6653
+D2
+The cloakroom and club entrance are to the south.
+~
+~
+0 -1 6650
+D3
+The bar continues to the west.
+~
+~
+0 -1 6652
+S
+#6652
+At the bar~
+You are standing at the west end of the nightclub with your back to the
+door and a nice view of the whole establishment.  The long wooden bar 
+stretches towards the west where you can see the dance floor in the
+distance.  The bar is covered with empty glasses and smoldering cigarette
+butts in ashtrays.  There is a payphone on the wall.
+~
+66 0 0
+0d0+0 0 0
+D1
+The bar continues to the east.
+~
+~
+0 -1 6651
+E
+payphone~
+This visiphone has an "OUT OF ORDER" message flashing faintly on its fuzzy
+video screen.  Someone has attempted to pirate some calls as the front
+panel has been loosened and some wires are hanging from the bottom.
+~
+S
+#6653
+At the bar~
+Here at the eastern end of the bar, the music from the dance floor is
+so loud you can barely hear yourself talk.  Through the cigarette haze
+and the flickering lights you can see a stage to the northeast.  The
+polished top of the bar is cluttered with dozens of empty glasses and
+piles of half-smoked cigarettes.
+~
+66 0 0
+0d0+0 0 0
+D1
+The dance floor is directly in front of you.
+~
+~
+0 -1 6654
+D3
+The bar continues to the west.
+~
+~
+0 -1 6651
+S
+#6654
+On the dance floor~
+The green dance floor is just south of the stage and east of the bar.
+Lights and speakers mounted on the ceiling keep the music blasting
+and the dancers well illuminated.  The floor is rather sticky here,
+probably from too many spilled drinks.  You feel a slight urge to
+break into the electric slide.
+~
+66 262152 0
+0d0+0 0 0
+D0
+The stage is only a few feet above the dance floor.
+~
+~
+0 -1 6658
+D1
+~
+~
+0 -1 6655
+D3
+~
+~
+0 -1 6653
+S
+#6655
+On the dance floor~
+The dance floor is made of some sort of green wood, probably from an
+Offworld colony.  Highly polished, the floor reflects the various lights
+that bathe the dance floor from above.  Small ceramic speaker modules
+direct loud music from the ceiling to keep the dancers moving.  The bar
+can be seen to the west while the stage is to the north.
+~
+66 8 0
+0d0+0 0 0
+D0
+The stage lies just to the north.  You could climb up with no problem.
+~
+~
+0 -1 6657
+D1
+A sign on the door reads "DO NOT DISTURB."  ~
+door~
+1 -1 6656
+D3
+~
+~
+0 -1 6654
+S
+#6656
+The sound booth~
+This tiny room is bathed with the soft lights from all of the electronic
+equipment that has been installed in racks covering all three
+walls.  Amplifieres, mixers, reverb units, holoprojection generators,
+and a small ESPER computer are mixed in with wires, cables, and pieces
+of equipment you can't identify.  The air is very warm from all of the
+equipment but luckily fresh air is circulating through a small vent in
+the ceiling.
+~
+66 9 0
+0d0+0 0 0
+D3
+A door leads back onto the dance floor.  ~
+door~
+1 -1 6655
+S
+#6657
+On stage~
+Here on stage right, you can see the majority of the nightclub through
+the smoke and crowd.  The blinking stage lights are distracting and
+make your stomach feel slightly queasy.  The heavy green curtain
+that hangs behind the stage smells like must and cigarette smoke.  The
+dance floor is a short hop to the south.
+~
+66 12 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 6655
+D3
+~
+~
+0 -1 6658
+S
+#6658
+On stage~
+The left side of the stage looks over the dance floor and has a good
+view of the bar.  The floor is worn but clean and various colored
+stage lights blink on and off, giving the stage a somewhat surreal
+appearance.  A heavy green curtain hangs behind the stage.
+~
+66 12 0
+0d0+0 0 0
+D0
+A heavy green curtain hangs behind the stage.  ~
+curtain~
+1 -1 6659
+D1
+~
+~
+0 -1 6657
+D2
+~
+~
+0 -1 6654
+S
+#6659
+Backstage~
+Here behind the stage curtain is a constant hub-bub of activity.  With
+dressing rooms, the stage, and the stage door here, people are coming
+and going around the clock.  There are ropes controlling the curtains
+on the walls and some electrical panels to control the lights.
+You can feel the vibration of the loud music playing on the dance 
+floor on the other side of the curtain to the south.
+~
+66 8 0
+0d0+0 0 0
+D0
+The dressing room is just to the north.  ~
+door~
+1 -1 6660
+D1
+The stage door leads out to a dark alley.  ~
+door~
+2 -1 6663
+D2
+A heavy green curtain is draped behind the stage.  ~
+curtain~
+1 -1 6658
+D3
+A sign on this black door reads "WARDROBE."  ~
+door~
+1 -1 6662
+S
+#6660
+The dressing room~
+The dressing room has several vanities with large, well-lit mirrors for
+the various entertainers to dress and prepare themselves.  Piles of
+makeup containers and hair grooming items litter the tops of the
+dressing room tables.  The usual hair driers, towels, and bathrobes
+are hanging next to the shower stall to the west.
+~
+66 8 0
+0d0+0 0 0
+D2
+The dressing room door is always opening and closing.  ~
+door~
+1 -1 6659
+D3
+A clear plastic curtain hangs in front of the shower.  ~
+curtain~
+1 -1 6661
+S
+#6661
+In the shower~
+This standard electrostatic shower stall could use a good cleaning.  The
+controls are heavily caked with soap scum and small sequins are all over
+the floor.  The stall has all of the usual bathing items in it.
+~
+66 8 0
+0d0+0 0 0
+D1
+A clear plastic curtain barely hides you from view.  ~
+curtain~
+1 -1 6660
+S
+#6662
+The wardrobe room~
+This small room is filled with racks and racks of hanging clothes.
+Mostly elaborate costumes, the sequins glitter gives the room the
+look of a treasure room.  The smell of sweat and must fills the room
+where the floor has not been swept for a long time.  The muffled sounds
+from the dance floor echo hollowly in the wardrobe room.
+~
+66 9 0
+0d0+0 0 0
+D1
+A black door leads back to the backstage area.  ~
+door~
+1 -1 6659
+S
+#6663
+By the stage door~
+Here at the end of a dark, garbage-strewn alleyway is a heavy steel
+door leading into the building to the west.  A single lightbult burns
+above the door, barely illuminating a sign screwed to the wall here.  
+Loud music pounds behind the door and you can just hear voices softly
+murmuring over the noise.
+~
+66 0 1
+0d0+0 0 0
+D2
+The alley before you looks dark and threatening.
+~
+~
+0 -1 6666
+D3
+The stage door to Taffy Lewis' nightclub is here.  ~
+door~
+2 -1 6659
+E
+sign~
+The sign reads, "TAFFY LEWIS' NIGHTCLUB"
+                 DELIVERIES ONLY PLEASE"
+~
+S
+#6664
+On the street - Sector 4~
+Standing on the street here in the fourth sector, your mouth waters from
+the delicious smells coming from the outdoor nooble bar that is just to
+the north.  The streets are fairly crowded and overhead the occasional
+police spinner speeds by.  A dark museum is to the south that looks
+closed.  The sizzling woks behind the counter make your stomach rumble.
+~
+66 262144 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6601
+D1
+~
+~
+0 -1 6649
+D2
+The door here leads into the Origami Museum.  ~
+door~
+1 -1 6782
+D3
+~
+~
+0 -1 6602
+S
+#6665
+On the street - Sector 4~
+You are standing on the street just east of Taffy Lewis' nightclub.
+The loud music playing inside makes the sidewalk vibrate under your
+feet as you watch an endless parade of people walk by.  There is a
+rather dark alley to the north.
+~
+66 0 1
+0d0+0 0 0
+D0
+A dark alley leads into the shadows to the north.
+~
+~
+0 -1 6666
+D1
+~
+~
+0 -1 6787
+D2
+The door to the south is marked "TATTOOS".  ~
+door~
+1 -1 6761
+D3
+A noisy, well-lit nightclub is just down the street.
+~
+~
+0 -1 6649
+S
+#6666
+In the alley~
+This narrow, dark alleyway is littered with refuse and smells of urine and
+rotting garbage.  You can hear the rats scurrying in the darkness over
+the loud music playing on the otherside of the west wall.  The street
+behind you to the south looks much safer than moving further into the
+dark alley.
+~
+66 1 1
+0d0+0 0 0
+D0
+A doorway lit by a single lightbulb is just to the north.
+~
+~
+0 -1 6663
+D2
+The alley leads back to the street to the south.
+~
+~
+0 -1 6665
+S
+#6667
+On the street - Sector 4~
+You are out on the street in the Fourth Sector.  Just to the west is a
+huge barricade that blocks the entire street.  A dark alleyway is just
+to the south and there appears to be a large apartment building just
+to your east.
+~
+66 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 6610
+D2
+A dark alleyway leads to the south.
+~
+~
+0 -1 6762
+D3
+The sector barricade rises just to the west.
+~
+~
+0 -1 6668
+S
+#6668
+Sector 4 barricade~
+The western end of Sector 4 ends here at a huge, plastisteel barrier
+that was erected during the clone wars.  Designed to control traffic
+between the various sectors in Los Angeles, the barriers have remained
+sealed for over 20 years.  Only air traffic is allowed to move between
+sectors, and only if they have the proper permits.
+~
+66 0 0
+0d0+0 0 0
+D1
+The street to the east is crowded and brightly lit.
+~
+~
+0 -1 6667
+D3
+A massive steel door looks rusted shut.  ~
+door~
+2 6601 6620
+S
+#6669
+On the street - Sector 7~
+Here on the crowded streets of sector 7, money and affluence are obvious
+in the expensive stores and businesses.  A strong police presence is
+obvious here, especially so close to the headquarters of the Tyrell
+Corporation.  There is a small music store to the east.
+~
+66 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6670
+D1
+A door leads into the Music Store.  ~
+door~
+1 -1 6777
+D2
+~
+~
+0 -1 6633
+S
+#6670
+On the street - Sector 7~
+Here in the middle of the commercial district of Sector 7, numerous
+businesses line the streets at the base of the towering buildings that
+seem to leap towards the sky.  Tourists, police, and various business
+people run their important errands while vehicles soar high above your
+head.  Some sort of electronics store is to the east while a Travel
+Agency is to the west.
+~
+66 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6671
+D1
+An amored door leads into the security emporium.  ~
+door~
+1 -1 6778
+D2
+~
+~
+0 -1 6669
+D3
+A heavy glass door leads into the Travel Agency.  ~
+door~
+1 -1 6769
+S
+#6671
+On the street - Sector 7~
+A dark alleyway leads to the north here at the bend of the street
+in the middle of Sector Seven.  The tall buildings lining both
+sides of the street keep the sunlight from reaching the pavement
+except for a few minutes every day.  A seedy liquor store is here
+and other stores and businesses can be seen to the east and south.
+~
+66 0 1
+0d0+0 0 0
+D0
+A dark alley extends to the north.
+~
+~
+0 -1 6749
+D1
+The street turns east a ways down the street.
+~
+~
+0 -1 6672
+D2
+~
+~
+0 -1 6670
+D3
+A door leads into the Liquor store.  ~
+door~
+1 -1 6779
+S
+#6672
+On the street - Sector 7~
+You are standing at the base of a huge, pyramid-like building that is
+the famous Tyrell Corporation headquarters.  Bronze colored with slanted
+sides, this massive building houses the richest and most powerful
+company in the world.  A huge revolving door leads to the lobby.
+~
+66 32768 0
+0d0+0 0 0
+D0
+A huge revolving door leads into the Tyrell Corporation.  ~
+door~
+1 -1 6767
+D2
+A door leads into the realty company.  ~
+door~
+1 -1 6780
+D3
+The street turns south a ways down the street.
+~
+~
+0 -1 6671
+S
+#6673
+Tyrell Corporation lobby~
+This huge, high-ceilinged lobby has been built in a neo-egyptian motif
+with pyramid shapes, geometric decorations, and lots of gold.  The power
+and wealth of the Tyrell Corporation is evident in this opulent
+building where money appears to not have been an object.  Massive slabs
+of jade-colored marble cover the floor while holoprojections of various
+company products and projects flicker in the softly lit room.
+~
+66 294920 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6676
+D1
+~
+~
+0 -1 6675
+D2
+A huge revolving door leads back to the street.  ~
+door~
+1 -1 6767
+D3
+~
+~
+0 -1 6674
+S
+#6674
+The reception desk~
+The receptionist's desk is a massive, crescent-shaped table with the
+Tyrell Corporation logo inlaid on the top with lapis-lazuli.  The desk
+itself is made of a black,, highly-polished stone in whose flawless surface
+you can see yourself perfectly reflected.  You can hear the fountain
+in the center of the lobby but voices and footsteps seem strangely muted.
+~
+66 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6673
+S
+#6675
+The guard desk~
+This small passageway has a large sentry's desk build into the west
+wall.  While the desk looks like wood you have a strange feeling that
+it is well armored.  Beautifully concealed metal detectors are just
+noticeable in the walls and the doors look strong and very heavy.
+The lobby is to the west while some elevators are to the east.
+~
+66 32768 0
+0d0+0 0 0
+D1
+A door marked "PRIVATE" is to your east.  ~
+door~
+2 6614 6679
+D3
+~
+~
+0 -1 6673
+S
+#6676
+Personnel office~
+This lavish office is the personnel center for the entire Tyrell
+Corporation.  Heavily automated with a state-of-the-art Esper computer,
+a small staff can easily manage the business of this large
+corporation.  There are several desks and chairs scattered about the
+room which has the look of a living room more than a business office.
+Soft lighting and music completes the relaxing ambiance.  Perhaps you
+would like to apply for a job?
+~
+66 32776 0
+0d0+0 0 0
+D0
+This door is marked "RECORDS."  ~
+door~
+1 -1 6678
+D2
+~
+~
+0 -1 6673
+D3
+This door is marked "INTERVIEW ROOM."  ~
+door~
+1 -1 6677
+S
+#6677
+Interview room~
+This large room contains a long meeting table surrounded with highbacked
+chairs with the Tyrell Corporation log on them.  Several fans are 
+slowly turning on the ceiling and the shaded windows on the west wall
+are keeping the room fairly dim.  Ashtrays are scattered across the
+table and it looks as if the room has been used a lot recently.
+~
+66 294920 0
+0d0+0 0 0
+D1
+A door leads to the east.  ~
+door~
+1 -1 6676
+S
+#6678
+Records room~
+This room contains a large, ESPER-grade computer which undoubtedly
+automates much of the Tyrell Corporation's personnel department.  The
+room is a bit warm and you think you detect a security stasis field
+distorting your view of the computer.  Several data retrieval stations
+are set in carrels along the walls.
+~
+66 294920 0
+0d0+0 0 0
+D2
+This door leads south.  ~
+door~
+1 -1 6676
+S
+#6679
+The private elevators~
+This small antechamber is made of pure white marble polished to a mirror
+finish.  The crystal chandelier above causes a dazzling explosion of
+reflections across the room.  There are elevator doors made of
+different colored metals to the north, south, and east.
+~
+66 47112 0
+0d0+0 0 0
+D0
+A bronze elevator door is to the north.  ~
+door~
+2 6615 6680
+D1
+A silver elevator door is to the east.  ~
+door~
+2 6616 6681
+D2
+A gold elevator door is to the south.  ~
+door~
+2 6617 6682
+D3
+An armored door is to the west.  ~
+door~
+2 6614 6675
+S
+#6680
+High speed elevator - floor 1~
+The elevator interior is richly appointed with walnut panelling and
+highly polished brass trim.  Your feet sink comfortably into the
+plush carpeting on the floor while hidden ventilators create a slight
+breeze of cool air.  The exit door is to the south.
+~
+66 47112 0
+0d0+0 0 0
+D2
+The elevator door is made of a bronze-colored metal.  ~
+door~
+2 6615 6679
+D4
+A light panel is set into the elevator ceiling.
+~
+~
+0 -1 6684
+S
+#6681
+High speed elevator - floor 1~
+The elevator interior is richly appointed with walnut panelling and
+highly polished brass time.  Your feet sink comfortably into the
+plush carpeting on the floor while hidden ventilators create a slight
+breeze of cool air.  The exit door is to the west.
+~
+66 47112 0
+0d0+0 0 0
+D3
+The elevator door is made of a silver-colored metal.  ~
+door~
+2 6616 6679
+D4
+A light panel is set in the elevator ceiling. 
+~
+~
+0 -1 6685
+S
+#6682
+High speed elevator - floor 1~
+The elevator interior is richly appointed with walnut panelling and
+highly polished brass trim.  Your feet sink comfortably into the
+plush carpeting on the floor while hidden ventilators create a slight
+breeze of cool air.  The exit door is to the north.
+~
+66 47112 0
+0d0+0 0 0
+D0
+The elevator door is made of a gold-colored metal.  ~
+door~
+2 6617 6679
+D4
+A light panel is set in the ceiling of the elevator.
+~
+~
+0 -1 6683
+S
+#6683
+High speed elevator - floor 121~
+The elevator interior is richly appointed with walnut panelling and
+highly polished brass trim.  Your feet sink comfortably into the
+plush carpeting on the floor while hidden ventilators create a slight
+breeze of cool air.  The exit door is to the north.
+~
+66 47116 0
+0d0+0 0 0
+D0
+The elevator doors are made of a gold-colored metal.  ~
+door~
+1 -1 6686
+D5
+The elevator floor is covered with beige carpeting.
+~
+~
+0 -1 6682
+S
+#6684
+High speed elevator - floor 97~
+The elevator interior is richly appointed with walnut panelling and
+highly polished brass trim.  Your feet sink comfortably into the
+plush carpeting on the floor while hidden ventilators create a slight
+breeze of cool air.  The exit door is to the south.
+~
+66 47116 0
+0d0+0 0 0
+D2
+The elevator door is made of a bronze-colored metal.  ~
+door~
+1 -1 6753
+D5
+The elevator floor is covered with beige carpeting.
+~
+~
+0 -1 6680
+S
+#6685
+High speed elevator - floor 65~
+The elevator interior is richly appointed with walnut panelling and
+highly polished brass trim.  Your feet sink comfortably into the
+plush carpeting on the floor while hidden ventilators create a slight
+breeze of cool air.  The exit door is to the west.
+~
+66 47116 0
+0d0+0 0 0
+D3
+The elevator door is made of a silver-colored metal.  ~
+door~
+1 -1 6692
+D5
+The elevator floor is covered with beige carpeting.
+~
+~
+0 -1 6681
+S
+#6686
+The sitting room~
+This room is filled with sofas and overstuffed chairs.  The soft
+indirect lighting and the quiet music make you feel relaxed just as
+was probably intended.  The security cameras on the ceiling keep you
+from relaxing too much as you realize that this close to the head
+of the Tyrell Corporation, more than cameras are probably pointed at
+you.
+~
+66 47112 0
+0d0+0 0 0
+D0
+A door is to the north.  ~
+door~
+1 -1 6687
+D2
+Some gold elevator doors are to the south.  ~
+door~
+1 -1 6683
+S
+#6687
+Tyrell's home office~
+Eldon Tyrell's office is furnished with a simple desk and a few chairs.
+The desk has a simple comset and a data terminal.  There are
+some beautifully framed Michaelangelo prints on the wall.  With his 
+wealth, you wonder if they might be the originals?
+~
+66 309256 0
+0d0+0 0 0
+D1
+A door is to the east.  ~
+door~
+1 -1 6691
+D2
+A door is to the south.  ~
+door~
+1 -1 6686
+D3
+A door leads to the west.  ~
+door~
+1 -1 6688
+S
+#6688
+The living room~
+This nicely furnished living room is filled with antiques and beautiful
+bric-a-brac.  Despite the age of the furniture, the room looks oddly
+unused.
+~
+66 47112 0
+0d0+0 0 0
+D0
+A door leads to the north.  ~
+door~
+1 -1 6689
+D1
+A door leads to the east.  ~
+door~
+1 -1 6687
+D2
+A door leads to the south.  ~
+door~
+1 -1 6690
+S
+#6689
+Tyrell's bedroom~
+This surprisingly small bedroom is furnished with elegant, antique
+furniture of various vintages.  A king size bed is set between two
+large dressers and are softly lit by indirect lighting.  There is a
+comset next to the bed and a beautiful marble chess set at the foot
+of the bed.  The walls are surprisingly bare and the room seems
+unusually warm.
+~
+66 14344 0
+0d0+0 0 0
+D2
+An ornate white door is to the south.  ~
+door~
+1 -1 6688
+E
+comset~
+This expensive comset has a voice print authorization circuit that is
+undoubtedly keyed to Doctor Tyrell's voice.  You won't be able to use it.~
+E
+board~
+This chessboard has a game in progress.  ~
+E
+chessboard~
+This chessboard has a game in progress.~
+E
+chess~
+This chessboard has a game in progress.~
+E
+bed~
+The bed is covered with a heavy white comforter and appears to have a
+down mattress.  The cost is difficult to surmise.~
+S
+#6690
+The pantry~
+This room is filled with locked cabinets that are undoubtedly full of
+Doctor Tyrell's favorite foods.  A single food reconstitutor is
+mounted on the wall next to a water cooler.  For the brilliant head
+of a multi-billion dollar corporation, Doctor Tyrell appears to have
+somewhat simple tastes in nutrition.
+~
+66 14344 0
+0d0+0 0 0
+D0
+A door leads to the north.  ~
+door~
+1 -1 6688
+S
+#6691
+Tyrell's meeting room~
+This huge room is dominated by a very long, dark wood table that is
+set at right angles to a wall of glass to the east that looks out over
+the city.  Ornate columns line the north and south walls where moldings
+with a pyramid design run along the floor.  There are two marble busts
+on either side of the window wall and some exquisite bonsai are set
+on a small laquered table by the door.  There are some polarizing
+controls for the window wall next to the door.
+~
+66 309256 0
+0d0+0 0 0
+D3
+A door is to the west.  ~
+door~
+1 -1 6687
+E
+busts~
+Both busts are of an older gentleman who wears thick glasses.  He looks
+somewhat familiar.~
+E
+controls~
+A simple rotary control allows you to darken or lighten the window wall
+to your preference.~
+E
+bonsai~
+This ancient bonsai is a beautifully windswept dogwood and a matching
+cherry tree.  Both are set in ancient Ming Dynasty basins
+with beautifully detailed moss and root work.~
+S
+#6692
+Research and Development~
+This room is full of file cabinets and data terminals where lots of
+statistical analysis programs seem to be running.  Your interest in
+the glowing monitors is diverted by the acrid smell of chemicals
+that seems to be coming from the room to the south.  The scent is 
+something like a hospital but with some odd, alien odors included.
+~
+66 47112 0
+0d0+0 0 0
+D0
+A door marked "SUPPLIES" is to the north.  ~
+door~
+1 -1 6698
+D1
+A silver-colored elevator door is to the east.  ~
+door~
+1 -1 6685
+D2
+An unmarked, heavily-armored door is to the south.  ~
+door~
+1 -1 6693
+D3
+A door marked "PARTS" is to the west.  ~
+door~
+1 -1 6697
+S
+#6693
+Prototype Laboratory~
+This laboratory is filled with some unusual equipment including medical
+scanners, electron microscopes, ESPER computers, stress test machinery,
+and numerous other high tech devices that you don't recognize.  The
+chemical odor is very strong here, especially near the small surgical
+theater in the center of the room.  There are three heavy steel doors to
+the west, south, and east.
+~
+66 47112 0
+0d0+0 0 0
+D0
+A heavily armored door seals the Laboratory.  ~
+door~
+1 -1 6692
+D1
+A steel door is marked with the number three.  ~
+door~
+2 6627 6696
+D2
+A steel door is marked with the number two.  ~
+door~
+2 6627 6695
+D3
+A steel door is marked with the number one.  ~
+door~
+2 6627 6694
+S
+#6694
+Testing Room 1~
+~
+66 14344 0
+0d0+0 0 0
+D1
+A steel door is the only exit.  ~
+door~
+1 6627 6693
+S
+#6695
+Testing Room 2~
+This sparsely furnished room has a bunk, sink, toilet, and a data
+terminal that is recessed into the wall.  Huge celestial star charts
+cover the walls and ceilings and from the odd sensation of feeling
+very light on your feet, you theorize that some sort of gravity
+dampening device is in operation here.
+~
+66 14344 0
+0d0+0 0 0
+D0
+A steel door is the only exit.  ~
+door~
+1 -1 6693
+E
+terminal~
+The data terminal is currently displaying an engine schematic for a
+Dreadnought class Orion fighter craft.
+~
+S
+#6696
+Testing Room 3~
+This small chamber is somewhat better furnished than some of the other
+room.  There is a queen-size bed here with mirrors on the ceiling and
+soft, indirect lighting.  You wonder what type of prototype testing
+goes on here?
+~
+66 14344 0
+0d0+0 0 0
+D3
+A steel door is the only exit.  ~
+door~
+1 -1 6693
+S
+#6697
+Parts Room~
+This room is filled with refrigerated drawers similar to a morgue.  The
+room is very cold and is brightly lit with red light panels on the
+ceiling.  Most of the stainless steel drawers appear to be locked but
+one of them seems slightly ajar.
+~
+66 47112 0
+0d0+0 0 0
+D1
+A door is to the east.  ~
+door~
+1 -1 6692
+S
+#6698
+Supply Room~
+This room is filled with boxes, drums, and refrigerated cases full of
+all sorts of laboratory supplies.  The room's temperature and humidity
+are carefully monitored and security cameras keep all of the supplies
+under strict surveillance.  A faint scent of rotting flesh seems
+to occasionally hit you are you examine the room.
+~
+66 47112 0
+0d0+0 0 0
+D2
+A door is to the south.  ~
+door~
+1 -1 6692
+S
+#6699
+Crumbling hallway~
+This floor must have been long-abandoned since this corridor is in
+a terrible state of repair.  The plaster walls are crumbling, the
+light fixturess have been ripped out of the ceiling, and the
+floor is covered with chunks of ceiling tile.  Although it is dark, 
+you can just barely detect doors at both ends of the hall.  The lift
+is to the south.
+~
+66 9 0
+0d0+0 0 0
+D1
+The corridor continues to the east.
+~
+~
+0 -1 6701
+D2
+The lift is just to the south.  ~
+door~
+1 -1 6616
+D3
+The corridor continues to the west.
+~
+~
+0 -1 6700
+S
+#6700
+Crumbling hallway~
+Here at the western end of this decrepit hallway, the door shows
+obvious signs of forced entry.  You notice a odd hole broken through
+the wall next to the door, large enough to put your hand through.  It
+is dark on the otherside of the door however, so you can't see
+what is on the other side.  You notice some damp marks on the floor here
+that might be recent footprints.  The hairs on the back of your neck
+stand up as you consider your options.
+~
+66 9 0
+0d0+0 0 0
+D1
+The lift is just to the east.  
+~
+~
+0 -1 6699
+D3
+The corridor ends against a door to the west.  ~
+door~
+1 -1 6702
+S
+#6701
+Crumbling hallway~
+This corridor has been long abandoned and is heavily damaged.
+The walls are covered with graffiti and water dripping from above has
+caused much of the plaster to erode and crumble.  The floor under your
+feet seems sturdy enough but you walk cautiously anyway.  You can see
+a door to the east and the lift to the west.
+~
+66 9 0
+0d0+0 0 0
+D1
+The corridor ends against a sturdy door.  ~
+door~
+2 6601 6620
+D3
+The lift is just to the west.
+~
+~
+0 -1 6699
+S
+#6702
+Abandoned apartment~
+This floor on the building is in terrible condition and appears very
+unsafe.  The walls are crumbling, the floor is half torn up, and water
+is dripping constantly from above, gathering in stagnant pools all over
+the floor.  This room must have been part of an apartment at one time
+but most of the surrounding walls have collapsed.  There is a single 
+door to the south and the exit is to the west.
+~
+66 9 0
+0d0+0 0 0
+D1
+The door hangs loosely on its hinges.  ~
+door~
+1 -1 6700
+D2
+The door appears to have been kicked in
+~
+door~
+2 -1 6703
+S
+#6703
+Crumbling bathroom~
+This bathroom is no more than a small room filled with the shattered
+remains of a white sink, tub, and toilet.  Plaster dust is caked over
+all of the broken fixtures and water is drizzling constantly from
+the old tub faucets.  There is a painted-over window to the south
+and a door to the north.
+~
+66 9 0
+0d0+0 0 0
+D0
+This door has been kicked in.  ~
+door~
+1 -1 6702
+D2
+A window with broken panes looks painted shut.  ~
+window~
+1 -1 6704
+S
+#6704
+Out on a ledge~
+Wind and rain blind you as you stand on a ledge high above the city
+streets below.  The ledge ends just to the west and continues to the
+east.  It is narrow and crumbling in spots but looks passable if you
+are crazy enough to continue.  You try not to look down as you
+consider your options.
+~
+66 0 1
+0d0+0 0 0
+D0
+A window with broken panes looks painted shut.  ~
+window~
+1 -1 6703
+D1
+The precarious ledge continues to the east.
+~
+~
+0 -1 6705
+S
+#6705
+Out on a ledge~
+You are standing precariously on a narrow ledge, high above the city
+streets.  Far below you can see the sights and sounds of the city, but
+up here you must concentrate to keep your balance.  The wind and rain
+make it hard to see but it appears the ledge is damaged to the east
+but in better condition to the west.  Some ornately-carved stonework
+offers some handholds if you wish to climb higher up.
+~
+66 0 1
+0d0+0 0 0
+D1
+The ledge looks heavily damaged to the east.  
+~
+~
+0 -1 6706
+D3
+The precarious ledge continues to the west.
+~
+~
+0 -1 6704
+D4
+Some carved stonework offers handholds to climb up.
+~
+~
+0 -1 6707
+S
+#6706
+Out on a ledge~
+Miraculously, you've survived the fall and landed on another ledge, far
+below where you were.  The street is an easy jump below you and you
+can't find any other way to go.
+~
+66 16386 1
+1d1+199 90 0
+D5
+The street is a short distance below you.  
+~
+~
+0 -1 6610
+S
+#6707
+Climbing the stonework~
+You are holding on for dear life, climbing on an ornately-carved
+stone pillar that is built into the side of the building here.  Below
+you can see a narrow ledge and the street far below.  Above, the
+stonework continues and ends up near what appears to be a window.
+~
+66 4 1
+0d0+0 0 0
+D4
+The carved stonework offers handholds to climb up.
+~
+~
+0 -1 6708
+D5
+The carved stonework leads down to a sturdy ledge.
+~
+~
+0 -1 6705
+S
+#6708
+Climbing the stonework~
+You are clinging to a ornate, carved stone pillar that stops at the
+eaves above you head and leads down into the swirling mists.  Your
+fingers are getting very tired holding on.  Luckily there is a window
+here.  If you can open it, perhaps you can rest inside.
+~
+66 4 1
+0d0+0 0 0
+D0
+A painted-over window offers no glimpse of the room inside.  ~
+window~
+1 -1 6709
+D5
+The carved stonework offers handholds to climb down.
+~
+~
+0 -1 6707
+S
+#6709
+Huge storeroom~
+This dark storeroom is a crumbling death trap with ceiling beams
+sagging from the ceiling, gaping holes scattered across the creaking
+floor, and strange noises occasionally echoing from the shadows.
+You are not sure which direction is which as you look for some sort
+of an exit.
+~
+66 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6710
+D2
+A painted over window is to the south.  ~
+window~
+1 -1 6708
+S
+#6710
+Huge storeroom~
+This dark storeroom is a crumbling death trap with ceiling beams
+sagging from the ceiling, gaping holes scattered across the creaking
+floor, and strange noises occasionally echoing from the shadows.
+You are not sure which direction is which as you look for some sort
+of exit.
+~
+66 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6712
+D2
+~
+~
+0 -1 6709
+D3
+~
+~
+0 -1 6711
+S
+#6711
+Huge storeroom~
+This dark storeroom is a crumbling death trap with ceiling beams
+sagging from the ceiling, gaping holes scattered across the creaking
+floor, and strange noises occasionally echoing from the shadows.
+You are not sure which direction is which as you search for some sort
+of exit.
+~
+66 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6710
+S
+#6712
+Huge storeroom~
+This dark storeroom is a crumbling death trap with ceiling beams
+sagging from the ceiling, gaping holes scattered across the creaking
+floor, and strange noises occasionally echoing from the shadows.
+You are not sure which direction is which as you look for some sort
+of exit.
+~
+66 13 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 6710
+D4
+A loose ceiling panel is just overhead.  ~
+panel~
+1 -1 6713
+S
+#6713
+On the roof~
+The wind is howling and sheets of rain spatter across you as you stand
+shivering here high on top of the building.  Standpipes, vents, and all sorts
+of odd devices and antennas rise from the roof like some sort of bizarre
+forest.  You have to walk carefully to avoid tripping.  Be sure to keep
+away from the edge!
+~
+66 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6717
+D1
+~
+~
+0 -1 6715
+D2
+~
+~
+0 -1 6775
+D3
+~
+~
+0 -1 6714
+D5
+A loose roofing panel is at your feet.  ~
+panel~
+1 -1 6712
+S
+#6714
+On the roof~
+The wind is howling and sheets of rain spatter across you as you stand
+shivering here high on top of the building.  Standpipes, vents, and all sorts
+of odd devices and antennas rise from the roof like some sort of a bizarre
+forest.  You have to walk carefully to avoid tripping.  Be sure to keep
+away from the edge!
+~
+66 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6718
+D1
+~
+~
+0 -1 6713
+D5
+Its a long, long way down to the street.  
+~
+~
+0 -1 6774
+S
+#6715
+On the roof~
+The wind is howling and sheets of rain spatter across you as you stand
+shivering here high on top of the building.  Standpipes, vents, and all sorts
+of odd devices and antennas rise from the roof like some sort of bizarre
+forest.  You have to walk carefully to avoid tripping.  Be sure to keep
+away from the edge!
+~
+66 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6716
+D3
+~
+~
+0 -1 6713
+D5
+It's a long, long way down to the street. 
+~
+~
+0 -1 6774
+S
+#6716
+On the roof~
+The wind is howling and sheets of rain spatter across you as you stand
+shivering here high on top of the building.  Standpipes, vents, and all sorts
+of odd devices and antennas rise from the roof like some sort of bizarre
+forest.  You have to walk carefully to avoid tripping.  Be sure to keep
+away from the edge!
+~
+66 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 6715
+D3
+~
+~
+0 -1 6717
+D5
+Its a long, long way down to the street.
+~
+~
+0 -1 6774
+S
+#6717
+On the roof~
+The wind is howling and sheets of rain spatter across you as you stand
+shivering here high on top of the building.  Standpipes, vents, and all sorts
+of odd devices and antennas rise from the roof like some sort of bizarre
+forest.  You have to walk carefully to avoid tripping.  Be sure to keep
+away from the edge!
+~
+66 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6716
+D2
+~
+~
+0 -1 6713
+D3
+~
+~
+0 -1 6718
+D5
+Its a long, long way down to the street.
+~
+~
+0 -1 6774
+S
+#6718
+On the roof~
+The wind is howling and sheets of rain spatter across you as you stand
+shivering here high on top of the building.  Standpipes, vents, and all sorts
+of odd devices and antennas rise from the roof like some sort of bizarre
+forest.  You have to walk carefully to avoid tripping.  Be sure to keep
+away from the edge!
+~
+66 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 6717
+D2
+~
+~
+0 -1 6714
+D5
+Its a long, long way down to the street.
+~
+~
+0 -1 6774
+S
+#6719
+Abandoned warehouse~
+The interior of this huge warehouse is filled with stacks of empty
+shipping containers and packing crates.  These containers form narrow
+aisles that crookedly crisscross the warehouse interior.  It looks
+very dark inside and you can hear the scurrying of some unseen vermin.
+~
+66 13 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6721
+D1
+A battered door may lead back to the street.  ~
+door~
+1 -1 6633
+D2
+~
+~
+0 -1 6722
+D3
+~
+~
+0 -1 6722
+S
+#6720
+Abandoned warehouse~
+The interior of this old warehouse is huge and filled with stacks of
+empty shipping containers and crates.  These stacks form meandering
+corridors that quickly confuse you, causing you to lose your sense of
+direction.  You begin to get nervous as you wander down the narrow
+aisles, looking for the exit.
+~
+66 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6722
+D1
+~
+~
+0 -1 6722
+D2
+~
+~
+0 -1 6723
+D3
+~
+~
+0 -1 6722
+S
+#6721
+Abandoned warehouse~
+The interior of this old warehouse is huge and filled with stacks of
+empty shipping containers and crates.  These stacks form meandering
+corridors that quickly confuse you, causing you to lose your sense of
+direction.  You begin to get nervous as you wander down the narrow
+aisles, looking for the exit.
+~
+66 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6719
+D1
+~
+~
+0 -1 6721
+D2
+~
+~
+0 -1 6722
+D3
+~
+~
+0 -1 6723
+S
+#6722
+Abandoned warehouse~
+The interior of this old warehouse is huge and filled with stacks of
+empty shipping containers and crates.  These stacks form meandering
+corridors that quickly confuse you, causing you to lose your sense of
+direction.  You begin to get nervous as you wander down the narrow
+aisles, looking for the exit.
+~
+66 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6721
+D1
+~
+~
+0 -1 6722
+D2
+~
+~
+0 -1 6722
+D3
+~
+~
+0 -1 6720
+S
+#6723
+Abandoned warehouse~
+The interior of this old warehouse is huge and filled with stacks of
+empty shipping containers and crates.  These stacks form meandering
+corridors that quickly confuse you, causing you to lose your sense of
+direction.  You begin to get nervous as you wander down the narrow
+aisles, looking for the exit.
+~
+66 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6720
+D1
+~
+~
+0 -1 6722
+D2
+~
+~
+0 -1 6724
+D3
+A steel reinforced door leads west.  ~
+door~
+2 6601 6620
+S
+#6724
+Abandoned warehouse~
+The interior of this old warehouse is huge and filled with stacks of
+empty shipping containers and crates.  These stacks form meandering
+corridors that quickly confuse you, causing you to lose your sense of
+direction.  You begin to get nervous as you wander down the narrow
+aisles, looking for the exit.
+~
+66 13 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6722
+D1
+~
+~
+0 -1 6721
+D2
+An odor of rotting fish is coming from a large vent.  ~
+vent~
+1 -1 6725
+S
+#6725
+On the wharf~
+You are standing on a rotting and creaking dock that lines the north
+side of this decaying wharf area.  The back of a large warehouse is
+to the north and you can see a boat of somekind down at the end of the
+wharf to the west.  To the east you can see what appears to be some
+sort of commercial area.
+~
+66 0 1
+0d0+0 0 0
+D0
+A large, rusty air vent lets air into the warehouse.  ~
+vent~
+1 -1 6724
+D1
+~
+~
+0 -1 6726
+D3
+~
+~
+0 -1 6735
+D5
+The murky waters below look filthy and polluted.  ~
+~
+0 -1 6736
+S
+#6726
+On the wharf~
+The wharf comes to an end here, with a cluster of shops visible to the
+south and the wharf extending to the west.  A large warehouse is to
+the north and the polluted waters of the harbor lap at the pilings
+that hold up the warped, rotting wood boards that you are standing on.
+The air smells of salt water and rotting fish, and garbage is strewn
+everywhere.
+~
+66 262144 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 6727
+D3
+~
+~
+0 -1 6725
+D5
+The murky waters below look filthy and polluted.  ~
+~
+0 -1 6736
+S
+#6727
+The flesh market - Sector 2~
+Here in Sector 2 is the location of most of the black markets in
+Los Angeles.  With its convenient location near the wharf and the
+lack of police attention, all kinds of semi-legal and outright criminal
+commerce takes place here amidst the sleazy stores and crowded
+streets.  Keep one eye on your wallet and the other looking over your
+shoulder.  Best not to walk alone here.
+~
+66 262144 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6726
+D1
+~
+~
+0 -1 6731
+D2
+~
+~
+0 -1 6728
+D3
+The shop door has a picture of a snake on it.  ~
+door~
+1 -1 6766
+S
+#6728
+The flesh market - Sector 2~
+The market seems to come to an end here with several stores appearing
+open here.  With the advent of universal air travel, the streets and
+roads of Los Angeles have been slowly disappearing as the precious real
+estate has been slowly absorbed by new buildings and structures.
+~
+66 262144 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6727
+D1
+An armored door leads into the establishment.  ~
+door~
+1 -1 6730
+D2
+This door has Japanese characters written on it.  ~
+door~
+1 -1 6734
+D3
+A door leads into Eye World.  ~
+door~
+1 -1 6729
+S
+#6729
+Eye World~
+This tiny shop is freezing cold, and filled with all sorts of weird
+equipment.  There is a main laboratory bench with a large microscope
+surrounded by small plastic samples dishes with small, round 
+objects in them.  Several liquid-cooled tanks line the walls which
+bubble incessantly.  You can see your breath and begin to shiver.
+~
+66 8 0
+0d0+0 0 0
+D1
+A door leads back out of the shop.  ~
+door~
+1 -1 6728
+S
+#6730
+Tissue Microscopy~
+This somewhat shabby laboratory has several aging electron microscopes
+and an obsolete pre-ESPER computer processing samples and electric
+phoretic data.  Huge cabinets full of slides and data cartridges line
+the walls providing an enormous research archive.
+~
+66 8 0
+0d0+0 0 0
+D3
+An armored door leads back to the street.  ~
+door~
+1 -1 6728
+S
+#6731
+Human Organs R Us~
+This large establishment is a single, highly refrigerated room full
+of various sizes and shapes of tissue containers and other types of
+insulated chests and coolers.  The faint odor of rot lingers in the
+frigid air here.  The cluttered and poorly maintained shop gives you
+the impression that illegally procured organs may be available
+here.  Be careful because the Black Market is always looking for
+healthy subjects to kidnap and dissect.
+~
+66 8 0
+0d0+0 0 0
+D3
+An ugly pink door leads into the store.  ~
+door~
+1 -1 6727
+S
+#6732
+On the deck of a junk~
+You are standing on the mildly pitching deck of a large Chinese junk
+that is moored here at the end of the dock.  It's sail is unfurled and
+it looks poorly maintained and unseaworthy.  Its timbers are rotting
+and its metalwork is heavily corroded.  A single hatch leads down to
+the compartment below.
+~
+66 0 1
+0d0+0 0 0
+D1
+A flimsy gate is at the end of the gangplank.  ~
+gate~
+1 -1 6735
+D5
+A heavy wooden hatch leads below decks.  ~
+hatch~
+1 -1 6733
+S
+#6733
+Below decks~
+This cramped compartment is dark and smells strongly of opium.
+Unlabelled boxes and bags are piled up along the walls which creak and
+groan with the swells.  You notice a surveillance dampening device
+mounted on the ceiling.  This expensive high-tech item looks out of
+place in the midst of this crumbling boat and its contents.
+~
+66 9 0
+0d0+0 0 0
+D4
+A heavy wooden hatch leads back to the deck.  ~
+hatch~
+1 -1 6732
+S
+#6734
+Neural Implants Incorporated~
+This small shop is meticulously clean and full of all kinds of high
+tech equipment.  Security cameras monitor the store activity where
+the shopkeepers wear lab coats and a glazed look in their eyes.  You
+could probably buy all sorts of neural enhancement chips here, if
+you could convince them to deal with you.
+~
+66 8 0
+0d0+0 0 0
+D0
+A door leads back out onto the street.  ~
+door~
+1 -1 6728
+S
+#6735
+At the end of the wharf~
+You are walking along an old, creaking dock that extends out into
+the polluted waters of the harbor.  To the west you can see a small
+boat moored at the end of the dock.  The city rises above you to the
+east where spinners slice through the sky and huge towers jut into
+the skyline.
+~
+66 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 6725
+D3
+A flimsy gate stands between you and the water.  ~
+gate~
+1 -1 6732
+D5
+The murky waters below look filthy and polluted.  ~
+~
+0 -1 6736
+S
+#6736
+In the harbor waters~
+You jump into the filthy, polluted waters of the Los Angeles Harbor and
+you immediately feel your flesh burning and you scream out in pain
+as acidic vapors sear your lungs.  Creatures with tiny, needle-sharp
+teeth stab at your exposed skin as you struggle to stay afloat.  If by
+some miracle you survive this swim, you may be able to climb up the
+pilings and get back up on the dock.
+~
+66 30723 7
+1d1+199 90 0
+D4
+Some splintered pilings offer a way to climb back out of the water.~
+~
+0 -1 6735
+S
+#6737
+Theater Lobby~
+This theater lobby is a spectacular reproduction of the lavish and
+ornate theaters of the mid-twentieth century.  All done in gold
+and crimson, the plush carpeting and the dense wall-hanging speak of
+an opulance that only exists off-world now.  Massive crystal
+chandeliers hang over the smoke filled room where patrons indulge
+in their smoking choices.  You can hear the low murmur of music
+and voices coming from the doors to the south.  The movie must have
+started!
+~
+66 262152 0
+0d0+0 0 0
+D0
+A heavy glass door leads back onto the street.  ~
+door~
+1 -1 6610
+D2
+This door leads into the theater.  ~
+door~
+1 -1 6738
+D3
+~
+~
+0 -1 6739
+S
+#6738
+Theater seats - left side~
+As your eyes adjust to the dark theater, you realize that there are
+plenty of empty seats.  The lavish interior looks worn and badly in
+need of repair as you look for a place to sit down.  The movie has
+already started but you can't quite make out the words or the picture.
+Perhaps you should ask for your money back.
+~
+66 9 0
+0d0+0 0 0
+D0
+A door leads back to the lobby.  ~
+door~
+1 -1 6737
+D3
+~
+~
+0 -1 6740
+S
+#6739
+At the snack bar~
+You are standing in front of one of the most wonderful places on earth, the
+movie theater concession stand.  Stale popcorn, rancid butter, overpriced
+candy, and flat soft drinks that you actually want to buy.  You lean on the
+greasy counter that is littered with straw papers and read the menu.
+~
+66 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6737
+D2
+A door leads into the theater.  ~
+door~
+1 -1 6740
+S
+#6740
+Theater seats - right side~
+The theater is surprisingly small but there are plenty of empty seats.
+Your feet make a lot of noise as you walk down the aisle as you crunch
+on pieces of popcorn and adhere to the sticky floor.  The movie has
+started but seems slightly out of focus.  It is also in a language
+that you don't know.  Perhaps you should wait for the cartoon?
+~
+66 9 0
+0d0+0 0 0
+D0
+A door leads back to the lobby.  ~
+door~
+1 -1 6739
+D1
+~
+~
+0 -1 6738
+D2
+The door here is marked "EMERGENCY EXIT."  ~
+door~
+1 -1 6781
+S
+#6741
+In the old subway car~
+Lit fitfully from sputtering neon tubes, this long abandoned subway car
+has clearly become the home to a large number of people.  Crates of food
+and piles of mattresses litter the floor.  The drivers compartment has
+been gutted and electrical cables crisscross the floor, powering the
+lights and some small heaters.  There is a door at the back of the car
+and an exit door that leads back to the subway platform.
+~
+66 8 0
+0d0+0 0 0
+D2
+The subway car's door leads back to the abandoned station.  ~
+door~
+1 -1 6609
+D3
+A door leads to the next subway car.  ~
+door~
+1 -1 6742
+S
+#6742
+In the old subway car~
+This subway car is similar to the others, filled with mattresses and all
+sorts of supplies.  The floor is covered with dark stains and is rather
+sticky to walk across.  There are numerous butchering tools here that
+look well-used and well-cared-for.  There is a sharpening wheel to keep
+their edges keen.  You wonder what the denizens of this abandoned subway
+car are butchering . . .
+~
+66 262152 0
+0d0+0 0 0
+D1
+A door leads to the next car.  ~
+door~
+1 -1 6741
+D3
+A door leads to the next subway car.  ~
+door~
+1 -1 6743
+S
+#6743
+In the old subway car~
+This subway car is clearly used for cooking.  The ceiling has been
+partially cut away to allow the smoke from a brazier to rise out of
+the interior.  The fire is carefully banked and is burning slowly,
+making the subway car uncomfortably warm.  Your eyes burn slightly in
+the smokey car and you wonder what's for dinner.
+~
+66 8 0
+0d0+0 0 0
+D1
+A door leads to the next subway car.  ~
+door~
+1 -1 6742
+D3
+A door leads to the next subway car.  ~
+door~
+1 -1 6744
+S
+#6744
+In the old subway car~
+You can barely make out the tunnel to the west through the windows at
+the end of this subway car.  This car is not lit although you can see
+light glimmering around the doorway that leads to another car to the
+east.  You notice a lot of battle damage here, probably from various
+skirmishes that have been fought over the years.  There is an access
+panel on the floor that appears to be unbarred.
+~
+66 8 0
+0d0+0 0 0
+D1
+A door leads to the next subway car.  ~
+door~
+1 -1 6743
+D5
+An access panel is visible on the floor.  ~
+panel~
+1 -1 6745
+S
+#6745
+In the subway tunnel~
+The tracks have been torn up here in the tunnel just to the west of the
+back of a motionless subway car.  Water is dripping from overhead and
+pools of stagnant water cover the crumbling concrete floor.  There is a
+large pile of refuse here which include strangely human-looking bones.
+The odor is unbelievable and you won't be able to stay here for long.
+~
+66 13 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 6746
+D4
+An access panel is visible under the subway car.  ~
+panel~
+1 -1 6744
+S
+#6746
+In the subway tunnel~
+You are far underground, in a dark tunnel that was once used by a subway.
+The rails have long been removed by scavengers and a foul odor permeates
+the area.  The odor is especially strong to the east.  Rats scurry at
+your feet as you step across stagnant pools of foul-smelling water and
+wonder what surprises lurk at either end of the tunnel.
+~
+66 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6745
+D3
+~
+~
+0 -1 6747
+S
+#6747
+In the subway tunnel~
+You are standing in a long-abandoned subway tunnel that has partially
+collapsed to the west and continues to the east.  The rails have been
+ripped up by scavengers and a foul odor seems to be drifting from the
+distance.  Some graffiti has been spray painted on the walls here and
+the floor looks oddly worn and clean in one spot.  Your ears are filled
+with the sounds of dripping water and the echoing chittering of rats
+but you seem to detect the sounds of the city from here as well.
+~
+66 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6746
+D3
+The tunnel looks dangerously unstable from here.
+~
+~
+0 -1 6748
+D4
+A wooden trapdoor is right over your head.  ~
+trapdoor~
+1 -1 6751
+E
+floor~
+This spot on the floor looks like it is worn and cleaner than the rest.
+Perhaps from people walking here.
+~
+E
+graffiti~
+The graffiti are all worn and hard to read, but a skull and crossbones is
+still visible.
+~
+S
+#6748
+The partially collapsed tunnel~
+The unstable tunnel collapses over you, burying you under tons of dirt
+and chunks of concrete.  With pain screaming in your bones, you scramble
+trying to dig yourself out before you die, coughing in the swirls of
+foul dust that fills the air.  Perhaps it would have been wiser to pay
+more attention to the graffiti in the tunnels.
+~
+66 30731 0
+1d1+199 90 0
+D1
+~
+~
+0 -1 6747
+D2
+A hidden panel is barely visible behind some rubbish.  ~
+panel~
+1 -1 6771
+S
+#6749
+A dark alley~
+This narrow, dark alley is ominous and threatening.  As you peer into the
+darkness you wonder what dangers might be waiting for you.  Perhaps it
+would be better to stay out on the streets.
+~
+66 9 0
+0d0+0 0 0
+D0
+A dark alley stretches to the north.
+~
+~
+0 -1 6750
+D2
+The street is visible at the end of the alley.  ~
+~
+0 -1 6671
+S
+#6750
+A dark alley~
+This dark alley smells strongly of rotting trash and something
+worse that is difficult to place.  Trash and debris clutter the
+path between the buildings making it difficult to make your way
+safely or quietly down the alley.  A large dumpster is at the end
+of the alley to the north, the street is visible to the south.
+~
+66 9 0
+0d0+0 0 0
+D2
+The dark alley stretches to the south.
+~
+~
+0 -1 6749
+D5
+The dumpster has a rusty steel lid.  ~
+lid~
+1 -1 6751
+S
+#6751
+In the dumpster~
+There is very little to say about this but you are sitting in a dumpster.
+Trash and rotting foods and liquids squish under your feet while an
+unbelievably foul odor makes it difficult to keep conscious.
+~
+66 14345 0
+0d0+0 0 0
+D4
+The dumpster has a rusty steel lid.  ~
+lid~
+1 -1 6750
+D5
+A wooden trapdoor is beneath your feet in the dumpster.  ~
+trapdoor~
+1 -1 6747
+S
+#6753
+The Corporate Club~
+This large room is sumptuously furnished with massive leather sofas, easy
+chairs, and scattered tables.  Plush carpeting covers the floor and rare
+wood panelling covers the walls.  You notice a green felt-covered card
+table and a huge hookah set in the middle of the room.  Soft music is
+playing and a gentle breeze is generated by the elaborate brass fans that
+are spinning lazily on the ceiling.  The incredible wealth that this
+room represents takes your breath away.  Membership must be very
+exclusive.
+~
+66 47112 0
+0d0+0 0 0
+D0
+Some elevator doors are to the north.  ~
+door~
+1 -1 6684
+D1
+Some billiard tables are visible in the next room.
+~
+~
+0 -1 6756
+D2
+Sweet curls of smoke come from the room to the south.
+~
+~
+0 -1 6755
+D3
+A bar is visible through the opening to the west.
+~
+~
+0 -1 6754
+S
+#6754
+The Lounge~
+This room is dominated by a long bar that runs the entire length of the
+room.  Behind the bar stand row upon row of exotic liquors and spirits 
+from many countries and many worlds.  Bar stools and numerous small
+tables offer places to sit while enjoying the various refreshments that
+are available here.  You notice that no prices are listed, obviously
+club membership includes the bartenders expert services.  
+~
+66 47112 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6753
+D2
+An ornately carved door marked "PRIVATE" is to the south.  ~
+door~
+2 6626 6757
+S
+#6755
+The opium den~
+This small room has large pillows covering much of the floor.  There is a
+small brazier burning in the center of the room next to a carved wooden
+container full of long tapers.  The room is softly lit by several racks
+of large candles and the room is full of the sickly sweet smell of
+burning opium.  You can hear the distance whirr of air scrubbers keeping
+the smoke from invading the rest of the club.  If you stay here too long,
+you may not want to leave.
+~
+66 47112 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6753
+S
+#6756
+The billiard room~
+This dimly lit room is dominated by a single billiard table set in the
+center of the room.  Several shaded lamps hang from the ceiling over the
+billiard table, bathing its pristine green felt with soft light.  There
+are racks of pool cues mounted to the walls and there appears to be a
+game in progress.  There is a lot of cigarette smoke in this room which
+casts the room in a soft haze.
+~
+66 47112 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 6753
+S
+#6757
+The private hallway~
+Once inside this hallway, you notice that the sounds of the club completely
+disappear behind the sound-proofed walls and doors.  There are four doors
+here including the north door that returns to the lounge.  The remaining
+door are unmarked and you wonder what may be behind them.
+~
+66 14344 0
+0d0+0 0 0
+D0
+An ornately carved door leads to the north.  ~
+door~
+2 6626 6754
+D1
+A non-descript door leads to the east.  ~
+door~
+1 -1 6760
+D2
+A non-descript door leads to the south.  ~
+door~
+1 -1 6759
+D3
+A non-descript door leads to the west.  ~
+door~
+1 -1 6758
+S
+#6758
+The Dungeon~
+A wave of apprehension washes over you as you look around this oppressive
+chamber.  The sadistic and fiendish nature of the various instruments
+and furnishings that fill this bondage dungeon make you realize that the
+people that utilize this facility must truly love their perverse taste
+in pain and pleasure.  You gut tightens as you realize that this
+grotesque room could be used just as easily for torture than for
+sado-masochistic fantasies.
+~
+66 14344 0
+0d0+0 0 0
+D1
+A door to the east is the only exit you see.  ~
+door~
+1 -1 6757
+S
+#6759
+The Waterbed Room~
+A large, round waterbed is in the center of this room.  Set into the
+walls are huge aquariums filled with exotic fish and underwater plants.
+Lit from behind the aquariums, this room gives you the feeling that you
+are underwater as the fish swim endlessly around their artificial
+reefs and the spectacularly colored tropical plants.  The gentle sound
+of the ocean is being piped in from some hidden speaker.  The effect is
+extraordinarily relaxing.
+~
+66 14344 0
+0d0+0 0 0
+D0
+The door to the north is the only exit you see.  ~
+door~
+1 -1 6757
+S
+#6760
+The Orgy Room~
+This room is completely featureless and at first you think it is empty.
+As you step inside you realize suddenly that the entire floor is as soft
+as a mattress.  You reach down and touch the floor and find it feels like
+skin and is warm to the touch.  Perhaps the Tyrell researchers have
+created a living floor - who knows what it might be able to do?
+~
+66 14344 0
+0d0+0 0 0
+D3
+A door to the west is the only exit you see.  ~
+door~
+1 -1 6757
+S
+#6761
+Tattoo Parlor~
+This grimy shop is dimly lit except for the corner where the tattoo
+artist plies his trade.  The walls are covered with pictures, sketches,
+and photographs of various designs.  The shop owner has a dermal etch
+diffuser to remove tattoos as well, in case you change your mind and
+want a change.  The artistry appears outstanding, but you are concerned
+about the hygiene as you look over the dirty equipment.
+~
+66 8 0
+0d0+0 0 0
+D0
+A door leads back out to the street.  ~
+door~
+0 -1 6665
+S
+#6762
+A dark alleyway~
+Just south of the busy city street, the light quickly diminishes to
+complete darkness as you explore the alley.  A faint sense of foreboding
+comes over you and you wonder if you should head back for the street.
+~
+66 5 1
+0d0+0 0 0
+D0
+The alleyway ends a few feet to the north.
+~
+~
+0 -1 6667
+D2
+The dark alleyway continues south.  It is getting very dark.
+~
+~
+0 -1 6763
+S
+#6763
+A dark alleyway~
+It is very, very dark here in this tarash-cluttered alleyway.  A faint
+glimmer of light can be seen far to the north.  To the south, only inky
+blackness can be seen.  Some sixth sense makes you uncertain if you want
+to continue south.
+~
+66 262145 1
+0d0+0 0 0
+D0
+You may detect a faint glimmer of light to the north.
+~
+~
+0 -1 6762
+D1
+~
+~
+0 -1 6781
+D2
+It is so dark to the south that you cannot see the slightest thing.  A
+sense of fear washes over you as your sixth sense kicks into high gear.
+You hesitate, wondering if you should continue.
+~
+~
+0 -1 6764
+S
+#6764
+A dark alleyway~
+Burning, agonizing pain knocks you to the ground as you cross a ionthread
+tripwire.  You are aware that your body has sustained massive damage
+although you cannot see anything for several minutes.  You wonder if
+the boobytrap has killed you or if you will recover.  You embrace the
+pain and try to overcome it . . .
+~
+66 30727 1
+1d1+199 90 0
+D0
+Its too dark to see what lies ahead in the alleyway.
+~
+~
+0 -1 6763
+D2
+~
+~
+0 -1 6765
+S
+#6765
+A dark alleyway~
+You are standing at the end of a long, dark alley that extends into the
+darkness to the north.  This small area is oddly clean and the normal water
+that drips constantly from above in the city is missing here.  It is very
+dark to th enorth and you get a strange feeling of danger from the shadows.
+~
+66 14337 0
+0d0+0 0 0
+D0
+It is too dark to the north to see the slightest thing.
+~
+~
+0 -1 6764
+S
+#6766
+Abdul Ben Hassan's~
+This interior of this dingy shop is very dry and warm.  Heavy glass
+aquariums line the walls, filled with all sorts of snakes.  Most of 
+them appear colorful, large, and poisonous.  The odd, dry smell makes
+your nose itch as you look around the shop.  The slow, slithering
+sounds that surround you keep you glancing at your feet.
+~
+66 8 0
+0d0+0 0 0
+D1
+The shop door leads back to the street.  ~
+door~
+1 -1 6727
+S
+#6767
+In the revolving door~
+You are inside a smoothly-turning revolving door made of armored glass
+and highly polished steel.  It makes a faint whooshing sound as it
+turns and you find yourself becoming a little disoriented as you walk.
+~
+66 32780 0
+0d0+0 0 0
+D0
+A spectacular lobby is to the north.  
+~
+~
+0 -1 6673
+D2
+The street lies just to the south.
+~
+~
+0 -1 6672
+S
+#6768
+Deckhard's Apartment~
+This is a mob chute room for Deckard mob.  It feets to itself and
+to the three different sectors in zone.   Rooms 6624 (Rachel's room),
+6691 (Sebastian's apartment) and 6728 (Wharf area).
+~
+66 14464 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6768
+D1
+~
+~
+0 -1 6624
+D2
+~
+~
+0 -1 6691
+D3
+~
+~
+0 -1 6768
+D4
+~
+~
+0 -1 6768
+D5
+~
+~
+0 -1 6768
+D6
+~
+~
+0 -1 6768
+D7
+~
+~
+0 -1 6728
+D8
+~
+~
+0 -1 6768
+D9
+~
+~
+0 -1 6768
+S
+#6769
+Off World Travel Agency~
+This small office of one of thousands such Travel Agency offices around
+the world.  If you have the money, and do not have any diseases or
+genetic defects of any sort, you can migrate to the Outer World colonies
+and live the good life.  The posters on the wall display several alien
+worlds, all beautiful, clean, and uncrowded.
+~
+66 8 0
+0d0+0 0 0
+D1
+A heavy glass door leads back to the street.  ~
+door~
+1 -1 6670
+S
+#6770
+The brothel~
+This is a mob chute for the Gaff mob named to inspire some curiousity in
+players who where the mob and can never find the brothel.  Just putting
+it in for fun.  If you're an immort reading this, you've spoiled the fun!
+~
+66 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6728
+D1
+~
+~
+0 -1 6770
+D2
+~
+~
+0 -1 6782
+D3
+~
+~
+0 -1 6636
+D4
+~
+~
+0 -1 6770
+D5
+~
+~
+0 -1 6770
+D6
+~
+~
+0 -1 6770
+D7
+~
+~
+0 -1 6770
+D8
+~
+~
+0 -1 6770
+D9
+~
+~
+0 -1 6770
+S
+#6771
+A secret cache~
+Behind the hidden panel is a small cavity into which you can barely
+crawl.  This small area must be a secret hiding place of one of the
+gang members.  You dig through the rubbish, wondering what might be
+hidden here.
+~
+66 14341 0
+0d0+0 0 0
+D0
+A panel leads back to the collapsed section of subway tunnel.  
+~
+panel~
+1 -1 6773
+S
+#6772
+On the tracks~
+As you step down on the tracks, a powerful jolt of electricity slams you
+off of your feet and you cartwheel wildly through the air.  With a
+sickening thud, your head slams into the concrete just next to the
+platform and pain and stars fill your consciousness.  You wonder if you
+will survive or die as you lie here dazed in the subway tunnel.
+~
+66 30731 0
+1d1+199 90 0
+D2
+The platform is just to your south.
+~
+~
+0 -1 6608
+S
+#6773
+The partially collapsed tunnel~
+The abandoned subway tunnel has collapsed here and it is impossible
+to continue to the west.  To the east, the empty, crumbling tunnel
+extends into the darkness.  You have to climb carefully over the
+chunks of fallen concrete and breath the swirling dust to try to
+get out of this dangerous area.
+~
+66 14337 0
+0d0+0 0 0
+D1
+An abandoned tunnel extends to the east.
+~
+~
+0 -1 6747
+D2
+A hidden panel is barely visible behind some rubbish.  ~
+panel~
+1 -1 6771
+S
+#6774
+Over the edge~
+You fall screaming off the top of the building, landing with a sickening
+thud on top of a spinner that is driving along the street below.  As the
+vehicle skids to a halt, you fight to keep conscious as pain from your
+injuries lance through you like fire.  If you could only live long enough
+to slide down off the spinner and get some help . . .
+~
+66 30726 11
+1d1+199 90 0
+D5
+~
+~
+0 -1 6776
+S
+#6775
+On the roof~
+The wind is howling and sheets of rain spatter across you as you stand
+shivering here high on top of the building.  Standpipes, vents, and all sorts
+of odd devices and antennas rise from the roof like some sort of bizarre
+forest.  You have to walk carefully to avoid tripping.  Be sure to keep
+away from the edge.
+~
+66 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6713
+D5
+Its a long, long way down to the street.
+~
+~
+0 -1 6774
+S
+#6776
+On the street - Sector 2~
+~
+66 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6610
+D2
+~
+~
+0 -1 6762
+D3
+~
+~
+0 -1 6668
+S
+#6777
+The Music Store~
+This old music store still carries a good selection of the tiny
+microCD music disks.  The walls are covered with various posters
+and some old Nirvana tune is thumping out some hidden speakers.
+The air smells faintly of incense and you have a sudden urge to
+wear beads and tiedye.
+~
+66 8 0
+0d0+0 0 0
+D3
+A door leads back to the street.  ~
+door~
+1 -1 6669
+S
+#6778
+The Matsushista Surveillance Company~
+This show room is competely barren.  Plain white walls and a 
+sterile concrete floor are all that is visible.  You get the
+eerie feeling that you are being watched and scanned.  Suddenly
+a voice booms from a hidden speaker saying, "State your business
+or leave the premises."
+~
+66 9 0
+0d0+0 0 0
+D3
+A heavy armored door leads back to the street.  ~
+door~
+1 -1 6670
+S
+#6779
+Chong's Liquor store~
+One thing about liquor stores, they all look pretty much alike.
+This establishment is no exception.  Its dreary interior is lined
+with tall shelves filled with all sorts of liquors and aperatifs.
+A faint, sour smell mixed with dust and mildew makes your nose
+itch.  Armed cameras are mounted in each corner of the store and
+you have no doubt that someone or something is watching you with
+its finger on the trigger.
+~
+66 8 0
+0d0+0 0 0
+D1
+A door leads back out onto the street.  ~
+door~
+1 -1 6671
+S
+#6780
+Century 22 Realty~
+This realty company office looks abandoned, or at least rarely
+used.  Property on Earth has been dropping in value ever since the
+opening up of the Outer Colonies.  Most people now simple claim
+property as their own by occupying it.  Few people care about it
+since most of the buildings in the cities are nearly empty.
+~
+66 8 0
+0d0+0 0 0
+D0
+A door leads back out to the street.  ~
+door~
+1 -1 6672
+S
+#6781
+A dark alleyway~
+You are standing outside of a heavy steel door marked "EMERGENCY EXIT"
+in a dark, garbage-strewn alleyway.  The alley ends to the east and
+continues into the darkness to the west.  The smell of stale popcorn and
+grease is strong here for some reason.
+~
+66 1 1
+0d0+0 0 0
+D0
+A door marked "EMERGENCY EXIT" is here.  ~
+door~
+1 -1 6740
+D3
+~
+~
+0 -1 6763
+S
+#6782
+Museum of Origami~
+This tiny museum has three walls covered with tiny picture frames
+containing the most ingenious and intricate origami that you have
+ever seen.  People, mythical creatures, objects, animals, everything
+imaginable has been cleverly created from pieces of paper.  There is
+a door labelled "CLASSES" in the back of the store which has a large
+"CLOSED " sign on it.  You assume that the company offering the art
+classes has folded.
+~
+66 9 0
+0d0+0 0 0
+D0
+A door leads back to the street.  ~
+door~
+1 -1 6664
+D2
+The door to the classrooms has a "CLOSED" sign on it.  ~
+door~
+2 6601 6620
+S
+#6783
+A misty road~
+You are walking along a paved road that is almost hidden by a heavy
+mist.  Odd sounds softly echo in the distance as you quickly become
+disoriented and wonder where you are going.  You have an odd sense
+that time is somehow warping around you and an icy fear runs through
+you as you try to decide which way to go.
+~
+66 5 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6784
+D2
+~
+~
+0 -1 6785
+S
+#6784
+A misty road~
+You are walking along a paved road that is almost hidden by a heavy
+mist.  Odd sounds echo softly in the distance as you quickly become
+disoriented and wonder where you are going.  You have an odd sense
+that time is somehow warping around you and an icy fear runs through
+you as you try to decide which way to go.  An illuminated sign glows
+by the side of the road.
+~
+66 5 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3073
+D2
+~
+~
+0 -1 6783
+E
+sign~
+The sign reads, "WARNING - The Temporal Police have identified a fault in the
+space time continuum south of this point.  Proceed at your own risk."
+~
+S
+#6785
+A misty road~
+You are walking along a paved road that is almost hidden by a heavy
+mist.  Odd sounds echo softly in the distance as you quickly become
+disoriented and wonder where you are going.  You have an odd sense
+that time is somehow warping around you and an icy fear runs through
+you as you try to decide which way to go.
+~
+66 5 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6786
+D2
+~
+~
+0 -1 6783
+S
+#6786
+A misty road~
+You are walking along a paved road that is almost hidden by a heavy
+mist.  Odd sounds echo softly in the distance as you quickly become
+disoriented and wonder where you are going.  You have an odd sense
+that time is somehow warping around you and an icy fear runs through
+you as you try to decide which way to go.
+~
+66 5 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6785
+D2
+~
+~
+0 -1 6787
+S
+#6787
+A misty road~
+You are walking along a paved road that is almost hidden by a heavy
+mist.  Odd sounds echo softly in the distance as you quickly become
+disoriented and wonder where you are going.  The mist seems to thin
+somewhat to the west and you catch glimpses of what appears to be
+a city street in the distance.
+~
+66 5 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6783
+D3
+~
+~
+0 -1 6665
+S
+$

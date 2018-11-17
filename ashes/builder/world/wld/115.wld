@@ -1,0 +1,1539 @@
+#11500
+The Drawbridge~
+You are crossing over a large moat along the drawbridege.  You are now
+standing in the alcove before the doors.  They are wide open.  On the front
+of the castle is some writing in blood that is difficult for you to make out.  You seem to notice dark clouds surrounding the top of the castle, as if light
+never enters....
+~
+115 32769 1
+0d0+0 0 0
+D0
+There is a large gate blocking the entrance to the castle.
+~
+gate~
+0 -1 11503
+D2
+~
+~
+0 -1 11592
+E
+writing blood~
+The writing is very hard to understand and the blood is old and dry.
+But as you study it further, it looks like:
+
+   THE DEAD WALKS !!!
+     THE DEAD WALKS !!!
+       BEWARE OF THE UNDEAd....
+                              .....
+                                 (blood drops to the ground)
+~
+E
+iron gate~
+It looks old and rusty, but very solid.  There is a keyhole.
+~
+S
+#11501
+The kitchen~
+You have found a way to the kitchen of the dead.  It smells like burning
+flesh.  There are pots here, with boiling water.  A large table sets in the 
+middle of the room with tons of overcooked body parts. 
+~
+115 1 0
+0d0+0 0 0
+D4
+That is the floor to the first level of the castle.
+~
+floor~
+0 115 11509
+E
+pots pot~
+As you look into the boiling pot, you notice a human head float to the top.
+It seems as if the eyes were gouged out.
+~
+S
+#11502
+Southwest corner~
+This is the southwest corner of the castle.  There are large pillars here.
+~
+115 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11505
+D1
+~
+~
+0 -1 11503
+S
+#11503
+Entrance to Castle~
+You have entered the castle hallway.  It continues northwards, while the 
+entrance to the castle is south.  You may go west and east inside the castle.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11506
+D1
+~
+~
+0 -1 11504
+D2
+There is a large gate.
+~
+gate~
+0 115 11500
+D3
+~
+~
+0 -1 11502
+S
+#11504
+Southeast corner~
+You are at the southeast corner of the castle.  There are large pillars here.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11507
+D3
+~
+~
+0 -1 11503
+S
+#11505
+Western wall~
+This is the western wall of the castle.  There are more pillars here.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11508
+D1
+~
+~
+0 -1 11506
+D2
+~
+~
+0 -1 11502
+S
+#11506
+A hallway~
+This is the center of a hallway in the castle.  You may go any standard
+direction from here.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11509
+D1
+~
+~
+0 -1 11507
+D2
+~
+~
+0 -1 11503
+D3
+~
+~
+0 -1 11505
+S
+#11507
+Eastern wall~
+This is the eastern wall of the castle.  There are more pillars here.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11510
+D2
+~
+~
+0 -1 11504
+D3
+~
+~
+0 -1 11506
+S
+#11508
+Northwest corner~
+You are in the northwest corner of the castle.
+~
+115 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11509
+D2
+~
+~
+0 -1 11505
+S
+#11509
+North end of hallway~
+You have reached the north end of the hallway. Stairs lead up and down, and a
+pair of ornate double doors are to your north. 
+~
+115 32769 0
+0d0+0 0 0
+D0
+an ornate set of double-doors bars your way.
+~
+doors door ornate~
+1 -1 11520
+D1
+~
+~
+0 -1 11510
+D2
+~
+~
+0 -1 11506
+D3
+~
+~
+0 -1 11508
+D4
+The stairs appear to lead up to the second floor.
+~
+~
+0 -1 11512
+D5
+~
+~
+0 -1 11554
+S
+#11510
+Northeast corner~
+You are in the northeast corner of the castle.
+~
+115 32768 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11507
+D3
+~
+~
+0 -1 11509
+S
+#11511
+Bottom of northwest tower~
+You are beneath the northwest tower in the castle.  You can go east or
+south.
+~
+115 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11512
+D2
+~
+~
+0 -1 11514
+D4
+~
+~
+0 -1 11522
+S
+#11512
+The second floor~
+You are at the top of the stairway.  You can go south, west or east.
+~
+115 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11513
+D2
+~
+~
+0 -1 11515
+D3
+~
+~
+0 -1 11511
+D5
+~
+~
+0 -1 11509
+S
+#11513
+Below the northeast tower~
+You are beneath the northeast tower in the castle.  You may go south and
+west.
+~
+115 32768 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11516
+D3
+~
+~
+0 -1 11512
+D4
+~
+~
+0 -1 11523
+S
+#11514
+Western wall~
+You are at the western wall of the second floor in the castle.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11511
+D1
+~
+~
+0 -1 11515
+D2
+~
+~
+0 -1 11517
+S
+#11515
+Center room~
+This is the center of the second floor in the castle.  Exits lead in all 
+general directions.  There is a coffin here.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11512
+D1
+~
+~
+0 -1 11516
+D2
+~
+~
+0 -1 11518
+D3
+~
+~
+0 -1 11514
+E
+coffin~
+The coffin looks clean.  It has no signs of dust.  The inside is lined with
+red velvet.  It is open.
+~
+S
+#11516
+Eastern wall~
+You are at the eastern wall atop the second floor in the castle.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11513
+D2
+~
+~
+0 -1 11519
+D3
+~
+~
+0 -1 11515
+S
+#11517
+Below the southwest tower~
+Above you is the southwest tower.  You may go north or east.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11514
+D1
+~
+~
+0 -1 11518
+D4
+~
+~
+0 -1 11524
+S
+#11518
+Atop the southern wall~
+You stand above the front of the castle.  Below you, you can barely make out
+the bridge through the thick layers of darkness that always surround the 
+castle.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11515
+D1
+~
+~
+0 -1 11519
+D3
+~
+~
+0 -1 11517
+S
+#11519
+Bottom of the southeast tower~
+Above you is the southeast tower of the castle.  You may go north or west.
+~
+115 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11516
+D3
+~
+~
+0 -1 11518
+D4
+~
+~
+0 -1 11525
+S
+#11520
+The throne room~
+You have found the throne room.  Here is where the evil vampire lord some-
+times sits upon his throne in the shadows and rules over the hordes of un-
+dead. The only magic that can be used in here is his own.  This is his 
+castle and he will keep it that way!
+~
+115 34816 0
+0d0+0 0 0
+D2
+an ornate set of double-doors bars your way.
+~
+doors door ornate~
+1 -1 11509
+D5
+You have found a hidden passage beneath the throne!
+~
+secret passage trapdoor~
+1 -1 11521
+S
+#11521
+The Treasure Room~
+   You have found the vampire lord's secret treasure hoard. *sniff sniff* It
+smells kinda strange in here, like meat that's been left out in the sun...the
+smell of rotting flesh. You begin to wonder what kind of guards the vampire
+lord might have placed down here to keep his riches safe. 
+~
+115 47108 0
+0d0+0 0 0
+D4
+~
+secret passage trapdoor~
+1 -1 11520
+S
+#11522
+The northwest tower~
+You are atop the northwest tower.  Wow!  What a view!  There is nothing but
+dark clouds surrounding you.
+~
+115 32768 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 11511
+S
+#11523
+The northeast tower~
+You are on top of the northeast tower of the castle.  All you can see is dark
+clouds.
+~
+115 32768 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 11513
+S
+#11524
+On the southwest tower~
+You are on top of the highest tower in the castle.  You can see nothing below
+you because of the dark clouds that surround the castle.
+~
+115 32768 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 11517
+S
+#11525
+The southeast tower~
+You have climbed atop the southeast tower of the castle.  A dark haze of
+clouds impair your vision.
+~
+115 32768 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 11519
+S
+#11526
+The Secret Chamber~
+You have entered the lich's secret chamber.  Watch yourself.
+~
+115 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3001
+S
+#11527
+A dirt road leading to a rusted gate~
+You are standing on a dirt road leading toward a stormy castle.  The castle
+lies on top of the large mountain.  You can see lightning striking everywhere.
+~
+115 1 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11528
+D3
+~
+~
+0 -1 12067
+S
+#11528
+In front of the rusted gate~
+You are standing in front of a large rusted gate.  The letter 'D' is imprinted
+upon a large shield that is on the gate.  You hear a howl in the distance
+as you look up to the castle.
+There is a rusted sign on the gate.  
+~
+115 1 0
+0d0+0 0 0
+D1
+~
+gate~
+2 11599 11529
+D3
+~
+~
+0 -1 11527
+E
+rusted sign~
+******
+Welcome to the castle of the Count, may your stay here be fulfilling.
+******
+~
+S
+#11529
+Inside the gate~
+You are standing within the gate.  Before you the path rises up into the air
+heading toward the castle.  The lightning strikes show castles features.
+~
+115 1 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11530
+D3
+~
+gate~
+2 11599 11528
+S
+#11530
+Before the Stairway of Blood~
+You are standing before the Stairway of Blood.  As the rain pours down, the
+rain dripping down the stairs appears as blood draining down the stairway.
+~
+115 5 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11533
+D3
+~
+~
+0 -1 11529
+S
+#11531
+On the Stairs of Blood~
+You are on the Stairs of blood.  They continue around the mountain.
+~
+115 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11534
+D1
+~
+~
+0 -1 11532
+D2
+~
+~
+0 -1 11532
+D3
+~
+~
+0 -1 11536
+S
+#11532
+Plumetting to a screaming bloody DEATH~
+We told you to keep your head and hands inside the ride at all times.
+You decided to disobey the rules.  As you fall to the ground you can see
+a small opening that looks like it is the temple.  The hole isn't
+going to be wide enuff, but if there is enough of your corpse left to
+drip through the whole, you might be returned there.
+~
+115 1 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3072
+S
+#11533
+On the Stairs of Blood~
+You are continuing on the Stairs of Blood.  They continue around the mountain
+endlessly.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11532
+D1
+~
+~
+0 -1 11532
+D2
+~
+~
+0 -1 11530
+D3
+~
+~
+0 -1 11534
+S
+#11534
+On the Stairs of Blood~
+You are continuing along the Stairs of Blood.  They seem to endlessly continue
+around the mountain.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11532
+D1
+~
+~
+0 -1 11533
+D2
+~
+~
+0 -1 11535
+D3
+~
+~
+0 -1 11532
+S
+#11535
+On the Stairs of Blood~
+You are continuing along the Stairs of Blood.  The stairs wind around the
+mountain upwardly, as well as toward the ground.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11534
+D1
+~
+~
+0 -1 11536
+D2
+~
+~
+0 -1 11532
+D3
+~
+~
+0 -1 11532
+S
+#11536
+On the Stairs of Blood~
+You are on the Stairs of Blood, they continue around the mountain.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11537
+D1
+~
+~
+0 -1 11532
+D2
+~
+~
+0 -1 11532
+D3
+~
+~
+0 -1 11535
+S
+#11537
+On the Stairs of Blood~
+You are on the Stairs of Blood, they continue around the mountain.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11532
+D1
+~
+~
+0 -1 11532
+D2
+~
+~
+0 -1 11536
+D3
+~
+~
+0 -1 11538
+S
+#11538
+On the Stairs of Blood~
+You are on the Stairs of Blood, they continue around the mountain.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11532
+D1
+~
+~
+0 -1 11537
+D2
+~
+~
+0 -1 11539
+D3
+~
+~
+0 -1 11532
+S
+#11539
+On the Stairs of Blood~
+You are on the Stairs of Blood, they continue around the mountain.  You still
+cannot see the end or the beginning from where you are.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11538
+D1
+~
+~
+0 -1 11540
+D2
+~
+~
+0 -1 11532
+D3
+~
+~
+0 -1 11532
+S
+#11540
+On the Stairs of Blood~
+You are on the Stairs of Blood, they continue around the mountain.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11541
+D1
+~
+~
+0 -1 11532
+D2
+~
+~
+0 -1 11532
+D3
+~
+~
+0 -1 11539
+S
+#11541
+On the Stairs of Blood~
+You are standing on the Stairs of Blood, they continue around the mountain.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11532
+D1
+~
+~
+0 -1 11532
+D2
+~
+~
+0 -1 11540
+D3
+~
+~
+0 -1 11542
+S
+#11542
+On the Stairs of Blood~
+You are on the Stairs of Blood, they continue around the mountain.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11532
+D1
+~
+~
+0 -1 11541
+D2
+~
+~
+0 -1 11543
+D3
+~
+~
+0 -1 11532
+S
+#11543
+On the Stairs of Blood~
+You are standing on the Stairs of Blood, they continue around the mountain.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11542
+D1
+~
+~
+0 -1 11544
+D2
+~
+~
+0 -1 11532
+D3
+~
+~
+0 -1 11532
+S
+#11544
+On the Stairs of Blood~
+You are trying to keep your balance on the Stairs of Blood.  There
+are strong gusts of wind that make you want to just jump off into the
+nothingness that sorrounds you.  You must continue.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11545
+D1
+~
+~
+0 -1 11532
+D2
+~
+~
+0 -1 11532
+D3
+~
+~
+0 -1 11543
+S
+#11545
+On the Stairs of Blood~
+You are standing on the Stairs of Blood.  You can continue, or you
+can jump, take your pick.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11532
+D1
+~
+~
+0 -1 11532
+D2
+~
+~
+0 -1 11544
+D3
+~
+~
+0 -1 11546
+S
+#11546
+On the Stairs of Blood~
+You are standing on the Stairs of Blood.  The feeling of evil is strongest
+if you continue toward the castle.
+~
+115 2049 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11532
+D1
+~
+~
+0 -1 11545
+D2
+~
+~
+0 -1 11547
+D3
+~
+~
+0 -1 11532
+S
+#11547
+On the Stairs of Blood~
+You are nearing the end of your journey on the Stairs of Blood.  You
+see the castle entrance ahead of you.  The wind has picked up considerably
+as well as some earthquake type shaking.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11546
+D1
+~
+~
+0 -1 11548
+D2
+~
+~
+0 -1 11532
+D3
+~
+~
+0 -1 11532
+S
+#11548
+On the Stairs of Blood~
+You are almost at the end of the Stairs of Blood, in the distance
+you can here someone cackling.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11549
+D1
+~
+~
+0 -1 11532
+D2
+~
+~
+0 -1 11532
+D3
+~
+~
+0 -1 11547
+S
+#11549
+On the Stairs of Blood~
+You are at the end.  Within a few steps you can see the gateway to the
+building itself.  The Stairs of Blood have let you live.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11532
+D1
+~
+~
+0 -1 11532
+D2
+~
+~
+0 -1 11548
+D3
+~
+~
+0 -1 11550
+S
+#11550
+The End of the Stairs of Blood~
+You are standing at a gate to a courtyard.  The large courtyard seems to
+surround the entire castle.  To the east and west there is a ledge.
+In front of you is the gate.
+~
+115 5 0
+0d0+0 0 0
+D0
+~
+gate~
+2 11598 11552
+D1
+~
+~
+0 -1 11549
+D3
+~
+ledge~
+1 -1 11551
+S
+#11551
+On a wind swept ledge~
+You are STUCK, you try and get back, but you will slip and fall for
+sure.  Though as you look at one of the rocks, it looks like
+this may be a secret entrance around the troll.  I would try the
+secret entrance and see if it is really a secret at all.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11532
+D1
+~
+secret~
+1 -1 11552
+D2
+~
+~
+0 -1 11532
+D3
+~
+~
+0 -1 11532
+S
+#11552
+Within the gate~
+You are standing within the gate of Dracula's castle.  Before you is a mote
+across the more is the main gate.  The courtyard you are in has many small
+huts and such.  There is bustling and so on.
+~
+115 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 11553
+D2
+~
+gate~
+2 11598 11550
+S
+#11553
+Within the courtyard~
+You are standing in the central courtyard of the castle of the count.  There
+is a large hut to your right, while there is moat between you and the castle
+entrance.
+~
+115 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 11500
+D1
+~
+door~
+1 -1 11554
+D2
+~
+~
+0 -1 11552
+D3
+~
+~
+0 -1 11555
+S
+#11554
+The Kitchen~
+   You are standing in a grisly-looking kitchen. Bloody is smeared all over
+everything...it looks like the cook has a real zeal for his work. Now where's
+that number for the Health Inspector... 
+~
+115 32769 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 11509
+S
+#11555
+Within the courtyard~
+You are standing in the courtyard.  All you see a piles of crud lying every-
+where.  A small hut lies to the east.
+~
+115 1 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 11553
+D2
+~
+~
+0 -1 11556
+D3
+~
+~
+0 -1 11557
+S
+#11556
+Within the courtyard~
+You are standing within the courtyard.  There is nothing around you
+but piles of human remains and the moat.
+~
+115 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 11555
+D2
+~
+~
+0 -1 11556
+S
+#11557
+Within the courtyard~
+You are standing within the courtyard in front of the castle.  There are
+piles of human remains scattered throughout the courtyard.
+~
+115 1 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 11555
+D3
+~
+~
+0 -1 11557
+S
+#11573
+Outside the throne room~
+You are standing outside the thrown room.  There are screams of agony
+that ring throughout the building.  They seem to all be coming from 
+directly in front of you.
+~
+115 1 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 11520
+D5
+~
+~
+0 -1 11574
+S
+#11574
+Blood covered stairwell~
+You are climbing up a stairwell drenched in blood.  There are body parts
+strewn as you climb the horrid staircase.
+~
+115 1 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 11573
+D5
+~
+~
+0 -1 11515
+S
+#11575
+A dark passage beneath the castle~
+You walk along a hidden passage underneath the castle. Who knows what 
+surprises lie ahead of you.
+~
+115 6401 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11576
+D3
+~
+~
+0 -1 11521
+S
+#11576
+A blood filled hallway~
+This room is littered with pieces of flesh still dripping of blood. The 
+horrible smell of raw flesh emits from this room and makes you wanta vomit. 
+More body parts can be seen leading off in other directions.
+~
+115 6145 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 11575
+D6
+~
+~
+0 -1 11577
+D7
+~
+~
+0 -1 11579
+S
+#11577
+A hall made of bones~
+The walls of this passage are strewn with bones of long and recently deceased
+victims. Stuck together by intertwining bones and debris, the enamel walls
+gleam a brightness out of this darkness. Maybe your bones can be added to this
+wonderful collection.
+~
+115 6145 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 11578
+D9
+~
+~
+0 -1 11576
+S
+#11578
+Chamber of the lost soul~
+This is a chamber that was built as a prison for foul undead creatures. It's
+Holy aura keeps the undead from leaving, but permits you to walk through
+freely.
+~
+115 14337 0
+0d0+0 0 0
+D5
+A trapdoor leads down.
+~
+trapdoor~
+1 -1 11581
+D9
+~
+~
+0 -1 11577
+S
+#11579
+A hallway made of skulls~
+Neatly arranged on the walls of this tunnel are skulls of different shapes and
+sizes. As you look to try to see ground you realize that there are more than 
+just one layer thick. You feel as if though you are being watched!
+~
+115 14337 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 11585
+D8
+~
+~
+0 -1 11576
+S
+#11580
+Within the catacombs~
+~
+115 14337 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 11578
+D8
+~
+~
+0 -1 11579
+S
+#11581
+Within the catacombs~
+This room is made up of a series of shelf-like beds in the walls. As you enter
+the room you feel a cold chill pass over your skin. You can sense the evilness
+that once possessed the bodies found within this room.
+~
+115 6145 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 11578
+D7
+~
+~
+0 -1 11582
+S
+#11582
+Deeper within the catacombs~
+This room is made up of a series of shelf-like beds built into the walls. As 
+you enter, you feel a cold chill pass over your skin and through your soul.
+The evilness of the corpses here tingle your spine.
+~
+115 6145 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 11588
+D8
+~
+~
+0 -1 11581
+S
+#11583
+~
+~
+115 0 0
+0d0+0 0 0
+S
+#11584
+~
+~
+115 0 0
+0d0+0 0 0
+S
+#11585
+Chamber of the lost zombie~
+Acting as a magical prison, this chamber appears to have a magic aura about 
+it. This chamber was designed to hold its inhabitants as a form of punishment.
+~
+115 14337 0
+0d0+0 0 0
+D5
+A trapdoor is hidden under the debris.
+~
+trapdoor~
+1 -1 11586
+D8
+~
+~
+0 -1 11579
+S
+#11586
+Within the catacombs~
+You have entered the lower portion of the castles surroundings. Shelf-like beds
+are built into the walls here where rests the sarcophaguses of once evil
+human life forms. A cold chill tingles your soul as you enter.
+~
+115 14337 0
+0d0+0 0 0
+D4
+~
+trapdoor~
+1 -1 11585
+D6
+~
+~
+0 -1 11587
+S
+#11587
+Deeper within the catacombs~
+This room is made up of a series of shelf-like beds built into te walls. As you
+enter, you feel a cold chilling sensation pass through your body. If you didn't
+know better you would swear the corpses here are staring at you.
+~
+115 14337 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 11588
+D9
+~
+~
+0 -1 11586
+S
+#11588
+A gloomly lit intersection~
+Coming from the darkness, this room allows you to finally take a sigh of relief.
+Lightly lit by 2 torches on the far ends of the room, This room seems to be
+the waiting room of a higher power. You can hear the sounds of some sort of
+party coming from beneath you.
+~
+115 6145 0
+0d0+0 0 0
+D5
+A trapdoor is here.
+~
+trapdoor~
+1 -1 11590
+D8
+~
+~
+0 -1 11582
+D9
+~
+~
+0 -1 11587
+S
+#11589
+~
+~
+115 0 0
+0d0+0 0 0
+S
+#11590
+The Crypt Keeper's Bordelo of Blood~
+Beautiful women parade about the room entertaining the Keeper of this Crypt.
+Decorated in fine furniture, this is the last thing you expected to find 
+down here. Bottles of a red fluid are stacked upon tables in this room.
+One women comes up to you and asks, "Mind giving me a drink?"
+~
+115 6145 0
+0d0+0 0 0
+D4
+A tradoor is above your head.
+~
+trapdoor~
+1 -1 11588
+D5
+~
+secret~
+1 -1 11591
+S
+#11591
+A hidden shoot~
+SLIDING.........SLIDING..........SLIDING! You've found a way out! Ahead of you
+you can see a light. Twisting through the naturally existing slide has brought
+you back to the front of the castle.
+~
+115 6145 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 11527
+S
+#11592
+A Path to a Haunted Castle~
+  You are walking toward a scarry castle. Even though you were
+indoors a minute ago, the sky above you is open. You can't be
+certain that you are still actually in the House of Horrors
+anymore.
+~
+115 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 11500
+D2
+~
+~
+0 -1 3061
+S
+#11593
+~
+~
+115 0 0
+0d0+0 0 0
+S
+#11594
+~
+~
+115 0 0
+0d0+0 0 0
+S
+#11595
+~
+~
+115 0 0
+0d0+0 0 0
+S
+#11596
+~
+~
+115 0 0
+0d0+0 0 0
+S
+#11597
+~
+~
+115 0 0
+0d0+0 0 0
+S
+#11598
+~
+~
+115 6664 0
+0d0+0 0 0
+S
+#11599
+~
+~
+115 0 0
+0d0+0 0 0
+S
+$

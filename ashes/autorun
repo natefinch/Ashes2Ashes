@@ -1,0 +1,130 @@
+#!/bin/sh
+#
+
+PORT=3333
+FLAGS='-a'
+
+if [ -r .autorunning ]; then
+  echo "WARNING:  Autorun may already be running! rm .autorunning to override."
+  ps -x
+  echo "EXTREMELY IMPORTANT NOT TO RUN MORE THAN ONE INSTANCE :)"
+  exit
+fi
+
+ while ( : ) do
+
+  DATE=`date`;
+  echo "autoscript starting game $DATE" >> syslog
+  echo "Starting mud..."
+  touch .autorunning
+  chmod g+w .autorunning
+  chmod o+w .autorunning
+
+  if [ -r .automaint ]; then
+    if [ ! -r lib/core ]; then
+      if [ ! -r lib/core.old ]; then
+        echo "Purging playerfile, please wait..."
+        cd lib/etc
+        echo `date` >> DELETED
+        ../../bin/purgeplay players >> DELETED
+        if [ ! -z players.new ]; then
+          rm -f players.old
+          mv players players.old
+          mv players.new players
+        fi
+        echo "Done."
+        cd ..
+        ./purgeobjs
+        cd ..
+      fi
+    fi
+  fi
+
+  if [ -r bin/circle.new ]; then
+    rm -f bin/ashes.old
+    mv bin/ashes bin/ashes.old
+    mv bin/circle.new bin/ashes
+  fi
+
+  if [ -r lib/core ]; then
+    rm -f lib/core.old
+    mv lib/core lib/core.old
+    mail asita@home.net < crash.msg
+  fi
+
+  if [ -r reboot_tasks ]; then
+    ./reboot_tasks > task.msg
+    rm -f reboot_tasks.old
+    mv reboot_tasks reboot_tasks.old
+  fi
+
+
+  ./bin/ashes $FLAGS $PORT >> syslog 2>&1
+
+
+  fgrep "loot" syslog | fgrep -v "LOG" >> log/loots
+  fgrep "self-delete" syslog | fgrep -v "LOG" >> log/delete
+  fgrep "death trap" syslog | fgrep -v "LOG" >> log/dts
+  fgrep "killed" syslog | fgrep -v "LOG" >> log/rip
+  fgrep "Running" syslog | fgrep -v "LOG" >> log/restarts
+  fgrep "advanced" syslog | fgrep -v "LOG" >> log/levels
+  fgrep "equipment lost" syslog | fgrep -v "LOG" >> log/rentgone
+  fgrep "usage" syslog | fgrep -v "LOG" >> log/usage
+  fgrep "new player" syslog | fgrep -v "LOG" >> log/newplayers
+  fgrep "SYSERR" syslog | fgrep -v "LOG" >> log/errors
+  fgrep "(GC)" syslog | fgrep -v "LOG" >> log/godcmds
+  fgrep "Bad PW" syslog | fgrep -v "LOG" >> log/badpws
+  fgrep "DUPE" syslog | fgrep -v "LOG" >> log/dupe
+  fgrep "reimb" syslog | fgrep -v "LOG" >> log/reimb
+
+  fgrep "(GC)" syslog | fgrep -v "locked" | fgrep -v "editted obj" | \
+    fgrep -v "editted mob" | fgrep -v "editted room" | \
+    fgrep -v "a piece of mail" | fgrep -v "created" >> godlog
+  mail asita@home.net < godlog
+  rm godlog
+
+  fgrep "LOG" syslog >> snooplog
+  mail asita@home.net < snooplog
+  rm snooplog
+
+  rm log/syslog.1
+  mv log/syslog.2 log/syslog.1
+  mv log/syslog.3 log/syslog.2
+  mv log/syslog.4 log/syslog.3
+  mv log/syslog.5 log/syslog.4
+  mv log/syslog.6 log/syslog.5
+  mv syslog       log/syslog.6
+  touch syslog
+
+  if [ -r .killscript ]; then
+    DATE=`date`;
+    echo "autoscript killed $DATE"  >> syslog
+    rm .killscript
+    rm .autorunning
+    if [ -r .fastboot ]; then
+      rm .fastboot
+    fi
+    exit
+  fi 
+
+  if [ ! -r .fastboot ]; then
+    sleep 40
+  else
+    rm .fastboot
+    sleep 5
+  fi
+
+  if [ -r .update ]; then
+    DATE='date';
+    echo "switching to new autoscript $DATE" >> syslog
+    rm .update
+    rm .autorunning
+    ./autorun &
+    exit
+  fi
+
+  while [ -r pause ]; do
+    sleep 60
+  done
+
+done

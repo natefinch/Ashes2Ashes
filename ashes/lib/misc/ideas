@@ -1,0 +1,619 @@
+Darthius    (Jul 14) [11255] date/time stuff...make em different...just a thought
+Sarnoth     (Mar 15) [ 3000] symboit attach to yourself, give powers, 
+Sabretooth  (Apr 30) [20628] autoassist
+Shinsa      (May  3) [24630] allow 'put 5 recall bag' command. that way players don't have to type ! several times, yet don't have to put ALL of the designated items in the container
+Darwin      (May  7) [12793] a list of suggested levels for areas
+Shifter     (May  7) [ 3055] hey Jesse, have "identify" have priority over idea, will ya...
+Al          (May 12) [ 3054] mud credit cards
+Darwin      (May 15) [ 3057] borg class (from star treck) - very high ac and lowered hp
+ShadowTracker (Jun  3) [24630] I think it would be cool to have a Systime command so you can tell what time it is whereever the computer is based at..
+Kaneda      (Jun  4) [ 3072] put hitroll and damroll in score!
+Traci       (Jun 19) [14601] girl
+Warlock     (Jun 23) [ 3020] 1
+Kenji       (Jun 25) [ 3055] 9
+Cassie      (Jun 28) [15696] newbies should be given torches, they start with no gold, so can't buy one
+Cassie      (Jun 30) [ 3072] gossip emotes make for more interaction between players :)
+Cassie      (Jul  1) [ 3072] regen rooms would be great...ones that you can go to and regenerate faster
+Cassie      (Jul  1) [12063] the amount of mana that it costs to use mage spells seems to be enormous, especially for the limited time they last.  What good is it to have them if they take all your mana that you would use for healing to use 
+Goddess     (Jul 29) [25004] Explain multi class more thoroughly in help...ie advantages and disadvantages
+Goddess     (Jul 29) [25005] We can get some spells in midgaard for a high price...why not add some healing/restore spells?
+Goddess     (Jul 29) [25005] reduce the cost of some items at stores...such as expensive sanc potions that last only 5 hours.
+Goddess     (Jul 29) [25008] Aesir mud has this need set of challenge chambers.  One is used to be able to multi...of course you get better advantages to multi but the idea is that you must kill 7 special mobs to advance to multi. 
+Goddess     (Jul 29) [25008] The challenge chamber is also used to allow chars that have multied a number of times to attempt to become low immortals..again they must pass tests...ie. kill mobs.
+Goddess     (Jul 29) [25008] It would be cool to be granted a special skill/spell when you multi..ie. super sanc,  eagle vision.
+Goddess     (Jul 29) [25008] New spells:  eagle vision - allows you to view the room of another char/mob from a distance.
+Goddess     (Jul 29) [25008] quest master  A quest master would allow chars to take on lowly quests all by themselves...ie they request a quest...then have a tme limit to accomplish.  Upon successful completion, the char could get money, practs, quest points, etc.
+Goddess     (Jul 29) [25008] new skill: scan - allows you to inspect for mobs in surrounding rooms
+Audrey      (Jul 31) [  619] make derrick in chicago's 1920 an attackable mob, he does nothing
+Goddess     (Aug  3) [ 3072] It would be nice to have a cancellation spell.
+Goddess     (Aug  3) [ 3072] oops..cancellation spell would cancel all current effects on a character.
+Goddess     (Aug  3) [25008] Vampire class...of course...I had to say that...but vampire class is cool especially with day/night effects.
+Goddess     (Aug  3) [25020] The mud is really too easy to level in....there needs to be more balance....less access to gold...lower prices in shops...removal of wild amounts of experience on some mobs.
+Goddess     (Aug  4) [25026] jump portals....these portals would allow you to go from a central place in midgaard to a desired area/zone....there could be a fee involved.  This is a good item for those without patience nor spells to get other areas.
+Goddess     (Aug  4) [ 3072] The limited wish spell of the mage seems to have a quirk....why would anyone wish for gold at the cost of -1 con permanent loss???  If the spell was created, it was intended to be used....with the ease of money here, no one in their right mind should
+Goddess     (Aug  4) [25004] It would be nice if the food and drink requirements were removed from level 100 chars....at this level there is not much to do and the food and drink requirement is usually handled by a trigger anyways
+Goddess     (Aug  4) [25020] A mortal council...made of a group of mortals...and token imms..:)  the ouncil is responsible for mortal affairs including addressing new ideas, problems, etc.
+Asita       (Aug  4) [ 1212] test
+Goddess     (Aug  4) [ 3072] the relocate spell should be modified to stop people from getting into level restricted areas...ie  put level 5 in newbie area and higher level can relocate.
+Goddess     (Aug  5) [15180] a phase or pass door spell would be nice for those of us without the picklock skill  :)
+Goddess     (Aug  6) [ 3072] _MORE_ _CLASSES_  I do not care what...dragons would be cool....vampires too....just more classes...more fun
+Goddess     (Aug  7) [ 3072] Sound!! More sound!  Mud Sound Protocol!!  
+Goddess     (Aug  7) [ 3072] Goddess should be the "Idea IMM"...:P
+Goddess     (Aug  7) [ 3896] It would be nice if afk had a replay command that would allow us to replay received tells while afk.
+Audrey      (Aug 14) [ 3084] the ability to buy quest points with practices would be cool...
+Audrey      (Aug 14) [ 8395] make the shopkeepers in Xanth's Centaur Village killable
+Audrey      (Aug 16) [12062] many shops have mobs we can't fight, and
+these shops aren't always in the mainstream - perhaps make these
+non-important shopkeepers fightable to add interest
+Legolas     (Oct 16) [3099] I want a "heal" service here at the mystery well. please :)Ashgon      (Oct 26) [20648] Make the alignment for monks be karma instead.
+Guest2      (Nov 16) [    4] how about a class helpfile which lists the classes and a one-line description
+Guest2      (Nov 16) [    4] rather than the backstaber being stunned for 2 ruonds, wouldn't the person being backstabbed be stunned? ;-) (continued)
+Guest2      (Nov 16) [    4] thieves could backstab, pull out the blade, and then contineu somewhat quickly due to their dexterity - but the victim would have been seriously damaged, and if hit in the correct spot (continued),
+Guest2      (Nov 16) [    4] such 'spots' where thieves would know to strike at the - the victim could be killed instantly - which would make sense for them to be a little shaky immediatly after a backstab
+Guest2      (Nov 16) [    4] how about multiple types of poisons for poisonblade? say a thief could use poisonblade kiolat (a type of poison which causes short-term blindness) then backstab ;-)
+Guest2      (Nov 16) [    4] warrior/ranger skill: grip - when a thief is successful against someone using the grip skill - their grip is disabled, but their weapon is still equiped.
+Tanko       (Nov 29) [21094] Mention in the help fire that you lose xp when you flee :)
+Shalaine    (Nov 29) [ 3057] saron
+Kandalon    (Nov 30) [ 3055] 13
+Agrimmar    (Dec  2) [ 3055] 1
+Tanis       (Dec  6) [ 3072] odd
+Claudia     (Dec  7) [15188] foul
+Scylla      (Dec  9) [ 3072] selenic
+Scylla      (Dec  9) [ 3072] err.. oops, ignore that
+Scylla      (Dec  9) [ 3072] gi
+Kern        (Dec 11) [21019] hurl for monks
+Kern        (Dec 11) [21021] remove !sharp, we have resistance :P
+Onyx        (Dec 12) [ 3055] 45
+Tanis       (Dec 15) [ 3072] shadowt
+Virus       (Dec 16) [21077] parry for warr, rang, pala dudes
+Omni        (Dec 16) [ 3011] handgun
+Kern        (Dec 17) [ 3072] we need more item slots
+Syntax      (Dec 20) [ 3055] 15
+Fate        (Dec 24) [ 3055] 69
+Fate        (Dec 24) [ 3055] 0
+Fate        (Dec 24) [ 3055] 8
+Fate        (Dec 24) [ 3055] 0
+Yohko       (Dec 25) [ 3072] look portal, see where it despction of room
+Fate        (Dec 25) [ 3055] 10
+Fate        (Dec 25) [ 3055] 0
+Scylla      (Dec 27) [ 3072] gi
+Myst        (Dec 28) [ 3806] assault
+Myst        (Dec 28) [ 3806] huht
+Miko        (Dec 28) [13013] miya
+Miko        (Dec 28) [13013] miya
+Miko        (Dec 28) [13013] oops..hehe
+Ted         (Dec 28) [ 3072] zeta
+Ted         (Dec 28) [ 3072] me
+Ted         (Dec 28) [ 3072] zeta
+Vio         (Dec 29) [ 3000] change of to or on the motd =p
+Rasputin    (Dec 29) [ 3072] armor
+Rasputin    (Dec 29) [ 3088] blob
+Cyan        (Dec 31) [ 3063] sig-sauer pulse blaster
+Polly       (Jan  1) [ 3099] ninja
+Rasputin    (Jan  4) [ 3085] gun
+Tanis       (Jan  6) [ 3085] golden
+Tiberious   (Jan  6) [ 3004] hoff
+Memnoch     (Jan  7) [ 3055] 1
+Memnoch     (Jan  7) [ 3055] 1
+Memnoch     (Jan  7) [ 3055] 3
+Memnoch     (Jan  7) [ 3055] 36
+Tiberious   (Jan  7) [24395] gun
+Tiberious   (Jan  7) [ 3020] ch
+Owl         (Jan  7) [ 3072] shouldn't a bank offer some kind of interest :>
+Wiz         (Jan 12) [ 3072] staff
+Tiberious   (Jan 13) [ 3072] tent
+Howitzer    (Jan 14) [25659] gun
+Howitzer    (Jan 14) [25659] uh, sorry bout that
+Malachi     (Jan 14) [ 1763] glum
+FriarTuck   (Jan 20) [25005] monks should get better damage for kicking that other classes...
+FriarTuck   (Jan 20) [25005] monk kick could be same as barehand damage with normal kick restrictions-- like an extra attack every 2-3 rounds of combat
+Memnoch     (Jan 20) [ 3055] 1
+Memnoch     (Jan 20) [ 3055] 1
+Memnoch     (Jan 20) [ 3055] 1
+Tanis       (Jan 22) [ 3072] armlet
+Tanis       (Jan 28) [12853] tana
+Tanis       (Jan 31) [22246] badge
+Drazzst     (Feb  1) [ 3099] Check the well of mystery proc, it looks like the wording needs format
+Lucifer     (Feb  1) [ 3055] 45
+Sherwin     (Feb  4) [ 3085] crimson
+Bane        (Feb  4) [ 3072] gau
+Hrolf       (Feb  8) [ 3072] ring
+Kern        (Feb 10) [ 3072] haste for apal :P
+Icefalcon   (Feb 10) [ 3055] 15
+Hrolf       (Feb 10) [ 3085] sanals
+Hrolf       (Feb 10) [ 3072] vest
+MagSpoke    (Feb 12) [ 1521] garet
+Lapo        (Feb 15) [ 3055] shoes
+Hiro        (Feb 15) [ 3055] 36
+Nambla      (Feb 15) [ 3005] mind
+Tanis       (Feb 16) [ 3085] feath
+MagSpoke    (Feb 17) [ 9609] maim
+Rei         (Feb 18) [ 3055] 62
+Rei         (Feb 18) [ 3055] 59
+Paris       (Feb 18) [ 3005] sword
+Xarlok      (Feb 18) [15005] chef
+It          (Feb 18) [ 3072] light
+It          (Feb 18) [ 1730] glum
+Smaug       (Feb 19) [ 3055] 72
+Cale        (Feb 20) [ 3055] 72
+Memnoch     (Feb 20) [ 3055] 18
+Fate        (Feb 20) [ 3055] 8
+Fate        (Feb 20) [ 3055] 0
+Hiro        (Feb 20) [ 3055] 37
+Vio         (Feb 21) [ 3055] 45
+Vio         (Feb 21) [ 3055] 0
+Hiro        (Feb 25) [ 3055] 27
+Oklahoma    (Feb 26) [ 3072] charm
+Memnoch     (Feb 26) [ 3055] 33
+Vio         (Mar  2) [ 3055] 14
+Vio         (Mar  2) [ 3055] 0
+Vio         (Mar  2) [ 3055] 1
+Vio         (Mar  2) [ 3055] 0
+Dracen      (Mar  4) [ 3072] rentable holy water
+Galactus    (Mar  5) [ 3055] 4
+Fancy       (Mar  6) [ 3072] have a resteraunt in midguard where you actually sit down and order food and it is brought to you,  some of the foods could heal you
+Promethius  (Mar  7) [ 3072] let citizens of midgaard be able to build a house to live and store there stuff in and to rest in
+CosmoK      (Mar  7) [24387] there should be an autoassist for when you are grouped
+DARKSIDE    (Mar  7) [ 3072] blade
+Fancy       (Mar  8) [ 3055] 45
+Fancy       (Mar 11) [ 3063] tab
+Boramir     (Mar 15) [ 2922] 2
+TheWeeOne   (Mar 16) [ 2900] Bow
+Ashnod      (Mar 17) [ 3054] belt
+Ashnod      (Mar 17) [ 3054] belti
+CosmoK      (Mar 19) [ 3055] 6
+Kaylin      (Mar 20) [ 3054] differentiate the prompt from the rest of the screen colors.  And make the "score" more colorful -- not too garish, but colorful.
+Shatterstaff (Mar 20) [ 3063] compare command like on Clandestine MUD, where you can compare the relative value of 1 item to another.
+Shatterstaff (Mar 20) [ 3063] Applying same color vars to score as the excellent PROMPT command would work fine!
+Rhiow       (Mar 20) [ 7346] stu]
+Rhiow       (Mar 20) [ 7346] stu
+Rhiow       (Mar 20) [ 7346] bag
+Rhiow       (Mar 20) [ 7332] gow
+Lucifer     (Mar 20) [15185] nos
+Rhiow       (Mar 21) [ 3011] coif
+It          (Mar 23) [15184] whassup with burning hands and magic missile help files...aren't they the same spell
+It          (Mar 23) [15187] update the pet shop
+It          (Mar 23) [ 3072] Have Lord Skrolk in skaven recall to temple...not dressing room
+It          (Mar 23) [ 3072] Have asita stop bugging me to get eq.
+It          (Mar 23) [ 3072] HaHa
+It          (Mar 23) [ 3005] Update the shopkeepers so one can sell the wads of bills ya get in addams family
+It          (Mar 23) [ 3072] Make Asita stop drinking my espresso.
+Jerec       (Mar 24) [ 3025] change the damage or mana for burning hands its a level 15 spell and it does same damage as magic missile only its 50 insted of the 15 for magic missile
+Zzuull      (Mar 24) [ 3085] shirt
+Zzuull      (Mar 24) [ 3085] buzz
+It          (Mar 24) [ 3072] Ask It to IMM to update some zones.
+Zq          (Mar 24) [12047] increase the number of items someone can have by 3
+It          (Mar 25) [15155] have more Quests!!!
+Jerec       (Mar 25) [ 3072] add in something where you say the same thing like 5 times in a row realy fast it auto mutes ya my enter key got stuck i spamed someone :(
+Boramir     (Mar 26) [ 3055] 72
+Boramir     (Mar 26) [ 3055] 1
+Hopper      (Mar 28) [ 7328] blade
+It          (Mar 28) [ 3001] Make It asst questmaster
+It          (Mar 31) [25010] Reevaluate the Mage Class.  They are very underused.
+It          (Mar 31) [15183] Have the sarnoth statue load 10 qp and give it randomly to people in the group
+Zq          (Mar 31) [25007] More clergy!  More urviles!  Hell i'd even take More Griffins!
+TheWeeOne   (Mar 31) [ 3055] sodiac
+TheWeeOne   (Mar 31) [ 3055] zodiac
+TheWeeOne   (Mar 31) [ 3055] #5
+TheWeeOne   (Mar 31) [ 3055] #5
+TheWeeOne   (Mar 31) [ 3055] #5
+TheWeeOne   (Apr  1) [ 6097] ranger
+EverHeart   (Apr  4) [ 3055] 12
+Zq          (Apr  5) [ 1107] 2
+Zq          (Apr  5) [ 1107] Make it so you can identify items in the shops.
+It          (Apr  5) [ 3055] 32
+Asita       (Apr  5) [ 3055] 2
+It          (Apr  5) [ 3055] Make a newbie FAQ accesible from the mud.
+CadFael     (Apr  5) [17220] #1
+It          (Apr  6) [ 3054] chenge the name of the Cracker Jax ring to Ultimate Plastic Doohicky ring ;)
+Zq          (Apr  6) [25010] there should be a table showing the damage points assigned by DECIMATES and MASSACRES etc...
+Zq          (Apr  6) [15183] update Help REROLL to have detailed instructions on how to reach more hps or mana....this is the most common question i get asked
+It          (Apr  7) [15157] make cavewights and urviles neutral
+It          (Apr  8) [15185] Reintroduce the armor of mars assembly code please :)
+It          (Apr  8) [ 3055] 61
+Miya        (Apr 12) [ 3072] so when you're fighting it looks like The factory worker. hits you.. blah..blah
+Abbadon     (Apr 13) [ 3055] n12
+ElCuraPerez (Apr 13) [ 3054] Make an stat increase coupon and put it on the god's shop at a reasonable price ! :)
+IQ          (Apr 14) [25009] speed up the time it takes psi's to level..it's so god awful slow
+Thunder     (Apr 16) [ 3020] armour
+Thunder     (Apr 16) [ 3020] studded armour
+Sado        (Apr 17) [ 3000] ring
+IQ          (Apr 17) [15156] Mages need more scrolls to be learned
+IQ          (Apr 17) [15157] cuz Mages suck and are not balanced with rest of chars
+Jay         (Apr 18) [ 3055] 1
+Zq          (Apr 19) [15146] 'Help damage' should include a list of how much each deals
+Tanis       (Apr 25) [ 3055] 45
+Bruce       (Apr 25) [ 3055] 35
+Bruce       (Apr 25) [ 3055] 21
+Bruce       (Apr 25) [ 3055] 21
+Mc          (Apr 27) [15157] the consider command is rather misleading...newbies learn it in newbie school
+Colin       (Apr 30) [ 3099] thievery
+Kiel        (May  3) [ 3072] make sneak and silentwalk the same skill
+It          (May  3) [ 1531] a command that would cancel all other commands in the command buffer...so i don't need to dc then re-connect
+Stewart     (May  5) [ 3038] train
+Stewart     (May  5) [ 7346] scroll
+Mc          (May  6) [ 3072] smau
+Gandalf     (May  7) [ 3072] leg
+Mc          (May  8) [ 1520] make lower resistance cost less
+Magnolia    (May  9) [ 3072] blue
+Magnolia    (May  9) [ 3072] fiz
+It          (May 14) [ 8446] make charmies still follow their leader even after they win an arena match
+Mc          (May 15) [15183] give rangers a boomerang
+Xialou      (May 18) [ 3084] axe
+Doom        (May 19) [25004] I think backstab should have a damage message correlating to the damage inflicted
+Zq          (May 19) [13013] Make it so backstab and circle messages reflect what kind of damage is done
+Moriki      (May 21) [ 1506] some people were talking the other day about having circle show a range of damage as does a regular hit...instead of just having it say "makes a strange gurgling sound"
+Mordridia   (May 23) [ 7346] teacher
+Mordridia   (May 24) [ 7301] you might want to map out the  way to the rangers guild:-)
+Mordridia   (May 24) [ 3072] make pets sleep til you come back to the game
+Mordridia   (May 24) [ 3072] make them sleep in temple reading room
+Mordridia   (May 26) [ 6099] make an item system for items laying on the ground, and items in a erson inventory, number the items in both categories so a specific item can be droppped or used
+Mordridia   (May 26) [ 6099] that was "persons" inventory for the second category
+It          (May 29) [15188] throw should not make the char lose the weapon...
+It          (May 29) [15188] for a monk throw should put the weapon in the mobs inventory
+It          (May 29) [15156] do you even read these?
+It          (May 29) [15156] :)
+Hysteria    (May 29) [13172] mahn
+Hysteria    (May 29) [13172] mahn
+Hysteria    (May 29) [13172] mahn
+Vio         (May 30) [ 3055] 49
+Vio         (May 30) [ 3055] 49
+Nova        (Jun  1) [ 3055] 54
+Nova        (Jun  1) [ 3055] 54
+MagSpoke    (Jun  3) [ 3054] jeane
+Scylla      (Jun 11) [15187] grif
+Vw          (Jun 11) [17945] 11
+Mc          (Jun 12) [ 3054] monks should get a chopmode command to go to stabbing 12d2 so we can have monk/thiefs
+Sturm       (Jun 15) [ 3099] i think we should have rem curse is we already do please inform me of where.... sturm
+Jackal      (Jun 16) [ 3072] I was thinking about instead of putting It glows faintly after eq you could put (Glowing)(Humming) like that =D
+Jackal      (Jun 16) [ 4938] instead when you hit something like you DESTROY something just though maybe like >>>DESTROY<<< so it makes it look better also with other kinds of hits
+Palima      (Jun 17) [ 3055] 70
+Palima      (Jun 17) [ 3055] 70
+Scooter     (Jun 19) [ 3072] How bout a bruce lee social, where it would be Name lets out a load Kiiiiaaaaah and fly kicks Victim.
+Vio         (Jun 20) [ 2922] 2
+Zool        (Jun 22) [ 8855] guitar
+Miya        (Jun 23) [ 1107] 1
+Scylla      (Jun 25) [ 6060] fox
+Ian         (Jul  5) [ 3085] sword
+Ian         (Jul  5) [ 3085] sword
+Takhihis    (Jul  8) [ 3099] a
+Inca        (Jul  9) [ 1730] glum
+Nosferatu   (Jul 14) [ 1503] midknight
+Nosferatu   (Jul 14) [ 1503] mid
+Madmax      (Jul 19) [12035] cannon
+Dededede    (Jul 22) [ 3099] remove invis 
+Dededede    (Jul 22) [ 3099] put invis on item
+Chills      (Jul 23) [ 3072] gui
+Chills      (Jul 23) [ 7085] 1
+Ian         (Jul 23) [11517] slip
+Zool        (Jul 24) [ 3072] lights
+Shajir      (Jul 24) [ 7326] red
+Scapegoat   (Jul 26) [ 3072] j
+Fizban      (Jul 26) [ 3055] 16
+Zool        (Jul 28) [ 7014] skate
+Zool        (Jul 29) [17219] robe
+Zool        (Aug  8) [ 3809] scroll
+Troy        (Aug 24) [ 3085] Awesome
+Brucelee    (Aug 28) [ 3020] 6
+Blame       (Aug 30) [ 3001] moonlight
+What        (Sep  1) [ 3055] 57
+Axl         (Sep  5) [ 3147] ma
+Axl         (Sep  5) [ 3147] me
+Agnot       (Sep  8) [ 3011] boba
+Mithendar   (Sep 25) [ 3072] jewel
+Mithendar   (Sep 25) [ 3072] ruby
+Troy        (Sep 26) [25005] warrior
+Rayakin     (Sep 27) [ 3072] me
+Cale        (Sep 30) [ 3072] charm
+Bacta       (Sep 30) [ 3020] dragon
+Ska         (Oct  5) [ 3072] shield
+Falo        (Oct  5) [12046] ste
+MaraJade    (Oct  7) [  213] guyv
+Drak        (Oct  8) [ 3054] eye
+Rock        (Oct 14) [ 3099] pesti
+Rock        (Oct 14) [ 3099] aura
+Dracen      (Oct 15) [ 3072] jarl
+Dux         (Oct 17) [ 3072] ring
+Dracen      (Oct 18) [ 3072] jugg
+Yohko       (Oct 19) [ 3072] slee
+ScrewyLouie (Oct 20) [ 3072] III
+Sierra      (Oct 22) [ 3072] eye
+Sierra      (Oct 24) [ 3072] eye
+Sierra      (Oct 24) [ 3072] foot
+Vadid       (Oct 25) [ 3085] brace
+Vadid       (Oct 25) [ 3085] brace
+Vadid       (Oct 25) [ 3085] bracelet
+Excelsior   (Oct 26) [ 3072] krynn
+Excelsior   (Oct 26) [ 3072] excel
+Excelsior   (Oct 26) [22767] packet
+Yohko       (Oct 26) [ 3072] gambit
+Excelsior   (Oct 26) [ 3072] claw
+Dux         (Oct 27) [ 3072] fox
+Dux         (Oct 29) [ 3072] luck
+Bacta       (Oct 30) [ 3055] 1
+Bacta       (Oct 30) [ 3055] 1
+Bacta       (Oct 30) [ 3055] 1
+Rock        (Nov  1) [13020] dak
+Leonid      (Nov  4) [ 3055] #1
+Leonid      (Nov  4) [ 3055] 1
+Kiel        (Nov  5) [ 3085] bless
+Kiel        (Nov  5) [ 3085] beast
+Bianca      (Nov  5) [ 3054] uniform
+Axeblade    (Nov  5) [ 3011] scale
+Axeblade    (Nov  5) [ 3011] scale
+Axeblade    (Nov  6) [25008] autoassist when grouping
+Chameloid   (Nov  8) [ 3806] 5
+Fat         (Nov  9) [ 3055] 38
+Fat         (Nov  9) [ 3055] 34
+Darien      (Nov  9) [ 3060] scales
+Destroyer   (Nov 10) [25011] self
+Sto         (Nov 12) [ 3072] nigel
+Drom        (Nov 12) [ 3072] rodman
+ScrewyLouie (Nov 12) [ 3072] armor
+Darien      (Nov 12) [ 3072] wolve
+Goku        (Nov 12) [ 3072] Medic
+Goku        (Nov 12) [ 3072] Temple
+Yohko       (Nov 12) [ 3072] might
+Kike        (Nov 13) [ 3072] gore
+Kike        (Nov 15) [ 3019] mai
+Guest1      (Nov 17) [ 3063] here
+Kat         (Nov 18) [ 3085] rat
+Darien      (Nov 18) [ 3085] scale
+ToeRag      (Nov 19) [ 3072] shield
+Shriek      (Nov 19) [ 3072] demonic
+Relican     (Nov 23) [ 6441] sharp
+Tanthalas   (Nov 26) [ 3087] 21
+Darien      (Nov 28) [ 3072] boot
+Rei         (Nov 28) [23573] hell
+Colin       (Dec  2) [ 3099] make everything free!
+Luyi        (Dec  7) [ 3072] might
+Kat         (Dec  7) [25018] side
+Galen       (Dec  8) [ 3072] spear
+Kama        (Dec  8) [ 3072] spiked
+Kiel        (Dec  8) [ 3072] brem
+Shoa        (Dec  9) [ 3085] bid
+Shoa        (Dec  9) [ 3063] cave
+Shoa        (Dec  9) [ 3063] cave
+Shoa        (Dec  9) [ 3072] cave
+StriderX    (Dec 10) [15179] neck
+YakMaster   (Dec 10) [ 3001] trench
+Zor         (Dec 13) [ 3001] thong
+Kiel        (Dec 13) [ 3072] ring
+Kiel        (Dec 13) [ 3072] 2.ring
+Shoa        (Dec 13) [ 3020] 1
+YakMaster   (Dec 13) [ 3072] breast
+Troy        (Dec 14) [ 3085] thri
+Shoa        (Dec 14) [ 3085] red
+Kiel        (Dec 16) [  574] charm
+StriderX    (Dec 16) [ 3072] defense
+Galen       (Dec 17) [ 3055] 72
+StriderX    (Dec 17) [ 3072] neck
+Cool        (Dec 18) [ 3054] storm
+Kiel        (Dec 18) [ 3085] morg
+Blink       (Dec 20) [ 3072] pte
+Kiel        (Dec 21) [ 3072] morg
+Rock        (Dec 21) [ 3055] 71
+Nova        (Dec 22) [ 3072] zv
+Pexi        (Dec 23) [ 3072] light
+Shock       (Dec 25) [ 3055] 40
+Texas       (Dec 25) [ 3055] 63
+Doomzday    (Dec 26) [ 7327] ball
+Doomzday    (Dec 26) [ 7346] gown
+Voodo       (Dec 31) [ 3055] 59
+MotherTime  (Jan  1) [10803] bug
+Evil        (Jan  1) [ 3055] 57
+Shoa        (Jan  1) [ 3055] 4
+Cane        (Jan  1) [ 3055] power ring
+Myung       (Jan  2) [ 3001] coke
+Dededede    (Jan  3) [ 3055] #31
+RICITICITIMBO (Jan  3) [ 3063] helmet
+RICITICITIMBO (Jan  3) [ 3015] dah
+DIABLO      (Jan  4) [ 2900] cloak
+Warblade    (Jan  4) [ 3055] 11
+MaraJade    (Jan  5) [ 3072] tan
+Kid         (Jan  5) [ 3072] moon
+RICITICITIMBO (Jan  5) [ 3055] a
+RICITICITIMBO (Jan  5) [ 3055] 2
+RICITICITIMBO (Jan  5) [ 3055] 2
+Asita       (Jan  5) [ 1212] cloak
+Darien      (Jan  7) [ 3072] scale
+Vio         (Jan  8) [ 3072] storm
+Shoa        (Jan  8) [ 3055] 4
+YakMaster   (Jan  8) [ 3072] deflec
+Nova        (Jan  8) [ 3072] arm
+Sal         (Jan  8) [ 3072] armor
+Sal         (Jan  8) [ 3072] claw
+Korn        (Jan  8) [ 3072] will
+Voodo       (Jan 10) [ 3055] 58
+DIABLO      (Jan 12) [ 3055] 2
+RICITICITIMBO (Jan 12) [ 3055] 18
+Mandy       (Jan 13) [ 3055] 50
+Slyzaar     (Jan 17) [ 4905] breastplate
+Slyzaar     (Jan 17) [ 3063] staff
+Slyzaar     (Jan 17) [ 3086] hauberk
+Nova        (Jan 17) [ 3055] 19
+Nova        (Jan 17) [ 3055] 0
+Nova        (Jan 17) [ 3072] medal
+Blink       (Jan 23) [ 3072] coloss
+Dalita      (Feb  1) [ 7307] student hello
+Ravin       (Feb  2) [ 3055] 13
+Nova        (Feb  3) [ 3055] deflec
+GIANT       (Feb  3) [ 3099] give pracs
+GIANT       (Feb  3) [ 3099] give weapons more damage
+Bertalk     (Feb  3) [ 3072] hung
+Turcot      (Feb  3) [ 3085] boots
+Dutch       (Feb  4) [ 3055] 10
+Dutch       (Feb  4) [ 3055] 10
+Morrigan    (Feb 11) [15180] morri
+Morrigan    (Feb 11) [24514] ring
+Morrigan    (Feb 11) [ 3072] serpent
+Morrigan    (Feb 12) [ 3046] helm
+Akiko       (Feb 12) [ 3085] gold
+Orley       (Feb 13) [ 5908] thundercall
+Promethius  (Feb 25) [ 7333] blade
+Promethius  (Feb 25) [ 7333] auc
+Claw        (Feb 26) [ 3072] cloak
+Claw        (Feb 26) [11515] leggings
+Dan         (Feb 26) [ 4902] reccommend code change to allow for junking of items on the ground, especially useful for corpses.
+Desilent    (Feb 28) [ 3072] aura
+Jazz        (Feb 28) [ 3072] quilt
+Salsa       (Mar  1) [ 3054] gore
+McCormic    (Mar  2) [ 3063] blade
+Yohko       (Mar  3) [ 3072] centipede
+Yohko       (Mar  3) [ 3072] orion
+Grassblade  (Mar  3) [ 3099] quest points
+Grassblade  (Mar  3) [ 3099] identifing objects
+Claw        (Mar  6) [ 3072] toga
+McCormic    (Mar  6) [ 3055] 5
+Yohko       (Mar  6) [ 3001] armor
+Dillon      (Mar  7) [22851] rak
+Dan         (Mar 11) [ 3085] spike
+Dan         (Mar 12) [24512] put sign next to departure and arrival area in starwars and post departure, arrival times.
+Haj         (Mar 14) [ 3063] cape
+Jim         (Mar 19) [24512] make it so you can junk items on the ground (ie corpses), this will prvent all tghe corpses that lay around in places like starwars. (-:
+Who         (Mar 20) [ 3011] 1
+CRANK       (Mar 20) [ 3055] 9
+CRANK       (Mar 20) [ 3055] 9
+CRANK       (Mar 20) [ 3055] 19
+Gidget      (Mar 21) [25004] visor
+Gidget      (Mar 21) [25004] bracelet
+Desilent    (Mar 22) [ 3055] 7
+Desilent    (Mar 22) [ 3055] 7
+Gidget      (Mar 22) [ 3072] boots
+Hysteria    (Mar 24) [ 1250] legend
+Hysteria    (Mar 24) [ 1250] grrrr
+Disco       (Mar 24) [25020] disco
+DRAGONLORD  (Mar 28) [ 3055] 18
+DRAGONLORD  (Mar 28) [ 3055] 49
+Neo         (Apr  2) [ 3055] 44
+Neo         (Apr  2) [ 3055] 41
+Telron      (Apr  2) [ 7346] me
+Telron      (Apr  2) [ 7346] mud
+Mtfox       (Apr  3) [ 3033] wand
+Mtfox       (Apr  3) [ 3033] staff
+RAJA        (Apr  3) [24512] axe
+RAJA        (Apr  3) [24512] axe
+Mtfox       (Apr  3) [ 3072] belt
+Mtfox       (Apr  3) [ 3072] belt
+Mtfox       (Apr  3) [ 3072] dia
+Mtfox       (Apr  4) [ 3011] flail
+Mtfox       (Apr  4) [ 3014] spid
+RAJA        (Apr  4) [24503] pen
+Telron      (Apr  6) [ 7001] auction
+Telron      (Apr  6) [ 3085] visor
+Orley       (Apr  6) [ 3021] car
+Orley       (Apr  6) [ 3021] card
+Telron      (Apr  6) [ 3072] mithril
+DRAGONLORD  (Apr  6) [14662] comb
+Elvis       (Apr  8) [ 3063] blaster
+Elvis       (Apr  8) [ 3063] startrek
+Chaos       (Apr  9) [ 4706] carnage
+Chaos       (Apr  9) [ 4706] warrior's sword
+RAJA        (Apr 11) [ 3055] 36
+Country     (Apr 11) [ 3072] sweat
+Dededede    (Apr 11) [ 3072] ay
+Chaos       (Apr 13) [ 3072] comb
+RICITICITIMBO (Apr 15) [ 3055] 2
+Classic     (Apr 16) [ 3001] steg
+Classic     (Apr 17) [15186] classic
+Lasher      (Apr 17) [ 3072] ball
+Lasher      (Apr 17) [ 4901] bag
+Lasher      (Apr 17) [ 4901] potion
+Classic     (Apr 18) [ 3072] ring
+Elvis       (Apr 19) [ 3072] prompt time
+Elvis       (Apr 19) [15812] write help massage on 'teleport
+Elvis       (Apr 19) [15816] make clock on prompt
+Elvis       (Apr 19) [15816] make clock on prompt
+Elvis       (Apr 19) [ 3053] play mud.zeemud.org port4000
+Elvis       (Apr 19) [ 3056] torch burns into ashes
+Elvis       (Apr 19) [ 3072] gamesize
+RICITICITIMBO (Apr 21) [ 3055] 10
+Lasher      (Apr 21) [ 3072] ring
+Elvis       (Apr 23) [ 3036] show time on prompt
+Elvis       (Apr 23) [ 3036] show time on prompt
+Elvis       (Apr 24) [ 3036] write about psionicist
+Desilent    (Apr 27) [ 3055] 10
+Elvis       (Apr 27) [ 3036] buy back general shop
+Techno      (Apr 28) [ 3072] dagger
+Naza        (Apr 29) [ 3072] create bat man's belt
+Elvis       (Apr 29) [ 3072] l
+Elvis       (Apr 29) [ 3072] create batman's belt as container and str+2 dex +2 con+1
+Elvis       (Apr 29) [ 4711] autosac
+Naza        (Apr 29) [ 4711] exam can't be used on paladin
+Elvis       (Apr 29) [ 3036] time prompt
+Sazman      (Apr 29) [ 3055] ring
+Sazman      (Apr 29) [ 3055] 14
+Elvis       (May  2) [25008] autoquestor
+Elvis       (May  4) [ 3005] make wing flying mithril boots
+Telron      (May  4) [25008] 1
+Elvis       (May  5) [ 3033] unjunk----- get staff back from last junk action. 
+Naka        (May  6) [ 3014] sword
+Elvis       (May  6) [ 3072] make battle tank
+Elvis       (May  6) [ 4706] accidentally junk Drakkar assault mirrorshades  (_/_)  Could I have it back??
+Elvis       (May  6) [ 4706] accidentally junk Drakkar assault mirrorshades  (_/_)  Could I have it back??
+Elvis       (May  6) [ 4706] accidentally junk Drakkar assault mirrorshades  (_/_)  Could I have it back??
+Elvis       (May  6) [ 4706] accidentally junk Drakkar assault mirrorshades  (_/_)  Could I have it back??
+Elvis       (May  6) [ 4706] accidentally junk Drakkar assault mirrorshades  (_/_)  Could I have it back??
+Elvis       (May  6) [ 4706] accidentally junk Drakkar assault mirrorshades  (_/_)  Could I have it back??
+Elvis       (May  6) [ 4706] accidentally junk Drakkar assault mirrorshades  (_/_)  Could I have it back??
+Elvis       (May  6) [ 4706] accidentally junk Drakkar assault mirrorshades  (_/_)  Could I have it back??
+Kevin       (May  7) [ 7324] pen
+Elvis       (May  8) [ 3072] where is psioncist guild?
+Lexus       (May  9) [ 1128] beau
+Lexus       (May  9) [ 1128] beauty
+Lasher      (May 10) [ 3005] suit
+Fereon      (May 11) [ 3072] blade
+Naka        (May 13) [ 4758] shock
+ElCuraPerez (May 13) [ 3000] Unjunk
+Guest4      (May 13) [ 4903] pac
+Volrath     (May 13) [ 3054] green
+Volrath     (May 13) [ 3054] dagger
+Volrath     (May 13) [ 3054] shirt
+Volrath     (May 13) [ 3054] jew
+Volrath     (May 13) [ 3054] com
+Zephyr      (May 14) [ 3040] add more color to this place
+Volrath     (May 15) [ 3011] 1
+Naka        (May 17) [ 3085] ring
+Bramar      (May 19) [ 3072] mush
+Bramar      (May 19) [ 3072] Potions should be throwable.
+Yohko       (May 19) [17960] tass
+Junkem      (May 29) [ 3072] miya gives help pontiff to dede
+RICITICITIMBO (May 29) [ 3055] 71
+Caldor      (May 31) [24551] chal
+NOSAURIMBO  (Jun  2) [ 3055] 2
+NOSAURIMBO  (Jun  2) [ 3055] 2
+DragonLord  (Jun  6) [25015] blade
+Lecardo     (Jun  6) [25009] scale
+RAJA        (Jun  6) [ 3055] 2
+RAJA        (Jun  6) [ 3055] 13
+Brendan     (Jun 11) [ 3055] 44
+Patrick     (Jun 12) [ 3020] 6
+Audi        (Jun 12) [ 2537] ent
+IKEBANIMBO  (Jun 16) [ 3072] cloak
+Bunnicula   (Jun 16) [ 7320] student
+Audi        (Jun 17) [ 3020] 9
+Alynn       (Jun 20) [ 3063] ring
+Alynn       (Jun 21) [12050] leather
+Alynn       (Jun 21) [ 3724] card
+Redstuff    (Jun 23) [ 3072] HELMET
+Redstuff    (Jun 23) [ 3072] HELMET
+Brendan     (Jun 25) [ 3055] 45
+Love        (Jun 28) [23829] skel
+Spank       (Jul  5) [ 3085] eye
+Hydralisk   (Jul  8) [22835] sphere
+Rand        (Jul 11) [ 3055] 1
+Serenity    (Jul 11) [ 3072] cha
+Sazman      (Jul 12) [ 3000] blade
+Serenity    (Jul 16) [ 3072] ara
+KIMIKIMBO   (Jul 17) [12047] jup
+Gimili      (Jul 18) [ 3055] 3
+Sazman      (Jul 19) [ 3072] ring
+Matriarch   (Jul 20) [ 1509] sarn
+RICITICITIMBO (Jul 20) [ 3072] make age scrolls
+Aragorn     (Jul 21) [ 4010] ring
+Lasher      (Jul 31) [12703] flashlight
+Lasher      (Aug  1) [ 3063] wristband
+Lasher      (Aug  1) [ 3063] shield
+NOSAURIMBO  (Aug  7) [ 3072] slip
+Beemer      (Aug 16) [    4] an attribute command I can even send you the code I made for it if you want to email me at mgauley@home.com
+Squee       (Aug 17) [ 3055] 44

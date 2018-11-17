@@ -1,0 +1,1782 @@
+#14500
+A gravel path~
+You are standing to the west of the Addams familyl mansion which
+squats like some sort of malignant creature on the top of the
+hill.  A dusty gravel path winds down the hill toward a fenced
+in area that may be a cemetary.
+~
+145 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 14652
+D3
+~
+~
+0 -1 14501
+S
+#14501
+A gravel path~
+A dusty gravel path winds down a steep slope here that causes you
+to step carefully so as not to slip.  On the hilltop to the east
+stands a huge, hulking mansion that is badly in need of some paint
+and repairs.  Below you to the west is a graveyard surrounded by
+an iron fence topped with razor sharp spikes.
+~
+145 4 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 14500
+D3
+~
+~
+0 -1 14512
+S
+#14502
+In the cemetary~
+Here you are standing just inside the gates of a small cemetary.
+Despite the incessant darkness and the mist that covers the
+ground, you can clearly see numerous tombstones and monuments
+rising at odd angles from the well kept grounds.  To the east
+outside of the gate, you can barely make out the shape of a large
+house on the hill above you.
+~
+145 1 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 14505
+D1
+Beyond the gate a path leads back to the mansion.  ~
+gate~
+1 -1 14512
+D2
+~
+~
+0 -1 14510
+D3
+~
+~
+0 -1 14503
+S
+#14503
+In the cemetary~
+You are standing in the dead center of a small cemetary.  Despite
+the thick blackness you can still see many of the tombstones 
+arrayed around you.  Unbelievably, you notice that there is a
+picnic blanket spread on the ground here and the remains of a
+picnic lunch.
+~
+145 1 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 14506
+D1
+A heavy wrought iron gate leads out of the cemetary.  ~
+gate~
+1 -1 14502
+D2
+~
+~
+0 -1 14509
+D3
+~
+~
+0 -1 14504
+S
+#14504
+In the cemetary~
+Here in the cemetary you are standing in front of a dark, hulking
+mausoleum.  Made of some black stone, this small building looks
+ancient and in a state of disrepair.  The name 'ADDAMS' is 
+chiselled deeply into the stone above the heavy door.  The rest
+of the cemetary is arrayed before you to the north, south, and
+east.
+~
+145 1 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 14507
+D1
+~
+~
+0 -1 14502
+D2
+~
+~
+0 -1 14508
+D3
+A heavy iron door leads into a dark mausoleum.  ~
+door~
+1 -1 14511
+S
+#14505
+In the cemetary~
+You are standing in a dark and eerie graveyard in the middle of numerous
+grotesque monuments and tombstones.  There is a massive, black tombstone
+here with an inscription deeply chiseled into the face.  A high wrought-iron
+fence is to the north and east and you can see a house set up on a hill
+to the east.
+~
+145 1 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 14502
+D3
+~
+~
+0 -1 14506
+E
+inscription~
+                        -----------
+                       /           \
+                       |   RAUL    |
+                       |  JULIA-   |
+                       |   ++++    |
+                       |           |
+                       |  REST IN  |
+                       |   PEACE   |
+                       |___________|
+~
+S
+#14506
+In the cemetary~
+Tombstones and what appears to be old bones litter the ground
+here on the north side of the cemetary.  The high wrought iron
+fence to the north looks strong and too dangerous to climb.  You
+get a sudden urge to get the hell out of here before you find out
+what is here.
+~
+145 1 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 14505
+D2
+~
+~
+0 -1 14503
+D3
+~
+~
+0 -1 14507
+S
+#14507
+In the cemetary~
+Numerous tombstones spring from the ground here in the northwest
+corner of the cemetary.  A large mausoleum is to the south and
+the wrought iron fence looks unscalable.
+~
+145 1 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 14505
+D2
+~
+~
+0 -1 14504
+S
+#14508
+In the cemetary~
+You are standing at the southwest corner of a small cemetary where
+tombstones and monuments lurch from the ground at odd angles.
+There is a squat building to the north that may be a mausoleum.
+You notice that the spear-like tops of the wrought iron fence
+surrounding the cemetary appear to have been recently sharpened.
+~
+145 1 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 14504
+D1
+~
+~
+0 -1 14509
+S
+#14509
+In the cemetary~
+You are standing on the southern edge of a small cemetary with
+tombstones all around you and a high, wrought iron fence behind
+you to the south.  The fetid and chill air makes your hair stand
+on end as you wonder what may be found here.
+~
+145 1 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 14503
+D1
+~
+~
+0 -1 14510
+D3
+~
+~
+0 -1 14508
+S
+#14510
+In the cemetary~
+You are in the southeast corner of a small cemetary.  Various
+tombstones and monuments lean at odd angles, barely visible in
+the darkness.  Just to the north there appears to be a gate of
+some sort.  Perhaps its an exit and you should take advantage
+of it?
+~
+145 1 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 14502
+D3
+~
+~
+0 -1 14509
+S
+#14511
+The mausoleum~
+This grim marble mausoleum has a massive crypt in the center of
+the room.  Grotesque statuary and freizes adorn the north wall
+while two torches burn on either side of the door to the east.
+The south wall is covered with the final resting places of many
+different people who have familiar names.  Some of the inscriptions
+are legible, even in the flickering torch light.
+~
+145 9 0
+0d0+0 0 0
+D1
+A heavy iron door is the only exit.  ~
+door~
+1 -1 14504
+E
+inscriptions~
+The names of the dead buried here in the mausoleum are chiselled
+deeply into the sealed dark marble chambers.  In the flickering
+light you can make out the following names:  Anton, Leeving, Rack,
+Freebie, Cthulhu, Wesley, Dyrewulf, Dark, Corwin, Shifty, Homer,
+Merlin, Something, Silvermoon, Amaterasu, Yendle, Noble, Judas,
+Arken, and Myst.  There are several unused chambers with the names
+already inscribed on them waiting for their recipients.  The names
+include Sheol, Booof, Apu, Azurel, and Shadowlord.
+~
+E
+crypt~
+This large crypt is unusually long and is fashioned of a dense
+black marble.  The lid appears hinged but it won't budge when
+you attempt to open it.  Perhaps there is a hidden mechanism
+to open the crypt?
+~
+S
+#14512
+Outside the cemetary gate~
+Just to the east of the gateway into a small cemetary, you are
+torn between entering the dark burial ground or walking up the
+hill back to the forbidding mansion on the hill.  Unearthly sounds
+can be heard from both east and west.  You check to see if you
+have a recall scroll.
+~
+145 4 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 14501
+D3
+A massive wrought-iron gate leads to the cemetary.  ~
+gate~
+1 -1 14502
+S
+#14513
+At the swing set~
+A huge, well-constructed gallows has been built here behind the
+mansion.  For some reason, it is the only thing you have seen that
+is in good repair.  Massive wooden beams hold up a platform with a
+trapdoor on it and a thick rope hangs from the gallows overhead.
+~
+145 0 2
+0d0+0 0 0
+D2
+The backyard continues south towards the corner of the mansion.  ~
+~
+0 -1 14657
+D3
+The backyard continues west.  ~
+~
+0 -1 14536
+S
+#14514
+The storm cellar~
+This dark, damp room is filled with a burning odor that you
+can't quite place.  The floor and walls have odd black marks
+all over them which make the hairs on the back of your neck
+stand up.  There is a door to the west and south.
+~
+145 9 0
+0d0+0 0 0
+D2
+A door leads back to the passageway.  ~
+door~
+1 -1 14699
+D3
+There is a hidden sliding panel here.  ~
+panel~
+1 -1 14515
+S
+#14515
+The wine cellar~
+The wine cellar is crammed full of dusty kegs and bottles of
+some very odd vintages.  The sour smell of spilled wine almost
+burns your nose as you stare at the shelves which are sagging
+under the weight.  A rickety wooden stairway leads up to the
+north and there is a door to the south.
+~
+145 9 0
+0d0+0 0 0
+D1
+There is a cleverly hidden sliding panel here.  ~
+panel~
+1 -1 14514
+D4
+An oddly warm wooden door is at the top of the stairs.  ~
+door~
+1 -1 14639
+S
+#14516
+The root cellar~
+This narrowly excavated room seems to be carved out of the living
+(or perhaps dead) rock upon which the mansion's foundations are
+built.  Very damp and cool, it doesn't appear to be being used to
+store anything.  Heavy roots twist across the walls and ceiling
+and you see something move out of the corner of your eye.
+~
+145 9 0
+0d0+0 0 0
+D1
+A heavy wooden door leads back out of the root cellar.  ~
+door~
+1 -1 14699
+S
+#14517
+Gomez's office~
+Huge, dusty oak office furniture crowds this room.  A huge
+humidor sits on a massive carved desk and shelves of dusty books
+line the walls.  Heavy green velvet drapes block all the light
+from the outside.  Odd holes and scratches scar the panelled
+walls here.  The swords mounted high on the wall above the desk
+may have something to do with it.  A highly polished metal pole
+comes through a hole in the ceiling.  It looks much too slippery
+to climb.
+~
+145 8 0
+0d0+0 0 0
+D1
+A door leads out of the office.  ~
+door~
+1 -1 14673
+D5
+A cleverly hidden trapdoor lies under the carpet.  ~
+trapdoor~
+2 -1 14518
+S
+#14518
+Falling in the dark shaft~
+Tumbling head over heels, you plummet down this dark, narrow
+shaft.  You reach for handholds but find none as your knuckles
+and ripped raw by the rough stone walls.  You can feel a cold 
+clutch of terror that matches the icy cold that emanates from
+below.
+~
+145 14477 0
+0d0+0 0 0
+D5
+All you can see as you fall is blackness.  ~
+~
+0 -1 14519
+S
+#14519
+Falling in the dark shaft~
+Accelerating, you hear the sound of rushing water coming from
+the inky blackness below.  Completely out of control and unable to
+stop, you offer a quick prayer to the Gods you fear and wait for
+the death that surely waits below.
+~
+145 14477 0
+0d0+0 0 0
+D5
+All you can see as you fall is blackness.  You hear the sounds
+of water coming closer.  ~
+~
+0 -1 14551
+S
+#14521
+~
+~
+145 8 0
+0d0+0 0 0
+S
+#14522
+The ladies lounge~
+The outer area of the ladies lounge has the usual couches and
+mirrored sinks lining the walls.  The party is in full swing to
+the south and the more aquatic facilities are to the north.
+~
+145 8 0
+0d0+0 0 0
+D0
+You can see some stalls through the doorway.  ~
+~
+0 -1 14523
+D2
+A swinging door leads back to the ballroom floor.  ~
+door~
+1 -1 14664
+S
+#14523
+The ladies' facilities~
+Yup, this is the ladies room.  If you aren't a lady, what the hell
+are you doing in here?  Arrayed around you is the usual porcelain
+conveniences, sinks, and a small couch.  All of the mirrors seem
+to be cracked and the sinks are cluttered with hair, makeup, and
+some things are are unrecognizable.  Ack, are you sure you have to
+go?
+~
+145 8 0
+0d0+0 0 0
+D2
+The lounge is just outside.  ~
+~
+0 -1 14522
+S
+#14524
+The men's lounge~
+The outer area of the men's lounge is a cluttered room filled
+with Lazy-Boy recliners and clouds of cigar smoke.  You cough
+a few times as you look around the room and wonder if you want
+to go north into the restroom area.
+~
+145 8 0
+0d0+0 0 0
+D0
+You can see some stalls in the next room.  ~
+~
+0 -1 14525
+D2
+A swinging door leads back to the ballroom floor.  ~
+door~
+1 -1 14666
+S
+#14525
+The men's facilities~
+This restroom makes that one at the Texaco Station down south
+of Atlanta on I95 seem clean in comparison.  Without a doubt this is the
+most disgusting restroom you have ever seen.  Your stomach churns from the
+sight and the stench.
+~
+145 8 0
+0d0+0 0 0
+D2
+The lounge is just outside.  ~
+~
+0 -1 14524
+S
+#14526
+The bandstand~
+Here on this raised platform, the dusty board floor is sagging
+under the weight of all of the amplifiers and P.A. equipment.
+A small pile of beer bottles behind the bandstand is proof that
+either the musicians have been drinking or the party-goers are
+heaving bottles at them.  Either way, you avoid stepping on any
+of the electrical wiring as the beer puddles everywhere make
+walking here hazardous to your health.
+~
+145 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14665
+S
+#14527
+The east balcony~
+The floorboards creak ominously here on the balcony which runs
+along the east side of the house.  A ragged patch of astroturf has
+been nailed to the floor here.  The railing seems oddly dented and
+seems to be only partially attached.  In the distance, a small home
+sits on a hillside several hundred yards from the house.  For some
+reason, some of the windows are boarded up.
+~
+145 1 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14667
+S
+#14528
+The walk-in freezer~
+The shattering cold in this freezer strikes you like a hammer,
+causing you to begin shaking uncontrollably.  Your breath steams
+in the frigid air as you look at the piles of frozen carcasses
+stacked up around you.  Some look vaguely human but obviously
+couldn't be.  With horror, you notice that the door shut behind
+you and there isn't any kind of handle to reopen it.
+~
+145 9 0
+0d0+0 0 0
+E
+west~
+The freezer door has no inside handle.  The door is closed.
+~
+S
+#14529
+The billiard room~
+This dimly lit room has a large billiard table in the center of 
+the room with a low-slung light shining over it.  Racks of cues
+line the walls but the few cues you can see all look broken.  A
+dusty triangle is lying on the floor and the air reeks of cigar
+smoke and chalk dust.
+~
+145 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 14673
+D5
+~
+~
+0 -1 14533
+S
+#14530
+The furnace room~
+With the huge furnace standing in the corner, you assumed that this
+room would be extremely warm and comfortable compared to the rest
+of the basement.  The furnace appears to be lit and is burning but
+you don't feel any heat coming from it.  Indeed, the heat in the
+air seems to be flowing into the furnace.  Perhaps this is some
+odd sort of heat pump?
+~
+145 8 0
+0d0+0 0 0
+D1
+The furnace door is cold to the touch.  ~
+door~
+1 -1 14589
+D3
+A heavy door probably exits to the hallway.  ~
+door~
+1 -1 14698
+S
+#14531
+The storeroom~
+An unbelievably foul and unpleasant odor makes you stagger as
+you first enter this room.  Sagging shelves are filled with stacks
+of cans, rotting bags of various vegetables, and the moldy remains
+of foods you can only guess at.  The shadows seem to move in this
+room and you suddenly realize that the room is swarming with vermin.
+~
+145 9 0
+0d0+0 0 0
+D1
+A rotting door leads back to the damp passageway.  ~
+door~
+1 -1 14698
+S
+#14532
+The workshop~
+Sawdust covers the floor of this busy workshop.  Lathes, drillpresses
+and other large pieces of equipemnt are installed next to a large,
+stained workbench.  The room spells of lumber, grease, and lacquer.
+A single neon light hums quietly above the room, bathing the
+work room with a cold, blue-white light.
+~
+145 8 0
+0d0+0 0 0
+D3
+A heavy door leads back out of the room.  ~
+door~
+1 -1 14697
+S
+#14533
+Under the billiard table~
+Stooping low, you can shuffle around slowly under the billiard
+table.  Why in the hell would you want to?  Just because it is
+there?  Did you hope to find something interesting down here?
+Sheesh!  Hey, there are some pretty nice dust bunnies down here.
+~
+145 9 0
+0d0+0 0 0
+D4
+Don't you think it is time to get out and stand up?  ~
+~
+0 -1 14529
+S
+#14534
+In the backyard~
+You are standing in the western corner of the backyard behind the
+Addams family mansion.  There is an unusually large tree here
+and there are cleverly concealed metal rungs leading up the tree
+trunk.  You can see a terrace to the east and a path leading to
+a cemetary to the west.
+~
+145 0 3
+0d0+0 0 0
+D1
+The backyard continues to the east.  ~
+~
+0 -1 14535
+D2
+The side yard extends to the south.  ~
+~
+0 -1 14652
+D4
+There are rungs in the tree to help you climb up.  ~
+~
+0 -1 14540
+S
+#14535
+In the backyard~
+Here in the middle of the back yard, you have an excellent view
+of the Addams family mansion to your south.  The dead grass
+beneath your feet crunches are you look around, and gives off a
+somewhat unpleasant odor.  There is some sort of structure to
+the east and a terrace to the south.
+~
+145 0 2
+0d0+0 0 0
+D1
+The backyard continues to the east.  ~
+~
+0 -1 14536
+D2
+The backyard continues towards the house to the south.  ~
+~
+0 -1 14656
+D3
+The backyard continues to the west.  ~
+~
+0 -1 14534
+S
+#14536
+In the backyard~
+You are standing in the middle of the Addams family mansion's
+back yard.  The house and a lit terrace are directly to the
+south.  Some strange wooden structure is just to the east.  The
+wind is rather chilly here and you keep noticing an occasional
+golf ball lying in the dead grass.
+~
+145 0 2
+0d0+0 0 0
+D0
+A wooden door leads into a ramshackle garden shed.  ~
+door~
+2 14680 14547
+D1
+A wooden structure is to the east.  ~
+~
+0 -1 14513
+D2
+The terrace behind the house is just to the south.  ~
+~
+0 -1 14644
+D3
+The backyard continues to the west.  ~
+~
+0 -1 14535
+S
+#14537
+~
+~
+145 0 0
+0d0+0 0 0
+S
+#14538
+~
+~
+145 0 0
+0d0+0 0 0
+S
+#14539
+In the backyard~
+Here in the northeast corner of the Addams property you notice
+a large wooden structure to the west and is barely visible in 
+the mist that surrounds you.  You can see a faint glow of a
+terrace behind the house and you feel a strong wind blowing
+from the steep gorge that runs along the east side of the property.
+~
+145 0 2
+0d0+0 0 0
+D2
+The side yard extends to the south.  ~
+~
+0 -1 14655
+D3
+The backyard continues to the west.  ~
+~
+0 -1 14513
+S
+#14540
+In the treehouse~
+Rotting boards and rusty nails are barely holding this rickety
+tree house together.  With every step, the floor creaks and sways
+and you expect to plummet to the ground at any moment.  A large
+dark mansion is just south of here.  There are bloodstains all
+over the floor and an odd little guillotine-like contraption
+nailed to the floor.  As you look at this, your foot hits a small
+object that falls over the edge of the treehouse and falls out of
+sight.  It looks suspiciously like the head of a squirrel.
+~
+145 0 3
+0d0+0 0 0
+D5
+Some iron rungs lead back down the trunk to the ground.  ~
+~
+0 -1 14534
+S
+#14541
+In a narrow trench~
+You are standing in a fairly deep trench in some ankle deep mud.
+The edge of the trench is barely visible high above your head
+and the walls looks to slippery and muddy to be scalable.  You
+notice some odd debris on the floor of the trench including some
+blasting caps and some pieces of fuse wire.  You step carefully
+worrying that something might go off.
+~
+145 5 3
+0d0+0 0 0
+S
+#14542
+Under the oily waters~
+Mob chute for water mocassins.
+~
+145 14473 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14559
+D1
+~
+~
+0 -1 14550
+D2
+~
+~
+0 -1 14570
+D3
+~
+~
+0 -1 14554
+D4
+~
+~
+0 -1 14560
+S
+#14543
+Overhead in the shadows~
+Mob chute for bats.
+~
+145 14465 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14558
+D1
+~
+~
+0 -1 14565
+D2
+~
+~
+0 -1 14566
+D3
+~
+~
+0 -1 14560
+D4
+~
+~
+0 -1 14574
+D5
+~
+~
+0 -1 14574
+S
+#14544
+A small cave~
+You are standing in a small, dry cave that appears to be inhabited.
+There are piles of tin cans, a water barrel, and a pile of rotting
+mattresses here.  The grotto waters lap quietly against the edge
+of the cave to the north.  
+~
+145 8 0
+0d0+0 0 0
+D0
+The cave exits into the waters of the grotto.  ~
+~
+0 -1 14568
+S
+#14545
+Six feet under~
+Mob chute for undead critter in Addams family cemetary
+~
+145 14473 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14506
+D1
+~
+~
+0 -1 14502
+D2
+~
+~
+0 -1 14509
+D3
+~
+~
+0 -1 14504
+S
+#14546
+On the way to the party~
+Mob chute for party guests.
+~
+145 4233 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14658
+D1
+~
+~
+0 -1 14661
+D3
+~
+~
+0 -1 14663
+S
+#14547
+In the shed~
+The inside of this shed smells strongly of gasoline, must, and oil.  Several
+lawn mowers are here in pieces, and the usual garden equipment is leaning
+against the wall.  Spider webs almost cover the ceiling and you can hear the
+rustling of some sort of vermin in the darkness.
+~
+145 14473 0
+0d0+0 0 0
+D2
+A wooden door leads back out to the yard.  ~
+door~
+2 14680 14536
+S
+#14550
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness, you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.  The bottom seems to be slanting upwards to
+the east.
+~
+145 9 0
+0d0+0 0 0
+D1
+The grotto continues to teh east.  ~
+~
+0 -1 14551
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14565
+S
+#14551
+In the grotto - shallow water~
+You are standing in knee-deep water in a huge, dark cavern that
+extends in all directions.  The air is very cold and you can hear
+small splashing and fluttering sounds from the inky blankness
+around you.  Above you can see a hole which is out of reach and
+you notice that the water looks deeper and blacker in the shadows.
+~
+145 13 0
+0d0+0 0 0
+D0
+The grotto continues to the north.  ~
+~
+0 -1 14558
+D1
+The grotto continues to the east.  ~
+~
+0 -1 14552
+D2
+The grotto continues to the south.  ~
+~
+0 -1 14554
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14550
+S
+#14552
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.  The bottom seems to be slanting upwards towards
+the west.
+~
+145 9 0
+0d0+0 0 0
+D0
+The grotto continues to the north.  ~
+~
+0 -1 14557
+D2
+The grotto continues to the south.  ~
+~
+0 -1 14555
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14551
+S
+#14553
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.
+~
+145 9 0
+0d0+0 0 0
+D1
+The grotto continues to the east.  ~
+~
+0 -1 14554
+D2
+The grotto continues to the south.  ~
+~
+0 -1 14566
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14553
+S
+#14554
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.  The bottom seems to be slanting upwards towards
+the north.
+~
+145 9 0
+0d0+0 0 0
+D0
+The grotto continues to the north.  ~
+~
+0 -1 14551
+D1
+The grotto continues to the east.  ~
+~
+0 -1 14555
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14553
+S
+#14555
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  The sound of rushing water echoes from somewhere to
+the east and you can feel the current tugging at your feet,
+pulling you towards the east.
+~
+145 13 0
+0d0+0 0 0
+D0
+The grotto continues to the north.  ~
+~
+0 -1 14552
+D1
+A strong current is pulling you towards the east.  ~
+~
+0 -1 14556
+D2
+The grotto continues to the south.  ~
+~
+0 -1 14570
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14554
+S
+#14556
+In the grotto~
+You stare up dazed from the rocks at the bottom of the waterfall
+which you have just gone over.  The frigid water crashing down
+on you makes it hard to see but you detect a glimmer of light to
+the north.  You struggle to get out of the water before you drown.
+~
+145 16399 0
+1d1+199 90 0
+D0
+Some oil lamps burn on both sides of a heavy door to the north.~
+~
+0 -1 14562
+S
+#14557
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as chill
+breezes cut through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.
+~
+145 9 0
+0d0+0 0 0
+D0
+The grotto continues to the north.  ~
+~
+0 -1 14557
+D2
+The grotto continues to the south.  ~
+~
+0 -1 14552
+S
+#14558
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.  The bottom seems to be slanting upwards towards
+the south.
+~
+145 9 0
+0d0+0 0 0
+D0
+The grotto continues to the north.  ~
+~
+0 -1 14559
+D2
+The grotto continues to the south.  ~
+~
+0 -1 14551
+S
+#14559
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.
+~
+145 9 0
+0d0+0 0 0
+D1
+The grotto continues to the east.  ~
+~
+0 -1 14560
+D2
+The grotto continues to the south.  ~
+~
+0 -1 14558
+S
+#14560
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.
+~
+145 9 0
+0d0+0 0 0
+D1
+The grotto continues to the east.  ~
+~
+0 -1 14561
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14559
+S
+#14561
+In the grotto~
+You are knee deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  The bottom is slanting up sharply and it appears that
+some dry land may be just to your south.  
+~
+145 9 0
+0d0+0 0 0
+D2
+A slight incline rises out of the water leading to a doorway.  ~
+~
+0 -1 14562
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14560
+S
+#14562
+Outside the vault~
+You are standing outside of a massive steel door that is sunk
+deeply into the stone walls of the grotto.  The floor is wet and
+slippery here and you can see that the grotto submerges against
+to the north and south.  A torch is burning brightly in a holder
+up on the walls and you notice some wet footprints leading to
+the door.
+~
+145 12 0
+0d0+0 0 0
+D0
+The floor slants back down to the water of the grotto.  ~
+~
+0 -1 14561
+D1
+A massive steel door protects the family vault.  ~
+door~
+2 14601 14563
+S
+#14563
+In the vault~
+In this small room is the source of the Addams family incredible
+wealth.  Beautiful works of art, rare books, and a chest full
+of treasure are a few of the things that catch your eye.  Most
+of the things look old and in poor condition but the gold looks
+just fine!  You notice a possible exit on the ceiling.
+~
+145 14473 0
+0d0+0 0 0
+D3
+The massive door to the vault leads back to the grotto.  ~
+door~
+2 14602 14562
+D4
+A small hole in the ceiling has a slight breeze coming from it.  ~
+~
+0 -1 14573
+S
+#14564
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.
+~
+145 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14564
+D2
+~
+~
+0 -1 14565
+S
+#14565
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.
+~
+145 9 0
+0d0+0 0 0
+D0
+The grotto continues to the north.  ~
+~
+0 -1 14564
+D1
+The grotto continues to the east.  ~
+~
+0 -1 14550
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14571
+S
+#14566
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.
+~
+145 9 0
+0d0+0 0 0
+D0
+The grotto continues to the north.  ~
+~
+0 -1 14553
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14567
+S
+#14567
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the gbedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.
+~
+145 9 0
+0d0+0 0 0
+D1
+The grotto continues to the east.  ~
+~
+0 -1 14566
+D2
+The grotto continues to the south.  ~
+~
+0 -1 14568
+S
+#14568
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.
+~
+145 9 0
+0d0+0 0 0
+D0
+The grotto continues to the north.  ~
+~
+0 -1 14567
+D1
+The grotto continues to the east.  ~
+~
+0 -1 14569
+D2
+A dimly lit cave entrance is visible above the waterline.  ~
+~
+0 -1 14544
+S
+#14569
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  You find yourself becoming
+disoriented in the blackness as strange sounds echo off of the
+rock walls.
+~
+145 9 0
+0d0+0 0 0
+D1
+The grotto continues to the east.  ~
+~
+0 -1 14569
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14568
+S
+#14570
+In the grotto~
+You are waist deep in freezing cold water, exploring the grotto
+that winds through the bedrock deep under the Addams family
+mansion.  You shiver uncontrollably in the icy water as the chill
+wind cuts through your wet clothing.  In the inky blackness you
+hear an occasional flutter, splash, and the water lapping against
+the grotto walls.
+~
+145 0 0
+0d0+0 0 0
+D0
+The grotto continues to the north.  ~
+~
+0 -1 14555
+D3
+The grotto continues to the west.  ~
+~
+0 -1 14569
+S
+#14571
+In the grotto~
+You can barely keep your footing here in the grotto where the
+water is pouring down a large drain.  You wonder where the drain
+could lead but wonder if you could survive the journey.  You had
+better decide soon as your legs are tiring from fighting the
+strong current here.
+~
+145 13 0
+0d0+0 0 0
+D1
+The grotto contines to the east from which the water is rushing
+strongly into the whirlpool at your feet.  ~
+~
+0 -1 14565
+D5
+A swirling whirlpool leads down into a dark shaft.  ~
+~
+0 -1 14572
+S
+#14572
+Into the drain~
+Choking and slowly drowning in a falling maelstrom of fetid water,
+you slam repeatedly against the hard stone walls of the drain and
+pray that you survive the journey.  ~
+145 261 0
+0d0+0 0 0
+D5
+The sound of rushing water can be heard below buts its too dark to see.~
+~
+0 -1 3205
+S
+#14573
+A narrow circular stair~
+You are in a cramped, circular stair that winds into the darkness
+both above and below you.  Water is dripping sluggishly down the
+stone walls here and a chill, damp breeze causes you to shiver
+and stamp your feet.
+~
+145 261 0
+0d0+0 0 0
+D4
+The stairs continue up.  ~
+~
+0 -1 14574
+D5
+A dark room of some sort is a short drop through a hole.  ~
+~
+0 -1 14563
+S
+#14574
+A narrow circular stair~
+You are in the middle of a stairwell that spirals into darkness
+above your head and down at your feet.  The air is very damp and
+cool here and you suspect water may be nearby.  You move very
+carefully to keep from slipping on the slick stone stairs.
+~
+145 9 0
+0d0+0 0 0
+D4
+The stairs continue up.  ~
+~
+0 -1 14575
+D5
+The stairs continue down.  ~
+~
+0 -1 14573
+S
+#14575
+A narrow circular stair~
+You continue navigating the slick, slippery stairwell in near
+darkness.  The cool, damp air causes perspiration to break out
+on you as the exertion of the stairs settles in.  You wonder
+how far you are from the top and bottom?
+~
+145 9 0
+0d0+0 0 0
+D4
+The stairs continue up.  ~
+~
+0 -1 14576
+D5
+The stairs continue down.  ~
+~
+0 -1 14574
+S
+#14576
+A narrow circular stair~
+You are standing at the top of a dark, spiralling stairwell that
+circles down into the darkness.  The steps appear carved from
+stone and are damp and slippery.  Above you is what appears to be
+a massive marble slab that is mounted on some sort of mechanism.
+It appears to be hinged although it must weigh a ton.
+~
+145 9 0
+0d0+0 0 0
+D4
+The massive marble slab above looks counterweighted.  ~
+slab~
+2 -1 14511
+D5
+The stairs continue down.  ~
+~
+0 -1 14575
+S
+#14577
+At the bottom of a rocky gorge~
+You fall screaming down the rocky precipice, smashing against
+the jagged rocks at the bottom of the gorge.  You idiot, why
+weren't you careful?  If you live through this you might want
+to climb very carefully back up the cliff and stick to the lawn.
+~
+145 22535 5
+1d1+199 90 0
+D4
+The jagged cliffface offers many handholds to climb up.  ~
+~
+0 -1 14655
+S
+#14578
+The stockroom~
+This surprisingly large room is stacked to the ceiling with beer
+kegs, bags of peanuts, cases of glassware, and the other supplies
+that are needed by a busy bar.  Things are a bit dusty here and
+the smell of stale beer is almost overwhelming.  You poke around
+the stock looking for something to drink but don't find anything
+that looks palatable.
+~
+145 8 0
+0d0+0 0 0
+D1
+The back of a two way mirror separates you from the bar.  ~
+mirror~
+1 -1 14668
+S
+#14579
+On the ladder~
+You are hanging onto a rickety ladder that is bolted to the side
+of a narrow vertical shaft that plummets straight into the
+darkness below.  Above you head you can see the outline of a
+trapdoor that looks a lot safer than what you see when you
+look down.  You try to decide which way to go.
+~
+145 0 0
+0d0+0 0 0
+D4
+A heavy trapdoor is right above your head.  ~
+trapdoor~
+1 -1 14618
+D5
+The ladder continues straight down into the darkness.  ~
+~
+0 -1 14580
+S
+#14580
+On the ladder~
+You are hanging in pitch blackness in a vertical shaft that has
+an old, rusty ladder bolted to its wall.  It squeals ominously
+with your weight as you move from rung to rung.  The ladder
+disappears into the darkness in both directions.
+~
+145 1 0
+0d0+0 0 0
+D4
+The ladder continues straight up into the darkness.  ~
+~
+0 -1 14579
+D5
+The ladder continues straight down into the darkness.  ~
+~
+0 -1 14581
+S
+#14581
+On the ladder~
+You have an overwhelming sense of claustrophobia as you hang
+here on this rusty ladder in the darkness.  The narrow vertical
+shaft where the ladder is mounted is cold and damp.  You look
+up and look down but cannot tell where the ladder leads.  You
+hope the ladder will continue to hold your weight.  You should
+have skipped those donuts for breakfast yesterday.
+~
+145 261 0
+0d0+0 0 0
+D4
+The ladder continues straight up into the darkness.  ~
+~
+0 -1 14580
+D5
+The ladder continues straight down into the darkness.  ~
+~
+0 -1 14582
+S
+#14582
+On the ladder~
+Clinging with all of your strength to a rusty ladder that is
+bolted into this vertical tunnel, you can sense the massive
+weight of the ground above you.  The ladder disappears quickly
+into the darkness when you look either up or down.
+~
+145 261 0
+0d0+0 0 0
+D4
+The ladder continues straight up into the darkness.  ~
+~
+0 -1 14581
+D5
+The ladder continues straight down into the darkness.  ~
+~
+0 -1 14583
+S
+#14583
+On the ladder~
+Hanging onto this old ladder deep underground, you feel a slight
+breeze coming from the east.  The ladder itself disappears from
+sight in the darkness above and below you.  You think you might
+have heard a pebble hit the floor somewhere below.  You just
+can't tell how far away it was.
+~
+145 261 0
+0d0+0 0 0
+D1
+A small door is cleverly disguised in the rock.  ~
+door~
+1 -1 14585
+D4
+The ladder continues straight up into the darkness.  ~
+~
+0 -1 14582
+D5
+The ladder appears to end abruptly a few feet below you.  ~
+~
+0 -1 14584
+S
+#14584
+At the bottom~
+Well, you should have looked before you leapt.  You slip off the
+final rung of the ladder and pitch into the blackness, smashing
+into the rock floor below.  You feel your life ebbing away as
+the massive injury to your body makes your vision blur and
+your head spin.  You fight to retain consciousness . . .
+~
+145 22791 0
+1d1+199 90 0
+D4
+The walls are rough and you might be able to climb back to the ladder.  ~
+~
+0 -1 14583
+S
+#14585
+At the base of the gorge~
+You are standing at the bottom of a deep gorge with steep rock
+walls that rise hundreds of feet over your head.  There is a deep
+crevice in the western side of the rock wall and to the north
+and south, the rock-strewn floor looks almost impassable.
+~
+145 5 5
+0d0+0 0 0
+D0
+The jumbled rock floor of the gorge continues to the north.  ~
+~
+0 -1 14587
+D1
+A door cleverly disguised as a rock is visible in the wall.  ~
+rock~
+1 -1 14586
+D2
+The jumbled rock floor of the gorge continues to the south.  ~
+~
+0 -1 14588
+D3
+A heavy door is set deeply into the rock wall.  ~
+door~
+1 -1 14583
+S
+#14586
+A hermit's cave~
+This small cave has a well-worn floor and the walls are covered
+with odd, cartonish drawings.  What must be a lifetime supply
+of baked beans are stacked up by the ton in the back of the cave
+and you see a canopener hanging from a chain mounted in the wall.
+A small stream is trickling by a ragged straw mattress.  The only
+other piece of furniture in this cave is a small writing desk
+and chair.
+~
+145 6152 0
+0d0+0 0 0
+D3
+A door cleverly disguised as a rock leads back to the gorge.  ~
+rock~
+1 -1 14585
+S
+#14587
+At the base of the gorge~
+Here at the bottom of a huge, yawning gorge with steep rock walls
+that rise high above your head, the narrow bottom is covered
+with mounds of rocks and boulders that makes the footing very
+treacherous.  You seem to be taking two steps back for every
+step you make.
+~
+145 0 0
+0d0+0 0 0
+D0
+The floor of the gorge is a jumble of loose rocks.  ~
+~
+0 -1 14587
+D2
+The rocky floor of the gorge continues to the south.  ~
+~
+0 -1 14585
+S
+#14588
+At the bottom of the gorge~
+You are at the bottom of a deep gorge whose rock walls rise
+hundreds of feet to either side of you.  You have to pick your
+way carefully along the rock-strewn floor where every step might
+mean a sprained ankle.  You seem to be advanced very slowly.
+~
+145 0 5
+0d0+0 0 0
+D0
+The bottom of the gorge is a loose jumble of fallen rocks.  ~
+~
+0 -1 14585
+D2
+The bottom of the gorge is a loose jumble of fallen rocks.  ~
+~
+0 -1 14588
+S
+#14589
+In the furnace~
+Seering cold knocks you to your knees inside the furnace.  Pain
+shoots through you as the incredible freezing cold takes away
+your breath and almost puts you into convulsions.  You feel your
+life ebbing away quickly and try to crawl back out.
+~
+145 30734 0
+1d1+199 90 0
+D3
+The furnace door leads back the basement.  ~
+door~
+1 -1 14530
+S
+#14590
+On Mockingbird Lane~
+This deeply rutted road is heavily overgrown with thistles and
+brambles.  A cold wind is blowing from the north where you can
+see a large, dark mansion squatting on a ridge to the north like
+some sort of bloated spider.  A large iron gate is squeaking in
+the wind to the north and Mockingbird Lane continues south.  ~
+145 0 11
+0d0+0 0 0
+D0
+The lane continues.  ~
+~
+0 -1 14591
+D2
+The lane continues south.  ~
+~
+0 -1 3146
+S
+#14591
+On Mockingbird Lane~
+As you pick your way carefully over this rutted lane, the cold
+wind blowing from the north makes you want to turn south and get
+away.  A huge iron gate to the north is swinging slightly in the
+wind.  On the stone pillars that stand on either side of the gate,
+two large bronze plaques are mounted.  You can't quite make out
+what they say from here but the first letter appears to be "A".
+~
+145 0 11
+0d0+0 0 0
+D0
+The lane continues toward a large gate.  ~
+~
+0 -1 14592
+D2
+The lane continues.  ~
+~
+0 -1 14590
+S
+#14592
+666 Mockingbird Lane~
+You are standing at the northern end of Mockingbird Lane, just
+south of a huge dark mansion that is visible through the large
+iron gate that stands before it.  Greenish bronze plaques mounted
+on the stone walls on either side of the gate read "ADDAMS" and 
+the number "13" is cleverly built into the wrought-iron gates.
+Snippets of strange music and odd laughter are carried on the
+cold breeze that blows from the north.
+~
+145 0 11
+0d0+0 0 0
+D0
+A large iron gate stands before a dark mansion.  ~
+gate~
+1 -1 14593
+D2
+The lane continues south.  ~
+~
+0 -1 14591
+S
+#14593
+Inside the front gate~
+Standing just inside the huge, wrought-iron gates, you have a clear
+view of the sprawling mansion that is just to the north.  The grass
+on either side of the short driveway looks stunted and dying.
+You can clearly hear music from the north but the mansion looks
+dark and threatening.  Perhaps you should go south and back to 
+Mockingbird Lane?
+~
+145 0 11
+0d0+0 0 0
+D0
+A short driveway leads to the front door of the mansion.  ~
+~
+0 -1 14594
+D2
+A huge iron gate leads back to a rutted lane.  ~
+gate~
+1 -1 14592
+S
+#14594
+On the front drive~
+Standing on the front drive, you have an excellent view of the
+Addams family mansion which stands to the north.  Most of the
+windows are dark but from the second level you can see lights and
+hear music drifting on the frigid wind that is blowing here.
+A hopscotch game has been drawn with chalk on the driveway here
+but you notice all of the numbers are "13".
+~
+145 1 11
+0d0+0 0 0
+D0
+The front porch of the mansion is before you.  ~
+~
+0 -1 14601
+D2
+The front gate is just to the south.  ~
+~
+0 -1 14593
+S
+$

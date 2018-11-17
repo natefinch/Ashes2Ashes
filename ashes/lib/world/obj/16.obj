@@ -1,0 +1,462 @@
+#1600
+begonia flower symbol mystic transport~
+a begonia flower~
+A flower with a mystic symbol of transport on the leaves grows here.~
+~
+10 0 16385 0
+0 0 0
+30 42 0 0
+1 44 0
+#1601
+berry berries double~
+some berry-berries~
+A little clump of berries is here. Each one is a double-berry.~
+~
+19 0 1 0
+0 0 0
+5 0 0 0
+1 15 0
+E
+berries~
+The berries look just like double berries.  
+~
+#1602
+bush berry~
+a berry-berry bush~
+This bush here has twice as many berries, because each is a double-berry.~
+~
+15 0 0 0
+0 0 0
+100 0 0 0
+5 250 0
+#1603
+gloves fox foxgloves pair~
+a pair of foxgloves~
+A pair of foxgloves grows wild here, waiting to be picked.~
+~
+11 64 129 0
+0 0 0
+0 0 0 0
+2 2500 0
+A
+5 2
+A
+2 2
+#1604
+sand quick quicksand pile~
+a pile of quicksand~
+A small pile of sand lies on the ground here, it seems to be flowing quickly.~
+~
+3 4 16385 0
+0 0 0
+15 100 4 64
+2 1 0
+#1605
+vine eye queue eyeball~
+the eye-queue vine~
+A vine braided with large eyeballs hangs here.~
+~
+11 128 17 0
+0 0 0
+0 0 0 0
+2 1000 0
+A
+3 2
+A
+4 2
+E
+Eyeballs Eye Vine~
+The vine is braided with eyeballs hanging from the vine at even
+intervals. ~
+#1606
+Eye eyeball eyeballs vine~
+the eye-queue vine~
+A vine braided with large eyeballs hangs here.~
+~
+11 136 17 0
+0 0 0
+0 0 0 0
+2 1000 0
+A
+3 -2
+A
+4 -2
+E
+Eyeballs eye vine~
+The vine is braided with eyeballs hanging from the vine at even
+intervals.~
+#1607
+plant power light bulbs~
+a power plant~
+A plant grows here with fruit that look like light bulbs.~
+~
+1 12 16385 0
+0 0 0
+0 0 -1 0
+1 500 0
+A
+1 6
+A
+14 10
+E
+light bulbs plant~
+This plant has big fruit in the shape of a light bulb.  As you look
+at it, you realize that this must be a power plant.
+~
+#1608
+plant power light bulbs~
+a power plant~
+A plant grows here with fruit that look like light bulbs.~
+~
+1 12 16385 0
+0 0 0
+0 0 -1 0
+1 1 0
+A
+1 -6
+A
+14 -10
+E
+light bulbs plant~
+This plant has big fruit in the shape of a light bulb.  As you look
+at it, you realize that this must be a power plant.
+~
+#1609
+pool white milk~
+a HUGE POOL OF MILK WHICH IS PART OF THE GROUND~
+A large pool of some white liquid sits in the clearing.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 10 0
+0 0 0
+#1610
+trought tanker truck~
+a HUGE TROUGH OF MILK WHICH IS THE SIZE OF A TANKER TRUCK~
+A huge trough the size of a tanker truck is sitting in the corner.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 10 0
+0 0 0
+#1611
+pool white milk~
+a HUGE POOL OF MILK WHICH IS PART OF THE STONE TOWER~
+There is a huge pool of milk set into the floor here.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 10 0
+0 0 0
+#1650
+sunflower sun flower~
+a sunflower~
+A brilliantly glowing sunflower lights the area here.~
+~
+1 8 16385 0
+0 0 0
+0 0 -1 0
+5 500 0
+A
+14 4
+A
+15 5
+#1651
+stunflower stun flower eerie glowing~
+a stunflower~
+An eerily glowing stunflower casts its baleful radiance upon the area.~
+~
+1 13 16385 0
+0 0 0
+0 0 -1 0
+5 500 0
+A
+12 -106
+A
+13 8
+#1652
+torchflower torch flower burning~
+a torchflower~
+A torchflower is here, burning brightly and illuminating the area.~
+~
+1 0 16385 0
+0 0 0
+0 0 -1 0
+3 150 0
+#1653
+spear asparagus green foul~
+an asparagus spear~
+A green and foul-tasting asparagus spear is here, its edge gleaming dully.~
+~
+5 0 8193 0
+0 0 0
+0 2 15 11
+6 1250 0
+A
+18 2
+A
+17 2
+#1654
+bulrushes rushes mass boat~
+a mass of bulrushes~
+A mass of bulrushes is here, striving vainly to rush away from you.~
+~
+22 2 1 0
+0 0 0
+0 0 0 0
+5 45 0
+#1655
+burrs curse patch thorny~
+a bunch of curse burrs~
+A patch of thorny burrs clutters the area. They look sharp!~
+~
+13 128 16385 0
+0 0 0
+0 0 0 0
+1 1 0
+A
+3 -2
+#1656
+plant trance~
+a trance plant~
+There is a plant here that...looks...very...interesting...~
+~
+3 65 16385 0
+0 0 0
+50 10 10 7
+1 100 0
+#1657
+fern bulb flash blinding light~
+a photogra-fern~
+A small black fern with a bulb that flashes with a blinding light is here.~
+~
+3 0 16385 0
+0 0 0
+75 10 10 4
+4 250 0
+#1658
+weed white fluid bulb~
+a milkweed~
+A weed with white fluid dripping from its bulb grows here unobtrusively.~
+~
+17 0 16385 0
+0 0 0
+100 10 10 0
+15 250 0
+#1659
+sword grass blade sharp steel~
+a blade of swordgrass~
+A sharp steel blade of swordgrass grows from the ground here.~
+~
+5 8400896 24577 0
+0 0 0
+0 3 9 3
+5 550 0
+#1660
+tree pineapple~
+a pineapple tree~
+A tall tree with large, oblong yellow pineapple growing from it is here.~
+~
+15 0 0 0
+0 0 0
+500 0 0 0
+50 10000 0
+#1661
+apple pine pineapple~
+a pineapple~
+A large yellow pineapple is here. It smells like a firecracker!~
+~
+3 0 16385 0
+0 0 0
+50 1 1 26
+5 3500 0
+#1662
+tree cherry~
+a cherry tree~
+A large and healthy-looking cherry tree grows here.~
+~
+15 0 0 0
+0 0 0
+200 0 0 0
+100 15000 0
+#1663
+cherries bunch gunpowder~
+a bunch of cherries~
+A bunch of cherries lie scattered on the ground. They smell like gunpowder!~
+~
+3 0 16385 0
+0 0 0
+35 1 1 26
+3 150 0
+#1664
+tree winekeg wine keg~
+a winekeg tree~
+A dark mahogany-looking tree that smells suspiciously of sour grapes is here.~
+~
+23 0 0 0
+0 0 0
+10000 10000 2 0
+500 100000 0
+#1665
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#1690
+passport paper picture~
+a passport~
+A piece of paper with your picture on it lies here in the dirt.~
+~
+3 33 16385 0
+0 0 0
+50 5 5 62
+2 10 0
+#1691
+visa piece paper writing strange~
+a visa~
+A piece of paper with some very strange writing on it is here.~
+~
+18 34 16385 0
+0 0 0
+2 0 0 0
+2 50 0
+#1692
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#1694
+moon moonshadows shadows shadow light moonlight midnight~
+Moonshadows created by moonlight at midnight~
+A shadow created by the moon at midnight stretches across the floor.~
+~
+12 204944 1025 295936
+0 0 0
+0 0 0 0
+0 500000 500000
+A
+16 -16
+A
+24 5
+E
+shadows shadow moon moonshadow moonlight light midnight~
+These dark shadows consist of everything dark and mysterious.  They are
+the cloak that shrouds MidKnight at all times.  They seem to writhe and
+expand as you stare at them, reaching out tendrils of deepest night to
+draw your soul inward.  The touch is cool, yet not uncomfortable, and you
+find yourself yearning to be a part of the darkness.
+~
+#1695
+night~
+the Night~
+A patch of the deepest, most dark night slowly sucks the light from the room.~
+~
+5 1187920 8193 295936
+0 0 0
+0 6 5 11
+0 0 0
+A
+17 4
+A
+18 4
+A
+1 2
+A
+14 -20
+A
+6 -4
+E
+night~
+This is the essence of the Night itself, terribly powerful.  Its use is
+shaped by the intent of its owner.  The power can only be fully controlled
+by MidKnight himself, all others attempting to do so, slowly lose their
+lifeforce to the devouring hunger of the darkness.
+~
+#1696
+star~
+the Star of MidKnight~
+You see a small, seven pointed star floating just above the floor here.~
+~
+1 543825 5 33555456
+0 0 0
+0 0 0 0
+1 500000 500000
+A
+18 3
+A
+17 3
+A
+14 10
+A
+6 2
+E
+star midknight~
+ Looking at the star, it seems to glow and hum before your very eyes.
+There is a snake coiled into the sign of infinity in the center, biting
+it's own tail like the great world serpent.  The stars seems at first to
+be a normal six pointed star, but when you look more carefully you see that
+there are actually seven points.  As you move closer, you think you notice
+movement out of the corner of your eye.  Was it a trick of the light, or
+did that snake start to writhe?
+~
+#1697
+shadow moon moonshadow~
+Moonshadows created by moonlight at midnight~
+A shadow created by the moon at midnight stretches across the floor.~
+~
+12 0 1025 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+shadows shadow moonlight moon midnight light~
+These dark shadows consist of everything dark and mysterious.  They are
+the cloak that shrouds MidKnight at all times.  They seem to writhe and
+expand as you stare at them, reaching out tendrils of deepest night to
+draw your soul inward.  The touch is cool, yet not uncomfortable, and you
+find yourself yearning to be a part of the darkness.
+~
+#1698
+night~
+the Night~
+The Night~
+~
+5 64 8193 0
+0 0 0
+0 1 1 11
+0 0 0
+E
+night~
+This is the essence of the Night itself, terribly powerful.  Its use is
+shaped by the intent of its owner.  The power can only be fully controlled
+by MidKnight himself, all others attempting to do so, slowly lose their
+lifeforce to the devouring hunger of the darkness.
+~
+#1699
+star~
+the Star of MidKnight~
+You see a small, seven pointed star floating just above the floor here.~
+~
+1 65 16389 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+star midknight~
+ Looking at the star, it seems to glow and hum before your very eyes.
+There is a snake coiled into the sign of infinity in the center, biting
+it's own tail like the great world serpent.  The stars seems at first to
+be a normal six pointed star, but when you look more carefully you see that
+there are actually seven points.  As you move closer, you think you notice
+movement out of the corner of your eye.  Was it a trick of the light, or
+did that snake start to writhe?
+~
+$

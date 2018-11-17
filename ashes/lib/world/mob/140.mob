@@ -1,0 +1,887 @@
+#14000
+wolverine~
+Wolverine~
+Wolverine stands here brooding in the corner, grumbling to himself
+~
+Wolverine stands a whopping 5'6", but his retractable Adamantium claws tell
+you he is not playing! It would be wise to not make him to upset with you,
+his mood is never good!
+~
+2414665 16777344 1000 W3
+200 91 -36 1d1+19000 18d12+90
+6000 1
+8 5 1
+25 100 25 25 25 25 6
+18 5 0
+-365 8 10 1000 25 100
+1 10 10 10 10
+0 0 0
+6 0
+~
+#14001
+storm~
+Storm~
+Storm hovers here in all her glory awaiting to talk to Professor X
+~
+With her blue eyes and long white hair it is no wonder she is a powerful
+force even without her powers over the elements!  She is one of the
+most beautiful mutants YOU have ever seen!
+~
+325705 16777344 1000 W3
+127 70 -29 1d1+9999 12d12+80
+150000 833750
+8 5 2
+18 100 13 13 18 13 0
+16 5 0
+-290 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#14002
+gambit~
+Gambit~
+Gambit is standing here thinking of his Gumbo and Rogue
+~
+He stands here in his long tan trenchcoat, with crimson eyes and a long
+quarterstaff.  He looks like he could teach you a few things one being
+his spicy recipe for Cajun Gumbo.
+~
+315465 16777344 1000 W3
+150 88 -33 1d1+20000 15d12+80
+5000 20000
+8 8 1
+18 100 18 18 25 13 8
+18 5 0
+-330 2 9 500 25 100
+1 10 10 10 10
+0 0 0
+6 0
+~
+#14003
+cyclops~
+Cyclops~
+Cyclops is here looking for Jean or Professor Xavier
+~
+He is a rather stout and well built, he has one red visor across his face
+you sense that he could really cause you harm if you made him mad...
+He is usually the leader of the X-Men when they go on missions...
+~
+313417 16777344 1000 W3
+150 90 -34 1d1+17499 15d12+80
+6000 20000
+8 5 1
+18 100 13 13 25 13 0
+18 5 0
+-340 12 9 350 25 50
+1 10 10 10 10
+0 0 4
+6 0
+~
+#14004
+jean grey~
+Jean Grey~
+Jean Grey stands here awaiting for Cyclops to arrive
+~
+The right hand in the missions and the groups second set of eyes, even if
+they are sitting in the command center at the time.  She has mental abilities
+that you could not ever believe, but watch out, this is Cyclops girl!
+~
+301128 17039488 1000 W3
+160 92 -37 1d1+18999 16d12+80
+5000 15000
+8 5 2
+18 100 13 13 25 13 0
+0 5 0
+-375 12 8 400 25 50
+1 10 10 10 10
+0 0 0
+6 0
+~
+#14005
+jubilee~
+Jubilee~
+Jubilee is standing here complaining about something childish
+~
+She is wearing a yellow jacket, with red oakleys, and an attitude!
+She has a wierd glittering about her body, but you notice she isn't to bad
+looking either.
+~
+428105 16777344 1000 W3
+130 85 -35 1d1+11999 15d11+75
+5000 50000
+8 5 2
+18 100 13 13 25 13 0
+8 5 0
+-350 0 9 500 25 50
+1 10 10 10 10
+0 0 0
+6 0
+~
+#14006
+beast~
+Beast~
+Beast is hanging from the ceiling reading a book
+~
+This blue furry man may not be a GQ cover, but his heart is of gold.
+He is usually to be found in the library reading his books and absorbing
+all the knowledge he can, but he does go on some missions as well
+~
+297033 17301632 1000 W3
+127 78 -28 1d1+9999 12d12+80
+150000 688750
+8 5 1
+18 100 18 18 18 13 0
+20 5 0
+-280 8 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#14007
+colossus~
+Colossus~
+Colossus stands here in all his might and size
+~
+He is HUGE, he stands about 7 feet tall and is almost totally indestructible!
+He is not one you want mad at you in ANY occasion, he doesn't like being
+interrupted so you had best leave him alone.
+~
+297033 16777344 1000 W3
+127 80 -32 1d1+14999 14d14+90
+150000 1000000
+8 5 1
+18 100 13 13 18 13 0
+18 5 0
+-320 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#14008
+rogue~
+Rogue~
+Rogue is flying over head looking for Gambit
+~
+The southern belle of the X-Men, she is capable of flying and for
+some unknown reason she likes that annoying cajun!!  Who are we to judge?
+She can drain your energy with a mere touch...
+~
+301129 17039488 1000 W3
+127 70 -27 1d1+9999 12d12+80
+150000 698750
+8 5 2
+18 100 13 13 18 13 0
+20 5 0
+-270 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#14009
+nightcrawler~
+NightCrawler~
+NightCrawler is here, no there, well he is rotating positions in the room
+~
+A strange creature, black in color, with a tail and claws and the ability
+to teleport through walls and anything he chooses...
+~
+432201 17039488 1000 W3
+200 87 -35 1d1+19999 16d12+80
+10000 60000
+8 5 1
+18 100 18 18 25 25 6
+18 5 0
+-355 9 8 600 25 100
+1 10 10 10 10
+0 0 0
+6 0
+~
+#14010
+professor xavier~
+Professor Xavier~
+Professor Xavier wheels around the room talking of the latest mission
+~
+An elderly man sits before you in this yellow motorized wheelchair, but he is
+still wise beyond all the other X-Men in that he knew of how to help them with
+their powers, he has the ability of telepathic communication.
+~
+297033 16777344 1000 W3
+127 80 -25 1d1+9999 11d11+75
+150000 881250
+8 5 1
+18 100 18 18 18 15 0
+11 5 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#14011
+magneto~
+Magneto~
+Magneto is here looking for some X-Men to destroy
+~
+He is about 5'11 with a red helmet and red flowing cape, he is surrounded
+by a magnetic forcefield that seems to repel all things...he controls the
+very atmosphere around him with the power of magnetism.
+~
+428139 16777344 -1000 W3
+140 89 -35 1d1+17999 16d12+80
+10000 25000
+8 8 1
+18 100 13 13 22 20 7
+16 5 0
+-350 10 8 600 25 50
+1 10 10 10 10
+0 0 0
+6 10
+~
+#14012
+juggernaut~
+Juggernaut~
+Juggernaut stands here towering over you and looking for something to break
+~
+He stands well over 6 and a half feet tall, he is heavily armored, and he does
+NOT like the X-Men at all, and he doesn't appear to be to thrilled with you!
+He is known for running over walls, it looks like your the next target!
+~
+297003 16777344 -1000 W3
+127 80 -35 1d1+14999 14d14+90
+150000 1000000
+8 5 1
+18 100 13 13 18 13 0
+18 5 0
+-350 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#14013
+sentinel robot~
+a Sentinel Robot~
+A Sentinel Robot is towering here looking for mutants to capture
+~
+Standing a WHOPPING 40 feet tall, this robot is out looking for mutants to
+bring back to those who would like to get rid of all mutants
+And his red glowing eyes can see all so you can't hide if your a mutant!!
+~
+39019 17301506 -1000 W3
+110 50 -15 1d1+4499 9d9+60
+5000 256250
+8 5 0
+18 0 13 13 13 13 0
+19 5 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#14014
+sabretooth tooth~
+SabreTooth~
+SabreTooth is standing here looking for his arch-enemy Wolverine.
+~
+He stands about 7 and a half feet tall or more you reckon, either way you feel
+very miniscule in comparison to this big yellow maned, muscular, well-built
+cat-like man.  He has marking on his ribs and back, he doesn't appear happy!
+~
+2394219 16777384 -1000 W3
+140 90 -38 1d1+14000 12d12+80
+5000 50000
+8 5 1
+18 100 13 13 21 13 0
+20 5 0
+-380 10 8 200 25 25
+1 10 10 10 10
+0 0 0
+6 10
+~
+#14015
+security laser~
+a Security Laser~
+A security laser stands here probing the hall for movement
+~
+~
+2285614 524330 0 W3
+200 100 -40 1d1+349 30d7+25
+0 45000
+8 8 0
+18 100 13 13 18 13 0
+0 1 0
+-400 0 7 0 100 100
+1 10 10 10 10
+0 0 0
+6 10
+~
+#14016
+apocalypse~
+Apocalypse~
+Apocalypse is here standing ready to destroy the X-Men.
+~
+Standing a remarkable 8 feet tall and dressed in a blue armor that looks like
+a tank couldn't dent it and it looks like he is ready to rip you a new one as
+well.  You are going to have a time of it if you try and take him, doesn't
+look like your going to have a choice in it  HE'S ATTACKING!!!!
+~
+2261101 17563690 -1000 W3
+127 70 -100 1d1+6999 10d10+50
+50000 325000
+8 8 0
+18 100 13 13 18 13 0
+15 5 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 15
+~
+#14017
+proteus~
+Proteus~
+Proteus the mutant who bends all to his will is here.
+~
+~
+2263085 17563818 0 W3
+127 78 -100 1d1+12000 14d10+50
+50000 350000
+8 8 1
+18 100 13 13 18 13 0
+18 5 0
+-1000 13 8 0 0 100
+2 10 10 10 10
+16 0 0
+6 15
+~
+#14018
+archangel arch angel~
+ArchAngel~
+ArchAngel flies about searching for intruders.
+~
+You notice the wings first thing, he is about 6 foot 6 with a wingspan of
+probably 10 feet or more.  A WINGSPAN?!?!?!  That's correct he has wings and
+he is using them!  You better retreat as he is the guardian of the bedrooms of
+the Xmen!  He won't like you here intruding!
+~
+2263081 17563690 1000 W3
+127 70 -100 1d1+6999 10d10+50
+50000 350000
+8 8 1
+18 100 13 13 18 13 0
+14 5 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 15
+~
+#14019
+thundercloud~
+Thundercloud~
+A thundercloud is here rumbling and spitting lightning at you
+~
+A dark ominous cloud with lightning ripping from it and cracking by you.  It is
+a minion of Storm and she commands it to attack you!!!!
+~
+61451 0 0 W3
+30 58 0 1d1+1499 1d30+55
+0 30000
+8 8 0
+18 100 13 13 13 13 0
+16 5 0
+0 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#14020
+tornado~
+Tornado~
+A whirling tornado is ripping up the room and is heading towards you
+~
+A whirling instrument of destruction heading towards you at the whim of its
+master Storm as it defends it's master you had better run for your life!
+~
+61451 0 0 W3
+30 58 0 1d1+1499 1d30+55
+0 30000
+8 8 0
+18 100 13 13 13 13 0
+18 5 0
+0 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#14021
+blizzard~
+Blizzard~
+A blizzard is here freezing everything in sight
+~
+White is all you can see.  There is nothing but the biting cold and the whirl
+of the snow in the air.  You feel the need to run as you lose feeling in your
+extremities, then you see Storm smile as she controls this little change
+in the weather.
+~
+61451 0 0 W3
+30 58 0 1d1+1499 1d30+55
+0 30000
+8 8 0
+18 100 13 13 13 13 0
+14 5 0
+0 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#14050
+wolverine~
+Wolverine~
+Wolverine stands here brooding in the corner, grumbling to himself
+~
+Wolverine stands a whopping 5'6", but his retractable Adamantium claws tell you he is not playing!
+It would be wise to not make him to upset with you, his mood is never good!
+~
+317513 16781440 1000 W3
+127 90 -28 100d28+10000 12d12+80
+150000 698750
+8 5 1
+18 100 13 13 21 13 0
+18 5 0
+-280 0 6 1000 0 0
+10 10 10 10 10
+0 0 23
+6 0
+~
+#14051
+storm~
+Storm~
+Storm hovers here in all her glory awaiting to talk to Professor X
+~
+With her blue eyes and long white hair it is no wonder she is a powerful
+force even without her powers over the elements!  She is one of the
+most beautiful mutants YOU have ever seen!
+~
+2422859 16777344 1000 W3
+150 93 -35 100d30+16500 16d12+80
+5600 50000
+8 5 2
+18 100 13 13 25 13 0
+16 5 0
+-355 12 9 800 30 40
+1 10 10 10 10
+0 0 3
+6 0
+~
+#14052
+gambit~
+Gambit~
+Gambit is standing here thinking of his Gumbo and Rogue
+~
+He stands here in his long tan trenchcoat, with crimson eyes and a long
+quarterstaff.  He looks like he could teach you a few things one being
+his spicy recipe for Cajun Gumbo.
+~
+315465 16777344 1000 W3
+127 70 -30 1d1+9999 12d12+80
+150000 788750
+8 8 1
+18 100 13 13 18 13 0
+18 5 0
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#14053
+cyclops~
+Cyclops~
+Cyclops is here looking for Jean or Professor Xavier
+~
+He is a rather stout and well built, he has one red visor across his face
+you sense that he could really cause you harm if you made him mad...
+He is usually the leader of the X-Men when they go on missions...
+~
+313417 16777344 1000 W3
+127 70 -28 1d1+9999 12d12+80
+150000 776250
+8 5 1
+18 100 13 13 18 13 0
+18 5 0
+-280 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#14054
+jean grey~
+Jean Grey~
+Jean Grey stands here awaiting for Cyclops to arrive
+~
+The right hand in the missions and the groups second set of eyes, even if
+they are sitting in the command center at the time.  She has mental abilities
+that you could not ever believe, but watch out, this is Cyclops girl!
+~
+301129 17039488 1000 W3
+127 80 -28 1d1+14000 12d12+80
+150000 771250
+8 5 2
+18 100 13 13 18 13 0
+15 5 0
+-280 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#14055
+jubilee~
+Jubilee~
+Jubilee is standing here complaining about something childish
+~
+She is wearing a yellow jacket, with red oakleys, and an attitude!
+She has a wierd glittering about her body, but you notice she isn't to bad
+looking either.
+~
+297033 16777344 1000 W3
+127 65 -27 1d1+8999 11d11+75
+150000 711250
+8 5 2
+18 100 13 13 18 13 0
+8 5 0
+-270 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#14056
+beast~
+Beast~
+Beast is hanging from the ceiling reading a book
+~
+This blue furry man may not be a GQ cover, but his heart is of gold.
+He is usually to be found in the library reading his books and absorbing
+all the knowledge he can, but he does go on some missions as well
+~
+297033 17301632 1000 W3
+127 70 -28 1d1+9999 12d12+80
+150000 688750
+8 5 1
+18 100 18 18 18 13 0
+20 5 0
+-280 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#14057
+colossus~
+Colossus~
+Colossus stands here, dwarfing you with his size.
+~
+He is HUGE, he stands about 7 feet tall and is almost totally indestructible!
+He is not one you want mad at you in ANY occasion, he doesn't like being
+interrupted so you had best leave him alone.
+~
+297033 16777344 1000 W3
+150 90 -32 30d100+20000 14d14+100
+1000 50000
+8 8 1
+18 100 13 13 21 13 0
+18 5 0
+-325 9 10 125 25 100
+1 10 10 10 10
+16 0 47
+6 0
+~
+#14058
+rogue~
+Rogue~
+Rogue is flying over head looking for Gambit
+~
+The southern belle of the X-Men, she is capable of flying and for
+some unknown reason she likes that annoying cajun!!  Who are we to judge?
+She can drain your energy with a mere touch...
+~
+301129 17825920 1000 W3
+160 90 -27 30d100+15000 12d12+80
+10000 50000
+8 5 2
+18 100 13 13 21 13 0
+20 5 0
+-270 13 6 0 0 50
+1 10 10 10 10
+0 0 0
+6 0
+~
+#14059
+nightcrawler~
+NightCrawler~
+NightCrawler is here, no there, well he is rotating positions in the room
+~
+A strange creature, black in color, with a tail and claws and the ability
+to teleport through walls and anything he chooses...
+~
+301129 17039488 1000 W3
+127 85 -30 1d1+9999 12d12+80
+150000 728750
+8 5 1
+18 100 13 13 18 13 0
+18 5 0
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#14060
+professor xavier~
+Professor Xavier~
+Professor Xavier wheels around the room talking of the latest mission
+~
+An elderly man sits before you in this yellow motorized wheelchair, but he is
+still wise beyond all the other X-Men in that he knew of how to help them with
+their powers, he has the ability of telepathic communication.
+~
+297033 16777344 1000 W3
+140 90 -36 30d100+16000 14d11+75
+5000 50000
+8 5 1
+18 100 18 18 21 15 0
+15 5 0
+-360 12 9 250 50 50
+1 10 10 10 10
+0 0 7
+6 0
+~
+#14061
+magneto~
+Magneto~
+Magneto is here looking for some X-Men to destroy
+~
+He is about 5'11 with a red helmet and red flowing cape, he is surrounded
+by a magnetic forcefield that seems to repel all things...he controls the
+very atmosphere around him with the power of magnetism.
+~
+297067 16777344 -1000 W3
+127 84 -31 30d100+10000 12d12+80
+150000 853750
+8 8 1
+18 100 13 13 21 13 0
+16 5 0
+-310 0 6 800 0 0
+10 10 10 10 10
+0 0 56
+6 10
+~
+#14062
+juggernaut~
+Juggernaut~
+Juggernaut stands here towering over you and looking for something to break
+~
+He stands well over 6 and a half feet tall, he is heavily armored, and he does
+NOT like the X-Men at all, and he doesn't appear to be to thrilled with you!
+He is known for running over walls, it looks like your the next target!
+~
+297003 16777344 -1000 W3
+145 90 -35 1d1+14999 12d17+80
+0 25000
+8 5 1
+18 100 13 13 25 18 1
+18 5 0
+-350 5 9 300 0 0
+1 10 10 10 10
+16 0 47
+6 10
+~
+#14063
+sentinel robot~
+a Sentinel Robot~
+A Sentinel Robot is towering here looking for mutants to capture
+~
+Standing a WHOPPING 40 feet tall, this robot is out looking for mutants to
+bring back to those who would like to get rid of all mutants
+And his red glowing eyes can see all so you can't hide if your a mutant!!
+~
+39019 17301506 -1000 W3
+110 50 -15 1d1+4499 9d9+60
+5000 256250
+8 5 0
+18 0 13 13 13 13 0
+19 5 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#14064
+sabretooth tooth~
+SabreTooth~
+SabreTooth is standing here looking for his arch-enemy Wolverine.
+~
+He stands about 7 and a half feet tall or more you reckon, either way you feel
+very miniscule in comparison to this big yellow maned, muscular, well-built
+cat-like man.  He has marking on his ribs and back, he doesn't appear happy!
+~
+297067 16777384 -1000 W3
+127 70 -29 1d1+9999 12d12+80
+150000 741250
+8 5 1
+18 100 13 13 18 13 0
+20 5 0
+-290 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#14065
+security laser~
+a Security Laser~
+A security laser stands here probing the hall for movement
+~
+~
+57386 524330 0 W3
+47 65 -7 1d1+349 30d2+25
+0 45000
+8 8 0
+18 100 13 13 18 13 0
+0 1 0
+-70 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#14066
+apocalypse~
+Apocalypse~
+Apocalypse is here standing ready to destroy the X-Men.
+~
+Standing a remarkable 8 feet tall and dressed in a blue armor that looks like
+a tank couldn't dent it and it looks like he is ready to rip you a new one as
+well.  You are going to have a time of it if you try and take him, doesn't
+look like your going to have a choice in it  HE'S ATTACKING!!!!
+~
+32877 17563690 -1000 W3
+127 70 -100 1d1+6999 10d10+50
+50000 325000
+8 8 0
+18 100 13 13 18 13 0
+15 5 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#14067
+proteus~
+Proteus~
+Proteus the mutant who bends all to his will is here.
+~
+~
+34861 17563818 0 W3
+127 74 -100 1d1+10000 11d11+70
+50000 350000
+8 8 1
+18 100 13 13 18 13 0
+18 5 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+56 0 0
+6 15
+~
+#14068
+archangel arch angel~
+ArchAngel~
+ArchAngel flies about searching for intruders.
+~
+You notice the wings first thing, he is about 6 foot 6 with a wingspan of
+probably 10 feet or more.  A WINGSPAN?!?!?!  That's correct he has wings and
+he is using them!  You better retreat as he is the guardian of the bedrooms of
+the Xmen!  He won't like you here intruding!
+~
+34861 17563690 1000 W3
+127 70 -100 1d1+6999 10d10+50
+50000 350000
+8 8 1
+18 100 13 13 18 13 0
+14 5 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#14069
+thundercloud~
+Thundercloud~
+A thundercloud is here rumbling and spitting lightning at you
+~
+A dark ominous cloud with lightning ripping from it and cracking by you.  It is
+a minion of Storm and she commands it to attack you!!!!
+~
+61451 0 0 W3
+30 58 0 1d1+1499 1d30+55
+0 30000
+8 8 0
+18 100 13 13 13 13 0
+16 5 0
+0 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#14070
+tornado~
+Tornado~
+A whirling tornado is ripping up the room and is heading towards you
+~
+A whirling instrument of destruction heading towards you at the whim of its
+master Storm as it defends it's master you had better run for your life!
+~
+61451 0 0 W3
+30 58 0 1d1+1499 1d30+55
+0 30000
+8 8 0
+18 100 13 13 13 13 0
+18 5 0
+0 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#14071
+blizzard~
+Blizzard~
+A blizzard is here freezing everything in sight
+~
+White is all you can see.  There is nothing but the biting cold and the whirl
+of the snow in the air.  You feel the need to run as you lose feeling in your
+extremities, then you see Storm smile as she controls this little change
+in the weather.
+~
+61451 0 0 W3
+30 58 0 1d1+1499 1d30+55
+0 30000
+8 8 0
+18 100 13 13 13 13 0
+14 5 0
+0 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#14080
+nightcrawler~
+NightCrawler~
+NightCrawler is here, no there, well he is rotating positions in the room
+~
+A strange creature, black in color, with a tail and claws and the ability
+to teleport through walls and anything he chooses...
+~
+301129 17039488 1000 W3
+127 94 -37 1d1+9999 12d12+80
+150000 728750
+8 5 1
+18 100 13 13 18 13 0
+18 5 0
+-375 0 9 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

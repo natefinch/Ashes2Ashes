@@ -1,0 +1,1940 @@
+#500
+Path to the Forbidden Gate~
+You seem to have found an ancient path.  The path is surrounded
+by tall trees that throw eerie shadows and the path is overgrown
+by dense undergrowth.  You think you can barely make out a path leaving
+to the north.
+~
+5 1 3
+0d0+0 0 0
+D0
+The path seems a little less overgrown...
+~
+~
+0 -1 501
+D4
+The Windswept ledge...
+~
+~
+0 -1 5063
+S
+#501
+Forbidden Path~
+The path seems a little less dense as you force your way through
+the undergrowth.  You wonder when this path was last used and
+what might be waiting for you at the end of this path.
+~
+5 1 3
+0d0+0 0 0
+D0
+The paths appears to continue north.....
+~
+~
+0 -1 502
+D2
+You see a heavily overgrown path...
+~
+~
+0 -1 500
+S
+#502
+Approaching the Glowing Portal~
+You notice that the path is no longer overgrown and seems well
+kept.  To the north you can see a huge gate and you begin to
+wonder what is on the other side.
+~
+5 1 3
+0d0+0 0 0
+D0
+You see a huge gate...
+~
+~
+0 -1 503
+D2
+You see an overgrown path....
+~
+~
+0 -1 501
+S
+#503
+Glowing Portal~
+A huge glowing portal lays before you.  You see a horrible 
+black landscape dimly on the other side that sends a shiver
+down your spine.  Are you brave enough to risk the unknown portal?
+~
+5 1 2
+0d0+0 0 0
+D2
+You see a path leading to the south....
+~
+~
+0 -1 502
+D4
+You see a shining light and a dim landscape on the other side...
+~
+~
+0 -1 504
+S
+#504
+On the Other Side~
+A black landscape spreads out before you.  Huge gaping holes dot
+the landscape and you wonder what creatures lurk in this
+desolate place.  You see a building to the east and mountains
+to the north.
+~
+5 1 4
+0d0+0 0 0
+D0
+A small path...
+~
+~
+0 -1 523
+D1
+You see a path to the east...
+~
+~
+0 -1 505
+D5
+You see a glowing portal...
+~
+~
+0 -1 503
+S
+#505
+Path Approaching a building~
+As you follow this paved path you see a building slowly getting
+larger.  You wonder what things are brave enough to live
+in such a desolate path.  SUDDENLY you slip and barely regain
+your balance before falling into a huge hole.  You realize
+that you better pay careful attention to your surroundings.
+~
+5 1 4
+0d0+0 0 0
+D1
+Path continues to the east....
+~
+~
+0 -1 506
+D3
+Path seems to approach a glowing portal...
+~
+~
+0 -1 504
+S
+#506
+Path Before the Building~
+The road seems well kept here, even if seldom used.  You see 
+a large fence ahead of you and what appears to be a guard
+house.
+~
+5 1 4
+0d0+0 0 0
+D0
+You see a large fence to the north.....
+~
+~
+0 -1 507
+D3
+The path continues to the west.....
+~
+~
+0 -1 505
+S
+#507
+The Gate~
+A huge fence surging with electricity stands before you.  You
+see a small slot in the fence.  A guard house stands to your
+west and a guard appears and says, "Stand where you are and
+identify yourselves immediately!!"
+~
+5 1 4
+0d0+0 0 0
+D0
+A huge gate barrs your entrance.
+~
+Gate~
+2 500 509
+D2
+A path leading to the south...
+~
+~
+0 -1 506
+D3
+Inside the Guard house..
+~
+~
+0 -1 508
+S
+#508
+Inside the Guard House~
+You see huge windows facing the gate and realize the guards can
+see anyone approaching from the south.  A small table lies in
+the center of the room and a huge computer system dominates
+the west wall dotted by many screens showing different
+sections of the gate.  You realize that these people don't
+like uninvited guests.
+~
+5 8 0
+0d0+0 0 0
+D1
+~
+You see a large gate.....~
+0 -1 507
+S
+#509
+Courtyard~
+You stand within the boundaries of the fence and see the building in
+the distance.  You realize that if anyone did get past the guards that
+they would easily be seen before getting to the building.
+~
+5 0 0
+0d0+0 0 0
+D1
+You see nothing special...
+~
+~
+0 -1 510
+D2
+A huge fence...
+~
+gate~
+2 500 507
+S
+#510
+Courtyard~
+A large, open area stands before you.
+~
+5 0 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 511
+D1
+You see nothing special....
+~
+~
+0 -1 512
+D2
+You see nothing special....
+~
+~
+0 -1 510
+D3
+You see nothing special....
+~
+~
+0 -1 509
+D4
+You see nothing special...
+~
+~
+0 -1 510
+D5
+You see nothing special...
+~
+~
+0 -1 510
+S
+#511
+Courtyard~
+A large, open area stands before you.
+~
+5 0 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 511
+D1
+You see nothing special....
+~
+~
+0 -1 511
+D2
+You see nothing special....
+~
+~
+0 -1 510
+D3
+You see nothing special....
+~
+~
+0 -1 512
+D4
+You seen nothing special...
+~
+~
+0 -1 511
+D5
+You see nothing special...
+~
+~
+0 -1 511
+S
+#512
+Courtyard~
+A large, open area stands before you.
+~
+5 0 0
+0d0+0 0 0
+D0
+You see nothing special....
+~
+~
+0 -1 512
+D1
+You see nothing special...
+~
+~
+0 -1 511
+D2
+You see nothing special...
+~
+~
+0 -1 512
+D3
+You see nothing special...
+~
+~
+0 -1 510
+D4
+You see nothing special...
+~
+~
+0 -1 512
+D5
+You see nothing special...
+~
+~
+0 -1 513
+S
+#513
+Courtyard~
+A large, open area stands before you.
+~
+5 0 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 513
+D1
+You see nothing special...
+~
+~
+0 -1 513
+D2
+You see nothing special...
+~
+~
+0 -1 513
+D3
+You see nothing special...
+~
+~
+0 -1 514
+D4
+You see nothing special....
+~
+~
+0 -1 512
+D5
+You see nothing special...
+~
+~
+0 -1 513
+S
+#514
+Courtyard~
+A large, open area stands before you.
+~
+5 0 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 514
+D1
+You see nothing special...
+~
+~
+0 -1 513
+D2
+You see nothing special...
+~
+~
+0 -1 511
+D3
+You see nothing special...
+~
+~
+0 -1 512
+D4
+You see nothing special...
+~
+~
+0 -1 515
+D5
+You see nothing special...
+~
+~
+0 -1 514
+S
+#515
+Courtyard~
+A large, open space stands before you.
+~
+5 0 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 515
+D1
+You see nothing special...
+~
+~
+0 -1 512
+D2
+You see nothing special...
+~
+~
+0 -1 511
+D3
+You see nothing special...
+~
+~
+0 -1 516
+D4
+You see nothing special...
+~
+~
+0 -1 510
+D5
+You see nothing special...
+~
+~
+0 -1 514
+S
+#516
+Courtyard~
+A large, open space stands before you.
+~
+5 0 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 510
+D1
+You see nothing special...
+~
+~
+0 -1 515
+D2
+You see nothing special...
+~
+~
+0 -1 511
+D3
+You see a black door.
+~
+Door~
+1 501 517
+D4
+You see nothing special...
+~
+~
+0 -1 516
+D5
+You see nothing special...
+~
+~
+0 -1 512
+S
+#517
+Entry Way~
+You see a long tunnel ahead of you leading into a dark building.
+There are warning lights everywhere.  You stop in shock as
+you see a huge Russian symbol with the American flag next to it.
+You can't believe your eyes, these two countries working together.
+You begin to wonder what is going on in this secret building.
+~
+5 12297 0
+0d0+0 0 0
+D0
+You see a dark hallway...
+~
+~
+0 -1 518
+D1
+You see nothing special...
+~
+Door~
+1 501 516
+S
+#518
+Dark Hallway~
+You slowly make your way down a very dark hallway, at the
+end of the hallway you can see a faint light.  You wonder
+what deadly experiments could be taking place within this
+building.
+~
+5 12297 0
+0d0+0 0 0
+D0
+A dark hallway...
+~
+~
+0 -1 519
+D2
+The entry way....
+~
+~
+0 -1 517
+S
+#519
+Dark Hallway~
+In this very dark room you can just make out footprints in
+the dust leading towards the north.  You feel a slight draft
+coming from the east.
+~
+5 12296 0
+0d0+0 0 0
+D0
+You see a set of Doors.
+~
+Doors~
+1 -1 521
+D1
+You see a dark room...
+~
+door~
+1 -1 520
+D2
+A dark hallway...
+~
+~
+0 -1 518
+S
+#520
+Storage Room~
+Many shelves line the walls.  Some are stacked with electronics
+equipment while others have common every day stuff.  Household
+cleaning supplies are scattered on the floor.  The pile consists
+of mops, brooms, and materials to clean the electronics equipment.
+~
+5 12297 0
+0d0+0 0 0
+D3
+You see a door...
+~
+Door~
+1 -1 519
+S
+#521
+Esp College~
+You see a huge table surrounded by many chairs.
+There are numerous books scattered on the table top
+describing topics like esp, telepathy, and out of
+body experiences.  This appears to be a college of
+some sort.
+~
+5 12296 0
+0d0+0 0 0
+D0
+A hallway leads north...
+~
+~
+0 -1 528
+D1
+A small room...
+~
+~
+0 -1 527
+D2
+A set of double doors.
+~
+Doors~
+1 -1 519
+D5
+A cluttered Room
+~
+~
+0 -1 522
+S
+#522
+Map Room~
+A huge map of the world dominates the floor.  On one wall there
+is a map of the United States, while the wall opposite contains
+one of Mother Russia.  Other maps clutter the room lying on shelves
+or on the huge oak table in the middle of the room.
+~
+5 12296 0
+0d0+0 0 0
+D4
+Another room
+~
+~
+0 -1 521
+S
+#523
+Path into the Mountains~
+You find yourself following a small path that heads towards
+the mountains.  It is difficult to navigate due to the small
+rocks continually sliding out from under your feet.  It appears
+that this path may lead to those tall peaks in the mountains.
+~
+5 9 5
+0d0+0 0 0
+D0
+Path continues north..
+~
+~
+0 -1 524
+D2
+The beginning of the path...
+~
+~
+0 -1 505
+S
+#524
+Path in the Mountains~
+The path seems to be steadily climbing higher into the mountains.
+You wonder why this path is hardly used and what might lie at the
+end.  The path appears to be getting a little better, at least as
+footing goes, that is.
+~
+5 1 5
+0d0+0 0 0
+D0
+Converging of paths...
+~
+~
+0 -1 525
+D2
+Path to the south...
+~
+~
+0 -1 523
+S
+#525
+Splits in the Path~
+The path seems very solid here.  You breathe a sigh of relief
+after navigating that very treacherous stretch leading up to
+here.  The path appears to continue to the north and what looks
+like a crevice ascends upwards here.
+~
+5 1 5
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 548
+D2
+Path leading south..
+~
+~
+0 -1 524
+D4
+A small crevice..
+~
+~
+0 -1 526
+S
+#526
+The Crevice~
+The walls are very close together here, and you can just
+barely squeeze through.  The walls are pocked with cracks
+which provied excellent hand holds for climbing upwards.
+It is very dark and a little scary in here.  Hope you're
+not Claustraphobic.
+~
+5 1 5
+0d0+0 0 0
+D4
+What appears to be a ledge...
+~
+~
+0 -1 536
+D5
+Converging of paths...
+~
+~
+0 -1 525
+S
+#527
+Quiet Room~
+This place is designed totally for comfort.  Reclining chairs occupy
+the center of the room.  There is a small desk against one wall for
+writing and a comfortable couch rests against the other.  You realize
+this is where the telepaths can rest and talk to other people using
+their ability.
+~
+5 12296 0
+0d0+0 0 0
+D3
+Another room...
+~
+~
+0 -1 521
+S
+#528
+Hallway~
+You are in a well lit hallway with pictures depicting strange and
+unique events lining the wall.  The floor is covered in black carpet
+and you make no noise to mark your passage.
+~
+5 12296 0
+0d0+0 0 0
+D0
+The end of the Hallway...
+~
+~
+0 -1 529
+D2
+~
+Another room...~
+0 -1 521
+S
+#529
+Hallway~
+The floor is covered by thick, black carpet to keep any noise from distracting
+the esp-ers.  You see more weird drawings hanging on the walls here.  A few
+tall potted plants set against both walls try in vain to add some color to
+this dismal place.
+~
+5 12296 0
+0d0+0 0 0
+D0
+A huge door...
+~
+Door~
+2 504 532
+D1
+Another room...
+~
+~
+0 -1 531
+D2
+Hallway going south...
+~
+~
+0 -1 528
+D3
+Another room...
+~
+~
+0 -1 530
+S
+#530
+Coffee Break~
+The biggest coffee maker you have ever seen stands on a table against
+the wall.  You see a table scattered with papers and encircled by
+well-worn chairs.  This is probably where a lot ot thinking takes place.
+~
+5 12296 0
+0d0+0 0 0
+D1
+End of the Hallway...
+~
+~
+0 -1 529
+S
+#531
+Lunch Room~
+A large serving line starts along the east wall.   Table
+and chairs line the west wall.  This place is spotless and
+you realize it must take alot of work to clean up after all
+these people.
+~
+5 12296 0
+0d0+0 0 0
+D3
+End of the hallway...
+~
+~
+0 -1 529
+S
+#532
+Office~
+A large desk is the main focal object in the room.  A huge computer
+sits on the desk and the printer hasn't stopped since you entered the
+room.  A huge map of the world spans the back wall.  Four phones sit on
+the desk for convenient use.  This is where all the decisions are made.
+~
+5 12296 0
+0d0+0 0 0
+D2
+A huge door...
+~
+Door~
+2 504 529
+D5
+A trapdoor...
+~
+trapdoor~
+1 -1 533
+S
+#533
+Obeservation Point~
+Three large chairs stand in the center of the room.  A large glass viewing
+window takes up most of the main wall.  This room appears to serve only one
+purpose:  to allow the people here to observe the activities in the next room.
+~
+5 12296 0
+0d0+0 0 0
+D1
+Another room...
+~
+~
+0 -1 534
+D4
+A trapdoor is closed...
+~
+trapdoor~
+1 -1 532
+S
+#534
+Guard Room~
+A weapons rack covers the east wall.  A large table is in the
+center of the room.  It seems that you have interrupted a poker
+game by entering this room.  The guards really don't seem happy
+about this interruption.
+~
+5 12297 0
+0d0+0 0 0
+D3
+The observation room....
+~
+~
+0 -1 533
+D5
+A secret door...
+~
+Secret~
+1 -1 535
+S
+#535
+Examination Room~
+A large table takes up most of the room.  You see numerous tools suitable
+for performing autopsies.  Though some of them look out of place even for
+that purpose.  A huge light on the east wall illuminates the entire room.
+A small intercom is located on the one wall under a huge glass window.  
+Blood covers the floor and this whole place just radiates pure EVIL!!!
+~
+5 12296 0
+0d0+0 0 0
+D4
+A secret door...
+~
+Secret~
+1 -1 534
+S
+#536
+The Ledge~
+This ledge is very windy and you barely have room to stand on it.
+This provides a breather for the treachous climb you just endured
+to get to this point.  You realize if you stand here to long the
+wind will blow you right off the mountain.
+~
+5 6144 5
+0d0+0 0 0
+D1
+Hmm, the wall looks like to may be a secret door.
+~
+secret~
+2 575 537
+D5
+The crevice...
+~
+~
+0 -1 526
+S
+#537
+The Entry-way of Ferenczy Tower~
+This is a dark, dismal place.  Trophies of war line the wall from
+forgotten battles.  This room displays the fearsome battle powers of
+this family of Wamphyri.  You realize that these are the powerful
+fighters of this land and thrive on death and destruction.
+~
+5 1 0
+0d0+0 0 0
+D0
+A black hallway...
+~
+~
+0 -1 538
+D3
+The secret door..
+~
+secret~
+2 575 536
+D5
+A dirt covered trapdoor.
+~
+Trapdoor~
+1 -1 539
+S
+#538
+Black Hallway~
+A very dark hallway chocked with dust, you can barely make out footprints
+on the floor.  This hallway doesn't seem to see much traffic.  More
+trophies of war line the wall, showing more of the glory connected
+to the Ferenczy name.
+~
+5 14345 0
+0d0+0 0 0
+D0
+Stairway room is total blackness...
+~
+~
+0 -1 540
+D2
+The entry-way....
+~
+~
+0 -1 537
+S
+#539
+The Cellar~
+This is a dark, damp cellar.  There is an overpowering stench of mold and
+decay.  This place is lined with shadows and you hear a few noises that you
+credit to rats or mice.   You pick up a slight sense of evil radiating from
+your surroundings.
+~
+5 9 0
+0d0+0 0 0
+D4
+An old trapdoor with rusted hinges..
+~
+Trapdoor~
+1 -1 537
+S
+#540
+Black Stairway Room~
+A huge black, spiral stairway dominates the center of the room.
+Huge shields line the wall, showing the past rulers of the Ferenczy
+house.  A Huge tapestry showing the real ruler of this tower hangs
+on the eastern wall, this picture alone shows the total evil that
+this person represents.
+~
+5 14345 0
+0d0+0 0 0
+D2
+A black hallway...
+~
+~
+0 -1 538
+D3
+Hate radiates from behind the dark door...
+~
+Dark Black Door~
+1 -1 541
+D4
+Top of the stairwell...
+~
+~
+0 -1 543
+S
+#541
+Domain of Thibor Ferenczy~
+A huge room, totally devoid of light.  The hate in this room strikes
+you like a physical blow upon entering.  For the creature who
+makes his residence here hates all living things, especially the one
+who gave him life above all else.
+~
+5 14345 0
+0d0+0 0 0
+D1
+The dark black door is smeared with blood...
+~
+Dark Black Door~
+1 -1 540
+D5
+A slime covered rock...
+~
+Rock~
+1 -1 542
+S
+#542
+Pitch Black Cellar~
+A huge, pitch black cellar.  This place for some reason doesn't smell
+like decay, but does radiate evil.  You see a large comfortable
+chair in the center of the room.  You wonder what Thibor is hiding
+down here.
+~
+5 9 0
+0d0+0 0 0
+D4
+The rock is slime covered..
+~
+Rock~
+1 -1 541
+S
+#543
+Top of the Dark Stairwell~
+You finally ascend to the top of the spiral staircase.  You are
+confronted with huge, double doors bearing the Ferenczy coat of
+arms.  Two statues stand guard forever over these golden doors.
+You sense great evil beyond those doors.
+~
+5 14345 0
+0d0+0 0 0
+D0
+A huge set of double doors with Ferenczy Crest...
+~
+Double Door~
+1 -1 544
+D5
+Stairway descends down...
+~
+~
+0 -1 540
+S
+#544
+Dark Hall~
+This room lacks light in any form.  You judge by the echo of your 
+footsteps that the room must be quite large.  The complete lack of
+light must be playing tricks with your eyes because you think you
+just saw something move across the room.  Darkness and evil permeate
+this room.  Perhaps you should be moving along.
+~
+5 14345 0
+0d0+0 0 0
+D0
+Dark Hall...
+~
+~
+0 -1 545
+D2
+A huge set of doors with Ferenczy Crest...
+~
+Double Doors~
+1 -1 543
+S
+#545
+Dark Hall~
+A huge gothic tapestry dominates one of the walls here.  It depicts
+Ferenczy in battle against their enemies.  Each inhabitant of this 
+tower is shown in all his evil glory as he vanquishes foes while 
+covered in blood.
+~
+5 14345 0
+0d0+0 0 0
+D0
+Before the Dark Throne...
+~
+~
+0 -1 546
+D2
+Dark Hall....
+~
+~
+0 -1 544
+S
+#546
+Before the Dark Throne~
+
+A huge Throne looms directly up.  Two huge, black marble statues of
+Guardian beasts stand on either side of the throne.  A huge two-handed
+sword is mounted on the wall above the throne.  The person who occupies
+the throne radiates pure and total evil.
+~
+5 14345 0
+0d0+0 0 0
+D2
+Dark Hall...
+~
+~
+0 -1 545
+D4
+The Evil throne...
+~
+~
+0 -1 547
+S
+#547
+Throne of Ferenczy~
+A black, crystal throne dominates the center of the room.  Two torches
+stand to either side, casting their unnatural glow.  The throne's arm-
+rests each end in a human skull that has rubies for its eyes.  Ancient
+words of evil are etched all over the statue sending an eerie feeling 
+down your spine.  An overpowering sense of evil batters at your senses.
+It seems to come from the throne itself.  This whole room is covered with
+blood stains, especially the throne itself.
+~
+5 14345 0
+0d0+0 0 0
+D5
+Before the throne...
+~
+~
+0 -1 546
+S
+#548
+The Path of Fools~
+Why are you on this path?  Are you that STUPID?  Don't you know this
+path leads to your destruction?  Don't you know you will suffer horrible
+torture that will leave you praying to die, before they finally grant
+your plea?  Are you that stupid to continue on to your own destruction?
+It appears you are that foolish, but what can you expect from foolish
+mortals, come we will enjoy your blood.
+~
+5 1 5
+0d0+0 0 0
+D1
+You see nothing special...
+~
+~
+0 -1 549
+S
+#549
+Path of Fools Continues~
+SLAP!!! SLAP!!! SLAP!!! Haven't you figured it out yet if you don't 
+leave now you will suffer one of the most painful deaths ever imagined,
+one given at the hands of the Wamphryi.  Foolish Mortals we are WARNING
+you to turn around and flee now, for you will lose more than your life,
+you could lose your SOUL.
+~
+5 1 5
+0d0+0 0 0
+D3
+You see nothing special...
+~
+~
+0 -1 548
+D4
+You see nothing special...
+~
+~
+0 -1 550
+S
+#550
+The Path of Fools comes to an End~
+Fine, have it your way you stupid mortal.  We tried to warn you, but would
+you listen, NOPE NOT YOU, you think you know it all huh?  Fine with us,
+we tried our hardest to warn you, you saw it we did everything in our
+power to make you turn back.  So be it, come to your destruction, who
+knows we might feel generous and make it fast, *ROFL*, yeah right.
+~
+5 1 5
+0d0+0 0 0
+D1
+You see nothing special...
+~
+~
+0 -1 551
+D5
+You see nothing special...
+~
+~
+0 -1 549
+S
+#551
+Entrance to the Tower of Despair~
+Two large marble doors loom ahead of you.  They have ancient carvings
+in a long forgotten language covering most of the service area.  The
+only symbol you recognize gives you a bone-chilling shiver down your
+spine for it is the ancient symbol of utter despair.  Remember foolish
+mortal despair leads to destruction, probably yours.  There seems to
+be a faded message written on the doors.
+~
+5 262145 5
+0d0+0 0 0
+D0
+Huge doors with faded carvings, a strong sense of hopelessness comes
+from behind these doors.
+~
+Doors~
+2 574 552
+D3
+You see nothing special...
+~
+~
+0 -1 550
+E
+Message~
+You are about to enter the Tower of despair.  Utter despair awaits you
+within.  Even hope isn't brave enough to dare the secrets of this 
+tower.  Are you foolish enough to tread where even hope, that brings
+light in the darkest hour, doesn't dare to tread.  If your stupid
+enough to brave this tower, we are sure death will thank you for
+your gift.
+~
+S
+#552
+Utter Despair has Begun~
+Suddenly, a feeling of hopelessness starts within you. You realize that
+you have no chance against the creatures of evil that lurk within these
+walls.  Why even bother they will destroy you without a second thought,
+condeming your soul to horrible torment for enternity.  You only wish
+is to turn and flee this total blackness that seems to stem from
+the bowels of hell itself.
+~
+5 14345 0
+0d0+0 0 0
+D0
+The secret door seems rusted shut from disuse...
+~
+Secret~
+1 -1 553
+D3
+You see nothing special...
+~
+~
+0 -1 557
+D5
+Torture and Pain awaits as Satan himself beckons you to your destruction.
+~
+~
+0 -1 588
+S
+#553
+The Path of Sorrow~
+You have made a hard choice and a very brave one.  This path has seen
+Sorrow that no mortal should ever have to witness.  The sorrow of love
+and lost this path has seen many times.  Though even this path has
+seen unbelievable happiness stem from unpentrable sorrow.
+~
+5 14337 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 554
+S
+#554
+Path of Sorrow~
+Large tears run down the walls here for this very path weeps for one
+of the occupants of this tower.  Its knows the sorrow of losing a loved
+one or being deprived of watching them grow up and experiencing 
+there joys.  This path weeps for all the lost chances that all mortals
+have missed, for this path knows only sorrow here and has never seen
+happiness over the centuries of its existance.
+~
+5 14336 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 555
+D2
+You see nothing special...
+~
+~
+0 -1 553
+S
+#555
+Bend in the Path of Sorrow~
+Huge tears roll down the walls here also, but you're horrified by them
+for they are the tears of a Wamphyri staining the whole room a crimson
+color.  This bend represents the mortal's unmeasurable sorrow when realizing
+he had become the very thing he had spent his life combating.  This bend
+represents the turn from sorrow to evil that lurks in everyone's heart,
+just waiting for its chance to grasp control.
+~
+5 14337 0
+0d0+0 0 0
+D1
+You see nothing special...
+~
+Secret~
+1 -1 556
+D2
+You see nothing special...
+~
+~
+0 -1 554
+D3
+You see nothing special..
+~
+~
+0 -1 565
+S
+#556
+Room of Sorrow~
+The level of sorrow in this room draws you in and tears run down your
+cheeks.  The intensity of sorrow in this room totally overrides the
+rest of your senses and all you want to do is to cry forever for the
+tortured souls of mankind and even for the souls of foul creatures,
+like the Wamphyri, for here sorrow for all things is felt.
+~
+5 9 0
+0d0+0 0 0
+S
+#557
+Path of Horror~
+Mutilated corpses litter the ground at your feet causing the floor
+to become treacherous due to the blood pooling on it.  SUDDENLY,
+a huge beast with tremendous claws and blood-stained fangs leaps at
+your throat, but passes through harmlessly to your great relief.  
+Horrible laughter fills your ears making you want to flee for your
+life.  To your total horror, you realize that there is no escape.
+The only option is to continue forward, seeking the origins of that
+hideous laughter.
+~
+5 14337 0
+0d0+0 0 0
+D3
+You see nothing special...
+~
+~
+0 -1 558
+S
+#558
+Path of Horror~
+Blood darkens the entire room.  The floor is covered by it, making it
+hard to walk and it slowly runs down the wall.  Spectre's and souls 
+drift pass you and sometimes through you, chilling you to the bone.
+One ghost lets out an earth shattering screams and flies directly
+at you, but harmlessly passes through you.  The hideous laughter
+once more fills the room or is it only in your mind?
+~
+5 14337 0
+0d0+0 0 0
+D1
+You see nothing special...
+~
+~
+0 -1 557
+D3
+You see nothing special...
+~
+~
+0 -1 560
+D5
+The trapdoor looks old from disuse...
+~
+Trapdoor~
+1 -1 559
+S
+#559
+Domain of Dramal Doombody~
+A simple living chamber.  A huge tapestry depicting Dramal covered
+in blood from his enemies hangs on the one wall.  A bed lays in the
+one corner and you noticed old blood stains cover the floors.
+~
+5 6153 0
+0d0+0 0 0
+D4
+The trapdoor looks old from disuse...
+~
+Trapdoor~
+1 -1 558
+S
+#560
+Path of Horror~
+You enter a smoke filled room, SUDDENLY a huge dragon lears out of
+the smoke and breaths a cloud of acid towards you.  Some how you
+seem to be still alive and a cold, calculating voice speaks to you out
+of the smoke, "Foolish mortal!  Did you think I would let you did that
+quickly?  No, my friend, your death will be infinitely more painful!!!
+~
+5 8193 0
+0d0+0 0 0
+D1
+You see nothing special...
+~
+~
+0 -1 558
+D4
+An empty room...
+~
+~
+0 -1 563
+D5
+An empty room...
+~
+~
+0 -1 561
+S
+#561
+An Empty Room~
+This room seems to serve no purpose.  It has nothing in it and dust thickly
+covers the floor, making you realize that no one has entered this
+room for a very long time.
+~
+5 14345 0
+0d0+0 0 0
+D4
+You see nothing special...
+~
+~
+0 -1 560
+D5
+You see nothing special...
+~
+~
+0 -1 562
+S
+#562
+Domain of Lascula Longtooth~
+Strange devices litter the room.  This whole room speaks of mystical
+powers beyond your understanding.  You see large claw marks deeply
+indented into the walls all over this room.  This whole room is designed
+for comfort, including the large table and soft cushion chairs in the
+corner.
+~
+5 14345 0
+0d0+0 0 0
+D4
+An empty room...
+~
+~
+0 -1 561
+S
+#563
+An empty room~
+A room that appears to never be used any more and is covered thickly by
+dust.  This room seems to have been forgotten by its creators.
+~
+5 14345 0
+0d0+0 0 0
+D4
+You see nothing special...
+~
+~
+0 -1 564
+D5
+You see nothing special...
+~
+~
+0 -1 560
+S
+#564
+Domain of Shaithis~
+This whole room seems to be a bit over done.  Everything in this room
+is of the best quality available, including the ancient antique chairs,
+the old wooden bed, and the black desk against the wall.  This person
+enjoys the finer points of life, sometimes too much.
+~
+5 14345 0
+0d0+0 0 0
+D4
+The home of the Dark One
+~
+Darkness~
+2 590 590
+D5
+An empty room...
+~
+~
+0 -1 563
+S
+#565
+Stairs of Sorrow~
+A large set of stairs made of human tears with a mix of red tears from
+Wamphyri stands in the center of the room.  The stairs spiral down into
+sorrow and darkness for all who follow this path, but great happiness
+can lie at the end of the greatest sorrow.
+~
+5 14337 0
+0d0+0 0 0
+D1
+You see nothing special...
+~
+~
+0 -1 555
+D5
+You see nothing special...
+~
+~
+0 -1 566
+S
+#566
+Stairs of Sorrow~
+These stairs are formed of thousands upon thousands of tears shed in
+sorrow.  You get a weird feeling as each step seems to give out and
+at the last second hold before you go falling through the step formed
+of tears.  These steps transcend the ages reflecting the sorrow since
+the beginning of time itself.
+~
+5 14337 0
+0d0+0 0 0
+D1
+You see nothing special...
+~
+~
+0 -1 567
+D5
+You see nothing special...
+~
+~
+0 -1 568
+S
+#567
+Path of Shame~
+
+This path reflects the shame of one of the occupants of this tower, but
+it also reflects the shame of the world.  You feel an over powering
+sense of shame for deceiving others and not living up to the expectations
+that people have set for you.  This whole room is full of shades and
+ghosts that have shamed people so bad in there mortal existance they
+are bound to wonder the world for enternity.
+~
+5 14337 0
+0d0+0 0 0
+D1
+You see nothing special...
+~
+~
+0 -1 570
+D3
+You see nothing special...
+~
+~
+0 -1 566
+S
+#568
+Stairs of Sorrow~
+These stairs have a redish tint to them as you descend them.  They reflect
+the Wamphyri who still have mortal feelings, these Wamphryi can still
+shed tears in sorrow for lost love ones and lost memories that they
+can never re-live.  Though as the stairs show by the barest of red
+hints these are few and very far between.
+~
+5 14336 0
+0d0+0 0 0
+D4
+You see nothing special...
+~
+~
+0 -1 566
+D5
+You see nothing special...
+~
+~
+0 -1 569
+S
+#569
+End of the Path of Sorrow~
+Even sorrow comes to an end.  After thousands upon thousands of tears you
+finally come to the ender of sorrow for everything must come to an
+end, even the power of sorrow comes to an end in death or the
+return to happiness.
+~
+5 6144 0
+0d0+0 0 0
+D0
+You see a twisting path...
+~
+~
+0 -1 573
+D4
+You see nothing special...
+~
+~
+0 -1 568
+S
+#570
+Path of Shame~
+Shame still batters at your senses, for you realize all the time you
+failed to live up to your family's standards or left a friend down 
+because you just didn't feel like helping them.  Tears run down your
+cheeks for the shame you feel deep inside, it even touches your
+very soul which cries for the shame you have done over the years.
+Your greatest wish is to leave this path.
+~
+5 14336 0
+0d0+0 0 0
+D1
+The cage door is securely shut...
+~
+Cage~
+1 -1 571
+D3
+You see nothing special...
+~
+~
+0 -1 567
+S
+#571
+Loyal Guardian Room~
+Slaughtered carcasses litter the room and the smell of death is 
+overpowering.  However, you notice that there is just enough food
+to feed the occupants of this room.  They are loyal to their master
+even facing death to protect him, for he leads their pack and they
+have sworn to follow him.
+~
+5 14345 0
+0d0+0 0 0
+D1
+A huge wooden door..
+~
+Door~
+2 530 572
+D3
+The cage door seems to be securely shut...
+~
+Cage~
+1 -1 570
+S
+#572
+Domain of the Wolf Wamphyri~
+You see a very comfortable living space, but it is shredded by claw
+marks.  The floor is scratched with deep grooves by very sharp
+claws.  This whole area seems to be a living space for an animal
+instead of a human.
+~
+5 14345 0
+0d0+0 0 0
+D3
+A huge wooden door...
+~
+Door~
+2 530 571
+S
+#573
+Twisted Path~
+This path has many twists and turns and at times it seems your walking
+upside down, or is it your imagination.  Your senses are just as
+confused because at times you feel great evil battering at your mental
+defenses, while at other times curiosity replaces the feeling of evil.
+~
+5 14337 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 574
+D2
+You see nothing special...
+~
+~
+0 -1 569
+D5
+The Entrance to Karen's Liar...
+~
+~
+0 -1 578
+S
+#574
+Bloody Path~
+The floor here is covered with blood.  A trail of greenish ooze seems
+to shadow the path of blood, making you wonder what might have been
+following this path.
+~
+5 6145 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 575
+S
+#575
+Bloody Room~
+Blood covers the entire surface area of this room.  The walls and ceiling
+continously drip blood, while the floor is covered with pools of blood.
+It all seems to run down a huge drain in the middle of the room.
+~
+5 14344 0
+0d0+0 0 0
+D2
+You see nothing special...
+~
+~
+0 -1 574
+D5
+You see nothing special...
+~
+~
+0 -1 576
+S
+#576
+Bloody Drain~
+The drain seems to have hand holds carved into the wall, but the holds
+are very slippery with the constant flow of blood running over them.
+Blood pours all over your clothes and skin as you force your way down
+this drain.
+~
+5 14344 0
+0d0+0 0 0
+D4
+You see nothing special...
+~
+~
+0 -1 575
+D5
+You see nothing special...
+~
+~
+0 -1 577
+S
+#577
+Blood Pool~
+A slight walkway surronds a huge pool of crimson blood.  The crimson
+lake seems very inviting and you feel like going for a refreshing
+swim, wait was that a TENTACLE you just saw.  Maybe swimming isn't
+a good idea, but the crimson pool seems so inviting.
+~
+5 6153 0
+0d0+0 0 0
+D4
+You see a blood-covered drain..
+~
+~
+0 -1 576
+D5
+A trapdoor leading to your total destruction.
+Shaithis appears before you and beckons to you, "Come down
+You foolish mortal we like watching mortals as you slowly and
+painfully feel death."
+~
+Trapdoor~
+1 -1 589
+S
+#578
+Entrance to Karen's Lair~
+Huge double doors block your passage here.  For this is the ruler of Wamphyri
+and she rules this tower.  She is different from normal Wamphyri because
+she can show the compassion of normal mortals, but make no mistake
+uninvited guests will be dealt with very harshly.
+~
+5 14345 0
+0d0+0 0 0
+D5
+The door looks very solid
+~
+Door~
+2 534 579
+S
+#579
+Hall of Chaos~
+This room reflects chaos in all its forms.  Things lay scattered
+around, some whole, most of them broken or destroyed.  For this
+is where Karen wages her inner conflict between her feelings for
+Harry Keogh and her natural feelings of being a Wamphyri.  You notice
+a huge table ripped to pieces like it was a piece of paper and you
+begin to respect the awesome power of the Wamphyri.
+~
+5 14345 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 581
+D1
+You see nothing special...
+~
+~
+0 -1 580
+S
+#580
+Hall of Chaos~
+Servants are rushing everywhere here.  They keep crashing into each
+other, running over each other, and kicking each other out of their
+way.  This seems to be total chaos, but then again, Karen keeps changing
+her mind so much that the poor Trogs never know what is coming next.
+~
+5 12297 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 582
+D3
+You see nothing special...
+~
+~
+0 -1 579
+S
+#581
+Hall of Chaos~
+CRASH!! SMASH!! Things fly every which way in this room causing you
+to dive behind a smashed table for cover.  You see trogs hurtling
+things everywhere because their mistress has told them to smash assorted
+objects.  These poor trogs realize that she will probably change her
+mind and kill them for smashing something she liked.  Then again, what
+can you expect from Lady Karen as she struggles with her mortal love 
+and her Wamphyri tendencies for destruction.
+~
+5 12296 0
+0d0+0 0 0
+D0
+You see nothing special...
+~
+~
+0 -1 583
+D1
+You see nothing special...
+~
+~
+0 -1 582
+D2
+You see nothing special...
+~
+~
+0 -1 579
+S
+#582
+Hall of Chaos~
+A fire-breathing dragon leers out of the smoke and passes
+through you harmlessly.  A grey wolf leaps at your throat, but
+disappears into thin air.  You realize this is where Karen is
+letting her aggressions out by creating illusions to torment
+visitors.  SUDDENLY a fighter beast attacks you, thank god that
+was an illusion.
+~
+5 12297 0
+0d0+0 0 0
+D2
+You see nothing special...
+~
+~
+0 -1 580
+D3
+You see nothing special...
+~
+~
+0 -1 581
+S
+#583
+Royal Guard Room~
+A pitch black room stands before you.  You get a chill down your
+spine as you hear something slithering against the wall.  Wait!
+Did you just see a wing-like appendage flash out of the shadow?
+Glowing red eyes peer at you from every direction and you realize
+that this will be a fight to the death or nothing.
+~
+5 12297 0
+0d0+0 0 0
+D2
+You see nothing special...
+~
+~
+0 -1 581
+D4
+A solid iron door..
+~
+Trapdoor~
+2 548 584
+S
+#584
+Darkness~
+This room lacks even the smallest amount of light.  You here a huge
+scraping noise as if something is slithering across the floor
+towards you.  Huge red eyes peer out of the darkness at you and you
+suddenly realize the last defense of Lady Karen is still the huge
+dweller that doesn't like to be disturbed.
+~
+5 12296 0
+0d0+0 0 0
+D3
+You see nothing special...
+~
+~
+0 -1 585
+D5
+You see nothing special...
+~
+Trapdoor~
+2 548 583
+S
+#585
+Throne of Karen~
+A pair of crystal thrones stand before you.  One is of the deepest
+black crystal you have ever seen.  It is carved into the form of two
+fighting beasts clashing in battle.  The heads are locked in combat
+with one sinking its fangs into the neck of the other, while there is
+just enough room between the bodies for the seat of the throne.  The
+other throne is of purest white crystal and has carvings of nature all
+over its surface.  It is obvious that the occupant of the white throne
+wishes to remember their old world.
+~
+5 12297 0
+0d0+0 0 0
+D1
+You see nothing special...
+~
+~
+0 -1 584
+D3
+A beautiful black throne...
+~
+Throne~
+2 535 586
+S
+#586
+Royal Treasury~
+This room contains Karen's gold, for blood interests her more than
+these shiny gold coins that destroy so many mortal lives through
+greed.
+~
+5 9 0
+0d0+0 0 0
+D1
+A beautiful black throne...
+~
+Throne~
+2 535 585
+S
+#588
+Bowels of Hell~
+You have wandered into the fiery bowels of hell.  You are so struck with
+terror that you almost fail to notice that the sickening crunch you just
+heard was your spine being shattered by a huge red trident.  Your intes-
+tines have been ruptured and an unbearable pain begins to surge through
+your body.  You pray for death to come quickly.  "Foolish mortal!"  the
+wielder or the trident bellows.  "There is no escape from this torment.
+Death himself would not dare step into the deepest pit of hell!"  The
+gods pity someone so stupid as to wander into eternal darkness to visit
+with the incarnate evil.  You are rescued from eternal damnation by
+divine forces.
+~
+5 16386 0
+1d1+199 90 0
+D4
+You see nothing special...
+~
+~
+0 -1 552
+S
+#589
+Devouring Blood~
+Blood rushes up to cover you and SUDDENLY you feel unbelievable pain.
+The blood is slowly eating your skin away like acid as it drags
+you down.  The pain reaches a level you never dreamed of and for
+some reason you unable to pass out.  "Foolish Mortal," speaks
+Shaithis in your mind, "that would be to nice to let you pass out,
+making you feel the pain is more enjoyable to watch, muhahahahaha!!"
+~
+5 22530 0
+1d1+199 90 0
+D4
+A trapdoor...
+~
+Trapdoor~
+1 -1 577
+S
+#590
+The Domain of the Dark One~
+A pit of evil and despair assult your eyes.  Here is the home of the
+dark one, he has been chained here for so  many years not even his creators
+remember how long anymore.  He was a mistake of science and became so
+powerful even his creators couldn't control him.  Finally they tricked
+him into this chamber sealing it forever, well to you found it.
+~
+5 0 0
+0d0+0 0 0
+D4
+The Domain of Shaithis
+~
+Darkness~
+2 590 564
+S
+$

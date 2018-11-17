@@ -1,0 +1,99 @@
+CircleMUD v3.0 Shop File~
+#19600~
+19689
+19690
+19691
+19692
+-1
+1.0
+0.8
+WEAPON
+WAND
+STAFF
+-1
+%s Oh yeah, let me just get that; I've got forty-three of them right here under the counter.~
+%s It's really great that you're delusional, and everything... but no.~
+%s Here's you - I'm foolish!  I think you'll buy this item that's not a weapon, wand or staff!  Here's me - buh-bye.~
+%s Right.  I'll just call down to the treasury, and they'll be right here with a truckload of cash.  Just sit right there and wait, I'm sure it won't be TOO long.~
+%s I guess I forgot to mention that we use CURRENCY here.  Try to work through the syllables, it's a big word.~
+%s I'm very grateful for these %d coins.  Really.~
+%s Here's your %d coins.  I'm sure you'll find something REAL useful to do with them.~
+-1
+0
+19609
+0
+19603
+-1
+0
+25
+0
+0
+#19601~
+19693
+19694
+19695
+19696
+19697
+19698
+19699
+-1
+1.0
+0.8
+ARMOR
+WORN
+-1
+%s Do you SEE that on the list?  I don't.~
+%s That would be easier if you actually HAD one of those.~
+%s If that were something one could wear, maybe I'd buy it... but it's not.~
+%s Do I LOOK like a billionaire?  I don't think so.~
+%s Try to follow the logic - You need money to buy things.  You don't have enough money.  Therefore, you can't buy things.~
+%s I'll just take those %d coins.  Here's your freakin' item.~
+%s Here's your stinkin' %d coins.  Get lost.~
+-1
+0
+19610
+0
+19604
+-1
+0
+25
+0
+0
+#19602~
+19685
+19686
+19687
+19688
+-1
+1.0
+0.8
+LIGHT
+SCROLL
+TREASURE
+POTION
+OTHER
+CONTAINER
+LIQ_CONTAINER
+BOAT
+FOUNTAIN
+BEAMER_DEVICE
+DAMAGEABLE
+-1
+%s I don't even know what that is.~
+%s What?  Is it invisible or something?~
+%s If it ain't a LIGHT, SCROLL, TREASURE, POTION, OTHER, CONTAINER, LIQ_CONTAINER, BOAT, FOUNTAIN, BEAMER_DEVICE, or a DAMAGEABLE, I don't want it.~
+%s I don't make that kind of money.~
+%s You don't make that kind of money.~
+%s Wow.  %d coins.  Thanks.~
+%s Here.  Here's your %d coins.  Thanks.~
+-1
+0
+19611
+0
+19610
+-1
+0
+25
+0
+0
+$~

@@ -1,0 +1,1093 @@
+#4900
+In front of a large house.~
+You are standing in front of a large yellow house. There are windows all over
+the front of the house at differing heights.. suggesting a two floor house.
+There are some childrens toys out in the yard.. But besides that this house
+looks well cared for.
+~
+49 4228 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 4901
+D2
+
+~
+~
+0 -1 4956
+S
+#4901
+On the front porch of the house.~
+You are standing on a large porch of the yellow house.  There are some small
+toys piled up on one corner of the porch.  The door to the house is north 
+of here.  And south will take you back to the street.  From inside the house
+you hear the sound of children laughing and playing.
+~
+49 4100 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4902
+D2
+~
+~
+0 -1 4900
+S
+#4902
+Just inside the door of the house.~
+You are standing just inside the door of the pretty yellow house.  You 
+can now hear the shouting and laughing of th children better now.  There
+are some throw rugs on the floor here and you see a set of stairs leading
+up right before you.  Just beside the door is an umbrella stand.
+~
+49 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4903
+D2
+~
+~
+0 -1 4915
+D3
+~
+~
+0 -1 4909
+D4
+As you look up... You see a long hallway at the top of the stairs....
+Just at the top of the stairs is a long painting.. looks like a western scene.
+~
+~
+0 -1 4904
+S
+#4903
+In the hallway~
+You are standing in a short hallway.  Directly in front of you is a swinging 
+door that must lead to the kitchen.  There are some small toys sitting here
+on the floor.  On one side of you is a large wall with family pictures on 
+the other side of you is the staircase that leads upstairs.
+~
+49 4096 0
+0d0+0 0 0
+D0
+This is a swinging door.. must lead to the kitchen.. better watch out..
+we wouldn't want you to get hit!
+~
+Swinging door~
+1 -1 4907
+D2
+~
+~
+0 -1 4902
+S
+#4904
+On the stairs~
+You are standing on the stairs.  All along the wall going up the stairs
+you see lots of family portraits.  There must me a couple of kids that live
+here.. You see photos of a boy and a girl.  There is a long oak banister 
+along one side of the stairs for you to hold on to as you go up.  At the 
+top of the stairs there is a long western looking portrait.
+~
+49 4096 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 4912
+D5
+~
+~
+0 -1 4902
+S
+#4905
+In front of Andy's room~
+You are standing in front of a door.  There are signs on the door that look
+to have been made by a child.  The sign is in red crayon and says "Andy's
+Room" .  There are also pictures of cowboys on the door.  All around you
+you see toys that look to have gotten out into the hallway from the room
+..Wonder how that happened...
+~
+49 4100 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4906
+D1
+~
+~
+0 -1 4913
+S
+#4906
+In andy's room~
+You are standing in a typical kids room.  There is a crib in one corner 
+and in the corner opposite is a twin bed.  This kid must love cowboys,  The
+entire room is covered in cowboy pictures and the bed quilt on it that
+shows the picture of a cowboy.
+~
+49 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4950
+D1
+~
+~
+0 -1 4952
+D2
+~
+~
+0 -1 4905
+S
+#4907
+kitchen~
+You are standing in the standard suburbia kitchen.  There is a small dinette
+set here for a small family to eat dinner on.  A large refrigerator is sitting
+here and keeping tonights dinner nice and cool.  You see the normal kitchen
+things here.. Stove, Oven, Cabinets, and a sink.. nothing else to see in here.
+~
+49 4096 0
+0d0+0 0 0
+D2
+There is a swinging door here.. Be careful not to get hit when going 
+through it.
+~
+swinging~
+1 -1 4903
+D3
+~
+~
+0 -1 4908
+S
+#4908
+Dining room~
+This room looks like someone is moving out as well.  The table and chairs
+are still here but looks like someone has packed the dishes and decorations
+away.  Sitting on the table is a big birthday cake, all around the cake are
+plates and hats with pictures of cowboys on them.  There are streamers and
+balloons hanging all around, giving the place a festive appearance.
+~
+49 4096 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4907
+D2
+~
+~
+0 -1 4909
+S
+#4909
+Living room~
+This is a large living room.  There is a t.v. here on a small cart and a
+couple of chairs here as well.  There is a large archway to the north and
+just over the archway is a huge sign saying " HAPPY BIRTHDAY ".  Wonder who
+is having a party today?
+~
+49 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4908
+D1
+~
+~
+0 -1 4902
+S
+#4910
+In Andy's closet~
+This is a closet.  There are hangers above your head and there are clothes
+hanging on the bar.  Under your feet are some toys and some shoes. Here 
+again, There are more pictures of cowboys taped to the back of the closet 
+door... talk about loving cowboys.. sheesh!
+~
+49 4096 0
+0d0+0 0 0
+D3
+~
+closet~
+1 -1 4952
+S
+#4911
+In front of Sid's house.~
+You are standing in front of a house that looks mostly well taken care of.
+There are toys all over the yard but.. most of the toys look like they were
+damaged in a fire.  You wonder what happened to these toys that they are sooo
+torn up. In the distance you hear a dog barking and wonder if it's safe to be
+wandering around in someone's yard.
+~
+49 4096 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4942
+S
+#4912
+Top of the staircase.~
+You are standing at the top of a long staircase.  Just in front of you is 
+a large western portrait. Just below that portrait is a low table that 
+holds a vase of fresh flowers.   The floor looks to be wood but there
+are area rugs here and there.  The Hallway continues down and there are 
+rooms further down the hallway.
+~
+49 12292 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4913
+D5
+~
+~
+0 -1 4904
+S
+#4913
+Further down the hallway.~
+You are standing in the middle of a hallway.  There is an area rug here that 
+you are standing on.  The walls here appear to be bare.. as though someone
+might be moving.  When you look closer at the walls you see the outline of
+where pictures might have been hung.
+~
+49 4096 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4912
+D3
+~
+~
+0 -1 4905
+S
+#4914
+On the sidewalk in front of the house.~
+You are standing on a sidewalk in front of a house.  There are some toys
+scattered about the lawn but other than that the house appears to be well
+cared for.  The driveway is west of here and in the driveway there is a 
+mini-van.  The mini-van is in some pastel color and there is a sign in the
+window of the van that says "Baby on board".
+~
+49 4096 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4915
+D3
+~
+~
+0 -1 4916
+S
+#4915
+On the front porch of the house.~
+You are standing on a large porch of the yellow house.  There are some small
+toys piled up on one corner of the porch.  The door to the house is north 
+of here.  And south will take you back to the street.  From inside the house
+you hear the sound of children laughing and playing.
+~
+49 4100 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 4914
+S
+#4916
+On the driveway.~
+You are standing on a long driveway.  To one side of you is the house
+that you just came out of, On the other side is another house that doesn't 
+look as well cared for.  There is a mini-van sitting here and it looks to 
+running.. feel like going for a ride?
+~
+49 4096 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4914
+D3
+~
+~
+0 -1 4917
+S
+#4917
+In the mini-van.~
+As soon as you get into the mini-van.. the door slams and it takes 
+off with you in it.  Oh Gosh.. what are you gonna do now?  You ride for 
+just minute.. while trying to figure out what to do when all of the sudden.. i
+It stops.. and the door opens.. better get out now while you have the chance.
+~
+49 4096 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4918
+S
+#4918
+At a gas station~
+As you are thrown to the concrete you look up, and before you can say 
+anything the van takes off and leaves you behind.  You stand up and 
+start looking around.  This is your average gas station.  There are two
+pumps right beside you and another two a little further away.  There
+is a big rotating sign above you with a big dinosaur on it.  Just a little
+further away from you is a small food mart.  WATCH OUT!!!!! You are just 
+about run over by a large semi truck.. better watch where you stand 
+around and day dream.
+~
+49 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4919
+S
+#4919
+Under a large rack of oil.~
+You are sitting under a large rack of oil that is for sale.  You are hiding
+so that you won't get run over by anymore wayward vehicles.  There is another
+automobile sitting here, Its a truck and on the side it says Pizza Planet.
+Maybe if you hop in it you can find that mini-van that left you behind.
+But... the driver probably wouldn't take to kindly to riders.. better
+hide..in the back would be a good place.
+~
+49 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4920
+D1
+~
+~
+0 -1 4924
+D2
+~
+~
+0 -1 4918
+S
+#4920
+Behind a truck.~
+You are standing behind the pizza planet truck.  If you climb up you can get
+into the back of the truck.  Whatever you decide to do.. make it quick..
+these gas fumes are staring to make you dizzy. You can hear voices talking
+and from the sound of things.. you are about to be left behind again.. Hurry
+and get in!
+~
+49 4096 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4919
+D4
+This is the back end of the truck.. You are gonna have to open the topper to
+get in.. wonder if you are strong enough...
+~
+topper door~
+1 -1 4921
+S
+#4921
+In the back of a truck.~
+You are in the back of a pick-up truck.  There are all sorts of cups and fast
+food packaging in here from a place called pizza planet.  There is a large
+tool box that comes threatening close as the truck turns corners at a high
+rate of speed.  As you ride along you notice that the window between the cab
+and bed of the pick-up truck is open and you can hear the sound of a radio
+drifting through.  There is a young man driving the truck.. he looks to be
+about 17 years old.  If you are careful you could climb into the front of the
+truck but I wouldn't suggest it.. cause he doesn't look like he's in a good
+mood.. But then.. what 17 year old is?
+~
+49 4096 0
+0d0+0 0 0
+D0
+This is a small glass door.. but it's open right now..
+~
+~
+0 -1 4922
+E
+toolbox tool box~
+You look at the large tool box as it flys by you and you notice that the
+brand name on it is Binford.  Wow.. isn't that... nah.. couldn't be...could
+it?
+~
+S
+#4922
+The front of the Pizza planet truck.~
+This is the front of the truck.  Once you get in the front.. you wished you
+would have stayed in the back.  If you had stayed in the back you wouldn't
+have seen how bad this kid drives.  There are things flying all over the cab
+of the truck and you feel like you are about to be launched out of the
+windshield. The driver eyes you and you think you are ok.. But you better
+watch him.. he's a shifty looking man.
+~
+49 4096 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4930
+D2
+~
+~
+0 -1 4921
+S
+#4923
+Along an aisle of Video games in Pizza Planet!~
+You are walking along an aisle of video games.  There are all the best games
+all around.  There are kids here and there racking up nice high scores. You
+look between the machines and notice that there is a large area between the
+aisles where the machines are pulled into a circle. You wonder if you might
+could squeeze in between the machines...
+~
+49 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4934
+D1
+~
+~
+0 -1 4936
+D2
+~
+~
+0 -1 4933
+S
+#4924
+DINOMART!~
+This is your ordinary food mart.  There isn't really anything here that you
+wouldn't find at your local gas station. There are cokes and cigerettes and
+overpriced items galore.  If you ask the guy behind the counter.. he just
+might be able to show you some skills.. you never can tell about people.
+~
+49 4096 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4919
+S
+#4925
+In Sid's backpack.~
+You seem to be in a large backpack.  There seems to be some other toys and
+things in this back pack.  There are a few notebooks here and you can tell by
+the way the backpack moves that you are not sitting on a stationery surface.
+There is a small amount of light coming through the teeth of the zipper.. so
+you know that wherever you are.. it's not dark.
+~
+49 0 0
+0d0+0 0 0
+D4
+This is the zipper in this backpack.. It's huge...Maybe if you open it just a
+bit....
+~
+zipper~
+1 -1 4929
+S
+#4926
+On the driveway of Sid's house.~
+This driveway runs the length of the house.  There are no cars sitting here
+and once again there are more toys here.  The people in the house next door
+appear to be moving today.. all you can hear is the sounds of the moving men
+carrying furniture out of the house.
+~
+49 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4948
+D2
+~
+~
+0 -1 4927
+S
+#4927
+In Sid's backyard.~
+This backyard looks like a war zone.  There is a sandbox here filled with the
+corpes of plastic army men that have been blown up.  There are more toys here
+that look like they have been dismantled and put back together with all the
+wrong pieces.  A picnic table sits in one corner of the yard while a shed
+occupies the other corner.
+~
+49 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4926
+D1
+~
+door~
+1 -1 4928
+S
+#4928
+In the kitchen of sid's house.~
+This kitchen is just like any other in any home .. anywhere.  There is a
+stove and a refrigerator.  There is a small table and chairs here where the
+family sits to eat.  On the refrigerator seems to be art work of some kind
+that the children brought home to their mother... You can tell that one child
+is a bit different just by the way all his pictures include blood and gore.
+~
+49 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4942
+D3
+~
+door~
+1 -1 4927
+S
+#4929
+Sid's bedroom.~
+You look like you have entered the bowels of hell.   There are posters all
+over the walls that look like some criminal was hired to decorate this room.
+There are burn marks on all the posters... this kid must be a pyromaniac.
+There are toys all around that look like they have been dismantled and thrown
+together with all the wrong parts.
+~
+49 0 0
+0d0+0 0 0
+D0
+This seems to be the only door out of here.. But watch out... There might be
+things out there that are willing to eat you alive...
+~
+door~
+1 -1 4944
+S
+#4930
+In the parking lot of PIZZA PLANET!~
+You are standing in a large parking lot.  The lot is full of cars and you can
+see people all around the parking lot moving towards the building.  The 
+front of the building is all lit up and is fashioned to look like a large
+hanger for space ships.  Above the door of this establishment is a sign 
+that says "PIZZA PLANET" and the door has a smaller sign on it that says
+"Air Lock - Enter here".  As you step up to the doors you can hear the 
+simulated whoosh sound of the doors. To either side of the door are 
+large mannequins dressed in costumes and animated to look like they are
+standing guard over the entrance.
+~
+49 12288 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4931
+D3
+~
+~
+0 -1 4922
+S
+#4931
+Just before the Airlock~
+You are standing in front of the airlock.  There are two large "guards"
+standing here guarding the entrance.  The guards are rather large being from
+some other planet.  Their large weapons are crossed over the large doors
+barring your entrance.. Wonder how you can convince them to let you in.
+~
+49 4096 0
+0d0+0 0 0
+D0
+
+~
+~
+1 -1 4932
+D2
+
+~
+~
+0 -1 4930
+S
+#4932
+Inside the airlock at PIZZA PLANET!~
+You finally made it past the guards.   You are standing in a long bare 
+hallway.. The walls are black and the light in here is terrible.  The only
+light in here at all are coming from some star shaped lights stuck in the 
+black ceiling like stars in a night sky.  To the north you will enter the 
+arcade.
+~
+49 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4933
+D2
+~
+~
+0 0 4931
+S
+#4933
+Just inside PIZZA PLANET!!~
+THIS PLACE IS GREAT!!  Have you died and gone to heaven?  NO way.. But
+it's close.  There are video games all around you.  Kids are playing the 
+games and beeping and buzzing their way to high scores.  Every few 
+minutes there are more announcements that sounds like lift off commands,
+but really are only announcements to tell you where to get your pizza. To 
+the north are a big circle of games that are all lite up.  And to the east 
+there is a HUGE CRANE game.  In the crane game you see scores of little 
+Plastic Aliens.. and you can have one.. For a small fee.
+~
+49 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4923
+D2
+~
+~
+0 -1 4932
+S
+#4934
+Behind some video games.~
+This is a large circle of empty space created when they made a big circle of
+the video games.  All you can see back here is the back of the video games
+and some tokens, Other than that.. just a lot of dust bunnies. The area is
+really long and full of lots of dust and debris.  Maybe you ought to just go
+out and look around at all the other games.
+~
+49 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4955
+D2
+~
+~
+0 -1 4923
+S
+#4935
+Inside the door of the crane machine~
+You are just inside the door of the crane machine.  This is where all your
+prizes drop once you snag em with the big claw.  All that is in here now is a
+little bit of dust. There isn't really much to see here.. But if you are
+really quiet you hear voices.. could it be the alien toys?
+~
+49 4096 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4936
+D5
+~
+~
+0 -1 4937
+S
+#4936
+In front of the crane machine.~
+You are standing in front of the crane machine.. You look inside and notice
+that it's full of lots of plastic alien toys.   Above the machine is a sign
+that says "Flight to mars: Departing now" so.. you assume that this game is
+just waiting for you to take home a pocketful of these little guys... Feel
+like trying your luck?
+~
+49 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4935
+D3
+~
+~
+0 -1 4923
+S
+#4937
+Inside the crane machine.~
+You are down inside the machine now and there are all kinds of toys all
+around you.  There really isn't much to see.. at the top of the machine there
+is a large shiny claw.  All the little aliens are moving around and looking
+up at the claw in anticipation.
+~
+49 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4938
+D4
+~
+~
+0 -1 4935
+S
+#4938
+Inside the crane machine.~
+You are down inside the crane machine now.  There are all kinds of toys all
+around you and they are shuffling around as much as they possibly can with
+the limited room there is.  The are all talking in hushed voices and looking
+up expectedly at the claw that hangs above.
+~
+49 4096 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4939
+D3
+~
+~
+0 -1 4937
+S
+#4939
+inside the crane machine.~
+You are standing down inside the crane machine.  There are all kinds of toys
+here and they are standing around looking up at the claw.  There is a door
+here that they use to fill up the game when all the toys are gone. The door
+appears to be locked.
+~
+49 4096 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4938
+S
+#4940
+Hanna's room~
+This is Sid's sister's room.  Hanna loves her babies.. She has a table set
+with lots of little tea cups and all her headless dolls.  Well her dolls
+weren't headless til Sid got his grubby little hands on em. There is a large
+canopy bed here and everything looks soft and sweet...except for the headless
+dolls.
+~
+49 0 0
+0d0+0 0 0
+D1
+This is the hallway... Going back out?
+~
+door~
+1 -1 4944
+S
+#4941
+T.V. Room~
+This is just a regular room.  The family has put a tv in here and just a few
+steps away from the television is a comfy easy chair.  Oh my Gosh.. someone
+is asleep in the easy chair.  There is a root beer can sitting on the floor
+and the t.v. is blaring some program.. Better get out of here before you wake
+Sid's dad.
+~
+49 0 0
+0d0+0 0 0
+D2
+This leads back out into the hallway.
+~
+door~
+1 -1 4947
+S
+#4942
+The Foyer~
+This is the foyer.  The floor is covered in a light brown tile.  You can see
+up the stairs from here and you can peek into the kitchen as well.  There are
+more toys sitting here and there.. They also look like they have either been
+blown or gnawed to bits.
+~
+49 0 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 4911
+D2
+~
+~
+0 -1 4928
+D4
+~
+~
+0 -1 4943
+S
+#4943
+On the stairs.~
+These stairs are pretty ordinary.. There is a window high above you and its
+open to let as much of the summer air in as possible.  There is carpet on the
+stairs to keep people from slipping and a wrought iron hand rail to hold on
+to... The only difference is a dog that seems to be stuck in the middle
+taking a long nap.
+~
+49 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 4945
+D5
+~
+~
+0 -1 4942
+S
+#4944
+A Hallway~
+This is an ordinary hallway.  There is nothing very distinguishable about it.
+There are a couple of pictures here and there and the floor is carpeted.
+There a ppears to be some other doors further down the hallway.. Wonder what
+is behind those...
+~
+49 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4945
+D2
+~
+door~
+1 -1 4929
+D3
+This leads to Hanna's room.. There are hearts and flowers all over the door
+~
+door~
+1 -1 4940
+S
+#4945
+A hallway~
+You are further down the hallway.  As you look around you notice the stairs
+to the east and the window that hands far above them.  There is a wrought
+iron handrail here that prevents people from falling over.  It seem that
+there are a couple of doors here.. are you brave enough to investigate.
+~
+49 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4947
+D1
+This looks like a closet...hmmm Wanna open the door and check it out?
+~
+door~
+1 -1 4946
+D2
+~
+~
+0 -1 4944
+D5
+~
+~
+0 -1 4943
+S
+#4946
+closet~
+This is a typical upstairs closet.. It's full of old sporting goods and lots
+of christmas decorations that people aren't using in the middle of summer.
+Be really careful in here.. there is a bowling ball perched on a top shelf
+that looks to fall off the shelf and knock your head off.
+~
+49 0 0
+0d0+0 0 0
+D3
+This is the hallway.. Same old same old..
+~
+door~
+1 -1 4945
+S
+#4947
+A Hallway~
+You have come to the end of the hallway. There is only one door left down
+here and you can hear the sounds of a tv program coming through the door.
+There are a couple pictures hanging on the walls here as well.
+~
+49 0 0
+0d0+0 0 0
+D0
+This looks like it might be a family room or a tv room or something.. and
+besides you can hear the sounds of a tv coming from the other side.
+~
+door~
+1 -1 4941
+D2
+~
+~
+0 -1 4945
+S
+#4948
+Out on the street~
+You are standing out in front of the house you just came out of.  Looking
+back you are wondering how you got out of that house without leaving some
+parts of your body behind.  There is an enormous moving van sitting here and
+looking in it you see the belongings of the neighbors that are moving.
+Maybe.. if you hop in.. and hide.. you can catch a ride away from this insane
+house.
+~
+49 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4926
+D4
+~
+~
+0 -1 4949
+S
+#4949
+In the moving van~
+You are in a moving van.. There are tons of boxes in here and lots of
+furniture sitting around.  The van stops and you figure you better get out
+before those BIG moving men find you back here.
+~
+49 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3001
+S
+#4950
+Andy's room~
+This is the corner of Andy's room  where his bed sits.   There are toys all
+around you on the floor. Most of Andy's toys look to be well cared for.
+There is a large window here and you can look out over the yard you used to
+enter this house.
+~
+49 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4951
+D2
+~
+~
+0 -1 4906
+D5
+This is a cool bucket of plastic toy soldiers.. cool ... something you
+remember....
+~
+bucket~
+1 -1 4954
+S
+#4951
+Andy's room~
+You are just east ofeast of Andy's bed.  There is a toy box here that is
+brimming with toys. There is a large bookcase here that has games and books
+stacked on all the shelves. You wonder how a kid has time to play with all
+these toys.
+~
+49 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4952
+D3
+~
+~
+0 -1 4950
+D5
+Neato Bandito... It's a barrel of monkies... Have you played this game
+recently?
+~
+barrel~
+1 -1 4953
+S
+#4952
+Andy's room~
+This is the corner dedicated to Molly's crib.  There isn't much else here
+besides a crib with a mobile over it. There are some boxes with western scens
+painted on underneath but yoi figure that was just the best place to store
+them.
+~
+49 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4951
+D1
+There is a closet here.
+~
+closet~
+1 -1 4910
+D3
+~
+~
+0 -1 4906
+S
+#4953
+Inside a barrel of monkeys.~
+Oh wow.. You remember this game from when you were a kid.  You take the
+little monkeys with the bent arms and try and hook as many as you can.  Wow..
+why do all these monkeys sort of look rabid?
+~
+49 0 0
+0d0+0 0 0
+D4
+~
+barrel~
+1 -1 4951
+S
+#4954
+Bucket of soldiers.~
+You are standing knee deep in green plastic soldiers.  There are all around
+you with frozen looks on their faces.. Just when you think.. that they don't
+move.. you think you see one of them move.. Hmmmm ..wierd
+~
+49 0 0
+0d0+0 0 0
+D4
+~
+bucket~
+1 -1 4950
+S
+#4955
+By the pizza planet counter.~
+Wow.. cool here is where you get pizza and coke.  The guy behind the counter
+would just love to sell you something. So just type list and see what he has.
+There are big signs here that tell what he's selling and they are all
+inviting you to try their new pizza.. It's called Mars Fulla-meat pizza.
+~
+49 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4934
+S
+#4956
+On a street~
+This is just your average normal neighborhood.  There are people out in their
+yards and they are playing with kids and mowing lawns.  To the north is an
+average looking house and there is a sign here that you NEED to read.
+~
+49 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4900
+D3
+~
+~
+0 -1 3059
+E
+sign~
+HI everyone, Welcome to Toy Story.  This zone is strictly for newbies.  In
+building this zone.. we were sure to make the mobs killable and that the zone
+would be incredibly newbie friendly.  All the eq in this zone is geared as
+leveling eq.. But remember.. This is eq is GOOD eq for newbies and it will
+help you level.. But it's not eq you can keep forever *THIS EQ WILL DISAPPEAR
+FROM YOUR BODY AT LEVEL 25*  So play the zone ..Enjoy the exp (it should get
+you to level 10 or above if you kill everything) and be sure to look for
+guildmasters in there to help practice your skills.. And If you see Andy's
+mom at the beginning of the zone.. she has a very special prize for you to
+help you through the zone.  :) Have fun.. this is my gift for newbies
+everywhere.. Teddy
+~
+S
+$

@@ -1,0 +1,392 @@
+#25500
+Magnetic Shield Key~
+a key to the magnetic shield~
+A small flat key with a large hole in one end is here.~
+~
+18 4 3 0
+0 0 0
+2 0 0 0
+2 0 0
+#25501
+Emperor key~
+the Emperor's key~
+An irregular shaped key lies here.~
+~
+18 4 4097 0
+0 0 0
+3 0 0 0
+3 0 0
+#25502
+reactor key~
+a reactor key~
+A key glowing with an intense light is here.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+2 0 0
+#25503
+hat helmet funky odd~
+a naval troopers helmet~
+A large black helmet with a huge visor.  It is very large and very bulky.~
+~
+11 0 17 0
+0 0 0
+0 0 0 0
+10 1000 0
+A
+17 -2
+A
+2 -2
+#25504
+force pike long thing~
+a Force Pike~
+A long pike made of an unknown material is here.
+~
+~
+5 1183747 8193 0
+0 0 0
+0 4 5 11
+15 10000 0
+A
+23 -2
+#25505
+robes red neato crimson~
+Flowing red robes~
+A pile of red cloth-like stuff is lying here.
+~
+~
+11 426496 1025 0
+0 0 0
+6 0 0 0
+10 20000 0
+A
+16 -2
+A
+10 10
+#25506
+fat smelly cuban cigar~
+a smelly cigar~
+A big fat cuban cigar is lying here.~
+~
+1 0 16385 0
+0 0 0
+0 0 -1 0
+1 500 0
+A
+7 10
+A
+4 -4
+A
+16 -2
+#25507
+bun buns hair headphones earmuffs~
+Hair Bun Headphones~
+A pair of odd loking earmuffs are lying here
+~
+~
+9 8695810 17 0
+0 0 0
+2 0 0 0
+5 2500 0
+A
+17 2
+A
+18 1
+#25508
+globe force~
+the Force~
+A large glowing globe is floating here.
+~
+~
+1 966689 16385 0
+0 0 0
+0 0 -1 0
+3 1000000 0
+A
+13 3
+A
+10 25
+#25509
+force globe~
+the Force~
+A small glowing globe is floating here.
+~
+~
+1 700450 16385 0
+0 0 0
+0 0 -1 0
+5 500000 0
+A
+17 3
+A
+18 1
+A
+16 -4
+#25510
+vader bio suit~
+Vader's Bio Suit~
+A suit of black armor with a neat respirator is lying here.
+~
+~
+11 8534018 9 0
+0 0 0
+0 0 0 0
+15 1000 0
+A
+17 2
+A
+18 2
+A
+9 20
+A
+16 -4
+#25511
+emperor's robes cloth~
+the Emperor's Robes~
+A large pile of dark cloth is lying here.
+~
+~
+9 10414113 1025 0
+0 0 0
+10 0 0 0
+15 1000 0
+A
+10 20
+A
+13 4
+#25512
+boots footwear captain~
+Captain's boots~
+A pair of spit polished boots lay here.
+~
+~
+9 51280 65 0
+0 0 0
+3 0 0 0
+5 12345 0
+A
+12 30
+A
+17 3
+#25513
+captain's rank pin~
+Captain's Rank~
+A pin that indicates the rank of captain is here.
+~
+~
+8 0 1 0
+0 0 0
+0 0 0 0
+2 50000 0
+#25514
+Medal moff Tarkin~
+Tarkin's Medals~
+A bunch of Medals from the Grand Moff lies here discarded.~
+~
+9 8401113 5 0
+0 0 0
+5 0 0 0
+1 56789 0
+A
+18 2
+A
+11 10
+#25515
+trash garbage container~
+a large pile of garbage~
+A large pile of garbage is here.
+~
+~
+15 0 0 0
+0 0 0
+20000 5 0 0
+2000 0 0
+#25516
+low-slung low slung holster han solo~
+low-slung holster~
+Han Solo's holster lies here forgotten.~
+~
+9 128 33 0
+0 0 0
+5 0 0 0
+10 0 0
+A
+4 2
+A
+12 -20
+A
+2 2
+#25517
+sink water~
+a sink~
+An ancient cast iron sink is here leaking water.~
+~
+23 0 0 0
+0 0 0
+30000 30000 15 0
+5000 100 0
+#25518
+key exit~
+the exit key.~
+A key with a big exit sign is here.
+~
+~
+18 4 2049 0
+0 0 0
+0 0 0 0
+1 0 0
+#25519
+sleek blaster~
+a sleek blaster~
+A sleek blaster is lying here unattended.
+~
+~
+5 131648 24577 0
+0 0 0
+0 4 5 0
+5 10000 0
+A
+11 10
+A
+17 2
+#25520
+pen wand dignitary ~
+Dignitary's Wand~
+A small pen looking thing with symbols on it is lying here.
+~
+~
+3 180256 16385 0
+0 0 0
+25 30 30 38
+5 2000 0
+#25521
+necklace onyx dignitary's~
+Dignitary's Necklace~
+An onyx necklace is lying here in the dust.
+~
+~
+9 0 5 0
+0 0 0
+2 0 0 0
+5 20000 0
+A
+7 10
+A
+10 10
+#25522
+sabre weapon light lightsabre darkside~
+the light sabre from the Darkside~
+A powerful glowing weapon is foolishly left on the ground!~
+~
+5 180737 8193 0
+0 0 0
+0 8 3 3
+2 10000 0
+A
+18 4
+A
+13 3
+#25523
+key card~
+Falcon's key~
+This small key card is used to open the ramp to the Millenium Falcon.
+~
+~
+18 4 16385 0
+0 0 0
+25523 0 0 0
+1 0 0
+#25524
+diode~
+a diode~
+A diode has been thrown out with the rest of the trash~
+~
+25 65672 16385 0
+4 3 0
+50 0 2 0
+1 40 40
+A
+16 -4
+A
+14 1
+#25590
+arms tom servo~
+Tom Servo's unsuable arms~
+Looks like Tom Servo has rejected his arms again.~
+~
+11 9228288 257 0
+0 0 3
+0 0 0 0
+5 1200 1200
+A
+2 -2
+A
+16 -15
+A
+17 -2
+E
+tom servo arms~
+These can be described as white, plastic hands attached to Slinkies.
+~
+#25591
+mike nelson jumpsuit~
+Mike's jumpsuit~
+Yuck, it's a tacky green jumpsuit with the name Nelson printed on the pocket.~
+~
+9 0 9 0
+32 8 0
+5 0 0 0
+1 0 0
+A
+2 2
+A
+4 1
+A
+5 1
+A
+6 -3
+#25592
+tv frank curl~
+TV's Frank's curl~
+A curl of hair lies here. TV's Frank is dead so he doesn't need it anymore.~
+~
+11 2048 17 0
+0 16 0
+0 0 0 0
+2 500 500
+A
+16 -4
+A
+17 1
+A
+18 1
+A
+14 3
+#25593
+cheesy movie~
+cheesy movie~
+A cheesy movie, the worst I can find.~
+~
+9 8696320 513 0
+0 0 0
+7 0 0 0
+7 3000 3000
+A
+18 3
+#25594
+Clayton forrester lab green coat~
+a Green Lab Coat~
+Dr. Forrester left his lab coat, it must be Wash Day at Deep 13.~
+~
+25 2624 1025 0
+0 0 0
+50 0 1 0
+1 0 0
+A
+10 10
+A
+11 10
+A
+18 2
+$

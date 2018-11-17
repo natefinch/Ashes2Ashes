@@ -1,0 +1,863 @@
+#8400
+watchman watch guard cityguard member waterdeep~
+a member of the Watch~
+A member of the Watch is patrolling the streets
+~
+The watchman is a sturdy-looking, battle-hardened warrior, who is just as
+accustomed to battling monsters in defense of Waterdeep as he is roughing
+up the petty scum like you who hang around the city to make trouble.
+~
+2057 0 800 W3
+25 15 10 6d10+300 3d6+5
+10000 24975
+8 8 1
+18 0 13 13 13 16 0
+1 2 2
+100 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#8401
+guard cityguard waterdeep member~
+a member of the Guard~
+A member of the Guard is here, standing watch over the citizens
+~
+The cityguard may not be experienced in combat, but he is well-equipped and
+well trained. He eyes you with suspicion and puts a hand to his weapon as you
+look at him. You have to understand, he's trained to pick out potential
+trouble-makers and criminals like yourself. No offense! He's just doing his
+job.
+~
+2057 0 600 W3
+18 10 10 6d8+250 2d8+4
+5000 20775
+8 8 1
+17 0 13 13 13 15 0
+1 2 2
+100 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#8402
+jailor~
+the jailor~
+A jailor sits here, with his back up against the cell door
+~
+The jailor looks to be the lazy sort. Keeping "guard" on drunken prisoners
+while having several members of the Watch around all the time isn't the
+most taxing job in the world. The jailor has obviously been in better shape
+in his life. The flab of old muscles, long since replaced by fat, is easily
+seen. In his younger days he probably would have been a force to be
+reckoned with, but now he seems a bit ridiculous. You wonder if this job
+wasn't some sort of political appointment...
+~
+14347 0 500 W3
+30 18 3 10d10+1400 8d4+15
+5000 109125
+5 5 1
+18 0 13 13 6 18 0
+17 3 2
+30 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#8403
+lothar drunk adventurer demon~
+the odd-looking drunken adventurer~
+An odd-looking, drunken adventurer is screaming to be released
+~
+This female adventurer is an odd one indeed. She has horns growing from
+the top of her head, and her eyes glow a dull red, as well as a set of
+leathery wings folded neatly behind her back. When she notices you staring,
+she explains that she had been an elven man, but a foul atrifact altered
+her form, er his form...whatever. The gender change was a result of a 
+different accident. *sigh* yup, definitely an adventurer.
+    Regardless of her gender, and the fact that shee looks like a demon,
+she's built like a linebacker, and could probably rip you in two. As drunk
+as she is, you wonder if it wouldn't be a good idea to ask about being
+moved to another cell.
+~
+10251 16843784 100 W3
+40 30 -5 10d10+1600 10d5+4
+1000 182050
+8 8 2
+13 0 13 13 13 13 0
+20 3 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8404
+yxylu priest cleric adventurer ridiculous~
+the ridiculous-looking priest~
+A ridiculous-looking adventuring priest is wandering around wearing a pot
+~
+This has to be the strangest priest you have ever seen. He's wearing a pot
+on his head as if it were some sort of helmet, and carrying a chicken
+under each arm. If he is any indication of the priests around these parts,
+you pray that you don't need any healing from the locals.
+~
+47305 132232 800 W3
+30 10 -8 10d10+1400 4d6+5
+15000 291000
+8 8 1
+13 0 13 18 13 13 0
+10 2 2
+-80 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#8405
+maysrill scholar mage wizard retired adventurer~
+a retired adventuring wizard~
+A retired wizard sits here, reading an ancient book on some obscure topic
+~
+   When you first look at him, you think he's one of those foolish scholars
+that wouldn't know the first thing about the real world if it ran up and
+breath-weaponed him. But when he notices you looking at him, he fixes you
+with a quick glare, and in a split second you know that he has sized you
+up. You suddenly stop thinking of his worn robes as those of a isolated
+scholar, and realize that they are the well-worn robes of a powerful,
+    Seeming to have dismissed you as any possible threat, he goes back to
+reading his book.
+~
+321611 1160 -299 W3
+81 60 -11 40d9+4800 10d3+40
+30000 750000
+8 8 1
+15 0 18 17 18 18 0
+8 2 2
+-110 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8406
+Khelben Blackstaff~
+Khelben~
+Khelben grumbles and at you and looks up from his spell-book
+~
+The Lord Mage of Waterdeep:
+   Khelben is one of the most powerful mages in the world, and he acts
+like it. Though he's dressed only in a simple, white, house robe, his
+physical presence is intimidating. Far from being frail and weak, he is
+a large, robust man, with a thick beard that is only beginning to show signs
+of graying; though there are rumors that he is really over 200 years old.
+   His youthful appearance is due to the fact that he is one of Mystra's
+Chosen. A small number of Mystra's mortal followers hold within them
+a small portion of her divine power, keeping them from aging as fast as
+other mortals, as well as protecting them from mental attacks.
+   Khelben's nickname, "Blackstaff," comes from the staff of power he made,
+and named The Blackstaff.
+~
+61707 132136 950 W3
+127 77 -19 10d10+15000 12d7+40
+50000 1000000
+8 8 1
+16 0 18 16 13 17 0
+8 2 0
+-190 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8407
+Laeral mage~
+Laeral~
+Khelben's wife, Laeral, stands here teaching the apprentices
+~
+   Laeral is one of the Seven Sisters, a group of women who have chosen to 
+follow Mystra, and are among Her Chosen. As such, all of them appear
+to be much younger than the hundreds of years they have lived.
+   Not to be overshadowed by he husband's wizardry, Laeral is an archmage
+in her own right.
+~
+55435 16843784 700 W3
+80 59 -19 20d49+4500 10d5+20
+20000 600000
+8 8 2
+10 0 13 13 13 13 0
+8 2 0
+-190 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8408
+apprentice mage wizard~
+the apprentice~
+An apprentice is listening attentively to his teacher
+~
+This newbie mage is unarmed and doesn't seem to be too dangerous
+~
+2187 8 0 W3
+15 0 10 5d99+0 1d20+0
+10 30000
+8 8 1
+13 0 13 13 13 13 0
+8 2 0
+100 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#8409
+serra priest priestess adventurer adventuress~
+a priestess of Mystra~
+A priestess of Mystra kneels in prayer to her goddess
+~
+This retired adventuring priestess has taken up a more active role in the
+church of the Lady of Mysteries. Though she seems content to remain a
+productive member of society, her calm bearing around dangerous people
+like yourself shows that she hasn't lost the "edge" that keeps one's 
+skills from deteriorating. Before you think of attacking her, remember:
+she is a priestess of the goddess who grants the power of all mages...
+~
+45067 1192 800 W3
+35 50 -10 12d12+1500 5d8+25
+10000 378720
+8 8 2
+13 0 8 18 13 13 0
+8 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8410
+torav adventurer shady character~
+a shady character~
+A shady character hides in the shaows
+~
+This guys seems to want to keep out of sight at all costs. The thieves
+and cutthroats here seem to be perfectly willing to leave him alone too.
+The points on his ears show that he carries some elven blood in him
+which explains why his eyes glow a dull red in the darkness.
+ An interesting fetish hangs from his neck, and he keeps it guarded with
+one hand constantly. Perhaps it's safety is the reason he is trying to keep
+hidden.
+~
+272399 16909312 -400 W3
+35 20 -8 1d100+1199 20d2+9
+5000 149940
+8 8 1
+13 0 13 13 17 13 0
+8 2 0
+-80 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8411
+tashia beautiful elven adventurer adventuress singer bard~
+an elven bard~
+A beautiful elven bard sings a haunting melody.
+~
+She's a welcome relief to look upon for weary travellers. She also seems
+to be making plenty of money, judging by the number of coins the partons
+are throwing to her. But like many of the people here, she just seems to be
+stopping here to rest from a long journey. Like all adventurers, she
+doesn't seem to like staying put.
+~
+4239 1024 100 W3
+25 10 -3 10d10+1000 8d4+4
+15000 126600
+8 8 2
+13 0 10 13 17 13 0
+8 2 0
+-30 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#8412
+thief~
+a thief~
+A thief sees you enter the hideout and attacks
+~
+They stab first, ask questions later
+~
+2095 786432 -500 W3
+20 15 10 8d50+0 12d1+30
+1200 15300
+8 8 0
+13 0 13 13 13 13 0
+7 2 0
+100 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 10
+~
+#8413
+troll~
+a troll~
+a disgusting troll lumbers toward you
+~
+The troll looks remarkably like a troll. It wants to eat you.
+~
+286760 1024 -350 W3
+50 39 3 20d20+1200 8d6+25
+200 105750
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+30 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#8414
+orc~
+an orc~
+ an orc makes a feeble attempt at an ambush, but you spot it easily
+~
+The orc looks remarkably like an orc. It wants to eat you.
+~
+16553 1024 -200 W3
+5 10 10 7d13+250 1d8+10
+8 22425
+8 8 0
+13 0 13 13 13 13 0
+5 2 0
+100 0 4 0 0 0
+85 85 85 85 85
+0 0 0
+6 10
+~
+#8415
+barbarian warrior~
+a barbarian warrior~
+a barbarian warrior watches you warily, wondering if you have honor
+~
+The barbarian looks exactly like a barbarian. He doesn't look like he wants
+to eat you though *phew*
+~
+2312 0 300 W3
+40 25 5 10d10+1400 10d9+5
+500 109125
+8 8 1
+18 50 13 13 16 13 0
+0 3 0
+50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8416
+foreign foreigner mage wizard man wybaar~
+a foreign mage~
+a foreign-looking mage wanders the city.
+~
+   Dressed in white robes uncommon for wizards of this area of the North,
+this wizard stands out in a crowd. In fact, his whole demeanor suggests
+that he's not from around these parts. Since he is most definitely an
+adventurer, it wouldn't surprise you to find out that he's not from this
+world (some DM's let you get away with anything these days).
+~
+59469 65544 750 W3
+40 5 -2 10d10+1401 3d6+8
+50000 174720
+8 8 1
+13 0 18 13 13 13 0
+8 2 0
+-20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8417
+hawker vendor man street~
+a hawker~
+a street vendor is shouting about his wares at the top of his lungs.
+~
+   Don't you just hate these guys?! They seem to be the only people
+who never get a sore throat from too much yelling, and they're the ones
+you most _want_ to have a sore throat. He continually yells out claim
+after claim about whatever he is selling (he's a bit vague about what it
+actually is), and hardly pauses for breath. From his well-tailored clothes,
+however, you realize that he's doing good business (people must pay
+him to shut up).
+~
+16584 32 -100 W3
+40 15 4 10d10+400 10d2+3
+20000 34125
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8418
+street performer man mime~
+a mime~
+a street performer is here, working the crowd.
+~
+  You have trouble seeing the performer through thecrowd that's watching
+him. Then you notice it...his face is painted white, and he's not talking,
+just gesturing with his hands. It's a MIME!! As your rage boils at the
+thought of such a being, he notices that evil, psychotic glint in your
+eyes...he knows you've got to try to kill him (principles and all). The
+mime starts to construct an invisible barrier with his hands (looks like
+he's definining the walls of a box).
+~
+57354 0 200 W3
+3 0 -100 5d5+5 5d5+5
+5 75000
+8 8 1
+18 0 18 18 18 18 0
+0 2 0
+-1000 0 2 0 0 0
+90 90 90 90 90
+16 0 0
+6 0
+~
+#8419
+travelling merchant traveller man~
+a travelling merchant~
+a travelling merchant is bringing foreign goods to trade.
+~
+   Fine clothes, bulging purse, oversized waistline...yup, it's a merchant
+all right. The bane of all adventurers: they call the watch when robbed,
+charge you for buying things, and just generally provide annoyance
+to anyone used to working outside the normal corporate power structure.
+If it weren't for the fact that they are rich enough to afford bodyguards,
+adventurers would most likely have hunted them to the brink of extinction
+centuries ago.
+~
+16588 0 -299 W3
+30 30 3 10d10+1000 5d5+10
+35000 79125
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#8420
+merchant cormyrian fat man~
+the merchant~
+A fat Cormyrian merchant, smiles as you enter his shop.
+~
+   This portly gentleman seems to have carved out quite a niche for
+himself in the area of magic-sales. His clothes are exotic, and look
+somewhat mystical, though you're fairly certain that's only for show.
+He seems friendly enough, and willing to help you shop. Just be careful,
+he didn't become successful by letting adventurers walk off with cheap
+deals.
+~
+319498 40 0 W3
+127 100 -100 1d1+29999 100d100+100
+381000 0
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8421
+man clerk~
+a clerk~
+A clerk is here, ready to sell you what you need.
+~
+   This little man is the model of efficiency. He is knowledgeable on
+every subject you could possible ask about...in the area of dry goods.
+Just let him know what you need, and he can get you anything...as 
+long as it's on the list of stuff the store sells.
+~
+319498 40 0 W3
+127 100 -100 1d1+29999 100d100+100
+381000 0
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8450
+drizzt drow dourden ranger~
+Drizzt Do'Urden~
+The drow ranger, Drizzt Do'Urden, watches you carefully
+~
+This is the legendary drow ranger, Drizzt Do'Urden. Born as the second son
+of the ninth house of Menzoberranzan, Daermon N'a'shezbaernon, he was
+raised in one of the harshest environments know to sentient beings. 
+Though he was brought up by a race of killers, Drizzt had a sense
+of honor, taught to him by his father, and weapons-master, Zaknafein
+Do'Urden. Drizzt left the cruelty of his race behind and fled to the Underdark,
+where everyday survival is a struggle, and lived there for a decade. He
+eventually made his way to the surface where his honor and
+abilities won him acceptance with his friends here in Mithril Hall. Don't
+be fooled by his slender appearance, for no one has lived who could
+defeat Drizzt in single combat.
+~
+36879 16778240 1000 W3
+127 95 -38 12d10+8000 4d5+65
+23 990000
+8 8 1
+14 0 17 18 18 12 0
+19 2 2
+-380 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#8451
+guenhwyvar~
+Guenhwyvar~
+Drizzt's panther ally, Guenhwyvar, awaits her master's call
+~
+Big
+Powerful
+Loyal
+Guenhwyvar has served Drizzt loyally since he released her from enslavement to 
+an evil drow mage named Masoj Hun'ett
+~
+301131 656446 1000 W3
+51 40 -15 1d1+3999 6d8+20
+0 300000
+8 8 2
+18 0 18 18 18 18 0
+4 3 3
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8452
+wulfgar~
+Wulfgar~
+Wulfgar stands here, brooding
+~
+This young barbarian warrior is very different from his people. He was taken
+prisoner by Bruenor after a battle, and as raised to manhood among the dwarves.
+He worked in the mines and forges of the dwarven settlement in Icewind Dale,
+and his strength grew to a level unheard of among humans.
+    Having found a soft spot in Bruenor's heart, the dwarf crafted Aegis-Fang
+and gave it to Wulfgar - an extraodinary gift, given the strong enchantments on
+the hammer. When Bruenor set out on his quest to find Mithril Hall, took up
+his hammer and went along, eager to find adventure.
+   Far from being a brutish warrior, Wulfgar learned to fight cunningly,being
+taught by the best, Drizzt Do'Urden. At times it seems as if his former teacher
+is the only one who could still best him.
+~
+19245129 541328424 700 W3
+150 87 -35 50d90+14000 14d10+80
+12000 1000
+8 8 1
+25 100 14 16 20 18 0
+20 3 0
+-350 0 10 500 25 25
+10 10 10 10 10
+0 0 63
+6 0
+~
+#8453
+bruenor battlehammer king~
+Bruenor~
+Bruenor Battlehammer, 8th King of Mithril hall, stands here
+~
+   As tough as the mountain stone and twice as stubborn. Bruenor has survived
+ordeals that would have killed orges, and walked away every time. His gruff
+demeanor and the battle scars, including a missing eye, tell you in no
+uncertain terms that this is not the dwarf to make an enemy of.
+    The last living survivor of the dwarves' flight from Mithril Hall, his
+lifelong ambition was to reclaim his homeland, and his birthright as king.
+Little more than a lad when he last saw the Hall, his set out on a quest to
+first find, then reconquer Mithril Hall. Along with Drizzt, Wulfgar, and
+Regis, he scoured the northlands until he found it.
+    Now, as the eighth King of Mithril Hall, Bruenor has lost none of his
+fighting edge. 
+~
+264521 1024 600 W3
+115 60 -20 12d30+12000 8d4+35
+75000 1000000
+8 8 1
+17 0 13 13 13 18 0
+17 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8454
+catti cattibrie girl daughter~
+Catti-brie~
+Bruenor's adopted daughter, Catti-brie, smiles at you
+~
+   Bruenor's adopted human daughter, Catti-brie was raised by the dwarves of
+clan Battlehammer as one of their own. Despite being raised by gruff, stern
+dwarves, Catti-brie still managed to keep a cheerfu l attitude. It was her
+that introduced Drizzt to Bruenor, since she was not predjudiced against the
+drow because of his race.
+    Catti-brie appears out of place among the dwarves. A young woman now, she
+has beatiuful auburn hair and deep blue eyes. many who first meet her are
+surprised by her beauty, expecting a girl raised by dwarves to look a little
+more dwarf-like. Appearances aside, her fiery temper and blunt honesty betray
+her parenting. She has also learned to defend herself, being taught by Bruenor
+himself. 
+~
+4232 1024 1000 W3
+56 50 -15 18d10+2000 1d12+20
+10000 157425
+8 8 2
+13 0 16 18 15 13 0
+0 2 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8455
+regis halfling~
+Regis~
+That lazy halfling, Regis, is wandering around
+~
+Like all members of his unambitious race, he prides himself on his ability to
+do the least amount of work he can get away with. Consequently, he spent
+his early years as an up and coming thief on the streets on Calimport. But,
+when he "received" a "gift" from his guildmaster, an invaluable magical gem,
+he was forced to flee to the lands of the North.
+     He found a home in the cities of Ten-Towns, beyond the boundaries of
+civilization. He also made a friend of Breunor Battlehammer, the leader of a
+small dwarven clan. When Breunor set out with Drizzt and Wulfgar, Regis
+accompanied them on their journey....to find Mithril Hall.
+     With the success of that quest, he was welcomed to stay with the
+dwarves in their reclaimed ancestral home.
+~
+141 263168 400 W3
+25 20 2 20d2+400 4d4+8
+25000 32250
+8 8 1
+13 0 13 13 17 13 0
+5 1 0
+20 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#8456
+regis artemis entreri assassin halfling~
+Artemis Entreri~
+That lazy halfling, Regis, is wandering around
+~
+Wait! This isn't Regis!!!!
+     The master assassin, Aremis Entreri, has used a magical mask to take Regis'
+place. Despite the fact that he appears as a halfling, he is actually a human, and
+a deadly one. Sent the the master of the thieves' huild in Calmiport, Pasha Pook,
+he is hunting for Regis...to answer for stealing the magical gem he now has.
+    However, Entreri is a master swordsman, and ever since his first encounter
+with Drizzt, he has become obsessed with proving himself to be the drow's
+better in combat. Even his mission to capture Regis has been distorted toward
+this end...he wants Regis as bait to lure Dizzt out.
+    The irony of Entreri's quest is that every time he faces Drizzt, he loses more
+of his superiority, for he narrowly escaped death at Drizzt's hands several times.
+    Entreri is good.......But Drizzt Do'Urden is the true master.
+~
+10253 1024 -900 W3
+85 45 -8 1d1+3999 6d3+45
+35000 300000
+8 8 1
+15 0 16 13 18 13 0
+7 2 0
+-80 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#8457
+thibbledorf pwent battlerager battle rager wild~
+Thibbledorf Pwent~
+Thibbledorf Pwent, the most wild battlerager, growls at you menacingly
+~
+This is perhaps the most offensive being you have ever encountered.
+    His razor-sharp, spiked armor is greased thoroughly, but still creaks and
+squeals, grating on your nerves. He smells worse than any 10 dwarves you've
+met, and it's seems a safe bet that he has _never_ bathed. His personality
+also leaves a lot to be desired. He is crude, vulgar, and bluntly honest, telling
+you exactly how little he thinks of you.
+   However, he seems to be a formidable oppenent: his armor is composed of
+razor sharp bands of steel, designed more to slice an enemy to ribbons than to
+defend him. At every join and seeming every possible point, spiked portrude
+from his "armor," and his ehlmet serves simple to hold in place the 2 foot
+spike adorns the top of his head.
+    Only his fanatical loyalty (and the fact that he fights better than any in the
+Hall, save Drizzt) keeps him tolerated.
+~
+325641 16908288 400 W3
+127 79 5 100d100+8000 10d8+50
+8 1000000
+8 8 1
+17 0 13 3 13 18 0
+18 2 0
+50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8458
+shimmergloom dragon shadow worm wyrm~
+Shimmergloom~
+The corpse of a shadow dragon is lying here.
+~
+It isn't dead!!!
+    Shimmergloom, the great shadow dragon that routed clan Battlehammer from
+Mithril hall over 200 years ago, was though to be dead. Forgotten in the new
+found prosperity of the Hall, Shimmergloom has been recovering from its
+horrendous wounds.
+~
+280619 1032 -900 W3
+75 50 -15 1d1+5999 12d10+50
+120000 900000
+8 8 0
+13 0 13 13 13 13 0
+15 5 4
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8459
+dwarf dwarven miner~
+a dwarven miner~
+a dwarven miner extracts precious mithril from the mines
+~
+A sturdy-looking dwarf, this miner is preoccupied with finding mithril. Not
+that it's tough to find, but the miner won't be distracted from this job. You 
+start to wonder whether this dwarf is male or female... for non-dwarves, it's
+tough to tell.
+~
+6153 1024 700 W3
+40 25 2 20d100+1 5d5+10
+15000 75825
+8 8 1
+13 0 13 13 13 17 0
+17 1 0
+20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8460
+dwarf dwarven miner~
+a dwarven miner~
+a dwarven miner extracts precious mithril from the mines
+~
+A sturdy-looking dwarf, this miner is preoccupied with finding mithril. Not
+that it's tough to find, but the miner won't be distracted from this job. You 
+start to wonder whether this dwarf is male or female... for non-dwarves, it's
+tough to tell.
+~
+6153 1024 700 W3
+40 25 2 20d100+1 5d5+10
+15000 75825
+8 8 2
+13 0 13 13 13 17 0
+17 1 0
+20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8461
+general dwarf dwarven dagna dagnabit~
+General Dagnabit~
+General Dagnabit is here, looking for Bruenor
+~
+Having first met Bruenor when King Harbromme of Citadel Adbar sent 8000 troops
+to help Bruenor reconquer Mirthil Hall, Dagnabit stayed on after the victory
+as general of the Hall's army. It is his duty to make sure that the forces of
+the evil races of the Underdark don't gain entrance to Mithril Hall. He takes
+his position very seriously, and is constantly updating Bruenor as to the
+current state of the city's defense...much to Bruenor's annoyance. But
+Dagnabit does his job well, and Bruenor tolerates his overzealousness. 
+~
+5384 0 900 W3
+110 40 -10 50d50+6000 15d3+13
+20000 545625
+8 8 1
+13 0 13 13 13 17 0
+0 1 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8462
+soldier dwarf dwarven~
+a dwarven soldier~
+a dwarven soldier patrols the Undercity
+~
+A grim look of determination is fixed onto the face of this soldier. As the
+front line of defense against an invasion from the Underdark, he knows that he
+will be among the first to die in such a battle. He accepts his fate
+willingly, and hopes that he doesn't die until he has taken out a few of the
+invading scum. 
+~
+45321 1024 600 W3
+75 40 -5 14d10+1800 20d2+10
+18000 150160
+8 8 1
+13 0 13 13 13 17 0
+17 1 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8463
+dwarven dwarf smith mithril mithrilsmith~
+a dwarven mithril-smith~
+a dwarven mithril-smith shows off his latest work
+~
+A look of pride crosses this dwarf's face as he shows you the latest
+masterpiece he has forged. You're actually quite impressed by his skill, and
+if he is typical of the smiths in the city, the dwarves will soon be very
+rich. 
+~
+45320 1024 600 W3
+45 40 -5 14d10+1800 20d2+10
+18000 150160
+8 8 1
+13 0 13 13 13 17 0
+0 1 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8464
+buster bracer armorer dwarf dwarven~
+Buster Bracer~
+The dwarves' master armorer is at one with the god of craft
+~
+*DO NOT ATTACK HIM, YOU WILL DIE*
+  Buster is the greatest of the dwarven armorers, and right now he is being
+protected by Moradin, the dwarven god of craft. Buster's work must not
+be interrupted and Moradin will give him the power to slay anything that
+attampts to harm him.
+~
+34826 16778376 0 W3
+127 100 -100 1d1+29999 100d100+100
+0 0
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+$

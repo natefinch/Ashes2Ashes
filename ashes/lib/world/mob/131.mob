@@ -1,0 +1,634 @@
+#13100
+cap captain mercenary merc~
+the captain~
+The Captain of the Mercenaries is here, growling ferally at you.
+~
+ Snarling in his madness, the Captain of the Mercenaries looks up from
+his half-eaten fido.  You see that he is in the last stages of radiation
+sickness, but he moves like a drug-crazed killer: quickly and with a savage
+strength.  He seems to pause, as if trying to decide what to do.
+~
+10254 0 -440 W3
+14 7 -1 5d100+5 2d5+1
+425 9850
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#13101
+mercenary merc~
+the mercenary~
+A mutated mercenary is here, willing to work for anything.
+~
+He looks something like a nightmare you had last night.  He has very little
+hair, even less teeth, and the skin is oozing off his body in several
+different places.  You don't think you want to stick your valuable weapons
+into these remains of what used to be an elite killer for hire.
+~
+10252 0 -330 W3
+13 6 1 4d100+2 2d4+1
+300 2500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#13102
+fido~
+an irradiated fido~
+A glowing beastly fido is here.
+~
+Larger, and more deadly looking than it's pre-war counterparts, this fido
+looks at you with intimidatingly intelligent eyes.  It's fur is thick and
+bristly, and it's eyes glow with a luminescent green hue.  As you look at
+it, a tongue lolls out of its mouth, revealing dual rows of pointed teeth
+the size of carpenter's nails.  This is definitely not a normal dog...
+~
+9 0 -200 W3
+3 1 7 12d10+2 1d2+1
+30 400
+8 8 0
+18 0 17 15 14 15 0
+4 1 3
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#13103
+fido~
+a frozen fido~
+A glowing white frigid fido is here.
+~
+Larger, and more deadly looking than it's pre-war counterpart, this fido
+looks as if it is carved out of a block of blue-white ice.  It's eyes seem
+unusually intelligent, and they glow with a luminescent blue hue.  As you
+look at it, it exhales a puff of vapor that seems even colder than the air
+around you.  Even for the mutated fidos, this one is very strange...
+~
+2059 0 -200 W3
+3 1 7 12d10+2 1d2+2
+30 400
+8 8 0
+15 0 17 15 14 18 0
+4 1 3
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#13104
+fido~
+a transparent fido~
+A transparent beastly fido is here.
+~
+Larger, and more deadly looking than it's pre-war counterparts, this fido
+looks at you with intimidatingly intelligent eyes.  It's fur is thick and
+bristly, and it's eyes glow with a luminescent green hue.  As you look at
+it, a tongue lolls out of its mouth, revealing dual rows of pointed teeth
+the size of carpenter's nails.  This is definitely not a normal dog...
+~
+9 2 -200 W3
+3 1 7 12d10+2 1d2+3
+30 400
+8 8 0
+15 0 18 15 14 15 0
+4 1 3
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#13105
+fido~
+a sneaky fido~
+A sneaky glowing beastly fido is here.
+~
+Larger, and more deadly looking than it's pre-war counterparts, this fido
+looks at you with intimidatingly intelligent eyes.  It's fur is thick and
+bristly, and it's eyes glow with a luminescent green hue.  As you look at
+it, a tongue lolls out of its mouth, revealing dual rows of pointed teeth
+the size of carpenter's nails.  This is definitely not a normal dog...
+~
+9 786432 -200 W3
+3 1 7 12d10+2 1d2+3
+30 400
+8 8 0
+15 0 17 18 14 15 0
+4 1 3
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#13106
+mercenary merc~
+the mercenary~
+A mutated mercenary is here, willing to work for anything.
+~
+He looks something like a nightmare you had last night.  He has very little
+hair, even less teeth, and the skin is oozing off his body in several
+different places.  You don't think you want to stick your valuable weapons
+into these remains of what used to be an elite killer for hire.
+~
+2060 0 -330 W3
+13 6 1 4d10+200 2d2+5
+600 2500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#13107
+janitor~
+the Janitor~
+ A gaunt, sickly janitor is here, still trying to clean up.
+~
+ It appears the janitors are more closely related to cockroaches than was
+previously thought, as this one seems to have survived.  He ignores your
+gaze completely as he vainly attempts to do his job.  Unfortunately for him,
+the bodies seem to be moving, at least they seem to be moving to him...
+~
+2056 0 800 W3
+1 0 9 5d6+26 1d5+0
+34 625
+8 8 1
+9 0 13 13 9 9 0
+0 2 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#13108
+fido~
+a frozen fido~
+A glowing white frigid fido is here.
+~
+Larger, and more deadly looking than it's pre-war counterpart, this fido
+looks as if it is carved out of a block of blue-white ice.  It's eyes seem
+unusually intelligent, and they glow with a luminescent blue hue.  As you
+look at it, it exhales a puff of vapor that seems even colder than the air
+around you.  Even for the mutated fidos, this one is very strange...
+~
+2059 0 -200 W3
+3 1 7 12d10+2 1d2+3
+30 400
+8 8 0
+15 0 17 15 14 15 0
+4 1 3
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#13109
+skeleton skel~
+a skeleton~
+A skeleton is here, its empty skull grinning at you.
+~
+ This is the long-dead remains of one of the inhabitants of Midgaard.  As you
+study it, you notice a slight tremor begin to vibrate the bones of it's legs,
+and as you watch, it begins to move towards you, clawing the air hungrily.
+~
+136 8 0 W3
+8 4 5 5d10+100 2d2+1
+800 800
+8 8 0
+17 0 13 13 13 13 0
+0 2 1
+50 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#13110
+skeleton skel~
+a skeleton~
+A skeleton is here, its empty skull grinning at you.
+~
+ This is the long-dead remains of one of the inhabitants of Midgaard.  As you
+study it, you notice a slight tremor begin to vibrate the bones of it's legs,
+and as you watch, it begins to move towards you, clawing the air hungrily.
+~
+14 8 0 W3
+8 4 5 5d10+100 2d2+1
+800 800
+8 8 0
+17 0 13 13 13 13 0
+0 2 1
+50 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#13111
+peddler street Peddler Street~
+the street peddler~
+A street peddler is here selling junk.
+~
+ As you look at the filthy peddler your first urge is to turn and puke.  He
+has to be one of the filthiest things you have ever seen.  His clothes are
+torn and patched so badly that you couldn't guess at their origional colour
+even if they were clean.  The rest of him doesn't look that good.  You try 
+to keep downwind of him as much as possible.
+~
+2188 1024 -100 W3
+6 3 7 4d10+75 1d5+3
+500 600
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+70 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#13112
+cockroach humanoid man~
+a humanoid cockroach~
+A human-looking cockroach stands here on two legs.
+~
+ This has to be the most unusual creature you have ever seen.  It looks like
+you average cockroach, but it is as big as a man, and stands on it's legs
+and uses it's arms like a man.  Whether it was a cockroach or a man before
+the war, you cannot tell.  You decide that this place isn't all that safe
+for you.
+~
+8 1024 -500 W3
+10 5 5 5d10+170 1d4+3
+1000 1000
+8 8 0
+16 0 10 10 15 13 0
+0 2 2
+50 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#13120
+guildmaster master~
+the Guildmaster~
+The Mage Guildmaster is here, staring coldly at you.
+~
+The guildmaster looks older and more tired, but otherwise appears to have
+been unaffected by the war.  He is wearing fine magic clothing, and you notice
+a faint blue aura surrounding his body.  He is muttering unintelligible
+phrases under his breath, and you think he would just as soon turn you into a
+toad as not if he noticed you here.
+~
+2059 136 1000 W3
+60 25 -10 1d1+10000 1d8+50
+30000 380000
+8 8 1
+13 0 13 13 13 13 0
+8 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13121
+guildmaster master~
+the Guildmaster~
+The Guildmaster of Thieves is here, looking worn and wary.
+~
+Even though the Guildmaster of Thieves looks formidable, you can see that
+only his power has allowed him to survive this long.  His eyes are very
+bloodshot, and his skin has an unhealthy pallor to it.  But he still looks
+strong enough to take on anything.
+~
+2059 136 1000 W3
+60 25 -10 1d1+10000 1d8+50
+30000 380000
+8 8 2
+13 0 13 13 13 13 0
+7 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13122
+guildmaster master~
+the Guildmaster~
+The High Clericist, Guildmaster of Odin is here, weeping.
+~
+Dressed in the remains of his once beautiful clerical robes, this old man
+looks less like like a guildmaster, and more like a sad, tired old man.
+Regardless of that, his aura of power is undiminished, and he still looks
+very strong.  You reason that, if he's lasted this long, here, in this gods
+forsaken place, he must have some power left.
+~
+2059 136 1000 W3
+60 25 -10 1d1+10000 1d8+50
+30000 380000
+8 8 2
+13 0 13 13 13 13 0
+10 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13123
+guildmaster master~
+the Guildmaster~
+The Guild Master-at-Arms is here, hands resting on his broadsword.
+~
+This great knight is dressed in a magnificent suit of armor which is now
+scarred by countless battles and covered in blood.  You look into his eyes
+and see firm resolution to defend the guild to the death.  You don't think
+it would be wise to trouble him by asking him to teach a weakling like you.
+~
+2059 136 1000 W3
+60 25 -10 1d1+10000 1d8+50
+30000 380000
+8 8 2
+13 0 13 13 13 13 0
+20 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13124
+guildmaster master~
+the Guildmaster~
+The Guildmaster of Paladins stands here, trying to shine his armor.
+~
+ Trying to look as if nothing was amiss, the Guildmaster for the Paladins
+is here, vainly trying to scour the pits and crevaces in his armor that were
+caused by the radioactive fallout.  He's not having much sucess, but that
+hasn't stopped him from trying.  He barely acknowledges you as you enter
+and look him over.  He returns immediately to his polishing attempts.
+~
+2059 136 1000 W3
+60 25 -10 1d1+10000 1d8+50
+30000 380000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13125
+inventor~
+an inventor~
+The inventor is here, tinkering on a gadget
+~
+The inventor is fairly small but incredibly skilled with his hands.  He is
+completely bald and wears a pair of silver spectacles.  For a small fee, 
+he will allow you to enter his time machine and visit the future.
+~
+319498 1192 0 W3
+200 60 -100 0d0+30000 10d10+60
+0 0
+8 8 1
+13 0 18 18 13 13 0
+0 2 2
+-1000 0 0 1000 200 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13126
+mayor Mayor~
+the Mayor of Midgaard~
+The Mayor of Midgaard stands here, crying over his city
+~
+  The Mayor of Midaard managed to survive the holocaust somehow.  His
+clothes and overall appearance would suggest that he is not living 
+the comfortable life he was used to.  He is filthy like the rest of
+what is left of his city, but he seems to be in much better shape than
+he used to be.~
+286729 40 0 W3
+37 10 -4 1d1+3999 1d8+10
+1000 75000
+8 8 1
+18 100 13 13 13 13 0
+20 2 2
+-40 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13127
+Gambit gambit~
+Gambit~
+Gambit stands here, mourning the loss of everything he has fought for.
+~
+  Gambit appears to have given up all hope of life.  The radiation has
+destroyed the powers he used to have, and reduced him to a mere shadow
+of the man he used to be.
+~
+24584 0 0 W3
+50 57 -10 1d1+4999 5d5+20
+1000 75000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13128
+vampire lord vampirelord vampire-lord~
+the Vampire Lord~
+The Vampire Lord stands here, as dark as he ever was.
+~
+  You look at the Vampire Lord and notice he is in excellent shape.
+He must be one of the few that actually profited from the holocaust.
+You go to turn away, but his eyes catch yours, and hold them for a
+long time.  Then all of a sudden he flashes a smile at you with sharp,
+pointy teeth, and the spell is broken.
+~
+24585 168 -1000 W3
+127 80 -20 1d1+9999 12d10+75
+25000 750000
+8 8 1
+18 100 18 18 18 18 0
+13 2 1
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13129
+minotaur mahn tor mahn-tor~
+Mahn Tor~
+Mahn Tor is standing here.
+~
+  Mahn Tor was once the leader of the minotaurs that dwelled in the
+keep west of Midgaard.  He is the last of his kind, all of his
+brethren having been killed by the holocaust.  He will fight to the 
+death to keep the species alive.
+~
+17098761 553649288 0 W3
+145 90 -37 1d1+16999 18d11+70
+20000 10000
+8 8 1
+25 100 18 18 20 18 0
+18 4 2
+-375 9 8 500 25 25
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13130
+eric draven Eric Draven~
+Eric Draven~
+Eric Draven stands here, trapped between worlds.
+~
+  Eric Draven looks very much like the spirit he is.  He is still
+wearing his face paint and dark clothing, and has his guitar slung
+across his back.  Having avenged Shelly's death he now wanders the
+lands looking to be reunited with his love.
+~
+319497 16777344 1000 W3
+127 83 -27 1d1+14999 6d5+40
+10000 750000
+8 8 1
+18 100 18 18 18 18 0
+4 2 2
+-270 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13131
+jupiter Jupiter~
+Jupiter~
+Jupiter is here, wondering how his fellow gods could have done this.
+~
+  Jupiter was once the strongest of the Roman gods.  The only one
+of those immortal beings to survive the holocaust, he now wanders
+the wastelands, lost and lonely.
+~
+24584 0 0 W3
+80 68 -10 1d1+4999 10d3+20
+10000 80000
+8 8 1
+18 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13132
+king welmar kingwelmar~
+King Welmar~
+King Welmar is here, looking for his bodyguards.
+~
+  Once the leader of a proud kingdom, King Welmar has lost everything.
+His face shows only  sadness at the  loss, and a firm resolution to
+avenge the destruction of his realm.
+~
+17098761 553649288 500 W3
+150 90 -40 1d1+16000 30d5+75
+20000 50000
+8 8 1
+18 100 18 18 18 18 0
+17 2 2
+-400 5 8 300 25 25
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13133
+Hercules hercules~
+Hercules~
+Hercules stands here looking for another quest.
+~
+  Hercules looks as impressive as ever.  The mortal man deemed good
+enough to be admitted to the ranks of the gods appears to have survived
+the very gods that gave him that status.
+~
+17098761 553649320 750 W3
+150 90 -38 1d1+18000 22d10+55
+20000 50000
+8 8 1
+18 100 18 18 18 18 0
+18 2 2
+-380 0 8 250 25 25
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13134
+fido~
+an aggressive fido~
+A glowing beastly fido is here.
+~
+Larger, and more deadly looking than it's pre-war counterparts, this fido
+looks at you with intimidatingly intelligent eyes.  It's fur is thick and
+bristly, and it's eyes glow with a luminescent green hue.  As you look at
+it, a tongue lolls out of its mouth, revealing dual rows of pointed teeth
+the size of carpenter's nails.  This is definitely not a normal dog...
+~
+1833 0 -200 W3
+3 1 7 12d10+2 1d2+1
+30 400
+8 8 0
+18 0 17 15 14 15 0
+4 1 3
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 10
+~
+#13135
+glass monster glassmonster glass-monster~
+the Glass Monster~
+The Glass Monster sits here.
+~
+  You look at this impossible being and see nothing but a pile of molten
+glass formed in a vague man like shape.
+~
+319499 525450 1000 W3
+145 88 -38 1d1+18999 14d10+100
+100 50000
+6 6 0
+25 100 18 18 20 18 0
+18 5 0
+-380 10 8 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#13199
+barmaid woman~
+a barmaid~
+A barmaid is here ready to get you whatever you need.
+~
+You look at what has to be one of the most stunning women you have ever seen.
+She is wearing a long strapless black dress, with a long slit up the side
+revealing most of her long legs.  Her legs are well musculed from getting
+people like yourself more to drink.
+~
+8 0 0 W3
+0 0 0 100d50+1 0d0+0
+0 0
+8 8 2
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+$

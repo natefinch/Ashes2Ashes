@@ -1,0 +1,2392 @@
+#7000
+A muddy sewer~
+The smooth walls of the sewer tunnel gleam dully as they rise overhead to
+meet the arch of the ceiling. A thick and smelly muck rises around your feet
+splashing up to your calves as you walk, releasing you reluctantly with your
+every step. The stench of decay and stagnation fills the air here.
+~
+70 13 0
+0d0+0 0 0
+D2
+The sewer continues.
+~
+~
+0 -1 7001
+D4
+The outside world  is up.
+~
+~
+0 -1 3046
+S
+#7001
+A muddy sewer~
+This immense and dark drainage pipe is filled with enough mud that you are
+up to your knees in it. The ceiling stretches far about your head and it is
+amazing that a system of this size lurks beneath what is a relatively small
+town. The tunnel walls are so very smooth that they seem to almost have been
+melted out in one piece. The place smells of old muck and stagnant water.
+~
+70 9 5
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7000
+D2
+You see the muddy sewer continuing into the darkness to the south.
+~
+~
+0 -1 7002
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7002
+A muddy sewer junction~
+The smooth walls of the nasty sewer continue in several directions, floor 
+sloping slightly to the south. The mud clings to your legs as if it wishes to 
+keep you in its grip for posterity, releasing you with each step reluctantly. 
+The smells of stagnant water and of mildew are oppressive.
+~
+70 9 5
+0d0+0 0 0
+D0
+The muddy sewer stretches into the dark to the north.
+~
+~
+0 -1 7001
+D1
+East.  The muddy sewer leads into a bend that goes south.
+~
+~
+0 -1 7007
+D2
+South.  The muddy sewer ends in a mudhole that way.
+~
+~
+0 -1 7003
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7003
+A mud-filled depression~
+Faint and odd scratching noises echo in the high reaches of this dark place,
+making you shiver uncomfortably. The mud is deeper here and you sink up to
+your thighs, shuddering gratefully when your feet finally touch bottom. Just
+barely discernable in the center of the room is an odd-looking drainage pipe.
+~
+70 13 5
+0d0+0 0 0
+D0
+North.  The muddy junction lies in that direction.
+~
+~
+0 -1 7002
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7004
+A dark pit~
+At the edge of a deep pit, you look down into darkness. The same seamless 
+ceiling stretches overhead, occasional sounds echoing in its reaches. On the
+floor, a thin covering of muck makes the footing a bit precarious. The air 
+is moved by a small breeze which carries with an unidentifiable rank odor.
+~
+70 9 0
+0d0+0 0 0
+D1
+East.  The sewer leads into the sewer junction.
+~
+~
+0 -1 7009
+S
+#7005
+A muddy sewer~
+As you slog through this place, the mud clings to your legs as if it wishes
+to keep you here. It takes some concerted effort to lift your feet with each
+step. Though they are far away, the smooth walls of the sewer tunnel seem to
+move closer, making you feel a bit trapped. The muck smells stagnant.
+~
+70 9 4
+0d0+0 0 0
+D1
+East.  The mud stretches on into the darkness.
+~
+~
+0 -1 7011
+D2
+South.  There is even more mud in that direction than where you are now.  
+Incredible.
+~
+~
+0 -1 7006
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7006
+A muddy sewer~
+Slogging through a soupy, drippy, muddy mess sure takes a lot of energy. It 
+would be nice if there was a place to rest, but there isn't even a small ledge
+here. The walls are still almost as smooth as glass. They gleam dully in the
+small light available, unconsolingly. The reek of the muck makes you think
+longingly of a nice, warm tub filled with soapy water.
+~
+70 9 5
+0d0+0 0 0
+D0
+The muddy sewer pipe leads into a bend that goes east.
+~
+~
+0 -1 7005
+D1
+The pipe leads into a bend that goes south.  Interesting, there's mud on the
+floor there.
+~
+~
+0 -1 7012
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7007
+A muddy sewer bend~
+The smooth walls and ceiling of the sewer gleam dully in response to the 
+flickers of the light which you are holding. Faint scratching and thumping
+noises and the occasional splash echo out of the distant darkness, making
+you a bit uneasy. The musty smell of the muck and water that reaches your
+knees and seems to be trying to climb higher makes you cough uncomfortably.
+~
+70 9 5
+0d0+0 0 0
+D2
+The pipe leads into a intersection that goes south and east.  The floor here 
+is still covered in mud.
+~
+~
+0 -1 7008
+D3
+The pipe (still filled with mud) leads into a intersection that goes north 
+and south.  Interesting.
+~
+~
+0 -1 7002
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7008
+A muddy intersection~
+The stagnant and smelly mud grabs your feet as if it wishes to keep you. The
+unredeemed darkness deadens your spirits, leading you to silence rather than
+encouraging laughter. The smooth walls offer no ledge or handhold by which
+to pull yourself along and you find yourself wishing you had a stout staff on
+which to lean. Far away, the sounds of scratching ring faintly.
+~
+70 9 4
+0d0+0 0 0
+D0
+North.  The pipe goes into a bend with a load of mud all the way up the walls.
+The bend leads west.
+~
+~
+0 -1 7007
+D1
+East.  This way like a place for the annual mud festival, although the stench
+wouldn't allow any happiness at all.  The pipe leads into a bend that leads 
+north.
+~
+~
+0 -1 7014
+D2
+South.  There's less mud in that direction.  *smile*.  Your light doesn't 
+cover enough space for you to see much more than that it leads into some
+sort of junction.
+~
+~
+0 -1 7009
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7009
+A sewer junction~
+In the smooth ceiling which is high above your head, there is something 
+that looks to be an air shaft. It is small enough that, even if you could
+reach it, you still couldn't force your way through. The mud is deep here
+and you are happy each time your foot finds the solid rock bottom.
+~
+70 9 3
+0d0+0 0 0
+D0
+North.  Mud is the floor basis in that direction.  Yummy.
+~
+~
+0 -1 7008
+D1
+YYEEUUCH!  BOOH!  THAT looks like a nice place for creepy crawlies.
+~
+~
+0 -1 7017
+D2
+North.  This direction looks quite nice actually.  The pipe leads into 
+a bend that goes east.
+~
+~
+0 -1 7010
+D3
+A few yards ahead - away from this junction - there is a pit leading down,
+but the smell from there...>PHEWW<.
+~
+~
+0 -1 7004
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7010
+A bend in sewer pipe~
+The smooth walls of the sewer pipe curve and change direction, still without 
+a seam. They gleam faintly in the small light available. The smelly sludge 
+which coats the floor and walls to the level of your ankles makes you want to
+shiver in disgust. Sounds echo faintly in the distance, breaking the silence.
+~
+70 9 2
+0d0+0 0 0
+D0
+North.  You are staring into a huge junction with exits in all directions.
+~
+~
+0 -1 7009
+D1
+East.  The Pipe leads into utter darkness that way.
+~
+~
+0 -1 7018
+S
+#7011
+A muddy sewer pipe~
+At a dark intersection the pipe here arches higher in the center. The mud 
+here rises up to your knees again, holding on to your legs. Faint noises echo 
+in the high reaches, bouncing off the ceiling. The dark muck which holds on 
+to you sends up a noxious odor each time you succeed in freeing your feet.
+~
+70 9 5
+0d0+0 0 0
+D1
+East.  There's less mud in that direction, or that's your impression.
+~
+~
+0 -1 7024
+D2
+That way is lost in darkness, though you sense less mud in that direction,
+perhaps even a complete end to this sludge that surrounds you.
+~
+~
+0 -1 7021
+D3
+West.  The mud reaches that way too, all the way up the walls.
+~
+~
+0 -1 7005
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7012
+A bend in the muddy sewer~
+Faint noises echo in the dark reaches of the sewer, making you wonder what
+may be lurking there. The noises come from no identifiable direction. It is
+still quiet enough for the sounds of your breathing and of your feet freeing
+themselves from the muck ring hollowly here. A tiny breeze stirs the air.
+~
+70 9 5
+0d0+0 0 0
+D2
+South.  There's even more mud that way, incredible!  Although it looks
+like an intersection in the sewer system that leads east and south.
+~
+~
+0 -1 7013
+D3
+West.  All you can see, is that the pipe leads into a bend that goes
+north.  But there's less mud in that direction, however odd that sounds.
+~
+~
+0 -1 7006
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7013
+A muddy intersection~
+The clinging muck rises up to your hips. Luckily, there seems to be more 
+water in it here. The slightly thinner mixture makes it a little easier to
+walk. On the negative, splashes heard from not to far away makes one wonder
+what could be swimming here. The scent of stagnant water causes you to wish 
+that you had no sense of smell. It is unpleasant to say the least.
+~
+70 9 5
+0d0+0 0 0
+D0
+North.  Sludge and sediment fills this corridor of the sewer that leads
+into a bend going west.
+~
+~
+0 -1 7012
+D1
+East.  You can see absolutely nothing of interest in that direction (Maybe
+that's why it's so damn interesting.??) There's no mud in that direction
+either, GREAT!
+~
+~
+0 -1 7026
+D2
+South.  All you can see is more mud!  Although the pipe goes into a bend
+leading west.
+~
+~
+0 -1 7014
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+E
+sediment~
+It's NOT the kind of matter that would concern you too much, normally, but
+as you are in the middle of it, it just might become your main concern.
+REAL YUCKY!
+~
+S
+#7014
+A muddy sewer~
+The seamless walls of this drainage sewer gleam dully in the small light
+provided by the source that you hold. A small breeze stirs the air, brushing
+your nostrils with the acrid stench of the liquid muck through which you are
+walking. The liquid is cold, but with little current, it is very stagnant.
+~
+70 9 5
+0d0+0 0 0
+D0
+North.  Filled with mud, that place looks like an impassable intersection
+with pipes leading north and east.
+~
+~
+0 -1 7013
+D3
+West.  There's less mud that way, maybe you're on your way out of this foul
+place.
+~
+~
+0 -1 7008
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7015
+A strange raised opening~
+The deep muck here surrounds a raised area in the middle of the room. There
+is a huge opening in the center of it and metal bars implanted in the side of
+the hole lead down into the darkness. The walls here are smooth and seemless,
+almost looking as if they have been polished. The odors defy description.
+~
+70 9 3
+0d0+0 0 0
+D1
+East.  You see, because of the utter darkness that surround you, absolutely
+nothing.  Your light isn't of much use for that kind of distance.
+~
+~
+0 -1 7028
+E
+bars~
+These look like they're pretty slippery, and not very safe, but perhaps safe
+enough for you to climb down, WITH both hands on them.
+~
+S
+#7016
+A bend in the sewer tunnels~
+The sounds of splashing echo high in the reaches of the twisting tunnels. 
+Gleaming dully in the light from the source which you carry, the walls look
+as if they were melted more than cut from this stone. The thigh deep muck
+reeks strongly of stagnation and chills you with its coldness.
+~
+70 9 1
+0d0+0 0 0
+D1
+East.  What a quiet place you've found there.  It's an intersection that has
+pipeways going north and east.
+~
+~
+0 -1 7021
+D2
+South.  You see nothing at all in that direction it's too dark anyway.
+~
+~
+0 -1 7017
+S
+#7017
+A junction in the sewer tunnels~
+A dark junction in the sewers does nothing to ease your mind. From all 
+directions, faint rustles and splashings can be heard. Wading through the
+chill and deep, stagnant muck, it is easy to lose heart. This is certain. It 
+is a great mystery why this small town has such a huge sewer running beneath 
+it. Another mystery is how the tunnels were melted from living stone.
+~
+70 9 1
+0d0+0 0 0
+D0
+North.  You see a bend.
+~
+~
+0 -1 7016
+D2
+South.  It looks like a pipe junction just like this one.  Only that one
+leads east and west.
+~
+~
+0 -1 7018
+D3
+West.  There's a junction with four pipelines in that direction.
+~
+~
+0 -1 7009
+S
+#7018
+A junction in the sewers~
+The faint and musical trickle of water from a tiny opening far above attracts 
+your attention and rings loudly in the relative silence of the sewers. The 
+cold muck now clings to your knees as the level of the floor rises a bit. You
+look for a place to rest, but aside from sitting in the nasty slop through
+which you have been walking, there is no place to do so.
+~
+70 13 1
+0d0+0 0 0
+D0
+To the north you can see a junction like this one, leading north and west.
+~
+~
+0 -1 7017
+D1
+To the east there's nothing of particular interest, though there's a 
+junction with pipelines leading north and east.
+~
+~
+0 -1 7031
+D2
+The sewer continues.
+~
+~
+0 -1 7019
+D3
+There's a bend to the west leading north.
+~
+~
+0 -1 7010
+S
+#7019
+A muddy sewer~
+A dark section of sewer is filled with a soupy, smelly muck which reaches
+to your knees. The stench decay and stagnation fills the air. The smooth
+walls rise high above your head and arch into the ceiling far above. The
+muck is chilly enough to make you shiver in your boots.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7018
+D1
+The sewer continues.
+~
+~
+0 -1 7020
+S
+#7020
+A muddy sewer~
+The smooth walls gleam dully as they rise up the meet the arched ceiling.
+The mucky water splashes up around your thighs with each step, its coldness
+chilling you and making you wish you were somewhere else. The smell of decay
+and corruption fills the air, making you choke and cough.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7011
+D3
+The sewer continues.
+~
+~
+0 -1 7019
+S
+#7021
+A quiet pipe junction~
+The floor rises here out of the muck enough so that it is just barely damp. 
+Finally, you have found a place where you can rest in relative comfort. A
+bit of a breeze wafts the smells of stagnant water and muck past your nose,
+reminding you that this is not a walk in the park.
+~
+70 13 1
+0d0+0 0 0
+D0
+In that direction, you can't see anything.  It's just too dark.
+~
+~
+0 -1 7011
+D1
+There's an ordinary junction in the pipe system to the east
+~
+~
+0 -1 7029
+D3
+West.  There's an ordinary bend leading south into the sewer system in
+that direction.
+~
+~
+0 -1 7016
+S
+#7022
+An odd room ~
+As you enter this room, you hear a loud clicking sound and a rumble as the
+room shifts, knocking you from your feet. You feel the room begin to fall
+around you, down and down, till it stops with an abrupt jerk. Another click
+sounds and you see an arched doorway which leads down.
+~
+70 9 5
+0d0+0 0 0
+D5
+Heh .. you are on the same level still.
+~
+~
+0 -1 7021
+S
+#7023
+A muddy sewer~
+The smooth walls gleam dully in the small light from the source which you
+hold as they rise up the meet the arched ceiling. The mucky water splashes 
+up around your thighs with each step, its coldness chilling you and making 
+you wish you were somewhere else. The smell of decay and corruption fills 
+the air, making you choke and cough. Distantly, faint splashes can be heard.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7012
+D2
+The sewer continues.
+~
+~
+0 -1 7024
+S
+#7024
+A sewer~
+The smooth walls of the sewer reach high above here, dwarfing you. You slosh 
+through a chilly, muddy soup which splashes around your ankles and up to your
+calves. The strong smell of stagnation and decay prevails. The faint sounds of 
+splashing and the scratching of claws on stone echo softly in the distance.
+~
+70 13 1
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7023
+D1
+To the east there's a peculiar looking round room.
+~
+~
+0 -1 7037
+D2
+To the south there's another intersection with pipes going south and east.
+~
+~
+0 -1 7025
+D3
+To the west there's another intersection like this one, with sewer pipes
+leading south and west.
+~
+~
+0 -1 7011
+S
+#7025
+An intersection in the sewers~
+The mucky slop that you are slogging through is so cold as to almost make
+your feet and legs numb. Unfortunately, the cold does not decrease the smell
+of the stagnant water. The smooth walls rise high about your head and gleam
+softly in the small light, as if they had been polished by a loving hand.
+~
+70 9 1
+0d0+0 0 0
+D0
+To the north there's an intersection, where the pipes are leading west and
+east.  You notice that the floor to the west is covered in mud.
+~
+~
+0 -1 7024
+D1
+East.  You see nothing of interest in that direction, just another 
+intersection.  This one leads east and south.
+~
+~
+0 -1 7038
+D2
+Another intersection lies to the south.  It leads west and south.
+~
+~
+0 -1 7026
+S
+#7026
+A junction in the sewers~
+Different from all the others, this intersection is dry and relatively clean. 
+The smooth, seamless walls rise high above your head and arch into the curved
+ceiling. Noises come from all directions, ringing hollowly in the empty space.
+A breeze carries the scent of stagnant water and muck past your nose. Above a
+small and slippery air shaft rises toward the sky, unclimbable.
+~
+70 13 0
+0d0+0 0 0
+D0
+North.  You see an intersection there, leading north and east.
+~
+~
+0 -1 7025
+D1
+The sewer continues.
+~
+~
+0 -1 7027
+D2
+To the south there's ANOTHER junction leading west and east.
+~
+~
+0 -1 7028
+D3
+To the west you see a load of mud and sediment in the sewer.  That should
+be an intersection there but you're not quite sure.
+~
+~
+0 -1 7013
+E
+mud~
+It's dark as tar and looks like something out of a toilet, on top of THAT
+the smell is absolutely OVERWHELMING.
+~
+S
+#7027
+A muddy sewer~
+The seamless walls of this drainage sewer gleam dully in the small light
+provided by the source that you hold. A small breeze stirs the air, brushing
+your nostrils with the acrid stench of the liquid muck through which you are
+walking. The liquid is cold, but with little current, it is very stagnant.
+The sounds of the splashing of soft bodies into water sound around you.
+~
+70 9 0
+0d0+0 0 0
+D2
+The sewer continues.
+~
+~
+0 -1 7034
+D3
+The sewer continues.
+~
+~
+0 -1 7026
+S
+#7028
+A junction in the sewers~
+The water and muck here rises about your ankles, chilling them. The smell
+of stagnant water fills the air, almost choking you. In contrast, the smooth
+walls gleam like polished stones as they rise above you. Faint clicking and
+scratching sounds can be heard in the distance as they echo in the sewers.
+~
+70 9 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 7026
+D1
+To the east you can see a bend in the pipe going south.
+~
+~
+0 -1 7034
+D3
+To the west you can just make out an old well.
+~
+~
+0 -1 7015
+S
+#7029
+A triple junction in the sewers~
+The walls rise far about your head into the immense arch of the ceiling. The 
+polished walls of this place gleam dully in the reflected light. You slosh
+through slop up to your ankles, wincing slightly at the oder that wafts up to
+your nose. What passes for water here is cold enough to make your skin sting.
+~
+70 9 1
+0d0+0 0 0
+D1
+East.  You can see a bend in the sewer pipe leading north.
+~
+~
+0 -1 7035
+D2
+To the south there's a ENORMOUS quadruple sewer junction, all lit up by
+an odd light.
+~
+~
+0 -1 7030
+D3
+To the west you can just make out another junction similar to the one 
+you are standing in.
+~
+~
+0 -1 7021
+S
+#7030
+A quadruple junction in the sewers~
+The arched ceiling reaches high above this pace where four tunnels intersect,
+one going in each cardinal direction. The exceedingly smooth walls gleam in
+the little available light. Your feet stick in the sludge here, making it
+hard to lift them, even though it is not so deep. The smell is unbearable.
+~
+70 13 1
+0d0+0 0 0
+D0
+To the north you can see a huge triple junction with sewer pipes leading
+west and east.
+~
+~
+0 -1 7029
+D1
+East.  You can see a pit in the floor.
+~
+~
+0 -1 7036
+D2
+To the south there's a huge junction with pipes leading east and west.
+~
+~
+0 -1 7031
+D3
+To the west there's an odd looking room with totally smooth walls.
+~
+~
+0 -1 7022
+E
+ladder~
+It looks as if it's made of stainless steel, and it would very well function
+as a club of considerable power, but alas ...  You can't take at all since
+it's firmly set into the concrete wall.
+~
+S
+#7031
+A junction in the sewers~
+A dark intersection in the pipes gives you four choices in dirctions. A light
+breeze blows through, carrying the scents of stagnant water and corruption. A
+scratching sound echos in the high reaches of this place and seems to come 
+from one direction and then another. It is rather unsettling.
+~
+70 9 1
+0d0+0 0 0
+D0
+To the north there's a ENORMOUS quadruple sewer junction, all lit up by
+an odd light.
+~
+~
+0 -1 7030
+D1
+East.  You can just make out a triple junction leading north and east.
+~
+~
+0 -1 7044
+D2
+The sewer continues.
+~
+~
+0 -1 7032
+D3
+West.  You can just make out a triple junction leading north and west.
+~
+~
+0 -1 7018
+S
+#7032
+A muddy sewer~
+The smooth walls gleam dully as they rise up the meet the arched ceiling.
+The mucky water splashes up around your thighs with each step, its coldness
+chilling you and making you wish you were somewhere else. The smell of decay
+and corruption fills the air, making you choke and cough.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7031
+D2
+The sewer continues.
+~
+~
+0 -1 7033
+S
+#7033
+A muddy sewer~
+The mucky slop that you are slogging through is so cold as to almost make
+your feet and legs numb. Unfortunately, the cold does not decrease the smell
+of the stagnant water. The smooth walls rise high about your head and gleam
+softly in the small light, as if they had been polished by a loving hand.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7032
+D3
+The sewer continues.
+~
+~
+0 -1 7019
+S
+#7034
+A bend in the sewer pipe~
+Absolutley smooth walls surround and rise above you, gleaming dully in the 
+little available light. They look almost as if they have been melted from
+the living rock in one piece. A layer of sludge and water covers the floor
+and splashes up as you walk, coating your boots and clothes.
+~
+70 9 2
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7027
+D2
+To the south you can see another bend leading west.
+~
+~
+0 -1 7035
+D3
+West.  You can just make out a triple junction leading north and west.
+~
+~
+0 -1 7028
+S
+#7035
+A bend in the sewer pipe~
+These dark sewers do not look as if they were made by the hands of men. The 
+smooth walls are seamless, melted from the living stone here. A foul odor 
+fills this place, from the stagnant water and old sludge. The sound of the
+trickling water sounds, as does the faint splashes of bodies moving through
+the tunnels here. The scratching of claws upon stone makes you shiver.
+~
+70 9 2
+0d0+0 0 0
+D0
+North.  You see another bend leading west.
+~
+~
+0 -1 7034
+D3
+You can see another junction although this one is a triple one with pipes
+going south and west.
+~
+~
+0 -1 7029
+S
+#7036
+A dark section of the sewer~
+The smooth walls of this section rise overhead into the curved ceiling. 
+Echos of scratching and splashing noises ring and bounce off the stone 
+here. The mucky water is up to your ankles still, making you wonder if 
+you will ever have dry feet again. In the center of the room, the floor
+rises slightly out of the muck, and a strange pit with iron bars set 
+into its side goes down through its center.
+~
+70 9 5
+0d0+0 0 0
+D3
+West.  You can see a dimly lit quadruple junction with an exit up.
+~
+~
+0 -1 7030
+S
+#7037
+A round room~
+As you enter, the walls of this perfectly round room begin to rotate around 
+you, first slowly and then faster and faster. You lose all sense of direction,
+now unsure which way is up and which way is down. The spinning slows and when
+it finally comes to a stop, you see that the only exit leads east.
+~
+70 9 1
+0d0+0 0 0
+D1
+You can just make out a smaller room with a chair.
+~
+~
+0 -1 7050
+S
+#7038
+A three way junction in the sewers~
+In a dark junction in the sewers, the smooth and dully gleaming walls rise 
+high above your head. You splash through water and muck up to your knees, the
+smell here making your eyes water. The floor rises slightly to the east and to
+the south. There you see the entrances to two rooms.
+~
+70 9 1
+0d0+0 0 0
+D1
+East.  You can make out a dimly lit Guard Room.
+~
+~
+2 -1 7045
+D2
+To the south you can see what looks like a store room.
+~
+~
+2 -1 7039
+D3
+West.  You see another junction similar to this one leading north and south.
+~
+~
+0 -1 7025
+S
+#7039
+A small room in the sewers~
+In this small room, the walls rise above you, looking partially unfinished. 
+The stone floor is dry and there is a coating of dust upon it which has been
+disturbed by the passage of strange feet. A few sacks that are filled with
+grain look as if they have been nibbled to death by mice. The remains of some 
+broken wooden chairs have been tossed carelessly into the corner.
+~
+70 8 1
+0d0+0 0 0
+D0
+To the north you see a pipe junction.
+~
+~
+2 -1 7038
+D2
+The sewer continues.
+~
+~
+0 -1 7040
+S
+#7040
+An unused room ~
+In this small room, the walls rise above you, looking partially unfinished. 
+The stone floor is dry and there is a heavy coating of dust which doesn't 
+look as if any feet have walked in it for many years. Various anonymous
+lumps are on the floor, shrouded in the thick dust.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7039
+S
+#7041
+A dark room in the sewers~
+A dark shaft leads down into the deep gloom here. It's walls are smooth and
+there is no natural handhold available, but iron spikes and bars have been
+carefully hammered into the side to allow access. The sounds of splashing and
+a faint muttering noise echo in the dark passages of the sewer. The nasty
+smell of stagnant water and muck drifts past your nose, making you shudder.
+~
+70 9 1
+0d0+0 0 0
+D2
+To the south you can see the pipe leading further south into darkness.
+~
+~
+0 -1 7043
+E
+ladder~
+Firmly set into the wall of the shaft it's impossible to even rock, is your
+estimate.
+~
+S
+#7042
+A passage in the sewers~
+The smooth walls gleam dully as they rise up the meet the arched ceiling.
+The mucky water splashes up around your thighs with each step, its coldness
+chilling you and making you wish you were somewhere else. The smell of decay
+and corruption fills the air, making you choke and cough.
+~
+70 9 0
+0d0+0 0 0
+D1
+The sewer continues.
+~
+~
+0 -1 7048
+D3
+The sewer continues.
+~
+~
+0 -1 7043
+S
+#7043
+A passage in the sewers~
+The smells of stagnant water and of rotting things grows a little fainter
+here, as small breeze comes from an airshaft above. The smooth walls arch
+high above your head and even if you could reach the airshaft it is too small
+to consider passing through. The muck which is up to your knees clings to 
+you as if it does not want to let you leave this place.
+~
+70 9 1
+0d0+0 0 0
+D0
+To the north you can just make out a huge shaft leading down.
+~
+~
+0 -1 7041
+D1
+The sewer continues.
+~
+~
+0 -1 7042
+D2
+To the south you can see a triple junction leading west and east.
+~
+~
+0 -1 7044
+S
+#7044
+A three way junction in the sewers~
+The smooth walls of the tunnel rise high above your head. They look as if
+they have been melted from the living stone and it makes you wonder what
+force could have caused them to be formed. The thigh-high muck clings to your
+legs making movement difficult. The foul scent of stagnation fills the air.
+~
+70 9 1
+0d0+0 0 0
+D0
+You see a sewer pipe leading north.
+~
+~
+0 -1 7043
+D1
+~
+~
+0 -1 7049
+D3
+West.  You see another junction very similar to this one that leads north
+and west.
+~
+~
+0 -1 7031
+S
+#7045
+A room in the sewers~
+This dry-floored room is lit so brightly that it is almost blinding after the 
+darkness of the sewer tunnels. A dozen wooden chairs are positioned about the 
+room, against the walls. This would almost be a pleasant place, except for
+the stench that wafts in from the sewers and the muck which has been tracked
+in on the stone floor. It is quiet here, unnervingly so.
+~
+70 8 1
+0d0+0 0 0
+D2
+You can see an even larger room than this one, filled with light.
+~
+~
+0 -1 7046
+D3
+To the west you can see the sewers.
+~
+~
+2 -1 7038
+S
+#7046
+A large room in the sewers~
+Even more brightly lit, this room is large by anyone's standard. The walls are 
+formed from a material which glitters like gold. On second glance, you realize
+that there is no external light source here. The walls themselves are shining
+with a strange inner light. The room looks better kept than the others you may
+have seen, the floor only slightly mucky. A faint scent of decay wafts past.
+~
+70 8 1
+0d0+0 0 0
+D0
+To the north you can see the guard room.
+~
+~
+0 -1 7045
+D2
+To the south there is nothing but water and an exit leads east from there.
+~
+~
+0 -1 7047
+S
+#7047
+A murky pool in the sewer~
+The water in a dark pool rises up to your waist before you find solid footing.
+Smooth walls rise above you, arching high over head into the ceiling. Even
+though the water seems to be cleaner here, the scent of stagnation and decay
+drifts past your nose. The water chills you to the very bone.
+~
+70 8 1
+0d0+0 0 0
+D0
+To the north you see the entrance to this room.
+~
+~
+0 -1 7046
+D1
+You can see an enormous hall through the doorway.
+~
+~
+2 -1 7053
+S
+#7048
+A section of the sewer~
+High above you, a grate-covered air shaft looks down, offering no hope of 
+exit from this place. The seamless walls gleam dully in the faint light 
+from your light source, rising far above your head to meet the arch of
+the ceiling. Splashing through water up to your knees, you wish fervently
+for a dry place to rest your weary bones, but there is none here.
+~
+70 9 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 7049
+D3
+The sewer continues.
+~
+~
+0 -1 7042
+S
+#7049
+A dark junction in the sewer~
+The smooth walls gleam dully as they rise high above you in this dark sewer
+junction. The nasty muck and stagnant water rises about your knees, splashing
+upwards as you walk. The scent of corruption and decay fills your nostrils,
+making you want to retch. The sound of claws scrabbling on stone rings here.
+~
+70 9 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 7048
+D1
+Darkness has closed in on that part of the sewer system, you can't see
+a thing in that direction.
+~
+~
+0 -1 7060
+D3
+West.  You see another junction very similar to this one that leads north
+and west.
+~
+~
+0 -1 7044
+S
+#7050
+A small room~
+A thin coat of sticky muck coats the floor of this small room, smelling
+horribly. The walls here look as if they have been cut from the stone with
+picks and chisels, rather than melted as the other areas were. In the precise
+center of the room, a metal chair stands, bolted firmly to the floor.
+~
+70 9 1
+0d0+0 0 0
+D1
+Utter darkness...!
+~
+~
+0 -1 7055
+D2
+You can see a room with a lot of light in it.  You can't make out any details.
+~
+~
+2 -1 7051
+S
+#7051
+A mucky sewer pipe~
+A dark pipe is filled half-full of a foul smelling mucky water, stagnation 
+and decay reign supreme here. The muck grasps and holds firmly at your legs
+and feet, as if seeking to keep you here with it forever. The smooth walls
+gleam dully as they rise above your head to meet the arch of the ceiling.
+~
+70 8 1
+0d0+0 0 0
+D0
+~
+~
+2 -1 7050
+D2
+To the south you can see a strange light flowing from there.
+~
+~
+0 -1 7052
+S
+#7052
+An immense sewer pipe~
+An immense area of pipe stretches here, dwarfing everything. Gleaming dully, 
+the smooth walls rise high above your head. Here some odd scratchings have
+been made along the walls, about at waist level. Perhaps it was a misguided
+attempt to decorate this foul place. The stench of decay is overwhelming.
+~
+70 8 1
+0d0+0 0 0
+D0
+To the north you can see a doorway.
+~
+~
+0 -1 7051
+D1
+You can't see anything in that darkness.
+~
+~
+2 -1 7056
+D2
+In the south end of the pipe the "floor" is completely covered with water.
+~
+~
+0 -1 7053
+E
+scratchings odd inscription carvings~
+An odd pattern of scratches have been left here, looking as if they
+have been made by animal claws. As you look more closely, the scratchings
+squirm and morph into something understandable. They say: All must bow
+and die before the Great WyrmGod.
+~
+S
+#7053
+An immense sewer pipe~
+An immense and dark pipe stretches high over head, sounds of bodies splashing 
+into water and the faint scratch of claws upon stone ringing in its heights.
+The soupy muck you wade through is thigh-deep and cold enough that you begin
+to lose feeling in your legs. Anyplace dry would be a welcome change now.
+~
+70 8 1
+0d0+0 0 0
+D0
+You see a lot of pictures decorating the walls.
+~
+~
+0 -1 7052
+D2
+The sewer continues.
+~
+~
+0 -1 7054
+D3
+~
+~
+2 -1 7047
+S
+#7054
+A room in the sewers~
+A thin coat of sticky muck coats the floor of this small room, smelling
+horribly. The walls here look as if melted from the living stone. In the 
+muck are embedded bones, skeletons of those less fortunate than you. On
+the walls, rings have been mounted and there are rusty chains hanging 
+from them. It is not a pleasant sight to see.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7053
+D8
+~
+~
+0 -1 22700
+S
+#7055
+A sloping area of sewer~
+The floor here slopes down on one side, where it is covered with water and 
+smelly muck. It is dark here and the smooth walls gleam dully in the small
+slight provided by your light source. Occasionally, small sparks dance at 
+the edge of your vision, but evade any attempt of yours to look at them.
+~
+70 9 3
+0d0+0 0 0
+D1
+You can hardly make out much more than that the next place is in a pipe 
+with more water.
+~
+~
+0 -1 7061
+D3
+~
+~
+0 -1 7050
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7056
+A dark and mucky hallway~
+Splashing through a stagnant smelling, soupy muck which reaches to your
+waist, you shiver at the coldness and long for a place that is dry and 
+warm and safe. The seamless walls reach high overhead and arch into the
+ceiling where a small, grated airshaft looks down upon you, unaccessable.
+~
+70 9 1
+0d0+0 0 0
+D2
+You can see nothing at all because it's completely dark in that direction.
+~
+~
+0 -1 7057
+D3
+You see a lot of light, bright as daylight, but nothing of interest.
+~
+~
+0 -1 7052
+S
+#7057
+A dark and mucky passageway~
+In this dark passageway, you can see very little aside from your hand in
+front of your face. You step carefully, not trusting the footing, not wanting
+to slip in the slimy muck that thinly coats the floor. The walls feel smooth
+beneath your hand and offer no firm handhold and no security.
+~
+70 9 1
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7056
+D2
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7058
+S
+#7058
+A dark and mucky passageway~
+Dark and disconcerting, the passageway offers insecure footing at best. You 
+find yourself sliding in the smelly muck which coats the floor of this place
+The smooth walls offer no security and there is no place to find a handhold.
+The darkness is so complete that you can scarcely see your hand before you.
+~
+70 9 1
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7057
+D2
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7059
+S
+#7059
+A dark and mucky passageway~
+A slippery coating of muddy slime coats the floor here and you would almost 
+rather die, than fall and find yourself covered in it. You think longingly
+of a warm bath and of a hot dinner, anything to keep your mind off the nasty
+stench which rises up to greet your nose. Reaching for the wall, you slip.
+~
+70 9 1
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7058
+D2
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7060
+S
+#7060
+A dark and mucky passageway~
+The darkness is so complete here that you can not even see the ground beneath
+your feet. You feel your way carefully, not wanting to slip and fall into the
+ankle deep muck which reeks terribly. The smooths walls which look as though
+they have been polished by hand, offer little in they way of handholds.
+~
+70 9 1
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7059
+D1
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7068
+D3
+You can just make out a triple junction leading north and west.
+~
+~
+0 -1 7049
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7061
+A mucky sewer bend~
+The mucky, reeking soup rises here to your hip-level. You reach carefully 
+for the wall as you feel the slight tug of a current pulling south. The 
+footing here is much less than secure. The very idea of getting any more of
+this noxious glop on you than you absolutely must is most abhorrent.
+~
+70 9 5
+0d0+0 0 0
+D2
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7062
+D3
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7055
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7062
+A mucky sewer~
+A faint current pulls south slightly, unsettling you and making your footing 
+even more shaky than it was. Never has the idea of a nice inn with warm beds,
+hot food and good company sounded better than it does right now. The soupy
+muck that you are walking through splashes up about your waist.
+~
+70 9 5
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7061
+D2
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7063
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7063
+A mucky sewer~
+Dark and forbidding, this passage offers little in the way of firm footing. 
+The smooth walls offer no handhold to reassure you, as a slight current tugs
+you toward the south. In the lack of any bright light, you can not see your
+hand in front of your face, let alone where to place your next step.
+~
+70 9 5
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7062
+D2
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7064
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7064
+A mucky sewer junction~
+The dark, mucky water splashes up to your waist as you wade through these 
+dark tunnels, wishing you were somewhere else. The smooth walls glimmer a
+bit in the small light, but not enough to actually allow you clear vision.
+You slip slightly and then regain your balance with a feeling of relief.
+~
+70 9 5
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7063
+D1
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7069
+D2
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7065
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7065
+A mucky sewer~
+The smooth walls of the tunnel reach high above your head into the darkness.
+Decay and stagnation reign here, tormenting your nose and making you sneeze.
+A faint current tugs at you, flowing south. The footing here is tenuous, at
+best and the walls offer little hope of any handhold.
+~
+70 9 5
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7064
+D2
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7066
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7066
+A mucky sewer junction~
+Splashing though dark and mucky water up to your waist, you feel a faint  
+current that wants to pull you south. The stench of stagnation and decay
+fills the air and makes you wish you were anyplace else. The footing is
+insecure and you feel your feet slip frequently as you try to make your way.
+~
+70 9 5
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7065
+D1
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7070
+D2
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7067
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7067
+A mucky sewer~
+The smooth walls gleam dully in the little light here, rising high above 
+your head in an arch which is lost in the darkness. A slight current tugs
+at you, wanting to pull you south. Your feet slip, but you swiftly regain
+your balance, very glad not to have immersed yourself in the nasty muck.
+~
+70 9 5
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7066
+D2
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7068
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7068
+A mucky sewer bend~
+Walking through thigh deep water that swirls about here disconcertingly as 
+it seeps out through a grated exit, you find it extremely difficult to keep
+your feet under you. The seamless walls arch high above into a ceiling that
+is lost in the darkness. The faint sounds of scratching claws on stone can
+be heard, as well as the splash of small bodies hitting the water's surface.
+~
+70 9 5
+0d0+0 0 0
+D0
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7067
+D2
+The sewer continues.
+~
+~
+0 -1 7071
+D3
+You can't see anything in that direction and your light isn't enough to light
+that far.
+~
+~
+0 -1 7060
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7069
+A ledge by the dark pool~
+Sound echos wildly here, telling you that there is an immense drop near. 
+There is a huge, dark pool near, barely within sight. Footing is difficult 
+here, the water washing over the ledge and rushing down to the pool like a
+fall, making the surface bubble wildly.
+~
+70 9 5
+0d0+0 0 0
+D2
+You can't see a thing.  It's too dark.
+~
+~
+0 -1 7070
+D3
+You can't see a thing.  It's too dark.
+~
+~
+0 -1 7064
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7070
+A ledge by the dark pool~
+A huge and dark pool is visible here, water rushing over this ledge to drop 
+into it, making the surface boil wildly. The sound of the water drowns out
+any other noises here and it is almost impossible to even hear yourself think.
+The footing is insecure here and the smooth walls offer little in the way of
+handholds. Underneath you, there is a small fissure in the rock.
+~
+70 9 5
+0d0+0 0 0
+D0
+You can't see a thing.  It's too dark.
+~
+~
+0 -1 7069
+D3
+You can't see a thing.  It's too dark.
+~
+~
+0 -1 7066
+D5
+~
+~
+0 -1 7099
+E
+water~
+It looks dark and murky, and emanates a foul stench.
+~
+S
+#7071
+A passage in the sewers~
+The smooth walls of the sewer tunnel gleam dully as they rise over your head. 
+A thick and smelly muck rises around your feet, splashing up to your calves 
+as you walk, releasing you reluctantly with your every step. The nasty stench 
+of decay and stagnation fills the air here. You wish you were anywhere else.
+~
+70 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7068
+D2
+The sewer continues.
+~
+~
+0 -1 7072
+S
+#7072
+A passageway in the sewers~
+In this immense and dark drainage pipe, you are up to your knees in a thick, 
+smelly muck. The ceiling stretches far about your head and it is amazing that 
+a system of this size lurks beneath what is a relatively small town. The dark
+tunnel walls are so very smooth that they seem to almost have been melted out 
+in one piece. The place smells of old muck and stagnant water.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7071
+D2
+The sewer continues.
+~
+~
+0 -1 7073
+S
+#7073
+A muddy sewer~
+The smooth walls of the nasty sewer continue, floor sloping slightly to the 
+south. The mud clings to your legs as if it wishes to keep you in its grip for 
+posterity, releasing you with each step reluctantly. The smells of stagnant 
+water and of mildew are oppressive.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7072
+D2
+The sewer continues.
+~
+~
+0 -1 7074
+S
+#7074
+A muddy sewer passage~
+Faint and odd scratching noises echo in the high reaches of this dark place,
+making you shiver uncomfortably. The mud is deeper here and you sink up to
+your thighs, shuddering gratefully when your feet finally touch bottom. The
+smell here is terrible, not to be described.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7073
+D1
+The sewer continues.
+~
+~
+0 -1 7075
+S
+#7075
+A muddy passageway~
+In any direction, you look only into darkness. The same seamless ceiling 
+stretches overhead, occasional sounds echoing in its reaches. On the floor, 
+a thick layer of muck makes the footing extremely precarious. The air is 
+moved by a small breeze which carries with an unidentifiable rank odor.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7076
+D3
+The sewer continues.
+~
+~
+0 -1 7074
+S
+#7076
+A muddy passageway~
+As you slog through this place, the mud clings to your legs as if it wishes
+to keep you here. It takes some concerted effort to lift your feet with each
+step. Faint scratching and splashing noises echo, not too far distant. Though 
+they are far away, the smooth walls of the sewer tunnel seem to move closer, 
+making you feel a bit trapped. The muck smells stagnant.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7080
+D1
+The sewer continues.
+~
+~
+0 -1 7077
+D2
+The sewer continues.
+~
+~
+0 -1 7075
+S
+#7077
+A sewer passage~
+Slogging through a soupy, drippy, muddy mess sure takes a lot of energy. It 
+would be nice if there was a place to rest, but there isn't even a small ledge
+here. The high walls are still almost as smooth as glass. The reek of the muck 
+makes you think longingly of a nice, warm tub filled with soapy water.
+~
+70 9 0
+0d0+0 0 0
+D1
+The sewer continues.
+~
+~
+0 -1 7078
+D3
+The sewer continues.
+~
+~
+0 -1 7076
+S
+#7078
+A muddy sewer passage~
+The smooth walls and ceiling of the sewer gleam dully in response to the 
+flickers of the light which you are holding. Faint scratching and thumping
+noises and the occasional splash echo out of the distant darkness, making
+you a bit uneasy. The musty smell of the muck and water that reaches your
+knees and seems to be trying to climb higher makes you cough uncomfortably.
+~
+70 9 0
+0d0+0 0 0
+D1
+The sewer continues.
+~
+~
+0 -1 7079
+D3
+The sewer continues.
+~
+~
+0 -1 7077
+S
+#7079
+A muddy sewer~
+The stagnant and smelly mud grabs your feet as if it wishes to hold and keep 
+you. The unredeemed darkness deadens your spirits. The smooth walls offer no 
+ledge or handhold by which to pull yourself along here and you find yourself 
+wishing you had a stout staff on which to lean. Far away, the faint sounds of 
+scratching and splashing ring omenously.
+~
+70 9 0
+0d0+0 0 0
+D3
+The sewer continues.
+~
+~
+0 -1 7078
+D6
+The sewer continues.
+~
+~
+0 -1 7085
+D8
+The sewer continues.
+~
+~
+0 -1 7086
+S
+#7080
+A muddy sewer~
+In the smooth ceiling which is high above your head, there is something 
+that looks to be an air shaft. It is small enough that, even if you could
+reach it, you still couldn't force your way through. The mud is deep here
+and you are happy each time your foot finds the solid rock bottom.
+~
+70 9 0
+0d0+0 0 0
+D2
+The sewer continues.
+~
+~
+0 -1 7076
+D6
+The sewer continues.
+~
+~
+0 -1 7081
+S
+#7081
+A muddy sewer passage~
+The smooth walls of the sewer pipe curve and change direction, still without 
+a seam. They gleam faintly in the small light available. The smelly sludge 
+which coats the floor and walls to the level of your ankles makes you want to
+shiver in disgust. Sounds echo faintly in the distance, breaking the silence.
+~
+70 9 0
+0d0+0 0 0
+D1
+The sewer continues.
+~
+~
+0 -1 7082
+D9
+The sewer continues.
+~
+~
+0 -1 7080
+S
+#7082
+A muddy passage~
+In a darker section of pipe, the floor here arches higher in the center. The 
+mud here rises up to your knees again, holding on to your legs. Faint noises 
+echo in the high reaches, bouncing off the ceiling. The dark muck which holds 
+on to you sends up a noxious odor each time you succeed in freeing your feet.
+~
+70 9 0
+0d0+0 0 0
+D2
+The sewer continues.
+~
+~
+0 -1 7083
+D3
+The sewer continues.
+~
+~
+0 -1 7081
+S
+#7083
+A muddy sewer passage~
+Faint noises echo in the dark reaches of the sewer, making you wonder what
+may be lurking there. The noises come from no identifiable direction. It is
+still quiet enough for the sounds of your breathing and of your feet freeing
+themselves from the muck ring hollowly here. A tiny breeze stirs the air.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7082
+D1
+The sewer continues.
+~
+~
+0 -1 7084
+S
+#7084
+A muddy sewer~
+The clinging muck rises up to your hips. Luckily, there seems to be more 
+water in it here. The slightly thinner mixture makes it a little easier to
+walk. On the negative, splashes heard from not to far away makes one wonder
+what could be swimming here. The scent of stagnant water causes you to wish 
+that you had no sense of smell. It is unpleasant to say the least.
+~
+70 9 0
+0d0+0 0 0
+D1
+The sewer continues.
+~
+~
+0 -1 7085
+D3
+The sewer continues.
+~
+~
+0 -1 7083
+S
+#7085
+A muddy sewer~
+The seamless walls of this drainage sewer gleam dully in the small light
+provided by the source that you hold. A small breeze stirs the air, brushing
+your nostrils with the acrid stench of the liquid muck through which you are
+walking. The liquid is cold, but with little current, it is very stagnant.
+~
+70 9 0
+0d0+0 0 0
+D3
+The sewer continues.
+~
+~
+0 -1 7084
+D8
+The sewer continues.
+~
+~
+0 -1 7087
+D9
+The sewer continues.
+~
+~
+0 -1 7079
+S
+#7086
+A passageway in the sewer~
+A dark junction in the sewers does nothing to ease your mind. From all 
+directions, faint rustles and splashings can be heard. Wading through the
+chill and deep, stagnant muck, it is easy to lose heart. This is certain. It 
+is a great mystery why this small town has such a huge sewer running beneath 
+it. Another mystery is how the tunnels were melted from living stone.
+~
+70 9 0
+0d0+0 0 0
+D6
+The sewer continues.
+~
+~
+0 -1 7087
+D7
+The sewer continues.
+~
+~
+0 -1 7079
+D8
+The sewer continues.
+~
+~
+0 -1 7091
+S
+#7087
+A muddy sewer~
+The sounds of splashing echo high in the reaches of the twisting tunnels. 
+Gleaming dully in the light from the source which you carry, the walls look
+as if they were melted more than cut from this stone. The thigh deep muck
+reeks strongly of stagnation and chills you with its coldness.
+~
+70 9 0
+0d0+0 0 0
+D1
+The sewer continues.
+~
+~
+0 -1 7088
+D7
+The sewer continues.
+~
+~
+0 -1 7085
+D9
+The sewer continues.
+~
+~
+0 -1 7086
+S
+#7088
+A mucky sewer passageway~
+A dark passage in the sewers does nothing to ease your mind. From all round,
+faint rustles and splashings can be heard. Wading through the chill and deep, 
+stagnant muck, it is easy to lose heart. This is certain. A great mystery is
+why this small town has such a huge sewer running beneath it. Another mystery 
+is how the tunnels were melted from living stone.
+~
+70 9 0
+0d0+0 0 0
+D1
+The sewer continues.
+~
+~
+0 -1 7089
+D3
+The sewer continues.
+~
+~
+0 -1 7087
+S
+#7089
+A muddy sewer~
+The faint and musical trickle of water from a tiny opening far above attracts 
+your attention and rings loudly in the relative silence of the sewers. The 
+cold muck now clings to your knees as the level of the floor rises a bit. You
+look for a place to rest, but aside from sitting in the nasty slop through
+which you have been walking, there is no place to do so.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7090
+D3
+The sewer continues.
+~
+~
+0 -1 7088
+S
+#7090
+The edge of a dark pool~
+A huge cavern is here, its seamless walls rising high above your head. You
+are ankle deep in the dark water of a pool. The coldness of the water makes
+your feet numb, but, surprisingly, the smell here is better. There is a 
+pronounced breeze which comes from a vent above.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7096
+D1
+The pool continues
+~
+~
+0 -1 7098
+D2
+The sewer continues.
+~
+~
+0 -1 7089
+D6
+The pool continues.
+~
+~
+0 -1 7097
+S
+#7091
+A muddy passageway~
+The smooth walls gleam dully as they rise up the meet the arched ceiling.
+The mucky water splashes up around your thighs with each step, its coldness
+chilling you and making you wish you were somewhere else. The smell of decay
+and corruption fills the air, making you choke and cough.
+~
+70 9 0
+0d0+0 0 0
+D1
+The sewer continues.
+~
+~
+0 -1 7092
+D7
+The sewer continues.
+~
+~
+0 -1 7086
+S
+#7092
+A sewer passage~
+The floor rises here out of the muck enough so that it is just barely damp. 
+Finally, you have found a place where you can rest in relative comfort. A
+bit of a breeze wafts the smells of stagnant water and muck past your nose,
+reminding you that this is not a walk in the park.
+~
+70 9 0
+0d0+0 0 0
+D3
+The sewer continues.
+~
+~
+0 -1 7091
+D6
+The sewer continues.
+~
+~
+0 -1 7093
+S
+#7093
+A sewer tunnel~
+The smooth walls gleam dully in the small light from the source which you
+hold as they rise up the meet the arched ceiling. The mucky water splashes 
+up around your thighs with each step, its coldness chilling you and making 
+you wish you were somewhere else. The smell of decay and corruption fills 
+the air, making you choke and cough. Distantly, faint splashes can be heard.
+~
+70 9 0
+0d0+0 0 0
+D1
+The sewer continues.
+~
+~
+0 -1 7094
+D9
+The sewer continues.
+~
+~
+0 -1 7092
+S
+#7094
+A muddy sewer~
+The smooth walls of the sewer reach high above here, dwarfing you. You slosh 
+through a chilly, muddy soup which splashes around your ankles and up to your
+calves. The strong smell of stagnation and decay prevails. The faint sounds of 
+splashing and the scratching of claws on stone echo softly in the distance.
+~
+70 9 0
+0d0+0 0 0
+D2
+The sewer continues.
+~
+~
+0 -1 7095
+D3
+The sewer continues.
+~
+~
+0 -1 7093
+S
+#7095
+A sewer passageway~
+The mucky slop that you are slogging through is so cold as to almost make
+your feet and legs numb. Unfortunately, the cold does not decrease the smell
+of the stagnant water. The smooth walls rise high about your head and gleam
+softly in the small light, as if they had been polished by a loving hand.
+~
+70 9 0
+0d0+0 0 0
+D0
+The sewer continues.
+~
+~
+0 -1 7094
+S
+#7096
+A dark pool~
+The seamless walls of the huge cavern rise high above your head. You are 
+waist deep in the dark water of a pool. The coldness of the water makes you 
+numb. It makes you want to leave this place as quickly as possible. There is 
+a pronounced breeze which comes from a vent above.
+~
+70 9 0
+0d0+0 0 0
+D1
+The pool continues
+~
+~
+0 -1 7097
+D2
+The pool continues.
+~
+~
+0 -1 7090
+D8
+The pool continues
+~
+~
+0 -1 7098
+S
+#7097
+A dark pool~
+A pronounced breeze comes from the vent in the high cavern ceiling, pressing
+down with enough force to push you into the water here. The icy water trickles
+in through a small opening to the north. Aside from the ripples caused by
+your motions, the pool is very still, its surface like glass.
+~
+70 9 0
+0d0+0 0 0
+D2
+The pool continues.
+~
+~
+0 -1 7098
+D3
+The pool continues.
+~
+~
+0 -1 7096
+D9
+The pool continues.
+~
+~
+0 -1 7090
+S
+#7098
+A dark pool~
+In this dark cavern, the smooth walls gleam dully in the light from the
+source which you carry. It dances acrossed the surface of the water adding
+to the impression of its blackness. The water here is so cold as to numb
+you. You think longingly of a large tub filled with hot water.
+~
+70 9 0
+0d0+0 0 0
+D0
+The pool continues.
+~
+~
+0 -1 7097
+D3
+The pool continues.
+~
+~
+0 -1 7090
+D7
+The pool continues.
+~
+~
+0 -1 7096
+S
+#7099
+A fissure under the ledge~
+A small fissure in the rock is slippery with the water trickling down from 
+above. Below lies the edge of a great, dark pool. Rising from the surface is
+the scent of stagnation and decay that has pervaded this place. Right now
+even being at the refuse dump would be preferable to this.
+~
+70 13 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 7070
+S
+$

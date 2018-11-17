@@ -1,0 +1,5111 @@
+#300
+The head-control room~
+As you step into this dim-lit room, the door behind you automatically
+closes.  A red-light next to this room is flashing as though you have
+trigger an alarm of some sort.  There's a man here working hard to maintain
+the primary functions on this starship and he seems to be too busy to
+notice your presence.  He's dressed in a green armor that looks thicker
+than any space suit you've seen.  The man looks like a very intelligent 
+person because of how he handles the controls as though he knows
+immediately what each button will do.  He doesn't look tough but who knows
+what weapons he has in that high-tech battle armor he's wearing.
+~
+3 47117 0
+0d0+0 0 0
+D5
+You see an escape hatch.
+~
+hatch door~
+4 490 3001
+S
+#301
+The DC booth~
+Welcome to the DC booth at the comic convention.  Standing behind the booth
+is a young woman nearly naked.  She is signing autgraphs as she is portraying
+some comic heroin.  There is a geek sitting to the right, he has a stained
+white t shirt and is loving the young lady.  He looks up to you and says
+'Can I help you?'
+~
+3 47104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10301
+D4
+~
+teleporter door~
+2 491 401
+S
+#302
+Inside a teleporter room~
+You appear out of nowhere in a room you've never seen before!  Everywhere you
+look, you can see control panels and flashing lights flickering on and off.
+It seems you've been teleported to a starship of some sort or maybe a space
+station...but you're not certain.  There are large windows all around the
+walls that surround you, and the only things that seem to be out there are
+stars, comets, and a large meteor storm.  To your north, there's a door
+that'll take you to a hallway.
+~
+3 47116 0
+0d0+0 0 0
+D0
+
+~
+door doors~
+1 -1 303
+D5
+Through a glowing portal you can barely make out a forest below.
+~
+teleporter~
+2 488 485
+S
+#303
+Midsection hallway~
+Just seconds after you exit from the teleporter room, the door closes behind
+you.  The hallway of this starship looks narrow and unending, and you
+hesitate to go further north because you fear what may be living in this
+vessel.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 304
+D2
+
+~
+door doors~
+1 -1 302
+S
+#304
+Midsection hallway~
+This narrow hallway comes to end here and there are two new passages you can
+take.  To the northwest, there's a hallway that can take you to the western
+section of the starship and to the northeast, a different hallway will take
+you to the eastern section.
+~
+3 47112 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 303
+D6
+
+~
+~
+0 -1 317
+D7
+
+~
+~
+0 -1 305
+S
+#305
+Western-section hallway~
+This starship looks more like a minature city as you wander through the
+labyrinth of hallways from all directions.  To the southwest, the Western-
+section hallway continues further on and to your northeast, there's a hallway
+that'll take you to the northern-head section of the starship.  The narrow
+hallway to your southeast will take you back to the midsection.
+~
+3 47112 0
+0d0+0 0 0
+D6
+
+~
+~
+0 -1 329
+D8
+
+~
+~
+0 -1 304
+D9
+
+~
+~
+0 -1 306
+S
+#306
+Western-section hallway~
+The long journey from hallway to hallway is beginning to tire you.  You seem
+to be going in circles and you're losing your sense of direction.  The
+hallway to the western section ends here and to the southwest, you see an
+area with beds lined up against the walls.  This must be the resting area for
+whomever may be living on this large starship.
+~
+3 47112 0
+0d0+0 0 0
+D6
+
+~
+~
+0 -1 305
+D9
+
+~
+~
+0 -1 307
+S
+#307
+Western-section (rest area)~
+This ship wasn't built for passengers who require 1st class room
+accomendations.  This ship was meant to be a battle-cruiser and the
+passengers aboard this vessel were soldiers who slept in bunks with other
+soldiers.  There are beds everywhere in this section lining the walls all the
+way to the west of here.
+~
+3 47112 0
+0d0+0 0 0
+D3
+
+~
+~
+0 -1 308
+D6
+
+~
+~
+0 -1 306
+D8
+
+~
+~
+0 -1 311
+S
+#308
+Western-section (rest area)~
+Bunks are lined up everywhere and the bedding on top of each bunk are made as
+though they have never been slept in.  You're not sure if this entire place
+is vacant...the lights are pretty dim in these quarters.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 307
+D3
+
+~
+~
+0 -1 309
+S
+#309
+Western-section (rest area)~
+You sense there is someone or something close by you...and he/it may be just
+standing next to you.  The only sound you can hear in this large rest area is
+the beat of your heart.  The rest area seems to end west of here and the exit
+out of this place is to your east.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 308
+D3
+
+~
+~
+0 -1 310
+S
+#310
+Western-section (rest area)~
+It's pretty dim inside this area of the starship and you wish you could just
+make out the shadow of the person who occupies this vessel.  Now you are
+definately sure that you're not alone in this room, someone else is here.
+There's nowhere to go, the rest area ends here and the exit seems to be miles
+from where you're standing...
+~
+3 47113 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 309
+S
+#311
+Western-section hallway~
+This hallway seems to be reconnected from here and it seems to lead you
+further south of the starship.  There's nothing special about this area of
+the hallway except you're headed further to a new area of the ship.  The
+hallway continues south, and the rest area is to your northwest.
+~
+3 47112 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 312
+D7
+
+~
+~
+0 -1 307
+S
+#312
+Western-section hallway~
+The long passageway seems to end here and to your west, there are two large
+doors that can take you to a large room.  You wonder what's the purpose for
+this large room but you hesitate to go inside.  There must be something
+pretty important going on in there, but what?
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 311
+D3
+
+~
+door~
+1 -1 313
+S
+#313
+Inside a large meeting room~
+This area is unlike the other parts of the starship.  There's actually carpet
+that covers every space on the floor and the walls are plastered with elegant
+wallpaper.  This must be a room used by high-ranking officers who make
+decisions and strategies against their opponents.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+door~
+1 -1 312
+D2
+
+~
+~
+0 -1 314
+S
+#314
+Inside a large meeting room~
+This place is beginning to look more like a first-class hotel except for the
+large screen monitors and the numerous control panels that seem to be
+everywhere. There is a large round table that must seat at least fifty people
+off to the east.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 313
+D1
+
+~
+~
+0 -1 315
+S
+#315
+Inside a large meeting room~
+You are standing before a large round table that spans the entire room.
+There are intercom-monitors placed in front of each chair.  This is
+definately a place where only the most important passengers come to discuss
+important issues and such.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 316
+D3
+
+~
+~
+0 -1 314
+S
+#316
+Inside a large meeting room~
+You're standing before a large-screen monitor which is displaying a global
+map of a solar system.  There's a large control panel here that seems to
+control something but you aren't sure what.  The meeting room ends here, and
+you are disappointed that it didn't lead to another teleporter that can get
+you home.
+~
+3 47112 0
+0d0+0 0 0
+D3
+
+~
+~
+0 -1 315
+S
+#317
+Eastern-section hallway~
+This narrow passageway seems to lead to the eastern section of this starship.
+The hallway stretches all the way southeast of here and to your northwest,
+there's a hallway that'll take you to the northern-head section of this
+vessel.
+~
+3 47112 0
+0d0+0 0 0
+D7
+
+~
+~
+0 -1 329
+D8
+
+~
+~
+0 -1 318
+D9
+
+~
+~
+0 -1 304
+S
+#318
+Eastern-section hallway~
+This hallway seems endless but you finally come to an area just southeast of
+here.  It seems to be a docking bay of some sort where minature fighter-
+ships are sent out for battle, or it could be just a cargo bay for loading
+supplies and such.
+~
+3 47112 0
+0d0+0 0 0
+D7
+
+~
+~
+0 -1 317
+D8
+
+~
+~
+0 -1 319
+S
+#319
+Eastern-section hallway~
+So as soon as you walk into this area, you notice a large room just east of
+here.  There are fighter planes and minature battle-cruisers here, armed and
+ready for takeoff.  This hallway continues northwest and southwest of where
+you're standing.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 320
+D7
+
+~
+~
+0 -1 318
+D9
+
+~
+~
+0 -1 323
+S
+#320
+Eastern-section (the docking bay)~
+You are in awe to see the size of this docking bay...it's huge!  There are
+minature fighter-ships all over the place and they don't seem to be crowded
+in next to one another due to the unlimited space in this docking bay. You
+feel a numbing cold from the freezing temperatures of space as it escapes and
+enters the ship from a crack on the entrance/exit gates.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 321
+D3
+
+~
+~
+0 -1 319
+S
+#321
+Eastern-section (the docking bay)~
+The freezing temperature in this room is slowly turning your blood into
+frozen yogurt.  You are not suited up to be walking around this area of the
+starship and if you go any further east of here, you might be frozen to death
+in a matter of minutes.  The docking bay continues east and west of where
+you're standing.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 322
+D3
+
+~
+~
+0 -1 320
+S
+#322
+Eastern-section (the docking bay - exit/entrance)~
+You're standing before the large gates that separates you from the void of
+space.  Watch Out!  If you open these large gates, you may get sucked out
+into the vacuum of outer space.  The freezing temperature of space would
+easily kill you, if not, then the lack of oxygen would do the job.
+~
+3 47112 0
+0d0+0 0 0
+D1
+Only a 'unique' key can open this gate.
+~
+gates gate~
+2 488 346
+D3
+
+~
+~
+0 -1 321
+S
+#323
+Eastern-section hallway~
+This hallway seems to be endless and the turns from east-to-west and west-
+to-east are just confusing.  The hallway continues south and northeast of
+where you're standing.
+~
+3 47112 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 324
+D6
+
+~
+~
+0 -1 319
+S
+#324
+Eastern-section hallway~
+This hallway seems to take you to the southern part of this starship. There
+are some activities going on east of here and you can see lights flashing
+from that direction.  The sound of motors and machines seem to be everywhere
+in that room east of where you're standing.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 323
+D1
+
+~
+~
+0 -1 325
+S
+#325
+Engineering department~
+There are a lot of activities of all sorts happening inside this large
+department.  This must be the area where the ship's power comes from and it
+seems to generate that power from that large light capsule south of here.
+~
+3 47112 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 326
+D3
+
+~
+~
+0 -1 324
+S
+#326
+Engineering department~
+There's a large light capsule in the middle of the room where the ship
+harnesses its seemingly unlimited power.  This engineering room is huge but
+there isn't much space to walk because of the wires and the large control
+panels that seem to be everywhere.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 325
+D3
+
+~
+~
+0 -1 327
+S
+#327
+Engineering department~
+More and more wires are interconnected from all over the starship.  This area
+must be the vital part of the entire vessel and if anything should happen to
+this area, it can result in a an explosion or a shutdown of the entire
+starship.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 326
+D3
+
+~
+~
+0 -1 328
+S
+#328
+Engineering department~
+You've come to the end of the engineering department and there's nothing
+unusual about this room.  There's a large control panel in the middle of the
+room and it seems to be automatically operating on the energy flow of this
+entire department.  Behind this control panel, you see someone there trying
+to operate this system.  He's a big, tall man wearing a tight red spandex
+jumpsuit with a lightning symbol in the center.  He doesn't look threatening
+but then again, you can't be really sure.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 327
+S
+#329
+Northern-head section hallway~
+This passageway inside this strange vessel seems to lead to the northern
+section where probably the main controls are located.  This northern hallway
+looks endless, maybe you ought to think twice before advancing any
+further...it might be a trap.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 330
+D8
+
+~
+~
+0 -1 317
+D9
+
+~
+~
+0 -1 305
+S
+#330
+Northern-head section hallway~
+The northern passageway seems to end here and you've stopped in front of a
+very large room.  To a distance north, you can see super-characters there
+wearing outrageous outfits and masks.  They all seem to be busy, manning the
+starship and trying to avoid a large meteor storm that is occurring outside
+this great vessel.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 331
+D2
+
+~
+~
+0 -1 329
+S
+#331
+Inside the Main Bridge~
+You've stepped into the Main Bridge of this starship and you are in awe to
+see everything that surrounds this room.  There are computer panels, flow
+charts, diagrams, monitors, etc. on each side of the walls.  There are also
+large access panels in the center of this large room and each is operated by
+a super-character type.  This area looks safe to go into but WATCH OUT,
+things may not be what it seems...advance with caution...
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 338
+D2
+
+~
+~
+0 -1 330
+D3
+
+~
+~
+0 -1 332
+S
+#332
+Inside the Main Bridge~
+There's a large access panel here that is operated by a blonde-haired
+super-freak.  He seems to be really busy trying to find the proper controls
+that would help this starship to avoid a catastrophe in space.  The guy is
+wearing an orange, scaley-type suit and some green spandex pants with fins at
+the foot-end.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 333
+D1
+
+~
+~
+0 -1 331
+S
+#333
+Inside the Main Bridge~
+There's someone here behind the large computer panel but you can't seem to
+make him out...  He seems to be moving so fast that all you could see of him
+is a blur.  For a split second, just when he was taking a breather, he looks
+like he's wearing a red bodysuit that covers him from head to toe. He has a
+lightning bolt as a symbol in the center of his suit, maybe to symbolize his
+awesome, unique power.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 334
+D2
+
+~
+~
+0 -1 332
+S
+#334
+Inside the Main Bridge~
+From this side of the room, you can see all of the super-character type
+people here working hard trying to control this alien starship.  You want to
+help but they seem to be doing okay and the ship itself is headed almost away
+from the meteor storm.  There's a hallway to your northeast, it might take
+you to the head controls of this large vessel.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 335
+D2
+
+~
+~
+0 -1 333
+D7
+
+~
+~
+0 -1 340
+S
+#335
+Inside the Main Bridge~
+You're standing before a large, view-screen monitor which displays a deadly
+meteor storm that's happening outside this starship.  The crew on this
+bridge is doing a pretty good job at dodging the meteors that are going at
+an incredible speed!
+~
+3 47112 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 336
+D2
+~
+~
+0 -1 339
+D3
+~
+~
+0 -1 334
+S
+#336
+Inside the Main Bridge~
+The spandex-wearing freaks on this ship seem to be really busy just trying
+to save themselves from being hit by the meteor storm outside.  You can see
+ on the large-screen monitor that meteors, the size of Earth's moon, are just
+inches from colliding with this starship.  There's a hallway to your 
+northwest which may probably lead you to the head controls of this ship.
+~
+3 47112 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 337
+D3
+~
+~
+0 -1 335
+D6
+~
+~
+0 -1 343
+S
+#337
+Inside the Main Bridge~
+There's a large computer panel in the center of this section and behind it,
+there's a nice-looking brunette in a tight swimsuit adjusting the levers
+and controls of this starship.  This woman looks very diligent as she
+handles the controls with extreme care.
+~
+3 47112 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 336
+D2
+~
+~
+0 -1 338
+S
+#338
+Inside the Main Bridge~
+The computer access panel in this section seems to be controlled by two
+guys here, both dressed in green outfits and masks.  One of the guys has a
+large hunter's bow on his back and he has a blonde goatee and moustache.
+The other guy here is a brunette with a small green mask.  He wears a tight
+green and black spandex outfit with a strange symbol in the center.
+~
+3 47112 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 337
+D3
+~
+~
+0 -1 331
+S
+#339
+Inside the Main Bridge~
+This is the center of the Main Bridge and the main controls seem to all be
+located here.  Behind these controls, there's a man here trying hard to
+navigate the ship to safety and a boy is here, assisting him.  The man looks
+like a giant bat.  He wears a dark cowl that covers him like a blanket and
+in the center of his outfit is a symbol of the bat.  However, the boy has a
+worst taste in costume than anyone else aboard this starship.  He's dressed
+in a ballerina-type costume with contrasting colors like red, yellow, and
+green all over.
+~
+3 47112 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 335
+S
+#340
+Northern-section hallway~
+This passageway seems to head towards the head control room of this starship.
+The hallway looks safe to walk on but who knows how the security system on
+this ship works.  There might be a trap of some sort as you walk further
+towards your destination.
+~
+3 47112 0
+0d0+0 0 0
+D6
+
+~
+~
+0 -1 341
+D8
+
+~
+~
+0 -1 334
+S
+#341
+Northern-section hallway~
+You come to the end of this long hallway and there's an entrance here to a
+room...probably it's the head control room.  You take a quick, sneak peek at
+what's inside that small room.  There's a man inside controlling the access
+computer panels and he looks very busy.  You sense there might be danger if
+you do step through this entrance...you may never get out...alive!
+~
+3 47112 0
+0d0+0 0 0
+D6
+
+~
+~
+0 -1 344
+D9
+
+~
+~
+0 -1 340
+S
+#342
+Northern-section hallway~
+You sense there is danger around this section of the hallway...that if you
+step into that room northwest of here, you may never be able to get out of
+there alive!  There's a man in that room northwest of here and he looks
+big, very BIG.
+~
+3 47112 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 344
+D8
+~
+~
+0 -1 343
+S
+#343
+Northern-section hallway~
+The northern passageway probably leads towards the control room of this
+starship.  The hallway doesn't seem too long, you can see a room and a man
+inside this room from a distance north of here.
+~
+3 47112 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 342
+D9
+~
+~
+0 -1 336
+S
+#344
+The head-control room~
+As you step into this room, the door behind you quickly closes and you are
+locked from the outside.  There's no way you can re-open this door from the
+inside and you may be stuck in here till the end of this journey.  The man in
+the blue and red spandex suit seems to be too busy to notice your presence.
+He's a very big man with big muscles all over.  You sense he's not a
+dangerous man but who knows what he's capable of when provoked by pesky fleas
+like yourself.  Who knows? -- If he gets mad, he could probably throw you out
+the window into the void of space...
+~
+3 47116 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 345
+D1
+
+~
+~
+0 -1 345
+D3
+
+~
+~
+0 -1 345
+S
+#345
+Hurled into the Void of Space!~
+The strength and powers of Superman is too much for you to handle.  With
+one powerful, earth-shattering punch, he sends you through the thick steel
+wall of this alien vessel.  You gasp for air as you begin to lose
+consciousness.  A large comet/meteor is headed towards you and it may hit
+at a speed faster than any truck on Earth.
+Sorry, young traveler, your journey ends here and now...
+~
+3 61450 0
+1d1+199 90 0
+D5
+~
+~
+0 -1 3001
+S
+#346
+The Void of Space...~
+There's nothing around this area of space except for meteors that are passing
+you by at an incredible speed.  You sense danger everywhere as you notice
+that you're at the center of a deadly meteor storm.  Watch Out!  One wrong
+move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 364
+D1
+You will not survive this deadly meteor shower...
+~
+east e~
+0 -1 354
+D2
+
+~
+~
+0 -1 364
+D3
+Only a 'unique' key can unlock this gate.
+~
+gates gate~
+2 488 322
+D6
+You will not survive this deadly meteor shower...
+~
+northeast e~
+0 -1 354
+D7
+
+~
+~
+0 -1 364
+D8
+
+~
+~
+0 -1 347
+D9
+You will not survive this deadly meteor shower...
+~
+southwest sw~
+0 -1 354
+S
+#347
+The Void of Space...~
+There's nothing around this area of space except for meteors that are passing
+you by at an incredible speed.  You sense danger everywhere as you notice
+that you're at the center of a deadly meteor storm.  Watch Out!  One wrong
+move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 364
+D1
+You will not survive this deadly meteor shower...
+~
+east e~
+0 -1 354
+D2
+You will not survive this deadly meteor shower...
+~
+south s~
+0 -1 354
+D3
+
+~
+~
+0 -1 364
+D6
+
+~
+~
+0 -1 353
+D7
+
+~
+~
+0 -1 346
+D8
+
+~
+~
+0 -1 348
+D9
+
+~
+~
+0 -1 364
+S
+#348
+The Void of Space...~
+There's nothing around this area of space except for meteors that are passing
+you by at an incredible speed.  You sense danger everywhere as you notice
+that you're at the center of a deadly meteor storm.  Watch Out!  One wrong
+move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+You will not survive this deadly meteor shower...
+~
+north n~
+0 -1 354
+D1
+
+~
+~
+0 -1 364
+D2
+
+~
+~
+0 -1 364
+D3
+You will not survive this deadly meteor shower...
+~
+west w~
+0 -1 354
+D6
+
+~
+~
+0 -1 351
+D7
+
+~
+~
+0 -1 347
+D8
+
+~
+~
+0 -1 364
+D9
+
+~
+~
+0 -1 349
+S
+#349
+The Void of Space...~
+A large, round meteor is located here and it's not in motion...someone or
+something seems to be riding on top of it.  It looks like one of those
+super-characters you would find on Earth but something tells you he's not
+from your home-world.  This being looks magnificent and frightening at the
+same time.  With pointy ears and a dark, evil face, he stares and laughs at
+you as though he is about to do something WICKED!
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 364
+D1
+
+~
+~
+0 -1 364
+D2
+You will not survive this deadly meteor shower...
+~
+south s~
+0 -1 354
+D3
+You will not survive this deadly meteor shower...
+~
+west w~
+0 -1 354
+D6
+
+~
+~
+0 -1 348
+D7
+You will not survive this deadly meteor shower...
+~
+northwest nw~
+0 -1 354
+D8
+
+~
+~
+0 -1 364
+D9
+
+~
+~
+0 -1 350
+S
+#350
+The Void of Space...~
+You should have never stepped into this place.  No mortal should ever witness
+two of the greatest, most powerful beings in the universe challenging one
+another for the fate of REALITY!  You're standing before two celestial beings
+that are about to engage in a combat that would shatter worlds light-years
+away.  At this moment, they seem to be discussing time barriers, alternate
+universes, and such things that are beyond any human comprehension. This
+would be a good time for you to leave before their grand battle starts...
+~
+3 47112 0
+0d0+0 0 0
+D0
+You will not survive this deadly meteor shower...
+~
+north n~
+0 -1 354
+D1
+You will not survive this deadly meteor shower...
+~
+east e~
+0 -1 354
+D2
+You will not survive this deadly meteor shower...
+~
+south s~
+0 -1 354
+D3
+You will not survive this deadly meteor shower...
+~
+west w~
+0 -1 354
+D6
+
+~
+~
+0 -1 349
+D7
+You will not survive this deadly meteor shower...
+~
+northwest nw~
+0 -1 354
+D8
+You will not survive this deadly meteor shower...
+~
+southeast se~
+0 -1 354
+D9
+You will not survive this deadly meteor shower...
+~
+southwest sw~
+0 -1 354
+S
+#351
+The Void of Space...~
+There's nothing around this area of space except for meteors that are passing
+you by at an incredible speed.  You sense danger everywhere as you notice
+that you're at the center of a deadly meteor storm.  Watch Out!  One wrong
+move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 364
+D1
+
+~
+~
+0 -1 352
+D2
+
+~
+~
+0 -1 364
+D3
+You will not survive this deadly meteor shower...
+~
+west w~
+0 -1 354
+D6
+You will not survive this deadly meteor shower...
+~
+northeast ne~
+0 -1 354
+D7
+
+~
+~
+0 -1 353
+D8
+
+~
+~
+0 -1 364
+D9
+
+~
+~
+0 -1 348
+S
+#352
+The Void of Space...~
+Meteors and more meteors are passing you by at an incredible speed and it's
+becoming more difficult to dodge them as you continue your long journey. You
+notice a man coming close to your direction.  He doesn't look hostile and
+maybe he's just trying to help you out of this stellar deathtrap.  But can
+you trust a green-skinned, bald-headed man who's wearing nothing but blue
+underwear and cape?
+~
+3 47112 0
+0d0+0 0 0
+D0
+You will not survive this deadly meteor shower...
+~
+north n~
+0 -1 354
+D1
+
+~
+~
+0 -1 364
+D2
+
+~
+~
+0 -1 364
+D3
+
+~
+~
+0 -1 351
+D6
+
+~
+~
+0 -1 364
+D7
+You will not survive this deadly meteor shower...
+~
+northwest nw~
+0 -1 354
+D8
+
+~
+~
+0 -1 416
+D9
+
+~
+~
+0 -1 364
+S
+#353
+The Void of Space...~
+There's nothing around this area of space except for meteors that are
+passing you by at an incredible speed.  You sense danger everywhere as you
+notice that you're at the center of a deadly meteor storm.  Watch Out!  One
+wrong move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+You will not survive this deadly meteor shower...
+~
+north n~
+0 -1 354
+D1
+You will not survive this deadly meteor shower...
+~
+east e~
+0 -1 354
+D2
+~
+~
+0 -1 364
+D3
+~
+~
+0 -1 364
+D6
+~
+~
+0 -1 365
+D7
+~
+~
+0 -1 356
+D8
+~
+~
+0 -1 351
+D9
+~
+~
+0 -1 347
+S
+#354
+The Void of Space...~
+OH MY GOD...THE PAIN!!! You were careless to have stepped into the path of a
+super-meteor and the impact is so painful that not even your powerful armor
+could save you.  You can feel the intense heat of this rock as it sears your
+skin, charring it to the BONE!  The torture doesn't end there...the meteor
+seems to be dragging you along on its journey and before you could close your
+eyes, you notice you're about to be slammed into another meteor!!  Sorry,
+young space-traveler, your journey ends here and now...
+~
+3 63502 0
+1d1+20 10 0
+D5
+
+~
+~
+0 -1 3072
+S
+#355
+The Void of Space...~
+There's nothing around this area of space except for meteors that are passing
+you by at an incredible speed.  You sense danger everywhere as you notice
+that you're at the center of a deadly meteor storm.  Watch Out!  One wrong
+move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 364
+D1
+You will not survive this deadly meteor shower...
+~
+east e~
+0 -1 354
+D2
+
+~
+~
+0 -1 364
+D3
+You will not survive this deadly meteor shower...
+~
+west w~
+0 -1 354
+D6
+
+~
+~
+0 -1 360
+D7
+
+~
+~
+0 -1 364
+D8
+
+~
+~
+0 -1 365
+D9
+
+~
+~
+0 -1 356
+S
+#356
+The Void of Space...~
+There's nothing around this area of space except for meteors that are passing
+you by at an incredible speed.  You sense danger everywhere as you notice
+that you're at the center of a deadly meteor storm.  Watch Out!  One wrong
+move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+You will not survive this deadly meteor shower...
+~
+north n~
+0 -1 354
+D1
+You will not survive this deadly meteor shower...
+~
+east e~
+0 -1 354
+D2
+
+~
+~
+0 -1 364
+D3
+You will not survive this deadly meteor shower...
+~
+west w~
+0 -1 354
+D6
+
+~
+~
+0 -1 355
+D7
+
+~
+~
+0 -1 357
+D8
+
+~
+~
+0 -1 353
+D9
+
+~
+~
+0 -1 364
+S
+#357
+The Void of Space...~
+Dodging through this meteor storm is becoming more difficult as you advance
+closer to your destination, wherever that may be...  Suddenly, you notice a
+man on a motorcylce-like space cruiser coming towards your direction.  He
+doesn't look like a nice guy...in fact he's about to run you over...either
+because you're in his way or he's a homicidal maniac who enjoys watching
+people DIE and SUFFER!
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 364
+D1
+
+~
+~
+0 -1 364
+D2
+You will not survive this deadly meteor shower...
+~
+south s~
+0 -1 354
+D3
+You will not survive this deadly meteor shower...
+~
+west w~
+0 -1 354
+D6
+You will not survive this deadly meteor shower...
+~
+northeast ne~
+0 -1 354
+D7
+
+~
+~
+0 -1 364
+D8
+
+~
+~
+0 -1 356
+D9
+
+~
+~
+0 -1 358
+S
+#358
+The Void of Space...~
+There's nothing around this area of space except for meteors that are passing
+you by at an incredible speed.  You sense danger everywhere as you notice
+that you're at the center of a deadly meteor storm.  Watch Out!  One wrong
+move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 364
+D1
+
+~
+~
+0 -1 364
+D2
+You will not survive this deadly meteor shower...
+~
+south s~
+0 -1 354
+D3
+
+~
+~
+0 -1 364
+D6
+
+~
+~
+0 -1 357
+D7
+
+~
+~
+0 -1 359
+D8
+You will not survive this deadly meteor shower...
+~
+southeast se~
+0 -1 354
+D9
+
+~
+~
+0 -1 364
+S
+#359
+The Void of Space...~
+At a distance from where you're standing, you can see a small, lovely blue
+planet.  You wanted to go there for a visit but there are two super-beings
+here preventing anyone from disturbing the planet's serenity.  One of them is
+wearing a green vest with oversized boots and the other is a smaller
+gentleman with blue skin.  Both of them seem to be talking before you wander
+to this area, and they don't seem happy about your presence here. The two
+beings don't look hostile but if you try anything funny, they could really
+mess you up.
+~
+3 47112 0
+0d0+0 0 0
+D0
+You will not survive this deadly meteor shower...
+~
+north n~
+0 -1 354
+D1
+You will not survive this deadly meteor shower...
+~
+east e~
+0 -1 354
+D2
+
+~
+~
+0 -1 364
+D3
+
+~
+~
+0 -1 364
+D6
+You will not survive this deadly meteor shower...
+~
+northeast ne~
+0 -1 354
+D7
+
+~
+~
+0 -1 364
+D8
+
+~
+~
+0 -1 358
+D9
+
+~
+~
+0 -1 364
+S
+#360
+In the Castle of Apokolips~
+The grand castle of this large and populated planet looks nothing like you've
+seen before.  The alien technology is unimaginable and the construction and
+the architecture is just awe-inspiring.  This castle is made of solid metal
+of unknown composition and it looks sturdy enough to withstand an attack even
+from a galactic armada.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 361
+D9
+
+~
+~
+0 -1 355
+S
+#361
+In the Castle of Apokolips~
+As soon as you enter this area of this ancient castle, you notice a man in an
+iron mask is standing before you.  He seems to be the protector of this
+castle and what he seems to be trying to prevent you from going any further
+north of here and into the throne room.  He does look like a pretty tough
+guy, maybe you should think about turning back right now... To the north, a
+throne room of this castle's master is located there. PROCEED WITH CAUTION,
+for the Lord Darkseid is one of the most powerful and cunning beings in this
+entire universe!
+~
+3 47112 0
+0d0+0 0 0
+D0
+There's an large metal door in front of you and it seems to be locked. You'll
+need a key to open this barrier if you wish to go any further.
+~
+door doors north throne ~
+2 451 362
+D2
+
+~
+~
+0 -1 360
+S
+#362
+The Throne Room of Lord Darkseid~
+Just as soon as you enter this majestic room, the door behind you closes all
+of a sudden!  You have nowhere to go...either challenge the great Darkseid in
+mortal combat or DIE!  As you look around, the center platform you're
+standing on begins to rise quickly.  You look over the edge to see what's
+below and you gasp in fear...large bone-grinding blades are placed there to
+dispose of fools who think they can defeat a GOD.  On the throne, Darkseid
+looks at you and laughs out loud.  You can feel the power that surrounds this
+mighty tyrant, and he seems to be ready to ANNIHILATE you with his SUPREME
+deathblows!
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 363
+D1
+
+~
+~
+0 -1 363
+D2
+
+~
+~
+0 -1 363
+D3
+
+~
+~
+0 -1 363
+S
+#363
+Falling into the BONE-GRINDING BLADES!~
+This is not a pretty sight...  Pieces of flesh and bones are splattered
+with blood all over the place.  You can hear the clashing blades as it
+devour your body with ease, and your screams of agony echo throughout this
+room as Darkseid laughs with amusement!  You begin to choke on your own
+blood as you struggle in pain to free yourself from this grisly deathtrap!
+Sorry, young space-traveler, your long journey has finally come to an end.
+~
+3 47114 0
+20d10+100 20 0
+D5
+~
+~
+0 -1 3072
+S
+#364
+The Void of Space...~
+There's nothing around this area of space except for meteors that are passing
+you by at an incredible speed.  You sense danger everywhere as you notice
+that you're at the center of a deadly meteor storm.  Watch Out!  One wrong
+move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 364
+D1
+You will not survive this deadly meteor shower...
+~
+east e~
+0 -1 354
+D2
+
+~
+~
+0 -1 351
+D3
+
+~
+~
+0 -1 356
+D6
+
+~
+~
+0 -1 364
+D7
+
+~
+~
+0 -1 347
+D8
+
+~
+southeast se~
+0 -1 354
+D9
+
+~
+~
+0 -1 348
+S
+#365
+The Void of Space...~
+There's nothing around this area of space except for meteors that are passing
+you by at an incredible speed.  You sense danger everywhere as you notice
+that you're at the center of a deadly meteor storm.  Watch Out!  One wrong
+move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+You will not survive this deadly meteor shower...
+~
+north n~
+0 -1 354
+D1
+Only an 'unique' key can unlock these gates.
+~
+gates gate~
+2 488 366
+D2
+
+~
+~
+0 -1 364
+D3
+
+~
+~
+0 -1 364
+D6
+You will not survive this deadly meteor shower...
+~
+northeast ne~
+0 -1 354
+D7
+
+~
+~
+0 -1 355
+D8
+
+~
+~
+0 -1 364
+D9
+
+~
+~
+0 -1 353
+S
+#366
+Western-section (the docking bay - exit/entrance)~
+You're standing before a strong gate that separates you from the freezing
+cold of outer space.  The docking bay seems to end here with this large exit
+where these minature battle-cruisers takeoff to assist in battle.  The tall
+gate looks like a tough barrier, it's probably more than a few feet thick and
+made from an indestructable metal.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 367
+D3
+Only a 'unique' key can unlock this gate.
+~
+gates gate~
+2 488 365
+S
+#367
+Western-section (the docking bay)~
+There are a lot of minature battle-cruisers lined up all over this entire
+room. It looks as though the old occupants of this starship were preparing
+for some sort of a battle to the death.  Each small ship is equipped with a
+supply of unlimited ammunition and some anti-aircraft guns on its wings.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 368
+D3
+
+~
+~
+0 -1 366
+S
+#368
+Western-section (the docking bay)~
+You've entered the docking bay of this large starship and you are in awe to
+see what's inside.  There are hundreds, maybe thousands of minature battle-
+cruisers everywhere you look.  There's a long stretch of runway in the center
+of this docking bay that seems to lead towards a large gate.
+~
+3 47112 0
+0d0+0 0 0
+D3
+
+~
+~
+0 -1 367
+D8
+
+~
+~
+0 -1 369
+S
+#369
+Western-section hallway~
+This section of the passageway ends here and you notice there are two
+entrances here that you can take.  To your northwest, there's a large docking
+bay that's ready to send out battle-cruisers into a galactic war. To your
+east, the mid-section hallway begins there.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 370
+D7
+
+~
+~
+0 -1 368
+D8
+
+~
+~
+0 -1 372
+S
+#370
+Midsection hallway~
+This short but narrow passageway seems to lead toward the middle of this
+large vessel, probably towards the main bridge.  The diagrams on the walls
+show that the main controls seem to be located at that direction.  This
+hallway continues east of here.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 371
+D3
+
+~
+~
+0 -1 369
+S
+#371
+Midsection hallway~
+This hallway ends here all of a sudden but you'll notice a large meeting room
+to your northeast.  There's a large table in the middle of the room with
+chairs set all around it.  You can see charts and maps of different solar
+systems and a view screen that's monitoring the conditions outside this
+mammoth starship.
+~
+3 47112 0
+0d0+0 0 0
+D3
+
+~
+~
+0 -1 370
+D6
+
+~
+~
+0 -1 387
+S
+#372
+Western-section hallway~
+The small windows on the sides of this hallway show a large meteor storm just
+right outside this starship.  Some of those meteors are just inches from
+colliding with this mammoth vessel.  The passageway continues northwest and
+southeast of here.
+~
+3 47112 0
+0d0+0 0 0
+D7
+
+~
+~
+0 -1 369
+D8
+
+~
+~
+0 -1 373
+S
+#373
+Western-section hallway~
+You are getting tired from all this walking.  This hallway seems endless from
+where you are currently located.  In both directions, there are more and more
+hallways everywhere.  This narrow passageway continues northwest and
+southeast of where you're standing.
+~
+3 47112 0
+0d0+0 0 0
+D7
+
+~
+~
+0 -1 372
+D8
+
+~
+~
+0 -1 374
+S
+#374
+Western-section hallway~
+As you walk along this passageway, you notice the diagrams and maps on the
+walls.  Everywhere you look, there are computerized charts displaying
+locations and the current status of the starship.  The long passageway
+continues northwest of here and the teleport room is to your southeast.
+~
+3 47112 0
+0d0+0 0 0
+D7
+
+~
+~
+0 -1 373
+D8
+
+~
+~
+0 -1 375
+S
+#375
+Inside a teleporter room~
+You appear out of nowhere in a room that you're not familiar with. Everywhere
+you look, there are computerize diagrams and panels that cover all the walls.
+You see a large control console in the middle of the room and it looks like
+it controls this entire place.  There are hundreds of wires all over the
+floor that are connecting one thing to another.  Two exits are located in
+this room, one to your northwest and the other, northeast of here.
+~
+3 47116 0
+0d0+0 0 0
+D6
+
+~
+~
+0 -1 376
+D7
+
+~
+~
+0 -1 374
+S
+#376
+Eastern-section hallway~
+This passageway will take you to the east section of this vessel and it looks
+endless.  The hallway stretches all the way northeast of here...as far as the
+eye can see.  The only thing that's different about this section of the
+hallway is the schematic charts on the sides of the walls.
+~
+3 47112 0
+0d0+0 0 0
+D6
+
+~
+~
+0 -1 377
+D9
+
+~
+~
+0 -1 375
+S
+#377
+Eastern-section hallway~
+The long and narrow passageway seems to be continuous and the end doesn't
+seem to be anywhere near your location.  You are beginning to tire from this
+long walk on this endless hallway.  It would be wise for you to think about
+turning back right now.
+~
+3 47112 0
+0d0+0 0 0
+D6
+
+~
+~
+0 -1 378
+D9
+
+~
+~
+0 -1 376
+S
+#378
+Eastern-section hallway~
+Everywhere you look, it seems like the passageway here isn't going to end
+anytime soon.  You're about to give up this long journey and turn back to the
+teleporter room.  This long and narrow hallway continues northeast and
+southwest of where you're standing.
+~
+3 47112 0
+0d0+0 0 0
+D6
+
+~
+~
+0 -1 379
+D9
+
+~
+~
+0 -1 377
+S
+#379
+Eastern-section hallway~
+Finally, it looks like you've come to the end of this long hallway.  There
+are new passageways that you can take here.  To your northeast, a room is
+located there...it looks like the engineering room of this starship but
+you're not sure.  To your west, another section of the hallway begins...it
+looks like it will lead you towards the midsection of the vessel.
+~
+3 47112 0
+0d0+0 0 0
+D3
+
+~
+~
+0 -1 380
+D6
+
+~
+~
+0 -1 382
+D9
+
+~
+~
+0 -1 378
+S
+#380
+Midsection hallway~
+This short passageway looks like it leads towards the middle of the vessel,
+possibly towards the main bridge.  You can see from a distance that this
+hallway is about to end soon as you begin walking further west of here.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 379
+D3
+
+~
+~
+0 -1 381
+S
+#381
+Midsection hallway~
+It looks like this short hallway ends here.  There's a large room northwest
+of where you're standing and you are in awe to see all the monitors,
+diagrams, maps, etc. on all the walls and computer consoles.  There's a large
+table in the center of this room and chairs are lined to the sides of it.
+That room must be some sort of a meeting place for the crew of this great
+starship.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 380
+D7
+
+~
+~
+0 -1 385
+S
+#382
+Engineering room~
+Everywhere you look, there are gadgets and computers making noises all around
+this huge room.  This must be the engineering room where the ship recieves
+and regenerates its power supply.  This is a very well-lit room, the lights
+on the power cells are so bright, it could almost make you blind when you
+look at it.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 383
+D9
+
+~
+~
+0 -1 379
+S
+#383
+Engineering room~
+The power cells in this room seem to be everywhere you look.  This starship
+must require a massive dosage of energy in order for it to function.  The
+cells are making the room so bright that you have to shield your eyes from
+being blinded.  The engineering room ends just east of here.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 384
+D3
+
+~
+~
+0 -1 382
+S
+#384
+Engineering room~
+The main power conduits are all located in this one section of the room.  A
+large power capsule lies in the middle of this room as cables are connected
+there to send the energy to different areas of the ship.  There's a man here
+dressed in some eskimo outfit and he looks like he's controlling this part of
+the vessel.
+~
+3 47112 0
+0d0+0 0 0
+D3
+
+~
+~
+0 -1 383
+S
+#385
+Inside a meeting room~
+What a large room you've entered!  The walls are filled with diagrams and
+maps of everything in this section of the galaxy.  To the further west of
+here, there's a large table where the actual meeting of the crew takes place.
+There's a big guy sitting on a chair motionless as though he's dead.  Maybe
+you shouldn't disturb his rest...
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 389
+D3
+
+~
+~
+0 -1 386
+D8
+
+~
+~
+0 -1 381
+S
+#386
+Inside a meeting room~
+You're standing before a large table where important discussions are talked
+over by the members of this starship's crew.  There are chairs and small
+monitors hooked up to each section of the table.  A giant with bone-white
+skin is sitting here, looking as though he's been dead for a year.  Watch
+out!  Getting him mad may not be the wisest thing to do.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 385
+D3
+
+~
+~
+0 -1 387
+S
+#387
+Inside a meeting room~
+This room is probably the largest room in this entire ship and it looks like
+it's a meeting room of some sort.  There's a large table, east of here, and
+chairs are lined all around it.  Monitors and schematic charts are everywhere
+on the walls and control consoles.  A man with a fish tank for a helmet seems
+to be controlling this section of the room.  He's configuring some data on
+the main control panel.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 388
+D1
+
+~
+~
+0 -1 386
+D9
+
+~
+~
+0 -1 371
+S
+#388
+Inside a meeting room~
+As soon as you walk into this section of the meeting room, a strange laughter
+seems to echo everywhere.  A little elf is here, floating on mid- air in a
+sitting position!  He's a skinny little man about fifty or sixty years old
+and his large, round head is unlike any human on earth.  This little elf
+looks harmless but you sense he's more dangerous than he looks.
+~
+3 47112 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 390
+D2
+
+~
+~
+0 -1 387
+S
+#389
+Inside a meeting room~
+There's more and more diagrams and systematic charts on the walls.  The
+view-screen in the center of this room shows the turbulence that's happening
+outside this starship.  This vessel is trying to pass through a thick meteor
+storm and it's incredible that this ship could survive this long in this
+disastrous conditions.
+~
+3 47112 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 385
+D3
+
+~
+~
+0 -1 390
+S
+#390
+Inside a meeting room~
+A large view-screen monitor is located here where everyone on the meeting
+table can see.  It shows the terrible conditions outside this area of space
+and it's incredible that not even one meteor has struck this sturdy vessel.
+There's another hallway behind the large monitor.  It seems to lead towards
+another large room north of here, it's probably the main bridge of this
+starship or its head control room.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 391
+D1
+
+~
+~
+0 -1 389
+D3
+
+~
+~
+0 -1 388
+S
+#391
+Northern-section hallway~
+This short and broad passageway may probably take you to the main bridge of
+this starship.  To the north, you can see a room as large as the meeting room
+you've come from.  There seems to be a lot of activities going on in that
+area and you can see people there scampering all around.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 392
+D2
+
+~
+~
+0 -1 390
+S
+#392
+Northern-section hallway~
+You've come to the end of this short passageway.  To the north of where
+you're standing, you would notice a large room where all the main controls
+are located.  There are people there stationed to their post and working to
+keep this ship from being hit by the meteors outside.
+~
+3 47112 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 393
+D2
+~
+~
+0 -1 391
+S
+#393
+Inside the Main Bridge~
+You are astonished by the setup in this room.  There are control consoles
+everywhere you look and monitors and view-screens in all directions.  The
+crew on this main bridge seems to be working feverishly as they try to
+manuever the ship out of danger from the deadly meteor storm outside.
+~
+3 47112 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 395
+D2
+~
+~
+0 -1 392
+D3
+~
+~
+0 -1 394
+S
+#394
+Inside the Main Bridge~
+A large control console is lying in the middle of this section and a funny-
+looking man in a top-hat is here, trying hard to understand the different
+controls and functions.  He looks like a penguin with his long beaked nose
+and his black and white tuxedo.  When he moves, he waddles like a penguin
+and even squawks like one.
+~
+3 47112 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 398
+D1
+~
+~
+0 -1 393
+S
+#395
+Inside the Main Bridge~
+The first thing you notice when coming to this section of the main bridge,
+is the woman behind the control panel.  She's dressed in leather from head
+to toe and her outfit is skin-tight.  The outfit she's wearing makes her
+look like a black cat because of her long tail and her pointy cat's ears.
+Her attention seems to be towards the panel as she tries to find the
+correct levers to pull and the correct buttons to push.
+~
+3 47112 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 396
+D3
+~
+~
+0 -1 393
+S
+#396
+Inside the Main Bridge~
+The control console here looks like it's about to explode and it seems to
+be hammered by a bat or something.  A large man is here, trying hard to
+control the complicated functions on this panel and he looks very frustrated.
+In fact, as he push each button on the panel, he's really pounding it with
+his great strength.  This man possess superhuman strength and the costume
+he's wearing looks like the outfit worn by Superman...
+~
+3 47112 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 395
+D3
+~
+~
+0 -1 397
+S
+#397
+Inside the Main Bridge~
+You're standing before a large screen monitor and it looks like it is
+showing the conditions outside this starship.  The deadly meteor storm is
+becoming more and more dangerous as the ship heads toward the center of the
+storm's pathway.  A man is here laughing out loud as though he is amused by
+the life and death situation that he's about to face.  He looks like a
+circus clown because of the makeup on his face and his colorful outfit.
+Behind teh large screen monitor is a pathway that'll take you north of this
+starship...it might lead you towards the head control room.
+~
+3 47112 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 399
+D1
+~
+~
+0 -1 396
+D3
+~
+~
+0 -1 398
+S
+#398
+Inside the Main Bridge~
+The control console here seems to be managed by a lunatic who's talking to
+himself constantly.  He wears a small green mask and a green jumpsuit with
+question marks all over.  The lunatic chuckles as he works on the control
+panel...he seems to be always thinking about something.  He's probably
+thinking up of a way to kill someone or maybe a diabolical plot to takeover
+the entire world.
+~
+3 47112 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 397
+D2
+~
+~
+0 -1 394
+S
+#399
+Northern-head section hallway~
+This short and narrow hallway seems to lead you towards the head-control
+room where the navigation controls are located.  The room, north of here,
+looks dark but you can see the lights inside flickering on and off.
+There's a man in that small room and he seems to be working hard to keep
+this starship under control.  Watch Out!  Once you pass through into that
+room, the security system in this vessel may be activitated immediately and
+you may find yourself at the mercy of this bloodthirsty crew.
+~
+3 47112 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 300
+D2
+~
+~
+0 -1 397
+S
+#400
+A transporter back to earth~
+You are standing in a glass room with doors to each side of you.  Bellow you
+is a handle on the floor.  There is plenty of room for you to pull the plug
+and not hit your behind on the walls.  There are lights on periodic sections
+everywhere.  You realize that there is no way back out of this place.
+~
+3 14344 0
+0d0+0 0 0
+D5
+~
+plug~
+1 -1 401
+S
+#401
+Welcome to Metro-Gotham City!~
+    ***********************************************************    **
+Welcome to...                                    **    **
+**    **            M E T R O - G O T H A M   C I T Y          **
+*********************************************************** You are amazed
+and bedazzled by this city's unique atmosphere and the buildings that are
+towering everywhere.  There are people walking here and there ... it's like
+Tokyo Main Street during business hours.  The noise level in this city is so
+loud that your ear drums feel like it's about to burst.  But it's not the
+people nor the noise that makes this city so different from New York or any
+other metropolitan area, it's the super- beings that are roaming freely here.
+Some of these superbeings look dangerous and others look majestic in their
+pose as they fly over this futuristic city. There's a small sign posted here.
+(GLOWING)
+~
+3 32772 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 402
+E
+sign post board~
+In the year 1998, a devasting earthquake rocked the continent of North
+America.  Hundreds of millions died and all of the cities were in ruins.
+Looters, scavengers, and murderers were left free to do whatever they wished
+and there were no one to stop them.  The US government was losing control
+over its armies as they were tempted themselves to start raping cities for
+food and other valuables.  The situation became so bad that the superheroes
+planned a truce with their super-nemesis to help rebuild America and to
+restore a new government controlled by both parties.  It was an unlikely
+alliance but amazingly the plan worked out well.  Metro-Gotham is now the
+largest city in the world, covering almost half of North America.  The name
+'Metro-Gotham' was given to this city in honor of the two great cities,
+Metropolis and Gotham, which were destroyed instantly by the earthquake.
+~
+S
+#402
+The Metro-Gotham Subway Transit~
+The subway system of this large city is very complex and it'll take some time
+before you'll be able to find your way around.  There's a marble stairway
+ahead of where you're standing and from here, you can see vacationers and
+businessmen/women pacing quickly down the steps trying to catch the earliest
+train.  You can hear the loud speakers as the ticketeer announce the
+destination routes and arrival times.
+~
+3 32768 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 403
+D2
+
+~
+~
+0 -1 401
+S
+#403
+Metro-Gotham Subway Station~
+Like most subway systems in a metropolitan area, this station is dimly lit.
+It's so crowded in here that you're beginning to sweat profusely.  Everyone
+is lining up to get onto the next train and they all seem to be very anxious
+as one person pushes another.  There's no place to breathe in here and you
+find it difficult to even move an inch on the walkway.
+~
+3 32777 1
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 402
+D5
+
+~
+~
+0 -1 404
+S
+#404
+Wandering in the Metro-Gotham Subway Station~
+This is hell.  You've been pushing and shoving for the last hour and you
+don't seem to be moving to anywhere fast.  The dim lighting of this subway
+station doesn't help you very much either.  The sunlight from the other side
+of this Metro station seems to be your only hope of finding your way out of
+here.  You better hurry...the next train is about to arrive and you don't
+want to be a victim of a stampede.
+~
+3 32777 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 405
+D4
+
+~
+~
+0 -1 403
+S
+#405
+Somewhere in the Metro-Gotham Subway Station~
+This tunnel is longer than it looks and you're beginning to tire from this
+long walk.  There are still people all around you, pushing and screaming
+profanities at you.  But you don't seem to be bothered by them...all you want
+to do now, is just get out of here and get into Metro-Gotham City.
+~
+3 32777 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 406
+D2
+
+~
+~
+0 -1 404
+S
+#406
+Inside the Metro-Gotham Subway Station~
+This subway station is a hell pit.  It's so hot in here that you're gasping
+for air as you walk every step in this station.  There's a light to the north
+of where you're standing and YES, it is the exit out of this tunnel. The
+entrance to the south will take you into the super city, Metro-Gotham.
+~
+3 32777 1
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 405
+D4
+
+~
+~
+0 -1 407
+S
+#407
+Exitting the Metro-Gotham Subway Station~
+This exit from the other side of the subway station will take you straight
+into the grand city of Metro-Gotham, home of the GREATEST SUPERHEROES the
+world has ever seen.  There are many happy vacationers here hoping to enjoy
+the splendid scenaries this city has to offer, and maybe they can even get to
+meet some of the local celebrities, Batman, Superman, and even Lex Luthor or
+the Joker.
+~
+3 32777 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 408
+D5
+
+~
+~
+0 -1 406
+S
+#408
+Inside the Futuristic City of Metro-Gotham~
+This city is much more beautiful than you dreamed it would be.  The
+futuristic design of the buildings and monuments are just stunning.  You are
+in awe to see the anti-gravity automobiles passing you by and the tall, arch
+mid-air highways that they're moving on.
+~
+3 32768 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 409
+D2
+
+~
+~
+0 -1 407
+S
+#409
+Metro-Gotham Main Street~
+You're standing on the most popular street in Metro-Gotham.  This long road
+can take you to almost all of the interesting sites you would want to visit
+for your journey here.  Metro-Gotham Main Street stretches all the way to the
+north of here, and to the east, there's an intersecting road that'll take you
+somewhere else.
+~
+3 32768 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 434
+D1
+
+~
+~
+0 -1 410
+D2
+
+~
+~
+0 -1 408
+S
+#410
+Golden Age Avenue~
+The pavement on this road looks to be made of solid granite with gold
+spreckles all over it.  This long stretch of road seems to lead to
+something important, probably to some rich-men's district.  There are palm
+trees and well-trimmed bushes everywhere on the side of this street and
+unlike the Metro-Gotham Main Street, this road is less crowded with 
+vacationers and businessmen/women.
+~
+3 32768 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 411
+D3
+~
+~
+0 -1 409
+S
+#411
+Walking on Golden Age Avenue~
+This road stretches all the way east of here and it doesn't look like it'll
+end anytime soon.  The scenaries of this long walk is just breathtaking.
+You can smell the freshly mowed lawn and the lovely sunset that shines in
+the glistening pond on a vast golf course.
+~
+3 32768 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 412
+D3
+~
+~
+0 -1 410
+S
+#412
+Walking on Golden Age Avenue~
+The houses here look pretty high class and the cars that drive by this road
+look pretty damn classy.  Even the nearby residents look like they're rolling
+in the big bucks, wearing designer's labels and flashing their Rolexes and
+their sapphire rings.  This district must be the playground of the rich and
+famous.  Only a selected few of the Metro-Gotham elite are allow to live in
+such a lavish lifestyle.
+~
+3 32768 1
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 413
+D3
+
+~
+~
+0 -1 411
+S
+#413
+Walking on Golden Age Avenue~
+This lovely stretch of road seems to end here, but it actually continues 
+to the southeast where it probably leads to some multi-million-dollar
+estates.  There's another intersecting road, north of here, that is 
+connected to this one.  Unlike this roadway, that street looks more like 
+the rest of Metro-Gotham, a street where 'commoners' walk on.
+~
+3 32768 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 414
+D3
+~
+~
+0 -1 412
+D8
+~
+~
+0 -1 497
+S
+#414
+Old Metropolis Road~
+This short and narrow road is dedicated to the 'ancient' city of Metropolis,
+home of the greatest hero ever...Superman!  Though this street is not as
+well-maintained as the previous road you came from, this road is still one of
+the best tourist attractions.
+~
+3 32768 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 415
+D2
+
+~
+~
+0 -1 413
+S
+#415
+Old Metropolis Road~
+You are standing before the most infamous newspaper publisher of all
+time...the Daily Planet.  Though the first building was crushed in the Big
+Quake, it was Superman who personally gathered the raw materials to
+reconstruct this skyscraper to its original state.  Since then, the Daily
+Planet has become the biggest tourist attraction in this city.  There's a
+revolving glass door that'll take you inside this building.
+~
+3 32768 1
+0d0+0 0 0
+D0
+This revolving glass door will take you inside the Daily Planet.
+~
+door doors glass revolving~
+1 -1 494
+D2
+
+~
+~
+0 -1 414
+S
+#416
+The Void of Space...~
+There's nothing around this area of space except for the meteors that are
+passing you at an incredible speed.  You sense danger everywhere as you
+notice that you're at the center of a deadly meteor storm.  Watch Out!  One
+wrong move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 354
+D1
+
+~
+~
+0 -1 364
+D2
+
+~
+~
+0 -1 417
+D3
+
+~
+~
+0 -1 364
+D6
+
+~
+~
+0 -1 354
+D7
+
+~
+~
+0 -1 352
+D8
+
+~
+~
+0 -1 364
+D9
+
+~
+~
+0 -1 354
+S
+#417
+The Void of Space...~
+There's nothing around this area of space except for the meteors that are
+passing you at an incredible speed.  You sense danger everywhere as you
+notice that you're at the center of a deadly meteor storm.  Watch Out!  One
+wrong move around this area, and you may end up getting hit by a meteor...
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 416
+D1
+
+~
+~
+0 -1 364
+D2
+
+~
+~
+0 -1 364
+D3
+
+~
+~
+0 -1 354
+D6
+
+~
+~
+0 -1 354
+D7
+
+~
+~
+0 -1 354
+D8
+
+~
+~
+0 -1 418
+D9
+
+~
+~
+0 -1 364
+S
+#418
+A Black Hole...!~
+     AAAAAAAARRRRRRRRRRRRRRRRRRGGGGGGGGGGGHHHHHHHHHH!!!!!  THE PAIN!!!! The
+force of the Black Hole rocks you back and forth...you are in pain as the
+pressure inside this area pounds your head!  Blood begins to flow down from
+your nose and you begin to lose consciousness.  As you look around inside
+this massive darkness, you'll notice that there seems to be no way out of
+here.  You cry out for help but the void of space muffles any sounds that you
+make...  Sorry, young traveler, entering this area of space may be the
+biggest mistake you have ever made!
+~
+3 63530 0
+1d1+199 90 0
+D0
+
+~
+~
+0 -1 418
+D1
+
+~
+~
+0 -1 418
+D2
+
+~
+~
+0 -1 418
+D3
+
+~
+~
+0 -1 418
+D6
+
+~
+~
+0 -1 418
+D7
+
+~
+~
+0 -1 417
+D8
+
+~
+~
+0 -1 418
+D9
+
+~
+~
+0 -1 421
+S
+#419
+A Black Hole...!~
+Hmmm, how odd...this area of the Black Hole seems to be much more calmer and
+the pressure in here seems to be nonpresent.  At a distance south of here,
+you'll notice the clam area of this Black Hole continues there.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 419
+D1
+
+~
+~
+0 -1 419
+D2
+
+~
+~
+0 -1 420
+D3
+
+~
+~
+0 -1 419
+D6
+
+~
+~
+0 -1 419
+D7
+
+~
+~
+0 -1 419
+D8
+
+~
+~
+0 -1 419
+D9
+
+~
+~
+0 -1 419
+S
+#420
+A Black Hole...!~
+Just as you enter this area of the Black Hole, a monster -- the size of 5
+normal men -- is here, standing before you with closed fist.  Parts of his
+massive body are covered in stone and his knuckles are studded with razor-
+sharp edges.  His eyes are bloody red as though they are filled with rage and
+anger for vengeance!  Don't get too close to him...if you annoy him, he can
+hurl you back to the turbulence of the outer section of this Black Hole!
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 418
+D1
+
+~
+~
+0 -1 418
+D2
+
+~
+~
+0 -1 418
+D3
+
+~
+~
+0 -1 418
+D6
+
+~
+~
+0 -1 418
+D7
+
+~
+~
+0 -1 418
+D8
+
+~
+~
+0 -1 418
+D9
+
+~
+~
+0 -1 418
+S
+#421
+A Black Hole...!~
+
+     AAAAAAAARRRRRRRRRRRRRRRRRRGGGGGGGGGGGHHHHHHHHHH!!!!!  THE PAIN!!!!
+
+The force of the Black Hole rocks you back and forth...you are in pain
+as the pressure inside this area pounds your head!  Blood begins to flow
+down from your nose and you begin to lose consciousness.  As you look 
+around inside this massive darkness, you'll notice that there seems to be
+no way out of here.  You cry out for help but the void of space muffles any
+sounds that you make...  Sorry, young traveler, entering this area of space
+may be the biggest mistake you have ever made!
+~
+3 63530 0
+1d1+199 90 0
+D0
+~
+~
+0 -1 421
+D1
+~
+~
+0 -1 421
+D2
+~
+~
+0 -1 421
+D3
+~
+~
+0 -1 421
+D6
+~
+~
+0 -1 418
+D7
+~
+~
+0 -1 421
+D8
+~
+~
+0 -1 421
+D9
+~
+~
+0 -1 419
+S
+#422
+The Front Garden of Wayne Manor~
+The mansion in front of you is just incredible.  It must be hundreds of years
+old and yet it looks so well-kept.  The owners of this large mansion must
+have spent millions on maintenance and repair.  As you step closer to the
+large mansion doors, you'll notice a lovely decorative fountain.  The mansion
+doors are located east of where you're standing.
+~
+3 32768 1
+0d0+0 0 0
+D1
+Behind this door is Wayne Manor!
+~
+doors door mansion~
+1 -1 423
+D3
+
+~
+~
+0 -1 499
+S
+#423
+Inside Wayne Manor~
+You are now inside the mansion of one of the world's most richest men.  As
+you step inside this room, you are in awe to see so many Picassos, Monets,
+and various other valuable paintings hanging on the wall as though they serve
+as wallpaper.  The insides of this magnificent structure is as beautiful as
+its outsides and you are curious to go from room to room to study its
+historical architecture.
+~
+3 36872 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 424
+D3
+This is the exit out of Wayne Manor!
+~
+doors door mansion~
+1 -1 422
+S
+#424
+The Main Hallway Inside Wayne Manor~
+This entire mansion is like a grand museum.  There are valuable paintings
+hanging from wall to wall and ancient artifacts displayed on each side of the
+aisle.  Bruce Wayne must have spent a fortune buying all these treasures just
+so he can enjoy them for himself.  The main hallway continues north and south
+of here.
+~
+3 36872 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 425
+D2
+
+~
+~
+0 -1 423
+S
+#425
+End of the Main Hallway Inside Wayne Manor~
+You can never get tired of exploring this mansion.  It seems like at every
+corner of this structure there is a painting or an artifact lying there. You
+have finally come to the end of the main hallway and you noticed that it took
+you to the den where Bruce Wayne and his young ward, Dick Grayson, spend
+their time reading books.
+~
+3 36872 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 426
+D2
+
+~
+~
+0 -1 424
+S
+#426
+The Den Inside Wayne Manor~
+There are shelves and shelves of books everywhere you look!  You are amazed
+by the size of this den, it looks much larger than the local library that you
+go to.  The books on each shelves are all original prints and are leather
+bounded to keep from deterioration.  You wish you had the time to go look
+through each shelf to find your favorite book but you know that Alfred the
+butler wants you out as soon as you are done with your touring.
+~
+3 36872 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 427
+D3
+
+~
+~
+0 -1 425
+S
+#427
+The Den Inside Wayne Manor~
+Books and more books are stacked neatly on the hardwood shelves.  There must
+be hundreds of thousands of books in this entire den alone.  As you walk
+further inside this den, you'll notice a warm fireplace is located to the end
+of here.  There are a couple of 'lazy boys' beside the fireplace where Bruce
+Wayne and his young friend, Dick Grayson, would sit down to relax and read a
+good book.  As you head towards those chairs to lie down, you'll notice a
+book shelf to the south of here.  There seems to be a light coming from
+behind it...could it be a secret passage?
+~
+3 36872 0
+0d0+0 0 0
+D2
+You take a closer look at this shelf and you notice that there is INDEED a
+secret entrance behind...where will it take you?  You'll have to find out for
+yourself!
+~
+shelf bookshelf secret passage~
+1 -1 428
+D3
+
+~
+~
+0 -1 426
+S
+#428
+A Secret Passageway...~
+You hesitate for a second before you start walking inside this dark, secret
+passageway.  You don't know what could be lurking ahead and you're not sure
+you even want to find out.  However your cowardice has been overcome by your
+greed...the thought of a hidden treasure inside this two-hundred year  old
+mansion makes you the bravest of men.  As you continue your walk inside this
+tunnel, you'll notice that bats high above you are making a loud shrieking
+noise as though they are trying to warn someone of your presence.
+~
+3 36873 0
+0d0+0 0 0
+D0
+This exit will take you out of this secret passage and back into the den at
+Wayne Manor.
+~
+shelf bookshelf secret passage~
+1 -1 427
+D5
+
+~
+~
+0 -1 429
+S
+#429
+Walking Down the Secret Passageway~
+It's dark...very DARK and you're stumbling along this pathway like a blindman
+trying to walk across a street.  You're beginning to get tired as the
+passageway seems to be endless.  This dank passageway is beginning to widen
+up as you continue walking further downwards.
+~
+3 36873 0
+0d0+0 0 0
+D4
+
+~
+~
+0 -1 428
+D5
+
+~
+~
+0 -1 430
+S
+#430
+A Secret Entrance to the Batcave~
+Holy Torpedoes, Mudder!  You just found the secret Batcave...the legendary
+hideout and the info-center of Batman!  So if the Batcave is located under
+the Wayne Mansion, what's the connection between Bruce Wayne and the
+mysterious vigilante?...guess you'll never know...  A tall, steel door from
+the south of here is blocking your way into the Batcave.
+~
+3 36873 0
+0d0+0 0 0
+D2
+This thick steel door is enough to keep out even the strongest of men.  Don't
+even try open it, wimp! ;)
+~
+door doors steel~
+1 -1 431
+D4
+
+~
+~
+0 -1 429
+S
+#431
+Inside the Batcave~
+You are fascinated by the complex computers inside this dark cavern.  This is
+the information center where Batman gets his info from the universal
+database.  He can check the backgrounds of anyone from anywhere around the
+world.  As you walk further inside this secret hideout, you'll notice a glass
+display case.  Inside that case, the Batman keeps his extra suit just in case
+his old one got soiled.  Just when you thought you're alone in here, you hear
+a sound coming from the west of here...  It's probably the Batman discussing
+his strategies with his sidekick, Robin!
+~
+3 36872 0
+0d0+0 0 0
+D0
+This exit will get you out of the Batcave and back into the secret
+passageway!
+~
+door doors steel~
+1 -1 430
+D3
+
+~
+~
+0 -1 432
+S
+#432
+Inside the Batcave~
+Holy Asparagus!  Batman and Robin are standing in the same room together
+discussing on how they would recapture the Joker.  They're attention seems to
+be focused on their planning and they don't seem to notice you've sneaked
+inside their hideout.  You are in awe to see the great detective and his
+pupil at work as they try to solve the whereabouts of the fugitive. Each clue
+they have seems to be dissected carefully and examined thoroughly so that
+nothing escapes them from solving this case.  To the south of here, you'll
+notice a steel door...you wonder to yourself, what's behind it...
+~
+3 36872 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 431
+D2
+An impenetrable, titanium door is standing before you.  It looks like it's
+locked tight!
+~
+door doors titanium steel cell holding prison~
+1 470 433
+S
+#433
+An Unescapable Titanium Holding Cell~
+From wall to wall, this room is covered in super-hard titanium alloy.  This
+is the room where Batman keeps the most harden criminals instead of placing
+them in state penitentiary or even Arkham Asylum.  Batman knows that if these
+criminals were to ever escape...there would be mass killings all around
+Gotham!  But the criminals don't seem to be interested to getting out at this
+moment.  Their attention seems to be focused on you...you're in deep manure,
+son!
+~
+3 38921 0
+0d0+0 0 0
+D0
+This is your only exit out of this room...looks like you better use it!
+~
+door doors titanium steel cell holding prison~
+1 470 432
+S
+#434
+Metro-Gotham Main Street~
+There's no city on Earth that can compared to the grand city of Metro-
+Gotham.  Everywhere you look, there seems to be something that you've never
+seen before.  Like those anti-gravity automobiles or those spectacular 'sky
+projection' commercial billboards.  Everything in this city is just amazing
+and you can't wait to see more during your tour of this place.  To the west
+of here, there's an intersecting road.
+~
+3 32768 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 451
+D2
+
+~
+~
+0 -1 409
+D3
+
+~
+~
+0 -1 435
+S
+#435
+Luthor's Boulevard~
+This road stretches all the way west of here and it doesn't look like it'll
+end in the next mile or so.  You can see the tourists here walking along this
+road, probably wanting to visit a historical landmark somewhere along there.
+You are tempted to walk with them and see what's there but you know it'll be
+a long walk before you'll reach the end.
+~
+3 32768 1
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 434
+D3
+
+~
+~
+0 -1 436
+S
+#436
+Luthor's Boulevard~
+You're getting tired after this long walk and you don't seem to be getting
+anywhere.  The other tourists walking beside you look as though they're
+determined to find the landmark at the end of this street.  You wonder if
+it's really worth it to walk these long miles just to take some pictures. Who
+knows?...  Maybe you'll get to meet a super-celebrity at the end of your long
+walk.
+~
+3 32768 1
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 435
+D3
+
+~
+~
+0 -1 437
+S
+#437
+Luthor's Boulevard~
+This look like the end of the road but it actually curves toward the
+northwest of here.  To the south, however, there's a road that'll take you to
+somewhere else...most of the tourists around here seem to be heading towards
+there.  The northwest road doesn't seem to be popular today, all the tourists
+seems to be keeping their distance from that direction.  Maybe you should
+take the south road if you know what's good for you.
+~
+3 32768 1
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 436
+D2
+
+~
+~
+0 -1 438
+D7
+
+~
+~
+0 -1 445
+S
+#438
+Hero Street~
+This broad road looks pretty short and you can see from a distance where it
+would take you.  There's a large dome structure to the southwest and that's
+where all the tourists from around here seem to be headed.  The monolithic
+structure looks like some museum or a government office.
+~
+3 32768 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 437
+D2
+
+~
+~
+0 -1 439
+S
+#439
+Hero Street~
+The short, broad road ends here and you're standing before a huge foundation.
+The front of this structure has words that read 'Justice League of America.'
+Sounds like this is some sort of a court house but judging from the tourists'
+fanatic expressions, this structure has got to be something more than just
+that.  There are huge doors that separate the large crowd from the insides of
+this huge complex.  The doors are to the west of here, but you don't need to
+know that because you're staying outside like the other tourists here.
+~
+3 32768 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 438
+D3
+These doors will take you inside the Justice League of America's
+Headquarters.
+~
+doors door~
+1 477 440
+S
+#440
+Inside the Justice League of America's Headquarters~
+The insides of this complex is just fascinating.  Like any government
+foundation, this building is huge and looks very well-maintained.  There are
+large marble pillars here holding this structure together.  The architecture
+of this magnificent building are similar to ancient Roman office houses both
+from the outside and the inside.  To the west, you see a hallway that'll take
+you to the separate rooms of this building.
+~
+3 36872 0
+0d0+0 0 0
+D1
+This exit will take you back outside of the Justice League Headquarters.
+~
+doors door~
+1 477 439
+D3
+
+~
+~
+0 -1 441
+S
+#441
+The Hallway Inside the Justice League of America's Headquarters~
+As you walk down this hallway, you'll notice tall statues on each side of the
+aisle.  Those statues are the likeness of each member of the Justice League.
+The craftmanship of each sculpture is exquisite and you just wish you have
+you camera at this moment so you can take some great snapshots. This hallway
+continues to the south of here.
+~
+3 36872 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 440
+D2
+
+~
+~
+0 -1 442
+S
+#442
+The Hallway Inside the Justice League of America's Headquarters~
+This short corridor seems to stop here.  To the west of here, you'll notice a
+large meeting room of some sort.  It looks like a meeting room where the
+members of the Justice League discuss their strategies on their targetted
+villains.  As you sneak-a-peek further inside this large room, you'll also
+notice that some of the Justice League members are standing inside at this
+very moment!
+~
+3 36872 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 441
+D3
+
+~
+~
+0 -1 443
+S
+#443
+The Justice League of America's Meeting Room~
+This looks to be the largest room inside this mammoth structure and it's no
+wonder that this is the most important room here.  All the Justice League
+members are required to meet inside this room so that they can discuss
+matters at hand.  Usually, it's Superman or Batman who would organize the
+group and make sure that everyone knows their priorities.  There's a large
+table in the middle of this room and there are twelve seats that surround it.
+On the wall in front of you, there's a giant main viewer where the members
+can see satellite images of what's happening around the world.  To the north
+of where you're standing, you'll notice a thick steel door that seems to be
+locked.
+~
+3 36872 0
+0d0+0 0 0
+D0
+Something important must be behind this impenetrable steel door!
+~
+door doors steel prison cell~
+1 478 444
+D1
+
+~
+~
+0 -1 442
+S
+#444
+The Brig Inside the Justice League of America's Headquarters~
+The walls inside this unescapable prison are made of the purest of the purest
+vibranium and there's nothing that the criminals in here can do to escape
+this prison cell.  The Justice League of America has captured these prisoners
+and placed them inside this prison so that they can watch them twenty-four
+hours a day. These criminals are some of the Justice League's  most dangerous
+foes and if they were to ever be released, they could spread panic and
+destuction to the public.
+~
+3 38920 0
+0d0+0 0 0
+D2
+This door will take you back outside to the Justice League headquarters!
+~
+door doors steel prison cell~
+1 478 443
+S
+#445
+Luthor's Boulevard~
+This looks to be the end of this street and there doesn't seem to be anyone
+around.  All the tourists here know this is a bad place to be in and they're
+smart to be avoiding here.  To the west, there are large doors that'll take
+you to the insides of a large white complex.  The large engravings on the
+front of this building reads 'Injustice League of America.'  You are curious
+to know who's operating inside this structure ... could it be an
+anti-government organization or maybe it could be a haven for criminals?
+~
+3 32768 1
+0d0+0 0 0
+D3
+Behind these doors, you'll find the Injustice League of America's HQ.
+~
+doors door complex building~
+1 476 446
+D8
+
+~
+~
+0 -1 437
+S
+#446
+Inside the Justice League of America's Headquarters~
+You are now inside this mammoth complex and there doesn't seem to be anything
+here that looks anything out of the ordinary.  This building looks pretty
+deserted but you can't be sure because of the lighting inside is so dim that
+you're forced to walk in a slow pace.  To the west, there's a hallway that'll
+take you to the surrounding rooms.
+~
+3 36873 0
+0d0+0 0 0
+D1
+These doors will lead back to the outsides of this building.
+~
+doors door complex building~
+1 476 445
+D3
+
+~
+~
+0 -1 447
+S
+#447
+The Hallway Inside the Injustice League of America's Headquarters~
+This corridor looks broad and short.  The lighting here is still as bad as
+the rest of this place.  As you walk further inside this hallway, you notice
+cockroaches and diseased rodents crawling around your feet.  You want to get
+out of this place quickly but your curiousity gets the better of you.
+There's a room to the north of here.
+~
+3 36873 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 450
+D1
+
+~
+~
+0 -1 446
+D3
+
+~
+~
+0 -1 448
+S
+#448
+The Hallway Inside the Injustice League of America's Headquarters~
+The dark corridor ends here and to the north, there's a large meeting room.
+You can see from a distance that this room is very well-lit but still a
+little dim for your taste.  As you get closer, trying to peek inside this
+room, you can hear faint whispers.  The shadowry occupants of this building
+are discussing matters that sound like it involves the superheroes in this
+city...curiouser and curiouser...
+~
+3 36873 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 449
+D1
+
+~
+~
+0 -1 447
+S
+#449
+The Injustice League of America's Meeting Room~
+This is the largest room in this entire building and what you see inside this
+room will shock you forever.  There are about a dozen supervillains here
+sitting at a long meeting table.  Don't worry about introducing yourself,
+they'll get that information from you as soon as they take you to their
+torture chamber and interrogate you.  You gasp in fear as these super-powered
+madmen/madwomen starts coming closer and closer to you.  They look ready to
+rip your heart out if you try resisting them.  There's nowhere to run...your
+back is against the wall!  They're about to strike and you have no idea what
+to do...except to give up!
+~
+3 36872 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 448
+S
+#450
+The House of Pain~
+As you walk inside this dark room, you'll notice you're walking on a sticky
+red liquid.  As you look closer to the ground, you notice this room is soaked
+in blood!  This is the torture chamber where the Injustice League members
+take their victims and force them to give out valuable information. Though
+this room is as dark as night, you can see the many instruments of pain that
+these evil monsters use to hurt their prisoners.  You are disgusted as you
+head out of this room in a hurry.
+~
+3 36873 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 447
+S
+#451
+Metro-Gotham Main Street~
+This popular road looks so lively as you walk along its broad sidewalks. All
+around you, there seems to be flashing billboards and neon signs that make
+this city look so glamourous.  There are shops all over this long stretch of
+road and you can see the vacationers here just walking in and out buying all
+sorts of goods.  This long road continues north and south of where you're
+standing.
+~
+3 32768 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 452
+D2
+
+~
+~
+0 -1 434
+S
+#452
+Metro-Gotham Main Street~
+You are enjoying this long walk just watching the tourists here in a shopping
+frenzy.  There are also amazing spectacles all around you like those street
+mime performers. Even though you want to explore more of this incredible
+city, you're getting tired from the walking.  There are anti-gravity tourist
+trains around here but you know it'll probably be crowded.  The road
+continues north and south.
+~
+3 32768 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 453
+D2
+
+~
+~
+0 -1 451
+S
+#453
+Metro-Gotham Main Street~
+This looks to be the end of this street but actually it continues to the
+northeast of here.  This popular road curves into that direction and who
+knows where it will take you.  The tourists here seem to be headed to that
+direction so you know that place is probably not dangerous.  To the west,
+there's another road that'll take you elsewhere.
+~
+3 32768 1
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 452
+D3
+
+~
+~
+0 -1 454
+D6
+
+~
+~
+0 -1 471
+S
+#454
+Silver Age Avenue~
+This road looks pretty deserted except for maybe one or two tourists who lost
+their way.  You don't sense anything dangerous around here, maybe a mugger or
+two but no one that can really hurt you.  The street looks pretty tidy, there
+are a few scraps of paper on the ground but otherwise it's very well
+maintained. The shops around here aren't as spectacular as the ones on Main
+Street but it serves its purpose for the local residents. The road continues
+west of here.
+~
+3 32768 1
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 453
+D3
+
+~
+~
+0 -1 455
+S
+#455
+Silver Age Avenue~
+You could get bored just living around this neighborhood.  Everyone seems to
+be staying indoors unlike the social crowd on Main Street.  As you walk
+further down this road, you'll notice a tall building shaped like a 'T' from
+a distance, north of here.  What a strange-looking building, you think to
+yourself.  This road continues west of here.
+~
+3 32768 1
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 454
+D3
+
+~
+~
+0 -1 456
+S
+#456
+Silver Age Avenue~
+You're standing before a very large building that's shaped like a 'T.'  It
+looks like it's made out of glass and steel.  You're dying to check what's
+inside this tall building and study its unusual architecture design.  There's
+a glass door to the north and it seems to be locked tight.  You have no way
+of getting inside this grand structure without an access card that unlocks
+the security keypad.
+~
+3 32768 1
+0d0+0 0 0
+D0
+This door will take you inside this tall building shaped like a 'T.' ;)
+~
+door doors glass building structure~
+1 480 457
+D1
+
+~
+~
+0 -1 455
+S
+#457
+Inside the Titan's Tower~
+You're amazed, bedazzled, and shocked by the incredible beauty of this lavish
+building.  You wonder who could be living inside this amazing glass castle
+with such wealth and taste.  To the north of here, you'll notice a small
+pathway that'll take you to a glass elevator.  That elevator would take you
+to the upper floors of this grand palace.
+~
+3 36872 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 458
+D2
+This door will take you back to the streets where you came from.
+~
+door doors glass building structure~
+1 480 456
+S
+#458
+The Security Desk at the Titan's Tower~
+As soon as you walk into this room, a security guard jumps up from his seat
+and shouts at you to halt.  He doesn't look too friendly and he doesn't look
+like he's going to do you any favors.  The elevator looks to be locked tight
+and the only way you can get inside is to get the key from this husky guard.
+~
+3 36872 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 457
+D4
+This is the entrance to the elevator.  It'll take you to the upper floors of
+this grand building.
+~
+elevator door doors~
+1 484 459
+S
+#459
+Going Up the Elevator at the Titan's Tower~
+This wide glass elevator is just magnificent.  You could go up and down
+inside this elevator all day just to check out the outdoor view.  You'll
+notice this elevator doesn't seem to be stopping any time soon as it heads
+directly upwards to the main suite of this building.
+~
+3 36872 0
+0d0+0 0 0
+D4
+
+~
+~
+0 -1 460
+D5
+The Main Floor of this building is located downwards of here.
+~
+elevator door doors~
+1 484 458
+S
+#460
+Inside the Main Suite of the Titan's Tower~
+You are in awe to see such a lovely decorated room.  The floor is covered in
+white marble tiles and the walls are plastered with pastel-colored paint.
+This spacious room is very well-lit and the sunroof is providing most of the
+warmth that makes this room so cozy.  There's a large screen projection
+television located in the middle of the room with leathery couches
+surrounding it.  This room makes you feel as though you're home at this very
+moment.  To the east and west, you can see there are rooms connecting to this
+one.
+~
+3 36872 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 461
+D3
+
+~
+~
+0 -1 462
+D5
+
+~
+~
+0 -1 459
+S
+#461
+The Mess Hall Inside the Titan's Tower~
+This looks to be where the occupants of this building dine and socialize with
+one another.  There are tables here set up so that they can watch the indoor
+view while enjoying a light snack.  The bar is located just next to you where
+they can select from various types of drinks.  The large fridge just in front
+of you seems to be packed with food and there's a hot chef stove ready to
+cook a hearty meal.
+~
+3 36872 0
+0d0+0 0 0
+D3
+
+~
+~
+0 -1 460
+S
+#462
+The Teen Titan's Meeting Room~
+As you walk inside this room, you'll notice that there are large computers
+from wall to wall.  This looks like a meeting room of some sort.  There's a
+large table in the center of the room and there are about a dozen chairs
+surrounding it.  There's a large view screen in front of the meeting table
+where occupants can watch during a discussion.  To the north, there's a force
+field of some sort that blocks you from going to that direction.  It looks
+impenetrable and the only way to open it is to get a security combo.
+~
+3 36872 0
+0d0+0 0 0
+D0
+You'll have to unlock 'One' in order to open this forcefield.  Behind this
+barrier, you can see another forcefield there...waiting to stop you!
+~
+ONE 1.forcefield 1~
+2 428 463
+D1
+
+~
+~
+0 -1 460
+S
+#463
+Area Restricted: DANGER (Gate One)~
+Just as the sign reads, this place is dangerous to your health.  If you try
+advancing any further, you would not only be endangering your life but the
+world as well!  You don't know what's behind this forcefield or the force-
+field after that...you only know that there's something down this corridor
+that's so POWERFUL...so EVIL...that even the world's greatest superheroes
+would not be able to contain it!  Another powerful forcefield is located
+north of here.
+~
+3 36872 0
+0d0+0 0 0
+D0
+You will have to unlock 'TWO' in order to get this forcefield to open.
+~
+TWO 2.forcefield 2~
+2 434 464
+D2
+This is the exit back to the Titan's meeting room!
+~
+ONE 1.forcefield 1~
+2 428 462
+S
+#464
+Area Restricted: DANGER (Gate Two)~
+This section of the corridor is as empty as the one you came from.  The only
+thing that blocks you from moving further north is another strong forcefield.
+This restricted corridor looks like it may take some time before anyone can
+reach the end.  The different combos that are required to open each
+forcefield is beginning to confuse you.  The strategy of the Teen Titans is
+working pretty well...instead of one member having all the keys, they would
+spread them all out to its members, that way the intruder would give up
+instead of trying to go any further.
+~
+3 36872 0
+0d0+0 0 0
+D0
+To open this forcefield, you'll have to unlock 'THREE.'
+~
+THREE 3.forcefield 3~
+2 440 465
+D2
+This exit will take you back outside this corridor.
+~
+TWO 2.forcefield 2~
+2 434 463
+S
+#465
+Area Restricted: DANGER (Gate Three)~
+Your heart is pounding as you come closer and closer to the secret that lies
+beyond these forcefields.  But unless you have the combos that are needed to
+open each and every forcefield, there's no way you'll know what's at the end
+of this hall.  Another forcefield is located to the north of you and again,
+it will require a combo to unlock it.
+~
+3 36872 0
+0d0+0 0 0
+D0
+To access this forcefield, you'll have to unlock 'FOUR.'
+~
+FOUR 4.forcefield. 4~
+2 446 466
+D2
+This exit will take you back to the Titan's Meeting Room.
+~
+THREE 3.forcefield 3~
+2 440 464
+S
+#466
+Area Restricted: DANGER (Gate Four)~
+This is becoming tedious.  Another forcefield has been erected to the north
+of you.  The Teen Titans are really trying hard not to let anyone pass
+through that steel door at the end of this hall.  You're beginning to tire
+from having to just search for each individual combos and trying to find
+which key would access which forcefield.  Maybe you're better off not knowing
+what's the TERROR behind that steel door.
+~
+3 36872 0
+0d0+0 0 0
+D0
+You'll need to open 'FIVE' in order to open this forcefield.
+~
+FIVE 5.forcefield 5~
+2 452 467
+D2
+This exit will take you back to the Titan's Meeting Room.
+~
+FOUR 4.forcefield 4~
+2 446 465
+S
+#467
+Area Restricted: DANGER (Gate Five)~
+Again another invisible forcefield blocks your way from going any further.
+You wonder how many forcefields are there all together in this heavily
+secured area.  From behind this invisible shield you'll notice a strange
+figure standing in front of the steel door.  She's wearing a dark cloak
+around her body and you notice a light aura around her that tells you she is
+no ordinary being...
+~
+3 36872 0
+0d0+0 0 0
+D0
+You have to open 'SIX' to pass through this forcefield and to that steel door
+at the end of this corridor.
+~
+SIX 6.forcefield 6~
+2 458 468
+D2
+This exit will take you back to the insides of the Titan's Tower.
+~
+FIVE 5.forcefield 5~
+2 452 466
+S
+#468
+Area Restricted: DANGER (Gate Six)~
+Finally, you have come to the end of this long corridor after unlocking every
+forcefields imaginable.  There's a steel door to the north and it seems to be
+glowing as though it is enchanted by magic.  But you are more curious about
+the strange cloaked woman that's standing in front of this door.  She seems
+to be the protector of this entrance and you have a feeling that she'll go
+all out to stop you from reaching within. There's a large sign here posted at
+the door and it looks important.
+~
+3 47112 0
+0d0+0 0 0
+D0
+This steel door looks like it is protected by magic.  Only a key made of
+magic unlock this mighty barrier. But WATCH OUT!  Passing through this door
+is dangerous for your health!
+~
+door doors steel~
+2 464 469
+D2
+This exit will take you back to the Titan's Meeting Room.
+~
+SIX 6.forcefield 6~
+2 458 467
+E
+sign post board~
+"...whoever shall open this door would open the pathway for the Devil to find
+his way into the mortal realm.  The day this door would open is the day
+apocalypse would consume the Earth..."
+~
+S
+#469
+Inside the Dark Dimension...Gasp!~
+Everywhere you look, you see nothing, you feel nothing, and you hear nothing.
+You're just drifting inside this 'nothingness' and there doesn't seem to be
+anywhere you can go to.  The door from which you have entered from seems to
+be still opened.  Maybe it would be wise if you go back before you get
+trapped inside this strange place.  As you reach for the door, you notice a
+new doorway is opening before your very eyes.  A magical portal appears in
+just seconds and you seem to be drawn to it as though someone or something is
+summoning you...
+~
+3 53259 0
+1d1+199 90 0
+D0
+
+~
+~
+0 -1 470
+D2
+This exit will take you back to the corridor which you came.
+~
+door doors steel~
+1 -1 468
+S
+#470
+The Lair of the Fallen Angel~
+As you walk inside this room, the smell of brimstone becomes overwhelming.
+This room is not so well-lit but you can see the silhouettes of soldiers
+standing beside a larger being, possibly the leader of the pack.  The giant
+is way too big to be anything human and the reindeer horns growing from his
+head makes him look like the Devil himself.  His eyes are glowing red and he
+seems to be grinning as though you've done a favor for him...
+~
+3 47113 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 469
+S
+#471
+Metro-Gotham Main Street~
+There are still a lot of tourists here heading to your northeast.  They're
+riding on bikes and some even on horses as they head off to who knows where
+this street will end.  The shops here look very prosperous and even the
+hot-dog stands seem like they're rolling in the big bucks.  As you walk
+further northeast of here, you'll notice more and more trees are planted
+here.  There are shrubbery and flower gardens everywhere you look.  There has
+to be a park somewhere around this vicinity.
+~
+3 32768 1
+0d0+0 0 0
+D6
+
+~
+~
+0 -1 472
+D9
+
+~
+~
+0 -1 453
+S
+#472
+Metro-Gotham Main Street~
+As you walk further and further northeast of here, you can smell the pine and
+the freshly cutted grass ... the sweet scent of a spring-time garden
+potpourri.  Now you are surrounded by lush green bushes as well as tall oak
+trees.  You can hear the birds chirping and singing about your head as you
+continue your journey down this main road.
+~
+3 32768 1
+0d0+0 0 0
+D6
+
+~
+~
+0 -1 473
+D9
+
+~
+~
+0 -1 471
+S
+#473
+Metro-Gotham Main Street~
+This looks to be the end of the long stretch of road and it ends at the
+entrance of the city park.  The tourists beside you are jumping with joy as
+they rush to the entrance to nab a good spot for their picnic.  From a
+distance inside this park, you can see the happy kids there playing with
+their frisbees or flying kites.  Meanwhile the adults there are cooling
+themselves under the comfort of a shady tree.  You could use a good nap
+yourself under one of those trees.
+~
+3 32768 1
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 474
+D9
+
+~
+~
+0 -1 472
+S
+#474
+Entrance to Metro-Gotham Central Park~
+You arrive at the entrance of Metro-Gotham's Central Park, the largest park
+in the world.  Every year, there are more than a million tourists who come
+here for relaxation and some fun with the kids.  The children here are
+running back and forth throwing frisbees to one another and others are riding
+on bikes and skating on roller blades.  Everyone seems to be enjoying
+themselves on this nice sunny day.
+~
+3 36864 2
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 475
+D2
+
+~
+~
+0 -1 473
+S
+#475
+Inside the Metro-Gotham Central Park~
+Everywhere you look there are people all over the fairground.  You can smell
+the delicious hamburgers and the hot-dogs cooking on the grills.  The picnic
+tables have all been taken and all the families there are enjoying their
+meals. As you walk further inside this park, you'll notice the narrow
+cemented pathways that'll take you to different directions.
+~
+3 36864 2
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 478
+D2
+
+~
+~
+0 -1 474
+D3
+
+~
+~
+0 -1 476
+S
+#476
+Inside the Metro-Gotham Central Park~
+The smell of lush green plants and trees make you feel peaceful as though
+you're one with nature.  The canopy made by the surrounding trees are so cool
+that you feel like taking a nap.  The cemented pathway continues to the north
+and east of here.
+~
+3 36864 2
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 477
+D1
+
+~
+~
+0 -1 475
+S
+#477
+Inside the Metro-Gotham Central Park~
+A person could easily get lost around this vast park.  There are no signs
+here that point to which direction a person should take to get back to the
+entrance.  Who knows what could be lurking around this area...in the shady
+parts of the heavily wooded area?  There could be bears or even mountain
+lions hunting for their dinner...or there might even be a gang of young thugs
+here looking for some 'action.'
+~
+3 36864 2
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 478
+D2
+
+~
+~
+0 -1 476
+S
+#478
+Inside the Metro-Gotham Central Park~
+Most of the tourists around here seem to be staying close to the entrance.
+You wonder why they don't set their picnic spot around here where the grass
+is greener and fresher.  Maybe it's because of the lack of security in this
+park since gang members have been reported to attack any tourists they came
+across.  The overhead lights and the hidden security cameras don't do a whole
+lot to solve this problem.
+~
+3 36864 2
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 479
+D2
+
+~
+~
+0 -1 475
+D3
+
+~
+~
+0 -1 477
+S
+#479
+Inside the Metro-Gotham Central Park~
+The landscape of this park looks so natural and the small river stream that
+runs down a nearby rocky slope looks so fresh and clean.  The serenity of
+this magnificent park gives you the feeling of peace and tranquility.  As you
+walk further deeper in this park, you'll notice a pathway to the southeast
+that'll take you to a deep, dark wooded area.  That area is so dark that you
+get the feeling that something is lurking inside...
+~
+3 36864 2
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 480
+D3
+
+~
+~
+0 -1 478
+D8
+
+~
+~
+0 -1 483
+S
+#480
+Inside the Metro-Gotham Central Park~
+It seems the farther you get from the park entrance, your sense of direction
+gets more confused.  The narrow cemented pathways that were suppose to guide you
+all around this vast park look more like a maze of madness.  If you don't try
+turning back now...it seems you'll be lost here forever.
+~
+3 36864 2
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 479
+D3
+
+~
+~
+0 -1 481
+S
+#481
+Inside the Metro-Gotham Central Park~
+This park is huge and you are beginning to lose your way around here.  If it
+gets any darker, who knows what will be coming out from hiding.  Maybe a gang
+of young hoodlums or even wild animals could be stalking you at this very
+moment...waiting and waiting for sunset...  To the west, you'll notice a
+brilliant light is flashing there.  The light is so intense that when you
+look directly at it, it'll blind you in an instant.
+~
+3 36864 2
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 480
+D3
+
+~
+~
+0 -1 482
+S
+#482
+Inside the Metro-Gotham Central Park~
+You are blinded by a radiant light as soon as you step into this wooded area.
+You try shielding your eyes with your hands but you can barely make out a
+blurred image.  The brilliant light seems to be dying down as your eyes
+become adjusting back to normal lighting.  As you look for the object that
+was making the brilliant glow, you notice it's not an object after all but a
+superbeing...  He seems to be in pain as he cries out for help.  The
+illuminating aura around this fascinating creature is beginning to go dimmer
+and dimmer...
+~
+3 47104 2
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 481
+S
+#483
+A Deep, Dark Wooded Area~
+You heart is thumping faster than you're moving inside this dark wooded area.
+All around you, there are glowing eyes watching your every movement as you
+struggle to get back into a clearing.  You shriek in fear as some furry
+creature rubs across your legs.  From a distance, you can hear the sound of
+an animal panting...it seems to be getting closer by the minute.
+~
+3 47117 3
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 493
+D1
+
+~
+~
+0 -1 493
+D2
+
+~
+~
+0 -1 493
+D3
+
+~
+~
+0 -1 493
+D6
+
+~
+~
+0 -1 493
+D7
+
+~
+~
+0 -1 474
+D8
+
+~
+~
+0 -1 484
+D9
+
+~
+~
+0 -1 493
+S
+#484
+A Deep, Dark Wooded Area~
+It only gets darker and darker as you move deeper and deeper into this
+heavily wooded area.  The thick canopy shields out any sunlight that could
+help you find your way around here.  You bump from one tree to another and
+you trip on tree roots and vines as you struggle to move as quickly as
+possible through the thick woods.
+~
+3 36873 3
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 484
+D1
+
+~
+~
+0 -1 493
+D2
+
+~
+~
+0 -1 484
+D3
+
+~
+~
+0 -1 493
+D6
+
+~
+~
+0 -1 485
+D7
+
+~
+~
+0 -1 483
+D8
+
+~
+~
+0 -1 493
+D9
+
+~
+~
+0 -1 493
+S
+#485
+A Deep, Dark Wooded Area~
+It only gets darker and darker as you move deeper and deeper into this
+heavily wooded area.  The thick canopy shields out any sunlight that could
+help you find your way around here.  You bump from one tree to another and
+you trip on tree roots and vines as you struggle to move as quickly as
+possible through these thick woods.
+~
+3 36873 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 484
+D1
+~
+~
+0 -1 484
+D2
+~
+~
+0 -1 493
+D3
+~
+~
+0 -1 493
+D4
+You spy some bright lights in the sky.
+~
+teleporter~
+2 488 302
+D6
+~
+~
+0 -1 493
+D7
+~
+~
+0 -1 486
+D8
+~
+~
+0 -1 493
+D9
+~
+~
+0 -1 484
+S
+#486
+A Deep, Dark Wooded Area~
+It only gets darker and darker as you move deeper and deeper into this
+heavily wooded area.  The thick canopy shields out any sunlight that could
+help you find your way around here.  You bump from one tree to another and
+you trip on tree roots and vines as you struggle to move as quickly as
+possible through the thick woods.
+~
+3 36873 3
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 493
+D1
+
+~
+~
+0 -1 484
+D2
+
+~
+~
+0 -1 493
+D3
+
+~
+~
+0 -1 493
+D6
+
+~
+~
+0 -1 487
+D7
+
+~
+~
+0 -1 493
+D8
+
+~
+~
+0 -1 485
+D9
+
+~
+~
+0 -1 484
+S
+#487
+A Deep, Dark Wooded Area~
+You get the feeling that you're going in circles but you don't seem to care.
+All you know is that you must keep on moving otherwise something, something
+big and ferocious, would catch up to you and rip you to shreds. As you
+struggle to pass through the many obstacles in this area, you notice a
+clearing to the northeast.
+~
+3 36873 3
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 484
+D1
+
+~
+~
+0 -1 493
+D2
+
+~
+~
+0 -1 493
+D3
+
+~
+~
+0 -1 484
+D6
+
+~
+~
+0 -1 488
+D7
+
+~
+~
+0 -1 493
+D8
+
+~
+~
+0 -1 484
+D9
+
+~
+~
+0 -1 486
+S
+#488
+The Entrance to the Castle of the Endless~
+You're standing before the largest castle you've ever seen.  Amazingly it
+looks very well-maintained as though it was built just yesterday.  The
+drawbridge is just east of here and it looks like it's locked.  The moat of
+this castle seems to be inhabited by some serpentine creatures so there's no
+way you can get inside without having to open the wooden drawbridge.  As
+darkness begins to fall, you know it's time to run before the creatures of
+the night catches up to you...
+~
+3 36864 3
+0d0+0 0 0
+D1
+Only with a certain magic wand could you get this mystical drawbridge to open
+for you!
+~
+drawbridge bridge draw ~
+2 479 489
+D9
+
+~
+~
+0 -1 486
+S
+#489
+Inside the Castle of the Endless~
+This castle is beautifully furnished and looks very tidy.  On one side of the
+wall there is a gallery of old paintings.  There are six paintings in all,
+portaits of white-fleshed beings sitting emotionless.  The paintings look
+very spooky as the stone-cold eyes of these portrait models seem to be
+watching your every movement.  A hallway is located north of here.
+~
+3 47112 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 490
+D3
+This exit will take you back outside into the deep wooded area.
+~
+drawbridge bridge draw~
+2 479 488
+S
+#490
+The Hallway Inside the Castle of the Endless~
+Even though this place looks very well decorated and well-maintained, you
+still think there's something strange about this castle.  You sense that this
+castle is more that what it seems, that it's 'unreal,' almost like a dream.
+You don't understand why you would think that...but something in your head
+tells you that you're not fully conscious about your surroundings. The idea
+that everything in here are figments of your dream is beginning to confuse
+you, the only way to escape this madness is to walk out of here.
+~
+3 47112 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 489
+D3
+
+~
+~
+0 -1 491
+S
+#491
+The Hallway Inside the Castle of the Endless~
+You are now certain that all this is coming from your dreams but you don't
+know how or why you are being 'summoned' here.  All you know is that you
+must walk to the room to your west and meet the powerful beings who brought
+you here.  As you walk further west of here, you'll notice a wall has
+suddenly appeared to the east so that you can't exit out of here without
+first meeting the occupants of this dream castle.
+~
+3 47112 0
+0d0+0 0 0
+D3
+
+~
+~
+0 -1 492
+S
+#492
+The Room of the Gathering~
+Everything inside this room looks so blurry, so unreal.  In a dream, nothing
+is clear in the unconscious mind.  The only figures you can make out are the
+six mysterious beings sitting around an octagon-shaped table. They don't seem
+to be moving their lips as they try to communicate with you...but your mind
+is not focused enough to understand their words.  You become confused and you
+want to get out of here.  The only way out of this castle seems to be that
+door north of here.
+~
+3 47112 0
+0d0+0 0 0
+D0
+This is the only exit out of this room.  Use it wisely...
+~
+door exit~
+1 -1 3001
+S
+#493
+A Deep, Dark Wooded Area~
+It only gets darker and darker as you move deeper and deeper into this
+heavily wooded area.  The thick canopy shields out any sunlight that could
+help you find your way around here.  You bump from one tree to another and
+you trip on tree roots and vines as you struggle to move as quickly as
+possible through the thick woods.
+~
+3 36873 3
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 493
+D1
+
+~
+~
+0 -1 493
+D2
+
+~
+~
+0 -1 493
+D3
+
+~
+~
+0 -1 484
+D6
+
+~
+~
+0 -1 493
+D7
+
+~
+~
+0 -1 493
+D8
+
+~
+~
+0 -1 484
+D9
+
+~
+~
+0 -1 493
+S
+#494
+Inside the Daily Planet~
+As you step inside this historical building, you'll notice the workers here
+are scrambling back and forth trying to meet the deadline.  You can hear the
+typewriters and the shoutings from the halls as the reporters and writers are
+all going crazy trying to complete their tasks.  As you move further inside
+this massive structure, you can see a marble staircase that'll take you to
+the upperfloors.
+~
+3 36872 0
+0d0+0 0 0
+D2
+This revolving door will take you outside the Daily Planet.
+~
+door doors glass revolving~
+1 -1 415
+D4
+
+~
+~
+0 -1 495
+S
+#495
+Inside the Daily Planet~
+You've reached the second floor of this building after climbing that long
+staircase.  This floor is no different from the previous floor you came from.
+Workers here are still scrambling to get their work done before the end of
+the day.
+~
+3 36872 0
+0d0+0 0 0
+D4
+
+~
+~
+0 -1 496
+D5
+
+~
+~
+0 -1 494
+S
+#496
+Inside the Daily Planet~
+This floor doesn't seem to be as crowded as the previous floors you came
+from.  You can guess that this must be the floor where the management staff
+has their offices set up.  There's a man here, standing in the distance and
+smoking a cigar.  He looks pretty important...he must be the chief editor of
+the Daily Planet...
+~
+3 36872 0
+0d0+0 0 0
+D5
+
+~
+~
+0 -1 495
+S
+#497
+Walking along a curved section of Golden Age Avenue~
+The scenaries along this section of the road are just magnificent.  The fresh
+sea breeze and the sound of sea gulls on the beach make you just wish you can
+live around this neighborhood.  This curved section of the road seems to take
+you further along the shoreline.
+~
+3 32768 1
+0d0+0 0 0
+D7
+
+~
+~
+0 -1 413
+D8
+
+~
+~
+0 -1 498
+S
+#498
+Walking on Golden Age Avenue~
+You can never get tired of walking along this beautiful roadway.  The
+picturesque landscapes are so natural and the vast sea that spans as far as
+the eye can see is just breathtaking.  You'll notice you're coming close to
+the end of this long road.  It seems to end close to that large mansion from
+a distance, east of here.
+~
+3 32768 1
+0d0+0 0 0
+D7
+
+~
+~
+0 -1 497
+D8
+
+~
+~
+0 -1 499
+S
+#499
+End of Golden Age Avenue~
+This long stretch of road ends here and you're not surprise where it took
+you.  You're standing before a driveway garden of one of the richest men on
+the planet...Bruce Wayne.  Yes, Bruce Wayne, the billionaire playboy-
+philanthropist lives inside this huge mansion.  The driveway garden that's
+structured in front of the mansion is just lovely.  You're tempted to walk
+around this estate to examine the Victorian-style mansion and maybe even
+catch a glimpse of the popular Mr. Wayne through the windows.
+~
+3 32768 1
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 422
+D7
+
+~
+~
+0 -1 498
+S
+$

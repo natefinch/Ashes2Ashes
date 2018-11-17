@@ -1,0 +1,4209 @@
+#10300
+Skim an issue of Xmen~
+You see to the northern part of the room, a pile of Xmen comix.  You have
+been wanting to read the few you missed for a long time.
+~
+103 0 0
+0d0+0 0 0
+E
+comic book~
+This is the authentic Giant-size X-Men #1
+~
+E
+sign~
+you are entering marvel area
+~
+S
+#10301
+A Comic Book Convention~
+
+Wow...there certainly are a lot of collectors here in this convention.  
+You see collectors of all ages going through boxes and boxes of
+comic books trying to find their favorite titles.  There are hundreds
+and thousands of comics all lined up against the walls.  There's even
+an Amazing Fantasy #15 (1st app. and origin Spider-Man) and a near-mint
+Fantastic Four #1 (tm) (c) ... you begin to drool...
+
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10302
+D1
+~
+~
+0 -1 21119
+D3
+~
+~
+0 -1 301
+S
+#10302
+Inside the Comic Book Convention~
+
+As you wander around the convention you see more and more boxes of
+comic books being offered for sale.  There are dealers all around
+you waiting to serve all buyers and traders.
+
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14000
+D1
+~
+~
+0 -1 22243
+D2
+~
+~
+0 -1 10301
+D3
+~
+~
+0 -1 10303
+S
+#10303
+Inside the Comic Book Convention~
+
+Finally...you arrived at the last row of tables.  There's a dealer
+here trying hard to sell his books.  The dealer is holding a strange
+looking key...you wonder to yourself what kind of door would that      
+key unlock.  Maybe its that small round-shaped door in front of you.
+
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 10301 10304
+D1
+~
+~
+0 -1 10302
+S
+#10304
+Marvel Main Street~
+Welcome to Apocalypse City, New York!  -- the year is 1997, this city  
+has become a battleground for the super beings.  The Kingpin, Dr. Doom,
+and the Red Skull have joined forces to take over this city...they
+plan to use this city as a base for their awesome criminal empire!
+The villainous trio had also hire most of the world's deadliest super-
+villains to safeguard their base from those super do-gooders.  However,
+before they were able to completely takeover the city -- the super-  
+heroes have decided to join forces to free the city from its captors.    
+~
+103 20 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10306
+D2
+~
+door~
+0 -1 10303
+S
+#10305
+Marvel Main Street~
+You see more buildings and shops on fire -- the devastation is everywhere!
+There's a lot of looting going on as the pandemonium spreads all around 
+the city...it looks like the end of the world...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10309
+D2
+~
+~
+0 -1 10306
+D3
+~
+~
+0 -1 10499
+S
+#10306
+Marvel Main Street~
+This is the main road in the city.  You see a lot of wrecked buildings 
+all around you.  Shattered windows, broken glass, overturned automobiles...
+it looks as though a tornado hit this city.  There are fire and smoke
+everywhere.  You hear explosions from a distance...not far from where
+you're standing!
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10305
+D2
+~
+~
+0 -1 10304
+S
+#10307
+First National Bank~
+Like any other building in Apocalypse City this place has been looted 
+and vandalized.  There are a lot of paper scattered on the floor.  The
+thick steel safe has been blasted wide open.  The place is dead...
+~
+103 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10309
+S
+#10308
+Marvel Main Street~
+This is the main road in the city.  You see a lot of wrecked buildings 
+all around you.  Shattered windows, broken glass, overturned automobiles...
+it looks as though a tornado hit this city.  There are fire and smoke
+everywhere.  You hear explosions from a distance...not far from where
+you're standing!
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10311
+D1
+~
+~
+0 -1 10318
+D2
+~
+~
+0 -1 10309
+S
+#10309
+Marvel Main Street~
+Death and destruction are everywhere -- there are a lot screaming and
+explosions all around you...  This city is really falling apart!
+To the east of where you're standing you see a mini-mart and to the
+west there's an abandoned building.                     
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10308
+D1
+~
+~
+0 -1 10310
+D2
+~
+~
+0 -1 10305
+D3
+~
+~
+0 -1 10307
+S
+#10310
+A Quik-Stop Market~
+The building here is still burning.  There's a lot of smoke in here ...
+you can't see a thing!  Maybe it's best if you get out of here before
+that fire envelops this building.
+~
+103 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 10309
+S
+#10311
+Marvel Main Street~
+Apocalypse City looks like Hell as you begin walking further north of 
+Main Street.  There are super-beings here battling one another...it would
+be wise not to get into the cross-fire.  
+To the east you see a post office and to the west there's a street that
+leads to the southwestern district of this city.
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10314
+D1
+~
+~
+0 -1 10312
+D2
+~
+~
+0 -1 10308
+D3
+~
+~
+0 -1 10349
+S
+#10312
+The Post Office~
+Usually, Mr. Bisley the friendly postman would be standing by the door
+ready to give you your mail... but like most people in the city he ended
+up being a casualty of war.  There are no mail today -- the only mail
+you see are the ones on fire or scattered on the floor.  The place has
+been ransanked just like any other buildings here.
+~
+103 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 10311
+S
+#10313
+An Arco gas station~
+There use to be a lot of cars coming by this place everyday.  But now
+it's deserted.  Gas is useless here because the roads are mangled
+and unsafe for automobiles.  The mini-mart inside the station has
+been looted and set on fire.  
+~
+103 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 10317
+S
+#10314
+Marvel Main Street~
+This road seems endless.  The streets, shops, and buildings are all  
+in ruins.  You can still hear the death screams and the cries for help.
+There are punks here roaming the streets in search of someone who's
+weak and defenseless...
+To the west of you there's a strange dark alley -- looks dangerous.
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10316
+D2
+~
+~
+0 -1 10311
+D3
+~
+~
+0 -1 10378
+S
+#10315
+A local K-Mart store~
+Holy Mackeral!  Your parent's favorite shopping center is here.  This
+is the place where your mom buys those cool Lee jeans and Trax shoes.
+Wow...it seems the punks left behind a whole load of these nice 
+merchandise.  You see your favorite snack bar just down aisle 14.  
+Just being in this store makes you feel homesick...
+~
+103 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10316
+S
+#10316
+Marvel Main Street~
+This town is falling apart and probably wouldn't be able to recover from
+this devastation.  You see punks and outcasts here killing off each 
+other in senseless melees.  
+To the west, there's a K-Mart store and to the east, you see a dark alley.
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10317
+D1
+~
+~
+0 -1 10383
+D2
+~
+~
+0 -1 10314
+D3
+~
+~
+0 -1 10315
+S
+#10317
+End of Main Street~
+This is the tail end of Marvel Main Street...but it's no different from
+the rest of this road.  There are burning buildings and explosions
+from all around you.  Luckily for you this is not a DEAD end.  You can 
+go northeast, northwest or DOWN...but beware of the choice you're about
+to make...
+~
+103 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 10316
+D5
+~
+~
+0 -1 10345
+D6
+~
+~
+0 -1 10498
+D7
+~
+~
+0 -1 10413
+S
+#10318
+New York City Limits~
+You're on the border between New York City and Apocalypse City.  To the
+east you see buildings everywhere.  There are a lot of traffic, a lot
+of noise and even also a lot of smog.  You wonder if staying in 
+Apocalypse City would heighten your chances of survival than entering
+this New York City.
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10319
+D3
+~
+~
+0 -1 10308
+S
+#10319
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10320
+D1
+~
+~
+0 -1 10321
+D2
+~
+~
+0 -1 10328
+D3
+~
+~
+0 -1 10318
+S
+#10320
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10321
+D1
+~
+~
+0 -1 10321
+D2
+~
+~
+0 -1 10319
+D3
+~
+~
+0 -1 10321
+S
+#10321
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10321
+D1
+~
+~
+0 -1 10322
+D2
+~
+~
+0 -1 10321
+D3
+~
+~
+0 -1 10320
+S
+#10322
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10323
+D1
+~
+~
+0 -1 10321
+D2
+~
+~
+0 -1 10321
+D3
+~
+~
+0 -1 10321
+S
+#10323
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10324
+D1
+~
+~
+0 -1 10321
+D2
+~
+~
+0 -1 10322
+D3
+~
+~
+0 -1 10321
+S
+#10324
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10321
+D1
+~
+~
+0 -1 10325
+D2
+~
+~
+0 -1 10323
+D3
+~
+~
+0 -1 10321
+S
+#10325
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10321
+D1
+~
+~
+0 -1 10326
+D2
+~
+~
+0 -1 10321
+D3
+~
+~
+0 -1 10324
+S
+#10326
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10327
+D1
+~
+~
+0 -1 10321
+D2
+~
+~
+0 -1 10321
+D3
+~
+~
+0 -1 10325
+S
+#10327
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10342
+D1
+~
+~
+0 -1 10321
+D2
+~
+~
+0 -1 10326
+D3
+~
+~
+0 -1 10331
+S
+#10328
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10319
+D1
+~
+~
+0 -1 10329
+D2
+~
+~
+0 -1 10331
+D3
+~
+~
+0 -1 10331
+S
+#10329
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10331
+D1
+~
+~
+0 -1 10330
+D2
+~
+~
+0 -1 10331
+D3
+~
+~
+0 -1 10328
+S
+#10330
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  As you go further east, you see something hidden in an alley
+way...It looks like a secret passage way...           
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10331
+D1
+~
+~
+0 -1 10331
+D2
+~
+~
+0 -1 10331
+D3
+~
+~
+0 -1 10329
+D6
+That wall looks unstable, you might want to take a closer look.
+~
+wall~
+1 -1 10341
+S
+#10331
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10328
+D1
+~
+~
+0 -1 10331
+D2
+~
+~
+0 -1 10332
+D3
+~
+~
+0 -1 10331
+S
+#10332
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10331
+D1
+~
+~
+0 -1 10333
+D2
+~
+~
+0 -1 10331
+D3
+~
+~
+0 -1 10331
+S
+#10333
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10331
+D1
+~
+~
+0 -1 10334
+D2
+~
+~
+0 -1 10331
+D3
+~
+~
+0 -1 10332
+S
+#10334
+On the Streets of New York City~
+You're here in New York City trying to find your way around.  It's funny
+how all those high rises look the same...even the residents here look
+alike.  If you go any further from here you would only be MORE lost...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10331
+D1
+~
+~
+0 -1 10335
+D2
+~
+~
+0 -1 10321
+D3
+~
+~
+0 -1 10333
+S
+#10335
+The gates of the Avenger's Mansion~
+These are the gates which would take you into the Avenger's Mansion.  
+From a distance you can see the majestic home of the greatest 
+super-heroes on earth.  Theres a sign hanging on the brass gates.
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+gates~
+1 10302 10336
+D3
+~
+~
+0 -1 10334
+E
+sign~
+  ** Trespassers: Beware of the Avenger's security systems **
+~
+S
+#10336
+Inside the Avenger's Mansion~
+  *RED ALERT!  RED ALERT!  RED ALERT!  RED ALERT!  RED ALERT!*
+  *AN INTRUDER HAS ENTERED THE PREMISES -- ALL GUARDS BE ON ALERT!*
+
+You have triggered the alarms...the guards should be here any moment... 
+you might still have a chance to escape with your life if you leave now!
+~
+103 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10337
+D2
+~
+~
+0 -1 10339
+D3
+~
+gates gate~
+1 -1 10335
+S
+#10337
+The Halls of Glory~
+There are statues of the Avengers lines up against the walls.  As you
+walk pass them you can't help but to admire the beauty of the statues--
+how they reflect the brave Avengers as they fight the forces of darkness.
+~
+103 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10338
+D2
+~
+~
+0 -1 10336
+S
+#10338
+The Coffee Room~
+The Avengers take their breaks here after saving the world.  There are
+freshly baked doughnuts on the tables as well as some nice chocolate
+pastries.  You smell the scent of freshly brewed coffee.  There's
+also a comfortable couch here for you to sit and enjoy the snack.
+~
+103 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 10337
+S
+#10339
+Trophy Room~
+There are hundreds and thousands of plaques hanging on the walls--each
+complimenting on the heroic acts of the mighty Avengers.  There are
+also trophies in display cases.  Every trophy seems to be made of
+solid gold--the enscriptions on each of the trophies celebrates the
+deeds of the Avengers.
+~
+103 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10336
+D1
+~
+~
+0 -1 10340
+S
+#10340
+Avenger's Meeting Room~
+As you enter you notice a large, spacious room.  There's a big, round 
+table in the center of the room and an even larger monitor on the
+wall.  This is the Avenger's Meeting Room where the mighty heroes
+discuss the activities of potential super-villains that they    
+may encounter.
+~
+103 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 10339
+S
+#10341
+A Secret Laboratory~
+This is the secret laboratory of the infamous High Evolutionary.  You
+see many complex experiments going on everywhere in the lab.  There are
+a lot of glassware shifting chemicals and mixing them together.  In
+the center of this lab you see two pods which the High Evolutionary
+uses to create his "New Men".
+~
+103 6152 0
+0d0+0 0 0
+D9
+~
+wall~
+1 -1 10330
+S
+#10342
+Inside the Baxter Building~
+The Fantastic Four headquarters look quite spacious.  From the 
+inside it looks HUGE.  There's a security guard here sitting 
+behind his desk.  You see an elevator here that might probably
+take you to meet the legendary Fantastic Four.
+~
+103 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10327
+D4
+~
+elevator door~
+1 10303 10343
+S
+#10343
+The Fantastic Four's laboratory~
+There are amazing gadgets all around you.  You are astonished by the 
+circuitry boards and the systematic diagrams in this room.  The
+technology is way ahead of its time.  There's an elevator that can
+take you to the top floor of this building.
+~
+103 14344 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 10344
+D5
+~
+elevator door~
+1 10303 10342
+S
+#10344
+The Fantastic Four's conference room~
+As you walk into this room, you see large monitors, charts, and maps
+covering every square inch of the walls.  You're even more stunned
+to see the Fantastic Four in person as they discuss their plans to
+stop Doctor Doom from enslaving the world.
+~
+103 14344 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 10343
+S
+#10345
+Road to Hell~
+It's very dark in here.  You're also feeling a little hot...in fact, it     
+gets hotter as you descend into this pit.  You begin to hear screams
+of pain and agony...you hear voices--cries of mercy.  There's a stench
+in the air...it smells like burning flesh.
+~
+103 256 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 10317
+D5
+~
+~
+0 -1 10346
+S
+#10346
+Deeper into Hell ~
+It's HOT...Maybe you should think twice about going any down any further.
+You hear more screams as you continue your journey.
+~
+103 256 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 10345
+D5
+~
+~
+0 -1 10347
+S
+#10347
+Mephisto's Underworld~
+You've entered into a dark unholy world.  You can feel the chill in 
+your spine as the death screams echoes all around you.  There's a
+putrid stench of decaying flesh...it makes you want to vomit.  To the
+south of where you're standing you can sense an evil presence.
+~
+103 256 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10348
+D4
+~
+~
+0 -1 10346
+S
+#10348
+Mephisto's Throne Room~
+"FOOLISH MORTAL...HOW DARE YOU ENTER MY SANCTUM...I'LL MAKE SURE YOU
+ WON'T BE GETTING OUT OF HERE--ALIVE!"
+
+This was probably the biggest mistake you've made in your life.  You
+are now face to face with the Devil himself.  There are no gods that  
+can save you...
+~
+103 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10347
+S
+#10349
+Parker Street~
+Like any other roads in Apocalypse City the streets are torned apart by
+countless explosions.  Everywhere you look there seems to be fire and
+smoke.  You see shattered glass covering the floor as you walk along
+this path.
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10311
+D3
+~
+~
+0 -1 10350
+S
+#10350
+Parker Street~
+The condition of this road is beginning to worsen.  There are a lot of
+obstacles as you try advancing westward -- obstacles such as avoiding
+the constant explosions and evading from the super-villains.
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10349
+D3
+~
+~
+0 -1 10351
+S
+#10351
+Parker Street~
+As you advance westward you see more ruins -- there are burning buildings
+and shops everywhere you look.  The air is clouded with smoke...  You
+can hear the death screams of victims who are dying in this city war.
+To the south of here there's a path...   
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10350
+D2
+~
+~
+0 -1 10354
+D3
+~
+~
+0 -1 10352
+S
+#10352
+Parker Street~
+You are amazed at the total annihilation of this once glamourous city.
+The streets are a rubble and so are the buildings and shops.  There's
+fire everywhere you look.  The punks sure took care of this place...
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10351
+D3
+~
+~
+0 -1 10353
+S
+#10353
+Xavier Avenue~
+You're at the half way point of this road.  Nothing new is here -- just
+more crime.  You hear the screams of the victims of this senseless
+violence.  The murdering punks are running on the streets searching  
+for innocent civilians to rob and then kill.  
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10361
+D1
+~
+~
+0 -1 10352
+D2
+~
+~
+0 -1 10358
+S
+#10354
+A Dark Alley~
+It's pretty dark in this gloomy, dank alley.  The smell is overwhelming...
+You see glowing eyes in the darkness, staring at your every movement.
+Those could be just cats -- but then again, cats aren't 6 feet tall...
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10351
+D2
+~
+~
+0 -1 10355
+S
+#10355
+A Dark Alley~
+Whew!  Here's the end of this dark alley -- you feel relieved.  There 
+seem to be light coming from a path west of here.  
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10354
+D3
+~
+~
+0 -1 10356
+S
+#10356
+A Path to Banner's Laboratory~
+There's not a lot of lighting here -- it's almost as dark as the alley
+you came from.  You feel a little safer but who knows...  There is a
+rumor of a creature who roams around this area...
+~
+103 1 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10355
+D2
+~
+~
+0 -1 10357
+S
+#10357
+The Door to Banner's Laboratory~
+There's a strange dome-shaped building to the south of you.  It looks 
+like a lab of some sort.  There's a large door that can take you
+inside this complex.
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10356
+D2
+~
+door~
+1 -1 10373
+S
+#10358
+The End of Xavier Avenue~
+You've reached the end of this road.  It's amazing how you made it   
+through the rubbles that use to be Xavier Street.  There's another
+path to the west of you.  This path can take you to Cimmeria...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10353
+D3
+~
+~
+0 -1 10359
+S
+#10359
+The Path to Cimmeria~
+This road can lead you to the mysterious city of Cimmeria -- the city
+of wealth.  But beware!  You may come across some mean, nasty savages
+who could take your goodies and slit your throat...
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10358
+D2
+~
+~
+0 -1 10360
+S
+#10360
+The Entrance to Cimmeria~
+You have reached Cimmeria--the land of savage barbarians.  Watch out 
+for bandits and pirates, they'll mug you and who knows what else
+they can do to you...  There is a legend of a warrior in this land--a
+worshipper of Crom.  He is believed to be the most skilled in the arts
+of battle.   
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10359
+D2
+~
+~
+0 -1 10374
+S
+#10361
+Xavier Avenue~
+Like any other roads in Apocalypse City the streets are torned apart by
+countless explosions.  Everywhere you look there seems to be fire and
+smoke.  You see shattered glass covering the floor as you walk along
+this path.
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10366
+D2
+~
+~
+0 -1 10353
+S
+#10362
+Entrance to Matt Murdock's Law Firm~
+Melrose Park Avenue used to be the largest business center in Apocalypse
+City.  Matt Murdock was the most famous lawyer in this district.  If you
+need any legal advice just make an appointment with him.  His office is
+east of here.
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+door~
+1 -1 10375
+D2
+~
+~
+0 -1 10363
+S
+#10363
+Melrose Park Avenue~
+Like any other roads in Apocalypse City the streets are torned apart by
+countless explosions.  Everywhere you look there seems to be fire and
+smoke.  You see shattered glass covering the floor as you walk along
+this path.
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10362
+D2
+~
+~
+0 -1 10364
+S
+#10364
+Melrose Park Avenue~
+The street is crawling with vermins -- not just the rats -- but the punks
+here who rob and murder the innocent.  There's no justice in Apocalypse
+City -- no cops would dare come into this town.  Damn, where's the 
+Punisher when you need him?
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10363
+D1
+~
+~
+0 -1 10365
+S
+#10365
+Byron's Lane~
+This street only spans a few blocks.  There's nothing here but ravaged
+buildings and shops.  You see the melees on the streets -- punks and
+outcasts murdering one another to see who would rule the streets.
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10366
+D3
+~
+~
+0 -1 10364
+S
+#10366
+The Intersection of Byron's Lane and Xavier Avenue~
+Here's the intersection of the two main roads in this district.  Nothing
+new here -- more punks, more prostitutes, more crime, etc.  The streets
+here are a mess.  There's no cops here to protect the safety of the  
+innocents and the super-heroes are preoccupied with the super-baddies.
+You're left alone to fend for yourself...
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10367
+D2
+~
+~
+0 -1 10361
+D3
+~
+~
+0 -1 10365
+S
+#10367
+Byron's Lane~
+It's not easy to see through the smoke screen caused by the burning
+buildings and automobiles.  The local punks here are searching for a
+poor fool to beat up.  It would be smart not to catch their attention. 
+To the east, you see a yellow-painted road...curious...
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10368
+D3
+~
+~
+0 -1 10366
+S
+#10368
+A Yellow Brick Road~
+The yellow brick road begins here!  You wonder where this mystical road   
+will take you.  Watch out!  You may fall into a trap -- the condition
+of the road doesn't look too good...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10369
+D3
+~
+~
+0 -1 10367
+S
+#10369
+A Yellow Brick Road~
+Like any other roads in Apocalypse City the streets are torned apart by
+countless explosions.  Everywhere you look there seems to be fire and
+smoke.  You see shattered glass covering the floor as you walk along
+this path.
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10370
+D2
+~
+~
+0 -1 10368
+S
+#10370
+A Yellow Brick Road~
+The condition of the road is so bad that any automobiles which passes
+here could cause the entire street to collapse into the sewers!
+To the west, there's an abandoned building...
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10372
+D2
+~
+~
+0 -1 10369
+D3
+~
+~
+0 -1 10371
+S
+#10371
+An abandoned apartment building~
+There's no bellhop here to help you with your bags -- this place looks
+deserted.  Look at all those cockroaches scattering around the floor --
+disgusting...  This apartment complex is filthy and unsafe to live in.
+~
+103 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10370
+S
+#10372
+Entrance to the Wizard's domain~
+Here's the end of the Yellow Brick Road.  The good wizard of Apocalypse
+City could help you with your needs.  His sanctum is to the west of you.
+The wizard-doctor is always willing to help anyone in need.  
+~
+103 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 10370
+D3
+~
+door~
+1 -1 10376
+S
+#10373
+Bruce Banner's Laboratory~
+As you walk into this room you gasp in astonishment...there are machines
+and wires all over the place.  Everywhere you look there seem to be
+some mechanical operation in progress. In the far right corner of this
+room, you see a figure of a man--yet it can't be a man--the figure is
+way too huge to be any man!  Oh my gosh, you think to yourself, this
+monster must have killed poor Doctor Banner...
+~
+103 6152 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 10357
+S
+#10374
+Inside the Palace of Cimmeria~
+As you walk into this Cimmerian Palace you notice the ancient architecture
+of its interior.  The beauty of the stained windows...the palace looks
+more like a church than a home of a king.  You see a man sitting on a
+throne...he wears a nice fur cloak around his neck and a crown made
+of solid gold and studded with the finest jewels.  He is Conan--the King
+of Cimmeria.
+~
+103 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10360
+S
+#10375
+The office of Matt Murdock & Associates~
+There are piles and piles of paper stacked on the table ready to be     
+processed.  It's a typical lawyer's office...a nice lazy-boy...some
+decorative law books on a cheap plywood shelf...etc.  You sense that
+Murdock must be a pretty boring guy.
+~
+103 6152 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 10362
+S
+#10376
+The Sanctum of Doctor Strange~
+The doctor's pad seems pretty tidy however it needs more lighting.  The
+room you've entered looks quite spooky.  The whole place smells like
+burning incense.  You sense there is a strange force in here--a power
+of neither good nor evil--it's all around this house.  As you go further
+westward, you notice a strange light...
+~
+103 6152 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 10372
+D3
+~
+portal~
+2 10304 10377
+S
+#10377
+An Alternate Dimension~
+This is the room that Doctor Strange uses to keep his enemies from
+getting out and terrorizing innocent people.  The concept of gravity
+and time has no meaning here.  Watch out...you don't want to float
+any further into this void...
+~
+103 129 0
+0d0+0 0 0
+D1
+~
+portal~
+1 10304 10376
+S
+#10378
+In a dark, dark alley ~
+Boy, this place sure stinks...  There's a large dumpster here already
+fill with decaying meat from the butcher's shop.  There are fecal matter
+everywhere--on the floor and the walls.  So many flies and mosquitoes
+flying around you.  Yuck!  
+~
+103 1 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10314
+D7
+~
+~
+0 -1 10379
+S
+#10379
+In a dark, dark alley ~
+Boy, this place sure stinks...  There's a large dumpster here already
+fill with decaying meat from the butcher's shop.  There are fecal matter
+everywhere--on the floor and the walls.  So many flies and mosquitoes
+flying around you.  Yuck!  
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10380
+D8
+~
+~
+0 -1 10378
+S
+#10380
+In a dark, dark alley ~
+Boy, this place sure stinks...  There's a large dumpster here already
+fill with decaying meat from the butcher's shop.  There are fecal matter
+everywhere--on the floor and the walls.  So many flies and mosquitoes
+flying around you.  Yuck!  
+~
+103 1 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 10379
+D6
+~
+~
+0 -1 10381
+S
+#10381
+In a low-middle class district~
+Mostly students who have just graduated from college reside here.  The
+rent is cheap but the risk of getting mugged is high.  The streets
+here are dangerous even during the day.  Cops in Apocalypse City 
+don't stop here often.  As you walk along this district you notice
+a costume figure swinging on a rope.  The figure swooped into an
+apartment northwest of where you're standing.
+~
+103 0 1
+0d0+0 0 0
+D7
+~
+door~
+2 10305 10382
+D9
+~
+~
+0 -1 10380
+S
+#10382
+Peter Parker's apartment~
+A nice and tidy apartment even though it's kind of small.  Everything 
+here isn't worth stealing--maybe a burglar can get 10 bucks for that
+black & white television.  The wall paper is becoming unglued to the
+wall.  The floor boards creak as you walk into this apartment.      
+~
+103 6152 0
+0d0+0 0 0
+D8
+~
+door~
+2 10305 10381
+S
+#10383
+Crime Alley~
+Crime Alley is not exactly a nice neighborhood to live in.  This is
+the hangout for super-villains...  There are a lot of illegal 
+activities going on here--even the cops are afraid to enter this
+area.  Only fools would come into this alley so unless you have
+super powers--don't even think about going any further down
+this path
+~
+103 1 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10384
+D3
+~
+~
+0 -1 10316
+S
+#10384
+Crime Alley     ~
+As you walk further eastwards you notice it begins to get darker and 
+darker.  You wonder where is the tail end of this road...the dark
+path seems endless.                    
+You are lucky to still be alive...the villains further down this
+road are quite aggressive.  As you continue your journey east you
+notice there seems to be more and more villains around you...sweat
+trickles down your brow...
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10386
+D1
+~
+~
+0 -1 10385
+D3
+~
+~
+0 -1 10383
+S
+#10385
+Crime Alley     ~
+As you walk further into this alley, you begin to shiver from the fear
+of being attacked and murdered.  You can hear the cries for help and
+the screams of pain as you walk into the darkness...
+There's a bar to the north and a shopping mall to your south.
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10387
+D1
+~
+~
+0 -1 10389
+D2
+~
+~
+0 -1 10402
+D3
+~
+~
+0 -1 10384
+S
+#10386
+A McDonalds restaurant~
+Welcome to Mickey Dee's!  This place use to serve hundreds of burger
+lovers but now it's a home for transients and drug addicts.  Ronald
+McDonald use to make frequent visits here to entertain the happy
+children -- it's a shame that he wouldn't being making stops here    
+anymore.  This place is crawling with rats and cockroaches -- maybe
+you should reconsider trying to order that Double Quarter Pounder...
+~
+103 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10384
+S
+#10387
+Deadpool's Bar~
+As you walk into this place -- you see some costumed freaks drinking
+some beers and chatting with friends.  The waitress tells you:
+     "This is a bar for MUTANTS ONLY !  If you don't want to get
+      hurt I suggest you leave here immediately !"
+You're having second thoughts about going further into the bar.  The
+guys here don't look too happy that an "inferior" non-mutant is
+trying to invade their space...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10388
+D2
+~
+~
+0 -1 10385
+S
+#10388
+The Pool Room~
+As you walk into this room, everyone starts staring at you.  They begin
+to growl at first then they started coming closer to you...  You're in
+pretty deep s**t.  The only exits are the door to your north or back
+to where you came from.
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 10310 10390
+D2
+~
+~
+0 -1 10387
+S
+#10389
+The Intersection of Crime Alley and 13th Street~
+Darkness is everywhere!  As you walk further into this alley, you can
+feel the cold stares...  There are a lot of punks here who want a
+piece of you.  You can see their switchblades glisten even in this dim
+lighting.  They're waiting for a chance to attack you...
+There's another road here which intersects Crime Alley.  It looks just
+as dark and dangerous as the path you're walking on.
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10395
+D1
+~
+~
+0 -1 10392
+D2
+~
+~
+0 -1 10399
+D3
+~
+~
+0 -1 10385
+S
+#10390
+Deadpool's Office~
+This office is very tidy and nicely furnished.  Deadpool uses this place
+to operate his assassin-for-hire business.  He's sitting on his lazy-
+boy just smoking his cigar.  Your presence doesn't alarm him -- he thinks
+you're no threat to him.  Just remember...this guy is probably the best
+assassin in the world...
+~
+103 6152 0
+0d0+0 0 0
+D2
+~
+door~
+1 10310 10388
+S
+#10391
+Mike's Gift Shop~
+It's pretty dark in here.  The place is full of cobwebs and dead rats.
+There's a nauseating smell in this shop...something between a rotting
+corpse and waste matter from a portable restroom.  Mike James, the 
+owner of this shop, is nowhere to be found.             
+~
+103 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10392
+S
+#10392
+Crime Alley     ~
+The punks living in this dump are beginning to notice you.  They   
+begin moving towards you as though they are ready to strike...
+You feel the cold sweat on your back dripping down your shirt.
+If you run fast enough you might be able to make it to that gift  
+shop to the south! 
+~
+103 1 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10393
+D2
+~
+~
+0 -1 10391
+D3
+~
+~
+0 -1 10389
+S
+#10393
+At the end of Crime Alley~
+Finally...the long road ends here.  You have survived the many encounters
+during your long journey.  However, there is one last encounter that you
+must make--there's an evil mad man to the north of you--his name is
+Doctor Doom...  Only you can stop him from destroying the world!
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10394
+D3
+~
+~
+0 -1 10392
+S
+#10394
+The Gates to Castle Doom         ~
+You have arrived at the gates of Castle Doom...  The gates seems to be
+unlocked as though the Doctor wanted you in his lair.  Doom is notorious
+for torturing and mutilating his prisoners.  Maybe it's not a good
+idea to disturb the him...      
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+gates~
+1 -1 10407
+D2
+~
+~
+0 -1 10393
+S
+#10395
+13th Street    ~
+This road is just as dark and dangerous as Crime Alley.  There are also
+many super-villains here hanging around chatting among themselves.  
+They're planning on something sinister...you better hope you're not
+part of that plan...
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10396
+D2
+~
+~
+0 -1 10389
+S
+#10396
+13th Street    ~
+You've reached the end of 13th Street.  However, darkness still surrounds
+you...you know there's danger all around you.  Maybe that sewage tunnel
+to the east can be used as a sanctuary...
+~
+103 1 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10397
+D2
+~
+~
+0 -1 10395
+S
+#10397
+A sewage tunnel~
+It smells pretty bad in here...you don't want to know what you're 
+stepping on at this very moment.  This sewage tunnel is inhabited
+by rats and maybe a few alligators.                           
+~
+103 257 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10398
+D3
+~
+~
+0 -1 10396
+S
+#10398
+Further into the sewage tunnel~
+As you advance slowly down this tunnel...the smell of fecal matter and
+urine begins to overwhelm you...you begin gasping for fresh air...
+To the north of where you're standing there's a light source flickering
+on and off.
+~
+103 257 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10406
+D3
+~
+~
+0 -1 10397
+S
+#10399
+13th Street    ~
+As you walk along this road, you felt something brushed against your leg.
+You can't see a damn thing in this darkness.  There's heavy breathing as
+you walk further into this alley...something or someone must be following
+you!  There's nowhere to run...
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10389
+D2
+~
+~
+0 -1 10400
+S
+#10400
+13th Street    ~
+You bumped into a wall -- this must be the end of the street.  This is
+quite a relief...  There's a faint light to the west.  It seems to lead
+to a new path.
+~
+103 1 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10399
+D3
+~
+~
+0 -1 10401
+S
+#10401
+A Dead End~
+You come to a complete halt--there's nothing here but a dead end.  You
+notice a brick wall to the south of you...there seems to be light 
+shining out from the many cracks on this wall...maybe it comes from the           
+other side...
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10400
+D2
+~
+wall~
+1 -1 10411
+S
+#10402
+Arden Fair Mall~
+Back when the super-villains were under control, Arden Fair Mall used
+to be the happiest place in Apocalypse City.  But now it's nothing more
+than a haven for low-lifes.  The shops in this mall has been ransacked
+long ago.                                                 
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10385
+D2
+~
+~
+0 -1 10403
+S
+#10403
+South end of Arden Fair Mall~
+As you walk further south of this mall you notice a road that would
+lead you west of here.  There's nothing special to do around here.
+You mind as well turn back or go west...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10402
+D3
+~
+~
+0 -1 10404
+S
+#10404
+A crooked path~
+This path must lead to somewhere...  The narrow path is pretty crooked.
+It looks like it was made by automobiles passing by this area.  There
+are a lot of tall weeds and grass on both sides of this road.  
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10403
+D3
+~
+~
+0 -1 10405
+S
+#10405
+End of the crooked path~
+The narrow path stops here.  You see a military camp south of here.  It
+looks like someone is planning a war or maybe it's the U.S. army here
+helping to clean the streets of these villains.
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10404
+D2
+~
+~
+0 -1 10412
+S
+#10406
+A Very Dark Cave in the Sewers~
+The cave here looks huge...but that same smell of sewage is still        
+present.  You see a burning candle on a cardboard box.  There are
+some left-over Chinese food left on the ground.  It seems someone
+is living here and maybe he's still in this cave...
+~
+103 6400 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10398
+S
+#10407
+Inside Castle Doom~
+The castle look more spooky from the insides.  There are medieval
+weapons and shields hanging on the grey-stone walls.  Along the
+sides of the aisle you see knight armors erected upwards for display.
+You notice a wooden door to the east of here.
+~
+103 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10408
+D3
+~
+gates~
+1 -1 10394
+S
+#10408
+The guard room  ~
+Doctor Doom is no fool when it comes to security.  He has his robot       
+guards here to secure the door to his throne room.  The room is
+just packed with guards--but beware--once you attack one guard
+the others may begin to attack you!  These robots are programmed
+to stop any troublemakers in the castle.
+~
+103 8 0
+0d0+0 0 0
+D1
+~
+door~
+2 10306 10409
+D3
+~
+~
+0 -1 10407
+S
+#10409
+The Throne Room of Doctor Doom~
+
+      "YOU PITIFUL FOOL--YOU DARE ENTER THIS ROOM--I'LL MAKE SURE
+       YOU SUFFER A LONG AND PAINFUL DEATH!"
+
+Doctor Doom, the king of Latveria and one of the most dangerous criminal
+masterminds, has sentence you to die...  There's no way out--you must
+kill or be killed.
+~
+103 6152 0
+0d0+0 0 0
+D3
+~
+door~
+2 10306 10408
+D5
+~
+trapdoor~
+2 10307 10410
+S
+#10410
+The Master Control Room~
+So this is the secret room behind the wall...  There are monitor screens
+everywhere you look and a large control panel in the middle of the room.
+Buttons and switches all over this place.  The room is dimly lighted.
+Behind the shadows of a large chair...you hear laughter...  There's       
+someone here!
+~
+103 6153 0
+0d0+0 0 0
+D4
+~
+trapdoor~
+2 10307 10409
+S
+#10411
+Hobgoblin's Hideout~
+This small room is loaded with various kinds of weapons...however, they're 
+not the kind anyone besides the Hobgoblin would use.  There are pumpkin
+bombs and an assortment of weapons that the Hobgoblin uses in battle.
+There's a large stash of money on the floor, probably came from a heist.
+~
+103 6152 0
+0d0+0 0 0
+D0
+~
+wall~
+1 -1 10401
+S
+#10412
+A military camp~
+Yikes...as you step into this camp you notice the soldiers here are
+dress in Nazi outfits.  Something is definitely wrong...  You see
+assault vehicles and tanks parked everywhere on this camp.  The         
+soldiers here don't seem to notice that you've wandered into the
+camp.  Their attention are directed toward a guy behind a podium.        
+The guy behind the podium is wearing a red mask in the shape of a 
+skull.  He speaks pretty loud and his audience seems to be under
+a trance.
+~
+103 6144 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10405
+S
+#10413
+Blood Valley~
+The roads in Blood Valley are just as damaged as the ones on Marvel Main.
+There's destruction everywhere as you walk along here.  A fire is burning
+the nearby shops and black clouds of smoke almost cover the sky.
+~
+103 0 1
+0d0+0 0 0
+D7
+~
+~
+0 -1 10414
+D8
+~
+~
+0 -1 10317
+S
+#10414
+Blood Valley      ~
+As you walk along Blood Valley the condition of the roads worsen.  There
+are a lot of cracks and pot holes everywhere on the streets...it looks
+as though this section of the city is gonna collapse. 
+~
+103 0 1
+0d0+0 0 0
+D7
+~
+~
+0 -1 10415
+D8
+~
+~
+0 -1 10413
+S
+#10415
+Blood Valley      ~
+This is the halfway point of the road.  The punks here are more    
+bloodthristy -- they want someone like you to come along so they
+can rob you and who knows what these savages are capable of...
+~
+103 0 1
+0d0+0 0 0
+D7
+~
+~
+0 -1 10416
+D8
+~
+~
+0 -1 10414
+S
+#10416
+Northern section of Blood Valley~
+The Northern section of Blood Valley leads to the northwestern district
+of Apocalypse City.  To the northwest, you see a New York subway...it
+sure looks pretty dark in there...  You can hear the howls and screams 
+of drunken hoodlums from inside that tunnel.  
+~
+103 0 1
+0d0+0 0 0
+D7
+~
+~
+0 -1 10417
+D8
+~
+~
+0 -1 10415
+S
+#10417
+A Train Subway~
+You've walked into a typical New York subway.  It looks pretty dark down
+here...you wonder if anyone up there can hear you scream.  The subway
+is pretty long and as you walk along here, you can hear your footsteps
+echo into the darkness ahead.
+~
+103 257 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10418
+D1
+It looks pretty dark in there...you can get lost very easy... 
+~
+east e~
+0 -1 10428
+D3
+It looks pretty dark in there...you can get lost very easily.
+~
+west w~
+0 -1 10428
+D8
+~
+~
+0 -1 10416
+S
+#10418
+A Train Subway~
+You are surrounded by darkness...  Make sure you watch where you're
+going because you can get LOST easily.  The punks down in these tunnels
+are closing in on you.  They know you're here and they're out for your
+blood !!  Run, You Fool, Run !!
+~
+103 257 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10419
+D1
+It looks dark in there...you can get lost very easily...
+~
+east e~
+0 -1 10428
+D2
+~
+~
+0 -1 10417
+D3
+It's pretty dark in there...you can get lost very easily...
+~
+west w~
+0 -1 10428
+S
+#10419
+A Train Subway~
+You can hear footsteps behind you...they're getting closer.  There's
+no turning back now and screaming will do you no good -- this is a
+"gang-land" subway and you're a trespasser.
+~
+103 257 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10420
+D1
+It's very dark in there...you can get lost very easily...
+~
+east e~
+0 -1 10428
+D2
+~
+~
+0 -1 10418
+D3
+It's very dark in there...you can get lost very easily...
+~
+west w~
+0 -1 10428
+S
+#10420
+A Train Subway~
+You're beginning to go CRAZY !!  All that running was pretty exhausting...
+The sound of footsteps behind you suddenly disappear.  You've reached
+the end of the subway !  To your north, there's a road and to the east,
+you see more tunnel, more darkness...  If you're smart north is the
+direction you should take.
+~
+103 257 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10423
+D1
+~
+~
+0 -1 10421
+D2
+~
+~
+0 -1 10419
+D3
+It's very dark in there...you can get lost very easily...
+~
+west w~
+0 -1 10428
+S
+#10421
+A subway section under construction~
+This section of the subway is still under construction.  Maybe it's not
+a good idea to wander into this area...who knows maybe this area could
+collapse over your head.  
+~
+103 257 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10422
+D3
+~
+~
+0 -1 10420
+S
+#10422
+Area under construction              ~
+This subway section is still under construction.  However, due to the
+riots on the streets construction has been delayed.  It's totally
+dark in here...you can't see much because of the insufficient lighting.
+But beneath where you're standing you can hear voices...there are   
+people living in those sub-drainage tunnels.
+~
+103 257 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 10421
+D5
+~
+~
+0 -1 10429
+S
+#10423
+Capitol Mall Avenue~
+This is the main road in the city's northwestern district.  Unlike the
+other roads in Apocalypse City the streets here are clean and "criminal
+free."                                  
+~
+103 4 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 10420
+D3
+~
+~
+0 -1 10424
+S
+#10424
+Capitol Mall Avenue~
+ As you walk along this street you can't hear any sound of gun shots or
+explosions.  There is only sound of birds to keep you company.  Like
+any streets in Apocalypse City the road here is abandoned--no traffic
+congestions, no honking, etc.  
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10423
+D3
+~
+~
+0 -1 10425
+S
+#10425
+Capitol Mall Avenue~
+This road must have been protected by the super-heroes during the
+invasion of the super-villains.  There's no punks or drug dealers here.
+This district was the only area that the terrible trio (Red Skull,     
+Kingpin, and Dr. Doom) had not taken hostage.
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10424
+D3
+~
+~
+0 -1 10426
+S
+#10426
+Western end of Capitol Mall Avenue~
+This is where the street ends.  To the west, you see a large building--
+the walls and floor are made of marble.  There are six large columns
+supporting the porch of this large complex.         
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10425
+D3
+~
+~
+0 -1 10427
+S
+#10427
+Entrance to the Justice Department~
+The state government must have spent a bundle on maintenance and
+construction of this building.  There's a large solid oak door to
+your west.  It looks pretty tough to open...
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10426
+D3
+~
+door doors~
+1 -1 10434
+S
+#10428
+Forever Lost into the Darkness~
+You are completely LOST !!!  There's no way out of here...no matter where
+you run you'll end up LOST !  Lucky for you, however, there's a drainage
+tunnel that would take you back to Midgaard.
+~
+103 389 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10428
+D1
+~
+~
+0 -1 10428
+D2
+~
+~
+0 -1 10428
+D3
+~
+~
+0 -1 10428
+D5
+~
+~
+0 -1 3001
+D6
+~
+~
+0 -1 10428
+D7
+~
+~
+0 -1 10428
+D8
+~
+~
+0 -1 10428
+D9
+~
+~
+0 -1 10428
+S
+#10429
+An underground drainage tunnel~
+It's dark and dank in this underground drainage tunnel...  You can't
+see anything except those pairs of glowing eyes.  There are          
+definitely people living in this tunnel but who??
+There are more tunnels to the west and a strange looking wall to     
+your north.
+~
+103 261 0
+0d0+0 0 0
+D0
+a wall that looks more like a secret door.
+~
+wall~
+1 -1 10433
+D3
+~
+~
+0 -1 10430
+D4
+~
+~
+0 -1 10422
+S
+#10430
+An underground drainage tunnel~
+You can hear whispers in the darkness...  As you shine your light
+source towards the end of the tunnel you can see the people who
+lives here -- They are the Morlocks, mutant rejects, who vowed never
+to live above ground with the "normals".  
+~
+103 257 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10429
+D2
+~
+~
+0 -1 10432
+D3
+~
+~
+0 -1 10431
+S
+#10431
+An underground drainage tunnel~
+You've reached a dead-end.  Lucky for you the Morlocks aren't the  
+aggressive types.  However, they might reconsider about not killing
+you if you stick around any longer.  
+~
+103 257 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10430
+S
+#10432
+An underground drainage tunnel~
+Here's another dead-end to the tunnel.  The Morlocks are becoming 
+restless and frightened...they don't know why you're wandering in
+their domain.  
+There's something weird about the floor in this room...
+~
+103 257 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10430
+D5
+There seems to be a "secret door" leading down...
+~
+trapdoor door~
+1 -1 10442
+S
+#10433
+An underground drainage tunnel~
+You've entered a very, very secret room !  No one has been here in
+centuries.  There's a ton of money left here by someone...  You wonder
+to yourself who could have left this money.  Could he still be in
+the same room -- nah, he would be dead long ago...
+~
+103 14593 0
+0d0+0 0 0
+D2
+~
+wall~
+1 -1 10429
+S
+#10434
+The Justice Department~
+And you thought the building from the outside looks incredible, the 
+inside looks like Trump's Plaza.  This place is packed with state
+officials who like to sit around all day and do nothing.  
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10436
+D1
+~
+door doors~
+1 -1 10427
+D2
+~
+~
+0 -1 10435
+S
+#10435
+The Justice Department~
+As you walk inside this glamourous building, you can see your favorite 
+politicians running pass you.  They must be in a hurry, after all, it's
+lunch time.
+To the west, you see a door...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10434
+D3
+~
+door~
+2 10413 10440
+S
+#10436
+The Justice Department~
+*Yawn*...the rooms in this building all look the same.  The paintings
+and the sculptures are beginning to look more like cheap imitations.
+To the north, you see a large door...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 10437
+D2
+~
+~
+0 -1 10434
+S
+#10437
+S.H.I.E.L.D. Headquarter~
+You've entered the newly remodeled Shield Headquarter.  The rooms in
+this HQ is much like the rooms in the justice department.  S.H.I.E.L.D.
+was organized to bring down the criminal empires and to protect the
+welfare of all Americans.
+~
+103 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 10436
+D3
+~
+~
+0 -1 10438
+S
+#10438
+S.H.I.E.L.D.'s meeting room ~
+This is the room where the high-ranking Shield lieutenants discuss
+their next mission.  You can see a large round table in the center
+of the room.  On the walls, there seems to be hundreds of screens
+covering it from corner to corner.
+~
+103 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10437
+D3
+~
+~
+0 -1 10439
+S
+#10439
+S.H.I.E.L.D.'s strategy room~
+There are maps everywhere...on the walls and the desks.  This is the room
+where Shield agents plan their assault on the enemy forces.  Strategy is
+what Shield is famous for.
+There's a door to the north...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 10441
+D1
+~
+~
+0 -1 10438
+S
+#10440
+Captain America's Office~
+This room doesn't look anywhere like the entire Justice Department.  You
+sense Captain America to be an ordinary man who doesn't think much
+about conspicuous consumption.  There's a table in front of you with
+tons of paper stacked on top.  The only electrical device here is a
+phone with an answering machine.  Captain America is sitting here,
+going through the piles of paper trying to find a case to solve.
+~
+103 6152 0
+0d0+0 0 0
+D1
+~
+door~
+2 10413 10435
+S
+#10441
+The office of Nick Fury~
+As you walk inside this room, you can see a lot of papers scattered
+everywhere.  There are pieces of food lying on the floor.  This office
+is obviously filthy.  You see a man with an eyepatch lying on a
+couch sleeping and snoring very loudly.  
+~
+103 6152 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 10439
+S
+#10442
+The Mole Man's Control Room~
+The technology in this room is way ahead of its time.  You can see
+large monitors on the walls which are used to spy on the world above.
+This is the secret control room of the Mole Man -- one of the
+Fantastic Four's greatest enemies of all time.  He's planning on
+taking over the world with his people...
+~
+103 6152 0
+0d0+0 0 0
+D4
+~
+trapdoor door~
+1 -1 10432
+S
+#10443
+The hallway~
+As you walk along this glamourous structure, you can see the great 
+statues of the gods themselves.  The statue of Odin and Thor stands
+out the most -- they're the most two recognizable figures in the
+Norse folklore...
+There's a door to the south...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10447
+D2
+~
+door~
+1 10379 10445
+S
+#10444
+A Dark, Dark Room~
+This room is so dimly lit... As you walk into this room you can hear
+whispering and laughter.  There are Asgardians here and they're 
+plotting something sinister...
+~
+103 14344 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 10448
+S
+#10445
+The room of Thor~
+This is the bedroom belonging to the son of Odin, the thunder god      
+himself, Thor.  There's a large bed in the center of this room--it's
+made of the finest oak.  Across the room, you can see Thor looking
+out the window with his beloved, the lady Sif. 
+~
+103 14344 0
+0d0+0 0 0
+D0
+~
+door~
+1 10379 10443
+S
+#10446
+The Throne Room of Odin~
+You've entered into the sacred room of the All-Father himself, the 
+mighty Odin!  Coming into this room without authorization is punishable
+by death.  Now prepare to DIE, you mortal fool...
+~
+103 14344 0
+0d0+0 0 0
+D2
+~
+door~
+1 10379 10447
+S
+#10447
+The hallway ~
+There are three guys here guarding this area.  They don't look like
+any ordinary Asgardian soldiers -- these three looks to be skilled in
+the art of fighting.  They're guarding the rooms as though something
+or someone in there was important.  
+There's a door to the north and a hallway to the south.
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 10379 10446
+D2
+~
+~
+0 -1 10443
+D5
+~
+~
+0 -1 10449
+S
+#10448
+Valhalla's Bar ~
+As you walk into this bar, you can see the Asgardians here drinking 
+and singing.  This is the only place where Trolls and Asgardians come
+together to chat and have a few beers.  
+There's a door to the south...
+~
+103 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 10444
+D7
+~
+~
+0 -1 10450
+S
+#10449
+Inside the House of Odin~
+NO MORTAL has ever entered the House of Odin.  You will be severely 
+punished by the All-Father himself if you're caught.  There are
+guards everywhere in this castle...
+There's a grand staircase that'll take you upstairs. 
+~
+103 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 10447
+D9
+~
+~
+0 -1 10450
+S
+#10450
+Inside the Kingdom of Asgard~
+You are in awe as you walk into this fable city.  The large structures
+here are covered in gold.  The roads themselves are made from the finest
+marble.  
+There's a bar to the southeast of here and to the northeast, a road     
+that leads to the royal castle.
+~
+103 8 0
+0d0+0 0 0
+D3
+~
+doors door~
+1 -1 10451
+D6
+~
+~
+0 -1 10449
+D8
+~
+~
+0 -1 10448
+S
+#10451
+Entrance to Asgard~
+The doors to the city of Asgard is to the east.  These large doors    
+are made of pure gold and studded with rare jewels...  They look pretty
+tough to open.
+~
+103 8 0
+0d0+0 0 0
+D1
+~
+doors door~
+1 -1 10450
+D5
+~
+~
+0 -1 10452
+S
+#10452
+Along the Rainbow Bridge~
+
+     "STOP, MORTAL!  You may not go any further along this bridge and
+      into the great kingdom of Asgard--return to where you came or
+      else face the wrath of faithful Heimdall !"
+
+You see a man dressed in a viking outfit... He seems to be pretty 
+serious about what he'd said. 
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10463
+D1
+~
+~
+0 -1 10463
+D2
+~
+~
+0 -1 10463
+D3
+~
+~
+0 -1 10463
+D4
+~
+~
+0 -1 10451
+D5
+~
+~
+0 -1 10453
+D6
+~
+~
+0 -1 10463
+D7
+~
+~
+0 -1 10463
+D8
+~
+~
+0 -1 10463
+D9
+~
+~
+0 -1 10463
+S
+#10453
+The Rainbow Bridge~
+You're now walking on the infamous Rainbow Bridge of the Viking folklore.
+This bridge is supposedly the passage to the realm known as Asgard.  As
+you walk along this colorful road you can see large structures at the
+very end.
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10463
+D1
+~
+~
+0 -1 10459
+D2
+~
+~
+0 -1 10463
+D3
+~
+~
+0 -1 10463
+D4
+~
+~
+0 -1 10452
+D6
+~
+~
+0 -1 10463
+D7
+~
+~
+0 -1 10463
+D8
+~
+~
+0 -1 10463
+D9
+~
+~
+0 -1 10463
+S
+#10454
+INTO THE BURNING BLUE STAR~
+You are surrounded by the flames of this sun--you feel your body begin
+to melt.  Not even that armor you're wearing can save you.  The heat
+is unbearable--you're crying out in pain !!!
+Sorry, friend, your journey ends here.  However, if you somehow managed
+to live through this...the merciful Gods of ROI have given you a chance
+to get out of this DEATH-TRAP...you can go down to the temple.
+~
+103 16522 0
+1d1+199 90 0
+D5
+~
+~
+0 -1 3001
+S
+#10455
+Somewhere in Space...~
+What you see in this area of space is undescribable...  You see a huge,
+alien creature drifting in the middle of space.  He's in a standing
+position and doesn't look to be dead.  The giant is glowing with POWER
+like a minature star.  You can sense he's no ordinary alien-being--he's
+more like a GOD waiting for Judgement Day.
+There's a large blue star very close to where you're standing...it would
+be VERY STUPID to walk into this fiery hot star...
+~
+103 14344 0
+0d0+0 0 0
+D0
+This is an obvious DT, like you didn't know :P~
+n north~
+0 -1 10454
+D1
+This is an obvious DT...like you didn't know :P~
+e east~
+0 -1 10454
+D2
+This is an obvious DT, like you didn't know :P~
+s south~
+0 -1 10454
+D3
+This is an obvious DT, like you didn't know :P~
+west w~
+0 -1 10454
+D6
+This is an obvious DT, like you didn't know :P~
+ne northeast~
+0 -1 10454
+D7
+This is an obvious DT, like you didn't know :P~
+nw northwest~
+0 -1 10454
+D8
+This is an obvious DT, like you didn't know :P~
+se southeast~
+0 -1 10454
+D9
+~
+~
+0 -1 10456
+S
+#10456
+Somewhere in Space...~
+Finding your way around this space bridge is impossible...  You'll need
+a map to find what you're looking for.  The bridge leads to all direction--
+make sure you're not going in circles...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10463
+D1
+~
+~
+0 -1 10463
+D2
+~
+~
+0 -1 10463
+D3
+~
+~
+0 -1 10463
+D6
+~
+~
+0 -1 10455
+D7
+~
+~
+0 -1 10463
+D8
+~
+~
+0 -1 10458
+D9
+~
+~
+0 -1 10463
+S
+#10457
+Somewhere in Space...~
+As you walk into this area you notice a rather LARGE humanoid alien...
+Who is this alien-being?  All he's doing now is just hovering over you,
+watching your every movement.  He doesn't seem to pose any threat...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10463
+D1
+~
+~
+0 -1 10463
+D2
+~
+~
+0 -1 10463
+D3
+~
+~
+0 -1 10463
+D6
+~
+~
+0 -1 10463
+D7
+~
+~
+0 -1 10463
+D8
+~
+~
+0 -1 10463
+D9
+~
+~
+0 -1 10460
+S
+#10458
+Somewhere in Space...~
+Finding your way around this space bridge is impossible...  You'll need
+a map to find what you're looking for.  The bridge leads to all direction--
+make sure you're not going in circles...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10463
+D1
+~
+~
+0 -1 10463
+D2
+~
+~
+0 -1 10459
+D3
+~
+~
+0 -1 10463
+D6
+~
+~
+0 -1 10463
+D7
+~
+~
+0 -1 10456
+D8
+~
+~
+0 -1 10463
+D9
+~
+~
+0 -1 10463
+S
+#10459
+Somewhere in Space...~
+Finding your way around this space bridge is impossible...  You'll need
+a map to find what you're looking for.  The bridge leads to all direction--
+make sure you're not going in circles...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10458
+D1
+~
+~
+0 -1 10460
+D2
+~
+~
+0 -1 10463
+D3
+~
+~
+0 -1 10453
+D6
+~
+~
+0 -1 10463
+D7
+~
+~
+0 -1 10463
+D8
+~
+~
+0 -1 10463
+D9
+~
+~
+0 -1 10463
+S
+#10460
+Somewhere in Space...~
+Finding your way around this space bridge is impossible...  You'll need
+a map to find what you're looking for.  The bridge leads to all direction--
+make sure you're not going in circles...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10463
+D1
+~
+~
+0 -1 10463
+D2
+~
+~
+0 -1 10463
+D3
+~
+~
+0 -1 10459
+D6
+~
+~
+0 -1 10457
+D7
+~
+~
+0 -1 10463
+D8
+~
+~
+0 -1 10461
+D9
+~
+~
+0 -1 10463
+S
+#10461
+Somewhere in Space...~
+This bridge leads just about anywhere in space.  As you walk into this
+section of the bridge you notice a rather large man, or whatever it is,
+standing on a metal platform.  He looks at you then turns his back.
+You're nothing but a flea to Thanos the Titan!  He can crush you with
+ease.  Try not to disturb him...you wouldn't wanna test his might...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10463
+D1
+~
+~
+0 -1 10463
+D2
+~
+~
+0 -1 10463
+D3
+~
+~
+0 -1 10463
+D6
+~
+~
+0 -1 10463
+D7
+~
+~
+0 -1 10460
+D8
+~
+~
+0 -1 10463
+D9
+~
+~
+0 -1 10462
+S
+#10462
+Somewhere in Space...~
+Finding your way around this space bridge is impossible...  You'll need
+a map to find what you're looking for.  The bridge leads to all direction--
+make sure you're not going in circles...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10463
+D1
+~
+~
+0 -1 10463
+D2
+~
+~
+0 -1 10463
+D3
+~
+~
+0 -1 10463
+D6
+~
+~
+0 -1 10461
+D7
+~
+~
+0 -1 10463
+D8
+~
+~
+0 -1 10463
+D9
+~
+~
+0 -1 10463
+S
+#10463
+Somewhere in Space...~
+Finding your way around this space bridge is impossible...  You'll need
+a map to find what you're looking for.  The bridge leads to all direction--
+make sure you're not going in circles...
+~
+103 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10463
+D1
+~
+~
+0 -1 10462
+D2
+~
+~
+0 -1 10464
+D3
+~
+~
+0 -1 10463
+D6
+~
+~
+0 -1 10463
+D7
+~
+~
+0 -1 10463
+D8
+~
+~
+0 -1 10463
+D9
+~
+~
+0 -1 10463
+S
+#10464
+Somewhere in Space...~
+You feel weird walking through this strange portal...  Everywhere is 
+darkness.  The gravity here is totally different...you feel lighter.
+You're walking on some sort of an invisible "bridge" which guides you
+toward a certain destination.  The Skrulls must be using this bridge to
+secretly invade worlds from other galaxy.  The space bridge leads to
+all directions... 
+~
+103 12 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10463
+D1
+~
+~
+0 -1 10463
+D2
+~
+~
+0 -1 10473
+D3
+~
+~
+0 -1 10463
+D6
+~
+~
+0 -1 10463
+D7
+~
+~
+0 -1 10463
+D8
+~
+~
+0 -1 10463
+D9
+~
+~
+0 -1 10463
+S
+#10465
+The Atlantic Ocean~
+All that swimming is beginning to give you the cramps.  Your arms are
+sore from the paddling.  If you don't get to shore in the next few
+minutes you will surely drown.  As you swim westward, you notice a
+man swimming towards you.  How could this be?  You must be hallucinating.
+Who else could be stupid enough to swim the Atlantic Ocean?
+~
+103 6144 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 10471
+D1
+~
+~
+0 -1 10467
+D2
+~
+~
+0 -1 10471
+D3
+~
+~
+0 -1 10471
+S
+#10466
+Gilligan's Island~
+Just sit right back and you'll hear a tale, a tale of a fateful trip...
+that started from this tropic port aboard this tiny ship.  The mate was
+a tiny, sailing man, the skipper, brave and sure.  Five passengers set
+sail that day for a three-hour tour...a three-hour tour.
+The weather started getting rough the tiny ship was lost.  If not for the
+courage of the fearless crew the Minnow would be lost...the Minnow would
+be lost.
+--we know the rest of the story--7 people stranded on an island for
+15 years and then decided that it was the place they wanted to stay for
+the rest of their lives... (see the movie)...
+~
+103 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10471
+D1
+~
+~
+0 -1 10471
+D2
+~
+~
+0 -1 10471
+D3
+~
+~
+0 -1 10471
+D6
+~
+~
+0 -1 10469
+S
+#10467
+The Atlantic Ocean~
+There's salty, green water everywhere you look.  It's too bad you 
+don't have a compass with you...this ocean is so vast that even the
+most experience sailors could get lost.  If you go further away from
+the dock you'll only be more lost!
+~
+103 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 10471
+D1
+~
+~
+0 -1 10471
+D2
+~
+~
+0 -1 10468
+D3
+~
+~
+0 -1 10465
+S
+#10468
+The Atlantic Ocean~
+There's salty, green water everywhere you look.  It's too bad you 
+don't have a compass with you...this ocean is so vast that even the
+most experience sailors could get lost.  If you go further away from
+the dock you'll only be more lost!
+~
+103 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 10467
+D1
+~
+~
+0 -1 10470
+D2
+~
+~
+0 -1 10469
+D3
+~
+~
+0 -1 10471
+S
+#10469
+The Atlantic Ocean~
+There's salty, green water everywhere you look.  It's too bad you 
+don't have a compass with you...this ocean is so vast that even the
+most experience sailors could get lost.  If you go further away from
+the dock you'll only be more lost!
+~
+103 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 10468
+D1
+~
+~
+0 -1 10471
+D2
+~
+~
+0 -1 10471
+D3
+~
+~
+0 -1 10471
+D9
+~
+~
+0 -1 10466
+S
+#10470
+The Atlantic Ocean~
+There's salty, green water everywhere you look.  It's too bad you 
+don't have a compass with you...this ocean is so vast that even the
+most experience sailors could get lost.  If you go further away from
+the dock you'll only be more lost!
+~
+103 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 10471
+D1
+~
+~
+0 -1 10471
+D2
+~
+~
+0 -1 10471
+D3
+~
+~
+0 -1 10468
+S
+#10471
+The Atlantic Ocean~
+There's salty, green water everywhere you look.  It's too bad you 
+don't have a compass with you...this ocean is so vast that even the
+most experience sailors could get lost.  If you go further away from
+the dock you'll only be more lost!
+~
+103 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 10471
+D1
+~
+~
+0 -1 10471
+D2
+~
+~
+0 -1 10472
+D3
+~
+~
+0 -1 10470
+S
+#10472
+The Atlantic Ocean~
+There's salty, green water everywhere you look.  It's too bad you 
+don't have a compass with you...this ocean is so vast that even the
+most experience sailors could get lost.  If you go further away from
+the dock you'll only be more lost!
+~
+103 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 10471
+D1
+~
+~
+0 -1 10471
+D2
+~
+~
+0 -1 10476
+D3
+~
+~
+0 -1 10471
+S
+#10473
+James Memorial Park~
+The light is so blinding it's almost impossible to see who's here.     
+Finally, your eyes begin to adjust to this light and what you see was
+surprising.  There's a strange portal of some sort appearing in the
+middle of nowhere.  You can see people coming out of this portal --
+but these "people" are not human...  Their skin color is dark green
+and they have big pointy ears.  Whoever they are, they certainly 
+aren't from around here.  And with the alien weapons they're carrying
+it looks like they're planning on some sort of an invasion!
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10464
+D3
+~
+~
+0 -1 10474
+S
+#10474
+James Memorial Park~
+You arrived at the playgrounds.  That strange light is stronger!  You
+can see shadows on the ground...and they're coming closer to your
+direction.  You can hear them talking but the language is nothing
+you've heard before...
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10473
+D2
+~
+~
+0 -1 10475
+S
+#10475
+James Memorial Park~
+There's trees, grass, and benches everywhere.  You can see a playground
+to your north.  The light from within this park is brighter...  As you 
+walk further north, you can hear whispers.  
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10474
+D2
+~
+~
+0 -1 10477
+S
+#10476
+a shipping dock~
+This dock was used as a stop for large freighters but now it's purpose   
+is to serve the drug trade.  You can see abandoned ships parked nearby.
+There's no where to go...everywhere you look you see the vast ocean.
+~
+103 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10472
+D1
+~
+~
+0 -1 10477
+D2
+~
+~
+0 -1 10471
+D3
+~
+~
+0 -1 10471
+S
+#10477
+Fisk Road~
+The western section of this road ends here.  There's a shipping dock
+to the west.  You can see the endless ocean from here.  To the North,
+you see a small community park...and -- what's this? -- there's a very
+bright light coming from within...
+~
+103 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10475
+D1
+~
+~
+0 -1 10486
+D3
+~
+~
+0 -1 10476
+S
+#10478
+The office of the Kingpin~
+This room is quite large and nicely decorated.  You see a very BIG man
+sitting on a very large chair.  He looks at you and begins laughing!
+As he gets up from his chair he begins wielding his cane.  He's
+coming towards you very slowly...  The only exit is back from where
+you came -- RUN !!!
+~
+103 6152 0
+0d0+0 0 0
+D3
+~
+door office~
+2 10353 10479
+S
+#10479
+Fisk Enterprise -- 4th Floor~
+You've reached the floor where Fisk's office is located.  You're getting
+too close and Fisk knows this.  He's ready to kick your butt as soon as
+you open that door.  But first -- you have to get pass Fisk's son, the
+mysterious Rose...
+~
+103 6152 0
+0d0+0 0 0
+D1
+~
+door office~
+2 10353 10478
+D5
+~
+~
+0 -1 10480
+S
+#10480
+Fisk Enterprise -- 3rd Floor~
+You must think you're some STUD knocking out Typhoid Mary.  Heh, she's
+just one of the many expendable servants of Wilson Fisk.  
+You're on the 3rd floor of this building.  There's bound to be some 
+kind of sercurity here...  Maybe it's that skinny guy in the wacky 
+costume -- he doesn't look too tough...
+~
+103 6152 0
+0d0+0 0 0
+D4
+~
+elevator door~
+2 10352 10479
+D5
+~
+~
+0 -1 10481
+S
+#10481
+Fisk Enterprise -- 2nd Floor~
+There's more security here!  You may be able to pass the guards but you're
+not gonna get pass one of Fisk's personal bodyguards.  She's psychotic
+and very, very deadly...  Her name is Typhoid Mary and she wants to take
+your heart out and eat it!!
+~
+103 6152 0
+0d0+0 0 0
+D4
+~
+elevator door~
+2 10351 10480
+D5
+~
+~
+0 -1 10482
+S
+#10482
+Fisk Enterprise -- 1st Floor~
+There are a few security guards walking around the first floor.  They're
+checking id's to make sure no one tries to sneak upstairs.  The guards
+would kick you out if they find out that you dont't have an appointment
+with Mr. Fisk...
+~
+103 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 10485
+D4
+~
+elevator door~
+1 10303 10481
+S
+#10483
+Fisk Road~
+You ask yourself where would this road take you...  As you walk further
+eastward you notice the shops and buildings here are all intact.  Who
+in this world could possibly have the power to control the savage
+punks and vandals on this street?
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10484
+D3
+~
+~
+0 -1 10486
+S
+#10484
+End of Fisk Road~
+The street ends here...  As you were walking along Fisk Road you notice
+that the street was quiet...  The punks and super-villains here act
+differently here -- they're not as rowdy and rambunctious.
+To the north, you see a tall building.   
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10485
+D3
+~
+~
+0 -1 10483
+S
+#10485
+Entrance to the Wilson Fisk Enterprise ~
+This is the entrance to a large white building belonging to none other
+than Wilson Fisk, the multi-billionaire philanthropist.  There are two
+large doors that can take you inside the building.  Mr. Fisk is a very
+busy person so unless you have an appointment -- there's no way you
+can get pass the securities...
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+doors door~
+1 -1 10482
+D2
+~
+~
+0 -1 10484
+S
+#10486
+Intersection of Homicide Lane & Fisk Road~
+Here's the end of Homicide Lane.  It intersects another street -- Fisk
+Road.  Fisk Road seems to be the only street besides Capitol Mall Ave.
+that has not been ravaged.  It seems someone here doesn't want this
+road to be damaged -- someone with a lot of power and influence...
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10483
+D2
+~
+~
+0 -1 10487
+D3
+~
+~
+0 -1 10477
+S
+#10487
+Homicide Lane~
+Nothing new here -- more devastation everywhere you look.  You are 
+coming closer to the end of this road.  Your feet are beginning to
+get tired from making great leaps to avoid the loose rubble on the
+ravaged street.
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10486
+D2
+~
+~
+0 -1 10488
+S
+#10488
+Homicide Lane~
+This road is in a pretty bad shape.  As you walk along this street, you are
+careful not to step on the cracks and loose rubble.  The shops along this
+road have been ransacked and set on fire.  You can see the black clouds of
+smoke covering the sky above.
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10487
+D2
+~
+~
+0 -1 10489
+S
+#10489
+Homicide Lane~
+This road looks pretty long and it goes way up north.  You notice the  
+poor condition of the road.  No vehicles can go pass along this road...
+not even an all-terrain vehicle.                
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10488
+D2
+~
+~
+0 -1 10495
+S
+#10490
+Punisher's hideout  ~
+This room is nothing you'd expect to see in an abandoned warehouse.  There
+are tons of assault rifles and assorted weapons lying around.  It looks
+like the entire garrison of Fort Bragg has left their artillery behind.
+But no army is that stupid -- these weapons belong to ONE MAN.  His name
+is Frank Castle aka the Punisher and he's ready to wage war on the 
+Kingpin's criminal empire!
+~
+103 6152 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 10491
+S
+#10491
+an abandoned warehouse~
+The place is totally deserted.  It seems no one has been here for ages.
+There are cobwebs everywhere.  The rats are the only living things in
+this dump.  There's a door to the east -- it'll probably lead you to
+the vacated manager's office.
+~
+103 8 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 10490
+D2
+~
+~
+0 -1 10492
+S
+#10492
+Dave's Junk Yard~
+There's nothing to do here...  All you see are old automobiles and a
+large compactor.  There a large warehouse to the north of here.  It
+looks abandoned -- probably nothing special.
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10491
+D2
+~
+~
+0 -1 10493
+S
+#10493
+Dave's Junk Yard~
+As you go further into this junk yard, you ask yourself -- where's that
+vicious guard dog...I thought all junk yards have a guard dog...  Just
+when you're about to walk further you can hear a threatening growl!
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10492
+D3
+~
+~
+0 -1 10494
+S
+#10494
+Dave's Junk Yard~
+Boy, this place is a MESS!  Everywhere you look, there are stripped
+automobiles stacking on top of one another.  This junk yard is 
+basically an auto-grave yard...  There doesn't seem to be anything
+here that you'd want.
+~
+103 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 10493
+D3
+~
+~
+0 -1 10495
+S
+#10495
+Cannibal Hill    ~
+This road stops here!  The punks are gone now -- they know this is not
+their territory.  You are quite exhausted from the running.  There is
+a sign in the middle of the path.
+To your north, there's a new path -- looks pretty safe and to the east,
+there's a junk yard.
+~
+103 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 10489
+D1
+~
+~
+0 -1 10494
+D9
+~
+~
+0 -1 10496
+E
+sign~
+                Welcome to the Northeastern District of
+                      Apocalypse City !!!
+~
+S
+#10496
+Cannibal Hill~
+The punks are everywhere...  They hunger for your blood.  The path is
+beginning to open up but the punks are still after you.  No matter
+how fast you run -- they'll catch up with you.  The only chance you
+got is to fight them off.
+~
+103 0 1
+0d0+0 0 0
+D6
+~
+~
+0 -1 10495
+D9
+~
+~
+0 -1 10497
+S
+#10497
+Cannibal Hill~
+The path begins to get darker and darker as you advance northwards...
+This looks bad.  The rouguish punks are following your every movement.
+Watch out!  They're about to strike...you're only chance is to RUN !!
+~
+103 0 1
+0d0+0 0 0
+D6
+~
+~
+0 -1 10496
+D9
+~
+~
+0 -1 10498
+S
+#10498
+Cannibal Hill~
+What a strange name for this path...  You wonder to yourself where would
+this road take you.  It looks pretty safe...hmmm, on the other hand, it
+could be a trap of some clever punks to lure their victims.  This road
+can take you to the northeastern district of Apocalypse City. 
+~
+103 0 1
+0d0+0 0 0
+D6
+~
+~
+0 -1 10497
+D9
+~
+~
+0 -1 10317
+S
+#10499
+Magics 'r' Us~
+As you walk into this room, you notice a frail old man coming towards
+you.  He tells you:
+
+     "Good day, young traveler.  How may I serve you?"
+
+This shop is filled with strange potions and ancient scrolls.  You
+wonder to yourself why this store hasn't been looted or vandalized.
+~
+103 6300 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10305
+S
+$

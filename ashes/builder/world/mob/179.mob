@@ -1,0 +1,2025 @@
+#17900
+fish large~
+a large fish~
+A large fish swims by you.
+~
+This fish is almost as big as you. It has green scales, and a large jaw
+with sharp teeth.
+~
+65640 1088 0 W2
+25 16 -2 10d9+120 3d5+10
+10 13200
+8 8 0
+13 0 3 5 14 9 9
+0 2 3
+-20 4 2 0 0
+60 60 60 60 60
+0 1 8
+8 1
+sleep
+delay
+snore
+delay
+wake
+say hi
+~
+#17901
+traveler man weary~
+a traveler~
+A weary man trudges by.
+~
+He is a weary looking man, carrying all his possessions on his back. Day
+in and day out he drags himself along dusty roads headed to some far away
+destination.
+~
+4194376 0 0 W2
+20 10 7 1d50+150 1d4+5
+1300 9600
+8 8 1
+14 0 13 13 13 13 13
+0 2 2
+75 13 2 0 0
+83 83 83 83 83
+0 0 0
+4 1
+~
+#17902
+adventurer man strong~
+a wandering adventurer~
+A strong, narrow-eyed man walks past.
+~
+He is a strong man, with a rough look. He watches his surroundings
+carefully as he walks in search of fame and fortune.
+~
+4200521 0 0 W2
+30 12 2 3d50+230 4d4+10
+7000 21000
+8 8 1
+17 0 14 12 15 14 12
+19 2 2
+24 7 4 20 0
+35 35 35 35 35
+0 0 0
+6 1
+~
+#17903
+lion mountain~
+a mountain lion~
+A mountain lion growls at you from behind some rocks.
+~
+The short, light brown fur on this cat's back stands up as you get near. A
+low rumble escapes it's clenched jaw full of sharp teeth.
+~
+59 1056 0 W2
+25 15 3 3d20+150 4d5+10
+0 12500
+8 8 0
+18 10 4 3 15 15 12
+4 3 3
+35 8 3 37 0
+55 55 55 55 55
+0 0 0
+6 3
+~
+#17904
+tiger~
+a tiger~
+A tiger is crouched in a tree ready to pounce.
+~
+This tiger has orange-brown fur and black and brown streaks. It bears it's.
+teeth and extends it's claws. It does not seem at all friendly.
+~
+59 1056 0 W2
+30 17 2 4d20+160 4d5+12
+0 25000
+8 8 0
+18 30 6 3 15 16 12
+4 3 3
+28 8 4 30 0
+55 55 55 55 55
+0 0 0
+6 8
+~
+#17905
+bear brownbear~
+a bear~
+A large, brown bear towers over you.
+~
+This bear is huge, and its looking down at you. It's claws are sharp, but
+it's huge mouth and stained teeth look like they could tear you apart and
+eat you in seconds.
+~
+27 1056 0 W2
+30 16 1 6d20+250 4d10+25
+0 25000
+8 8 0
+18 80 4 3 13 17 11
+4 3 3
+10 4 2 30 0
+55 55 55 55 55
+0 0 0
+6 6
+~
+#17906
+deer~
+a deer~
+A deer watches you.
+~
+This deer has a large set of antlers. It must be old to have such a rack
+and to stand before a human so fearlessly.
+~
+4194504 0 0 W2
+23 10 6 3d25+150 3d4+5
+0 10400
+8 8 0
+15 0 5 3 14 12 13
+0 2 3
+65 9 2 10 0
+83 83 83 83 83
+0 0 0
+1 1
+~
+#17907
+elf spy~
+an elf spy~
+A sneaky elf is hiding in a tree watching you.
+~
+He is small and has pointy ears. He is dressed in leather and brown and
+green clothing meant to blend in with the forest.
+~
+2140251 525320 -150 W2
+30 13 2 3d40+180 3d4+8
+5500 22000
+8 8 1
+13 0 14 14 16 12 12
+7 2 2
+24 0 5 0 0
+35 35 35 35 35
+0 0 0
+6 1
+~
+#17908
+kender~
+a kender~
+A chattery little kender is going through your things.
+~
+This small being with pointy ears and long hair pulled up in a topknot. He
+is smaller in you, but he doesn't seem to notice as he rattles on about
+everything he has ever experienced. He is always smiling and always
+fiddling with something that looks like an item you have...
+~
+6873245 33554472 0 W2
+25 12 1 7d18+220 1d8+5
+14500 20500
+8 8 1
+17 0 14 10 17 12 13
+0 1 2
+15 0 4 100 0
+20 20 20 20 20
+0 0 59
+8 1
+~
+#17909
+ghost form transparent human~
+a ghost~
+The transparent form of a human glides silently about.
+~
+This thing looks like a faded picture of a human. It is transparent, and
+it's colors are faded almost to the point of being black and white. On its
+face is a look of sadness and longing.
+~
+2678792 295976 -750 W2
+25 14 3 5d10+180 1d15+15
+0 11500
+8 8 0
+11 0 5 8 13 10 7
+0 2 1
+35 0 2 0 0
+40 40 40 40 40
+2 0 60
+6 1
+~
+#17910
+skeleton bones knight~
+a skeleton~
+The animated bones of a long dead knight walk around.
+~
+Before you are the animated remains of a long dead knight. It's bones are
+picked clean and make knocking sounds whenever it moves. It still wears a
+few pieces of dented and rusting armor.
+~
+2678792 1064 -800 W2
+28 15 4 5d15+200 3d6+15
+100 14000
+8 8 0
+16 0 8 8 12 12 8
+0 2 1
+40 8 3 0 0
+50 50 50 50 50
+34 0 28
+4 1
+~
+#17911
+wraith form dark cloak~
+a wraith~
+An invisible form in a cloak of dark energy flies by.
+~
+A cloak of what can only be described as black fire covers a being that
+you cannot see. Two red holes in the air serve as eyes and lock your gaze,
+holding you captive.
+~
+2877449 1064 -1000 W2
+40 15 2 3d20+300 3d10+20
+0 30000
+8 8 0
+13 0 13 10 13 12 6
+9 2 1
+20 12 3 17 20
+30 30 30 30 30
+6 0 56
+6 1
+~
+#17912
+soth lord knight death~
+Lord Soth~
+A death knight in Solamnic armor stands before you.
+~
+This man was once a powerful Solamnic knight, but he turned toward
+Takhisis. His keep burned and he was killed, but he came back as a dreaded
+death knight. He still wears the armor of the Solamnic knights, but it is
+black and charred. His skin is deathly pale, and hit eyes glow with unholy
+fire.
+~
+2154539 541066912 -1000 W2
+130 72 -32 20d100+20000 5d10+50
+98000 600000
+8 8 1
+18 50 16 12 13 16 8
+9 2 1
+-320 7 5 80 20
+15 15 15 15 15
+3 0 52
+6 7
+~
+#17913
+knight Solamnic~
+a Solamnic knight~
+A knight in Solamnic armor patrols the tower.
+~
+He is a tall, strong man with a large, long mustache. He wears well
+polished armor and carries a sword in a sheath. He proudly guards the
+tower and keeps a close eye on you as you walk about.
+~
+4210760 0 800 W2
+35 16 -1 4d30+250 5d5+14
+1200 25500
+8 8 1
+18 30 14 12 13 15 13
+0 2 2
+-10 3 4 0 0
+50 50 50 50 50
+0 4 0
+4 1
+~
+#17914
+knight Solamnic~
+a Solamnic knight~
+A knight in Solamnic armor guards the tower.
+~
+He is a tall, strong man with a large, long mustache. He wears well
+polished armor and carries a sword in a sheath. He proudly guards the
+tower and keeps a close eye on you as you walk about.
+~
+4225099 33554440 800 W2
+38 16 -1 5d30+260 5d5+14
+1200 27000
+8 8 1
+18 50 14 12 13 15 13
+20 2 2
+-10 3 4 0 0
+50 50 50 50 50
+0 4 24
+4 1
+~
+#17915
+knight officer sword solamnic~
+the Knight of the Sword~
+An officer in armor decorated with a sword symbol stands before you.
+~
+This knight is short and stocky. He is the head of the sword division of
+knights and a member of the counsel. His face is stern, scarred from
+battle, and covered in a long bushy mustache.
+~
+4225099 33554440 900 W2
+75 25 -4 20d50+1000 6d5+25
+5000 60000
+8 8 1
+18 90 14 13 13 15 13
+20 2 2
+-40 3 5 0 0
+30 30 30 30 30
+0 0 24
+4 1
+~
+#17916
+knight officer crown solamnic~
+the Knight of the Crown~
+An officer in armor decorated with a crown symbol stands before you.
+~
+This tall knight is the head of the crown division of the knights and as
+such, a member of the counsel. He has a knowledgeable look and appraises
+you with a quick glance. Like all the knights, he has a long mustache.
+~
+4225099 33554440 900 W2
+80 27 -4 20d50+1200 6d5+30
+5000 65000
+8 8 1
+18 80 16 14 13 15 13
+20 2 2
+-45 3 5 0 0
+30 30 30 30 30
+0 0 24
+4 1
+~
+#17917
+thomas sir knight officer rose solamnic~
+Sir Thomas~
+Sir Thomas, leader of the knights of Solamnia, stands proudly before you.
+~
+This is Sir Thomas, the head of the rose division of the knights and
+leader of the counsel. He is old, but still strong. His hair has all
+turned white except for a long, red mustache.
+~
+4225099 33554568 900 W2
+95 30 -6 20d50+1500 6d5+40
+10000 75000
+8 8 1
+18 100 16 15 13 16 14
+20 2 2
+-65 3 5 0 0
+20 20 20 20 20
+0 0 56
+4 1
+~
+#17918
+treant tree~
+a treant~
+A living tree reaches out for you.
+~
+The bark on this tree forms a face and the branches reach out to grab you.
+It is uprooted and walks about slowly. On it's face is a look of evil and
+hatred.
+~
+1630250 557096 -550 W2
+60 20 5 1d500+1000 5d7+20
+843 45000
+8 8 0
+16 0 12 5 8 16 7
+0 3 0
+50 10 9 200 12
+15 15 15 15 15
+0 17 8
+2 3
+~
+#17919
+treant tree~
+a treant~
+A living tree reaches out for you.
+~
+The bark on this tree forms a face and the branches reach out to grab you.
+It is uprooted and walks about slowly. On it's face is a look of evil and
+hatred.
+~
+1630248 557096 -550 W2
+60 20 5 1d500+1000 5d7+20
+843 45000
+8 8 0
+16 0 12 5 8 16 7
+0 3 0
+50 10 9 200 12
+15 15 15 15 15
+0 17 8
+2 5
+~
+#17920
+knight Solamnic~
+a Solamnic knight~
+A knight in Solamnic armor patrols Palanthas.
+~
+He is a tall, strong man with a large, long mustache. He wears well
+polished armor and carries a sword in a sheath. He has sworn to guard
+Palanthas at any cost.
+~
+4225097 33554440 800 W2
+38 16 -1 5d30+260 5d5+14
+1200 27000
+8 8 1
+18 50 14 12 13 15 13
+20 2 2
+-10 3 4 0 0
+50 50 50 50 50
+0 4 24
+4 1
+~
+#17921
+guard~
+a guard~
+A guard patrols Palanthas, keeping the peace.
+~
+This is a well built, middle aged man, wearing leather armor and carrying
+a short sword on his belt. When not on duty he is just another citizen of
+Palanthas. He watches every nearby to make sure there is no trouble.
+~
+4216904 0 650 W2
+30 14 0 4d20+200 4d5+12
+800 22000
+8 8 1
+17 0 13 12 13 14 13
+0 2 2
+5 3 4 0 0
+40 40 40 40 40
+0 0 0
+4 1
+~
+#17922
+guard~
+a guard~
+A guard protects the city from invaders.
+~
+This is a well built, middle aged man, wearing leather armor and carrying
+a short sword on his belt. When not on duty he is just another citizen of
+Palanthas. He watches every nearby to make sure there is no trouble.
+~
+4216906 33554440 650 W2
+30 14 0 4d20+200 4d5+12
+800 22000
+8 8 1
+17 0 13 12 13 14 13
+0 2 2
+5 3 4 0 0
+40 40 40 40 40
+0 0 0
+4 1
+~
+#17923
+citizen~
+a citizen of Palanthas~
+A citizen of Palanthas walks about.
+~
+He is a young man, dressed in plain clothes. He has a smile on his face as
+he goes about his business in the city.
+~
+4194376 0 500 W2
+20 10 7 1d50+150 1d4+5
+900 9600
+8 8 1
+13 0 13 13 13 13 13
+0 2 2
+75 13 2 0 0
+83 83 83 83 83
+0 0 0
+6 1
+~
+#17924
+citizen~
+a citizen of Palanthas~
+A citizen of Palanthas walks about.
+~
+She is a young woman, wearing a simple dress. She has a smile on her face
+as she goes about her business in the city.
+~
+4194376 0 500 W2
+20 10 7 1d50+150 1d4+5
+900 9600
+8 8 2
+13 0 13 13 13 13 13
+0 2 2
+75 13 2 0 0
+83 83 83 83 83
+0 0 0
+6 1
+~
+#17925
+noble~
+a noble~
+A noble sits here looking bored.
+~
+He is dressed in very expensive clothes and his lazy life shows in his
+round, soft body. He sits talking about politics and ignoring you.
+~
+74 0 300 W2
+13 7 8 1d50+150 1d4+2
+11500 6000
+6 6 1
+10 0 13 12 13 13 13
+0 2 2
+80 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 1
+~
+#17926
+jailor man~
+the jailor~
+A large man watches over the jail.
+~
+He is a very muscular man. He wears leather and a short sword like the
+city guards. He has a short scruffy beard, and a foul look on his face.
+~
+22602 33554440 600 W2
+33 15 0 4d20+220 4d5+15
+3200 23500
+8 8 1
+18 60 13 12 13 14 13
+0 2 2
+5 3 4 20 0
+40 40 40 40 40
+0 0 0
+4 1
+~
+#17927
+acolyte~
+an acolyte~
+An acolyte tends the library.
+~
+He is dressed in a plain brown robe. He walks about silently, shelving
+books, making notes in records, and watching the people using the library.
+~
+4212810 33554440 0 W2
+22 12 7 2d30+170 3d4+10
+700 10000
+8 8 1
+13 0 16 14 13 13 13
+0 2 2
+72 13 1 0 0
+60 60 60 60 60
+0 0 0
+6 1
+~
+#17928
+astinus man~
+Astinus~
+A man of indeterminate age sits, writing in a book.
+~
+This is Astinus, the writer of the world's history. He has been around
+since the creation of the world, writing down everything that happens.
+Some say he is a student of the god Gilean. Others say he is the god
+Gilean himself. He does not look old, nor does he look young. In his eyes
+is infinite wisdom, but the rest of his features are forgotten almost as
+soon as you look away.
+~
+452634 132104 0 W2
+130 65 -30 0d0+30000 2d65+65
+1000 200000
+6 6 1
+14 0 20 20 13 18 13
+0 2 2
+-300 7 2 1000 0
+10 10 10 10 10
+0 0 63
+6 1
+~
+#17929
+crysania woman high priestess crysaniaprogname~
+High-priestess Crysania~
+A sightless woman who sees with the eyes of Paladine stands before you.
+~
+This is Crysania, the leader of the church of Paladine. She has long,
+black hair and pale skin. She wears a blue robe. Although she is blind,
+she sees the world more clearly than most people.
+~
+6615067 537002153 950 W2
+105 10 -15 20d100+6000 3d6+10
+200 140000
+8 8 2
+13 0 16 18 13 13 15
+0 2 2
+-150 0 2 0 0
+20 20 20 20 20
+0 0 0
+6 1
+~
+#17930
+tandar tiger tandarprogname~
+Tandar~
+A very large white tiger watches you closely.
+~
+This tiger is a very rare white tiger with gray and black stripes. It's
+eyes are green flecked with gold and seem to hold intelligence. It is very
+huge and could easily pin you down and kill you. It's paws are as big as
+your head.
+~
+325659 536871944 351 W2
+125 81 -25 10d300+17000 5d30+80
+0 340000
+8 8 1
+18 100 13 12 16 17 14
+0 3 3
+-250 9 7 200 0
+25 25 25 25 25
+0 0 0
+6 1
+~
+#17931
+jenna woman mage~
+Jenna~
+A red robed woman stands behind a counter.
+~
+This is Jenna, a powerful red robed mage. She is rumored to be Dalamar's
+mistress. Although she is aging, she is still good looking and still has
+dark black hair. Her eyes are intelligent and commanding, and she watches
+you carefully.
+~
+2285594 33554440 0 W2
+101 100 -50 0d0+10000 0d0+100
+88000 0
+8 8 2
+18 0 13 13 13 13 13
+0 2 2
+-500 0 2 0 30
+1 1 1 1 1
+0 0 0
+6 1
+~
+#17932
+blacksmith man~
+a blacksmith~
+A strong man invites you in and asks if he can help you.
+~
+He is very muscular, wearing a brown shirt and pants that can't hide the
+bulges and ripples. You are sure he could pick you up with one hand and
+throw you out the door. He wears an apron for safety while working and to
+keep his profits safe in pockets on the inside of the apron.
+~
+2285594 33554440 0 W2
+101 100 -50 0d0+10000 0d0+100
+44000 0
+8 8 1
+18 0 13 13 13 13 13
+0 2 2
+-500 0 2 0 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#17933
+blacksmith man~
+a blacksmith~
+A strong man invites you in and asks if he can help you.
+~
+He has a patch on one eye and a scar that extends out of the patch. His
+bare arms reveal other battle scars. He has a worn and weathered look
+about him, but he is still very strong. As he goes about his work, his
+expertise in handling weapons is apparent.
+~
+2285594 33554440 0 W2
+101 100 -50 0d0+10000 0d0+100
+44000 0
+8 8 1
+18 0 13 13 13 13 13
+0 2 2
+-500 0 2 0 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#17934
+shopkeeper man~
+a shopkeeper~
+A short man with slicked back hair gives you a sly look.
+~
+He has a strange, slightly impish look about him. Some say he is half
+kender, and by the looks of his slightly pointy ears and his collection of
+items, that could be true. He is only four and a half feet tall, but he
+talks with a quick and controlling voice that makes him seem much larger.
+~
+2285594 33554440 0 W2
+101 100 -50 0d0+10000 0d0+100
+44000 0
+8 8 1
+18 0 13 13 13 13 13
+0 2 2
+-500 0 2 0 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#17935
+Tasslehoff Burrfoot kender~
+Tasslehoff Burrfoot~
+A very annoying kender is talking your ear off.
+~
+This is the infamous Tasslehoff Burrfoot. He has a long topknot even for a
+kender. He carries with him lots of items, many of which look very
+familiar. He has even more stories than items, and never seems to stop
+talking.
+~
+5038237 33554472 0 W2
+105 35 -20 2d300+13500 3d6+35
+43695 95000
+8 8 1
+18 0 14 10 18 13 13
+7 2 2
+-200 7 4 0 0
+20 20 20 20 20
+0 0 11
+9 1
+~
+#17936
+traveler man weary~
+a traveler~
+A weary man trudges by.
+~
+He is a weary looking man, carrying all his possessions on his back. Day
+in and day out he drags himself along dusty roads headed to some far away
+destination.
+~
+4194410 1024 0 W2
+20 10 7 1d50+150 1d4+5
+1300 9600
+8 8 1
+14 0 13 13 13 13 13
+0 2 2
+75 13 2 0 0
+83 83 83 83 83
+0 0 0
+4 15
+~
+#17937
+shark~
+a shark~
+A very large shark swims toward you.
+~
+It is coming toward you fast with its jaws gaping, exposing rows of sharp
+teeth.
+~
+24683 33888 0 W2
+35 18 -1 7d20+400 5d7+25
+142 29000
+8 8 0
+18 50 5 4 13 16 11
+4 3 3
+-15 4 2 0 0
+45 45 45 45 45
+0 1 0
+7 6
+~
+#17938
+bird~
+a huge bird~
+A huge bird circles above you.
+~
+This bird has a 25 foot wing span. It has a short, pointy beak that looks
+like it was made for crushing and tearing, and long talons to capture it's
+prey. It is covered in red and brown feathers, with yellow around it's
+eyes.
+~
+16869483 1082400 0 W2
+35 20 -2 6d20+320 6d7+20
+0 30000
+8 8 0
+18 50 6 3 13 16 13
+4 3 3
+-25 4 3 0 0
+45 45 45 45 45
+0 0 0
+7 7
+~
+#17939
+knight takhisis~
+a Knight of Takhisis~
+A knight in dark armor patrols the tower.
+~
+He is a tall, strong, clean-shaven man. He wears dark armor decorated with
+a death lily and carries a sword in a sheath. He proudly guards the keep
+and keeps a close eye on you as you walk about.
+~
+4210761 0 -800 W2
+45 20 -6 4d30+450 6d5+20
+1200 35000
+8 8 1
+18 40 15 11 13 14 13
+17 2 2
+-60 3 4 0 0
+30 30 30 30 30
+0 0 0
+4 1
+~
+#17940
+knight takhisis~
+a Knight of Takhisis~
+A knight in dark armor guards the tower.
+~
+He is a tall, strong, clean-shaven man. He wears dark armor decorated with
+a death lily and carries a sword in a sheath. He proudly guards the keep
+and keeps a close eye on you as you walk about.
+~
+313419 33554440 -800 W2
+48 20 -6 5d30+500 6d5+24
+1200 37000
+8 8 1
+18 40 15 11 13 14 13
+17 2 2
+-60 3 4 0 0
+30 30 30 30 30
+0 0 0
+4 1
+~
+#17941
+mage gray robed man~
+a gray robed mage~
+A man in a hooded gray robe walks by.
+~
+He has a slender build and wears long gray robes. A hood shadows his face.
+The smell of rose pedals and bat guano gives him away as a mage.
+~
+26825 66568 -800 W2
+50 16 -2 4d30+400 6d5+16
+3100 40000
+8 8 1
+18 0 17 13 13 13 13
+8 2 2
+-20 0 2 0 10
+25 25 25 25 25
+0 0 0
+6 1
+~
+#17942
+steel brightblade man knight~
+Steel Brightblade~
+A proud young man stands before the shrine of Takhisis.
+~
+This is Steel Brightblade, son of Sturm Brightblade and Kitiara uth Matar.
+This unlikely union produced Steel, a man of great pride and honor. He
+serves Takhisis like his mother, but he follows a strict code of honor
+like his father. Two voices fight in his head for control. On the outside
+he is strong and tough, despite his youth.
+~
+4225099 33554440 -349 W2
+100 35 -7 10d50+1750 6d5+35
+2410 80000
+8 8 1
+18 90 15 13 13 16 13
+20 2 2
+-70 3 5 0 0
+25 25 25 25 25
+0 0 0
+4 1
+~
+#17943
+ariakan lord knight~
+Lord Ariakan~
+A tall, commanding knight stands here.
+~
+This is Lord Ariakan, commander of the Knights of Takhisis. He is aging,
+but he has an air of strength and power about him. He wears full plate
+armor as comfortably as most people wear clothes and has a large sword in
+a sheath at his side.
+~
+129099 33554440 -850 W2
+120 48 -16 25d50+8500 5d7+50
+10450 145000
+8 8 1
+18 100 16 14 13 16 14
+20 2 2
+-160 3 6 0 0
+20 20 20 20 20
+0 0 16
+4 1
+~
+#17944
+lillith nightlord woman mage~
+Nightlord Lillith~
+A lithe woman in gray robes watches you intently.
+~
+This is Nightlord Lillith, leader of the gray robed mages that are a part
+of the Knights of Takhisis. She is aging, but she has piercing, green eyes
+and a voice that drips with venom. She does not tolerate any mistakes and
+it is clear that anything she wants done, gets done.
+~
+587851 1032 -900 W2
+115 25 -16 20d50+6000 6d5+25
+54700 130000
+8 8 2
+18 0 17 15 14 15 13
+8 2 2
+-160 0 2 0 0
+15 15 15 15 15
+0 0 4
+4 1
+~
+#17945
+citizen~
+a citizen of Solace~
+A citizen of Solace walks about.
+~
+She is a young woman, wearing a simple dress. She has a smile on her face
+as she goes about her business in the town.
+~
+4198472 0 600 W2
+23 12 6 2d50+170 1d4+6
+400 12000
+8 8 2
+14 0 13 13 13 13 13
+0 2 2
+65 13 2 0 0
+83 83 83 83 83
+0 0 0
+6 1
+~
+#17946
+elf scout~
+an elf scout~
+A combat-ready elf watches you closely.
+~
+He is small and has pointy ears. He wears leather armor and a sheathed
+sword. He watches you closely and has fighting in his eyes.
+~
+2140248 1032 -150 W2
+35 15 0 6d40+180 3d5+12
+5500 28000
+8 8 1
+17 0 14 14 16 12 12
+0 2 2
+0 3 5 0 0
+35 35 35 35 35
+0 0 0
+6 1
+~
+#17947
+tanis halfelven elf~
+Tanis Half-Elven~
+An aging half elf greets you with a warm smile.
+~
+This aging half-elf is one of the heroes of the lance. He looks mostly
+elven, but has a beard, which no true elf could have. He is still young by
+elven standards, but his human half is catching up to him. His hair is
+graying and he isn't as fit as he used to be, but he is still a powerful
+presence.
+~
+63577 33554440 850 W2
+125 55 -16 25d50+8500 4d7+55
+6530 160000
+8 8 1
+18 80 16 16 17 16 15
+17 2 2
+-160 0 8 0 0
+20 20 20 20 20
+0 0 0
+6 1
+~
+#17948
+caramon man~
+Caramon Majere~
+A bear of a man welcomes you with hearty clap on the back.
+~
+This gigantic man is one of the heroes of the lance. He is aging and some
+of his bulk is migrating south, but he is still as strong as three men. He
+is very kind and trusting. By the look on his face as he watches his wife,
+Tika, it is clear that his heart is also huge, in proportion with his body.
+~
+4225097 33554432 850 W2
+125 55 -16 30d50+10000 8d9+60
+4300 160000
+8 8 1
+19 0 14 12 13 18 14
+20 3 2
+-160 13 4 75 0
+25 25 25 25 25
+0 0 0
+6 1
+~
+#17949
+alhana starbreeze elf maiden~
+Alhana Starbreeze~
+A pregnant, exhausted elf maiden lies here.
+~
+This is Alhana Starbreeze, the outcast leader of the Silvanesti. She is
+one of the most beautiful of her kind, but right now she hardly looks it.
+She has been on the run for months and is now in labor, about to give
+birth to an elf of both Qualinesti and Silvanesti blood, heir to both
+kingdoms.
+~
+4202570 0 650 W2
+20 10 6 2d50+150 3d4+8
+12400 9000
+5 5 2
+12 0 15 13 13 13 15
+0 2 2
+65 7 1 0 0
+65 65 65 65 65
+0 0 0
+6 1
+~
+#17950
+porthios elf~
+Porthios~
+A haggard but regal elf sits at a table.
+~
+This is Porthios, the exiled leader of Qualinesti. He is a proud elf of
+royal heritage and it shows on his face. He is slightly stooped and worn,
+old before his time because of his exile. He wears leather armor and
+carries a sword as his side, ready to fight at any time.
+~
+2140250 1032 -100 W2
+40 16 -1 7d40+200 4d5+15
+10340 35000
+6 6 1
+18 0 15 14 16 13 13
+0 2 2
+-15 3 5 0 0
+32 32 32 32 32
+0 0 0
+6 1
+~
+#17951
+tika woman~
+Tika~
+A woman with fiery red hair asks if she can get you anything.
+~
+This woman is one of the heroes of the lance. Her lined face shows her
+age, but her red hair and temper are as lively as ever. She runs the inn
+and uses her skillet to keep Caramon, her giant of a husband, fed and in
+line.
+~
+30921 33554432 850 W2
+120 35 -11 20d50+7000 3d5+35
+6730 130000
+8 8 2
+16 0 13 14 13 14 14
+17 2 2
+-110 0 3 0 0
+20 20 20 20 20
+0 0 0
+6 1
+~
+#17952
+laurana elf maiden~
+Laurana~
+An elf maiden stands here.
+~
+She is a beautiful elf maiden with long blonde hair and delicate features.
+She watches you closely and speaks very intelligently. She is Porthios'
+sister and Tanis' wife.
+~
+2144328 1032 800 W2
+35 15 0 6d40+200 4d5+10
+8500 30500
+8 8 2
+16 0 15 15 16 13 14
+0 2 2
+0 0 4 0 0
+32 32 32 32 32
+0 0 0
+6 1
+~
+#17953
+spirit dark~
+a dark spirit~
+A shapeless black being flies toward you.
+~
+It looks like a huge ink blot floating in mid air.
+~
+20965400 1049640 0 W2
+70 32 -5 5d20+550 3d7+20
+0 65000
+8 8 0
+13 0 13 13 13 13 6
+0 2 1
+-50 10 6 0 90
+30 30 30 30 5
+0 0 0
+10 1
+~
+#17954
+parsalian mage white~
+Parsalian~
+A very old white robed mage stands before you.
+~
+This is Parsalian, leader of the white robes. He is very old, but still
+steady. His hair is as white as his robes. He is one of the most powerful
+mages on Krynn.
+~
+587851 1032 900 W2
+130 20 -10 20d50+10000 4d5+20
+32000 180000
+8 8 1
+12 0 18 16 13 14 13
+8 2 2
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+4 1
+~
+#17955
+palin mage white~
+Palin Majere~
+A young white robed mage is taking his test.
+~
+Although he doesn't look very special, this young man is Caramon's son,
+which makes Raistlin his uncle. The potential for very powerful magic
+flows in his veins.
+~
+26761 1032 750 W2
+100 25 -12 5d100+3000 5d5+25
+640 105000
+8 8 1
+13 0 18 14 14 13 13
+8 2 2
+-120 0 2 0 0
+15 15 15 15 15
+0 0 0
+6 1
+~
+#17956
+mage white~
+a white robed mage~
+A white robed mage walks about.
+~
+This man or woman is indistinguishable from the other white robed mages in
+the tower. They walk about at the same slow pace, hands and face hidden
+within their white robes.
+~
+26697 1032 750 W2
+45 15 -2 4d30+400 5d5+16
+2800 36000
+8 8 0
+12 0 17 13 13 13 13
+8 2 2
+-20 0 2 0 0
+15 15 15 15 15
+0 0 0
+4 1
+~
+#17957
+mage red~
+a red robed mage~
+A red robed mage walks about.
+~
+This man or woman is indistinguishable from the other red robed mages in
+the tower. They walk about at the same slow pace, hands and face hidden
+within their red robes.
+~
+26697 1032 0 W2
+45 15 -2 4d30+400 5d5+16
+2800 36000
+8 8 0
+12 0 17 13 13 13 13
+8 2 2
+-20 0 2 0 0
+15 15 15 15 15
+0 0 0
+4 1
+~
+#17958
+mage black~
+a black robed mage~
+A black robed mage walks about.
+~
+This man or woman is indistinguishable from the other black robed mages in
+the tower. They walk about at the same slow pace, hands and face hidden
+within their black robes.
+~
+26697 1032 -750 W2
+45 15 -2 4d30+400 5d5+16
+2800 36000
+8 8 0
+12 0 17 13 13 13 13
+8 2 2
+-20 0 2 0 0
+15 15 15 15 15
+0 0 0
+4 1
+~
+#17959
+mage white~
+a white robed mage~
+A white robed mage stands here.
+~
+This man or woman is indistinguishable from the other white robed mages in
+the tower. They walk about at the same slow pace, hands and face hidden
+within their white robes.
+~
+194635 1064 750 W2
+100 15 -6 10d30+2000 5d5+16
+2800 110000
+8 8 0
+12 0 17 14 13 13 13
+8 2 2
+-60 0 2 0 0
+13 13 13 13 13
+0 0 0
+4 1
+~
+#17960
+mage red~
+a red robed mage~
+A red robed mage stands here.
+~
+This man or woman is indistinguishable from the other red robed mages in
+the tower. They walk about at the same slow pace, hands and face hidden
+within their red robes.
+~
+194635 1064 0 W2
+100 15 -6 10d30+2000 5d5+16
+2800 110000
+8 8 0
+12 0 17 14 13 13 13
+8 2 2
+-60 0 2 0 0
+13 13 13 13 13
+0 0 0
+4 1
+~
+#17961
+mage black~
+a black robed mage~
+A black robed mage stands here.
+~
+This man or woman is indistinguishable from the other black robed mages in
+the tower. They walk about at the same slow pace, hands and face hidden
+within their black robes.
+~
+194635 1064 -750 W2
+100 15 -6 10d30+2000 5d5+16
+2800 110000
+8 8 0
+12 0 17 14 13 13 13
+8 2 2
+-60 0 2 0 0
+13 13 13 13 13
+0 0 0
+4 1
+~
+#17962
+hand bone~
+a bony hand~
+A bony hand grabs at you!
+~
+The bones of the dead reach up and try to pull you down to join them!
+Their grip is chilling and unbreakable.
+~
+4186170 1342211112 -349 W2
+80 55 -10 5d40+800 5d9+25
+0 100000
+8 8 0
+19 0 0 0 13 13 3
+0 2 1
+-100 8 4 0 0
+20 20 20 20 20
+2 0 0
+6 13
+~
+#17963
+shadow form dark~
+a shadowy form~
+Something dark and shapeless brushes against you.
+~
+You can't seem to focus on it.
+~
+2875448 1073775656 -900 W2
+85 30 -22 5d40+900 4d8+30
+0 82000
+8 8 0
+13 0 10 4 15 13 5
+0 2 1
+-220 10 6 0 0
+15 15 15 15 15
+0 0 0
+5 1
+~
+#17964
+guardian spirit night~
+the guardian spirit~
+The night takes form before you and blocks your way.
+~
+A black form in the shape of a human hovers before you and repels you like
+an ice cold blast of wind. Deep within the eye sockets are sickly glowing
+yellow eyes watching your every move.
+~
+4186155 33832 -800 W2
+130 70 -19 10d100+12000 5d30+70
+0 250000
+8 8 0
+18 0 10 4 18 13 5
+0 2 1
+-190 6 5 1000 25
+15 15 15 15 15
+0 0 54
+5 1
+~
+#17965
+dalamar elf mage~
+Dalamar~
+An elf in black robes watches you slyly.
+~
+This Dalamar, a dark elf and leader of the black robed mages. He has a
+perpetual stern look on his face. Every now and then he clutches at his
+chest where Raistlin, his shalafi, burned holes with his fingers that will
+never heal.
+~
+2156619 132104 -850 W2
+128 25 -12 20d50+10000 6d5+25
+83000 170000
+8 8 1
+16 0 18 15 14 13 13
+8 2 2
+-120 0 2 0 0
+8 8 8 8 8
+0 0 0
+4 1
+~
+#17966
+knight takhisis~
+a Knight of Takhisis~
+A knight in dark armor guards the tower.
+~
+He is a tall, strong, clean-shaven man. He wears dark armor decorated with
+a death lily and carries a sword in a sheath. He proudly guards the keep
+and keeps a close eye on you as you walk about.
+~
+313419 33554440 -800 W2
+48 20 -6 5d30+500 6d5+24
+1200 37000
+8 8 1
+18 40 15 11 13 14 13
+17 2 2
+-60 3 4 0 0
+30 30 30 30 30
+0 0 0
+4 1
+~
+#17967
+dragon flame~
+a flame dragon~
+A dragon made of pure flame swoops down on you.
+~
+This dragon is made of pure flame, with smoke for eyes. As it flies about
+it burns any flicker of life it finds.
+~
+254073 34635784 -1000 W2
+120 40 -25 10d300+10000 10d15+80
+0 150000
+8 8 0
+18 100 16 13 15 15 13
+12 4 4
+-250 8 3 0 0
+12 12 12 1 12
+1 2 56
+6 6
+~
+#17968
+shadow-wight wight patch blackness~
+a shadow-wight~
+A patch of blackness flits around.
+~
+As you look at the shadow-wight it takes on your form, but the eyes stay
+black. Terror overcomes you as your very existence begins to erode. It
+whispers to you, "You are nothing". Your memories begin to fade as your
+physical body does the same. Soon it will be as if you never existed, your
+very memory wiped out, even from your parents' minds.
+~
+3924027 67109928 -1000 W2
+100 65 -39 8d100+4600 10d20+100
+0 0
+8 8 0
+13 0 13 13 13 13 1
+4 2 1
+-390 12 1 0 50
+10 10 10 10 10
+0 0 0
+2 10
+~
+#17969
+reorx dougan redhammer dwarf~
+Dougan Redhammer~
+A well dressed dwarf is here, trying to hide.
+~
+This dwarf is dressed in better clothing than any dwarf you've ever seen.
+He is wearing a frilly silk shirt, a red velvet waistcoat and breeches,
+black stockings, black shoes, and a wide-brimmed hat. His beard and hair
+are both long and neatly groomed. It is rumored that this is the avatar of
+the god Reorx.
+~
+63499 1024 0 W2
+130 70 -35 0d0+30000 1d6+70
+0 200000
+8 8 1
+18 100 18 13 13 18 13
+18 2 2
+-350 7 2 300 0
+10 10 10 10 10
+0 0 8
+6 1
+~
+#17970
+usha woman~
+Usha~
+A beautiful woman is hiding from something up ahead.
+~
+She is one of the most beautiful humans you have ever seen. She is an
+orphan, but it seems likely that her parents are Raistlin and one of the
+Irdra.
+~
+4255770 4096 800 W2
+100 30 -15 10d40+1200 3d8+30
+1200 90000
+8 8 2
+13 0 14 13 16 13 18
+0 2 2
+-150 0 5 0 0
+15 15 15 15 15
+0 0 0
+6 1
+~
+#17971
+citizen~
+a citizen of Istar~
+A citizen of Istar walks about.
+~
+He is a young man, dressed in nice clothes. He has a smile on his face as
+he goes about his business in the city.
+~
+4194376 0 500 W2
+20 10 7 1d50+150 1d4+5
+900 9600
+8 8 1
+13 0 13 13 13 13 13
+0 2 2
+75 13 2 0 0
+83 83 83 83 83
+0 0 0
+6 1
+~
+#17972
+fistandantilus mage~
+Fistandantilus~
+A black robed mage stands before you.
+~
+He is tall and quite imposing for a mage. On his face is very serious
+look. His hands are very nimble. The rest of him is covered in a heavy
+black robe.
+~
+59547 1180680 -950 W2
+135 20 10 5d400+12000 4d5+20
+23500 260000
+8 8 1
+14 0 18 15 17 14 13
+8 2 2
+100 0 2 150 0
+7 7 7 7 7
+0 0 0
+6 1
+~
+#17973
+priest man~
+the King Priest~
+An elegantly dressed fat man sits in a throne-like chair.
+~
+He is quite robust, having fed on unlimited amounts of the most rich foods
+for decades. He is dressed red and purple velvet and is adorned with many
+gold rings and necklaces.
+~
+321679 136 350 W2
+110 30 -8 20d100+15000 5d6+30
+156000 100000
+8 8 1
+13 0 13 13 13 13 13
+10 2 2
+-80 7 3 0 0
+15 15 15 15 15
+0 0 0
+6 1
+~
+#17974
+dragon~
+a red dragon~
+A red dragon sits here, guarding its treasure.
+~
+It is a huge red dragon with sharp teeth and claws, a long tail, and
+powerful, wide wings.
+~
+33877519 1064 -900 W2
+115 40 -37 20d200+20000 10d15+40
+245160 250000
+8 8 0
+19 0 18 17 18 18 15
+12 4 4
+-370 8 3 300 0
+10 10 10 3 10
+1 0 28
+6 8
+~
+#17975
+dragon~
+a blue dragon~
+A blue dragon sits here, guarding its treasure.
+~
+It is a huge blue dragon with sharp teeth and claws, a long tail, and
+powerful, wide wings.
+~
+33877519 1064 -900 W2
+115 40 -37 20d200+20000 10d15+40
+245160 250000
+8 8 0
+19 0 18 17 18 18 15
+16 4 4
+-370 8 3 300 0
+10 10 10 3 10
+4 0 25
+6 8
+~
+#17976
+dragon~
+a green dragon~
+A green dragon sits here, guarding its treasure.
+~
+It is a huge green dragon with sharp teeth and claws, a long tail, and
+powerful, wide wings.
+~
+33877519 1064 -900 W2
+115 40 -37 20d200+20000 10d15+40
+245160 250000
+8 8 0
+19 0 18 17 18 18 15
+15 4 4
+-370 8 3 300 0
+10 10 10 3 10
+0 0 9
+6 8
+~
+#17977
+dragon~
+a black dragon~
+A black dragon sits here, guarding its treasure.
+~
+It is a huge black dragon with sharp teeth and claws, a long tail, and
+powerful, wide wings.
+~
+33877519 1064 -900 W2
+115 40 -37 20d200+20000 10d15+40
+245160 250000
+8 8 0
+19 0 18 17 18 18 15
+13 4 4
+-370 8 3 300 0
+10 10 10 3 10
+0 0 9
+6 8
+~
+#17978
+dragon~
+a white dragon~
+A white dragon sits here, guarding its treasure.
+~
+It is a huge white dragon with sharp teeth and claws, a long tail, and
+powerful, wide wings.
+~
+33877519 1064 -900 W2
+115 40 -37 20d200+20000 10d15+40
+245160 250000
+8 8 0
+19 0 18 17 18 18 15
+14 4 4
+-370 8 3 300 0
+10 10 10 3 10
+0 0 2
+6 8
+~
+#17979
+dragon~
+a gold dragon~
+A gold dragon sits here, guarding its treasure.
+~
+It is a huge gold dragon with sharp teeth and claws, a long tail, and
+powerful, wide wings.
+~
+33877263 1064 900 W2
+115 40 -37 20d200+20000 10d15+40
+245160 250000
+8 8 0
+19 0 18 17 18 18 15
+12 4 4
+-370 8 3 300 0
+10 10 10 3 10
+1 0 28
+6 8
+~
+#17980
+dragon~
+a silver dragon~
+A silver dragon sits here, guarding its treasure.
+~
+It is a huge silver dragon with sharp teeth and claws, a long tail, and
+powerful, wide wings.
+~
+33877263 1064 900 W2
+115 40 -37 20d200+20000 10d15+40
+245160 250000
+8 8 0
+19 0 18 17 18 18 15
+12 4 4
+-370 8 3 300 0
+10 10 10 3 10
+0 0 29
+6 8
+~
+#17981
+dragon~
+a copper dragon~
+A copper dragon sits here, guarding its treasure.
+~
+It is a huge copper dragon with sharp teeth and claws, a long tail, and
+powerful, wide wings.
+~
+33877263 1064 900 W2
+115 40 -37 20d200+20000 10d15+40
+245160 250000
+8 8 0
+19 0 18 17 18 18 15
+12 4 4
+-370 8 3 300 0
+10 10 10 3 10
+0 0 25
+6 8
+~
+#17982
+dragon~
+a bronze dragon~
+A bronze dragon sits here, guarding its treasure.
+~
+It is a huge bronze dragon with sharp teeth and claws, a long tail, and
+powerful, wide wings.
+~
+33877263 1064 900 W2
+115 40 -37 20d200+20000 10d15+40
+245160 250000
+8 8 0
+19 0 18 17 18 18 15
+12 4 4
+-370 8 3 300 0
+10 10 10 3 10
+0 0 17
+6 8
+~
+#17983
+dragon~
+a brass dragon~
+A brass dragon sits here, guarding its treasure.
+~
+It is a huge brass dragon with sharp teeth and claws, a long tail, and
+powerful, wide wings.
+~
+33877263 1064 900 W2
+115 40 -37 20d200+20000 10d15+40
+245160 250000
+8 8 0
+19 0 18 17 18 18 15
+12 4 4
+-370 8 3 300 0
+10 10 10 3 10
+0 0 17
+6 8
+~
+#17984
+chaos being gigantic~
+Chaos~
+A gigantic fiery being stands before you.
+~
+This is Chaos, the father of All and Nothing, creator of the gods. He is
+made of molten iron, with great pits of nothingness for eyes, and flaring
+fire for hair.
+~
+2353179 738362536 -1000 W2
+200 75 -40 100d20+30000 15d20+100
+0 1000000
+8 8 1
+25 0 25 25 25 25 13
+11 5 0
+-400 12 6 1000 200
+1 1 1 1 1
+1 0 60
+6 1
+~
+#17985
+kitiara woman~
+Kitiara~
+The pale, ghostly form of a woman snarls and lunges at you!
+~
+This is Kitiara uth Matar, or rather, was Kitiara uth Matar. Her soul has
+become a death knight, the same as Lord Soth. She was cruel and evil in
+life, but it was nothing compared with her spirit in death.
+~
+57401 1836584 -950 W2
+140 68 -25 10d200+7500 3d6+90
+0 210000
+8 8 2
+19 0 17 13 16 16 13
+17 2 1
+-250 8 7 110 0
+10 10 10 10 10
+0 0 2
+8 15
+~
+#17986
+raistlin majere mage~
+Raistlin Majere~
+A stooped, black robed mage watches you through hourglass shaped pupils.
+~
+He is a stooped mage that looks very physically weak. His skin has a
+golden tint and the pupils of his eyes are shaped like hourglasses, a
+curse bestowed on him. This is the legendary Raistlin Majere, the most
+powerful mage to ever walk Krynn! He did not die after all. For failing to
+become a god he was punished to life in the Abyss, dying every day only to
+be healed for the next day's slaughter. Something has changed though, and
+he is free.
+~
+321672 34766888 -800 W2
+150 20 -37 50d300+18000 4d5+20
+1600 250000
+8 8 1
+13 0 18 17 16 10 11
+0 2 2
+-375 0 2 0 25
+7 7 7 7 7
+0 0 0
+4 1
+~
+#17987
+soul ghostly image~
+a damned soul~
+A weary, ghostly image floats by.
+~
+This is the soul of some evil person that is now under Takhisis' control.
+It is tortured and berated, all the while made to serve her.
+~
+2289688 1082920 -600 W2
+105 65 -20 15d100+1000 5d6+45
+0 100000
+8 8 0
+13 0 13 13 13 13 13
+0 2 1
+-200 0 2 0 0
+10 10 10 10 10
+0 0 6
+6 1
+~
+#17988
+takhisis goddess~
+Takhisis~
+Takhisis, goddess of evil, stands here.
+~
+She is beautiful and frightening. She has black hair and cold, black eyes
+and wears polished black armor.
+~
+3074586 68191400 -1000 W2
+175 80 -37 0d0+30000 10d10+80
+0 750000
+8 8 2
+25 0 24 24 24 25 18
+0 2 0
+-375 12 10 1000 20
+6 6 6 6 6
+0 0 63
+6 10
+~
+#17989
+paladine god~
+Paladine~
+Paladine, god of good, stands here.
+~
+He is tall and grim-faced. He looks like a powerful knight, and wears
+silver armor.
+~
+3074330 68191400 1000 W2
+175 80 -37 0d0+30000 10d10+80
+0 750000
+8 8 1
+25 0 24 24 24 25 18
+0 2 0
+-375 12 10 1000 20
+6 6 6 6 6
+0 0 63
+6 10
+~
+#17990
+gilean god~
+Gilean~
+Gilean, god of knowledge, stands here.
+~
+He looks very studious, always writing in a book.
+~
+3074074 68191400 0 W2
+175 80 -37 0d0+30000 10d10+80
+0 750000
+8 8 1
+25 0 24 24 24 25 18
+0 2 0
+-375 12 10 1000 20
+6 6 6 6 6
+0 0 63
+6 10
+~
+#17991
+reorx god~
+Reorx~
+Reorx, god of creation, stands here.
+~
+He has a dwarven appearance and is very well dressed.
+~
+3074074 68191400 0 W2
+165 77 -36 0d0+25000 10d10+75
+0 650000
+8 8 1
+23 0 22 22 22 23 18
+0 2 0
+-365 12 8 1000 20
+8 8 8 8 8
+0 0 63
+6 10
+~
+#17992
+sargonnas god~
+Sargonnas~
+Sargonnas, the minotaur god, stands here.
+~
+He looks a lot like a minotaur and has long horns.
+~
+3074586 68191400 -1000 W2
+165 77 -36 0d0+25000 10d10+75
+0 650000
+8 8 1
+23 0 22 22 22 23 18
+0 2 0
+-365 12 8 1000 20
+8 8 8 8 8
+0 0 63
+6 10
+~
+#17993
+solinari god~
+Solinari~
+Solinari, god of the white mages, stands here.
+~
+He looks like a lean human and wears white robes.
+~
+3074330 68191400 1000 W2
+165 77 -36 0d0+25000 10d10+75
+0 650000
+8 8 1
+23 0 22 22 22 23 18
+0 2 0
+-365 12 8 1000 20
+8 8 8 8 8
+0 0 63
+6 10
+~
+#17994
+lunitari goddess~
+Lunitari~
+Lunitari, goddess of the red mages, stands here.
+~
+She looks like a lean human and wears red robes.
+~
+3074074 68191400 0 W2
+165 77 -36 0d0+25000 10d10+75
+0 650000
+8 8 2
+23 0 22 22 22 23 18
+0 2 0
+-365 12 8 1000 20
+8 8 8 8 8
+0 0 63
+6 10
+~
+#17995
+nuitari god~
+Nuitari~
+Nuitari, god of the black mages, stands here.
+~
+He looks like a lean human and wears black robes.
+~
+3074586 68191400 -1000 W2
+165 77 -36 0d0+25000 10d10+75
+0 650000
+8 8 1
+23 0 22 22 22 23 18
+0 2 0
+-365 12 8 1000 20
+8 8 8 8 8
+0 0 63
+6 10
+~
+#17996
+mishakal goddess~
+Mishakal~
+Mishakal, goddess of healing, stands here.
+~
+She is dressed in a simple blue gown and has a warm smile.
+~
+3074330 68191400 1000 W2
+165 77 -36 0d0+25000 10d10+75
+0 650000
+8 8 2
+23 0 22 22 22 23 18
+0 2 0
+-365 12 8 1000 20
+8 8 8 8 8
+0 0 63
+6 10
+~
+#17997
+chislev goddess~
+Chislev~
+Chislev, goddess of nature, stands here.
+~
+She is a goddess of simple beauty. She wears a crown of flowers and leaves
+in her brown hair and is covered by a simple, green cloth.
+~
+3074330 68191400 1000 W2
+155 75 -35 0d0+20000 10d10+70
+0 550000
+8 8 2
+21 0 20 20 20 21 18
+0 2 0
+-355 12 7 1000 15
+10 10 10 10 10
+0 0 63
+6 10
+~
+#17998
+hiddukel god~
+Hiddukel~
+Hiddukel, god of deals, stands here.
+~
+He is a short, fat god. He has slicked black hair and reminds you of a
+used car salesman.
+~
+3074586 68191400 -1000 W2
+155 75 -35 0d0+20000 10d10+70
+0 550000
+8 8 1
+21 0 20 20 20 21 18
+0 2 0
+-355 12 7 1000 15
+10 10 10 10 10
+0 0 63
+6 10
+~
+#17999
+zivilyn god~
+Zivilyn~
+Zivilyn, god of time, stands here.
+~
+He flickers and looks blurry because he exists in all times, seeing all
+possibilities.
+~
+3074330 68191400 1000 W2
+155 75 -35 0d0+20000 10d10+70
+0 550000
+8 8 1
+21 0 20 20 20 21 18
+0 2 0
+-355 12 7 1000 15
+10 10 10 10 10
+0 0 63
+6 10
+~
+#18000
+morgion god~
+Morgion~
+Morgion, god of disease, stands here.
+~
+He is deathly pale and has skin that looks diseased.
+~
+3074586 336626856 -1000 W2
+155 75 -35 0d0+20000 10d10+70
+0 550000
+8 8 1
+21 0 20 20 20 21 18
+0 2 0
+-355 12 7 1000 15
+10 10 10 10 10
+0 0 63
+6 10
+~
+#18001
+chemosh god~
+Chemosh~
+Chemosh, god of death, stands here.
+~
+He looks like a human that has been formed into a demon, with gray skin,
+yellow claw, and powerful but misshapen limbs.
+~
+3074586 68191400 -1000 W2
+155 75 -35 0d0+20000 10d10+70
+0 550000
+8 8 1
+21 0 20 20 20 21 18
+0 2 0
+-355 12 7 1000 15
+10 10 10 10 10
+0 0 63
+6 10
+~
+$

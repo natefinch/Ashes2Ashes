@@ -1,0 +1,176 @@
+#5200
+Ttam ttam Nogard nogard beholder mighty~
+Ttam Nogard, the mighty beholder~
+You see the mighty beholder, he is turning his head toward you!
+~
+It has a large central eye that projects an anti-magic ray and ten
+eyestalks atop the round body which can do anything from charm you
+to disintegrate you.  Beholders are not known for their personality.
+~
+171 136 -870 W
+41 14 0 1d14+750 6d9+5
+28560 150000
+8 8 0
+13 0 13 13 13 13 0
+8 2 0
+0 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#5201
+lamia~
+the lamia~
+A lamia slinks about with catlike grace in search of perverted needs.
+~
+This creature is a perplexing mix of a voluptuous woman's upper body,
+a scraggly-furred feline's body and legs, and the disgusting stench of
+rotting flesh. A long, forked tongue slops out of her mouth and beckons
+like a slimy finger for you to approach her...
+~
+77 262152 -1000 W
+15 12 4 2d10+235 2d5+1
+1500 12000
+8 8 2
+15 0 13 13 14 15 0
+17 3 0
+40 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#5202
+mimic chest~
+the mimic~
+A strong chest lies in one corner of the room.
+~
+A strong, wooden chest bound with iron straps and a heavy pad-lock on the
+front.
+~
+10 0 10 W
+18 10 1 1d20+216 2d7+0
+0 32500
+6 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#5203
+mimic boulder~
+the mimic~
+Two skeletons lie crushed under a large boulder.
+~
+~
+2058 40 -10 W
+23 13 1 5d15+250 3d5+1
+0 50000
+6 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#5204
+mimic floor~
+the mimic~
+The stone floor of this house has been ripped apart.
+~
+~
+10 0 -140 W
+18 9 3 3d6+183 2d6+0
+0 26250
+6 8 0
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#5205
+mimic pottery~
+the mimic~
+Some broken shards of pottery lie strewn about the floor.
+~
+~
+10 0 200 W
+18 6 0 1d8+166 2d5+3
+0 24500
+6 8 0
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#5206
+mimic planks~
+the mimic~
+A few wooden planks lie stacked on a low shelf.
+~
+~
+10 0 0 W
+18 11 0 1d12+183 4d3+1
+0 30000
+6 8 0
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#5207
+lizard horned~
+the horned lizard~
+A small horned lizard flicks his tongue and slithers away.
+~
+A cute little lizard -- that is, if you like reptiles!
+~
+136 0 300 W
+5 3 4 1d14+50 2d4+0
+0 1250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#5208
+golem stone~
+the stone golem~
+In the corner you see a large, stone golem faithfully standing watch.
+~
+It is a big chunk of rock that has been magically formed into a giant stone
+creature.  He stands here still guarding the city.
+~
+2314 40 800 W
+41 20 -5 10d6+833 4d7+20
+4250 8000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-50 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#5209
+lamia~
+the lamia~
+A strange lamia prowls about on the lookout for raw flesh and blood.
+~
+This is a creature with a wiry, yet shapely upper body of a beautiful
+woman, but with the lower body of a four-legged lizard. She licks her
+purple lips and yellowed fangs with forked tongue as she eyes you.
+~
+109 32 -1000 W
+19 14 4 2d10+255 2d3+1
+1500 14000
+8 8 2
+12 0 13 13 15 13 0
+17 3 0
+40 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 10
+$

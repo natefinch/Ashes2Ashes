@@ -1,0 +1,1456 @@
+#22600
+On The Palace Steps~
+You stand before the Sultans Palace in awe of its majestic beauty.  Its
+tall white towers have golden domes, and the sun makes it sparkle in all
+its splendor.  Although the palace itself is not mammoth, it is by far one
+of the most beautiful you have ever seen.  Certainly you would like to see
+the inside of it and possibly even meet the Sultan and his beautiful daughter
+Jasmine herself.  You check your hair and appearance just in case.
+~
+226 0 0
+0d0+0 0 0
+D0
+The Front Foyer.
+~
+door~
+2 22600 22603
+D2
+Before The Sultans Palace.
+~
+~
+0 -1 22528
+E
+door doors~
+The doors stand around ten feet high, are at least a foot thick, and very
+heavy. They are made of some sort of a hardwood, but what catches your eye
+is the solid gold Sultans Coat of Arms on them.
+~
+S
+#22601
+Solitary~
+You find yourself in a small, but comfortable room just off the royal chapel.
+This a room is used for quiet meditation and prayer.  There are a few books
+pertaining to gospel on the shelves, and a few parchments lying on the table.
+You wonder if the Sultan comes here to pray for guidance in making his laws.
+~
+226 8 0
+0d0+0 0 0
+D0
+The Royal Chapel.
+~
+door~
+2 -1 22606
+S
+#22602
+The Royal Cloak Room~
+You are in a room filled with racks for hanging the outer garments of the
+many guests of the palace.  This room is used mostly for the Sultans banquets
+and balls.  It is large enough to store several hundred garments.
+~
+226 8 0
+0d0+0 0 0
+D0
+The Royal Ball Room.
+~
+door~
+2 -1 22607
+D1
+The Front Foyer.
+~
+door~
+2 -1 22603
+S
+#22603
+The Front Foyer~
+You are in the front foyer of the Sultans Palace. Ahead of you the foyer
+opens up into a large ballroom and banquet area.  To the West is the Royal
+cloak room, Where you may want to store your coat before entering the 
+Palace. The ceilings must be thirty feet high here, and everywhere you 
+look up you see beautifully painted murals.  The palace is indeed fit for 
+king.
+~
+226 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22608
+D1
+~
+~
+0 -1 22604
+S
+#22604
+The Royal Guard Station~
+You have just entered a guard station.  The walls are covered with various
+types of weapons and armor.  You can see a group of guards sitting at a table,
+playing cards.  To the north lies a large banquet hall.  There is a stairway
+to the east and a large foyer to the west.
+~
+226 12 0
+0d0+0 0 0
+D0
+The Royal Banquet Hall.
+~
+~
+0 -1 22609
+D1
+A Stairway.
+~
+~
+0 -1 22605
+D3
+The Front Foyer.
+~
+~
+0 -1 22603
+S
+#22605
+A Stairway~
+You are on a long stairway going to the second floor of the palace. 
+Looking up, you wonder how the servants make the trip so many times a day.
+~
+226 12 0
+0d0+0 0 0
+D0
+The Hot Baths.
+~
+~
+0 -1 22610
+D3
+The Royal Guard Station.
+~
+~
+0 -1 22604
+D4
+A Stairway.
+~
+~
+0 -1 22633
+S
+#22606
+The Royal Chapel~
+You find yourself in the royal chapel.  There is a large altar against one
+wall, and large windows of stained glass across the entire wall behind the
+altar. Upon the walls amidst the sconces are very old oil paintings depicting
+various religious scenes, and statues look at you kindly from the corners.
+~
+226 8 0
+0d0+0 0 0
+D1
+The Royal Ball Room.
+~
+door~
+2 -1 22607
+D2
+Solitary.
+~
+door~
+2 -1 22601
+S
+#22607
+The Royal Ball Room~
+You are standing in the southern part of the royal ballroom.  This room is
+truly magnificent.  Hanging everywhere are brass chandeliers, and the walls
+are dotted with ornate brass sconces on each side of every oil painting.
+The floor is laid out in a breathtaking mosiac of marble.
+~
+226 0 0
+0d0+0 0 0
+D0
+The Royal Ball Room.
+~
+~
+0 -1 22612
+D1
+A Statue Of The Sultan.
+~
+~
+0 -1 22608
+D2
+The Royal Cloak Room.
+~
+door~
+2 -1 22602
+D3
+The Royal Chapel.
+~
+door~
+2 -1 22606
+S
+#22608
+A Statue Of The Sultan~
+You stand before a lifesized statue of the Sultan.  The craftsmanship is
+excellent and you marvel at the artistry in the facial features.  It seems
+to be carved from a solid piece of pure white marble with tiny gold veins
+running through it.  The artist certainly did the Sultan justice.
+~
+226 8 0
+0d0+0 0 0
+D0
+The Crystal Chandelier.
+~
+~
+0 -1 22613
+D1
+The Royal Banquet Hall.
+~
+~
+0 -1 22609
+D2
+The Front Foyer.
+~
+~
+0 -1 22603
+D3
+The Royal Ball Room.
+~
+~
+0 -1 22607
+S
+#22609
+The Royal Banquet Hall~
+A large banquet table that could seat an entire army fills the center of
+this gigantic room.  Large vases are placed along the walls and corners, and
+ornate paintings adorn the walls.  Here noblemen drink wine from golden
+goblets and feast from tables laden with food.  Looking up you see there is
+no ceiling here - you look straight up to the top of the beautiful golden
+center dome, and the second floor balconies finished in a rich mahogany.
+~
+226 8 0
+0d0+0 0 0
+D0
+The Royal Banquet Hall.
+~
+~
+0 -1 22614
+D1
+The Hot Baths.
+~
+~
+0 -1 22610
+D2
+The Royal Guard Station.
+~
+~
+0 -1 22604
+D3
+A Statue Of The Sultan.
+~
+~
+0 -1 22608
+S
+#22610
+The Hot Baths~
+This room has several sunken tubs in the middle of it, with vases of flowers
+and incense burners stationed around them.  You see several pots full of oils
+used for bathing, and many water vessels stacked against the wall.  You are
+suddenly aching to sink your hot tired body into a nice hot bath.
+~
+226 8 0
+0d0+0 0 0
+D2
+A Stairway.
+~
+~
+0 -1 22605
+D3
+The Royal Banquet Hall.
+~
+~
+0 -1 22609
+S
+#22611
+The Royal Throne Room~
+You stand in awe of a throne made of solid gold and fashioned in the likeness
+of a massive elephant's head.  The tusks curve down to form the arms of the
+throne, and the seats are plush blue velvet cushions.  Before the throne lies
+a massive persian rug.  The Sultan sits here too engrossed in reading some sort
+of a parchment to notice you.  His guards, however, are watching you intently.
+~
+226 8 0
+0d0+0 0 0
+D0
+Jafar's Office.
+~
+door~
+2 -1 22616
+D1
+The Royal Ball Room.
+~
+~
+0 -1 22612
+E
+throne~
+The throne looks to be made of solid gold, and is formed into a massive
+elephants head.  The magnificent tusks curve down to form the arms of the
+throne, and care was taken to form their sharp ends into small golden globes
+that the Sultan not pierce himself.  The seat and back of the throne are
+cushioned with a rich blue velvet.  It looks very comfy - if only you didn't
+feel so uncomfortable with that massive elephant over your head.
+~
+S
+#22612
+The Royal Ball Room~
+You are in the center of the ball room.  You visualize yourself whirling
+around with the partner of your dreams to the music, and let out a soft sigh.
+What a life that would be.  You decide that you daydream too much and move on.
+~
+226 8 0
+0d0+0 0 0
+D0
+The Royal Ball Room.
+~
+~
+0 -1 22617
+D1
+The Crystal Chandelier.
+~
+~
+0 -1 22613
+D2
+The Royal Ball Room.
+~
+~
+0 -1 22607
+D3
+The Royal Throne Room.
+~
+~
+0 -1 22611
+S
+#22613
+The Crystal Chandelier~
+You walk into a room so dazzling you are almost blinded.  Millions of tiny
+sparkles of light create an explosion of color as they bounce off your body
+and dance across the floor.  Looking up, you see the source - a pure crystal
+chandelier that must be twenty feet in diameter, with hundreds of tiny shards
+of crystal hanging from it, that pick up every tiny ray of light and divide
+it into many more in every color of the rainbow.
+~
+226 8 0
+0d0+0 0 0
+D0
+A Sculpture Of Jasmine.
+~
+~
+0 -1 22618
+D1
+The Royal Banquet Hall.
+~
+~
+0 -1 22614
+D2
+A Statue Of The Sultan.
+~
+~
+0 -1 22608
+D3
+The Royal Ball Room.
+~
+~
+0 -1 22612
+S
+#22614
+The Royal Banquet Hall~
+You are in the center of the palace banquet hall.  The smell of something
+delicious cooking wafts in from the north, and you are suddenly quite hungry.
+The banquet table, empty now except for a few bowls of fresh fruit, will soon
+be filling up with mouth-watering morsels.
+~
+226 8 0
+0d0+0 0 0
+D0
+The Royal Banquet Hall.
+~
+~
+0 -1 22619
+D2
+The Royal Banquet Hall.
+~
+~
+0 -1 22609
+D3
+The Crystal Chandelier.
+~
+~
+0 -1 22613
+S
+#22615
+The Royal Pantry~
+Never have you seen a pantry such as this.  This room is so stuffed with
+food you can barely walk around in it.  There are baskets of every fruit and
+vegetable imaginable, plus things you have never seen before in your life.
+~
+226 9 0
+0d0+0 0 0
+D0
+The Royal Kitchen.
+~
+door~
+2 -1 22620
+S
+#22616
+Jafar's Office~
+You are in Jafar's office in a deserted corner of the palace.  He has always
+been unhappy about being tucked away here, but bides his time knowing that he
+shall soon have the throne according to his evil plan.  The room is in a state
+of disarray, and smells of dust and mildew.  You feel an evil presence here.
+~
+226 8 0
+0d0+0 0 0
+D2
+The Royal Throne Room.
+~
+door~
+2 -1 22611
+D3
+A Musty Stairway.
+~
+secret panel~
+2 -1 22660
+S
+#22617
+Royal Ball Room~
+You are at the northern end of the ball room.  Your footsteps echo across 
+the great expanse of dance floor as you cross the room, and you wonder how
+many Kings and Queens, Princes and Princesses have danced on this very floor.
+~
+226 8 0
+0d0+0 0 0
+D0
+The Royal Music Room.
+~
+~
+0 -1 22622
+D1
+A Sculpture Of Jasmine.
+~
+~
+0 -1 22618
+D2
+The Royal Ball Room.
+~
+~
+0 -1 22612
+S
+#22618
+A Sculpture of Jasmine~
+Here stands a a breathtaking sculpture of the beautiful Princess Jasmine.
+So close is it to lifelike that you could almost swear it was the Princess
+herself smiling down at you.  It stands on a small golden pedestal.
+~
+226 8 0
+0d0+0 0 0
+D0
+The Rear Foyer.
+~
+~
+0 -1 22623
+D1
+The Royal Banquet Hall.
+~
+~
+0 -1 22619
+D2
+The Crystal Chandelier.
+~
+~
+0 -1 22613
+D3
+The Royal Ballroom.
+~
+~
+0 -1 22617
+S
+#22619
+The Royal Banquet Hall~
+You are in the northern part of the banquet hall.  The smell of food cooking
+from the royal kitchen through the doors makes your mouth water and your
+stomach rumble.  You resist the temptation to grab some fruit from the table.
+It wouldn't do to spoil your appetite.
+~
+226 8 0
+0d0+0 0 0
+D0
+The Royal Library.
+~
+~
+0 -1 22624
+D1
+The Royal Kitchen.
+~
+door~
+2 -1 22620
+D2
+The Royal Banquet Hall.
+~
+~
+0 -1 22614
+D3
+A Sculpture Of Jasmine.
+~
+~
+0 -1 22618
+S
+#22620
+The Royal Kitchen~
+This is where the sultans cooks prepare the royal meals, and during the
+royal banquets, it is filled with up to 30 cooks.  In the center of the room
+is one long table measuring 30 feet by 6 feet that is used for preparing the
+feasts for the table.  You hope you will be invited to the next one.
+~
+226 8 0
+0d0+0 0 0
+D2
+The Royal Pantry.
+~
+door~
+2 -1 22615
+D3
+The Royal Banquet Hall.
+~
+door~
+2 -1 22619
+S
+#22621
+A Stairway~
+You are on a long stairway going up to the second floor of the palace.
+Looking up, you wonder how the servants make the trip so many times a day.
+~
+226 12 0
+0d0+0 0 0
+D1
+The Royal Music Room.
+~
+~
+0 -1 22622
+D4
+A Stairway.
+~
+~
+0 -1 22626
+S
+#22622
+The Royal Music Room~
+You are standing in the royal music room.  It is from this large open room
+that the beautiful music comes from when the sultan throws a royal ball.
+There are many instruments lying on the floor and propped in corners here,
+and chests containing some mandolins against the wall.
+~
+226 8 0
+0d0+0 0 0
+D1
+The Rear Foyer.
+~
+~
+0 -1 22623
+D2
+The Royal Ball Room.
+~
+~
+0 -1 22617
+D3
+A Stairway.
+~
+~
+0 -1 22621
+S
+#22623
+The Rear Foyer~
+You are standing in the rear foyer of the palace.  Looking north, you see
+the royal courtyard, in the center of which stands a large fountain.  To the
+south you can see a sculpture of the Princess Jasmine.
+~
+226 8 0
+0d0+0 0 0
+D0
+The Steps To The Courtyard.
+~
+~
+0 -1 22644
+D1
+The Royal Library.
+~
+~
+0 -1 22624
+D2
+A Sculpture Of Jasmine.
+~
+~
+0 -1 22618
+D3
+The Royal Music Room.
+~
+~
+0 -1 22622
+S
+#22624
+The Royal Library~
+You stand in awe inside a room that is filled to the ceiling with books,
+parchments, and scrolls of every size and shape.  Some look to be very, very
+old and fragile.  There are several gigantic piles of cushions lying around,
+next to each pile of cushions sits a small table with an oil lamp.
+~
+226 8 0
+0d0+0 0 0
+D1
+The Royal Sunroom.
+~
+~
+0 -1 22625
+D2
+The Royal Banquet Room.
+~
+~
+0 -1 22619
+D3
+The Rear Foyer.
+~
+~
+0 -1 22623
+S
+#22625
+The Royal Sun Room~
+You are standing in the royal sun room.  Here you may play one of the many
+games that noblemen play at their leisure, snuggle up in a pile of cushions
+and read a book from the adjoining library, or just sit and gaze out one of
+the many windows at the beautiful rose garden that borders the courtyard.
+~
+226 8 0
+0d0+0 0 0
+D3
+The Royal Library.
+~
+~
+0 -1 22624
+S
+#22626
+A Stairway~
+You are on a long marble stairway that leads to the first and second floor
+of the palace.  Looking up, you wonder how the servants make the trip so
+many times a day.
+~
+226 8 0
+0d0+0 0 0
+D2
+A Balcony.
+~
+~
+0 -1 22627
+D5
+A Stairway.
+~
+~
+0 -1 22621
+S
+#22627
+On The West Balcony~
+You are on a long, open balcony that stretches all the way across the
+entire ball room.  The view from here is staggering.  You can see almost
+the entire palace from where you stand, thirty feet above the first floor.
+~
+226 8 0
+0d0+0 0 0
+D0
+A Stairway.
+~
+~
+0 -1 22626
+D1
+Over the railing.
+~
+~
+0 -1 22640
+D2
+A Balcony.
+~
+~
+0 -1 22628
+S
+#22628
+On The West Balcony~
+You are on a long, open balcony that stretches all the way across the
+entire ball room.  The view from here is staggering.  You can see almost
+the entire palace from where you stand, thirty feet above the first floor.
+~
+226 8 0
+0d0+0 0 0
+D0
+A Balcony.
+~
+~
+0 -1 22627
+D1
+Over the railing.
+~
+~
+0 -1 22640
+D2
+A Balcony.
+~
+~
+0 -1 22629
+S
+#22629
+On The West Balcony~
+You are on a long, open balcony that stretches all the way across the
+entire ball room.  The view from here is staggering.  You can see almost
+the entire palace from where you stand, thirty feet above the first floor.
+~
+226 8 0
+0d0+0 0 0
+D0
+A Balcony.
+~
+~
+0 -1 22628
+D1
+Over the railing.
+~
+~
+0 -1 22640
+D2
+A Bend In The Balcony.
+~
+~
+0 -1 22630
+S
+#22630
+A Curve In The Balcony~
+You are on a curve on the west balcony.  It seems to run a very long way to
+the north, but around the curve to the east it ends abruptly at a closed door.
+You wonder if you should even be up here, much less peeking in private rooms...
+~
+226 8 0
+0d0+0 0 0
+D0
+A Balcony.
+~
+~
+0 -1 22629
+D1
+The Sultans Bedroom.
+~
+door~
+2 -1 22631
+S
+#22631
+The Sultans Bedroom~
+You find yourself in what could only be the Sultans Bedroom.  The massive
+four-poster canopy bed is draped with dark purple silk curtains with gold
+tassles - as are the pillows on the bed.  The floors are covered in thick,
+plush rugs, and there is a magnificent portrait in a golden frame hanging on
+the wall over the fireplace.  The view from the window gives a breathtaking
+view of the entire city of Agrabah.
+~
+226 8 0
+0d0+0 0 0
+D1
+The Sultans Dressing Room.
+~
+~
+0 -1 22632
+D3
+A Curve In The Balcony.
+~
+door~
+2 -1 22630
+S
+#22632
+The Sultans Dressing Room.~
+You are standing in a large room that has a large dressing screen, several
+large mirrors, a few dressers and a large table against the wall with some
+miscellaneous bottles and combs on it.  You assume that this is where the
+Sultan dresses for his public addresses and such.
+~
+226 8 0
+0d0+0 0 0
+D1
+The Sultan's Closet.
+~
+~
+0 -1 22642
+D2
+An Outside Balcony.
+~
+~
+0 -1 22663
+D3
+The Sultans Bedroom.
+~
+~
+0 -1 22631
+S
+#22633
+A Stairway~
+You are on a long marble stairway that leads to the first and second floor
+of the palace.  Looking up, you wonder how the servants make the trip so
+many times a day.
+~
+226 8 0
+0d0+0 0 0
+D0
+A Balcony.
+~
+~
+0 -1 22634
+D5
+A Stairway.
+~
+~
+0 -1 22605
+S
+#22634
+On The East Balcony~
+You are on a long, open balcony that stretches all the way across the
+entire banquet hall.  The view from here is staggering.  You can see almost
+the entire palace from where you stand, thirty feet above the first floor.
+~
+226 8 0
+0d0+0 0 0
+D0
+A Balcony.
+~
+~
+0 -1 22635
+D2
+A Stairway.
+~
+~
+0 -1 22633
+D3
+Over the railing.
+~
+~
+0 -1 22641
+S
+#22635
+On The East Balcony~
+You are on a long, open balcony that stretches all the way across the
+entire banquet hall.  The view from up here is staggering.  You can see almost
+the entire palace from where you stand, thirty feet about the first floor.
+~
+226 8 0
+0d0+0 0 0
+D0
+A Balcony.
+~
+~
+0 -1 22636
+D2
+A Balcony.
+~
+~
+0 -1 22634
+D3
+Over the railing.
+~
+~
+0 -1 22641
+S
+#22636
+On The East Balcony~
+You are on a long, open balcony that stretches all the way across the
+entire banquet hall.  The view from here is staggering.  You can see almost
+the entire palace from where you stand, thirty feet above the first floor.
+~
+226 8 0
+0d0+0 0 0
+D0
+A Curve In The Balcony.
+~
+~
+0 -1 22637
+D2
+A Balcony.
+~
+~
+0 -1 22635
+D3
+Over the railing.
+~
+~
+0 -1 22641
+S
+#22637
+A Curve In The Balcony~
+You are on a curve on the east balcony.  It seems to run a very long way to
+the south, but around the curve to the west it ends abruptly at a closed door.
+You wonder if you should even be up here, much less peeking in private rooms...
+~
+226 8 0
+0d0+0 0 0
+D2
+A Balcony.
+~
+~
+0 -1 22636
+D3
+Jasmine's Bedroom.
+~
+door~
+2 -1 22638
+S
+#22638
+Jasmine's Bedroom~
+You find yourself in a room truly fit for a Princess.  There is a magnificent
+canopy bed draped with silk curtains next to the window, and some of the most
+beautiful persian rugs you have ever seen on the floors.  A small table sits
+against one wall with various bottles of rare perfumes and a few pieces of
+jewelry on it.  The window has a breathtaking view of the entire courtyard.
+~
+226 8 0
+0d0+0 0 0
+D1
+A Curve In The Balcony.
+~
+door~
+2 -1 22637
+D3
+~
+~
+0 -1 22639
+S
+#22639
+Jasmine's Dressing Room~
+You are in a large room that has an ornate changing screen, a vanity with a
+few assorted scarves and combs on it, a few dressers, and three large mirrors.
+The furniture is sparse, but what is here looks to be priceless.  On the floor
+is the largest, most colorful persian rug you have ever seen.  You assume that
+this is the room in which the Princess Jasmine dresses.
+~
+226 8 0
+0d0+0 0 0
+D0
+An Outside Balcony.
+~
+~
+0 -1 22662
+D1
+Jasmine's Bedroom.
+~
+~
+0 -1 22638
+D3
+Jasmine's Closet.
+~
+~
+0 -1 22643
+S
+#22640
+SPLAT on the Ball Room Floor~
+You have fallen over the railing to your death on the Ball Room floor.
+Next time LOOK before you leap!
+~
+226 16398 0
+1d1+199 90 0
+D2
+The Royal Ball Room.
+~
+~
+0 -1 22612
+S
+#22641
+SPLAT on the Banquet Hall Floor~
+You have fallen over the railing to your death on the Banquet Hall floor.
+Next time LOOK before you leap!!
+~
+226 16398 0
+1d1+199 90 0
+D2
+The Royal Banquet Hall.
+~
+~
+0 -1 22614
+S
+#22642
+The Sultans Closet~
+You find yourself in a VERY large walk-in closet - the size of a small house.
+It is filled with racks of hung clothing, shelves full of shoes, scarves, and
+cumberbuns. You wonder if the Sultan has even worn some of this stuff.
+~
+226 8 0
+0d0+0 0 0
+D3
+The Sultan's Dressing Room.
+~
+~
+0 -1 22632
+S
+#22643
+Jasmine's Closet~
+You are in a walk-in closet the size of a small house.  Everywhere there are
+racks of clothes hanging.  One whole wall consists entirely of shelves of
+shoes and headwear belonging to the Princess Jasmine.
+~
+226 8 0
+0d0+0 0 0
+D1
+Jasmine's Dressing Room.
+~
+~
+0 -1 22639
+S
+#22644
+The Steps To The Courtyard~
+You are walking down the marble steps into the Royal Courtyard.  As you
+near the bottom of the steps, you hear songbirds singing, and a peaceful
+feeling comes over you.  You hear the sound of water splashing to your north.
+~
+226 4 2
+0d0+0 0 0
+D0
+The Courtyard.
+~
+~
+0 -1 22647
+D2
+The Rear Foyer.
+~
+~
+0 -1 22623
+S
+#22645
+The Rose Garden~
+You are on a path through the royal rose garden.  The sweet smell of roses
+perfumes the air here, and there are many of them in many sizes and colors.
+The garden is immaculate and well cared-for.  The path curves here.
+~
+226 0 2
+0d0+0 0 0
+D0
+You see a Guilded Cage amongst the roses.
+~
+~
+0 -1 22650
+D1
+The Courtyard.
+~
+~
+0 -1 22646
+S
+#22646
+The Courtyard~
+You are standing in the royal courtyard.  The air is perfumed with the light
+fragrance of roses.  You hear songbirds singing, and it feels peaceful here.
+~
+226 0 2
+0d0+0 0 0
+D0
+The Courtyard.
+~
+~
+0 -1 22651
+D1
+The Courtyard.
+~
+~
+0 -1 22647
+D3
+The Rose Garden.
+~
+~
+0 -1 22645
+S
+#22647
+The Courtyard~
+You are standing in the royal courtyard.  The air is perfumed with the light
+fragrance of roses.  You hear songbirds singing, and it feels peaceful here.
+~
+226 0 2
+0d0+0 0 0
+D0
+The Tulip Fountain.
+~
+~
+0 -1 22652
+D1
+The Courtyard.
+~
+~
+0 -1 22648
+D2
+The Steps To The Courtyard.
+~
+~
+0 -1 22644
+D3
+The Courtyard.
+~
+~
+0 -1 22646
+S
+#22648
+The Courtyard~
+You are standing in the royal courtyard.  The air is perfumed with the light
+fragrance of roses.  You hear songbirds singing, and it feels peaceful here.
+~
+226 0 2
+0d0+0 0 0
+D0
+The Courtyard.
+~
+~
+0 -1 22653
+D1
+The Rose Garden.
+~
+~
+0 -1 22649
+D3
+The Courtyard.
+~
+~
+0 -1 22647
+S
+#22649
+The Rose Garden~
+You are on a path through the royal rose garden.  The sweet smell of roses
+perfumes the air here, and there are many of many different sizes and colors.
+The garden is immaculate and well cared-for.  The path curves here.
+~
+226 0 2
+0d0+0 0 0
+D0
+The Courtyard.
+~
+~
+0 -1 22654
+D3
+The Courtyard.
+~
+~
+0 -1 22648
+S
+#22650
+The Rose Garden~
+Here in the midst of the rose garden stands a beautiful golden cage.  The
+cage is full of snow-white doves, that coo softly as you approach.  Jasmine
+has even trained them to eat out of your hand.
+~
+226 0 2
+0d0+0 0 0
+D0
+The Rose Garden.
+~
+~
+0 -1 22655
+D1
+The Courtyard.
+~
+~
+0 -1 22651
+D2
+The Rose Garden.
+~
+~
+0 -1 22645
+S
+#22651
+The Courtyard~
+You are standing in the royal courtyard.  The air is perfumed with the light
+fragrance of roses.  You hear songbirds singing, and it feels peaceful here.
+~
+226 0 2
+0d0+0 0 0
+D0
+The Rose Garden.
+~
+~
+0 -1 22656
+D1
+The Tulip Fountain.
+~
+~
+0 -1 22652
+D2
+The Courtyard.
+~
+~
+0 -1 22646
+D3
+The Courtyard.
+~
+~
+0 -1 22650
+S
+#22652
+The Tulip Fountain~
+You are standing in front of a gigantic fountain shaped like a tulip.  Its
+top is a golden peacock, and the water from its tail fans out as if it were a
+peacock tail, the sunlight turning it into a multi-colored light show.  The
+Princess Jasmine spends hours here, feeding the goldfish and the songbirds,
+and playing with Rajah.  You can plainly see why she loves it here.
+~
+226 0 2
+0d0+0 0 0
+D0
+The Rose Garden.
+~
+~
+0 -1 22657
+D1
+The Courtyard.
+~
+~
+0 -1 22653
+D2
+The Courtyard.
+~
+~
+0 -1 22647
+D3
+The Courtyard.
+~
+~
+0 -1 22651
+S
+#22653
+The Courtyard~
+You are standing in the royal courtyard.  The air is perfumed with the light
+fragrance of roses.  You hear songbirds singing, and it feels peaceful here.
+~
+226 0 2
+0d0+0 0 0
+D0
+The Rose Garden.
+~
+~
+0 -1 22658
+D1
+The Courtyard.
+~
+~
+0 -1 22654
+D2
+The Courtyard.
+~
+~
+0 -1 22648
+D3
+The Tulip Fountain.
+~
+~
+0 -1 22652
+S
+#22654
+The Rose Garden~
+You are on a path through the royal rose garden.  The sweet smell of roses
+perfumes the air here, and there are many in many different sizes and colors.
+~
+226 0 2
+0d0+0 0 0
+D0
+The Rose Garden.
+~
+~
+0 -1 22659
+D2
+The Courtyard.
+~
+~
+0 -1 22649
+D3
+The Courtyard.
+~
+~
+0 -1 22653
+S
+#22655
+The Rose Garden~
+You are on a path through the royal rose garden.  The sweet smell of roses
+perfumes the air here, and there are many in many different sizes and colors.
+The garden is immaculate and well cared-for.  The path curves east here.
+~
+226 0 0
+0d0+0 0 0
+D1
+The Rose Garden.
+~
+~
+0 -1 22656
+D2
+You see a Guilded Cage amongst the roses.
+~
+~
+0 -1 22650
+S
+#22656
+The Rose Garden~
+You are on a path through the royal rose garden.  The sweet smell of roses
+perfumes the air here, and there are many in many different sizes and colors.
+~
+226 0 2
+0d0+0 0 0
+D1
+The Rose Garden.
+~
+~
+0 -1 22657
+D2
+The Courtyard.
+~
+~
+0 -1 22651
+D3
+The Rose Garden.
+~
+~
+0 -1 22655
+S
+#22657
+The Rose Garden~
+You are on a path through the royal rose garden.  The sweet smell of roses
+perfumes the air here, and there are many in many different sizes and colors.
+~
+226 0 2
+0d0+0 0 0
+D1
+The Rose Garden.
+~
+~
+0 -1 22658
+D2
+The Tulip Fountain.
+~
+~
+0 -1 22652
+D3
+The Rose Garden.
+~
+~
+0 -1 22656
+S
+#22658
+The Rose Garden~
+You are on a path through the royal rose garden.  The sweet smell of roses
+perfumes the air here, and there are many of many different sizes and colors.
+~
+226 0 2
+0d0+0 0 0
+D1
+The Rose Garden.
+~
+~
+0 -1 22659
+D2
+The Courtyard.
+~
+~
+0 -1 22653
+D3
+The Rose Garden.
+~
+~
+0 -1 22657
+S
+#22659
+The Rose Garden~
+You are on a path through the royal rose garden.  The sweet smell of roses
+perfumes the air here, and there are many of many different sizes and colors.
+The garden is immaculate and well cared-for.  The path curves here.
+~
+226 0 2
+0d0+0 0 0
+D2
+The Courtyard.
+~
+~
+0 -1 22654
+D3
+The Rose Garden.
+~
+~
+0 -1 22658
+S
+#22660
+A Musty Stairway~
+You are on a cold, dank and dark stairway.  You smell mold and dust, and
+stifle a sneeze.  You hear scratchings around you and force yourself not to
+think of what they might be.  You wonder if you REALLY want to be here.
+~
+226 9 0
+0d0+0 0 0
+D1
+Jafar's Office.
+~
+secret panel~
+2 -1 22616
+D4
+A Locked Room.
+~
+door~
+2 22660 22661
+D5
+Jafars Dungeon.
+~
+~
+0 -1 22664
+S
+#22661
+A Locked Room~
+So this is where the evil Jafar calls home.  How fitting - its disgusting
+at best.  There are magickal items, scrolls, books, potions, and various
+other items tossed everywhere.  In the corner you see a large bird cage of
+some sort.  You wonder what kind of evil pet he keeps there.  The air is
+moldy and rank in here and you find it difficult to breathe.  There is a
+strange contraption with an hourglass in the center, and a large sphere of
+some sort on top standing in the middle of the floor here.
+~
+226 9 0
+0d0+0 0 0
+D5
+A Musty Stairway.
+~
+door~
+2 22660 22660
+S
+#22662
+An Outside Balcony~
+You are on a large balcony in the great out-of-doors.  From here you have a
+view of the entire courtyard and fountain, and the countryside beyond the
+palace walls.  The sky is filled with stars out here at night, and Jasmine
+sometimes sits out here with Rajah for hours just looking at them.
+~
+226 0 1
+0d0+0 0 0
+D2
+Jasmine's Dressing Room.
+~
+~
+0 -1 22639
+S
+#22663
+An Outside Balcony~
+You are on a rather small balcony overlooking the front of the palace, and
+there is a view of the entire city of Agrabah from this vantage point.  The
+Sultan uses this balcony not only for relaxation, but also for making public
+announcements to the people of Agrabah.  He hopes one day to announce that his
+daughter Jasmine has chosen a suitor, from this balcony.
+~
+226 0 1
+0d0+0 0 0
+D0
+The Sultans Dressing Room.
+~
+~
+0 -1 22632
+S
+#22664
+Jafars Dungeon~
+You are in a dark, cold and dank dungeon.  You hear the skittering of tiny
+feet, and the squeaking of something slightly bigger than a mouse.  There
+are shackles on the wall, and various other items of containment and/or 
+torture scattered about the room.  There is a tiny window up way too high for
+you to see out of, with strong iron bars on it.
+~
+226 9 0
+0d0+0 0 0
+D4
+A Musty Stairway.
+~
+~
+0 -1 22660
+S
+$

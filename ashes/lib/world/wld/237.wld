@@ -1,0 +1,1557 @@
+#23700
+Park Entrance~
+       Before are the massive doors that lead into...
+
+               J U R A S S I C   P A R K ! ! ! ! 
+
+                     W A R N I N G ! ! ! ! 
+
+This area is not for the weak-hearted.  The sights you will see beyond
+these doors will amaze you.  Dare you open these doors, you will be
+drawn into the past by glimpcing the future!
+~
+237 5 3
+0d0+0 0 0
+D0
+Massive Doors
+~
+Massive Doors~
+1 -1 23701
+D2
+~
+~
+0 -1 23710
+S
+#23701
+Road Through the Jungle~
+As you pass through the massive doors, you hear them slam shut!  You
+gulp and ask yourself what have you gotten yourself into?  There is 
+nothing else to do but to go on and not look back.  The jungle
+growth overflows into the road.  Some of these plants are like none
+you have ever seen before.  The air has a thick musty smell to it, 
+you feel as if you can almost touch the air!
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23702
+D2
+Massive doors
+~
+Massive doors~
+2 -1 23700
+S
+#23702
+Road through the jungle~
+The exit is getting farther and farther away as you travel along this
+road.  You see strange creatures dart across your path, appearing from
+somewhere in the jungle and then dissapearing back into the jungle on 
+the other side of the road.  You chuckle at the sight of these little
+creatures and continue to walk on.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23703
+D2
+~
+~
+0 -1 23701
+S
+#23703
+Road through the jungle~
+The jungle acts as a pair of walls on both sides of you.  The jungle
+canopy reaches a good 100 feet above you, cutting out the sunlight very
+effectively.  You feel a little catostrophic with the jungle all around
+you.  The air is thick and has a musty smell to it.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23704
+D2
+~
+~
+0 -1 23702
+S
+#23704
+Fork in the road~
+The road seperates here.  You try to decide which way to go but as you
+try to look down the two roads, all you can see is jungle and more
+jungle.  You have to make up your mind sometime, why not look at the
+sign.  That's what they're there for!
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23712
+D1
+~
+~
+0 -1 23705
+D2
+~
+~
+0 -1 23703
+S
+#23705
+Road through the jungle~
+A narrow road cuts through the jungle, leading to the helicopter pad.  You
+have a gut feeling that something bad is going to happen, almost like you
+are being hunted by a fearsome predator.  Your insides churn over, leaving
+you sick to your stomach.  The jungle looms over you.  Trapping you
+inside of it.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23706
+D3
+~
+~
+0 -1 23704
+S
+#23706
+Road through the jungle~
+A narrow road cuts through the jungle, leading to the helicopter pad.  The
+road has taken a sharp turn to the northeast.  You have to be careful not
+to get lost in this jungle, there are many dangerous animals that are 
+killing for a meal.
+~
+237 1 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 23705
+D6
+~
+~
+0 -1 23707
+S
+#23707
+Road through the jungle~
+After almost missing that sharp turn in the road, you continue on your way
+to the helicopter landingpad.  All around you, birds are squawking,
+making awful noises.  Your spine tingles and the hair on your arms is
+standing on end.  Maybe you shouldn't have come to this island for 
+vacation.
+~
+237 1 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 23708
+D9
+~
+~
+0 -1 23706
+S
+#23708
+A small clearing~
+The road opens up to a small clearing here.  The jungle has been pushed
+back by man-made efforts.  There's a little shed in the corner, it 
+resembles an outhouse.  You here birds squawking in the trees, making
+you nervous.  You have a feeling you are being followed.  Maybe you
+should run to catch that helicopter that is waiting for you.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23709
+D9
+~
+~
+0 -1 23707
+S
+#23709
+Helicopter Landingpad~
+You see a great waterfall just to the north of here, it's casting beautiful
+rainbows all about here.  This is the only air exit on the island and it is
+open only to VIPs, which of course, you're not!  You see a lot of nervous
+men standing around scanning the surronding jungle.  They seem as if they
+are preparing for an attack of some sorts.  You don't wanna be around for
+that!
+~
+237 0 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 23708
+S
+#23710
+Path to the entrance~
+You are getting closer to what you came here for but you also have a soft
+fear running around all inside you.  This is where they say the past and
+the future collide.  The imbalance could shift at any time and chaos
+would gain control of this island.  Your chances of turning back are
+decreasing with each step.  If you are up to it, continue on, but if you
+are not, turn back and try to catch the boat you came in on.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23700
+D2
+~
+~
+0 -1 23711
+S
+#23711
+The docks~
+This is the only way on and off the island.  If there is a massive
+storm, the boats won't come to take you off the islands.  Stuck you'll be!
+So make sure that you want to be here, and not at home with your hot 
+chocolate and cookies.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23710
+D3
+~
+~
+0 -1 18767
+S
+#23712
+Road through the jungle~
+The jungle acts as a pair of walls on both sides of you.  The jungle 
+canopy reaches a good 100 feet above you, cutting out the sunlight very
+effectively.  You feel a little catostrophic with the jungle all around
+you.  The air is thick and has a musty smell to it.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23713
+D2
+~
+~
+0 -1 23704
+S
+#23713
+Road through the jungle~
+The moist jungle floor sinks under you about an inch.  This is a beautiful
+ecosystem.  Extinct plant life all over.  The geneticists have done a 
+miraculous job here.  You just can't wait to see the dinosaurs.  There's
+a large gate up ahead that looks to be humming.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23714
+D2
+~
+~
+0 -1 23712
+S
+#23714
+Electric Gate~
+You've had your fun, but once you pass on in through these gates,
+you will be held reliable.  This electric fence surronds the whole park,
+this is the only way through.  So if you feel that you can handle
+pre-historic nature, feel free to enter it's domain!
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23715
+D2
+~
+~
+0 -1 23713
+S
+#23715
+Intersection~
+This is where you make up your mind.  You're anxious to see all the 
+wonders this island holds, but you also want to check out the visitor
+center.  What to do?  The question hangs over your head.  You can see
+the huge building that is the visitor center just to the north of
+these cross roads.  You think it might be rather dangerous to go 
+roaming through the park without a guide.
+~
+237 5 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23716
+D2
+~
+~
+0 -1 23714
+D3
+~
+~
+0 -1 23717
+S
+#23716
+Road to the Visitor Center~
+This road leads to the visitor center.  You made the right choice of
+not roaming through the jungle without a guide.  You can see the jungle
+dispersing up ahead.  You feel a new anticipation take over you.  What
+new things will you see?  What new feelings will you feel?  Continue
+on my friend and find out exactly!
+~
+237 1 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 23800
+D2
+~
+~
+0 -1 23715
+S
+#23717
+Tour Path~
+This is your first step into the past.  All around you you see plant
+life that became extinct millions of years ago.  The smell of this
+place is even old.  The oxygen level is higher than normal, making you
+a little dizzy.  You here the sounds of extinct creatures all around
+you.  You bubble with excitement, yet you are apprehensive to
+continue on.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23715
+D3
+~
+~
+0 -1 23718
+S
+#23718
+Tour Path~
+The Tour Path is a narrow, cutaway dirt road that runs through the
+jungle.  The sounds of extinct animals are all around you.  The
+moist, oxygen rich air fills your lungs.  You look all around you
+for a chance to catch a glimpse of a dinosaur.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23717
+D3
+~
+~
+0 -1 23719
+S
+#23719
+Tour Path~
+The Tour Path is a narrow, cutaway dirt road that runs through the
+jungle.  The sounds of extinct animals are all around you.  The moist,
+oxygen rich air fills your lungs.  You look around for a chance to
+catch a glimpse of a dinosaur.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23718
+D2
+~
+~
+0 -1 23722
+D3
+~
+~
+0 -1 23720
+S
+#23720
+Tour Path~
+The Tour Path takes a turn here, but off to the left is the 
+Dilophosaurs Paddox.  You strain your neck trying to look in to
+see one of these pre-historic creatures.  Guess the only way you're
+going to see them is if you actually enter the paddox and have a
+look around.
+~
+237 5 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23719
+D3
+~
+~
+0 -1 23723
+D7
+~
+~
+0 -1 23721
+S
+#23721
+Tour Path~
+You just passed the Dilophosaurs Paddox.  You continue your journey
+through the park.  You look around in awe at all the pre-historic
+sites.  A thought passes through your mind, should these extinct
+creatures be made for your viewing pleasure?  Should man be meddling
+with nature?  Should man be playing God?
+~
+237 1 3
+0d0+0 0 0
+D7
+~
+~
+0 -1 23724
+D8
+~
+~
+0 -1 23720
+S
+#23722
+Off the Tour Path~
+Aren't you the little rebel?  Going off the Tour Path to go exploring?
+There are a bunch of Compys running around.  You wonder why there are
+so many of them here.  There's an odd smell in the air.  Welp, since
+you're off the Tour Path, you might as well go investigate.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23719
+D2
+~
+~
+0 -1 23728
+S
+#23723
+Dilophosaurs Paddox~
+You notice a putrid smell as you enter the paddox.  This is the only
+carnivore on the tour until you get to the TRex and the Raptors.  This
+is the paddox for the ever dangerous Dilophosaur.  Your stomach tells
+you you shouldn't have left the Tour Path.  You have entered their
+domain, their territory.  Be on your guard and keep your distance.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23720
+D2
+~
+~
+0 -1 23725
+D3
+~
+~
+0 -1 23727
+D9
+~
+~
+0 -1 23726
+S
+#23724
+Tour Path~
+You continue on your journey through history.  You follow the Tour
+Path through Jurassic Park, scanning the jungle for any sign of life,
+either friendly dinosaurs or dangerous dinosaurs.
+~
+237 1 3
+0d0+0 0 0
+D7
+~
+~
+0 -1 23729
+D8
+~
+~
+0 -1 23721
+S
+#23725
+Dilophosaurs Paddox~
+The putrid smell of decaying flesh invades your nostrils leaving
+you sick to your stomach.  You hear the soft hooting sounds of the
+ever dangerous Dilophosaur.  Be on your guard and keep your distance
+from these dangerous Dilos.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23723
+D3
+~
+~
+0 -1 23726
+D7
+~
+~
+0 -1 23727
+S
+#23726
+Dilophosaurs Paddox~
+The putrid smeel of rotting flesh fills your nostrils, making you
+sick to your stomach.  You hear the soft hooting sound of the
+ever dangerous Dilophosaur.  Keep you distance and always remember
+to keep you guard.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23727
+D1
+~
+~
+0 -1 23725
+D6
+~
+~
+0 -1 23723
+S
+#23727
+Dilophosaurs Paddox~
+The putrid smell invades your nostrils making you sick to your
+stomach.  The jungle is all around you and you hear the soft
+hooting of the ever dangerous Dilophosaurs.  Be on you guard,
+these dinosaurs aren't friendly.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23723
+D2
+~
+~
+0 -1 23726
+D8
+~
+~
+0 -1 23725
+S
+#23728
+The Electric Fence~
+Welp...I guess that's why all those Compys were around.  To eat your
+corpse.  Well...what did you expect???  It said electric fence and
+you were electrocuted.  So Sorry!
+~
+237 30871 3
+1d1+199 90 0
+D0
+~
+~
+0 -1 23722
+S
+#23729
+Tour Path~
+The Pteradactyl Aviary is off to the west.  You look up to see these
+magnificent animals, but the jungle canopy blocks your view.  You
+ponder whether or not to enter the Aviary, but you had better decide
+quick before the next tour group comes through!
+~
+237 5 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23734
+D3
+~
+~
+0 -1 23730
+D8
+~
+~
+0 -1 23724
+S
+#23730
+Pteradactyl Aviary~
+This is the Pteradactyl Aviary.  It's like normal zoo aviaries except
+much larger, mainly because it houses the worlds largest flying 
+animal ever to fly in its atmosphere!
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23729
+D2
+~
+~
+0 -1 23731
+D3
+~
+~
+0 -1 23733
+D9
+~
+~
+0 -1 23732
+S
+#23731
+Pteradactyl Aviary~
+This is the Pteradactyl Aviary.  It resembles a normal zoo aviary,
+yet it is much much larger.  It has to be to hold these giant flying
+dinosaurs.  You look up to spy one of these Pteradactyls, just
+remember to keep your mouth shut while looking up!
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23730
+D3
+~
+~
+0 -1 23732
+D7
+~
+~
+0 -1 23733
+S
+#23732
+Pteradactyl Aviary~
+This is the Pteradactyl Aviary.  It holds the largest flying
+animal that the earth has ever known.  You look up and around
+to hopefully catch a glimpse of these magnificent flying dinosaurs.
+But be careful, they are extremely territorial!
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23733
+D1
+~
+~
+0 -1 23731
+D6
+~
+~
+0 -1 23730
+S
+#23733
+Pteradactyl Aviary~
+This large aviary holds the massive flying dinosaurs; the Pteradactyl.
+You look up to look at these magestic creatures, but you better
+watch out, they are extremely territorial, attacking all invaders
+of their territory.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23730
+D2
+~
+~
+0 -1 23732
+D8
+~
+~
+0 -1 23731
+S
+#23734
+Tour Path~
+You just passed the Pteradactyl Aviary, hope you didn't go in.  Those
+guys are rather emphatic about protecting their territory.  You wonder
+what's next on the tour and continue on anxiously.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23735
+D2
+~
+~
+0 -1 23729
+S
+#23735
+Tour Path~
+You continue on your journey through time on this dirt road.  You
+listen to all the jungle noises as you walk along.  You feel very
+alone out here in the jungle.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23736
+D2
+~
+~
+0 -1 23734
+S
+#23736
+Tour Path~
+You continue on your journey through time along this dirt road.  You
+listen to all the sounds of the jungle.  You feel very alone out
+here on this Tour Path.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23737
+D2
+~
+~
+0 -1 23735
+S
+#23737
+Tour Path~
+Up ahead you see that you are coming up to another paddox.  You
+are very anxious to see more of these wonderous animals.  You feel
+almost like running to the next paddox like a child runs from ride to
+ride at an amusement park.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23738
+D2
+~
+~
+0 -1 23736
+S
+#23738
+Tour Path~
+Off to the northwest is the Stegosaurs Paddox.  You remember pictures
+of this dinosaur in your old picture books you had as a child.  You
+try to catch a peek of one but can't see anything.  You remember that
+Stegosaurs were herbivores so you feel kind of safe going off the path
+and into the Paddox to have a good look at these ancient animals.
+~
+237 5 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23743
+D2
+~
+~
+0 -1 23737
+D7
+~
+~
+0 -1 23739
+S
+#23739
+Stegosaurs Paddox~
+As you look around, you see a lot of half-eaten plants.  This is
+where the Stegosaurs roam.  These mighty beasts pay no attention to
+you for you pose no threat to them.  They just continue on with what
+they were doing before you interupted them.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23742
+D3
+~
+~
+0 -1 23740
+D7
+~
+~
+0 -1 23741
+D8
+~
+~
+0 -1 23738
+S
+#23740
+Stegosaurs Paddox~
+As you look around, you see a lot of half-eaten plants.  This is
+where the Stegosaurs roam.  These mighty beasts pay no attention to
+you for you pose no threat.  They just continue on with what they
+were doing before you intterupted them.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23741
+D1
+~
+~
+0 -1 23739
+D6
+~
+~
+0 -1 23742
+S
+#23741
+Stegosaurs Paddox~
+As you look around, you see a lot of half-eaten plants.  This is 
+where the Stegosaurs roam.  These mighty beasts pay no attention to
+you for you pose no threat to them.  They just continue on with what
+they were doing before you interupted them.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23742
+D2
+~
+~
+0 -1 23740
+D8
+~
+~
+0 -1 23739
+S
+#23742
+Stegosaurs Paddox~
+This is where the Stegosaurs roam.  You see a lot of half-eaten
+plants all around.  The Stegosaurs take one look at you and continue
+on with what they were doing for you pose no threat to them.
+~
+237 1 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 23739
+D3
+~
+~
+0 -1 23741
+D9
+~
+~
+0 -1 23740
+S
+#23743
+Tour Path~
+You just passed the Stegosaur Paddox and are happy that you didn't catch
+that spiked tail with your gut!  You are in total awe at how wonderful
+this park is.  You can't wait to get home to tell your friends, that
+is if you do get home.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23744
+D3
+~
+~
+0 -1 23738
+S
+#23744
+Tour Path~
+You walk along the cutaway dirt road observing all the little compies
+scuttle about, in and out of the jungle.  You smile at the thought
+of being as carefree as those little creatures.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23745
+D3
+~
+~
+0 -1 23743
+S
+#23745
+Tour Path~
+Up ahead you see the Triceratops Paddox.  You wonder how big those
+spikes on their heads really are.  The tour guide says that if you
+leave the path one more time that you'll be kicked out of the park.
+But, since when do you ever listen?
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23746
+D3
+~
+~
+0 -1 23744
+S
+#23746
+Tour Path~
+The Triceratops Paddox is just north of here.  Remember what the tour
+guide said.  The temptation is there though.  You really want to 
+see those Triceratops.  Just let the tour group go on and make it
+look like you got lost!
+~
+237 5 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23748
+D3
+~
+~
+0 -1 23745
+D8
+~
+~
+0 -1 23747
+S
+#23747
+Tour Path~
+You just passed the Triceratops Paddox, barely making it out alive
+with all of your entrails intact.  Those horns are mighty sharp
+and powerful.  You try to calm down and continue on with the
+tour
+~
+237 1 3
+0d0+0 0 0
+D7
+~
+~
+0 -1 23746
+D8
+~
+~
+0 -1 23752
+S
+#23748
+Triceratops Paddox~
+This is much like the Stegosaurus Paddox except that it houses the
+mighty Triceratops.  You look around for them and hope to catch
+a good look at one.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23750
+D2
+~
+~
+0 -1 23746
+D6
+~
+~
+0 -1 23749
+D7
+~
+~
+0 -1 23751
+S
+#23749
+Triceratops Paddox~
+This is much like the Stegosaurus Paddox except that it houses
+the mighty Triceratops.  You look and around in hopes of catching
+a glimpse of one.
+~
+237 1 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 23751
+D7
+~
+~
+0 -1 23750
+D9
+~
+~
+0 -1 23748
+S
+#23750
+Triceratops Paddox~
+This is much like the Stegosaurus Paddox except that it houses
+the mighty Triceratops.  You look around in hopes of catching
+a glimpse of one.
+~
+237 1 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 23748
+D8
+~
+~
+0 -1 23749
+D9
+~
+~
+0 -1 23751
+S
+#23751
+Triceratops Paddox~
+This is much like the Stegosaurus Paddox except that it houses the
+might Triceratops.  You look around in hopes of catching a glimpse
+of one of these animals
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23749
+D6
+~
+~
+0 -1 23750
+D8
+~
+~
+0 -1 23748
+S
+#23752
+Tour Path~
+You feel like things are getting out of hand.  All of these animals
+became extinct for a reason, why should they be back in our modern
+day?  You shrug off your feelings and continue on with the tour.
+~
+237 1 3
+0d0+0 0 0
+D7
+~
+~
+0 -1 23747
+D8
+~
+~
+0 -1 23753
+S
+#23753
+Tour Path~
+The Brontosaurs Paddox is just off to the east.  More scientifically
+speaking, these are Hadrosaurs.  But who really cares when you have
+a chance at seeing the largest creatures that ever roamed freely
+on this planet?
+~
+237 5 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23768
+D2
+~
+~
+0 -1 23754
+D7
+~
+~
+0 -1 23752
+S
+#23754
+Tour Path~
+You just passed the Brontosaurs Paddox and feel peaceful after
+observing those huge animals.  All of a sudden the hair on the
+back of your neck raises as you remember that you haven't
+seen the awesomest predator that ever lived yet.  You tremble
+uncontrolably but continue on anyway.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23753
+D2
+~
+~
+0 -1 23755
+S
+#23755
+No Turning Back~
+Somethig is dreadfully wrong.  Everything electrical looks like it
+is not working.  You want to turn back, but you realize that
+that is now impossible.  There's a strange stench in the air and
+you feel like you are going to throw up.  Your knees grow weak
+and your hands tremble.  You are scared.
+~
+237 12289 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 23756
+S
+#23756
+Chaos~
+Udder and total chaos.  Dinosaurs roam free no longer confined
+to their paddoxs.  You feel like you are going to die.
+~
+237 12289 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23755
+D2
+~
+~
+0 -1 23757
+S
+#23757
+Chaos~
+Udder and total chaos.  The dinosaurs roam free no longer confined to
+thier paddoxs.  You feel like you are going to die.
+~
+237 12289 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23756
+D2
+~
+~
+0 -1 23758
+S
+#23758
+Chaos~
+Udder and total chaos.  You see the effects directly by looking
+to the east.  Maybe that's a way out.  Are you too scared to find
+out?  Go take a look.
+~
+237 12289 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23757
+D1
+~
+~
+0 -1 23772
+D9
+~
+~
+0 -1 23759
+S
+#23759
+Chaos~
+Udder and total chaos.  Dinosaurs roam free no longer confined
+to their paddoxs.  You feel like you are going to die.
+~
+237 12289 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 23760
+D6
+~
+~
+0 -1 23758
+S
+#23760
+Chaos~
+Udder and total chaos.  Dinosaurs roam free no longer confined
+to thier paddoxs.  You feel like you are going to die.
+~
+237 12289 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23759
+D9
+~
+~
+0 -1 23761
+S
+#23761
+Chaos~
+Udder and total chaos.  You look down and notice that the TRex
+paddox seems empty.  You hear the roar of the mighty TRex.  You 
+tremble uncontrolably.  What are you going to do?
+~
+237 12289 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 23762
+D5
+~
+~
+0 -1 23774
+D6
+~
+~
+0 -1 23760
+S
+#23762
+Chaos~
+Udder and total chaos.  You have now lost all sense of direction
+and start to wander around through the jungle wary of hostile
+dinosaurs.  You wonder if you'll make it off this island alive.
+~
+237 12289 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23775
+D2
+~
+~
+0 -1 23762
+D3
+~
+~
+0 -1 23763
+D7
+~
+~
+0 -1 23775
+D9
+~
+~
+0 -1 23762
+S
+#23763
+Chaos~
+Udder and total chaos.  You have now lost all sense of direction
+and start to wander around through the jungle wary of hostile
+dinosaurs.  You wonder if you'll make it off the island alive.
+~
+237 12289 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23761
+D2
+~
+~
+0 -1 23764
+D3
+~
+~
+0 -1 23775
+D7
+~
+~
+0 -1 23775
+D9
+~
+~
+0 -1 23762
+S
+#23764
+Chaos~
+Udder and total chaos.  You have now lost all sense of direction
+and start to wander around through the jungle wary of hostile
+dinosaurs.  You wonder if you'll make it of this island alive.
+~
+237 12289 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23775
+D2
+~
+~
+0 -1 23775
+D3
+~
+~
+0 -1 23775
+D7
+~
+~
+0 -1 23761
+D9
+~
+~
+0 -1 23765
+S
+#23765
+Chaos~
+Udder and total chaos.  You have now lost all sense of direction
+and start to wander around through the jungle wary of hostile
+dinosaurs.  You wonder if you'll make it off this island alive.
+~
+237 12289 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23775
+D2
+~
+~
+0 -1 23775
+D3
+~
+~
+0 -1 23766
+D7
+~
+~
+0 -1 23760
+D9
+~
+~
+0 -1 23775
+S
+#23766
+Chaos~
+It seems that you have found your way out of the jungle as 
+you notice the jungle receding a little.  You feel a sweep of
+relieve come over you and continue on to try to get off the
+island.
+~
+237 12289 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 23767
+S
+#23767
+Chaos~
+You look to the west and see a familiar setting and know that
+that is your way out.  You look up and wonder what exactly is
+up there.  Now your curiosity is getting to you and you must
+decide what to do, leave the island, or go look and see what 
+is up above you.
+~
+237 12289 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 23715
+D4
+~
+~
+0 -1 23762
+S
+#23768
+Brontosaurs Paddox~
+The tallest trees on the island are here in the Brontosaurs Paddox,
+and why shouldn't they be seeing as these were the largest animals
+ever to roam the Earth.  They are very peaceful, eating from the
+tall trees and snuggling with the young.  You feel warm fuzzies
+deep inside your stomach.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23771
+D1
+~
+~
+0 -1 23769
+D3
+~
+~
+0 -1 23753
+D6
+~
+~
+0 -1 23770
+S
+#23769
+Brontosaurs Paddox~
+The tallest trees on the island are here in the Brontosaurs Paddox,
+and why shouldn't they be seeing as these were the largest animals
+to ever roam the Earth.  They are very peaceful, eating from the tall
+trees and snuggling the young.  You feel warm fuzzies deep inside
+of your stomach.
+~
+237 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 23770
+D3
+~
+~
+0 -1 23768
+D7
+~
+~
+0 -1 23771
+S
+#23770
+Brontosaurs Paddox~
+The tallest trees on the island are here in the Brontosaurs Paddox,
+and why shouldn't they be seeing as they were the largest animals
+to ever roam the Earth.  They are very peaceful, eating from the
+tall trees and snuggling the young.  You feel warm fuzzies deep 
+inside your stomach.
+~
+237 1 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 23769
+D3
+~
+~
+0 -1 23771
+D9
+~
+~
+0 -1 23768
+S
+#23771
+Brontosaurs Paddox~
+The tallest trees on the island are here in the Brontosaurs Paddox,
+and why shouldn't they be seeing as these were the largest animals
+to ever roam the Earth.  They are peaceful animals, eating from the
+tall trees and snuggling the young.  You feel warm fuzzies deep in
+your stomach.
+~
+237 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23770
+D2
+~
+~
+0 -1 23768
+D8
+~
+~
+0 -1 23769
+S
+#23772
+Through The Broken Fence~
+You now know how , or rather what broke the fence; Raptors.
+You almost lose control of your bodily functions.  This is
+real fear that you are feeling.
+~
+237 12289 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23773
+D3
+~
+~
+0 -1 23758
+S
+#23773
+Empty Raptor Paddox~
+You breathe a little easier because the raptor paddox looks
+like it is empty.  The foliage here is really thick and
+you wonder if you really are alone.
+~
+237 12289 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 23772
+S
+#23774
+Empty T-Rex Paddox~
+The stench here is awful.  There are little bits of flesh all
+around.  You hear the roar of the mighty TRex and tremble
+uncontrolably and look around for a place to hide.
+~
+237 12289 3
+0d0+0 0 0
+D4
+~
+~
+0 -1 23761
+S
+#23775
+Chaos~
+You stumble and start to roll down a hill.  You try to grab on to
+passing bushes but instead rip them out of the ground.  You come to 
+a cliff and 
+
+fall
+    ...down...
+             ...down...
+                      ...down...
+                               ...down...
+                                        ...down...
+                                                 ...down...
+                                                          ...down...
+
+
+     AND BREAK YOUR NECK!!!!!!!
+So sorry!
+~
+237 24711 3
+1d1+199 90 0
+D5
+~
+~
+0 -1 3001
+S
+#23799
+Park Control Room~
+This is the control room for all of Jurassic Park.  This is were the imms sit
+and observe.  In fact...this is our room...not yours...go away!!!  POII only!
+heh..whatever...I'll work on this later!
+~
+237 14476 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 1204
+S
+$

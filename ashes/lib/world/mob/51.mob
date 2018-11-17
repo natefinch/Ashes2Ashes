@@ -1,0 +1,697 @@
+#5100
+goblin slave~
+the goblin slave~
+A goblin slave stands here begging for mercy.
+~
+A poor, defenseless goblin slave is here begging for mercy. Controlled by the drow master, This slave will do anything for him. 
+~
+4266 0 350 W3
+1 0 9 1d11+30 1d5+0
+0 625
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 10
+~
+#5101
+drow elf dark commoner~
+a drow commoner~
+A drow commoner glares at you as you walk by.
+~
+A common dweller of the drow city stands before you. He is busy doing the every-day things of life as well as being very interested in you. 
+~
+8297 1064 -500 W3
+14 35 5 1d1+200 4d1+5
+1500 9000
+8 8 1
+13 0 13 13 18 13 0
+17 2 2
+50 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 10
+~
+#5102
+drow noble warrior~
+a drow warrior noble~
+A drow warrior noble stands here guarding his home.
+~
+Dressed in fine metals, the drow warrior noble looks like a formadible foe. Standing only about 5'5" in stature, He looks like you might be able to take him. But don't let looks decieve you.
+~
+8297 1064 -1000 W3
+31 35 3 1d1+750 1d1+20
+5000 15000
+8 8 1
+13 0 13 13 18 13 0
+20 2 2
+30 0 4 0 0 0
+20 20 20 20 20
+0 0 0
+6 10
+~
+#5103
+drow mage noble~
+the drow mage noble~
+A drow mage noble is here protecting his home.
+~
+Draped in fine robes, the short elf like creature before you appears to be just a commoner of the area. Tied around his waist is a small belt holding potions and rods of different shapes. This creature looks like he knows how to use his little tricks.
+~
+20717 197640 -1000 W3
+30 20 6 1d1+450 4d1+12
+10000 15000
+8 8 1
+13 0 13 13 13 13 0
+8 2 2
+60 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 10
+~
+#5104
+wolf dark~
+a dark wolf~
+a dark wolf stares you in the eyes.
+~
+This wolf is large with very sharp looking teeth. By herself she looks pretty harmless, but I wouldn't want to run into her with the rest of her pack. 
+~
+8425 1024 -1000 W3
+2 22 10 1d1+30 1d1+3
+20 750
+8 8 2
+13 0 13 13 13 13 0
+4 1 3
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 10
+~
+#5105
+drow master drowmaster~
+a drow master~
+A drow master stares at you angrily.
+~
+The small drow master stands here with his heard of slaves. Armed with a whip and and a whistle around his neck, he looks very dominating of his subjects. If I were you I wouldn't get in his way.
+~
+8234 8 -1000 W3
+28 35 -4 2d12+688 9d3+10
+10000 14000
+8 8 1
+13 0 13 13 13 13 0
+0 1 2
+-40 0 2 0 0 0
+30 30 30 30 30
+0 0 0
+6 10
+~
+#5106
+drow weaponsmaster~
+the weaponsmaster~
+A drow weaponsmaster is here shadow boxing.
+~
+The drow weaponsmaster is among the biggest of the drow common folk. Although armed with weapons and armor, the weaponsmaster is very skilled in the art of boxing. He is a protector of his people and will help anyone in distress.
+~
+12393 136 -1000 W3
+15 35 1 1d14+450 5d1+12
+15000 10000
+8 8 1
+13 0 13 13 13 13 0
+20 2 2
+10 0 4 0 0 0
+60 60 60 60 60
+0 0 0
+6 10
+~
+#5107
+drow matron mother baenre~
+Matron Baenre~
+Matron Baenre is here sitting on her throne smiling evilly.
+~
+You see a withered old drow whose faced is crisscrossed by thousands of 
+spiderly lines.  She looks as if she should have died a long time ago.
+~
+27147 197800 -1000 W3
+80 65 -35 100d5+6500 14d3+50
+50000 75000
+8 8 2
+18 100 13 13 18 13 0
+14 2 2
+-350 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5108
+matron mother K'yorl Odran~
+K'yorl Odran~
+K'yorl Odran the keeper of the 3rd house stands here.
+~
+You see a scrawny, small drow dressed in unremarkable black robes.
+~
+305199 197768 -1000 W3
+160 92 -38 15d10+17000 34d5+68
+20000 65000
+8 8 2
+18 100 13 13 18 13 0
+8 5 2
+-380 13 10 400 20 30
+10 10 10 10 10
+0 0 0
+6 10
+~
+#5109
+yochlol~
+the yochlol~
+The almighty yochlol forms out of a swirling mist and ATTACKS!
+~
+Covered with fuzz thick as wool, and gleaming with bright colors beneath
+its belly, the mighty yochlol towers over you.  With blood dripping from its
+fangs and baby spiders crawling about her body, the yochlol strikes fear 
+into your heart.
+~
+321579 17564810 -1000 W3
+127 82 -34 1d1+12000 12d5+78
+381000 100000
+8 8 2
+18 100 18 18 18 13 0
+13 5 0
+-340 0 6 0 200 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#5110
+protector~
+Protector of the Tunnel~
+The Protector is here guarding the tunnel.
+~
+Before you stands the octupus-headed adivsor to Matron Baenre.  He is wearing
+a rich crimson robe with long sleeves in order to keep his scrawny, three-
+clawed hands from sight.
+~
+26667 197792 -1000 W3
+60 65 -35 60d4+3000 14d2+45
+80000 70000
+8 8 1
+13 0 13 13 13 13 0
+8 2 2
+-350 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#5111
+drow bladen kerst bladenkerst~
+Bladen'Kerst~
+Bladen'Kerst is standing here waiting for her next torture victim.
+~
+Standing before you is a beautiful, yet deadly drow.  You see a sadistic look
+in her eyes.
+~
+27147 1192 -1000 W3
+60 65 -37 1d1+10000 12d2+70
+70000 70000
+8 8 2
+13 0 13 13 13 13 0
+18 2 2
+-370 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#5112
+jarlaxle drow~
+Jarlaxle~
+Jarlaxle, the leader of Bregan D'aerthe
+~
+Before you stand a tall, bald, smooth skinned drow.  He seems to be smiling
+evilly at you.
+~
+326415 536872104 -345 W3
+125 87 -60 100d3+9000 22d5+60
+20000 75000
+8 8 1
+18 100 13 13 18 13 0
+18 2 2
+-600 9 8 100 25 40
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5113
+drow matron mother triel~
+Triel Baenre~
+Triel Baenre, the matron mistress of Arach-Tinilith, is standing here.
+~
+You see a short, yet very dangerous drow staring back at you.  She is dressed
+in the finest black silk robes.
+~
+26667 132232 -1000 W3
+95 70 -39 100d3+6900 10d5+70
+200000 76000
+8 8 2
+18 100 13 13 18 13 0
+16 2 2
+-390 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#5114
+drow warrior dantrag~
+Dantrag Baenre~
+Dantrag Baenre, the weapon master of House Baenre, is standing here.
+~
+You see a tall, handsome drow fighter before you.  He has a lean body with 
+finely tuned muscles.  His white hair is pulled back into a ponytail.
+~
+26667 1160 -1000 W3
+118 72 -12 15d10+9000 6d3+48
+70000 90000
+8 8 1
+18 100 13 13 18 13 0
+20 2 2
+-120 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#5115
+drow warrior uthegental~
+Uthegental~
+Uthegental, the weapon master of House Barrison Del'Armgo, is standing here.
+~
+You see a handsome, tall drow.  He has a lean body with finely tuned muscles.
+~
+26667 1160 -1000 W3
+60 30 -10 20d5+4500 8d1+30
+60000 64000
+8 8 1
+18 100 13 13 18 13 0
+20 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#5116
+drow matron mother faen tlabbar~
+Matron Faen Tlabbar~
+Matron Faen Tlabbar, matron mother of the fourth house, is standing here.
+~
+You see a beautiful, strong dark elf.  She is wearing crimson robes with
+spider markings all over them.
+~
+321579 66696 -1000 W3
+95 60 -7 20d5+3800 10d2+35
+285000 80000
+8 8 2
+18 0 13 13 18 13 0
+10 2 2
+-70 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#5117
+Sos'Umptu~
+Sos'Umptu~
+Sos'Umptu, the caretaker of the Baenre chapel, is standing here.
+~
+Before you stands an evil looking drow dressed in the robes of the spider
+queen Lloth.
+~
+57387 1192 -1000 W3
+80 67 -50 50d3+7000 8d1+40
+240000 67000
+8 8 2
+18 0 13 13 18 13 0
+18 2 2
+-500 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#5118
+drow mage gromph~
+Gromph~
+Gromph.............
+~
+~
+26667 197800 -1000 W3
+92 60 -12 100d10+5500 10d1+49
+276000 250000
+8 8 1
+18 100 13 13 18 13 0
+8 2 2
+-120 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#5119
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#5124
+matron mother drow armgo mez barris~
+Matron Mez'Barris Armgo~
+Mez'Barris Armgo is standing here awaiting you.
+~
+You see before you a strong, powerful looking female drow.  She is dressed in
+black flowing robes.
+~
+288779 197760 -1000 W3
+98 68 -40 20d10+6500 12d4+50
+150000 80000
+8 8 2
+18 100 13 13 18 13 0
+7 2 2
+-400 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#5130
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#5140
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#5141
+The Water Boy~
+the Water Boy~
+The Water Boy stands here with a towel on his shoulder.
+~
+A very tired looking middle aged person stands before you. It appears this guy has worked every major sporting event there is. he is not a strong looking guy, but he sure does know his water.
+~
+262154 16777344 400 W3
+87 20 -2 1d1+10000 5d5+15
+261000 70000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-20 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5145
+The bagger~
+the bagger~
+The bagger stands here bagging goods.
+~
+A short female trying to earn a little money is here bagging goods.  She seems to be very helpful and greets you with a big smile.
+~
+8202 16777216 300 W3
+44 35 -20 1d1+25000 2d4+15
+132000 90000
+8 8 2
+13 0 13 13 13 13 0
+0 5 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5148
+Shindar the Armorer~
+Shindar the Armorer~
+Shindar the Armorer stands here.
+~
+A stout individual with deep eye sockets stands behind the counter, waiting for your business. 
+~
+286730 16777344 750 W3
+102 70 -40 1d1+30000 6d3+30
+306000 100000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-400 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5149
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#5150
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#5154
+~
+~
+
+~
+~
+303114 16777344 -300 W3
+0 40 -20 1d1+27000 10d10+50
+0 410000
+8 8 0
+13 0 13 13 13 13 0
+0 2 2
+-200 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#5155
+~
+~
+The Statistician stands here.
+~
+~
+270346 16777344 250 W3
+109 40 -10 14d14+20000 5d5+35
+327000 250000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5156
+Charion the Chef~
+Charion the Chef~
+Charion the Chef stands here.
+~
+Charion the chef of the Drow commons is busy making food for his customers. Dressed in a tight chef's suit, Charion is cutting bread to sell.
+~
+303178 8388736 250 W3
+76 80 -10 1d1+30000 5d5+25
+228000 90000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5157
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#5158
+Morgar the Magician~
+Morgar the Magician~
+Morgar the shopkeeper, is standing here.
+~
+Draped in elaborate robes, Morgar the shopkeeper, stands behind his counter waiting to assist you. He is a short creature of unknown descent. surrounding him is a bright aura that is unknown to you. He greets you with a friendly "Hello."
+~
+311304 136 200 W3
+90 80 -10 1d1+30000 6d2+30
+270000 100000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-100 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5159
+Windor the Wicked Warrior~
+Windor the Wicked Warrior~
+Windor the shopkeeper, stands here.
+~
+Here before you stands a very stout individual. Windor is the shopkeeper of the Drow commons and can assist you in obtaining valuable goods. He greets you with a smile and asks if he can help you with anything.
+~
+294986 128 200 W3
+71 80 5 1d1+30000 5d14+30
+213000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 3 2
+50 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5160
+~
+~
+
+~
+~
+303114 16777344 100 W3
+92 25 -5 1d1+6500 9d3+35
+0 75000
+6 6 0
+13 0 13 13 13 13 0
+0 5 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5166
+~
+~
+
+~
+~
+2058 0 450 W3
+36 14 2 1d1+1523 8d1+10
+500 35000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#5180
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#5190
+~
+~
+~
+~
+16460 16777344 -500 W3
+25 22 -5 1d1+3 0d0+0
+0 1000000
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+-50 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#5192
+statistician~
+the Statistician~
+The Statistician stands here.
+~
+This man is wise beyond his years. Blessed with unknown powers, he can alter
+the very physical attributes of a character with a twitch of a finger.  He
+is surrounded by an ungodly aura that seems to protect him from all evil doings
+~
+262155 16777344 340 W3
+75 80 2 1d1+30000 6d2+18
+200000 110000
+8 8 0
+13 0 13 13 13 13 0
+19 2 2
+20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

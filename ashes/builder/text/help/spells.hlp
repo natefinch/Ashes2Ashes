@@ -1,0 +1,1970 @@
+WARRIOR FIGHTER
+ Warriors are known to have more strength than the average player. This 
+makes them better at hand-to-hand-combat, as they posess skills of violence
+and fighting unequaled by the members of any other class. However, they lack 
+the ability to use magic of any sort. The most important stat for a 
+warrior is str, followed by con.
+
+They have the following:
+SKILL           |  LEVEL
+------------------------
+kick            |    1
+bash            |    6
+healwounds      |   14
+rescue          |   16
+double          |   19
+berserk         |   25
+grapple         |   32
+triple          |   45
+hurl            |   66
+quad            |   80
+
+See also: PRACTICE STATS
+#
+THIEF
+ Thieves have unique and devious skills such as picking locks and 
+backstabbing. They can hold a second weapon and get one attack with it in 
+addition to their normal combat, however the weapon must be a stabbing 
+weapon as the first one must be for many combat related skills. The most 
+important stat for a thief is dex, followed by str.
+
+They have the following:
+SKILL           |  LEVEL
+------------------------
+sneak           |    1
+steal           |    2
+hide            |    3
+backstab        |    4
+pick lock       |   14
+healwounds      |   16
+circle          |   20
+redirect        |   31
+disarm          |   44
+dodge           |   56
+poisonblade     |   65
+dual backstab   |   72
+gouge           |   77
+
+See also: PRACTICE STATS
+#
+CLERIC
+ Clerics have an ancient belief in not carrying sharp weapons. Hence, 
+they can only wield bludgeoning weapons. This class gives you the wisdom 
+of peace, protection, and healing, though it is possible to learn more 
+violent spells. The most important stat for a cleric is wis, followed by int.
+
+They have the following:
+SPELL                  |  LEVEL
+-------------------------------
+cure light             |    1
+armor                  |    2
+detect poison          |    3
+detect magic           |    4
+cure blind             |    5
+detect alignment       |    6
+bless                  |    7
+cure serious           |    8
+detect invisibility    |    9
+create water           |   10
+blindness              |   11
+earthquake             |   12
+sense life             |   13
+create food            |   14
+summon                 |   15
+cure critical          |   16
+remove poison          |   17
+dispel evil            |   18
+dispel good            |   18
+poison                 |   19
+control weather        |   20
+aid                    |   21
+locate object          |   22
+revitalize             |   23
+call lightning         |   24
+word of recall         |   25
+remove curse           |   26
+rejuvenate             |   27
+protection from evil   |   28
+protection from good   |   28
+group armor            |   29
+heal                   |   31
+harm                   |   32
+sanctuary              |   33
+animate dead           |   35
+infravision            |   37
+calm                   |   40
+cure disease           |   42
+power heal             |   45
+flamestrike            |   46
+group rejuvenate       |   48
+group heal             |   52
+relocate               |   56
+group recall           |   64
+restore                |   66  (see help restore spell)
+implosion              |   67
+group power heal       |   72
+divine protection      |   75
+battle recall          |   77
+group sanctuary        |   80
+group summon           |   85
+
+See also: PRACTICE STATS
+#
+"MAGIC USER" WIZARD MAGE
+ This is the class of powerful and violent magic, but the magic user does 
+not control the nature, and can therefore not bless and such. The most 
+important stat for a mage is int, followed by wis.
+
+They have the following:
+SPELL                |  LEVEL
+-----------------------------
+magic missile        |    1
+detect magic         |    3
+detect invisibility  |    5
+invisibility         |    6
+armor                |    8
+burning hands        |    9
+locate object        |   11
+strength             |   13
+teleport             |   14
+magic light          |   15
+blindness            |   16
+chill touch          |   17
+control weather      |   18
+sleep                |   19
+infravision          |   20
+energy drain         |   21
+identify             |   23
+memorize             |   24
+shocking grasp       |   25
+curse                |   26
+charm person         |   27
+color spray          |   29
+spell shield         |   30
+enchant weapon       |   32
+cone of cold         |   33
+rejuvenate           |   35
+group infravision    |   38
+lightning bolt       |   41
+group armor          |   42
+teleport no error    |   43
+ice storm            |   45
+group invisibility   |   47
+fireball             |   49
+magic shield         |   52
+lower resistance     |   54
+waterwalk            |   57
+group rejuvenate     |   59
+remember             |   62
+haste                |   64
+limited wish         |   67
+amnesia              |   72
+word of death        |   75
+
+See also: PRACTICE STATS
+#
+PALADIN
+ The paladin is a holy warrior dedicated to the service of a good-aligned
+deity. Trained as a fighter, as they progress in levels, they gain a limited
+access to clerical spells due to their devotion to their god or goddess.
+A paladin may not be of evil alignment, and is charged with the upholding
+of law, order, justice, and the protection of good. Int and wis are 
+important for a paladin's spell casting, str is important for fighting, 
+dex is important for ac, and con is important for hp. Since paladins can 
+cast, fight, and tank, they depend on many stats. Choose yours based on 
+how you want to use your paladin.
+
+They have the following:
+SKILL/SPELL          |  LEVEL
+-----------------------------
+kick                 |    1
+remove poison        |    2
+cure light           |    5
+armor                |    6
+detect poison        |    7
+bash                 |    8
+detect magic         |   10
+create water         |   11
+cure blind           |   12
+bless                |   13
+rescue               |   14
+cure serious         |   15
+create food          |   16
+detect invisibility  |   17
+earthquake           |   18
+sense life           |   19
+summon               |   20
+aid                  |   22
+cure critical        |   23
+double               |   26
+remove curse         |   27
+dispel evil          |   28
+word of recall       |   30
+protection from evil |   32
+cure disease         |   34
+rejuvenate           |   36
+heal                 |   38
+holy word            |   40
+infravision          |   42
+sanctuary            |   45
+calm                 |   48
+group rejuvenate     |   53
+waterwalk            |   60
+group heal           |   66
+power heal           |   68
+group power heal     |   80
+
+See also: PRACTICE STATS
+#
+APAL ANTIPALADIN
+ The antipaladin is the direct opposite of the paladin. An unholy warrior
+dedicated to the service of an evil-aligned deity, antipaladins are trained
+as fighters, but as they progress in levels, gain a limited access to mage
+spells due to the power of their god or goddess. An antipaladin may not be
+of good alignment, and must try to promote evil, disorder, and injustice. 
+Int and wis are important for spell casting, and str is importat for 
+fighting. Unlike paladins, who can also be tanks, antipaladins more often 
+are attacking characters and don't need to worry about dex and con as much.
+
+They have the following:
+SKILL/SPELL          |  LEVEL
+-----------------------------
+kick                 |    1
+magic missile        |    5
+armor                |    6
+bash                 |    8
+detect invisibility  |    9
+detect magic         |   10
+invisibility         |   11
+burning hands        |   15
+healwounds           |   16
+blindness            |   17
+earthquake           |   18
+locate object        |   19
+strength             |   20
+rescue               |   21
+color spray          |   22
+poison               |   23
+chill touch          |   24
+infravision          |   25
+double               |   26
+sleep                |   27
+dispel good          |   28
+energy drain         |   29
+curse                |   30
+protection from good |   32
+shocking grasp       |   33
+rejuvenate           |   36
+unholy word          |   40
+cone of cold         |   45
+harm                 |   47
+lightning bolt       |   54
+fireball             |   61
+group rejuvenate     |   63
+flamestrike          |   66
+slow                 |   75
+
+See also: PRACTICE STATS
+#
+RANGER
+ The ranger is a warrior born and raised to live in the wilderness, away
+from civilization. As they progress in levels, they improve in their survival
+skills and ability to interact with the environment. A ranger feels very
+strongly linked to nature, and will work to oppose any damage to it. 
+Their most important stat for a ranger is str, followed by dex.
+
+They have the following:
+SKILL           |  LEVEL
+------------------------
+forage          |    1
+divine drink    |    3
+filet           |   10
+healwounds      |   14
+camouflage      |   16
+silentwalk      |   18
+scan            |   21
+skin            |   24
+befriend        |   31
+swim            |   35
+stuntouch       |   40
+snare           |   45
+track           |   50
+whirlwind       |   56
+double          |   66
+
+See also: PRACTICE STATS
+#
+MONK
+ A monk is a highly skilled fighter. They get their power from training 
+rather than strength. They do serious damage with their bare hands, doing 
+more than any weapon could at high level. They also gain protection 
+through their training, becoming harder and harder to hit as they 
+advance. They cannot use much of the equipment that others can because 
+they concentrate on their own physical abilities rather than the use and 
+abilities of equipment. They cannot use any type of armor. The most 
+important stat for a monk is dex, as it determines their ac gain as they 
+level and is important for skills. Second most important is con.
+
+They have the following:
+SKILL           |  LEVEL
+------------------------
+kick            |    1
+sneak           |    8
+healwounds      |   14
+dive            |   20
+double          |   26
+featherfoot     |   33
+dodge           |   41
+throw           |   47
+disarm          |   54
+disrupt         |   60
+triple          |   66
+mindcloud       |   74
+
+See also: PRACTICE STATS
+#
+PSIONICIST
+This class is not available yet, but it will be soon.
+
+ Psionicists use their mental and biological power to bend reality to
+their will. Unlike magic, psionic power comes from inside, from the
+strength of mind and body. They are not good at combat, although they can
+use some weapons and armor. The most important stats for a psionicist are
+wis and con, followed closely by int.
+
+They have the following:
+SKILL                |  LEVEL
+-----------------------------
+ego whip             |    1
+biofeedback          |    3
+lend health          |    6
+adrenalin control    |    9
+life detection       |   12
+telekinesis          |   15
+ballistic attack     |   17
+chameleon power      |   20
+body weaponry        |   23
+domination           |   26
+psychic crush        |   28
+cell adjustment      |   31
+graft weapon         |   33
+flesh armor          |   35
+danger sense         |   38
+remember             |   40
+probability travel   |   41
+molecular agitation  |   44
+cannibalize          |   47
+dimension door       |   50
+life draining        |   53
+feel light           |   56
+psionic blast        |   59
+energy containment   |   62
+metamorphosis        |   65
+displacement         |   67
+clairvoyance         |   70
+disintegrate         |   73
+complete healing     |   76
+split personality    |   79
+stasis field         |   82
+death field          |   85
+magnify              |   88
+
+See also: PRACTICE STATS CONTINUOUS DISCONTINUE
+#
+CONTINUOUS
+
+
+Usage: continuous
+
+This command will display all continuous effects you are maintaining.
+
+See also: DISCONTINUE
+#
+DISCONTINUE
+
+Usage: discontinue <number | name | all>
+
+This command will let you discontinue a spell effect that you see
+in the continuous list. You can discontinue an effect by number or
+name, or discontinue all effects.
+
+See also: CONTINUOUS
+#
+"EGO WHIP"
+
+Usage      : egowhip <victim>
+Cost       : 30 mana
+Maintenance: na
+
+Ego whip will attack the victim's ego, doing 2d4+level/5 damage, and
+keeping them from using any skills or spells for 1-2 rounds if they
+fail a save vs. paralization.
+#
+BIOFEEDBACK
+
+Usage      : biofeedback
+Cost       : 40 mana, 10 move
+Maintenance: 3 mana
+
+Biofeedback will lets you control the flow of blood in your body, giving
+you a 10 ac bonus and preventing up to 10 points of damage per round.
+#
+"ADRENALIN CONTROL"
+
+Usage      : adrenalincontrol [stat list]
+Cost       : 50 mana
+Maintenance: 4 mana
+
+Adrenalin control lets you increase your str, dex, and con. You will
+get between 1 and 6 points to place. You specify where you want each
+point to go with the stat list. You use the first letter of each stat
+in sequence to control which stat is increased with each point.
+For example:
+adrenalincontrol ccssdc
+will use the first point to incread your con. The second point, if you
+get at least 2, will also increase your con. The third point will increase
+your strength, as will the 4th. The 5th point will increase your dex,
+and the 6th point will increase your con.
+#
+"LIFE DETECTION"
+
+Usage      : lifedetection
+Cost       : 25 mana, 10 move
+Maintenance: 3 mana
+
+Life detection, as the name implies, will let you sense life forms
+by their minds, despite their being hidden physically.
+#
+"LEND HEALTH"
+
+Usage      : lend health <victim> <amount>
+Cost       : 30 mana
+Maintenance: na
+
+Lend health will transfer the number of hitpoints you specify from
+you to the victim. You cannot transfer more than you have or more than
+they need.
+#
+TELEKINESIS
+
+Usage      : telekinesis <object>
+Cost       : 25 mana, 15 move
+Maintenance: 1 mana per 20 lbs.
+
+Telekinesis lets you pick objects with your mind when they are too
+heavy or you are carrying too many items. The item must be on the
+ground in the room with you.
+#
+"BALLISTIC ATTACK"
+
+Usage      : ballisticattack <victim> <object>
+Cost       : 35 mana, 10 move
+Maintenance: na
+
+Ballistic attack uses a different form of telekinesis to hurl an
+object at someone. If the object is a weapon that hits, slashes, or
+pierces, it will do 3 times it's normal weapon damage, otherwise
+it will do 5d6 damage. The item ends up in the victim's inventory.
+#
+CHAMELEON POWER
+
+Usage      : chameleonpower
+Cost       : 55 mana, 20 hp
+Maintenance: 4 mana
+
+Using this power your body will take on coloration to match your
+environment. You will be able to move without detection and hide
+by standing still. Each time you do something you will be visible
+for a few seconds as your body adjusts.
+#
+BODY WEAPONRY
+
+Usage      : bodyweaponry
+Cost       : 40 mana
+Maintenance: 3 mana
+
+This powers will shape your hand into a piercing weapon that does
+5d6 damage and give you 4 hitroll. Naturaly you must not be wielding
+a weapon if you want to use this power.
+#
+DOMINATION
+
+Usage      : domination <victim>
+Cost       : 50 mana
+Maintenance: 4 mana
+
+Domination will break the victim's will and put them under your control.
+#
+"PSYCHIC CRUSH"
+
+Usage      : psychiccrush <victim>
+Cost       : 45 mana
+Maintenance: na
+
+Psychic crush will attack the victim's mind for 1d8 damage for every
+5 levels of the psionicist.
+#
+"CELL ADJUSTMENT"
+
+Usage      : celladjustment <victim>
+Cost       : 35 mana
+Maintenance: 15 mana
+
+Cell adjustment will heal the victim 20 hp for every round it is
+active. It will also cure disease in the victim when it is first
+activated.
+#
+"GRAFT WEAPON"
+
+Usage      : graftweapon
+Cost       : 55 mana, 20 hp
+Maintenance: 1 mana
+
+Graft weapon will fuse the weapon you are wielding with your hand,
+giving you a +2 bonus to hitroll and damroll.
+#
+"FLESH ARMOR"
+
+Usage      : flesharmor
+Cost       : 50 mana, 15 hp
+Maintenance: 4 mana
+
+Flesh armor will make you skin very tough. How tough depends on how
+well you execute the power. It can give you between -5 and -40 ac.
+#
+DISPLACEMENT
+
+Usage      : displacement
+Cost       : 40 mana, 15 move
+Maintenance: 3 mana
+
+Displacement will project your image up to 3 feet away from your
+body, making you hard to attack. This gives -20 to your ac.
+#
+"DANGER SENSE"
+
+Usage      : dangersense
+Cost       : 30 mana, 10 move
+Maintenance: 2 mana
+
+Danger sense will warn you if there are death traps or agro mobs near
+and will tell you the direction. This sense happens every 2 seconds
+while you are continuing the power, so be careful not to move too fast.
+#
+"PROBABILITY TRAVEL"
+
+Usage      : probabilitytravel <location>
+Cost       : 100 mana
+Maintenance: na
+
+Probability travel will allow you to travel the astral plane to a
+location which you have remembered, thus ariving almost instantly.
+Location must be the number of a memory slot that you have available.
+
+See also: remember
+#
+"MOLECULAR AGITATION"
+
+Usage      : molecularagitation <victim>
+Cost       : 45 mana, 5 hp
+Maintenance: 5 mana
+
+Molecular agitation will slowly heat up a portion of the victim,
+causing more and more damage. Because it only heats a portion of
+the victim, you can use it more than one time on the same victim
+at the same time. The first round it will do 1d4 damage, then 2d4,
+then 3d4, up to a maximum of 10d4 each round.
+#
+CANNIBALIZE
+
+Usage      : cannibalize
+Cost       : 100 hp
+Maintenance: na
+
+Cannibalize will take 100 hp and convert it into 50 mana. You can go
+above your normal maximum but it will only last until the next tick.
+You will have -100 maxhit for 24 hours.
+#
+"DIMENSION DOOR"
+
+Usage      : dimensiondoor <location>
+Cost       : 105 mana, 15 move, 5 hp
+Maintenance: 2 mana
+
+Dimension door will open a portal to a location you have remembered.
+Anyone can enter the portal (by typing "enter"), from either side,
+as long as you continue the power. Location must be the number of
+a memory slot that you have available.
+#
+"LIFE DRAINING"
+
+Usage      : lifedraining <target>
+Cost       : 60 mana, 5 move
+Maintenance: 5 mana
+
+Life draining will take 5d6 hp from the target each round and give
+it to you as long as you are below your max.
+#
+"FEEL LIGHT"
+
+Usage      : feellight
+Cost       : 45 mana, 10 hp
+Maintenance: 1 mana
+
+Feel light lets you see even though you're blinded. It does not
+prevent negative affects of blindness such as -ac.
+#
+"PSIONIC BLAST"
+Usage      : psionicblast <target>
+Cost       : 55 mana, 10 hp
+Maintenance: na
+
+Psionic blast will do 1d12 damage to the target for every 5 levels
+of the psionicist and stun the target for 1 or 2 rounds if they fail
+a saving throw vs. paralization.
+#
+"ENERGY CONTAINMENT"
+
+Usage      : energycontainment
+Cost       : 55 mana, 5 move, 10 hp
+Maintenance: 5 mana
+
+Energy containment will allow you a saving throw for half of any
+fire, ice, or energy or energy damage. It is not cumulative with
+sanc, spell shield, or magic shield. The damage absorbed is converted
+into light, so the more energy containment helps you, the longer
+you will glow after.
+#
+METAMORPHOSIS
+
+Usage      : metamorphosis <bear | cat | reptile>
+Cost       : 105 mana, 25 move, 25 hp
+Maintenance: 3 mana
+
+Metamorphosis will transform you into a different creature, increasing
+your combat ability. You must specify one of the listed forms:
+
+Form      | Damroll | Hitroll | Extra attacks | Armor
+-----------------------------------------------------
+Bear      |   25    |    5    |      1        | -10
+Cat       |   10    |   15    |      2        | -5
+Reptile   |    5    |   10    |      1        | -20
+
+At first you can only use the bear transformation. You get the
+reptile transformation at level 70, and the cat transformation at
+level 76. These levels are affected by multiclassing just as
+skill levels are.
+#
+"COMPLETE HEALING"
+
+Usage      : completehealing
+Cost       : 145 mana, 50 move
+Maintenance: na
+
+Complete healing will put you in a trance during which your body will
+regenerate. This means you will be in a stunned state for 60 seconds
+of real time or until you are attacked. When you awaken you will have
+full hp and be cured of disease and poison. If you are attacked before
+the healing finishes, you will only have gained about one half the hit
+points you would expect for the time you were in the trance (if you
+are attacked half way though, you will have gained 1/4 of the hp you
+needed). If you are attacked before half of the trance is complete,
+you will not be cured of poison or disease.
+#
+CLAIRVOYANCE
+
+Usage      : clairvoyance <location> [target]
+Cost       : 55 mana + 10 mana per room distance
+Maintenance: na
+
+Clairvoyance lets you look as if you were in a distant room.
+If you specify a target, you will try to look at that mob or
+object in the room, otherwise you will just look at the room.
+You give the location through a string of directions.
+The letters you use for each direction are: north - n, south - s,
+east - e, west - w, up - u, down - d, northwest - h, northeast - i,
+southwest - k, southeast - l.
+So, to look at a fido just outide the magic shop while standing
+in the temple, you would type: clairvoyance sssww fido.
+This would cost 105 mana. You must pay the cost, even if your
+target isn't in the room you expect it to be in.
+#
+DISINTEGRATE
+
+Usage      : disintegrate
+Cost       : 130 mana, 10 move, 50 hp
+Maintenance: na
+
+Disintegrate it a psionicist's most powerful damage skill. It will
+instantly kill anything 2/3 you level or lower that has fewer
+maximum hit points than you. Against anything it else, it will do
+1d200+500 damage.
+#
+"SPLIT PERSONALITY"
+
+Usage      : splitpersonality
+Cost       : 155 mana, 10 hp
+Maintenance: 6 mana
+
+Split personality will split your mind, allowing you to use two
+psionic powers each round, rather than one.
+#
+"STASIS FIELD"
+
+Usage      : stasisfield
+Cost       : 100 mana, 20 move
+Maintenance: 20 mana
+
+Stasis field will slow down time in the room you're in. This causes
+fire, ice, and energy attacks to become totaly useless, causing no
+damage. Blunt attacks cause 1/4 damage, slashing attacks cause 1/3
+damage, and piercing attacks cause 1/2 damage. This affects everyone
+in the room. If you leave the room while continuing stasis field,
+the maintenance rises to 60 mana.
+#
+"DEATH FIELD"
+
+Usage      : deathfield <hp>
+Cost       : 155 mana, 40 move
+Maintenance: na
+
+Death field will damage everyone in the room that you are capable
+of damaging. You specify how many hit points you want to sacrifice,
+and that is how much damage you do to everyone. Each victim has
+a one in five chance of figuring out that you damaged them and
+attacking you.
+#
+MAGNIFY
+
+Usage      : magnify
+Cost       : 175 mana, 30 move, 30 hp
+Maintenance: 5 mana
+
+Magnify will double the power of 1 to 3 psionic powers before it
+turns itself off. It can double more powers if you are using split
+personality and use them rapidly. The powers affected by magnify,
+and it's affects are:
+adrenalin control   - double the number of points, but also double maintenance
+ballistic attack    - double damage
+complete healing    - half the time to heal completely
+death field         - double damage
+disintegrate        - double damage
+ego whip            - double damage
+molecular agitation - it starts damaging at 5d4 rather than 1d5
+psionic blast       - double damage
+psychic crush       - double damage
+#
+"HOLY WORD"
+
+Paladin
+Usage       :cast 'holy word'
+Accumulative: No
+Duration    : 3 hours
+
+This spell gives level/20 +1 more damage. Damage does not show on ID, but is
+automatically calculated during damage.
+
+See also: -
+
+#
+HURL
+
+This skill gives warriors the ability to do damage to their opponents by 
+slamming them into the floor or litterally tossing them out of the room. 
+The skill itself does (level/4) damage when it is used. There is also a 
+75% chance that the mob will be slammed into the ground and a 25% chance 
+that the mob will be thrown out of the room.
+
+See also: -
+ 
+#
+SLOW
+
+Antipaladin
+Usage       : cast 'slow' <target>
+Accumulative: No
+Duration    : 3
+
+This spell allows the caster to use magical energies to overcome multiple 
+attacks from the same foe. It reduces the mob or assassin player's chance 
+of 
+using each attack by %50, and affects its hitroll by -4.  Slow does not
+affect magical attacks. Monks are also unaffected by slow.
+
+See also: -
+
+#
+IMPLOSION
+
+Usage       : cast 'implosion'
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 67 cleric.
+Save        : -
+
+This spell will do damage to everyone in the room but the caster and their
+charmies based on the following formula: dam = 3*(1d8+level/2)
+
+See Also: -
+
+#
+WHIRLWIND
+Rangers.
+
+Whirldwind hits everyone in the room except those in the group. The cost is 20
+move with a 3 round delay, or 10 move and a 1 round delay if it fails.
+
+#
+POISONBLADE
+Thieves.
+
+This is a skill which can increase the amount of damage which your 
+attacks will do. While using a poisonbladed weapon, you not only have a 
+chance to do additional damage but there is also a chance to poison the 
+victim. Poison will last 25-40 hits at level 100, fewer at lower levels
+proportionaly.
+
+See also: POISON
+#
+UNHOLY WORD "UNHOLY WORD"
+AntiPaladin
+
+Usage: cast 'unholy word' 
+Accumulative: No
+Duration: 4
+
+Unholy word gives anti paladins 1+level/20 damage.
+This damage is not shown in the actual stats of a player when displayed
+with an ID scroll. It is done by the code when damage is being calculated.
+
+See also: -
+
+#
+"GROUP SANCTUARY" GSANCT GSANCTUARY
+Usage       : cast 'group sanctuary' 
+Accumulative: No
+Duration    : 4 hours
+
+Group Sanctuary is like Sanctuary but it affects the whole group instead 
+of just yourself.
+
+See Also: Sanctuary
+
+#
+REDIRECT
+
+With this skill, a thief can change which mob he is attacking.  If you 
+are attacking a mob, and a low hp, but hard-hitting mob walks in, it 
+might be wise to redirect your attacking to the harder hitter, and kill 
+it off fast.
+
+> redirect karen
+
+#
+HASTE
+
+Usage       : cast 'haste'
+Accumulative: No
+Duration    : 4
+
+This spell allows mages to move slightly faster than normal, thus giving
+them a chance to have more than one attack per round.  This does not,
+however, allow them to cast two spells in a round, or to use two wands,
+etc.  This only affects how many attacks you get.
+
+#
+"ICE STORM"
+
+Usage       : cast 'ice storm'
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 45 magic user.
+Save        : Versus spell for half damage.
+
+This spell will hit everyone in the room but the caster and his/her charmies
+for 5d8 + level/2 damage.
+
+#
+Disarm
+
+With this skill, a thief can knock an opponent's weapon out of his hands.
+When you knock the weapon out of a monster's hands, it goes to the 
+inventory, but when a mob disarms you, your weapon will go to the ground.
+
+Note:  Picking up a person's disarmed weapon, and not giving it back will
+be treated as player stealing.
+
+> disarm jupiter
+
+#
+"DUAL BACKSTAB"
+
+This skills allows you to backstab the victim with both weapons, providing
+they are both piercing weapons. You will not be able to do other actions
+for 2 rounds, just like with backstab.
+
+
+> dual glum
+
+#
+Memorize
+Usage: memorzie scroll
+
+With this skill a master of magic can go beyond the basic school of
+magic taught in today's modern world.  They may transfer ancient and
+lost spells from scrolls into their permenant spell list.
+
+#
+Swim
+Ranger
+Usage: automatic
+
+Using this skill a ranger can go into an area where an boat is normally
+required.
+
+See also: -
+#
+Forage
+Rangers
+Usage:type forage
+
+Using this skill a ranger will look for berries in the wilderness.
+
+See also: -
+#
+Divine
+Rangers
+Usage: type divine <container>
+
+This skill is like the create water spell, it needs to be used on
+a water container in the wilderness.  
+
+See also:-
+#
+Camouflage
+Rangers
+Usage: type camouflage
+
+This skill is like the thief's hide skill, but it can only be used
+in the wilderness.  
+
+See also: -
+#
+Silentwalk
+Rangers 
+Usage: type silentwalk
+
+This is like the thief's sneak skill, but it can only be used in the 
+wilderness for level/2 hours.
+
+See also: -
+#
+Scan
+Rangers
+Usage: type scan
+
+The ranger will be able to see what mobs or players are in surrounding 
+rooms.
+
+See also: -
+#
+Filet
+Rangers
+Usage: type filet corpse
+
+The ranger will be able to make a steak from a corpse.  You can not
+filet a player corpse.
+
+See also: -
+#
+Skin
+Rangers
+Usage: type skin corpse
+
+This skill will let the ranger take a corpse and make a random piece of 
+armor from it.  This armor can not be a ring, light, holdable or weapon.
+The AC of the armor will be 2+(level of ranger/20).  You can not skin
+a player corpse.
+
+See also: -
+#
+Befriend
+Rangers
+Usage: type befriend <victim>
+
+This skill is much like the mage spell charm, it will let you charm up to 
+your level in mob levels.  If you are a 30th level ranger you can charm 
+up to 30 levels in mobs.
+
+See also:
+#
+Stuntouch
+Rangers
+Usage:type stun touch <victim>
+
+Using this skill in battle will cause you to try and stun your opponent.
+The length of the stun depends on your level.
+
+                LEVEL                   Length of stun (rounds)
+                1-39                            1
+                40-79                          1d2
+                80-100                         1d3
+
+Stun will keep the victim from attacking for a number of rounds, and
+the victim will take extra damage from all attacks for all but the
+last round of the stun.
+
+Whether or not you actually stun your opponent, you will not be able to 
+do any special attacks for the next 4 rounds.
+
+See also: -
+#
+Wilderness
+
+A wilderness is either a forest, hills, plains, or mountain area.
+
+#
+Healwounds
+Rangers/Warriors/Thief
+
+Usage: healwounds <target>
+
+Healwounds is a skill given to classes that do not have the ability
+to cast a heal spell.  This skill does 2d8 + level/3 healing to
+the character that you are trying to heal the wounds on, and removes
+poison.  Doing this costs 15 movement.  
+Be careful: because the game checkes for 10 movement, but uses 15,
+you can get to -5 move if you use this with only 10 move left.
+
+SEE ALSO: -
+
+#
+DOUBLE TRIPLE
+Warriors
+These skills give warriors additional attacks each round.
+#
+GRAPPLE
+Warriors
+This skill gives warriors the ability to grapple with their victim.
+If you successfully grapply your victim, you will not be able to attack
+your victim for 1 rounds, but your victim will not be able to attack for 
+1-2 rounds.
+#
+BERSERK
+Warriors
+Using berserk means that you hit everything in sight for 2 rounds but
+you lose the skills double and triple for those 2 rounds.
+#
+"PICK LOCKS"
+Thieves
+For picking locks.  Not all locks can be picked.
+pick <door>
+> pick door
+> pick safe
+See Also : OPEN, CLOSE, LOCK, UNLOCK
+#
+SNEAK
+Thieves
+Used for sneaking (moving in and out of rooms without anyone taking 
+notice).
+When you type sneak, there is no way to know if you're actually sneaking.
+If you sucessfully sneak, then you'll continue to sneak for a little while.
+> sneak
+See Also : HIDE
+#
+HIDE
+Thieves
+When you type hide there is a chance that you hide in the room. If hidden
+you can only be "sensed" by the "sense life" spell. Even if sensed your
+identity will remain hidden. Hide is broken by pressing return, regardless
+of wherther you typed a command or not.
+Example:
+  > hide
+  Ok.
+  >  (you wait for ex. 5 mins and remain hidden for 5 mins)
+  >  (You pressed enter and no longer hide)
+#
+KICK
+Warriors/Paladins
+ The success of a kick depends upon how well you are learned. The higher
+level you reach the harder you kick. There is one small catch -- whenever
+you kick (or miss) you will be unable to type any command for three 
+rounds of 'Violence' -- so be sure that you do not need to flee!
+Fighters See Also: Rescue, Bash
+#
+BASH
+Fighters/Paladins 
+ The success of a bash depends upon how well you are learned. To bash 
+someone
+is to attempt to 'knock' that person over. If you succeed you will inflict
+minor damage, and cause the victim to fall on it's rear. The victim will be
+unable to issue any commands for 1 round of violence. If you miss, you 
+lose
+your balance and fall.
+A bash makes you unable to type commands for 2 rounds of violence.
+Note that hitting a person who is resting/sitting will inflict 1.5*damage.
+Fighters See Also : Rescue, Kick
+#
+RESCUE
+Fighters 
+ This command is useful if you want to try and make an attacker hit you
+instead of your poor friend who is being pummeled.  You can only 'turn'
+one monster for each rescue attempt.  This is highly useful when playing
+in groups, of course.
+rescue <victim>
+> rescue quifael
+#
+STEAL
+Thieves
+ Use steal to steal gold or items from people. The chance of not getting
+caught depends on how well you have practiced steal, and if the person
+is asleep.
+Due to misuse of the steal command, it is now illegal to steal from other
+players.  Doing so will get you a flag for your trouble.
+Example:
+> steal gold drunk
+> steal sword mercenary
+  (only possible if he is sleeping)
+#
+BACKSTAB
+Thieves
+ Backstab is a way to sneak up on a person and attempt to place your dagger
+in his back, at exactly the point where it does most damage.  A successful
+backstab gives a damage multiplier, depending on level:
+Levels  Multiplier
+------  ----------
+ 1-23        2
+ 24-46       3
+ 47-69       4
+ 70-100      5
+ The chance of successfully backstabbing a person depends on how well you
+have practiced backstab at your guild.  You can always backstab sleeping
+people. You will not be able to do other actions for 2 rounds after you
+backstab.
+#
+CIRCLE
+Thieves 
+ Circle is a backstab during a fight that is 3/4 the strength of your 
+backstab.  You cannot be the tank of your party to use circle.  
+The max damage that Circle can do is equal to 3/4 that of a backstab.
+
+#
+"ANIMATE DEAD"
+Usage       : cast 'animate dead' corpse
+Accumulative: No
+Duration    : (432/Itelligence points of person) hours
+ Only the corpses of a NPC may be animated.  The corpse will become an
+undead zombie and will follow you as if charmed. It will not be able
+to attack you, you can order the zombie using the order command.
+See Also: FOLLOW ORDER
+#
+ARMOR
+Mage/Paladin
+Usage       : cast 'armor' [self]
+Accumulative: No
+Duration    : 24 Hours
+
+This spell will improve your ac by -20 or level/2, whichever is higher.
+See Also: AC
+#
+"TELEPORT WITH ERROR"
+Mage
+Usage       : cast 'teleport' [self]
+Accumulative: -
+Duration    : Instant
+ Teleport (with error) will instantly transfer you to another location
+in the world. This location is random, and thus there will always be
+a risk of landing in a fatal location.
+See Also: TELEPORT NO ERROR
+#
+BLESS
+Cleric/Paladin
+Usage       : cast 'bless' <victim>
+Accumulative: No
+Duration    : 6 Hours
+ Bless on a victim will improve the victims saving throw versus spells
+by 1, and furthermore improve the hitroll by 1.
+See Also: -
+#
+AID
+Usage       : cast 'aid' <victim>
+Accumulative: No
+Duration    : 3 Hours
+ Aid will increase the victims chance to hit by one and increase their 
+maximum hitpoints by the greater of 20 or the level/2 of the spell caster.
+See Also: -
+#
+BLINDNESS
+Usage       : cast 'blindness' <victim>
+Accumulative: No.
+Duration    : level/20 hours
+Blindness will blind a victim failing its saving throw.
+A blinded person will have -4 penalty to both hitroll and AC.
+See Also: AC
+#
+"CONTROL WEATHER"
+Usage       : cast 'control weather' ('better' | 'worse')
+Accumulative: Yes
+Duration    : -
+This spell will change the "course" of the current weather.
+Exmample:
+> cast 'control wea' worse
+See Also: -
+#
+"CREATE FOOD"
+Usage       : cast 'create food'
+Accumulative: -
+Duration    : Instantaneous
+This spell instantly creates an edible magic mushroom. The mushroom
+will filling for the next (5+level) hours, up to a maximum of 24 hours.
+See Also: -
+#
+"CREATE WATER"
+Usage       : cast 'create water' <drink container>
+Accumulative: No
+Duration    : Instantaneous
+ Expect disaterous results if cast upon a drink container which contains
+another liquid than water. Empty or water containers will be filled
+depending on the level of the caster.
+Double amout of water will be created if it is raining (or worse).
+See Also: -
+#
+"CURE BLIND"
+Usage       : cast 'cure blind' <victim>
+Accumulative: No
+Duration    : Instantaneous
+This spell will cure a person blinded by the "blindness" spell, it
+can not remove blindness caused by for example cursed items.
+See Also: -
+#
+"CURE SERIOUS"
+Usage       : cast 'cure serious' <victim>
+Accumulative: -
+Duration    : Instantaneous
+This spell cures 3d8+3 hitpoints of damage.
+See Also: -
+#
+"CURE CRITIC"
+Usage       : cast 'cure critic' <victim>
+Accumulative: -
+Duration    : Instantaneous
+This spell cures 5d8+8 hitpoints of damage.
+See Also: -
+#
+"CURE DISEASE"
+Usage       : cast 'cure disease' <victim>
+Accumulative: -
+Duration    : Instantaneous
+This spell will cure the victim of a disease.
+See Also: -
+#
+"CURE LIGHT"
+Usage       : cast 'cure light' <victim>
+Accumulative: -
+Duration    : Instantaneous
+This spell cures 2d4 hitpoints of damage.
+See Also: -
+#
+CURSE
+Usage       : cast 'curse' (victim | object)
+Accumulative: No
+Duration    : Level/2 Hours
+Curse cast on a person that fails the saving throw, will reduce the
+hitroll by level/20, and reduce the saving throw versus paralysation by
+level/20. 
+See Also: -
+#
+"DETECT ALIGN"
+Usage       : cast 'detect align' [self]
+Accumulative: No
+Duration    : 2.5*level hours
+Detect evil will enable you to see the red aura surrounding evil
+persons and items and a blue aura around good ones.
+See Also: -
+#
+"DETECT INVISIBILITY"
+Usage       : cast 'detect invisibility' [self]
+Accumulative: No
+Duration    : 2.5*level hours
+This spell enables you to see invisible items and players.
+See Also: -
+#
+"DETECT MAGIC"
+Usage       : cast 'detect magic' [self]
+Accumulative: No
+Duration    : 2.5*level hours
+This spell will let you see the magical aura surrounding magical
+objects as well as sense rooms where magic doesn't work.
+See Also: -
+#
+"DETECT POISON"
+Usage       : cast 'detect poison' (victim | food | drink)
+Accumulative: No
+Duration    : Instantaneous
+Cast on food or drinks (drink containers) you will be able to
+sense if it is poisoned.
+Cast on a person you will be able to see if that person is
+poisoned.
+See Also: -
+#
+"ENCHANT WEAPON"
+Usage       : cast 'enchant weapon' <weapon>
+Accumulative: No
+Duration    : Permanent
+This spell will enchant non-magical (non-modifying) weapons only.
+By non-modifying weapons we refer to weapons that might alter any
+ability such as for example damage. The only way to know if a weapon
+is suitable for enchantment is to fully identify it.
+The enchantment will modify the weapon as:
+Level    Hit Roll    Damage
+ 30..59     +1         +1
+ 60..89     +2         +2
+ 90.100     +3         +3
+See Also: -
+#
+IDENTIFY
+
+The spell:
+Usage       : cast 'identify' <target>
+Accumulative: No
+Duration    : Instantaneous
+Identify will tell you additional information about the target.  The target
+may be a mobile, player or object.
+See Also: -
+
+The command:
+Usage: identify
+Identify will give you the full statistics of the item currently
+being sold in the autoauction system. It will give you the same
+information as if you cast the identify spell on the item.
+See also: AUTOAUCTION BID
+#
+REJUVENATE
+Usage       : cast 'rejuvenate' <victim>
+Accumulative: No
+Duration    : Instantaneous
+Rejuvenate will restore up to 50 movement points for the victim.
+See Also: -
+#
+HEAL
+Usage       : cast 'heal' <victim>
+Accumulative: No
+Duration    : Instantaneous
+Heal will heal all the hitpoints from a person, execpt 1d4 points.
+Maximum 100 points can be healed. A victim who is blinded will also
+be cured by the heal spell.
+See Also: "Cure Blindness", "power heal", and "restore spell"
+#
+"POWER HEAL"
+Usage       : cast 'power heal' <victim>
+Accumulative: No
+Duration    : Instantaneous
+Power Heal will heal all the hitpoints from a person, execpt 1d6 points.
+Maximum 200 points can be healed. A victim who is blinded will also
+be cured by the heal spell.  This spell also removes poison.
+See Also: "Cure Blindness", "Remove Poison", heal, and "restore spell"
+#
+"GROUP REJUVENATE"
+Usage       : cast 'group rejuvenate'
+Accumulative: No
+Duration    : Instantaneous
+Same as rejuvenate spell but affects entire group.
+See Also: "Rejuvinate"
+#
+"GROUP HEAL"
+Usage       : cast 'group heal'
+Accumulative: No
+Duration    : Instantaneous
+Same as heal spell but affects entire group.
+See Also: "Heal"
+#
+"GROUP POWER HEAL"
+Usage       : cast 'group power heal'
+Accumulative: No
+Duration    : Instantaneous
+Same as power heal spell but affects entire group.
+See Also: "Power Heal"
+#
+"GROUP ARMOR"
+Usage       : cast 'group armor'
+Accumulative: No
+Same as armor spell but affects entire group.
+See Also: "Armor"
+#
+"RESTORE SPELL"
+Usage       : cast 'restore' <victim>
+Accumulative: No
+Duration    : Instantaneous
+Restore will heal all the hitpoints from a person, execpt 1d8 points.
+Maximum 400 points can be healed. A victim who is blinded will also
+be cured by the heal spell.  This spell also removes poison.
+See Also: "Cure Blindness" and "Remove Poison"
+#
+INVISIBILITY
+Usage       : cast 'invisibility' <victim | object>
+Accumulative: No
+Duration    : 24 hours, permanent on objects.
+Self Explanatory.
+Attacking while invisible will immediately break the spell.
+See Also: "detect invisibility" "group invisibility"
+#
+"GROUP INVISIBILITY"
+Usage       : cast 'group invisibility'
+Accumulative: No
+Duration    : 24 hours
+This casts invisibility on everyone in your group.
+See Also: "invisibility"
+#
+"LOCATE OBJECT"
+Usage       : cast 'locate object' <object>
+Accumulative: -
+Duration    : Instantaneous
+If possible you will know exactly where an object is, or the
+name of the person using it. If more than one object by the
+same name exists, you will get a listing of several objects.
+The maximum number of objects you can simultaneously locate is
+your level divided by 5.
+See Also: -
+#
+POISON
+Usage       : cast 'poison' <victim | food | drink>
+Accumulative: Yes on persons.
+Duration    : Level hours, or permanent on food and drinks.
+Casting poison on food or drink (containers) will poison it.
+Eating poisoned food/drinks will poison the person eating or
+drinking.
+A person who is poisoned will suffer 2 points of strength.
+
+See Also: "detect poison" or "cure poison"
+#
+"PROTECTION FROM EVIL"
+Usage       : cast 'protection from evil' [self]
+Accumulative: No
+Duration    : 24 hours
+
+The caster of this spell will not be attacked by evil aggressive mobs.
+See Also: -
+#
+"REMOVE CURSE"
+Usage       : cast 'remove curse' <person | object>
+Accumulative: No
+Duration    : Instantaneous
+Will remove a curse on carried objects or any persons in the room.
+See Also: -
+#
+"REMOVE POISON"
+Usage       : cast 'remove poison' <victim | food | drink> 
+Accumulative: No
+Duration    : Instantaneous
+Will remove poison.
+See Also: Poison
+#
+SANCTUARY
+Usage       : cast 'sanctuary' [self]
+Accumulative: No
+Duration    : 4 hours
+When protected by sanctuary you receive half the normal damage of any
+attack.
+See Also: -
+#
+"SPELL SHIELD"
+Usage       : cast 'spell shield'
+Accumulative: No
+Duration    : 6 hours
+This spell provides the caster with additional protection from attack
+spells by automatically halving any damage that is inflicted.  This
+spell will not provide any additional protection if the caster is protected
+by sanctuary.
+See Also: Sanctuary
+#
+"MAGIC SHIELD"
+Usage       : cast 'magic shield'
+Accumulative: No
+Duration    : 6 hours
+This spell provides the caster with additional protection from attack
+spells or breath weapons by automatically halving any damage that is 
+inflicted.  This spell will not provide any additional protection if 
+the caster is protected by sanctuary or spell shield.
+See Also: Sanctuary, Spell Shield
+
+#
+CALM
+Usage       : cast 'calm'
+Accumulative: No
+Duration    : Immediate
+Every character in the same room as the caster of this spell must
+save vs. spell or immediately stop fighting.
+See Also: -
+#
+SLEEP
+Usage       : cast 'sleep' <person>
+Accumulative: Yes (duration)
+Duration    : 4 hours + level/2 hours
+If failing saving throw versus spell, the person will fall asleep.
+A person who is affected by sleep can only be awakened if attacked.
+See Also: -
+#
+STRENGTH
+Usage       : cast 'strength' <victim>
+Accumulative: Yes (strength)
+Duration    : Level/2 hours
+A person will gain 1 strength per spell at level 1-39, 2 at 40-89,
+and 3 at 90+. Maximum strength is 18/100.
+See Also: -
+#
+"WORD OF RECALL"
+Usage       : cast 'word of recall' 
+Accumulative: -
+Duration    : Instantaneous
+The caster will be transferred back to his sancturay (presently
+the Temple of Midgaard).
+See Also: -
+#
+SUMMON
+Usage       : cast 'summon' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Will summon a person of the name spoken. It is not possible to
+summon someone of three or more levels above yourself.
+If you attempt to summon a monster,it will get a saving throw.
+See Also: GROUP SUMMON
+#
+"GROUP SUMMON"
+Usage       : cast 'group summon'
+Accumulative: -
+Duration    : Instantaneous
+Will summon everyone in your group that you are able to
+summon under the restrictions of the summon spell.
+See Also: SUMMON
+#
+"CHARM PERSON"
+Usage       : cast 'charm person' <victim>
+Accumulative: No
+Duration    : (432/Itelligence points of person) hours
+Is is not possible to charm anyone that is already charmed, if
+you're charmed yourself, or if the person is higher level than
+yourself. The person will get a saving throw versus "paralysation".
+A charmed person will follow you, and not be able to attack you, you
+can order charmed person using the order command.
+See Also: FOLLOW ORDER
+#
+"SENSE LIFE"
+Usage       : cast 'sense life' [self]
+Accumulative: No
+Duration    : 5 hours per level
+This spell will enable you to sense hidden life forms in a room.
+Invisible persons are also considered hidden.
+See Also: HIDE
+#
+"MAGIC LIGHT"
+Usage       : cast 'magic light' [self]
+Accumulative: -
+Duration    : level hours
+Level       : level 10 mage
+This spell turns the caster into a walking talking lantern.  A magical
+flame appears and follows the caster around.
+See Also: 
+#
+FLY
+Usage       : cast 'fly' [self] | <victim>
+Accumulative: -
+Duration    : level * 2 hours
+This spell lifts the victim into the air and allows them to effortless
+move about.
+See Also: 
+#
+"MAGIC MISSILE"
+Usage       : cast 'magic missile' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 1 magic user.
+Save        : Versus spell for half damage.
+This spell does 1d4+1 damage for every level of the spell caster.
+Maximum damage from this spell is 25d4 + 25.
+See Also: 
+#
+"Flamestrike"
+Usage       : cast 'flamestrike' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : 27th level Clerics/Paladins.  35th level Anti-Paladins
+Save        : Versus spell for half damage
+This spell does 1d6 per 2 levels points worth of damage to the victim,
+up to 180.  
+#
+"CHILL TOUCH"
+Usage       : cast 'chill touch' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 17 magic user.
+Save        : Versus spell for half damage.
+This spell does 25 points of damage plus 1d4 points per 2 levels of the
+spell caster. Chill touch will also reduce the victims strength by 1 if
+they fail their saving throw.
+See Also: 
+#
+"BURNING HANDS"
+Usage       : cast 'burning hands' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 9 magic user.
+Save        : Versus spell for half damage.
+This spell does 1d4+1 damage for every two levels of the spell caster.
+See Also: 
+#
+"SHOCKING GRASP"
+Usage       : cast 'shocking grasp' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 25 magic user.
+Save        : Versus spell for half damage.
+This spell does 25 points of damage plus 1d6 points for every 2 levels
+of the spell caster.
+See Also:
+#
+"LIGHTNING BOLT"
+Usage       : cast 'lightning bolt' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 41 magic user, 54 antipaladin.
+Save        : Versus spell for half damage.
+This spell does 1d8 of damage for each level of the spell caster above
+the level they get the spell at. For multiclass characters, it counts
+the level you would get it at if you were single class.
+See Also: SHOCKING GRASP
+#
+"COLORSPRAY"
+Usage       : cast 'color spray' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 29 magic user.
+Save        : Versus spell for half damage.
+This spell does 1d3 per level of the spell caster damage.
+If the victim fails their saving throw they will also be blinded.
+See Also: 
+For help on actual color, see:  ANSI
+#
+"ENERGY DRAIN"
+Usage       : cast 'energy drain' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 21 magic user.
+Save        : Versus spell for half damage.
+This spell does not give much damage, but victims failing their
+saving throws will lose 1/2 of their mana and movement points.
+You will gain 1/2 of this mana.
+See Also: -
+#
+FIREBALL
+Usage       : cast 'fireball' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 49 magic user, level 61 antipaladin.
+Save        : Versus spell for half damage.
+This spell does 1d8+1 of damage for each level of the spell caster
+above the level they get the spell at. For multiclass characters,
+it counts the level you would get it at if you were single class.
+See Also: BURNING HANDS
+#
+"WORD OF DEATH"
+Usage       : cast 'word of death' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+This spell does 34d30+level damage to the victim. 
+See Also: -
+#
+EARTHQUAKE
+Usage       : cast 'earthquake'
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 12 cleric.
+Save        : -
+This spell will damage everybody except the caster and his/her charmies
+by 1d8+level/2.
+See Also: -
+#
+"DISPEL EVIL"
+Usage       : cast 'dispel evil' <victim>
+Accumulative: -
+Duration    : Instantaneous, Area Affect
+Level       : Level 18 cleric.
+Save        : Special
+This spell will only affect evil creatures. The damage done is 1d4 per
+level, to a max of 100. If the caster is evil, they will be hurt by the
+spell instead.
+See Also: -
+#
+"DISPEL GOOD"
+Usage       : cast 'dispel good' <victim>
+Accumulative: -
+Duration    : Instantaneous, Area Affect
+Level       : Level 18 cleric.
+Save        : Special
+This spell will only affect good creatures. The damage done is 1d4 per
+level up to max of 100. If the caster is good, they will be hurt by the
+spell instead.
+See Also: -
+#
+"CALL LIGHTNING"
+Usage       : cast 'call lightning' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 24 cleric.
+Save        : Versus spell for half damage.
+This spell will use the "force of nature" to make a lightning
+strike the victim. It is therefore only possible to call lightning
+outside, and it has to be raining (or worse).
+The lightning will inflict 1d8 per 2 levels points of damage, up to a
+maximum of 120 damage points.
+See Also: WEATHER and CONTROL WEATHER
+#
+HARM
+Usage       : cast 'harm' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 32 cleric.
+Save        : Versus spell for half damage.
+This spell removes all but 1d4 hitpoints from the victim. The
+maximum number of damage points are 100. It is not possible to
+kill using this spell (but almost).
+See Also: -
+#
+"TELEPORT NO ERROR"
+Usage       : cast 'teleport no error' [<victim> | <memory>]
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 43 magic user.
+Save        : -
+With this spell, the caster instantly transports from one location
+to another.  The location specified may be the name of another
+player character or a number indicating a memorized location.
+For example,
+    cast 'teleport no error' 1
+Teleports the magic user to memorized location 1.
+See Also: REMEMBER MEMORY "TELEPORT WITH ERROR"
+#
+"RELOCATE"
+Usage       : cast 'relocate' <victim>
+Accumulative: -
+Duration    : Instantaneous
+With this spell, the caster instantly transports from one location
+to another.  The location specified must be the name of another
+player character.
+See Also: -
+#
+REMEMBER
+Usage       : cast 'remember' <memory>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 62 magic user.
+Save        : -
+With this spell, the caster remembers the current location
+in the specified memory number.  The caster can remember up
+to their intelligence divide by four locations.
+
+The skill works just like the spell.
+Usage: remember <memory>
+
+See Also: "TELEPORT NO ERROR" MEMORY
+#
+INFRAVISION
+Usage       : cast 'infravision' <target>
+Accumulative: No
+Duration    : level
+Level       : Level 20 magic user and level 37 cleric.
+Save        : -
+The target of this spell will be able to see in dark places without
+a light source.
+#
+"GROUP INFRAVISION"
+Usage       : cast 'group infravision'
+Accumulative: No
+Duration    : level
+Level       : Level 38 magic user.
+Save        : -
+A magic user's entire group will be affected by an infravision spell.
+#
+"LIMITED WISH"
+Usage       : cast 'limited wish' <desire> <target>
+Accumulative: Yes
+Duration    : Variable
+Level       : Level 67 magic user.
+Save        : -
+With this spell the magic user may make a wish for any of the desires
+listed below.  Some of the desires are difficult to fulfill and will
+drain a point of constitution from the caster.  The constitution loss
+is temporary in most cases but NOT all!
+Desires:
+MOVES       : restores up to 100 movement points
+HITS        : restores up to 100 hit points
+MAXMANA     : increases maximum mana by 10 for 1 day, -1 CON for 1 day
+MAXHIT      : increases maximum hit points by 10 for 1 day, -1 CON for 1 
+day
+MAXMOVE     : increases maximum movement by 10 for 1 day, -1 CON for 1 day
+STR         : increases strength by 1 for 1 day, -1 CON for 1 day
+INT         : increases intelligence by 1 for 1 day, -1 CON for 1 day
+WIS         : increases wisdom by 1 for 1 day, -1 CON for 1 day
+DEX         : increases dexterity by 1 for 1 day, -1 CON for 1 day
+CON         : increases constituion by 1 for 1 day, -1 CON for 1 day
+GOLD        : awards 10000 coins, -1 CON permanently
+MANAREGEN   : increases mana regeneration by 2 for 1 day, -1 CON for 1 day
+HITREGEN    : increases hit point regeneration by 2 for 1 day, -1 CON for 
+1 day
+MOVEREGEN   : increases movement regeneration by 2 for 1 day, -1 CON for 1 
+day
+See Also: -
+#
+MEMORY
+This command displays which locations the player has memorized
+using the remember spell.
+#
+TRACK
+--Ranger only
+Used for finding the first step on the shortest route to a monster.
+Be warned, this is not necessarily the SAFEST route.
+> track fido
+#
+REVITALIZE
+
+Usage: cast 'revitalize' [target]
+Accumulative: no
+Duration: Instantaneous
+
+This spell will heal 1d4 hitpoints per 2 levels,
+with a maximum of 80 hitpoints. 
+
+#
+"PROTECTION FROM GOOD"
+
+usage: cast 'protection from good' [self]
+Accumulative: no
+Duration: 24 hours
+
+This spell will protect you from good aggressive mobs.
+
+#
+"GROUP RECALL"
+
+usage: cast 'group recall'
+Accumulative: no
+Duration: Instantaneous
+
+This spell will transport every character in the group to the temple.
+
+see also: "Recall"
+
+# 
+WATERWALK
+
+usage: cast 'waterwalk' [self]
+Accumulative: no
+Duration: Level hours
+
+This spell will allow the caster to walk on water.
+
+#
+"DIVINE PROTECTION"
+
+usage: cast 'divine protection' [self]
+Accumulative: no
+Duration: 4
+
+This spell will stop aggressive mobs from attacking the caster.
+
+#
+"CONE OF COLD"
+
+usage       : cast 'cone of cold' [target]
+Accumulative: no
+Duration    : Instantaneous
+Level       : Level 33 magic user, level 45 antipaladin.
+
+This spell will do 1d6 damage per level of the caster above the level
+they get the spell at. For multiclass characters, it counts the level
+you would get it at if you were single class.
+
+#
+"LOWER RESISTANCE"
+
+usage: cast 'lower resistance' [target]
+Accumulative: no
+Duration: level/20 hours
+
+This spell cuts the magic resistance in half on the target.
+
+#
+"BATTLE RECALL"
+
+usage: cast 'battle recall'
+Accumulative: no
+Duration: Instantaneous
+
+This spell will allow you to recall to the temple while fighting.
+
+#
+AMNESIA
+
+usage: cast 'amnesia' [target]
+Accumulative: no
+Duration: Permanent till target is destroyed.
+
+This spell will erase a mob's memory, making it forget all those that
+attacked it.
+
+#
+DISRUPT
+
+Victim is delayed 1d3 rounds or 1d3+1 rounds at level 80+. The Monk will
+lose attacks for 1 round less than the victim is delayed for. Player
+suffers a 3 round delay on failure, a 6 round delay on success.
+
+#
+THROW
+
+This skill allows you to throw a weapon at a victim in the room. If it hits,
+the weapon will be destroyed. If it misses, it will land in an adjacent
+room. The weapon must be in your inventory to be thrown.
+
+#
+DIVE
+
+This skill costs 15 movement points. It allows the person to get out of a
+fight with no experience loss. The direction is random, and the other
+party members will no be able to tell where you dove, but you will see
+which direction you went.
+
+#
+MINDCLOUD
+
+Mindcloud gives -50 armor class and makes the user invisible. It will
+last level hours or until the user does any action but move around.
+
+#
+GOUGE
+
+This skills costs 10 movement. There will be a 3 round delay if failed,
+5 rounds if successful. It will blind the victim for 1 tic and do a
+3 times damage hit on success. The weapon used must be a sharp weapon.
+
+#
+DODGE
+
+When fully practiced, dodge will allow a player to dodge any physical
+attack, regardless of armor class, with a 17% chance of success.
+
+#
+SNARE
+
+This skills costs 15 movement. It sets a trap, preventing any mob from
+fleeing the room until it breaks the trap. There is a 5% chance each time
+it will be broken.
+
+#
+FEATHERFOOT
+
+This skill costs 20 movement. It allows the user to walk on water for
+level/4 hours.
+
+#
+$

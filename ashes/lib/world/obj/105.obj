@@ -1,0 +1,266 @@
+#10501
+falchion sword~
+a falchion~
+A falchion lies discarded here.~
+It is a short sword of the hacking variety, it seems a bit worn.
+~
+5 8400896 8193 0
+0 0 0
+0 2 6 3
+5 900 300
+#10502
+chalice cup~
+a chalice~
+A blood-stained chalice has been set down here.~
+~
+17 0 16385 0
+0 0 0
+6 6 13 5
+11 300 100
+#10503
+coffer~
+the copper coffer~
+An ornate copper coffer is set against the far wall.~
+~
+15 0 0 0
+0 0 0
+200 13 0 0
+500 500 500
+#10504
+tonic potion comfrey~
+a tonic of comfrey root~
+A tonic of comfrey root has been discarded here.~
+~
+10 64 1 0
+0 0 0
+15 39 39 33
+1 600 200
+E
+tonic potion comfrey~
+What doesn't kill you makes you stronger, right?
+~
+#10505
+elixir potion~
+an elixir of Adder's Tongue~
+An elixir of Adder's Tongue lies here.~
+~
+10 64 1 0
+0 0 0
+15 44 21 0
+1 600 200
+#10506
+key skeleton~
+a skeleton key~
+An old skeleton key lies on the floor.~
+~
+18 0 16385 0
+0 0 0
+15 0 0 0
+2 500 20
+E
+key skeleton~
+It is made of bone.  What did you expect, in this place of death?
+~
+#10507
+blowgun~
+a blowgun~
+A long, bamboo blowgun rest on the ground.~
+(null)~
+5 8531968 8193 0
+0 0 0
+0 2 9 5
+5 16000 3000
+A
+17 1
+#10508
+pool~
+the pool~
+You stand in a pool of blood~
+~
+17 0 0 0
+0 0 0
+15 15 13 5
+500 500 50
+#10509
+bloodstone stone~
+the Bloodstone~
+A large, dull red stone awaits, invitingly, to be picked up.~
+~
+4 8577602 16385 0
+0 0 0
+13 7 7 25
+8 30000 15000
+A
+4 -2
+A
+5 3
+E
+bloodstone stone~
+It glows malignantly with its own ruddy light.  You peer within the
+stone only to see the vague impression of some misshaped soul
+trapped within.
+~
+#10510
+heartseeker stiletto~
+'Heartseeker'~
+A nasty looking stiletto with a shiny black blade lies amid the dust.~
+~
+5 393794 8193 0
+0 0 0
+0 4 4 11
+3 10000 3500
+A
+17 3
+A
+11 -5
+#10511
+shield scarab~
+a scarab shield~
+A shield with a large, dead scarab mounted in the center lies here.~
+~
+9 131136 513 0
+0 0 0
+6 0 0 0
+17 9000 3000
+A
+5 1
+#10512
+mace fred~
+the Mace of Undead Fred~
+A skull-headed mace has been left here.~
+~
+5 8540738 8193 0
+0 0 0
+0 3 6 7
+14 12000 4000
+A
+18 3
+A
+12 -15
+E
+mace fred~
+The stout leather-wrapped shaft is topped with the animated skull of Fred 
+himself.  Though the jawbone is missing, you can hear him scream obscenities
+in the midst of a fray.  A vague light stirs within his eyesockets as he
+says, 'What are you looking at, maggot breath!'
+~
+#10513
+buckler arsenal~
+an arsenal buckler~
+A spiked buckler with a circle of knives set in it, has been left here.~
+~
+15 0 513 0
+0 0 0
+14 0 -1 0
+14 0 100
+A
+16 -5
+A
+18 1
+E
+buckler arsenal~
+The buckler has a circle of throwing knives set around its center spike.
+~
+#10514
+knife throwing~
+a throwing knife~
+A well balanced throwing knife lies on the ground.~
+~
+5 8192 16385 0
+0 0 0
+0 1 4 11
+1 0 0
+#10515
+pile debris~
+the pile~
+A pile of debris has been stacked on a small plateau, away from the acid.~
+~
+15 0 0 0
+0 0 0
+1000 0 -1 0
+1000 1000 100
+E
+pile debris~
+It contains all manner of rusty items and beaten equipment garnered by
+the fastidious denizens of this place.
+~
+#10516
+guisarme polearm~
+a guisarme~
+A long, sharp polearm has been left here.~
+~
+5 8679424 8193 0
+0 0 0
+0 2 8 3
+16 1500 500
+A
+17 -2
+A
+18 2
+#10517
+glove minstrels minstrel~
+a minstrels glove~
+A single, white minstrel's glove has been discarded here.~
+~
+9 65 129 0
+0 0 0
+6 0 0 0
+8 4500 1000
+A
+17 2
+#10518
+shabby mai~
+Some shabby mail~
+A worn and shabby suit of ring mail has been cast away here.~
+~
+9 64 5 0
+0 0 0
+9 0 0 0
+20 70000 10000
+E
+mail shabby~
+It seems about ready to fall apart!
+~
+#10519
+granite key~
+a granite key~
+A key fashioned of stone has been left here.~
+~
+18 0 16385 0
+0 0 0
+13 0 0 0
+2 1500 90
+#10520
+flesh~
+the enbalmed flesh~
+A large pile of presumably human flesh has been enbalmed and stored here.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+100 600 200
+#10561
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#10599
+flail beater grave~
+a grave beater~
+A rusty grave beater flail has been dropped here.~
+~
+5 135168 8193 0
+0 0 0
+0 2 7 7
+12 1500 150
+A
+18 1
+E
+flail beater grave~
+This flail seems only to have been used to keep the dead in their place.
+~
+$

@@ -1,0 +1,1706 @@
+#22500
+Desert Trail~
+You find yourself on some sort of a path in the desert.  It looks as though
+it has been traveled recently.  After close examination, you see what might
+possibly be ruts in the sand from wagon wheels.
+~
+225 4 2
+0d0+0 0 0
+D2
+A Desert Trail.
+~
+~
+0 -1 22501
+D3
+You see an expanse of desert.
+~
+~
+0 -1 5055
+S
+#22501
+Desert Trail~
+You're on a trail leading north and south.  Your feet are burning from the
+hot sand, your hair is 3 shades lighter, and you hope you find water soon.
+~
+225 0 2
+0d0+0 0 0
+D0
+A Desert Trail.
+~
+~
+0 -1 22500
+D2
+~
+~
+0 -1 22502
+S
+#22502
+Desert Lane~
+The trail seems to widen considerably here.  Your hopes soar.  You begin to
+dream of soaking your blistered feet in a cool fountain.
+~
+225 0 2
+0d0+0 0 0
+D0
+A Desert Trail.
+~
+~
+0 -1 22501
+D2
+A Desert Lane.
+~
+~
+0 -1 22503
+S
+#22503
+Desert Lane~
+This desert is really getting to your nerve endings.  But looking at down at
+the sand, you realize the ruts were definitely made from wagon wheels.  There
+are also camel prints in the sand here.
+~
+225 0 2
+0d0+0 0 0
+D0
+A Desert Lane.
+~
+~
+0 -1 22502
+D2
+A Sandy Road.
+~
+~
+0 -1 22504
+S
+#22504
+A Sandy Road~
+The lane bends to the east here, and has widened into a road. You see a
+few cacti growing here and stop to admire their brightly colored flowers.
+Overlooking this bend here is a small rock outcropping.
+~
+225 0 2
+0d0+0 0 0
+D0
+A Desert Lane.
+~
+~
+0 -1 22503
+D1
+~
+~
+0 -1 22505
+D4
+~
+~
+0 -1 12200
+E
+flower cactus~
+They have beautiful pink, blue, and yellow blossoms.
+~
+S
+#22505
+A Sandy Road~
+You are on a frequently-traveled road of sand.  To the east, you think you
+see smoke rising from somewhere off in the distance.
+~
+225 0 2
+0d0+0 0 0
+D1
+A Sandy Road.
+~
+~
+0 -1 22506
+D3
+A Sandy Road.
+~
+~
+0 -1 22504
+S
+#22506
+A Sandy Road~
+You are on a sandy road leading east and west.  To the east, smoke curls up
+into the sky lazily, and you think you see buildings off in the distance.
+~
+225 0 2
+0d0+0 0 0
+D1
+A Sandy Road.
+~
+~
+0 -1 22507
+D3
+A Sandy Road.
+~
+~
+0 -1 22505
+S
+#22507
+A Sandy Road~
+You are standing on a sandy road just outside of a very large gate.  Beyond
+the gate, you see a village.  You made it!  You hope they are friendly..
+~
+225 0 2
+0d0+0 0 0
+D1
+The Great Gates of Agrabah.
+~
+~
+0 -1 22508
+D3
+A Sandy Road.
+~
+~
+0 -1 22506
+S
+#22508
+The Great Gates of Agrabah~
+You find yourself staring up at two massive iron gates that must tower thirty
+feet into the air.  They seem to be the only entrance to this city, as they
+are firmly placed between what looks to be sixty-foot walls ensconced with very
+nasty looking daggers around the entire perimeter of the city.  After the
+grueling trek through the desert, you hope to have the strength to open them.
+~
+225 0 2
+0d0+0 0 0
+D1
+Inside the Great Gates.
+~
+gate~
+2 -1 22509
+D3
+A Sandy Road.
+~
+~
+0 -1 22507
+E
+gate~
+The massive gates look to be made of solid iron, and very impenetrable.
+~
+S
+#22509
+Inside the Great Gates~
+You are just inside the massive gates of Agrabah.  From here, you hear the
+bustling of busy merchants and citizens of Agrabah going about their daily
+business. The road continues east into the city.
+~
+225 0 1
+0d0+0 0 0
+D1
+West Camel Walk.
+~
+~
+0 -1 22510
+D3
+The Great Gates of Agrabah.
+~
+gate~
+2 -1 22508
+E
+gate~
+The massive gates look to be made of solid iron, and very impenetrable.
+~
+S
+#22510
+West Camel Walk~
+You are on what looks to be the main drag through the city.  Shops and
+townspeople are everywhere, and your nostrils are assaulted with a multitude
+of foods and incenses.
+~
+225 0 1
+0d0+0 0 0
+D0
+Khazim's Jewelry Stand.
+~
+~
+0 -1 22572
+D1
+West Camel Walk.
+~
+~
+0 -1 22511
+D2
+Rabul's Camel Cafe.
+~
+~
+0 -1 22564
+D3
+Inside the Great Gates.
+~
+~
+0 -1 22509
+S
+#22511
+West Camel Walk~
+You are on the main drag through the city.  The road continues east and west.
+~
+225 0 1
+0d0+0 0 0
+D0
+Merhlin's Magick Shoppe.
+~
+~
+0 -1 22571
+D1
+West Camel Walk.
+~
+~
+0 -1 22512
+D2
+Entrance to Mages Guild
+~
+~
+0 -1 22563
+D3
+West Camel Walk.
+~
+~
+0 -1 22510
+S
+#22512
+West Camel Walk~
+You are on the main drag through the city.  The road continues east and west.
+~
+225 0 1
+0d0+0 0 0
+D0
+Raslim's Butchery.
+~
+~
+0 -1 22570
+D1
+West Camel Walk.
+~
+~
+0 -1 22513
+D2
+Majiq's Potion Shoppe.
+~
+~
+0 -1 22562
+D3
+West Camel Walk.
+~
+~
+0 -1 22511
+S
+#22513
+West Camel Walk~
+You are on the main drag through the city.  The road continues east and west.
+~
+225 0 1
+0d0+0 0 0
+D0
+Rajiv's Bakery.
+~
+~
+0 -1 22569
+D1
+The Central Square.
+~
+~
+0 -1 22514
+D2
+Khazil's Armory.
+~
+~
+0 -1 22561
+D3
+West Camel Walk.
+~
+~
+0 -1 22512
+S
+#22514
+The Central Square~
+You are in a huge square, in the middle of which stands a shimmering fountain.
+It looks to be the center of town.  Merchants bustle everywhere and everyone
+looks too busy to talk.  There are exits in every direction.
+~
+225 0 0
+0d0+0 0 0
+D0
+Palace Walk.
+~
+~
+0 -1 22519
+D1
+East Camel Walk.
+~
+~
+0 -1 22515
+D2
+Cart Alley.
+~
+~
+0 -1 22529
+D3
+West Camel Walk.
+~
+~
+0 -1 22513
+S
+#22515
+East Camel Walk~
+You are on the main drag through town.  The road continues east and west.
+~
+225 8 1
+0d0+0 0 0
+D0
+Haslam's General Store.
+~
+~
+0 -1 22568
+D1
+East Camel Walk.
+~
+~
+0 -1 22516
+D2
+Shakka's Musical Instruments.
+~
+~
+0 -1 22560
+D3
+The Central Square.
+~
+~
+0 -1 22514
+S
+#22516
+East Camel Walk~
+You are on the main drag through town.  The road continues east and west.
+~
+225 0 1
+0d0+0 0 0
+D0
+Brahim's Weapons Shop.
+~
+~
+0 -1 22567
+D1
+East Camel Walk.
+~
+~
+0 -1 22517
+D2
+Entrance to Clerics Guild
+~
+~
+0 -1 22559
+D3
+The Central Square.
+~
+~
+0 -1 22515
+S
+#22517
+East Camel Walk~
+You are on the main drag through town.  The road continues east and west.
+~
+225 0 1
+0d0+0 0 0
+D0
+Ahmed's Tailor Shop.
+~
+~
+0 -1 22566
+D1
+East end of Camel Walk.
+~
+~
+0 -1 22518
+D2
+The Post Office.
+~
+~
+0 -1 22558
+D3
+East Camel Walk.
+~
+~
+0 -1 22516
+S
+#22518
+East end of Camel Walk~
+You are at the east end of the main drag through town.
+~
+225 0 1
+0d0+0 0 0
+D0
+Abdul's Warriors Guild.
+~
+~
+0 -1 22565
+D2
+Abdul's Water Shoppe.
+~
+~
+0 -1 22557
+D3
+East Camel Walk.
+~
+~
+0 -1 22517
+S
+#22519
+Palace Walk~
+You are on a walk made of sandstone leading north and south through town.
+~
+225 0 1
+0d0+0 0 0
+D0
+Palace Walk.
+~
+~
+0 -1 22520
+D2
+The Central Square.
+~
+~
+0 -1 22514
+S
+#22520
+Palace Walk~
+You are on a walk made of sandstone leading north and south through town.
+~
+225 0 1
+0d0+0 0 0
+D0
+The Palace Square.
+~
+~
+0 -1 22521
+D2
+Palace Walk.
+~
+~
+0 -1 22519
+S
+#22521
+The Palace Square~
+You are standing in the center of a huge sqare filled with bustling merchants
+and citizens of the community.  The entire sandstone floor of this square is
+a brightly painted Royal coat-of-arms.  The smell of sugar-dates, figs, and
+pistachios are strong here, and judging from the apparel of the people, it
+looks like you are in the more well-to-do part of town.
+~
+225 0 1
+0d0+0 0 0
+D0
+The Temple of Agrabah
+~
+~
+0 -1 22522
+D1
+East Sultans Walk.
+~
+~
+0 -1 22544
+D2
+Palace Walk.
+~
+~
+0 -1 22520
+D3
+West Sultans Walk.
+~
+~
+0 -1 22540
+S
+#22522
+The Temple of Agrabah~
+You are in the Temple of Agrabah, city of mystery...of enchantment.  There
+are murals covering the walls and ceilings that depict the evolution of man,
+and a few statues along the walls.  This is a quiet, peaceful place just for
+sitting for an hour or so of solemn meditation.
+~
+225 4124 0
+0d0+0 0 0
+D0
+Palace Walk.
+~
+~
+0 -1 22523
+D2
+The Palace Square.
+~
+~
+0 -1 22521
+D4
+The Reading Room
+~
+~
+0 -1 22590
+S
+#22523
+Palace Walk~
+You are on a white stone walkway that runs north and south.
+~
+225 0 1
+0d0+0 0 0
+D0
+Palace Walk.
+~
+~
+0 -1 22524
+D2
+The Temple of Agrabah
+~
+~
+0 -1 22522
+S
+#22524
+Palace Walk~
+You are on a white stone walkway that runs north and south.
+~
+225 0 1
+0d0+0 0 0
+D0
+Palace Walk.
+~
+~
+0 -1 22525
+D2
+Palace Walk.
+~
+~
+0 -1 22523
+S
+#22525
+Palace Walk~
+You are on a white stone walkway that runs north and south.
+~
+225 0 1
+0d0+0 0 0
+D0
+Palace Walk.
+~
+~
+0 -1 22526
+D2
+Palace Walk.
+~
+~
+0 -1 22524
+S
+#22526
+Palace Walk~
+You are on a white stone walkway that runs north and south.
+~
+225 0 1
+0d0+0 0 0
+D0
+Palace Walk.
+~
+~
+0 -1 22527
+D2
+Palace Walk.
+~
+~
+0 -1 22525
+S
+#22527
+Palace Walk~
+You are at the northern end of a white stone walkway.
+~
+225 0 1
+0d0+0 0 0
+D0
+Before The Sultans Palace.
+~
+~
+0 -1 22528
+D2
+Palace Walk.
+~
+~
+0 -1 22526
+S
+#22528
+Before The Sultans Palace~
+You are standing before the steps to the Sultans Palace.  Looking up to the 
+top of them you gaze upon a wonderous palace of white, with many gold-guilded
+towers rising up into the blue sky.  At the top, two Royal Guards stand at
+attention before the doors to the palace.
+~
+225 0 1
+0d0+0 0 0
+D0
+On The Palace Steps.
+~
+~
+0 -1 22600
+D2
+Palace Walk.
+~
+~
+0 -1 22527
+S
+#22529
+Cart Alley~
+You are in a dark alley that runs north and south through the city.
+This seems to be a shabbier part of town judging by the condition of the 
+buildings around you, and the tattered clothes of the townsfolk.
+~
+225 1 1
+0d0+0 0 0
+D0
+The Central Square.
+~
+~
+0 -1 22514
+D2
+Cart Alley.
+~
+~
+0 -1 22530
+S
+#22530
+Cart Alley~
+You are in a dark alley that runs north and south through the city.
+This seems to be a shabbier part of town judging by the condition of the
+buildings around you, and the tattered clothes of the townsfolk.
+~
+225 1 1
+0d0+0 0 0
+D0
+Cart Alley.
+~
+~
+0 -1 22529
+D2
+Peddlers Square.
+~
+~
+0 -1 22531
+S
+#22531
+Peddlers Square~
+You are in what appears to be the center of the poor man's marketplace.  There
+are peddlers, thieves, and cunning merchants all around you.  You tighten your
+hold on your money pouch and remove your jewelry, just to be on the safe side.
+~
+225 0 1
+0d0+0 0 0
+D0
+Cart Alley.
+~
+~
+0 -1 22530
+D1
+East Cart Row.
+~
+~
+0 -1 22536
+D3
+West Cart Row.
+~
+~
+0 -1 22532
+S
+#22532
+West Cart Row~
+You are on the western half of a dirty street in the shady part of town.
+Some of these folks are the types you wouldn't want to meet in a dark alley.
+~
+225 0 1
+0d0+0 0 0
+D0
+Ahkim's Leather Goods.
+~
+~
+0 -1 22553
+D1
+Peddlers Square.
+~
+~
+0 -1 22531
+D3
+West Cart Row.
+~
+~
+0 -1 22533
+S
+#22533
+West Cart Row~
+You are on the western half of a dirty street in a shady part of town.
+Some of these folks are the types you wouldn't want to meet in a dark alley.
+~
+225 0 1
+0d0+0 0 0
+D0
+Ali's Rent-A-Harem.
+~
+~
+0 -1 22554
+D1
+West Cart Row.
+~
+~
+0 -1 22532
+D3
+West Cart Row.
+~
+~
+0 -1 22534
+S
+#22534
+West Cart Row~
+You are on the western half of a dirty street in the shady part of town.
+Some of these folks are the types you wouldn't want to meet in a dark alley.
+~
+225 0 1
+0d0+0 0 0
+D0
+Fouad's Used Camel Sales.
+~
+~
+0 -1 22580
+D1
+West Cart Row.
+~
+~
+0 -1 22533
+D3
+The Dump.
+~
+~
+0 -1 22535
+S
+#22535
+The Dump~
+You are in the smelliest place in town - only the smells that assault your
+nostrils are not the delicious ones that waft down from the rest of the town.
+The place is crawling with rats, cockroaches, maggots, and filled with smelly
+garbage. You decide to exit quickly before you lose your last meager meal.
+~
+225 0 2
+0d0+0 0 0
+D1
+Cart Row.
+~
+~
+0 -1 22534
+S
+#22536
+East Cart Row~
+You are on the eastern part of a dirty street in the shady part of town.
+Some of these folks are the types you wouldn't want to meet in a dark alley.
+~
+225 0 1
+0d0+0 0 0
+D0
+Rahul's Used Rugs.
+~
+~
+0 -1 22552
+D1
+East Cart Row.
+~
+~
+0 -1 22537
+D3
+Peddlers Square.
+~
+~
+0 -1 22531
+S
+#22537
+East Cart Row~
+You are on the eastern part of a dirty street in the shady part of town.
+Some of these folks are the types you wouldn't want to meet in a dark alley.
+~
+225 0 1
+0d0+0 0 0
+D0
+Gazeem's Second Hand Shop.
+~
+~
+0 -1 22551
+D1
+East Cart Row.
+~
+~
+0 -1 22538
+D3
+East Cart Row.
+~
+~
+0 -1 22536
+S
+#22538
+East Cart Row~
+You are on the eastern part of a dirty street in the shady part of town.
+Some of these folks are the types you wouldn't want to meet in a dark alley.
+~
+225 0 1
+0d0+0 0 0
+D0
+Entrance to Thieves Guild
+~
+~
+0 -1 22550
+D1
+East End of Cart Row.
+~
+~
+0 -1 22539
+D3
+East Cart Row.
+~
+~
+0 -1 22537
+S
+#22539
+East End of Cart Row~
+You are standing at the east end of Cart Row.  An old ramshackle building
+blocks your way east.  The only way to go other than back the way you came is
+up into the building.  There seem to be "Condemned" signs all over it though..
+~
+225 0 1
+0d0+0 0 0
+D0
+Crazy Hakico's Discount Fertilizer.
+~
+~
+0 -1 22579
+D3
+East Cart Row.
+~
+~
+0 -1 22538
+D4
+Don't Look Down.
+~
+~
+0 -1 22548
+E
+building~
+The building is barely standing and looks extremely dangerous!
+~
+S
+#22540
+West Sultans Walk~
+You are on a sandstone sidewalk that runs east and west.
+~
+225 0 1
+0d0+0 0 0
+D1
+The Palace Square.
+~
+~
+0 -1 22521
+D2
+Mesra's Date Stand.
+~
+~
+0 -1 22576
+D3
+West Sultans Walk.
+~
+~
+0 -1 22541
+S
+#22541
+West Sultans Walk~
+You are on a sandstone sidewalk that runs east and west.
+~
+225 0 1
+0d0+0 0 0
+D1
+West Sultans Walk.
+~
+~
+0 -1 22540
+D2
+Hagul's Figs.
+~
+~
+0 -1 22577
+D3
+West Sultans Walk.
+~
+~
+0 -1 22542
+S
+#22542
+West Sultans Walk~
+You are on a sandstone sidewalk that runs east and west.
+~
+225 0 1
+0d0+0 0 0
+D1
+West Sultans Walk.
+~
+~
+0 -1 22541
+D2
+Tamin's Pistachio Stand.
+~
+~
+0 -1 22578
+D3
+The Sand Box.
+~
+~
+0 -1 22543
+S
+#22543
+The Sand Box~
+You are in an extremely large sand pit just off the west end of Sultans Walk.
+Apparently this is where the children of the town come to build sandcastles
+and stage fake battles against fake opposing forces.
+~
+225 0 2
+0d0+0 0 0
+D1
+West Sultans Walk.
+~
+~
+0 -1 22542
+S
+#22544
+East Sultans Walk~
+You are on a sandstone sidewalk that runs east and west.
+~
+225 0 1
+0d0+0 0 0
+D1
+East Sultans Walk.
+~
+~
+0 -1 22545
+D2
+Hestrim's Fruit Stand.
+~
+~
+0 -1 22575
+D3
+The Palace Square.
+~
+~
+0 -1 22521
+S
+#22545
+East Sultans Walk~
+You are on a sandstone sidewalk that runs east and west.
+~
+225 0 1
+0d0+0 0 0
+D1
+East Sultans Walk.
+~
+~
+0 -1 22546
+D3
+East Sultans Walk
+~
+~
+0 -1 22544
+S
+#22546
+East Sultans Walk~
+You are on a sandstone sidewalk that runs east and west.
+~
+225 0 1
+0d0+0 0 0
+D1
+East End of Sultans Walk.
+~
+~
+0 -1 22547
+D2
+Reception.
+~
+~
+0 -1 22573
+D3
+East Sultans Walk.
+~
+~
+0 -1 22545
+S
+#22547
+East End of Sultans Walk~
+You are on a sandstone sidewalk that runs east and west.
+~
+225 0 1
+0d0+0 0 0
+D0
+Entrance to Paladins Guild
+~
+~
+0 -1 22582
+D2
+Entrance to Antipaladins Guild
+~
+~
+0 -1 22584
+D3
+East Sultans Walk.
+~
+~
+0 -1 22546
+S
+#22548
+Don't Look Down~
+Since taking the stairs is rather like an obstacle course, you opt to climb
+the ladder to get up here instead and avoid something falling down onto your
+head. Since the ladder is an old one, you decide to move on - and fast.
+~
+225 8 1
+0d0+0 0 0
+D4
+Aladdin's Humble Abode.
+~
+~
+0 -1 22549
+D5
+East End of Cart Row.
+~
+~
+0 -1 22539
+S
+#22549
+Aladdins Humble Abode~
+This place looks familiar.  Now you know where you are!  This was where our
+beloved Aladdin retired every night after a long day of survival on the city
+streets. Its definitely a safe enough haven - very few others would venture
+into a building such as this.  Looking out the window with its tattered curtain
+blowing gently in the breeze, your eyes rest on a breathtaking view of the city
+below you, and the Sultans Palace just beyond.  The view from this room is the
+best in the city.  Now you know why Aladdin chose it.
+~
+225 8 0
+0d0+0 0 0
+D5
+Don't Look Down.
+~
+~
+0 -1 22548
+S
+#22550
+Entrance to Thieves Guild~
+You are standing in the entrance to the Thieves guild.
+~
+225 8 0
+0d0+0 0 0
+D2
+East Cart Row.
+~
+~
+0 -1 22538
+D4
+Rakul's Thieves Guild
+~
+~
+0 -1 22586
+S
+#22551
+Gazeem's Second Hand Shop~
+This second-hand shop is filled to the rafters with every type of odd-and-end
+imaginable. Gazeem's wife got so mad at him for hoarding this junk in their
+home she threw it all into the street - and him, also.  She finally let him
+back into the house after he rented this small shop.  You wonder, given the
+nature of Gazeem, who is a well-known thief - and also has many rather shady
+dealings with Jafar, the Sultans Royal Vizier - just where it was all obtained.
+~
+225 8 0
+0d0+0 0 0
+D2
+East Cart Row.
+~
+~
+0 -1 22537
+S
+#22552
+Rahul's Used Rugs~
+Being that sand ruins many a good rug (as any vacuum cleaner salesman will
+tell you), Rahul is here to sell you a good (cough) used one.  Although some
+are rather faded, and some are threadbare in places, he must make a living too.
+~
+225 8 0
+0d0+0 0 0
+D2
+East Cart Row.
+~
+~
+0 -1 22536
+S
+#22553
+Ahkim's Leather Goods~
+This is Ahkim's shop of leather goods.  His workmanship is excellent and his
+prices are small in comparison to what he could charge on the north side of
+town. Being the humble man that he is, he retains this shop on the poor side
+of town as an everyday reminder of his own mortality.
+~
+225 8 0
+0d0+0 0 0
+D2
+West Cart Row.
+~
+~
+0 -1 22532
+S
+#22554
+Ali's Rent-A-Harem~
+This is where the desperate man may come to rent himself a little, shall we
+say, compromising company.  The girls aren't always what they should be, but
+hey, what do you expect for such short notice?
+~
+225 8 0
+0d0+0 0 0
+D2
+West Cart Row.
+~
+~
+0 -1 22533
+S
+#22556
+Fouad's Used Camel Sales~
+This is where Fouad, son of Ahkmed, may he rest in peace, goes about his
+daily business of selling used camels.  When buy a camel from Fouad, always
+remember: the camel that moves when poked with a stick is still alive.
+~
+225 8 0
+0d0+0 0 0
+D2
+West Cart Row.
+~
+~
+0 -1 22534
+S
+#22557
+Abdul's Water Shoppe~
+This is a small but clean little shop, with neatly arranged shelves upon
+which are several sizes and varieties of canteens, flasks, and waterskins.
+Stacked neatly against one wall are rows of water barrels.  Abdul, the
+proprietor, almost died from drinking contaminated water at an oasis not far
+from town a few years ago, and the experience so frightened him that he
+promptly opened this shop with hopes of preventing that sort of thing from
+happening to anyone else.  The water is pure, and the prices low.
+~
+225 8 0
+0d0+0 0 0
+D0
+End of East Camel Walk.
+~
+~
+0 -1 22518
+S
+#22558
+The Post Office~
+You are standing in the Post Office of Agrabah.  There are piles of neatly
+sorted mail on the counters, and several crates stacked against the walls
+that have been pryed open by curious customs officials.  WANTED posters dot
+the walls around the entire room - funny, didn't you just see that guy?
+~
+225 8 0
+0d0+0 0 0
+D0
+East Camel Walk.
+~
+~
+0 -1 22517
+E
+sign~
+English very good not much to tourist.
+~
+S
+#22559
+Entrance to Clerics Guild~
+You are in the entrance to the Clerics guild.
+~
+225 8 0
+0d0+0 0 0
+D0
+East Camel Walk.
+~
+~
+0 -1 22516
+D4
+Ramin's Clerics Guild
+~
+~
+0 -1 22587
+S
+#22560
+Shakka's Musical Instruments~
+Now this is a shop you didn't expect to find.  What an assortment!  There
+must be instruments here from all over the world.  Shakka attempts to hide
+an amused smile, then turns back to her dusting, allowing you to browse.  On
+every wall there are instruments of every size and shape.  Some look like
+gourds that you grew in your garden once.  Your eyes fall on a beautiful gold
+Harp that sits in the corner.  Oh how you wish you knew how to play it.
+~
+225 8 0
+0d0+0 0 0
+D0
+East Camel Walk.
+~
+~
+0 -1 22515
+S
+#22561
+Khazil's Armory~
+You have found your way to Khazil's place - a shop filled with helmets, armors
+of every type, size, and description, and shields propped against every wall.
+Maybe you would like to buy some armor here, being in a strange town and all..
+~
+225 8 0
+0d0+0 0 0
+D0
+West Camel Walk.
+~
+~
+0 -1 22513
+S
+#22562
+Majiq's Potion Shoppe~
+You are standing in a shop comprised of nothing but vials and bottles of
+many colorful descriptions.  The proprietor, Majiq, keeps a watchful eye as
+you browse through the many shelves in wonder.  What in the name of Allah do
+you suppose all these potions could be for?
+~
+225 8 0
+0d0+0 0 0
+D0
+West Camel Walk.
+~
+~
+0 -1 22512
+S
+#22563
+Entrance to Mages Guild~
+You are in the entrance to the Mages guild.
+~
+225 8 0
+0d0+0 0 0
+D0
+West Camel Walk.
+~
+~
+0 -1 22511
+D4
+Ahman's Mages Guild
+~
+~
+0 -1 22588
+S
+#22564
+Rabul's Camel Cafe~
+You find yourself in a busy and slightly cluttered roadside Cafe.  The smells
+of coffee and pastries are wonderful in here.  Rabul buys his pastries from
+Rajiv fresh every morning.  Well..he says he does.
+~
+225 8 0
+0d0+0 0 0
+D0
+West Camel Walk.
+~
+~
+0 -1 22510
+S
+#22565
+Entrance to Warriors Guild~
+You are standing in the entrance to the warriors guild.
+~
+225 8 0
+0d0+0 0 0
+D2
+End of East Camel Walk.
+~
+~
+0 -1 22518
+D4
+Abul's Warriors Guild
+~
+~
+0 -1 22589
+S
+#22566
+Ahmed's Tailor Shop~
+Ahmed is the town tailor.  He was forced to learn how to stitch when his
+daughter accidently dropped a vase that she and his wife were carrying, and
+2 of his wife's fingers were severed by a large shard.  But all being well
+that ends well, it turns out he became an excellent tailor, and makes a good
+living for his family.  He is now the best dressed merchant in town.
+~
+225 8 0
+0d0+0 0 0
+D2
+East Camel Walk.
+~
+~
+0 -1 22517
+S
+#22567
+Brahim's Weapons Shop~
+You find yourself in an entire room full of every kind of weapon imaginable.
+There are gigantic knives and lances on the walls, and the room is lined with
+wooden display cases full of guns, knives, daggers, and a multitude of various
+other weaponry.  Brahim himself has crafted many of them - others are imported
+from around the world.  You shiver as your gaze falls upon a giant bastard
+sword hanging from the ceiling.  Good thing you aren't another foot taller..
+~
+225 8 0
+0d0+0 0 0
+D2
+East Camel Walk.
+~
+~
+0 -1 22516
+S
+#22568
+Haslam's General Store~
+This is the general store of Agrabah.  It is here that most of the local
+folk buy their miscellaneous items.  Haslam is a burly native with a sharp
+eye for shoplifters and very little to say to outsiders.  The shelves are
+full of items for almost every need, and there are barrels, baskets and boxes
+of surplus supplies stacked along the walls.
+~
+225 8 0
+0d0+0 0 0
+D2
+East Camel Walk.
+~
+~
+0 -1 22515
+S
+#22569
+Rajiv's Bakery~
+Rajiv is the town baker, and an excellent one at that.  The heavenly smells
+of danish pastries, doughnuts, breads, and scores of other freshly baked goods
+makes your stomach growl with hunger.  Rajiv nods at you in greeting as you
+enter, then silently observes you while you browse.
+~
+225 8 0
+0d0+0 0 0
+D2
+West Camel Walk.
+~
+~
+0 -1 22513
+S
+#22570
+Raslim's Butchery~
+Here is the only place in town where you can buy meats and poultry.  Most are
+cuts of camel that Raslim buys from Fouad, the used camel salesman, however
+sometimes he gets imported meats such as beef and lamb.  Another favorite,
+dogmeat, is available here.
+~
+225 8 0
+0d0+0 0 0
+D2
+West Camel Walk.
+~
+~
+0 -1 22512
+S
+#22571
+Merhlin's Magick Shoppe~
+You find yourself standing in the center of a shoppe filled with all types of
+magickal items.  Judging from the threadbare rugs on the floor, it is a
+popular shop in this city.  You see a variety of lamps on the shelves, and
+wonder if one might be.....nah.  As you look at the colorful assortment of
+lamps, scrolls, and other various items, you feel rather insecure in your own
+ineptness with magick.  This stuff looks powerful!
+~
+225 8 0
+0d0+0 0 0
+D2
+West Camel Walk.
+~
+~
+0 -1 22511
+S
+#22572
+Khazim's Jewelry Stand~
+You are standing in front of a smell, tent-covered booth bearing a
+not-so-straightly hung wooden sign on which is painted in fading red paint,
+Khazim's Discount Jewelry.  On the wooden counter there are several wooden
+ring cases, in which there are an assortment of rings that range from diamond
+to brass.  Behind the counter, hung on small brown pegs, is a large assortment
+of necklaces and bracelets, ranging equally in their value and appearance.
+You wonder how much of this "discount jewelry" was actually acquired honestly.
+~
+225 8 0
+0d0+0 0 0
+D2
+West Camel Walk.
+~
+~
+0 -1 22510
+S
+#22573
+Reception~
+This is where you may rent your possessions until you return - for a small
+fee of course.  Hesthra sits behind the desk trying to determine how much
+gold she can squeeze out of your money pouch.
+~
+225 0 0
+0d0+0 0 0
+D0
+East Sultans Walk.
+~
+~
+0 -1 22546
+D3
+The Cryogenic Center.
+~
+~
+0 -1 22574
+S
+#22574
+The Cryogenic Center~
+Tanbami smiles at you as you walk in the door.  This center is for more
+long term rentals - if you plan on taking a long trip, the rates are much
+cheaper here than renting by day.
+~
+225 0 0
+0d0+0 0 0
+D1
+Reception.
+~
+~
+0 -1 22573
+S
+#22575
+Hestrim's Fruit Stand~
+You find yourself standing in a small fruit stand.  There are several baskets
+of apples and oranges, some boxes of imported bananas, and even some fresh
+strawberries. Ok, maybe not so fresh - but you are in the desert.  Hestrim
+is very young for a merchant here, he inherited the stand rather suddenly when
+his father, Ragba, died of exposure while lost in the desert last year.  He is
+new at this business, but is showing potential.  Next year he may try to
+import some of those exotic fruits from Ceylon.
+~
+225 8 0
+0d0+0 0 0
+D0
+East Sultans Walk.
+~
+~
+0 -1 22544
+S
+#22576
+Mesra's Date Stand~
+You are in a small stand shielded from the sun by a tent cover.  Around you
+are baskets full of freshly picked dates for your dinner table.  Mesra lost
+her husband to a scorpion bite two years ago, and has since been making a
+meager income for her family by taking over her husband's date stand.
+~
+225 8 0
+0d0+0 0 0
+D0
+West Sultans Walk.
+~
+~
+0 -1 22540
+S
+#22577
+Hagul's Figs~
+You find yourself surrounded by barrels and baskets full of fresh figs.  Hagul
+had a fig tree growing in his yard that dropped so many figs that his family
+couldn't walk in it without stepping on them.  His wife, angry that she could
+not keep her floors clean of sticky figs, made him pick them all up.  Having a
+head for business, Hagul then opened this fig stand, solving the problems with
+both his yard and wife, and making money to boot.
+~
+225 8 0
+0d0+0 0 0
+D0
+West Sultans Walk.
+~
+~
+0 -1 22541
+S
+#22578
+Tamin's Pistachio Stand~
+You have found the only pistachio stand in town.  Tamin stands here in white
+tunic and turban, ready to sell you fresh pistachios for your table.
+~
+225 8 0
+0d0+0 0 0
+D0
+West Sultans Walk.
+~
+~
+0 -1 22542
+S
+#22579
+Crazy Hakico's Discount Fertilizer~
+You find yourself staring at an old, broken down wagon, that has the sign:
+Crazy Hakico's Discount Fertilizer painted on it in faded red letters.
+Judging from the smell, that is exactly what the man sells.  Hakico is the
+neighbor of Fouad, Agrabah's used camel merchant.  This may explain how his
+(thriving?) business came to be.  You thank the man, but say "no thanks".
+~
+225 8 0
+0d0+0 0 0
+D2
+East End of Cart Row.
+~
+~
+0 -1 22539
+S
+#22580
+Fouad's Used Camel Sales~
+This is where Fouad, son of Ahkmed, may he rest in peace, goes about his
+daily business of selling used camels.  When buy a camel from Fouad, always
+remember: the camel that moves when poked with a stick is still alive.
+~
+225 8 0
+0d0+0 0 0
+D2
+West Cart Row.
+~
+~
+0 -1 22534
+S
+#22581
+Used Camels~
+This is the shop room for shop 22580.
+~
+225 8 0
+0d0+0 0 0
+S
+#22582
+Entrance to Paladins Guild~
+You are standing in the entrance to the Paladins guild.
+~
+225 8 0
+0d0+0 0 0
+D2
+East End of Sultans Walk
+~
+~
+0 -1 22547
+D4
+The Paladins Guild
+~
+~
+0 -1 22583
+S
+#22583
+The Paladins Inner Sanctum~
+You are in a small well-lit room, with very few furnishings.  The walls are
+adorned with ornate paintings, and a huge holy shield with a huge cross
+engraved on it takes up the best part of one whole wall.
+~
+225 8 0
+0d0+0 0 0
+D5
+Entrance to Paladins Guild
+~
+~
+0 -1 22582
+S
+#22584
+Entrance to Antipaladins Guild~
+You are standing in the entrance to the Antipaladins guild.
+~
+225 8 0
+0d0+0 0 0
+D0
+East End of Sultans Walk
+~
+~
+0 -1 22547
+D4
+The Antipaladins Training Room
+~
+~
+0 -1 22585
+S
+#22585
+The Antipaladins Training Room~
+~
+225 8 0
+0d0+0 0 0
+D5
+Entrance to Antipaladins Guild
+~
+~
+0 -1 22584
+S
+#22586
+Rakul's Thieves Guild.~
+This is where the thieves and pickpockets of the city come to get the best of
+training from the best of Masters.  Rakul is a lean, wiry man with leathery
+skin and a glint in his eyes.  He will have your money pouch without even
+appearing to come within three feet of you.  He trains only those with talent
+and tosses the rest back onto the street to fend for themselves.
+~
+225 8 0
+0d0+0 0 0
+D5
+Entrance to Thieves Guild
+~
+~
+0 -1 22550
+S
+#22587
+Ramin's Clerics Guild~
+You find yourself standing in a large, immaculate room that is mostly bare
+except for a few pads on the floor and two very soft-looking overstuffed
+chairs that sit facing each other.  There are beautiful paintings on the walls
+here, and you wonder who the artist was.  In one corner sits a small, simple
+altar under a large wooden crucifix.  The room is all white, and the imported
+persian carpet depicts scenes of angels.  You suddenly feel very humble.
+~
+225 8 0
+0d0+0 0 0
+D5
+Entrance to Clerics Guild
+~
+~
+0 -1 22559
+S
+#22588
+Ahman's Mages Guild~
+You are standing in a small, dark shop just off the main drag.  The proprietor,
+Ahman, stands before you in dark purple garb and turban, looking deceptively
+amiable. The room is cluttered with various flasks and scrolls.  Looking at
+the rug askew on the floor, you think you see part of a pentogram painted on
+the floor.  Ahman, a master sorcerer and not one to be trifled with, must
+train his apprentices here.
+~
+225 8 0
+0d0+0 0 0
+D5
+Entrance to Mages Guild
+~
+~
+0 -1 22563
+S
+#22589
+Abul's Warriors Guild~
+You are in a large room with bits and pieces of armor and weaponry scattered
+about. There are straw practice mats about, and several large areas that
+look to be practice arenas.  Abul has been guildmaster here for many years,
+and this is where he trains his apprentices.  Since by the look of him, he
+could rip your head off with one arm, you decide to be very nice to him.
+~
+225 8 0
+0d0+0 0 0
+D5
+Entrance to Warriors Guild
+~
+~
+0 -1 22565
+S
+#22590
+The Reading Room~
+This is a warm, clean and cozy room with comfortable chairs and a few tables
+along the walls, each with a soft candle burning on it for reading.
+~
+225 28 0
+0d0+0 0 0
+D5
+The Temple of Agrabah
+~
+~
+0 -1 22522
+S
+$

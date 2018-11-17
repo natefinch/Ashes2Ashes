@@ -1,0 +1,797 @@
+#17300
+eric shrubber~
+Eric the Shrubber~
+Eric the shrubber sits here on his stool working on his latest creation.
+~
+You see before you a man wearing a brown gown of leather.  He is busily
+working on his latest shrubbery.
+~
+10 0 0 W3
+40 12 -1 4d9+500 4d5+0
+2000 40000
+6 8 1
+13 0 13 13 13 13 0
+0 2 2
+-10 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#17301
+fox~
+a Fox~
+A fox sits here hiding from the hunters.
+~
+You see before you one of natures slyest creatures.  It has a redish brown
+color and thin pointy ears.
+~
+8 0 0 W3
+25 5 0 4d9+280 3d3+0
+0 25000
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+0 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#17302
+trapper~
+a Trapper~
+A trapper stands here setting a bear trap.
+~
+An older looking man stands before you dressed completely in animal skin
+clothing.  He is tall and skilled in fighting from his many close encounters
+with animals.
+~
+8201 0 -10 W3
+50 13 -1 4d9+500 4d5+0
+5000 50000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+-10 0 2 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#17303
+rabbit~
+a Rabbit~
+A rabbit sits here eating some grass.
+~
+You see a cute little white rabbit.  It has a nice pink nose that twitches in
+the fresh air of the forest.
+~
+8 0 10 W3
+20 5 2 4d9+200 2d3+0
+0 20000
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+20 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#17304
+squirrel~
+a Squirrel~
+A squirrel is sitting here eating a nut.
+~
+A small brown squirrel sits before you.  It has small beady black eyes and
+a large bushy tail.
+~
+8 0 5 W3
+15 3 5 2d3+136 2d3+1
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#17305
+bear~
+a Bear~
+A bear is wandering through the forest in search of food.
+~
+You see a large brown bear with long white teeth and a mean look on his
+face.  He is hungry and would eat just about anything.
+~
+8200 0 0 W3
+50 11 0 5d3+340 4d3+0
+0 50000
+8 8 1
+13 0 13 13 13 13 0
+0 4 3
+0 0 4 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#17306
+hunter~
+a Hunter~
+A hunter is walking through the forest in search of his prey.
+~
+You see a man dressed in dark green with mud and dirt on his face and hands.
+He has a long bow around his shoulder and has a brown bag tied to a stick
+over his other shoulder.
+~
+8 0 -600 W3
+55 19 -1 4d9+440 4d5+0
+6000 55000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-10 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#17307
+forester~
+a Forester~
+A forester stands here ready to help you.
+~
+He is a stout hearted young man with a friendly look on his face.  His
+clothes are dark and brown to match the surrounding forest.
+~
+8 0 0 W3
+40 14 -1 4d9+380 4d5+0
+1000 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-10 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#17308
+scout~
+a Scout~
+A scout stands here looking for the track of an animal.
+~
+You see a short powerful man with large dark eyes.  He wears mostly brown
+leather clothing and is trying to concentrate on what he is doing.
+~
+8200 0 0 W3
+47 10 -2 4d9+600 5d3+1
+2500 47000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#17309
+bird~
+a Bird~
+A bird is sitting on a nearby branch singing.
+~
+You see a small red bird sitting on the branch of a tree.  It has no cares in
+the world and sits here singing happily.
+~
+8 0 2 W3
+15 5 3 2d3+76 2d3+0
+0 15000
+6 8 0
+13 0 13 13 13 13 0
+0 0 3
+30 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#17310
+knight ni~
+a Knight who says, "NI!"~
+A Knight stands here shouting the word, "NI!"
+~
+A tall man in dark armor stands before you.  He has a fierce, but strangely
+sarcastic look on his face as you come closer to him.  You then shiver as he
+shouts the dreaded word, . . ., NI!
+~
+8200 65536 0 W3
+55 19 -2 4d9+500 4d7+0
+4000 55000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#17311
+leader knights ni~
+the Leader of the Knights who say, "NI!"~
+The Leader of the knights who say, "NI!" stands here.
+~
+An enormous knight in black armor stands here awaiting a shrubbery so that
+you can open the gate and pass.  You will not be able to open the gate
+without a shrubbery.  You just hope that he does not shout the dreaded
+word again.  FEAR the word NI!!!
+~
+10 128 351 W3
+75 25 -5 4d9+650 6d9+0
+10000 75000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-50 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17312
+squire~
+a Squire~
+A squire stands here loyaly waiting for an order from his knight.
+~
+The squire is a strong young man with the hope of one day becoming a knight.
+He is trained in the arts of being a true knight and does have some skill.
+~
+8 0 0 W3
+30 9 0 4d9+180 3d5+0
+25 30000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#17313
+young page~
+a Page~
+A young page is walking by on his way to deliver a message.
+~
+You see before you a strong young boy.  He wears a bright red robe and carries
+a message in his tiny hands.
+~
+8 0 0 W3
+20 2 4 4d3+152 2d3+1
+5 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+40 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#17314
+white knight~
+a White Knight~
+A White knight stands here waiting for orders.
+~
+A smaller looking knight stands before you.  His armor is entirely white and
+he is not as good of a fighter as the other knights.
+~
+8 0 0 W3
+30 8 -2 2d9+210 4d5+0
+500 30000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-20 3 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#17315
+black knight~
+a Black Knight~
+A black knight stands here waiting for his next mission.
+~
+You see a large man wearing black armor.  He is fairly well skilled as a knight
+and has done well in battle.
+~
+8 0 -351 W3
+40 12 -2 4d9+440 4d5+0
+1000 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-20 3 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#17316
+silver knight~
+a Silver Knight~
+A silver knight stands here.
+~
+You see a large knight in silver armor.  He is one of the better knights
+in the kingdom of lag.
+~
+8200 0 0 W3
+50 15 -6 4d9+500 4d9+0
+2500 50000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 3 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#17317
+gold knight~
+a Gold Knight~
+A gold knight stands before you.
+~
+You see before you one of the best knights of the relm.  He wears golden
+armor and is very strong.  You notice that he is expertly skilled as a
+knight.
+~
+8201 128 0 W3
+65 20 -10 4d9+600 4d9+0
+6000 65000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+-100 3 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17318
+receptionist~
+a Receptionist~
+A receptionist sits here working.
+~
+You see a rather large woman in a green dress.  She is busy organizing the
+king's busy schedule.  She seems as if she could be a friendly person if she
+actually had the time to be.
+~
+10 0 0 W3
+80 26 -14 4d5+758 5d9+1
+500 80000
+2 8 2
+13 0 13 13 13 13 0
+0 2 2
+-140 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#17319
+ghost uncle george~
+the Ghost of Uncle George~
+The ghost of uncle george is here floating in the middle of the room.
+~
+The ghost of the king's late uncle george is transparent.  He wears the same
+cloths that he once wore in life.  He is also still as mean as he was when he
+was alive.
+~
+42 2 0 W3
+70 15 -10 4d9+600 4d9+2
+0 70000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 6 0 0 0
+100 100 100 100 100
+0 0 0
+6 10
+~
+#17320
+guard royal treasury~
+the Guard of the Royal Treasury~
+The guard of the royal treasury stands here.
+~
+You see a strong and tall man with a golden uniform.  He is here keeping a
+careful eye on the king's spending money.
+~
+11 0 0 W3
+110 35 -22 8d9+1350 6d9+2
+10000 125000
+8 8 1
+13 0 13 13 13 13 0
+19 2 2
+-220 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17321
+king lag~
+the King of The Land of Lag~
+The King of The Land of Lag stands before you.
+~
+You see a powerful looking man in brightly colored robes.  He wears a crown on
+his head and has many diamonds, rubies, and saphires on it.  He is not a
+person to be messed with for it takes a lot of talent to be the king.
+~
+10 0 0 W3
+105 25 -26 4d9+4750 6d9+5
+40000 120000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-260 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17322
+queen lag~
+the Queen of The Land of Lag~
+The queen of the land of lag stands before you.
+~
+You see a strong woman with a powerful personality.  She is not afraid of
+standing up to the king and telling him what she thinks.  She may not do
+it in public because she does not want to undermind his authority, but
+she will tell him what she thinks.
+~
+10 65536 0 W3
+105 35 -10 4d9+2250 6d9+0
+20000 120000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17323
+prince~
+the Prince~
+The prince stands here driving all of the king's servents insane.
+~
+You see a young boy with unlimited energy standing before you.  He is well
+dressed and has gotten everything he has ever wanted.  He has become a 
+spoiled little brat and is capable of anything.
+~
+8200 0 0 W3
+55 13 -6 4d9+700 4d9+0
+20000 55000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#17324
+servent~
+a Servent~
+A servent is running around in search of the prince.
+~
+A mild manered servent stands before you.  He is well dressed for a servent and
+has a very organized appearance.  He is having a fit trying to find the prince
+who is always getting into trouble.
+~
+8 0 0 W3
+25 6 0 2d3+216 2d5+0
+10 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#17325
+maid~
+a Maid~
+A maid stands here cleaning.
+~
+You see a mildly attractive woman in a nice black uniform.  She works hard to 
+keep the castle clean.
+~
+9 0 0 W3
+35 8 -2 4d9+200 2d7+0
+50 32000
+8 8 2
+13 0 13 13 13 13 0
+5 2 2
+-20 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#17326
+nanny~
+the Nanny~
+The prince's nanny is here looking for the prince.
+~
+You see a large woman with a neat white dress on.  She is fairly old, but is
+in good condition for her age.  She spends most of her time chasing after the
+prince.
+~
+10 0 0 W3
+80 25 -14 4d9+1000 4d9+2
+500 80000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-140 0 2 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#17327
+court magician~
+the Court Magician~
+The Court Magician stands here practicing his spells.
+~
+You see a man with bright magical robes.  He wears a pointed hat with the a
+golden moon on it.  He is deep in thought about the new spell he is working on.
+~
+11 65536 0 W3
+105 25 -10 4d9+1300 5d9+0
+2000 150000
+8 8 1
+13 0 13 13 13 13 0
+8 2 2
+-100 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17328
+minister defense~
+the Minister of Defense~
+The minister of defense stands here talking.
+~
+The minister of defense is a wise man who the king trusts more than anyone on
+his council.  He is a good leader and is very skilled when it comes to
+battles.
+~
+10 0 0 W3
+100 28 -10 4d9+1000 6d9+0
+6000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17329
+elderly advisor~
+an Elderly Advisor~
+An elderly advisor stands here.
+~
+The elderly advisor is a wise old man who gives the council advice and has
+been very helpful in the past.
+~
+10 0 0 W3
+100 25 -6 4d9+1500 4d9+2
+5000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#17330
+minister culture~
+the Minister of Culture~
+The minister of culture stands here pondering the matter.
+~
+You see before you a man of great power.  He is very smart and is considered
+to be one of the best in his area.  He has great influence over the king's
+decisions.
+~
+10 0 0 W3
+70 21 -14 4d9+1000 4d9+0
+5000 70000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-140 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#17331
+minister finance~
+the Minister of Finance~
+The minister of finance stands here talking.
+~
+You see a man who is tall and has a nice smile.  He is good with facts and
+figures.
+~
+10 0 0 W3
+50 15 -6 4d9+500 3d7+0
+50000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#17332
+cat~
+the Queen's Cat~
+The queen's cat sits here purring
+~
+A Small white cat sits here inocently.  It has a long tail and a cute little
+pink nose.
+~
+8 0 1000 W3
+25 10 0 2d9+210 2d5+2
+15 25000
+6 8 2
+13 0 13 13 13 13 0
+0 0 3
+0 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#17333
+captain guard~
+the Captain of the Guard~
+The Captain of the guard sits at his desk going over the duty roster.
+~
+The captain of the guard is a nice man who can be assertive when he needs to
+be.  He is strong and well trained from his many battles.
+~
+10 0 0 W3
+110 30 -14 4d9+1750 6d9+0
+1000 165000
+6 8 1
+13 0 13 13 13 13 0
+0 2 2
+-140 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17334
+lookout~
+a Lookout~
+A lookout stands here watching for any signs of trouble.
+~
+You see a boy wearing dark clothing.  His eyes search the countryside for
+signs of a possible attack.  He has been here for a long time and his eyes
+are starting to hurt.
+~
+8 0 0 W3
+25 10 2 4d9+200 2d5+1
+5 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#17335
+king's hunting falon~
+the King's Hunting Falcon~
+The king's hunting falcon sits here waiting for the next great hunt.
+~
+You see a strong looking bird with a sharp beak.  Hunting is one of the king's
+favorite sports.  His falcon is very dear to him.
+~
+8 0 -1000 W3
+32 15 -2 4d9+200 4d5+0
+10 32000
+6 8 1
+13 0 13 13 13 13 0
+0 1 3
+-20 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#17336
+prisoner~
+a Prisoner~
+A Prisoner sits here.
+~
+You see a poor man dressed in nothing but an old gown.  He has been scorned by
+the kingdom for his offences
+~
+8 0 0 W3
+50 15 -6 4d9+500 4d5+0
+5 50000
+6 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#17337
+murderer~
+a Murderer~
+A murderer sits here thinking of revenge.
+~
+You see an evil menace to society sitting here in his brown robe.  He has
+committed one of the worst crimes in the kingdom.
+~
+42 0 -400 W3
+100 25 -6 4d9+1000 4d9+4
+10 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17338
+serial killer~
+a serial killer~
+A serial killer sits here thinking about the people he enjoyed killing.
+~
+This truely evil person sits before you in his brown robe.  He has done
+unspeakable things and will stay here forever.
+~
+42 0 -500 W3
+105 25 -6 4d9+1750 5d9+0
+50 110000
+6 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#17339
+dungeon master~
+the Dungeon Master~
+The dungeon master sits here.
+~
+You see before you a very strong man.  He is in charge of feeding the dragon
+and keeping the prisoners in line.
+~
+10 0 0 W3
+50 14 -6 2d9+450 4d5+0
+500 50000
+6 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#17340
+dragon~
+the Dragon~
+A huge dragon stands before you.
+~
+This enormous red dragon is used to get rid of unwanted prisoners.  It is
+very dangerous and is not easy to kill.
+~
+11 128 -500 W3
+110 20 -18 4d9+13999 9d9+3
+1000 200000
+8 8 0
+13 0 13 13 13 13 0
+11 4 4
+-180 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

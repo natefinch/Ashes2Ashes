@@ -1,0 +1,1715 @@
+#9900
+L.  A.     M  E  L  T  D  O  W  N~
+The city of Los Angeles has been overtaken by alien invaders.  Your mission
+is to get to the reactor at whatever cost....and send this entire city
+to hell in a billion pieces.
+Here's the deal..please read:
+If you die, your corpse will be brought back to this room and I will bring
+you back here.  You can then loot your corpse and I will restore you.
+Good luck finding the group after dying.  I may assist in this...maybe not.
+~
+99 14336 0
+0d0+0 0 0
+D1
+~
+escape door~
+1 -1 9901
+S
+#9901
+On a rooftop overlooking L.A.~
+The smoke from the smoldering buildings here downtown is thick and burns your
+eyes.  You can spot several small alien craft and helocopters buzzing about
+the sky.  On this rooftop you are a sitting duck.  Grab some gear and hit the
+pavement.
+~
+99 14336 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9902
+D2
+~
+~
+0 -1 9903
+S
+#9902
+On a rooftop overlooking L.A.~
+The smoke from the smoldering buildings here downtown is thick and burns your
+eyes.  You can spot several small alien craft and helocopters buzzing about
+the sky.  On this rooftop you are a sitting duck.  Grab some gear and hit the
+pavement.
+~
+99 14336 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 9904
+D3
+~
+~
+0 -1 9901
+D5
+~
+~
+0 -1 9911
+S
+#9903
+On a rooftop overlooking L.A.~
+The smoke from the smoldering buildings here downtown is thick and burns your
+eyes.  You can spot several small alien craft and helocopters buzzing about
+the sky.  On this rooftop you are a sitting duck.  Grab some gear and hit the
+pavement.
+~
+99 14336 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9901
+D1
+~
+~
+0 -1 9904
+S
+#9904
+On a rooftop overlooking L.A.~
+The smoke from the smoldering buildings here downtown is thick and burns your
+eyes.  You can spot several small alien craft and helocopters buzzing about
+the sky.  On this rooftop you are a sitting duck.  Grab some gear and hit the
+pavement.
+~
+99 14336 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9902
+D3
+~
+~
+0 -1 9903
+S
+#9905
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9907
+D1
+~
+~
+0 -1 9906
+S
+#9906
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9908
+D3
+~
+~
+0 -1 9905
+S
+#9907
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9909
+D1
+~
+~
+0 -1 9908
+D2
+~
+~
+0 -1 9905
+S
+#9908
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9910
+D2
+~
+~
+0 -1 9906
+D3
+~
+~
+0 -1 9907
+S
+#9909
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9911
+D1
+~
+~
+0 -1 9910
+D2
+~
+~
+0 -1 9907
+S
+#9910
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9912
+D2
+~
+~
+0 -1 9908
+D3
+~
+~
+0 -1 9909
+S
+#9911
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8194 11
+20d10+120 20 0
+D0
+~
+~
+0 -1 9913
+D1
+~
+~
+0 -1 9912
+D2
+~
+~
+0 -1 9909
+S
+#9912
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9914
+D2
+~
+~
+0 -1 9910
+D3
+~
+~
+0 -1 9911
+S
+#9913
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9915
+D1
+~
+~
+0 -1 9914
+D2
+~
+~
+0 -1 9911
+S
+#9914
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9916
+D2
+~
+~
+0 -1 9912
+D3
+~
+~
+0 -1 9913
+S
+#9915
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9917
+D1
+~
+~
+0 -1 9916
+D2
+~
+~
+0 -1 9913
+S
+#9916
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9918
+D2
+~
+~
+0 -1 9914
+D3
+~
+~
+0 -1 9915
+S
+#9917
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9919
+D1
+~
+~
+0 -1 9918
+D2
+~
+~
+0 -1 9915
+S
+#9918
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9920
+D1
+~
+~
+0 -1 9921
+D2
+~
+~
+0 -1 9916
+D3
+~
+~
+0 -1 9917
+S
+#9919
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9920
+D2
+~
+~
+0 -1 9917
+S
+#9920
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9922
+D2
+~
+~
+0 -1 9918
+D3
+~
+~
+0 -1 9919
+S
+#9921
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9922
+D1
+~
+~
+0 -1 9923
+D3
+~
+~
+0 -1 9918
+S
+#9922
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9924
+D2
+~
+~
+0 -1 9921
+D3
+~
+~
+0 -1 9920
+S
+#9923
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9924
+D1
+~
+~
+0 -1 9925
+D3
+~
+~
+0 -1 9921
+S
+#9924
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9926
+D2
+~
+~
+0 -1 9923
+D3
+~
+~
+0 -1 9922
+S
+#9925
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9926
+D1
+~
+~
+0 -1 9927
+D3
+~
+~
+0 -1 9923
+S
+#9926
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9928
+D2
+~
+~
+0 -1 9925
+D3
+~
+~
+0 -1 9924
+S
+#9927
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9928
+D3
+~
+~
+0 -1 9925
+S
+#9928
+On the streets of L.A.~
+The city streets of Los Angeles lay in ruin.  The air is dense with smoke
+from the burning buildings.  The entire city and maybe the entire world is
+over run with alien troopers and policemen.  Their single mission is to
+destroy the human race and you are Earth's only hope.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9929
+D2
+~
+~
+0 -1 9927
+D3
+~
+~
+0 -1 9926
+S
+#9929
+In a dark alley behind a movie theatre~
+This alley doesn't look particularly safe.  It's dark and would be a perfect
+place for someone to sneak up on you.  Inside you can hear the muffled audio
+from the movie that's showing.  No reason to buy a ticket, there's surely a
+rear door you can gain entry through.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9930
+D2
+~
+~
+0 -1 9928
+S
+#9930
+In a dark alley behind a movie theatre~
+This alley doesn't look particularly safe.  It's dark and would be a perfect
+place for someone to sneak up on you.  Inside you can hear the muffled audio
+from the movie that's showing.  No reason to buy a ticket, there's surely a
+rear door you can gain entry through.
+~
+99 8192 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 9931
+D2
+~
+~
+0 -1 9929
+S
+#9931
+In a dark alley behind a movie theatre~
+This alley doesn't look particularly safe.  It's dark and would be a perfect
+place for someone to sneak up on you.  Inside you can hear the muffled audio
+from the movie that's showing.  No reason to buy a ticket, there's surely a
+rear door you can gain entry through.
+~
+99 8192 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 9930
+D3
+~
+~
+0 -1 9932
+S
+#9932
+In a dark alley behind a movie theatre~
+This alley doesn't look particularly safe.  It's dark and would be a perfect
+place for someone to sneak up on you.  Inside you can hear the muffled audio
+from the movie that's showing.  No reason to buy a ticket, there's surely a
+rear door you can gain entry through.
+~
+99 8192 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9931
+D3
+~
+~
+0 -1 9933
+S
+#9933
+In a dark alley behind a movie theatre~
+This alley doesn't look particularly safe.  It's dark and would be a perfect
+place for someone to sneak up on you.  Inside you can hear the muffled audio
+from the movie that's showing.  No reason to buy a ticket, there's surely a
+rear door you can gain entry through.
+~
+99 24576 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9932
+D3
+~
+~
+0 -1 9934
+S
+#9934
+In a dark alley behind a movie theatre~
+This alley doesn't look particularly safe.  It's dark and would be a perfect
+place for someone to sneak up on you.  Inside you can hear the muffled audio
+from the movie that's showing.  No reason to buy a ticket, there's surely a
+rear door you can gain entry through.
+~
+99 8192 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9933
+D3
+~
+doors door~
+2 9990 9935
+S
+#9935
+The emergency exit of the Theatre~
+You made it!  You always wanted to see "Bleach Blond Biker Bimbos" on the
+big screen.  The theatre looks really run down, but in the dark...who cares!
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+doors door~
+1 -1 9936
+D1
+~
+doors door~
+2 9990 9934
+S
+#9936
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9939
+D1
+~
+~
+0 -1 9937
+D2
+~
+doors door~
+1 -1 9935
+S
+#9937
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9940
+D1
+~
+~
+0 -1 9938
+D3
+~
+~
+0 -1 9936
+S
+#9938
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9941
+D3
+~
+~
+0 -1 9937
+S
+#9939
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9942
+D1
+~
+~
+0 -1 9940
+D2
+~
+~
+0 -1 9936
+S
+#9940
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9943
+D1
+~
+~
+0 -1 9941
+D2
+~
+~
+0 -1 9937
+D3
+~
+~
+0 -1 9939
+S
+#9941
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9944
+D2
+~
+~
+0 -1 9938
+D3
+~
+~
+0 -1 9940
+S
+#9942
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9945
+D1
+~
+~
+0 -1 9943
+D2
+~
+~
+0 -1 9939
+S
+#9943
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9946
+D1
+~
+~
+0 -1 9944
+D2
+~
+~
+0 -1 9940
+D3
+~
+~
+0 -1 9942
+S
+#9944
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9947
+D2
+~
+~
+0 -1 9941
+D3
+~
+~
+0 -1 9943
+S
+#9945
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9946
+D2
+~
+~
+0 -1 9942
+S
+#9946
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9948
+D1
+~
+~
+0 -1 9947
+D2
+~
+~
+0 -1 9943
+D3
+~
+~
+0 -1 9945
+S
+#9947
+Inside the theatre~
+If it weren't for all these noisy, annoying aliens this theatre wouldn't
+be so bad.  It has nice high ceilings and plenty of comfortable seating.
+Up on the screen at the south end of the theatre, the curtains have just
+opened and the movie is about to start.  Screw those upcoming attractions.
+Get yourself some snacks from the concession before the feature begins.
+~
+99 14337 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9944
+D3
+~
+~
+0 -1 9946
+S
+#9948
+A Hallway in the theatre~
+Awwww yeah...don't ya just love those sticky theatre floors?  This hallway is
+narrow and dim.  Judging from the way the walls are shaking, there must be
+some demolition going on somewhere nearby.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9949
+D2
+~
+~
+0 -1 9946
+S
+#9949
+A Hallway in the theatre~
+Awwww yeah...don't ya just love those sticky theatre floors?  This hallway is
+narrow and dim.  Judging from the way the walls are shaking, there must be
+some demolition going on somewhere nearby.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9950
+D2
+~
+~
+0 -1 9948
+S
+#9950
+A Hallway in the theatre~
+Awwww yeah...don't ya just love those sticky theatre floors?  This hallway is
+narrow and dim.  Judging from the way the walls are shaking, there must be
+some demolition going on somewhere nearby.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9951
+D1
+~
+doors door~
+2 9991 9963
+D3
+~
+~
+0 -1 9949
+S
+#9951
+The concession~
+They have all the good stuff to eat here.  Popcorn, candy, nachos, and pizza
+are all available.  But, don't piss off those guys working the counter tonight.
+They can be very unpleasant.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9957
+D2
+~
+~
+0 -1 9950
+D3
+~
+~
+0 -1 9952
+S
+#9952
+The concession~
+They have all the good stuff to eat here.  Popcorn, candy, nachos, and pizza
+are all available.  But, don't piss off those guys working the counter tonight.
+They can be very unpleasant.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9956
+D1
+~
+~
+0 -1 9951
+D3
+~
+~
+0 -1 9953
+S
+#9953
+The concession~
+They have all the good stuff to eat here.  Popcorn, candy, nachos, and pizza
+are all available.  But, don't piss off those guys working the counter tonight.
+They can be very unpleasant.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9955
+D1
+~
+~
+0 -1 9952
+D3
+~
+~
+0 -1 9960
+S
+#9954
+A Surveillance room~
+It's a shame that such high security measures are neccessary.  This area
+has all the video screens for monitoring the entire theatre...inside
+and outside.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+panel door~
+1 -1 9955
+S
+#9955
+Behind the counter~
+They have all the good stuff to eat here.  Popcorn, candy, nachos, and pizza
+are all available.  But, don't piss off those guys working the counter tonight.
+They can be very unpleasant.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9956
+D2
+~
+~
+0 -1 9953
+D3
+~
+panel door~
+1 -1 9954
+S
+#9956
+Behind the counter~
+They have all the good stuff to eat here.  Popcorn, candy, nachos, and pizza
+are all available.  But, don't piss off those guys working the counter tonight.
+They can be very unpleasant.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9957
+D2
+~
+~
+0 -1 9952
+D3
+~
+~
+0 -1 9955
+S
+#9957
+Behind the counter~
+They have all the good stuff to eat here.  Popcorn, candy, nachos, and pizza
+are all available.  But, don't piss off those guys working the counter tonight.
+They can be very unpleasant.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 9958
+D2
+~
+~
+0 -1 9951
+D3
+~
+~
+0 -1 9956
+S
+#9958
+A Surveillance room~
+It's a shame that such high security measures are neccessary.  This area
+has all the video screens for monitoring the entire theatre...inside
+and outside.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9959
+D3
+~
+door~
+1 -1 9957
+S
+#9959
+A Surveillance room~
+It's a shame that such high security measures are neccessary.  This area
+has all the video screens for monitoring the entire theatre...inside
+and outside.
+~
+99 14337 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9958
+S
+#9960
+The hallway to the arcade~
+Awwww yeah...don't ya just love those sticky theatre floors?  This hallway is
+narrow and dim.  Judging from the way the walls are shaking, there must be
+some demolition going on somewhere nearby.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9953
+D2
+~
+~
+0 -1 9961
+S
+#9961
+The hallway to the arcade~
+Awwww yeah...don't ya just love those sticky theatre floors?  This hallway is
+narrow and dim.  Judging from the way the walls are shaking, there must be
+some demolition going on somewhere nearby.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9960
+D2
+~
+~
+0 -1 9962
+S
+#9962
+The arcade elevator~
+All righty, they have all the good games here to challenge you.  Ooooh,
+there's even a Duke Nukem game tucked over in the corner.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9961
+D4
+~
+~
+0 -1 9969
+S
+#9963
+The stairs to the projection room~
+You can hear the hum of the projector in the background.  Music to a
+movie fans ears.  Ever wonder what it takes to put those movies up
+on the big screen?  Now's your chance to find out.
+~
+99 14337 0
+0d0+0 0 0
+D3
+~
+doors door~
+2 9991 9950
+D4
+~
+~
+0 -1 9964
+S
+#9964
+The stairs to the projection room~
+You can hear the hum of the projector in the background.  Music to a
+movie fans ears.  Ever wonder what it takes to put those movies up
+on the big screen?  Now's your chance to find out.
+~
+99 14337 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9965
+D5
+~
+~
+0 -1 9963
+S
+#9965
+The projector room~
+You can hear the hum of the projector in the background.  Music to a
+movie fans ears.  Ever wonder what it takes to put those movies up
+on the big screen?  Now's your chance to find out.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9964
+D2
+~
+~
+0 -1 9968
+D3
+~
+~
+0 -1 9966
+S
+#9966
+The projector room~
+You can hear the hum of the projector in the background.  Music to a
+movie fans ears.  Ever wonder what it takes to put those movies up
+on the big screen?  Now's your chance to find out.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9965
+D2
+~
+~
+0 -1 9967
+S
+#9967
+The projector room~
+You can hear the hum of the projector in the background.  Music to a
+movie fans ears.  Ever wonder what it takes to put those movies up
+on the big screen?  Now's your chance to find out.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9966
+D1
+~
+~
+0 -1 9968
+S
+#9968
+The projector room~
+You can hear the hum of the projector in the background.  Music to a
+movie fans ears.  Ever wonder what it takes to put those movies up
+on the big screen?  Now's your chance to find out.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9965
+D3
+~
+~
+0 -1 9967
+S
+#9969
+The arcade elevator~
+All righty, they have all the good games here to challenge you.  Ooooh,
+there's even a Duke Nukem game tucked over in the corner.
+~
+99 14337 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9970
+D5
+~
+~
+0 -1 9962
+S
+#9970
+The Arcade~
+All righty, they have all the good games here to challenge you.  Ooooh,
+there's even a Duke Nukem game tucked over in the corner.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9969
+D2
+~
+~
+0 -1 9973
+D3
+~
+~
+0 -1 9971
+S
+#9971
+The Arcade~
+All righty, they have all the good games here to challenge you.  Ooooh,
+there's even a Duke Nukem game tucked over in the corner.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9970
+D2
+~
+~
+0 -1 9972
+S
+#9972
+The Arcade~
+All righty, they have all the good games here to challenge you.  Ooooh,
+there's even a Duke Nukem game tucked over in the corner.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9971
+D1
+~
+~
+0 -1 9973
+S
+#9973
+The Arcade~
+All righty, they have all the good games here to challenge you.  Ooooh,
+there's even a Duke Nukem game tucked over in the corner.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9970
+D2
+~
+doors door~
+2 9992 9974
+D3
+~
+~
+0 -1 9972
+S
+#9974
+A restricted area~
+You aren't supposed to be here.  But, what the hell, you've made it
+this far.  You may as well check to see where that dark hallway leads.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+doors door~
+2 9992 9973
+D2
+~
+~
+0 -1 9975
+S
+#9975
+A restricted area~
+You aren't supposed to be here.  But, what the hell, you've made it
+this far.  You may as well check to see where that dark hallway leads.
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9974
+D3
+~
+~
+0 -1 9976
+S
+#9976
+A secret hallway~
+This hallway is very narrow and dark.  You turn sideways and shuffle
+just to move through it.  You can see daylight up ahead though.  Gotta be
+a good sign. Doesn't it?
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9975
+D2
+~
+~
+0 -1 9977
+S
+#9977
+A secret hallway~
+This hallway is very narrow and dark.  You turn sideways and shuffle
+just to move through it.  You can see daylight up ahead though.  Gotta be
+a good sign. Doesn't it?
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9976
+D2
+~
+~
+0 -1 9978
+S
+#9978
+A secret hallway~
+This hallway is very narrow and dark.  You turn sideways and shuffle
+just to move through it.  You can see daylight up ahead though.  Gotta be
+a good sign. Doesn't it?
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9977
+D2
+~
+~
+0 -1 9979
+S
+#9979
+A secret hallway~
+This hallway is very narrow and dark.  You turn sideways and shuffle
+just to move through it.  You can see daylight up ahead though.  Gotta be
+a good sign. Doesn't it?
+~
+99 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9978
+D1
+~
+~
+0 -1 9980
+S
+#9980
+The bridge to the reactor~
+This narrow bridge isn't constructed with safety in mind.  It's about
+2 feet wide with no handrails.  Down below, you can see the back exit
+of the theatre and ahead is the reactor.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9981
+D3
+~
+~
+0 -1 9979
+S
+#9981
+The bridge to the reactor~
+This narrow bridge isn't constructed with safety in mind.  It's about
+2 feet wide with no handrails.  Down below, you can see the back exit
+of the theatre and ahead is the reactor.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9982
+D3
+~
+~
+0 -1 9980
+S
+#9982
+The bridge to the reactor~
+This narrow bridge isn't constructed with safety in mind.  It's about
+2 feet wide with no handrails.  Down below, you can see the back exit
+of the theatre and ahead is the reactor.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9983
+D3
+~
+~
+0 -1 9981
+S
+#9983
+The bridge to the reactor~
+This narrow bridge isn't constructed with safety in mind.  It's about
+2 feet wide with no handrails.  Down below, you can see the back exit
+of the theatre and ahead is the reactor.
+~
+99 14337 0
+0d0+0 0 0
+D1
+~
+reactor door~
+2 9993 9984
+D3
+~
+~
+0 -1 9982
+S
+#9984
+Mission Completed~
+Give yourself a big pat on the back.  You've destroyed the reactor
+along with this lousy town and made a giant leap toward saving the world.
+Your mission is completed....... for now anyway.
+~
+99 14340 0
+0d0+0 0 0
+S
+#9990
+The Xmen testing Arena~
+This is a test.  This is only a test, not to be confused with the real thing. =)
+~
+99 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9991
+D2
+~
+~
+0 -1 9992
+S
+#9991
+The Xmen testing Arena~
+This is a test.  This is only a test, not to be confused with the real thing. =)
+~
+99 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9993
+D3
+~
+~
+0 -1 9990
+S
+#9992
+The Xmen testing Arena~
+This is a test.  This is only a test, not to be confused with the real thing. =)
+~
+99 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9990
+D1
+~
+~
+0 -1 9993
+S
+#9993
+The Xmen testing Arena~
+This is a test.  This is only a test, not to be confused with the real thing. =)
+~
+99 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9991
+D3
+~
+~
+0 -1 9992
+S
+$

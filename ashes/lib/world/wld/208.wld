@@ -1,0 +1,1935 @@
+#20800
+The quest preparation room~
+This room is one for people to wait in. All those who go through quests
+must sit and meditate here while the final items in the quest are set
+up. Perhaps you should look at the rules that are posted on a sign on
+the wall.
+~
+208 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20801
+D1
+~
+~
+0 -1 20805
+E
+quest rule rules sign~
+Rules for this quest are as follows:
+
+1. Groups can have a maximum of 75 levels and 4 players.
+2. No multi's are allowed to participate.
+3. If you level during the quest, it will not affect your group levels.
+4. Groups may be formed.
+5. If you die you may return to the quest.
+6. You may not recall for supplies and return to the quest.
+7. You may not obtain assistance from anyone not in your group.
+8. The quest will continue until all the politicians are dead.
+9. Stealing kills is not allowed, don't interfere in fights.
+10. Don't piss off the IMMs running the quest or it might get cancelled.
+Prizes will be awarded based on the group which wins.
+Obtaining help from outside your group will result in disqualification. 
+Once the quest has begun, there can be no additions/substitutions in the 
+membership. Once you get a group together, the leader needs to tell 
+MacLeod the members of his group. And the winning group will be 
+determined by the number of kills made.
+
+~
+S
+#20801
+~
+CONGRATS!!!!! You made it to the end of the quest!!!!!  If you were the first
+one to get here, then you have one yourself a nice prize!!!!!!!!
+Thank you for playing!
+~
+208 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 20878
+S
+#20802
+~
+~
+208 0 0
+0d0+0 0 0
+S
+#20803
+At the Start of the Quest~
+Wait here calmly and prepare your self for the mental challenge ahead!  Do
+not leave until you have been assigned a numbered direction to leave!
+Leaving before I say so will get you removed from the quest.  The format
+is simple, just go in the direction of what you think is the answer to the
+question.  Many of them are hard, so do not get frustrated!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20804
+D1
+~
+~
+0 -1 20805
+D2
+~
+~
+0 -1 20806
+D3
+~
+~
+0 -1 20807
+D4
+~
+~
+0 -1 20808
+D5
+~
+~
+0 -1 20809
+D6
+~
+~
+0 -1 20810
+D7
+~
+~
+0 -1 20813
+D8
+~
+~
+0 -1 20811
+D9
+~
+~
+0 -1 20812
+S
+#20804
+1~
+This is the first room of the quest.  You frantically look for a question, but
+realize that this is the only the starting room.  This room can, hovever,
+become as frustrating to see as that wonderful opeing menue on RoI if you
+keep messing up!
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20814
+S
+#20805
+2~
+This is the first room of the quest.  You frantically look for a question, but
+realize that this is the only the starting room.  This room can, hovever,
+become as frustrating to see as that wonderful opeing menue on RoI if you
+keep messing up!
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20880
+S
+#20806
+3~
+This is the first room of the quest.  You frantically look for a question, but
+realize that this is the only the starting room.  This room can, hovever,
+become as frustrating to see as that wonderful opeing menue on RoI if you
+keep messing up!
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20881
+S
+#20807
+4~
+This is the first room of the quest.  You frantically look for a question, but
+realize that this is the only the starting room.  This room can, hovever,
+become as frustrating to see as that wonderful opeing menue on RoI if you
+keep messing up!
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20882
+S
+#20808
+5~
+This is the first room of the quest.  You frantically look for a question, but
+realize that this is the only the starting room.  This room can, hovever,
+become as frustrating to see as that wonderful opeing menue on RoI if you
+keep messing up!
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20883
+S
+#20809
+6~
+This is the first room of the quest.  You frantically look for a question, but
+realize that this is the only the starting room.  This room can, hovever,
+become as frustrating to see as that wonderful opeing menue on RoI if you
+keep messing up!
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20884
+S
+#20810
+7~
+This is the first room of the quest.  You frantically look for a question, but
+realize that this is the only the starting room.  This room can, hovever,
+become as frustrating to see as that wonderful opeing menue on RoI if you
+keep messing up!
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20885
+S
+#20811
+8~
+This is the first room of the quest.  You frantically look for a question, but
+realize that this is the only the starting room.  This room can, hovever,
+become as frustrating to see as that wonderful opeing menue on RoI if you
+keep messing up!
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20886
+S
+#20812
+9~
+This is the first room of the quest.  You frantically look for a question, but
+realize that this is the only the starting room.  This room can, hovever,
+become as frustrating to see as that wonderful opeing menue on RoI if you
+keep messing up!
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20887
+S
+#20813
+10~
+This is the first room of the quest.  You frantically look for a question, but
+realize that this is the only the starting room.  This room can, hovever,
+become as frustrating to see as that wonderful opeing menue on RoI if you
+keep messing up!
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20888
+S
+#20814
+~
+Which United States President was NOT elected to 2 terms?
+WEST- James Monroe
+EAST- Ulysses S. Grant
+NORTH- Dwight D. Eisenhower
+UP- Lyndon B. Johnson
+~
+208 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20879
+D4
+~
+~
+0 -1 20824
+S
+#20815
+~
+Which United States President was NOT elected to 2 terms?
+WEST- James Monroe
+EAST- Ulysses S. Grant
+NORTH- Dwight D. Eisenhower
+UP- Lyndon B. Johnson
+~
+208 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20880
+D4
+~
+~
+0 -1 20825
+S
+#20816
+~
+Which United States President was NOT elected to 2 terms?
+WEST- James Monroe
+EAST- Ulysses S. Grant
+NORTH- Dwight D. Eisenhower
+UP- Lyndon B. Johnson
+~
+208 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20881
+D4
+~
+~
+0 -1 20826
+S
+#20817
+~
+Which United States President was NOT elected to 2 terms?
+WEST- James Monroe
+EAST- Ulysses S. Grant
+NORTH- Dwight D. Eisenhower
+UP- Lyndon B. Johnson
+~
+208 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20882
+D4
+~
+~
+0 -1 20827
+S
+#20818
+~
+Which United States President was NOT elected to 2 terms?
+WEST- James Monroe
+EAST- Ulysses S. Grant
+NORTH- Dwight D. Eisenhower
+UP- Lyndon B. Johnson
+~
+208 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20883
+D4
+~
+~
+0 -1 20828
+S
+#20819
+~
+Which United States President was NOT elected to 2 terms?
+WEST- James Monroe
+EAST- Ulysses S. Grant
+NORTH- Dwight D. Eisenhower
+UP- Lyndon B. Johnson
+~
+208 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20884
+D4
+~
+~
+0 -1 20829
+S
+#20820
+~
+Which United States President was NOT elected to 2 terms?
+WEST- James Monroe
+EAST- Ulysses S. Grant
+NORTH- Dwight D. Eisenhower
+UP- Lyndon B. Johnson
+~
+208 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20885
+D4
+~
+~
+0 -1 20830
+S
+#20821
+~
+Which United States President was NOT elected to 2 terms?
+WEST- James Monroe
+EAST- Ulysses S. Grant
+NORTH- Dwight D. Eisenhower
+UP- Lyndon B. Johnson
+~
+208 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20886
+D4
+~
+~
+0 -1 20831
+S
+#20822
+~
+Which United States President was NOT elected to 2 terms?
+WEST- James Monroe
+EAST- Ulysses S. Grant
+NORTH- Dwight D. Eisenhower
+UP- Lyndon B. Johnson
+~
+208 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20887
+D4
+~
+~
+0 -1 20832
+S
+#20823
+~
+Which United States President was NOT elected to 2 terms?
+WEST- James Monroe
+EAST- Ulysses S. Grant
+NORTH- Dwight D. Eisenhower
+UP- Lyndon B. Johnson
+~
+208 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20888
+D4
+~
+~
+0 -1 20833
+S
+#20824
+~
+Which Building is the tallest in Europe?
+WEST- Eiffel Tower, Paris
+EAST- Cologne Cathedral, Cologne
+NORTH-One Canada Square, London
+UP-   MesseTurm Building, Frankfurt
+~
+208 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20834
+D5
+~
+~
+0 -1 20814
+S
+#20825
+~
+Which Building is the tallest in Europe?
+WEST- Eiffel Tower, Paris
+EAST- Cologne Cathedral, Cologne
+NORTH-One Canada Square, London
+UP-   MesseTurm Building, Frankfurt
+~
+208 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20835
+D5
+~
+~
+0 -1 20815
+S
+#20826
+~
+Which Building is the tallest in Europe?
+WEST- Eiffel Tower, Paris
+EAST- Cologne Cathedral, Cologne
+NORTH-One Canada Square, London
+UP-   MesseTurm Building, Frankfurt
+~
+208 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20836
+D5
+~
+~
+0 -1 20816
+S
+#20827
+~
+Which Building is the tallest in Europe?
+WEST- Eiffel Tower, Paris
+EAST- Cologne Cathedral, Cologne
+NORTH-One Canada Square, London
+UP-   MesseTurm Building, Frankfurt
+~
+208 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20837
+D4
+~
+~
+0 -1 20817
+S
+#20828
+~
+Which Building is the tallest in Europe?
+WEST- Eiffel Tower, Paris
+EAST- Cologne Cathedral, Cologne
+NORTH-One Canada Square, London
+UP-   MesseTurm Building, Frankfurt
+~
+208 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20838
+D5
+~
+~
+0 -1 20818
+S
+#20829
+~
+Which Building is the tallest in Europe?
+WEST- Eiffel Tower, Paris
+EAST- Cologne Cathedral, Cologne
+NORTH-One Canada Square, London
+UP-   MesseTurm Building, Frankfurt
+~
+208 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20839
+D5
+~
+~
+0 -1 20819
+S
+#20830
+~
+Which Building is the tallest in Europe?
+WEST- Eiffel Tower, Paris
+EAST- Cologne Cathedral, Cologne
+NORTH-One Canada Square, London
+UP-   MesseTurm Building, Frankfurt
+~
+208 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20840
+D5
+~
+~
+0 -1 20820
+S
+#20831
+~
+Which Building is the tallest in Europe?
+WEST- Eiffel Tower, Paris
+EAST- Cologne Cathedral, Cologne
+NORTH-One Canada Square, London
+UP-   MesseTurm Building, Frankfurt
+~
+208 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20841
+D5
+~
+~
+0 -1 20821
+S
+#20832
+~
+Which Building is the tallest in Europe?
+WEST- Eiffel Tower, Paris
+EAST- Cologne Cathedral, Cologne
+NORTH-One Canada Square, London
+UP-   MesseTurm Building, Frankfurt
+~
+208 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20842
+D5
+~
+~
+0 -1 20822
+S
+#20833
+~
+Which Building is the tallest in Europe?
+WEST- Eiffel Tower, Paris
+EAST- Cologne Cathedral, Cologne
+NORTH-One Canada Square, London
+UP-   MesseTurm Building, Frankfurt
+~
+208 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20843
+D5
+~
+~
+0 -1 20823
+S
+#20834
+~
+Which of these authors did NOT write detective novels?
+WEST  - Scott Adams
+NORTH - J. A. Jance
+SOUTH - Sir Author Conan Doyle
+DOWN  - Ed McBain
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20824
+D3
+~
+~
+0 -1 20844
+S
+#20835
+~
+Which of these authors did NOT write detective novels?
+WEST  - Scott Adams
+NORTH - J. A. Jance
+SOUTH - Sir Author Conan Doyle
+DOWN  - Ed McBain
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20825
+D3
+~
+~
+0 -1 20845
+S
+#20836
+~
+Which of these authors did NOT write detective novels?
+WEST  - Scott Adams
+NORTH - J. A. Jance
+SOUTH - Sir Author Conan Doyle
+DOWN  - Ed McBain
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20826
+D3
+~
+~
+0 -1 20846
+S
+#20837
+~
+Which of these authors did NOT write detective novels?
+WEST  - Scott Adams
+NORTH - J. A. Jance
+SOUTH - Sir Author Conan Doyle
+DOWN  - Ed McBain
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20827
+D3
+~
+~
+0 -1 20847
+S
+#20838
+~
+Which of these authors did NOT write detective novels?
+WEST  - Scott Adams
+NORTH - J. A. Jance
+SOUTH - Sir Author Conan Doyle
+DOWN  - Ed McBain
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20828
+D3
+~
+~
+0 -1 20848
+S
+#20839
+~
+Which of these authors did NOT write detective novels?
+WEST  - Scott Adams
+NORTH - J. A. Jance
+SOUTH - Sir Author Conan Doyle
+DOWN  - Ed McBain
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20829
+D3
+~
+~
+0 -1 20849
+S
+#20840
+~
+Which of these authors did NOT write detective novels?
+WEST  - Scott Adams
+NORTH - J. A. Jance
+SOUTH - Sir Author Conan Doyle
+DOWN  - Ed McBain
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20840
+D3
+~
+~
+0 -1 20850
+S
+#20841
+~
+Which of these authors did NOT write detective novels?
+WEST  - Scott Adams
+NORTH - J. A. Jance
+SOUTH - Sir Author Conan Doyle
+DOWN  - Ed McBain
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20831
+D3
+~
+~
+0 -1 20851
+S
+#20842
+~
+Which of these authors did NOT write detective novels?
+WEST  - Scott Adams
+NORTH - J. A. Jance
+SOUTH - Sir Author Conan Doyle
+DOWN  - Ed McBain
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20832
+D3
+~
+~
+0 -1 20852
+S
+#20843
+~
+Which of these authors did NOT write detective novels?
+WEST  - Scott Adams
+NORTH - J. A. Jance
+SOUTH - Sir Author Conan Doyle
+DOWN  - Ed McBain
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20833
+D3
+~
+~
+0 -1 20853
+S
+#20844
+~
+Which city is NOT a capital of South Africa?
+WEST  - Bloemfontein
+EAST  - Cape Town
+SOUTH - Pretoria
+UP    - Johannesburg
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20834
+D4
+~
+~
+0 -1 20854
+S
+#20845
+~
+Which city is NOT a capital of South Africa?
+WEST  - Bloemfontein
+EAST  - Cape Town
+SOUTH - Pretoria
+UP    - Johannesburg
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20835
+D4
+~
+~
+0 -1 20855
+S
+#20846
+~
+Which city is NOT a capital of South Africa?
+WEST  - Bloemfontein
+EAST  - Cape Town
+SOUTH - Pretoria
+UP    - Johannesburg
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20836
+D4
+~
+~
+0 -1 20856
+S
+#20847
+~
+Which city is NOT a capital of South Africa?
+WEST  - Bloemfontein
+EAST  - Cape Town
+SOUTH - Pretoria
+UP    - Johannesburg
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20837
+D4
+~
+~
+0 -1 20857
+S
+#20848
+~
+Which city is NOT a capital of South Africa?
+WEST  - Bloemfontein
+EAST  - Cape Town
+SOUTH - Pretoria
+UP    - Johannesburg
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20838
+D4
+~
+~
+0 -1 20858
+S
+#20849
+~
+Which city is NOT a capital of South Africa?
+WEST  - Bloemfontein
+EAST  - Cape Town
+SOUTH - Pretoria
+UP    - Johannesburg
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20839
+D4
+~
+~
+0 -1 20859
+S
+#20850
+~
+Which city is NOT a capital of South Africa?
+WEST  - Bloemfontein
+EAST  - Cape Town
+SOUTH - Pretoria
+UP    - Johannesburg
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20840
+D4
+~
+~
+0 -1 20860
+S
+#20851
+~
+Which city is NOT a capital of South Africa?
+WEST  - Bloemfontein
+EAST  - Cape Town
+SOUTH - Pretoria
+UP    - Johannesburg
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20841
+D4
+~
+~
+0 -1 20861
+S
+#20852
+~
+Which city is NOT a capital of South Africa?
+WEST  - Bloemfontein
+EAST  - Cape Town
+SOUTH - Pretoria
+UP    - Johannesburg
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20842
+D4
+~
+~
+0 -1 20862
+S
+#20853
+~
+Which city is NOT a capital of South Africa?
+WEST  - Bloemfontein
+EAST  - Cape Town
+SOUTH - Pretoria
+UP    - Johannesburg
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20843
+D4
+~
+~
+0 -1 20863
+S
+#20854
+~
+Which comedian of _Kids In The Hall_ fame co-starred in the film
+'It's Pat!' ?
+WEST  - David Foley
+EAST  - Mark McKinney
+NORTH - Scott Thompson
+SOUTH - Bruce McCulloch
+~
+208 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20889
+D5
+~
+~
+0 -1 20844
+S
+#20855
+~
+Which comedian of _Kids In The Hall_ fame co-starred in the film
+'It's Pat!' ?
+WEST  - David Foley
+EAST  - Mark McKinney
+NORTH - Scott Thompson
+SOUTH - Bruce McCulloch
+~
+208 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20889
+D5
+~
+~
+0 -1 20845
+S
+#20856
+~
+Which comedian of _Kids In The Hall_ fame co-starred in the film
+'It's Pat!' ?
+WEST  - David Foley
+EAST  - Mark McKinney
+NORTH - Scott Thompson
+SOUTH - Bruce McCulloch
+~
+208 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20889
+D5
+~
+~
+0 -1 20846
+S
+#20857
+~
+Which comedian of _Kids In The Hall_ fame co-starred in the film
+'It's Pat!' ?
+WEST  - David Foley
+EAST  - Mark McKinney
+NORTH - Scott Thompson
+SOUTH - Bruce McCulloch
+~
+208 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20889
+D5
+~
+~
+0 -1 20847
+S
+#20858
+~
+Which comedian of _Kids In The Hall_ fame co-starred in the film
+'It's Pat!' ?
+WEST  - David Foley
+EAST  - Mark McKinney
+NORTH - Scott Thompson
+SOUTH - Bruce McCulloch
+~
+208 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20889
+D4
+~
+~
+0 -1 20848
+S
+#20859
+~
+Which comedian of _Kids In The Hall_ fame co-starred in the film
+'It's Pat!' ?
+WEST  - David Foley
+EAST  - Mark McKinney
+NORTH - Scott Thompson
+SOUTH - Bruce McCulloch
+~
+208 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20889
+D5
+~
+~
+0 -1 20849
+S
+#20860
+~
+Which comedian of _Kids In The Hall_ fame co-starred in the film
+'It's Pat!' ?
+WEST  - David Foley
+EAST  - Mark McKinney
+NORTH - Scott Thompson
+SOUTH - Bruce McCulloch
+~
+208 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20889
+D5
+~
+~
+0 -1 20850
+S
+#20861
+~
+Which comedian of _Kids In The Hall_ fame co-starred in the film
+'It's Pat!' ?
+WEST  - David Foley
+EAST  - Mark McKinney
+NORTH - Scott Thompson
+SOUTH - Bruce McCulloch
+~
+208 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20889
+D5
+~
+~
+0 -1 20851
+S
+#20862
+~
+Which comedian of _Kids In The Hall_ fame co-starred in the film
+'It's Pat!' ?
+WEST  - David Foley
+EAST  - Mark McKinney
+NORTH - Scott Thompson
+SOUTH - Bruce McCulloch
+~
+208 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20889
+D5
+~
+~
+0 -1 20852
+S
+#20863
+~
+Which comedian of _Kids In The Hall_ fame co-starred in the film
+'It's Pat!' ?
+WEST  - David Foley
+EAST  - Mark McKinney
+NORTH - Scott Thompson
+SOUTH - Bruce McCulloch
+~
+208 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20889
+D5
+~
+~
+0 -1 20853
+S
+#20864
+~
+Which novel was NOT written by Dostoevsky?
+WEST  - The Idiot
+NORTH - Anna Karenina
+SOUTH - The Brother Karamazov
+DOWN  - Crime and Punishment
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20865
+S
+#20865
+~
+Which country's flag is NOT red, white, and blue?
+WEST  - Australia
+EAST  - Leichtenstein
+NORTH - The United States
+DOWN  - Nepal
+~
+208 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20866
+D2
+~
+~
+0 -1 20864
+S
+#20866
+~
+Which James Bond movie was produced first?
+EAST  - For Your Eyes Only
+NORTH - Octopussy
+SOUTH - Moonraker
+DOWN  - Goldfinger
+~
+208 8200 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20865
+D5
+~
+~
+0 -1 20867
+S
+#20867
+~
+Which river does NOT run through Germany?
+WEST  - Rhone
+EAST  - Elbe
+NORTH - Danube
+SOUTH - Rhine
+~
+208 8200 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20868
+D4
+~
+~
+0 -1 20866
+S
+#20868
+~
+How much money did Alfred Nobel put in a fund to be given to Novel Prize
+winners?
+WEST  - $$500 thousand
+NORTH - $$9   million
+SOUTH - $$19  million
+UP    - $$29  million
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20869
+D1
+~
+~
+0 -1 20867
+S
+#20869
+~
+Which star of the Star Wars trilogy was in a disfiguring car wreck after
+the first movie?
+WEST  - Alec Guiness
+EAST  - Harrison Ford
+NORTH - Carrie Fisher
+UP    - Mark Hamill
+~
+208 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20868
+D4
+~
+~
+0 -1 20870
+S
+#20870
+~
+Which musician is creditted witth being the father of 'scat'?
+WEST  - Count Basie
+EAST  - Miles Davis
+NORTH - John Coltrane
+SOUTH - Louis Armstrong
+~
+208 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20871
+D5
+~
+~
+0 -1 20869
+S
+#20871
+~
+Which of these items was invented my an American?
+WEST - Diesel engine
+EAST - Nylon
+UP   - The Kaleidoscope
+DOWN - Fiber Optics
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20870
+D1
+~
+~
+0 -1 20872
+S
+#20872
+~
+Who is the fastest man on earth?
+EAST  - Carl Lewis
+NORTH - Ben Johnson
+SOUTH - Donovan Bailey
+UP    - Michael Johnsons
+~
+208 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20873
+D3
+~
+~
+0 -1 20871
+S
+#20873
+~
+Which South American capital city is closest to the equator?
+WEST  - Lima
+EAST  - Caracas
+SOUTH - Quito
+DOWN  - Bogota
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20872
+D2
+~
+~
+0 -1 20874
+S
+#20874
+~
+Which country takes up most of the Iberian Penninsula?
+WEST  - Spain
+EAST  - Greece
+SOUTH - Ukrane
+DOWN  - Somalia
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20873
+D3
+~
+~
+0 -1 20875
+S
+#20875
+~
+Which President of The United States was not assassinated?
+WEST  - James Garfield
+EAST  - Abraham Lincoln
+SOUTH - John Kennedy
+UP    - William Harrison
+~
+208 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20874
+D4
+~
+~
+0 -1 20876
+S
+#20876
+~
+In what country did marzipan originate?
+WEST  - Belgium
+EAST  - Germany
+NORTH - Austria
+SOUTH - Poland
+DOWN  - France
+~
+208 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20877
+D5
+~
+~
+0 -1 20875
+S
+#20877
+~
+What changes a shot of scotch into a Rusty Nail?
+EAST  - Coca-Cola
+NORTH - Drambuie
+SOUTH - Red Wine
+DOWN  - Tequila
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20878
+D3
+~
+~
+0 -1 20876
+S
+#20878
+~
+Which of the following is NOT a composition of W. A. Mozart?
+WEST  - DonGiovanni
+EAST  - Symphony No. 41 in C Major, 'The Jupiter Symphony'
+NORTH - The Magic Flute
+UP    - Water Music
+DOWN  - The Marriage of Figaro
+~
+208 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20877
+D4
+~
+~
+0 -1 20801
+S
+#20879
+A Long Hallway toward the first question.~
+You travel down a long hallway toward your first question.  It is dimly lit
+and you are surrounded by monks meditating in preperation for the hard
+mental challenge ahead.  The dark candels line the walls and cobwebs hang
+from the walls.  To the north lies the first question!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20814
+D2
+~
+~
+0 -1 20804
+S
+#20880
+A Long Hallway toward the first question.~
+You travel down a long hallway toward your first question.  It is dimly lit
+and you are surrounded by monks meditating in preperation for the hard
+mental challenge ahead.  The dark candels line the walls and cobwebs hang
+from the walls.  To the north lies the first question!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20815
+D2
+~
+~
+0 -1 20805
+S
+#20881
+A Long Hallway toward the first question.~
+You travel down a long hallway toward your first question.  It is dimly lit
+and you are surrounded by monks meditating in preperation for the hard
+mental challenge ahead.  The dark candels line the walls and cobwebs hang
+from the walls.  To the north lies the first question!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20816
+D2
+~
+~
+0 -1 20881
+S
+#20882
+A Long Hallway toward the first question.~
+You travel down a long hallway toward your first question.  It is dimly lit
+and you are surrounded by monks meditating in preperation for the hard
+mental challenge ahead.  The dark candels line the walls and cobwebs hang
+from the walls.  To the north lies the first question!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20817
+D2
+~
+~
+0 -1 20807
+S
+#20883
+A Long Hallway toward the first question.~
+You travel down a long hallway toward your first question.  It is dimly lit
+and you are surrounded by monks meditating in preperation for the hard
+mental challenge ahead.  The dark candels line the walls and cobwebs hang
+from the walls.  To the north lies the first question!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20818
+D2
+~
+~
+0 -1 20808
+S
+#20884
+A Long Hallway toward the first question.~
+You travel down a long hallway toward your first question.  It is dimly lit
+and you are surrounded by monks meditating in preperation for the hard
+mental challenge ahead.  The dark candels line the walls and cobwebs hang
+from the walls.  To the north lies the first question!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20819
+D2
+~
+~
+0 -1 20809
+S
+#20885
+A Long Hallway toward the first question.~
+You travel down a long hallway toward your first question.  It is dimly lit
+and you are surrounded by monks meditating in preperation for the hard
+mental challenge ahead.  The dark candels line the walls and cobwebs hang
+from the walls.  To the north lies the first question!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20820
+D2
+~
+~
+0 -1 20810
+S
+#20886
+A Long Hallway toward the first question.~
+You travel down a long hallway toward your first question.  It is dimly lit
+and you are surrounded by monks meditating in preperation for the hard
+mental challenge ahead.  The dark candels line the walls and cobwebs hang
+from the walls.  To the north lies the first question!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20821
+D2
+~
+~
+0 -1 20811
+S
+#20887
+A Long Hallway toward the first question.~
+You travel down a long hallway toward your first question.  It is dimly lit
+and you are surrounded by monks meditating in preperation for the hard
+mental challenge ahead.  The dark candels line the walls and cobwebs hang
+from the walls.  To the north lies the first question!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20822
+D2
+~
+~
+0 -1 20812
+S
+#20888
+A Long Hallway toward the first question.~
+You travel down a long hallway toward your first question.  It is dimly lit
+and you are surrounded by monks meditating in preperation for the hard
+mental challenge ahead.  The dark candels line the walls and cobwebs hang
+from the walls.  To the north lies the first question!
+~
+208 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20823
+D2
+~
+~
+0 -1 20813
+S
+#20889
+~
+You have attained a level of enlightenment by answering the first 5 questions
+correctly.  You will no longer go back to the begining or need a key to get
+back in.  You will simply come back to this room.  Although if you start
+trying rooms at random, you might find yourself loosing just as much time.
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20864
+S
+#20890
+Deep in the jungle.~
+You stand deep within' a dark jungle. All around you is vegetation. You
+hear the chatter of primates, birds screeching, and the growl of a larger
+beast.
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20891
+D1
+~
+~
+0 -1 20886
+D3
+~
+~
+0 -1 20888
+S
+#20891
+Deep in the jungle.~
+You stand deep within' a dark jungle. All around you is vegetation. You
+hear the chatter of primates, birds screeching, and the growl of a larger
+beast.
+~
+208 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20890
+D1
+~
+~
+0 -1 20889
+D2
+~
+~
+0 -1 20888
+D3
+~
+secret~
+1 -1 20887
+S
+#20892
+The Nexus~
+You stand amidst a bright white light. There are exits to the north, south,
+and east. To the west is a large door. A sign on the door says ENTRANCE TO
+THE DEATH ZONE. ENTER AT YOUR OWN RISK.
+~
+208 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20891
+D1
+~
+~
+0 -1 20879
+D2
+~
+~
+0 -1 20867
+D3
+~
+1~
+0 -1 20847
+E
+sign~
+> HINT: Try open secret everywhere...
+Also... Try it in multiple directions in the same room.
+                                      -Xorin. :)
+~
+S
+#20893
+In the maze.~
+You stand in a tron style maze. The walls, and floors are made of some sort
+of space age cyberspace matirial. They are colored flurescent purple, and
+deep blue. All the rooms look exactly the same.~
+208 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20899
+D1
+~
+~
+0 -1 20899
+D2
+~
+~
+0 -1 20892
+D3
+~
+~
+0 -1 20899
+S
+#20894
+In the maze.~
+You stand in a tron style maze. The walls, and floors are made of some sort
+of space age cyberspace matirial. They are colored flurescent purple, and
+deep blue. All the rooms look exactly the same.~
+208 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20899
+D1
+~
+~
+0 -1 20893
+D2
+~
+~
+0 -1 20899
+D3
+~
+~
+0 -1 20899
+S
+#20895
+In the maze.~
+You stand in a tron style maze. The walls, and floors are made of some sort
+of space age cyberspace matirial. They are colored flurescent purple, and
+deep blue. All the rooms look exactly the same.~
+208 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20898
+D1
+~
+~
+0 -1 20897
+D2
+~
+~
+0 -1 20897
+D3
+~
+~
+0 -1 20895
+S
+#20896
+In the maze.~
+You stand in a tron style maze. The walls, and floors are made of some sort
+of space age cyberspace matirial. They are colored flurescent purple, and
+deep blue. All the rooms look exactly the same.~
+208 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20895
+D1
+~
+~
+0 -1 20897
+D2
+~
+~
+0 -1 20899
+D3
+~
+~
+0 -1 20893
+S
+#20897
+In the maze.~
+You stand in a tron style maze. The walls, and floors are made of some sort
+of space age cyberspace matirial. They are colored flurescent purple, and
+deep blue. All the rooms look exactly the same.~
+208 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20898
+D1
+~
+~
+0 -1 20896
+D2
+~
+~
+0 -1 20895
+D3
+~
+~
+0 -1 20893
+S
+#20898
+In the maze.~
+You stand in a tron style maze. The walls, and floors are made of some sort
+of space age cyberspace matirial. They are colored flurescent purple, and
+deep blue. All the rooms look exactly the same.~
+208 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20893
+D1
+~
+~
+0 -1 20897
+D2
+~
+~
+0 -1 20894
+D3
+~
+~
+0 -1 20895
+S
+#20899
+In the maze.~
+You stand in a tron style maze. The walls, and floors are made of some sort
+of space age cyberspace matirial. They are colored flurescent purple, and
+deep blue. All the rooms look exactly the same.~
+208 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20898
+D1
+~
+~
+0 -1 20897
+D2
+~
+~
+0 -1 20896
+D3
+~
+~
+0 -1 20895
+S
+$

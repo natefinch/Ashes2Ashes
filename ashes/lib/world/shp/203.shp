@@ -1,0 +1,29 @@
+CircleMUD v3.0 Shop File~
+#0~
+20310
+20311
+20312
+20313
+20314
+-1
+1.0 
+0.01 
+-1
+%s Welcome to MacDonald's, may I take your order?~
+%s This is a fast food joint, we don't buy stuff off the streets.~
+%s This is a fast food joint, we don't buy stuff off the streets.~
+%s This is a fast food joint, we don't buy stuff off the streets.~
+%s You're gonna be washing dishes if you can't pay your bill buddy.~
+%s That'll be %d coins. Would you like some fries with that?~
+%s This is a fast food joint, we don't buy stuff off the streets. %d coins~
+0 
+0 
+20320 
+0 
+20374 
+-1
+0 
+28 
+0 
+28 
+$~

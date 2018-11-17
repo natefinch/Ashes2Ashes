@@ -1,0 +1,1764 @@
+#9600
+Mountain Tunnel Entrance~
+
+As your walking along a mountain seems to rise out of no-where,
+blocking your travels to where you were going.  The mountain is to
+steep to climb and too long to go around.  Just as you are about to
+give up in frustration and turn around, you notice a hole in the 
+mountainside hiding behind a rock and some bushes.
+~
+96 32772 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 9601
+D1
+~
+~
+0 -1 4025
+S
+#9601
+Mountain Tunnel~
+You enter the mountain even though you're not sure it's in your
+best interest.  The air seems cooler here and it is a relief from
+all the walking you've been doing.  You sniff the air, trying to 
+make sure nothing dangerous is in here before you venture farther,
+but the only smell that comes to you is the smell of a stream.  Yes,
+now that you think of it, you can hear water running off to the north.
+It seems to be calm here, but you think it might get stonger later.
+~
+96 41217 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 9602
+D2
+~
+~
+0 -1 9600
+S
+#9602
+Farther in the Mountain Tunnel~
+You follow the stream and as you walk, you beging to believe that
+there is someone following you.  You can hear them walking around, 
+but you're not sure what direction they are in, so you don't know
+which way to be on guard.  The smell of dirt running in with the 
+water is strong here and you feel like you're going to sneeze letting
+the person following you know exactly where you are.
+~
+96 41217 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9603
+D2
+~
+~
+0 -1 9601
+S
+#9603
+Even Farther along the Tunnel~
+A-CHOO! You sneeze and quickly stop, but so does the person following
+you.  Slowly you begin to walk and so do they, so you stop again and 
+they do too.  You move VERY SLOWLY, and can hear that they do the same.
+Finally tired of this nonsense you yell out, "ENOUGH, WHO ARE YOU!"
+and the only response is the echo of your voice. Echo?  You move a 
+little and you hear the echo of your armor.  That's the sound of the
+person you thought was following you.  You begin to laugh, but the sound
+soon get's too lound with all of the echoing so you stop and continue
+following the stream wich has picked up speed a bit.
+~
+96 41217 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9604
+D2
+~
+~
+0 -1 9602
+S
+#9604
+End of the Mountain Tunnel~
+Rocks jet out of the stream causing waves of water to break on them.
+The stream seems quite rough here and further ahead you can see that 
+it drops off.  Your passage north and south are safe and you feel 
+happy that your aren't going to be going down the waterfall, because
+it looks like it would be a LONG DEADLY fall to the bottom.
+~
+96 41217 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 9605
+D2
+~
+~
+0 -1 9603
+S
+#9605
+Top of the Waterfall~
+As you emerge from the darkness of the tunnel north, you hear
+the sounds of rushing water.  You look ahead and see the river 
+seems to end suddenly.  You see a dry opening to the east side
+of the river.  If you can make it there you should be safe.
+~
+96 32772 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 9604
+D1
+~
+~
+0 -1 9607
+D5
+The water crashes violently onto the rocks below, where it gathers in 
+pools frothing with fishes that seem like they could feed off the rocks
+itself.
+~
+~
+0 -1 9606
+S
+#9606
+Over the Waterfall~
+You go over the waterfall and bash into the rocks ripping your skin.
+Blood fills the water around you as it pours from your wounds.
+Large piranha begin darting around you in a wild frenzy.
+OUCH THAT REALLY HURT!
+YOU ARE DEAD!
+~
+96 45056 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 9607
+S
+#9607
+Overlooking the Valley~
+You dry yourself off and take a moment to look around your 
+surroundings.  To the west is the waterfall you barley escaped.
+Down you see what looks like a steep cliff to the valley floor.
+As you look across the beautiful lake and valley below you a
+calming joy flows through you.
+~
+96 32772 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 9606
+D5
+~
+~
+0 -1 9608
+S
+#9608
+Steep Cliff~
+You see a rope anchored here that has been worn by the weather.
+As you grab hold of the rope, small rocks slide out from under
+your feet.  Sheer cliffs lie to the east and west and you can't 
+find footing there.  You move slowly trying to find safe footing,
+so that you dont slip and fall down the cliff.  Up is the overlook,
+and the cliff continues down.
+~
+96 45056 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 9607
+D5
+~
+~
+0 -1 9609
+S
+#9609
+Steep Cliff~
+You see a rope anchored here that has been worn by the weather.
+As you grab hold of the rope, small rocks slide out from under
+your feet.  Sheer cliffs lie to the east and west, but you can't
+find footing there.  You move slowly trying to find safe footing,
+so that you dont slip and fall down the cliff.  The cliff continues
+up and down.
+~
+96 40960 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 9608
+D5
+~
+~
+0 -1 9610
+S
+#9610
+Bottom of the Cliff~
+You are at the bottom of a steep cliff.  The cliff walls 
+are jagged and you may be able to climb them with some 
+doing.  Sheer cliffs lie to the east and west, but you 
+cant find safe footing there.  The cliff continues up
+and below you see the valley floor.
+~
+96 32772 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 9609
+D5
+~
+~
+0 -1 9611
+S
+#9611
+The Valley Floor~
+The beauty of the valley before you cast a calmness apon your
+soul.  You have never seen any place so lush and green.  The 
+air is clean and fresh far from civilization.  The vally floor
+continues to the east.  To the south you see a lake.  West leads
+under the waterfall, and up you see the bottom of a steep cliff.
+~
+96 32772 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 9632
+D2
+~
+~
+0 -1 9625
+D3
+~
+~
+0 -1 9612
+D4
+~
+~
+0 -1 9610
+S
+#9612
+Under the Waterfall~
+You are standing in a shallow pool of water from the waterfall
+above.  A fine mist of water floats down filling the air and 
+covering your body.  As you wipe the mist from your brow you see
+to the north an entrance to a cavern in the mountain.  To the 
+east is the valley floor, and south is the lake.
+~
+96 32772 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9613
+D1
+~
+~
+0 -1 9611
+D2
+~
+~
+0 -1 9624
+S
+#9613
+Entrance to the Caverns~
+Sounds of water trickling from the celing echo throughout
+the caverns.  Cool damp air surrounds you.  The only light
+comes from the south, wich leads back under the waterfall.
+The caverns continue to the west.
+~
+96 40960 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9612
+D3
+~
+~
+0 -1 9614
+S
+#9614
+The Caverns~
+Sounds of water trickling from the celing echo throughout the
+caverns.  Cool damp air surrounds you.  There is no light here,
+and you have a hard time seeing wich way to go.  There is a small
+cave within the caverns to the south.  The cavers continue down,
+and east leads back to the entrance.
+~
+96 32769 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9613
+D2
+~
+~
+0 -1 9615
+D5
+~
+~
+0 -1 9616
+S
+#9615
+The Caverns~
+Sounds of water trickling from the celing echo throughout
+The caverns.  Cool damp air surrounds you.  You are in a small
+dark cave within the caverns.  As you look around you see
+your only exit is to the north.
+~
+96 32769 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9614
+S
+#9616
+Deepest Caverns~
+Sounds of water trickling from the ceiling echo throughout 
+the caverns.  Cool damp air surrounds you.  You see a faint
+light comming from the south.  Up leads back to the upper
+caverns.
+~
+96 32773 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9617
+D4
+~
+~
+0 -1 9614
+S
+#9617
+Lair of the Rautym~
+It is very dark inside the lair.  Faint phosphorescent light
+eminates from a few rocks scattered on the walls and floors.
+There is just enough light to show the outline of many dark
+figures moving around in the darkness.  North leads back to 
+the caverns.  The lair continues south and west.
+~
+96 32769 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9616
+D2
+~
+~
+0 -1 9620
+D3
+~
+~
+0 -1 9618
+S
+#9618
+Lair of the Rautym~
+It is very dark inside the lair.  Faint phosphorescent light
+eminates from a few rocks scattered on the walls and floor.
+There is just enough light to show the outline of many dark
+figures moving around in the darkness.  The lair continues
+east and south.
+~
+96 32769 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9617
+D2
+~
+~
+0 -1 9619
+S
+#9619
+Lair of the Rautym~
+It is very dark inside the lair.  Faint phosphorescent light
+eminates from a few rocks scattered on the walls and floor.
+There is just enough light to show the outline of many dark
+figures moving around in the darkness.  The lair continues 
+north and east.  You see a tunnel to the west.
+~
+96 32769 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9618
+D1
+~
+~
+0 -1 9620
+D3
+~
+~
+0 -1 9621
+S
+#9620
+Lair of the Rautym~
+It is very dark inside the lair.  Faint phosphorescent light
+eminates from a few rocks scattered on the walls and floor.
+There is just enough light to show the outline of many dark
+figures moving around in the darkness.  The air around you is
+cold and still.  The lair continues north and west.
+~
+96 32769 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9617
+D3
+~
+~
+0 -1 9619
+S
+#9621
+Tunnel in the Cavern~
+You have enterd a small dark tunnel off the Rautym lair.
+Darkness and cool damp air surround you.  The Rautym lair
+is to the east.  Something is to the south, but your not
+quite sure what it is.
+~
+96 33025 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9619
+D2
+~
+door~
+2 9614 9622
+S
+#9622
+Treasure Room~
+The stone rolls back to reveal a small alcove.  Your eyes
+immediatly catch a pile of treasure in the corner.  There
+are strange stones stacked in a small pile on the floor.
+Far back against the wall you catch the glint of gold amongst
+the pile of things.  Your only exit is to the north.
+~
+96 8193 0
+0d0+0 0 0
+D0
+~
+door~
+2 9614 9621
+S
+#9623
+Walking in the Shallows~
+This is the northwest corner of the lake.  The water is
+shallow and crystal clear.  Your passage north is blocked by
+the mountain that towers above you.  The lake contines to the
+east and south.  West the lake is lined with majestic trees.
+~
+96 32768 7
+0d0+0 0 0
+D1
+~
+~
+0 -1 9624
+D2
+~
+~
+0 -1 9626
+S
+#9624
+Top of the Lake~
+You are on the top of the lake.  This spot seems to be deep from
+the rich blue color of the water.  You can see small aquatic
+life just below the surface.  To the north you go under the
+waterfall.  The lake continues in all other directions.
+~
+96 36864 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9612
+D1
+~
+~
+0 -1 9625
+D2
+~
+~
+0 -1 9627
+D3
+~
+~
+0 -1 9623
+D5
+~
+~
+0 -1 9665
+S
+#9625
+Walking in the Shallows~
+This is the northeast corner of the lake.  The water here is
+shallow, and crystal clear.  You see small aquatic life just
+below the surface.  Land lies to the north and east.  The
+lake continues south and west.
+~
+96 32772 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9611
+D1
+~
+~
+0 -1 9633
+D2
+~
+~
+0 -1 9628
+D3
+~
+~
+0 -1 9624
+S
+#9626
+Top of the Lake~
+You are on the top of the lake.  THis spot sees deep from the
+dark color of the water.  You can see small aquatic life just
+below the surface.  The lake continues north, south, east and
+down.  Large majestic trees block your passage west.
+~
+96 32768 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 9623
+D1
+~
+~
+0 -1 9627
+D2
+~
+~
+0 -1 9629
+D5
+~
+~
+0 -1 9661
+S
+#9627
+Center of the Lake~
+This is the center of the lake.  You feel cold water swelling
+up from below.  The water here is dark,  and you can not see
+to the bottom.  The lake continues in all directions.
+~
+96 32768 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 9624
+D1
+~
+~
+0 -1 9628
+D2
+~
+~
+0 -1 9630
+D3
+~
+~
+0 -1 9626
+D5
+~
+~
+0 -1 9660
+S
+#9628
+Top of the Lake~
+You are on top of the lake.  This spot seems deep from the 
+color of the water.  You can see small aquatic life just 
+under the surface.  The lake continues north, south, west
+and down.  You see the edge of the lake to the east.
+~
+96 32768 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9625
+D1
+~
+~
+0 -1 9634
+D2
+~
+~
+0 -1 9631
+D3
+~
+~
+0 -1 9627
+D5
+~
+~
+0 -1 9662
+S
+#9629
+Top of the Lake~
+You have arrived at the southwest corner of the lake.  This
+spot seems deep from the dark color of the water.  Tall dence
+trees line the lake to the west and south blocking your passage
+in that direction.  The lake continues north, east and down.
+~
+96 32768 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 9626
+D1
+~
+~
+0 -1 9630
+D5
+~
+~
+0 -1 9663
+S
+#9630
+Top of the Lake~
+You are on top of the lake.  This spot seems to be deep
+from the color of the water.  The lake continues north,
+east, west and down.  Large dence trees line the lake to
+the south blocking yur passage in that direction.
+~
+96 32768 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9627
+D1
+~
+~
+0 -1 9631
+D3
+~
+~
+0 -1 9629
+D5
+~
+~
+0 -1 9664
+S
+#9631
+Walking in the Shallows~
+This is the southeast corner of the lake.  The water here
+is shallow and crystal clear.  You see small aquatic life
+just below the surface.  The lake continues north and west.
+The edge of the lake is to the east and south.
+
+~
+96 32772 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9628
+D1
+~
+~
+0 -1 9635
+D2
+~
+~
+0 -1 9642
+D3
+~
+~
+0 -1 9630
+S
+#9632
+The Valley Floor~
+The beauty of the valley before you casts a calmness apon
+your soul.  You have never seen any place so lush and green.
+The air is clean and fresh far from civilization.  To the
+south you can see the edge of the lake.  The valley floor
+continues east and west.
+~
+96 32768 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 9670
+D2
+~
+~
+0 -1 9633
+D3
+~
+~
+0 -1 9611
+S
+#9633
+Edge of the Lake~
+You are standing at the edge of the lake.  The water laps
+at you feet beckoning you.  You look down and see your
+own reflextion shimmering on the surface of the water.
+you can see all the way to the other side.  North leads
+back to the valley floor.  To the east you see a grassy
+meadow.  South continues along the edge of the lake, and
+to the west is the lake.
+~
+96 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9632
+D1
+~
+~
+0 -1 9637
+D2
+~
+~
+0 -1 9634
+D3
+~
+~
+0 -1 9625
+S
+#9634
+Edge of the Lake~
+You are standing at the edge of the lake.  The water laps at
+your feet beckoning you.  You look down and see your own 
+reflection shimmering on the surface of the water.  You can
+see all the way to the other side.  The edge of the lake continues 
+north and south.  East you see a grassy meadow, and to the west
+is the lake.
+~
+96 32772 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9633
+D1
+~
+~
+0 -1 9638
+D2
+~
+~
+0 -1 9635
+D3
+~
+~
+0 -1 9628
+S
+#9635
+Along the Edge of the Lake~
+You are standing at the edge of the lake.  The water laps at
+your feet beckoning you.  You look down and see your reflection
+shimmering on the surface of the water.  You can see all the way
+to the other side.  The edge of the lake continues to the north.
+To the east is a grassy meadow.  To the south is an overgrown
+field, and to the west is the lake.
+~
+96 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9634
+D1
+~
+~
+0 -1 9639
+D2
+~
+~
+0 -1 9640
+D3
+~
+~
+0 -1 9631
+S
+#9636
+Den of Black Annis~
+The blood on the floor here is fresh and your feet stick
+to it as you try and move about.  Sick fear grows in your
+heart as you relize you may be this creatures next meal.
+You look for a quick exit out.  Your only exit is south.
+~
+96 47105 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9656
+S
+#9637
+Grassy Meadow~
+The sun warms your skin as you stand here.  You hear birds
+singing, and see the long blades of grass swaying in the
+warm breeze.  North you see the valley floor.  The meadow
+continues to the east and south.  To the west you can see
+the edge of the lake.
+~
+96 40960 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9670
+D1
+~
+~
+0 -1 9667
+D2
+~
+~
+0 -1 9638
+D3
+~
+~
+0 -1 9633
+S
+#9638
+Grassy Meadow~
+The sun warms your skin as you stand here.  You hear birds
+singing, and see the long blades of grass swaying in the
+warm breeze.  The meadow continues north, east and south.
+To the west you see the edge of the lake.
+~
+96 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9637
+D1
+~
+~
+0 -1 9668
+D2
+~
+~
+0 -1 9639
+D3
+~
+~
+0 -1 9634
+S
+#9639
+Grassy Meadow~
+The sun warms your skin as you stand here.  You hear birds
+singing, and see the long blades of grass swaying in the warm
+breeze.  The meadow continues north and east.  To the south you
+see the tall trees of the evergreen forest.  West is the edge 
+of the lake.
+~
+96 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9638
+D1
+~
+~
+0 -1 9669
+D2
+~
+~
+0 -1 9641
+D3
+~
+~
+0 -1 9635
+S
+#9640
+Overgrown Field~
+The brush tugs at your clothes as you walk through the field.
+You step and hear a squeel.  Something scurries off into the
+brush.  To the north and west you see the edge of the lake.  
+East you see the evergreen forest.  The field continues south.
+~
+96 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9635
+D1
+~
+~
+0 -1 9641
+D2
+~
+~
+0 -1 9648
+D3
+~
+~
+0 -1 9642
+S
+#9641
+Evergreen Forest~
+Tall evergreen trees are thriving here.  They surround you
+stretching towards the sky.  The pine trees stand here like
+guardians watching over you.  You can't help but smile as the
+sweet scent of pine tickles your nose.  You hear the sound of
+birds picking through the needle covered forest floor.  To the
+north is a grassy meadow, and to the west is an overgrown field.
+The forest extends to the east and south.
+~
+96 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 9639
+D1
+~
+~
+0 -1 9655
+D2
+~
+~
+0 -1 9649
+D3
+~
+~
+0 -1 9640
+S
+#9642
+Edge of the Lake.~
+You are standing at the edge of the lake.  The water laps at your
+feet beckoning you.  You look down and see your reflection shimmering
+on the surface of the water.  You can see all the way to the other
+side.  North is the lake.  To the east and south is an overgrown
+field.  To the west you can see the evergreen forest.
+~
+96 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9631
+D1
+~
+~
+0 -1 9640
+D2
+~
+~
+0 -1 9647
+D3
+~
+~
+0 -1 9643
+S
+#9643
+Evergreen Forest~
+Tall evergreen trees are thriving here.  They surround you
+stretching towards the sky.  The pine trees stand here like
+guardians watching over you.  You can't help but smile as the
+sweet scent of pine tickles your nose.  You hear the sound of
+birds picking throught the needle covered forest floor.  The
+passage north is blocked by dence trees.  The edge of the lake
+is to the east.  The forest continues to the south and west.
+~
+96 32768 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 9642
+D2
+~
+~
+0 -1 9646
+D3
+~
+~
+0 -1 9644
+S
+#9644
+Evergreen Forest~
+Tall evergreen trees are thriving here.  They surround you
+stretching towards the sky.  The pine trees stand here like
+guardians watching over you.  You can't help but smile as the
+sweet scent of pine tickles your nose.  You hear the sound of 
+birds picking through the needle covered forest floor.  Your
+movement north is blocked by dence trees.  The forest continues
+east and south.  To the west you see a small trail.
+~
+96 32768 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 9643
+D2
+~
+~
+0 -1 9645
+D3
+~
+~
+0 -1 9653
+S
+#9645
+Evergreen Forest~
+Tall evergreen trees are thriving here.  They surround you
+stretching towards the sky.  The pine trees stand here like
+guardians watching over you.  You can't help but smile as the
+sweet scent of pine tickles your nose.  You hear the sound of
+birds picking throught the needle covered forest floor.  The 
+forest continues north and east.  Large mountain block your
+passage south and west.
+~
+96 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 9644
+D1
+~
+~
+0 -1 9646
+S
+#9646
+Evergreen Forest~
+Tall evergreen trees are thriving here.  They surround you
+stretching towards the sky.  The pine trees stand here like
+guardians watching over you.  You can't help but smile as the
+sweet scent of pine tickles your nose.  You hear the sound of
+birds picking through the needle covered forest floor.  The
+forest continues north and west.  Your passage south is blocked
+by the mountains.  An overgrown field lies east.
+~
+96 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 9643
+D1
+~
+~
+0 -1 9647
+D3
+~
+~
+0 -1 9645
+S
+#9647
+Overgrown Field~
+The brush tugs at you clothes as you walk through the field.
+You step and hear a squeal;  Something scurries off into the
+brush.  North you can see the edge of the lake.  The field
+continues to the east.  To the west is the evergreen forest.
+~
+96 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9642
+D1
+~
+~
+0 -1 9648
+D3
+~
+~
+0 -1 9646
+S
+#9648
+Overgrown Field~
+The brush tugs at your clothes as you walk through the field.
+You step and hear a squeal;  Something scurries off into the
+brush.  The field continues north, south and west.  To the
+east is the evergreen forest.
+~
+96 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9640
+D1
+~
+~
+0 -1 9649
+D2
+~
+~
+0 -1 9657
+D3
+~
+~
+0 -1 9647
+S
+#9649
+Evergreen Forest~
+Tall evergreen trees are thriving here.  They surround you
+stretching towards the sky.  The pine trees stand here like
+guardians watching over you.  You can't help but smile as the
+sweet scent of pine tickles your nose.  Ypu hear the sound of
+birds picking throught the neelde covered forest floor.  The
+forest continues north and south.  To the west is an overgrown
+field, and east is a small clearing.
+~
+96 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 9641
+D1
+~
+~
+0 -1 9654
+D2
+~
+~
+0 -1 9658
+D3
+~
+~
+0 -1 9648
+S
+#9650
+End of the Trail~
+You are at the end of the tail.  North the mountain rises high
+above you making you feel very small.  The trees are dense to the
+east and west preventing your passage.  South leads back down
+the trail to the evergreen forest.
+~
+96 32768 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 9651
+S
+#9651
+Along the Trail to Nowhere~
+You are on a small trail that leads through the forest.  The
+trees are thick all around you and prevent your passage east
+and west.  North the trail seems to lead towards the mountains.
+You see the peeks peer over the tree tops.  South leads back 
+toward the evergreen forest.
+~
+96 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 9650
+D2
+~
+~
+0 -1 9652
+S
+#9652
+Along the Trail to Nowhere~
+You are on a small trail that leads through the forest.  The 
+trees are thick and prevent your passage east and west.  
+North the trail seems to lead towards the mountains.  You
+can see the peeks peer throught the tree tops.  South leads
+back toward the evergreen forest.
+~
+96 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 9651
+D2
+~
+~
+0 -1 9653
+S
+#9653
+Trail to Nowhere~
+You are on a small trail that leads throught the forest.  The
+trees are thick all around you and prevent your passage south
+and west.  North the tail seems to lead toward the mountains.
+You can see the peeks peering throught the tree tops.  East 
+leads back to the evergreen forest.
+~
+96 32772 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 9652
+D1
+~
+~
+0 -1 9644
+S
+#9654
+Dead Silence~
+An eerie dead silence surrounds you.  Nothing is alive in this
+clearing except you.  The trees of the forest lie north, south 
+and west.  A cave is to the east.  A powerful stench comes from
+within it.  Piles of bones lie on the ground.  As you examine them
+some look to be human.  Your inner sences tell you that you don't
+want to be here.
+~
+96 47236 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9655
+D1
+~
+~
+0 -1 9656
+D2
+~
+~
+0 -1 9659
+D3
+~
+~
+0 -1 9649
+S
+#9655
+Evergreen Forest~
+Tall evergreen trees are thriving here.  They surround you
+stretching towards the sky.  The pine trees stand here like
+guardians watching over you.  You can't help but smile as the
+sweet scent of pine tickles your nose.  You hear the sound of
+birds picking through the needle covered forest floor.  The
+grassy meadow lies to the north.  Your passage east is blocked
+by the side of a cave.  To the south there is a small clearing.
+The forest continues to the west.
+~
+96 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 9669
+D2
+~
+~
+0 -1 9654
+D3
+~
+~
+0 -1 9641
+S
+#9656
+Cave of Black Annis~
+The stench of death is strong here and overwhelms you.  You
+see blood stained shredded clothing scattered about.  You
+realize that whatever lives there must have a horendous appitite
+for human flesh.  You really DO NOT want to be here.  The stench
+is comming from the north.  To the west of the clearing.
+~
+96 47104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9636
+D3
+~
+~
+0 -1 9654
+S
+#9657
+Overgrown Field~
+The brush tugs at your clothes as you walk through the field.
+You step and hear a squeal;  Something scurries off into the
+brush.  The field continues to the north.  East you can see 
+the tall trees of the evergreen forest.
+~
+96 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9648
+D1
+~
+~
+0 -1 9658
+S
+#9658
+Evergreen Forest~
+Tall evergreen trees are thriving here.  They surround you
+stretching towards the sky.  The pine trees stand here like
+guardians watching over you.  You can't help but smile as the
+sweet scent of pine tickles your nose.  You hear the sound of
+birds picking through the needle covered forest floor.  The
+forest extends north and east.  Your passage south is blocked
+by the mountains.  To the west is an overgrown field.
+~
+96 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 9649
+D1
+~
+~
+0 -1 9659
+D3
+~
+~
+0 -1 9657
+S
+#9659
+Evergreen Forest~
+Tall evergreen trees are thriving here.  They surround you
+stretching towards the sky.  The pine trees stand here like
+guardians watching over you.  You can't help but smile as the
+sweet scent of pine tickles your nose.  You hear the sound of
+birds picking through the needle covered forest floor.  A small
+clearing lies to the north.  Your passage east and south is blocked
+by the mountains.  The forest continues to the west.
+~
+96 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 9654
+D3
+~
+~
+0 -1 9658
+S
+#9660
+Under the Lake~
+This is the center of the lake.  Cold water swells from
+below.  Rays of light peirce down through the surface of
+the lake, and dance before your eyes.  Fish swim all
+around you.  You can look up and see the water sparkling
+sky.  The lake continues in all directions.
+~
+96 32768 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 9665
+D1
+~
+~
+0 -1 9662
+D2
+~
+~
+0 -1 9664
+D3
+~
+~
+0 -1 9661
+D4
+~
+~
+0 -1 9627
+D5
+~
+~
+0 -1 9666
+S
+#9661
+Under the Lake~
+Rays of light peirce down through the surface of the lake,
+and dance before your eyes.  Fish swim all around you.  You
+can look up and see the water sparkling sky.  The lake continues
+east, south and up.
+~
+96 32768 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 9660
+D2
+~
+~
+0 -1 9663
+D4
+~
+~
+0 -1 9626
+S
+#9662
+Under the Lake.~
+Rays of light peirce down through the surface of the lake,
+and dance before your eyes.  Fish swim all around you.  You
+can look up and see the water sparkling sky.  The lake continues
+west and up.
+~
+96 32768 6
+0d0+0 0 0
+D3
+~
+~
+0 -1 9660
+D4
+~
+~
+0 -1 9628
+S
+#9663
+Under the Lake~
+Rays of light peirce down through the surface of the lake,
+and dance before your eyes.  Fish swim all around you.
+You can look up and see the water sparkling sky.  The lake
+continues north, east and up.
+~
+96 32768 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 9661
+D1
+~
+~
+0 -1 9664
+D4
+~
+~
+0 -1 9629
+S
+#9664
+Under the Lake~
+Rays of light peirce down through the surface of the lake,
+and dance before your eyes.  Fish swim all around you.
+You can look up and see the water sparkling sky.  The lake
+continues north, west and up.
+~
+96 32768 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 9660
+D3
+~
+~
+0 -1 9663
+D4
+~
+~
+0 -1 9630
+S
+#9665
+Under the Lake~
+Rays of light peirce down through the surface of the lake,
+and dance before your eyes.  Fish swim all around you.  You
+can look up and see the water sparkling sky.  The lake 
+continues south and up.
+~
+96 32768 6
+0d0+0 0 0
+D2
+~
+~
+0 -1 9660
+D4
+~
+~
+0 -1 9624
+S
+#9666
+Bottom of the Lake~
+This is the deepest part of the lake.  The sun does not reach
+this far and the water is very cold.  You feel chilled as you
+stand here.  Your only exit is back up.
+~
+96 41089 6
+0d0+0 0 0
+D4
+~
+~
+0 -1 9660
+S
+#9667
+Grassy Meadow~
+The sun warms your skin as ayou stand here.  You hear birds
+singing, and see the long blades of grass swaying in the warm
+breeze.  The meadow continues to the south and west.
+~
+96 32768 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 9668
+D3
+~
+~
+0 -1 9637
+S
+#9668
+Grassy Meadow~
+The sun warms your skin as you stand here.  You hear birds
+singing, and see the long blades of grass swaying in the warm
+breeze.  The meadow continues north, south and west.
+~
+96 40960 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9667
+D2
+~
+~
+0 -1 9669
+D3
+~
+~
+0 -1 9638
+S
+#9669
+Grassy Meadow~
+The sun warms your skin as you stand here.  You hear birds
+singing, and see the long blades of grass swaying in the 
+warm breeze.  The meadow continues north and west.  To the
+south is the evergreen forest.
+~
+96 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9668
+D2
+~
+~
+0 -1 9655
+D3
+~
+~
+0 -1 9639
+S
+#9670
+The Valley Floor~
+The beauty of the valley before you casts a calmness apon
+your soul.  You have never seen any place so lush and green.
+The air is clean and fresh far from civilization.  To the
+south you see a grassy meadow.  The valley floor continues
+to the west.
+~
+96 32768 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 9637
+D3
+~
+~
+0 -1 9632
+S
+#9671
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9672
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9673
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9674
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9675
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9676
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9677
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9678
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9679
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9680
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9681
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9682
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9683
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9684
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9685
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9686
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9687
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9688
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9689
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9690
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9691
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9692
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9693
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9694
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9695
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9696
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9697
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9698
+~
+~
+96 0 0
+0d0+0 0 0
+S
+#9699
+~
+~
+96 0 0
+0d0+0 0 0
+S
+$

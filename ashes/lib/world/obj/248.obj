@@ -1,0 +1,243 @@
+#24800
+key donut~
+a key hidden in a donut~
+You see a donut laying here, it looks like there's a key in it.~
+~
+18 0 16385 0
+0 0 0
+24803 0 0 0
+4 0 0
+#24801
+gloves boxing rocky~
+Rocky's Boxing Gloves~
+You see a pair of boxing gloves laying here.~
+~
+11 8944641 129 0
+0 0 0
+0 0 0 0
+3 200000 0
+A
+18 3
+A
+17 1
+A
+16 -1
+#24802
+shorts rocky rockys boxing~
+Rocky's Italian Stallion Boxing Shorts~
+A pair of silk shorts lay here.~
+~
+11 8928257 33 0
+0 0 0
+0 0 0 0
+7 300000 0
+A
+18 3
+A
+4 -3
+#24803
+whip indy indiana indianas indys leather~
+Indy's Leather Whip~
+You see a used leather whip lying here.~
+~
+5 10245136 8193 0
+0 0 0
+0 3 10 2
+5 500000 0
+A
+18 3
+A
+17 3
+#24804
+sword blood covered conan conans arnolds arnold two-handed~
+Conan's Two-Handed Blood Covered Sword~
+You see a two-handed sword covered in blood propt up on the wall.~
+~
+5 9327635 8193 0
+0 0 0
+0 6 5 3
+16 200000 0
+A
+18 3
+A
+17 4
+#24805
+hat indy indiana indys indianas fedora~
+Indy's Brown Fedora Hat~
+A brown fedora hat is on a hat rack in the corner.~
+~
+11 8969216 17 0
+0 0 0
+3 0 0 0
+3 400000 0
+A
+18 3
+A
+2 -3
+#24806
+airwalk airwalks shoe shoes pair sneakers~
+a Pair of Airwalks~
+A pair of shoes are laying on the floor.~
+~
+9 10114176 65 0
+0 0 0
+2 0 0 0
+7 300000 0
+A
+18 3
+A
+17 1
+#24807
+face other man mans mask~
+Another Man's Face~
+You see a face torn from a person lying in a puddle of blood.~
+~
+11 294984 17 0
+0 0 0
+0 0 0 0
+6 200000 0
+A
+10 25
+A
+13 4
+#24808
+tink tinker bell tinkerbell~
+Tinkerbell~
+You see something that looks like a firefly flying around here.~
+~
+1 1 16385 0
+0 0 0
+0 0 -1 0
+5 100000 0
+A
+18 2
+A
+11 30
+#24809
+ring gold god father fathers~
+the Godfather's Gold Ring~
+You see an expensive looking good ring laying here.~
+~
+9 10248217 3 0
+0 0 0
+5 0 0 0
+7 500000 0
+A
+14 4
+A
+13 4
+#24810
+back pack backpack strange looking~
+a Strange Looking Backpack~
+You see a techno looking backpack laying on the ground.~
+~
+9 9196568 1025 0
+0 0 0
+10 0 0 0
+7 100000 0
+A
+11 15
+A
+14 2
+#24811
+will wills smith smiths cigar~
+Will Smith's Cigar~
+You see a lit cigar on the ground.~
+~
+11 8434712 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+17 4
+A
+18 4
+A
+16 -2
+#24812
+key keys set~
+a Set of Car Keys~
+You see some keys laying here.~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+2 100000 0
+#24813
+ring gold god father fathers~
+the Godfather's Gold Ring~
+You see an expensive looking good ring laying here.~
+~
+11 8534026 3 0
+0 0 0
+4 15 24812 0
+5 100000 0
+A
+18 3
+A
+17 1
+#24814
+smith will cigar lit smiths~
+Will Smith's Lit Cigar~
+You see a lit cigar laying on the ground here.~
+~
+1 8794139 16385 0
+0 0 0
+0 0 -1 0
+6 100000 0
+A
+18 2
+A
+17 2
+#24815
+key~
+the Key to the Gate~
+You see a BIG key sitting here.~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+0 0 0
+#24816
+set hand cuff cuffs handcuffs~
+a Set of Handcuffs~
+You see a shiny set of handcuffs on the ground.~
+~
+9 0 4097 0
+0 0 0
+5 0 0 0
+5 100000 0
+A
+14 3
+#24817
+sign~
+a sign~
+You see a big sign blocking the end of the stairs.~
+Sorry, but you guys who thought you were gonna be able to come up here and see
+the girls were wrong. We closed this area off to the public after numerous
+request from the girls. They said people like you guys follow them around
+and it sickens and annoys them. Sorry.
+-The Playboy Crew
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+5 500000 0
+E
+sign~
+Sorry, but you guys who thought you were gonna be able to come up here and
+see the girls were wrong. We closed this area off to the public after numerous
+requests from the girls. They said people like you guys follow them around
+and it sickens and annoys them. Sorry.
+-The Playboy Crew
+~
+#24899
+dark~
+Darkness~
+You see a black ring here.~
+~
+0 0 32767 0
+0 0 0
+0 0 0 0
+0 0 0
+$

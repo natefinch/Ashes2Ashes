@@ -1,0 +1,782 @@
+#9301
+poor mudder~
+a poor mudder~
+A poor mudder, lost in this place.
+~
+You will become him if you are not careful.
+~
+77 0 0 W3
+4 4 8 10d5+20 1d6+3
+100 600
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#9302
+star~
+a beautiful star~
+A beautiful white star smiles at you.
+~
+You can't tell what the star looks like, she is too bright!
+~
+74 0 500 W3
+8 5 4 4d5+80 2d3+3
+500 1600
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#9303
+nebula young~
+a young nebula~
+A young nebula, waiting to become a star.
+~
+It hasn't got a definite shape, it is just a cloud of mist.
+~
+72 0 200 W3
+10 10 2 3d6+240 2d4+4
+1000 20000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#9304
+comet speedy~
+a speedy comet~
+A speedy comet is waiting to crush your head in.
+~
+You see the offspring of Halley's comet, here just to wipe everything out.
+~
+108 0 -500 W3
+10 11 2 4d6+160 2d6+4
+1500 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 10
+~
+#9305
+red supergiant~
+a red supergiant~
+An enormous, red supergiant is forced to protect the galaxy.
+~
+You notice the giant is not as tough as his name sounds ...
+Still he can be very powerful.
+~
+202 0 0 W3
+15 17 6 5d5+200 6d3+2
+2000 30000
+4 4 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#9306
+white dwarf~
+a white dwarf~
+A tiny white dwarf is trying to sneak away from duty. 
+~
+Like the red giant, he is also appointed to stand guard for the galaxy.
+But somehow he manages to escape.  Though tiny, it can take a lot of hits!
+~
+76 0 0 W3
+15 12 3 8d5+280 4d2+10
+2000 30000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#9307
+horsehead nebula~
+a horsehead nebula~
+A huge nebula is here, resembling a horsehead.
+~
+You can only make out its shape from the darkness.  He was cursed to stay in
+here and his face may never be seen by anyone again.
+~
+74 24576 -1000 W3
+18 20 0 8d5+300 4d5+1
+6000 30000
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#9308
+andromeda~
+poor Andromeda~
+The poor Andromeda is chained to the wall, suffering ...
+~
+She was once a princess of beauty.  However, her beauty has led to a Goddess's
+jealousy and she has to suffer here endlessly until Perseus comes.
+~
+74 128 1000 W3
+18 20 0 8d5+300 4d4+0
+7500 30000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#9309
+hercules~
+the mighty Hercules~
+The Mighty Hercules is working hard on his extra Labours for the Gods.
+~
+He has been put to do the Ten Labours -- ten impossible tasks, by Hera, the
+queen goddess, who disliked him.  But he finished them all and at the end was
+granted immortality. He is a very brave and strong fighter.
+~
+272715 136 1000 W3
+60 58 -5 6d10+4000 10d10+50
+65000 205000
+8 8 1
+18 100 13 13 13 13 0
+20 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9310
+pegasus~
+the wild Pegasus~
+The wild pegasus is grazing peacefully.
+~
+It is the legendary horse with wings on its back.
+~
+8394 0 1000 W3
+17 60 2 100d4+1700 2d7+0
+5000 34000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+55 55 55 55 55
+0 0 63
+6 0
+~
+#9311
+orion~
+Orion the hunter~
+Orion is still hunting Scorpio.
+~
+He is the legendary hunter who almost defeated Taurus the bull, but got
+killed by Scorpio.  The gods put them both up as constellations but one
+appears on one side of the sky and the other the other side so they will
+never meet. 
+~
+8267 128 300 W3
+74 45 -2 6d3+4000 5d10+35
+20000 88000
+8 8 1
+18 100 13 13 13 13 0
+20 2 0
+-20 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9312
+pleiades~
+the Pleiades~
+The Pleiades are here, weeping for the loss of their sisters.
+~
+These are the seven sisters of the Myths, and as for why they are here, no
+one knows; even the Gods themselves have forgotten.
+~
+74 0 300 W3
+11 15 3 3d4+120 2d7+0
+3000 7000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#9313
+draco head~
+the Head of Draco~
+The gigantic Head of Draco lurks out from beneath and prepares to roast you.
+~
+This evil-looking head is even larger than a giant.  He is the last guardian 
+before entering the inner galaxy.  His neck is flexing in a random fashion so 
+hitting the head is certainly not easy.
+~
+107 136 -1000 W3
+25 20 -5 4d4+600 5d5+15
+15000 50000
+8 8 0
+13 0 13 13 13 13 0
+9 2 0
+-50 0 6 0 0 0
+35 35 35 35 35
+0 0 0
+6 10
+~
+#9314
+draco baby~
+a baby draco~
+A baby draco is crawling on the Draco's body.
+~
+You see a tiny creature which looks like a dragon except that its body
+resembles a snake.  Gosh, is this a draco, you wonder, is this the thing
+we are on now?
+~
+205 0 -700 W3
+9 14 3 3d3+100 2d5+0
+4000 6000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#9315
+aries~
+Aries~
+Aries is sitting here, welcoming you.
+~
+You see a white goat here, the first guardian of the Zodiac,
+also the ruler of Spring. He looks as if he is expecting you.
+~
+8267 128 700 W3
+40 48 -5 6d4+1700 6d4+25
+10000 44000
+6 6 0
+18 100 13 13 13 13 0
+17 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9316
+taurus~
+Taurus~
+Taurus wants to leave, but has been forced to stay as a guardian here.
+~
+You see a wild-looking bull with a bad temper.  He is well-built and looks like 
+he can fight well ... indeed he has fought with Orion before and survived.
+~
+10347 136 -100 W3
+55 49 -5 5d3+3500 10d3+25
+10000 96000
+8 8 1
+13 0 13 13 13 13 0
+18 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#9317
+gemini~
+Gemini~
+Gemini is looking for his brother; have you seen him?
+~
+As soon as you see him you know that he is the most perfect man you have seen.
+You can't find any imperfections on him.
+~
+12363 128 1000 W3
+45 43 -5 7d3+2100 5d4+2
+10000 60000
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9318
+gemini~
+Gemini~
+Gemini is hiding from his brother, grinning evilly at you.
+~
+As soon as you see him you see the most imperfect man you have ever seen.
+How can there be such a contrast?  You wonder ...
+~
+12527 136 -1000 W3
+30 40 5 10d10+1500 3d4+2
+5000 40000
+8 8 1
+13 0 13 13 13 13 0
+18 2 0
+50 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 10
+~
+#9319
+cancer~
+Cancer~
+Cancer the crab is here, hoarding the treasure away from you.
+~
+You see a gigantic crab (YES, it is bigger than you!) with a crushed shell.
+Legend is that he was crushed by Hercules when he was sent by Hera to kill him.
+So Hera made Cancer a constellation for his work. 
+~
+8267 128 0 W3
+35 47 -5 2d10+1600 10d10+25
+12000 44000
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9320
+leo~
+Leo~
+Leo the lion is roaring at you, ready for a strike!
+~
+His metallic skin means that he could be the one which was killed by Hercules
+during his first Labour.  His skin is so weapon-proof that Hercules had to use
+his bare hands to tear the lion into two from its mouth!
+~
+10347 136 100 W3
+55 49 -7 3d30+3000 10d10+10
+10000 96000
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+-70 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#9321
+virgo~
+Virgo~
+Virgo is sitting here, winking at you suggestively ... you are alarmed!
+~
+From what you have seen, you now realize that legends are legends, and Virgo
+may not be the maid of chastity and purity at all!  But still she looks
+gorgeous and is waiting for your first move, whatever it is ...
+~
+203 0 128 W3
+20 36 -7 3d8+450 4d5+1
+10000 80000
+6 6 2
+13 0 13 13 13 13 0
+0 2 0
+-70 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#9322
+libra~
+Libra~
+Libra, the fair and just, is staring at you, weighing up the sins of your past.
+~
+He is a wise old man and can see people's thoughts through their eyes....
+Now all he can see from you is greed and bloodshed.
+~
+8267 128 1000 W3
+45 45 -5 4d5+2200 5d4+12
+10000 44000
+8 8 1
+13 0 13 13 13 13 0
+18 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9323
+scorpio~
+Scorpio~
+Scorpio is moving his tail towards you, waiting to put an end to some mortals.
+~
+Ever since he killed Orion in the myths, he has been punished by having 
+Sagittarius' arrow aimed at his heart forever.
+~
+8299 136 -200 W3
+28 35 -5 4d3+1200 3d7+11
+10000 44000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 2 0 0 0
+30 30 30 30 30
+0 0 0
+6 10
+~
+#9324
+sagittarius~
+Sagittarius~
+Sagittarius the centaur is waiting to let go of his well aimed arrow ...
+~
+He is a centaur and a well trained archer. No one can escape his arrows.
+~
+75 128 1000 W3
+30 32 -5 5d6+3000 3d9+12
+10000 60000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#9325
+capricorn~
+Capricorn~
+Capricorn is here, feeling bored ... he wants a fight!
+~
+You see a mean-looking ram here.  He used to be a fierce fighter in the ancient
+war but now the gods have decided to put him here, to live out the rest of his 
+days in peace.
+~
+10315 128 100 W3
+55 48 -5 4d7+3500 3d10+10
+10000 96000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9326
+aquarius~
+Aquarius~
+The beautiful Aquarius is standing here, holding THE vessel.
+~
+The pretty Water Bearer is smiling at you, you think you'd better give her a 
+hand with holding the vessel. 
+~
+8267 128 1000 W3
+35 38 -5 3d5+1000 2d10+11
+10000 60000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9327
+pisces mermaid~
+Pisces the mermaid~
+Pisces the mermaid is sitting here, waiting for your help.
+~
+She has been forced to serve her husband, who had been cursed to turn into a
+fish and she deserves your pity.
+~
+8267 128 1000 W3
+30 33 -5 4d5+2000 3d7+10
+10000 44000
+6 6 2
+13 0 13 13 13 13 0
+0 2 0
+-50 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#9328
+pisces fish~
+Pisces the fish~
+Pisces the fish, is jealous of your approach...
+~
+He was once a very handsome man but now has turned into an ugly big fish.
+So he becomes jealous of any living thing which is more handsome than him.
+~
+8299 128 -1000 W3
+22 30 0 3d3+1000 12d6+12
+10000 44000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+45 45 45 45 45
+0 0 0
+6 10
+~
+#9329
+bear ursa major~
+Ursa Major the bear~
+Ursa Major the bear is the last defense against any intruders.
+~
+The Huge Bear which resides in the northern skies is here. 
+You think you'd better turn back.  At least you have got a chance of survival.
+~
+107 136 0 W3
+45 35 -7 2d4+800 5d5+3
+15000 90000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-70 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#9330
+queen cassiopeia queencassiopeia~
+Cassiopeia the Queen~
+Cassiopeia, the queen of the Universe, is sitting on her throne.
+~
+She is the Queen of Dignity; facing her you feel all your dignity has gone.
+~
+8267 128 700 W3
+70 54 -6 10d8+3700 6d7+24
+50000 122000
+6 6 2
+13 0 13 13 13 13 0
+0 2 0
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9331
+king cepheus~
+Cepheus the King~
+Cepheus, the king of the Universe, is sitting on his throne.
+~
+He is the King of Might as well as of the Universe. You suddenly feel very
+weak and useless in front of him.
+~
+270411 1160 700 W3
+132 90 -80 1d100+9000 14d10+90
+25000 130000
+6 6 1
+18 100 18 18 25 25 19
+15 2 0
+-800 10 8 0 0 25
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9332
+polaris polar star~
+Polaris, the polar star~
+Polaris, the polar star, who commands the whole Universe, stands before you!
+~
+He is the Master of the Universe, (NOT He-Man!), the most powerful!  
+Even the King and the Queen obey him.  As you look at him you notice he is 
+actually a STAR, with dazzling bright light ... maybe you shouldn't have come
+here at all?
+~
+272459 138 1000 W3
+90 75 -35 10d20+6500 6d6+37
+150000 250000
+8 8 1
+13 0 13 13 13 13 0
+14 2 0
+-350 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9333
+jason argonaut robert urich~
+Robert Urich~
+Robert Urich, "Jason" from Ice Pirates stands here, stuck in the space time loop.
+~
+Unfortunately the RL actor has cancer, but, this is the old Robert Urich,
+the one we know and love that played this epic character in one of the
+greatest cult space flicks since space balls.
+~
+272459 138 1000 W3
+90 77 -20 10d20+6500 6d6+37
+150000 250000
+8 8 1
+13 0 13 13 13 13 0
+14 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9334
+yogurt~
+Yogurt~
+Yogurt, aka Mel Brooks, stands here on his knees pretending to be a midget.
+~
+Damn his middle class upbringing, he is hilarious as well as being the 
+greatest Drew comic of all time.  He has the shwartz.
+~
+305227 65672 1000 W3
+90 77 -20 10d20+6500 6d6+37
+150000 250000
+8 8 1
+13 0 13 13 13 13 0
+8 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9335
+princess vespa~
+Princess Vespa~
+Princess Vespa, Daphna Zuniga, stands here with a large blaster rifle.
+~
+You see the former Melrose Place star standing here, ready to kick some
+ass and take some names.
+~
+305227 65672 349 W3
+90 74 -20 10d20+6500 6d6+37
+150000 250000
+8 8 1
+13 0 13 13 13 13 0
+18 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9336
+lonestar~
+Lonestar~
+Lonestar stands here, being a loser.
+~
+You see some loser actor who never amounted to anything.  So he had this
+one time shot.  SO he rocked, in this one movie.  WOO WOO!
+~
+305227 65672 351 W3
+90 77 -20 10d20+6500 6d6+37
+150000 250000
+8 8 1
+13 0 13 13 13 13 0
+17 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9337
+helmet~
+Helmet~
+Helmet, aka Rick Moranis, stands here wanting you to touch his helmet.
+~
+Before honey I shrunk the kids, he was the evil helmet, who is your 
+brother's, uncle's, sister's former roommate.
+~
+272591 65672 -351 W3
+90 77 -40 10d20+6500 6d6+37
+150000 250000
+8 8 1
+13 0 13 13 13 13 0
+16 2 0
+-400 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9338
+president screw~
+President Screw~
+President Screw stands here, being just another one of Mel Brooks characters.
+~
+After this other great hits come forth, like Robin Hood men and tights, that
+was a winner!
+~
+276555 65672 -351 W3
+90 77 -20 10d20+6500 6d6+37
+150000 250000
+8 8 1
+13 0 13 13 13 13 0
+16 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9339
+barf barfolomeuw~
+Barf~
+Barfolomeuw stands here, looking up your kilt with his tail.
+~
+Before we lost John Candy, he was probably the funniest big mana in
+comedy.
+~
+276555 65672 1000 W3
+90 77 -20 10d20+6500 6d6+37
+150000 250000
+8 8 1
+13 0 13 13 13 13 0
+15 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9344
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#9399
+mel brooks~
+Mel Brooks~
+Mel Brooks stands here, being the brains behind this movie.
+~
+He is the King of Comedy.  You think he has been stuck in the same
+movie scenario since day one of his comedic career.
+~
+270411 128 700 W3
+127 75 -40 1d100+9000 10d10+70
+100000 130000
+6 6 1
+18 100 13 13 13 13 0
+18 2 0
+-400 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

@@ -1,0 +1,144 @@
+#25600
+mushroom grey mush shroom~
+a grey mushroom~
+A small grey mushroom grows on the ground here.~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+1 0 0
+E
+mushroom mush shroom~
+Taking a closer look at this little mushroom, you see it looks almost exactly
+like a portabella, except for it's grey coloring. It looks pretty tasty. You
+think it's safe to eat.
+~
+#25601
+Pond clear small~
+a clear pond~
+You look at the pond, and watch the dragonflys buzz about it's surface.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 15 0
+10000 0 0
+#25602
+mushroom grey mush shroom~
+a grey mushroom~
+A grey mushroom grows on the log here.~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+1 0 0
+E
+mushroom mush shroom~
+Taking a closer look at this little mushroom, you see it looks almost exactly
+like a portabella, except for it's grey coloring. It looks pretty tasty. You
+think it's safe to eat.
+~
+#25603
+log rot rotten~
+a rotten log~
+A rotten log lies on the ground here.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+10000 0 0
+E
+log rotten rot~
+You take a closer look at the log.... It's very large log. It must have once
+been a great tree like the ones that surround you. Mushrooms grow all over
+it's surface. They look pretty apettizing too.
+~
+#25604
+tree fruit~
+a fruit tree~
+A fruit tree grows here, occasionally droping a piece of fruit to the ground.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+10000 0 0
+E
+tree~
+The tree is old and looks as though it's weathered many years, but come out
+for best of it. Odd looking fruit hangs from it's branches.
+~
+#25605
+fruit piece~
+a piece of fruit~
+A piece of fallen fruit is lying on the ground here, it looks delicious.~
+~
+19 0 0 0
+0 0 0
+12 0 0 0
+2 0 0
+E
+fruit piece fru~
+As you examine the fruit, you realize you've never seen anything of it's kind
+before. I looks almost like a cross between an apple and orange, having the
+the shape of an apple, but the texture & color of an orange.
+~
+#25606
+corpse wood woodlander~
+a woodlander's corpse~
+The corpse of a woodlander is lying here, it looks freshly dead.~
+~
+15 0 0 0
+0 0 0
+1000 0 0 0
+900 0 0
+E
+corpse cor~
+You look at the corpse of a woodlander and feel pity for the poor guy that
+lost his life here. Whatever killed him was not nice about it either, the
+corpse has been badly mauled. It almost looks as if it has been chewed upon.
+~
+#25607
+torch~
+a woodlander's torch~
+The torch of a woodlander is lying on the ground.~
+~
+1 0 16385 0
+0 0 0
+0 0 24 0
+2 10 10
+E
+torch woodlander wood~
+Taking a closer look at the torch you see it's made of some cloth wrapped
+around a stick and dipped into some smelly solution. It'd probably last for
+at least a day.
+~
+#25608
+key rusted rusty~
+a rusted key~
+A rusted key lies about on the ground here.~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+2 0 0
+E
+key rusted rusty~
+You look at the key. It appears to be very old and made of iron or some
+sililar metal. There are small carvings on it's side, but you can't make out
+what they mean.
+~
+#25609
+sword woodlander wood~
+a woodlander's sword~
+A woodlander's sword lies rusting on the ground here.~
+~
+5 65544 24577 0
+0 0 0
+0 3 5 3
+5 0 0
+E
+sword woodlander wood~
+Looking at the sword you see it's not the best quality weapon you've ever
+seen, but it looked like it fit it's purpose. It's slightly soiled, and
+almost looks as if it was recently used.
+~
+$

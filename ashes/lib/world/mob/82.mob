@@ -1,0 +1,1198 @@
+#8200
+bink Bink magician~
+Bink~
+Magician Bink is here, wishing he weren't.
+~
+Bink is a tall, strapping man, with iron grey hair and a neatly trimmed beard
+and mustache. He appears to be slightly past his prime, but it is obvious
+that he stays in shape. Bink was once banished from Xanth, before his talent
+was discovered, so he has learned many of the fine points of swordplay and
+rough-housing. And he also has that secret talent to fall back on.
+~
+38923 131072 1000 W3
+127 40 -14 2d300+20000 6d5+40
+27500 500000
+8 8 1
+18 20 15 10 14 14 15
+20 2 2
+-140 0 4 0 200 0
+1 1 1 1 1
+3 0 0
+6 0
+~
+#8201
+centaur chester~
+Chester Centaur~
+Chester Centaur is napping here and dreaming of his wife Cherie.
+~
+Chester Centaur is a great bull of a man atop a great stallion of a horse.
+His hair and flanks have begun to turn grey, but he is still a powerful-
+looking specimen of centaurhood. His face is not particularly attractive,
+but his hinder portion is sleek and well-formed. He is known to be rather
+ornery, so it's not a good idea to wake him.
+~
+4194315 0 750 W3
+56 23 -25 1d100+3069 5d3+15
+20250 83500
+4 4 1
+18 100 15 8 13 17 0
+19 3 2
+-250 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8202
+rapunzel wife~
+Rapunzel~
+Rapunzel, Grundy's wife, dreamily brushes out her long, beuatiful hair here.
+~
+Rapunzel was kidnapped from a Grimm's Fairy Tale in order to become the wife
+of Grundy Golem. She is a beautiful woman, for all that she is no bigger
+than your open palm. Her talent is to change the length of her hair, and
+currently she prefers it lightly brushing her ankles. She smiles sweetly at
+you as she sees you looking at her and gives you a little wink.
+~
+4198538 262144 1000 W3
+80 35 -6 1d1000+10000 3d7+30
+6500 45000
+8 8 2
+4 0 16 13 13 7 0
+0 0 2
+-60 0 4 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#8203
+golem grundy translator~
+Grundy Golem~
+Grundy Golem, the King's Translator, is here chatting with some plants.
+~
+Grundy Golem is a tiny little squirt no bigger than your hand. He still has
+the surname "Golem", but he became a real creature (real without magic, that
+is) some time ago. Grundy was once said to be the only creature in Xanth with
+two talents: translation and insult, but his marriage to Rapunzel seems to
+have mellowed him...a little.
+~
+2186 262144 350 W3
+80 40 -6 1d100+10000 5d5+35
+6500 60000
+8 8 1
+6 0 18 7 13 9 0
+0 0 2
+-60 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8204
+jordan barbarian~
+Jordan the Barbarian~
+Jordan the Barbarian is here, sharpening his sword and humming tunelessly.
+~
+Jordan is a huge, muscular man of about six and a half feet in height. He is
+a true barbarian, with shaggy, unkempt hair and a questionable odor. He looks
+VERY formidable, and you do not feel like messing with him now, especially
+since he's got his weapon at the ready, and looks like he knows how to use
+it to its full advantage.
+~
+266251 0 350 W3
+80 40 -10 1d100+12000 5d5+45
+27750 156000
+8 8 1
+18 100 7 7 13 18 0
+20 2 2
+-100 0 6 1000 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8205
+threnody girl girlfriend~
+Threnody~
+Threnody, Jordan's girlfriend, is here strumming a lyre and singing sweetly.
+~
+Threnody is a tall, very beautiful young woman with long, dark hair and eyes
+of witching green. She has an air of mystery and seduction about her, perhaps
+due to her half-demon heritage. She is quite an accomplished singer, though,
+and accompanies herself well on the lyre. Jordan loves her to distraction,
+so you'd better not try anything funny if he's around.
+~
+12426 1064 100 W3
+46 25 -22 1d100+1769 8d7+0
+13490 100000
+8 8 2
+9 0 17 12 17 13 0
+0 2 2
+-220 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8206
+millie wife ghost maid~
+Millie~
+Millie, aka the Ghost, aka the Maid, aka the Zombie Master's wife, is here.
+~
+Millie is a petite woman of early middle age, very attractive to look at,
+with honey-blonde hair that has not yet faded with age, and bright blue eyes
+that hold a no-nonsense demeanor. You notice that the male members of your
+party become very hot and uncomfortable as they look upon her, and the
+females seem to radiate waves of solid hate. Millie's talent is sex appeal,
+and she has used it to catch herself a powerful Magician as a husband.
+~
+4198538 0 1000 W3
+32 15 -14 1d75+1019 4d10+0
+7560 53500
+8 8 2
+8 0 10 11 13 10 0
+0 2 2
+-140 0 2 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#8207
+magician jonathan~
+the Zombie Master~
+Magician Jonathan, better known as the Zombie Master, sits here silently.
+~
+The Zombie Master is a tall, thin, gaunt man with dark hair and eyes, who
+looks a bit more like his creations than polite people like to admit. He is
+reknowned for his humorless demeanor and lack of social skills, but his
+marriage to Millie the Maid has made him better-fleshed and better-tempered.
+Still, he is not one for idle chatter, and he would prefer you to leave him
+alone with his wife, as in immediately.
+~
+6154 32 0 W3
+63 35 -30 1d100+2769 7d5+0
+18460 92000
+8 8 1
+10 0 18 14 10 10 0
+0 2 2
+-300 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8208
+sorceress iris queen emeritus queenemeritus~
+Queen Emeritus Iris~
+The Sorceress Iris, Queen Emeritus and wife of Trent, raises an eyebrow at you.
+~
+Queen Emeritus Iris is an older woman, with hair going to grey and a body
+losing its struggle against advancing age, but as she is able to use her
+talent of illusion to change her appearance to anything she likes, you
+cannot be completely certain that this is her true form. She is a tough,
+smart lady who will do anything for her husband Trent, whom she loves.
+She is not known for her scruples, either, so "anything" is quite a lot.
+~
+6155 0 250 W3
+70 35 -14 1d100+2769 5d5+20
+26750 119000
+8 8 2
+10 0 17 14 10 8 0
+8 2 2
+-140 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8209
+king emeritus trent kingemeritus kingtrent~
+King Emeritus Trent~
+Magician Trent, Transformer-King Emeritus, nods at you and continues reading.
+~
+King Emeritus Trent is an older man, but still sturdy, with iron grey hair
+and knowing eyes. He is one of the most powerful Magicians in Xanth, and he
+ruled it wisely and well for many years before handing over the reins to his
+son-in-law Dor. He is still a powerful influence in the court, and a very
+well-respected elder statesman. He is worthy of great respect.
+~
+2058 0 750 W3
+63 35 -14 1d100+2769 5d5+20
+20000 93500
+6 6 1
+15 0 18 17 13 11 0
+0 2 2
+-140 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8210
+pudgy balding old man murphy magician~
+Magician Murphy~
+The pudgy, balding old man known as Magician Murphy is reading in here.
+~
+Magician Murphy was one of Xanth's most powerful Magicians a few hundred years
+ago, until he was exiled from Xanth into the storage of the Brain Coral and
+then to Mundania for his designs against then-King Roogna. His exile in that
+barren land convinced him to turn over a new leaf, and he know holds a place
+of honor in his home kingdom, frequently advising the present King. Murphy's
+talent is to make things go wrong, which is dangerous and unpredictable, but
+better to have as an ally than an enemy.
+~
+16522 0 50 W3
+52 35 -30 1d100+2769 2d9+11
+16750 79500
+8 8 1
+9 0 17 15 7 8 0
+0 2 2
+-300 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8211
+vadne sorceress wife topology~
+Sorceress Vadne~
+Vadne, Sorceress of Topology and wife of Murphy, is here writing in a diary.
+~
+The Sorceress Vadne was once a beautiful woman, and is still rather striking
+for her age, but her long exile in drear Mundania has left her looking a bit
+tired and worn. Her dark hair is beginning to surrender to grey, and her face
+is beginning to become careworn. Her glance is as steely as ever, though, and
+she fixes her bright green eyes on you suspiciously as she sees you looking
+at her. Apparently she has not forgotten anything she learned in Xanth.
+~
+14474 0 0 W3
+45 25 -22 1d100+1769 8d7+0
+11530 98500
+8 8 2
+7 0 16 10 7 9 0
+0 2 2
+-220 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8212
+xavier yellow haired bronze god man~
+Xavier~
+Xavier, a yellow-haired bronze god of a man, is wishing he could go flying here.
+~
+Xavier is an absolutely gorgeous-looking man, with yellow-blond hair, skin
+tanned to the color of old bronze, and a muscular build that shows he is not
+afraid to get into a tussle. Xavier's talent is "zapping", which he has never
+explained to people, only demonstrated. It doesn't sound good, though. Xavier
+is married to Zora, who is in fact a zombie, though she doesn't look it.
+~
+4198410 0 1000 W3
+62 30 -26 1d100+2269 3d8+0
+21000 89500
+8 8 1
+18 50 9 10 15 16 0
+0 2 2
+-260 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8213
+zombie zora wife~
+Zora Zombie~
+Zora Zombie, wife of Xavier, gazes fondly upon her husband here.
+~
+Zora Zombie is a very attractive young lady who nevertheless is dead. She
+killed herself after her true love was false to her, and was later returned
+to half-life by the Zombie Master. She existed in this state for hundreds of
+years before encountering Xavier while he was travelling with Queen Irene,
+and fell in love with him through a mischance with a love spring. Xavier
+was at first repelled by her, but later grew to love her back for her sweet
+and selfless nature. The resultant attention has been good for her, and she
+is much more attractive than others of her type. She loves Xavier dearly.
+~
+4204554 1024 1000 W3
+57 25 -22 1d100+1769 6d8+5
+12750 85000
+8 8 2
+10 0 10 10 10 18 0
+0 2 2
+-220 0 2 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#8214
+centaur chem mapmaker official royal~
+Chem Centaur~
+Chem Centaur, Official Royal Mapmaker for the Land of Xanth, is here working.
+~
+Chem is a cute, button-nosed young woman from the waist up, and a striking
+young mare from below the waist. She has long, flowing brown hair, eyes of
+a dark chocolate color, and two rather large breasts, which are left exposed
+to the eyes of all in the centaur tradition. Chem is a nice girl, and very
+intelligent, but has had problems with her people both because of her magic
+talent, which is making illusory maps, and because of her indiscretion with
+Xap, Xavier's hippogriff friend. Chem is a strong-willed young lady, though,
+and she does not let the prejudice of others get her down.
+~
+4196491 0 1000 W3
+54 30 -26 1d100+2269 7d4+1
+19650 82500
+8 8 2
+13 0 17 17 13 13 0
+19 3 2
+-260 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8215
+centaur chet friend~
+Chet Centaur~
+Chet Centaur, friend to King Dor, is here doing some complex calculations.
+~
+Chet Centaur is not very large in centaur terms, but he stands two full heads
+taller than any human you have ever seen. He is not bad-looking, with curly
+brown hair and chocolate brown eyes like his sister Chem, but he has never
+seemed particularly interested in finding a mate. He is a wizard at math,
+though, and thus spends most of his day in here, shuffling through papers
+and doing whatever accounting is necessary for the crown.
+~
+4196491 0 1000 W3
+54 30 -26 1d100+2269 3d4+11
+19250 82500
+8 8 1
+15 0 18 18 13 15 0
+19 3 2
+-260 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8216
+king dor kingdor~
+King Dor~
+King Dor sits here on his throne, worrying about his kingdom.
+~
+The King of Xanth does not look particularly impressive, truth be told. He
+looks like a typical young man who worries too much and has a bit too much
+responsibility. His hair is brown, and his eyes are blue, and his face is
+twisted into a frown of concentration. He appears lost in thought, and doesn't
+seem to notice your presence, but you remember that Xanth's Kings are chosen
+for the strength of their magic, so it would probably not be a good idea to
+molest him, especially since there are plenty of guards around.
+~
+24586 0 1000 W3
+100 40 -15 1d100+10000 5d5+20
+35350 150000
+6 6 1
+15 0 16 13 8 13 0
+0 2 2
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8217
+smash ogre~
+Smash~
+Smash Ogre is here, squeezing handfuls of sand into sandstone for fun.
+~
+Smash is a big ugly brute of an ogre, like all ogres, but he somehow looks
+a little less stupid and brutish than others of his kind. This is because
+he also has human heritage, and thus is a bit less ugly and more intelligent
+than other ogres. Smash is a VERY strong guy, but he is kind and loyal too,
+so he has a lot of friends around Castle Roogna, and is often called to help
+them out of jams that require an ogre's brute strength.
+~
+63499 16777216 750 W3
+75 45 -14 1d100+18000 7d7+35
+13000 101650
+8 8 1
+25 0 9 8 9 18 0
+20 3 2
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8218
+tandy nymph wife daughter~
+Tandy~
+Tandy Nymph, daughter of Jewel Nymph, and wife of Smash, is writing her mother.
+~
+Tandy is a cute, button-nosed girl with brown hair and blue eyes. She is
+part nymph, so is sometimes kind of airheaded and flighty, but her human
+heritage allows her a little more stability. Her talent is throwing tantrums,
+which can stun a human target, or even an ogre, for quite awhile. Other than
+that, though, she is fairly defenseless, and relies on her husband Smash to
+protect her, which he is very good at.
+~
+4206730 0 1000 W3
+43 30 -7 1d100+8000 8d3+30
+17500 95000
+8 8 2
+8 0 14 8 15 9 0
+0 2 2
+-75 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8219
+dolph prince magician~
+Prince Dolph~
+Prince Dolph, Magician and shapechanger, smiles at you.
+~
+Dolph is a cute young boy of about six or seven years of age, with brown
+hair like his father and green eyes like his mother. Dolph's talent is to
+change into whatever sort of creature he can imagine, which makes him a
+full Magician despite being just a boy. One day he will by King of Xanth,
+if his sister Ivy doesn't want it. Right now, though, he is just a cute
+little moppet with a friendly smile, and you get the urge to pick him up
+and hug him as you smile back.
+~
+4196490 263208 1000 W3
+35 15 -14 1d75+1019 4d10+0
+0 72500
+8 8 1
+6 0 12 9 13 11 0
+0 1 2
+-140 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8220
+princess ivy sorceress~
+Princess Ivy~
+Princess Ivy smiles at you from the back of her dragon friend, Stanley.
+~
+Princess Ivy is an attractive girl who is headed at breakneck speed towards
+womanhood. She has long, flowing blonde hair with just a hint of green to
+it, like her mother's, and witching green eyes. Her talent is Enhancement,
+that is, making whatever she focuses on more like she sees it than it is.
+She is a full Sorceress, and one day will be King of Xanth, if she chooses.
+Right now she appears to be looking for a husband, though, so who can tell
+what her plans for the future are...
+~
+38920 0 1000 W3
+55 40 -7 1d100+9000 5d5+30
+12900 99000
+8 8 2
+9 0 15 9 15 10 0
+0 2 2
+-75 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8221
+irene queen~
+Queen Irene~
+Irene, Queen of Xanth, is watering her plants and humming to herself here.
+~
+Queen Irene is a very attractive woman of perhaps 30 years of age. She has
+flowing blonde hair with green highlights, and bright green eyes. She favors
+green in clothing and decoration, too, as you can see from her jewelry and
+clothing. Her talent is to make plants grow at a phenomenal rate, whether
+from seed or an already mature plant. This talent is very powerful in Xanth,
+where the plants are much more dangerous than in Mundania. Irene is a tough,
+no-nonsense sort of woman, who takes no guff from anyone.
+~
+4196490 0 1000 W3
+70 40 -10 1d100+10000 6d7+25
+29000 119000
+8 8 2
+10 0 16 15 13 13 0
+0 2 2
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8222
+guard castle roogna~
+a castle guard~
+One of the guards of Castle Roogna is here, maintaining order.
+~
+Castle Roogna does not ordinarily come under siege, but the few times it has
+have convinced the Kings of Xanth to maintain a small honor guard for the
+castle and its inhabitants. These are generally volunteers, young men from
+local villages who are trained in combat and feel like moving away from the
+old homestead. This guard looks fairly typical: strong, sturdy, and not
+overly bright. But at least he's friendly enough.
+~
+4208649 1064 1000 W3
+40 15 -6 1d50+400 4d2+0
+6000 24000
+8 8 1
+18 0 8 8 13 17 0
+1 2 2
+-60 0 4 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#8223
+cook head woman little busy~
+the Head Cook~
+A busy little woman shoves you aside and adds some seasoning to a boiling pot.
+~
+This woman must be the Head Cook of Castle Roogna, for she is constantly
+keeping an eye on everything that is happening in the kitchen. Not a pot may
+have water boiled in it that she has not inspected to make sure the water is
+boiled ABSOLUTELY RIGHT. She looks to be about 40 years old, and is rather
+dumpy-looking, but she takes her job seriously, which is good in a cook.
+~
+4200584 0 1000 W3
+17 7 2 1d30+200 5d3+2
+4150 12000
+8 8 2
+12 0 11 14 11 14 0
+0 2 2
+20 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#8224
+Chameleon~
+Chameleon~
+Chameleon is here, looking as ugly and smart as possible, and nagging Bink.
+~
+This is the ugliest woman you have seen in a long time. You wonder how Bink can
+stand to be with someone like this. And on top of that, she nags him and is
+generally in a bad mood all the time. As you watch you begin to understand.
+There is a keen intelligence behind that face and watching even now, you can
+see her slowly changing in her monthly cycle from ugly and intelligent to
+beautiful and dumb. A new woman all the time, no wonder Bink loves her so
+much. ..Yet you don't envy his place as she threatens him with a wooden spoon.
+~
+39050 0 1000 W3
+100 50 -15 1d100+10000 5d5+30
+20000 100000
+8 8 2
+10 0 10 10 10 10 0
+0 2 2
+-150 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8225
+cook castle roogna~
+a cook~
+One of the cooks of Castle Roogna is hard at work making something tasty here.
+~
+The cooks of Castle Roogna are a quiet, hard-working lot who take a lot of
+pride in their work. This one pays you no mind, being hard at work, and much
+too busy to talk to visitors with the next meal only 8 hours away.
+~
+4200584 0 1000 W3
+14 5 2 1d30+100 1d8+0
+750 8000
+8 8 1
+10 0 10 10 10 10 0
+0 2 2
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8226
+boy lad washer dish dishwasher young~
+a dishwasher~
+A young lad is washing some dishes here in preparation for the next meal.
+~
+This dishwasher, like dishwashers everywhere, seems to be a young lout whose
+parents made him work at the castle to keep him out of trouble. His hair is
+a bit longer than is fashionable elsewhere, and he looks as if he desperately
+needs a cigarette. You feel a little sorry for him.
+~
+4196491 1024 -50 W3
+10 4 4 1d20+80 1d10+1
+550 7000
+8 8 1
+13 0 7 5 13 13 0
+19 2 2
+40 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8227
+servant castle roogna~
+a servant~
+A servant of the castle is busying herself with her duties here.
+~
+Castle Roogna has a lot of servants, mostly because the people need to do
+something to make themselves feel useful, since most of the basic staples
+of life are free for the asking all over Xanth. This servant is a fetching
+young woman in her late teens, who probably dreams of meeting someone famous
+completely by surprise who will love her madly and take her far away from all
+this, when all she ever expected was the simple life of a servant.
+~
+4200584 0 1000 W3
+25 9 2 1d30+219 1d8+0
+750 14000
+8 8 2
+10 0 10 10 10 10 0
+0 2 2
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8228
+servant castle roogna~
+a servant~
+A servant of the castle is going about his duties here, ignoring you completely.
+~
+The servants of Castle Roogna are an industrious lot, but not overly pompous
+or self-important. The glance that this man gives you as he rushes by you
+without saying a word seems to say that ordinarily he would LOVE to sit and
+talk with you for hours on end, but alas, he is running a VERY INPORTANT
+errand for the King, so he can't.
+~
+4200456 0 1000 W3
+10 0 2 1d30+90 1d8+0
+750 8000
+8 8 1
+10 0 10 10 10 10 0
+0 2 2
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8229
+xap hippogriff~
+Xap the Hippogriff~
+The yellow hippogriff known as Xap, friend and steed of Xavier, rests here.
+~
+Hippogriffs are similar to griffons, except that they have the bodies of
+horses rather than lions. The front two legs are actually eagle talons,
+whereas the rear legs are equine, but hippogriffs are fast runners. Xap
+is a handsome specimen of a hippogriff, with a tawny yellow horse's body,
+and pale yellow feathers the color of sunshine. Xap is a fine flier, and
+a fine fighter, but ordinarily not aggressive. You should have nothing to
+fear from him...unless of course you provoke him...
+~
+4107 1064 350 W3
+57 20 -6 1d100+1769 6d3+14
+0 85000
+8 8 1
+17 0 6 7 17 13 0
+19 3 3
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8230
+crombie soldier guard captain~
+Crombie the Soldier~
+Crombie the Soldier, Captain of the King's Guard, is here supervising things.
+~
+Crombie is a sturdy man in his late-middle years, with iron-grey hair and a
+thick, bushy moustache. He obviously keeps himself fit, for his body is still
+lean and muscular, though he is slightly past his prime. He stands straight
+and tall, and you can tell that he is perfectly suited for the position of
+Captain of the Guard, for he glares at you suspiciously.
+~
+6153 1064 500 W3
+100 40 -15 1d100+9000 5d7+45
+27500 125000
+8 8 1
+18 25 13 13 8 15 0
+20 2 2
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8231
+dread named irving~
+the Named Dread~
+The Named Dread Irving cowers in the corner, avoiding you.
+~
+Why, it doesn't look frightening at all. In fact, it seems petrified of you,
+now that you have deprived it of its power. It will offer no resistance.
+~
+4194442 2 1000 W3
+25 9 2 1d30+219 1d8+8
+0 14000
+8 8 0
+10 0 10 10 10 10 0
+0 0 0
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8232
+skeleton ossein grace'l~
+Grace'l Ossein~
+Grace'l Ossein is here, looking for her husband Marrow.
+~
+Grace'l is quite shapely, for a skeleton. If she had flesh over those bones,
+she might be quite a looker. However, her husband Marrow likes her just the
+way she is, flesh being most unattractive and messy. Oh well, you shrug, to
+each his (or her) own.
+~
+4206602 0 1000 W3
+40 15 -7 1d75+400 4d10+0
+0 21000
+8 8 2
+8 0 10 11 13 10 0
+0 2 1
+-70 0 3 0 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#8233
+marrow bones skeleton human~
+Marrow Bones~
+Marrow Bones is here, lurking around out of habit.
+~
+Marrow is a human skeleton, about six feet high. Despite his lack of flesh,
+his features have a lot of character, and you can tell that he is basically
+an OK sort of person. A little stiff, perhaps, but nice. He appears genuinely
+interested in you, but not threatening.
+~
+12298 1064 350 W3
+47 20 -6 1d100+450 8d3+15
+0 25000
+8 8 1
+9 0 17 12 17 13 0
+0 2 1
+-60 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8234
+caretaker man wizened little~
+the caretaker~
+A wizened little man moves around this area, making tsk-tsk noises.
+~
+This man is very old, and very fidgety. He is constantly moving from pile to
+pile, rearranging their contents to his satisfaction. He appears to be the
+anal retentive type of person who can do this sort of thing all day and go
+home satisfied as to his life's work. Oh well, takes all kinds.
+~
+4200456 0 1000 W3
+25 7 -2 1d30+250 5d2+10
+4150 15750
+8 8 1
+12 0 11 14 11 14 0
+0 2 2
+-20 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#8235
+elf little librarian~
+a librarian elf~
+A little elf is clambering over the piles of books, trying to catalog them.
+~
+This little guy is panting quite desperately and sweating profusely as he'
+struggles to the top of the pile of books, selects a volume that weighs
+nearly as much as he does, then slip-slides back down the pile to put it
+away. He doesn't look like he needs distractions right now.
+~
+4194442 1024 350 W3
+9 4 4 1d20+70 1d10+1
+0 7650
+8 8 1
+13 0 7 5 13 13 0
+0 0 2
+40 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8236
+servant good magician~
+a servant~
+One of the Good Magician's servants bustles his way through here busily.
+~
+The Good Magician must be quite a taskmaster, because this guy looks as if
+his very life depends upon his mission, whatever that might be. He just
+plain ignores you as he gets on with his work. Sheesh!
+~
+4200456 0 1000 W3
+20 6 2 1d30+219 1d8+0
+0 12000
+8 8 1
+10 0 10 10 10 10 0
+0 2 2
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8237
+copycat cat copy~
+the copycat~
+A small alley cat stares back at you, imitating your every action.
+~
+This is a normal-looking alley cat, with fur, claws, and a long tail of
+which it appears quite proud. Its behavior, however, is something else
+again. The stupid beast is imitating your every action, and you are
+getting a little tired of being mocked...
+~
+4196362 1024 -50 W3
+15 7 4 1d20+159 1d10+1
+0 10000
+8 8 1
+5 0 7 5 13 13 0
+0 2 2
+40 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8238
+roc huge bird~
+the gigantic roc~
+A huge eagle-like bird caws angrily at your entrance, deafening you.
+~
+This must be the fabled roc, an absolutely monstruous bird, far larger than
+any dragon. Its tremendous talons could easily crush you to pulp, with no
+more effort than you would take to swat a fly. The roc doesn't look very
+pleased to see you here, so the prudent course might be to exit, fast...
+~
+10 0 1000 W3
+63 21 -9 1d100+1000 4d7+36
+0 93500
+8 8 2
+18 100 3 3 7 18 0
+0 5 0
+-90 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8239
+elf little~
+a little elf~
+An elf is here, rapidly disappearing under a huge coil of rope.
+~
+This is is struggling elffully with the coil of rope, occassionally tripping
+and falling as he overbalances himself, but gamely getting up and going back
+to work. The whole effect is more than a little funny, and you stifle a
+chuckle as you listen to him mutter under his breath.
+~
+4194442 1024 350 W3
+15 7 4 1d20+159 1d10+1
+0 12000
+8 8 1
+13 0 7 5 13 13 0
+0 0 2
+40 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8240
+cat cactus~
+a cactus cat~
+There is a cat with a striped green and brown coat sitting here.
+~
+You look closer at the cat and notice that its "fur" is actually
+composed of needles instead of fur.  The ears are actually thorns
+that are large and stiff.  The claws of the cat area actually sharpened
+slicing blades of bone.  It blinks as you look at it.
+~
+10248 0 0 W3
+32 15 -5 1d100+300 5d3+10
+1250 14000
+8 8 2
+13 0 13 13 13 13 0
+0 1 0
+-50 11 4 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#8241
+chimera lion dragon goat creature~
+the chimera~
+A creature with the heads of a lion, a goat, and a dragon lurks here.
+~
+The chimera is an ancient heraldic beast, very dangerous. It has three heads,
+a lion's head, a goat's heat, and a dragon's head. Its claws are also very
+dangerous, and the dragon's head can breathe fire. You are in for a tough
+fight, if you decide to stick around long enough.
+~
+8 1024 0 W3
+90 25 -4 5d30+800 5d5+20
+3200 65000
+8 8 0
+13 0 13 13 13 13 0
+0 3 4
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8242
+ram battering~
+a battering ram~
+There is a ram here trying to batter it way through a wall.
+~
+This sheep has small, curly horns and a curly pelt.  It seems to
+enjoy running into any obstacle in its path trying to crash through
+it.
+~
+8 8388608 0 W3
+29 17 6 1d50+450 6d5+15
+1000 23000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 10
+~
+#8243
+rabbit bunny carnivorous fangs~
+the carnivorous rabbit~
+A carnivorous rabbit slowly bares its three-inch fangs and hisses at you.
+~
+This bunny looks innocent enough from a few feet away, but as you get closer,
+you notice that it has huge fangs, and is slavering at you hungrily. It must
+be a fabled carnivorous rabiit, very deadly to the incautious.
+~
+8 263208 -350 W3
+20 35 0 1d20+99 8d3+4
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+0 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#8244
+small fire flying dragon~
+a small firebreather~
+A small flying dragon puffs fire from its nostrils and swoops down on you.
+~
+This dragon is made for strafing runs, all of its muscle goes to either the
+wings or the chest. Speed and firepower are its specialties, as you are just
+about to discover...
+~
+8 1056 0 W3
+29 12 0 1d30+300 5d5+15
+2500 20000
+8 8 0
+13 0 13 13 13 13 0
+0 3 4
+0 8 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 10
+~
+#8245
+demon huge angry~
+a demon~
+A huge and very angry demon materializes and attacks!
+~
+This demon is easily twelves feet tall, with horns, fangs, hooves, and
+bright red skin. Its eyes glow with a malevolent intelligence, and it
+grins soullessly at you as it prepares to rip you to bloody shreds.
+~
+2059 1066 -1000 W3
+118 40 -15 1d100+3769 4d7+36
+0 245000
+8 8 0
+18 100 16 7 18 18 0
+12 4 0
+-150 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8246
+ogre huge ugly~
+an ogre~
+A huge and incredibly ugly ogre glowers at you stupidly.
+~
+Ogres from Xanth are about 12 feet tall and immensely strong. Their strength
+is directly proportional to their ugliness, and inversely proportional to
+their intelligence. This one looks VERY ugly and VERY stupid, so you'd
+better watch out...
+~
+8 0 -350 W3
+70 10 -2 1d100+500 4d4+15
+0 50000
+8 8 1
+25 0 3 3 13 18 0
+0 4 2
+-20 13 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8247
+servant good magician~
+a servant~
+A servant of the Good Magician goes about her business here.
+~
+This appears to be nothing more than one of the ordinary womenfolk of Xanth,
+probably working off her year of service in exchange for her answer. She
+pays you no mind as she continues working.
+~
+4200456 0 1000 W3
+20 10 2 1d30+219 1d8+0
+750 13000
+8 8 2
+10 0 10 10 10 10 0
+0 2 2
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8248
+zombie~
+a putrid zombie~
+A zombie is here, ready to defend its Master.
+~
+ This zombie is horribly decayed, and it is no longer possible to tell what
+kind of creature it was in life. Its eyes glow with a terrible light, and
+it is unrelenting in its defense of its Master, the Magician Jonathan.
+~
+42 0 0 W3
+29 30 6 10d30+450 5d4+0
+0 49750
+8 8 0
+13 0 13 13 13 13 0
+0 2 1
+60 0 2 0 0 0
+25 25 25 25 25
+16 0 0
+6 10
+~
+#8249
+cat cactus~
+a cactus cat~
+There is a cat with a striped green and brown coat sitting here.
+~
+You look closer at the cat and notice that its "fur" is actually
+composed of needles instead of fur.  The ears are actually thorns
+that are large and stiff.  The claws of the cat area actually sharpened
+slicing blades of bone.  It blinks as you look at it.
+~
+10248 0 0 W3
+32 15 -5 1d100+300 5d3+10
+1250 14000
+8 8 2
+13 0 13 13 13 13 0
+0 1 0
+-50 11 4 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#8250
+roc huge bird~
+the gigantic roc~
+A huge eagle-like bird caws angrily at your entrance, deafening you.
+~
+This must be the fabled roc, an absolutely monstruous bird, far larger than
+any dragon. Its tremendous talons could easily crush you to pulp, with no
+more effort than you would take to swat a fly. The roc doesn't look very
+pleased to see you here, so the prudent course might be to exit, fast...
+~
+10 0 1000 W3
+90 40 -13 1d100+3769 8d5+35
+100000 150000
+8 8 2
+18 100 3 3 7 18 0
+0 5 3
+-130 0 3 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8251
+roc huge bird~
+the gigantic roc~
+A huge eagle-like bird caws angrily at your entrance, deafening you.
+~
+This must be the fabled roc, an absolutely monstruous bird, far larger than
+any dragon. Its tremendous talons could easily crush you to pulp, with no
+more effort than you would take to swat a fly. The roc doesn't look very
+pleased to see you here, so the prudent course might be to exit, fast...
+~
+10 0 1000 W3
+90 40 -13 1d100+3769 8d5+35
+100000 150000
+8 8 2
+18 100 3 3 7 18 0
+0 5 3
+-130 0 3 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8252
+ogre huge ugly~
+an ogre~
+A huge and incredibly ugly ogre glowers at you stupidly.
+~
+Ogres from Xanth are about 12 feet tall and immensely strong. Their strength
+is directly proportional to their ugliness, and inversely proportional to
+their intelligence. This one looks VERY ugly and VERY stupid, so you'd
+better watch out...
+~
+8 0 -350 W3
+70 10 -2 1d100+300 4d4+15
+0 70000
+8 8 1
+25 0 3 3 13 18 0
+0 4 2
+-20 13 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8253
+elf little librarian~
+a copying elf~
+A little elf is helping the copy cat make copies for Humfrey.
+~
+This little elf is copying page after page of material for humfrey, sliding
+the paper under the copy cat's tail and waiting as it whirs and purrs, then
+takes the copy from it's mouth.  He seems to be working very hard.
+~
+4194314 1024 350 W3
+15 9 4 1d20+159 1d10+1
+0 13000
+8 8 1
+13 0 7 5 13 13 0
+0 0 2
+40 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8290
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+$

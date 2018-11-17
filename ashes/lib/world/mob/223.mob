@@ -1,0 +1,441 @@
+#22301
+drunk golfer~
+a drunk golfer~
+A golfer is here, so drunk he can hardly stand up.
+~
+Ugh.  This guy REEKS of alcohol.  Nobody light a match near this guy or
+the whole room will go up in flames.  
+~
+72 0 0 W
+10 5 2 1d30+219 2d6+0
+500 7500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#22302
+inexperienced golfer~
+an inexperienced golfer~
+An inexperienced golfer is here hacking feverishly at the ball.
+~
+It's pretty obvious this guy hasn't been playing very long.  He's just grabbing
+the club and swinging as hard as he can.  You sigh.  Time to put him out
+of his misery.
+~
+4168 0 25 W
+15 10 0 1d30+279 2d6+3
+1000 1000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#22303
+golfer duffer~
+an experienced duffer ~
+An experienced duffer is here showing up all the young upstarts.
+~
+From the looks of things, this guy has been playing golf since before you
+were born.  He has power that belies his small stature and can make the ball
+bite into the green with precision and control.
+~
+72 0 0 W
+20 12 -6 1d30+429 4d6+1
+2500 10000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-60 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#22304
+gopher~
+the Gopher~
+The Gopher is here baring his teeth at you.
+~
+Extremely quick and deadly, this is the source of all the mess around the
+golf course.  He's a mean fighter and an even better dancer.  Just ask him
+and he'll tell you.
+~
+42 129 100 W
+42 15 -7 1d50+869 8d2+3
+15000 70000
+5 5 0
+13 0 13 13 13 13 0
+0 1 0
+-70 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#22305
+Carl assistant greenskeeper~
+Carl~
+Carl, the Assistant Greenskeeper, is here searching for that blasted gopher.
+~
+Before you stands a very shabbily dressed man who bathes every month whether
+he needs to or not.  If you stick around too long, he'll tell you the story
+about how he was once the caddy for the Dali Lama.  Because of that, he will
+receive total consciousness on his death bed, so he has that going for him.
+~
+77 1152 -10 W
+35 19 -10 1d50+969 4d6+1
+5000 52000
+8 8 1
+13 0 13 13 13 13 0
+5 2 0
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22306
+Ty Webb~
+Ty Webb~
+Ty Webb is here making tongue gestures at all the attractive ladies.
+~
+The definition of smooth, sly and seductive, Ty Webb is every woman's fantasy.
+He's handsome, charming, sophisticated, talented and funny in a warped kind
+of way.  If that wasn't enough, he's also rich.
+~
+8265 128 0 W
+40 15 -2 1d50+569 2d10+0
+50000 65000
+8 8 1
+13 0 13 13 13 13 0
+10 2 0
+-20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22307
+Lou~
+Lou~
+Lou is here jealously guarding the caddy money.
+~
+Lou has been locked in this cage for a long time.  He looks weak and
+dehydrated.  Maybe you'd help him if he wasn't about to kill you.
+~
+2090 0 -100 W
+30 17 -5 1d50+619 2d12+10
+35000 50000
+5 5 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 10
+#22308
+Al Czervik obnoxious~
+Al Czervik~
+Al Czervik is here being a general menace to the area.
+~
+Well, well, well...here he is, the incredibly rich and {in?}famous visitor
+to Bushwood Country Club.  He is rude, crude and socially unacceptable; i.e.
+a great guy.  If he had a daughter just like him...well, let's not go THAT
+far.
+~
+8265 128 0 W
+40 12 -5 1d50+669 6d4+0
+50000 65000
+8 8 1
+13 0 13 13 13 13 0
+8 2 0
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22309
+Judge Smails~
+Judge Smails~
+Judge Smails is here looking snooty in your general direction.
+~
+You now stand before the unofficial head of Bushwood.  He wields a majority
+of the power in this Snob-a-torium.  Oh, and you could NEVER know this from
+looking at him...the smug air about him, the expensive clothes that look
+absolutely ridiculous.  Put this clod out of your misery, would ya?
+~
+10 131072 -250 W
+35 22 -10 1d75+1019 2d12+7
+25000 52000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22310
+Dr Beeper~
+Dr. Beeper~
+Dr. Beeper is here looking for a phone to return a page.
+~
+This man is a prime example of someone with more money than sense.  One
+of his patients is in his office right now with a tube stuck down her 
+throat; and he's here trying to squeeze 18 holes in.
+~
+72 0 0 W
+30 20 -13 1d50+869 4d10+3
+20000 52000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-130 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#22311
+Danny Noonan~
+Danny~
+Danny Noonan is here mulling over college life.
+~
+Poor guy.  He's torn between going to college and working at a lumberyard.
+He's also torn between the steady, sweet Maggie and the incredibly sexy
+Lacey Underall.  Put him out of his misery...please?
+~
+73 0 250 W
+30 20 -10 1d50+819 2d6+8
+10000 50000
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+-100 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#22312
+Lacey Underall~
+Lacey~
+Lacey Underall is here wiggling in the direction of anything male.
+~
+Wow.  There is exactly one phrase to describe this young woman:  "Stacked
+to the Rack."  She is gorgeous and has the morals of an alleycat.  She's
+probably planning on going to a bullfight on acid.
+~
+2124 0 -50 W
+25 15 -7 1d50+719 1d7+11
+15000 45000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-70 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#22313
+Bishop Bickering~
+Bishop Bickering~
+Bishop Bickering is here playing the BEST round of his life.
+~
+Here is the result of a life-long dedication of hard work in the service of
+God...1 really good round of golf {not to mention the Heaven thing}.  The
+Bishop is having the round of his life and is loving every minute of it.
+~
+72 0 100 W
+25 10 -7 1d50+619 2d6+3
+10000 47500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-70 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#22314
+Sandy McDennis greenskeeper~
+the greenskeeper~
+Sandy McDennis, the head greenskeeper, is here repairing the course.
+~
+Something tells you that this man is originally from Scotland.  It's reaching
+a bitbut it just could be the kilt he's wearing and the thick accent.  Then
+again, you could be wrong.
+~
+72 0 0 W
+25 15 -4 1d50+969 6d4+0
+15000 45000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#22315
+Tony D'Nunzio~
+Tony D'Nunzio~
+Tony D'Nunzio is here trying to look cool for all the chicks.
+~
+What a waste of skin.  This guy is OBVIOUSLY not going anywhere in the
+near future.  He obviously is a pothead with nothing better to do all
+day but caddy and pick on people.  
+~
+72 0 -100 W
+20 13 -2 1d50+669 3d6+0
+5000 30000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#22316
+Porterhouse~
+Porterhouse~
+Porterhouse is here taking a sanding machine to Judge Smail's shoes.
+~
+Porterhouse does quite a few things around Bushwood.  He's the person
+in charge of massage and general maintenance.  He also hates all the rich,
+snooty members here.
+~
+10 0 100 W
+15 10 0 1d30+339 3d5+1
+7500 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#22317
+Mr. Wang~
+Mr. Wang~
+Mr. Wang is here taking pictures of everything in sight.
+~
+A tourist to this country, Mr. Wang simply wants to capture all of the
+places that he goes in the U.S. on film.  Unfortunately, Al brought him
+to this horrid place.
+~
+72 0 0 W
+15 15 -3 1d30+339 2d6+0
+6000 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#22318
+Spalding~
+Spalding~
+Spalding, Judge Smail's grandson, is here picking his nose and eating what he finds.
+~
+Whiny, gross and just downright annoying, Spalding is the stereotypical 
+spoiled brat.  The only reason he doesn't get beaten up every day is because
+of grandpa.
+~
+72 0 -50 W
+20 10 -2 1d50+519 6d5+0
+15000 35000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#22319
+Maggie~
+Maggie~
+Maggie is here celebrating not being pregnant.
+~
+Maggie has just realized that she's not pregnant with Danny's child.  Needless
+to say, she's kinda happy.  She's not ready to be a mom quite yet.
+~
+76 0 75 W
+15 10 -3 1d30+279 3d5+1
+2500 25000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-30 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#22320
+Mr Havekamp~
+Mr. Havekamp~
+Mr. Havekamp is here hitting the ball the wrong way.
+~
+This is someone who has worked all his life to get where he is today.  He has
+saved money constantly throughout his life to become a member of a country
+club after he retired.  He has a noble, almost regal air about him.  He...
+wait...is he peeing on his ball?
+~
+72 1 0 W
+15 10 -1 1d30+369 4d6+1
+7500 17000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#22321
+Mrs Havekamp~
+Mrs. Havekamp~
+Mrs. Havekamp is here hitting her 25th straight ball into the lake.
+~
+Mrs. Havekamp is obviously here because her husband wanted to join a 
+country club.  She doesn't know how to play golf but she tries.  She has a
+little trouble with this water hazard though.  She's put about 30 dollars
+worth of golf balls into the pond.
+~
+72 0 0 W
+10 6 4 1d30+249 1d12+0
+2500 7500
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#22322
+local nameless caddy~
+a caddy~
+A local nameless caddy is here helping a member with their clubs.
+~
+This person only made it into the movie, and hence the zone, by being one 
+of the dozens of extras in the film.  He's here to be a victim.  Treat him
+as such.
+~
+72 0 0 W
+10 8 0 1d30+189 1d8+2
+1000 5000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#22398
+rana~
+Rana~
+You see Rana, the Dragon of ultimate power and control.
+~
+Before you stands the almighty and all-powerful dragon, Rana.  He is,
+however, being MUCH nicer than usual.  He solemnly displays two rings
+on a pillow before him.  He must be the ring-bearer for this joyous 
+occasion.
+~
+288779 132256 0 W
+127 11 -30 0d0+30000 25d10+10
+0 0
+8 8 0
+18 99 18 18 18 18 0
+11 5 4
+-300 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+$

@@ -1,0 +1,535 @@
+#4000
+snake constrictor~
+the giant snake~
+A giant constrictor snake drops on you from above!
+~
+It looks hungry.
+~
+43 1032 -200 W
+12 13 4 8d10+83 3d6+0
+0 3000
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#4001
+snake~
+the green snake~
+A small green snake is here, and it doesn't look too friendly...
+~
+It looks harmless.
+~
+11 1024 -100 W
+8 8 4 5d10+50 2d6+1
+0 1000
+8 8 0
+13 0 13 13 13 13 0
+6 0 0
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#4002
+centipede~
+the small centipede~
+A small centipede is here, making its way across the floor.
+~
+It looks completely harmless.
+~
+10 0 0 W
+3 0 6 3d10+33 1d6+0
+0 500
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+60 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#4003
+kobold~
+the kobold~
+An ugly kobold is here, searching for dinner.
+~
+It looks ugly.
+~
+76 1024 -100 W
+6 4 5 3d10+66 1d8+1
+50 2000
+8 8 0
+13 0 13 13 13 13 0
+0 1 2
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#4004
+orc~
+the orc~
+The orc walks around, looking for someone to kill.
+~
+You notice an evil look in his eyes...
+~
+108 1024 -350 W
+7 5 5 3d10+100 2d4+0
+100 3000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 10
+#4005
+orc raider~
+the orcish raider~
+An orcish raider draws its sword and menaces you.
+~
+He looks dreadful.
+~
+8268 1024 -500 W
+12 9 2 5d20+125 2d6+2
+200 4000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#4006
+rat giant~
+a giant rat~
+A giant rat scuttles around here, spreading disease.
+~
+Mangy and germ-ridden, this mobile trash heap is probably up to no good.
+~
+201 1024 0 W
+4 0 6 3d10+33 2d4+0
+0 750
+8 8 0
+3 0 3 3 17 13 0
+4 1 3
+60 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#4007
+spider brown recluse~
+a brown recluse~
+A very large brown recluse spider crawls up the wall.
+~
+It's big, hairy and ugly. You think it may be poisonous.
+~
+9 262144 0 W
+8 5 5 3d10+100 2d4+1
+0 4000
+8 8 0
+13 0 13 13 13 13 0
+6 0 0
+50 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#4008
+orc chieftain~
+the orcish chieftain~
+The orcish chieftain bellows at you and attacks!
+~
+The strongest of the orcs, the chieftain is a powerful adversary and is much
+too stupid to take prisoners...
+~
+43 1024 -500 W
+16 12 2 1d16+200 2d6+5
+750 2000
+8 8 1
+13 0 13 13 13 13 0
+18 2 2
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+#4009
+hobgoblin chief~
+the hobgoblin chief~
+The chief of the hobgoblins grins at you mercilessly.
+~
+This is the nastiest hobgoblin of them all, and he certainly looks it!
+~
+43 1024 -500 W
+17 12 2 1d1+250 3d5+2
+1000 4500
+8 8 0
+13 0 13 13 13 13 0
+18 2 2
+20 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 10
+#4010
+gnoll houndmaster master~
+the Houndmaster~
+You come face to face with the gnollish master of the hounds!
+~
+Seven and a half feet tall, hairy, and with the face of a hyena, the master
+of the hounds is a grim sight. He is clad all in black leather, and carries
+a long leather whip for use on his charges...or intruders...
+~
+6187 1024 -500 W
+17 12 2 1d6+250 3d5+2
+1250 4500
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+20 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 10
+#4011
+warg wolf hound~
+a warg~
+A slavering, vicious warg is chained up to the wall here.
+~
+Its fur appears matted with blood, and its back looks very badly scarred by
+the cuts of a whip. You would almost feel sorry for the beast if it wasn't
+trying to rip your throat out...
+~
+4139 1064 -350 W
+8 7 4 10d5+83 2d4+1
+0 4000
+8 8 0
+13 0 13 13 13 13 0
+4 2 3
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 10
+#4012
+torturer gnoll~
+the gnollish torturer~
+A gnollish torturer advances on you with glee in his eyes.
+~
+A typical gnoll, huge and hairy. You notice an unusual glint of cruelty in
+the torturer's eyes, though, and you recall a rumor around Midgaard that
+said the gnolls picked their torturers from the gnolls that were too savage
+to become soldiers...
+~
+4194347 1024 -1000 W
+14 12 2 1d16+200 2d6+3
+450 4000
+8 8 1
+13 0 13 13 13 13 0
+19 2 2
+20 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 10
+#4013
+gnoll master tortturer mastertorturer~
+the Master Torturer~
+The gnolls' Master Torturer sits here, enjoying his meal.
+~
+Foulness personified. The Master Torturer is nearly eight feet tall, with
+a filthy, hairy hyena face currently drenched in blood. He wears black
+leather clothing crudely stitched together, and a cruel cat-o'-nine tails
+hangs at his belt. You feel ill just looking at him.
+~
+4196490 1024 -1000 W
+14 12 1 1d10+266 1d12+0
+1500 4000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+10 0 4 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#4014
+gnoll warrior~
+the gnoll warrior~
+A gnoll warrior is here, narrowing his eyes and raising a weapon.
+~
+It appears that gnolls choose their warriors for sheer size and stopping
+power. This one is fully eight feet tall, and his fangs protrude from his
+hyena-like face for nearly two inches. He looks like a serious ass-kicker.
+~
+4139 1024 -500 W
+12 10 1 10d8+90 3d4+0
+850 2000
+8 8 1
+16 0 13 13 13 13 0
+20 2 2
+10 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#4015
+raider gnoll~
+a gnollish raider~
+A gnollish raider surprises you and attacks!
+~
+Evil-looking and cunning, gnollish raiders are chosen for stealth and not
+for size as the warriors are. However, they fight just as fiercely, as you
+have no doubt already discovered...
+~
+45 525320 -500 W
+11 12 3 1d10+90 3d4+0
+1250 1550
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+30 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#4016
+gnoll~
+a gnoll~
+A gnoll shambles around here, looking for somebody to hurt quite seriously.
+~
+Gnolls are humanoids of about seven and a half feet in height. They are
+stringy, hairy, and entirely disgusting. They also have the faces and heads
+of hyenas, and their language is guttural and foul. This appears to be a
+prime example of the breed.
+~
+168 1024 -500 W
+11 10 4 5d10+145 2d6+2
+1000 2000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#4017
+subchief gnoll~
+a gnoll subchief~
+A gnoll subchief raises his weapon as you enter.
+~
+This gnoll is not quite as large as the warriors, but he is most certainly
+larger than you are. His weapons and armor appear to be of better quality
+and repair than the other gnolls, and you wonder if it might not be a good
+idea to live to fight another day.
+~
+169 1024 -500 W
+15 10 0 2d12+200 5d2+2
+1350 3550
+8 8 1
+13 0 13 13 13 13 0
+18 2 2
+0 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 10
+#4018
+gnoll chieftain~
+the gnoll chieftain~
+The evil chieftain of the gnolls screams a battle cry and attacks!
+~
+The gnoll's chieftain is one big, bad, hairy humanoid. Not as burly as the
+warriors, not as stealthy as the raiders, but somehow he encompasses the
+best of both. He will be a difficult adversary.
+~
+4194347 1064 -800 W
+17 12 1 14d2+280 3d6+0
+2500 4500
+8 8 1
+18 0 13 13 13 13 0
+18 2 2
+10 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 10
+#4019
+gnoll weapon master weaponmaster~
+the gnoll weapons master~
+The gnollish master of weapons is here, observing his charges.
+~
+The gnolls' weapons master is around the same size as the warriors, nearly
+eight feet tall and unusually broad for a gnoll. His many battle scars tell
+you that he has seen plenty of action, and his fanged sneer tells you that
+he is not too old to see a little more.
+~
+43 1024 -500 W
+15 12 2 2d12+200 5d2+2
+1150 4500
+8 8 1
+13 0 13 13 13 13 0
+18 2 2
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+#4020
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#4050
+bandit leader~
+the bandit leader~
+The bandit leader is here, looking for intruders.
+~
+He seems to be a strong, brainless fighter.
+~
+110 0 -300 W
+12 12 4 16d10+83 2d8+1
+1000 4000
+8 8 1
+17 0 13 13 13 13 0
+0 2 2
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#4051
+bandit~
+a bandit~
+A bandit is here, hiding out from the law.
+~
+He seems to know his way with weapons.
+~
+108 0 -400 W
+10 7 5 5d10+133 2d5+0
+200 2500
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 10
+#4052
+hobgoblin~
+the hobgoblin~
+A small hobgoblin stands here.
+~
+The hobgoblin looks quite lost.
+~
+76 1024 -300 W
+7 8 6 5d8+116 2d4+0
+100 3000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+60 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#4053
+snake brown rattlesnake~
+a rattlesnake~
+A dusty brown snake rattles its tail at you in warning...
+~
+The snake looks quite mean.
+~
+43 1024 -600 W
+12 10 4 6d10+100 3d5+1
+0 2000
+8 8 0
+13 0 13 13 13 13 0
+6 1 0
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#4054
+centipede giant~
+the giant centipede~
+A giant centipede is scuttling around here.
+~
+The centipede doesn't really seem to notice you.
+~
+10 0 -100 W
+5 3 5 1d10+83 1d7+0
+0 1000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#4055
+hobgoblin subchief~
+a hobgoblin subchief~
+A hobgoblin subchief is here, looking for victims to torture.
+~
+The hobgoblin looks quite dangerous.
+~
+76 1024 -500 W
+14 12 2 1d16+200 2d6+3
+300 3000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#4056
+orc subchief~
+an orcish subchief~
+An orcish subchief turns and growls at your entry.
+~
+Well, he doesn't seem to be friendly.
+~
+108 1024 -800 W
+11 7 2 5d10+166 2d5+2
+150 8500
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#4057
+lion mountain~
+the mountain lion~
+A mountain lion is here, growling at you viciously.
+~
+The lion looks very nasty with huge claws and big teeth.
+~
+104 0 -100 W
+6 4 5 1d10+100 2d4+0
+0 2000
+8 8 1
+13 0 13 13 13 13 0
+0 3 3
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 10
+#4058
+ogre~
+the ogre~
+An ogre roams around here, glowering and smelling bad.
+~
+About 7 feet tall, this ogre is nasty, smelly, and brutal. Also not too bright.
+~
+105 1024 -500 W
+16 12 2 1d10+266 2d10+0
+1000 4000
+8 8 1
+18 0 13 13 13 13 0
+18 3 2
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+$

@@ -1,0 +1,902 @@
+#22500
+red scorpion bug~
+a red scorpion~
+A small, harmless-looking red scorpion stands its ground here.
+~
+This tiny creature may be small, but its aggressive, and poisonous.
+It would probably be in your best interest to avoid it.
+~
+104 40 -300 W
+4 2 1 5d6+25 1d5+0
+45 825
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 10
+#22501
+Khazim khazim salesman merchant jeweler shopkeeper~
+Khazim the Jewelry dealer~
+Khazim is standing behind the counter, guarding his merchandise closely.
+~
+Khazim is a medium-sized fellow that, despite the glamorous treasures he sells,
+is rather plain in appearance.  His only distinguishing features are a small
+moustache, and a tattoo of a large diamond ring on his left arm.  The old
+leather beltpack he is wearing seems to bulge noticably, and you idly wonder
+if he keeps his profits in there.
+~
+8202 0 0 W
+29 20 -6 2d8+800 4d10+2
+14500 61250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-60 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#22502
+kid child~
+a small child~
+A child is here playing in the sand.
+~
+The child has dark eyes and is covered with sand.
+~
+202 0 1000 W
+1 0 10 5d5+26 1d5+0
+10 625
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#22503
+mutt dog~
+a stray mutt~
+A stray mutt is wandering around here looking for food.
+~
+The mutt is a medium-sized mixed breed.  It is skinny, hungry, and not very
+friendly. It scavenges its food from the streets, and generous shopkeepers.
+~
+41 0 -200 W
+1 0 10 1d6+10 1d4+0
+10 155
+8 8 1
+13 0 13 13 13 13 0
+4 2 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 10
+#22504
+man janitor streetcleaner cleaner~
+a poor streetcleaner~
+A poor streetcleaner is walking around cleaning up.
+~
+~
+2057 0 800 W
+1 0 9 5d6+26 1d5+0
+34 625
+8 8 1
+13 0 13 13 13 13 0
+5 2 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#22529
+camel~
+a bad-tempered camel~
+A bad-tempered camel that has lost its owner is standing here.
+~
+The camel is quite large, in good health, and looks to be quite nasty.  You
+wonder where its owner is - and if they're still alive.
+~
+72 1064 -200 W
+8 14 0 8d5+100 1d6+0
+200 5700
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#22550
+rakul guildmaster~
+Rakul the Guildmaster~
+The Guildmaster stands here waiting to train you.
+~
+Rakul is a young, well-built man of strength and speed.  His backstab is
+lightning fast and deadly.  His dark eyes betray little emotion, and his
+expression is that of a wary and sharp-eyed killer.  He eyes you coldly.
+~
+26703 1160 -1000 W
+75 20 -10 16d10+8500 1d8+50
+75000 350000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22551
+gazeem shopkeeper~
+Gazeem~
+Gazeem stands here amidst a pile of debris.
+~
+This shifty-eyed little man gives you the immediate impression that you are
+being scrutinized closely.  He "works" for Jafar sometimes, and you hope you
+never have to find out in exactly what capacity.  He has a reputation for
+thievery, and it is also rumored that he would slit your throat to obtain
+what he wants from you.  You quickly decide you made a wrong turn somewhere.
+~
+2126 0 -1000 W
+40 16 -5 7d8+1000 6d4+4
+2000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22552
+rahul shopkeeper~
+Rahul~
+A seedy-looking shopkeeper is standing behind the counter.
+~
+Rahul is a rather short, extremely skinny man in his middle ages.  His attire
+is worn, and baggy.  On his head he wears a turban that has seen better days,
+and his leather thongs have been tied together with pieces of twine.  You get
+the feeling that the used rug business hasn't been so good, and wonder where
+he finds gold to put food on his family's table.  Maybe you don't want to know.
+~
+74 1064 -300 W
+25 16 -4 7d10+800 5d4+3
+900 41000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#22553
+ahkim shopkeeper~
+Ahkim~
+Ahkim stands here measuring a strip of leather.
+~
+A rather short, seasoned-looking chap, Ahkim is well-up in years.  His health
+is perfect however, and he makes a good living here.  His workmanship is of
+the finest quality, and his prices reasonable.  His features are sharp, and so
+are his eyes - thieves stay well clear of this shop.
+~
+2122 1064 500 W
+24 15 -3 9d10+700 4d4+4
+800 39000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#22554
+ali shopkeeper~
+Ali~
+Ali slides out from behind the counter and grins evilly.
+~
+Ali is tall, skinny, and very ugly.  His clothes are dirty, he is unclean and
+unshaven. Under his left eye there is a hideous scar that looks like it was
+caused by a knife wound.  You decide to beat a hasty retreat.
+~
+75 40 -700 W
+27 14 -2 5d7+970 4d5+2
+500 48000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#22556
+fouad shopkeeper salesman~
+Fouad the camel salesman~
+Fouad the used camel salesman is standing here.
+~
+Fouad is of medium height and leans toward the heavy side.  He inherited
+the business from his father Ahkmed, and visits his fathers grave in the
+Midgaard Cemetery once a week on Sundays.  He has a nasty scar on his neck.
+~
+10318 1064 100 W
+75 25 -10 4d9+10000 3d8+30
+90000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22557
+abdul shopkeeper~
+Abdul~
+Abdul is standing here filling a canteen with water from a barrel.
+~
+Abdul is a short man of medium build.  His beard is neatly trimmed, and he
+dresses well.  He keeps his shop clean and sanitary, and tests his water on
+a regular basis for contamination.  He bows as you enter his shop.
+~
+8266 1192 500 W
+75 21 -10 16d10+10000 1d8+55
+91500 350000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22558
+rasmed postmaster post master~
+Rasmed the Postmistress~
+Rasmed is waiting here to help you with your mail.
+~
+Rasmed has been the Postmistress of Agrabah since her husband was mortally
+wounded by a kick to the head from one of Fouads used camels.  She is neat
+and orderly, and the mailroom is in good order.  Her children all help her to
+deliver the mail to the local townspeople, and she is friendly to outsiders.
+~
+8203 1192 1000 W
+75 60 -25 1d1+30000 1d8+55
+72400 0
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-250 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22559
+ramin guildmaster~
+Ramin the Guildmaster~
+The Guildmaster stands here waiting to train you.
+~
+Ramin is of medium build and height, yet is one of the most powerful men
+in Agrabah.  He is an older man, with a long grey beard and moustache.  He
+smiles at you as you enter the Guild, and you feel more at ease.
+~
+24651 1160 1000 W
+75 21 -10 16d10+9000 1d8+55
+80000 350000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22560
+shakka storekeeper~
+Shakka~
+Shakka stands here behind the counter waiting to serve you.
+~
+Shakka is a beautiful, dark-skinned woman with raven black hair and eyes.
+She is an accomplished musicienne, and is often invited to the Sultans Palace
+to play and sing for the Sultan's social affairs.  She is quiet, shy, and
+there is a mysteriousness about her that fascinates you.
+~
+8394 1064 400 W
+23 15 -3 9d10+650 3d4+4
+700 39000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-30 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#22561
+khazil armorer shopkeeper~
+Khazil the Armorer~
+Khazil the Armorer is standing here.
+~
+Khazil is a large, muscular, tough-looking guy.  He wears various pieces of
+strange-looking armor on his body that looks very awkward and heavy.  He seems
+to be quite accustomed to wearing it, however, and his movements seem to be
+unaffected by it.  You marvel at the strength of this man, as that armor must
+weigh at least half as much as he.
+~
+8266 1192 -300 W
+75 21 -10 16d10+8700 1d8+55
+102000 350000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22562
+majiq shopkeeper~
+Majiq~
+Majiq is standing here amidst an array of colorful bottles.
+~
+Majiq is not a native to this country, and in fact, nobody in Agrabah really
+knows where she comes from.  She has long, tawny-coloured hair, and her eyes
+change from blue to green with the light.  She is of slender build, and her
+eyes speak of mysteries within.  She is friendly and gets along very well with
+the native people here.  Along with the feeling of confusion and mystery, you
+are suddenly jolted by a surge of seemingly boundless magickal power that
+overwhelms you as she turns her eyes to meet yours.
+~
+10314 1192 500 W
+75 18 -6 8d7+10000 6d4+30
+75000 50000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-60 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22563
+ahman guildmaster~
+Ahman the Guildmaster~
+Ahman the Mages Guildmaster is standing here.
+~
+Ahman is rather tall and very thin.  He wears a long purple robe that reaches
+to the floor, and a purple turban.  He is a young man, yet his wisdom far
+exceeds others of his years.  His eyes betray little, and his expression is
+wary, and distant.  You feel an immense power emanating from him.
+~
+26699 1160 1000 W
+75 20 -10 16d10+8300 1d8+50
+80000 350000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22564
+rabul shopkeeper~
+Rabul~
+Rabul is here waiting to serve you a good meal.
+~
+Rabul is of medium height and slender build.  He is neatly dressed, and has
+a beard and moustache.  He is very friendly, and laughs and jokes with his
+customers while serving them hot drinks and good food.  He walks with a slight
+limp due to an incident with a very nasty camel a few years ago.
+~
+8266 1064 800 W
+30 15 -3 8d10+650 3d5+3
+90000 38000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#22565
+abul guildmaster~
+Abul the Guildmaster~
+Your Guildmaster stands here waiting to train you.
+~
+Before you stands the most impressive Warrior you have ever met.  For the
+men of this country, he is massive - and his strength exceeds that of three
+strong, healthy men.  He has scars all over his body from battle - you cringe
+to think of the fate of his opponents.  You suddenly feel very small.
+~
+24651 1160 1000 W
+75 21 -10 16d10+10000 1d8+60
+80000 400000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22566
+ahmed shopkeeper~
+Ahmed the Tailor~
+Ahmed is sitting here tailoring a pair of pants.
+~
+Ahmed is a short, friendly guy of slender build.  He is of a rather quiet
+nature, but once he gets to know a person, he will joke and engage in long
+conversations. He is dressed impeccably, and is an excellent tailor.  The
+twinkle in his eyes tells you he has a rarely-seen mischievious nature.
+~
+8394 1064 800 W
+24 16 -3 7d9+700 5d3+4
+900 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#22567
+brahim shopkeeper~
+Brahim the WeaponsMaster~
+Brahim stands here eyeing you coldly.
+~
+Brahim looks like one mean mother.  You cringe under his gaze.  He is quite
+tall, and built like a tank.  You wonder if all those bulges under his clothes
+are muscles, or concealed weapons.  At any rate, his expression sends you a
+loud and clear message, and you decide messing with him is out of the question.
+~
+8266 1192 -400 W
+75 21 -10 16d10+8700 1d8+55
+102000 350000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22568
+haslam shopkeeper~
+Haslam~
+Haslam is behind the counter waiting to serve you.
+~
+Haslam is of medium height and build, has a rather unkempt beard and
+moustache, and a very sharp eye for thieves.  He is quite muscular, with
+a nasty-looking scar over his right eyebrow, and in excellent health.  He's
+not such a friendly guy - although he likes outsiders that have lots of money.
+~
+8266 1192 600 W
+75 20 -10 16d10+8600 1d8+50
+90000 350000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22569
+rajiv baker~
+Rajiv the Baker~
+Rajiv stands behind the counter waiting to serve you.
+~
+Rajiv is a short and very fat man.  He has a short, neatly trimmed beard and
+moustache, and is fastidious about cleanliness and sanitation.  His pastries
+and breads are delicious, and he spends almost as much time sampling them as
+he does baking them.  Don't let his size fool you though - that isn't all fat,
+and there are very few people in Agrabah that would dare to mess with him.
+~
+8266 1192 600 W
+75 20 -10 16d10+8500 1d8+50
+91500 350000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22570
+raslim shopkeeper~
+Raslim~
+Raslim stands here in a bloody apron.
+~
+Raslim is a very large man, and extremely strong.  He has small, beady eyes
+that are sharp as an eagles.  He buys a lot of his meat from Fouad, the used
+camel salesman, and is very good with a butchers knife and meat cleaver, so
+it would not be such a good idea to irritate him.
+~
+10314 1064 -500 W
+45 18 -5 6d7+975 3d7+4
+500 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22571
+merhlin shopkeeper wizard magician~
+Merhlin~
+Merhlin stands here pondering over an old scroll.
+~
+A small, thin man, Merhlin looks deceptively harmless.  He is dressed in a
+dark purple robe that has a strange gold symbol embossed on the back.  He
+ties it with a braided belt that has strange charms dangling from it, and
+wears a dark purple turban with an eerie glowing stone in the center.  As he
+turns his gaze on you, you feel a powerful burst of energy hit you full-force.
+~
+10314 1192 400 W
+75 18 -8 8d7+10000 6d4+30
+900 51000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-80 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22573
+hesthra receptionist~
+Hesthra~
+Hesthra is standing here behind the counter.
+~
+Hesthra is a young, slender, dark-eyed beauty.  However, she was born with
+a birth defect, and one leg is shorter than the other, causing her to limp.
+Her husband drinks heavily, but is a good provider, and her children are well
+looked after.  She smiles at you as you enter the room.
+~
+8267 1192 1000 W
+75 21 -10 16d10+10000 1d8+55
+20000 350000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22574
+tanbami cryogenist~
+Tanbami~
+Tanbami is standing here behind the counter.
+~
+Tanbami is a short, rather heavy set woman, with dark eyes and bushy
+eyebrows. She is in her later years, and has many deep wrinkles in her
+face. Her family is not one of the richest in Agrabah - but they make a decent
+living between all of them.  She smiles at you as you walk in the door.
+~
+8267 1192 1000 W
+75 21 -10 16d10+10000 1d8+55
+20000 350000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22575
+hestrim fruitdealer shopkeeper salesman~
+Hestrim the Fruit salesman~
+Hestrim stands here, watching everyone nervously.
+~
+Hestrim is a tall skinny man, with a dark complection typical of Persians.
+He has small beads of sweat rolling from his forehead, probably because he
+is so nervous.  He literally jumps at every movement and sound, and is
+never at rest.  You wonder how on earth someone could ever sneak up
+on him.
+~
+8266 1064 500 W
+36 20 -3 2d8+900 7d5+13
+55000 60000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22576
+mesra datedealer shopkeeper salesman~
+Mesra the Date Woman~
+Mesra stands here, thinking about times of the past and idly watching passerbys.
+~
+Mesra is a frail looking woman indeed - her income was severely diminished
+when her husband passed on, and her diet has suffered because of it.  Her
+waist is hardly as big around as your thigh, and you wonder how this poor
+woman survives.  She seems distracted and less than interested in the dates
+she sells here.  You feel pity for her, and deep inside you wonder if you
+could take advantage of such a poor soul.
+~
+8266 1064 1000 W
+19 13 8 2d8+350 1d8+7
+5000 7500
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#22577
+hagul figdealer salesman shopkeeper~
+Hagul the Retail-Fig-Dealer~
+Hagul stands here, demonstrating how to eat the fresh figs that he sells.
+~
+Hagul is a rather plump man - which you suppose comes with the trade of
+Fig-dealing. His hands are stained from eating figs all day, and as
+he looks up at you and offers to shake your hand out of salutation, you
+respectfully decline.  Although Hagul looks slightly hurt, you think
+he'll manage to get over it.
+~
+8266 1064 500 W
+23 15 1 2d8+650 5d3+3
+30000 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#22578
+tamin salesman shopkeeper~
+Tamin the Pistachio-man~
+Tamin is standing here, advertising his pistachio's quite loudly.
+~
+Tamin is a clean-cut, handsome looking fellow.  Were it not for his 
+height of 5'2", you think you may have found him easy to be around. As
+it is, you try to stifle your laughter as you watch him standing on
+a wooden crate, yelling about how good his fresh pistachios are.
+~
+8266 1064 500 W
+30 18 -2 2d8+800 5d4+14
+45000 41000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#22579
+hakico~
+Crazy Hakico~
+Crazy Hakico is standing here in front of his wagon.
+~
+Hakico is short, pudgy, and smells very, very strongly of camel dung.  ICK.
+He has a deal going with Fouad the used camel salesman here in town, and gets
+the "fertilizer" dirt cheap.  (For the price of cleaning it up.)  Of course,
+Fouad gets a cut of the profit, or Hakico gets a cut of the throat.
+~
+10447 1064 300 W
+44 17 -5 8d7+1200 4d4+2
+700 48000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22580
+camel young~
+a young camel~
+A young healthy camel is standing here.
+~
+The camel is in fairly good condition in spite of being worked hard as a
+pack-animal.
+~
+14 0 -200 W
+5 3 6 1d12+130 1d8+0
+0 10000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#22581
+camel strong~
+a strong camel~
+An old, but strong camel is standing here.
+~
+The camel is old, but can still get from place to place.
+~
+14 0 50 W
+3 1 8 1d12+60 1d6+0
+0 1250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#22582
+camel old~
+a very old camel~
+A very old camel is standing here.
+~
+The camel is old and weak, but loyal to its owner.
+~
+14 0 200 W
+1 0 9 1d6+30 1d4+0
+0 625
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#22583
+taslim guildmaster master~
+Taslim the Guildmaster~
+Your guildmaster is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge he possesses.  He is wearing fine magic clothing,
+and you notice that he is surrounded by a blue shimmering aura.
+~
+2059 136 1000 W
+75 20 -10 1d1+10000 1d8+50
+18794 380000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22584
+knight guildguard guildg~
+the Paladin Knight~
+A Paladin knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Paladins, and his
+expert skills combined with his experience in warfare makes him a deadly
+opponent.
+~
+2058 8 800 W
+55 20 -8 16d10+2950 2d8+33
+2000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-80 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22585
+muhaha guildmaster master~
+Muhaha the Guildmaster~
+Your guildmaster is standing here.
+~
+Even though your guildmaster looks tired and battle scarred, you can
+clearly see the vast amount of knowledge he possesses.  He is
+wearing dark black armor, and you notice that he is surrounded by
+a black aura.
+~
+2059 136 1000 W
+75 20 -10 1d1+10000 1d8+50
+18794 380000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22586
+knight guildguard guildg~
+the Dark Knight~
+A dark knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through many battles and
+much bloodshed.  His duty is to protect the Guild of AntiPaladins, and his
+expert skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+2058 8 800 W
+55 20 -8 16d10+2950 2d8+33
+2000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-80 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22587
+thief guildguard guildg~
+the Thieves Knight~
+A thief is guarding the entrance.
+~
+He is a tough opponent who has attained knighthood through countless battles
+and much bloodshed.  His duty is to protect the Guild of Thieves, and his
+expert skill combined with his speed and cunning make him a deadly opponent.
+~
+2058 8 800 W
+55 20 -8 16d10+2950 2d8+33
+2000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-80 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22588
+knight guildguard guildg~
+a Knight Templar~
+A Knight Templar is guarding the entrance.
+~
+He is an expert cleric who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Clerics, and his
+expert skills combined with his experience in warfare makes him a deadly
+opponent, and not to be trifled with.
+~
+2058 8 800 W
+55 20 -8 16d10+2950 2d8+33
+2000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-80 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22589
+knight guildguard guard mage~
+the Mage Knight~
+A Mage is guarding the entrance.
+~
+He is an expert magic user and fearless warrior.  His duty is to protect the
+Guild of Mages, and his expertise in spell casting combined with his experience
+in warfare makes him a deadly opponent.
+~
+2058 8 800 W
+55 20 -8 16d10+2950 2d8+33
+2000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-80 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22590
+knight guildg~
+the Knight~
+A knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+2058 8 800 W
+55 20 -8 16d10+2950 2d8+33
+2000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-80 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22591
+arab guard~
+an Arabian guard~
+An Arabian guard is standing here.
+~
+He is a large, strong, trustworthy (?) guard.
+~
+6217 8 1000 W
+29 20 1 1d24+375 1d8+12
+500 10000
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+10 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+$

@@ -1,0 +1,1650 @@
+#6601
+leon Leon Kowalski kowalski man ~
+Leon Kowalski~
+Leon stands here glaring at you with a nasty expression on his face.
+~
+A hulking man named Leon stands before you.  Dressed in the utility scrubs
+worn by Waste Disposal Engineers, he stands nervously shifting his weight
+from one foot to the other.  His hair is thinning and he has a thick moustache.
+~
+27145 32 -500 W
+55 40 -12 50d4+3700 0d0+0
+22000 110000
+8 8 1
+18 50 10 13 13 18 0
+20 2 0
+-120 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6602
+Holden man holden~
+Holden~
+Holden sits here adjusting the Voight-Kampff machine.
+~
+Holden has the look of a Blade Runner - lean, intense, and with a
+predatory gleam in his eyes.  His eyes watch you warily while he makes
+adjustments on the Voight-Kampff machine.  The bulge under his arm is 
+reason enough to stay friendly with the man and you hope he
+doesn't ask you to take the test.
+~
+8265 4 400 W
+42 25 -10 3d50+2000 9d6+2
+1800 45000
+6 6 1
+16 0 16 13 13 13 0
+17 2 0
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6603
+Gaff~
+Gaff~
+Gaff stares at you blankly while he makes tiny origami figures.
+~
+Gaff is wearing a dark trenchcoat with a silver bowtie.  He is wearing a
+porkpie hat that casts his pock-marked face in shadow.  While he stares at you
+with dead eyes, his fingers are busily folding tiny pieces of tinfoil
+into beautiful origami figures.
+~
+8397 0 400 W
+35 25 -9 3d50+1300 9d5+2
+8000 18000
+8 8 1
+13 0 13 13 13 13 0
+1 2 0
+-90 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6604
+chew~
+Chew~
+Chew is standing here shivering in the cold.
+~
+Chew is a short, oriental man dressed in an immense fur coat that is
+connected to some sort of heating device.  You can see his breath in
+the air as he breathes which has caused ice to form on his moustache.
+He is wearing some sort of optic headgear and mutters to himself
+incessantly.
+~
+26859 132 500 W
+62 32 -15 50d6+2000 10d6+2
+25000 110000
+8 8 1
+13 0 18 18 13 13 0
+14 2 0
+-150 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#6605
+eldon tyrell man doctor dr~
+Doctor Eldon Tyrell~
+Doctor Eldon Tyrell peers at you calmly through thick glasses.
+~
+Doctor Eldon Tyrell's face is familiar to you since he is one of the
+richest and most famous men in the world.  The founder of the Tyrell
+Corporation is a thin, middle-aged man with slicked-back hair and
+thick glasses.  He is wearing a dark tuxedo with a white bow tie and
+looks at you with a calm, curious expression.
+~
+321609 128 -400 W
+75 40 -15 50d6+9000 9d5+10
+125000 168000
+8 8 1
+13 0 18 13 13 13 0
+16 2 0
+-150 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6606
+rick deckard man~
+Rick Deckard~
+Rick Deckard stands here wondering if you are a replicant.
+~
+Rick Deckard is an athletic man in his mid-thirties who is wearing a
+tan trench coat and an intense expression.  He has a grey shirt and an
+odd brown tie that draws attention away from the bulge under his arm.
+He looks tired but wary and dangerous.
+~
+59657 160 -200 W
+95 40 -15 25d5+9000 15d5+10
+12000 215000
+8 8 1
+18 0 18 13 18 18 0
+18 2 0
+-150 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6607
+zhora woman~
+Zhora~
+Zhora shakes the water from her hair and glares at you angrily.  
+~
+Zhora is a tall, statuesque woman who is stunningly beautiful.  Her
+soft curves cannot disguise the hard muscles beneath.  Her hair is
+wet and she looks like she has just recently taken a shower.  An angry
+look crosses her face as you find her hiding in the shower, and she
+tenses and moves slowly towards you.
+~
+288843 128 -700 W
+75 40 -20 50d6+3800 11d5+5
+9000 165000
+8 8 2
+18 99 13 13 18 18 0
+19 2 0
+-200 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6608
+Taffy Lewis man~
+Taffy Lewis~
+Taffy Lewis looks self-important and ignores you completely.
+~
+The proprietor of Taffy Lewis' sits here at the bar looking important
+and smug.  One of the richest men in Chinatown, Taffy has many illegal
+side businesses besides his famous nightclub.  His expensive tuxedo
+looks slightly worn as does he.  Taffy appears to enjoy being the
+center of attention.
+~
+203 128 -800 W
+40 20 -7 50d3+1300 9d5+2
+45000 75000
+6 6 1
+13 0 13 13 13 13 0
+7 2 0
+-70 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6609
+abdul hassan man egyptian~
+Abdul ben Hassan~
+Abdul ben Hassan sits serenely amid his beloved snakes.
+~
+Abdul Hassan is a portly egyptian wearing a white suite with a red fez.
+A magvisor is perched on his head as he sits amid his genetic engineering
+equipment.  He peers at you intently, wondering if you can afford his
+high quality, replicated snakes.
+~
+16590 0 -400 W
+31 15 -6 50d2+950 9d4+5
+3500 15000
+6 6 1
+13 0 18 18 13 13 0
+0 2 0
+-60 0 2 0 0
+20 20 20 20 20
+0 0 0
+6 0
+#6610
+pris woman Pris replicant~
+Pris~
+Pris does a few backflips and lands right in front of you.
+~
+Pris is young, blonde, beautiful, and very voluptuous.  She is dressed
+in a very exotic and revealing outfit that makes you wonder if
+she is a working girl.  She has a band of black makeup across her eyes
+that gives her a racoon-like appearance.  She moves gracefully and
+lightly on her feet and looks lost.
+~
+286797 128 -500 W
+64 40 -20 50d4+3700 11d5+5
+11000 135000
+8 8 2
+18 99 13 13 18 18 0
+18 2 0
+-200 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6611
+bartender Louie man~
+the bartender~
+The bartender is busy mixing drinks and taking money.
+~
+The bartender is a short, muscular man whose eyes move across the drinks
+and money on the bar constantly.  He expertly mixes drinks, accepts
+money, and talks to the patrons all at the same time.  He is wearing a
+red jacket with the name 'LOUIE' written on the pocket.
+~
+2123 131072 200 W
+32 15 -8 25d8+1000 9d4+5
+2000 11000
+8 8 1
+13 0 13 13 13 13 0
+5 2 0
+-80 0 4 0 0
+20 20 20 20 20
+0 0 0
+6 0
+#6612
+roy batty man~
+Roy Batty~
+Roy Batty stands here menacingly with an evil glint in his eye.
+~
+Roy Batty has shocking white hair and a sly, malicious expression.
+He is heavily built and moves with surprising silence.  He is wearing
+a long trench coat and looks wet from walking in the rain.  His gaze
+goes right through you and you wonder if he is a replicant.
+~
+26697 128 -600 W
+100 40 -25 50d6+11000 16d8+10
+30000 227000
+8 8 1
+18 99 18 13 18 18 0
+20 2 0
+-250 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6613
+Bryant man~
+Inspector Bryant~
+Inspector Bryant sits here looking at you appraisingly.
+~
+Inspector Bryant is wearing a drab safari outfit and looks every bit the
+part of a tired police inspector.  He is slightly pudgy with thinning
+hair and an even thinner moustache.  He has bags under his eyes yet he
+smiles at you with an expression that makes you feel uncomfortable.
+~
+10315 128 200 W
+65 40 -12 4d50+2700 10d5+5
+28000 140000
+8 8 1
+13 0 18 13 13 18 0
+1 2 0
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6614
+rachel woman~
+Rachel~
+A lovely woman named Rachel stands here cooly smoking a cigarette.
+~
+Rachel is breathtakingly beautiful with dark hair and large, dark eyes.
+She is dressed in an exquisitely tailored black silk suit that somehow
+manages to enhance her already perfect figure.  She looks exotic and
+mysterious as she slowly puffs on a tiny black cigarette.
+~
+26697 128 600 W
+59 35 -17 50d4+2700 10d5+5
+22000 126000
+8 8 2
+18 99 13 13 13 18 0
+19 2 0
+-170 0 2 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6615
+sebastian Sebastian jf JF j.f. J.F.~
+J. F. Sebastian~
+J. F. Sebastian glances at you shyly as he begins to move away.
+~
+J. F. Sebastian is one of the premier genetic designers for the Tyrell
+Corporation.  Still on earth because of his Methuselah's Syndrome, he
+quietly works on creating complete organisms for his boss with whom he
+also plays an occasional game of chess.  He is very short and looks
+at you shyly with a trace of fear in his eyes.
+~
+26824 160 600 W
+50 25 -15 25d8+1750 9d6+2
+3500 90000
+8 8 1
+13 0 18 18 13 8 0
+0 2 0
+-150 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6616
+kaiser~
+the Kaiser~
+An odd, tiny man dressed in a Prussian uniform stands here.
+~
+The kaiser is obviously a genetically engineered creature.  The size of
+a small child, he has a huge nose and long moustache.  He looks rather
+funny as he walks around stiffly in a tiny Prussian uniform, complete
+with a spiked helmet.
+~
+237 128 0 W
+35 15 -13 50d4+900 7d5+5
+100 62000
+8 8 0
+13 0 13 13 13 13 0
+19 1 0
+-130 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#6617
+general~
+the General~
+A large stuffed bear dressed in a Napoleonic uniform stands here.
+~
+The General looks like a large stuffed bear but is amazingly
+alive.  He is dressed in a red and white Napoleonic uniform complete with a
+tricorn hat and a tiny sword.  He struts around stiffly in his shiny
+black boots and sneezes occasionally.
+~
+4297 128 500 W
+38 18 -15 50d4+1100 8d5+2
+200 72000
+8 8 0
+13 0 13 13 13 13 0
+17 1 0
+-150 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6618
+bouncer ~
+a huge bouncer~
+A huge bouncer stands before the nightclub.
+~
+This bouncer may at one time been a professional wrestler or a tackle in
+the National Football League.  Massively muscular, his shaven head gleams
+with sweat as he eyes the crowd with a nasty leer.  Since Taffy Lewis
+can afford the best, you know this guy can take care of business.  Best
+not piss him off . . .
+~
+26702 128 -400 W
+47 25 -13 4d50+1600 9d6+2
+30000 98000
+8 8 1
+18 99 13 13 13 18 0
+0 3 0
+-130 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6619
+owl~
+an owl~
+A large owl sits here calmly on a perch looking over the room.
+~
+This huge barn owl has beautiful black and white feathers with large,
+luminous orange eyes.  It perches perfectly still, although occasionally
+it moves it head suddenly or its eyes blink.  It's talons look very
+lethal and it seems to be watching your every move.
+~
+4170 131104 0 W
+30 15 -2 25d4+1000 9d5+2
+2 9000
+6 6 0
+13 0 13 13 18 18 0
+0 1 0
+-20 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#6620
+replicant combat man~
+an experimental replicant~
+A massive experimental combat model replicant stands here.
+~
+This male replicant is massively muscled and nearly seven feet tall.
+As you enter, he glares at you with an unpleasant look on his face and
+stop pacing back and forth in his cell.  With a calculating look on his
+face, he begins to move towards you.
+~
+26699 128 -350 W
+90 40 -25 50d5+7000 9d8+5
+10000 207000
+8 8 1
+18 99 13 13 18 18 0
+18 2 2
+-250 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6621
+replicant man pilot~
+an experimental replicant~
+An experimental pilot replicant stands ready here.
+~
+This male replicant is somewhat diminutive, in order to fit well into
+cramped fighter cockpits you figure.  He moves with amazing quickness
+and you realize that his reflexes have been significantly enhanced.
+His eyes have an odd glow about them and you wonder what he can see
+with them.  He seems to be wondering why you are here and if it would
+be worthwhile trying to escape.
+~
+59467 40 400 W
+70 40 -25 50d4+3900 9d8+2
+12000 156000
+8 8 1
+13 0 18 13 18 18 0
+19 2 0
+-250 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6622
+replicant pleasure woman~
+an experimental replicant~
+An experimental pleasure replicant smiles seductively at you.
+~
+This beautiful female replicant seems to be the enbodiment of every man's
+dream of a perfect woman.  Tall and athletic, she has long black hair 
+and startling green eyes.  Graceful and voluptuous she moves slowly
+toward you with a slight smile on her face.
+~
+59467 131072 500 W
+68 40 -30 50d5+4400 9d8+4
+20000 110000
+8 8 2
+18 0 13 13 18 18 0
+7 2 0
+-300 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6623
+chemist~
+the Chemist~
+The Chemist sits here ready to make a deal.  
+~
+The Chemist is a very old man of undeterminate heritage.  His skin is
+pockmarked and scarred, and he is wearing black rubber gloves over 
+his gnarled hands.  He is wearing a stained lab coat and looks alarmed
+at your presence on his boat.
+~
+262218 131200 -600 W
+52 30 -17 50d6+2000 11d5+2
+12000 105000
+6 6 1
+13 0 18 18 13 13 0
+0 2 0
+-170 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6624
+trader eurasian~
+a Eurasian trader~
+A Eurasian trader has something illegal to sell.
+~
+This young Eurasian man is very young.  He appears very nervous and
+agitated, probably from a heavy dose of neural stimulants.  His oversize
+clothing and long coat could be hiding anything from weapons to illegal
+human organs.  Don't turn your back on him, he looks violent and
+desperate.
+~
+33006 0 -120 W
+25 12 -5 10d5+500 4d5+10
+2938 7500
+8 8 1
+18 99 13 13 13 18 0
+0 2 0
+-50 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 10
+#6625
+snake cobra maroon~
+a hooded cobra~
+A huge, black hooded-cobra slithers across the floor.
+~
+This unusually large cobra is almost five feet long.  Thick and scaled
+with black, glossy skin, the venomous snake has glittering gold eyes
+that stare unblinking at you.
+~
+12363 656384 100 W
+40 25 1 50d3+1700 9d5+2
+2 18000
+5 5 0
+13 0 13 13 18 13 0
+6 1 0
+10 0 2 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6626
+man businessman chinese~
+a Chinese businessman~
+A Chinese businessman is busy eating a bowl of noodles.
+~
+This businessman is well dressed, wearing a formal suit and a heavy 
+topcoat.  He has a corporate logo tatooed to his forehead indicating
+that he is a member of the executive class.  He is eating methodically
+without appearing to enjoy his meal.
+~
+138 0 700 W
+22 10 -1 10d5+500 4d5+2
+2800 1400
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+45 45 45 45 45
+16 0 0
+6 0
+#6627
+courier man~
+a courier~
+A corporate courier is waiting to place his order.
+~
+This courier looks nervous and agitated, probably from the neural
+stimulants that couriers are known for taking.  He is dressed in a gore-tex
+biking outfit that has kelvar panels sewn into it.  He glances at you with
+a nasty expression and turns back impatiently.
+~
+74 16777216 400 W
+35 15 -2 25d8+1200 9d5+2
+250 4000
+6 6 1
+13 0 13 13 18 18 0
+0 2 0
+-20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6628
+cook man~
+a sweaty cook~
+An overworked cook stands here sweating over his woks.
+~
+The cook looks overworked and overheated.  His face is red and sweating
+from the steam rising from the woks arrayed before him.  His hands move in
+a blur stirring, adding ingredients, and dumping completed dishes into
+cracked porcelain bowls.  His concentration is fierce and he completely
+ignores you as he cooks.
+~
+10 0 500 W
+28 17 -4 50d4+1200 8d5+2
+3500 3000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#6629
+hare krishna man~
+a mumbling Hare Krishna~
+A thin Hare Krishna shuffles by muttering to himself.
+~
+This terribly thin man is wearing the typical saffron robes and prayer
+beads of the Hare Krishna sect that is popular in Los Angeles.  His face is
+set in a look of religious ecstasy, or perhaps he has had too much opium.
+You try to avoid eye contact in case he is selling something.
+~
+8397 0 200 W
+23 12 -1 25d4+700 4d5+2
+1 1400
+8 8 1
+13 0 13 13 13 13 0
+5 2 0
+-10 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#6630
+rat~
+a bloated wharf rat~
+A bloated wharf rat waddles along looking for food.
+~
+This extremely large rat is almost as large as an oppossum.  It's pink
+tail is almost a foot long and its body is easily a foot and a half.  It has
+large, prominent teeth and eyes that look like black marbles.  It does not
+appear to be afraid of anything, including you.
+~
+205 0 100 W
+12 8 1 4d10+400 4d5+0
+2 750
+8 8 2
+13 0 13 13 13 13 0
+6 0 0
+10 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#6631
+pickpocket thief man~
+a nervous pickpocket~
+A nervous-looking pickpocket is looking for an easy mark.
+~
+This thin, hungry-looking man looks extremely agitated and nervous.  He
+moves continually, never stopping, and appears to twitch and tremble.  You
+know that he is on some sort of stimulants and you try to keep away from him.
+~
+201 524288 -600 W
+30 14 0 25d4+800 4d6+2
+3000 9000
+8 8 1
+13 0 13 13 18 13 0
+7 2 0
+0 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#6632
+drunk man~
+a drunk~
+A very drunk man stands here unsteadily, swaying from side to side.
+~
+This man is dressed in a beautifully tailored business suit.  He is
+shuffling slightly, trying to keep his balance.  His eyes are blood
+red and he is sweating heavily.  A strong odor of Vodka surrounds
+him as it appears that he has dribbled as much down his shirt as
+he has poured into his belly.
+~
+8265 2048 450 W
+35 12 -1 25d4+750 4d6+4
+250 8000
+8 8 1
+13 0 13 13 13 13 0
+15 2 0
+-10 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6633
+dj man~
+the DJ~
+The DJ is busy mixing the tunes for the dance floor.
+~
+The DJ is a young, thin man with very long hair and extremelyl white
+skin.  You figure that he rarely sees the light of day but spends most
+of his time with his mixers and reverb units.  His face is slack-jawed
+and expressionless, but his fingers fly nimbly across the controls of
+his huge equipment rack.
+~
+24651 1152 -700 W
+48 30 -13 50d4+2200 9d6+4
+8500 85000
+6 6 1
+13 0 13 13 13 13 0
+18 2 0
+-130 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6634
+manager man~
+the building manager~
+The building manager sits here keeping an eye on the security monitors.
+~
+The building manager is an elderly man who looks rather frail and
+tired.  He is wearing a threadbare old suit that is badly in need of
+a good dry cleaning.  He is keeping a close eye on the bank of security
+monitors that are behind the desk and barely glances at you.
+~
+74 0 500 W
+18 10 -1 20d4+300 3d5+2
+150 4000
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#6635
+salesgirl girl~
+a bored salesgirl~
+A bored-looking salesgirl glances at you for a moment.
+~
+This young salesgirl looks bored to death, probably because you are
+her first customer all week.  She is fairly attractive and has very
+long hair that she plays with constantly.  She tries to stifle a yawn
+and a hint of a smile crosses her face as you enter the store.  She
+quickly glances away and begins playing with her hair some more.
+~
+2250 0 500 W
+10 5 1 10d3+200 3d3+2
+175 2000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#6636
+teenage girl teenager~
+a teenage girl~
+A teenage girl avoids eye contact with you as she walks by.
+~
+This young girl looks like she is about sixteen years old.  She is
+dressed in some antique jeans and a sweat shirt with Pittsburgh
+Steelers written on it.  You wonder who in the world are the
+Pittsburgh Steelers?  You figure it must be some new gang.
+~
+10441 0 800 W
+16 7 -1 20d4+300 4d5+1
+25 2500
+8 8 2
+13 0 13 13 13 13 0
+5 2 0
+-10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#6637
+viper replicant snake~
+a viper replicant~
+An artificial poisonous viper slithers into view.
+~
+This massive snake is over six feet long and is as big around as your
+arm.  Its camouflage coloration and infrared-enhanced optic implants
+identify it as an artificially produced security replicant.
+These very expensive snakes are extremely deadly and difficult to kill.
+~
+24681 589824 0 W
+38 20 -3 50d3+1300 9d5+2
+2 48000
+5 5 0
+13 0 13 13 18 18 0
+6 1 0
+-30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#6638
+old man~
+an old man~
+An old man sits here reading a newspaper.
+~
+This elderly gentleman looks extremely old.  He is warmly dressed and
+is wearing glasses that magnify his rheumy eyes.  His lower lip trembles
+constantly and he continuously coughs and clears his throat.  He is
+reading a wrinkled newspaper and mumbling quietly to himself.
+~
+202 16384 600 W
+20 10 -1 5d10+500 4d5+1
+250 2000
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#6639
+junkie~
+a junkie~
+A junkie coughs and looks at you with a nasty smile.
+~
+This foul-smelling creature is obviously a serious addict.  Although
+fairly young, the man looks aged and bent from the ravagaes of the highly
+addictive drugs that are commonly available.  Boils cover his face and his
+dirty fingernails have been filed to nasty, dagger-like points.  He is
+thinking about all of the things he can buy after he kills you.
+~
+8269 2048 -800 W
+24 10 -1 5d10+500 4d5+1
+13 9000
+8 8 1
+18 0 13 13 13 18 0
+5 2 0
+-10 0 4 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#6640
+receptionist woman~
+the receptionist~
+A gorgeous receptionist smiles at you expectantly.
+~
+There is only one word that describes this woman:  Goddess!  She is the
+most spectacularly beautiful woman you have ever seen.  Only the Tyrell
+Corporation could hire such a gorgeous creature to man the receptionist's
+desk in their lobby.  You can't help but wonder if she is human, or is
+she a spectacular feat in genetic engineering.
+~
+59402 128 800 W
+58 32 -12 50d4+2300 9d6+4
+12000 98000
+6 6 2
+18 99 18 13 18 18 0
+0 2 0
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6641
+guard man security sentry~
+a Tyrell Corporation security guard~
+A Tyrell Corporation guard demands to see your visitors pass.
+~
+This Tyrell Corporation guard is a hulking man with heavy musculature
+and a lean, aggressive look.  He is dressed in combat utilities and is
+heavily armed.  He is probably glaring at you from behind his mirrored
+sunglasses but you can't tell for sure.  He is standing perfectly
+motionless and doesn't say a word.
+~
+57419 160 -400 W
+72 40 -17 50d4+2700 9d7+2
+12000 135000
+8 8 1
+18 99 13 13 18 18 0
+20 2 0
+-170 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6642
+hostess woman~
+a pretty hostess~
+A pretty hostess smiles at you, hoping you'll buy her a drink.
+~
+This lovely creature looks beautiful at first glance in the dim
+light but you quickly realize that she is much older than you
+originally thought.  Dressed to kill, she looks tired and bored but
+smiles at you with an alluring look that must be well practiced.
+She is probably one of Taffy's girls and is here to make customers
+buy lots of drinks.
+~
+2249 32 -500 W
+25 10 -2 5d10+500 4d5+1
+3500 3500
+6 6 2
+13 0 13 13 13 13 0
+7 2 0
+-20 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#6643
+butcher~
+the butcher~
+The butcher looks at you, planning out your dismemberment.
+~
+The butcher is a short, squat man with long, greasy hair.  He is
+wearing a blood-stained apron that you can smell from the other side
+of the car.  He is constantly testing the edge of a huge cleaver
+that he is wielding, and breathes with an odd, choking sound.  This
+grotesque creature could be a mutant.
+~
+24681 32 -900 W
+43 25 -12 50d3+1800 9d6+5
+3000 68000
+8 8 1
+18 0 13 13 18 13 0
+18 2 0
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#6644
+gang enforcer man thug~
+a gang enforcer~
+A gang enforcer flexes and moves towards you with an ugly sneer.  
+~
+This guy is huge and nasty!  You can't believe the amount of muscles, scars, and
+leather that he has.  As a gang tank, or enforcer, this guy most certainly is
+a ruthless and skilled streetfighter.  Better keep your distance from him, and
+definitely don't piss him off.
+~
+105 8 -800 W
+45 20 -12 50d3+1300 9d5+3
+4500 85000
+8 8 1
+18 99 13 13 18 18 0
+19 2 0
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#6645
+gang woman girl mama hot~
+a hot gang mama~
+A hot gang mama licks her lips and sizes you up.
+~
+This somewhat used by still hot-looking woman could be anywhere from 18 to 28,
+you just can't tell.  She is dressed in a leather miniskirt, a cropped off
+tshirt and, of course, a heavy leather jacket.  Massive hoop earrings glitter
+under her long, dark hair and she walks like a queen in her scuffed up combat
+boots.  You can't quite decide if she turns you on or not!
+~
+4296 0 -600 W
+22 10 -2 10d5+500 4d5+1
+80 5000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-20 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#6646
+doper stoner man stoned gang member~
+a stoned gang member~
+A stoned gang member looks right through you and says, "Oh wow."
+~
+This gang member has obviously been using some sort of powerful drug.  His eyes
+are blood red, his jaw is slack, and he is trembling slightly.  His skin is pale
+and a sheen of sweat covers his brow.  He is mumbling quietly to himself, and
+is staring at some imagined scene that only he can see.  His gaze is directed
+at you and it makes you rather uncomfortable.
+~
+32840 2048 -400 W
+16 7 -1 20d4+300 4d5+0
+5 2200
+5 5 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#6647
+girl wannabe~
+a gang wannabe~
+A gang wannabe shakes her long hair and tries to look tough.
+~
+This young teenage girl looks like she is trying awfully hard to look mean and
+tough.  The harsh makeup and the rough clothes can't hide the fact that she
+is probably only 15 or 16 and for some reason wants to hang out with the gang.
+She is chewing gum and snapping it constantly and keeps twisting her hair
+around her finger.
+~
+4296 0 100 W
+18 9 1 10d4+360 4d3+2
+150 1800
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#6648
+gang leader man~
+the gang leader~
+The gang leader stares at you through mirrored sunglasses and laughs.
+~
+This guy is obviously the leader of the subway gang and everyone keeps glancing
+in his direction.  He looks very confident and very dangerous but he doesn't
+move a muscle despite your uninvited presence in his territory.  He seems to
+be considering your fate.
+~
+24649 65664 -700 W
+65 40 -17 50d4+2700 9d6+4
+28000 140000
+8 8 1
+18 99 13 13 18 18 0
+20 2 0
+-170 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6649
+usher man doorman~
+the head usher~
+The head usher doesn't seem to care if you have a ticket or not.
+~
+The head usher is a rather overweight, unpleasant-looking man wearing a red jacket
+that is several sizes too small.  His hair is greasy and he reeks of garlic and
+popcorn grease.  His skin is very white and his pupils are very dilated.  You'
+are not sure whether it is caused by being indoors all the time or from some
+sort of narcotic.
+~
+334 1032 400 W
+35 20 -4 15d3+1300 9d5+1
+600 22000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6650
+girl concession salesgirl~
+the concession girl~
+The girl behind the concession counter looks at you blankly.
+~
+The girl behind the candy counter is very overweight and you have to wonder if
+she has been cutting into the theater's profits.  She is playing with her hair
+with her plump fingers and is busily chewing on something.  Her face is covered
+with acne, possibly from all of the popcorn grease and oil.  All in all, you
+aren't sure you want to buy anything from her.
+~
+74 0 300 W
+10 5 2 10d3+200 3d3+2
+12 700
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#6651
+bum sleeping man~
+a sleeping bum~
+A bum is sleeping here in the back row.
+~
+This old bum sleeping here is rather old and is shivering under a tattered blanket.
+He is snoring loudly and has his feet resting on the seat in front of him.
+You can detect a faint, rancid odor coming from his direction.  Perhaps you can
+find a seat a little further up front.
+~
+202 16384 -100 W
+18 8 1 20d4+240 4d4+1
+4 900
+4 4 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#6652
+llama~
+a llama~
+Someone's llama has been tethered here on the street.
+~
+Yes indeed, this is a real honest-to-goodness llama.  One of the few
+remaining domesticated animals on Earth that are real and not replicated,
+these nimble creatures are eaten by some people, milked by some others,
+and worshipped by yet some others.  You've never tried a llama steak and
+the rather sinewy creature does not look like it could produce a good steak.
+~
+24651 32 600 W
+12 5 2 10d3+200 4d4+1
+5 500
+8 8 0
+13 0 13 13 18 13 0
+19 2 0
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#6653
+dancer girl~
+a beautiful girl~
+A beautiful girl dances slowly in front of you with her eyes closed.
+~
+This young girl looks around 18 or so and is truly beautiful.  She is wearing a
+spectacular black silk kimono with red and green dragons entwined across the
+front and back.  Her feet are bare and her long black hair reaches almost to
+her knees.  She is swaying slowly to the music with her eyes closed and doesn't
+notice you staring at her.
+~
+8392 1 600 W
+18 7 -2 20d4+300 4d3+2
+650 1500
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#6654
+man slam dancer~
+a sweaty slam dancer~
+A sweaty slam dancer is hurling himself through the air near the stage.
+~
+This guy has to be completely insane.  He is bleeding from several cuts all over
+his body and his shaved head is covered with some sort of intricate tatoo.  He
+has the usual piercings and studs and can leap impossibly high into the air.
+His face has the glazed look of someone under a narcotic influence and he is
+moshing about without showing any signs of getting tired.
+~
+10249 65536 -100 W
+28 12 0 25d4+700 4d5+3
+175 13
+8 8 1
+18 0 13 13 13 18 0
+18 2 0
+0 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#6655
+techo geek deiter~
+a techno geek~
+A techno geek is dancing spastically and bumps into you.
+~
+This guy is flailing about spastically with an absolutely stony look on his face.
+He is dressed completely in black and has his hair slicked back above his thick,
+dark glasses.  You've heard rumors that some of these techno freaks have their
+joints surgically altered to allow them to dance with impossibly bizarre moves.
+You have an odd feeling that this dancer has had some work done!
+~
+18505 65568 -300 W
+28 12 -1 20d4+800 4d5+2
+3000 40000
+8 8 0
+13 0 13 13 13 13 0
+5 2 0
+-10 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#6656
+policeman police man~
+an off duty policeman~
+The offduty policeman sitting here drinking looks at you intently.
+~
+This policeman is hopefully off duty as he is drinking and wearing a long
+raincoat over his uniform.  He isn't making any attempt to conceal his uniform
+so he can't be working undercover.  He is probably working security for Taffy
+on his off hours.  In any case, he looks alert and dangerous.
+~
+18507 65536 150 W
+38 20 -12 50d3+1300 9d4+2
+3500 56000
+6 6 1
+18 99 13 13 18 18 0
+1 2 0
+-120 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6657
+personnel specialist woman~
+a personnel specialist~
+A beautifully dressed personnel specialist glances up and smiles at you.
+~
+This middle-aged woman is attractive and elegantly dressed in the typical business
+suit that is favored by the corporate climbers that fill the Tyrell Corporation.
+She looks efficient, friendly, and capable.  Perhaps you might talk her into
+giving you a job?
+~
+14538 32 400 W
+24 10 -6 10d5+500 4d5+1
+250 32000
+6 6 2
+13 0 13 13 13 13 0
+0 2 0
+-60 0 4 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#6658
+courier Tyrell man~
+a Tyrell courier~
+A sweating Tyrell courier looks unsure as to where to make his delivery.
+~
+This young man is dressed in the typical mailroom outfit, a cheap suit.  He looks
+kinda confused and is sweating slightly.  You get the distinct impression that
+he needs to deliver something quickly but is not completely sure where he is
+supposed to go.  You feel a pang of sympathy for the poor guy, as the Tyrell
+Corporate Headquarters is a massive building.
+~
+2121 0 100 W
+18 7 -2 20d4+300 4d3+1
+75 2000
+8 8 1
+13 0 13 13 13 13 0
+17 2 0
+-20 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#6659
+engineer genetic man~
+a genetic engineer~
+This genetic engineer is dressed in a lab coat and a perpetual scowl.
+~
+This middle-aged man is one of the thousands of genetic engineers employed by the
+Tyrell Corporation.  He must be one of the better ones since he is working here
+in Research and Development.  He is wearing the typical lab coat and thick
+glasses of his colleagues.  You are not sure, but the ill-fitting lab coat may
+be concealing a sidearm.  You wonder why he would need one here in the lab?
+~
+18504 131200 -500 W
+60 30 -12 50d7+2000 9d6+4
+9000 95000
+8 8 1
+13 0 18 18 18 13 0
+0 2 0
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6660
+lab technician~
+a lab technician~
+This young lab technician is very busy and doesn't notice you.
+~
+This young lab technician looks a bit flustered as he follows instructions from
+the genetic engineers and senior scientists here in the Research and Development
+Labs.  He is wearing a somewhat frayed lab coat and a glazed expression as he
+operates the various scientific devices in the lab.  
+~
+10312 0 400 W
+46 25 -9 50d3+1700 9d5+4
+350 50000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-90 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6661
+biochemist woman~
+a biochemist~
+A petite biochemist is busy testing some tissue samples.
+~
+This petite woman is working busily testing tissue samples with some exotic
+scientific equipment.  Her hair is tied back away from her face which is fairly
+fixed in a look of intense concentration.  Her hands are moving quickly and
+confidently and she doesn't seem to know you have walked into the room.
+~
+8264 0 600 W
+48 25 -12 50d3+1800 9d5+5
+3500 80000
+6 6 2
+13 0 18 18 18 13 0
+0 2 0
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6662
+intel gates man~
+Intel Gates~
+Intel Gates wonders what type of neural implant you want.
+~
+This gnarled little man is dressed in dark, electro-chameleon clothing
+that makes him appear to fade in and out of the shadows.  His skull is
+heavily wired and there are at least four implants wired into his skull,
+three more than is legal.  You can't help be curious about what kind of
+black market implants he has for sale.
+~
+10315 128 -800 W
+100 40 -22 50d6+5300 14d6+4
+50000 200000
+8 8 1
+18 99 18 18 18 18 0
+16 2 0
+-220 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6663
+Apu tatoo artist man~
+Apu the tatoo artist~
+Apu the tatoo artist is picking his teeth with the tatoo needle.
+~
+Apu, the proprietor of this tatoo parlow looks like he is from India.
+Dark and swarthy, all of his exposed skin is covered with beautiful, colored
+tatoos of outstanding artistry.  Apu glances at you and your lack of any
+visible tatoos and sniffs disapprovingly.  He says, "Please, not to be
+playing with the tatooing equipment."
+~
+16395 131072 -400 W
+52 30 -12 50d3+1300 12d5+2
+12000 60000
+6 6 1
+13 0 13 13 13 13 0
+17 2 0
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6664
+geisha woman~
+a beautiful geisha~
+A beautiful geisha smiles at you demurely.
+~
+This young woman is dressed in the traditional clothes and makeup of
+the classic Japanese geisha.  Her skin is startling white and her long black
+hair hangs down to her waist.  If she is truly a working girl, she must be
+extremely expensive.  
+~
+43208 0 500 W
+32 15 -4 25d3+1000 9d4+2
+9000 3200
+6 6 0
+13 0 18 13 18 13 0
+0 2 0
+-40 0 2 0 0
+20 20 20 20 20
+0 0 0
+6 0
+#6665
+manager man~
+the stage manager~
+The stage manager is wringing his hands, looking for the next act.
+~
+The stage manager is a fussy, slightly effeminant man who is dashing
+about trying to round up the next dancer or act for the stage show.  He is
+sweating and fanning himself with a little black fan.  For some reason, you
+feel like smacking the little squirt just for being there.
+~
+22729 0 -400 W
+22 14 -1 25d4+800 5d5+2
+4500 9000
+8 8 0
+13 0 13 13 13 13 0
+5 2 0
+-10 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#6666
+wardrobe mistress woman~
+the wardrobe mistress~
+The wardrobe mistress is busy stitching up some costume.
+~
+The wardrobe is a matronly woman who is dressed in a rather severe suit
+and has her grey hair piled high on her head.  She has several pins
+clenched between her teeth and she is staring at her work intently through
+extraordinarily thick glasses.  You are tempted to call her "Granny."
+~
+2186 0 300 W
+30 13 1 25d4+900 5d5+4
+2500 12000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+10 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#6667
+policeman man police~
+a policeman~
+A policeman stands here cooly behind his dark sunglasses.
+~
+This policeman is dressed in the standard uniform utilities.  His pants
+are sharply pressed and his boots shine like a mirror.  He struts a bit as
+he walks, and glances into anything that might reflect his image.
+~
+2121 131200 500 W
+28 18 -12 25d4+800 5d6+1
+800 45000
+8 8 1
+18 0 13 13 18 18 0
+1 2 0
+-120 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#6668
+gerbil mutant~
+a mutant gerbil~
+A mutant gerbil springs at you with amazing speed.
+~
+This looks like a normal gerbil, although a bit larger than most you
+have seen.  It has unusually long teeth and claws, and its eyes almost seem
+to glow with an inner light.  It looks mean, nasty, and it is springing
+towards your throat with its fangs bared.
+~
+57450 40 -800 W
+20 10 -1 5d10+500 4d5+1
+2 17000
+8 8 0
+13 0 13 13 18 13 0
+0 0 0
+-10 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 10
+#6669
+businessman man~
+a tired businessman~
+A tired businessman rubs his eyes and continues walking.
+~
+This middle-aged man looks tired and somewhat damp from the incessant rain here
+in Los Angeles.  He is wearing a business suit with overcoat and looks like he'd
+rather be just about anywhere else than here.  He walks slowly and ponderously and
+doesn't look at anyone as he goes.
+~
+204 0 500 W
+20 10 -2 5d10+500 4d5+1
+2500 9000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#6670
+tourist offworld ~
+an Offworld tourist~
+An Offworld tourist is trying to look inconspicuous here.
+~
+This tourist is obviously from one of the OffWorld colonies.  She must
+be slumming as most OffWorlders rarely return to earth with its crowds
+and crime and pollution.  You get the distinct impression that she is
+here for less than legal reasons, perhaps to buy something illegal
+that can't be purchased anywhere else.
+~
+2248 131104 800 W
+35 15 -5 25d3+1000 9d4+2
+18000 12000
+8 8 2
+13 0 13 13 13 18 0
+0 2 0
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6671
+technician optic man~
+an optic technician~
+An optic technician doesn't appear to notice you.
+~
+Wearing a white lab coat, a collar docimeter, and thick rubber-soled
+shoes, the optic technician behind the counter certainly looks the
+part of a neural chip mechanic.  He is standing completely still and
+does not appear to notice that you have walked into the store.
+~
+43082 9 -400 W
+40 25 -10 50d6+1600 9d6+4
+8000 36000
+8 8 1
+13 0 18 18 13 13 0
+0 2 0
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6672
+man executive~
+a middle-aged executive~
+A middle-aged executive is sitting here smoking a cigar.
+~
+This guy has it all.  The power suit, the power haircut, the power tie, 
+and the big nasty cigar.  He looks very rich, impeccably groomed, and very
+very confident and smug.  You resist the temptation to smack him across the
+face.
+~
+26634 0 -400 W
+37 22 -9 50d3+1300 9d5+0
+23000 32000
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-90 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6673
+stoned opium head woman~
+an opium head~
+An opium head sits here with a glazed expression on her face.
+~
+This haggard looking creature is dressed in a smart business suit and
+is drooling heavily onto it as she sits in the corner.  Obviously heavily
+under the influence, she wavers from side to side in the thick fumes and
+seems to be mumbling something under her breath.
+~
+4218954 2056 -300 W
+25 40 -6 25d4+700 4d4+2
+6500 7000
+8 8 2
+18 99 13 13 13 13 0
+0 2 0
+-60 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#6674
+bartender~
+a tired bartender~
+A tired bartender is quietly wiping some glasses behind the bar.
+~
+The bartender has a frozen smile on his face but looks very very tired.
+He is wearing a tuxedo that is impeccably pressed and shows no signs
+of wear and tear.  He is cleaning some glasses somewhat absent-mindedly
+while he stares off into the distance.
+~
+26699 128 200 W
+53 25 -10 50d6+1200 9d6+2
+12000 60000
+8 8 1
+13 0 13 13 13 13 0
+5 2 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6675
+mistress sonja woman dominatrix~
+Mistress Sonja~
+Mistress Sonja cracks her whip and says, "Submit Worm."
+~
+Mistress Sonja is dressed from head to foot in black latex and leather.
+Her somewhat overvoluptuous figure is barely concealed by her tightly
+cinched garments and she stares at you with an icy stare.  She flicks
+a small whip against the side of her leg and considers her plans
+for you.  Something in her expression makes your flesh crawl.
+~
+26731 160 -1000 W
+81 40 -20 100d4+3500 9d7+4
+38000 180000
+8 8 2
+13 0 13 13 13 13 0
+19 2 0
+-200 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#6676
+floor flesh~
+the living floor~
+The flesh-like floor undulates under your feet.
+~
+What first appeared as a cushioned floor appears, on close inspection,
+as an actual mat of living flesh.  It is very warm to the touch and
+you can actually see veins and arteries running through it.  It undulates
+slowly and you notice that it is darker around your feet.
+~
+24650 131105 100 W
+45 20 -10 7d100+1900 9d5+16
+4 85000
+5 5 0
+13 0 13 13 13 13 0
+0 5 0
+-100 0 2 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#6677
+guard security~
+a Tyrell security guard~
+A grim-looking Tyrell security guard is on alert here.
+~
+This tough-looking guard is big and muscular and is watching everyone
+and everything like a hawk.  He moves almost silently, like a cat, as
+he inconspicuously patrols the floor.  You are safe assuming he is
+well-armed and well trained.
+~
+63561 160 -400 W
+42 20 -15 100d4+1050 9d5+4
+6500 75000
+8 8 1
+18 0 13 13 18 18 0
+1 2 0
+-150 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6678
+travel agent woman~
+a smiling travel agent~
+A pretty travel agent smiles at you and asks, "Can I help you?"
+~
+~
+2122 32 400 W
+25 10 -4 50d3+700 4d5+2
+7500 4000
+6 6 2
+13 0 13 13 13 13 0
+0 2 0
+-40 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#6679
+cop policeman man~
+a uniformed cop~
+A uniformed cop stands here looking tired and angry.
+~
+This cop must have had a really bad day.  He looks careworn, exhausted,
+and angry at the world.  His black uniform is wet from the incessant rain
+here in the city and he leaves damp footprints behind him as he walks.  Best
+not to get in his way . . .
+~
+41225 66560 400 W
+38 20 -9 8d25+1200 9d5+1
+850 28000
+8 8 1
+18 0 13 13 18 18 0
+1 2 0
+-90 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6680
+dog pit bull~
+a vicious pit bull~
+A pit bull leaps from the shadows with a vicious howl.
+~
+This unusually large pit bull is barking and snarling frantically as it
+hurls itself toward you.  It is on a heavy chain attached to the floor
+and was probably placed here to guard something.  Its jaws look very
+powerful and you wonder if it is a real dog or an enhanced, genetically
+engineered dog.
+~
+26667 524328 -800 W
+40 15 -8 5d50+2000 8d4+2
+2 12000
+8 8 2
+13 0 13 13 13 13 0
+4 2 0
+-80 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#6681
+agent man ~
+a real estate agent~
+A Century 22 Real Estate agent smiles at you with a phoney smile.
+~
+This Century 22 real estate agent looks like a real operator.  From
+his slicked back hair and his poorly capped teeth, he looks about as
+honest as a used car salesman.  He just might have some freshly
+drained swampland in Floriday at a great price for you!
+~
+203 0 -800 W
+25 12 -5 25d4+700 4d5+2
+5000 14000
+6 6 1
+13 0 13 13 13 13 0
+19 2 0
+-50 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+$

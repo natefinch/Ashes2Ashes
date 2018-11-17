@@ -1,0 +1,141 @@
+#7000
+water trickle fountain~
+a trickle of pure water~
+A trickle of pure water flows down the wall here.~
+~
+23 0 0 0
+0 0 0
+30000 30000 15 0
+4000 50 0
+E
+water trickle fountain~
+A crystal-clear stream of water pours down the wall, only to end up mixing
+with the sludge at your feet.
+~
+#7001
+boots pair leather black~
+a pair of sturdy, black leather boots~
+A pair of black leather boots has been carelessly dropped here.~
+~
+9 0 65 0
+0 0 0
+2 0 0 0
+3 75 0
+E
+bootsbblack~
+The pair of black boots show signs of wear, but look as if they were made to
+last a lifetime.
+~
+#7002
+leggings leather black pair~
+a pair of black leather leggings~
+A pair of black leggings has been abandoned here.~
+~
+9 0 33 0
+0 0 0
+2 0 0 0
+3 50 0
+#7003
+vest leather black~
+a black leather vest~
+A black leather vest is here, unwanted.~
+~
+9 0 9 0
+0 0 0
+2 0 0 0
+4 50 0
+#7004
+cloak flowing grey~
+a flowing grey cloak~
+A flowing grey cloak has been dropped here.~
+~
+9 0 1025 0
+0 0 0
+2 0 0 0
+4 50 0
+#7005
+rapier thin~
+a thin rapier~
+A rapier has been dropped here.~
+~
+5 0 8193 0
+0 0 0
+0 1 6 11
+5 100 0
+#7006
+lantern small~
+a small lantern~
+A lantern is here, still burning brightly.~
+~
+1 0 16385 0
+0 0 0
+0 0 100 0
+2 20 0
+#7007
+cloak velvet red~
+a red velvet cloak~
+A red velvet cloak has fallen to the ground, unnoticed.~
+~
+9 573504 1025 0
+0 0 0
+4 0 0 0
+4 2000 0
+A
+17 1
+A
+3 1
+#7008
+sword wicked short~
+a wicked short sword~
+A short sword is here, surrounded by a faint red glow.~
+~
+5 532544 8193 0
+0 0 0
+0 4 5 11
+5 1500 0
+A
+17 2
+A
+18 1
+#7022
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#7090
+waybread food~
+a waybread~
+Some waybread has been put here.~
+~
+19 0 1 0
+0 0 0
+24 0 0 0
+1 50 50
+E
+waybread~
+The waybread is the traditional feed of elves when travelling, they call it
+lembas.  It is said to refresh the weary traveler greatly.
+~
+#7099
+sign important~
+an important sign~
+An important sign is here, floating in mid-air.~
+~
+12 67 0 0
+0 0 0
+0 0 0 0
+1 1 0
+E
+sign important~
+NOTICE: This are is currently still under construction. When the next level
+is complete, there will be an exit here leading down to it. Thank you for
+your patience and understanding. Each level will be increasingly harder.
+
+The Nasty Sewers, brought to you by Azurel SunHawk :)
+
+~
+$

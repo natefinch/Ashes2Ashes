@@ -1,0 +1,356 @@
+#2900
+rags~
+Rags~
+A pile of rags lies in a heap on the floor.~
+~
+12 0 9 0
+0 0 0
+0 0 0 0
+5 15 15
+A
+16 -3
+#2901
+cloak~
+Cloak~
+A an ordinary cloak sits on the ground.~
+~
+12 0 1025 0
+0 0 0
+0 0 0 0
+3 25 25
+A
+16 -5
+#2902
+armor quilted~
+Quilted armor~
+A suit of quilted armor lies in a heap on the ground.~
+~
+9 0 9 0
+0 0 0
+7 0 0 0
+8 37 37
+#2903
+armor leather~
+Leather armor~
+A suit of leather armor lies on the ground.~
+~
+9 0 9 0
+0 0 0
+9 0 0 0
+8 50 50
+#2904
+dagger~
+Dagger~
+A small dagger lies in the dust.~
+~
+5 0 24577 0
+0 0 0
+0 1 4 11
+1 3 3
+#2905
+sword shortsword~
+Shortsword~
+A small sword sits on the ground.~
+~
+5 0 8193 0
+0 0 0
+0 1 6 11
+3 8 8
+#2906
+falchion sword~
+Falchion~
+A falchion sits neglected in the corner.~
+~
+5 0 8193 0
+0 0 0
+0 1 8 3
+4 20 20
+#2907
+claymore sword~
+Claymore~
+A large sword is leaning against the wall.~
+~
+5 0 8193 0
+0 0 0
+0 1 10 3
+8 37 37
+#2908
+blade sword~
+Blade~
+An ordinary sword is leaning against the wall.~
+~
+5 0 8193 0
+0 0 0
+0 1 8 3
+5 25 25
+#2909
+axe battle~
+Battle axe~
+A large double headed axe sits on the ground.~
+~
+5 0 8193 0
+0 0 0
+0 1 10 6
+10 30 30
+#2910
+mace~
+Mace~
+A medium sized mace is here.~
+~
+5 0 8193 0
+0 0 0
+0 1 6 7
+7 20 20
+#2911
+bow short~
+Short bow~
+A small bow leans against the wall.~
+~
+5 0 8193 0
+0 0 0
+0 1 6 14
+6 22 22
+#2912
+bow long~
+Long bow~
+A large bow sits against the wall.~
+~
+5 0 8193 0
+0 0 0
+0 1 8 14
+8 32 32
+#2913
+bow short battle~
+Short battle bow~
+A short battle bow leans against the wall.~
+~
+5 0 8193 0
+0 0 0
+0 1 8 14
+8 37 37
+#2914
+potion healing red~
+a potion of healing~
+A small red potion is here.~
+$n takes a red potion from $s belt and drinks it.~
+10 0 1 0
+0 0 0
+10 60 0 0
+1 100 100
+#2915
+potion healing full red~
+a potion of full healing~
+A large red potion is here.~
+$n takes a red potion from $s belt and drinks it.~
+10 0 1 0
+0 0 0
+10 15 0 0
+1 300 300
+#2916
+potion rejuvenation yellow~
+a potion of rejuvenation~
+A small yellow potion lies on the ground.~
+$n takes a yellow potion from $s belt and drinks it.~
+10 0 1 0
+0 0 0
+10 60 0 0
+1 150 150
+#2917
+potion full rejuvenation yellow~
+a potion of full rejuvenation~
+A large yellow potion is here.~
+$n takes a yellow potion from $s belt and drinks it.~
+10 0 1 0
+0 0 0
+10 15 59 0
+1 600 600
+#2918
+scroll healing~
+a scroll of healing~
+A scroll sits on the ground.~
+$n takes a scroll from $s belt and reads it.~
+2 0 1 0
+0 0 0
+10 15 0 0
+1 300 300
+#2919
+scroll town portal~
+a scroll of town portal~
+A scroll sits on the ground.~
+$n takes a scroll from $s belt and reads it.~
+2 0 1 0
+0 0 0
+10 42 0 0
+1 50 50
+#2920
+scroll mana shield~
+a scroll of mana shield~
+A scroll sits on the ground.~
+$n takes a scroll from $s belt and reads it.~
+2 0 1 0
+0 0 0
+20 1 0 0
+1 200 200
+#2921
+scroll inferno~
+a scroll of inferno~
+A scroll sits on the ground.~
+$n takes a scroll from $s belt and reads it.~
+2 0 1 0
+0 0 0
+10 61 0 0
+1 300 300
+#2922
+skullcap helmet~
+skullcap~
+A small skullcap was dropped here.~
+~
+9 0 17 0
+0 0 0
+3 0 0 0
+3 10 10
+#2923
+buckler shield~
+buckler~
+A small buckler sits against the wall.~
+~
+9 0 513 0
+0 0 0
+3 0 0 0
+4 10 10
+#2924
+shield small~
+small shield~
+ A small shield leans against the wall.~
+~
+9 0 513 0
+0 0 0
+5 0 0 0
+6 17 17
+#2925
+scroll charged bolt~
+a scroll of charged bolt~
+A scroll sits on the ground.~
+$n takes a scroll from $s belt and reads it.~
+2 0 1 0
+0 0 0
+10 30 0 0
+1 400 400
+#2926
+scroll fire bolt~
+a scroll of firebolt~
+A scroll sits on the ground.~
+$n takes a scroll from $s belt and reads it.~
+2 0 1 0
+0 0 0
+5 26 0 0
+1 400 400
+#2927
+scroll fireball~
+a scroll of fireball~
+A scroll sits on the ground.~
+$n takes a scroll from $s belt and reads it.~
+2 0 1 0
+0 0 0
+50 26 0 0
+1 400 400
+#2928
+staff plentiful charged bolt~
+a plentiful staff of charged bolt~
+A staff lies on the ground.~
+$n raises $s staff and utters the words 'frewdtryonkj xbul'~
+3 0 16385 0
+0 0 0
+5 20 20 30
+3 5000 5000
+#2929
+scroll identify id~
+a scroll of identify~
+A scroll sits on the ground.~
+$n reads a scroll of identify and gains knowledge about $P.~
+2 0 1 0
+0 0 0
+10 52 0 0
+1 300 300
+#2930
+staff firebolt~
+a staff of firebolt~
+A staff lies on the ground.~
+$n raises $s staff and utters the words 'pofrmudd'~
+3 0 16385 0
+0 0 0
+5 10 10 26
+3 2500 2500
+#2931
+staff holy bolt~
+a staff of holy bolt~
+A staff lies on the ground.~
+$n raises $s staff and utters the words 'sadn xbul'~
+3 0 16385 0
+0 0 0
+10 10 10 22
+3 2500 2500
+#2932
+club~
+Club~
+A club lies on the ground.~
+~
+5 0 8193 0
+0 0 0
+0 1 4 7
+4 5 5
+#2933
+all~
+Club~
+A club lies on the ground.~
+~
+5 0 9 0
+0 0 0
+0 1 4 7
+4 5 5
+#2934
+fountain bubbling stone~
+a large bubbling fountain~
+A large stone fountain sits here bubbling merrily.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 0 0
+1 0 0
+#2935
+mug ale~
+a mug of ale~
+A mug of ale sits on the floor.~
+~
+17 0 16385 0
+0 0 0
+12 12 3 0
+17 15 15
+#2936
+bread hunk~
+a hunk of bread~
+A hunk of bread ripped from a loaf sits on the ground.~
+~
+19 0 1 0
+0 0 0
+12 0 0 0
+1 5 5
+#2937
+potion mana blue~
+a potion of mana~
+A small blue potion lies on the ground.~
+$n drinks a small blue potion.~
+10 0 1 0
+0 0 0
+0 0 0 0
+1 50 50
+#2938
+potion blue mana full~
+a potion of full mana~
+A large blue potion lies on the ground.~
+$n drinks a small blue potion.~
+10 0 1 0
+0 0 0
+0 0 0 0
+1 200 200
+$

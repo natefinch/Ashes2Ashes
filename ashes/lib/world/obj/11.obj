@@ -1,0 +1,390 @@
+#1100
+rainbow staff~
+the rainbow staff~
+The rainbow staff lies here.~
+~
+1 64 16385 0
+0 0 0
+0 0 -1 0
+8 5000 2667
+A
+4 1
+#1101
+elven short sword shortsword~
+a gleaming elven shortsword~
+A bright elven shortsword catches your eye.~
+~
+5 8926211 24577 0
+0 0 0
+0 4 6 11
+2 10000 7500
+A
+5 1
+A
+2 2
+E
+sting dirk~
+A finely crafted dirk just aching to be wielded. This is the
+blade of legend, and while not as powerful as other weapons,
+still has it's own charm, and it's own role to play in events
+to come...
+~
+#1102
+sign~
+a sign~
+A sign demands your attention.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+
+Welcome to the Shire.  As you enter the Shire from Haon-Dor you come under
+the jurisdiction of the Thain, the peacekeeper of the Shire.  Consequently,
+by entering these lands you agree to obey our laws.  If you break these laws,
+you will be severely punished.  We do not like riff raff in our peaceful
+town.
+
+					The Thain
+					Peacekeeper of the Shire
+
+~
+#1103
+pipeweed bread weed~
+a pipeweed bread~
+A large loaf of rich, crusty pipeweed bread arouses your appetite.~
+~
+19 0 16385 0
+0 0 0
+24 0 0 0
+1 13 2
+E
+bread pipeweed~
+It is a very good bread! Yummy! If only momma made this stuff
+back home. Then maybe you'd have been plumper and had a nice
+disposition, rather than being the mean ol' halfling slayer you
+are now. :( *sniff* Oh well, cheer up and enjoy the bread.
+~
+E
+weed~
+It's so good, you wish you could smoke it! Hey, maybe you can!
+Just tear it into little bits and stick it up yer bong... Or
+how about dry little pieces out in the sun, and then crumble it
+and roll it up into a joint! Yeahhhhh duuuuuude... Mellow...
+~
+#1104
+cloak silvery~
+a long silvery cloak~
+A silvery cloak lies here, giving off occasional sparkles.~
+~
+9 65 5 0
+0 0 0
+7 0 0 0
+3 10000 4500
+A
+22 -2
+A
+23 -2
+E
+cloak fabric~
+The fabric of this long cloak seems to have a sparkle of it's
+own - not blinding, but occasional, in a pleasant manner that
+doesn't offend the eye. Running your fingers against the cloth
+material, you gather that the closest you can place the feel
+to is that of soft silk.
+~
+#1105
+ring one gold~
+the One Ring~
+A gleaming gold ring lies on the ground.~
+~
+12 131136 16387 2
+0 0 0
+0 0 0 0
+1 2500 1900
+A
+16 -10
+A
+13 2
+E
+ring one~
+Yet another item of legend. But only one may invoke it's true
+power, and survive. In the hands of some, it kills, in the hands
+of others, it does little... Many runes are carved along both
+outside and inside. You do not seem to understand them.
+~
+#1106
+rapier elven swept hilt~
+a swept hilt elven rapier (singing softly)~
+A soft humming is heard from the handsome elven rapier lying here.~
+~
+5 8926272 8193 0
+0 0 0
+0 4 5 3
+3 2000 2000
+A
+17 2
+A
+16 -9
+E
+rapier~
+This rapier boasts the much favored swept hilt design known
+as the 'Cavalier' hilt. The guard is flat, spiral-shaped, with
+a knuckle bow providing protection to the hand.
+The blade, however, is what is of note. Of gleaming greyish
+blue elven steel crafted in the 'thousand-fold' style, it also
+seems to have been enchanted, if the softly, faintly heard
+humming emanating from it seems to be any indication.
+Overall, this is an excellent weapon.
+~
+#1107
+axe mithril~
+a double-bladed mithril axe .~
+A double-bladed mithril axe lies here rumbling softly to itself.~
+~
+5 10244417 8193 0
+0 0 0
+0 4 5 6
+12 9000 2000
+A
+18 2
+E
+axe~
+The dwarves are normally not known for beauty in their works,
+but this one is an exception. Forged in the smithies deep
+within their granite halls, using the living, flowing rock
+itself as the source of heat, this double-bladed mithril axe
+not only is sturdy and near indestructible (as is to be expected
+of dwarven craft), but also a magnum opus in terms of artistic
+skill. The deeply etched runes, carved in such a manner, show that
+while they may not paint or draw, they sure have their art!
+~
+#1108
+girth thain~
+a Thain girth~
+The girth worn by the Thain lies here.~
+~
+9 64 2049 0
+0 0 0
+5 3 0 0
+2 1000 200
+A
+4 2
+E
+girth~
+A think, stout leather band with a buckle, tongue, and notches
+in the back for securing to one's waist. This one has been
+taken off the dead body of a halfling Thain, their highest
+legal authority. Thain girths are traditionally a symbol of
+rank, respect, and command among halflings, and as such are never
+handed out to fools.
+~
+#1109
+cudgel~
+a stout wooden cudgel~
+A wooden cudgel of the type employed by halfling shiriffs lies here.~
+~
+5 4096 24577 0
+0 0 0
+0 2 3 7
+4 40 2
+E
+cudgel~
+This is a length of seasoned ironwood. The fine grained
+wood is dark brown with flecks of bright orange. All the
+splinters have been removed, and it boasts a good heft and
+balance. Many a drunk and unruly tavern patron has been
+knocked unconscious with this in order to be carried off to
+his burrow.
+~
+#1110
+egg~
+a brown speckled egg~
+A brown speckled egg lies here.~
+~
+19 0 1 0
+0 0 0
+12 0 0 0
+1 5 1
+#1111
+bag~
+a bag~
+A bag is on the floor.~
+~
+15 0 1 0
+0 0 0
+50 0 0 0
+5 50 10
+#1112
+lantern~
+a lantern~
+A lantern is on the floor.~
+~
+1 0 1 0
+0 0 0
+0 0 20 0
+4 50 10
+#1113
+pike~
+a short halfling pike~
+A short pike with a hook attachment lies here.~
+~
+5 8400896 8193 0
+0 0 0
+0 4 3 11
+10 100 10
+A
+17 4
+E
+pike~
+This is a halfling polearm intended for use against Big People
+troublemakers. The length of the pike gives short arms a longer
+reach, as well as helps keep attackers at bay. The hook is useful
+for pulling opponents to the ground or ripping away armor.
+For peacekeeping among fellow halflings, shiriffs tend to prefer
+using cudgels...
+~
+#1114
+flail~
+a flail~
+A flail is on the floor.~
+~
+5 4096 8193 0
+0 0 0
+0 2 4 6
+8 300 50
+#1115
+vest leather~
+a rugged leather shiriff's vest~
+A sturdy, well-tailored leather vest has been abandoned here.~
+~
+9 320 9 0
+0 0 0
+5 0 0 0
+4 500 10
+A
+11 5
+E
+vest leather~
+A rugged-looking vest made of sturdy steerhide tanned and
+treated, sewn, and then individually blessed by the local
+priest, who invokes Yondalla's aid in protecting her people.
+~
+#1116
+helmet dwarven bronze~
+a bronze dwarven helmet~
+A bronze helmet of dwarven make lies here.~
+~
+9 0 17 0
+0 0 0
+8 0 0 0
+5 100 5
+E
+helmet dwarven~
+A superior example of dwarven craftsmanship. Not their best, mind
+you, but better than most. It has a practical noseguard, reinforced
+with a central ridge.
+~
+#1117
+helm dwarven horned~
+a horned dwarven helm~
+A horned dwarven helm lies here, glowing softly.~
+~
+9 541760 17 0
+0 0 0
+8 0 0 0
+4 5000 100
+A
+1 1
+A
+18 1
+E
+helm dwarven horned~
+This is a true piece of dwarven smithcraft. The helmet itself
+is very sturdy and made from blackened steel. Gold filigree has
+been inlaid upon the black finish in the blocky and swirling
+patterns of runic decorations. Two curving ox-horns, only about
+four inches long each, are practically pointed downwards to help
+deflect blows at the neck. Only stupid smiths point the horns up,
+and dwarves are not stupid.
+~
+#1118
+chainmail shirt elven chain mail~
+a shirt of elven chainmail~
+Chainmail of elvish manufacture, a bluish grey color, lies here in a heap.~
+~
+9 525376 9 0
+0 0 0
+7 0 0 0
+3 1000 10
+E
+chain chainmail shirt~
+Surprisingly strong for it's weight, yet so supple one could
+call it cloth, this chainmail shirt is a good example of
+elven craftsmanship. Almost anyone can wear this with ease.
+~
+#1119
+shirt chainmail elven chain mail~
+a shirt of gleaming elven chainmail~
+A gleaming pile of elven chainmail lies here repelling dirt.~
+~
+9 525376 9 0
+0 0 0
+7 0 0 0
+3 8000 100
+A
+17 2
+A
+15 4
+E
+shirt chain chainmail~
+This is truly a piece of master craftsmanship. The chain makes
+absolutely no sound, and yet is so light, so supple, so tough
+and resilient of material! Few elves get to wear this. Fewer
+still of other races.
+~
+#1120
+hoe implement~
+a long-handled weeding hoe~
+A long-handled farming implement lies here ready to trip someone.~
+~
+5 0 24577 0
+0 0 0
+0 2 4 7
+6 17 1
+A
+18 1
+A
+17 -1
+E
+hoe implement~
+This long-handled hoe is used in gardening for clearing weeds and
+forming planting beds. It just takes alot of back muscles and
+good wrist action to use properly. I guess one could use it to
+hack with. I guess...
+~
+#1121
+scythe~
+Farmer Gamgee's harvesting scythe~
+A long-bladed scythe suitable for harvesting grain lies here.~
+~
+5 9719808 8193 0
+0 0 0
+0 7 3 0
+9 100 15
+A
+17 -1
+A
+14 -3
+E
+scythe~
+This harvesting implement has a blade of the size used by
+humans, but the handle has been forshortened in order to
+accomodate halfling body size limitations. The blade looks
+wickedly sharp, but the weight and awkward positioning of
+the scythe as a whole gives you doubts as to your ability to
+wield. Surely you will be sacrificing accuracy and strength.
+~
+$

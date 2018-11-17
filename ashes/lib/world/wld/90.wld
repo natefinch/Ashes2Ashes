@@ -1,0 +1,2031 @@
+#9000
+A Small Opening Into the Earth~
+You stand outside a large cave opening. A head depicting some kind of 
+horned beast is carved into the rock above the gaping entrance.
+Coming from within the darkness before you, the cries of tormented
+souls sends shivers down your spine.
+
+~
+90 40960 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9001
+D2
+~
+~
+0 -1 4042
+S
+#9001
+In a Musty Tunnel~
+You start to feel claustrophobic as you franticly look around this earthy
+tunnel. Looking behind you, a few beams of sunlight streak onto the tunnel's
+walls and floor. You wonder if you should turn back now or brave the
+uncertain dangers which lie within.
+
+~
+90 33033 0
+0d0+0 0 0
+D0
+A rusty iron portcullis blocks the passage ahead. With a little effort
+it may be possible to move it...
+~
+portcullis~
+1 -1 9002
+D2
+~
+~
+0 -1 9000
+S
+#9002
+A Musty Tunnel~
+The earthen tunnel ahead is sealed off by a rotted wooden door, bound with
+iron straps. On the tunnel's floor are footprints of what you believe to be
+another humanoid, but they are quite small, possibly of a hobbit or elf.
+The footprints seem to go in one direction past the door. You stop again
+to ponder your fate.
+
+~
+90 33037 0
+0d0+0 0 0
+D0
+A rotted wooden door, bound with iron straps, hangs on ancient hinges.
+~
+wooden~
+1 9002 9003
+D2
+A rusty iron portcullis.
+~
+portcullis~
+1 -1 9001
+S
+#9003
+A Slope in the Musty Tunnel~
+The tunnel ahead slopes sharply downwards. As you continue down the passage,
+the composition of the walls becomes more jagged. Sharp rocks stick out of
+the walls and small fragments of granite are scattered among the soil.
+
+~
+90 33033 0
+0d0+0 0 0
+D2
+A wooden door with iron bands lies to the south.
+~
+wooden~
+1 9002 9002
+D5
+~
+~
+0 -1 9004
+S
+#9004
+A Musty Tunnel~
+As the tunnel ceases its decline, the odor of stagnant water and mold
+wrinkles your nose. The walls here are nearly completely composed of
+stone.
+
+~
+90 33033 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9005
+D4
+~
+~
+0 -1 9003
+S
+#9005
+A Small Moldy Room~
+The musty odor of the room is quite strong here. The stone beneath you is
+scattered with patches of a black fungus, and as a result is slightly
+slippery.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9006
+D2
+~
+~
+0 -1 9004
+D7
+~
+~
+0 -1 9007
+S
+#9006
+Center of a Small Moldy Room~
+The floor here is nearly -impossible- to walk on! Small pools of
+the horrid-smelling, stagnant water are splashed all over the floor
+here, which makes the floor very very slippery. A large pool of
+dark water is in the center of the room, stinking to such an extent
+that you are forced to plug your nose.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9008
+D2
+~
+~
+0 -1 9005
+D3
+~
+~
+0 -1 9007
+S
+#9007
+A Small Moldy Room~
+The black fungus which is everywhere in this room, makes the floor
+difficult to traverse. Taking small steps, you manage to move carefully
+around to explore.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9009
+D1
+~
+~
+0 -1 9006
+D7
+~
+~
+0 -1 9074
+D8
+~
+~
+0 -1 9005
+S
+#9008
+A Small Moldy Room~
+There are a number of small puddles of what you think was once water
+on the floor here. To the south the moldy floor seems to thrive with
+vigor. A granite hallway is to the north and the moldy room continues
+to the west.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9012
+D2
+~
+~
+0 -1 9006
+D3
+~
+~
+0 -1 9009
+S
+#9009
+A Small Moldy Room~
+As you enter this section of the room, you notice a stone alcove to the
+north. You wonder if the mold growing there is as disgusting as it is
+here and elsewhere in this room.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9010
+D1
+~
+~
+0 -1 9008
+D2
+~
+~
+0 -1 9007
+D3
+~
+~
+0 -1 9074
+S
+#9010
+A Stony Alcove~
+You stand in a stone alcove, connecting the rank room to the south with
+an oddly silent room to the north. Your lantern sends shadows flickering
+on the walls, and to the north you sense danger.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9011
+D2
+~
+~
+0 -1 9009
+S
+#9011
+A Room Strewn with Snakeskins~
+The sound of grating stone and metal on metal startles you as a heavy
+stone block seals off the entrance to this room. On the floor ahead are
+dozens of molted snakeskins, whose owners dont appear to be far away.
+Although you appear to be trapped, the southeast wall seems oddly
+constructed. You begin to wonder if there could be a secret there.
+
+~
+90 32781 0
+0d0+0 0 0
+D8
+You see something strange... there may be a secret hidden here.
+~
+secret~
+1 -1 9012
+S
+#9012
+A Hallway Carved Through Granite~
+The walls of this long hallway have been scared over time. Large pieces
+of granite have fallen from the ceiling in various places, making you
+feel slightly uneasy. The passageway continues east and to the south
+opens into a moldy room.
+
+~
+90 32781 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9013
+D2
+~
+~
+0 -1 9008
+S
+#9013
+A Hallway Carved Through Granite~
+The crumbling stone hallway continues to the west, and to the east
+opens into a large room.
+
+~
+90 32781 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9014
+D3
+~
+~
+0 -1 9012
+S
+#9014
+A Stone Room with Murder Holes~
+As you look above you, you notice the large number of spear-sized
+holes which cover the ceiling. You hope they won't be used for some
+time to come.
+
+~
+90 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9015
+D2
+~
+~
+0 -1 9016
+D3
+~
+~
+0 -1 9013
+S
+#9015
+A Stone Room with Murder Holes~
+You stop suddenly as you watch bits of dirt fall through one of the
+holes in the ceiling. As you stand frozen in the room, you think you
+hear some mutters coming from above. Hopefully it is just your 
+imagination.
+
+~
+90 32777 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9017
+D3
+~
+~
+0 -1 9014
+S
+#9016
+A Stone Room with Murder Holes~
+You feel as paranoid as ever walking in this room. Pieces of broken spears
+are scattered about the room. You shiver as you feel a watchful eye from
+above search you over.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9014
+D1
+~
+~
+0 -1 9017
+D2
+~
+~
+0 -1 9018
+S
+#9017
+A Stone Room with Murder Holes~
+You are almost positive you hear something moving above you. Quiet grunts
+and the sound of footsteps echo through the murder holes above you. You
+notice a large door on the eastern wall.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9015
+D1
+A LARGE metal door with rivits lies to the east.
+~
+door~
+1 -1 9021
+D2
+~
+~
+0 -1 9019
+D3
+~
+~
+0 -1 9016
+S
+#9018
+A Stone Room with Murder holes~
+In the corner of this section of the room lies the remains of a former
+adventurer. Through his head has been thrust a wooden spear, ending
+his life instantly. 
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9016
+D1
+~
+~
+0 -1 9019
+S
+#9019
+A Stone Room with Murder Holes~
+Staring at the ceiling you wonder when you will be implaed by spears.
+There is definately something up there moving about, hopefully it won't
+find you here.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9017
+D3
+~
+~
+0 -1 9018
+S
+#9020
+A Storage Room~
+In this room lie various instruments for making wine. Spare barrels,
+empty flasks, mallets and other broken junk clutter the floor and
+shelves on the walls. There seems to be nothing of interest here.
+
+~
+90 32777 0
+0d0+0 0 0
+D2
+A crooked door leans on rusty hinges to the south.
+~
+crooked~
+1 -1 9083
+S
+#9021
+A Cramped and Littered Passage~
+Splinters of wood, about the size of a human arm, are scattered about
+the hallway here. The passageway is quite narrow here and to the
+east, but to the west it opens into a room.
+
+~
+90 32781 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9022
+D3
+A LARGE metal door with small rivits lies to the west.
+~
+door~
+1 -1 9017
+S
+#9022
+A Cramped and Littered Passage~
+The cramped passageway continues to the west, and to the east is
+a metal door. The door seems to be an entrance to a secure room.
+
+~
+90 32781 0
+0d0+0 0 0
+D1
+A metal door with the word 'JAIL' engraved upon it lies to the east.
+~
+door~
+1 -1 9023
+D3
+~
+~
+0 -1 9021
+S
+#9023
+An Old Prison~
+The stench of urine and dead animals lingers in this room. As you peer about
+this room, you see several different torture devices, whips and human bones
+lying amongst the waste. You get the feeling that you may not be alone here...
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9026
+D1
+~
+~
+0 -1 9024
+D3
+A metal door seals off the exit to the west.
+~
+door~
+1 -1 9022
+S
+#9024
+An Old Prison~
+The stench of urine and dead animals lingers in this room. As you peer about
+this room, you see several different torture devices, whips and human bones
+lying amongst the waste. You get the feeling that you may not be alone here...
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9027
+D1
+Some half-broken and rusty iron bars guard a small holding cell to the east.
+~
+bars~
+1 -1 9025
+D3
+~
+~
+0 -1 9023
+S
+#9025
+An Empty Cell~
+This cramped cell looks as it may have hosted human life in the past. Small
+markes carved into the walls and floor seem to have counted the days of
+imprisonment. However, the groups of markings seem to be few, as the poor
+souls days' here were short.
+
+~
+90 32777 0
+0d0+0 0 0
+D3
+~
+bars~
+1 -1 9024
+S
+#9026
+An Old Prison~
+The stench of urine and dead animals lingers in this room. As you peer about
+this room, you see several different torture devices, whips and human bones
+lying amongst the waste. You get the feeling that you may not be alone here...
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9029
+D1
+~
+~
+0 -1 9027
+D2
+~
+~
+0 -1 9023
+S
+#9027
+An Old Prison~
+The stench of urine and dead animals lingers in this room. As you peer about
+this room, you see several different torture devices, whips and human bones
+lying amongst the waste. You get the feeling that you may not be alone here...
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9030
+D1
+Some half-broken and rusty iron bars guard a small holding cell to the east.
+~
+bars~
+2 9027 9028
+D2
+~
+~
+0 -1 9024
+D3
+~
+~
+0 -1 9026
+S
+#9028
+An Empty Cell~
+This cramped cell looks as it may have hosted human life in the past. Small
+markes carved into the walls and floor seem to have counted the days of
+imprisonment. However, the groups of markings seem to be few, as the poor
+souls days' here were short.
+
+~
+90 32777 0
+0d0+0 0 0
+D3
+~
+bars~
+2 9027 9027
+S
+#9029
+An Old Prison~
+The stench of urine and dead animals lingers in this room. As you peer about
+this room, you see several different torture devices, whips and human bones
+lying amongst the waste. You get the feeling that you may not be alone here...
+A dark mahogany door lies to the west.
+
+~
+90 32781 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9030
+D2
+~
+~
+0 -1 9026
+D3
+A dark mahogany door, marred with dents and scratches, lies to the west.
+~
+door~
+1 -1 9032
+S
+#9030
+An Old Prison~
+The stench of urine and dead animals lingers in this room. As you peer about
+this room, you see several different torture devices, whips and human bones
+lying amongst the waste. You get the feeling that you may not be alone here...
+
+~
+90 32777 0
+0d0+0 0 0
+D1
+Some half-broken and rusty iron bars guard a small holding cell to the east.
+~
+bars~
+1 -1 9031
+D2
+~
+~
+0 -1 9027
+D3
+~
+~
+0 -1 9029
+S
+#9031
+An Empty Cell~
+This cramped cell looks as it may have hosted human life in the past. Small
+markes carved into the walls and floor seem to have counted the days of
+imprisonment. However, the groups of markings seem to be few, as the poor
+souls days' here were short.
+
+~
+90 32777 0
+0d0+0 0 0
+D3
+~
+bars~
+1 -1 9030
+S
+#9032
+The Jailer's Chambers~
+The room here is slightly cleaner, unlike the room to the east. The floor
+is not completely devoid of bones and feces, but in places it is almost
+traverseable.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9035
+D1
+A dark mahogany door, marred with dents and scratches, lies to the east.
+~
+door~
+1 -1 9029
+D3
+~
+~
+0 -1 9033
+S
+#9033
+The Jailer's Chambers~
+In the corner of the room a small metal chest rests on the cold stone
+floor. Whoever lives here seems to know the meaning of security as the
+chest appears to be closed and locked. An evil grin creeps across your
+face as you glance about you casually, only to see no owner in sight.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9034
+D1
+~
+~
+0 -1 9032
+S
+#9034
+The Jailer's Chambers~
+The first thing you notice in the corner of this filthy room is the
+disgusting bed which seems to be the source of the horrible body-odor
+smell here. Small scraps of old meat are on the floor here which are
+evidence enough that someone has been here recently.
+
+~
+90 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9035
+D2
+~
+~
+0 -1 9033
+S
+#9035
+The Jailer's Chambers~
+You suddenly stop as you think you hear movement in the room. Listening
+silently, you swear you hear deep breathing to the west. To the north
+the wall is covered with a black fungus, and beneath it a door is barely
+visible.
+~
+90 32777 0
+0d0+0 0 0
+D0
+You see a wooden door, covered with a black mold.
+~
+door~
+2 9027 9036
+D2
+~
+~
+0 -1 9032
+D3
+~
+~
+0 -1 9034
+S
+#9036
+A Passage Covered with Mildew~
+Your hand brushes a furry part of the wall as you enter this passage. In utter
+disgust you look around. Dark strands of mold hang from all walls here, making
+it seem as though fur from some animal has been hung around in decoration.
+
+~
+90 32777 0
+0d0+0 0 0
+D1
+A -very- moldy door, half rotted away and stinking to high heaven, lies east.
+~
+moldy~
+1 -1 9038
+D2
+A wooden door, totally ridden with black mildew, rots to the south.
+~
+door~
+2 9027 9035
+D3
+~
+~
+0 -1 9037
+S
+#9037
+A Passage Covered with Mildew~
+The furry walls of this passageway seem to converge to a dead end. As you
+walk closer towards the end of this hallway, you notice several patches
+of a yellow-green slime hanging from the ceiling. You cautiously investigate
+it as your curiousty gets the best of you.
+
+~
+90 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9036
+S
+#9038
+A Room with Flickering Torches~
+The echo of your footsteps reverberates throughout the chamber before you.
+Torchlight dances across the cuniform writings which have been scrawled on
+various walls. This chamber appears to be fairly empty to first glance,
+but you have the odd sensation that there is some kind of life nearby...
+
+~
+90 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9040
+D1
+~
+~
+0 -1 9039
+D3
+A wooden door, covered with a black mold, lies to the west.
+~
+moldy~
+1 -1 9036
+S
+#9039
+A Room with Flickering Torches~
+The echo of your footsteps reverberates throughout the chamber before you.
+Torchlight dances across the cuniform writings which have been scrawled on
+various walls. This chamber appears to be fairly empty to first glance,
+but you have the odd sensation that there is some kind of life nearby...
+
+~
+90 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9041
+D3
+~
+~
+0 -1 9038
+S
+#9040
+A Room with Flickering Torches~
+The echo of your footsteps reverberates throughout the chamber before you.
+Torchlight dances across the cuniform writings which have been scrawled on
+various walls. On the west wall you notice some odd writing. To the north
+a torchlit passageway slopes downwards while far off to the east you see
+a maroon curtain on the wall.
+
+~
+90 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9041
+D2
+~
+~
+0 -1 9038
+D3
+You see something strange...
+~
+secret~
+2 -1 9042
+D7
+~
+~
+0 -1 9049
+S
+#9041
+A Room with Flickering Torches~
+The echo of your footsteps reverberates throughout the chamber before you.
+Torchlight dances across the cuniform writings which have been scrawled on
+various walls. This chamber appears to be fairly empty to first glance,
+but you have the odd sensation that there is some kind of life nearby...
+To the east, a dirty maroon curtain moves slightly. You wonder if it could
+have something to do with the bloodstains which taint it.
+
+~
+90 32776 0
+0d0+0 0 0
+D1
+A blood-stained, maroon curtain covers the east wall.
+~
+curtain~
+1 -1 9043
+D2
+~
+~
+0 -1 9039
+D3
+~
+~
+0 -1 9040
+S
+#9042
+A Very Cramped Dirt Room~
+You peer into the darkness of this small, recluse room and realize you might
+have made a mistake in doing so. This small chamber appears to be the home
+of some type of magical creature, a strong force pushes you back into the
+room from which you entered...
+
+~
+90 47113 0
+0d0+0 0 0
+D1
+The secret door from which you entered lies to the east.
+~
+secret~
+1 -1 9040
+S
+#9043
+A Cold Passage~
+The cool hallway in which you stand continues to the east, and to the west
+opens into a dimly torchlit chamber. A chilling breeze sweeps through this
+hallway for a moment, as though someone had opened a door.
+
+~
+90 32781 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9044
+D3
+A blood-stained, maroon curtain moves silently in the shadows.
+~
+curtain~
+1 -1 9041
+S
+#9044
+Turn in a Cold Passage~
+The cold passageway extends further to the west, while to the south it seems
+to open into another small chamber - possibly a storeroom or another bed 
+chamber.
+
+~
+90 32777 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9045
+D3
+~
+~
+0 -1 9043
+S
+#9045
+A Cold Room with Granite Walls~
+This room seems to be some sort of lair. At one time it appears to have been
+a bed chamber, but from the smell of things, you are certain some beast
+or beasts have taken a liking to it and christened it their home.
+
+~
+90 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9044
+D2
+~
+~
+0 -1 9047
+D3
+~
+~
+0 -1 9046
+S
+#9046
+A Cold Room with Granite Walls~
+A small depression in the corner of this room seems to be a resting place
+for whatever animals dwell here. Small bits of grey fur have collected in
+this corner, as well as the remains of several different animals which
+looks as though may have served their purpose as being quite nutritional.
+
+~
+90 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9045
+D2
+~
+~
+0 -1 9048
+S
+#9047
+A Cold Room with Granite Walls~
+The smell of some kind of animal is very inconspicuous in this corner. You
+are -sure- there is something nearby. As you become more nervous, your
+curiosity seems to quickly retreat. Certainly anything with an odor this
+repugnant wouldn't be friendly.
+
+~
+90 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9045
+D3
+~
+~
+0 -1 9048
+S
+#9048
+A Cold Room with Granite Walls~
+Large paw tracks are easily visable on the floor here. You see more patches
+of dark fur and a few humanoid teeth on the floor and wonder where these
+creatures could be.
+
+~
+90 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9046
+D1
+~
+~
+0 -1 9047
+S
+#9049
+A Passage Sloping Downwards~
+This short passage adjacent to the torchlit room to the south, sharply
+slopes downwards over the next few feet. The sound of your footsteps seem
+to quietly vanish into the dark; absorbed by the quiet waters below.
+
+~
+90 32781 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 9050
+D8
+~
+~
+0 -1 9040
+S
+#9050
+A Subterrainean Lake~
+The darkness over these waters is frighteningly thick. Silence enshrouds
+this pitch-black sanctuary and although you still feel the heart in your
+chest beat its steady rhythm, you feel as though you've joined the dead.
+
+~
+90 32777 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9054
+D1
+~
+~
+0 -1 9052
+D3
+~
+~
+0 -1 9051
+D4
+~
+~
+0 -1 9049
+S
+#9051
+A Subterrainean Lake~
+The dark waters continue to the east and north. You feel your jugular for
+a pulse again; you feel so empty here.
+
+~
+90 32777 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9053
+D1
+~
+~
+0 -1 9050
+S
+#9052
+A Subterrainean Lake~
+The pitch-blackness over these waters is amazing.. you are certainly glad
+you brought your lightsource, else you're certain you would lose your way.
+
+~
+90 32777 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9055
+D3
+~
+~
+0 -1 9050
+S
+#9053
+A Subterrainean Lake~
+The intense silence here makes you want to scream! To the south and east
+the dark waters continue, however, to the northeast there seems to be
+a yellowish lightsource. You wonder what it could be...
+
+~
+90 9 7
+0d0+0 0 0
+D1
+~
+~
+0 -1 9054
+D2
+~
+~
+0 -1 9051
+D6
+~
+~
+0 -1 9056
+S
+#9054
+A Subterrainean Lake~
+The darkness continues to the east and north. You feel your jugular for
+a pulse again; you feel so empty here. An eerie yellow glow can be
+seen closeby to the north.
+
+~
+90 32777 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 9056
+D1
+~
+~
+0 -1 9055
+D2
+~
+~
+0 -1 9050
+D3
+~
+~
+0 -1 9053
+S
+#9055
+A Subterrainean Lake~
+Off to the northwest, an eerie yellow glow breaks the monotony of the
+cloak of blindness about you. To the west and south - blackness.
+
+~
+90 9 7
+0d0+0 0 0
+D2
+~
+~
+0 -1 9052
+D3
+~
+~
+0 -1 9054
+D7
+~
+~
+0 -1 9056
+S
+#9056
+Before the Stone Doors~
+Towering before you stand two, large double doors. Several runes of
+an unknown orgin are chisled onto them, many of which are now damaged
+from age. Looking very thick and secure, you are sure whatever lies
+within, is meant to stay there.
+
+~
+90 9 0
+0d0+0 0 0
+D0
+Two stone double-doors, engraved with ancient runes, lie to the north.
+~
+double~
+2 9056 9057
+D2
+~
+~
+0 -1 9054
+D8
+~
+~
+0 -1 9055
+D9
+~
+~
+0 -1 9053
+S
+#9057
+A Muddy Hallway~
+Flickering torches illuminate this passage, sending their rays of light
+bouncing about the earthen walls. A cool drop of water occasionally falls
+on your head from the ceiling, alerting you to the fact that there must
+be somewhere where this water collects. The passage slopes off to the
+north, and set of strong double doors guard the way to the south.
+
+~
+90 14349 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9058
+D2
+Two stone double doors guard the southern walls.
+~
+double~
+2 9056 9056
+S
+#9058
+A Muddy Hallway~
+Flickering torches illuminate this passage, sending their rays of light
+bouncing about the earthen walls. A cool drop of water occasionally falls
+on your head from the ceiling, alerting you to the fact that there must
+be somewhere where this water collects. The passage continues to the
+north and south.
+
+~
+90 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9059
+D2
+~
+~
+0 -1 9057
+S
+#9059
+A Muddy Hallway~
+Flickering torches illuminate this passage, sending their rays of light
+bouncing about the earthen walls. A cool drop of water occasionally falls
+on your head from the ceiling, alerting you to the fact that there must
+be somewhere where this water collects. The north way is blocked by
+some huge, copper doors. You sigh, wondering what could be behind them.
+
+~
+90 14345 0
+0d0+0 0 0
+D0
+Some muddy copper doors guard the north way.
+~
+muddy~
+2 9068 9062
+D2
+~
+~
+0 -1 9058
+S
+#9060
+Lair of the FyreWyrm~
+This room is unbearably hot! You now know why this beast must need to
+thrive near so much water. Surely enough, however, water is not the only
+thing this creature has a thirst for...
+
+~
+90 14472 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9063
+S
+#9061
+A Hazy Cavern~
+The cool, moist air covers your face with small beads of water. As you
+reach up to wipe the moisture from your brow, you are suddenly startled
+by a loud *clang* which echos through the cavern. You are not alone here,
+that is for certain.
+
+~
+90 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9065
+D1
+~
+~
+0 -1 9062
+S
+#9062
+A Hazy Cavern~
+In the distance you hear a low roar from what you imagine to be a massive
+waterfall. Neon red eyes occasionally blink from within the thick mists,
+peering at you, the intruder in their lair.
+
+~
+90 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9064
+D2
+Some muddy copper doors seal the south exit.
+
+~
+muddy~
+2 9068 9059
+D3
+~
+~
+0 -1 9061
+S
+#9063
+The Rocky Bottom of the Chasm~
+Crashing onto solid stone, sevral bones in your body shatter instantly
+into thousands of splinters. A shooting pain seers throughout your
+entire body, and from the size of what is staring at you, you have a
+feeling that the worst has yet to come...
+... You have an incredible urge to leave now.
+
+~
+90 8201 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9060
+S
+#9064
+On the Edge of a Deep Chasm~
+WOAH!  Your heart races as you nearly fall off the edge of a GIGANTIC
+cliff, off of which roars a hefty amount of water. As you teeter on the
+edge of what could be the speedy end to your pathetic life, you stare
+down into the swirling waters below and wonder if your life is really
+worth all that much anyhow...
+
+~
+90 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9067
+D2
+~
+~
+0 -1 9062
+D3
+~
+~
+0 -1 9065
+S
+#9065
+A Hazy Cavern~
+The roar of the water grows louder and louder as you approach a small
+ledge which circles around the center of this vast chasm. Wiping your eyes
+every few seconds to keep your vision straight, your wonder weather or not
+this slippery rock is the best place to be standing...
+
+~
+90 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9068
+D1
+~
+~
+0 -1 9064
+D2
+~
+~
+0 -1 9061
+S
+#9066
+Deeper into the Chasm~
+Gravity seems to vanish as your fingers slip from the wet stone above!
+Freezing water numbs your skin and chills your soul as the dark waters
+below spin swiftly towards your fragile body. You are soon engulfed
+in the full stream of pounding falls and go drifting into a dark place
+below...
+
+~
+90 30735 0
+1d1+199 90 0
+D4
+You see nothing special about the rock above.
+~
+rock~
+2 9069 9067
+D5
+You notice a small engraving of a pentagram.
+~
+fissure~
+2 9068 9063
+S
+#9067
+Plummeting Into a Deep Chasm~
+AAAAGH! You scream madly as you find yourself being swallowed into
+the deep chasm below. Your skeleton is jarred as your body is twisted,
+bounding and rebounding off of jagged rocks. Your head nearly splits as
+you crash into a small, rock platform. You quickly grasp a crevice in the
+rock, and dangle for a moment, confused by the overwhelming pain which
+surges through your body. You are uncertain how much longer you will
+survive...
+
+~
+90 30863 0
+1d1+199 90 0
+D0
+~
+~
+0 -1 9071
+D2
+~
+~
+0 -1 9064
+D3
+~
+~
+0 -1 9068
+D5
+The veins of silver which run through this rock would be quite
+valueable if extracted. You notice a small hole in one of the veins...
+~
+rock~
+2 9069 9066
+S
+#9068
+The Edge Around a Deep Chasm~
+Walking slowly as not to slip and fall to your certain death, you approach
+an ancient and undoubtedly slippery bridge. The sight of the enormous
+waterfall to the east is spectacular, and you find yourself staring down
+into the chasm below for an uncanny amount of time. You swear you see
+something red moving below in the water, but nothing could survive there...
+     ... or so you think
+
+~
+90 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9069
+D1
+~
+~
+0 -1 9067
+D2
+~
+~
+0 -1 9065
+S
+#9069
+Bridge Over the Chasm~
+Extending 30 feet over a large gap in the ledge, you stand on a soggy
+and yes, slippery, wooden plank bridge. You freeze as you hear a roar
+from below and remain silent... motionless... crouching hundreds of
+feet above dark, churning waters. 'It must be the water', you think to
+yourself reassuringly. Yet an uncontrolable urge dangerously beckons
+you from below...
+
+~
+90 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9070
+D2
+~
+~
+0 -1 9068
+S
+#9070
+A Hazy Cavern~
+Standing on solid rock once again, your heartbeat returns to near-normal
+as you feel much safer not being on a certain bridge. However, still
+feeling rather unwelcome here, you keep your jaw locked, ready for battle.
+
+~
+90 14345 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9071
+D2
+~
+~
+0 -1 9069
+D7
+~
+~
+0 -1 9072
+D8
+~
+~
+0 -1 9067
+S
+#9071
+A Hazy Cavern~
+The cavern comes abruptly to an end to the east, and to the south tapers
+off into the chasm below. A deep snarl comes drifting out of the mists
+below, warning you to leave now or perish!
+
+~
+90 14345 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9067
+D3
+~
+~
+0 -1 9070
+S
+#9072
+An Obscure Gutted Tunnel~
+Water drips on your head from the stalagtites above as you squeeze
+yourself through the small, muddy opening into this dank, earthy
+tunnel. Your feet sink into the moist soil beneath your feet and your
+imagination begins to draw frightening scenarios.
+
+~
+90 14601 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9073
+D8
+~
+~
+0 -1 9070
+S
+#9073
+End of the Obscure Tunnel~
+The passage twists briefly to the northeast, where it is stopped by a
+large mass of collapsed, wet earth. Bones jut out of the earth here and
+you wonder if this could have once been an entryway to catacombs or
+perhaps something worse...
+
+~
+90 14601 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9072
+S
+#9074
+Northwest Corner of a Small Moldy Room~
+As you near the corner of this room, the mold on the floor is less
+abundant. To the west lies a granite passageway, and to the east the
+mold thrives and prospers.
+
+~
+90 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9009
+D3
+~
+~
+0 -1 9075
+D8
+~
+~
+0 -1 9007
+S
+#9075
+A Hallway Carved Through Granite~
+The walls of this long hallway have been scared over time. Large pieces
+of granite have fallen from the ceiling in various places, making you
+feel slightly uneasy. The passageway continues to the west and to the
+east opens into a damp room.
+
+~
+90 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9074
+D3
+~
+~
+0 -1 9076
+S
+#9076
+A Hallway Carved Through Granite~
+The dark stone hallway bends here, and continues to the north and east.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9077
+D1
+~
+~
+0 -1 9075
+S
+#9077
+A Hallway Carved Through Granite~
+A half dozen, small rats skitter northwards into a room as you approach
+them. To the south the passage continues and to the north it seems to
+open into a stone room.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9078
+D2
+~
+~
+0 -1 9076
+S
+#9078
+The Underground Distillery~
+This room smells strongly of old wine. To the east and west you notice some
+large wooden objects. A small trail of what you believe to be wine leads
+to the west and to the north.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9082
+D2
+~
+~
+0 -1 9077
+D3
+~
+~
+0 -1 9080
+S
+#9079
+FREE***~
+~
+90 9 0
+0d0+0 0 0
+S
+#9080
+The Underground Distillery~
+It is obvious, from the size of the wooden cask leaking a sweet-smelling,
+liquid, that this is indeed an underground distillery. You wonder if
+anyone would mind if you just took a sip or two.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9081
+D1
+~
+~
+0 -1 9078
+S
+#9081
+The Underground Distillery~
+The first thing that catches your eye as you near the corner of this
+section of the distillery is that there is no cask! Someone seems to
+have made off with it. You quickly assume that whatever took the cask
+must have drank most all of it as the smell of vomit wafts down the stairs
+in the northwest corner of this room.
+
+~
+90 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9082
+D2
+~
+~
+0 -1 9080
+D7
+~
+~
+0 -1 9084
+S
+#9082
+The Underground Distillery~
+It is obvious, from the size of the wooden cask leaking a sweet-smelling,
+liquid, that this is indeed an underground distillery. You wonder if
+anyone would mind if you just took a sip or two.
+
+~
+90 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9083
+D2
+~
+~
+0 -1 9078
+D3
+~
+~
+0 -1 9081
+S
+#9083
+The Underground Distillery~
+It is obvious, from the size of the wooden cask leaking a sweet-smelling,
+liquid, that this is indeed an underground distillery. You wonder if
+anyone would mind if you just took a sip or two.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+An old, crooked door lies to the north.
+~
+crooked~
+1 -1 9020
+D3
+~
+~
+0 -1 9082
+S
+#9084
+Atop Some Stone Steps~
+Standing atop the stairs which lead down into a distillery, you peer north
+into the dark tunnel and see... darkness... Somehow you expected that.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9085
+D8
+~
+~
+0 -1 9081
+S
+#9085
+A Hallway Carved Through Granite~
+The walls of this long hallway have been scared over time. Large pieces
+of granite have fallen from the ceiling in various places, making you
+feel slightly uneasy. The passageway continues to the north and south.
+It seems that a large section of the floor here has crumbled away, revealing
+an earthen tunnel below.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9089
+D2
+~
+~
+0 -1 9084
+D5
+~
+~
+0 -1 9086
+S
+#9086
+A Collapsed Passageway~
+The dusty air in this passageway makes you cough. Rubble from the ceiling
+which has collapsed long ago lays around in a disorderly fasion, clogging
+the tunnel to the northwest somewhat. The only exits here are up and
+to the northwest.
+
+~
+90 32777 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 9085
+D7
+~
+~
+0 -1 9087
+S
+#9087
+Bend in a Collapsed Passageway~
+Several large support beams have given under the stress of the heavy
+granite ceiling. The cramped passage is littered with rubble and does
+not seem like a safe place to stay for very long.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9088
+D8
+~
+~
+0 -1 9086
+S
+#9088
+A Crumbling Room~
+The passage to the south opens into this small, fragile chamber. The
+walls of this room are composed entirely of a slatelike rock which
+looks very unstable. In the center of the room stands a noble statue
+which smiles at you upon your entrance.
+
+~
+90 32777 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9087
+S
+#9089
+A Hallway Carved Through Granite~
+The walls of this long hallway have been scared over time. Large pieces
+of granite have fallen from the ceiling in various places, making you
+feel slightly uneasy. The passage continues further to the north and south.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9090
+D2
+~
+~
+0 -1 9085
+S
+#9090
+End of the Granite hallway~
+The stone hallway has come to an end here. A statue of a jinni, his arms
+crossed solmnly, is posed agains the northern wall. To the east lies a
+closed, wooden door. Oddly, you feel a slight draft coming from the north.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+A statue of a jinni rests here against the wall. It looks quite heavy.
+~
+statue~
+1 -1 9091
+D1
+~
+door~
+1 -1 9092
+D2
+~
+~
+0 -1 9089
+S
+#9091
+The Room with Broken Furniture~
+It seems as though you have entered an unpromising room. Trash and glass
+has been left about for another to clean up, but another never did his
+job. On the north wall lies an intricate mural painting, depicting a large
+wormlike creature. To the south lies the entrance from which you just came.
+
+~
+90 14345 0
+0d0+0 0 0
+D0
+A large mural covers the north wall. It depicts the slaying of a giant
+wormlike creature.
+~
+mural~
+2 9093 9096
+D2
+The statue to the south looks like it may move with a little effort...
+~
+statue~
+1 9099 9090
+S
+#9092
+A Room Cluttered with Bones~
+The smell of urine and feces overpowers your sense of smell, nearly making
+you lose balance! Small patches of hair are scattered about the floor,
+and from the corner of the room you hear an occasional, doglike "yip!".
+
+~
+90 294921 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9093
+D2
+~
+~
+0 -1 9094
+D3
+~
+door~
+1 -1 9090
+S
+#9093
+A Room Cluttered with Bones~
+Small, gnawed bones from various animals lay about the rubbish and animal
+waste in this section of the room. You wonder how any living animal could
+survive in here with the rancid, stomach-twisting stench.
+
+~
+90 294921 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9095
+D3
+~
+~
+0 -1 9092
+S
+#9094
+A Room Cluttered with Bones~
+The only thought that passes through your mind at this point is how
+quickly you can leave this vile place. After giving a coule of un-
+fruitful heaves, your stomach finally settles down. You have no idea
+how long it will be before you cannot take the foul odor any longer...
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9092
+D1
+~
+~
+0 -1 9095
+S
+#9095
+A Room Cluttered with Bones~
+You curse to yourself as you step somewhere you would have prefered not
+to. 'Those damn creatures will pay for this', you swear to yourself as
+you carefully watch where your next step places your foot.
+
+~
+90 32781 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9093
+D2
+~
+~
+0 -1 9099
+D3
+~
+~
+0 -1 9094
+S
+#9096
+The Room with Broken Furniture~
+Wooden splinters poke at the soles of your boots, trying desperately
+to wedge themselves into your poor feet. Glass from broken plates and
+vials is against the north wall. Someone has certainly made a mess...
+
+~
+90 299017 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9097
+D2
+~
+mural~
+2 9093 9091
+S
+#9097
+The Room with Broken Furniture~
+Shattered furnature is strewn about the room, among other waste, some
+of which you care not to even look at. To the south lies a soft-looking
+crimson curtain.
+
+~
+90 36873 0
+0d0+0 0 0
+D2
+~
+curtain~
+1 -1 9098
+D3
+~
+~
+0 -1 9096
+S
+#9098
+Closet in the Room with Broken Furnaure~
+You find yourself in a small, cluttered closet. Quickly glancing over
+the room, you see nothing of interest here with the exception of a
+small, unpromising, rotten chest.
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+curtain~
+1 -1 9097
+S
+#9099
+A Room Cluttered with Bones~
+Skulls and femurs of human and goblin alike are evidence enough that the
+animals which inhabit this area are not too choosy about their dinner.
+Perhaps you better flee while you can...
+
+~
+90 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9095
+S
+$

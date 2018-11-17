@@ -1,0 +1,335 @@
+#23700
+raptor dino~
+a large Raptor~
+A large Raptor is here stalking you!
+~
+The swiftest of predators, and the smartest.  This Raptor
+seems to be the ruler of the raptors.  Commanding the others
+to do it's bidding.  The raptor reminds you of a common
+bird, but how could that be?  Stay away from the claw,
+it shreds skin like a hot knife going through butter.
+~
+63529 787880 -500 W3
+127 56 -25 50d50+10000 15d15+25
+45000 500000
+8 8 0
+16 0 18 18 18 16 0
+19 3 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#23701
+trex dino~
+Trex~
+The mighty TRex is going to make you lunch!
+~
+This is the mightiest pradator that ever roamed the Earth.  He
+towers over you and deafens you with his mighty roar.  He has bad
+eyesight so if you stand real still, he might not see you.  His
+skin is very grainy, reminding you of a cobble stone road.  You
+better be on your toes and be careful.
+~
+59433 16778408 -100 W3
+127 65 -20 20d10+12000 15d15+80
+381000 1000000
+8 8 0
+18 100 13 13 18 13 0
+18 5 0
+-200 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#23702
+pteradactyl dino ptera~
+Pteradactyl~
+A Pteradactyl is flying over head!
+~
+The Pteradactyl is an interesting animal.  It has no feathers,
+just thin leathery skin, and yet it can fly.  Pteradactyl's are 
+extremely territorial, so watch out for them, they dive down towards
+you with extreme speed, and their long beaks can rip you to shreds.
+~
+10248 16778280 0 W3
+102 53 -15 30d10+7000 6d6+35
+20000 25000
+8 8 0
+13 0 13 13 18 13 0
+0 3 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#23703
+triceratops dino tri-tops~
+Triceratops~
+A Triceratops is here munching on the foliage.
+~
+The Triceratops reminds one of modern day Rhinoscerous.  It doesn't
+have great eyesight and will charge with the three horns leveled
+at your gut.  The Tri-tops is a peaceful animal and is a 
+vegetarian.
+~
+11529 1192 0 W3
+127 60 -20 15d4+6000 15d5+35
+75000 75000
+8 8 0
+18 50 7 13 10 18 0
+18 4 0
+-200 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#23704
+brontosaurus dino bronto~
+a Brontosaurus~
+A Brontosaurus is standing here eating the leaves from the trees
+~
+The mighty Brontosaurus.  The largest animal to ever roam the Earth.
+It stands 5 stories high and weighs about 5 tons.  The ground shakes
+whenever it walks.  The myth that the Brontosaurus lived in swamps
+is wrong, these animals are actually quite graceful.  It's thick
+leathery skin protects it from attacks from predators and its
+huge tail offers it a great weapon.
+~
+26633 1192 0 W3
+127 55 -25 12d6+6500 10d10+50
+100000 100000
+8 8 0
+18 70 7 7 7 18 0
+17 5 0
+-250 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#23705
+a park maintenance man~
+a Park Maintenance Man~
+A park maintenance man is here nervously watching the forest.
+~
+This man does his best to keep the park under control.  He carries
+around an electric phaser gun so as to not hurt these 
+pre-historic animals.
+~
+18696 32 250 W3
+36 40 -4 5d5+1000 4d4+12
+5000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#23706
+a dilo~
+a Dilo~
+The Dilo puffs out his neck and attacks you with it's deadly venom.
+~
+This dinosaur is no bigger than a horse, but no smaller than a dog.  It's
+scientific name is Dilophosaur.  It spits a deadly venom that paralyzes
+it's victims.  Get back into the car before this Dilo sees you!
+~
+24617 1320 0 W3
+80 49 -12 5d7+4000 6d6+30
+20000 15000
+8 8 2
+13 0 13 13 18 13 0
+6 3 0
+-120 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#23707
+a small compy~
+a Small Compy~
+A small Compy is here paying no attention to you.
+~
+This is the Vulture of the Dinosaurs.  These Compy's were the scavengers
+that ate the leftovers of the other dinosaurs.  Their scientific name 
+is Procompsognathids.
+~
+24716 0 0 W3
+40 47 -7 7d5+2000 4d7+20
+3500 25000
+8 8 2
+13 0 13 13 13 13 0
+0 1 0
+-70 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#23708
+stegosaur dino stego~
+Stegosaur~
+An innocent looking Stegosaur is here munching on the foliage.
+~
+The Stegosaur is a stupid looking creature.  It's head is very small
+compared to the rest of its body.  Then you look to its tail and
+realize that this animal can defend itself against the best of them.
+~
+8456 4 50 W3
+103 46 -25 10d10+3500 7d8+40
+30000 40000
+8 8 0
+18 0 13 13 13 13 0
+0 5 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#23709
+raptor~
+a Raptor~
+A Raptor is here ready to attack from the side.
+~
+This Raptor is not as big as the one that it serves, but just as
+deadly.  They attack from the sides, using decoys to get your
+attention.  Before you realize what is happening, your stomach
+is slashed open and your entrails are lying on the jungle floor
+~
+26667 787752 0 W3
+100 61 -20 25d25+10000 15d15+20
+50000 300000
+8 8 0
+16 0 18 16 18 18 0
+19 5 0
+-200 0 6 0 0 60
+10 10 10 10 10
+0 0 0
+6 10
+~
+#23710
+dr. alan grant~
+Dr. Alan Grant~
+Dr. Alan Grant is here trying to find the way off this island.
+~
+A man of medium height and and medium build.  He has an air to
+him of extreme intelligence.  You must remember that he is one
+of the top men in paleantology.
+~
+286797 131208 1000 W3
+127 59 -5 25d25+7000 15d15+15
+10000 200000
+8 8 1
+18 0 18 18 13 13 0
+19 2 2
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#23711
+ian malcolm~
+Ian Malcolm~
+Ian Malcolm is here babbling about the chaos theory.
+~
+Ian Malcolm is a middle aged man who is at the top of his field.
+He talks constantly about the chaos theory and math.  He's dressed
+in all black, his favorite color.  He seems to be a very strange
+man.
+~
+288841 65664 0 W3
+127 56 -2 25d25+6000 15d15+15
+10000 200000
+8 8 1
+13 0 18 18 17 13 0
+10 2 0
+-20 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#23712
+lex~
+Lex~
+Lex is here talking about computers.
+~
+Lex is about 13 years old.  She is a computer hacker and loves
+to spend time on computers.  She's pretty cute for a 13 year old. 
+Lex is very afraid of the "monsters".
+~
+26825 128 350 W3
+111 35 -1 35d35+4000 10d10+10
+10000 100000
+8 8 2
+13 0 18 13 18 13 0
+19 2 0
+-10 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#23713
+timmy~
+Timmy~
+Timmy is here talking your ears off about dinosaurs.
+~
+Timmy is a little younger than his sister Lex.  Timmy knows
+everything about dinosaurs because he reads every book written
+about dinosaurs.  He looks a little out of whack right now,
+mainly because he touched the electric fence.
+~
+26825 128 400 W3
+127 48 -3 25d10+4000 12d14+10
+20000 100000
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+-30 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#23714
+donald gennaro~
+Donald Gennaro~
+Donald Gennaro is here looking very afraid!
+~
+Robert Gennaro is a middle-aged man and is a top-knotch lawer.
+His only problem is that he is afraid of almost anything.  You 
+notice that he is balding a bit and almost feel sorry for him.
+~
+26825 128 400 W3
+127 50 -1 25d10+5000 13d10+20
+30000 80000
+8 8 1
+15 0 17 17 15 16 0
+19 2 0
+-10 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#23715
+robert muldoon~
+Robert Muldoon~
+Robert Muldoon is hunting escaped Raptors!
+~
+A man that knows animals.  He was head game warden at many large
+African Safaris.  Now he is the Head Warden of Jurassic Park!
+He's a middle aged man that is well built.  He is well trained
+in all sorts of weapons.  This man knows how to tame wild
+animals!
+~
+27977 16778408 1000 W3
+127 58 -15 15d10+8000 10d10+50
+50000 600000
+8 8 1
+18 0 15 18 18 18 0
+20 2 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

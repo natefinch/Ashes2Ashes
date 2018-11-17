@@ -1,0 +1,218 @@
+#10600
+black pawn~
+a Pawn of the Black Court~
+You see a pawn standing here waiting for orders.
+~
+The Pawn, wearing the colors of the Black court, looks tired and overworked.
+~
+202 0 -400 W
+12 5 -1 2d8+60 2d4+0
+100 5175
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#10601
+white pawn~
+a Pawn of the White Court~
+You see a pawn standing here waiting for orders.
+~
+The Pawn, wearing the colors of the Black court, looks tired and overworked.
+~
+202 0 400 W
+12 5 -1 2d8+60 2d4+0
+100 5175
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#10602
+black knight~
+the Black Knight~
+Here stands a magnificent knight of the dark realm.
+~
+You see a magnificently attired horseman, his long, piercing lance held in
+one hand.  Behind his mask you see only a pair of dimly glowing eyes.
+~
+106 0 -400 W
+18 18 1 2d8+197 2d8+10
+2000 15450
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 10
+#10603
+white knight~
+the White Knight~
+Here stands a magnificent knight of the light realm.
+~
+You see a magnificently attired horseman, his long, piercing lance held in
+one hand.  Behind his mask you see only a pair of brightly glowing eyes.
+~
+106 0 400 W
+15 18 1 2d8+197 2d8+10
+2000 15450
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+#10604
+black bishop~
+the Black Bishop~
+The Bishop of Darkness stands here.
+~
+Dressed in a traditional priests robe, this Bishop of the Black Court hardly
+looks inviting.  His face holds an expression of pure and unadulterated evil.
+~
+78 0 -400 W
+25 20 -1 2d8+350 4d5+10
+10000 26925
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#10605
+white bishop~
+the White Bishop~
+The Bishop of Light stands here.
+~
+Dressed in a flowing white priests robe, this Bishop of the White Court looks
+friendly enough, but caution would still be recommended.
+~
+78 0 400 W
+19 20 -4 2d8+350 4d5+10
+10000 26925
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#10606
+black rook~
+the Black Rook~
+In the corner you see a large, black, stone castle on wheels.
+~
+You see a single tower of black stone standing before you.  You can see no
+face, and can detect no emotion.  It might be a good idea to tred lightly.
+~
+74 0 -400 W
+22 18 -1 8d6+500 4d8+6
+15000 39600
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#10607
+white rook~
+the White Rook~
+In the corner you see a large, white, stone castle on wheels.
+~
+You see a single tower of white stone standing before you.  You can see no
+face, and can detect no emotion.  It might be a good idea to tred lightly.
+~
+74 0 400 W
+22 18 -1 8d6+500 4d8+6
+15000 39600
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#10608
+black queen blackqueen~
+the Black Queen~
+The Black Queen stands here.
+~
+You see before you a pure specimen of evil.  Her hair, raven-black, flows
+freely about her shoulders.
+~
+106 128 -500 W
+27 20 -5 10d6+600 4d6+4
+20000 95250
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 10
+#10609
+white queen whitequeen~
+the White Queen~
+The White Queen stands here.
+~
+You see before you a symbol of goodness and kindness.  Her long golden hair
+flows down almost to the floor.  She smiles at you, and you suddenly
+understand how she captured the heart of the White King.
+~
+106 128 500 W
+27 20 -5 10d6+600 4d6+4
+20000 95250
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 10
+#10610
+white king whiteking~
+the White King~
+The White King stands here.
+~
+You see before you a man of extreme power and authority.  As his gaze descends
+upon you, a chill runs down your spine.  You wonder if you might have 
+ventured into a realm that could possibly end in your demise.
+~
+106 128 600 W
+31 20 -5 10d6+900 4d8+5
+25000 140250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 6 0 0
+20 20 20 20 20
+0 0 0
+6 10
+#10611
+black king blackking~
+the Black King~
+The Black King stands here.
+~
+You see before you a man of extreme power and authority.  As his gaze descends
+upon you, a chill runs down your spine.  You wonder if you might have 
+ventured into a realm that could possibly end in your demise.
+~
+106 128 -600 W
+31 20 -5 10d6+900 4d8+5
+25000 140250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 6 0 0
+20 20 20 20 20
+0 0 0
+6 10
+$

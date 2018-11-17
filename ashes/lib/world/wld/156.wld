@@ -1,0 +1,1557 @@
+#15600
+Vall's Hideout.....until he gets a 12xx room..~
+You have stumbled upon an old run-down shack of sorts.
+Papers with strange writings on them (C, Pascal, FORTRAN, APL, ..)
+are scattered throughout the room.  Against on wall is a desk with
+a dusty computer on top.  On the wall is a sign which simply
+reads: Vall.
+~
+156 528 0
+0d0+0 0 0
+D0
+A gateway leads to the IMM room.
+~
+gateway~
+1 -1 1204
+D1
+A portal leads to the Temple of Midgaard.
+~
+portal~
+1 -1 3001
+D5
+A slide leading to a cliff face.
+~
+slide~
+2 15615 15699
+E
+computer comp screen keyboard~
+Lying on the desk under a pile of dust is a Packard Bell 486SX.
+(as soon as I can scrape up some money...I'll overdrive it)..:P
+~
+E
+desk desktop drawers~
+An old wooden desk with no drawers or anything.  Just a slab of wood.
+~
+E
+sign~
+A sign that reads: Vall.
+~
+S
+#15601
+Cliff Face~
+A barren, rock faced cliff looms above you and stretches high into 
+the air.  Gusts of wind sting your face as you notice a small ladder
+leading up the side of the mountain.
+~
+156 0 5
+0d0+0 0 0
+D3
+An intersection lies to the west.
+~
+~
+0 -1 15694
+D4
+A ladder leads up the cliff.
+~
+ladder~
+0 -1 15602
+E
+sign~
+A sign points up and reads: Newbie Plateau
+~
+E
+ladder~
+A ladder leads up
+~
+S
+#15602
+Beginning of the Plateau.~
+Thie wind dies completely here and you are left with filled with
+a feeling of peace and tranquility.  Butterflies and bumblebees dance
+mystically in and about the wide variety of plantlife growing on
+this plateau.  Off in the distance, beyond the cliff, you can discern
+the city of midgaard.
+~
+156 16 2
+0d0+0 0 0
+D0
+An open field.
+~
+~
+0 -1 15605
+D1
+An open field.
+~
+~
+0 -1 15604
+D3
+An open field.
+~
+~
+0 -1 15603
+D5
+A ladder leads down towards home.
+~
+ladder~
+0 -1 15601
+E
+flowers~
+There is a wide variety of plants stretching out as far as you
+can see, most of which are flowers.
+~
+E
+city midgaard~
+You can just make out the city in the distance.
+~
+S
+#15603
+An open field.~
+A field stretches out before you and meets the sky at a great
+distance. The land here is quite flat and the underbrush is 
+populated by various prairie creatures.  A wooded area can be seen
+to the west.
+~
+156 0 2
+0d0+0 0 0
+D0
+You see sunflowers towards the north.
+~
+~
+0 -1 15689
+D1
+The beginning of the plateau.
+~
+~
+0 -1 15602
+D3
+You see a group of trees to the west.
+~
+~
+0 -1 15692
+E
+horizon~
+In the distance, the ground and sky meet at the horizon.
+~
+S
+#15604
+An open field.~
+A field stretches out before you and meets the sky at a great
+distance.  The lands here is quite flat and the underbrush is 
+populated by various prairie creatures.
+~
+156 0 2
+0d0+0 0 0
+D0
+An open field.
+~
+~
+0 -1 15606
+D1
+The field continues to the east.
+~
+~
+0 -1 15693
+D3
+The beginning of the plateau.
+~
+~
+0 -1 15602
+E
+horizon~
+In the distance, the ground and sky meet at the horizon.
+~
+S
+#15605
+An open field.~
+A field stretches out before you and meets the sky at a great
+distance. The land here is quite flat and the underbrush is 
+populated by various prairie creatures.  You evidence that
+somebody has camped here recently as there are signs of a camp
+and campfire.  A pleasant scent filters from the north.
+~
+156 0 2
+0d0+0 0 0
+D0
+You see a multitude of flowers towards the north.
+~
+~
+0 -1 15610
+D1
+An open field.
+~
+~
+0 -1 15606
+D2
+The beginning of the plateau.
+~
+~
+0 -1 15602
+D3
+An open field.
+~
+~
+0 -1 15689
+E
+horizon~
+In the distance, the ground and sky meet at the horizon.
+~
+E
+camp campfire fire~
+A circle of stones surrounds a blackened area where a
+fire recently roared.
+~
+S
+#15606
+An open field.~
+A field stretches out before you and meets the sky at a great
+distance.  The lands here is quite flat and the underbrush is 
+populated by various prairie creatures.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15609
+D1
+You see more of the field towards the east.
+~
+~
+0 -1 15607
+D2
+An open field.
+~
+~
+0 -1 15604
+D3
+An open field.
+~
+~
+0 -1 15605
+E
+horizon~
+In the distance, the ground and sky meet at the horizon.
+~
+S
+#15607
+Windswept field.~
+The wind stings your face for a moment and then subsides
+to become a slight breeze which tickles your neck.  Small
+animals scurry around and search for food and shelter.
+~
+156 0 2
+0d0+0 0 0
+D0
+You see a large tree in the distance.
+~
+~
+0 -1 15608
+D1
+You see the edge of the plateau towards the east.
+~
+~
+0 -1 15690
+D2
+The field continues to the south
+~
+~
+0 -1 15693
+D3
+An open field.
+~
+~
+0 -1 15606
+S
+#15608
+Willow on the plateau.~
+There is a steady breeze that blows through an aged willow
+tree which stands solitaire upon this vast plateau.  The tree
+seems to be a gathering place for the various creatures of
+this plateau.  It stands relentlessly against the passage of
+time and provides many of the creatures gathered here with a 
+sense of security.
+~
+156 0 2
+0d0+0 0 0
+D1
+Saplings grow towards the east.
+~
+~
+0 -1 15684
+D2
+You see an expanse of fields towards the south.
+~
+~
+0 -1 15607
+D3
+More open field to the west.
+~
+~
+0 -1 15609
+D4
+~
+~
+0 -1 15625
+E
+willow tree~
+The tree is a sign of stability in an otherwise changing world.
+Animals wander in and around the large tree and eye you with
+curiousity.
+~
+S
+#15609
+Field.~
+The field topped plateau continues here with the underbrush
+getting slightly higher.  As a result the animals which
+wander here are more concerned with their safety as predators
+are harder to avoid.  The air is sweetly scented towards the
+west.
+~
+156 0 2
+0d0+0 0 0
+D1
+More field.
+~
+~
+0 -1 15608
+D2
+More fields.
+~
+~
+0 -1 15606
+D3
+You smell something sweet from the west.
+~
+~
+0 -1 15610
+E
+underbrush brush weeds~
+The underbrush allows some animals a better defense against would
+be predators.
+~
+S
+#15610
+Flowers in the field.~
+As you come upon this drastically different part of the field,
+you notice a sweetness hovering in the air.  The birds and other
+animals roaming throughout this flowery field seem to be engulfed
+in a sort of jovial atmosphere.
+~
+156 0 2
+0d0+0 0 0
+D1
+More field.
+~
+~
+0 -1 15609
+D2
+The field continues to the south.
+~
+~
+0 -1 15605
+D3
+~
+~
+0 -1 15611
+E
+flower flowers~
+The flowers here dance brilliantly and almost force you to
+think of happier times.
+~
+S
+#15611
+Entrance to Prairie~
+The plant life starts to thin out as you come upon a
+prairie full of small mammals running this way and that.
+The ground is amazingly flat here and the brownish color
+of the plantlife indicates a lack of rainfall.
+~
+156 0 2
+0d0+0 0 0
+D0
+The prairie continues to the north.
+~
+~
+0 -1 15628
+D1
+~
+~
+0 -1 15610
+D2
+~
+~
+0 -1 15613
+D3
+~
+~
+0 -1 15612
+S
+#15612
+Prairie~
+The prairie continues to stretch off in all directions and you
+observe the many birds flying overhead.  Some have landed
+in search for food.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15619
+D1
+~
+~
+0 -1 15611
+D2
+~
+~
+0 -1 15614
+D3
+~
+~
+0 -1 15617
+E
+birds bird~
+Birds fly overhead and search for food.
+~
+S
+#15613
+Prairie~
+The prairie continues to stretch off in all directions and you
+observe the many birds flying overhead.  Some have landed
+in search for food.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15611
+D1
+You see a mound of brush to the east.
+~
+~
+0 -1 15688
+D2
+You see sunflowers to the south.
+~
+~
+0 -1 15689
+D3
+~
+~
+0 -1 15614
+E
+birds bird~
+Birds fly overhead and search for food.
+~
+S
+#15614
+Prairie~
+The prairie continues to stretch off in all directions and you
+observe the many birds flying overhead.  Some have landed
+in search for food.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15612
+D1
+~
+~
+0 -1 15613
+D3
+~
+~
+0 -1 15615
+E
+birds bird~
+Birds fly overhead and search for food.
+~
+S
+#15615
+Entrance to abandoned hut.~
+You stand before an old, abandoned hut.  The holes scattered
+throughout the thatch roof indicate that it has been years
+and years since somebody(or something) has inhabited it.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15617
+D1
+~
+~
+0 -1 15614
+D3
+~
+~
+0 -1 15616
+E
+roof thatch~
+The thatch looks as if it had been burned long ago.
+~
+E
+hut~
+The old hut seems like it has been here for ages.
+~
+S
+#15616
+Abandoned Hut~
+You find yourself squinting to see inside this old abandoned
+hut.  A table is tipped over in the corner and the chairs that
+accompanied it are all but in pieces.  Other than the smell of
+the rotting floorboards, there is not much else of interest
+in this deserted hut.  It does, however, seem safe to rest here.
+~
+156 4 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 15615
+D5
+A trapdoor leads down into darkness.
+~
+trapdoor~
+1 -1 15640
+E
+table~
+A destroyed table lies in the corner.  It has something resembling scratches
+etched on it's surface.
+~
+E
+chair chairs~
+The chairs hardly resemble anything of which you would normally
+associate a chair as being.
+~
+E
+floor floorboard board~
+Searching the floor reveals a trapdoor.
+~
+S
+#15617
+Prairie~
+The prairie continues to stretch off in all directions and you
+observe the many birds flying overhead.  Some have landed
+in search for food.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15618
+D1
+~
+~
+0 -1 15612
+D2
+~
+~
+0 -1 15615
+D3
+~
+~
+0 -1 15620
+E
+birds bird~
+Birds fly overhead and search for food.
+~
+S
+#15618
+Scorched Prairie~
+This part of the prairie has been scorched by something LARGE.
+The burnt plantlife looks to have been burnt recently, as 
+you can still smell the carbon hanging in the air.
+~
+156 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 15619
+D2
+~
+~
+0 -1 15617
+D3
+You see a dying prairie to the west.
+~
+~
+0 -1 15621
+S
+#15619
+Prairie~
+The prairie continues to stretch off in all directions and you
+observe the many birds flying overhead.  Some have landed
+in search for food.
+~
+156 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 15628
+D2
+~
+~
+0 -1 15612
+D3
+~
+~
+0 -1 15618
+E
+birds bird~
+Birds fly overhead and search for food.
+~
+S
+#15620
+Prairie of death~
+The look and feel of this part of the prairie is of decadence.  A
+stillness has seemingly swallowed up this entire area as you
+stare at the desolation.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15621
+D1
+~
+~
+0 -1 15617
+S
+#15621
+Prairie of death~
+The look and feel of this part of the prairie is of decadence.  A
+stillness has seemingly swallowed up this entire area as you
+stare at the desolation.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15622
+D1
+You see a large burn mark in the prairie to the east.
+~
+~
+0 -1 15618
+D2
+~
+~
+0 -1 15620
+S
+#15622
+Prairie of death~
+The general feel of this part of the prairie is unnerving.  You can 
+pinpoint why, but it seems as if you are being watched.  The edge of
+the plateau lies to the west here overlooking a road directly below.
+You can also just make out the city of midgaard in the distance.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15623
+D2
+~
+~
+0 -1 15621
+S
+#15623
+Prairie of death~
+You have come to a dead end.  The prairie is encapsuled by stone
+walls that jut up out of the ground and disappear into the sky.
+The peculiarly smooth surface of the rock face makes it impossible
+to climb up.  Dead animals litter the ground here and the smell of
+death is nearly overcoming.  A strong smell of carbon eminates from
+the slick stone walls.
+The only exit is back the way you came from.
+~
+156 1 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 15622
+S
+#15625
+Up the Willow Tree~
+You find yourself among the branches of a giant willow tree.
+From here you can see across the whole of the plateau.  You spot
+a small building far to the southwest and more jagged cliffs to 
+the northwest.  The wind feels refreshing up here as it blows
+through your hair.
+~
+156 4 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 15626
+D5
+~
+~
+0 -1 15608
+S
+#15626
+Out on a Limb~
+You have made your way out onto a thick branch of the willow
+tree.  You dare not go out any farther else you fall out of the
+tree and break your neck.
+~
+156 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 15625
+S
+#15628
+Prairie Trees~
+You have stumbled upon a grove of trees that nearly encircle 
+you.  There is no exit north or south, but you think you could
+move some of the branches to the east out of the way to 
+allow you passage in that direction.  You can also return to the
+prairie to the west.
+~
+156 0 0
+0d0+0 0 0
+D1
+The flatlands lie to the east.
+~
+~
+0 -1 15633
+D2
+The entrance to the prairie is to the south.
+~
+~
+0 -1 15611
+D3
+~
+~
+0 -1 15619
+E
+tree trees grove~
+The trees seem to have eyes and their branches hang low to the ground.
+~
+S
+#15631
+Dead tree in the Flatlands~
+Dry, cracked earth stretches towards the south and east.  Hardly
+any plantlife grows here as the ground is just too infertile.  A lone
+withered tree stands here, struggling to survive.
+~
+156 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 15636
+D2
+~
+~
+0 -1 15632
+S
+#15632
+Flatland~
+Dry, cracked earth stretches out as far as you can see.  Small
+animals wander around here looking for shelter and food.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15631
+D1
+~
+~
+0 -1 15635
+D2
+~
+~
+0 -1 15633
+S
+#15633
+Flatlands~
+You are in a vast flatland area.  The ground is cracked from the 
+dryness and you can see for miles towards the north and east.
+Tree branches hang low towards the west and south, but you
+think you could move the western branches out of the way to 
+allow you passage in that direction.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15632
+D1
+~
+~
+0 -1 15634
+D3
+The prairie lies to the west.
+~
+~
+0 -1 15628
+S
+#15634
+Flatland~
+Dry, cracked earth stretches out as far as you can see.  Small
+animals wander around here looking for shelter and food.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15635
+D1
+~
+~
+0 -1 15639
+D3
+~
+~
+0 -1 15633
+D4
+Stone stairs lead up a bridge.
+~
+~
+0 -1 15687
+S
+#15635
+Dried up pond~
+You stumble upon what seems to be a dried up pond.  The blazing sun
+that dominates the skies above these flatlands has cracked the
+now dark brown bottom of the dried up pond.  You notice a bridge that
+arches overhead is gradually deteriorating.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15636
+D1
+~
+~
+0 -1 15638
+D2
+~
+~
+0 -1 15634
+D3
+~
+~
+0 -1 15632
+S
+#15636
+Flatland~
+Dry, cracked earth stretches out as far as you can see.  Small
+animals wander around here looking for shelter and food.
+~
+156 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 15637
+D2
+~
+~
+0 -1 15635
+D3
+~
+~
+0 -1 15631
+D4
+Stone stairs lead up an aged stone bridge.
+~
+~
+0 -1 15685
+S
+#15637
+Flatland~
+Dry, cracked earth stretches out as far as you can see.  Small
+animals wander around here looking for shelter and food.
+~
+156 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 15638
+D3
+~
+~
+0 -1 15636
+S
+#15638
+Flatland~
+Dry, cracked earth stretches out as far as you can see.  Small
+animals wander around here looking for shelter and food.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15637
+D2
+~
+~
+0 -1 15639
+D3
+~
+~
+0 -1 15635
+S
+#15639
+Flatland~
+Dry, cracked earth stretches out as far as you can see.  Small
+animals wander around here looking for shelter and food.
+~
+156 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 15638
+D3
+~
+~
+0 -1 15634
+S
+#15640
+Dark Pit~
+You have stumbled upon a darkened pit.  The air here is stagnant
+and you find it increasingly difficult to even breath.  There is a
+broken sign attached to one side of the pit.  Luckily there is a
+ladder leading out of the pit, back to the hut.
+~
+156 5 0
+0d0+0 0 0
+D4
+A trapdoor leads up.
+~
+trapdoor~
+1 -1 15616
+E
+sign~
+An old sign attached to the wall reads: BEWARE OF THE TUNNEL RUNNERS!!!
+~
+E
+ladder~
+A ladder leads up into the hut.
+~
+S
+#15641
+Beginning of Canal~
+You are wading through a canal that is just about up to your chest
+in depth.  The water has a murky brown texture and coloring to it which
+is far from the crystal-like qualities of the water in the pool to the
+south.  The wind here is non-existant, therefore there are no ripples
+on the surface of the water except those created by you.  The banks on
+either side of the canal are indeed too steep to climb up which forces
+you to chose north or south as your exits.
+~
+156 4 6
+0d0+0 0 0
+E
+water canal~
+The water has a brown stagnate quality to it.
+~
+E
+bank banks shore~
+The banks are too steep to climb up out of canal by.
+~
+S
+#15650
+Center Isle~
+You find yourself ashore in the middle of the large pond.  The island
+on which you stand is really just a mound of sand with sparse plantlife
+sprouting out of it.  There is an old sign staked into the ground here.
+~
+156 0 2
+0d0+0 0 0
+E
+sign~
+A sign simply reads: CENTER ISLE
+~
+S
+#15673
+Abrupt end of pleasant road~
+The cliff swings north and the road ends abruptly.  It seems almost
+as if the road runs directly into the cliff, but after searching
+the cliff you find nothing else abnormal about it.  The only direction
+to travel is south as the dense forest blocks passage east.
+~
+156 0 2
+0d0+0 0 0
+D2
+The road continues in this direction.
+~
+~
+0 -1 15674
+E
+cliff~
+The cliff blocks all passage north and there doesn't seem
+to be any way around it as the forest grows tight against it.
+~
+S
+#15674
+Along the pleasant road~
+The road continues north and south here.  The same features that
+accompany it elsewhere are apparent here as well.
+~
+156 0 2
+0d0+0 0 0
+D0
+You think you see a cliff intersecting the road to the north.
+~
+~
+0 -1 15673
+D2
+You see a fallen tree to the south.
+~
+~
+0 -1 15675
+S
+#15675
+Tree in the pleasant road~
+Across the middle of the road lies a tree that looks to have been
+recently chopped down.  A broken axe lies embedded in the trunk of
+the downfallen tree.  The forest continues on the eastern side of
+the road, while the cliff looms above you on the western side.
+~
+156 0 2
+0d0+0 0 0
+D0
+The road continues to the north.
+~
+~
+0 -1 15674
+D2
+A bend in the road towards the south
+~
+~
+0 -1 15676
+S
+#15676
+Bend in pleasant road~
+The road swings to the north here as the cliff has also turned in that
+direction. Trees grow so dense as to not allow passage south or east.
+~
+156 0 2
+0d0+0 0 0
+D0
+You see a downfallen tree north of here.
+~
+~
+0 -1 15675
+D3
+The road continues in this direction.
+~
+~
+0 -1 15677
+S
+#15677
+Along the southern pleasant road~
+The road is shadowed here by the large cliff to the north.  As you
+stare up at cliff you can just make out some trees growing on top of it.
+The road continues east or west from this point.
+~
+156 0 2
+0d0+0 0 0
+D1
+You see a bend in the road towards the east.
+~
+~
+0 -1 15676
+D3
+The road continues in this direction.
+~
+~
+0 -1 15678
+S
+#15678
+Southern pleasant road~
+The road here heads east and west.  A large cliff borders the road
+on the north side and dense forest lies to the south.
+~
+156 0 2
+0d0+0 0 0
+D1
+The road continues in this direction.
+~
+~
+0 -1 15677
+D3
+The road bends towards the west.
+~
+~
+0 -1 15679
+S
+#15679
+Turn in the pleasant road~
+Here the road swings east and heads off in that direction towards
+the horizon.  Small animal tracks can be seen in the light dust
+layer covering the road.  Wagon ruts are evident as well.
+~
+156 0 2
+0d0+0 0 0
+D0
+The road swings to the north.
+~
+~
+0 -1 15680
+D1
+The road continues to the east.
+~
+~
+0 -1 15678
+S
+#15680
+Along the pleasant road~
+Just south of an intersection with a small trail, this part of
+the pleasant road is quite dusty.  Wind whips here forcing you to cover
+your eyes slightly.  Dense forest grows on either side of the road here
+as well.
+~
+156 0 2
+0d0+0 0 0
+D0
+An intersection lies to the north.
+~
+~
+0 -1 15694
+D2
+You see a curve in the road to the south.
+~
+~
+0 -1 15679
+S
+#15681
+North end of pleasant road~
+You come to the end of the road.  The forest has completely blocked
+off all passage further in any direction but where you came from.
+The wind gently sways the very tops of the trees here.
+~
+156 0 0
+0d0+0 0 0
+D2
+The road continues to the south.
+~
+~
+0 -1 15682
+S
+#15682
+Dwindling road~
+You continue to follow the peaceful road, however it seems the
+farther you go, the more the forest encloses it.  Plantlife is
+starting to grow on the road here as well.  To the north you 
+see the end of the road.
+~
+156 0 2
+0d0+0 0 0
+D0
+The road seems to end towards the north.
+~
+~
+0 -1 15681
+D2
+The road continues to the south.
+~
+~
+0 -1 15683
+S
+#15683
+Along the pleasant road~
+You travel on a peaceful dirt road that has a few ruts from what 
+looks like wagon wheels.  On the west side of the road is a small 
+stream flowing with crystal clear water flowing into a small pool
+of clear water.  On the east side of the road a cliff rises high
+into the sky.  The road intersects a small trail south of here.
+~
+156 0 2
+0d0+0 0 0
+D0
+The road continues to the north.
+~
+~
+0 -1 15682
+D2
+You see an intersection to the south.
+~
+~
+0 -1 15694
+S
+#15684
+Saplings on the plateau~
+Here is a sign of nature's struggle for survival.  Numerous young tree
+saplings reach for the sky while the larger trees block most of the
+desperately needed sunlight.  Animals seem relaxed here and are content
+to bath in the trees' cover.
+~
+156 0 2
+0d0+0 0 0
+D2
+You see the edge of the plateau south.
+~
+~
+0 -1 15690
+D3
+You see a large willow to the west.
+~
+~
+0 -1 15608
+S
+#15685
+North end of the bridge~
+You have came upon the north end of a bridge which looks odd considering
+the surrounding landscape.  Strange markings have been scrawled on the
+stone railings.  The bridge continues to the south.
+~
+156 0 2
+0d0+0 0 0
+D2
+The center of the bridge lies to the south.
+~
+~
+0 -1 15686
+D5
+The north stairs lead down onto the flatlands.
+~
+~
+0 -1 15636
+S
+#15686
+The Flatland bridge~
+You arrive on an aged stone bridge that has been slowly withered away
+by blowing sand and other forces of natural decent.  Over the sides
+you can see a dried up pond of sorts.
+~
+156 0 0
+0d0+0 0 0
+D0
+The north end of the bridge lies to the north.
+~
+~
+0 -1 15685
+D2
+The south end of the bridge.
+~
+~
+0 -1 15687
+S
+#15687
+South end of the bridge~
+You find yourself on the south end of a aged stone bridge that
+arches over rather small lake that has dried up.  The hard stone rail
+that lines the east and west side of the bridge prevents passage in
+those directions.
+~
+156 0 2
+0d0+0 0 0
+D0
+The center of the bridge lies to the north.
+~
+~
+0 -1 15686
+D5
+Stairs leading down the bridge.
+~
+~
+0 -1 15634
+S
+#15688
+Under the brush~
+You have crawled under a mound of dense underbrush that is
+a sheltering place for many prairie creatures.  You are just able
+to stand up, but you are forced to hunch over.  The brush grows
+very dense around here and the only exit is back the way you entered.
+~
+156 0 2
+0d0+0 0 0
+D3
+Back to the prairie.
+~
+~
+0 -1 15613
+S
+#15689
+Sunflowers in the Fields~
+You come upon an area of the plateau that is completely dominated
+by large sunflowers.  Bumblebees and other insects dart about looking
+for the days food supply, while small animals scurry about in the
+underbrush.
+~
+156 0 2
+0d0+0 0 0
+D0
+The field continues north.
+~
+~
+0 -1 15613
+D1
+The field continues to the east.
+~
+~
+0 -1 15605
+D2
+The field continues to the south.
+~
+~
+0 -1 15603
+S
+#15690
+Along the edge~
+The edge of plateau continues here and prohibits you from travelling
+east. You notice the breeze has slighty increased here making the 
+grass sway more.  Over the cliff, you can see a road far below.
+~
+156 0 2
+0d0+0 0 0
+D0
+Saplings grow towards the north.
+~
+~
+0 -1 15684
+D2
+You can follow the edge of the cliff south.
+~
+~
+0 -1 15691
+D3
+The field continues to the west.
+~
+~
+0 -1 15607
+S
+#15691
+Edge of plateau~
+You come to the edge of ths field covered plateau.  As in so many
+other places up here, creatures are engulfed with their activities
+and seemingly do not take notice to your presence.  There is a very
+steep cliff to the east which you cannot journey down.
+~
+156 0 2
+0d0+0 0 0
+D0
+Th edge continues to the north.
+~
+~
+0 -1 15690
+D3
+The field continues to the west.
+~
+~
+0 -1 15693
+E
+cliff~
+The cliff is too steep for passage, but you can see a road
+far below.
+~
+S
+#15692
+Shaded Grove~
+You enter an area that is nearly completely covered by the shade of
+large oak trees.  The soft whisper of the leaves blowing in the wind
+is quite relaxing.  The density of the woods makes travel further into
+them impossible.
+~
+156 0 2
+0d0+0 0 0
+D1
+You see a field to the east.
+~
+~
+0 -1 15603
+S
+#15693
+Prosperous Field~
+You find yourself in the middle of a large field that supports a
+variety of life forms, from hundreds of tiny insects to larger field
+type animals ranging from mice to birds.  A wonderous array of flowers
+dot the countryside.
+~
+156 0 2
+0d0+0 0 0
+D0
+The field continues to the north.
+~
+~
+0 -1 15607
+D1
+You see the edge of the plateau to the east.
+~
+~
+0 -1 15691
+D3
+The field continues to the west.
+~
+~
+0 -1 15604
+E
+mice~
+Mice scitter along the ground here.
+~
+E
+flowers flower~
+Flowers of every color imaginable grow all around you.
+~
+S
+#15694
+Intersection of Newbie Trail and Peaceful Road~
+This is a junction of a peaceful road and a trail.  The road leads north
+and south, while the trail heads east and west.  You can see a large
+cliff off towards the east.  Small animals scurry around, oblivious
+to anything, or anybody.
+~
+156 0 2
+0d0+0 0 0
+D0
+The road continues to the north.
+~
+~
+0 -1 15683
+D1
+A cliff lies to the east.
+~
+~
+0 -1 15601
+D2
+The road continues south.
+~
+~
+0 -1 15680
+D3
+You see a grassy area towards the west.
+~
+~
+0 -1 15696
+S
+#15695
+Before the spring~
+The overall beauty of the scenery surrounding you is nearly breathtaking.
+Tall, ageless trees tower above you as the soft soothing sound of
+gurgling water can be heard from the crystal clear pool of water.  
+The sparkling water pool reflects your image vividly as you contemplate
+taking a drink from it.
+~
+156 0 2
+0d0+0 0 0
+D2
+A grassy expanse lies south of here.
+~
+~
+0 -1 15696
+E
+tree trees~
+Huge, ageless trees that have withstanded the test of time
+shade you from the heat of the day, and protect you from the cold
+of the night.
+~
+S
+#15696
+End of newbie trail~
+The trail widens here into a pleasant grassy field that is covered
+with lush green grass swaying gently in the breeze.  Towards the
+east, the trail intersects a road heading north and south.  Off to the
+north, gurgling water can be heard.
+~
+156 0 2
+0d0+0 0 0
+D0
+You see a shimmering pool of water to the north.
+~
+~
+0 -1 15695
+D1
+An intersection of sorts lies to the east.
+~
+~
+0 -1 15694
+D3
+The trail meanders off towards the west.
+~
+~
+0 -1 15697
+S
+#15697
+Trail towards Newbie Plateau~
+The trail is gradually getting wider and apparently more widely used, as
+the grass and weeds that grow within it are becoming more sparse.  In
+the distance, you can see the dark outline of a cliff face looming
+over the treetops.
+~
+156 0 2
+0d0+0 0 0
+D1
+The trail seems to widen and get brighter towards the east.
+~
+~
+0 -1 15696
+D3
+The trail narrows a bit towards the west.
+~
+~
+0 -1 15698
+S
+#15698
+Trail to Plateau~
+The path widens here into something that more closely resembles a trail.
+The breeze that meanders through the trees is refreshing, however it
+cannot hide the evidence of recent travellers that have also journeyed
+upon this trail.  The air surrounding you is crisp and clean.
+~
+156 0 2
+0d0+0 0 0
+D1
+The trail seemingly gets wider towards the east.
+~
+~
+0 -1 15697
+D3
+The trail turns into a path that heads off to the west.
+~
+~
+0 -1 15699
+S
+#15699
+Path to the Newbie Plateau~
+You find yourself on a small dirt trail that leads off towards a high
+cliff. The peaceful sounds of squirrels chittering and birds chirping
+is all that can be heard.  There is a sign with arrows pointing in
+two different directions just off the side of the trail.
+~
+156 4 2
+0d0+0 0 0
+D1
+The path seems to widen towards the east.
+~
+~
+0 -1 15698
+D3
+You see the dirt road which is north of Midgaard to your west.
+~
+~
+0 -1 3060
+E
+sign~
+A wooden sign reads:  <--------Midgaard  ||  Newbie Plateau-------->
+~
+S
+$

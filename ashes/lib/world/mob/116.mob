@@ -1,0 +1,116 @@
+#11600
+guard armed mental ward~
+the armed guard~
+The armed guard stands here guarding the doors the the mental ward.
+~
+This guard looks to be a bit on the dumb side.  Wonder if you can 
+outsmart him?
+~
+10 0 300 W3
+32 12 5 10d10+300 5d5+20
+3000 8000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+50 0 4 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#11601
+sarah connor woman~
+Sarah Connor~
+Sarah Connor is standing here.
+~
+She is a strong woman and is very smart. But she's a little nuts. Why else
+would she be here? She is very skilful. She could probly break out any time
+she wanted to.
+~
+272463 128 1000 W3
+127 75 -25 5d5+14000 10d9+50
+50000 500000
+8 8 2
+18 100 18 18 18 18 0
+20 2 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11602
+factory worker~
+a factory worker~
+A factory worker stands here nervously doing his job.
+~
+This person looks to be scared of their supervisor.  Wonder if you 
+could get them fired and have their job?
+~
+6216 8 1000 W3
+43 18 -15 20d10+200 4d4+12
+5 60000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-150 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11603
+Nurse R.N. hospital personel~
+a Nurse, who works at county hospital~
+A nurse is standing here waiting to take someones temperature.
+~
+This nurse looks like she doesn't take no for an answer when the Doctor 
+orders something.  She appears capable and knowledgeable in her field.
+~
+43272 129 1000 W3
+70 40 -2 5d5+2800 1d1+35
+5000 20000
+8 8 0
+13 0 13 13 13 13 0
+0 2 2
+-20 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#11604
+Dr. Doctor personel 0~
+a Doctor who practices at county hospital~
+A Doctor stands here look at his patients chart.
+~
+This Doctor looks  to be very in tune to his patients needs.  He looks
+like he has been here all night and he looks like he needs some sleep.
+~
+305417 129 100 W3
+127 65 -26 1d100+13000 10d10+70
+5000 100000
+8 8 0
+18 100 13 13 13 13 0
+18 2 2
+-260 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#11605
+patient~
+a Patient at the county hospital~
+A patient at the county hospital is sleeping here.
+~
+This patient is very tired and appears to need the sleep they are getting.
+Please be quiet and let them sleep.
+~
+43272 129 1000 W3
+41 25 -2 10d10+500 3d4+20
+5000 20000
+4 4 0
+13 0 13 13 13 13 0
+0 2 2
+-20 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+$

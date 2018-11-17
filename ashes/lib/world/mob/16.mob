@@ -1,0 +1,676 @@
+#1600
+firefly wood fire fly pile~
+the firefly~
+A pile of wood lit on fire flies around this area.
+~
+This looks exactly like a pile of wood lit on fire in the shape of what
+you know of as a fly.  It is flying around being rather annoying.
+~
+4194312 34603008 0 W3
+10 10 9 5d5+60 4d3+4
+0 10000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+90 0 2 0 0 0
+75 75 75 75 75
+1 2 0
+10 0
+~
+#1601
+cat winged hawk kittyhawk~
+the kittyhawk~
+A small-winged cat screeches and circles above you.
+~
+The wings are hawk-like, with brown feathers, and the tail matches the wings.
+But the head and legs are definitely that of the cat kingdom, and it has
+sharp white teeth and claws.
+~
+8 1048576 -50 W3
+14 10 2 1d20+100 1d10+4
+0 12000
+8 8 0
+13 0 13 13 18 13 0
+0 1 3
+20 8 4 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#1602
+book worm~
+the bookworm~
+There is a book here, inching its way along the ground.
+~
+Looking more closely at the book, you notice that it has a head similar to
+that of a worm...strange...
+~
+232 0 100 W3
+3 3 10 1d20+20 2d2+2
+0 1000
+8 8 0
+13 0 13 13 10 13 0
+0 1 0
+100 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 10
+~
+#1603
+dragon gap steamer stanley~
+the Gap Dragon~
+Stanley Steamer, the infamous Gap Dragon, drools hungrily as you enter.
+~
+This is the most enormous animal you have ever seen in your entire life. He
+dominates the area, his six mighty legs as thick as tree trunks, and tipped
+with claws that are fully six inches long. His fanged mouth is truly awful,
+and you quake in your boots as you contemplate his immensity. The steam
+gushing from his mouth is fully as hot as any fire you might encounter, and
+just as deadly. You'd better run away while you still can!
+~
+2122 1024 0 W3
+122 40 -14 1d100+10000 6d6+35
+139000 275000
+8 8 1
+18 100 15 13 13 13 0
+0 5 4
+-140 8 6 0 20 0
+10 10 10 10 10
+0 2 0
+6 0
+~
+#1604
+tree tangle huge terrible~
+a tangle tree~
+A huge and terrible tangle tree prepares to devour you!
+~
+This tree looks like nothing more than a huge weeping willow, with thick and
+flexible tentacular branches. The trunk opens into a huge mouth, with sap
+dripping from it like saliva. The whole effect is horrifying, and you feel
+as if you must run now, or be devoured!
+~
+24586 33792 0 W3
+40 22 -5 1d100+500 5d5+10
+22000 70000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-50 0 11 0 0 0
+10 10 10 10 10
+0 1 8
+1 11
+~
+#1605
+wiggle worm~
+a wiggle~
+A small, whitish worm "zzzap!"s its way ominously in your direction.
+~
+Wiggles are memebers of the vole family, the original tunneling creatures.
+They are tiny, nearly mindless, and live only to burrow their way through
+anything in their path...including you!
+~
+8 1064 0 W3
+20 40 -5 1d30+30 5d5+10
+0 18000
+8 8 0
+13 0 3 3 13 13 0
+0 0 0
+-50 4 1 0 0 0
+50 50 50 50 50
+0 0 0
+10 5
+~
+#1606
+dragon smoke large~
+a large smoker~
+A large dragon with black smoke belching from its mouth slavers at you.
+~
+This dragon is about average size, as dragons go. Some say that smoke dragons
+are even more dangerous than fire dragons, because that smoke can suffocate
+you very quickly. Also, the two are sometimes found together.
+~
+8 1024 0 W3
+30 7 2 1d50+400 3d4+15
+11100 51000
+8 8 0
+13 0 13 13 13 13 0
+0 4 4
+20 8 4 0 0 0
+25 25 25 25 25
+0 0 0
+3 0
+~
+#1607
+small fire flying dragon~
+a small firebreather~
+A small flying dragon puffs fire from its nostrils and swoops down on you.
+~
+This dragon is made for strafing runs, all of its muscle goes to either the
+wings or the chest. Speed and firepower are its specialties, as you are just
+about to discover...
+~
+8 1056 0 W3
+29 12 0 1d30+300 5d5+15
+2500 20000
+8 8 0
+13 0 13 13 13 13 0
+0 3 4
+0 8 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 10
+~
+#1608
+ram battering~
+a battering ram~
+There is a ram here trying to batter it way through a wall.
+~
+This sheep has small, curly horns and a curly pelt.  It seems to
+enjoy running into any obstacle in its path trying to crash through
+it.
+~
+8 8388608 0 W3
+29 17 6 1d50+450 6d5+15
+1000 23000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 10
+~
+#1609
+ogre huge ugly~
+an ogre~
+A huge and incredibly ugly ogre glowers at you stupidly.
+~
+Ogres from Xanth are about 12 feet tall and immensely strong. Their strength
+is directly proportional to their ugliness, and inversely proportional to
+their intelligence. This one looks VERY ugly and VERY stupid, so you'd
+better watch out...
+~
+8 0 -350 W3
+70 10 -2 1d100+600 5d5+15
+0 50000
+8 8 1
+25 0 3 3 13 18 0
+0 4 2
+-20 13 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#1610
+angel fish~
+the angelfish~
+A fish with a shiny halo over its head swims here.
+~
+This small fish glows lightly, a halo shines over its head and you could
+swear those fins look an awful lot like wings.  This is the strangest looking
+fish you've ever seen... perhaps it won't be for long though, this is Xanth
+after all.
+~
+8395 128 1000 W3
+12 5 8 10d12+20 4d4+4
+0 10000
+8 8 2
+13 0 13 13 13 13 0
+1 0 0
+80 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#1611
+ant lion~
+the ant-lion~
+An ant with the head of a lion is crawling around here.
+~
+This small insect has the body of an ant and the maned head of
+a lion.  It looks as though it could be a very powerful fighter,
+and the legs and jaws are strong enough and pointed enough to
+cause damage through armor.  There is also a stinger at the
+end of their abdomen.
+~
+73 0 -20 W3
+20 8 3 1d100+150 5d4+10
+758 15000
+8 8 0
+17 0 13 13 13 13 0
+20 2 0
+30 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#1612
+steer bum cow~
+a bum steer~
+A four-footed, cow type creature with hooves and horns is here.
+~
+This bum steer looks around wondering where all his cigarettes went,
+and when you ask where the North Village is, he points off to the
+south and asks "Got a smoke?  Come on man, just gimme a smoke, huh?"
+You shake your head at the obvious wrong answer to the question, and
+don't bother answering his question.
+~
+9 0 -100 W3
+35 9 -3 1d100+300 5d5+15
+6500 17500
+8 8 1
+16 0 13 13 13 13 0
+18 2 0
+-30 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1613
+cat nine tail creature~
+a cat-o'-nine-tails~
+A cat with nine long tails sits here cleaning itself.
+~
+As you look closer to this creature, you realize why you weren't
+sure if it was a normal cat.  It LOOKS like a normal cat, but it
+has nine tails where there should be only one.  It notices you 
+looking at it and hisses at you, putting it's ears back against 
+its head.
+~
+136 16777216 25 W3
+30 13 1 1d100+300 4d4+4
+1000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+10 2 18 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1614
+cat cactus~
+a cactus cat~
+There is a cat with a striped green and brown coat sitting here.
+~
+You look closer at the cat and notice that its "fur" is actually
+composed of needles instead of fur.  The ears are actually thorns
+that are large and stiff.  The claws of the cat area actually sharpened
+slicing blades of bone.  It blinks as you look at it.
+~
+10248 0 0 W3
+32 15 -5 1d100+300 5d3+10
+1250 14000
+8 8 2
+13 0 13 13 13 13 0
+0 1 0
+-50 11 4 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#1615
+fish devil~
+a devilfish~
+There is a reddish fish with horns glanceing around here.
+~
+You look closer at the fish and figure by it's color and it's 
+horns, it must be a Devilfish.  You think about everything you 
+know about the Devilfish and realize that it's probably looking
+for an angel fish to <censored> her.  The barbed tail on the
+back of the fish looks like a dangerous weapon.
+~
+106 0 -1000 W3
+10 5 5 20d5+20 4d4+4
+0 12500
+8 8 1
+13 0 13 13 13 13 0
+0 0 0
+50 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 10
+~
+#1616
+snake copper head~
+a copperhead~
+You see a gleam of metal and notice a copper-headed snake ready to strike.
+~
+You look closer at the snake and are almost blinded by the glare
+off from the snake's copper head.  As it opens it's mouth wide to 
+strike at you, you notice even it's fangs and tongue are copper...
+~
+9 0 -50 W3
+22 8 -4 1d100+200 5d3+10
+1750 11000
+8 8 2
+13 0 13 13 13 13 0
+6 1 0
+-40 0 2 0 0 0
+45 45 45 45 45
+0 0 0
+6 10
+~
+#1617
+deer fly~
+a deerfly~
+There is a four legged, antlered fly here.
+~
+As you look closer at this creature it lifts its head at looks at
+you with big, soulful, brown eyes.  You notice how soft the fur is 
+on they fly and think that it could be easy to kill, but then
+you notice the deadly hooves and think it might not be THAT easy
+to kill after all.
+~
+9 0 200 W3
+8 5 0 1d80+40 4d4+4
+0 7500
+8 8 0
+13 0 13 13 13 13 0
+19 2 3
+0 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#1618
+eagle bird double headed~
+a double-headed eagle~
+A golden eagle with two heads sits perched on a branch here.
+~
+As you look closer at the monster you notice that the wings glisten
+a goldish color.  The beaks are sharp and ready to kill if need be
+and the talons are sharp enough to rip through any armor like a can
+opener.
+~
+8200 32 100 W3
+70 17 -8 20d10+700 5d5+15
+15000 35000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-85 8 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1619
+dragon fly~
+a dragonfly~
+There is a very small dragon buzzing around your head.
+~
+This dragon looks like a miniature of it's large cousin.  It is
+a Dragonfly, you assume.  It preys on bugs and occasionally keeps
+a garden free of pests.  Basically, it's harmless, IF you don't
+annoy it.
+~
+8 0 0 W3
+20 9 -1 40d10+40 4d4+10
+40 25000
+8 8 1
+13 0 13 13 13 13 0
+0 0 4
+-10 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#1620
+phoenix bird~
+the Phoenix~
+There is a LARGE bird laying on a nest here.
+~
+As you look closer to this bird, you realize that it must
+be the mythical Phoenix.  The immortal bird that rises from
+he ashes of it's own corpse.  The beauty of the bird is amazing.
+The feathers on the wings look glossed over.  You would swear
+this was a statue, if it wasn't moving.
+~
+10 32 500 W3
+78 20 -12 10d34+3000 5d5+20
+50000 140000
+8 8 1
+18 100 13 13 13 13 0
+0 3 0
+-120 8 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1621
+giant invisible stinky~
+the Invisible Giant~
+You smell an enormous invisible giant, the stench is incredibly offal.
+~
+You can't see this giant, but you can't miss the smell.
+Plants are withering in the area as you watch, and bugs and 
+animals are dropping like flies. Your eyes are watering from the
+aroma and you are suffering from the urge to RUN!!!
+~
+2057 2 0 W3
+57 25 -5 1d100+1500 8d6+15
+23100 120000
+8 8 1
+18 100 13 13 13 13 0
+20 5 5
+-50 7 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1622
+rabbit bunny carnivorous fangs~
+the carnivorous rabbit~
+You see a cute little bunny here with blood dripping from its three-inch fangs.
+~
+This bunny looks innocent enough from a few feet away, but as you get closer,
+you notice that it has huge fangs, and is slavering at you hungrily. It must
+be a fabled carnivorous rabiit, very deadly to the incautious.
+~
+9 787456 -1000 W3
+22 35 0 1d20+99 1d50+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+6 0 3
+0 0 2 0 0 0
+45 45 45 45 45
+0 0 0
+6 10
+~
+#1623
+chimera lion dragon goat creature~
+the chimera~
+A creature with the heads of a lion, a goat, and a dragon lurks here.
+~
+The chimera is an ancient heraldic beast, very dangerous. It has three heads,
+a lion's head, a goat's heat, and a dragon's head. Its claws are also very
+dangerous, and the dragon's head can breathe fire. You are in for a tough
+fight, if you decide to stick around long enough.
+~
+8 1024 0 W3
+90 25 -4 5d30+800 5d5+20
+3200 65000
+8 8 0
+13 0 13 13 13 13 0
+0 3 4
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1624
+cowboy man horned bovine~
+a cowboy~
+A man with the head of a horned bovine gazes at you placidly.
+~
+Cowboys are peaceful herbivores, and ordinarily do not molest travelers.
+However, they will fight fiercely if provoked, or to defend their cowgirls.
+They are known to be pretty tough, and their horns are wickedly sharp. You
+would probably do well to leave this one be.
+~
+4194313 1024 750 W3
+20 14 5 1d100+200 7d3+10
+500 11000
+8 8 1
+16 0 13 13 5 16 0
+17 2 2
+50 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#1625
+nickel nickelpede pede insect~
+a nickelpede~
+A small, dangerous looking insect is here with picers about the size of a nickel.
+~
+This little creature is about 4 inches long with 500 legs and magical
+pincers that can gouge out circles of flesh called nickels.  It is
+made of a silvery metal, and doesn't look very dangerous by itself.
+However, this insect, which you have figured out is a nickelpede, never
+comes alone, no doubt there are more where it came from.  Together they
+can swarm over a centaur or any other powerful creature given a little
+time.  It would be best to go back before it's buddies come.
+~
+57385 0 0 W3
+10 10 -5 5d20+20 5d5+5
+5 10000
+8 8 0
+13 0 13 13 13 13 0
+6 0 0
+-50 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 10
+~
+#1626
+guardian keeper door~
+the guardian~
+The Good Magician's guardian and doorkeeper squints at you suspiciously.
+~
+This guardian is a normal-looking human, probably another person with a
+Question for the Magician. He doesn't appear particularly unfriendly, but
+he is not about to let you pass, either. Looks like you will just have
+to persuade him otherwise...
+~
+4194315 0 0 W3
+28 20 6 10d30+200 5d4+10
+1450 14500
+8 8 1
+13 0 13 13 13 13 0
+20 2 2
+60 0 4 0 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#1627
+dime pede dimepede insect~
+a dimepede~
+A small, dangerous looking insect is here with pincers about the size of a dime.
+~
+This little creature is about 3 inches long with 500 legs and magical
+pincers that can gouge out circles of flesh called dimes.  It is
+made of a silvery metal, and doesn't look very dangerous by itself.
+However, this insect, which you have figured out is a dimepede, never
+comes alone, no doubt there are more where it came from.  Together they
+can swarm over a centaur or any other powerful creature given a little
+time.  It would be best to go back before it's buddies come.
+Dimepede cut out pieces of flesh smaller than nickelpedes, but they
+hurt twice as much, so be careful or you'll be nickel and dimed to death.
+~
+57385 0 0 W3
+20 10 -2 10d20+20 5d5+10
+10 15000
+8 8 0
+13 0 13 13 13 13 0
+6 0 0
+-20 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 10
+~
+#1628
+quarter pede quarterpede insect~
+a quarterpede~
+A small, dangerous looking insect is here with dual pincers about the size of a quarter.
+~
+This little creature is about 6 inches long with 500 legs and magical
+pincers that can gouge out circles of flesh called quarters.  Quarterpedes
+are much more feared than either dimepedes or nickelpedes because they
+can gouge out two bits at a time, making them much more dangerous.
+Quarterpedes are about 5 times as big as nickelpedes and quite dangerous
+Looking at it, you can see it is probably about to attack you.
+~
+57385 0 0 W3
+30 15 -2 20d20+30 5d5+20
+25 20000
+8 8 0
+13 0 13 13 13 13 0
+6 0 0
+-20 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 10
+~
+#1629
+cat catapult animal~
+the catapult~
+A huge cat with a strange looking tail stares back at you and purrs.
+~
+This is the biggest cat you have ever seen.  It is about 10 feet tall at the
+shoulder and has a huge tail.  The tail ends in a strange cup shape.  As you
+walk closer the tail goes from being straight up in the air back to parallel
+to the ground with an audible *click*. The cat points to the sign.
+~
+7594010 40 0 W3
+0 -30 -100 0d0+30000 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 5 0
+-1000 0 0 0 200 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#1698
+ram steam big hydraulic~
+the hydraulic ram~
+A large male sheep with steam puffing from its ears lowers its head and charges!
+~
+This is a hydraulic ram, related to the battering ram, but bigger, stronger,
+and stupider, if possible. Hydraulic rams are usually ornery, and ready to
+bash their heads into anything they encounter. In this case, that's you.
+~
+8 1024 0 W3
+40 15 -2 1d100+300 5d5+20
+0 20000
+8 8 1
+18 100 3 3 13 13 0
+0 2 3
+-20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#1699
+perfect~
+Perfect 25th level mob~
+There is a mob here
+~
+This looks like your perfectly buffed 25th level mob.
+~
+8 0 0 W3
+25 25 -8 1d1+789 1d1+13
+0 9000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-80 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+$

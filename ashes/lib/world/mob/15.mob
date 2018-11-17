@@ -1,0 +1,473 @@
+#1500
+midknightstatue statue mstatue~
+Statue of Midknight~
+A statue of Midknight stands here before you.
+~
+Before you stands a tall man shrouded in shadow.  He wears a long hooded
+black cloak, and his face is hidden deep inside it.  There is an aura of
+power around him, as if everything here were under his complete control. In
+contrast to the darkness surrounding him, you see a small star shaped pendant
+hanging from around his neck, glowing gently.  Midknight's deep resonant
+voice emerges from the darkness, "I am the shadows of the moonlight.  I am
+the essence of your fantasies, your nightmares.  I am the night.... And I am
+watching."  His eyes flash, "Fear the Knight!"
+~
+325722 16778280 0 W3
+200 85 -29 10d100+19000 12d12+90
+54000 200000
+8 8 1
+18 100 18 18 21 18 0
+0 5 0
+-290 9 6 1000 20 0
+10 10 10 10 10
+0 0 63
+6 0
+
+~
+#1501
+sarnothstatue statue sstatue~
+Statue of Sarnoth~
+The statue of Sarnoth stands here among multicolored spheres of energy.
+~
+You see before you a statue of a tall mage in flowing robes. The face has
+a hawk-like quality to it. The eyes always seem to be looking at you, even
+though the statue doesn't move. The hands are carved in an intricate
+pattern, as if in the process of spell casting. Power trickles from the
+hands, making them warm to the touch. Runes carved in the robes pulse very
+slowly and faintly.
+
+~
+325706 168 1000 W3
+200 90 -34 1d100+14000 12d12+90
+52000 200000
+8 8 1
+18 100 18 18 21 13 0
+0 2 0
+-340 12 6 1000 20 0
+10 10 10 10 10
+0 0 34
+6 0
+~
+#1502
+statue guardian~
+Guardian Statue~
+A huge, twenty foot statue stands here, preventing further passage.
+~
+This statue is about twenty feet tall, made of solid granite.  Its face is
+literally blank, no features whatsoever.  In one huge hand it carries a huge
+sword, the other hand is stretched out, palm forward as if to bar passage to
+all.
+~
+321611 1192 500 W3
+127 80 -29 5d600+10000 10d10+70
+53000 150000
+8 8 0
+18 100 18 18 18 25 25
+18 3 0
+-290 13 6 600 25 0
+10 10 10 10 10
+0 0 18
+6 0
+~
+#1503
+statue guardian~
+Guardian Statue~
+A huge, twenty foot statue stands here, preventing further passage.
+~
+This statue is about twenty feet tall, made of solid granite.  Its face is
+literally blank, no features whatsoever.  In one huge hand it carries a huge
+sword, the other hand is stretched out, palm forward as if to bar passage to
+all.
+~
+321611 1192 500 W3
+127 80 -29 5d600+10000 10d10+70
+53000 150000
+8 8 0
+18 100 18 18 18 25 25
+18 3 0
+-290 13 6 600 25 0
+10 10 10 10 10
+0 0 18
+6 0
+~
+#1504
+statue teddystatue~
+Statue of Teddy~
+Teddy stands here ready to hug you to death.
+~
+Teddy is standing here look very huggly.  She seems nice enough.. but whats
+that looks she is giving you.  The feeling of alarm starts deep in your 
+stomach as you realize she is heading your way to hug you. BETTER RUN!!!!!
+~
+325707 16777384 1000 W3
+127 80 -29 1d100+15000 12d12+80
+54000 200000
+8 8 2
+18 100 18 18 21 18 0
+0 5 0
+-290 4 6 1000 20 0
+10 10 10 10 10
+0 0 17
+6 0
+~
+#1505
+statue guardian~
+Guardian Statue~
+A huge, twenty foot statue stands here, preventing further passage.
+~
+This statue is about twenty feet tall, made of solid granite.  Its face is
+literally blank, no features whatsoever.  In one huge hand it carries a huge
+sword, the other hand is stretched out, palm forward as if to bar passage to
+all.
+~
+321611 1192 500 W3
+127 80 -29 5d600+10000 10d10+70
+53000 150000
+8 8 0
+18 100 18 18 18 25 25
+18 3 0
+-290 13 6 600 25 0
+10 10 10 10 10
+0 0 18
+6 0
+~
+#1506
+statue guardian~
+Guardian Statue~
+A huge, twenty foot statue stands here, preventing further passage.
+~
+This statue is about twenty feet tall, made of solid granite.  Its face is
+literally blank, no features whatsoever.  In one huge hand it carries a huge
+sword, the other hand is stretched out, palm forward as if to bar passage to
+all.
+~
+321611 1192 500 W3
+200 89 -39 5d600+10000 32d7+110
+53000 150000
+8 8 0
+18 100 18 18 18 25 25
+18 5 0
+-390 13 8 600 25 0
+1 10 10 10 10
+0 0 18
+6 0
+~
+#1507
+statue cardinalstatue~
+a Statue of Cardinal~
+A statue of Cardinal stands here watching your every move.
+~
+~
+9 40 100 W3
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 9 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1508
+statue god~
+Statue of a God~
+The statue of a long forgotten god stands here in stoic silence.
+~
+This statue is tall and handsome.  It looks down at you with a kind of wisdom
+in its eyes, as if it could look right into your soul.  You turn away, trying
+to shake the queasy feeling.  It's only a statue after all... Isn't it?
+~
+11 40 100 W3
+127 84 -30 100d99+24000 12d12+80
+10000 308325
+8 8 0
+25 100 25 25 25 25 25
+15 2 2
+-300 7 8 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1509
+rayakin rayakinstatue~
+Statue of Rayakin~
+The statue of Rayakin stands here.
+~
+Before you is the statue of life and good.  Even though this is mere Immortal
+statue, the vibes of power that radiates off of him is uncontrollable. This
+tall man looks upon you, raises his hand, and a warm, gentle power
+replenishes your body.  Around his body you see the source of life.  Those
+who are evil should not cross his path, for if they do, death could be soon
+to follow.
+~
+9 40 100 W3
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+
+~
+#1510
+statue ccstatue~
+Statue of CC~
+The statue of CC is standing here.
+~
+In front of you is a ball of wires. The wires seem to cross in every
+direction but you see two bright red eyes in the near center that seems to be
+its eyes.  Occasionally you see some sparks flying about its body. Its eyes
+glare at you with a fearless tone and showing you it can die but will rise
+again every time you leave.
+~
+9 40 100 W3
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1511
+statue althorstatue~
+Statue of Althor~
+The statue of Althor is standing here.
+~
+
+~
+9 40 100 W3
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#1512
+statue god~
+Statue of a God~
+The statue of a long forgotten god stands here in stoic silence.
+~
+This statue is tall and handsome.  It looks down at you with a kind of wisdom
+in its eyes, as if it could look right into your soul.  You turn away, trying
+to shake the queasy feeling.  It's only a statue after all... Isn't it?
+~
+266251 168 400 W3
+127 86 -37 100d99+18000 28d8+80
+10000 308325
+8 8 0
+25 100 25 25 25 25 25
+18 5 2
+-370 7 8 300 0 0
+1 10 10 10 10
+0 0 0
+6 0
+~
+#1513
+statue god~
+Statue of a God~
+The statue of a long forgotten god stands here in stoic silence.
+~
+This statue is tall and handsome.  It looks down at you with a kind of wisdom
+in its eyes, as if it could look right into your soul.  You turn away, trying
+to shake the queasy feeling.  It's only a statue after all... Isn't it?
+~
+266251 168 400 W3
+127 86 -34 100d99+18000 12d12+80
+10000 308325
+8 8 0
+25 100 25 25 25 25 25
+15 5 2
+-340 7 8 300 0 0
+1 10 10 10 10
+0 0 0
+6 0
+~
+#1514
+prograven raven~
+a giant raven~
+Asita has called upon a giant raven to help her!
+~
+This is the largest raven you have ever seen.  It stands about 6 feet tall,
+with huge black wings and a fierce looking beak.  It is not something you
+want to tangle with.
+~
+22568 1052712 1000 W3
+127 74 -20 100d2+5000 15d10+50
+0 100000
+8 8 2
+13 0 13 13 13 13 13
+0 4 3
+-200 8 7 0 0 0
+20 20 20 20 20
+0 0 0
+6 13
+~
+#1515
+lapo egg eggshell~
+an Egg~
+This egg was created by lapo to help in his fight against evil!
+~
+~
+8386586 0 0 W3
+0 30 10 100d3+800 10d10+50
+0 1000
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 100 0
+100 100 100 100 100
+23 0 0
+6 1
+~
+#1516
+statue morphinestatue~
+Statue of Morphine~
+The statue of Morphine is here.
+~
+
+~
+9 40 100 W3
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1517
+statue meribahstatue~
+Statue of Meribah~
+The statue of Meribah is here.
+~
+
+~
+9 40 100 W3
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1518
+statue billybobstatue~
+Statue of Billybob~
+The statue of Billybob is here.
+~
+
+~
+9 40 100 W3
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1519
+statue eomerstatue~
+Statue of Eomer~
+The statue of Eomer is here.
+~
+
+~
+9 40 100 W3
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1520
+statue Asitastatue~
+Statue of Asita~
+A statue of Asita stands here.
+~
+Lady raven, fly.  Black wing's shadow fall over battle fields and bring the
+breath of Ashes.  See my black feathered cape in the night, moonless night.
+Know my wing's shadow falls not to hide, but to protect.
+~
+325707 1192 500 W3
+200 90 -34 5d600+19000 12d12+90
+53000 300000
+8 8 2
+18 100 18 18 25 18 25
+18 3 0
+-340 9 8 600 25 0
+1 10 10 10 10
+0 0 11
+6 0
+~
+#1521
+Hysteria statue hysteriastatue~
+Statue of Hysteria~
+A statue of Hysteria stands here taunting the heavens.
+~
+Constructed entirely of copper, the surface of the statue has corroded and
+turned a tarnished green color.  It must have taken a thousand years for
+anything to get that much corrosion on it but, considering the weather in
+here, maybe not.  The statue is posed looking straight up with its arms
+stretched towards the heavens.  A bright flash of lightning reveals a tattoo
+on its right hand, "LOVE".  Another crash of thunder reveals a tattoo on the
+left hand, "HATE".
+~
+391258 33960 -1000 W3
+200 88 -34 50d60+18000 16d12+80
+25000 50000
+8 8 1
+18 100 25 25 25 25 25
+0 5 2
+-340 12 8 100 0 0
+1 10 10 10 10
+0 0 17
+6 1
+
+~
+#1522
+guard night watchman~
+a museum guard~
+A night watchman is here keeping an eye on the treasures of the gods.
+~
+He takes his job very seriously.  He appears tired from his long shift of pacing
+the museum floors.  Eventhough his patience has worn thin towards the end of shift,
+he loves his job here among the tributes to the gods.  He carries a gun at his side
+and has had to use it from time to time.  His hat is tipped back and his jacket a
+bit too small.  He doesn't look all that alert, but he knows this museum like the
+back of his own hand.  If something is out of place he will know.
+~
+19904601 537138216 1000 W3
+130 70 10 0d0+8000 18d7+70
+25 1
+8 8 1
+18 40 16 16 20 15 9
+18 3 2
+100 12 7 235 100 100
+1 5 5 5 5
+17 0 46
+10 1
+~
+$

@@ -1,0 +1,510 @@
+#8500
+mystra power divine part great greater mystras~
+the Greater Part of Mystra's Divine Power (BURNING)~
+You can't bear to look at it....its power is too great!!~
+~
+8 10412363 8193 0
+0 0 0
+0 0 0 0
+0 1000000 0
+A
+13 5
+A
+10 30
+E
+mystra power divine part great greater mystras~
+This is a cache of power that Mystra entrusted to Elminster when the overgod,
+Ao, cast the gods from the planes and stripped them of their powers. The only
+mortal who was capable of holding her power while she was gone, Elminster
+knew better than to ever try to wield such might. But it's your call now. The
+power of a godess is a tempting treasure to leave unused.
+~
+#8501
+pipe elminster ~
+Elminster's pipe~
+A pipe hangs in the air, merrily smoking by itself....waiting~
+~
+1 10412097 16385 0
+0 0 0
+0 0 -1 0
+2 1000 0
+A
+10 25
+A
+7 10
+E
+pipe elminster~
+  This battered old pipe has seen a lot of use over the centuries. It rarely
+is far from Elminster, and he has brought it to the end of the earth and beyond.
+~
+#8502
+hat battered old elminster elminsters~
+Elminster's battered old hat~
+A wide brimmed, pointy hat, preferred by many mages, gathers dust here~
+~
+11 10412096 17 0
+0 0 0
+0 0 0 0
+1 1500 0
+A
+10 25
+A
+13 2
+E
+hat battered old elminster elminsters~
+This hat has definitely seen better days. Worn and wrinkled, the fabric of
+the hat has lost its stiffness, causing the brim to droop a little. The dye has
+also faded, leaving what was undoubtedly once a brilliant red, now a reddish
+brown hue. Despite its many flaws, it is quite comfortable...why else would
+Elminster keep it?
+~
+#8503
+really old scroll fly parchment~
+a really old parchment scroll~
+A piece of parchment lies on the ground, crumbling with age~
+You recite the ancient words of the scroll.~
+2 64 1 0
+0 0 0
+50 62 0 0
+1 0 0
+E
+scroll parchment~
+The scroll is covered in runes, most of which you can't understand. It seems
+as if this scroll is some ancient spell, long lost to the world.~
+#8504
+key~
+the key to Elminster's closet~
+A little key, worn with age, rests here.~
+~
+18 4 1 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+key~
+This little key goes to the closet where Elminster has locked all the
+spellbooks he has taken from fallen foes over the centuries.
+~
+#8505
+dress tattered black gown~
+a tattered black gown~
+An old gown lies here, in tatters~
+~
+11 966656 9 0
+0 0 0
+0 0 0 0
+2 1000 0
+A
+10 20
+A
+13 3
+#8506
+well water~
+the community well~
+There is a community well here, for all to use freely.~
+~
+23 0 0 0
+0 0 0
+2000 2000 0 0
+2000 0 0
+#8507
+enchanted sword long longsword blade~
+an enchanted longsword~
+A long, thin blade lies here, glowing faintly.~
+~
+5 8400896 8193 0
+0 0 0
+0 2 8 3
+4 0 0
+A
+17 2
+A
+18 2
+#8508
+sword short shortsword enchanted blade~
+an enchanted shortsword~
+A glowing shortsword lies here.~
+~
+5 8400896 8193 0
+0 0 0
+0 2 6 11
+3 1800 0
+A
+17 3
+A
+18 1
+#8509
+dagger nasty nastylooking enchanted blade~
+a nasty-looking enchanted dagger~
+A nasty-looking enchanted dagger lies here.~
+~
+5 0 24577 0
+0 0 0
+0 1 6 11
+2 1400 0
+A
+17 3
+#8550
+godsbane rosy hued short sword shortsword~
+a rosy-hued shortsword~
+ A rosy-hued shortsword lies here, growing pale.~
+~
+5 8829576 24577 0
+0 0 0
+0 8 2 11
+3 0 0
+#8551
+godsbane artifact~
+Godsbane~
+A rosy-hued shortsword lies here, begging to be fed...
+~
+~
+5 8829506 8193 0
+0 0 0
+0 12 2 11
+2 1000000 0
+A
+18 4
+A
+17 4
+E
+godsbane artifact~
+This shortsword has a healthy, rosy color to it. But as you watch it, you
+can see the color begin to fade...ever so slightly. Then you hear a feminine
+voice calling to you, "Feed me..." You realize that the sword is sentient,
+and that what it hungers for is blood. You shudder in horror, but cannot
+resist the mighty weapon's call.~
+#8552
+halo darkness evil aura~
+a Halo of Darkness~
+There is an almost tangible darkness here, cloaking everything in evil.~
+~
+1 428552 16385 0
+0 0 0
+6 0 -1 0
+0 100000 0
+A
+18 2
+A
+10 30
+E
+halo darkness evil aura~
+Fanciful tales, and priests' ravings tell of a halo of darkness that surrounds
+the avatar of the God of Strife, Murder, and Death. They are not merely
+tales, they are a manifestation of the god's awesome powers.~
+#8553
+ring wizardry~
+a Ring of Wizardry~
+A plain-looking ring lies here covered in dust~
+~
+11 311377 3 0
+0 0 0
+50 15 15 81
+1 20500 0
+A
+10 23
+A
+13 3
+#8554
+cloak black horned~
+a high-horned black cloak~
+A silken black cloak lies in a neatly folded bundle~
+~
+9 311360 1025 0
+0 0 0
+2 0 0 0
+6 15000 0
+A
+10 23
+A
+13 4
+#8555
+long wide sleeves sleeve ended stitched runes~
+long, wide-ended sleeves, stitched with runes of power~
+A pair of wide-ended sleeves, favored by most spell-casters, lies here,
+waiting to be sewn onto a robe.~
+~
+9 966720 257 0
+0 0 0
+2 0 0 0
+2 45000 0
+A
+10 26
+A
+13 3
+#8556
+bracers elslavement cyric silver~
+Bracers showing enslavement to Cyric~
+A pair of silver bracers lie on the ground.~
+~
+9 133776 4097 0
+0 0 0
+5 0 0 0
+3 10000 0
+A
+11 20
+A
+10 20
+E
+bracers elslavement cyric silver~
+   Bracers such as these are given to all priests of cyric from when they
+first become accolytes. For the rest of his life, the priest will never
+remove these bracers for any reason, and they cannot be removed by
+non-magical means (though Cyric would never grant a priest such spells
+to remove them). The bracers are worn to symbolize the priest's complete
+submission before Cyric's divine will.
+~
+#8557
+bracers elslavement cyric silver~
+Bracers showing enslavement to Cyric~
+A pair of silver bracers lie on the ground.~
+~
+9 133776 4097 0
+0 0 0
+5 0 0 0
+3 10000 0
+A
+10 10
+A
+11 10
+E
+bracers elslavement cyric silver~
+   Bracers such as these are given to all priests of cyric from when they
+first become accolytes. For the rest of his life, the priest will never
+remove these bracers for any reason, and they cannot be removed by
+non-magical means (though Cyric would never grant a priest such spells
+to remove them). The bracers are worn to symbolize the priest's complete
+submission before Cyric's divine will.
+~
+#8558
+black laquered plate armor~
+black laquered plate armor~
+A heavy suit of black plate armor is ready to be worn.~
+~
+9 9850880 9 0
+0 0 0
+13 0 0 0
+40 25000 0
+A
+10 30
+A
+11 25
+E
+black laquered plate armor~
+   This is Fzoul's personal ceremonial armor from when he was the high
+priest of Bane. After Cyric's ascension to godhood, he merely had
+black laquer cover over the holy symbol of Bane emblazoned on the
+front of the breastplate.
+~
+#8559
+belt pouch beltpouch beltpouches spell components~
+a belt with many pouches containing spell components~
+A belt with many pouches containing weird objects was left here...~
+~
+15 311360 2049 0
+0 0 0
+10 1 0 0
+4 30000 0
+A
+10 25
+A
+13 2
+#8560
+intact eyestalk eye~
+an intact eyestalk~
+An intact beholder's eyestalk is just sitting here...boy are those rare!~
+~
+5 966721 8193 0
+0 0 0
+0 4 6 12
+6 50000 0
+A
+17 2
+A
+13 2
+#8561
+intact eyestalk eye~
+an intact eyestalk~
+An intact eyestalk that has been formed into a charm is lying here.~
+~
+11 966721 5 0
+0 0 0
+0 6 5 8
+6 50000 0
+A
+10 25
+A
+13 3
+#8562
+desk oak ornate~
+an ornate oak desk~
+There is an ornate oak desk, covered with papers and scrolls.~
+~
+15 0 0 0
+0 0 0
+1000 13 8599 0
+300 10000 0
+E
+drawer~
+  The drawer seems to be well-used. The area around the lock is worn
+in a circular pattern--no doubt where the owner's fingers have rubbed
+up against it when turning the key.
+~
+E
+desk oak ornate~
+ This ornate oaken desk is apparently of very high value. It also seems
+to be well-used. The entire surface is covered in notes and scrolls, and
+the ink-well is half-empty. You notice that there is a locked drawer in
+the desk.
+~
+#8563
+desk oak ornate~
+an ornate oak desk~
+There is an ornate oak desk, covered with papers and scrolls.~
+~
+15 0 0 0
+0 0 0
+1000 13 8598 0
+300 10000 0
+E
+drawer~
+  The drawer seems to be well-used. The area around the lock is worn
+in a circular pattern--no doubt where the owner's fingers have rubbed
+up against it when turning the key.
+~
+E
+desk oak ornate~
+ This ornate oaken desk is apparently of very high value. It also seems
+to be well-used. The entire surface is covered in notes and scrolls, and
+the ink-well is half-empty. You notice that there is a locked drawer in
+the desk.
+~
+#8564
+desk oak ornate~
+an ornate oak desk~
+There is a large ornately carved oaken desk here.~
+~
+15 0 0 0
+0 0 0
+1000 13 8597 0
+300 10000 0
+E
+drawer~
+  The drawer seems to be well-used. The area around the lock is worn
+in a circular pattern--no doubt where the owner's fingers have rubbed
+up against it when turning the key.
+~
+E
+desk oak ornate~
+ This ornate oaken desk is apparently of very high value. It also seems
+to be well-used. The entire surface is covered in notes and scrolls, and
+the ink-well is half-empty. You notice that there is a locked drawer in
+the desk.
+~
+#8594
+spellbook book Semmemon's~
+Semmemon's spellbook~
+A heavy, leather-bound spellbook is lying here.~
+~
+8 0 1 0
+0 0 0
+0 0 0 0
+5 100000 0
+E
+spellbook book Semmemon's~
+  This spellbook is written completely backwards, as far as you can
+tell. While that makes it much more difficult to read, you can still
+understand the non-magical portions of the text. One passage of note
+is:
+The command word to Sarhthor's spell-wards -- rxudya
+The command word to Manshoon's spell-wards -- oodtj
+
+Most of the rest of the spellbook is gibberish and non-sense, so you
+decide to stop reading it.
+~
+#8595
+spellbook book manshoon's~
+one of Manshoon's spellbooks~
+A large spellbook is beckoning for you to learn it's dark secrets.~
+~
+8 64 1 0
+0 0 0
+0 0 0 0
+5 120000 0
+E
+spellbook book manshoon's~
+   You open the book and feel fortunate that no dark magic killed you
+instantly. The pages are covered in indecipherable runes and coded
+passages. Perhaps if you took a longer look at the code you might
+be able to make sense of it.
+~
+E
+code cipher~
+  After quite a while puzzling, you manage to figure out one of the
+passages:
+The command word to Sarhthor's spell-ward -- rxudya
+The command word to Semmemon's spell-ward -- ikdetk
+
+You decide that after finding out at least that much, you'd better
+close the spellbook before one of Manshoon's spell-traps _does_ go
+off.
+~
+#8596
+spellbook book journal Sarhthor's~
+Sarhthor's spellbook~
+A heavy, leather-bound spellbook lies here.~
+~
+8 64 1 0
+0 0 0
+0 0 0 0
+2 100000 0
+E
+spellbook book journal Sarhthor's~
+   The majority of the spellbook is encoded to prevent people from 
+learning the wizard's spells. One entry however, is readable:
+The command word to Semmemon's spell-wards -- ikdetk
+The command word to Manshoon's spell-wards -- oodtj
+~
+#8597
+key~
+a key~
+A little key lies here, unnoticed until you saw it.~
+~
+18 12 1 0
+0 0 0
+8564 0 0 0
+1 0 0
+E
+key~
+  This small the is the little, ineffective kind that are mainly used on
+desks and cabinets.
+~
+#8598
+key~
+a key~
+A little key lies here, unnoticed until you saw it.~
+~
+18 12 1 0
+0 0 0
+8563 0 0 0
+1 0 0
+E
+key~
+  This small the is the little, ineffective kind that are mainly used on
+desks and cabinets.
+~
+#8599
+key~
+a key~
+A little key lies here, unnoticed until you saw it.~
+~
+18 12 1 0
+0 0 0
+8562 0 0 0
+1 0 0
+E
+key~
+  This small the is the little, ineffective kind that are mainly used on
+desks and cabinets.
+~
+$

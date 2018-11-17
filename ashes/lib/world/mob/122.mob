@@ -1,0 +1,594 @@
+#12200
+guardian astral figure~
+the Astral Guardian~
+A solemn grey figure watches over the entrance to the Astral plane.
+~
+Before you is a vaguely humanoid figure, of a slate grey color and
+devoid of any true features. It stands before you with arms folded,
+face impassive, and with a seeming uninterest in the likes of you.
+~
+24651 168 0 W
+90 40 -11 5d5+8000 8d4+72
+270000 1000000
+8 8 0
+18 100 18 18 18 18 0
+20 3 0
+-110 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#12201
+nightmare mare horse~
+a pitch-black nightmare~
+A hideous nightmare creature glares at you with glowing amber eyes.
+~
+The nightmare is a wholly evil creature sent out by powerful demonic
+forces to torment the sleep of hapless mortals. It vaguely resembles
+a horse, with hide of deepest black and eyes a glowing amber color.
+~
+8297 265252 -700 W
+35 20 -3 1d100+730 5d5+25
+2500 93660
+8 8 2
+15 0 12 14 18 15 0
+19 3 0
+-30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#12202
+hag night~
+the evil night hag~
+A shadowy night hag drifts toward you, ready to steal your soul.
+~
+A shadowy creature with long talons and a leering grin hovers before
+you. Her soul purpose is to hunt down and slay mortals in order to
+obtain souls for her foul master to torment. Sunken sockets stare
+emptily at you.
+~
+10093 520 -1000 W
+40 20 4 10d10+1500 3d6+20
+20000 349875
+8 8 2
+14 0 14 15 16 12 0
+13 2 0
+40 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#12203
+stalker invisible~
+an invisible stalker~
+There is a wavy distortion in the space about you, and light seems to shift.
+~
+You see only a wavy distortion in the air.  You reach out to touch it, and
+feel nothing, not even the slightest of motions.
+~
+1353 263210 200 W
+24 30 2 5d20+500 2d6+10
+5000 66300
+8 8 0
+17 0 14 12 15 13 0
+17 2 0
+20 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#12204
+one soulless being~
+a Soulless One~
+A poor being wanders about mindlessly, it's soul long ago consumed.
+~
+This unfortunate being is without a soul, having had it torn mercilessly
+from it's body and devoured. It is now doomed to wander about the astral
+plane for eternity, without any awareness of it's own existence.
+~
+24713 1024 0 W
+15 20 4 5d10+120 2d5+5
+500 35000
+8 8 0
+13 0 13 13 13 13 0
+5 2 0
+40 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#12205
+githyanki gith patroller~
+a patrolling githyanki~
+A vengeful githyanki searches for signs of the hated githzerai.
+~
+You see an emaciated, leathery-skinned humanoid creature before you.
+He stands almost as tall as an ordinary man, and like all githyanki,
+possesses fanged teeth, and a reddish glow emanates from within
+sunken eyes. He has his long hair in jeweled braids and wears rags.
+~
+10349 512 -340 W
+21 14 2 2d50+320 4d6+5
+1200 61050
+8 8 1
+15 0 13 14 15 17 0
+20 2 2
+20 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 10
+#12206
+githyanki warrior gith~
+a githyanki warrior~
+A hideous githyanki clad in splint armor stands here.
+~
+You see a leathery-skinned humanoid creature that stands as tall as a normal
+man.  Like all githyanki, his teeth are fanged and his eyes hollow and sunken.
+He is clad in ornately designed splinted armor, and wields a sword that
+whistles through the air as it slices towards your neck.
+~
+8777 552 -500 W
+70 25 -3 5d15+1200 5d5+6
+2500 204600
+8 8 1
+18 0 13 13 14 15 0
+20 2 2
+-30 0 6 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#12207
+guardian githyanki gith~
+a githyanki guardian~
+A githyanki guardian stands here on the lookout for intruders like you!
+~
+You see a leathery-skinned humanoid creature that stands as tall as a normal
+man.  Like all githyanki, his teeth are fanged and his eyes hollow and sunken.
+He is clad in ornately designed splinted armor, and wields a sword that
+whistles through the air as it slices towards your neck.
+~
+8235 0 -600 W
+82 20 -4 10d10+1500 5d5+18
+6000 256575
+8 8 1
+18 40 14 15 14 15 0
+20 2 2
+-40 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#12208
+knight githyanki gith figure~
+a high githyanki knight~
+ A tall figure armored in dark splintmail observes you silently.
+~
+You see a leathery-skinned humanoid creature that stands a full foot taller
+than a normal man.  His features are obscured by a suit of ornately designed
+splinted armor -- you only hear the hissing of his breath and the scraping
+of his sword against its scabbard as it is unsheathed.
+~
+12363 1192 -500 W
+97 15 -7 10d10+1800 5d5+25
+25000 306075
+8 8 1
+18 20 13 13 14 17 0
+18 2 2
+-70 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#12209
+githyanki knight protector gith~
+a githyanki protector~
+A black knight of the githyanki stands guard here, protecting his queen.
+~
+You see a leathery-skinned humanoid creature standing a full foot taller
+than a normal man. His features are obscured by the suit of ornately
+designed splint armor he wears - You hear only the hissing of his breath
+and the whistle of his sword as he sends it slicing at you!
+~
+28779 168 -700 W
+100 25 -3 10d10+3000 10d2+30
+30000 1000000
+8 8 1
+18 80 12 14 16 18 0
+20 2 2
+-30 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#12210
+gish githyanki gith evil~
+an evil gish~
+A small githyanki laughs at you through fanged teeth.
+~
+You see a small, leathery-skinned humanoid creature standing nearly as
+tall as a normal man. Like all githyanki, his teeth are fanged and his
+red eyes hollow and sunken. The gish are well-versed in spell lore,
+unlike the others. You realize this as ears detect a loud static discharge.
+~
+717 1032 -400 W
+64 20 3 1d50+600 3d5+10
+3000 140625
+8 8 1
+13 0 18 16 18 13 0
+16 1 2
+30 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#12211
+gish githyanki gith merciless~
+a merciless gish~
+A crazy gish gives you a mischievious grin as she prepares to attack...
+~
+You see a leathery-skinned humanoid creature standing nearly as tall
+as yourself. Like all githyanki, her teeth are fanged and her eyes
+glow red as they gaze at you from within sunken sockets. As a gish, this
+one is well-versed in the Arts, unlike normal giths. A loud static
+discharge warns you of impending attack.
+~
+109 263168 -340 W
+68 20 5 1d100+350 3d5+12
+3000 90000
+8 8 2
+11 0 18 17 17 15 0
+16 2 2
+50 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 10
+#12212
+warlock githyanki gith~
+a Warlock of Gith~
+A githyanki dressed in robes and bearing a silver sword stands here.
+~
+You see a mummified-looking humanoid clad in robes of deepest purple
+and bearing silver swords particular to giths. Like all githyanki, his
+teeth are fangs, and his reddish eyes sunk into their sockets. As you
+turn to flee, the impact of a fireball is felt against your back!
+~
+12877 66088 -340 W
+90 20 2 10d10+3000 5d5+20
+10000 687375
+8 8 1
+14 0 17 17 16 15 0
+8 2 2
+20 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#12213
+mindsucker njalreesti entity~
+a Njalreesti mindsucker~
+An almost transparent entity stares at you with glowing green eyes...
+~
+Small, hard to hit, annoying to the powerful, deadly to the weak.
+This is the nasty Njalreesti mindsucker of legend. Nearly transparent,
+with glowing green eyes and a wide, gaping maw in which you see nothing
+but pitch darkness, you hear it's high creening screech as it dives at you!
+~
+8233 263224 -1000 W
+70 25 -13 1d50+700 2d50+0
+0 475000
+8 8 2
+16 0 3 3 18 18 0
+6 2 0
+-130 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#12214
+lord gith lordgith~
+Lord Gith~
+Lord Gith suddenly forms from a cloud of blackness.
+He stares right through you with deadly, cold eyes.
+~
+Lord Gith is the dead savior of the githyanki people, the warrior who led them
+to freedom from their former enslavers, the mind flayers.  He has been dead
+for centuries and stands before you now due to an unholy alliance with powers
+beyond mortal ken.
+
+He gestures towards you.  You feel your heart tremble and your throat begin
+to tighten.  You are about to die.
+~
+311339 533674 -900 W
+90 55 -12 10d15+9000 6d5+50
+15000 750000
+8 8 1
+18 100 17 16 18 16 0
+15 2 0
+-120 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#12215
+spirit~
+a demented spirit~
+A crazed spirit floats about, intent on destroying all life.@
+~
+The ghost makes no sound. It is a shadowy shell of it's former self, cursed
+now to roam forever without rest. The mind of this creature has been
+twisted and destroyed - tormented. It now is envious of you and intends
+to destroy you and all the true living beings it encounters...
+~
+8299 524344 -340 W
+25 35 -10 6d6+250 1d20+25
+0 60300
+8 8 0
+15 0 15 16 13 15 0
+13 2 1
+-100 0 4 0 0
+35 35 35 35 35
+16 0 0
+6 10
+#12216
+githzerai prisoner~
+an imprisoned githzerai~
+A githzerai prisoner plots his escape from this place.
+~
+You see a conniving humanoid, a descendant of a race of humans once
+enslaved by the mindflayers, and related to the githyanki. Unfortunately,
+the two races are bitter enemies, and this one happened to get caught.
+He intends to escape...
+~
+24649 66048 -250 W
+40 22 -7 5d20+1050 5d4+20
+42 181500
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+-70 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#12217
+mindflayer prisoner~
+a tortured mindflayer prisoner~
+A mindflayer lies here, scarred from the torture inflicted by the Gith.
+~
+You see a formerly tall humanoid creature with four tentacles hanging from
+where the mouth area should be. It is hunched over, bent and scarred from
+torture inflicted on it by the githyanki. As you approach, it cringes.
+~
+203 2048 -400 W
+50 10 6 5d5+400 6d5+20
+23 93375
+8 8 0
+16 0 15 13 13 10 0
+8 2 2
+60 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#12218
+dragon red enslaved Ryessa~
+Ryessa, the enslaved red dragon~
+A giant red dragon is chained here, her breath heating the furnace.
+~
+This mighty scaled creature was subdued by the githyanki and magically
+bound here. Nevertheless, she is still an impressive sight, some thirty
+feet in height and seventy from nose to tailtip, with an even more massive
+wingspan. She watches you warily, smoke drifting from her nostrils.
+~
+24655 66600 -600 W
+74 23 -6 10d10+6000 5d5+35
+5000 1000000
+5 5 2
+18 100 15 14 12 15 0
+12 5 4
+-60 0 4 0 0
+10 10 10 10 10
+0 2 1
+6 0
+#12219
+fire fires flame blast massive~
+a massive blast of fire~
+The fires of the furnace burn away at your skin!
+~
+The fire feeds on your skin like a living being, licking out at your hair.
+~
+43 128 0 W
+20 15 0 1d5+200 2d12+2
+0 81200
+8 8 0
+15 0 10 10 14 14 0
+17 2 0
+0 0 2 0 0
+50 50 50 50 50
+1 2 0
+6 10
+#12220
+thri-kreen thrikreen insectoid insect~
+a planesfaring thri-kreen~
+A planesfaring thri-kreen is floating about here, exploring the Astral.
+~
+A thrikreen is a six-limbed creature with a sandy-yellow exoskeleton. It
+has powerful hind legs useful in motion and combat, as well as four upper
+limbs with fingers and thumbs. It has two compound eyes and two antennae,
+as well as small, but powerful mandibles. This one looks deadly...
+~
+4219021 132136 100 W
+87 20 -14 10d10+2800 3d10+20
+12343 342600
+8 8 1
+15 0 16 17 18 14 0
+19 2 0
+-140 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#12221
+imp chaos~
+a ChAOs imp~
+Sneaking about, or trying to at least, is a hideous little imp...
+~
+A nasty, disgusting little batwinged humanoid ranging from the size of
+a rat to one of a small dog. It constantly shifts, and you're never real
+sure of what it will look like, except it's always something obscene or
+abominable. Right now it looks like it's claws are growing bigger...
+~
+4200493 262146 -500 W
+12 12 -1 5d5+110 1d20+0
+394 28125
+8 8 0
+8 0 15 5 14 18 0
+8 0 0
+-10 0 6 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#12222
+seraph angel christyna~
+Christyna, the seraph,~
+Standing here, guarding the life-strand of a mortal, is one of the seraphim.
+~
+This winged being is clad in golden white robes and flaps her wings
+gently as she hovers before you. She looks very beautiful, and very
+much at peace. A part of you hates her smugness, while another part
+desperately yearns for the happiness she has. She looks at you kindly.
+~
+24911 66728 1000 W
+70 35 -11 10d10+4000 7d3+37
+77777 1000000
+8 8 2
+18 0 18 18 18 18 0
+18 2 0
+-110 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#12223
+Vorethras slaad hermit green~
+Vorethras, the slaad hermit~
+Sitting here and meditating is an aged green slaad. His eyes are closed.
+~
+Vorethras has been meditating here for the last few time segments,
+and it is obvious he is very much unaware of what is going on about
+him. Or so you think... He looks old for a slaad, his eyes are milky,
+and his green skin dry and patchy. Upon his head is a greyish headpiece
+and about his waist is a loincloth. He sits here, unmoving.
+~
+4202639 132136 0 W
+80 22 2 1d100+2000 4d4+18
+30000 553500
+5 5 0
+13 0 18 18 14 12 0
+8 2 0
+20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#12224
+test droid~
+the Mark I Test Droid~
+Standing here like a block of stone is Raul's Mark I Test Droid.
+~
+~
+10 1064 0 W
+51 40 10 1d1+29900 1d1+0
+0 0
+8 8 0
+13 0 13 13 18 13 0
+0 2 2
+100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#12225
+nibalingg humanoid imp~
+a sly little Nibalingg~
+Pretending you cannot see him, or trying to at least, is a wretched Nibaling.
+~
+A tiny little hairless humanoid of a dull, greyish color, like clay.
+There is a sack he carries on his back, and perhaps there is something
+in it! Large, soulful eyes stare up at you and regard you with utter
+terror! 'Please,' it says, 'Don't harm me. I am but a poor wanderer.' :(
+~
+4196493 787498 -500 W
+15 5 -10 6d6+100 1d4+0
+2233 10000
+8 8 0
+7 0 15 5 14 8 0
+7 0 0
+-100 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#12226
+freeblade mesaros blade~
+the Mesaros freeblade~
+Here on his way to the ill-famed Kadun Blood Pits is a Mesaros freeblade.
+~
+The Kadun Pits are famed throughout the multiverse as _the_ place to
+catch serious bloodsports. To survivors go riches and honor. To losers
+go death and a thousand years of enslavement for their wretched souls...
+This rough-edged human warrior looks ready to take them on. His body is
+powerfully muscled, and his wits need be equally sharp.
+~
+26703 328744 -100 W
+48 40 -9 10d10+4000 4d6+30
+10242 669075
+8 8 1
+18 50 14 15 17 18 0
+18 2 2
+-90 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#12227
+lich queen lichqueen lich-queen~
+the crazed Lich-Queen~
+The evil Lich-Queen of the Githyanki reaches out to destroy you.
+~
+The Lich-Queen of the githyanki was once human, but no longer. Her skin
+has completely shrunken in about her bones, held together by sheer force
+of unholy power and the peculiarities of this plane of existence. The
+cold glare of her reddish eyes sends you into paroxysms of dread.
+~
+270383 1208 -1000 W
+91 30 -12 10d20+6500 6d5+45
+273000 148125
+8 8 2
+18 30 18 18 18 18 0
+13 2 2
+-120 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#12228
+nightmare mare horse~
+a pitch-black nightmare~
+A hideous nightmare creature glares at you with glowing amber eyes.
+~
+The nightmare is a wholly evil creature sent out by powerful demonic
+forces to torment the sleep of hapless mortals. It vaguely resembles
+a horse, with hide of deepest black and eyes a glowing amber color.
+~
+8303 265220 -340 W
+40 20 -3 1d100+500 5d5+10
+2500 66000
+8 8 2
+15 0 12 14 18 15 0
+19 3 0
+-30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#12241
+Teppuran swordforger forger elf smith~
+Teppuran the swordforger~
+A muscular mountain elf is hard at work here, shaping silvery metal.
+~
+A wiry, strongly muscled mountain elf, Teppuran has skin of light grey
+and long black hair streaked with strands of silver. He was captured in
+a raid over a century ago, and has since been forced to work here. They
+treat him well so long as he behaves... He has a sad look on his face.
+~
+4204619 1064 500 W
+84 48 6 1d100+1600 5d5+25
+500 20000
+8 8 1
+18 30 13 13 16 17 0
+20 2 2
+60 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+$

@@ -1,0 +1,2646 @@
+#12700
+Entering the slum sections~
+You enter a garbage-infested alleyway. Amidst abandoned wreckages of human
+waste, soiled needles can be seen in plain sight beneath the bare feet of
+playing children. Decaying buildings surround you on all sides, and you
+realize that brick is not permanent when acid rain, smog, and urban wear
+sets in. An old drainage pipe leads upwards along one wall...
+~
+127 4 1
+0d0+0 0 0
+D0
+The alley opens unto the Concourse.
+~
+~
+0 -1 3127
+D2
+The slums continue to the south. You see no real signs of law enforcement.
+You're on your own.
+~
+~
+0 -1 12701
+D4
+A old waterdrain leads upwards into the heavens.
+~
+~
+0 -1 12719
+E
+graffiti~
+
+A brief, pulsing flare reveals golden-hued script. It suddenly
+dies down and disappears, leaving only a retina burn that
+slowly fades away...
+
+Midgaard Add-ons brought to you by Yendle (10/94)
+Complete revision and alteration by Raul (5/95)
+~
+E
+pipe~
+
+A rusty pipe bolted against a wall leads up. It might just be the
+way to see the slums from above.
+~
+S
+#12701
+In the slum sections~
+You are stricken by the overall poverty of this area. What is even worse
+is that people don't seem to really care about this place. Trash litters
+the ground, and in a corner are a pile of boxes from which emerges a
+strong, repulsive smell. Puddles fill up potholes in the street.
+~
+127 0 1
+0d0+0 0 0
+D0
+The entrance of the slums lies north.~
+The Beginnings of the Slums~
+0 -1 12700
+D2
+~
+A Dirt Filled Alley~
+0 -1 12702
+E
+boxes pile~
+A pair of dirty human feet can be seen poking out from behind the pile
+of abandoned wooden and cardboard boxes. They appear blackened, and flies
+buzz around, occasionally alighting upon the leaking yellow puss of open
+sores. Approaching closer, you nose is offended by the rotting smell.
+You decide to leave the corpse alone and hurry on through this area.
+~
+S
+#12702
+In the slum sections~
+You are assaulted by the noises and sights and smells of this alleyway.
+Tenement buildings overhead block out much of the light of the sky, and the
+streetlamps are in disrepair. Trash litters the streets, and occasional
+sights of rat corpses fought over by stray dogs turn your stomach. Puddles
+form in potholes in the alleyway. Dark figures in a corner catch your eye.
+~
+127 0 1
+0d0+0 0 0
+D0
+~
+A Dirt Ridden Alley~
+0 -1 12701
+D1
+~
+Widened Alley~
+0 -1 12703
+D2
+For some strange reason, the alley to the south seems to be avoided
+by most of the slum inhabitants... It appears empty, which is odd
+in a crowded city.
+~
+~
+0 -1 12761
+D3
+A crummy wooden door protects those within from the weather.
+~
+door wooden~
+1 -1 12718
+E
+dogs corpses rat~
+
+Well, it looks like a rat's corpse all right. It's being fought over
+by two mangy, fleabitten dogs with sharp yellowed fangs and foaming
+mouths. They nip at each other, fighting for control of the meat and
+an opportunity to gulp it down before the other snatches possession
+away. Eventually, both have a grasp of one part of the corpse with their
+jaws, and the two rip the bloated rat's corpse apart with a sickening
+crunch of breaking bones. The two dogs are apart now, the halves of rat
+in their respective mouths connected by a long, droopy thread of
+intestine, dark red blood dripping from torn flesh. You turn away in
+disgust, though you cannot avoid hearing the sickening sounds of jaws
+chomping on flesh...
+~
+E
+figures corner~
+
+In the shadows behind a couple of trash containers, you make out two
+moving figures. Approaching closer to investigate, you begin to hear
+muffled grunting noises. As your eyes adjust to the darkness, you make out
+a gaudily dressed woman lying back upon a pile of burlap sacks. Her
+dress is lifted up and her legs are spread wide apart. Between them,
+a man is hunched, grunting as he thrusts in and out of her. He is
+garbed in dirty grey work clothes stained with sweat and soot. As his
+grunting continues, you realize they are oblivious to your presence.
+You don't know whether this is a rape or whether the woman is merely
+earning her living, so you decide it is best to leave them alone and
+walk away.
+~
+S
+#12703
+More crowded and dirty streets~
+The filthy and run-down conditions of the street and tenement buildings
+around you continue to affront your sense of order and neatness. The
+filthy and ragged people around you ignore the garbage, potholes, and
+trodden animal corpses that litter the street, picking their way through
+nonchalantly. All around are buildings and street. All smelling badly.
+~
+127 0 1
+0d0+0 0 0
+D0
+What looks to be a building gutted by fire stands before you.
+There is a sign nailed to the entrance door, saying 'Condemned'.
+~
+~
+0 -1 12704
+D1
+The slums seem to sprawl out in that direction.
+Streets are crowded and noisy. It still smells.
+~
+~
+0 -1 12708
+D2
+~
+Darkened Alleyway~
+0 -1 12705
+D3
+~
+A Dirty Alley~
+0 -1 12702
+E
+smell smells~
+
+You look about for the source of the smells, but after a while realize
+(as you should have earlier) that it is from everywhere - the people,
+the garbage, the human wastes...
+     As your mind begins to truly digest this discovery, a faint, pitiful
+whine comes from beneath you. Looking down, you see a poor street waif
+kneeling before you and crying. You are about to offer a few coins, but
+then look further down at your feet, and see the child's frail hand stuck
+under the crush of your footwear. Apparently you had accidentally hurt
+this child while shifting around trying to locate the source of the smell.
+     You remove your foot and begin to apologize profusely, but the child
+quickly clambers up and runs away. You stare flabbergasted, and as you
+take a step back, your foot bumps into a hard crust of bread... So that
+was what the kid was after... It's no use going returning the bread now,
+the child has disappeared into the crowd.
+~
+S
+#12704
+A rundown and gutted tenement building~
+As you wander about this burned out place, you see that despite the barred
+windows and the 'Condemned' sign out front, this building still serves as
+a home for some people. The elevator is not working, and you find the
+stairwell entrance blocked off from inside. Around you are piles of debris
+and occasional muddy puddles formed from rain let in by the newly torn in
+skylights above the central atrium. Bits of laundry hang from railings.
+The air smells of burnt ashes and unwashed bodies.
+~
+127 4 0
+0d0+0 0 0
+D2
+~
+Widened Alley~
+0 -1 12703
+S
+#12705
+A dark, cold street~
+The tall tenement buildings surrounding this section of the slums leave
+a perpetrual gloom. A dramatic drop in temperature was felt as you
+arrived - whether physical or psychological in basis, you cannot tell.
+To the east of you is a makeshift door leading somewhere.
+~
+127 0 1
+0d0+0 0 0
+D0
+~
+Widened Alley~
+0 -1 12703
+D1
+~
+door~
+1 -1 12707
+D2
+Raucus laughter and merrymaking can be heard south.~
+Dead End~
+0 -1 12706
+S
+#12706
+A dead end alleyway~
+You stumble across a powwow of scabs and addicts 'jecting juice up into
+their arms and snorting dandelion patches. They blissfully ignore you
+and those around them. Some are comatose, and a few might be dead, but
+it's no big deal, because someone will come around and haul their body in
+fer parts. This isolated alleyway is illuminated by a flickering
+fluorescent light mounted to a wall. The groans and mutterings and ravings
+of the people are sure signs of their current incoherent state of mind.
+~
+127 4 1
+0d0+0 0 0
+D0
+~
+Darkened Alley~
+0 -1 12705
+E
+dead addicts scabs addict scab~
+
+The one next to you seems to be out cold. He's neglected to remove the
+hypodermic after injecting himself, and it's now sticking out obscenely
+from his arm like it was a flagpole. His ragged clothes and grimey
+skin, his falling-apart boots and filthy hair, attest as well to the
+state of being he has sunken to. Others around him sit back and lean
+against the wall, eyes closed to better experience their brief, euphoric
+dreams. In a far corner, where it's dark, there lies a woman.
+~
+E
+woman corner~
+
+She appears dead, her eyes rolled up into the back of her head at an
+impossible set of angles. Approaching closer, you see that one hand
+holds an empty dust packet. Another hand seems to disappear into the
+sleeve of her denim jacket. Lighting a match, you gasp in surprise as
+you realize she has no clothing on below her waist. Her legs are spread
+out, and yellowed puss glistens sicky from her vulva. Holding your nose
+and bending closer, you make out tiny little black dots moving up and
+down over the skin. Ants.
+     As far as you can tell, she is dead. You are repulsed, yet
+strangely fascinated by this macabre sight. You turn away sadly, then
+whirl around to face the corpse as something moves in the corner of your
+eye! You look down at her sleeve, which is shaking, and it appears she
+is lifting her hand at you. From the sleeve emerges a mangy rat,
+face and fur covered with grisly blood and bits of flesh.
+You back away quickly and decide to keep at a distance.
+~
+S
+#12707
+A burned out apartment~
+The walls and ceiling are darkened by soot from a recent fire, and water-
+pipes are laid bare beneath broken and singed floorboards. In a corner
+lies a soiled crib smelling of dried urine. Upon a shaky table opposite
+the entry is an old hotplate, the remains of yesterday's meager meal in
+a battered saucepan atop it. A bare dirty mattress is on the floor.
+~
+127 0 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 12705
+S
+#12708
+More crowded and dirty streets~
+For a brief moment, sunlight streams past the hazy smog overhead and
+alights upon some of the buildings, bathing them in a soft, radiant glow.
+Then it disappears, and you rub your eyes. Beauty it seems, can strike at
+the ugliest of places, if only for a while. People continue to walk the
+trash ridden streets amidst broken down vehicles tagged with graffiti.
+~
+127 0 1
+0d0+0 0 0
+D0
+Before you is and old, dilapidated building that looks even more
+worn and falling apart than its neighbors (is that possible?).
+There seems to be not a door, but a crack one may pass through to
+enter.
+~
+~
+0 -1 12710
+D1
+A open doorway.
+~
+A Open Doorway~
+0 -1 12709
+D2
+The area of the city to the south seems to be somewhat more
+prosperous, with signs of a few shops. You must be in the
+more northerly residential sectors - the slums.
+~
+~
+0 -1 12751
+D3
+~
+Widened Alley~
+0 -1 12703
+E
+graffiti~
+Different slogans and different tags put up by various gangs and single
+individuals in gaudy colors. Groups such as Reds, Spits, Slayers, and
+Chromies seem to have placed their work over each others', with Reds and
+Spits tags most prominent on the vehicle next to you.
+     Behind you is a brick wall scored with more graffiti. There is also
+and old, dilapidated 'NO TRESPASSING' sign on it that has had the 'TRESP'
+part sprayed over. Evidently something about the posterior.
+~
+E
+vehicles vehicle~
+
+Dismantled, nonfunctioning, torn apart, all of them are no longer usable.
+The one nearest to you is an old foreign model rusting on it's axles and
+showing alittle of the original red paint underneath the mass of graffiti
+sprayed and scratched over it.
+     As you examine the wreck, a shudder overcomes it as a pale, thin
+street waif exits the rear and slams the hatch shut. Is this a home?
+~
+S
+#12709
+A sparsely decorated domicile~
+It is heartwarming to find that at least a few individuals have made an
+effort to pierce the all-pervading gloom by attempting to decorate their
+domicile with whatever is at hand. A few half-wilted daisies stand in a
+jar of water upon a table, trying to cheer up the interior...
+Then you see the spaced out mother in the corner, sitting amidst a ring
+of dust packets and used hypodermics and plastic bags. Her children peer
+at you and at her from around the corner, wondering whether they should
+come out. You turn away in disgust.
+~
+127 12 0
+0d0+0 0 0
+D3
+~
+A Open Doorway~
+0 -1 12708
+S
+#12710
+A passageway amongst crumbling walls~
+The surrounding walls seem to have crumbled downward to form cave-in's
+blocking your left or right. This area appears to be some kind of a
+secret. At least to you, not to the people around you. A place that
+provides even some shelter from the elements will draw inhabitants.
+To the north you notice a tarp draped and hanging from the wall there.
+~
+127 13 1
+0d0+0 0 0
+D0
+A canvas tarp is laid here over a section of the wall, tacked to it
+by nails at the top. Some smoke and noises seem to be drifting to you
+from the edges of it. ~
+tarp~
+2 -1 12711
+D2
+The street outside can be seen from here.
+~
+~
+0 -1 12708
+E
+graffiti~
+
+The graffiti here all belong to one gang or another, the Reds, the Spits,
+Black Slayers, Chromies, etc. The Reds and Black Slayers are combat gangs,
+the most organized of any. The Chromies and Spits are rival raker gangs,
+that is, juvies who ride around on motorized skateboards and have raking
+contests in abandoned alleys and swimming pools. They 'rake' each other
+with short, 1-inch blades attached to their gloves. The Chromies and Spits
+don't really hate each other, they realize they need competition and fun.
+Raking someone is good and gives you honor. Having raking scars means
+you're a veteran, not a newbie. Anyway, the graffiti mostly says stuff
+like 'Reds Rule!' or 'Spits rake you!' or 'Fuck da Chromies!' and all
+the regular graffiti stuff.
+     Alot of people here have scrawled things in pencil and pen as well,
+however. Stuff about good lays if you call a certain number, and the
+good (or bad) drugs around, and who was here and at what time. It's stuff
+~
+S
+#12711
+A building serving as a drug haven~
+The structural interior of this building looks just like any other
+run-down tenement building in the slums. It is infested with roaches
+and other vermin, lacking in utilities services, and in severe disrepair.
+As you enter, you immediately know this to be a drug haven, where addicts
+of juice, dust, and a host of other illegal substances come to get their
+dose. The air is permeated with the smell of harsh chemicals that burn
+your nasal passages. Good thing too! It masks the stink of human wastes.
+~
+127 8 0
+0d0+0 0 0
+D1
+Another part of the building, with more drugs, addicts, and other
+such individuals. Basically, this entire building houses people and
+things tied in one way or another to drugs.
+~
+~
+0 -1 12712
+D2
+A leather tarp covers the entrance.
+~
+tarp~
+2 -1 12710
+S
+#12712
+Further in this building~
+You are further in the building now, and fully experiencing the complex
+mix of harsh chemical smells. There is alot of smoke, from cigarettes,
+joints, cigarette lighters used to heat chem vials - you seriously are
+getting dizzy. This place still looks dirty and trashed. Bits of cheap
+foam furniture, old circa 1970s sofas and chairs are set against the
+crumbling walls. A cheap floor-lamp provides illumination.
+~
+127 8 0
+0d0+0 0 0
+D0
+The wall was originally painted white, but now is very dirty, bits of
+paint peeled off to reveal a red undercoat. Set in the wall is a
+dilapidated door. ~
+door~
+2 -1 12714
+D3
+You see another room somewhat like this one, and an exit leading from
+there. It's rather dark in there.
+~
+~
+0 -1 12711
+S
+#12713
+A smoke-filled room~
+Blacklights have been mounted along the edges of floor and wall, illumi-
+nating in fluorescence floating holographic images set up by a several
+projectors. The floor is covered in shaggy carpet burned in places and
+littered with bits and pieces of discarded drug paraphernalia. Old sofas
+and armchairs are scattered about. You notice how tiny flecks of light
+are scattered about by an old disco ball slowly twirling from the ceiling.
+~
+127 8 0
+0d0+0 0 0
+D1
+A bead curtain hangs in disarray over the door that leads out of here.
+It is somewhat tangled, and missing some beads.
+~
+door~
+2 -1 12714
+E
+floor litter paraphernalia~
+
+It's just old shag carpet in a tacky avocado green. They last made
+carpets like this back in the 60s, almost 60 years ago. Amazing this
+piece has lasted so long. It's stained all over, stuck with cig burns,
+and just littered with old discarded vials and other things that just
+crunch underfoot. Hopefully you're wearing some sturdy footwear...
+~
+E
+images holograms holos projectors~
+
+The projectors emit constantly shifting shapes and globules that glow
+and pulse slowly in a myriad of different colors. The effect is similar
+to having several giant lava lamps floating in the center of the room,
+except there are no clumsy bases, and the colors and shifts are much,
+MUCH more detailed, almost as if this entire room was the interior of
+such a lamp. The floating globules of colors cause a trance-like state
+truly enhanced by the various hallucinogenics and euphorics available
+to the customers of this drug haven.
+~
+S
+#12714
+A messy hallway~
+You are in a long hallway that is very dimly lit by a precious few
+lightbulbs mounted into jury-rigged socket bases nailed to the ceiling.
+Bits of plaster litter the ground, fallen from holes gouged or punched
+into the ceiling and walls. The floor is rightfully called the ground
+because it is so soiled and muddied, with piles of trash along the sides.
+~
+127 8 0
+0d0+0 0 0
+D2
+The plaster of the wall has been knocked down in places, revealing
+parts of the underlying structural members of this building. Some
+rusty waterstains near the ceiling reveal bad plumbing and roofing
+jobs. There is a dilapidated door set in the wall.
+~
+door~
+2 -1 12712
+D3
+There is a door at the end of this hallway.
+~
+door~
+2 -1 12713
+D4
+A mustiness can be scented, as you peer up a flight of stairs at one
+end of this messy hallway.
+~
+~
+0 -1 12715
+S
+#12715
+A musty hallway~
+You find yourself in a dank, smelly hallway on the second floor of this
+building. Heavily boarded doors and windows prevent anyone from entering
+or leaving except by the stairway that leads down. Bits of broken glass
+and crumpled, stained napkins litter the floor. To the east, at the end
+of this hallway is a door. Nailed to it is a crudely lettered sign.
+~
+127 4 0
+0d0+0 0 0
+D1
+You see a warped wooden door upon which an old cardboard sign has
+been nailed firmly in front with 3-inch nails.
+~
+door wooden~
+1 -1 12716
+D5
+~
+Zoner Guard Room~
+0 -1 12714
+E
+sign~
+The sign is crudely drawn with a black marker upon a stiff white
+cardboard background. It reads, 'The Room uv the Suprim Taco'. In
+smaller script below it, but just as crudely done, is:
+'mak sure to bring an offfuring to the grate one'.
+~
+S
+#12716
+Room of the Almighty Supreme Taco~
+Whoa! And you thought downstairs smelled bad... The air here is dripping
+with the heady smell of trace scents of every illegal substance imaginable
+mixed with sweat, urine, and feces. Bright gaudy ornaments hang from the
+ceiling and walls. The windows have been boarded up, and the only source
+of light is an old relic disco sphere propped up on the floor. A black
+door is against the south wall, probably leading to the bathroom.
+~
+127 0 0
+0d0+0 0 0
+D2
+This exit probably leads to the bathroom. It might just be the cleanest
+place in this entire joint.
+~
+door~
+1 -1 12717
+D3
+A squeaky, rust-hinged wooden door leads out into the hallway.
+~
+door wooden~
+1 -1 12715
+S
+#12717
+A dark back room~
+Weird tribal industrial blasts from an old, banged up tape player in the
+back. It's odd fusion of undeciphered rhythmic chanting and techno would
+be interesting were the tape not so worn and scratchy. Shelves line the
+back walls, various vials and bottles and packets scattered on them. If
+there is an illegal substance for abortion or a quack cure for any of a
+dozen venereal diseases, it can be found here at Ganja's Emporium.
+~
+127 12813 0
+0d0+0 0 0
+D0
+There is an old bead curtain that hangs over the door, supposedly to
+prevent any evil spirits from entering, according to old Eastern myths.
+~
+door~
+1 -1 12716
+E
+shelves walls~
+You see many dirty bottles and half-empty vials. Even a set of rust-pitted
+surgical gear and a bottle of liquid ether. There's also an odd plastic
+box in the back beneath the shelves that has a dirt-smudged label.
+It reads, 'Coalition Pharmaceuticals - Field Cryo Kit.'
+Hmm... What is he doing with a Cryo Kit?
+~
+S
+#12718
+Within a tenement building~
+You have entered a dark, dank tenement building. As you wander about the
+small hallways and climb the endless stairs, you find every door opening
+into an apartment to be solidly shut, no doubt locked and barred from the
+inside in no less than six different ways. Rats and cockroaches scurry
+along the floor, navigating - as you are - hazards that include broken
+furniture, passed out drunks and addicts, and running children in ragged
+clothing. The air smells of stale smoke and beer, urine and feces.
+~
+127 9 0
+0d0+0 0 0
+D1
+Outside this crummy wooden door to the east is the rest of the slums.
+~
+door wooden~
+1 -1 12702
+S
+#12719
+Along a rusted drainage pipe~
+You are climbing along an old, rusted drainage pipe bracketed to the
+brick wall of a tenement building. It seems surprisingly stable for such
+an old metal piece. A fire escape is directly within arms reach to your
+left. Soft music filters through an open window to your ear, and you
+notice flickerings of candlelight behind some drapery.
+~
+127 4 1
+0d0+0 0 0
+D1
+A rickety old fire escape leads to a partially open window.
+~
+window~
+2 -1 12721
+D4
+Above you is the roof of this decrepit tenement building.
+~
+0~
+0 -1 12720
+D5
+Below are the slums. Even from here the smell seems to rise upward.
+~
+~
+0 -1 12700
+S
+#12720
+A rooftop overlooking the slums~
+Peering over the edge, you find yourself given a bird's eye view of the
+entire slum section. The dismal sight saddens you. Above you is hazy smog,
+occasional bursts of lightning crashing overhead, unnoticed by the masses
+below. A few scraggy pigeons wing their way across the darken sky.
+~
+127 0 1
+0d0+0 0 0
+D2
+A great mountain view can be had from the next rooftop over.
+~
+~
+0 -1 12722
+D5
+The drainage pipe leans precariously close to a fire escape.
+~
+~
+0 -1 12719
+S
+#12721
+A disarrayed art studio~
+A lone flickering candle lights your view of a once modest art studio. Torn
+up paintings and crumpled sketches lie unfulfilled within the sooty grave
+of a musty fireplace. Hanging askew on a far wall is the remains of a
+cracked mirror. For some reason, you are acutely aware of your own distorted
+features within it's depths, and the sharpness of the jagged shards. A tiny
+crystal figurine of a ballet dancer lies shattered on the floor.
+~
+127 12297 0
+0d0+0 0 0
+D3
+The partially open window leads unto a rickety fire escape.
+~
+window~
+2 -1 12719
+E
+figurine~
+A delicate crystal figure of a ballet dancer performing the heart wrenching
+piece known as the Dying Swan lies shattered in it's former grace.
+~
+E
+mirror~
+You are drawn to the myriad images of yourself in the broken mirror.
+The broken shards distort your image, and seem by their mere presence to
+question your very being...
+     You turn away shaken.
+~
+E
+fireplace~
+Singed remains of sketches and paintings lie amongst the ashes and soot.
+It is as if whoever once lived here just gave up... and went away.
+~
+S
+#12722
+A rooftop view of the surrounding area~
+From here you feel dwarfed by the overwhelming view of the surroundings
+below you. You bask in the breathtaking glory of Nature, awed by the sight
+of sunlight glinting off snowcapped peaks in the distance. Then an errant
+updraft brings to you the smells of the city below.
+~
+127 0 1
+0d0+0 0 0
+D0
+A rooftop is in that direction.
+~
+~
+0 -1 12720
+D1
+You see an endless array of roofs.
+~
+roof over the city~
+0 -1 12723
+D2
+More rooftops are to the south of you. You feel lucky you can
+jump about and not fall to the ground, but land on roof after roof.
+Is it magic?
+~
+~
+0 -1 12726
+S
+#12723
+A rooftop above the city~
+You are standing atop one of many buildings in this city. Below you
+are masses of people going about their routines and errands, crowding
+the streets and alleyways. Around you are many other rooftops similar
+to this. The sky overhead is dark and bleak.
+~
+127 0 1
+0d0+0 0 0
+D1
+The city's rooftops stretch before your eyes to the east.
+~
+~
+0 -1 12725
+D3
+You think you might get a nice view from that rooftop!
+~
+~
+0 -1 12722
+S
+#12724
+Along a busy street~
+Many shops and business establishments line busy Lyonis Avenue here.
+The people walk by, brushing against you with nary a word of apology,
+their minds on more important things, you gather. The buildings on either
+side of this traffic-laden avenue seem to be in much better repair, and
+there are less graffiti around. Additionally, the sidewalks seem somewhat
+looked after. Overhead, hovers and scraggy pigeons wing the dreary sky.
+~
+127 0 1
+0d0+0 0 0
+D0
+There are a few more shops and establishments in that direction, but
+you know that past that would be the poor residential sectors.
+~
+~
+0 -1 12751
+D1
+A small side street seems to lead off to the east, away from this
+busy avenue. There are even houses, some trees, and grass! Few
+care to wander in that direction though.
+~
+~
+0 -1 12773
+D2
+As you walk around, you see that the heart of the commercial areas of
+the city lies to the south. You even see a few armed corp police.
+~
+~
+0 -1 12794
+D3
+A small, residential-type sidestreet adjoins busy Lyonis Avenue.
+A street sign reads, 'Sethe Way', but it is also sometimes known
+as the Street of Pleasures by certain elements of the population.
+~
+~
+0 -1 12744
+E
+graffiti~
+
+Paper stencils are a cheap, effective way to get your message across
+to the public and yet be able to escape quickly. Paper cutouts are
+quickly laid down, sprayed over, and then wadded up and tossed into
+trashcans. A single sheet of 8.5"x11" can have enough letters cut out
+of it to have a choice phrase sprayed through. Do this repeatedly and
+you have a serious cleaning problem...
+     Anyway, what you have at your feet on the white concrete sidewalks
+are occasional bits of urban guerilla propaganda:
+
+     'Kill the Parasites!'
+     'Sneaky Sniper = Dead Corp Boss'
+     'Stop Complacency!'
+     'Question Authority'
+     'Slap the Pigs from the Trough!'
+     'Tax Corps!
+      Tax the Rich!'
+
+These illustrate some of the problems of the society here, you'd gather.
+It makes you glad you don't really live here. These taggers must be up
+against alot of shit.
+~
+E
+sky hovers pigeons~
+The sky is dark and dreary at all hours of the day, masking the sun
+even in daytime. Pigeons wing their way across from rooftop to rooftop,
+risking their lives in the airways utilized by transportation hovers.
+~
+E
+shops establishments buildings~
+
+The buildings are all multi-storied, with businesses on the ground floor
+and the upper stories leased out as apartments and offices. You stand
+before Metro Comics, it's windows plastered with posters of Captain
+America, The Hive Queen, and other such comic chipcard heroes.
+     Across the street from you is Fatburgers, reputed to be one of the
+best places in town - you get a free holo T-shirt with their logo on
+it if you can down their Triple Cheese King burger in under 10 minutes.
+     There is Sauron's Coffee Imports just to the left of Fatburgers.
+They offer fine Imperium-grown and orbital grown coffees, as well as the
+standard cappuchino, expresso, and their trademark Sauron's special, a
+quadruple shot expresso mixed with a shot of 190 proof Kylee. Called
+'The Caffeine Dragon', it's one of the best tricks you can play on a
+greenhorn just come into town who doesn't know about it. Some say this
+drink cures every illness known to man. Surely that cannot be true...
+~
+S
+#12725
+A rooftop overlooking the city~
+You stand atop the roof of an apartment building. About you are bits of
+trash and a small thicket of holovision antennas and satellite dishes.
+They seem to want to reach out and trip you or poke your eyes out. The
+sky above is dark and smoggy, while to the south is a view of the streets
+below. Buildings are all around, and this roof continues on north as well.
+~
+127 4 1
+0d0+0 0 0
+D0
+A collection of raggedly dressed children seem to have made a rooftop
+shelter to the north.
+~
+~
+0 -1 12728
+D1
+You see another rooftop to the east.
+~
+~
+0 -1 12729
+D3
+You catch a glimpse of greenery.
+~
+roof~
+0 -1 12723
+E
+buildings~
+
+They are all about you, though you see mostly rooftops where a few lone
+individuals slink about. This roof extends somewhat to the north, where
+it joins a few taller buildings.
+~
+E
+streets below~
+
+Lots of people and vehicles crowd the streets with their traffic. The
+noises they generate down there luckily is muffled somewhat by the time
+it reaches you. Two gangers seem to be having a scuffle in an alley to
+the southwest. It looks like they're just having fun though.
+~
+S
+#12726
+Atop a slum area building~
+From here, situated on the roof of a building, you have a clear view of
+the slums for a good distance. It seems to stretch all around for miles
+and miles! The entire city is grey and bleak, matching the sky. At your
+feet, feral pigeons walk about and coo. By the splotches of skin seen
+through feathers on some, you gather they are diseased. Best not touch.
+~
+127 0 1
+0d0+0 0 0
+D0
+To the immediate north, you see a vantage point that would give you
+a good view of the mountains to the west.
+~
+~
+0 -1 12722
+D2
+A fire escape leads up to the rooftop of the building to the south.
+~
+~
+0 -1 12746
+S
+#12727
+A curve along Sethe Way~
+This part of Sethe Way is at a bend, with the other two parts leading
+off east and south. The streets are not very crowded, not at all littered
+with debris. Well maintained buildings line the edges of the sidewalks.
+All the windows inside are heavily curtained to prevent prying eyes, and
+you only see occasional shadows behind them. Most of the buildings have
+a somewhat discreet sign on the front entrance, or hanging over.
+~
+127 0 1
+0d0+0 0 0
+D1
+Sethe Way continues in that direction, eventually ending up
+intersecting with Lyonis Avenue. There are small buildings all
+up and down the street.
+~
+~
+0 -1 12744
+D2
+A large number of parked vehicles mark the end of Sethe Way. That is
+where the most popular houses are.
+~
+~
+0 -1 12731
+E
+signs sign buildings~
+
+Like the buildings to the east, each has a sign, neatly and professionally
+done. Evidently, these are the names of the establishments along this
+Street of Pleasures. You make some out to be:
+
+     Turkish Baths
+     Oriental Delights
+     Nubia House
+     The Boardinghouse
+     Mistress Linna's
+~
+S
+#12728
+A rooftop haven~
+You stumble onto a small rooftop area hemmed in on the east, north, and
+west by tall, windowless buildings. This area seems to be the haven for
+a collection of kids ranging from toddlers to teens. Blankets and plastic
+tarps have been hastily drawn over wires attached to the walls of the
+buildings, and walls are composed of empty wooden crates and bits of old
+sticks and plastic sheeting. More blankets and old clothing are piled
+about on the concrete roof to serve as bedding areas and areas to sit.
+The children stare at you with their hollow, wary eyes, and you notice
+all are dirty, unwashed, and painfully skinny and malnourished.
+~
+127 0 1
+0d0+0 0 0
+D2
+You shelter your eyes and scan the rooftops.
+~
+~
+0 -1 12725
+S
+#12729
+Crossing from rooftop to rooftop~
+As you wander from rooftop to rooftop across this concrete-and-shingles
+terrain, you wonder how you can keep on going after so many climbing
+and jumping attempts that have so far left you unharmed. The rooftop to
+the east, however, looks to be a _very_ difficult jump. You stand here
+on this roof, contemplating the effort. A rat scurries by, annoying you.
+~
+127 0 1
+0d0+0 0 0
+D1
+You see a hard-to-jump-across rooftop over to the east.
+Be careful!! A single miscalculation could cost you your life!
+~
+~
+0 -1 12732
+D3
+You see a thicket of antennas and satellite dishes atop the roof
+to the west.
+~
+~
+0 -1 12725
+S
+#12730
+Deeper in the city's commercial district~
+You are definitely further in the heart of the city's commerical district
+now, your view of the sky hemmed in by tall buildings that house offices
+and banking institutions, as well as small-time corporations not yet able
+to afford a spot in the city's Corporate Zone. Throngs of people walk the
+streets, all on their way to someplace important. You are bumped and
+pushed every which way, by people you see once, and never will see again.
+~
+127 0 1
+0d0+0 0 0
+D0
+More shops and businesses line this busy avenue to the north.
+The press of people all around makes the claustrophobic part of
+you feel nauseous.
+~
+~
+0 -1 12794
+D2
+An extremely high and thick wall to the south prevents access to the
+city's Corporate Zone, where mega-corporations and government buildings
+are located, and where no one without a valid pass may enter. It is a 
+start reminder of the barrier between the have and the have-nots.
+~
+~
+0 -1 12795
+E
+buildings offices~
+
+All about you are signs of business. Buildings here are as high as 20 to
+40 stories, not as high as the skyline of the Corporate Zone further
+south, but surely impressive. The Helm Building, main branch of the local
+Helm Bank, is to the right. It has been inexistence for over 100 years,
+and still manages to exist despite competition from larger, more global,
+banks. Across from the Helm Building is a white 30-story that houses the
+offices of the Sant'angelo Investment Group, which owns, among other
+things, all 10 Fatburgers restaurants in this city and a great deal of
+local real estate.
+~
+E
+graffiti~
+
+A brave tagger somehow managed to scale the heights of building
+(or maybe he or she lowered him/herself from the roof) and
+sprayed:
+
+      Sy  C o   p H a Nt !#$$%
+
+over a good number of plate glass windows. No one seems to have
+noticed. Or maybe it's just fresh from last night. You wonder
+what it means, or rather, what message the tagger is trying to
+convey...
+~
+S
+#12731
+The end of Sethe Way~
+Sethe Way ends here, with establishments on all three sides except to
+the north. The street here has the heaviest concentration of parked
+vehicles and pleasure houses. Parking here is rather haphazard, and you
+realize those who are here first are also the last to go. A few trees
+line the sidewalks, and there are actual bits of lawn in front of the
+houses here. You'd gather the best places are at this end of the street.
+One in particular beckons to you from the east.
+~
+127 0 1
+0d0+0 0 0
+D0
+Sethe Way (or the Street of Pleasures, as you've now come to regard this
+area) curves east, eventually intersecting with Lyonis Avenue.
+~
+~
+0 -1 12727
+D1
+The front lawn of a rather impressive Victorian era house is to
+the east. A good number of people are waiting to get in.
+~
+~
+0 -1 12760
+S
+#12732
+A low ledge bridging two rooftops~
+Alas! Your jump is unsuccessful! Rather than dropping to your death
+several stories below, however, you have managed to catch onto this ledge
+jutting out between the two buildings - that is, if you've been tough
+enough to survive even this fall. If not, well, goodbye...
+If you have survived, best rest for a while and get yourself back together
+before proceeding. In the meantime, look around.
+~
+127 16390 1
+1d1+199 90 0
+D4
+A rusty-looking, but stable fire escape leads up from this ledge
+to the rooftop of the building to your east.
+~
+~
+0 -1 12734
+E
+around~
+
+You appear to be on a ledge between two buildings, having survived your
+failed jump attempt to land here. A fire escape leads up and onto the
+rooftop of your destination.
+~
+S
+#12733
+A low ledge bridging two rooftops~
+Alas! Your jump is not successful! Rather than falling to your death
+several stories below, you've managed to catch onto this ledge - that is,
+if you've been tough enough to survive even this fall. If not, goodbye...
+If you have, it's best if you pause here awhile and rest up before
+continuing. In the meantime, look around.
+~
+127 16390 1
+1d1+199 90 0
+D4
+A rusted fire escape offers a precarious route to the top of the
+building to your west.
+~
+~
+0 -1 12729
+E
+around~
+
+You appear to be on a ledge between two buildings, having survived your
+failed jump attempt to land here. A fire escape leads up and onto the
+rooftop of your destination.
+~
+S
+#12734
+A seemingly ordinary rooftop~
+The entire city spreads out below as you look around from this vantage
+point. The skies are not very clear, and you see little of the sun (or
+at night, the moon) through the thick haze of smog and clouds. Scraggly
+pigeons wing their way across the sky, as do a few planes, hovers, and
+choppers. Far to the south, a deserted courtyard can be seen.
+~
+127 0 1
+0d0+0 0 0
+D2
+Going there, you might get a better, close-up view of a
+deserted courtyard.
+~
+~
+0 -1 12737
+D3
+Careful now! There's a jump ahead that looks very dangerous! Perhaps
+you might want to rest up until you feel ready. Even so, success is
+not guaranteed.
+~
+~
+0 -1 12733
+D5
+A concrete panel lies here, amidst some ancient cigarette butts.
+~
+secret panel~
+1 12774 12774
+S
+#12735
+An isolated rooftop~
+Somehow you've managed to end up here at one of the many isolated city
+rooftops. This building is surrounded on all sides by streets, and the
+roof-access is locked from the inside, leaving you out here all alone.
+Or maybe not all alone... Strange how you find strangeness in such places.
+~
+127 0 1
+0d0+0 0 0
+S
+#12736
+An isolated rooftop~
+Somehow you've managed to end up here at one of the many isolated city
+rooftops. This building is surrounded on all sides by streets, and the
+roof-access is locked from the inside, leaving you out here all alone.
+Or maybe not all alone... Strange how you find strangeness in such places.
+~
+127 0 1
+0d0+0 0 0
+S
+#12737
+Overlooking a deserted courtyard~
+From here, looking south and down, you get a good view of a deserted
+courtyard. It appears hemmed in by buildings in every side, and has no
+exits. You gather it was closed off from the rest of the world a good
+while ago, and is now forgotten. This rooftop is much like any other
+you've seen, though you keep getting the feeling of being watched...
+~
+127 0 1
+0d0+0 0 0
+D0
+You see more of this expansive rooftop to the north.
+~
+~
+0 -1 12734
+D5
+Below you is the unkempt courtyard. you see a silken rope leading
+halfway down the building.
+~
+~
+0 -1 12789
+S
+#12738
+An isolated rooftop~
+Somehow you've managed to end up here at one of the many isolated city
+rooftops. This building is surrounded on all sides by streets, and the
+roof-access is locked from the inside, leaving you out here all alone.
+Or maybe not all alone... Strange how you find strangeness in such places.
+~
+127 0 1
+0d0+0 0 0
+S
+#12739
+An isolated rooftop~
+Somehow you've managed to end up here at one of the many isolated city
+rooftops. This building is surrounded on all sides by streets, and the
+roof-access is locked from the inside, leaving you out here all alone.
+Or maybe not all alone... Strange how you find strangeness in such places.
+~
+127 0 1
+0d0+0 0 0
+S
+#12740
+An isolated rooftop~
+Somehow you've managed to end up here at one of the many isolated city
+rooftops. This building is surrounded on all sides by streets, and the
+roof-access is locked from the inside, leaving you out here all alone.
+Or maybe not all alone... Strange how you find strangeness in such places.
+~
+127 0 1
+0d0+0 0 0
+S
+#12741
+An isolated rooftop~
+Somehow you've managed to end up here at one of the many isolated city
+rooftops. This building is surrounded on all sides by streets, and the
+roof-access is locked from the inside, leaving you out here all alone.
+Or maybe not all alone... Strange how you find strangeness in such places.
+~
+127 0 1
+0d0+0 0 0
+S
+#12742
+An isolated rooftop~
+Somehow you've managed to end up here at one of the many isolated city
+rooftops. This building is surrounded on all sides by streets, and the
+roof-access is locked from the inside, leaving you out here all alone.
+Or maybe not all alone... Strange how you find strangeness in such places.
+~
+127 0 1
+0d0+0 0 0
+S
+#12743
+An isolated rooftop~
+Somehow you've managed to end up here at one of the many isolated city
+rooftops. This building is surrounded on all sides by streets, and the
+roof-access is locked from the inside, leaving you out here all alone.
+Or maybe not all alone... Strange how you find strangeness in such places.
+~
+127 0 1
+0d0+0 0 0
+S
+#12744
+A small sidestreet~
+This is Sethe Way, also known as the Street of Pleasures by those in
+the know. This is the city's rather modest red light district, an area
+of converted apartment buildings now serving as small-time establishments:
+massage parlors, brothels, spas and bathhouses - often combining features
+of all! All up and down the street are three or four story buildings, each
+with a nice, professionally made sign out front.
+~
+127 4 1
+0d0+0 0 0
+D1
+Busy Lyonis Avenue connects to this small sidestreet.
+The noise of traffic and the large flashing holoverts make
+you feel somewhat nauseous. Why go that way when there are
+certainly better places around...
+~
+~
+0 -1 12724
+D3
+This street curves south in the distance.
+~
+~
+0 -1 12727
+E
+signs buildings establishments sign~
+
+The buildings are rather non-descript - well maintained, yet not so
+sparkling clean as to attract too much attention. Most of
+the buildings have signs on the front door, a few of which you
+can easily make out:
+
+     Le Chat
+     Morgan House
+     Othello
+     Mistress Ann's
+~
+S
+#12745
+An isolated rooftop~
+Somehow you've managed to end up here at one of the many isolated city
+rooftops. This building is surrounded on all sides by streets, and the
+roof-access is locked from the inside, leaving you out here all alone.
+Or maybe not all alone... Strange how you find strangeness in such places.
+~
+127 0 1
+0d0+0 0 0
+S
+#12746
+A tenement rooftop overlooking the slums~
+You have ventured upon the high rooftop of a tenement building, after
+having climbed a rusty metal fire escape. You share space with holovision
+antennas, satellite link dishes, furnace exhaust vents, and such the like.
+Around and about you, shadows seem to be moving, as you seem to detect
+movement out of the corners of your eyes, only to find nothing when you
+turn. A spooky feeling overcomes you as you shiver involuntarily.
+~
+127 4 1
+0d0+0 0 0
+D0
+The roof to the north is barely within jumping distance, though
+you could more easily climb down the fire escape and have an easier
+jump.
+~
+~
+0 -1 12726
+D2
+You see a lower rooftop that overlooks an empty alley.
+Some shadows seem to be moving across the roof there.
+~
+~
+0 -1 12749
+S
+#12747
+An isolated rooftop~
+Somehow you've managed to end up here at one of the many isolated city
+rooftops. This building is surrounded on all sides by streets, and the
+roof-access is locked from the inside, leaving you out here all alone.
+Or maybe not all alone... Strange how you find strangeness in such places.
+~
+127 0 1
+0d0+0 0 0
+S
+#12748
+An isolated rooftop~
+Somehow, you've managed to land here, upon one of the many isolated
+rooftops of the city. Constantly around you is a buzzing noise, though
+it is so faint you pass it off as just the noise of a furnace or the
+general hum of air conditioning all around. Where's an exit?
+~
+127 0 1
+0d0+0 0 0
+D5
+A crack in the roofing leads down into a hole or an attic.
+It is dark in there.
+~
+~
+0 -1 12750
+S
+#12749
+A building rooftop overlooking an obscure alley...~
+The Slayers intent becomes obvious as you survey the surroundings. This
+roof directly overlooks the alleyway entrance to the underground lair
+of their hated rivals, the Reds! Before you have a chance to fully
+digest this piece of information, the squad leader snaps his fingers
+and motions to his squad to silence you... permanently!!
+~
+127 4 1
+0d0+0 0 0
+D0
+A rusty fire escape leads up to the roof of a higher building north
+of here.
+~
+~
+0 -1 12746
+D5
+A thin silken rope leads down to ground level.
+~
+~
+0 -1 12761
+S
+#12750
+Within a nest~
+Cobwebs and dust cling to your clothes, as you enter this hole from
+above. You see bits of feathers and dried, regurgitated bones strewn
+about. A faint buzzing sound is your only warning as you realize you've
+entered a communal nest...
+~
+127 9 0
+0d0+0 0 0
+D4
+Weak light filters in from the world outside.
+~
+roof~
+0 -1 12748
+S
+#12751
+Along a busy street~
+You continue to travel about the streets of the city, encountering more
+of the grimy old building structures. Your senses are constantly assaulted
+by the noises, the smells, the masses of people, and the glaringly bright
+holovert projections constantly exhorting you to spend money on things.
+To the south are more commercial areas. Going north would take you to the
+poor northern residential sectors - the slums. Overhead, framed by roofs
+on either side, is the bleak grey sky. A few hovers dart about overhead.
+~
+127 4 1
+0d0+0 0 0
+D0
+Going in that direction would probably take you out of the downtown
+commercial districts and into the poor innercity slums.
+~
+~
+0 -1 12708
+D2
+Shops and establishments continue on to the south, eventually reaching
+the southern commercial downtown areas and the heart of the city.
+Buildings in that direction slowly begin to look more in repair.
+~
+~
+0 -1 12724
+E
+graffiti~
+Yet more defacement of public and private property brought about by
+the ease of availability (from street fixers, of course) of advanced
+bio-molecular bonding spray pants. The city and local businesses are
+hard put to clean up the mess, due to lack of funding and the fact
+that new tags are sprayed up all the time.
+     (In)famous taggers such as Allanon-17, Toran, Janfr, and Ann-X
+have become well-known throughout the city due to the wide dispersement
+and sheer numbers of their tags. They and others like them make nightly
+forays out and about the city, vandalizing property in a way that gains
+them fame. While some would discount them as young hoodlums, others
+take a different view. It is well known that taggers also happen to
+know things, and powerful people who harm the innocent often have their
+caricatures and deeds drawn out for everyone to see...
+~
+E
+holos holovert projections holoverts~
+Constantly shifty, flashy holographic advertisements try hard to entice
+you into spending money to buy things, go places, and see people...
+     Atop a building to your left is a giant holo projection demonstrating
+the features of ToyoFord's newest '21 model Sonic 3000, a sleek, sportsy
+6x6 fancar with a powerful 22.9 liter backmount engine, standard double
+fuel injection, and optional cyber-plugs - all for only 5mil in nuyens.
+     Other projections depict sunny vacation spots in Free Namibia,
+the Seychelles Republic, and Merry Olde England. These, apparently, are
+the hot tour spots of the 2020s.
+     You also see a few not-so-good-quality holo-signs (even a few cheap
+neon ones!) that proclaim the establishments up and down this street.
+~
+E
+buildings establishments~
+
+This area is beginning to show signs of commercial life, definitely a
+change from the poor slum areas to the north. All up and down this
+street are arranged the typical small establishments you would see.
+There is a small neighborhood grocery store, a holo repair shop, a
+small storefront church (amazing that people still believe in this day
+and age!), a grungy eatery or two...
+~
+E
+sky overhead hovers~
+
+The sky above is rather bleak, a perpetual gloom hangs over this
+city. Expensive hover-cars belonging to the rich elite of the city
+travel around overhead, though there are not many that fly over this
+part of the city. You see a Trauma-Team hover-van traveling at high
+speed off to some medical emergency, sirens screaming and lights
+flashing.
+~
+S
+#12752
+A private hallway~
+This upstairs hallway is lit by dimply glowing red light strips artfully
+concealed by dark panels of rare cherrywood set near where the walls and
+ceiling join. The overall effect is an illusion that the ceiling is the
+lightsource. A number of doors line the walls, two which seem unlocked...
+~
+127 13 0
+0d0+0 0 0
+D0
+At the end of this hallway is a wooden door leading to a private
+bedroom. From the knob hangs a white placard with words stenciled in
+an elegant script, 'Do Not Disturb'.
+~
+door~
+1 -1 12753
+D3
+Set flush against the west wall is a wooden door painted a dark pink
+color (just like the door to the north). There is also a 'Do Not Disturb'
+sign hanging from the knob. ~
+door~
+2 -1 12754
+D5
+By the noise of things, that's where all the indiscreet customers romp.
+~
+~
+0 -1 12755
+S
+#12753
+A softly lit bedroom~
+This is a plushly appointed room, with a mirrored ceiling and a large 
+king-sized bed in the center.  Soft light from a bedside lamp bathes the
+area in a dim, relaxing glow.  This room was obviously designed for sex!
+In fact, you see a few bodies writhing and squirming upon the bed already.
+You gasp in shock as you recognize that one of them is our beloved mayor's
+favorite son, well in the embrace of two of this house's luscious vixens!
+~
+127 9 0
+0d0+0 0 0
+D2
+There is an nice-looking wooden door to the south.
+~
+door~
+2 -1 12752
+S
+#12754
+A private bedroom~
+This room was dark until you burst in here with your light and surprised
+the occupants! There are used latex condoms lying around on the shag
+carpet of this rather dingy little room. The only furnishings in this room
+are a bed and a chair. That is fine, because your attention is not drawn
+to them, but to that familiar-looking man and a street whore in the center!
+~
+127 13 0
+0d0+0 0 0
+D1
+A door serves as the exit from this room. Leaving out it would
+take you to the hallway. ~
+door~
+2 -1 12752
+S
+#12755
+The Animal Bar~
+This is the Animal Bar! The entire room has been decorated in a jungle 
+safari theme, with trophies, furs, and stuffed animals used as impromptu
+racks for hanging panties and bras. Beautiful women walk around in skimpy
+animal costumes, carrying trays loaded with drinks for the patrons. You
+feel an intense urge to beat your chest and refer to yourself as Tarzan...
+~
+127 8 0
+0d0+0 0 0
+D0
+Murmurs of delight pierce the loud banter in this room.
+~
+~
+0 -1 12758
+D3
+Nude figures cavort in a pool brimming with squishy jelly.
+You see an old African American man standing at one end, holding
+up a plastic spoon.
+~
+~
+0 -1 12756
+D4
+A plush carpeted stairway leads up to more private rooms...
+~
+~
+0 -1 12752
+S
+#12756
+The room of the Jello Baths~
+A large pool here has been filled to almost overflowing with Jello. It
+covers much of this room, and goes down to a depth of about a foot or so.
+The fact that it's brimming over with jelly of all flavors does nothing to
+hamper the many nude bodies seen squirming and squishing in delight within
+it's jiggling depths. You sure wish you could join them! Whoopee!
+~
+127 8 0
+0d0+0 0 0
+D1
+Raucous laughter and plentiful booze and breasts - that's your
+impression of the room nearby.
+~
+~
+0 -1 12755
+S
+#12757
+The foyer of Diva's House of Pleasure~
+The heat permeating this room is distinctive of... well... body heat!
+Beautiful portraits of nude women fitting every delightful description
+adorn the walls here. A few potted plants share floorspace with sofas
+and armchairs. This must be the foyer room. The Pink Room would be east.
+~
+127 12 0
+0d0+0 0 0
+D1
+Murmurs of pleasure waft in from that direction.
+~
+door~
+2 -1 12758
+D3
+The entrance doors are laid over with fuzzy black velvet cloth.
+~
+doors entrance~
+2 -1 12760
+E
+portraits women walls~
+These portraits are _very_ tastefully done, and truly fascinating.
+Most are of women, either nude or scantily clad, though there is one of
+a handsome-looking, darkhaired man with intriguing reddish-brown eyes...
+     Various artists have painted these... You need to look closer to
+see the signatures though...
+~
+E
+closer~
+
+A painting of a beautiful, buxom brunette, dark brown eyes staring
+coquettishly at you and smooth alabaster skin glowing softly: by Dritz.
+     Another of a slender violet-eyed blonde, tastefully dressed in a
+skimpy lavender bikini bottom is signed at the bottom by a mysterious
+person known only as Tron.
+     The one immediately to your left, above a potted plant, is of
+another blonde, blue-eyed this time, rather pleasingly plump. She is
+staring at you, it seems, and her nipples are very large and pink.
+Dromacus must have done this one. She looks to be his type. Hmm... Yes,
+there's the abbreviated 'Drom' insignia.
+     The last one, of a wiry-muscled, darkhaired man, draws the most
+attention. His hair is tied back in a ponytail, and his reddish eyes seem
+to be looking down at his hands, which are bound together by chains.
+He seems amused! This painting is by Adriana Imagene, a noted artist of
+the Imperium.
+~
+S
+#12758
+The Pink Room~
+You feel so comfortable, gazing about you at the many delights in this
+cozy room. Large, fluffy pillows and cushions - each and every one of them
+in beautiful shades of pink - are plopped against the walls. And the
+nude bodies! You never dreamed of so much variety, so much abundance!
+~
+127 8 0
+0d0+0 0 0
+D2
+Bawdy laughter and merrymaking attract your attention for the
+barest of instances. There's much more fun to be had here!
+~
+~
+0 -1 12755
+D3
+A door leads out of this delightful Pink Room out to the foyer of
+this house. ~
+door~
+2 -1 12757
+D5
+Shrieks of delight echo upwards from a below a set of stairs
+set in the corner of this room. The stairs end at an exit.
+~
+exit~
+2 -1 12759
+S
+#12759
+The dungeon of Mistress Diva~
+You have ventured where few sane individuals would dare enter without first
+consulting a physician... Chains, racks, whipping posts, and other devious
+and devilish implements of torture align the walls in this most perfect
+replica of a medieval dungeon. Yet though you see pain, you see no signs of
+suffering. Some people truly are into sadism and masochism...
+~
+127 12 0
+0d0+0 0 0
+D4
+Up rickety wooden stairs is the exit to the Pink Room. You hear
+little from that direction, as screams of terror (pleasure?) fill
+your ears.
+~
+exit~
+2 -1 12758
+S
+#12760
+On the front lawn of Diva's House of Pleasure~
+You stand upon the well manicured, tree-lined lawn before a Victorian
+style house with gables and all, grinning in sinful anticipation as you
+prepare to embark upon a journey to explore the carnal pleasures of the
+body. This is the outside of Diva's House of Pleasure, here at the end
+of Sethe Way. Two smartly dressed bouncers guard the doors.
+~
+127 0 1
+0d0+0 0 0
+D1
+The tastefully done velvet doors of Diva's House beckon to you.
+Exciting sounds waft out from within.
+~
+doors entrance~
+2 -1 12757
+D3
+The end of Sethe Street meets the sidewalk.
+~
+~
+0 -1 12731
+S
+#12761
+An obscure alley~
+This is an out-of-the-way place, hemmed in by tall buildings on three
+sides, leaving the only exit back north. Yet this alley seems to show
+signs of recent traffic, and you see fresh boot tracks leading amidst
+random bits of rubbish and rusty trash containers to what seems to be
+a sewer hatch... You have this strange feeling of being watched...
+~
+127 4 1
+0d0+0 0 0
+D0
+More of the slums lie to the north.
+~
+~
+0 -1 12702
+D5
+A round sewer hatch is here beneath some scattered rubbish.
+~
+hatch manhole~
+1 -1 12762
+E
+manhole~
+A rusty manhole with a the symbol of a heavy double bladed axe etched on it's center.
+~
+S
+#12762
+In the sewers~
+The first thing you notice as your eyes get adjusted to the dim torchlight
+is that there are others here... Beyond that, this looks like an ordinary
+sewers, though there is not much of a smell beyond simple dampness - no
+serious rot or raw sewage, just water going drip-drip-drip...
+~
+127 9 0
+0d0+0 0 0
+D2
+The tunnel continues in that direction.
+~
+tunnels~
+0 -1 12763
+D4
+There is a hatch here leading up.
+~
+hatch~
+1 -1 12761
+S
+#12763
+A sewer intersection~
+You've arrived at a T-intersection in this relatively 'clean' sewer tunnel.
+There are exits north, west, and east. Water at your feet rises to about
+a height of six inches or so. A few old cigarette butts float by. You see
+Red guards all around you. Now what? Run?
+~
+127 265 0
+0d0+0 0 0
+D0
+The sewers continue in that direction.
+~
+~
+0 -1 12762
+D1
+A large room carved out of the surrounding rocks.
+~
+tunnel~
+0 -1 12764
+D3
+The sewers continue in that direction.
+~
+~
+0 -1 12765
+S
+#12764
+An underground checkpoint~
+This tunnel room is hewn out of the rock, a construction not part of the
+general sewer layout. You wonder about the fate of the people who were
+brought here to dig this and other rooms - certainly the Reds are too
+disorganized to do it themselves! There is a desk and some chairs here.
+~
+127 9 0
+0d0+0 0 0
+D1
+Loud laughter and some music flood in from the east.
+~
+~
+0 -1 12776
+D3
+You see a sewer intersection off in that direction.
+~
+~
+0 -1 12763
+E
+desk chairs~
+
+The desk is an old, beat up and badly scratched piece of plastic
+synthwood furniture. Knifes have carved in names and slogans the likes
+of which I will not mention for fear of insulting the more sensitive.
+The chairs are the same, pieces of touchened up plastic furniture that
+has seen alot of use since their molding in... ahh, there you see it...
+just behind the back of one, there's a small stamp... since their
+molding in 2004. These chairs are sixteen years old! They've been around
+since you were a kid! They look like it too. Tough as they are, they've
+taken abuse and look as worn and scratched as the table.
+~
+S
+#12765
+A drier tunnel~
+It is still damp here, but there is no water at your feet. By now, with all
+the Reds running around here, you've realized this must be the hideout
+of the notorious gang known as the Reds. There is graffiti all over the
+walls, scrawled or chiseled or painted. A few trophies adorn the walls.
+~
+127 9 0
+0d0+0 0 0
+D1
+You see an intersection in that direction.
+~
+~
+0 -1 12763
+D2
+Some Reds can be seen south of here...
+~
+~
+0 -1 12766
+D3
+You see more of these tunnel-like areas in that direction.
+~
+~
+0 -1 12771
+E
+trophies~
+Bleached skulls, mummified hands, particularly hirsuite scalps taken from
+victims of every gender, race, sexual persuasion, age, social and ethnic
+and economic background. The Reds are rather indiscriminate. They are even
+more indiscriminate in placement of these trophies - nailing them to the
+walls in no particular decorative pattern that you can ascertain.
+~
+E
+graffiti~
+
+Just general obscene comments about the Slayers, about the Reds, about
+everyone and anyone they hate or love. Do I really have to tell you
+everything in detail??
+~
+S
+#12766
+A recessed guard post~
+Weapons of all kinds are locked up in racks that line the walls of this
+post. This room is hewn out of the solid rock (probably during the days
+of the Great War), but has now, along with the rest of this section of
+the sewers, been taken over by the Reds. Some are seated around a card
+table, concentrating on the game at hand. They don't seem to notice you.
+~
+127 9 0
+0d0+0 0 0
+D0
+The tunnels are in that direction.
+~
+~
+0 -1 12765
+D1
+A group of Reds can be seen guarding a door.
+~
+~
+0 -1 12767
+S
+#12767
+Passageway, before a large metal door~
+A large metal door, rusting slightly in some places, occupies the
+south wall of this end of underground passageway. A large Reds
+bodyguard stands before it, picking his ears with a metal key. He
+leers at you, while his companions snort derisively.
+~
+127 8 0
+0d0+0 0 0
+D2
+A large metal door is set into the concrete wall. It bears the
+double-axe symbol of the Reds.
+~
+door metal~
+1 12768 12768
+D3
+A card table and weapons racks can be seen from this vantage point.
+~
+~
+0 -1 12766
+S
+#12768
+The main room of the Reds leaders~
+The furnishings are messy at best, without much semblance of order, much
+like the Reds themselves, who rely mostly on extortions, robberies, and
+an occassionall honest job to fund their leisure. It's a wonder the
+Slayers haven't wiped them out already! Then again, you get your first
+sight of Mr. Tyco Kain... VERY big, not at all too pleasant to look at,
+and the meanest bloodthirsty bastard to grace the Arena. A rusty grate
+is set into the floor beneath him.
+~
+127 8 0
+0d0+0 0 0
+D0
+A large metal door is set into the wall before you.
+~
+door metal~
+1 12768 12767
+D5
+A metal grate leads into a murky pit.
+~
+grate~
+1 -1 12769
+S
+#12769
+The Arena Pit~
+You land knee-deep in icky brown sludge. The room is actually cool, like
+a vast cavern. Up above is a very large grate that hangs to about where
+your head is - just about a foot above, in fact. The drip-drip-drip of
+water can be heard coming from somewhere in the darkness, but before you
+can investigate, you suddenly begin to hear sloshing sounds in the sludge.
+~
+127 13 0
+0d0+0 0 0
+D1
+There is a missing brick in this part of the arena wall...
+~
+wall stone~
+2 12770 12770
+D4
+A iron grate.
+~
+grate~
+1 -1 12768
+S
+#12770
+A secret equipment room~
+In this little cubby just barely large enough for a few people to fit
+in, you find piles of treasure all around! Many are too heavy to take
+- like the old metal chests against the walls that are bolted to the
+stone floor. But perhaps there are things you can take...
+~
+127 13 0
+0d0+0 0 0
+D3
+A stone wall.
+~
+wall stone~
+2 12770 12769
+S
+#12771
+A underground tunnel~
+The tunnel is drier here, with only occasional signs of dampness. It is
+still rather dark, the only illumination is your lightsource. East of
+here are more tunnels. And to the west, you see only darkness, though an
+awful smell emanates from there. You see muddy boot tracks on the floor.
+~
+127 9 0
+0d0+0 0 0
+D1
+More tunnels and sewers are to the east.
+~
+~
+0 -1 12765
+D3
+A thin trail of dried blood leads west.
+~
+~
+0 -1 12772
+E
+tracks floor~
+
+There are muddy tracks all over the floor. If you'd look closer, you
+would discover that there are traces of blood and bits of human hair
+mixed with the wet dirt and shit. Obviously the Reds never cared much
+for cleaniless or sanitation. It could help explain their high mortality
+rates.
+~
+S
+#12772
+A grisly torture chamber~
+This cheap torture chamber is in fact the latrine, or shithouse, of the
+Reds. What they have devised for amusement is to nick their victims with
+razors, salt their wounds, and then lower them screaming into the leech-
+infested shitwater below. A few 'bumped off' comrades also provide fun
+for these crude people. Right now there is even a corpse floating in there.
+~
+127 9 0
+0d0+0 0 0
+D1
+The tunnels are in that direction.
+~
+~
+0 -1 12771
+E
+corpse shitwater~
+
+The water looks brackish and very much full of shit, piss, blood, and
+alot of other stuff. There is a corpse floating in there right now.
+Face up, stomach bloated from the gas created by organic decay in his
+body, you'd judge that it's a week old. The face looks crusty, probably
+because it's been used for target pissing. A leech is currently crawling
+about in the ear. By the Reds tattoo on his chest, you'd gather he was
+former 'comrade'. By the way, did I mention how his eyes have shriveled
+up and looks infested with maggots and a few bits of fungus?
+~
+S
+#12773
+A small sidestreet~
+You find yourself upon a Suede Street, a small side street leading off
+from Lyonis Avenue to the west. Small brick homes dating to the late 1960s
+line either side of this street, their front lawns well watered and neatly
+trimmed, flowerbeds abloom. Trees line the old, cracked sidewalks you are
+walking along, providing shade in daytime. You seem ready to forget the
+rest of the city as you stand here. You feel like smiling.
+~
+127 4 1
+0d0+0 0 0
+D1
+Suede Street continues to the east, with more small homes and
+trees lining the street.
+~
+~
+0 -1 12792
+D3
+To the west is a very busy and crowded street.
+~
+~
+0 -1 12724
+E
+graffiti~
+
+No, there is no graffiti here. The taggers wouldn't think of it!
+Go look somewhere else, but not on this street.
+~
+E
+flowerbeds flowers lawns trees~
+
+Alot of green, at least more than you would ever have expected. Flowerbeds
+have been tended with care, and now sport poppies, daisies, and marigolds,
+among other flowers. The trees are decades-old magnolias that add a charm
+to this street with their fallen petals littering the sidewalk. The lawns
+are all neatly manicured, the blades of grass ripple in the gentle breeze.
+~
+S
+#12774
+A sumptuously furnished office~
+The furnishings of this room are simple, yet give it a grace and charm
+due to their understated elegance. You grudgingly admire the Slayer
+leader's decorative flair. Adorning walls of pure white are holo-paintings
+that truly capture your attention. Dully glowing empstones orbit in lazy
+circles above the smoothly polished black desk behind which stands the
+Slayer leader herself. Herself?!? She is a woman? How interesting...
+~
+127 8 0
+0d0+0 0 0
+D0
+A holo-painting is mounted in the center of this north wall.
+A black-lacquered door is set in a corner. ~
+door black~
+1 -1 12775
+D4
+A ceiling panel up there seems slightly different, you wonder why...
+~
+panel secret~
+1 12774 12734
+E
+holo paintings~
+The holo-paintings are of breathtaking, beautiful scenery. They show the
+natural majesty of the lands, their captivating aura, from the massive
+sand dunes of the Great Eastern Desert portrayed against a sky of deep,
+clear blue, to the haunted solitude of dark forest glades in the Haon'Dor.
+~
+E
+desk~
+A heavyset black-lacquered wood desk, polished to a glossy shine - so
+spotless and smooth you can see your reflection in it.
+     Upon it are some papers, olde style fountain pens, bottle and rest
+rack, and a souvenir from Jitta's years in the Coalition Special Forces.
+The souvenir is a polished human skull, slightly yellowed with age. This
+must have marked her first kill.
+~
+E
+empstones stones~
+Another product imported from the Coalition Imperium that you've never
+learned to use. The multi-coloured orbs do contain a fascinating quality,
+drawing your gaze to them like a moth to the fire...
+~
+S
+#12775
+A brightly lit hallway~
+This upper hallway looks to be in much better condition than the ones on
+the floor below. The walls are painted a clean white, and there is rich
+grey carpeting covering the floor. There are no windows, though there is
+are doors, especially promiment is one south of here.
+~
+127 12 0
+0d0+0 0 0
+D2
+At the end of this long hallway is a large black door. This seems the
+natural culmination of your visit to this complex - to go through.
+~
+door black~
+1 -1 12774
+D3
+There is a door set into the wall here. It is all black, lacquered thus
+and polished until it now shines. ~
+door black~
+2 12774 12778
+D5
+Spiral staircase leads down to the lower chambers.
+~
+stair~
+0 -1 12779
+S
+#12776
+The Reds' den~
+This is what the Reds do best! Pool tables, fridge, and an old, beat up
+CD player - these are their most prized possessions. No one causes mayhem
+nor parties harder than a Red ganger! It looks like it too. Most of the
+furniture is thrashed, and the vintage heavy metal music hurts your ears!!
+~
+127 9 0
+0d0+0 0 0
+D2
+A wide archway shows a series of bunks and sleeping bags.
+~
+~
+0 -1 12777
+D3
+You see nothing out of the ordinary.
+~
+~
+0 -1 12764
+E
+juke box~
+A old rustic juke box with fizzing neon lights sits in the corner, playing all
+the oldies bests and the new techno-cyber, from Great Balls of Fire to Electric
+Cowboys newest thrashing tune: Cyberjak Blues.
+~
+E
+pool table~
+Chipped and banged up from over use, many of the tables show signs of blood
+flakes from sore losers.
+~
+E
+bar~
+What constitutes a bar is actually a multituted of ice chests, magically chilled to keep all the best brews cool.
+~
+S
+#12777
+A communal sleep room~
+Bunks, sleeping bags, and mounds of dirty synthetic furs crowd the floor.
+Obviously the Reds are not known for their cleanliness or finesse. The
+entire place smells of unwashed bodies (there are no showers in this
+entire hideout) and you are bothered by the snoring of Reds sleeping out
+their hangovers. You suddenly feel itchy... Did a flea just... Hmm... Eww!
+~
+127 9 0
+0d0+0 0 0
+D0
+Loud music blares in from the rec room to the north.
+~
+~
+0 -1 12776
+S
+#12778
+A small storage room~
+A few large chests sit on the floor of this small room. Racks filled with
+equipment, supplies, and gear line the walls, bolted and locked in place.
+The entire area is dimly lit and smells musty. This place must not be
+visited often. You'd gather they rarely need to delve into these stores.
+~
+127 13 0
+0d0+0 0 0
+D1
+Before you is a door of lacquered black, though there is much dust on it.
+It is set into the thick concrete wall. ~
+door black~
+2 12774 12775
+S
+#12779
+A dimly lit hallway~
+The walls and ceiling are a drab grey that by now is getting on your
+nerves! This long, dimly lit hallway connects to an intersection to
+the west, and just nearby you are stairs leading up. You see that this
+area is slightly better lit, because of the brightness of the upper
+story above you. From here you can hear the hum of air conditioning.
+~
+127 8 0
+0d0+0 0 0
+D3
+A open door sits opposite you.
+~
+inner chambers~
+0 -1 12780
+D4
+You can't see much from this vantage point.
+~
+stair~
+0 -1 12775
+S
+#12780
+An intersection of hallways~
+You are at an intersection of hallways. The lighting here is still dim,
+and there seems little improvement in the quality of paint or the quality
+of concrete at your feet. What did you expect anyway? This is a defense
+complex - a hideout, not a vacation home! A large door leads north, and
+you espy sleeping quarters to the west. Hallways are south and east.
+~
+127 8 0
+0d0+0 0 0
+D0
+There is a door to the north, and through a window set in it, you can
+see a common dining area. This must be where the Slayers eat.
+~
+door~
+2 -1 12796
+D1
+A dimly lit hallway continues to the east, ending at stairs.
+~
+~
+0 -1 12779
+D2
+The dimly lit hallway continues south.
+~
+~
+0 -1 12782
+D3
+Bunk beds can be seen through the open doorway.
+~
+sleep~
+0 -1 12781
+S
+#12781
+Sleeping quarters~
+You are in a long hall that features an aisle down the center and
+rows of bunks on either side. And the end of each set of bunks
+is a locked cabinet and two footlockers. This must be the place where
+the Black Slayers sleep. It's almost like the military!
+~
+127 13 0
+0d0+0 0 0
+D1
+You see an intersection of hallways to the east.
+~
+~
+0 -1 12780
+D2
+To the south are more bunks.
+~
+~
+0 -1 12783
+S
+#12782
+A dimly lit hallway~
+Long fluorescent light tubes provide poor illumination, their light
+partially blocked by thick metal grille cages bolted under them to
+provide protection against breakage. You'd gather these Slayers must
+have some kind of vandalization problem, especially considering they
+recruit from the streets. The walls are painted a drab grey, almost
+matching the color of the concrete floor. Very monotonous.
+~
+127 8 0
+0d0+0 0 0
+D0
+Doors to the east and west form a T to the north.
+~
+inner~
+0 -1 12780
+D2
+The door to the city can be seen south.
+~
+sentry~
+0 -1 12784
+D3
+Bunks can be seen through the open door.
+~
+sleep~
+0 -1 12783
+S
+#12783
+Sleeping quarters~
+This room contains bunks for members who need to sleep here when they are
+working here. They are arranged in an orderly fashion indicative of the
+disciplining they receive in training. The Slayers are not slouches.
+There is also a showers and stalls area to the west, though uninteresting.
+~
+127 13 0
+0d0+0 0 0
+D0
+More of these bunks are deployed north of here.
+~
+~
+0 -1 12781
+D1
+Through the doorway is revealed a hallway.
+~
+~
+0 -1 12782
+S
+#12784
+The entry checkpoint~
+This room is sparsely furnished with a desk and a chair for the head
+sentry on duty. The rest of the room is bare of everything, though you
+notice that the grey concrete floor at your feet is the only surface
+that is not whitewashed. Fluorescent tubes protected by metal grilles
+provide illumination.
+~
+127 8 0
+0d0+0 0 0
+D0
+A hallway continues on.
+~
+inner~
+0 -1 12782
+D1
+Muffled laughter can be heard eastwards.
+~
+inner~
+0 -1 12785
+D2
+A lethal-looking spiked gate stands between you and the outside.
+~
+gate spiked~
+1 12784 12788
+S
+#12785
+A long hallway~
+You walk about on the plain concrete floors, looking about at the drab
+grey walls and the equally dismal ceiling for any signs of a break from
+the monotonous grey. An occassional light panel here and there catches
+your eye, but even so, after a while they, too, become an eyesore.
+~
+127 8 0
+0d0+0 0 0
+D0
+You hear sounds of fighting and blowing whistles from a door to the
+north. It seems there is some kind of commotion going on in there.
+~
+~
+0 -1 12786
+D1
+Some music can be heard drifting through from past a door at that
+end of the hallway to your ears. You also hear faint laughter.
+~
+~
+0 -1 12787
+D3
+In that direction, you see a few sentries at the checkpoint that
+regulats access into this building.
+~
+~
+0 -1 12784
+S
+#12786
+The training gym~
+Various pieces of training equipment are on racks here: weights, gloves,
+helmets, bodyprots. Large circles have been drawn out on the floor to
+indicate combat zones. In each circle you see a life-sized dummy being
+used as a mock opponent. Before your very eyes, the dummies stir to life!
+~
+127 12 0
+0d0+0 0 0
+D2
+You see a dim grey hallway to the south.
+~
+~
+0 -1 12785
+S
+#12787
+The lavishly appointed recreation lounge~
+Aside from assassinations for hire, pleasuring themselves at Diva's,
+and slitting the throats of unwary Reds, the Slayers also like to hang
+out here, especially after a hard day of training sessions.
+     Plush red carpeting grace the floor, and comfortable armchairs
+and couches litter the entire area. One end features casino tables,
+arcade games, and pool tables, while at the other end is a long automated
+wet bar. All about you are Slayers, relaxing and enjoying themselves.
+~
+127 12 0
+0d0+0 0 0
+D3
+You see past the exit doors a long, dim hallway that would
+lead you to a checkpoint at the far end.
+~
+~
+0 -1 12785
+E
+bar~
+
+You are decidedly impressed by the expensive crystal bar and the
+quality of the imported beverages. The entire bar is automated, tended
+by a roving bot behind the counter.
+~
+E
+games arcade~
+A few antiquated pinball and old-time video arcade games sit there.
+One seems to be a hacked version of some Commandos-type game, except
+the enemies are all wearing distinctive Reds attire. You smile to
+yourself as you see the Slayers miniatures blasting away at the enemy
+Reds on the screen. If only life were so easy...
+~
+E
+tables casino pool~
+
+At the moment, none of the gambling tables seem to be manned. Some of
+the Slayers, however, are playing a game of high-stakes pool in a corner.
+One of their dead comrades - at least his upper half anyways - is perched
+precariously upon a stool, with his face propped over a corner pocket.
+His lower jaw has been completely sliced off so his head can rest over it
+and yet still allow incoming shots to the pocket. That unfortunate fool
+must have forgotten his money...
+     Amazingly, there are no signs of blood or body parts or stains!
+Ahhh! Now you see it! There is a cleaning bot meticulously wiping away
+each drip of blood as it leaves the body. It must have already cleared
+away the large pieces of mess...
+~
+S
+#12788
+Before the main gate of the Slayers complex~
+You are before the main gate of the Slayer complex.  The caulking on the
+walls has begun to crack and deteriorate with age.  Even so, this room is
+easily one of the most defensive sites in the city.  Small wooden doors
+lead east and west into darkness, while a large spiked gate is north.
+~
+127 12 0
+0d0+0 0 0
+D0
+A large spiked gate blocks your path.
+~
+gate~
+1 12784 12784
+D1
+Small gates lead into the gloom.
+~
+murder~
+0 -1 12791
+D2
+The steel gate entrance to this entire complex is to the
+south. Beyond it would be the unkempt courtyard.
+~
+gate door steel~
+2 -1 12789
+D3
+Small gates lead into the gloom.
+~
+murder~
+0 -1 12790
+S
+#12789
+An unkempt courtyard~
+You drop into a large, unkempt courtyard surrounded on all sides by tall
+buildings. The pavement of cracked white flagstones is ridden with weeds
+and bits of windblown debris - dried leaves, ashes, etc. In the center of
+this square is a fountain, long dried up. A weathered stone statue of a
+woman stands in its center. The only visible exit is north - a steel door.
+~
+127 4 1
+0d0+0 0 0
+D0
+A large, rusted steel door is recessed in an imposing stone
+wall to the north. It appears to be the main entrance to a
+building, though the appearance of this courtyard would lead one
+to assume there are no inhabitants in this area.
+~
+gate door steel~
+2 -1 12788
+E
+statue stone fountain figure~
+
+The fountain in the center of this courtyard is all dried up. Debris
+pile up against parts of the low circular wall that would in better
+days contain the pool.
+     In the center of this is a weathered stone statue of a woman.
+She is sculpted very realistically in the classical style, with an
+expression of peace on her face, almost radiating an aura of calmness
+and serenity. She wears a simple dress that manages to cover all, yet
+not detract from the beauty of her form. You notice you like the way
+the artist has shaped the hair, putting it up in a bun, yet allowing
+tiny wisps of hair to escape... She appears to be carrying what used to
+be a water vessel and bending over gently to pour out the contents.
+Alas, the source is dry, and she stands there, long forsaken.
+
+A small inscription is at the base, a few inches below the watermark.
+You'd have to get closer for a better look.
+~
+E
+closer~
+
+A word has been chiseled in here. It reads, 'Jera'.
+You wonder what that means...
+~
+S
+#12790
+The west murder room~
+Dubbed 'murder rooms' for their strategic placement to one side of a
+fortress entrance, these rooms are notorious for crossbows and spears
+occupants can aim at would-be intruders. These days, the Slayers go for
+spears still, for fear of maiming their fellows in the room opposite.
+~
+127 13 0
+0d0+0 0 0
+D1
+The main entrance can be seen from here.
+~
+entrance~
+0 -1 12788
+S
+#12791
+The east murder room~
+Dubbed 'murder rooms' for their strategic placement to one side of a
+fortress entrance, these rooms are notorious for crossbows and spears
+occupants can aim at would-be intruders. These days, the Slayers go for
+spears still, for fear of maiming their fellows in the room opposite.
+~
+127 13 0
+0d0+0 0 0
+D3
+The main entrance can be seen from here.
+~
+~
+0 -1 12788
+S
+#12792
+A small side street~
+More quaint homes line the street, their well-cared-for lawns and large
+leafy trees help make this area look nicer. The sidewalks and homes are
+old, but have been kept in good repair. Suede Street continues to exist
+because local residents fought hard back in '09 to prevent new zoning
+regulations from turning this place into a commercial area. There is
+truly a sense of community here, and people help their fellow neighbors.
+~
+127 0 1
+0d0+0 0 0
+D1
+Suede Street ends in a cul-de-sac to the east. It appears
+the trees there are somewhat closer together and much more leafy.
+~
+~
+0 -1 12793
+D3
+More of this peaceful street can be seen to the west. Further along
+and you would encounter a busy and crowded street.
+~
+~
+0 -1 12773
+S
+#12793
+A cul-de-sac at the end of Suede Street~
+Suede street ends here in this cul-de-sac. The small brick homes all
+look very pretty, and it is especially here that the trees along the
+sidewalk grow in such close proximity. You admire the efforts of this
+tiny community of people who have made this place a nice place to live.
+Somehow the sky does not appear so dark and bleak, and the air smells nice.
+~
+127 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 24800
+D3
+The rest of Suede Street is in that direction, where, in the
+distance, it connects up to a busy intersection.
+~
+~
+0 -1 12792
+S
+#12794
+In the commercial district~
+The streets are truly crowded now, as you are in the heart of the
+busy downtown commercial district. Tall skyscrapers dot the skyline
+to the south, businesses and office buildings are all around. A few
+shops are around, but most are the trendy eateries and such. Not much
+trash litters the streets and sidewalk, and many hovers can be seen
+taking off and landing from various of the tall buildings around here.
+There are even a few armed security guards keeping the peace.
+~
+127 0 1
+0d0+0 0 0
+D0
+This busy avenue continues north, hustling and bustling with
+energy. Far to the north would be the poor residential slums
+of the city. Surely you'd rather stay around here!
+~
+~
+0 -1 12724
+D2
+More of this city's downtown can be seen from here, along with
+the towering skyline of this city's Corporate Zone. The traffic
+and smog and masses of people really make you feel dizzy.
+~
+~
+0 -1 12730
+E
+graffiti~
+
+There is no graffiti here. In fact, don't bother looking much.
+You won't find much, I promise you. Or do I?
+~
+E
+buildings offices office businesses~
+A good number of trendy shops are all around, occupying the ground
+floors of the tall buildings around you. Above them are offices and
+corporate apartments. Places you see include:
+
+     The Cardinal - a luxurious five-star hotel located in the heart
+          of the city that boasts penthouses with spectacular views
+     Adriana's - a high-priced store catering to the ultra rich and
+          ultra fashionable, they only sell their own line, none other
+     MacLeod's of Dublin - A cigar and tobacco import & export shop,
+          reputed to have the best blends and Imperium leaf-rolls
+~
+S
+#12795
+The end of the line~
+There are few people here, perhaps because this is where a major check-
+point has been installed, and there are several guards standing here to
+prevent entry into the downtown Corporate Zone, where skyhigh buildings
+house the office and residential complexes of the rich multinational
+corporations. There is no way in, for the gate is electronically locked
+from the other end, and the guards here are merely for show. Overhead,
+a few hovers flitter about, unconcerned with the traffic below.
+~
+127 0 0
+0d0+0 0 0
+D0
+The commercial district of the city leads north from here, away from
+this harsh reminder of reality.
+~
+~
+0 -1 12730
+D2
+Before you is an extremely high wall made of solid concrete that must
+be several feet thick. A large steel door capable of letting entire
+vehicles through has been installed here, and is guarded day and night.
+There is no way in. Sorry, best turn back.
+~
+gate~
+2 1204 12798
+S
+#12796
+The kitchen and dining area~
+This is a large room given over to the gastronomic needs of the Slayers.
+The front of this area consists of dining tables and chairs arranged in
+strict order. The rear area houses the food preparation area, as well as
+an exit to the street. A few Slayers mill about here, eating or resting.
+~
+127 12 0
+0d0+0 0 0
+D2
+The hallway intersection would be in that direction, past a door.
+~
+door~
+2 -1 12780
+S
+#12797
+SPARE ROOM~
+~
+127 0 0
+0d0+0 0 0
+S
+#12798
+Past the checkpoint~
+You should not be here. This is a restricted room.
+Notes for immortals:
+
+     This area was first built by Yendle, and consisted of add-ons
+to the original Midgaard area. He completed his work around October
+of 1994. I, Raul, took on revision of this zone with his permission
+(as the area was still his by rights), and altered/changed many
+rooms, mobs, items. In fact, I changed almost everything either
+slightly, or alot. Work was completed May 1995.
+     If there are any problems, please report to me.
+
+~
+127 1036 0
+0d0+0 0 0
+S
+#12799
+Passiflora's Room~
+A threadbare Persian carpet covers the sandy floor. On a curiously carved
+coffee table between two old armchairs a half-empty box of handmade
+chocolates and two well-thumbed books: _Decline and Fall of the Feline
+Empire_ and _1000 Years of Mousitude. Several oil paintings in heavy gilt
+frames adorn the walls. They all feature mysterious morphmouse maidens
+with torrents of wavy hair and bee-stung lips, their heavy-lidded eyes
+gazing challengingly into yours. Each painting is signed 'FRB', indicating
+they are the work of the Furry Raphaelite Brotherhood, probably Dante
+Gabriel Moussettis. On one wall hangs a tapestry with a Celtic knot woven
+into it's centre. A rope ladder uncoils from a hole in the ceiling.
+~
+127 8 0
+0d0+0 0 0
+S
+$

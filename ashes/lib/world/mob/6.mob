@@ -1,0 +1,1083 @@
+#600
+bouncer~
+a bouncer~
+A bouncer is here, leaning back in his chair
+~
+This man is wearing a skintight, sleeveless shirt that shows
+off his hard earned muscles well.
+~
+10314 0 -100 W
+25 14 0 10d6+600 2d2+7
+600 39000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#601
+Toni~
+Toni Diebold~
+Toni Diebold is sitting here, looking pretty.
+~
+This woman is tall with brown hair and hazel eyes.  She is
+dressed in a bathrobe and slippers while she prepares for her
+nightly show.
+~
+2122 0 200 W
+24 25 -8 9d10+700 3d4+2
+10 23000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-80 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#602
+Johnny~
+Johnny Kelly~
+Johnny Kelly is sitting here talking to Patch
+~
+This is a VERY good-looking man.  His dark hair and dark eyes
+hide what could be a very sinister side of him.  He is dressed
+in a white suit with a black shirt and white tie underneath.  A
+black fedora covers his head.
+~
+12298 0 -200 W
+34 17 -3 40d40+80 4d5+8
+3500 50000
+8 8 1
+15 0 13 13 13 13 0
+0 2 0
+-30 0 4 0 0
+15 15 15 15 15
+0 0 0
+6 0
+#603
+Patch~
+Patch~
+Patch is sitting here listening to Johnny.
+~
+The first thing you notice is the patch that this man has over
+one of his deep blue eyes.  His hair is dark and he is wearing a
+long black trenchcoat over a black pinstripped suit with a white
+shirt and black tie.
+~
+8266 0 -400 W
+41 18 -6 10d6+1500 5d4+14
+6100 80000
+8 8 1
+17 0 15 13 15 13 0
+0 2 0
+-60 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#604
+BlackJack~
+BlackJack~
+Blackjack is here, ready to deal you in to a game.
+~
+Blackjack smirks at you as you try to get a good look at him.
+He is about, you figure, 5'10 and rather lean.  You notice a pair
+of .45 automatics in his shoulder holsters which are only seen
+because he has removed his jacket.  His black hair is messed up
+as if he usually wears a hat, but he doesn't have it on now.
+~
+4194314 0 -25 W
+50 24 -30 20d20+40 10d10+42
+40000 131000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-300 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#605
+gunmoll~
+gunmoll~
+A gunmoll is here looking pretty and looking dangerous.
+~
+This doll is beautiful.  Her long legs and baby blue eyes can
+tempt the heart of even the truest man.  Her flowing, shoulder
+length, blonde hair adds to the effect.  You should probably
+stay away from her though as she is probably the moll of some
+member of one of the mobs.
+~
+204 0 1000 W
+8 4 3 10d20+40 2d4+2
+30 4000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#606
+patron~
+bar patron~
+A barpatron is here looking angrily at you.
+~
+The barpatron is kind of muscular, but is starting to develop a
+bit of a beer belly.  His jacket is laying over the seat next to
+him which lets you get a good look at the gun he could easily use
+to try and kill you.  He looks as though he is upset with your look.
+~
+4108 0 -200 W
+12 10 2 15d11+40 2d4+5
+75 11000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#607
+reporter~
+cub reporter~
+There is a cub reporter here asking for details about a killing last night.
+~
+This kid looks to be somewhere between 12 and 16 and is busy
+sticking his nose into other people's business.  He hopes to
+someday be a full fledged reporter.  But only if he can survive.
+~
+204 0 300 W
+10 9 4 20d10+50 2d4+3
+40 6000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#608
+cabbie~
+cabbie~
+A cabbie shouts obscenities at you from his open cab window.
+~
+A relatively short, pudgy man.  He is wearing a grey sweatshirt
+with hood and the sleeves rolled up.  A quilted vest is worn over
+the sweatshirt.  You can tell that if the man took off the green
+plaid golf cap he would be balding.  A big stogie sticks out of
+his mouth, barely burned.
+~
+2120 544 100 W
+29 11 -4 5d10+700 5d7+5
+1500 53500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#609
+Bugs~
+Bugs Moran~
+Bugs Morgan stands here.
+~
+A short man with greased back, black, ducktailed style hair.
+He is wearing a black suit and black pants with a bream colored
+carnation in his lapel.  You notice a gun, half hidden by his
+suit jacket, on his right side.
+~
+74 0 100 W
+70 40 -26 10d10+5000 10d10+40
+10000 226000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-260 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#610
+gunman~
+gunman~
+A gunman is pointing his gun at you.
+~
+The gunman is wear ing a black fedora and a long trenchcoat.
+~
+72 0 -300 W
+14 5 0 10d5+200 3d3+7
+75 16000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#611
+girl~
+Roulette girl~
+A roulette girl is here, ready to spin the wheel.
+~
+The roulette girl is dressed in a flapper dress cut very short
+on her.  She seems to know how to carry herself around men, and
+is, in fact, the center of attention for most of the men here.
+~
+8202 0 100 W
+44 40 -10 10d10+2800 5d5+20
+1000 70000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#612
+sailor~
+sailor~
+A sailor is just strolling along.
+~
+The sailor is dressed in white pants and a white shirt accented
+with blue designs.  On his head he is wearing a sailor's cap. He
+seems to be quite happy to be ashore.
+~
+4168 0 500 W
+23 12 -1 5d6+425 3d3+3
+500 38400
+8 8 1
+15 0 13 13 15 14 0
+0 2 0
+-10 0 4 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#613
+PI~
+PI~
+There is a PI crouched here, looking for clues.
+~
+He's dressed in a business suit and tie.  He seems to be looking
+at something VERY closely.
+~
+12 262144 100 W
+14 10 -1 5d5+300 2d3+5
+100 16000
+8 8 1
+13 0 15 15 13 13 0
+0 2 0
+-10 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#614
+rat~
+a rat~
+A rat is here eyeing you hungrily.
+~
+Big, brown, ugly.  What else do you have to know?  It's a RAT.
+~
+170 0 -20 W
+1 2 10 4d4+35 2d1+1
+0 100
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 10
+#615
+spider~
+a spider~
+A big, hairy spider is here spinning a web
+~
+The spider is big, black and hairy.  Its long legs scurry along
+the web trying to make an interesting design.  It notices you
+looking at it and it springs to attack!
+~
+42 0 20 W
+1 2 9 1d8+30 1d1+2
+0 100
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 10
+#616
+shark~
+Great, White, fresh water Shark~
+There's a mighty big fish here.  You belive it may be a SHARK!!
+~
+By the dorsal fin and the shape of its tail, you can tell that
+this is a Great White shark.  But what is it doing in fresh water?
+Seems that this shark can live in fresh water, in fact it seems
+to thrive on it.
+~
+4202506 0 -200 W
+52 40 -30 10d7+3200 2d2+40
+0 141000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-300 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#617
+guard~
+Bank Guard~
+A Bank Guard stands here guarding the vaults
+~
+Dressed in a dark blue uniform and armed with his trusty sidearm,
+the bank guard is here to protect your money.
+~
+74 128 500 W
+50 25 -6 50d35+15 5d7+20
+15000 130000
+8 8 1
+18 0 13 13 13 13 0
+0 3 2
+-60 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#618
+Jones~
+Mr. Jones~
+Mr. Jones is here to help with your jewlery selection.
+~
+Mr. Jones looks as though he's about 30 years old.  He seems to be slightly
+pudgy, probably from his wife's home cooking, but you've heard he can be
+quick if you try to steal from him.  YOu notice a gun on his left hip, half
+covered by the suit jacket he is wearing.  Mr. Jones is smiling at you 
+trying to help you decide what to buy.
+~
+8202 0 100 W
+75 19 -100 30d6+10000 30d6+16
+80000 221000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#619
+Doctor Jack~
+Dr. Jack~
+Doctor Jack stands here holding a patient chart.
+~
+Dr. Jack is standing here going over some patient files.  He
+looks up as you approach, but looks uninterested in your scrutiny.
+He turns back to his files and quickly scans the next page.
+~
+18504 8 298 W
+27 12 0 30d11+90 7d4+8
+1000 48000
+8 8 1
+13 0 13 13 13 13 0
+0 3 0
+0 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#620
+Johnson~
+Mr. Johnson~
+Mr. Johnson is ready to help you.
+~
+Mr. Johnson is a short stocky man with a balding head.  He is
+rather jolly and is fun to be around, unless you're caught trying
+to steal from his store.  Then he becomes a tyrant that has no match!
+~
+24586 0 500 W
+63 40 -100 10d7+5800 3d3+50
+50000 196000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#621
+clerk, furrier~
+the clerk of Mariano's furriers.~
+The clerk looks too dim to work here, but his muscles change your mind.
+~
+A large individual, who seems mendally slow.  His hulking frame is
+built like a fighter, and seems to bulge as you look at him.
+~
+2123 0 -100 W
+75 40 -10 10d10+15000 10d10+25
+10000 226000
+8 6 1
+13 0 13 13 13 13 0
+20 3 2
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#622
+Torina~
+Torina~
+Torina is standing here greeting people at the door.
+~
+You can tell from her complexion that Torina is not too far
+gone from the old country.  Her dark hair and complexion makes
+you think of a mafia movie, and you quickly realize why her
+restuarant is so successful.
+~
+10 128 -17 W
+75 40 -20 10d10+14000 10d10+23
+3600 226000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-200 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#623
+fisherman~
+fisherman~
+A fisherman sits here putting a worm on his hook.
+~
+The fisherman is dressed in overalls and a plaid shirt.  He
+looks very old and grey.  His hands shake as he tries to put
+the worm on the hook.  Looks as though the worm might win!
+~
+10 0 600 W
+3 3 7 4d4+50 1d4+1
+5 500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#624
+Stacey clerk~
+Stacey~
+Stacey is the clerk here and she is waiting to help you.
+~
+Stacey looks to be about 18 years old.  Her mouth works around
+a huge wad of gum and it looks like she hasn't moused her hair
+in about 5 minutes.  Stacey walks over to you and gives you a
+seductive little smile before she starts asking you about what
+you need help with.
+~
+138 128 29 W
+28 11 -1 50d14+100 8d3+6
+1200 51000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#625
+Samson~
+Samson the fish dealer~
+Samson is here to get your fish order for you.
+~
+Samson looks as if he could easily be an old sea captain.  He
+looks weathered and gray as if he has fought many great fish and
+not just in the Great Lake behind the stand.  He glances at you
+as you look at him then he sighs and goes back to the magazine
+he was reading.
+~
+24586 0 200 W
+39 17 -5 100d20+100 4d6+10
+500 78000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#626
+Jerry barber~
+Jerry the Barber~
+Jerry the barber is working on a customer as you walk in.
+~
+As you walk up to Jerry, his attention shifts from the little
+boy whose hair he is cutting, to you.  He takes a quite glance
+at your attire and sighs.  The he says to have a seat while you
+wait for your turn to come around.
+~
+10252 0 827 W
+35 20 -5 60d12+75 5d5+17
+15000 68500
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#627
+charlie bartender~
+Charlie the Bartender~
+Charlie the Bartender is here waiting for your drink order.
+~
+Charlie is a middle-aged man.  The only reason he was able to
+bring his bar into the casino was because he was good friends
+with Markus, the owner of the Blue Parrot.  Charlie is willing
+to listen to your problems if you are willing to talk to him.
+~
+10 0 400 W
+25 19 1 50d35+39 3d4+9
+9000 43500
+8 8 1
+18 20 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#628
+preacher pastor father whitman~
+Reverend Whitman~
+Reverend Whitman is stand in the pulpit talking about Christ.
+~
+Reverend Whitman looks like the epitome of christian goodness.
+His dark suit contrasts his white hair and he seems almost
+godly to you.  Your eyes meet and you can sense the power that
+hides behind his inncoent charm.
+~
+2378 65664 893 W
+74 25 -8 90d30+100 8d3+20
+1000 226000
+8 8 1
+13 0 13 13 13 13 0
+0 3 0
+-80 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#629
+Sam the Usher~
+Sam the Usher~
+Sam the Usher is here to guide you to your seat
+~
+Sam the usher patiently stands here.  He is wearing a spotless
+uniform with a great deal of gold trim.  Working with his trusty
+flashlight, he is always ready to help you find a seat.
+~
+10 128 25 W
+42 15 -2 50d50+25 4d8+15
+15000 86000
+8 8 1
+16 0 13 13 15 13 0
+0 2 2
+-20 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#630
+busboy~
+the busboy~
+A busboy is here tossing glasses into his cart.
+~
+The busboy looks up at you when you approach him, but he doesn't
+seem very interested it what you think.  He goes back to tossing
+all the plates and glasses into his wash tub without much thought.
+~
+12 0 -89 W
+7 2 4 10d5+50 4d2+2
+75 3000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#631
+lighthouse keeper~
+the lighthouse keeper~
+The lighthouse keeper is here polishing the light.
+~
+Before you stands a scrawny old man.  His wrinkled eyes peer at
+you through wire rimmed spectacles. He looks like he hasn't shaven
+in weeks and his smell make you think that he had a bath last
+July, whether he needed it or not.
+~
+141 0 100 W
+20 5 0 5d10+100 5d2+5
+1500 6000
+8 8 1
+13 0 13 13 17 13 0
+17 2 2
+0 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#632
+yappy dog mutt pooch hound~
+Yappy dog~
+One of those annoying, yappy dogs your grandma likes is barking here.
+~
+The dog perks up at your attention.  He runs over and starts
+trying to climb you your leg. (or at least you hope he is trying
+to climb.) It reminds you of the time your grandma told you she
+had a surprise for you and it piddled in your lap.
+~
+8 0 23 W
+3 1 6 5d2+20 3d2+0
+30 45
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+60 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#633
+boy kid scooter~
+a kid on a scooter.~
+You leap off the sidewalk as a kid on a scooter flys by.
+~
+A boy riding a scooter made of old roller skates and an
+orange crate.  He seems to be picking up all sorts of things, like string,
+and anything else he can trade with other kids.
+~
+12 0 -90 W
+5 3 3 20d4+40 4d3+3
+75 500
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+30 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#634
+Derrick~
+Derrick~
+Derrick is here ready to make a deal with you.
+~
+Derrick is tall and thin with dark brown hair and glasses.  He
+seems interested in what you might be able to sell him.  He'll
+buy a lot, but even he admits that he won't by everything.
+~
+2058 0 400 W
+16 15 -4 40d10+100 5d5+5
+9000 7000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#635
+bellhop~
+the bellhop~
+A bellhop lounges up against a counter while waiting for you.
+~
+This guy looks like he has seen it all happen at this hotel
+or another.  From movie stars to sex scandals, you think this
+is the guy to ask.  He looks up at you as you approach.
+~
+12 0 376 W
+10 4 1 50d2+100 4d3+2
+500 4000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#636
+clerk concierge man~
+the Concierge~
+The hotels concierge is here helping guests to get what they need.
+~
+If you need it, then this man can get it.  He has contacts so
+deep that even he doesn't know who they all are.  He can get you
+a little company, or a little happy-time dust.  Whatever you like
+is what he can get for you.
+~
+12 0 0 W
+18 7 -1 100d4+100 5d4+5
+9000 7000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#637
+engineer agent ~
+a train engineer~
+A train engineer waits patiently for the next train, and his call to duty.
+~
+A middle-aged man sits here passing the time by reading the
+paper and constantly checking his watch.  You hear him mutter,
+'The 8:15 is late again....'
+~
+2441 8 700 W
+12 10 -2 10d20+50 2d9+3
+200 5000
+6 8 1
+13 0 13 13 13 13 0
+17 2 2
+-20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#638
+businessman man patron worker~
+Hotel businessman~
+Av overworked businessman is having a bad dream here.
+~
+You have seen him everywhere you go.  Sitting alone in a bar,
+eating a club sandwich in the restaurant, being miserable in
+general is his way of life.  He works far too much for far too
+little and never complains about it.  It has given him a cronic
+ulcer problem which causes him to shudder in pain every so often.
+~
+136 2048 690 W
+8 5 2 20d3+75 4d2+1
+450 2000
+4 4 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#639
+maid~
+hotel maid~
+A maid for the hotel is here vacuuming the floor.
+~
+A little old lady in a white uniform.  You've seen her before.
+~
+12 0 500 W
+7 4 3 30d2+75 5d2+0
+100 700
+8 8 2
+13 0 13 13 13 13 0
+0 1 0
+30 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#640
+hooker prostitute whore ho woman girl~
+Working girl~
+A working girl stands here and says, 'I have something you might want.'
+~
+From the clothes she is wearing, you would guess that she has
+not changed changed in about 3 days.  Maybe it is just you, but
+anything that is supposed to be skintight just shouldn't have
+wrinkles in it.  Maybe she just needs the right guy to show her
+the error of her ways.  She's not really all that bad looking,
+maybe you should give it a try...
+~
+140 0 250 W
+5 1 5 20d2+40 4d3+2
+90 400
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#641
+customer woman lady~
+Trolley customer~
+A harried customer sits here waiting for the train.  She looks upset.
+~
+Disheveled hair and completely messed make-up marks this woman's
+appearance. She looks as if she has been waiting 3 years for the
+next bus, and from the look of the station she may well have been.
+She doesn't look like a happy camper right now and she stares at
+you for intrusion into her own hell.
+~
+10 0 430 W
+13 5 0 20d5+100 7d2+4
+300 1500
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#642
+Mariano~
+Mariano the Furrier~
+Mariano sizes you up as you walk in the door, maybe he has your size.
+~
+Mariano looks quite a lot like some of the merchandise he sells.
+He has a weasely face and you are constantly reminded that he
+needs a bath by the odor wafting your way.  The fur cap on his
+head looks more like a glorified road kill than anything else.
+You decide that it might be better to stay away from Mariano.
+~
+10376 128 -401 W
+41 15 -5 70d14+100 5d3+20
+30000 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#643
+cult member man devil worshiper~
+Cult member~
+A deranged cult member looks up as you interrupt his virgin sacrifice.
+~
+Darkness literally surrounds the man who stands before you.  From
+the necklace of human ears to the earring of putrid flesh, he is
+an unholy sight to behold.  You can feel your faith dissolving
+as you see what is allowed to happen on this planet.  And you are
+terrified for the future.
+~
+6152 262656 -800 W
+15 6 1 30d4+100 5d2+5
+500 2000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#644
+punk boy gang street~
+Street punk~
+A common street punk glares at you and you wonder if it is safe.
+~
+The leather jackets give it all away, they are from the Crimson
+Death, and they really mean business.  You wonder what exactly
+you have stepped into and you wonder if you will survive.  You
+hope beyond hope that they haven't noticed you yet, but then they
+all trun and look.  To late!
+~
+4108 262440 -700 W
+20 10 -1 50d3+150 8d2+7
+600 2500
+8 8 1
+13 0 13 13 13 13 0
+0 3 0
+-10 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#649
+Bernie~
+Bernie the Newspaper man.~
+Bernie is leaning on the shelf reading the mag, but he will help you if you want something.
+~
+Bernie looks sa though he's seen a lot of people grow up and
+has lives a long life.  He is about 50 or so years old with a
+mostly bald head.  What hair he has left is as white as snow.
+His eyes, when he finally looks at you, are a piercing green.
+~
+10 0 200 W
+20 15 -3 40d40+50 3d5+4
+100 7000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#658
+Max~
+Max the Theatre Vendor~
+Max is here ready to get you your order.
+~
+Looking at Max you think him to be about 28 years old.  His
+hair is a light brown, and his eyes are green.  He is a very
+cheerful man and is left alone by the "organizations" that
+usually demand protection money.
+~
+16394 128 500 W
+40 19 -2 50d40+50 3d4+7
+6000 10000
+8 8 1
+14 0 13 13 15 13 0
+0 2 0
+-20 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#659
+maxx leader~
+Maxx, Leader of the Workers~
+Maxx, Leader of the Workers is here, looking over his crew.
+~
+A tall statured man is here.  He is holding a piece of iron in
+his hand, and he is looking over his workers.
+~
+202 128 500 W
+40 40 -5 12d4+450 6d6+6
+4000 40000
+8 8 0
+13 0 13 13 13 13 0
+0 2 2
+-50 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#660
+Doc Angelo ~
+Angelo Vittori~
+Angelo, better known as Doc is here reading a book.
+~
+Doc is about 6 feet tall with black hair.  He has hazel grey eyes.
+He is squarely built and has an olive complexion.  He is wearing a
+nice suit and he has short wavy hair.
+~
+2056 0 250 W
+15 10 -7 2d2+240 4d4+4
+400 0
+8 8 1
+17 0 18 14 15 13 0
+0 2 0
+-70 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#677
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#678
+Snake-Eyes~
+Snake-Eyes~
+Snake-Eyes stands before you waiting for you to roll
+~
+A tall and ruggedly built man stands before you.  He is dressed
+in a tuxedo and holds a pair of dice out for you to roll.
+~
+4194314 0 -25 W
+10 5 -2 20d20+15 3d4+5
+1000 3000
+8 8 1
+18 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#679
+trolley car~
+a trolley car~
+A trolley car is here, carrying people around the city.
+~
+This is a large trolley car, filled with people.  It doesn't seem to be a
+threat, unless you are stupid enough to step in front of it.  The trolley
+driver yells at you, "Hey!  Either get on or get outta tha way!"
+~
+26633 128 0 W
+60 20 -2 20d20+10000 10d10+20
+100000 100000
+8 8 0
+18 100 8 8 8 18 0
+18 5 0
+-20 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#680
+chester the soda jerk~
+Chester the Soda Jerk~
+Chester the Soda Jerk stands before you mixing a sundae
+~
+A middle aged man stands before you.  He is dressed in a white
+shirt freshly stained from the last sundae he made.  His white
+hat tops off the outfit.
+~
+2058 128 200 W
+35 15 -5 50d30+25 4d8+15
+25000 20000
+8 8 1
+18 0 13 13 15 13 0
+0 2 2
+-50 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#681
+a worker~
+a worker~
+A worker is here.
+~
+A worker is here, looking at you curiously.
+~
+74 0 500 W
+20 20 0 9d20+200 9d2+9
+2000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#698
+woman~
+woman~
+There is a woman walking down the street
+~
+The woman is innocently going to the store to buy supper for
+her husband.
+~
+200 0 300 W
+1 2 3 10d10+10 1d5+4
+100 100
+8 8 2
+9 0 14 14 13 13 0
+0 2 0
+30 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#699
+gunman~
+gunman~
+A gunman is pointing his gun at you.
+~
+The gunman is wearing a black fedora and a black trenchcoat.
+~
+72 0 -300 W
+10 9 0 20d20+40 3d4+4
+100 5000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+$

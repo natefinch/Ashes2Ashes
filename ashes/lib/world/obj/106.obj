@@ -1,0 +1,144 @@
+#10600
+black key~
+the key to the Black Treasury~
+The key to the Black Treasury is laying here.~
+(null)~
+18 12 16385 0
+0 0 0
+0 0 0 0
+1 1 1
+#10601
+white key~
+the key to the White Treasury~
+The key to the White Treasury is laying here.~
+(null)~
+18 12 16385 0
+0 0 0
+0 0 0 0
+1 1 1
+#10602
+gold treasure coins~
+a LOT of coins~
+There are a *LOT* of gold coins laying here.~
+(null)~
+20 0 1 0
+0 0 0
+30000 0 0 0
+1 1 1
+#10603
+black pawn armor~
+the Black Pawn armor~
+A pile of Black Pawn armor lays here, neglected.~
+~
+9 131584 9 0
+0 0 0
+4 0 0 0
+5 300 100
+#10604
+white pawn armor~
+the White Pawn armor~
+A pile of White Pawn armor lays here, neglected.~
+~
+9 525312 9 0
+0 0 0
+4 0 0 0
+5 300 100
+#10605
+black pawn sword~
+a Black Pawn's sword~
+A Black Pawn's sword lies here.~
+~
+5 131584 8193 0
+0 0 0
+0 2 3 3
+3 200 50
+#10606
+white pawn sword~
+a White Pawn's sword~
+A White Pawn's sword lies here.~
+~
+5 525312 8193 0
+0 0 0
+0 2 3 3
+3 200 50
+#10607
+black rook armor~
+armor of the Black Rook~
+Some armor from the Black Rook is lying here.~
+~
+9 131584 9 0
+0 0 0
+6 0 0 0
+20 400 150
+#10608
+white rook armor~
+armor of the White Rook~
+Some armor from the White Rook is lying here.~
+~
+9 525312 9 0
+0 0 0
+6 0 0 0
+20 400 150
+#10609
+black knight lance~
+the Lance of the Black Knight~
+The Lance of the Black Knight is lying here.~
+~
+5 131584 8193 0
+0 0 0
+0 2 6 11
+5 250 75
+#10610
+white knight lance~
+the Lance of the White Knight~
+The Lance of the White Knight is lying here.~
+~
+5 525312 8193 0
+0 0 0
+0 2 6 11
+5 250 75
+#10611
+black sceptre~
+the Black King's sceptre~
+A long black sceptre has been left here.~
+~
+4 131586 16385 0
+0 0 0
+0 0 0 0
+3 1000 200
+A
+1 1
+#10612
+white sceptre~
+the White King's sceptre~
+A long white sceptre has been left here.~
+~
+4 525314 16385 0
+0 0 0
+0 0 0 0
+3 1000 200
+A
+1 1
+#10613
+black crown~
+the Crown of the Black Queen~
+The Crown of the Black Queen is lying here.~
+~
+9 131584 17 0
+0 0 0
+4 0 0 0
+2 2500 200
+A
+3 1
+#10614
+white crown~
+the Crown of the White Queen~
+The Crown of the White Queen is lying here.~
+~
+9 525312 17 0
+0 0 0
+4 0 0 0
+2 2500 200
+A
+3 1
+$

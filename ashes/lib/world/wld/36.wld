@@ -1,0 +1,4149 @@
+#3600
+A workroom~
+Booof's workroom where he keeps the keys to OZ.  This room will get dumped
+when OZ goes live!
+~
+36 644 0
+0d0+0 0 0
+S
+#3601
+A small bedroom~
+You are in a small bedroom that has been heavily damaged.  There is a small
+bed here and pieces of broken furniture and bric-a-brac are scattered across
+the floor.  A small cracked mirror hangs on the west wall.  The room is
+sharply slanted to the north and it is hard to keep your footing.
+There is a window to the north and a door to the south.
+~
+36 32796 0
+0d0+0 0 0
+D2
+The door is made of rogh-hewn planks of wood.  ~
+door~
+1 -1 3602
+E
+bed~
+You examine the bed and find nothing interesting.  You do notice that the
+initials "DG" are beautifully carved into the top of the headboard.
+~
+E
+window~
+You look through the window and find that your view is obscured by a dense
+growth of shrubs and flowers.  You can almost smell the blooms through the
+window panes.
+~
+E
+mirror~
+You glance into the mirror and see yourself with a crack through the center
+of your forehead.  Hey, you look better than usual!
+~
+S
+#3602
+The living room~
+The farmhouse living room looks like it has been turned upside down.
+Pieces of broken furniture and other odds & ends lie scattered across
+the floor which slants sharply to the north.  There are doors to the
+west, east, and north.
+~
+36 32776 0
+0d0+0 0 0
+D0
+There is a door to the north.  ~
+door~
+1 -1 3601
+D1
+You see a sturdy door made of rough hewn planks.
+~
+door~
+1 -1 3635
+D3
+A door leads into the kitchen.  ~
+door~
+1 -1 3604
+S
+#3603
+Munchkin Plaza ~
+You are standing at the southwest corner of Munchkin Plaza surrounded by the
+hustle and bustle of this charming little village.  To your west you can see
+a heavily damaged farmhouse, strangely larger than the other dwellings here.
+There is a narrow country road to the south.
+~
+36 32768 1
+0d0+0 0 0
+D0
+Munchkin Plaza lies before you.  ~
+~
+0 -1 3622
+D1
+Munchkin Plaza lies before you.  ~
+~
+0 -1 3605
+D2
+A charming country road leads south from here.  ~
+~
+0 -1 3630
+D3
+The front porch of a damaged farmhouse is here.  ~
+porch~
+0 -1 3635
+E
+farmhouse farm house~
+A tiny farmhouse lies to the west.  It is heavily damaged and is slanting 
+sharply to one side, as it has fallen from a great height.
+~
+S
+#3604
+The kitchen~
+Like the rest of the house, the kitchen is a mess with broken pottery and
+various kitchen utensils scattered about the floor.  The remains of a plank
+table and three chairs are also scattered among the debris.  You do detect the
+faint odor of apple pie in the air.
+~
+36 32776 0
+0d0+0 0 0
+D1
+A door leads to the living room.  ~
+door~
+1 -1 3602
+S
+#3605
+Munchkin Plaza~
+You are the southern part of Munchkin Plaza.  There is a fountain to the
+north, a building to the south, and a bridge to the east.
+~
+36 32768 1
+0d0+0 0 0
+D0
+A beautiful fountain is just to your north.  ~
+fountain~
+0 -1 3617
+D1
+~
+~
+0 -1 3606
+D2
+The entrance to the Munchkin grocery store looks inviting.  ~
+~
+0 -1 3626
+D3
+~
+~
+0 -1 3603
+S
+#3606
+A sturdy bridge~
+You are standing on a beautifully crafted bridge that spans a fast moving
+river below.  Munchkin Plaza is to the west and a beautiful courtyard is
+to the east.
+~
+36 32768 1
+0d0+0 0 0
+D0
+The beautiful waters of the Green River flow south below you.  ~
+~
+0 -1 3612
+D1
+A beautiful courtyard lies before you.  ~
+~
+0 -1 3621
+D2
+The beautiful waters of the Green River flow south below you.  ~
+~
+0 -1 3607
+D3
+Munchkin Plaza lies before you.  ~
+~
+0 -1 3605
+E
+bridge~
+The sturdy bridge under your feet seems solid and beautifully crafted.
+~
+E
+river~
+The beautiful, crystal clear water of the Green River flow swiftly towards
+the south.
+~
+S
+#3607
+The Green River~
+You are on a swiftly moving river flowing from north to south.  You can see
+a sturdy bridge to the north but the current is moving you away from it.
+~
+36 32772 7
+0d0+0 0 0
+D2
+~
+~
+0 -1 3610
+E
+bridge~
+The bridge to your north is rapidly moving away from you as the currents
+take you downriver.~
+S
+#3608
+Under the bridge~
+The strong currents of the Green River have carried you under the bridge in
+the center of the Munchkin City.  You notice that there is a narrow ledge to
+your east if you could just reach it.  The current is carrying you swiftly
+to the south.
+~
+36 32773 7
+0d0+0 0 0
+D1
+~
+~
+0 -1 3609
+D2
+~
+~
+0 -1 3607
+S
+#3609
+A narrow ledge under the bridge~
+You are crouching on a wet, narrow ledge under the bridge above the swiftly
+moving waters of the Green River below.  The ledge is very slippery and the
+roar of the currents below are deafening.  It looks treacherous but it may be
+possible to climb back up onto shore from here.
+~
+36 32768 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 3621
+D5
+~
+~
+0 -1 3608
+S
+#3610
+The Green River~
+You are being pulled along by the swift currents of the Green River.  The
+riverbanks are too high to climb here.  The Munchkin City is rapidly receding
+from view.
+~
+36 32772 7
+0d0+0 0 0
+D2
+~
+~
+0 -1 3611
+S
+#3611
+The Green River~
+The powerful currents of the Green River have now taken you far downstream.
+You can no longer see the Munchkin City and you hear a deep, roaring sound
+coming from downstream that strikes fear in your heart.
+~
+36 32772 7
+0d0+0 0 0
+D2
+~
+~
+0 -1 3613
+S
+#3612
+The Green River~
+You are on a swiftly moving river flowing from north to south.  The current
+is strong and the water is cold.  To your south you see a bridge spanning
+across the river.
+~
+36 32772 7
+0d0+0 0 0
+D2
+~
+~
+0 -1 3608
+E
+bridge~
+A sturdy bridge arches over the river just to the south of you.  You realize
+that the currently will take your directly under it.~
+S
+#3613
+The Waterfall~
+The thundering roar just downstream fills your heart with terror as you
+realize you are being pulled rapidly towards the edge of a mighty waterfall.
+Through the swirling mist you can barely see a rocky landing to your
+west.  If you hurry, you just might make it!
+~
+36 32772 7
+0d0+0 0 0
+D3
+~
+~
+0 -1 3627
+D5
+The waterfall looks fast and dangerous.  ~
+~
+0 -1 3614
+S
+#3614
+The base of the waterfall~
+You've survived the trip over the waterfall and find yourself on a rocky
+ledge that is moss covered and very slippery.  Just below you see the entrance
+to a cave that you might be able to reach if you jump down carefully.  The
+waterfall thunders past you into a narrow gorge.
+~
+36 63495 5
+1d1+199 90 0
+D5
+~
+~
+0 -1 3658
+E
+cave~
+The cave entrace looks narrow but you could probably squeeze through.~
+S
+#3615
+The secret escape route~
+You are standing at the base of a narrow passage that slants up sharply
+into the darkness.  Its narrow walls are rough but the angle would make the
+climb rather precarious.  There is a heavy trapdoor at your feet.
+~
+36 33033 0
+0d0+0 0 0
+D4
+The passageway slants up into darkness.
+~
+~
+0 -1 3616
+D5
+A heavy trapdoor lies at the base of the passage.  ~
+trapdoor~
+2 3645 3683
+S
+#3616
+The secret escape route~
+You are climbing up a steeply slanted passageway.  This narrow corridor
+has a rough surface but you still worry that you may lose your grip at any
+time and slide down into the darkness.
+~
+36 33033 0
+0d0+0 0 0
+D4
+The passageway slants up into darkness.
+~
+~
+0 -1 3700
+D5
+The passage slants down into darkness.
+~
+~
+0 -1 3615
+S
+#3617
+The center of Munchkin Plaza~
+You are at the center of Munchkin Plaza.  Munchkins of all ages gather here
+to fill their jars and discuss the latest news in Oz.  A beautiful road made
+of yellow bricks is to your north and the swift waters of the Green River is
+to your east.
+There is a sign by the riverbank.
+~
+36 32912 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3623
+D1
+The Green River flows quickly by just to your east.  ~
+~
+0 -1 3612
+D2
+~
+~
+0 -1 3605
+D3
+~
+~
+0 -1 3622
+E
+sign~
+The sign reads, "Caution.  Strong currents make swimming hazardous."~
+S
+#3618
+The Mayor's House~
+This is the Mayor of the Munchkin City's office.  It is very tidy and filled
+with small pieces of office furniture.  There is a certificate on the wall, 
+as well as a picture of the Mayors family.  
+~
+36 32776 0
+0d0+0 0 0
+D3
+A beautiful courtyard is just visible to the west.  ~
+door~
+0 -1 3621
+E
+picture~
+The picture on the wall is a family portrait of the Mayor's family.  The
+Mayor stands smiling next to his wife, surrounded by his twelve children.  You
+can guess that the Mayor's hobby might be.~
+E
+certificate~
+The certificate on the wall is the famous Death Certificate of the Wicked
+Witch of the East, nicely autographed by Dorothy Gale herself.  ~
+S
+#3619
+The Lollipop Guild~
+This is the meeting house for the members of the Lollipop Guild.  The room is
+brightly colored but rather messy.  The floor is sticky and littered with
+dozens of small lollipop sticks.   There is an odd chart on the wall.
+~
+36 294920 0
+0d0+0 0 0
+D2
+A beautiful courtyard is visible to the south.  ~
+~
+0 -1 3621
+E
+chart~
+There is a chart on the wall outlining the history of the lollipop.~
+E
+floor~
+The floor is littered with tiny lollipop sticks.  What a mess!~
+S
+#3620
+The Lullabye League~
+This delightful room is so relaxing that you almost want to lie down and go
+to sleep.  The floor is covered with soft cushions, the lights are low, and
+soft music is playing in the background.
+~
+36 32776 0
+0d0+0 0 0
+D0
+A beautiful courtyard is visible to the north.  ~
+~
+0 -1 3621
+E
+cushions~
+The cushions are big, soft, and look very comfortable.~
+S
+#3621
+A lovely courtyard~
+You are standing in a beautifully landscaped courtyard filled with flower
+beds, gravelled walkways, and very small benches.  There is a bridge to the 
+west and small, tidy buildings to the north, east, and south.
+~
+36 294912 1
+0d0+0 0 0
+D0
+The Lollipop Guild house is open for visitors.  ~
+Guild~
+0 -1 3619
+D1
+The Mayor's office is here.  Perhaps His Honor is in.  ~
+door~
+0 -1 3618
+D2
+The Lullabye League's meeting house looks very quiet.  ~
+~
+0 -1 3620
+D3
+A sturdy bridge spans the Green River here.  ~
+~
+0 -1 3606
+E
+bench~
+This beautifully crafted bench seems a little small for you.
+~
+E
+bridge~
+A sturdy-looking bridge crosses the Green River to your west.
+~
+E
+flowers~
+These flowers are unusually large and spectacularly colored.  They seem almost
+alive as they wave in the breeze.
+~
+S
+#3622
+Munchkin Plaza~
+You are standing at the northwest corner of Munchkin Plaza.  To the west you
+see the entrance to the Gardens of Glinda the Good.  The town fountain is to
+the east and a small building is to the north.  
+~
+36 32772 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3617
+D2
+~
+~
+0 -1 3603
+D3
+~
+~
+0 -1 3624
+S
+#3623
+Inside the gates~
+You are standing just inside the massive city gates of the Munchkin City.
+The massive oaken gates are bound with iron and are scribed with runes and
+other symbols of power.  Beneath your feet lies a road of yellow brick and to
+the south lies the charming Munchkin City.
+~
+36 32768 1
+0d0+0 0 0
+D0
+The city gates stand before you.  ~
+gates gate~
+1 3605 3636
+D2
+~
+~
+0 -1 3617
+S
+#3624
+Glinda's Garden~
+You are in the beautiful garden of Glinda the Good.  Elegantly landscaped
+flowerbeds full of spectacular blooms are planted here along with lifelike
+topiary and gravelled walkways.  High hedges surround the small garden though
+you notice that the south hedge has been crushed by a small house that appears
+to have fallen from the sky.  The intoxicating scent of the garden make you
+feel peaceful and relaxed.
+~
+36 32768 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 3622
+D3
+~
+~
+0 -1 3625
+E
+house~
+The farmhouse is partially buried into the ground and is heavily damaged.
+When you look through the window you see what appears to be a small bedroom.~
+S
+#3625
+The Gazebo~
+You are standing in the middle of a charming gazebo.  Vines covered with
+yellow and green flowers cover the intricate lattice work walls.  A stunning
+mosaic of Glinda The Good has been painstaking laid onto the floor.  As you 
+gaze at the mosaic, you get the eerie sense that the image is actually looking
+at you.
+~
+36 32768 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 3624
+D4
+~
+portal~
+1 -1 3634
+E
+mosaic~
+This beautiful portrait is composed of thousands of tiny gems painstakingly
+cemented onto the floor.  The portrait of Glinda seems amazingly lifelike as
+you can almost sense the image looking at you.  The beautiful mosaic has been
+initialled by the artist, "NTSC".
+~
+S
+#3626
+Munchmart~
+You are in a tidy little store filled with all kind of things Munchkins
+love to buy.  All of the items seem rather small and don't really interest 
+you.  The store is impeccably clean and all of the goods are precisely 
+arranged in alphabetical order on the shelves behind the counter.
+~
+36 32920 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3605
+S
+#3627
+The Slippery Landing~
+This pebble-strewn landing is on the west bank of the Green River, just
+before the river plunges over a huge waterfall.  Swirling mists obscure your
+view of the waterfall and its thunder deafens you.
+There is a message scrawled on the rock here.
+~
+36 32768 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 3628
+D1
+~
+~
+0 -1 3613
+E
+message~
+The message reads, "Toad, Bart, and the others went over the falls in search
+of the Nome King's Kingdom.  I knew that I could never survive the falls so have
+been forced to turn back.
+                        - Newt the newbie
+~
+S
+#3628
+A narrow path~
+A narrow path winds it way up from the river bank to the top of a ridge.
+A small farm can be seen below the ridge but if you jump down you might not
+be able to climb back up onto the ridge.  The view from here is breathtaking
+with the Green River Waterfall to your east and the Munchkin City visible to
+the north.
+~
+36 32768 4
+0d0+0 0 0
+D2
+~
+~
+0 -1 3627
+D5
+~
+~
+0 -1 3629
+S
+#3629
+The cornfield~
+This carefully cultivated field has row after row of huge stalks of corn
+that seem to be exploding out of the ground.  Whoever farms this field must
+really know what they are doing!  There is a country road to the west on the
+other side of a split rail fence.  There is a cozy farmhouse to the north with
+smoke billowing from its chimney.  The outskirts of the Munchkin City can be
+seen to the north and a steep line of ridges is to the south.
+~
+36 32768 2
+0d0+0 0 0
+D0
+~
+door~
+1 -1 3631
+D3
+~
+gate~
+1 -1 3630
+E
+ridge~
+You can barely detect a narrow path at the top of the ridge but the slope
+is too steep to climb.
+~
+S
+#3630
+The country road~
+This narrow country road lined with split rail fences leads through some
+beautiful farmland filled with acres and acres of corn.  There is a small
+farmhouse to the east with smoke billowing gently from its chimney.  You can
+see the outskirts of the Munchkin City to the north and a line of steep ridges
+to the south.
+~
+36 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3603
+D1
+~
+gate~
+1 -1 3629
+D2
+~
+~
+0 -1 3632
+S
+#3631
+A cozy farmhouse~
+This cozy farmhouse is warmed by a glowing fire in a large stone fireplace.
+This one room dwelling has a small bed, a table, and a couple small chairs.
+Farm implements are hung neatly on hooks and everything is meticulously clean.
+~
+36 32768 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 3629
+E
+table~
+This plain wooden table is where the farmer probably eats his meals.
+The worn surface is stained and coated with grease.
+~
+E
+fireplace~
+This small stone fireplace is neatly crafted from large stones and mortar.
+It is heavily blackened from constant use and embers from the latest fire
+still glow within its depths.  
+~
+E
+bed~
+This small bed is made of highly polished pine and looks like someone slept
+in it recently.  The mattress is quite lumpy and you realize that it is 
+stuffed with corn stalks and sheaves.
+~
+E
+chair~
+This small chair looks sturdy enough to hold your weight but is probably too
+small to be comfortable.
+~
+S
+#3632
+A country road~
+The country road runs between acres and acres of corn that are just on the
+other side of the sturdy split rail fences that line the road.  To the south,
+the road ends at a squat, dark dwelling that makes you want to turn and head
+north back to the Munchkin City.
+There is a sign here.
+~
+36 32772 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3630
+D2
+~
+door~
+1 -1 3633
+E
+sign~
+The sign reads simply, "Turn Back."
+~
+S
+#3633
+Mombi's house~
+The interior of this dark, musty dwelling is full of arcane equipment,
+dusty tomes, and all matter of disgusting objects in jars.  A cauldron is
+bubbling over a sooty fireplace and is emitting a foul, unpleasant odor.  The
+floor is covered with all sorts of disgusting spilled fluids and is swarming
+with vermin.  Perhaps it would be a good idea to leave!
+~
+36 32776 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 3632
+D1
+A cracked and peeling door is here.  ~
+door~
+1 -1 3776
+D5
+A heavy trap door here leads to the cellar.  ~
+trapdoor~
+1 -1 3640
+S
+#3634
+Glinda's Chamber of Summoning~
+This unearthly room fills you with a sense of awe and a peaceful feeling
+laced with a touch of fear.  The walls and floor appear to be made of swirling
+mists and the stars can be seen shining overhead.  An ornate chair carved
+from the purest crystal is next to a massive desk covered with dusty tomes 
+and various arcane devices.  
+~
+36 32904 0
+0d0+0 0 0
+D5
+~
+portal~
+1 -1 3625
+E
+desk~
+This elegant desk is littered with unusual devices and other tools of the
+practitioner of the magic arts.  You are careful not to touch anything!
+~
+E
+chair~
+This chair has been cut from a monstrous crystal gem.  It has been carefully
+chiselled and carved with floral embellishments.  Surprisingly, it looks
+rather comfortable.
+~
+S
+#3635
+The farmhouse porch~
+The small porch on the front of the farmhouse probably once held some chairs
+where the owners relaxed at the end of the day.  Now the floorboards are 
+loose or missing, the railing is broken, and no signs of the chairs remain.
+~
+36 32776 0
+0d0+0 0 0
+D1
+The Munchkin Plaza lies just east of you.  ~
+~
+0 -1 3603
+D3
+You see a weathered door with a tarnished brass knob.  ~
+door~
+1 -1 3602
+S
+#3636
+Outside the gates~
+You are standing outside of the city gates of the Munchkin City.  Twin guard
+houses are set into the walls and you can see Munchkin guards lining the
+parapets.  The yellow brick road leads north into the lush countryside.
+~
+36 32772 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3637
+D2
+The city gates stand before you.  ~
+gates gate~
+2 3605 3623
+S
+#3637
+Outskirts of town~
+You are on the yellow brick road, just north of the Munchkin City.  Broad
+expanses of farmland stretch as far as the eye can see.  Tiny farmhouses and
+barns dot the countryside under the spectacular Oz sky.  There is a crossroads
+to the north.
+~
+36 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3638
+D2
+~
+~
+0 -1 3636
+S
+#3638
+A fork in the road~
+You are standing at a fork in the yellow brick road.  You can walk to the
+east, west, or south.  The split rail fence that lines the road here is broken
+to the north.  You could climb over it and go into the cornfield if you
+wanted to.
+There is a sign here with an arrow pointing south.
+~
+36 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3639
+D1
+~
+~
+0 -1 3641
+D2
+~
+~
+0 -1 3637
+D3
+~
+~
+0 -1 3645
+E
+sign~
+The sign reads, "Munchkin City - 1 mile."
+~
+S
+#3639
+The cornfield~
+You are standing in a cornfield that stretches north as far as the eye can
+see.  There is a small clearing here but the field is too densely planted for
+you to try and walk any further into the field.  The yellow brick road is to
+your south.
+~
+36 32768 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3638
+S
+#3640
+Mombi's cellar~
+This dark, dank, awful smelling cellar is swarming with vermin and covered
+with cobwebs and a heavy layer of dust.  Pieces of bone crunch underfoot while
+you stoop below the greasy rafters.
+~
+36 33025 0
+0d0+0 0 0
+D4
+A heavy trap door here leads back upstairs.  ~
+trapdoor~
+1 -1 3633
+S
+#3641
+The yellow brick road~
+The road runs through lush farmlands where well-tended fields of corn, wheat,
+and unusual vegetables cover the gently rolling countryside.  To the east you
+can see a round, dome-roofed farmhouse and an adjacent barn.
+~
+36 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3642
+D3
+~
+~
+0 -1 3638
+S
+#3642
+The farmyard~
+This farmyard is surrounded by a well-constructed fence and leads to both
+the farmhouse and the barn.  A wagon is parked near the south side of the yard
+and wheel ruts cross-cross the yard.  Acres and acres of crops are visible
+behind the barn.
+~
+36 32768 2
+0d0+0 0 0
+D0
+The barn doors lead into the barn.  ~
+doors door~
+1 -1 3644
+D1
+The farmhouse door leads into the house.  ~
+door~
+1 -1 3643
+D3
+~
+~
+0 -1 3641
+E
+wagon~
+This simple wagon has four spoked wheels made of wood and a narrow bench for
+the driver.  A leather harness for hitching a horse to the wagon is laid on
+the bench.~
+S
+#3643
+Farmer Boq's house~
+The interior of this rustic farmhouse is filled with simple furniture and
+is carefully swept and cleaned.  A stone fireplace contains glowing embers
+from a fire that has long since gone out.  
+~
+36 32776 0
+0d0+0 0 0
+D3
+The front door of the farmhouse is the only exit.  ~
+door~
+1 -1 3642
+D5
+A barely noticable trapdoor is at your feet.  ~
+trapdoor~
+1 3617 3664
+E
+fireplace~
+The fireplace is constructed of small stones carefully mortared together.
+A heavy oak mantel is hung above the soot-blackened grate.  ~
+S
+#3644
+The barn~
+The interior of the barn is filled with bales of hay and sacks of feed.
+There are a few stalls here and several farm implements hang from hooks
+on the wall.  The air is filled with the smell of must and manure and
+you can hear the scurry of fieldmice.
+~
+36 32776 0
+0d0+0 0 0
+D2
+The barn doors are the only exit.  ~
+door doors~
+1 -1 3642
+S
+#3645
+The yellow brick road~
+The yellow brick road run through the lush Munchkin farmland.  There is an
+occasional tree alongside the road and you notice some woodlands to the west.
+~
+36 32772 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 3638
+D3
+~
+~
+0 -1 3646
+S
+#3646
+The edge of the forest~
+At the edge of the forest, tall trees and dense shrubbery begin to crowd the
+sides of the yellow brick road.  You can hear an occasional bird call and
+the howl of some lonely animal.  Weeds sprout up between the bricks of the
+road here and you must walk carefully over the uneven surface.
+~
+36 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3645
+D3
+~
+~
+0 -1 3647
+S
+#3647
+The deep forest~
+The yellow brick road is in poor repair here, deep inside the forest.  The
+dense canopy of trees completely block your view of the sky and the area is
+unusually quiet.  To the south, there is a grove of apple trees.
+~
+36 294913 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 3646
+D2
+~
+~
+0 -1 3648
+D3
+~
+~
+0 -1 3649
+S
+#3648
+The enchanted orchard~
+This small orchard has huge, gnarled apple trees that must be very old.  The
+ground is littered with rotten apples whose sweet smell is overpowering.  You
+get the distinct impression that someone is watching you.
+~
+36 32769 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 3647
+S
+#3649
+The deep forest~
+You are now in the deepest part of the forest where huge trees tower over
+your head.  The yellow brick road is in very poor shape here and is partially
+overgrown.  You notice that someone has been chopping down the trees here as
+numerous stumps can be seen inside the forest.  A narrow path leads north.
+~
+36 32769 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 3650
+D1
+~
+~
+0 -1 3647
+D3
+~
+~
+0 -1 3652
+S
+#3650
+The clearing~
+This wide clearing is surrounded by stacks of lumber and freshly hewn logs.
+Wood chips and sawdust make the ground underfoot feel as soft as a carpet.
+A small cottage is nestled within the trees to the west.
+There is a sign hung above the cottage door.
+~
+36 32768 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 3649
+D3
+The front door to the cottage looks very sturdy.  ~
+door~
+1 -1 3651
+E
+sign~
+The sign reads, "Nick Chopper."~
+S
+#3651
+The cottage~
+This rustic dwelling is masterfully constructed of logs and boards that have
+been cut to fit together with extraordinary precision.  A beautiful carving
+has been lovingly cut into the wall over the fireplace and is the small
+cottages only decoration.  The floor is covered with sawdust and the smell of
+machine oil lingers in the air.
+~
+36 32768 0
+0d0+0 0 0
+D1
+The door to the cottage lead back to the clearing.  ~
+door~
+1 -1 3650
+E
+fireplace~
+The fireplace looks as if it has never been used.~
+E
+carving~
+This elaborate carving portrays a scene where a small girl with a dog, a
+lion, a scarecrow, and a tin man are talking with a little man in a beautiful
+throne room.~
+S
+#3652
+The deep forest~
+This section of the woods is densely covered with an increasing number of
+pine trees and scrubby growth.  The yellow brick road is heavily overgrown
+here and you must pay close attention not to get lost among the trees.
+~
+36 32769 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 3649
+D3
+~
+~
+0 -1 3653
+S
+#3653
+The edge of the woods~
+The trees are rather sparse here at the edge of the forest.  To the east
+the yellow brick road plunges deeply into the heart of an ancient forest.
+To the west you can see some rocky hills on the horizon.
+~
+36 32772 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 3652
+D3
+~
+~
+0 -1 3654
+S
+#3654
+The foothills~
+Standing at the base of some rolling foothills, the yellow brick road winds
+up and over the hills to the west and disappears from sight.  A dense forest
+looms menacingly to the east.  A small path follows the ridge to the south.
+~
+36 32768 4
+0d0+0 0 0
+D1
+~
+~
+0 -1 3653
+D2
+~
+~
+0 -1 3684
+D3
+~
+~
+0 -1 3655
+S
+#3655
+The top of the ridge~
+Standing here on the top of the ridge gives you a magnificent view of the
+countryside.  Far below to the west a deep chasm slices sharply across the
+landscape from north to south as far as the eye can see.  To the east a dense
+forest covers the land and disappears into the mists.  The wind is blowing
+cold from the west and a shiver runs down your spine.
+~
+36 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3654
+D5
+~
+~
+0 -1 3656
+S
+#3656
+The side of the ridge~
+The yellow brick road is reduced to a narrow path here as it winds its way
+along the side of a steep ridge.  The wind is blowing strongly here and the
+gravel underfoot makes walking here rather treacherous.  Through some hardy
+trees you can see a chasm below.
+There is a sign here bolted to the rock.
+~
+36 32768 4
+0d0+0 0 0
+D4
+~
+~
+0 -1 3655
+D5
+~
+~
+0 -1 3657
+E
+sign~
+The sign reads, "Toll Bridge Ahead."~
+S
+#3657
+The side of the chasm~
+You are standing on the edge of a precipace looking down at the rocks far
+below.  Two massive stone columns are built here which once supported a bridge
+that spanned the chasm.  Across to the west you can see the yellow brick road
+continue west into a field of brightly colored flowers.
+~
+36 32768 4
+0d0+0 0 0
+D4
+~
+~
+0 -1 3656
+S
+#3658
+The tunnel entrance~
+You are standing in the entrance of a long tunnel that slopes steeply into
+the ground.  The sounds of the waterfall outside is slightly muffled here and
+you can feel very cold air blowing up from the depths.  There are some bones
+scattered about here.  Perhaps they are a warning!
+~
+36 295168 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3659
+S
+#3659
+The sloping tunnel~
+This rough-hewn tunnel is fairly steep and you have to watch your footing
+very carefully.  You can see some faint light from the tunnel entrance above
+but the tunnel below is pitch black.  You can hear faint sounds of dripping
+water in the distance.
+~
+36 33025 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 3658
+D5
+~
+~
+0 -1 3660
+S
+#3660
+Near the bottom~
+The steeply slanting tunnel is beginning to level out towards the bottom.
+You can now clearly hear the sound of running water and can feel the heavy
+moisture in the air.  You feel slightly claustrophobic as you realize just 
+how far beneath the ground you are.
+~
+36 295169 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 3659
+D5
+~
+~
+0 -1 3661
+S
+#3661
+The blue grotto~
+This large grotto is eerily illuminated by a blue glow given off by the
+luminescent moss that grows in abundance here.  A small waterfall pours over
+the southern side of the grotto and disappears into a rock vent below.  
+~
+36 33024 0
+0d0+0 0 0
+D2
+A granite door is behind the waterfall here.  ~
+door~
+1 3622 3665
+D3
+~
+~
+0 -1 3662
+D4
+~
+~
+0 -1 3660
+E
+waterfall~
+As you look at the waterfall you an detect the outline of a door on the other
+side of the falling water.  The spray leaves an unpleasant taste in your mouth.~
+S
+#3662
+The crystal cave~
+This spectacular chamber is lined with brilliant crystals of various hues.
+The glitter from the reflected light almost dazzles you as you gaze in awe at
+this glorious display of nature's wonder.
+~
+36 33024 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3663
+D1
+~
+~
+0 -1 3661
+D2
+The door here has a sign reading "OFFICE" on it.  ~
+door~
+1 -1 3675
+S
+#3663
+The opal cave~
+As you stand in the middle of this cavern, exotic swarms of constellations
+cover the walls and ceilings.  As you look closer, you realize that the stars
+are actually milky white opals that gleam with a soft, delicate light.
+~
+36 33025 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3662
+D4
+~
+~
+0 -1 3671
+S
+#3664
+The root cellar~
+This tiny room is damp and dark.  The dirt floor is slightly uneven but has
+been packed hard from constant use.  A wooden ladder leads up to a trapdoor.
+~
+36 14593 0
+0d0+0 0 0
+D4
+The ladder leads up to a trapdoor.  ~
+trapdoor~
+1 3617 3643
+S
+#3665
+The entrance tunnel~
+This tunnel shows considerable wear as if many have passed this way before you.
+There is a heavy granite door to the north and the passage slopes gently
+downward to the south.  You can detect the faint sound of falling water to the
+north.
+~
+36 33025 0
+0d0+0 0 0
+D0
+A heavy granite door stands before you.  ~
+door~
+1 3622 3661
+D2
+~
+~
+0 -1 3666
+S
+#3666
+The Stalagmite Cave~
+The floor of this large cavern is densely covered with majestic stalagmites
+which tower over your head.  You realize that you could easily become lost
+within this spectacular underground forest of stone.
+~
+36 33025 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3665
+D1
+~
+~
+0 -1 3667
+D2
+~
+~
+0 -1 3668
+D3
+~
+~
+0 -1 3667
+S
+#3667
+The Stalagmite Cave~
+The floor of this large cavern is densely covered with majestic stalagmites
+which tower over your head.  You realize that you could easily become lost
+within this spectacular underground forest of stone.
+~
+36 33025 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3668
+D1
+~
+~
+0 -1 3666
+D2
+~
+~
+0 -1 3667
+D3
+~
+~
+0 -1 3667
+S
+#3668
+The Stalagmite Cave~
+The floor of this large cavern is densely covered with majestic stalagmites
+which tower over your head.  You realize that you could easily become lost
+within this spectacular underground forest of stone.
+~
+36 33025 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3666
+D1
+~
+~
+0 -1 3667
+D2
+~
+~
+0 -1 3668
+D3
+~
+~
+0 -1 3669
+S
+#3669
+The Stalagmite Cave~
+The floor of this large cavern is densely covered with majestic stalagmites
+which tower over your head.  You realize that you could easily become lost
+within this spectacular underground forest of stone.
+~
+36 33025 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3666
+D1
+~
+~
+0 -1 3667
+D2
+~
+~
+0 -1 3670
+D3
+~
+~
+0 -1 3669
+S
+#3670
+The Stalagmite Cave~
+The floor of this large cavern is densely covered with majestic stalagmites
+which tower over your head.  You realize that you could easily become lost
+within this spectacular underground forest of stone.
+~
+36 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3668
+D1
+~
+~
+0 -1 3667
+D2
+~
+~
+0 -1 3668
+D5
+A trapdoor is barely noticable beneath your feet.  ~
+trapdoor~
+1 -1 3676
+S
+#3671
+The ruby cavern~
+This cavern has a rosy glow that comes from the spectacular rubies that have
+been mined here by the busy Nome workers.  Heavy clusters of raw gemstones
+can clearly be seen in the numerous veins of ore that crisscross the walls of
+the cave.  
+~
+36 33025 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3672
+D5
+~
+~
+0 -1 3663
+S
+#3672
+The emerald cave~
+This large cave has been heavily mined and most of the gemstones removed.
+Scattered across the cave walls small, low grade emeralds can be seen but
+they are obviously not good enough for the Nomes.  You can't help but wonder
+where all of the good emeralds have gone!
+~
+36 33025 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3671
+D5
+A cleverly disguised door is hidden in the floor here.  ~
+door~
+1 -1 3673
+S
+#3673
+The dark shaft~
+This narrow shaft is barely wide enough for you to move through.  Stooping
+in the passage, you can tell that this passage was crudely excavated unlike
+the beautifully chiselled passageways created by the Nomes throughout their
+kingdom.
+~
+36 33025 0
+0d0+0 0 0
+D4
+A small secret trapdoor is within reach overhead.  ~
+door~
+1 -1 3672
+D5
+It is very dark below and a foul smell wafts up from the darkness.  The 
+walls look slippery and treacherous.  ~
+~
+0 -1 3674
+S
+#3674
+The dark shaft~
+You have fallen from the slippery walls and landed at the bottom of the
+dark shaft.  The rancid piles of garbage cushioned your fall and saved your
+life.  The insects and foul odor makes you want to get out of here!
+~
+36 63495 0
+1d1+199 90 0
+D4
+A slippery shaft rises into darkness above you.
+~
+~
+0 -1 3673
+S
+#3675
+The Foreman's Office~
+This cramped room carved from living rock is used by the Nome Foreman in
+charge of the mines.  Charts depicting gemstone and ore production are on the
+walls and a desk and chair carved from stone are in the center of the room.
+Everything is bathed with the cool, blue light given off by the luminescent
+moss that covers the ceiling.
+~
+36 33024 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 3662
+E
+chair~
+The chair looks very sturdy and very uncomfortable.  The seat is polished
+from heavy use.  ~
+E
+desk~
+The desk is scattered with the usual office debris.  It seems odd that there
+are no drawers.  ~
+E
+chart~
+It appears that the Nomes have been very, very busy.  ~
+E
+charts~
+It appears that the Nomes have been very, very busy.  ~
+S
+#3676
+The furnace room~
+This cavern is brightly lit by the roaring flames of a large furnace.  Nome
+workers scurry in and out of the room, smelting precious ores and carrying 
+the precious ingots away to the King's secret storerooms.  The heat is very
+oppressive and you feel yourself growing strangely tired.
+~
+36 33024 0
+0d0+0 0 0
+D0
+The heavy cast iron door seem to glow in the heat.  ~
+door~
+1 -1 3677
+D3
+~
+~
+0 -1 3678
+D4
+A trapdoor cleverly cut into the rock is above your head.  ~
+trapdoor~
+1 -1 3670
+S
+#3677
+The furnace~
+Gigantic flames leap about you searing your skin and causing sweat to burst
+from your pores.  The incredible heat almost suffocates you as the fire nearly
+blinds you with its incandescent fury.
+~
+36 33160 0
+0d0+0 0 0
+D2
+The furnace door is cast iron and glowing in the heat.  ~
+door~
+1 -1 3676
+D4
+A dirty steel flu is above you.  ~
+flu~
+1 -1 3701
+S
+#3678
+The gem cutters workroom~
+This narrow chamber is brightly lit by a light source you can't seem to
+identify.  The floor is littered with piles of stone chips and other debris
+created by the gem cutters and jewelers that labor here creating treasures for
+the Nome King.
+~
+36 33032 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3679
+D1
+A crimson glow radiates warmly from the cave opening.  ~
+~
+0 -1 3676
+S
+#3679
+The antechamber~
+This chamber has been neatly carved out of the rock and has a huge door cast
+from some unearthly metal hung on massive hinges on the northern wall.  An
+ornate letter 'N' has been engraved deeply onto the surface of the door.  You
+perceive an aura of magic and a sense of foreboding as you stand here.
+~
+36 33032 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 3680
+D2
+~
+~
+0 -1 3678
+S
+#3680
+The Nome King's throne room~
+This spectacular chamber is brightly lit with the reflected light of the
+thousands of gemstones that are set into every square inch of the walls and
+ceiling.  A majestic tapestry depicting the Nome Kingdom hangs behind the
+gigantic carved emerald that is the Nome King's throne.  Massive pillars
+carved with scenes of the King's numerous victories with his massive armies
+tower over your head.
+~
+36 295176 0
+0d0+0 0 0
+D2
+A massive, enchanted metal door guards the throne room.  ~
+door~
+2 -1 3679
+D3
+A heavy tapestry is hung behind the throne.  ~
+tapestry~
+1 -1 3681
+E
+throne~
+A single enormous emerald gemstone wearing more than a ton has been carved
+into a throne for the King of the Nomes.  ~
+E
+pillars~
+These pillars have heavily stylized depictions of battles and victory
+processions carved over their entire surface.  ~
+E
+tapestry~
+The heavy tapestry hung behind the throne has lifelike scenes depicting the
+Nome Kingdom's various caverns, caves, and grottos.  ~
+S
+#3681
+Roquat's chambers~
+This surprisingly small bedroom is where the King obviously relaxes after a
+long day of ruling his enormous Kingdom.  A soft sandstone bed and a small
+writing desk are set next to a fairly large gilt mirror on the wall.  There
+is a small door to the south and a secret passage to the throneroom to the
+east.
+~
+36 295176 0
+0d0+0 0 0
+D0
+A large, ornate mirror is hung on the wall here.  ~
+mirror~
+2 3626 3683
+D1
+The dusty back of an ancient tapestry hangs before you.  ~
+tapestry~
+1 -1 3680
+D2
+A small rock door is set into the wall.  ~
+door~
+1 -1 3682
+E
+desk~
+The King's desk is rather nondescript.  It looks like it has not been used
+very often.  ~
+E
+mirror~
+You notice that your image is strangely elongated in the mirror.  You look
+quite a bit taller in it.  ~
+E
+bed~
+The bed looks surprisingly soft and comfortable.  You feel a sudden urge to
+lie down and rest for a while.  ~
+S
+#3682
+Kaliko's room~
+thThis austere bedchamber is where the Nome King's steward sleeps.  It is next
+to the King's chambers so that Kaliko can quickly respond to the demands of
+the fiery ruler of the Nomes.  A simple sandstone bed is the only thing you
+see here.
+~
+36 33033 0
+0d0+0 0 0
+D0
+A small rock door is set into the wall.  ~
+door~
+1 -1 3681
+S
+#3683
+the King's Treasure Room~
+This small room is featureless and is covered with a heavy blanket of dust.
+The remains of heavy shelving can be seen along the walls and the imprints of
+large square objects can be seen on the floor.  It appears that the King's
+many campaigns has seriously depleted the royal treasury.
+~
+36 47369 0
+0d0+0 0 0
+D2
+The back of a mirror is hinged and set into the wall here.  ~
+rock~
+2 3626 3681
+D4
+A heavy trapdoor is set into the ceiling.  ~
+trapdoor~
+1 1 3615
+S
+#3684
+The beaten path~
+A narrow dirt path cuts across the base of the ridge.  The path looks well
+travelled and you notice faint footprints of a large animal.  The yellow brick
+road can be seen to the north, emerging from the forests to the east.  The
+path continues to the south.
+~
+36 32768 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 3654
+D2
+~
+~
+0 -1 3685
+S
+#3685
+The beaten path~
+This narrow path follows along the base of a long ridge that runs north and
+south.  Heavy boulders and rocks pepper the edge of the path, probably the
+result of rockslides from the ridge above you.  As you glance at the ridge,
+you notice an almost invisible path snaking up through the rocks.
+~
+36 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3684
+D2
+~
+~
+0 -1 3687
+D4
+~
+~
+0 -1 3686
+S
+#3686
+The rocky trail~
+This barely noticable trail leads up into the rocky ledge from the dirt path
+below.  The footing is rather treacherous here and you worry that a sudden
+gust of wind might blow you off of the side of the ridge.  High above your
+head you notice what appears to be a cave opening.
+~
+36 32768 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 3688
+D5
+~
+~
+0 -1 3685
+S
+#3687
+The end of the path~
+You are standing at the base of a rocky ridge surrounded by boulders and
+scattered rocks and gravel.  Coarse undergrowth blocks your passage to the
+south and east while a dirt path leads north.
+~
+36 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3685
+S
+#3688
+Outside the cave~
+You are teetering on a very  narrow ledge outside of a dark cave entrance.
+A cold draft is emanating from the cave and it carries a dank, sour animal
+smell.  You notice some well chewed bones crunching beneath your feet and a
+narrow trail works its way through the rocks to the base of the ridge.  The
+wind is blowing gustily, perhaps you should get moving?
+~
+36 32768 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 3689
+D5
+~
+~
+0 -1 3686
+S
+#3689
+Inside the cave~
+You are standing just inside of a cave entrance, standing on a thick carpet
+of well-chewed and splintered bones.  A heavy, sour smell fills the air, as
+well as the unmistakable odor of rot and decay.  Muffled sounds and sharp,
+cracking sounds are coming from the depths of the cave.
+~
+36 33025 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3688
+D3
+~
+~
+0 -1 3690
+S
+#3690
+A rocky passage~
+This rocky passage is twisted and uneven, making you pick your way carefully
+across the rock-strewn floor.  The smell of rot is very strong here, and ice
+cold drops of water fall on you from above.  When you reach out to steady
+yourself, the rocks are cold and slippery to the touch.  You hear sounds from
+deeper within the cavern that sound like large beasts or worse!
+~
+36 33025 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3689
+D3
+~
+~
+0 -1 3692
+D5
+The chimney leading down looks steep and dangerous.  ~
+~
+0 -1 3691
+S
+#3691
+The chimney~
+You find yourself at the bottom of a steep chimney through the rock that
+leads into the darkness above.  The uneven sides of the chimney offer lots of
+handholds but their slippery surfaces make them dangerous to depend on, as 
+you already realize.  You feel crowded in and claustrophic in this cramped
+crevice in the rock.
+~
+36 63751 0
+1d1+199 90 0
+D4
+~
+~
+0 -1 3690
+S
+#3692
+The Kalidah's lair~
+You are standing in the lair of the fearsome Kalidahs who terrorize all
+living things within their territory.  The floor is covered with splintered
+bones and shreds of rotting flesh from the prey of these fearsome creatures.
+The smell of rot is overwhelming here, as is your desire to flee this vile
+and disgusting cave.
+~
+36 33025 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3690
+D3
+~
+~
+0 -1 3794
+D5
+A trapdoor fashioned of bones is beneath your feet.  ~
+trapdoor~
+1 -1 3693
+S
+#3693
+The long passage~
+You are standing at the eastern end of a long passage that slants down
+towards the west.  The walls of the passage are unnaturally precise and even
+indicating that the passage was created by magical means.  A heavy layer of
+dust covers the floor, indicating that this passage has not been used for
+many years.
+~
+36 33024 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3694
+D4
+A trapdoor fashioned of bones is above your head.  ~
+trapdoor~
+1 -1 3692
+S
+#3694
+The long passage~
+You are standing in a magically crafted passageway that slants down sharply
+to the west.  The floor is covered with dust and you notice that the passage
+is illuminated from some unknown source.
+~
+36 33024 0
+0d0+0 0 0
+D0
+A secret door is concealed within the rock wall here.  ~
+door~
+1 -1 3708
+D1
+~
+~
+0 -1 3693
+D3
+~
+~
+0 -1 3695
+S
+#3695
+The long passage~
+You are standing in a magically crafted passageway that slants sharply down
+to the west.  The floor is covered with dust and the passage is mysteriously
+illuminated from some magical source.  From here, the weight of the earth
+above you is palpable and you hurry to escape feeling trapped.
+~
+36 33024 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3694
+D3
+~
+~
+0 -1 3696
+S
+#3696
+The long passage~
+You are in a magically crafted passageway that slants sharply up to both the
+east and the west.  The enchanted illumination here helps you detect that you
+are standing at the lowest point of the long passage and you realize that you
+have a long climb ahead of you, no matter which way you go.
+~
+36 33024 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3695
+D3
+~
+~
+0 -1 3697
+S
+#3697
+The long passage~
+You are standing in a magically crafted passage that leads up steeply to the
+west.  The floor is covered with dust and a strange, enchanted light seems to
+come from the very walls themselves.
+~
+36 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3696
+D3
+~
+~
+0 -1 3698
+S
+#3698
+The end of a long passage~
+You are at the western end of the long passage which leads deeply into the
+bowels of the earth to the east.  The passageway ends abruptly, it appears
+that it was never finished.  Lucky, there is a ladder here leading up into
+a hole in the ceiling.
+~
+36 33024 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3697
+D4
+A heavy trapdoor is at the top of the ladder.  ~
+trapdoor~
+1 -1 3707
+S
+#3699
+The poppy field~
+You are standing at the eastern edge of a vast field of poppies, whose heady
+perfume makes you feel strangely sleepy.  To the west, the magnificent spires
+of the Emerald City rise high into the sky.  The spectacular Oz sky has an
+odd greenish tint here where wispy clouds drift high above the horizon.  
+~
+36 32768 2
+0d0+0 0 0
+D0
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3757
+D1
+A crossroads is visible past the edge of the poppy field.  ~
+~
+0 -1 3707
+D2
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3699
+D3
+The Emerald City looms at the edge of the field of poppies.  ~
+~
+0 -1 3757
+S
+#3700
+The secret escape route~
+You are climbing a steep passageway whose uneven surface is barely enough
+to keep you from sliding down into the darkness below.  You detect a slight
+breeze here and there seems to be some light coming from above.
+~
+36 33032 0
+0d0+0 0 0
+D4
+You can detect light and a slight breeze coming from the passage above.
+~
+~
+0 -1 3771
+D5
+The passageway slants down into darkness.
+~
+~
+0 -1 3616
+S
+#3701
+The chimney~
+This narrow chimney rises far above your head.  Its walls are heavily coated
+with soot and grime and are quite slippery.  A heavy sense of claustrophobia
+almost overwhelms you here as the heat from below makes you break out into
+a heavy sweat.
+~
+36 33161 0
+0d0+0 0 0
+D4
+The chimney extends into the blackness above.  ~
+~
+0 -1 3702
+D5
+A heavy iron flu lies beneath your feet glowing in the heat.  ~
+flu~
+1 -1 3677
+S
+#3702
+The chimney~
+The sooty walls of the chimney make it difficult for you to move up or down,
+and you fear you may lose your grip at any moment.  The searing heat and the
+heavy clouds of rancid smoke make your eyes sting and water, making it hard
+to see where you are going.  You can see a light high above you.
+~
+36 33153 0
+0d0+0 0 0
+D4
+The chimney extends far above your head.  You see a light high above.  ~
+~
+0 -1 3703
+D5
+A fire glows dimly far below you.  ~
+~
+0 -1 3701
+S
+#3703
+The chimney~
+You are clinging to the soot-encrusted walls of a long chimney chiseled
+through solid rock.  Luckily the uneven surface offers many handholds but
+the greasy, sooty stone is slippery.  The smoke stings your eyes and the heat
+is oppressive.  You can see what may be an opening up above.
+~
+36 33153 0
+0d0+0 0 0
+D4
+The chimney rises above your head.  You see a light in the distance.  ~
+~
+0 -1 3704
+D5
+The dark chimney extends far beneath your feet.  ~
+~
+0 -1 3702
+S
+#3704
+The chimney~
+You are near the top of a smoke-filled chimney that has sooty, slippery
+walls.  You sense a tremendous distance under your feet and you realize that
+one slip will send your plunging to your death.  Above your head is the top
+of the chimney and you get an occasional gust of fresh air.
+~
+36 32905 0
+0d0+0 0 0
+D4
+The top of the chimney is visible from here.  ~
+~
+0 -1 3705
+D5
+The chimney shaft plunges into an inky blackness.  ~
+~
+0 -1 3703
+S
+#3705
+The mountaintop~
+You are standing on a narrow plateau at the summit of a mountain whose sheer
+sides look deadly and unclimbable.  The smoking chimney at your feet does
+little to lessen the beauty and grandeur of the mountain range that surrounds
+you.  You can see a spectacular waterfall far to the north and the edges of a
+vast desert far to the west.  The air is cold and clear, and sharp gusts of
+wind tug at your feet.  There is a small cave entrance to the south.
+~
+36 47104 5
+0d0+0 0 0
+D2
+A small cave opening is just to your south.  ~
+~
+0 -1 3706
+D5
+The smoke-filled chimney looks hot and uninviting.  ~
+~
+0 -1 3704
+S
+#3706
+The Jackdaw's nest~
+The Jackdaw's nest is filled with tons of junk collected by these huge birds
+and brought back to line their nest.  Scraps of clothing, bottles, pieces of
+wood, bones, and all manner of useless stuff create a thick carpet of trash
+on the floor of this small cave.  The air has a sour, unpleasant odor here
+but an occasional gust of fresh air from outside helps a great deal.  You
+poke around some but find nothing of interest.
+~
+36 47112 0
+0d0+0 0 0
+D0
+You can see a beautiful mountain range outside the cave entrance.  ~
+~
+0 -1 3705
+S
+#3707
+The crossroads~
+You are standing at a crossroads on the yellow brick road.  A deep canyon
+is to the east but the bridge that once spanned the gorge is long gone.  You
+can see the Emerald City to the west on the far side of a large field of
+poppies.  The yellow brick road also leads north and south.
+There is a signpost here.
+~
+36 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3790
+D2
+~
+~
+0 -1 3709
+D3
+A huge field of poppies lie between you and the Emerald City.  ~
+~
+0 -1 3699
+D5
+A trapdoor is cleverly concealed in the ground here.  ~
+trapdoor~
+1 -1 3698
+E
+signpost~
+The signpost reads:  North - Quadling Country
+                     South - Winkies Country
+                      East - Munchkin Country
+                      West - Emerald City
+~
+S
+#3708
+The secret storeroom~
+This small room must have been used to store supplies and equipment by the
+creators of the long passage you have been travelling down.  A heavy layer of
+dust proves that no one has been here for some time.  The air is stale and
+water drips slowly from the ceiling.  
+~
+36 32777 0
+0d0+0 0 0
+D2
+A secret door leads back into the tunnel.  ~
+door~
+1 -1 3694
+S
+#3709
+South of the crossroads~
+You are standing on the yellow brick road just south of a crossroads.  You
+can see a large poppy field to the northwest and the distant spires of the
+Emerald City.  The road runs south towards a dark and ancient forest.
+~
+36 32768 0
+0d0+0 0 0
+D0
+You see a crossroads in the distance.  ~
+~
+0 -1 3707
+D2
+A dark and mysterious forest looms nearby to the south.  ~
+~
+0 -1 3710
+S
+#3710
+North of the dark forest~
+You are standing on the yellow brick road, just north of a huge expanse of
+dark forest that stretches south towards the horizon.  You get the distinct
+feeling that something evil but intangible lurks within and is waiting for
+you hungrily.  Oddly, the yellow brick road ends abruptly at the edge of the
+forest with an edge that could have been cut with a knife.  A dark path leads
+south into the depths of the forest.
+~
+36 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3709
+D2
+A dark and menacing wood looms ahead.  ~
+~
+0 -1 3727
+S
+#3711
+A country lane~
+You are walking along a narrow, rutted country lane.  You can see some vast
+wheat fields on either side of the lane, on the other side of the split rail
+fences that keep you from walking in the fields.  The air is hot and dry, and
+dust blows across the dry fields.  You can see a huge storm front off in the
+distance to the south.
+~
+36 4 2
+0d0+0 0 0
+D0
+Some sort of statue lies to the north.
+~
+~
+0 -1 3199
+D2
+~
+~
+0 -1 3712
+S
+#3712
+The country lane~
+You are on a rutted country road that runs from north to south through the
+Kansas countryside.  You can see a farm just to the south, and you can see a
+huge storm brewing just beyond it.  The wind is beginning to blow in sharp
+gusts and you sense a major storm is brewing.
+~
+36 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3711
+D2
+~
+~
+0 -1 3713
+S
+#3713
+A country lane~
+You are standing on a narrow, rutted country lane that runs by an old, worn
+farmhouse and outbuildings to the east.  The farm looks strangely deserted,
+possibly because of the huge storm that seems to be brewing.  The wind is
+blowing fiercely here, and the dust makes your eyes water.  You can see a
+black swirling column of dust to the southeast.
+~
+36 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3712
+D1
+A wide wooden gate leads to a farm to the east.  ~
+gate~
+1 -1 3714
+D2
+~
+~
+0 -1 3724
+S
+#3714
+The barnyard~
+You are standing in the middle of a small Kansas farm.  The barn and farm
+equipment look worn and badly in need of repair.  The foundation to a small
+building is to the north.  The stacks of lumber nearby are probably going to
+be used to build a farmhouse here.  The farm is oddly deserted, probably
+because of the tremendous storm approaching from the south.  With the roar
+of a freight train, a huge twister is making its way across the wheat fields.
+~
+36 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3716
+D1
+A sun bleached wooden door leads into the barn.  ~
+door~
+1 -1 3715
+D2
+~
+~
+0 -1 3717
+D3
+A wide gate leads back to a dirt road.  ~
+gate~
+1 -1 3713
+S
+#3715
+The barn~
+This dusty barn is in ill repair.  The howling winds outside pour through
+the many holes in the walls, causing the straw on the floor to fly around
+your head.  The barn smells like horses and manure, but there is no sign of
+any animals here.
+~
+36 9 0
+0d0+0 0 0
+D3
+The barn door is hanging by a single hinge.  ~
+door~
+0 -1 3714
+S
+#3716
+The foundation~
+You are standing in the damaged foundation of what must have been a small
+farmhouse here.  The torn and twisted beams and supports make it appear as
+if the house was simply wrenched off of its foundations.  There are several
+stacks of lumber nearby.  The farmer must be planning to rebuild the house
+for his family.  The howling storm to the south makes you wonder if a
+tornado might have destroyed the house.
+~
+36 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 3714
+E
+lumber~
+The lumber is composed of crudely-sawn pine boards.
+~
+E
+stacks~
+The stacks of lumber are composed of crudely sawn pine boards.
+~
+S
+#3717
+The wheat field~
+You are standing on the northern edge of a huge wheat field, just south
+of some farm buildings.  Through the howling winds and the choking dust you
+can see a black, twisting funnel cloud slowly windings its way across the
+field.  You can just make out a small storm cellar to your east, perhaps
+you had better get in before the twister reaches you.
+~
+36 0 0
+0d0+0 0 0
+D0
+A small barn and farmhouse are just to the north.  ~
+~
+0 -1 3714
+D1
+A small storm cellar is beside the barn.  ~
+door~
+1 -1 3718
+D2
+A winds from a huge twister is pulling at you.  ~
+~
+0 -1 3719
+S
+#3718
+The storm cellar~
+This dark little hole in the ground is used to escape the violent tornados
+that constantly move through the Mid-West.  In better times, it is also
+used as a cool place to store food.  Time must be hard because the only
+thing you find here is dust.
+~
+36 9 0
+0d0+0 0 0
+D3
+A sturdy door leads back to the fields.  ~
+door~
+0 -1 3717
+S
+#3719
+Inside the twister~
+You have been sucked up into the funnel cloud of a massive tornado and
+are being tossed helplessly around and around by the violent winds.  It is
+hard to breath and the deafening shriek of the twister makes it difficult 
+to think.  You notice that by moving your arms and legs, you can deflect
+the winds a little bit and move through the air currents.
+~
+36 132 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3719
+D1
+~
+~
+0 -1 3719
+D2
+~
+~
+0 -1 3719
+D3
+~
+~
+0 -1 3720
+D4
+~
+~
+0 -1 3719
+D5
+~
+~
+0 -1 3719
+S
+#3720
+Inside the twister~
+You have been sucked into the funnel cloud of a massive tornado and
+are being tossed helplessly around and around by the violent winds.  It is
+hard to breath and the deafening shriek of the twister makes it difficult
+to think.  You notice that by moving you arms and legs, you can deflect
+the winds a little bit and move through the air currents.
+~
+36 128 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3719
+D1
+~
+~
+0 -1 3720
+D2
+~
+~
+0 -1 3721
+D3
+~
+~
+0 -1 3719
+D4
+~
+~
+0 -1 3719
+D5
+~
+~
+0 -1 3720
+S
+#3721
+Inside the twister~
+You have been sucked up into the funnel cloud of a massive tornado and
+are being tossed helplessly around and around by the violent winds.  It is
+hard to breath and the deafening shriek of the twister makes it difficult
+to think.  You notice that by moving your arms and legs, you can deflect
+the winds a little bit and move through the air currents.
+~
+36 128 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3722
+D1
+~
+~
+0 -1 3720
+D2
+~
+~
+0 -1 3719
+D3
+~
+~
+0 -1 3721
+D4
+~
+~
+0 -1 3719
+D5
+~
+~
+0 -1 3720
+S
+#3722
+Inside the twister~
+You have been sucked up into the funnel cloud of a massive tornado and
+are being tossed helplessly around and around by the violent winds.  It is
+hard to breath and the deafening shriek of the twister makes it difficult
+to think.  You notice that by moving your arms and legs, you can deflect
+the winds a little bit and move through the air currents.
+~
+36 128 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3719
+D1
+~
+~
+0 -1 3720
+D2
+~
+~
+0 -1 3721
+D3
+~
+~
+0 -1 3719
+D4
+~
+~
+0 -1 3719
+D5
+Through the swirling winds you can just make out the top of a tree.  ~
+~
+0 -1 3723
+S
+#3723
+The treetop~
+You are in the upper branches of a small tree that grows in the center
+of a small landscaped courtyard below.  Through the leaves you get glimpses
+of a small town below with rather small people moving about.  There are
+several buildings visible and a beautiful river can be seen to the west.
+You can easily drop down to the ground from here.
+~
+36 32768 1
+0d0+0 0 0
+D5
+The ground below looks safe to drop down to from here.  ~
+~
+0 -1 3621
+S
+#3724
+A turn in the lane~
+The country lane turns here, running both north and west.  A huge storm
+is blowing just east of here.  You can clearly see a giant funnel cloud
+moving across the wheat fields.  The wind is blowing sharply and the dust
+makes it difficult to see very far down the road.
+~
+36 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 3713
+D3
+A bridge and a wagon are visible down the road.  ~
+~
+0 -1 3725
+S
+#3725
+Next to the bridge~
+The lane ends abruptly against a small bridge that has just been washed 
+out by a flash flood that churns just below the river bank, caused probably
+by the massive storm you can see to the east.  An ornate gypsy wagon is here
+next to a small campfire.  Someone is obviously camping out here next to
+the river.
+~
+36 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 3724
+D2
+An ornate door is at the rear of the gypsy wagon.  ~
+door~
+1 3658 3726
+E
+campfire~
+A small campfire is sputtering in the wind here, inside of a small ring
+of stones.
+~
+E
+wagon~
+This worn gypsy wagon must have been beautiful when it was new.  Traces of
+gilt paint are still visible on its sun-weathered exterior.  One the side
+the words "Professor Marvel - Acclaimed By The Crowned Heads of Europe -
+Let Him Read Your Past - Present & Future In His Crystal."
+~
+E
+bridge~
+The wooden bridge has been washed out in the flash flood.  The heavy
+wooden beams have been ripped away by the flood waters.
+~
+E
+river~
+The waters of the river are churning violently as they flow past.  The
+white water looks dangerous and is full of debris.
+~
+S
+#3726
+Professor Marvel's Wagon~
+The interior of the wagon is cluttered with all kinds of odd contraptions,
+yellowing newspapers and old tin cans.  The ornately carved walls have seen
+better days, as has the dusty carpet on the floor.  There is a small table
+and two chairs in the center of the wagon.
+~
+36 8 0
+0d0+0 0 0
+D0
+You can hear the wind blowing outside the door.  ~
+door~
+1 3658 3725
+S
+#3727
+The dark forest~
+You are standing in an inky black forest full of huge trees, brambles,
+dense underrowth, and swarming vermin that rustle underfoot.  To the north,
+the path leads out of the woods where the Yellow Brick Road is just barely
+visible.  The forest is unnaturally silent and unusually cold.
+~
+36 32769 3
+0d0+0 0 0
+D0
+The edge of the forest looms ahead.  ~
+~
+0 -1 3710
+D2
+The heavy undergrowth hides what's ahead from view.  ~
+~
+0 -1 3728
+S
+#3728
+The dark forest~
+You are in a dark, evil forest surrounded by trees whose jagged branches
+seem to tear at your clothes.  Thorny undergrowth scratches your hands and
+face as you work your way through along a narrow path.  The forest is silent
+and cold and fills you with a sense of foreboding.
+There is a sign here.
+~
+36 32769 3
+0d0+0 0 0
+D0
+The dark forest obscures your view.  ~
+~
+0 -1 3727
+D2
+A clearing is barely visible just ahead.  ~
+~
+0 -1 3730
+D3
+The dense undergrowth obscures your view.  ~
+~
+0 -1 3729
+E
+sign~
+The signs reads simply, "GO BACK."
+~
+S
+#3729
+Under the fallen tree~
+The narrow path winds beneath a huge fallen tree whose massive bulk creaks
+noisily and shifts in the otherwise silent forest.  A cold, sour wind blows
+through the forest, making you shiver from both fear and the icy gusts.
+~
+36 32769 3
+0d0+0 0 0
+D1
+The dark forest hides everything from view.  ~
+~
+0 -1 3728
+D3
+The path ends here and the dark wood lies ahead.  ~
+~
+0 -1 3746
+D4
+You can easily reach the tree and climb up onto it from the path.  ~
+~
+0 -1 3731
+E
+tree~
+The tree once stood to the south of the path and has fallen over, resting
+against some large trees to the north.  Unpleasant-looking vines and insects
+cover the rotting bark.  It looks unpleasant but you think you could reach
+up and climb along the tree trunk up into the trees to the north.
+~
+S
+#3730
+The small clearing~
+You are standing in a small clearing where a battle was fought some time
+ago.  The bones of several, man-sized creatures are scattered about showing
+deep cuts from some sharp object.  Oddly enough, some straw is also strewn
+across the forest floor here.  Through the opening in the trees, you can see
+a black castle on a mountain to the west.
+~
+36 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 3728
+D1
+The edge of a small thicket is visible from here.  ~
+~
+0 -1 3733
+D3
+The dark woods look dense and it might be easy to lose your way.  ~
+~
+0 -1 3746
+S
+#3731
+Climbing the fallen tree~
+You are nervously climbing on a fallen tree, inching your way along the
+rough bark surface.  The rather steep angle makes your footing unsure and
+you notice that the forest floor is rather far below you.
+~
+36 32769 3
+0d0+0 0 0
+D4
+The tree tops loom overhead.  ~
+~
+0 -1 3732
+D5
+The forest floor and the path are a long ways down.  ~
+~
+0 -1 3729
+S
+#3732
+In the trees~
+You are climbing among the trees, high above the dark forest below.  
+A cold wind howls through the branches here, chilling you to the bone.  
+A fallen tree leans heavily against the branches here, angling down towards
+the ground below.  
+~
+36 32769 3
+0d0+0 0 0
+D3
+The thick foliage makes it impossible to see very far.  ~
+~
+0 -1 3734
+D5
+~
+~
+0 -1 3731
+S
+#3733
+The thicket~
+You are standing inside of a dense thicket made of brambles and other
+bushes that all seem to be covered with long, sharp thorns.  The small
+open area in the middle of the thicket has a thick, matted layer of
+grasses where some large animal must sleep.  The heavy undergrowth 
+shields you from the wind but the unnatural cold and silence of these
+evil woods is still unnerving.
+~
+36 32769 3
+0d0+0 0 0
+D3
+The thicket obscures your view of the surrounding woods.  ~
+~
+0 -1 3730
+S
+#3734
+In the trees~
+You are climbing through the trees, high above the forest floor in the
+dark woods.  The ancient trees have huge limbs that are intertwined, making
+it possible for you to move easily through the tree tops.  To the west you
+can make out the shadowy outline of a small castle high above the forest
+floor.
+~
+36 32769 3
+0d0+0 0 0
+D1
+The thick foliage makes it impossible to see very far.  ~
+~
+0 -1 3732
+D2
+The thick foliage makes it impossible to see very far.  ~
+~
+0 -1 3735
+D5
+The jump to the forest floor below looks pretty far.  ~
+~
+0 -1 3747
+S
+#3735
+In the trees~
+You are high above the forest floor, carefully making your way along the
+thick limbs that grow from these ancient trees.  The ground looks far below
+but you notice a heavy rope tied to a branch here that leads down.  
+You notice what appears to be the base of a cliff to the north through the
+thinning undergrowth.
+~
+36 32769 3
+0d0+0 0 0
+D0
+The dense foliage makes it difficult to see very far.  ~
+~
+0 -1 3734
+D5
+The climb down the rope looks dangerous.  ~
+~
+0 -1 3737
+E
+rope~
+The rope looks fairly strong, and in good condition.
+~
+S
+#3736
+The base of the cliff~
+You are at the base of a very steep wall of rock that rises high above 
+your head to the west.  The forest is thick, right to the very edge of this
+cliff and the undergrowth is thick and nearly impassible.  You can see the
+tower of a small castle looming above the edge of the cliff.
+~
+36 32769 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 3737
+D4
+The climb looks hard and dangerous.  ~
+~
+0 -1 3738
+E
+rope~
+The rope looks sturdy and able to hold your weight.  ~
+S
+#3737
+Off the forest path~
+You are standing in the middle of the dark wood without any path to guide
+you.  To the west you can see the bottom of a sheer wall of jumbled rock
+that looks climable.  There is also a rope hanging from a branch high above
+your head.  You shiver from the unnatural cold of this ancient forest.
+~
+36 32769 3
+0d0+0 0 0
+D3
+You may be able to make your way through the undergrowth to the bottom of
+the cliff.  ~
+~
+0 -1 3736
+D4
+The rope leads up into the branches of the tree high above your head.  ~
+~
+0 -1 3735
+E
+rope~
+The rope looks sturdy and well able to hold your weight.
+~
+E
+cliff~
+The cliff to the west is composed mainly of large boulders that lead up to
+a ridge where you can see a small castle.
+~
+S
+#3738
+On the side of the cliff~
+You are climbing on the side of a cliff, high above the dark woods that
+spreads out as far as you can see to the east.  The wind is howling here and
+you are forced to cling tenaciously to the rock to avoid plummeting to the
+base of the cliff far below.  
+~
+36 32772 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 3739
+D5
+~
+~
+0 -1 3736
+S
+#3739
+In front of the castle~
+You are standing in front of the Wicked Witch of the West's castle.
+A drawbridge leads through a portcullis into the castle.  The castle walls
+are crafted of jet black granite and have four watchtowers at each corner
+connected by crenelated battlements.  There seems to be no road leading to
+the castle, the only egress is from the cliff to the east.  A frigid wind
+is blowing here and a deep sense of fear and loathing sweeps over you as
+you stand before this evil place.
+~
+36 32769 5
+0d0+0 0 0
+D3
+A massive steel portcullis leads into the castle.  ~
+portcullis~
+1 -1 3740
+D5
+Climbing down the cliff looks difficult and dangerous.  ~
+~
+0 -1 3738
+S
+#3740
+The inner courtyard~
+You are inside the Witch's castle, just inside the entrance.  Some wide
+stairs lead up into the keep and to the battlements.  A large guardroom is
+to the north but you cannot hear anything.  The area is lit with smoking
+torches set into the walls which cast eerie shadows across the room.
+~
+36 8 0
+0d0+0 0 0
+D0
+A heavy wooden door leads into the guardroom.  ~
+door~
+1 -1 3741
+D1
+A massive portcullis seals the entrance of the castle.  ~
+portcullis~
+1 -1 3739
+D4
+Stairs lead up to a landing where you can see several doors.  ~
+~
+0 -1 3742
+S
+#3741
+The guardroom~
+The guardroom for the Witch's Guards is large and uncluttered.  Several
+rows of simple cots, tables, and chairs are arranged throughout the room.
+The walls have torches set into holders high on the walls along with odd
+pieces of antique weaponry and armor.  The room smells of leather and oil
+and is meticulously clean.
+~
+36 8 0
+0d0+0 0 0
+D2
+There is a heavy wooden door here.  ~
+door~
+1 -1 3740
+E
+chair~
+This is a typical folding camp chair made of wood and canvas.
+~
+E
+table~
+This table is made of simple pine planks and is heavily worn from use.
+~
+E
+cot~
+You see a simple folding cot made of canvas stretched over a wooden frame.
+~
+S
+#3742
+The landing~
+You are standing on a broad landing above the inner courtyard of the
+Wicked Witch's castle.  Stairs lead down to the courtyard and also lead up
+to the battlements which circle the castle.  There are several doors here.
+~
+36 8 0
+0d0+0 0 0
+D0
+This wooden door is reinforced with metal.  ~
+door~
+2 3660 3744
+D2
+The heavy door is reinforced with metal.  ~
+door~
+1 -1 3743
+D4
+Stairs lead up to the battlements.  ~
+~
+0 -1 3745
+D5
+~
+~
+0 -1 3740
+S
+#3743
+The crystal ball room~
+This room is sparsely furnished except for a heavy stone chair facing a
+pedestal with a round indentation on its top.  The room is lit with several
+torches and has several slits in the walls but no windows.  Some rusty
+shackles on the floor seem to indicate that this room could be used as some
+sort of prison.
+~
+36 8 0
+0d0+0 0 0
+D0
+The heavy door is reinforced with metal.  ~
+door~
+1 -1 3742
+E
+pedestal~
+This simple stone pedestal has an odd, round indentation, probably designed
+to hold a round object of some sort.
+~
+E
+chair~
+The chair is made of the same cut stones as the castle itself.  It does
+not look comfortable and it is certainly impossible to move.
+~
+S
+#3744
+The Witch's work room~
+This large room is dominated by a long, wide window that faces the front
+of the castle.  Peering over the ledge makes your head spin as you see the
+tremendous distance between you and the rocks far below.  The floor is sticky
+with all sorts of foul substances and the long table in the center of the
+room is crowded with all sorts of strange and arcane paraphenalia.  There
+is a fire burning in a black hearth that oddly seems to add no heat to the
+room.  
+~
+36 14344 0
+0d0+0 0 0
+D1
+A narrow window ledge looks just wide enough to stand on.  ~
+~
+0 -1 3754
+D2
+This wooden door is reinforced with steel bands.  ~
+door~
+2 3660 3742
+D3
+A heavy black curtains hangs in the archway.  ~
+curtain~
+1 -1 3752
+S
+#3745
+The eastern battlements~
+You are standing high above the Wicked Witch of the West's castle, on the
+ramparts where guards patrol and keep watch.  Far below you can see a dark
+forest that extends far into the mists that obscure the horizon.  There are
+watchtowers at each corner of the ramparts.  Stairs lead down to the
+courtyard below.
+~
+36 1 5
+0d0+0 0 0
+D0
+A watchtower is to the north.
+~
+~
+0 -1 3750
+D2
+A watchtower is to the south.
+~
+~
+0 -1 3751
+D5
+Wide, well-worn stairs lead down.  ~
+~
+0 -1 3742
+S
+#3746
+Off the forest path~
+You are standing in the middle of the dark wood without any path to guide
+you through the dense underbrush.  The unnatural quiet of the wood adds to
+your sense of discomfort as you wander in search of a path or some landmark
+to help you regain your bearings.
+~
+36 32769 3
+0d0+0 0 0
+D0
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3746
+D1
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3748
+D2
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3749
+D3
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3749
+S
+#3747
+Off the forest path~
+After falling from the trees above you find yourself standing in the middle
+of the dark wood without any path to guide you.  No paths or familiar
+landmarks can be seen in any direction through the dense underbrush.
+~
+36 49155 3
+1d1+199 90 0
+D0
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3746
+D1
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3748
+D2
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3746
+D3
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3746
+S
+#3748
+Off the forest path~
+You are standing in the middle of the dark wood without any path to guide
+you through the dense underbrush.  The unnatural quiet of the wood adds to
+your sense of discomfort as you wander in search of a path or some landmark
+to help you regain your bearings.
+~
+36 32769 3
+0d0+0 0 0
+D0
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3730
+D1
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3746
+D2
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3749
+D3
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3748
+S
+#3749
+Off the forest path~
+You are standing in the middle of the dark wood without any path to guide
+you through the dense underbrush.  The unnatural quiet of the woods adds to
+your sense of discomfort as you wander in search of a path or some landmark
+to help you regain your bearings.
+~
+36 32769 3
+0d0+0 0 0
+D0
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3746
+D1
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3749
+D2
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3749
+D3
+The dense undergrowth hides what lies ahead from view.  ~
+~
+0 -1 3746
+S
+#3750
+The northeast guardhouse~
+This roofed structure stands at the northeast corner of the battlements
+high above the Witch's castle.  Open to the howling winds that rage around
+the parapets, it offers little shelter from the elements.  Archways lead
+both south and west along the top of the castle walls.
+~
+36 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3745
+D3
+~
+~
+0 -1 3792
+S
+#3751
+The southeast watchtower~
+This roofed structure stands at the southeast corner of the battlements
+high above the Witch's castle.  Open to the howling winds that rage around
+the parapets, it offers little shelter from the elements.  Archways lead
+both north and west from here.
+~
+36 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3745
+D3
+~
+~
+0 -1 3791
+S
+#3752
+The Witch's chambers~
+A profound sense of horror overcomes you as you stand in the middle of
+the Wicked Witch's sleeping chambers.  Despite the large bed in the center
+of the room, you feel sure that the room is rarely used for sleeping but
+instead for the Witch's warped and vile experiments on her unsuspecting and
+certainly unwilling victims.  The shackles on the walls, the iron rings
+on the bedposts, and the dozens of sputtering candles give the room the
+appearance of a brothel, but you have no doubt that it is an abatoir.
+~
+36 14344 0
+0d0+0 0 0
+D1
+A heavy black curtain hangs in the archway.  ~
+curtain~
+1 -1 3744
+E
+bed~
+This king-sized bed is low to the floor and has heavy iron rings attached
+firmly to the sturdy bedposts.  A foul odor emanates from the sheets where
+unspeakable stains and vermin make the bile rise up into your throat.
+~
+S
+#3753
+In front of the castle~
+After surving the fall, you find yourself standing in front of the
+Wicked Witch of the West's castle.  A drawbridge leads through a portcullis
+into the castle.  The castle walls are crafted of jet black granite and
+have four watchtowers at each corner connected by crenelated battlements.
+There seems to be no road leading to the castle, the only egress is from
+the cliff to the east.  
+~
+36 30727 5
+1d1+199 90 0
+D3
+A massive steel portcullis leads into the castle.  ~
+~
+0 -1 3740
+D5
+Climbing down the cliff looks difficult and dangerous.  ~
+~
+0 -1 3738
+S
+#3754
+On the window ledge~
+You are standing on a narrow window ledge that hangs far above the ground
+in the Witch's castle.  While you stand unsteadily in the howling wind, you
+notice iron rungs anchored into the tower walls that lead up and down.
+~
+36 1 0
+0d0+0 0 0
+D3
+A cluttered workroom lies just inside the window.  ~
+~
+0 -1 3744
+D4
+Iron rungs crawl up the side of the castle walls.  ~
+~
+0 -1 3756
+D5
+The iron rungs quickly end a few feet below the ledge.  ~
+~
+0 -1 3753
+S
+#3755
+The Aerie~
+This foul-smelling chamber seems to have no exits besides a wide opening
+that leads out into the air, high above the base of the Witch's castle.
+The floor is covered with straw, filth, and crawling vermin that makes the
+floor itself look alive.  Bones and gobbits of rotting flesh are scattered
+about.  The wind howling outside the chamber does little to reduce the
+overwhelming stench.
+~
+36 9 0
+0d0+0 0 0
+D5
+Iron rungs lead down the wall of the castle.  ~
+~
+0 -1 3756
+S
+#3756
+Climbing the outer wall~
+You are hanging on for dear life on some rusty iron handholds that are 
+on the outer walls of the Witch's castle.  Above your head you can see a
+large opening and below is a window ledge with the ground far below.  The
+wind is blowing fiercly here and your hands are becoming numb.
+~
+36 133 5
+0d0+0 0 0
+D4
+The iron rungs lead up to a dark opening.  ~
+~
+0 -1 3755
+D5
+The iron rungs continue down to the window ledge.  ~
+~
+0 -1 3754
+E
+handholds~
+The old iron bars have been sunk deeply into the black granite walls of
+the castle.  Once sturdy, they now are heavily rusted and the mortar is
+loose and cracked.
+~
+S
+#3757
+The poppy field~
+You are standing in the middle of a huge field of poppies.  The heady
+aroma of the flowers makes your head dizzy and you feel strangely sleepy.  
+Through your drooping eyelids you can see the Emerald City to the west.
+~
+36 32768 2
+0d0+0 0 0
+D0
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3699
+D1
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3699
+D2
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3758
+D3
+The Emerald City looms in the distance.  ~
+~
+0 -1 3757
+S
+#3758
+The poppy field~
+You are standing in the middle of a huge field of poppies.  The heady
+aroma of the flowers makes your head dizzy and you feel strangely sleepy.
+Through your drooping eyelids you can see the Emerald City to the west.
+~
+36 32768 0
+0d0+0 0 0
+D0
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3757
+D1
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3758
+D2
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3759
+D3
+The Emerald City looms in the distance.  ~
+~
+0 -1 3699
+S
+#3759
+The poppy field~
+You are standing in the middle of a huge field of poppies.  The heady
+aroma of the flowers makes your head dizzy and you feel strangely sleepy.
+Through your drooping eyelids you can see the Emerald City to the west.
+~
+36 32768 0
+0d0+0 0 0
+D0
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3757
+D1
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3699
+D2
+Poppies grow as far as the eye can see.  ~
+~
+0 -1 3699
+D3
+The gates of the Emerald City lies just beyond the poppies.  ~
+~
+0 -1 3760
+S
+#3760
+Outside the gates of the Emerald City~
+You are standing before the gates of the Emerald City.  Gigantic green
+stone walls as smooth as glass rise high into the sky above your head.
+A massive door made of some sort of green wood has the word OZ deeply
+carved into it.  A brilliant green glow illuminates everything here.
+~
+36 32896 2
+0d0+0 0 0
+D1
+A vast field of poppies lies to the east.  ~
+~
+0 -1 3759
+D3
+The door to the Emerald City towers above you.  ~
+door~
+2 3675 3761
+S
+#3761
+Inside the gates~
+You are standing in the common area just inside the entrance to the
+Emerald City.  Several shops and buildings line the walkways here but they
+are overshadowed by the magnificent palace that lies at the center of this
+walled city.  Spectacular spires and breathtaking buttresses make the
+castle look as if it is ready to leap into the heavens.  Within its walls
+rules the most powerful mage in the land, the Wizard of Oz.
+~
+36 32772 1
+0d0+0 0 0
+D0
+A neat storefront is on the north side of the street.
+~
+~
+0 -1 3772
+D1
+The door leading out of the Emerald City is here.  ~
+door~
+2 -1 3760
+D2
+The door to the shop looks inviting.  ~
+door~
+2 3670 3774
+D3
+~
+~
+0 -1 3762
+S
+#3762
+At the palace entrance~
+You are standing at the entrance of the Wizard of Oz's castle.  This
+incredible structure is composed entirely of translucent blocks of some
+sort of green stone.  With needle-thin towers and a central dome that is
+so transparent it is almost invisible, you realize that this place has been
+magically enhanced.  Few mortals have tread within its walls and fear grips
+your heart as you stand outside this place of power.
+~
+36 32768 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3777
+D1
+~
+~
+0 -1 3761
+D2
+The entrance to the Inn looks friendly and inviting.  ~
+door~
+1 -1 3779
+D3
+A huge emerald door is the entrance to the castle.  ~
+door~
+2 3668 3763
+S
+#3763
+The Corridor of the Ages~
+You are in a long corridor that is softly lit by light streaming in 
+through the emerald-colored windows that line its length.  Your footsteps
+echo loudly here on the highly polished floor.  To the east you can see the
+exit while at the far end to the west come strange sounds and odd flashes
+of light.
+~
+36 33024 0
+0d0+0 0 0
+D1
+A glittering emerald door is to the east.  ~
+door~
+2 3668 3762
+D3
+The corridor continues to the west.  
+~
+~
+0 -1 3764
+S
+#3764
+The Corridor of the Ages~
+You are at the midpoint of a long corridor that is lit with soft green
+light that shines through the emerald colored glass windows that line the
+length of the corridor.  You can see a door in the distance to the east
+while to the west you can see odd flashes of light and strange sounds.
+There is a small brass plaque at the bottom of the southern 
+window.
+~
+36 33024 0
+0d0+0 0 0
+D1
+The corridor stretches into the distance.  ~
+~
+0 -1 3763
+D3
+The corridor stretches into the distance.  ~
+~
+0 -1 3765
+E
+plaque~
+The plaque reads, "The Cowardly Lion made his famous leap through this
+very window."
+~
+S
+#3765
+The Corridor of the Ages~
+You are in a long corridor that is softly lit by the light shining through
+the green tinted windows that line the hallway.  To the west you can hear
+some odd hissing and crackling sounds.  There is a spiral staircase leading
+up here.
+~
+36 33024 0
+0d0+0 0 0
+D1
+A long corridor stretches into the distance.  ~
+~
+0 -1 3764
+D3
+An emerald green door is to the west.  ~
+door~
+1 -1 3766
+D4
+The stairs lead up to the guest wing.
+~
+~
+0 -1 3780
+S
+#3766
+The Wizard's throne room~
+ The Wizard's throne room is spectacular and awe-inspiring, as befits the
+most powerful magic user in Oz.  A huge throne carved from a single, perfect
+emerald sits between two huge cauldrons of green fire which belch huge
+flames high into the room at regular intervals.  The room is lit from above
+where a nearly transparent dome spans the ceiling.
+~
+36 32776 0
+0d0+0 0 0
+D1
+An emerald green door is to the east.  ~
+door~
+1 -1 3765
+D2
+A curtain is hung across an opening here.  ~
+curtain~
+1 -1 3767
+D3
+A panel is cleverly concealed behind the throne.  ~
+panel~
+2 3673 3768
+D4
+A spiral staircase leads up to the second floor of the palace.
+~
+~
+0 -1 3785
+S
+#3767
+The control room~
+This small room is filled with odd, mechanical equipment whose purpose
+you could not begin to guess.  Lever, buttons, and strange dials cover a
+polished bronze panel and strange colored lights are blinking.  There is a
+small silver plaque screwed into the base of the panel.
+~
+36 47232 0
+0d0+0 0 0
+D0
+A curtain is hung across an opening here.  ~
+curtain~
+1 -1 3766
+E
+plaque~
+The plaque reads, "Manufactured by the Ace Novelty Company of Walla Walla,
+Washington, USA.
+~
+S
+#3768
+The bottom of the secret stairs~
+You are standing at the base of some steep stairs that wind steeply up
+into the upper reaches of the Wizard's castle.  The passage is very narrow
+and the steps are rather high.  
+~
+36 47105 0
+0d0+0 0 0
+D0
+A tiny, narrow passageway slants up to the north.
+~
+~
+0 -1 3787
+D1
+A panel is cleverly concealed at the base of the steps.  ~
+panel~
+2 3673 3766
+D4
+The stairs wind up into the darkness above.
+~
+~
+0 -1 3769
+S
+#3769
+The top of the secret stairs~
+You are climbing on a narrow, spiralling staircase that disappears into
+the darkness below.  At the top of the stairs is a small alcove with a
+small torch offering some illlumination.  A piece of rope hangs from a
+trapdoor in the ceiling over your head. 
+~
+36 47104 0
+0d0+0 0 0
+D4
+A trapdoor is above your head.  ~
+trapdoor~
+1 -1 3770
+D5
+The stairs disappear into the darkness below.
+~
+~
+0 -1 3768
+S
+#3770
+On the castle roof~
+You are standing on a windswept section of roof on top of the Wizard's
+Castle.  Spectacular towers and irridescent domes surround you, and you
+have a spectacular view of the Emerald City below.  The entire city seems
+to glow with an unearthly green light which seems to emanate from the
+palace itself.  A hot air balloon is anchored here which has a large wicker
+basket hanging from a huge silk balloon which is swaying gently in the wind.
+~
+36 14464 5
+0d0+0 0 0
+D0
+You could easily clamber over the edge of the basket under the balloon.
+~
+~
+0 -1 3778
+D5
+A trapdoor lies at your feet.  ~
+trapdoor~
+1 -1 3769
+S
+#3771
+Overlooking the desert~
+You are standing on a ledge overlooking a great desert.  Hot winds are
+blowing sand in twisting swirls on the dunes below.  Looking down you
+realize that you could safelyl jump down.  To the south, a steeply
+slanting passageway burrows its way into the earth below.
+~
+36 32768 4
+0d0+0 0 0
+D2
+The passageway slants downward into darkness. 
+~
+~
+0 -1 3700
+D5
+You can jump down to the shifting sands safely from here.  ~
+~
+0 -1 5031
+S
+#3772
+The Horse And Buggy Shoppe~
+This small shop is more like a barn than a store.  The interior has a
+well-swept dirt floor covered with a thin layer of sweet-smelling straw.
+The walls are covered with leather tack and the air smells strongly of
+straw, leather, and manure.  There is a beautiful, ornate buggy here that
+is for hire.
+~
+36 32768 0
+0d0+0 0 0
+D2
+A busy street lies outside the entrance.
+~
+~
+0 -1 3761
+D4
+The beautiful buggy is easy to climb up upon.
+~
+~
+0 -1 3773
+E
+buggy~
+The buggy is beautifully made.  Painted a brilliant emerald green, the
+coachwork is covered with ornate gold filigree.  The OZ Coat of Arms is
+proudly displayed on its sides.  Why don't you climb aboard?
+~
+S
+#3773
+In the buggy~
+You are sitting on the plush seats of a beautiful buggy.  Painted a deep
+emerald green, the buggy is covered with beautiful gold filigree with the
+OZ Coat of Arms displayed on each side.  Isn't this exciting?  Too bad the
+horse hasn't been harnessed to the buggy, you could have gone for a ride.
+~
+36 32768 0
+0d0+0 0 0
+D5
+The shop floor is only a small jump away.
+~
+~
+0 -1 3772
+S
+#3774
+Clean and Polish Shoppe~
+This establishment specializes in cleaning up weary (and dirty) travellers.
+The shop is well stocked with all sorts of cleaning supplies, towels, soap,
+and even stranger items like fresh straw and metal polish.  Best of all, a
+large jacuzzi is bubbling away merrily in the center of the room.
+There is a sign by the door.
+~
+36 47244 0
+0d0+0 0 0
+D0
+The shop door leads back onto the street.  ~
+door~
+2 3670 3761
+D5
+~
+~
+0 -1 3775
+E
+sign~
+Please leave the key so others might enjoy themselves. 
+~
+E
+jacuzzi~
+The jacuzzi is bubbling merrily and steam is billowing from its hot water.
+It is rather large and can easily hold ten people.  You are tempted to take
+a moment and relax in the water.  Hope it isn't too hot for you.
+~
+S
+#3775
+In the jacuzzi~
+You are sitting in a large jacuzzi with hot water bubbling merrily around
+you.  Steam is rising to the ceiling as the hot water drains the soreness
+from your muscles and relaxes you completely.  Remember, don't stay in too
+long!
+~
+36 47236 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 3774
+S
+#3776
+The dark closet~
+This musty closet is completely empty with the exception of a couple of
+rusty hangers and some ancient cobwebs.
+~
+36 32777 0
+0d0+0 0 0
+D3
+The closet door smells of must and mothballs.  ~
+door~
+1 -1 3633
+E
+hanger~
+The hangers are the kind that are attached to the rob, like in cheap
+hotels.  How annoying!
+~
+S
+#3777
+The Pawnshoppe~
+This cramped and crowded store is overflowing with odd items and stranger
+pieces of clothing.  Shelves stuffed with items all bearing a pawn ticket
+line the walls of the store.  You can easily pick your way through the
+mounds of stuff to reach the counter.
+~
+36 32920 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3762
+S
+#3778
+In the balloon~
+Climbing aboard the balloon may have been a mistake.  A strong gust of
+wind broke the cables holding the balloon down and it quickly flew into the
+sky with you in it!  As hours slowly passed, you have drifted across the
+lush OZ countryside, across the Dead Desert, and are now floating above a
+sprawling town that looks strangely familiar.  A nearby rooftop is a short
+leap away!
+~
+36 14348 0
+0d0+0 0 0
+D5
+A dirty rooftop lies beneath the balloon's basket.  If you jump carefully
+you may not get hurt!
+~
+~
+0 -1 12725
+S
+#3779
+The Inn of the Sitting Duck~
+The interior of this cozy Inn is warmly lit by a roaring fire built in a
+large hearth on the west wall.  At the bank, a large bar offers the usual
+beverages to the unusually well-behaved customers.  Simple pine tables and
+benches offer plenty of seats for the customers to sit and relax.
+There is a bill of fare on the wall.
+~
+36 32776 0
+0d0+0 0 0
+D0
+The door leads back out to the street.  ~
+door~
+1 -1 3762
+D2
+A sturdy wooden door is behind the bar.  ~
+door~
+2 3692 3793
+E
+hearth~
+The stone hearth contains a large, roaring fire whose warmth you can feel from
+anywhere within the Inn.  A heavy oak mantel and a stack of firewood are
+also here.
+~
+E
+bill~
+The Bill of Fare reads:  Ale   40 coins
+                         Beer   30 coins
+                         Pretzels 5 coins
+~
+S
+#3780
+The guest wing~
+This hallway is beautifully appointed with plush carpeting and murals
+depicting the many adventures of the various heros of OZ.  Everything is 
+lit with a gentle green light which makes you feel instantly relaxed and
+at home.
+~
+36 32776 0
+0d0+0 0 0
+D0
+The Summer Suite is here.  ~
+door~
+1 -1 3781
+D1
+The Winter Suite is here.  ~
+door~
+1 -1 3783
+D2
+The Autumn Suite is here.  ~
+door~
+1 -1 3782
+D3
+The Spring Suite is here.  ~
+door~
+1 -1 3784
+D5
+The spiral stairs lead down to a corridor below.
+~
+~
+0 -1 3765
+S
+#3781
+The Summer Suite~
+This brightly lit room is comfortably warm but the faint breeze coming 
+from the ceiling fans slowly turning over the bed feels delightful.  All of
+the furniture and decorations are various shades of yellow and white with
+some exquisitely crafted rattan furniture filling the room.  
+~
+36 32776 0
+0d0+0 0 0
+D2
+The exit to the room is here.  ~
+door~
+1 -1 3780
+S
+#3782
+The Autumn Suite~
+This guestroom has a faint chill in the air that is nicely offset by the
+warmth offered from lights overhead.  The walls are nicely panelled in some
+kind of exotic wood and the furniture is heavy and overstuffed.  There is
+a fire burning in a hearth next to the high oaken bed in the corner.
+~
+36 32776 0
+0d0+0 0 0
+D0
+The exit to the room is here.  ~
+door~
+1 -1 3780
+S
+#3783
+The Winter Suite~
+The Winter Suite is somewhat chilly but the air is remarkably clean and
+refreshing.  This guestroom is decorated with shades of blue and white,
+with numerous glass ornaments and tabletops.  A plush white carpet on the
+floor has the appearance of freshly fallen snow and the bed is covered with
+thick piles of heavy white fur pelts.
+~
+36 32776 0
+0d0+0 0 0
+D3
+The exit to the room is here.  ~
+door~
+1 -1 3780
+S
+#3784
+The Spring Suite~
+This brightly lit room has warm, damp air appropriate for the dozens of
+hanging plants and other decorative flowers that fill the room.  The pale
+green decor goes well with this greenhouse-like room.  A rather large day
+bed has flower petals scattered across it and looks rather inviting.
+~
+36 32776 0
+0d0+0 0 0
+D1
+The exit to the room is here.  ~
+door~
+1 -1 3780
+S
+#3785
+The Wizard's private chambers~
+This room is surprisingly small and simple, unlike the ornate and majestic
+rooms that you have seen throughout the castle.  There is a small table here
+surrounded by numerous chairs that is obviously used for informal meetings.
+A large formal portrait of the Wizard hangs on the north wall.
+~
+36 32776 0
+0d0+0 0 0
+D3
+This beautiful portrait of the Wizard is quite large.  ~
+portrait~
+2 -1 3786
+D5
+A spiral staircase leads down to the Throne Room.
+~
+~
+0 -1 3766
+E
+portrait~
+The Wizard's portrait shows him riding in the basket below a huge hot air
+balloon with 'Oklahoma State Fair' written in huge letters written across it.
+The balloon is riding high above a rolling plain where brightly colored
+tents can be seen far below.
+~
+S
+#3786
+The Wizard's bed chamber~
+The Wizard's bedroom is small and homey, with simple furniture that he
+must have brought from his homeland.  The only pieces of furniture is a bed,
+bedside table and a bookcase filled with dusty tomes.  Spare but comfortable,
+it is difficult to believe that the most powerful magical being in OZ
+sleeps in the modest room.
+~
+36 32776 0
+0d0+0 0 0
+D1
+The wooden rear of the portrait can be opened here.  ~
+portrait~
+1 -1 3785
+D2
+The bookcase is filled with various works on arcane, magical disciplines
+and other subjects related to sorcery.  ~
+bookcase~
+2 3673 3787
+S
+#3787
+A tiny narrow passage~
+This tiny passage is so narrow that you have to move sideways to squeeze
+through.  It slants down towards the south.
+~
+36 47361 0
+0d0+0 0 0
+D0
+The rear of the hinged bookcase is barely visible.  ~
+bookcase~
+2 3673 3786
+D2
+The passageway slants downwards into darkness. 
+~
+~
+0 -1 3768
+S
+#3788
+The Stalagmite Cave~
+This is a no entrance mob chute for the Gnome King area in the OZ zone.
+~
+36 14464 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3665
+D1
+~
+~
+0 -1 3662
+D2
+~
+~
+0 -1 3671
+D3
+~
+~
+0 -1 3660
+D4
+~
+~
+0 -1 3667
+D5
+~
+~
+0 -1 3670
+D6
+~
+~
+0 -1 3676
+D7
+~
+~
+0 -1 3683
+D8
+~
+~
+0 -1 3678
+D9
+~
+~
+0 -1 3679
+S
+#3789
+Off the forest path~
+Mob chute for the dark forest area in the OZ zone.
+~
+36 14464 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3733
+D1
+~
+~
+0 -1 3730
+D2
+~
+~
+0 -1 3728
+D3
+~
+~
+0 -1 3746
+D4
+~
+~
+0 -1 3749
+D5
+~
+~
+0 -1 3732
+D6
+~
+~
+0 -1 3735
+D7
+~
+~
+0 -1 3748
+D8
+~
+~
+0 -1 3737
+D9
+~
+~
+0 -1 3747
+S
+#3790
+North of the crossroads~
+The road ends suddenly against a vast wall of thick, thorny undergrowth.
+The growth looks very dense and the thorns look lethal.  The road
+disappears under this barricade which you suspect is magical in origin.
+~
+36 32768 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 3707
+S
+#3791
+The southern battlements~
+You are standing on the southern battlements, high above the Wicked Witch
+of the West's castle.  Far below you can see a dark, ancient forest that
+covers the rolling landscape like an oily stain.  The wind is howling
+and icy blasts of air chill you to the bone.
+~
+36 1 1
+0d0+0 0 0
+D1
+A watchtower stands to the east.
+~
+~
+0 -1 3751
+D3
+A heavy door leads to the southwestern watchtower.  ~
+door~
+2 3645 3791
+S
+#3792
+The northern battlements~
+You are on the battlements on the northern side of the Wicked Witch of
+the West's castle.  The spectacular view of the ancient forest below is
+obscured by roiling mists and the icy winds that bring tears to your eyes.
+~
+36 1 5
+0d0+0 0 0
+D1
+A watchtower stands to the east.
+~
+~
+0 -1 3750
+D3
+A heavy door leads to the northwestern watchtower.  ~
+door~
+2 3645 3751
+S
+#3793
+The beer cellar~
+This damp room is crowded with stacks of beer kegs that line the walls.
+A sour, yeasty smell fills the room and the sound of scurrying feet
+come from every direction.  Some sturdy steps lead back up to the inn.
+~
+36 47105 0
+0d0+0 0 0
+D4
+There is a door at the top of the stairs.  ~
+door~
+1 3682 3779
+S
+#3794
+The rear of the lair~
+The back of the Kalidah's lair is covered with a thick, rotting layer
+of straw.  The nauseating, sickly-sweet smell of rot fills the air
+while splintered bones crunch beneath your feet.
+~
+36 47361 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3692
+S
+$

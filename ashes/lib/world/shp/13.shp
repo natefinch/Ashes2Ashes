@@ -1,0 +1,53 @@
+CircleMUD v3.0 Shop File~
+#0~
+1351
+1318
+-1
+1.1 
+0.7 
+-1
+%s I'm terribly sorry, but I sold the last one of those this morning.~
+%s Sorry, but I don't actually buy anything.~
+%s Sorry, but I don't actually buy anything.~
+%s Sorry, but I don't actually buy anything.~
+%s You don't seem to have enough on you to cover the cost, try again some 
+other time.~
+%s Pleasure doing business with you. I'll just need %d coins.~
+%s BUG - %d coins - Please report to the nearest immortal!~
+0 
+0 
+1305 
+0 
+1318 
+-1
+0 
+28 
+0 
+0 
+#1~
+3052
+3050
+3051
+-1
+1.2 
+0.6 
+-1
+%s Sorry my friend, but I haven't had anything like that for a week.~
+%s Sorry, but I don't actually buy anything.~
+%s Sorry, but I don't actually buy anything.~
+%s Sorry, but I don't actually buy anything.~
+%s Your wallet seems to be coming up short, perhaps something less 
+expensive.~~
+%s Very nice choice, I'll just need %d coins for that item.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+0 
+1306 
+0 
+1319 
+-1
+0 
+28 
+0 
+0 
+$~

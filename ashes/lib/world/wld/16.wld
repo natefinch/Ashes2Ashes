@@ -1,0 +1,2300 @@
+#1600
+Entrance to the Land of Xanth~
+You have crossed over from drear Mundania to find yourself on a wide, well-
+taken-care-of path, which leads north from here. You notice a sign on the
+east side of the road, printed in large, easy-to-read block letters. You can
+continue along the path, or leave the Land of Xanth to the south.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1601
+D2
+Through a shimmering curtain or raw magic, you see the path back to Mundania.
+~
+~
+0 -1 3075
+E
+sign~
+
+Printed in large block letters, the sign reads:
+
+"The Land of Xanth, written by Cati and Dyrewulf, adapted from the 'Magic
+                of Xanth' novels by Piers Anthony."
+
+Written below this legend in a larger hand, you see:
+
+"By order of King Dor, travelers are hereby warned to STAY ON the magic
+ paths. The forests of Xanth are VERY DANGEROUS to the uninitiate. The paths
+ have been enchanted to keep monsters off, and are totally and completely
+ safe for use by travelers.
+
+"Please report any malfunction in the magic paths to King Dor. Thank you."
+
+~
+S
+#1601
+A magic path~
+You are traveling along an enchanted path through the sunny hills of
+eastern Xanth.  You hear the cries of strange creatures around you, but
+none of them get too close to the path.  Maybe it really is enchanted
+after all.  The path bends here, turning to the west, or you can proceed
+south, back towards the portal to drear Mundania.  All around the path
+you notice strange looking flowers and plants.
+~
+16 20 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 1600
+D3
+~
+~
+0 -1 1602
+E
+flowers flower~
+Most of the flowers you see here have blooms that look like small,
+purple clubs.  As you peer at them, they try to hit you.  This must
+be the African violent, you figure as you dodge another swing from
+the plant.~
+E
+plant plants~
+You notice that a few of these plants look like large plaid bags.
+The sound coming from the bags sounds terrible, in fact it reminds
+you of... bagpipes?  This must be a bagpipe bush, you think as you
+cover your ears from the sound.  Too bad it's not a master player
+playing them though.~
+S
+#1602
+A magic path~
+The path bends here, turning to the north. As you contemplate your next move,
+a cloud of gnats settles around you, and suddenly you begin perspiring in an
+uncontrollable fashion. You swat the offending bugs away, and the sweating
+subsides. Apparently these sweat gnats are not harmful, only annoying, and
+so the magic of the path permits them to harrass you.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1603
+D1
+~
+~
+0 -1 1601
+S
+#1603
+A magic path~
+The path straightens out a bit here, proceeding north and south. A number of
+pretty flowers are growing by the side of the path. In particular, you notice
+a small patch of begonias, who quickly uproot themselves and hurry away even
+before they can be ordered to be gone. Some blanket moss grows a little ways
+off the path, this particular path being a soft, warm flannel pattern. You
+decide against venturing off the path to claim it, though, as there will
+surely be more along the way.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1604
+D2
+~
+~
+0 -1 1602
+S
+#1604
+A magic path~
+You are traveling along a magic path through eastern Xanth, which turns here
+and continues to the west. Overhead, you hear a plaintive meowing sound, and
+as you swivel your head to look at it, you catch sight of a smallish animal
+with the head and legs of a cat, and the body and wings of a hawk making
+little swoops above you. It must be a kitty hawk, you reflect. The animal
+is almost unbearably cute, and you cannot restrain the urge to smile as you
+continue on your way.
+~
+16 20 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 1603
+D3
+~
+~
+0 -1 1605
+S
+#1605
+A magic path~
+Continuing along the magic path, you come to another small grove of vegetation,
+several trees and shrubs growing close together alongside the path. You do
+a double-take as a small tree with several pairs of thick leather shoes
+hanging from the branches catches your eye. You pull on a pair, and they
+seem to actually be part of the tree. A...shoe tree? You shake your head
+in wonder at the strange forms life takes in the Land of Xanth.
+~
+16 20 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1604
+D3
+~
+~
+0 -1 1606
+S
+#1606
+A magic path~
+The landscape around the path grows drier here, and you pass through a patch
+that is full-fledged sand. It smells kind of odd, you reflect, and as you
+scoop up a handful and touch your tongue to it, you realize that it is not
+silicon, but sucrose. Sugar sand? This place gets weirder all the time! The
+magic path turns here, continuing to the north.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1607
+D1
+~
+~
+0 -1 1605
+S
+#1607
+A magic path~
+The path diverts again here, curving in a westerly direction at a lazy pace.
+It's still pretty dry around here, but you notice a lush forest up ahead.
+Must be an underground spring. Suddenly, you feel a sharp pain in your foot.
+Pulling it out of your boot and examining it, you notice a number of large,
+ugly burrs pricking it. Trying to detach them only makes them hurt more.
+After awhile, you are so frustrated that you let out a stream of expletives
+that would make an anti-paladin blush. Immediately, the burrs drop off. You
+shake your head in wonder and put your boot back on.
+~
+16 20 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1668
+D2
+~
+~
+0 -1 1606
+D3
+~
+~
+0 -1 1608
+S
+#1608
+A magic path through the forest~
+You are traveling on a magic path through Western Xanth. The forest has
+grown unrestrained here, right up to the edge of the path. The path
+continues west, or you may enter the forest to the north.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1643
+D1
+~
+~
+0 -1 1607
+D3
+~
+~
+0 -1 1609
+S
+#1609
+A magic path through the forest~
+You are on a magic path in Eastern Xanth. The forest has grown up right to
+the edge of the path here. The path turns here, continuing to the north, or
+you can enter the forest to the west.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1610
+D1
+~
+~
+0 -1 1608
+D3
+~
+~
+0 -1 1648
+S
+#1610
+A magic path through the forest~
+You are walking along a magical path through eastern Xanth. The forest has
+grown up until it almost, but not quite, touches the path here. The path
+bends here, leading south and west. To the north and east you can enter
+the forest, if you are feeling very brave, stupid, or suicidal.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1645
+D1
+~
+~
+0 -1 1643
+D2
+~
+~
+0 -1 1609
+D3
+~
+~
+0 -1 1611
+S
+#1611
+A magic path through the forest~
+You are on a magic path that is taking you through the forests of Eastern
+Xanth. The path continues east and west, and you can enter the forest to the
+north or south from here.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1646
+D1
+~
+~
+0 -1 1610
+D2
+~
+~
+0 -1 1648
+D3
+~
+~
+0 -1 1612
+S
+#1612
+A magic path through the forest~
+You are on a magic path that is taking you through the forests of Eastern
+Xanth. The path continues east, and comes to an intersection to the west. You
+may also enter the forest to the north or south.
+~
+16 20 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 1647
+D1
+
+~
+~
+0 -1 1611
+D2
+
+~
+~
+0 -1 1649
+D3
+
+~
+~
+0 -1 1613
+S
+#1613
+An intersection in the magic path~
+You are at an intersection where two paths meet. A sign directs you east
+to "Mundania," south to something called the "Gap Chasm," or north to
+North Village and Castle Roogna. You may also leave the path and enter
+the forest by going west.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1615
+D1
+~
+~
+0 -1 1612
+D2
+~
+~
+0 -1 1614
+D3
+~
+~
+0 -1 1651
+S
+#1614
+The path ends~
+You have come to the end of the magic path. You are looking straight down 
+into a tremendous gorge. It spreads to the east and west for miles, and you
+can easily believe that it cuts the entire peninsula in half. You can
+probably descend into the gorge without a problem, but there are omnious
+snorting noises down there that make you wary of leaving the safety of the
+magic path. The path leads north from here.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1613
+D1
+~
+~
+0 -1 1649
+D3
+~
+~
+0 -1 1655
+D5
+~
+~
+0 -1 1683
+S
+#1615
+A magic path through the forest~
+You are at a bend in the magic path. It continues south and west from here,
+or you can enter the forest to the north or east.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1772
+D1
+~
+~
+0 -1 1647
+D2
+~
+~
+0 -1 1613
+D3
+~
+~
+0 -1 1616
+S
+#1616
+A magic path through the forest~
+You are on a magic path that leads east and west through central Xanth. You
+may also enter the forest to the north or south.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1771
+D1
+~
+~
+0 -1 1615
+D2
+~
+~
+0 -1 1651
+D3
+~
+~
+0 -1 1617
+S
+#1617
+The path divides~
+The magic path divides here. A sign proclaims that the "North Village" lies
+along the northern branch, while to the west lies "Castle Roogna" and to
+the east, "Mundania". You may also enter the forest to the south.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1618
+D1
+~
+~
+0 -1 1616
+D2
+~
+~
+0 -1 1650
+D3
+~
+~
+0 -1 1619
+S
+#1618
+Path to the North Village~
+The magic path ends here. A smaller dirt road continues north, where you
+spy a large human village, full of people at work and play. You may also go
+back to the path by heading south, or enter the forest to the east or west.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8317
+D1
+~
+~
+0 -1 1771
+D2
+~
+~
+0 -1 1617
+D3
+~
+~
+0 -1 1671
+S
+#1619
+A magic path through the forest~
+You are on a magic path that is guiding you through central Xanth. The path
+continues west, and to the east you spy a crossroads. You also have the
+option of entering the forest to the north or south.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1671
+D1
+~
+~
+0 -1 1617
+D2
+~
+~
+0 -1 1779
+D3
+~
+~
+0 -1 1620
+S
+#1620
+A magic path through the forest~
+You are on a magic path in central Xanth. The path leads east and west from
+here, or you may enter the forest to the north or south.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1670
+D1
+~
+~
+0 -1 1619
+D2
+~
+~
+0 -1 1778
+D3
+~
+~
+0 -1 1621
+S
+#1621
+A magic path through the forest~
+You are on a magic path in central Xanth. The path takes a small bend here,
+running north and east now, and the forest awaits to the west.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1622
+D1
+~
+~
+0 -1 1620
+D3
+~
+~
+0 -1 1775
+S
+#1622
+A magic path through the forest~
+You are traveling on a magic path through central Xanth. The path bends here,
+continuing south and west, or you may enter the forest to the north or to
+the east.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1667
+D1
+~
+~
+0 -1 1670
+D2
+~
+~
+0 -1 1621
+D3
+~
+~
+0 -1 1623
+S
+#1623
+A magic path through the forest~
+You are traveling down an enchanted path through the forests of central Xanth.
+The path continues east and west here, or you may enter the forest to the
+north or south, if you so desire.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1666
+D1
+~
+~
+0 -1 1622
+D2
+~
+~
+0 -1 1775
+D3
+~
+~
+0 -1 1624
+S
+#1624
+A magic path through the forest~
+You are traversing an enchanted path through the forests of Central Xanth.
+The path bends here, continuing south or east, or you may enter the forest
+to either the north or the west.
+~
+16 20 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1623
+D2
+~
+~
+0 -1 1625
+D3
+~
+~
+0 -1 1675
+S
+#1625
+A magic path through the forest~
+You are continuing along a magic path through the forest. The path leads
+north and south from here, and the forest lies to the east and west.
+~
+16 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1624
+D1
+~
+~
+0 -1 1775
+D2
+~
+~
+0 -1 1626
+D3
+~
+~
+0 -1 1673
+S
+#1626
+A magic path through the forest~
+You are traveling on a magic path through the forest of central Xanth. The
+path heads north and south from here, or you can enter the forest, to the
+east and west.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1625
+D1
+~
+~
+0 -1 1776
+D2
+~
+~
+0 -1 1627
+D3
+~
+~
+0 -1 1676
+S
+#1627
+A magic path through the forest~
+You are on an enchanted path through the forests of central Xanth. The path
+continues to the north and south, and to the east and west you are able to
+enter the dark and treacherous forest.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1626
+D1
+~
+~
+0 -1 1780
+D2
+~
+~
+0 -1 1628
+D3
+~
+~
+0 -1 1677
+S
+#1628
+A magic path through the forest~
+You are at a bend on the magic path, which now continues to the north and
+to the west. The forest surrounds you to the south and the east.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1627
+D1
+~
+~
+0 -1 1792
+D2
+~
+~
+0 -1 1794
+D3
+~
+~
+0 -1 1629
+S
+#1629
+A magic path through the forest~
+You are traveling on a magic path through the forests of Xanth. A very large,
+very old castle can be seen at the end of the path to the west, which also
+continues to the east. You may also go north or south, and enter the forest.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1677
+D1
+~
+~
+0 -1 1628
+D2
+~
+~
+0 -1 1793
+D3
+~
+~
+0 -1 1630
+S
+#1630
+A magic path~
+The magic path has taken you out of the forest, and you are now closing in
+on a very large castle at the end of the path. The path bends here, and you
+can continue north or east from here.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1631
+D1
+~
+~
+0 -1 1629
+S
+#1631
+A magic path~
+You are still headed down a magic path through Central Xanth. Up ahead, the
+path ends at the drawbridge of a huge, old castle. The path leads south and
+west from here.
+~
+16 20 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1677
+D2
+~
+~
+0 -1 1630
+D3
+~
+~
+0 -1 1632
+S
+#1632
+End of the magic path~
+The magic path comes to an end here, at the drawbridge to the huge old
+castle you have been noticing since you left the forest. Could this be
+the famous Castle Roogna? There's only one way to find out. The drawbridge
+lies to the west, or you can proceed east, back down the magic path.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8341
+D1
+~
+~
+0 -1 1631
+D3
+~
+~
+0 -1 8200
+S
+#1633
+Another magic path~
+You are on another magic path, having just escaped the...the...what was it
+you just escaped? You don't seem to be able to remember. Oh well. The path
+you are on leads south from here, or you can enter the forest to the east.
+You notice a large castle at the end of the path, fairly new-looking.
+~
+16 20 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1659
+D2
+~
+~
+0 -1 1634
+D3
+~
+~
+0 -1 1799
+S
+#1634
+On the magic path~
+You are walking along a magic path in south-central Xanth, having crossed the
+...the...whatever it was you crossed. A castle lies at the end of this path,
+which bends to the east here. You can also go north.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1633
+D1
+~
+~
+0 -1 1635
+S
+#1635
+On the magic path~
+You are on a magic path, heading toward a large castle to the south. The path
+continues east and west here, or you can enter the forest to the north.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1659
+D1
+~
+~
+0 -1 1636
+D3
+~
+~
+0 -1 1634
+S
+#1636
+On the magic path~
+Continuing down the magic path, you realize that you are quite close to the
+castle now. The path bends to the south here, where it ends right at the
+drawbridge to the castle, which is closed. The path continues to the west,
+and you may enter the forest to the north or east if you so desire.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1660
+D1
+~
+~
+0 -1 1786
+D2
+~
+~
+0 -1 1637
+D3
+~
+~
+0 -1 1635
+S
+#1637
+End of the magic path~
+You are at the end of a magic path, leading through south-central Xanth.
+To the north, the path continues back through the forest, and to the south
+you see the (closed) drawbridge to the castle of Good Magician Humfrey.
+Rumor has it that there are three challenges that must be passed before
+you can enter the castle, and ask the Good Magician your Question. But beware
+of the price...the Good Magician charges a year's service for every Answer.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1636
+D1
+~
+~
+0 -1 8342
+D2
+~
+drawbridge~
+2 8275 8221
+S
+#1638
+A magic path~
+You have just left the western part of the North Village, and you are now
+traveling along a magic path through northern Xanth. The path leads to the
+west here, and you think you can smell horseflesh further down the path.
+Strange. You can also re-enter the Village to the east, if you so desire.
+~
+16 20 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8361
+D3
+~
+~
+0 -1 1639
+S
+#1639
+A magic path~
+You are on a magic path leading away from the North Village. The path bends
+here, turning to the north, or you can proceed east, back toward the Village.
+You catch a slight whiff of horses from the north.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1640
+D1
+~
+~
+0 -1 1638
+S
+#1640
+A magic path~
+Continuing down tha magic path, you notice the smell of horses increasing.
+You are also beginning to hear the clip-clop of hooves striking the ground,
+and some deep human voices. Perhaps this is where the villagers keep their
+stable. The path continues north and south here.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1641
+D2
+~
+~
+0 -1 1639
+S
+#1641
+A magic path~
+You are traveling a magic path through northern Xanth, which leads north and
+south from here. To the south, the path continues toward the North Village,
+and you hear the sounds of horses to the north.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1642
+D2
+~
+~
+0 -1 1640
+S
+#1642
+Entrance to Centaur Village~
+You are at the end of the magic path, still wondering where the smell of
+horseflesh is coming from, when movement catches your eye to the north. A
+large form steps into view, with the lower body of a horse and the upper
+body of a large, sturdy man. A centaur! You quickly revise all of your
+preconceptions, and after eyeing the large longbow slung over his back,
+decide to be very, very nice to these people. You can enter the village to
+the north, or continue south, back towards the North Village.
+~
+16 20 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8391
+D1
+~
+~
+0 -1 1664
+D2
+~
+~
+0 -1 1641
+S
+#1643
+The forest in eastern Xanth~
+You have left the magic path, and entered the treacherous forests of eastern
+Xanth. Something deep in your bones tell you that this was not a wise move.
+You hear something VERY large moving about in the underbrush, and as you
+grip the handle of your weapon, you wonder if it might not be a better idea
+to get back to the path before it's too late. The path lies to the south
+and west, or you can go deeper into the forest to the north.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1644
+D2
+~
+~
+0 -1 1608
+D3
+~
+~
+0 -1 1610
+S
+#1644
+Deep in the forest in eastern Xanth~
+You are deep in the forest, fairly far from the magic path that brought
+you here. It is rather dark here, and you hear a lot of movement in the
+area around you. The forest continues to the south and west from here.
+~
+16 0 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 1643
+D3
+~
+~
+0 -1 1645
+S
+#1645
+The forest in eastern Xanth~
+You have left the magic path and are now in the perilous forest of eastern
+Xanth, where wild and dangerous creatures roam, unafraid of humans. Even the
+plant life can be dangerous, you have heard. The number and intensity of
+the signs of life around you is rather unsettling, and you feel that it
+might be better to get back onto the safe magic path, to the south. However,
+the foolhardy among you can continue through the forest, which continues
+to the east and the west from here.
+~
+16 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 1644
+D2
+~
+~
+0 -1 1610
+D3
+~
+~
+0 -1 1646
+S
+#1646
+The forest in eastern Xanth~
+You have left the magic path, and are now wending your way through the forest.
+This portion of it seems fairly quiet, and you are still trying to decide if
+that should reassure you when you notice a large number of bones that have
+been piled rather sloppily under some concealing underbrush. Ummm...The
+forest continues to the north, east, and west, and to the south, you can
+get back to the magic path, and safety.
+~
+16 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1774
+D1
+~
+~
+0 -1 1645
+D2
+~
+~
+0 -1 1611
+D3
+~
+~
+0 -1 1647
+S
+#1647
+The forest in eastern Xanth~
+Having left the magic path, you are now in the dangerous forest of eastern
+Xanth. Life abounds here, including strange-looking flora, insects of a
+variety of sizes and colors, and a number of other things that perhaps it
+would be best not to examine too closely. The forest continues to the north
+and east, and the magic path lies to the south and west.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1773
+D1
+~
+~
+0 -1 1646
+D2
+~
+~
+0 -1 1612
+D3
+~
+~
+0 -1 1615
+S
+#1648
+The forest in eastern Xanth~
+Maybe leaving the path wasn't such a great idea after all. As you make your
+way between the strange-smelling trees in this area, you catch a whiff of
+carrion, as if something has died here not too long ago. Of course, you
+tell yourself nervously, some plants make that smell naturally. You can
+get back on the magic path to the north or east, and the forest continues
+to the west from here.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1611
+D1
+~
+~
+0 -1 1609
+D3
+~
+~
+0 -1 1649
+S
+#1649
+The forest in eastern Xanth~
+You are in the treacherous forest of eastern Xanth, having foolishly walked
+off of the magic path. Lots of strange and disquieting sounds are coming
+from the forest around you. Perhaps you'd better do what you came to do and
+get back on the path, where it's safe. The path lies to the north ansd west
+of you, and the forest continues to the east.
+~
+16 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1612
+D1
+~
+~
+0 -1 1648
+D3
+~
+~
+0 -1 1614
+S
+#1650
+The forest of central Xanth~
+You have entered the forest of central Xanth. Surrounding you are many sorts
+of trees and flowers you have never encountered before, making you wonder
+whether or not it was a good idea to explore here. Also, you are hearing
+some rather alarming noises from deeper in the forest, and you suddenly
+feel that it would be a good idea to return to the magic path, to the north.
+However, the forest continues to the south, east, and west.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1617
+D1
+~
+~
+0 -1 1651
+D2
+~
+~
+0 -1 1654
+D3
+~
+~
+0 -1 1779
+S
+#1651
+The forest of central Xanth~
+You are in the extremely magical, extremely dangerous forest of central Xanth.
+Something that sounds very large is moving around and breathing heavily
+somewhere close by, so you'd better move on. The safest courses look to be
+north or east, where you catch a glimpse of the magic path, but you may also
+go south or west from here, deeper into the forest.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1616
+D1
+~
+~
+0 -1 1613
+D2
+~
+~
+0 -1 1655
+D3
+~
+~
+0 -1 1650
+S
+#1652
+A clearing in the forest~
+WOAH!!! You narrowly escape certain death as you unwisely walk too close to a
+huge gorge that seems to appear out of nowhere! Why didn't you notice that
+before? The gorge is directly south of you, but there is no way to descend
+into it safely from here. The forest continues to the north, east, and west.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1778
+D1
+~
+~
+0 -1 1653
+D3
+~
+~
+0 -1 1781
+S
+#1653
+Deep in the forest of central Xanth~
+You are deep in the dangerous forest of central Xanth, having foolishly
+staryed from the magic path designed to keep you safe. The trees here are
+very tall, very old, and very evil-looking, and you feel as if you have as
+much to fear from them as you do from any fauna that might be lurking around
+here. In fact, you think you here some of that fauna now -- you'd better
+move on! The forest continues to the north, east, and west.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1779
+D1
+~
+~
+0 -1 1654
+D3
+~
+~
+0 -1 1652
+S
+#1654
+Deep in the forest in central Xanth~
+You have strayed very far into the forest now, and you are not certain that
+you know the way back to safety. The forest is growing darker and more
+sinister, as well as being more difficult to traverse. A sense of dread
+sends chills down your spine as you continue through the forest. You can
+continue to the north or east, where the forest appears to grow a bit
+lighter, or west, where it gets even denser than it already is.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1650
+D1
+~
+~
+0 -1 1655
+D3
+~
+~
+0 -1 1653
+S
+#1655
+The forest in central Xanth~
+Leaving the magic path, you have entered this perilous forest glade, somewhere
+in Central Xanth. Loud hoots and growling noises surround you, and as you
+remember what the sign back at the entrance said, you grow very afraid. You
+can get back onto the path by going east, but you'd better do it quickly! The
+forest continues to the north and west from here.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1651
+D1
+~
+~
+0 -1 1614
+D3
+~
+~
+0 -1 1654
+S
+#1656
+Deep in the forest of southern Xanth~
+You are deep in the dangerous forest of southern Xanth. A number of odd-
+looking flowers catch your attention, but you decide not to get too close to
+them after noting the bones of several small animals close by. Maybe it would
+be a good idea to find that magic path again. The forest extends south and
+east from here.
+~
+16 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 1657
+D2
+~
+~
+0 -1 1659
+S
+#1657
+Deep in the forest of southern Xanth~
+You are wending your weary way through the forest of southern Xanth, having
+ignored the advice of those who wanred you it was dangerous. You detect a
+sweet smell from the east, and faintly hear some soft, soothing music. Maybe
+you should go check it out; your nerves could use it. The forest also extends
+south and west from here.
+~
+16 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 1658
+D2
+~
+~
+0 -1 1660
+D3
+~
+~
+0 -1 1656
+S
+#1658
+Deep in the forest of southern Xanth~
+You are still deep in the forest, having left the magic path far behind by
+now. As you walk under the shade of the sweet-smelling willow-looking tree,
+you notice that the ground underneath its long, thick branches has been
+completely swept clean of anything organic. That's funny...the branches seem
+to be moving...but there isn't any wind...
+~
+16 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 1782
+D2
+~
+~
+0 -1 1661
+D3
+~
+~
+0 -1 1657
+S
+#1659
+The forest of southern Xanth~
+You have left the path, and are now in another dangerous section of the
+forest, south of the...the...whatever it was. This part of the forest seems
+relatively pleasant, and in fact you see a pleasant-looking little path
+leading east from here, further into the forest. Some sweet music
+seems to be coming from over in that direction, and you wonder who else is
+here in the forest with you. Maybe you should go look, instead of going
+west, back to that boring old magic path. However, you can also go north,
+deeper into the forest.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1656
+D1
+~
+~
+0 -1 1660
+D2
+~
+~
+0 -1 1635
+D3
+~
+~
+0 -1 1633
+S
+#1660
+The forest of southern Xanth~
+You are in the forest of southern Xanth, having left the magic path that is
+supposed to protect you from harmful magic and monsters. However, this part
+of the forest seems fairly quiet, and it fact a peaceful-looking path leads
+east from here, and you detect a sweet smell and some beautiful music from
+further down the path. Maybe you should go find out what it is, instead of
+going back to that boring, prosaic magic path south from here. You can go
+east or west along the new path, or north, further into the forest.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1657
+D1
+~
+~
+0 -1 1661
+D2
+~
+~
+0 -1 1636
+D3
+~
+~
+0 -1 1659
+S
+#1661
+Deep in the forest of southern Xanth~
+You have left the magic path completely behind now, intent on following the
+sweet perfume and music along the pleasant little path you are now walking.
+The little path bends to the north here, where it comes to an end near a
+large tree that resembles a weeping willow. The music and scent appear to
+be emanating from the tree. This is fascinating! Perhaps you should get a
+closer look. The pleasant little path also leads back west from here.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1658
+D1
+~
+~
+0 -1 1784
+D2
+~
+~
+0 -1 1786
+D3
+~
+~
+0 -1 1660
+S
+#1662
+Inside the cottage cheese~
+This is a quaint old home belonging to Bink and Chameleon. Though they are not
+original owners, they have spruced up the place to make it look nice and
+homey. There is a small magical fountain in one corner providing an endless
+water supply for all purposes. The bedroom is back through a door in the wall
+of this room. The couch here seems to have been used recently... Perhaps
+Chameleon is in her smart/ugly stage. 
+~
+16 14348 3
+0d0+0 0 0
+D1
+~
+door~
+1 -1 1663
+S
+#1663
+Standing in front of the cottage cheese~
+You are in front of what once was a large wheel of cheese. Large being about 10
+feet tall and about 4 times as wide. The rind had long since hardened, and
+lost the better part of it's flavors. The walls are a fine grained,
+creamy-yellow petrified cheese. All in all this looks to be one of the most
+tasteful cottages you've seen. A small garded grows on either side of the
+door, and you can hear someone working inside. 
+~
+16 6148 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 1669
+D3
+~
+door~
+1 -1 1662
+S
+#1664
+A large hut outside the Centaur Village~
+You are in a strange looking building.  There is a huge hole in
+the roof and a water trough the size of tanker truck off to the
+side of the room.  The floors and walls are carpeted and seem to
+have been ripped up by something with huge claws.  There is a
+doorway to the outside to the west.
+A sign demands your attention.
+~
+16 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1642
+E
+sign~
+This is the great catapult.  It is used to hurl you from place to
+place quickly and safely.  Simply state where you want to go and
+the catapult will launch you in the right direction.  The possible
+destinations are below:
+Entrance to Xanth
+North Village
+Humfrey's Castle
+Castle Roogna
+Centaur Village
+~
+S
+#1665
+The forest of northwestern Xanth~
+Curiouser and curiouser. Those little holes seem to be everywhere now. Here
+and there you see where a tree has fallen because of extensive holing, and
+most of the local plant life has taken some damage. Anyway, you can get back
+onto the magic path by going south, and the forest continues east and west.
+~
+16 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 1666
+S
+#1666
+The forest of northern Xanth~
+You are in the forest of northern Xanth. Things seem pretty quiet here, but
+the only makes you more suspicious. You notice something odd; everything in
+the area for about a fifty-foot radius is filled with holes about an inch in
+diameter. Wonder what could have caused that? You can get back on the magic
+path to the south, and the forest continues east and west.
+~
+16 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 1667
+D2
+~
+~
+0 -1 1623
+D3
+~
+~
+0 -1 1665
+S
+#1667
+The forest of northern Xanth~
+You have left the magic path, and are now walking through the dangerous forest
+in the northern part of the land of Xanth. Strange smells and noises assault
+you as you walk around here, and you begin to grow nervous. Maybe it would
+be best to get back on the path, to the south. However, the forest beckons
+to both east and west.
+~
+16 0 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 1622
+D3
+~
+~
+0 -1 1666
+S
+#1668
+A small grove off the magic path~
+This alcove is surrounded by trees, a large pool takes up a small portion of
+the north end of the clearing.  There is a strange path between the trees,
+starting at ground level and cutting a swath at an upward angle.  After a
+second look you notice the pool is filled with a white liquid... one
+particularly large tree off to one side of this place has great claw marks on
+it, as if some dragon came through...  What a strange place.
+There is a sign here, demanding your attention.
+~
+16 0 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 1607
+E
+sign~
+This is the great catapult.  It is used to hurl you from place to
+place quickly and safely.  Simply state where you want to go and
+the catapult will launch you in the right direction.  The possible
+destinations are below:
+Entrance to Xanth
+North Village
+Humfrey's Castle
+Castle Roogna
+Centaur Village
+~
+S
+#1669
+Off the beaten path~
+You have lost sight of the magic path that brought you here, all you can see
+now is trees, bushes, and the occassional flowering plant. None of these looks
+very trustworthy, though most are very beautiful. You see what seems to be a
+large off white rock further north of here, maybe you should check it out. 
+~
+16 4 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1663
+D2
+~
+~
+0 -1 1671
+S
+#1670
+The forest of northern Xanth~
+You are in the forest of northern Xanth. You are beginning to think that the
+dangers of the forest were perhaps exaggerated in the sign back at the 
+entrance, when you suddenly hear a low growl, probably from something very
+large, and extremely close. You can still get back to the magic path by
+going south or west, and the forest continues to the north and east.
+~
+16 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 1671
+D2
+~
+~
+0 -1 1620
+D3
+~
+~
+0 -1 1622
+S
+#1671
+Off the beaten path~
+You have eschewed the protection of the enchanted path in order to explore the
+dangerous forest of northern Xanth. You can hear all kinds of sounds coming
+from all around you. You can get back to the magic path by going south or
+east, and the forest continues to the north and west. 
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1669
+D1
+~
+~
+0 -1 1618
+D2
+~
+~
+0 -1 1619
+D3
+~
+~
+0 -1 1670
+S
+#1672
+Deep in the forest of northwestern Xanth~
+You have discovered the source of the "zzzap"ing noises, and also the source
+of the holes. A large, whitish object has been deposited between two trees
+here, and some small white grubs are emerging from it at a fantastic rate.
+They seem to be able to tunnel through anything, even air, and the "zzzap"
+is the sound of the vacuum collapsing behind them. However, they go through
+flesh and bone as easily as anything else, and a number of them are headed
+in your direction!
+~
+16 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 1675
+D2
+~
+~
+0 -1 1674
+S
+#1673
+The forest of northwestern Xanth~
+You have left the magic path and entered the dangerous forests of northwestern
+Xanth. Strangely, you do not detect anything particularly dangerous right now,
+but perhaps that is dangerous in itself. To the northwest, you hear some odd
+noises, something like "zzzap!", and you are debating investigating them when
+you notice that most of the vegetation here has a large number of one-inch
+holes poked into it. Kinda odd, that. You may get back onto the enchanted
+path by going east, and the forest continues to the north, south, and west.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1675
+D1
+~
+~
+0 -1 1625
+D2
+~
+~
+0 -1 1676
+D3
+~
+~
+0 -1 1674
+S
+#1674
+Deep in the forest of northwestern Xanth~
+You are deep in the forest, far from the magic path that would have kept you
+safe from maglignant magic or monsters, had you not been too stupid to follow
+some simple directions. Things seem pretty quiet around here right now, but
+you notice a bunch of odd-looking holes in the surrounding flora. Wonder
+where they came from? The forest extends north and east from here.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1672
+D1
+~
+~
+0 -1 1673
+S
+#1675
+The forest in northwestern Xanth~
+You've strayed from the magic path, and are now walking through the deep,
+dark, dangerous forest of northwestern Xanth. You can get back on the path
+to the east, or continue through the forest to the north, south, or west.
+You hear a bunch of strange "zzzzapp"ing noises to the west. Strange...
+~
+16 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 1624
+D2
+~
+~
+0 -1 1673
+D3
+~
+~
+0 -1 1672
+S
+#1676
+The forest of northwestern Xanth~
+You are in the forest of northwestern Xanth. Strange flora abound, and you are
+finding yourself enjoying the novelty. However, the warning of the sign at the
+entrance has already reminded you not to enjoy yourself TOO much. The forest
+continues to the north and south, or you can go back to the magic path by
+going east from here.
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1673
+D1
+~
+~
+0 -1 1626
+D2
+~
+~
+0 -1 1677
+S
+#1677
+The forest of northwestern Xanth~
+Having left the safety of the magic path, you are now in the treacherous
+forests of the northwestern portion of the Land of Xanth. You do not feel
+very comfortable here, and you feel it would be a much better idea to go
+back to the magic paths, south, west, and east from here, than to travel
+north, further into the forest. But why learn the easy way?
+~
+16 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 1676
+D1
+~
+~
+0 -1 1627
+D2
+~
+~
+0 -1 1629
+D3
+~
+~
+0 -1 1631
+S
+#1678
+In the Gap Chasm~
+As you enter this part of the gorge, you get the distinct feeling that you
+aren't supposed to be here. Perhaps it's the piles of dragon dung, larger
+than any you've ever seen before, that led you to this conclusion. Or maybe
+it's the quite alarming number of cracked and scorched bones that litter
+the area. Whichever, as your bladder lets go and your bowels empty, you
+decide that it is time to get out of here, NOW!
+~
+16 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1679
+D2
+~
+~
+0 -1 1684
+S
+#1679
+In the Gap Chasm~
+WHEN is this gorge going to end? You have been walking for hours now, and
+you have accomplished almost noth---wait a minute! Over to the south a ways,
+you see a large niche in the rock, probably narrow enough for you to squeeze
+into and climb up the side, if you are strong, patient, and lucky. Hmm...
+something to the west smells funny...almost like...dragon dung...
+~
+16 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1680
+D2
+~
+~
+0 -1 1685
+D3
+~
+~
+0 -1 1678
+S
+#1680
+In the Gap Chasm~
+Continuing your long, weary trek through this gigantic slash in the earth,
+you stop to catch your breath and realize that you can distinguish those
+strange noises you have been hearing all along now. Something is moving
+around, something heavy. It moves with a triple pattern, as if it has six
+legs. It sounds big and heavy, and it is making loud snorting noises. You
+had best steer clear of it, if you want to get out of here alive!
+~
+16 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1681
+D2
+~
+~
+0 -1 1686
+D3
+~
+~
+0 -1 1679
+S
+#1681
+In the Gap Chasm~
+Boy, this place sure is big! It feels like you've been walking through this
+gorge for days now, and you are getting pretty sick of it. Those noises have
+been getting louder, too, which does nothing to reassure you. The gorge
+continues south, east, and west from here.
+~
+16 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1682
+D2
+~
+~
+0 -1 1687
+D3
+~
+~
+0 -1 1680
+S
+#1682
+In the Gap Chasm~
+You are walking through a huge gorge in central Xanth, trying to find a way
+to get up the other side and continue your travels. You notice that the
+ground is very flat here, unusual in a natural formation. It is almost as
+if something very large and heavy has been walking around here for years
+and years. You wonder what sort of creature would live in such a place...
+and then you hear those strange noises again. The gorge continues south,
+west, and east from here.
+~
+16 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1683
+D2
+~
+~
+0 -1 1688
+D3
+~
+~
+0 -1 1681
+S
+#1683
+In the Gap Chasm~
+After a long and dangerous climb, you've made it into the bottom of the gorge.
+It is truly enormous, and would probably take days to explore completely.
+Luckily, you don't intend to do that...you just need to find a way up the
+other side. You hear some strange noises from the west, but as yet they are
+too faint to identify. You can continue west and south through the gorge, or
+get back on the magic path by climbing back up.
+~
+16 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 1689
+D3
+~
+~
+0 -1 1682
+D4
+~
+~
+0 -1 1614
+S
+#1684
+In the Gap Chasm~
+You are on the south side of the gigantic gorge, looking around for a place
+to ascend to the top and continue your travels. You think you see a niche
+over to the east, but it might be a trick of the light. Something smells
+really funny to the north, almost like dragon dung. Chilling thought!
+~
+16 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1678
+D1
+~
+~
+0 -1 1685
+S
+#1685
+In the Gap Chasm~
+You were right, there definitely IS a niche here. It leads all the way up
+to the top of the gorge, so all you have to do is squeeze into the opening
+to the south and start climbing. It looks like the niche is too small for
+the dragon to get into, which is another blessing. You'd better get to it!
+~
+16 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1679
+D1
+~
+~
+0 -1 1686
+D2
+~
+~
+0 -1 1690
+D3
+~
+~
+0 -1 1684
+S
+#1686
+In the Gap Chasm~
+You have been walking through this enormous chasm for quite awhile now, and
+you are getting heartily sick of it. You think there might be a niche in the
+south wall up ahead, to the west, that would allow you to climb up the cliff,
+but it could just be a trick of the light. Those noises that have been bugging
+you continue even louder than before. It sounds as if something with six legs
+is galumphing around, breathing heavily. Time to move on...
+~
+16 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1680
+D1
+~
+~
+0 -1 1687
+D3
+~
+~
+0 -1 1685
+S
+#1687
+In the Gap Chasm~
+You've been wandering through this place for an awfully long time now, and
+there is still no sign of an exit. Rather depressing, actually. Still, there
+is a lot more to this gorge, and at least you haven't been molested...yet.
+You hear a bunch of weird noises from the west, and a scream that sounds
+rather like a human. But maybe it's just the wind. The gorge continues north,
+east, and west from here.
+~
+16 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1681
+D1
+~
+~
+0 -1 1688
+D3
+~
+~
+0 -1 1686
+S
+#1688
+In the Gap Chasm~
+As you continue your trek through this humungous crack in the earth, you
+wonder idly what could have caused it. A shift in the rock deep below? The
+fist of a giant? A curse from some forgotten deity? Certainly, whatever
+caused the earth to split in two here was up to no good. The gorge continues
+north, east, and west from here.
+~
+16 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1682
+D1
+~
+~
+0 -1 1689
+D3
+~
+~
+0 -1 1687
+S
+#1689
+In the Gap Chasm~
+You are walking along the south face of the gorge, hoping to find a way up
+so you can explore southern Xanth. Nothing looks promising here, but as you
+look to the horizon, you see that you have miles and miles of cliff face to
+work with. Hopefully, it won't come to that. There are some strange
+noises coming from somewhere to the west, like something heavy is stomping
+on the ground. Maybe you'd better avoid that section. The chasm continues
+to the north and west.
+~
+16 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1683
+D3
+~
+~
+0 -1 1688
+S
+#1690
+A niche in the cliff face~
+Ooof! This is a pretty tight fit. Well, that will both aid your climbing and
+prevent you from being interrupted. You have a long, tiring climb ahead of
+you, so you had probably better get started, before you lose your nerve.
+It's either that, or face the dragon.
+~
+16 4 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 1685
+D4
+~
+~
+0 -1 1633
+S
+#1691
+The top of the stairs~
+You are in a small, quaintly decorated chamber at the top of the stairs.
+A number of well-crafted tapestries hang from the walls, but this is
+obviously no place to sit and relax. Four hallways lead out from this
+chamber, one in each cardinal direction.
+~
+16 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1692
+D1
+~
+~
+0 -1 1694
+D2
+~
+~
+0 -1 1695
+D3
+~
+~
+0 -1 1693
+D5
+~
+~
+0 -1 8219
+S
+#1692
+The northern hallway~
+You are standing in a narrow hallway, north of the stair chamber. To the
+north is a large oaken door, with some claw marks in it, but fairly small
+ones. Perhaps whoever lives here has a pet. Inside, you hear a boyish
+voice talking, but the door muffles the words. Maybe you should go inside
+and introduce yourself?
+~
+16 12 0
+0d0+0 0 0
+D0
+A stout oaken door leads into the room.
+~
+door~
+1 -1 1697
+D2
+~
+~
+0 -1 1691
+S
+#1693
+The western hallway~
+You are standing in a narrow hallway, west of the stair chamber. In front
+of you is a big oaken door, very solid-looking. You put your hand on it,
+just to verify this, and a voice crankily says, "Watch the hands, bub.
+Polish don't grow on trees, y'know!" Shocked, you jump back a pace. As you
+do, a stone on the floor remarks, "Hey, watch where y'going! I chip very
+easily!" What the hell is going on here?
+~
+16 12 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1691
+D3
+A stout wooden door leads into the room.
+~
+door~
+1 -1 1696
+S
+#1694
+The eastern hallway~
+You are standing in a narrow hallway, east of the stair chamber. In front
+of you is a set of double doors, very sturdy-looking. Either the doors are
+very good at keeping sound in, or the room within is very quiet. Maybe
+it's worth looking into.
+~
+16 12 0
+0d0+0 0 0
+D1
+A heavy door made of rich, dark wood leads into the quiet chamber.
+~
+door~
+1 -1 1698
+D3
+~
+~
+0 -1 1691
+S
+#1695
+The southern hallway~
+You are standing in a narrow hallway, south of the stair chamber. To the
+north is a stout oaken door, and the smell of perfume wafts your way from
+underneath it. This bepeaks the presence of a female, and the amount of
+scent (considerable) leads you to believe it is a fairly young female,
+perhaps a teenager. You suddenly grow anxious, standing before the door
+like a kid on their first date.
+~
+16 12 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1691
+D2
+A heavy wooden door leads into the boudoir.
+~
+door~
+1 -1 1699
+S
+#1696
+King Dor and Queen Irene's bedroom~
+This room is decorated in a fashion befitting the ruling monarch of Xanth,
+but tastefully rather than gaudily. The main feature of the room is a large
+bed, an old-style four-poster. It is made of oak, and looks very comfortable.
+As you enter the room, you notice a bunch of loud whispering going on, even
+though there is nobody in sight. Something sure is funny around here...
+~
+16 0 0
+0d0+0 0 0
+D1
+A stout wooden door leads out of the bedroom.
+~
+door~
+1 -1 1693
+S
+#1697
+Prince Dolph's bedroom~
+This room is fairly lavishly furnished, but it's also the bedroom of a
+pre-pubescent boy, so the lavish furnishings are in blatant disarray. You
+notice a sloppily hung tapestry of the Land of Xanth hanging over by the
+bed, and to your amazement, the people on the tapestry seem to be moving!
+Sitting in a chair at a large wooden desk is a small boy, perhaps eight or
+nine years old, in the rich clothing you associate with royalty. He smiles
+at you as he sees you, and suddenly changes into a small dragon and back
+again! Clearly a child with powerful magic...best to stay on his good side.
+Luckily, he seems friendly enough.
+~
+16 0 0
+0d0+0 0 0
+D2
+A stout oaken door leads out of the room.
+~
+door~
+1 -1 1692
+S
+#1698
+The Castle Roogna Library~
+You have entered a small, cozy chamber with soft, comfortable chairs
+and a number of large, solid shelving units, stacked high with books and
+tomes of various ages. A fireplace provides warmth and light, and you feel
+very relaxed as you enter. This is a perfect place to sit down and have a
+good read, and glancing about the room, you see a dignified old gentleman
+doing exactly that. He bears an air of command, as if he is the ruler here,
+though his clothing is simple and unadorned. He looks up at you and smiles
+as you enter, then returns to his reading. Who could this be?
+~
+16 8 0
+0d0+0 0 0
+D3
+A heavy door made of rich, dark wood leads out of the library.
+~
+door~
+1 -1 1694
+S
+#1699
+Princess Ivy's bedroom~
+This is definitely the bedroom of a teen-aged girl. Flowery tapestries adorn
+the walls, except for one spot where a tapestry appears to be missing. A big
+vanity sits in a place of honor on the south wall, and a young, attractive
+girl is sitting at it, brushing her hair and humming. As you enter the room,
+she sees you in the mirror and turns to face you with a brilliant smile.
+"Oh, visitors!" she says gleefully, "I'm sure you're the nicest visitors in
+the whole Land of Xanth!" And indeed, you feel as if you must be. Hmm...is
+there magic at work here?
+~
+16 8 0
+0d0+0 0 0
+D0
+A heavy wooden door leads out of the boudoir.
+~
+door~
+1 -1 1695
+S
+$

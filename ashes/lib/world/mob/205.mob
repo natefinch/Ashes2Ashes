@@ -1,0 +1,798 @@
+#20500
+fan~
+Hysterical fan~
+A hysterical fan is jumping and clawing her way to the front of the crowd.
+~
+Looking closely, you notice that this girl is soaking wet! Hmmm you wonder
+who did that to this poor, unfortunate girl who's about to rip your eyeballs
+out.
+~
+1098 0 0 W
+10 3 0 10d15+0 2d6+0
+25 20
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#20501
+jerk~
+a jerk~
+Some jerk is here throwing water on people
+~
+Some putz is running around the stage throwing water on people. It IS quite
+interesting when he does it to girls with white T-Shirts, but if he goes near
+any of that electrical equipment, you're all fried.
+~
+2186 0 0 W
+6 5 0 10d10+0 1d8+0
+100 2250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#20502
+mr mac macphisto bono~
+Mr. Macphisto~
+Bono is standing here dressed as Mr. MacPhisto
+~
+Here stands Bono in one of his many guises...this time, he's a devil with
+his face painted white, and a tacky array of golden clothing.
+~
+2127 0 -1000 W
+54 17 -3 20d50+500 4d7+3
+10000 112250
+8 8 1
+18 0 13 13 15 13 0
+12 2 0
+-30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20503
+bono fly~
+the Fly~
+Bono is standing here dressed as the Fly
+~
+Bono is standing here dressed as yet another of his many personalities
+This time, it's wrap-around glasses, greased back hair, and black leather
+ensemble.
+~
+26702 0 1000 W
+46 16 -3 50d50+20 4d5+2
+20000 92250
+8 8 1
+16 0 13 13 15 13 0
+0 2 0
+-30 0 2 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#20504
+larry mullen~
+Larry Mullen Jr.~
+Larry Mullen Jr. is here beating on the drums.
+~
+Larry Mullen Jr. is here filling the ZooTV stage with the rythmic
+sounds of ZooTV.  You wish you owned a drum set like this and that you
+owned half as many Harley Davidsons as Larry does!
+~
+10314 0 500 W
+72 48 -20 10d100+2000 3d8+3
+15000 157250
+8 8 1
+18 50 13 13 18 18 0
+0 2 0
+-200 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#20505
+carrier man dead~
+the dead carrier~
+The dead carrier is standing here ringing his bell, and chanting: "Bring out your dead!"
+~
+~
+2120 0 0 W
+11 3 2 20d20+0 2d8+0
+9 4750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#20506
+slim willy host~
+Slim Willy~
+~
+~
+78 0 0 W
+69 45 -5 50d100+25 20d3+0
+2 1000
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20507
+Unconventional Conventionist Transvestite~
+an Unconventional Conventionist~
+An unconventional conventionist stands here doing the time warp!
+~
+You see perhaps one of the stragest people on Earth standing before you.
+Desked out in multi-coloured mens and womens cloths, you can't help but
+wonder what kind of a place is this?  It might be some kind of a hunting
+lodge for rich weirdos.  
+~
+4104 0 0 W
+15 8 -1 10d7+300 5d2+2
+500 14750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#20508
+black knight~
+the Black Knight of the Forest~
+The Black Knight stands here declaring that none shall pass.
+~
+Here stands before you, the dreaded Black Knight of the forest. No one has
+ever beaten him in a fight, but then again, this guy's never had to face
+you.
+~
+1868 0 -1000 W
+24 20 -1 25d20+0 3d6+0
+5000 15000
+8 8 1
+17 0 13 13 16 13 0
+0 2 0
+-10 0 4 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#20509
+man woman dennis old~
+an old woman....er man named Dennis~
+An old woman....er man named Dennis is sitting here preaching supreme executive power.
+~
+~
+72 0 50 W
+8 5 2 20d15+0 2d6+0
+35 4250
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#20510
+hospital administrator doctor~
+the Hospital Administrator~
+The hospital administrator stands here in a suit and tie.
+~
+Looking at the hospital administrator you see a man who obviously thinks
+very highly of himself.  He's very proud of the work he's done for the
+hospital and all of the money it makes!
+~
+136 0 500 W
+16 5 0 25d2+300 8d2+3
+5000 17250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#20511
+doctor~
+the Doctor~
+The Doctor stands here in his surgical garb.
+~
+The doctor stands here performing a BIRTH.  It's a procedure where they
+take a baby from a lady's tummy.  Isn't modern medicine wonderful?
+~
+10 65536 1000 W
+14 5 5 10d2+200 6d2+1
+1000 12250
+8 8 1
+13 0 18 18 13 13 0
+0 2 0
+50 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#20512
+patient~
+the Patient~
+The patient sits here, giving birth.
+~
+The patients legs are spread out on the table held in place in the stirrups.
+It's quite obvious that she's giving birth.  She can't do anything though,
+because as the doctor says: She's not QUALIFIED!
+~
+10 0 1000 W
+5 2 7 10d2+100 2d3+1
+100 1250
+8 8 2
+8 0 10 10 3 15 0
+0 2 0
+70 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#20513
+child~
+a child~
+A child is here dancing with his brothers and sisters.
+~
+~
+10 0 1000 W
+1 1 9 2d2+30 1d4+0
+10 200
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#20514
+larry mullen~
+Larry Mullen Jr.~
+Larry Mullen Jr. is here beating on the drums.
+~
+Larry Mullen Jr. is here filling the ZooTV stage with the rythmic
+sounds of ZooTV.  You wish you owned a drum set like this and that you
+owned half as many Harley Davidsons as Larry does!
+~
+10314 0 500 W
+72 36 -20 10d100+2000 3d8+3
+15000 157250
+8 8 1
+18 50 13 13 18 18 0
+0 2 0
+-200 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#20515
+bono~
+Bono~
+Bono sits here having his make-up applied.
+~
+Looking at Bono, you realize this is the closet thing to perfection that
+can exist in a human.  His voice is like honey, and his lyrics hit you
+more powerfully than any message ever has.  You find yourself wishing 
+that you could be as cool as he is!
+~
+2059 128 1000 W
+125 52 -30 10d100+5000 5d5+20
+100000 404750
+8 8 1
+16 0 13 13 14 18 0
+8 2 0
+-300 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20516
+adam clayton~
+Adam Clayton~
+Adam Clayton stands here playing "EXIT" on the bass.
+~
+Looking at Adam you see a man who can't seem to make up his mind as far
+as hair colour is concerned.  One day it's blonde and the next day it's
+dark.  Oh well, doesn't matter anyways since he's without a doubt the
+most gifted bassist on the planet!
+~
+11 128 0 W
+55 25 -30 10d75+3000 5d5+15
+50000 213750
+8 8 1
+18 50 13 13 18 13 0
+18 2 0
+-300 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20517
+drug pusher dealer pothead~
+a Pothead~
+A pothead is here selling drugs to concertgoers.
+~
+The pothead asks you "pssstttt.....wanna buy some weed?"  After all this
+is a concert, but you still feel very wrong doing it.  The concert is
+plenty cool without having to resort to drugs.
+~
+520 0 -1000 W
+2 2 10 1d1+20 3d1+2
+10 50
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#20518
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#20519
+compound guard~
+a compound guard~
+the compound guard is here, dressed in a black robe.
+~
+These eerie soldiers guard the entrance to the compound.  They look like
+they're very serious about their work, and are not to be taken lightly.
+None shall pass.
+~
+10 0 0 W
+15 7 2 10d10+300 5d5+1
+500 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#20520
+branch zooropean cult member~
+a Branch Zooropean~
+a Branch Zooropean kneels here, chanting.
+~
+This person is clearly lost in his own world.  He's wearing a long black
+cloak, and chanting to the powers that be.  Please don't disturb him.
+~
+10 0 0 W
+2 1 10 5d5+50 1d1+2
+10 100
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#20521
+chief priest branch zooropa zooropean~
+the Chief Priest of the Branch Zooropeans~
+The Chief Priest of the Branch Zooropeans is here, kneeling in prayer.
+~
+The chief priest looks like one tough customer!  He's dressed in a flowing
+black robe with gold trim and several odd symbols on it.  He sports a long
+white beard, and has a very contemplative look on his face.
+~
+305163 136 0 W
+75 30 -10 10d100+4500 5d5+35
+50000 250000
+8 8 1
+18 100 18 18 18 18 0
+8 2 0
+-100 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#20550
+Ralph Hapshatt~
+Ralph Hapshatt~
+Ralph Hapshatt stands here lusting after his new bride.
+~
+Think about it asshole...she got hers now he'll get his!  Ralph's a very
+lucky guy...no he's not, she's got syphyllus!  Why do I always cry at
+weddings?
+~
+10 0 0 W
+21 8 2 10d10+700 5d5+2
+5000 29750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#20551
+betty monroe~
+Betty Monroe~
+Betty Monroe, aka Mrs Ralph Hapshatt, stands here smiling.
+~
+I can't believe it!  An hour ago she was plain old Betty Monroe and now
+she's Mrs Ralph Hapshatt!  Yes Janet, Ralph's a lucky guy!
+~
+10 0 0 W
+21 8 2 5d10+700 5d5+2
+2000 29750
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#20555
+tickle me elmo~
+Tickle Me Elmo~
+Tickle Me Elmo sits here screaching "OOOOH that tickles!"
+~
+This little guy is perhaps the cutest thing you've ever seen!  He's fuzzy
+like a teddy bear, but cute and intelligent too.  You can't imagine how
+anyone could ever even think of harming him!
+~
+292879 196796 -1000 W
+50 100 -100 1d1+30000 5d5+100
+150000 0
+8 8 0
+18 100 18 18 18 18 0
+11 1 0
+-1000 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20556
+helen waitress~
+Helen the Waitress~
+Helen is here, waiting to seat you.
+~
+Helen is like most Denny's employees you've seen.  She's missing well over
+fifty percent of her teeth, and the ones she isn't missing have turned
+yellow or rotted out.  She has a big gash on her finger, but it's covered
+up by a large finger condom.
+~
+10 136 0 W
+62 20 1 10d10+3000 5d5+25
+2000 212250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20566
+turkey~
+a 40 Foot Tall Angry Turkey~
+A 40 foot tall angry turkey stands here ready to peck you to death!
+~
+~
+270346 1152 0 W
+55 56 -10 1d1+5000 3d3+30
+15000 250000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-100 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#20570
+pres~
+the President of the United States~
+~
+~
+8 0 0 W
+3 0 0 5d5+5 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#20575
+morton mr~
+Mr Morton~
+Mr Morton stands here, being the subject of the sentence.
+~
+Mr Morton was lonely, Mr Morton was....Mr Morton was the subject of the
+sentence...and what the predicate says he does!~
+74 65536 0 W
+55 30 -20 10d10+5000 5d5+25
+0 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-200 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20580
+easter bunny~
+the Easter Bunny~
+The Easter Bunny stands here ready to show you your maker!
+~
+Run away!  It's the Easter Bunny from Hell!  This bunny's about 14 feet tall,
+and has red bloodshot eyes.  He's got a goofy grin on his face, and a 
+satanic cackle in his voice.  I'd get o ut of here if I was you!
+~
+305161 131224 0 W
+55 55 -20 10d10+15000 5d9+45
+50000 500000
+8 8 0
+13 0 13 13 13 13 0
+11 5 0
+-200 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#20585
+chuck crim chucky criminologist~
+Chucky the Criminologist~
+Chucky the Criminologist sits here, longing for a neck.
+~
+The man you are about to see has no neck.  He's perhaps one of the ugliest
+and stodgiest people you've ever met.  He'll bore you to death and then
+bring you back for more!  Quick...slay him!
+~
+267 0 500 W
+120 30 -2 10d30+13000 5d5+35
+100000 550000
+8 8 1
+13 0 13 13 13 13 0
+16 2 0
+-20 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#20588
+Magenta Transvestite~
+Magenta~
+Magenta is perched on the bannister in a seductive pose.
+~
+Upon looking at Magenta, you realize that this isn't just another 
+transvestite.  From her short bob cut to the overabundance of cheap
+make-up she just tries too hard to find people.  As if anyone in this
+castle is very choosy!
+~
+10 0 -1000 W
+19 10 -5 10d10+400 2d4+8
+500 28750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-50 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#20589
+lips red~
+the Huge Red Lips~
+Huge Red Lips are floating here, singing the opening song to Rocky Horror!
+~
+Looking at the huge red lips you wonder how anything so beautiful could also
+be so dangerous.  Don't be fooled though, those massive teeth could crush
+you with one large chomp!  Don't say you haven't been warned!
+~
+2059 128 0 W
+55 40 -20 10d100+10000 10d3+40
+165000 578750
+8 8 0
+18 100 18 18 18 18 0
+12 5 1
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20590
+doctor everett scott cripple professor~
+Dr. Everett Scott~
+Dr. Everett Scott is here floating in the swimming pool.
+~
+Upon first glance, Dr. Scott (what a twat!) appears to be quite normal.
+However, his body seems almost lifeless as it floats around in the swimming
+pool.  This egghead's just too darn smart for his own good!
+~
+11 0 1000 W
+23 7 10 100d2+400 8d2+2
+500 38750
+8 8 1
+3 0 18 18 3 8 0
+10 2 0
+100 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#20591
+betty ford~
+Betty Ford~
+Betty Ford stands here combing her hair.
+~
+When looking at Betty Ford you can't help but notice all the wrinkles.
+Those TV cameras and White House make-up artists were really kind to her.
+She's just a shell of her former self now.
+~
+138 512 500 W
+15 4 5 15d2+150 6d2+2
+5000 18750
+8 8 2
+8 0 18 18 8 8 0
+0 2 0
+50 0 2 0 0
+60 60 60 60 60
+16 0 0
+6 0
+#20592
+Rock Hudson Transvestite~
+Rock Hudson~
+Rock Hudson stands here looking pale and glum
+~
+Looking at Rock Hudson, you see just a shadow of the man he used to be.
+He is pale and weak, and seems to fit right in with the painted figures
+in the floor show.
+~
+138 131072 500 W
+8 3 7 2d5+100 2d1+2
+1000 4250
+8 8 0
+3 0 15 13 5 3 0
+0 2 0
+70 0 2 0 0
+80 80 80 80 80
+16 0 0
+6 0
+#20593
+brad~
+Brad Majors~
+Brad Majors sits on the bed in his underwear.
+~
+At first glance Brad Majors appears to be a fairly ordinary guy.  After
+a closer inspection, however, you notice that Brad's really a sick and
+perverted guy.  Thanks to Frank, he has indeed tasted...forbidden fruit.
+~
+138 0 0 W
+24 15 5 5d50+700 5d5+5
+15000 37250
+8 8 1
+16 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#20594
+janet slut~
+Janet~
+Janet stands here in her torn-up slip lusting after Rocky Horror.
+~
+Looking at Janet you wonder to yourself "I can't believe it.  Just an
+hour ago she was plain old Janet Scott and now she's a slut!"  Go figure.
+Good thing Brad didn't leave her at home when he went on this journey.
+Janet looks cold, wet, and just plain scared!
+~
+2184 0 1000 W
+30 20 0 1d1+1499 6d2+2
+5000 56250
+8 8 2
+8 0 18 13 3 8 0
+0 2 0
+0 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#20595
+eddie transvestite~
+Eddie~
+Eddie stands here throttling his motorcycle.
+~
+As you look at eddie you can't help but notice the icicles hanging off
+of him and his motorcycle.  You can't help but wonder how long this guy's
+been stuck in the deep freeze.  Frank must be keeping him ready for when
+dinner time comes!
+~
+2094 128 -500 W
+55 39 -25 10d10+700 10d2+22
+15000 118750
+8 8 0
+18 0 13 10 18 13 0
+0 3 0
+-250 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#20596
+rocky horror~
+Rocky Horror~
+Rocky Horror stands here in his gold swimsuit.
+~
+When you gaze upon Rocky Horror you see the perfection of man.  He is
+Charles Atlas and Arnold Schwarzenegger all rolled into one.  From his
+rippling muscles to his perfect golden hair.  Frank must be very proud
+of his work on this one!
+~
+11 128 1000 W
+80 58 -20 10d50+7500 15d3+30
+20000 350000
+8 8 1
+18 100 3 3 15 18 0
+14 3 0
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20597
+Columbia Transvestite~
+Columbia~
+Columbia is here wearing her Mickey Mouse ears.
+~
+Where do you buy your drugs?  Columbia.  Go and assist Riff-Raff!  *I* will
+entertain Brad and Janet.  From her short crop-cut hair to her annoying
+high-pitched voice, this is one transvestite who's going to get it right
+between the tits before the movie's over!
+~
+10 0 -1000 W
+26 15 -6 50d4+1000 8d2+2
+5000 46250
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-60 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#20598
+Frank Furter Transvestite~
+Dr. Frank N. Furter~
+Dr. Frank N. Furter is here looking for fresh blood.
+~
+Dr. Frank N. Furter is standing here dressed in black fishnet pantyhose
+and a black leather garter belt.  He's also wearing a black corset and a
+black and red velvet cape.  This is one transvestite you don't want to 
+mess with!
+~
+47 128 -1000 W
+55 20 -10 10d10+2500 6d5+10
+50000 183750
+8 8 0
+13 0 13 13 13 13 0
+9 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#20599
+riff riffraff riff-raff~
+Riff-Raff~
+Riff-Raff is standing here, ready to take you in. 
+~
+Looking at Riff-Raff, you see the skinniest, palest, longest haired
+hunchback in your entire life. Probably the ONLY hunchback you've ever
+seen in your life.
+~
+8399 8 50 W
+34 10 -3 20d20+700 2d3+1
+5000 66250
+8 8 1
+13 0 13 13 18 13 0
+16 2 0
+-30 0 4 0 0
+15 15 15 15 15
+0 0 0
+6 0
+$

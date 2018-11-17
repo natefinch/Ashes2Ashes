@@ -1,0 +1,1028 @@
+#18500
+taelok jaalon healer~
+Taelok Jaalon~
+Taelok Jaalon, Healer of Shamata, lies on his bed awaiting death.
+~
+You can see this man has seen many years pass in this mountain village.
+He is in great pain, from the disease that is killing his people. It
+seems it is his time to die. Misery streaks his aged face.
+~
+11 2049 400 W2
+55 40 -33 100d65+200 10d4+4
+12000 15000
+4 4 1
+13 0 13 13 13 13 0
+10 2 2
+-330 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18501
+large rat~
+a large rat~
+A large, disease ridden rat glares at you with red eyes.
+~
+As you examine this rat, you notice he is not like the ones back home.
+His glaring red eyes burn right through your soul. This rat is sentient.
+This rat has as purpose...~
+105 263168 -1000 W2
+15 10 0 1d1+100 1d2+2
+0 15000
+8 8 0
+13 0 13 13 18 13 0
+6 0 1
+0 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 10
+~
+#18502
+shamatan woman~
+a Shamatan woman~
+A Shamatan woman trudges past you, with eyes full of tears.
+~
+Tears streak the face of this lady. She has lost family and friends in
+this tragedy. She possibly could have lost her children.
+~
+137 0 500 W2
+20 11 -5 5d100+0 1d15+0
+100 2000
+8 8 2
+13 0 13 13 13 13 0
+5 2 2
+-50 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18503
+person shamatan man~
+a Shamatan~
+A Shamatan man is going about his business.
+~
+You can see the anger and fear in his eyes. This plague isn't natural,
+and he knows where it comes from.
+~
+4297 0 200 W2
+30 15 -13 20d100+20 6d10+5
+2000 5800
+8 8 1
+13 0 13 13 13 13 0
+1 2 2
+-130 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18504
+dairyman dairy man~
+the Dairyman~
+The Dairyman sits here churning butter.
+~
+The dairyman has played an essential role in this community. Dairy products
+have been a folk remedy here for ages, and he is highly regarded.
+~
+2187 0 750 W2
+27 20 -5 1d1+1000 1d6+18
+10000 22000
+6 6 1
+13 0 13 13 13 13 0
+20 2 2
+-50 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#18505
+jandor handyman handy man~
+Jandor the Handyman~
+Jandor lies with his head on his desk asleep.
+~
+Jandor is a kind enough fellow, though lacking in intelligence. He is
+quite strong and once was a soldier in the King's army.
+~
+2059 0 600 W2
+52 37 -30 70d100+0 2d4+30
+9000 50000
+4 4 1
+18 0 8 13 13 13 0
+18 2 2
+-300 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18506
+Yurlin woman~
+Yurlin~
+Yurlin the vegetable lady stands selling her wares.
+~
+This old woman has seen many years pass in this village. She has fed the
+people here for forty years now, learning gathering and farming from her
+father.
+~
+2059 0 1000 W2
+20 15 -6 10d100+0 1d5+10
+15000 40000
+8 8 2
+13 0 13 13 13 13 0
+8 2 2
+-60 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18507
+head village man~
+the Head of the Village Council~
+The Head of the Village Council rests here weeping.
+~
+This man has grief written all over his countenance. He is guilty of an
+unimaginable atrosity. Had he never signed the trade agreement in Taelok's
+home, he never would have suffered the death of his family.
+~
+11 0 0 W2
+30 20 -17 20d100+0 6d10+0
+30000 5000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+-170 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18508
+child~
+a Child~
+A Child stands here without expression.
+~
+This child is so terrified, he has no expression upon his face. He has
+lost most, if not all of his family to the disease.
+~
+141 0 1000 W2
+15 7 -4 2d100+20 1d4+3
+10 15000
+6 6 0
+13 0 13 13 18 13 0
+19 2 2
+-40 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#18509
+cow ox~
+an ox~
+A large ox stands here, chewing on some hay.
+~
+This seems to be a well tempered animal. Although he is very large,
+he shows no sign of aggression.
+~
+11 0 0 W2
+18 10 -4 100d10+0 2d10+0
+0 1000
+8 8 0
+13 0 13 13 13 13 0
+18 3 3
+-40 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#18510
+mule~
+a mule~
+A mule stands here, ignoring everything.
+~
+This seems to be a well tempered animal. Although he is very large,
+he shows no sign of aggression.
+~
+11 0 0 W2
+18 10 -4 100d10+0 2d10+0
+0 1000
+8 8 0
+13 0 13 13 13 13 0
+19 3 3
+-40 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#18511
+Nathan smith~
+Nathan the Master Smith~
+Nathan stands here, working vigorously at the forge.
+~
+This is Nathan, the blacksmith. His arms are huge, an ex-soldier for the
+Free Cities, he learned his trade young. He is short, but extremely
+muscular. He is covered from head to toe in soot.
+~
+11 0 600 W2
+56 40 -35 84d100+0 2d4+25
+5500 40000
+8 8 1
+18 99 13 13 13 13 0
+20 2 2
+-350 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18512
+milo innkeeper~
+Milo the Innkeeper~
+Milo the Innkeeper stands behind the bar, drawing ale from a barrel.
+~
+Milo is a well tempered man, who took Freida and Eric under his wing.
+As a youth, Milo was infatuated by Freida, as were most normal young
+men. Now he has a daughter of his own, who is Eric's best friend, almost
+like a sister.
+~
+10251 0 600 W2
+48 33 -27 50d100+0 30d2+10
+50000 30000
+8 8 1
+13 0 13 13 13 13 0
+19 2 2
+-270 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18513
+traveller man passing~
+a passing traveller~
+A passing traveller sits about a table, telling of his adventures.
+~
+He is a normal looking citizen of the Kingdom. But his stories are very
+colorful.
+~
+10 0 200 W2
+10 15 5 1d1+100 1d3+2
+20000 2000
+8 8 0
+13 0 13 13 13 13 0
+0 2 2
+50 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#18514
+freida~
+Freida~
+Freida stands here, serving guests.
+~
+Freida, Eric's mother, fell in love with the baron years ago. She conceived
+Eric, while the Baron was forced to marry the daughter of the Duke of Ran.
+To avoid embaressment of the new Baroness, he was told never to acknowledge
+Eric as his son. Now the years of torment inside Freida have caused her
+face to be lined with age.
+~
+10 0 700 W2
+28 14 -10 16d100+16 6d1+10
+1000 10000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-100 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#18515
+guest~
+a weary guest~
+A weary guest lies here asleep on his bed.
+~
+Tired from travelling, this man has passed out on the floor for a good
+nights rest.
+~
+138 0 100 W2
+20 2 0 16d100+0 1d20+1
+15000 3000
+8 8 1
+8 0 8 13 13 13 0
+0 2 2
+0 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18516
+darkmoor guard baron's~
+a Baron's Guard of Darkmoor~
+A Darkmoor guard strolls through the streets looking for seldom present trouble.
+~
+A young man dressed in the garb of the Darkmoor guards, who is commanded by
+Master Owen Greylock, the Commander of the Guard.
+~
+4206665 0 600 W2
+40 15 -21 1d1+1500 1d7+10
+5000 50000
+8 8 1
+13 0 13 13 13 13 0
+1 2 2
+-210 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18517
+martin avery~
+Martin Avery~
+Martin Avery, Roo's father, rests drunken on the floor.
+~
+This burly fellow is a teamster, a type of merchant that drives his team
+to other cities to buy trade goods. His son was taken as was Eric, and
+noone knows what happened to them.
+~
+8203 0 350 W2
+46 30 -25 48d100+0 8d10+0
+75000 20000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+-250 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18518
+keeper shopkeeper~
+the Shopkeeper~
+A wealthy shopkeeper stands patiently behind a table, ready to assist you.
+~
+This man is nothing to be feared. He is a small man, dressed in fine
+clothing. He has an aristocratic air about him. He was probably raised
+with money, now taking in a fortune from the public.
+~
+10251 8 400 W2
+51 35 -27 60d100+0 2d4+30
+100000 40000
+8 8 1
+13 0 13 13 13 13 0
+5 2 2
+-270 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18519
+father dugan priest~
+Father Dugan, Priest of Ishap~
+Father Dugan sits at his table studying a passage in a book.
+~
+Father Dugan is a Priest of Ishap, god of knowledge. His sect plays an
+important role in the lives of the people, for Ishap is the highest
+of the gods of Midkemia.
+~
+2059 4 1000 W2
+70 40 -40 96d100+1000 1d1+65
+10 150000
+8 8 1
+13 0 13 18 13 13 0
+10 2 2
+-400 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18520
+Manfred darkmoor von~
+Manfred~
+Manfred sits here upon his bed, gazing out the window.
+~
+This is Otto's less presumptuous son. He has never thought of being
+Baron, for his brother will have the title before him. But fate will
+throw him into the seat of power in Darkmoor.
+~
+10251 0 200 W2
+50 40 -5 1d1+1499 1d20+1
+25000 25000
+6 6 1
+4 0 13 13 4 13 0
+5 2 2
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18521
+commoner~
+a commoner~
+A commoner kneels offering his worship to the gods.
+~
+This is a common man from Ravensburg, come to pay respects to his diety.
+~
+2059 0 9 W2
+15 9 -1 4d100+0 2d4+6
+500 5000
+8 8 1
+13 0 13 13 13 13 0
+19 2 2
+-10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#18522
+god~
+a god~
+A spirit resides here.
+~
+He is here.
+~
+276491 525354 1000 W2
+120 40 -99 100d100+5000 100d100+100
+360000 1000000
+8 8 0
+18 100 18 18 18 18 0
+16 2 0
+-990 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18523
+owen greylock head~
+Sir Owen Greylock~
+Master Owen Greylock, Head of the Darkmoor Guard orders a page to an unknown task.
+~
+Sir Greylock, despite his years is a strong an vital man. He is a seasoned
+soldier of fifty some odd years, who has served his Kingdom diligently.
+~
+4107 0 750 W2
+60 40 -40 88d100+0 2d3+18
+10000 75000
+8 8 1
+18 0 13 13 13 13 0
+3 2 2
+-400 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18524
+lady girl~
+a young lady~
+A girl, or rather a young lady, rests herself upon the side of the fountain.
+~
+This is where the youth of Ravensburg come to gossip, talk, court, show
+off, and basically socialize. Especially the girls. This one seems
+particularly interested in a boy across the way.
+~
+10 0 600 W2
+6 2 4 2d100+15 1d3+0
+100 100
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+40 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#18525
+boy young man~
+a young man~
+A boy, who thinks he is a man, stands here showing off to the girls.
+~
+Tha age old game of courtship continues with these youngsters.
+~
+10 0 500 W2
+7 7 4 4d100+20 1d6+0
+500 2000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#18526
+mule~
+a Mule~
+A mule hitched to a wagon bays annoyingly.
+~
+This seems to be a well tempered animal. Although he is very large,
+he shows no sign of aggression.
+~
+11 0 0 W2
+18 10 -4 100d10+0 2d10+0
+0 1000
+8 8 0
+13 0 13 13 13 13 0
+19 3 3
+-40 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#18527
+keshian merchant man~
+a Keshian merchant~
+A Keshian merchant awaits the arrival of his goods from the warehouse.
+~
+The Empire of Great Kesh lies at the southern border of the Kingdom of the
+Isles. Half of the border is disputed, and therefore, the relations between
+the lands are tense. Some in Kesh would like to go to war to gain those
+borders while others, such as this man, see profit in peace.
+~
+4194314 0 0 W2
+51 0 0 1d1+2499 2d4+20
+35000 65000
+5 0 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18528
+clerk short~
+a short clerk~
+A short clerk stands here, processing orders and keeping books.
+~
+This is a slim, short man. He seems to be small due to his easy, non-laborious
+work inside the winery. He wears a simple pair of spectacles and a small
+brown cap.
+~
+10 0 200 W2
+15 10 2 5d100+0 2d3+5
+100 210
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#18529
+young apprentice~
+a young apprentice~
+A young apprentice to the Vintner's Guild is here carrying ledgers to the clerk.
+~
+This young boy is about the age of fifteen. He looks quite overworked.
+~
+10 0 600 W2
+17 5 4 3d100+0 1d5+5
+100 100
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+40 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#18530
+page boy~
+a page~
+Someone's page is running about, fulfilling his duties.
+~
+This young boy is about the age of fifteen. He looks quite overworked.
+~
+2056 0 600 W2
+10 5 4 3d100+0 1d5+5
+100 100
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+40 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#18531
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18532
+laborer man~
+a laborer~
+A laborer for the winery works diligently bringing crates in from the outside.
+~
+This man is of good stature. His muscles are strong and his skin darkly
+tanned from his strenuous outdoor occupation.
+~
+4202507 0 0 W2
+30 30 -18 32d100+0 2d4+8
+500 31400
+8 8 1
+13 0 13 13 13 13 0
+19 2 2
+-180 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18533
+vintor cullen~
+Vintor Cullen~
+The Vintor, William Cullen, tastes a batch of wine to insure it's quality.
+~
+This man tastes so much wine, he should stay drunk. He is a master of the
+liquid, and could tell you from where and when any bottle of wine was made
+in Midkemia by taste.
+~
+2187 0 400 W2
+40 30 0 1d1+1499 2d3+30
+25000 15000
+8 8 1
+13 0 13 13 3 13 0
+19 2 2
+0 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18534
+purchase purchasing clerk~
+the purchasing clerk~
+The purchasing clerk is making a deal with a merchant.
+~
+This man is a tall, scrawny wimp. Lots of brains, nada braun.
+~
+2186 0 300 W2
+25 15 -10 20d100+0 1d3+15
+50000 1000
+8 8 1
+13 0 13 13 13 13 0
+0 3 2
+-100 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#18535
+royal guard baron's baron~
+a royal guard~
+One of the Baron's Royal guards is standing at his post here.
+~
+  The royal guard stands still, nothing moving but his eyes, which follow your
+every movement.  He seems wire-tense and ready to kill you with the slightest
+provacation.  You are certain it would be better for you if you left him
+alone.
+~
+11 0 500 W2
+51 35 -25 60d100+0 2d2+18
+10000 40000
+8 8 1
+13 0 13 13 13 13 0
+20 2 2
+-250 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18536
+minstrel~
+a minstrel~
+A minstrel awaits a hearing from the Baron, and plucks his harpischord to tune.
+~
+This man has travelled many miles in his lifetime, just to give pleasure
+to the ears of the masses. Why anyone would live so meagerly, you can
+not guess.~
+2058 0 300 W2
+25 15 -3 15d100+50 1d3+12
+200 5000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+-30 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#18537
+maiden servant lady~
+the servant maiden~
+The young maiden servant awaits duties from the Royal family.
+~
+This young lady is quite a charm to behold. Though not extravagantly
+beautiful, she does have an.... air about her.
+~
+139 0 500 W2
+20 11 -5 5d100+0 1d15+0
+100 2000
+8 8 2
+13 0 13 13 13 13 0
+5 2 2
+-50 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18538
+lady waiting~
+the lady~
+A lady in waiting is here. The Baroness couldn't be far away.
+~
+This lady is of noble stature, though not of noble blood. She is a middle
+aged woman, who lives to serve the Baroness in all of her needs.
+~
+139 0 500 W2
+20 11 -5 5d100+0 1d15+0
+100 2000
+8 8 2
+13 0 13 13 13 13 0
+5 2 2
+-50 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18539
+cook ~
+a cook~
+The Baron's household cook stands here patiently cooking the next meal.
+~
+This older lady needs to shave! She is a short, pudgy, bigfoot monster!
+She looks as if she hasn't taken a look in the mirror in years, but has
+rather spent her life in front of a hearth.~
+139 0 500 W2
+20 11 -5 5d100+0 1d15+0
+100 2000
+8 8 2
+13 0 13 13 13 13 0
+5 2 2
+-50 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18540
+mathilda baroness~
+Mathilda~
+The Baroness, Mathilda, stands contemplating her troubles.
+~
+The Baroness isn't beautiful. Otto married her for the good of the state,
+not for love. The lady from Land's End is quite dubious, and is very
+ambitious for her son, Stephan.
+~
+139 0 0 W2
+30 15 -10 20d100+0 1d2+20
+10000 8000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-100 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18541
+otto von darkmoor baron~
+Otto von Darkmoor~
+The Baron, Otto von Darkmoor, lies upon his deathbed.
+~
+Many years of grief have brought him to this day. He is dying. The chirurgeon
+sits the deathwatch, for the Baroness isn't here.
+~
+11 2049 700 W2
+40 0 1 16d100+0 1d4+1
+1000 50000
+4 4 1
+13 0 13 13 13 13 0
+19 2 2
+10 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18542
+chirurgeon man healer~
+the chirurgeon~
+A chirurgeon, or healer, sits here, sitting the deathwatch.
+~
+This man was a personal friend of the Baron's. He sits to watch the 
+Baron die, a morbid favor to him. His responisibility is to see
+that the wishes of the dying Baron be done, as the Baroness refuses
+to be here. 
+~
+266251 0 500 W2
+30 30 0 14d100+13 1d4+1
+500 40000
+6 6 1
+13 0 13 13 13 13 0
+10 2 2
+0 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18543
+old man~
+the old man~
+An old man sits in a rocker next to the fire, covered by a blanket.
+~
+This man seems ancient. His countenence is nearly skeletal and he often
+shakes. He hold a pipe in his right hand. He says........
+"Long ago there was a great war, those from other world came to take
+our Kingdom. Heh, that didn't last long. But it was then that we took
+notice of other lands... the legendary Elvandar, city of the elhedel,
+Novindus, a great island across the Endless Sea, and nations still 
+rarely known to the south. There are cities in the north, though the
+morhedel, or rather the Brothers of the Dark Path reside there. They
+are in league with the Dark Ones, they are. Those dark elves would rather
+cut your throat than look at you. One you should seek out is Pug of
+Stardock. He has save this whole world and others numerous times.
+He could tell you of the goings on here. Now go, I must rest...."
+Then he falls asleep.
+~
+4194315 0 0 W2
+127 0 -40 100d100+9000 100d100+100
+20000 750000
+5 5 1
+18 99 18 18 18 18 0
+3 2 0
+-400 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18544
+citizen woman~
+a citizen of Darkmoor~
+A woman walks here, tending to her own affairs.
+~
+These are very peaceful people. They haven't seen war for over three centuries
+on this soil, although the battle of Sethanon was north of here. It never
+reached this far south.
+~
+136 0 500 W2
+20 11 2 1d1+200 1d4+3
+100 2000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+20 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18545
+man citizen ~
+a citizen of Darkmoor~
+A man walk purposefully by you, tending to unfinished tasks.
+~
+This is one of the peaceful men, an upstanding citizen of the Barony of
+Darkmoor.~
+201 0 200 W2
+30 15 -13 20d100+20 1d6+3
+2000 10000
+8 8 1
+13 0 13 13 13 13 0
+19 2 2
+-130 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18546
+child~
+a child~
+A child hides in a corner, praying for your ignorance.
+~
+This child is terrified. he has no home and seeks shelter. You must
+have scared him to death when you walked in.
+~
+143 524288 1000 W2
+15 7 -4 2d100+20 1d20+0
+10 200
+5 5 0
+13 0 13 13 18 13 0
+19 2 2
+-40 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#18547
+horse~
+a horse~
+A horse is lashed in his stable, and is resting upon fresh hay.
+~
+This is a horse owned by a Darkmoor soldier. He is very well bred, and
+is trained in battle.
+~
+11 0 0 W2
+18 10 -4 100d10+0 2d10+0
+0 1000
+5 5 0
+13 0 13 13 13 13 0
+19 3 3
+-40 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#18548
+dog stray pet~
+a dog~
+A dog, possibly a stray, or even someone's pet, is strolling down the street.
+~
+This dog looks well bred, not like an unkempt stray.
+~
+2056 0 600 W2
+6 2 4 2d100+15 1d3+0
+100 100
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+40 0 6 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#18549
+cat ~
+a cat~
+This cat seems particularly uniterested in you. It runs away at top speed.
+~
+As we all know, cats belong to no one. They might stay with you, but cats
+have a mind of thier own. The one is burning the wind away from you.
+~
+2056 0 600 W2
+10 2 7 2d75+10 1d3+0
+100 12000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+70 0 4 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#18550
+looter, loote, loot, loo~
+a looter~
+A looter sneaks about looking for valuables.
+~
+The looter's eyes uneasily dart from side to side. He looks like he
+could be dangerous.
+~
+207 262144 -450 W2
+22 35 0 10d100+50 1d3+3
+10000 22000
+8 8 1
+13 0 13 13 18 13 0
+19 2 2
+0 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#18560
+horse~
+a horse~
+A horse is here, in a team of four to pull the wagon.
+~
+This horse is very well mannered to stand here for hours with his team
+awaiting cargo.~
+11 0 0 W2
+18 10 -4 100d10+0 2d10+0
+0 1000
+8 8 0
+13 0 13 13 13 13 0
+19 3 3
+-40 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#18563
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+$

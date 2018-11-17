@@ -1,0 +1,1928 @@
+#700
+Lakefront Museum Entrance~
+As you go up the marble steps, you notice a big, marble, double door.
+The architecture seems to be of the Greek type.  On the door you 
+notice a sign.
+~
+7 20 0
+0d0+0 0 0
+D0
+You see the Ticket Desk
+~
+~
+0 -1 702
+D3
+You see the parking lot, and looking for your car is going to be hard.
+~
+~
+0 -1 729
+E
+sign~
+Hours:
+Monday - Friday 10am to 5pm
+Saturday and Sunday 11am to 6pm
+~
+S
+#701
+Guard Station~
+Here you see another counter.  This one has a clip-board that the
+guards use to sign in on.  As you walk past the counter, the
+guard behind it glances up at you.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see the Information Desk
+~
+~
+0 -1 703
+D2
+You see the Ticket Counter
+~
+~
+0 -1 702
+S
+#702
+Ticket Counter~
+Here you see a counter with maps to the museum.  There is a sign
+behind the lady sitting at the counter.  As you walk up to the
+counter, the lady smiles at you.
+~
+7 24 0
+0d0+0 0 0
+D0
+You see the Guard Station
+~
+~
+1 720 701
+D2
+You see the Entrance to the Museum
+~
+~
+0 -1 700
+E
+sign~
+The price for a ticket is 100 coins.
+~
+S
+#703
+Information Desk~
+Here is yet another counter.  The woman behind it looks up from
+her paper as you wander by.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see the Ancient Pottery
+~
+~
+0 -1 705
+D1
+You see the Art Gallery
+~
+~
+0 -1 706
+D2
+You see the Guard Station
+~
+~
+0 -1 701
+D3
+You see the Mummies in that direction
+~
+~
+0 -1 704
+S
+#704
+The Mummies~
+As you look in this part of the museum, you notice people who are
+mummified in the cases.  As you look closer, you notice that they
+are at least 200 years old.  
+~
+7 136 0
+0d0+0 0 0
+D1
+You see the Information Desk
+~
+~
+0 -1 703
+S
+#705
+Ancient Pottery~
+Within this part of the museum, there is a lot of pottery, most
+of it in pieces and all of it is old.  There are different types
+and styles of pottery here.  Bowls, plates, mugs, Aztec, Greek, and
+Mayan make up a few.
+~
+7 8 0
+0d0+0 0 0
+D2
+You see the Information Desk
+~
+~
+0 -1 703
+S
+#706
+Art Gallery~
+As you look around this room, the first thing you notice are the paintings on
+the walls.  They are done by famous artists like Van Gough and Monnet.  You
+stand in awe admiring the beauty of their works.  There is a stairway here that
+leads up and down.
+~
+7 8 0
+0d0+0 0 0
+D3
+You see the Information Desk
+~
+~
+0 -1 703
+D4
+You see the Rare Gems
+~
+~
+0 -1 707
+D5
+You see the bottom of the stairs
+~
+~
+0 -1 710
+S
+#707
+Rare Gems~
+There are cases lined up against the wall.  Within the cases you
+notice many types of jewlery, gems, necklaces, rings and such.
+There is a stairway leading down.
+~
+7 8 0
+0d0+0 0 0
+D3
+You see many sculptures
+~
+~
+0 -1 708
+D5
+You see paintings
+~
+~
+0 -1 706
+S
+#708
+Sculpture Hall~
+Walking around the area you find sculptures of all types, from ancient 
+Aztec, to Greek, to modern replicants of other sculptures.  You notice
+one ancient Egyptian sculpture of a beautiful woman in an almost
+cat-like pose that bears a striking resemblance to ... Cati?  The
+sculptures are in varying states of decay, from well preserved 
+to crumbling.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see food
+~
+~
+0 -1 709
+D1
+You see many gems
+~
+~
+0 -1 707
+D3
+You see things for battle
+~
+~
+0 -1 714
+S
+#709
+Museum Cafe~
+You see a bunch of tables and chairs.  Near the back is a line where
+you can buy hamburgers, pretzels, hotdogs, cookies, and coke.  If you
+want to buy something, remember to get in line!
+~
+7 8 0
+0d0+0 0 0
+D2
+You see many statues
+~
+~
+0 -1 708
+S
+#710
+Bottom of stairs~
+As you climb down the stairs you notice it is not as clean as the
+rest of the museum.  Once you get to the bottom of the stairs you 
+notice a door to your west.
+~
+7 8 0
+0d0+0 0 0
+D3
+You see an open room
+~
+door~
+1 -1 711
+D4
+You see the Art Gallery
+~
+~
+0 -1 706
+S
+#711
+Open Room~
+As you walk past the door, you notice that this place is a lot
+dirtier than you saw upstairs.  There are boxes stacked neatly
+along the south wall.
+~
+7 8 0
+0d0+0 0 0
+D0
+There is a door there
+~
+door~
+1 -1 712
+D1
+There is a door
+~
+door~
+1 -1 710
+D3
+You see the Loading Dock
+~
+~
+0 -1 713
+S
+#712
+Break Room~
+In this room you notice a table and a few vending machines.  At the
+table one of the workers watches you as you walk into the room.  The
+worker says, "You lost?  Stairs are that way."  He points to the south
+west.
+~
+7 8 0
+0d0+0 0 0
+D2
+There is a door there
+~
+door~
+1 -1 711
+S
+#713
+Loading Dock~
+You see a large door where a truck can unload boxes for the museum.
+There is a desk there with papers and pens on it.
+~
+7 8 0
+0d0+0 0 0
+D1
+You see an open room
+~
+~
+0 -1 711
+S
+#714
+Weapons of War~
+Here are all the weapons that were used in different wars, different
+time periods, swords, armor, and guns.  As you look about you, you wonder
+how they fought like that.
+~
+7 8 0
+0d0+0 0 0
+D1
+You see statues
+~
+~
+0 -1 708
+S
+#715
+Lakefront Public School Entrance~
+As you walk up to the one room building, you notice that it looks
+like a house.  The door is made of oak and the roof is red.  From the
+west, you hear the ringing of a bell.
+~
+7 12 0
+0d0+0 0 0
+D1
+Broad street lies this way.
+~
+~
+0 -1 738
+D2
+You see children playing
+~
+~
+0 -1 717
+D3
+You see desks within the school.
+~
+~
+0 -1 716
+S
+#716
+Inside Lakefront School~
+As you walk inside the school, you see about 20 desks.  In the front 
+of the room is a bigger desk.  Behind the desk, a lady is holding the
+bell that you heard from the entrance.
+~
+7 8 0
+0d0+0 0 0
+D3
+You see the door that leads outside.
+~
+~
+0 -1 715
+S
+#717
+Playground~
+As you pass-by, you notice the equipment.  This equipment is for
+the children to play on.  As you look about, you notice kids playing
+and laughing.
+~
+7 4096 0
+0d0+0 0 0
+D0
+You see the entrance to the school.
+~
+~
+0 -1 715
+S
+#718
+The Intersection of Pierwalk and Union.~
+This newly paved road continues north and south.  To the east you see
+a very large building with two floors.  Union is to your west.
+~
+7 0 0
+0d0+0 0 0
+D0
+Pierwalk Avenue
+~
+~
+0 -1 719
+D1
+You see the parking lot.  Finding a parking place is going to be hard.
+~
+~
+0 -1 729
+D2
+~
+~
+0 -1 696
+D3
+Union runs towards Broad street.
+~
+~
+0 -1 720
+S
+#719
+Pierwalk Avenue~
+This road is paved with black tar, one of the few around here.
+Buildings line the west side of the road that do not interest you.
+To the east, you see one of the Great Lakes.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 723
+D2
+Pierwalk Avenue
+~
+~
+0 -1 718
+S
+#720
+Union~
+Union is not that wide compared to the other streets in Lakefront
+City. The street is made of cobblestone.  There are buildings
+that do not interest you to the north and south.
+~
+7 0 0
+0d0+0 0 0
+D1
+The intersection of Union and Pierwalk Avenue.
+~
+~
+0 -1 718
+D3
+Union continues towards Broad Street.
+~
+~
+0 -1 721
+S
+#721
+Union~
+This cobblestone street is not that wide.  To the north and to the
+south of you are apartments.  As you walk by, you pay little 
+attention to them.
+~
+7 0 0
+0d0+0 0 0
+D1
+Union continues towards Pierwalk Avenue
+~
+~
+0 -1 720
+D3
+Union
+~
+~
+0 -1 732
+S
+#722
+Intersection of Union and Broad~
+Broad goes north and south from here, or you can go east onto Union
+to get to the lake.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see Broad.
+~
+~
+0 -1 733
+D1
+You see more of Union.
+~
+~
+0 -1 732
+D2
+~
+~
+0 -1 689
+S
+#723
+Pierwalk Avenue~
+The road is one of the few roads that are paved with black tar.
+You notice to the west of you, an office of sorts.  To the east,
+you notice one of the Great Lakes.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see more of Pierwalk Avenue.
+~
+~
+0 -1 730
+D2
+~
+~
+0 -1 719
+D3
+You see John O'Malleys Office.
+~
+~
+0 -1 724
+S
+#724
+Entrance to John O'Malleys~
+You see a two story building.  It is a well kept brick building with a
+few windows.  The door is made of solid wood.  There is a sign on the 
+door.
+~
+7 8 0
+0d0+0 0 0
+D1
+You see Pierwalk Ave.
+~
+~
+0 -1 723
+D3
+You see the inner office.
+~
+~
+0 -1 725
+E
+sign~
+John O'Malleys Office
+~
+S
+#725
+John O'Malleys Office~
+You are standing a room with two chairs and a desk.  Behind the desk is 
+another chair.  On the desk is a phone, address book, calendar, and a 
+cup full of pens and pencils.  As you walk into the room, a man looks
+up at you.
+~
+7 8 0
+0d0+0 0 0
+D1
+You see the door.
+~
+~
+0 -1 724
+D3
+There is a door there.
+~
+door~
+1 -1 726
+S
+#726
+Stairway~
+You see a narrow staircase that goes upward.  There is no carpeting.  The
+floor looks very dirty.
+~
+7 8 0
+0d0+0 0 0
+D1
+There is a door there.
+~
+door~
+1 -1 725
+D4
+You see the top of the stairs.
+~
+~
+0 -1 727
+S
+#727
+Top of Stairs~
+You are at the top of the stairs.  It is not well lit.  To the east there
+seems to be a door.
+~
+7 8 0
+0d0+0 0 0
+D1
+There is a door there.
+~
+door~
+1 -1 728
+D5
+You see the bottom of the stairs.
+~
+~
+0 -1 726
+S
+#728
+John's Place~
+Within this room, you see a bed, and a small kitchen.  Within the kitchen
+part of the room, there is a refrigerator and a stove.  The place smells
+like cigarettes and it is not very clean.
+~
+7 8 0
+0d0+0 0 0
+D3
+You see a door there.
+~
+door~
+1 -1 727
+S
+#729
+The Parking Lot~
+This is the parking lot for the Museum.  When you park here, don't 
+forget to lock your doors.
+~
+7 0 1
+0d0+0 0 0
+D1
+You see the Museum.  Wouldn't be a great day to look inside?
+~
+~
+0 -1 700
+D3
+You see Union.  
+~
+~
+0 -1 718
+S
+#730
+Pierwalk Avenue~
+As you walk, you notice the lake to the east.  To the west, you notice
+more stores that do not interest you at all.  The road is made of black
+tar, which is rare around here.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see Pierwalk Avenue.
+~
+~
+0 -1 731
+D2
+You see more of Pierwalk Avenue.
+~
+~
+0 -1 723
+S
+#731
+Pierwalk Avenue~
+To the east is Lake Michigan.  To the west are building that you don't 
+know what they are.  The road is of black tar, which is rare.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 740
+D2
+You see Pierwalk Avenue
+~
+~
+0 -1 730
+S
+#732
+Union~
+Your feet start to hurt while walking on the cobblestone.  If you
+were to keep going west, you will hit Broad.  If you went east, 
+however, you will reach Pierwalk Avenue.
+~
+7 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 721
+D3
+~
+~
+0 -1 722
+S
+#733
+Broad~
+On this wide street the only thing that is worth noting, is the
+Police Station to the west.  
+~
+7 0 1
+0d0+0 0 0
+D0
+You see more of Broad.
+~
+~
+0 -1 734
+D2
+You see the intersection of Union and Broad.
+~
+~
+0 -1 722
+D3
+You see the Police Station.
+~
+~
+0 -1 762
+S
+#734
+Broad~
+The road look just like the rest of Broad street except that there
+is nothing noteworthy on this section of the street.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see Broad.
+~
+~
+0 -1 735
+D2
+You see more of Broad.
+~
+~
+0 -1 733
+S
+#735
+Broad~
+This is a very wide street that should have a lot of noteworthy
+buildings off to the side, but the one thing you notice about
+this section of the street that there's nothing worthy of
+noting except for the bullet riddled model T sitting by the
+east side curb of the road.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see Broad.
+~
+~
+0 -1 736
+D2
+You see Broad that leads to Union.
+~
+~
+0 -1 734
+E
+car automobile~
+This car looks as if it's been through a war.  Thinking of the
+time period though, you figure it probably has.  GANG WAR!  It is
+the leading cause of death among automobiles.
+~
+S
+#736
+Broad~
+Broad continues, but there is nothing of noteworthiness here either.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see Broad.
+~
+~
+0 -1 737
+D2
+You see more of Broad.
+~
+~
+0 -1 735
+S
+#737
+Broad~
+To the east of you is the sound of laughter.  On this wide street
+you wonder why you hear loud laughter so close.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see Broad.
+~
+~
+0 -1 738
+D2
+You see Broad.
+~
+~
+0 -1 736
+D3
+You see children playing.
+~
+~
+0 -1 717
+S
+#738
+Broad~
+On this wide street, the only thing that gets your attention is
+the sound of laughter to the west of you.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 748
+D2
+You see Broad.
+~
+~
+0 -1 737
+D3
+You see a school.
+~
+~
+0 -1 715
+S
+#739
+Martin's Market~
+As you wak into the store, you notice to the right of you is the 
+counter. Once you walk fully into the store you see watermellons,
+bananas, peanuts, ice and oranges for sale.  There is an elderly
+gentleman behind the counter.
+~
+7 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 750
+S
+#740
+Pierwalk Avenue~
+As you look east, you have a good look at the water.  It looks
+bright blue and clean.  To the west of you, are warehouses with
+people running about.  To the north you see more of Pierwalk Avenue.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 741
+D2
+~
+~
+0 -1 731
+S
+#741
+Pierwalk Avenue~
+When walking upon this road the only thing that you notice is a
+beautiful dome shaped building to the west.  This temple seems
+to have only three levels and then the dome at the top.  Columns
+are at all of the corners of the temple and pine trees come out
+in a straight line from the corners near the door.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 742
+D2
+~
+~
+0 -1 740
+D3
+You see the church.
+~
+~
+0 -1 777
+S
+#742
+Pierwalk Avenue~
+As you look about you, you see water to the east, a large, pointed
+building to the southwest and a line of trees to the west coming
+from the pointed building.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 743
+D2
+~
+~
+0 -1 741
+S
+#743
+Pierwalk Avenue~
+Nothing gets your attention as you walk down this street.  It all
+looks the same to you.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 744
+D2
+~
+~
+0 -1 742
+S
+#744
+Pierwalk Avenue~
+As you walk down Pierwalk, you notice to the west of you a dark alley.
+To the east of you is the Lake which looks very calm.
+~
+7 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 751
+D2
+~
+~
+0 -1 743
+D3
+~
+~
+0 -1 745
+S
+#745
+Alley~
+The alley is dark and dank, the musty smell of the air that actually
+makes it into the alley makes you want to gag.  Clotheslines run between
+the two buildings causing the cloths to block out any light that may
+have made it to the ground of the alley.  You're not sure what lies
+beyond that next sheet...
+~
+7 1 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 744
+D3
+~
+~
+0 -1 746
+E
+sheet~
+You look at the sheet trying to figure out what lies beyond it, but
+you can't even see shadows because of how dark it is here.
+~
+S
+#746
+Alley~
+The alley seems to close in on you.  You're REALLY happy now that you
+aren't claustraphobic, or are you?  Did that wall just move in closer?
+No, it must just be your imagination and the low lighting playing
+tricks on your mind, causing you to think so.  The clotheslines still
+cross the alleyway at such a level that you have to duck to get to
+the other side of the laundry airing out to dry.   The air that makes
+it into the alley makes you want to gag, the smell of wet clothes
+aren't helping your stomach any.  By the way... you SWEAR that
+wall just moved.
+~
+7 1 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 745
+D3
+~
+~
+0 -1 747
+E
+wall~
+Of course it didn't move, it's just brick.
+~
+S
+#747
+Alley~
+The buildings are so close together that the light that does make
+it in here, doesn't light it up enough to see.  The air that makes
+it past the buildings smells so musty and dry that you want to gag.
+The stones of the ground cruble beneath your feet.  Not many people
+use this alleyway, you're beginning to wonder why you are.
+~
+7 1 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 746
+D3
+~
+~
+0 -1 750
+S
+#748
+Broad~
+The road seems a little less worn here, but not by much.  To the
+west you notice normal buildings, nothing that seems noteworthy to
+you.  But to the east, you notice an apartment building.
+~
+7 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 749
+D1
+~
+~
+0 -1 770
+D2
+~
+~
+0 -1 738
+S
+#749
+Broad~
+Broad street is like all the other streets around here.  Well worn
+from all the walking, wagons, and vehicles that have found their way
+dow this red-brick road.  There's nothing of interest on either side
+of this road in this section, though you do notice some apartment
+buildings farther south.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 750
+D2
+~
+~
+0 -1 748
+S
+#750
+Broad~
+This is a very wide road.  Like most of the other streets, Broad is
+laid with reddish-brown bricks.  As you look at the street closer, 
+you notice that the bricks are cracked from all of the people who
+have traveled on them.  To the east you notice a dark alley, and to 
+the west you see a store that catches your eye.
+~
+7 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 759
+D1
+~
+~
+0 -1 747
+D2
+~
+~
+0 -1 749
+D3
+As you look, you notice a store.
+~
+~
+0 -1 739
+S
+#751
+Pierwalk Avenue~
+As you walk down the street you notice to the right of you a boat
+that is sailing along the water.  Looking closer at the boat, you
+see that it is a simple sailboat.  To the east are more buildings
+that look the same to you.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 752
+D2
+~
+~
+0 -1 744
+E
+boat sailboat~
+It looks like a simple sailboat.  Nothing more noteworthy about it
+than it's actually sailing on the water.
+~
+S
+#752
+Pierwalk Avenue~
+On this tar road, you notice to the east of you a parking lot.
+To the west of you are buildings that do not interest you at all.
+~
+7 0 1
+0d0+0 0 0
+D1
+You see the parking lot and further on you see a beach.
+~
+~
+0 -1 753
+D2
+~
+~
+0 -1 751
+S
+#753
+Lake Michigan Beach Parking Lot~
+You walk onto the pavement and notice the yellow lines dipicting
+where cars can park.  The lot is about half full.  To the east
+you notice a beach where you could go to get a tan if you wanted
+to.
+~
+7 0 1
+0d0+0 0 0
+D1
+You notice the sandy beach and Lake Michigan in that direction.
+~
+~
+0 -1 754
+D3
+Did you have fun at the beach?  Now you can get back on Pierwalk.
+~
+~
+0 -1 752
+S
+#754
+Lakefront Beach~
+As you start to walk on the beach, you notice the fine sand on your
+bare feet.  To the east you see Lake Michigan.  To the north and south
+you notice more sandy beach and to the far north you notice a playground
+area for kids to play on.
+~
+7 0 1
+0d0+0 0 0
+D0
+As you look north, you see people tanning and the lifeguard on the 
+lifeguard chair.
+~
+~
+0 -1 755
+D2
+You see more sandy beach.
+~
+~
+0 -1 757
+D3
+You see the parking lot and Pierwalk Ave in that direction.
+~
+~
+0 -1 753
+S
+#755
+Lakefront Beach~
+You see, on this part of the beach, the lifeguard stand, and people
+laying on the beach getting a tan.  Why don't you put down your towel
+and get a tan also?  What? Don't have a towel?  Perhaps the beach
+store carries them.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see the playground where kids play.
+~
+~
+0 -1 756
+D2
+You see more beach.
+~
+~
+0 -1 754
+S
+#756
+Playground~
+You see a bunch of equipment that children are playing on.  This
+includes a swing, teeter-totter, and a spider climber.  If you
+wanted to, you could go play on the equipment, but be careful, you
+could fall and hurt yourself.
+~
+7 0 0
+0d0+0 0 0
+D2
+You see the lifeguard.
+~
+~
+0 -1 755
+S
+#757
+Lakefront Beach~
+As you walk down the beach, your feet feel warm when you walk bare
+footed along the beach.  As you glance to the east, you notice the
+waves gently rolling the beachside.  You feel relaxed as you walk
+along the lakeside not worrying about anything in particular.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see more of the wonderful beach.
+~
+~
+0 -1 754
+D2
+You see a store.
+~
+~
+0 -1 758
+S
+#758
+Lakefront Beach Store~
+As you walk into this small building, you smell more of the lake air.
+Looking around the building, you notice towels, liquid containers, 
+flip-flops, and candy.  The young man behind the counter looks at you
+and smiles.
+~
+7 0 0
+0d0+0 0 0
+D0
+You see the beach.
+~
+~
+0 -1 757
+S
+#759
+Broad~
+This is a very wide, reddish-brown brick road.  The street is well-worn
+from all the people, vehicles, and carts that travel along here from the
+beach to wherever.  You see nothing much of interest here.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 760
+D2
+~
+~
+0 -1 750
+S
+#760
+Broad~
+The reddish-brick road called Broad seems to continue endlessly
+through this city by the bay (or at least by the lake).   Cars wizz
+past you at an amazing speed of.. 45
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 761
+D2
+~
+~
+0 -1 759
+S
+#761
+Broad~
+As you walk along Broad street, you notice a larg sign to the north
+of you.  You wrinkle up your nose as you smell something horrible, also
+from that direction.  You're not sure if you can handle the smell
+long enough to find out where it's coming from.
+~
+7 0 1
+0d0+0 0 0
+D0
+Come visit the animals!
+~
+~
+0 -1 781
+D2
+~
+~
+0 -1 760
+D3
+You see the Trollies coming and going.
+~
+~
+0 -1 799
+S
+#762
+Entrance to Police Station~
+You walk past the two lamp posts which say "police" on them and up to
+the large oaken door of this 2 story brown brick buidling.
+~
+7 12 0
+0d0+0 0 0
+D1
+You see Broad.
+~
+~
+0 -1 733
+D3
+You see a cop behind a desk.
+~
+~
+0 -1 763
+E
+sign~
+First Ward Police Department
+~
+S
+#763
+Police Station Lobby~
+As you walk into the Police Station Lobby, you see a female police
+officer sitting behind the desk.  Above her head, you notice a sign.
+Glancing behind her, you notice the movements of other cops.
+~
+7 8 0
+0d0+0 0 0
+D1
+You see the door leading to Broad.
+~
+~
+0 -1 762
+D3
+You see the movement of cops.
+~
+~
+0 -1 766
+E
+sign~
+INFORMATION DESK
+~
+E
+desk~
+You look at the desk.  On it sits a phone, paper, pens and a
+typewriter.  Were you looking for anything in particular?
+~
+S
+#764
+Off Duty Lounge~
+In this room is a round table.  On the table you see brown bags with
+food on top.  Around the table you see chairs.  Off to the right you 
+see a refrigerator, and a stove.  On the stove you see a tea-kettle.
+To the left you cabinets.
+~
+7 8 0
+0d0+0 0 0
+D2
+You see the movement of cops.
+~
+~
+0 -1 766
+S
+#765
+The Sergeant's Office~
+Here is where the Sergeant of the First Ward works.  There is a desk,
+which is full of piles, a phone, pencils, and food.  Behind him is a 
+bookcase full of books.  There is a plant to your left.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see a door here.
+~
+door~
+1 -1 766
+S
+#766
+The Main Office~
+As you look about, you see many desks lined up in rows.  Behind most
+of the desks are police officers who are working.  Other cops are 
+moving about from one desk to another.  To the left of you is a door
+and to the right is a lounge.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see the lounge where there are cops talking.
+~
+~
+0 -1 764
+D1
+You see the Information Desk there.
+~
+~
+0 -1 763
+D2
+You see Kevin Wick's office.
+~
+door~
+1 -1 765
+D3
+You see a gate to the hallway.
+~
+gate~
+1 -1 767
+S
+#767
+A Hallway~
+The hallway floor is made out of stone, the walls are cement.  To the
+right and left of you are cells.  The hallway is fairly clean, but you
+still think something died in here from the smell.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see cell1.
+~
+cell1~
+2 742 768
+D1
+You see a door.
+~
+door~
+1 -1 766
+D2
+You see cell2.
+~
+cell2~
+2 742 769
+S
+#768
+Jail Cell~
+The jail has a bed on the right.  It has a sink and a toilet on the
+left side of the cell.  The bed is a cot and has ragged sheets on 
+them. The floor is paved and there is not much light in this cell.
+~
+7 9 0
+0d0+0 0 0
+D2
+You see the hallway to freedom!
+~
+door~
+1 742 767
+S
+#769
+Jail Cell~
+On the right is a sink and a toilet.  To the left is a cot with ragged
+sheets on it.  The floor is paved and you are having a hard time seeing
+the details of the room.
+~
+7 9 0
+0d0+0 0 0
+D0
+You see the way to freedom!
+~
+door~
+1 -1 767
+S
+#770
+Entrance to the Apartments~
+To your left are mailboxes for the various people that live here.  There
+is an apartment to your north and one to your south.  There is also a 
+flight of stairs heading upstairs to more apartments.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see a door.
+~
+door~
+1 733 771
+D2
+You see a door.
+~
+door~
+1 734 772
+D3
+~
+~
+0 -1 748
+D4
+~
+~
+0 -1 773
+S
+#771
+Apartment #1~
+In the back of the apartment is a kitchen.  Within the kitchen is a
+small table.  You see a couch to the right of you.  To the left of
+you is a bed.
+~
+7 8 0
+0d0+0 0 0
+D2
+You see a door.
+~
+door~
+1 733 770
+S
+#772
+Apartment #2~
+This apartment is a small room.  In the room you see a kitchen of
+sorts in the back, a bed to the right and a couch to the left.
+Before the kitchen is a table.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see a door. 
+~
+door~
+1 734 770
+S
+#773
+Upper Landing~
+You end up at the upper landing.  There is an apartment to the north and
+one to the south.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see a door.
+~
+door~
+1 735 774
+D2
+You see a door.
+~
+door~
+1 736 775
+D5
+~
+~
+0 -1 770
+S
+#774
+Apartment #3~
+In the back of the apartment is a kitchen.  There is a table in the 
+kitchen. To the right of you is a nice made bed.  To the left of you
+is a couch and a desk and a chair at the desk.  
+~
+7 8 0
+0d0+0 0 0
+D2
+You see a door.
+~
+door~
+1 735 773
+S
+#775
+Apartment #4~
+As you step into this apartment, you notice it is different than 
+the rest of them.  There is a kitchen and a table in the back.  The bed
+is to the right.  To the left you see a couch and a wine cabnet.  You
+think you counted about 20 bottles of wine.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see a door.
+~
+door~
+1 736 773
+S
+#776
+The Entrance~
+In front of you there is a door.  The door is made of wood.  You see
+a peephole in the middle of the door.
+~
+7 8 0
+0d0+0 0 0
+D0
+You see a door.
+~
+door~
+2 721 779
+D1
+There is a door here.
+~
+door~
+2 -1 647
+S
+#777
+Bahai Temple~
+Within this temple, there are wooden benches to the right and left
+of you.  Sitting on the altar in front of you, is a copy of the 
+Holy Bible.  Standing beside the altar is the holy water for baptism.
+You glance at the beautiful, stained glass windows and get a
+sense of peace from the room.
+~
+7 8 0
+0d0+0 0 0
+D1
+You see Pierwalk Avenue.
+~
+~
+0 -1 741
+S
+#778
+The Study~
+In the study there is a oak desk.  On the desk there a papers, a phone,
+and pens and pencils in a cup.  Behind the desk is an office chair.
+To the right is a bookcase full of book.
+~
+7 8 0
+0d0+0 0 0
+D1
+You see a door
+~
+door~
+1 -1 779
+S
+#779
+The Living Room~
+Here in the living room, there are a couple of couches.  There is 
+an end table at each couch.  There is a radio at the far end of the room.
+You hear laughter coming to the right of you.  To the right of you,
+however, it is dead quiet.
+~
+7 8 0
+0d0+0 0 0
+D1
+You see a door.
+~
+door~
+1 -1 780
+D2
+You see a door.
+~
+door~
+2 -1 776
+D3
+You see a door.
+~
+door~
+1 -1 778
+S
+#780
+The Bedroom~
+As you enter this room, you notice a bed in the middle of the back wall.
+To the right is the bathroom.  As you look upon the bed, you notice
+two people in the bed.  
+~
+7 8 0
+0d0+0 0 0
+D3
+You see a door.
+~
+door~
+1 -1 779
+S
+#781
+Entrance to Lakefront Zoo~
+This is the entrance to the zoo.  There is a large sign above you.
+You notice as you walk through, there is a gate here also.
+~
+7 0 1
+0d0+0 0 0
+D0
+Thru the gate, you see more of the zoo.~
+gate~
+1 713 782
+D2
+Thanks for visiting the zoo!
+~
+~
+0 -1 761
+E
+sign~
+As you look at the sign, you notice it arches over the
+road. The sign says, LAKEFRONT CITY ZOO.
+~
+S
+#782
+Zoo Walkway~
+As you walk on the dirt path, you notice all the animals.  Sniffing
+the air, you notice the unpleasant smell of the animals.  To the
+northwest, you see the wolves den.  To the northeast, are the
+porcupines.
+~
+7 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 783
+D2
+You see the entrance to the zoo.
+~
+~
+0 -1 781
+D6
+You see the porcupines.
+~
+cage~
+1 -1 798
+D7
+You see the wolf den.
+~
+wolfden~
+1 -1 790
+S
+#783
+Zoo Walkway~
+As you look on the dirt path, you see pieces of trash laying about.
+To the north of you, you see lots of birds.  The path bends to the
+northeast and to the northwest creating a fork in the path.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see the bird cage.
+~
+birdcage~
+1 -1 794
+D2
+~
+~
+0 -1 782
+D6
+~
+~
+0 -1 786
+D7
+~
+~
+0 -1 784
+S
+#784
+Zoo Walkway~
+As you look about, you see that the path goes on the the northwest.
+To the east, you see an animal with two horns on its head.
+~
+7 0 0
+0d0+0 0 0
+D1
+You see the rhino.
+~
+cage~
+1 -1 791
+D7
+~
+~
+0 -1 785
+D8
+~
+~
+0 -1 783
+S
+#785
+Zoo Walkway~
+This is the end of the walkway.  As you look about, you see more 
+animals. To the west, you see an animal with a long nose.  To the
+northwest, is an animal with no feet.  To the northeast are animals
+that look like housecats, but bigger.
+~
+7 0 1
+0d0+0 0 0
+D0
+You see the great cats.
+~
+catcage~
+1 -1 793
+D1
+You see the elephants.
+~
+elephantcage~
+1 -1 792
+D7
+As you look, you see a lot of snakes.
+~
+snakepit~
+1 -1 788
+D8
+~
+~
+0 -1 784
+S
+#786
+Zoo Walkway~
+The path continues to the northeast.  To the east you notice animals
+that have hooves for feet.
+~
+7 0 1
+0d0+0 0 0
+D1
+You see the hooved animals.
+~
+cage~
+1 -1 797
+D6
+~
+~
+0 -1 787
+D9
+~
+~
+0 -1 783
+S
+#787
+Zoo Walkway~
+The path ends here.  As you look about, some of the animals catch your
+eye. To the east are ones that look almost human.  To the north are
+big furry creatures that you shouldn't mess with.  As you look to the
+northeast, you notice that the animal does not move (or al least you
+haven't noticed it move).
+~
+7 0 1
+0d0+0 0 0
+D0
+You see the bear cage.
+~
+bearcage~
+1 -1 795
+D1
+You see the monkey cage.
+~
+monkeycage~
+1 -1 796
+D6
+You see the sloth.
+~
+cage~
+1 -1 789
+D9
+~
+~
+0 -1 786
+S
+#788
+Snake Pit~
+As you walk into this cage, you notice all of the snakes.  They range
+from 5 feet long to 10 feet long.  I wouldn't get them mad, they might
+strangle you!
+~
+7 0 0
+0d0+0 0 0
+D8
+You see the walkway.
+~
+cage~
+1 -1 785
+S
+#789
+The Sloth Cage~
+Within this cage is an animal that is hanging in a tree.  As you look
+at it for about five minutes, it still hasn't moved.  While watching 
+it you start to get bored.
+~
+7 0 0
+0d0+0 0 0
+D9
+You see the walkway.
+~
+cage~
+1 -1 787
+S
+#790
+Wolves Den~
+This cage looks like a field with a cave.  As you look about in this 
+area, you notice the dog like animals here.  The one thing that baffles
+you is that they are bigger than normal dogs.
+~
+7 0 0
+0d0+0 0 0
+D8
+You see the walkway.
+~
+cage~
+1 -1 782
+S
+#791
+The Rhinoceros Cage~
+The cage is a concrete slab with a pool in it.  There is a place to
+feed the large animal here.
+~
+7 0 0
+0d0+0 0 0
+D3
+You see the walkway.
+~
+cage~
+1 -1 784
+S
+#792
+The Elephant Cage~
+Here are some trees and a pool.  As you look down, you see some grass
+and some concrete slab.  As you look at the beasts here, you think
+to yourself, maybe I should leave them alone....
+~
+7 0 0
+0d0+0 0 0
+D1
+You see the walkway.
+~
+cage~
+1 -1 785
+S
+#793
+The Great Cats~
+You see a pool and a grassy field.  There is a cave that some of
+the cats walk in and out of.  You might have made a mistake entering
+their lair.
+~
+7 0 0
+0d0+0 0 0
+D2
+You see the walkway.
+~
+cage~
+1 -1 785
+S
+#794
+The Bird Sanctuary~
+Here are many trees.  As you look about in the trees, you see many
+different kinds of birds.  You hear them all chirping as you walk
+into this place.
+~
+7 0 0
+0d0+0 0 0
+D2
+You see the walkway.
+~
+cage~
+1 -1 783
+S
+#795
+The Bear's Cave~
+Walking into this cave, you see a couple types of bears.  They seem 
+not to like that you walked into thier home.  Better get out quick!
+~
+7 0 0
+0d0+0 0 0
+D2
+You see the walkway.
+~
+cage~
+1 -1 787
+S
+#796
+The Monkey Cage~
+Looking about here, you see animals that look like humans.  They are
+all playing in the trees.  They make grunting noises that the others
+seem to understand each other.
+~
+7 0 0
+0d0+0 0 0
+D3
+You see the walkway.
+~
+cage~
+1 -1 787
+S
+#797
+The Hooved Animals~
+In the field you see a couple of animal.  One is eating from the 
+treetops. The other is eating the grass.  They don't seem to notice
+you walk into their home.
+~
+7 0 0
+0d0+0 0 0
+D3
+You see the walkway.
+~
+cage~
+1 -1 786
+S
+#798
+The Porcupines~
+You look about and there isn't that much here except the small 
+animals walking around.  
+~
+7 0 0
+0d0+0 0 0
+D9
+You see the walkway.
+~
+cage~
+1 -1 782
+S
+#799
+Trolley Station~
+A rather diry train/trolley station sits here.  It is hushed with the
+expectancy of the next train arriving.  There is a sign mounted here.
+~
+7 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 761
+E
+sign~
+The price for a ticket is 100 coins.
+~
+S
+$

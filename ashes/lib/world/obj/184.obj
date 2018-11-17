@@ -1,0 +1,118 @@
+#18400
+gold pile~
+a pile of pure gold~
+A mound of pure gold lies here, melted on the rocks.~
+The gold is piled in the corner of the cavern. It contains coins, rings,
+and other golden valuables.
+~
+20 0 1 0
+0 0 0
+30000 0 0 0
+10 1500 0
+E
+~
+~
+#18401
+wagon~
+a horse drawn wagon~
+A wagon is being drawn by a team of four horses here.~
+~
+15 0 0 0
+0 0 0
+30000 0 0 0
+2000 0 0
+E
+wagon~
+This is a teamster's wagon. He and his team travel to far away lands to
+buy goods for resale, such as the wine from Ravensburg.
+~
+#18405
+dagger broken~
+a broken dagger~
+A small bent dagger lays forgotten on the floor.~
+~
+13 0 1 0
+0 0 0
+0 4 1 11
+2 25 0
+E
+dagger~
+A throwing dagger lies here.
+~
+#18406
+grey cloak~
+a grey cloak~
+A grey cloak lies here.
+~
+~
+9 0 1025 0
+0 0 0
+5 0 0 0
+5 200 0
+A
+12 7
+A
+15 2
+E
+cloak grey~
+You see a trackers grey cloak.
+~
+#18407
+vest leather~
+a leather vest~
+A well worn, leather vest lies here.
+~
+~
+9 8400896 9 0
+0 0 0
+2 0 0 0
+8 1000 0
+A
+2 -1
+A
+1 1
+E
+vest leather~
+On closer inspection you see blood stains soaked into the leather.
+~
+#18408
+elven lamprey sword~
+an elven lamprey~
+A tarnished elven lamprey lies here.
+~
+~
+5 8402944 8193 0
+0 0 0
+0 4 3 3
+12 4000 0
+A
+17 -2
+A
+18 1
+E
+sword elven lamprey~
+The edge is chipped, the steel warped, and the grip rough, but you think
+you can still hit something with it.~
+#18409
+sword short shortsword~
+a shortsword~
+A rusted shortsword lies here.~
+~
+5 0 24577 0
+0 0 0
+0 2 4 11
+12 500 0
+E
+sword shortsword short~
+On closer inspection you still see just an ordanary shortsword.
+~
+#18410
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 15 0
+0 0 0
+$

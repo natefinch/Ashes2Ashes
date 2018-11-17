@@ -1,0 +1,164 @@
+CircleMUD v3.0 Shop File~
+#0~
+5126
+5127
+5128
+5129
+-1
+1.7 
+0.5 
+-1
+%s Sorry, but we do not carry such a delicasy, perhaps something else?~
+%s We only sell homemade dishes, sorry but we cannot buy anything.~
+%s We only sell homemade dishes, sorry but we cannot buy anything.~
+%s We only sell homemade dishes, sorry but we cannot buy anything.~
+%s You can't afford such treats, pay up or begone!~
+%s I believe you shall enjoy this emmensely, I'll just need %d coins.~
+%s Oops - %d a minor bug - please report!~
+0 
+0 
+5156 
+0 
+5156 
+-1
+0 
+28 
+0 
+0 
+#1~
+5101
+5105
+5100
+5120
+-1
+1.7 
+0.5 
+5
+6
+7
+-1
+%s We haven't got anytthing like that, try the LIST.~
+%s You haven't got such a treasure, do you think me blind?~
+%s I only buy the finest weaponry, please take that elsewhere!~
+%s I cannot afford such a treasure today, perhaps another time.~
+%s We don't give out credit here! Pay up or you can't have it!~
+%s I'll just need %d coins. Enjoy your new weapon.~
+%s I'll give you %d coins for that, play well and die often.~
+0 
+0 
+5159 
+0 
+5159 
+-1
+0 
+28 
+0 
+0 
+#2~
+5155
+5156
+-1
+1.7 
+0.5 
+1
+15
+19
+13
+8
+-1
+%s I do not carry that in our stock, try somemthing else.~
+%s You don't carry such an item, do you think me a fool?~
+%s I don't buy such rubbish, get that out of here!~
+%s I'm beyond my accounts right now, perhaps I could afford it later.~
+%s You can't afford that! Try something cheaper.~
+%s That'll just be %d coins, enjoy your trip.~
+%s Here's %d coins, have a pleasant journey.~
+0 
+0 
+5145 
+0 
+5155 
+-1
+0 
+28 
+0 
+0 
+#3~
+5145
+-1
+1.7 
+0.5 
+9
+-1
+%s Nothing like that in the store today, perhaps some nice armor?~
+%s You haven't got that piece of armor, perhhaps you misspoke?~
+%s I only buy the finest armors made, you have nothing to interest me!~
+%s I can't afford such a treasure this day, perhaps another time.~
+%s You haven't the money to afford my services, come back tomorrow.~
+%s That'll be %d coins, thank you for your business.~
+%s Here's %d coins, I'll just take that now.~
+0 
+0 
+5148 
+0 
+5148 
+-1
+0 
+28 
+0 
+0 
+#4~
+5110
+5130
+5131
+5132
+-1
+1.7 
+0.5 
+2
+3
+4
+10
+-1
+%s We don't carry any such incantation as that, try something in stock.~
+%s You haven't got such a treasure, do you take me for a doff fool?~
+%s That garbage may have value to others, but my shop sells no such thing!~
+%s My funds are depleted, but perhaps we can do business tomorrow.~
+%s You can't afford my services, begone before I transform you!~
+%s For that, I shall take %d coins, good luck and safe adventures.~
+%s Here's %d coins, such a wonderful bargain you have struck.~
+0 
+0 
+5158 
+0 
+5158 
+-1
+0 
+28 
+0 
+0 
+#5~
+5141
+5142
+-1
+1.7 
+0.5 
+-1
+%s We don't carry such a beverage, try something local.~
+%s I don't buy water from strangers.~
+%s I don't buy water from strangers.~
+%s I don't buy water from strangers.~
+%s You can't afford my drinks, come back when you have money!~
+%s I'll just take %d coins, enjoy your thirst quencher!~
+%s Oops - %d minor bug - please report to an immortal!~
+0 
+0 
+5141 
+0 
+5141 
+-1
+0 
+28 
+0 
+0 
+$~

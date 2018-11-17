@@ -1,0 +1,29 @@
+CircleMUD v3.0 Shop File~
+#0~
+12709
+12710
+12711
+12761
+12763
+-1
+2.0 
+0.3 
+-1
+%s I don't have that item!~
+%s Look again buddy since you don't have that!~
+%s I don't buy those things, try another shop!~
+%s Haven't had time to stop by bank, come back later!~
+%s Go to bank and come back later when you have the gold!~
+%s That cost you %d coins.~
+%s Here are yous %d coins.~
+0 
+1 
+12710 
+0 
+12717 
+-1
+0 
+24 
+0 
+0 
+$~

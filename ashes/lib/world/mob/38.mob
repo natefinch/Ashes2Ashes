@@ -1,0 +1,2122 @@
+#3800
+Villager~
+a villager~
+A villager does villager-type things here.
+~
+You see a normal every-day villager doing the daily things necessary to
+survive.
+~
+4194312 0 0 W2
+3 0 10 1d6+45 1d4+0
+50 275
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+100 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#3801
+king~
+the King~
+The King sits here, looking at you with a royal calm.
+~
+The King sits on his throne with worry creasing his handsome face.  He
+looks hopefully at you and, pushing up his glasses, says, "Please, if
+you are willing to risk your life to rescue my son, I will gladly
+compensate you for the danger, as well as give you the hand of my
+daughter, the princess Chelsea."
+
+~
+4513802 128 1000 W2
+125 40 -25 10d50+30000 1d4+50
+375000 102000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+-250 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3802
+Queen~
+the Queen~
+The Queen sits here, smiling happily.
+~
+You see the smiling visage of the town's queen.  Her dark locks of hair and
+ruby red lips remind you of a fairy tale character.  While she smiles amiably
+at you, you can sense a deep sadness springing from her, no doubt caused
+by the void left inside her when her son was kidnapped.
+~
+4497418 128 1000 W2
+125 40 -25 10d50+30000 1d4+50
+25000 102000
+6 6 2
+14 0 12 12 12 12 0
+0 2 2
+-250 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3803
+princess Chelsea~
+Princess Chelsea~
+Princess Chelsea stands here, looking hopefully into your eyes.
+~
+The princess is quite beautiful, and you are captivated by her dancing,
+violet eyes, as well as her long, lavender hair.  She is dressed in a 
+long white dress which suits her role as princess.  However, on her
+neck, you see a holy symbol denoting her membership in the guild of
+Sanctus.
+~
+4194569 128 1000 W2
+52 40 -5 8d5+3000 1d4+25
+35000 75000
+8 8 2
+17 0 18 18 15 12 0
+10 2 2
+-50 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3804
+highwayman highway high thief~
+the Highwayman~
+You see a highwayman here, waiting for potential victims.
+~
+You see a typical highway robber, except his armor his a collection of
+plates and leather that have been accumulated in his years of thievery.
+Something tells you to move on before he spots you and threatens you at
+swordpoint. ~
+8 0 -350 W2
+6 0 7 15d20+25 1d8+2
+1000 10000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+70 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#3805
+squire~
+a squire~
+A squire stands here, attending his knight's needs.
+~
+You see a scrawny young boy who one day wishes to be a knight.  Within
+his eyes you see the fires of potential, which will one day be realized.
+~
+4194312 0 0 W2
+1 0 10 1d10+30 1d4+1
+50 300
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3806
+page~
+a page~
+A page stands here, waiting to be told what to do.
+~
+You see a page, eagerly awaiting orders.  ~
+4194312 0 0 W2
+1 0 10 1d10+30 1d4+1
+50 300
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3807
+knight realm~
+a knight of the realm~
+A knight of the realm stands here, defending the kingdom.
+~
+You see a large, burly knight who is ready to defend his kingdom with his
+life. You don't want to mess with this man, for fear of your own life.
+He bows his head your way, and smiles amiably.  ~
+4198408 0 0 W2
+5 2 7 2d10+150 1d4+3
+200 5000
+8 8 1
+13 0 13 13 13 13 0
+0 3 2
+70 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#3808
+guard royal knight~
+a royal guard~
+A royal guard stands here, protecting the realm.
+~
+A really big and brawny man stands here, wearing armor and wielding a 
+large halberd.  He will do anything to protect his kingdom and his liege,
+so don't mess with him.  ~
+4206603 0 1000 W2
+13 3 8 15d15+200 1d4+5
+10000 20000
+8 8 1
+15 0 13 13 13 13 0
+20 3 2
+80 0 4 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#3809
+member court~
+a member of the court~
+A member of the court stands here.
+~
+You see a member of the court standing here, looking aloof and snooty.
+You have an urge to bash his face in.  ~
+4194312 0 0 W2
+1 1 9 5d10+20 1d6+0
+500 500
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3810
+shoppekeepe shop keep keepe keeper shoppe~
+the shoppekeepe~
+The shoppekeepe sits here, waiting for your purchase.
+~
+The owner looks very big and very seasoned.  From the stories you have
+heard about him from the villagers, he used to be an adventurer before
+settling down and starting up this store... but his days as an hero have
+not been forgotten, as can be clearly seen from the items in the shop.
+He sits behind the counter waiting for you to pay for your purchases.
+~
+4513802 0 0 W2
+125 40 -100 50d10+30000 10d5+50
+50000 1000000
+8 8 1
+18 100 13 13 13 13 0
+0 3 2
+-1000 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3811
+steelsmith steel smith~
+a steelsmith~
+A steelsmith stands here, taking pride in his workmanship.
+~
+The smith looks like he has spent most of his life working steel.  He is
+very large and intimidating, with a booming voice and a hearty laugh.
+A generous man, who takes pride in his work, and whose prices are fair.
+~
+4513802 0 0 W2
+125 40 -100 50d10+30000 10d5+50
+100000 1000000
+8 8 1
+18 100 13 13 13 13 0
+0 4 2
+-1000 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3812
+sorceress owner magic shop~
+the sorceress~
+A sorceress stands here, scrutinizing you as you browse through her wares.
+~
+You see a middle aged sorceress who still has retained much of her beauty.
+She smiles at you as you enter the store, and tells you to take your time
+looking for the items that you may need.  She looks at you intently, 
+obviously wary of thieves, and you would not want to mess with this lady,
+for the townspeople have spoken of her power.  ~
+4513803 131072 0 W2
+125 40 -100 50d4+30000 1d4+50
+50000 1000000
+8 8 2
+13 0 18 13 13 13 0
+8 2 2
+-1000 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3813
+armorer~
+the armorer~
+The armorer stands here, smiling proudly at her workmanship.
+~
+The armorer stands here, looking pleased that her shop has been visited
+by so many customers.  She looks toughened from the years of her working
+steel, and seasoned from her years of adventuring, which have been the
+gossip among the townsfolk.  Rumor has it that she is good friends with
+the sorceress who runs the magic shop, and that they often collaborate
+to create the most wondrous of armours... one of which she sells openly
+at her shop, the famous assault armor.
+~
+4481035 0 0 W2
+125 40 -100 50d10+30000 5d10+50
+50000 1000000
+8 8 2
+18 100 13 13 13 13 0
+20 3 2
+-1000 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3814
+shopkeeper shop keeper keep woman~
+the shopkeeper~
+The shopkeeper stands here, smiling amiably at you.
+~
+You see before you a friendly shopkeeper who is perpetually smiling at you.
+But in her eyes you see the mark of a fair, yet shrewd business woman.  She
+looks seasoned and from the gossip you hear among the townsfolk, she had
+once led a successful career as a thief.
+~
+4237323 168 0 W2
+125 40 -100 50d20+30000 10d5+50
+375000 1000000
+8 8 2
+13 0 13 13 18 13 0
+7 2 2
+-1000 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3815
+priest holy~
+the holy priest~
+A holy priest stands here, waiting to tend to your needs.
+~
+You see a priest standing here, smiling warmly at you.  From the villagers,
+you have discovered that each of the shop owners here once adventured together,
+and have just recently retired from their adventuring to open shops at this 
+town. The priest had also been one of them... he was the cleric within
+the group.  Now he is just a regular priest, tending this church and selling
+valuable holy items to various adventurers.  All the money will, of course,
+go to charity.  ~
+4513803 1192 1000 W2
+125 40 -100 50d8+30000 10d5+50
+50000 1000000
+8 8 1
+13 0 18 18 13 13 0
+10 2 2
+-1000 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3816
+wolf wild~
+a wild wolf~
+A wild wolf stands here, snarling at you angrily.
+~
+You see before you a rather large, rather hungry-looking wolf.  It seems
+to be waiting for you to make the first move...  ~
+4194312 0 0 W2
+1 0 9 3d8+10 1d4+0
+0 50
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3817
+dog wild~
+a wild dog~
+A wild dog stands here, foaming at the mouth.
+~
+You see a wild dog here, foaming at the mouth and barking at you wildly.
+You think you will keep your distance from this wild creature.
+~
+4194313 0 0 W2
+1 0 10 2d8+8 1d4+0
+0 30
+8 8 0
+13 0 13 13 13 13 0
+6 1 3
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3818
+eagle wild wounded~
+a wild eagle~
+A wild eagle lies here wounded, with an arrow in its wing.
+~
+You see a poor, wild, eagle, who has had the misfortune of being shot
+with an arrow.  You wonder if you should put it out of it's misery.  ~
+4194312 0 0 W2
+1 0 10 3d8+10 1d4+0
+0 100
+1 1 0
+13 0 13 13 13 13 0
+0 1 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3819
+boar wild~
+a wild boar~
+A wild boar snorts here, waiting to impale you on its horns.
+~
+You see a wild boar ahead of you.  You think it'd be a wise decision
+to stay away from its path.  ~
+4194312 0 0 W2
+1 0 10 5d10+20 1d6+1
+0 300
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3820
+thief~
+a thief~
+A thief lurks here, waiting for unsuspecting victims.
+~
+You see an unscrupulous character who is dressed like a bandit.  He is
+wandering around, hiding and sneaking within shadows looking for victims
+to rob.  ~
+4194316 262144 0 W2
+4 3 5 10d8+20 1d4+3
+500 5000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#3821
+imp emerald small~
+an emerald imp~
+A small, emerald imp is here, flapping it's tiny wings.
+~
+You see a tiny imp flapping its wings.  Its emerald color is a good
+camouflage in this dark forest, and you wouldn't have seen it if it 
+hadn't started flapping its wings.  You have heard stories about the
+Demon Lord using imps as his messengers... maybe you shouldn't let 
+this little devil get away.
+~
+4194312 0 -1000 W2
+7 4 4 1d10+20 2d4+4
+0 100
+8 8 0
+3 0 15 12 17 8 0
+0 0 2
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#3822
+godzilla monster dragon~
+Godzilla~
+Godzilla is on a rampage here in the city
+~
+You hear the distant rumble of not so little feet in the distance. Looking
+up you see the largest lizard you've ever seen staring down on you. Having
+teeth like a Tyrannosaurus and the spine plates of a Stegosaurus, this thing
+does NOT look like a monster you'd like to toy around with. Keeping your di
+, you run for life as he lets out a stream of fiery breath.
+~
+4202505 0 0 W2
+13 5 -1 10d15+400 5d1+0
+1000 0
+8 8 1
+18 40 13 13 13 13 0
+15 5 4
+-10 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#3823
+siren~
+the Siren~
+The Siren stands here, singing her sweet song.
+~
+You see a beautiful woman standing on this small island, humming a slow
+melody to herself.  As you look closer, you find yourself captivated by
+her beautiful eyes, and as she starts singing, you find yourself closer
+and closer to falling for the woman's charms...
+~
+4194318 2097152 0 W2
+9 5 2 2d10+200 1d8+2
+5000 10000
+8 8 2
+13 0 13 13 13 13 0
+0 2 3
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#3824
+goblin~
+a goblin~
+A goblin stands here, looking at you with evil intent.
+~
+It's a vicious looking goblin with sharp teeth and sharp claws.  You wonder
+what it's thinking as it looks at you, drooling ichor onto the grass.
+~
+4194312 0 -1000 W2
+3 2 5 10d10+10 1d4+1
+100 9000
+8 8 0
+13 0 13 13 13 13 0
+0 2 2
+50 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#3825
+hobgoblin goblin~
+a hobgoblin~
+You see a hobgoblin here, grinning at you visciously.
+~
+You see a nasty looking creature which eyes you hungrily.  It slowly circles
+around you as if sizing you up and looks like it could easily rip apart a
+normal human being in a matter of seconds.
+~
+4194312 0 -1000 W2
+4 2 5 12d10+30 1d4+2
+150 10000
+8 8 0
+13 0 13 13 13 13 0
+0 3 2
+50 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#3826
+orc~
+an orc~
+A disgusting orc stands here, looking at your weapon greedily.
+~
+An orc stands before you, obviously wanting to kill you for your weapon.  
+You wonder if you should put this creature in its place and be done with
+it. ~
+4194312 0 -1000 W2
+2 1 7 9d10+10 1d5+0
+100 8000
+8 8 0
+13 0 13 13 13 13 0
+0 2 2
+70 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3827
+gargoyle~
+a gargoyle~
+A stone gargoyle sits here, pondering an unknown question.
+~
+You see a large creature which is known as a gargoyle.  They are generally
+quiet creatures that usually do not bother anyone.  They have even been used
+as the embodiment of protection for castles.  You think you'd best leave 
+this one alone.  ~
+4194312 0 0 W2
+3 1 4 8d15+10 1d6+0
+2000 9000
+6 6 1
+13 0 13 13 13 13 0
+0 3 2
+40 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#3828
+dwarf dark~
+a dark dwarf~
+A dark dwarf stands here, seeking his fortune.
+~
+You see a dwarf dressed in dark clothing.  You realize that this is not an
+ordinary dwarf, who are generally polite and kind, though sometimes gruff.
+This one only has greed in his eyes, and looks like he'd kill you just for
+one gold piece.
+~
+4194316 1024 -500 W2
+1 1 8 6d10+20 1d4+1
+300 6000
+8 8 1
+13 0 13 13 13 13 0
+0 1 2
+80 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3829
+elf dark~
+a dark elf~
+A dark elf stands here, hiding in the shadows.
+~
+You see a dark elf who stands there, unseen in the shadows of the forest.
+He looks at you with a menacing sneer on his face and looks pretty mean.
+You wonder if you should move on before he does something drastic.
+~
+4194312 787456 -750 W2
+4 3 3 12d10+30 1d6+1
+2000 12000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+30 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#3830
+beetle earth giant~
+a giant earth beetle~
+A giant earth beetle sleeps here.
+~
+You see a giant earth beetle that looks about the size of a large ox.  You
+wonder if it is wise to disturb its slumber. 
+~
+4194312 0 0 W2
+1 1 8 7d10+20 1d3+1
+100 5000
+4 4 0
+13 0 13 13 13 13 0
+0 3 0
+80 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3831
+lich undead corpse~
+a lich~
+A fearsome lich looks at you with comtempt.
+~
+This creature of the undead does not appreciate you intrusion upon his
+domain. His hollow sockets glow with pinpoints of eerie red light. 
+Having seen untold horrors of many centuries of undead life, his half-
+rotted skull contorts in a sneer, no longer knowing the light of the
+living. As you look his way, he raises a skeletal finger in the air
+calling down the power of the princes of Satan upon you.
+~
+73 1024 -1000 W2
+12 11 -2 10d2+300 1d4+3
+10000 20000
+8 8 1
+13 0 18 18 13 13 0
+8 2 1
+-20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3832
+Igarashi Miya~
+Miya Igarashi~
+Igarashi stands around holding a bike chain in her hand.
+~
+Igarashi, like Kazuya, had somehow ended up wondering into Devil's Wood.
+Not being very used to knights, monsters, and queens, she holds her
+bike chain warily, preparing to strike anything that may strike her back.
+She has long blue hair and honey eyes. She wears her school jacket and
+a pair of blue jeans and a scarf. As you see her take a battle stance,
+you see a hint of worry under that tough exterior of hers.
+~
+4194313 524288 700 W2
+12 6 1 1d4+300 1d4+6
+250 10000
+8 8 2
+16 0 13 8 13 15 0
+19 2 2
+10 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3833
+Kazuya Hasukawa suka suka-chan ya ya-kun~
+Kazuya Hasukawa~
+Kazuya is here with a cloud of misfortune over his head.
+~
+This poor, unfortunate boy had the ill luck to fall in love with a girl who
+ended up marrying his gay brother. Here he stands around with a lost look
+in his eyes, wondering how in the world he ended up in Devil's Wood (must
+be his cosmic misfortune! ^_^ Here he is seen wearing his school uniform and
+carrying around a brief case with yesterday's homework. His red hair is
+tossled about by the wind. What capture you as you look at him are his 
+fuull, red eyes. They gleam with a pureness and gentleness that only a boy
+his age could have.
+~
+4194312 0 1000 W2
+12 6 1 1d4+300 1d4+6
+3000 10000
+8 8 1
+15 0 12 3 18 9 0
+0 2 3
+10 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3834
+Mitsuru Ikeda sempai~
+Mitsuru Ikeda~
+Mitsuru stands here, trying to hide from all the ghosts chasing him.
+~
+You see a handsome, young man standing here, breathing heavily.  His dusty
+blonde hair and violet eyes draw you to him.  Noticing your curious look,
+he smiles broadly at you, greeting you with a curt handshake, and introduces
+himself as Ikeda Mitsuru, the sempai (upperclassman) of Ryoukurin Ryou 
+dorm (Or as the locals like to call it, Greenwood).  He is an amiable
+person and you don't think you'd like to mess with him.
+~
+4194313 0 800 W2
+12 10 2 1d4+300 1d4+6
+2000 10000
+8 8 1
+16 0 16 14 15 18 0
+19 2 0
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3835
+Shinobu Tezuka man~
+Shinobu Tezuka~
+Shinobu is sitting here, meditating upon some great secret.
+~
+You see a young man sitting on the ground here, deep in thought.  He senses
+your questioning look and looks at you with a smile, introducing himself as
+Tezuka Shinobu.  You find his face quite handsome, and his dark hair is
+colored with a strange deep purple tint.  You nod to him and go merrily on
+your way, not wanting to bother this young, thoughtful, yet somehow powerful
+man with your troubles.
+~
+4194312 0 500 W2
+12 4 4 1d4+300 1d4+3
+300 8000
+6 6 1
+16 0 18 18 14 15 0
+0 2 2
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3836
+Shun Kisaragi man woman~
+Shun Kisaragi~
+Shun is standing here, looking around with wide-eyed wonder.
+~
+You see what appears to be a young woman standing here, looking around in
+awe. She notices your strange look and smiles at you amiably.  You are
+pleasantly surprised at her honest beauty and her long, lavender locks 
+capture your attention.  She introduces herself as Kisaragi Shun, and runs
+off somewhere else.  You find yourself wondering about this wonderful
+person, thinking something is peculiar with her...
+~
+4194312 0 1000 W2
+12 4 5 1d4+300 1d4+1
+200 10000
+8 8 1
+13 0 14 13 16 12 0
+0 2 2
+50 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3837
+Tochizawa student~
+Tochizawa~
+Tochizawa stands here, directing his film.
+~
+You see a young man with dirty blonde hair and glasses.  He is standing
+here, furiously directing his film, telling the cast members what they
+should do and where everything should go.  You can feel the burning fires
+of inspiration in this young man.  Looking at him, you wonder what kind
+of strange land you have walked into.
+~
+4194312 0 1000 W2
+12 4 2 1d4+300 1d4+4
+1000 10000
+8 8 1
+15 0 16 12 12 12 0
+0 2 2
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3838
+Doctor dr. hasukawa kazuhiro~
+Kazuhiro Hasukawa~
+Dr. Hasukawa is here, checking up on patients.
+~
+Kazuhiro is the older brother of Kazuya Hasukawa. Very intelligent-
+looking upon first glance, his eyes seem to tell you that he knows 
+something that you don't. Short brown hair frames his almost pale face.
+He pushes his glasses up on his nose and looks your way with an
+acknowledging look.~
+4194314 0 500 W2
+12 5 4 1d4+300 1d4+2
+2000 10000
+8 8 1
+15 0 18 18 12 12 0
+0 2 2
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3839
+Sumire Hasukawa Kitani~
+Sumire Hasukawa~
+Sumire strolls here, on her way to visit her little brother, Kazuya.
+~
+You see a lovely woman with dark lavender hair and eyes.  Her smile seems
+to brighten the day and her voice melts your heart.  She notices your 
+staring gaze, and introduces herself as Hasukawa Sumire, although she
+stumbles a bit as she says the word Hasukawa.  You gather from the ring on
+her finger that she is a newlywed.  She blushes at your perceptiveness and
+nods in the affirmative.  She tells you that her maiden name is Kitani,
+but she was just married recently, and now, she is en route to visiting her
+new brother-in-law, Kazuya.  ~
+4194312 0 1000 W2
+12 5 5 1d4+300 1d4+2
+2000 10000
+8 8 2
+12 0 12 3 12 12 0
+0 2 2
+50 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3840
+Furusawa sempai man~
+Furusawa~
+Furusawa stands here, carrying his motorcycle around.
+~
+You see a handsome man, standing at an intimidating height, and build like
+a brick.  He has brown hair which is slicked back, except for a single 
+elusive lock which falls lightly on his forehead.  Seeing your curious
+looks, he introduces himself as Furusawa, one of the sempai at the Ryokurin
+Ryou dorm, otherwise known as Greenwood.
+~
+4194312 0 800 W2
+12 5 5 1d4+300 1d4+2
+2000 10000
+8 8 1
+18 100 12 12 10 18 0
+0 3 2
+50 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3841
+man young device Aoki Kunihisa~
+Kunihisa Aoki~
+You see a young man here, looking furiously at a strange device.
+~
+You see a young man here, working at a strange looking device.  His wide
+eyes are concentrated upon the light which eminates from the magical
+device which he carries.  Noticing your questioning gaze, he looks up
+from his device and says, "Hi, I'm Aoki Kunihisa, how do you do?"  He
+explains that he is working on the computer graphics for the Devil's Wood
+movie. You look at him dubiously and decide to avoid this obviously
+insane person.
+~
+4194312 0 500 W2
+12 5 6 1d4+300 1d4+2
+2000 10000
+8 8 1
+15 0 18 12 12 12 0
+0 2 2
+60 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3842
+man young device Aoki Kunihisa~
+Hideya Sakaguchi~
+You see a young man here, looking furiously at a strange device.
+~
+You see a young man here, working at a strange looking device.  His wide
+eyes are concentrated upon the light which eminates from the magical
+device which he carries.  Noticing your gaze, he looks up at you and smiles,
+saying, "Good day, I'm Sakaguchi Hideya, what can I do for you?"  He
+explains that he is working on the special effects for the Devil's Wood
+movie. You look at him dubiously and decide to avoid this obviously
+insane person.
+~
+4194312 0 500 W2
+12 5 6 1d4+300 1d4+2
+2000 10000
+8 8 1
+15 0 18 12 12 12 0
+0 2 2
+60 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3843
+man young short hair effeminate gay~
+Yoshiki Watanabe~
+You see a young man here, strolling along happily.
+~
+You see a young man here, with short hair and effeminate features.  He
+walks with an air of lightness and for some reason, you are a bit fearful
+of walking near him.  He smiles at you and says, "Hi, I'm Watanabe
+Yoshiki, pleased to meet you."  You nod in his direction and walk away.
+~
+4194312 0 500 W2
+12 5 6 1d4+300 1d4+2
+2000 10000
+8 8 1
+15 0 16 12 12 12 0
+0 2 2
+60 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3844
+man young short hair effeminate gay~
+Tatsura Fujikake~
+You see a young man here, strolling along happily.
+~
+You see a young man here, with short hair and effeminate features.  He
+walks with an air of lightness and for some reason, you are a bit fearful
+of going to close to him.  He smiles at a distance and says, "Hi, I'm
+Fujikake Tatsura, what's your name?"  You smile warily at him and state
+your name politely, and excuse yourself to an imaginary previous
+engagement. ~
+4194312 0 500 W2
+12 5 6 1d4+300 1d4+2
+2000 10000
+8 8 1
+12 0 16 12 12 12 0
+0 2 2
+60 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3845
+Nagisa Tezuka woman beautiful~
+Nagisa Tezuka~
+You see a beautiful woman here, looking around furiously.
+~
+You see a beautiful woman here, looking around furiously for something.
+She has dark hair, and eyes, and wears some light make-up.  Her dark
+clothes pique your interest, and her perfume is somewhat oily.  As she
+notices your gaze, she looks at you with hard eyes and says, "Where the
+hell is Shinobu?!?!"  You look at her quizzically and one of her
+bodyguards whispers to you, "That's Tezuka Nagisa, you'd better not mess
+with her if you know what's good for you.
+~
+10 0 1000 W2
+12 3 7 1d4+300 1d4+2
+1000 10000
+8 8 2
+12 0 16 7 12 12 0
+0 2 2
+70 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3846
+A man suit~
+a~
+You see a tall, lanky man with dark glasses and a suit.
+~
+You see a tall, lanky man here, with slicked-back hair, a thin mustache,
+and a pair of dark sunglasses.  He is wearing a very nice suit, and looks
+at you with contempt.  you look carefully at him and notice his very
+protective stance near the beautiful woman who also stands here.  As you
+walk by them, you hear the woman say, "A, we need to do something about
+my evil brother!"  ~
+4198410 0 0 W2
+12 4 9 1d4+300 1d4+2
+100 10000
+8 8 1
+13 0 12 12 12 12 0
+0 2 2
+90 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3847
+A man dark glasses~
+B~
+You see a large, muscular man with dark glasses and a suit.
+~
+You see a large, burly man here, with slicked back hair, and very dark
+sunglasses.  He is wearing a very nice suit, and looks at you with a sneer.
+YOu look carefully at him and notice his very protective stance near the
+beautiful woman who is also here.  As you walk by them, you hear the
+woman say, "B! How could you let my brother's wimpy roommate beat you up!?"
+~
+4198410 0 0 W2
+12 4 9 1d4+300 1d4+2
+100 10000
+8 8 1
+13 0 12 12 12 12 0
+0 2 2
+90 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3848
+A man dark glasses~
+C~
+You see a normal looking man here, with dark glasses and a suit.
+~
+You see a relatively normal looking, young man here.  He has dusty blonde
+hair and dark glasses which hide his eyes.  He is wearing a very expensive
+suit and you look at him with a questioning look.  He notices your look
+and says to you, "It's not bad being a bodyguard, the pay is very good." 
+You then notices his protective stance near the beautiful woman who is
+also standing here, as you walk past them, you hear her say, "C!  How could
+you go out and buy cake while I my evil brother came over and harrassed me?"
+~
+4198410 0 0 W2
+12 4 9 1d4+300 1d4+2
+100 10000
+8 8 1
+13 0 12 12 12 12 0
+0 2 2
+90 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3849
+A man dark glasses~
+D~
+You see a short, chubby man here, with dark glasses and a suit.
+~
+You see a short, chubby young man with brown hair and dark glasses.  He
+is wearing a very expensive suit and you wonder what he is doing.  He
+gives you a curt smile, and you notice his defensive stance near the
+beautiful woman who is also standing here.  As you pass them by, you hear
+the woman say, "D!  You miserable excuse for a bodyguard, what do you
+think you were doing when my brother was here?"
+~
+4198410 0 0 W2
+12 4 9 1d4+300 1d4+2
+100 10000
+8 8 1
+13 0 12 12 12 12 0
+0 2 2
+90 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3850
+cockroach bug giant~
+a giant cockroach~
+You see a giant cockroach crawling around here.
+~
+Ewww, it's a humungous cockroach!  You wonder if it's possible to kill this
+thing given it's enormous size.  ~
+4194312 0 0 W2
+1 0 10 1d6+8 1d2+0
+0 15
+8 8 0
+8 0 3 3 3 18 0
+0 1 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3851
+rat giant~
+a giant rat~
+A giant rat looks for scraps of food here.
+~
+You see a giant rat here, rooting through the trash on the floor, looking
+for something to eat.  You look at it with pity, and wonder if you should
+put it out of its misery.  ~
+8 0 0 W2
+1 0 10 1d4+2 1d2+0
+0 20
+8 8 0
+3 0 5 3 14 12 0
+0 0 3
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3852
+cobra snake~
+a cobra~
+A cobra slithers nearby, looking for a victim.
+~
+You see a cobra slithering nearby, and think you should stay away from
+its poisonous bite.
+~
+4194313 0 0 W2
+1 1 10 1d10+10 1d4+0
+0 30
+8 8 0
+3 0 3 3 15 3 0
+6 1 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3853
+boa constrictor snake~
+a boa constrictor~
+A boa constrictor slithers here, waiting to crush its victims.
+~
+You see a long snake, and its body is think and strong.  You'd think you'd
+keep your distance from this snake...
+~
+4194312 0 0 W2
+1 1 9 1d12+20 1d4+1
+0 50
+8 8 0
+15 0 3 3 3 3 0
+0 3 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3854
+coyote wild~
+a wild coyote~
+A coyote is here, looking at you with an evil gleam in its eye.
+~
+You see a coyote lurking about, and its eyes gleam with an evil light,
+looking at you as it drools hungrily.
+~
+4194312 0 0 W2
+2 2 9 4d8+20 1d4+2
+0 100
+8 8 0
+12 0 3 3 12 12 0
+0 1 3
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3855
+hyena laughing~
+a laughing hyena~
+A hyena stalks here, laughing at you.
+~
+You see a laughing hyena here.  Its grin strikes fear in your heart and
+you think you'd better move out of here soon.
+~
+4194312 0 0 W2
+1 1 9 3d10+10 1d4+1
+0 75
+8 8 0
+12 0 5 3 3 12 0
+0 1 3
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3856
+cow milk graze grazing~
+a cow~
+A cow stands here, grazing on the grass.
+~
+You see a large cow here, grazing on the grass, and minding its own 
+business.  You think you'd better leave it be and let it go on with
+its life.
+~
+4194312 0 0 W2
+1 0 10 1d10+2 1d2+0
+0 10
+8 8 2
+14 0 13 3 6 10 0
+0 3 3
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3857
+ant giant~
+a giant ant~
+You see a giant ant crawling along the ground here.
+~
+You see a giant ant here.  It crawls along the ground quickly and seems
+to be looking for something to eat.  You think that you'd better keep
+away from it.
+~
+4194312 0 0 W2
+1 0 10 1d4+0 1d2+0
+0 30
+8 8 0
+16 0 12 3 9 15 0
+0 1 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3858
+beggar wondering poor man~
+a beggar~
+A poor beggar wanders here, looking for something to eat.
+~
+You see a poor beggar here, looking for something to eat.  He looks at you
+with a pleading look at sticks an open hand at you.
+~
+4194312 0 0 W2
+1 0 10 1d8+5 1d4+0
+0 50
+8 8 1
+9 0 12 9 12 12 0
+0 2 2
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3859
+ogre giant~
+an ogre~
+You see a giant ogre here, stomping around the forest.
+~
+You see a giant ogre here.  He looks mean and nasty, and smells as if he 
+hasn't been washed in years.  You think you'd better stay clear of him if
+you don't want to gag on your own vomit.
+~
+4194312 0 0 W2
+6 3 8 10d4+100 1d4+6
+300 8000
+8 8 1
+18 10 3 3 6 16 0
+0 4 2
+80 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#3860
+minotaur large~
+a minotaur~
+You see a large minotaur here, snorting angrily
+~
+You see a large minotaur here, snorting at you.  He looks very big and you
+don't think you can take him.  You wonder what he is doing in this part of
+the woods....
+~
+4194312 0 -1000 W2
+14 5 5 1d4+400 1d4+10
+5000 12500
+8 8 1
+18 0 12 9 8 18 0
+0 4 2
+50 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#3861
+elemental spirit water Udine~
+Udine~
+You see a water elemental here, splashing around happily.
+~
+You see a small spirit floating around in the water happily.  She smiles
+at you and splashes water at you playfully.  She winks at you and says,
+Hi, I'm Udine, the water elemental, how do you do?
+~
+4194314 1024 1000 W2
+15 5 4 15d10+400 1d4+10
+5000 12500
+8 8 2
+15 0 16 16 14 18 0
+0 2 0
+40 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3862
+Ifrit fire elemental spirit~
+Ifrit~
+You see a fire elemental burn here, smiling at you with a sly grin.
+~
+You find yourself looking into the bright, red eyes of a fire elemental.
+It smiles at you with a mischievous grin and winks.  He looks very strong,
+and you doubt you could take him in a fair fight.  He dances around you
+and says, "Heya!  I'm Ifrit!  How do you do?"
+~
+4194314 1024 1000 W2
+15 5 4 15d10+400 1d4+10
+5000 12500
+8 8 1
+16 0 12 7 14 17 0
+0 2 0
+40 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3863
+Sylph elemental wind spirit~
+Sylph~
+You see a wind elemental here, dancing happily in the fog.
+~
+You see a pretty, wind elememtal here, dancing in the thick fog which covers
+this area.  She smiles at you happily and dances around you, patting you on
+the head.  She says, "Hi, I'm Sylph.  Can I help you with anything?"
+~
+4194314 0 1000 W2
+15 8 6 15d10+400 1d4+10
+5000 12500
+8 8 2
+12 0 15 15 18 14 0
+0 2 0
+60 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3864
+Gaia earth elemental~
+Gaia~
+You see an earth elemental here, tending her plants.
+~
+You see a beautiful earth elemental here.  She is watering her plants as
+you walk in and she smiles at you.  "I don't get many visitors here in 
+this old castle.  Is there anything I can do for you?  I'm Gaia, the one
+in charge of the flow of this sandfall."
+~
+4194314 0 1000 W2
+15 8 5 15d10+400 1d4+10
+5000 12500
+8 8 2
+16 0 16 18 9 18 0
+0 2 2
+50 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3865
+Lucid sun elemental~
+Lucid~
+You see a sun elemental here, basking in the warm sunlight.
+~
+You see a small creature which seems to be a sun elemental.  He is here
+laying down on his back and enjoying a sunbath.  He notices your presence
+and smiles at you, "Hi, I'm Lucid.  Would you care to join me in a nice
+sunbath?  The weather's really nice today."  You smile in his direction
+which gets you a warm smile in return.  The sun elemental sleepily shuts
+his eyes and relaxes.  ~
+4194314 1024 1000 W2
+15 8 5 15d10+400 1d4+10
+5000 12500
+5 5 1
+16 0 16 16 9 18 0
+0 2 2
+50 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3866
+Luna moon elemental~
+Luna~
+You see a moon elemental here, basking in the cool moonlight.
+~
+You see a small creature which seems to be a moon elemental.  She is here
+laying down on her back and enjoying a moonbath.  She notices your presence
+and smiles at you, "Hi, I'm Luna.  Would you care to join me in a nice 
+moonbath?  The night's really nice today and I wouldn't mind some company."
+You smile in her direction, which gets you a cool smile in return.  The
+moon elemental shuts her eyes sleepily and is soon in a restful sleep.
+~
+4194314 1024 1000 W2
+15 8 5 15d10+400 1d4+10
+5000 12500
+4 4 2
+16 0 16 16 9 18 0
+0 2 2
+50 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3867
+Gallowin water dragon blue~
+Gallowin~
+A humungous blue dragon sits here, guarding her treasure.
+~
+You see a large dragon here, it has bluish scales and looks at you with
+a suspicious look.  You guess it must be a pet of some sort, by the looks
+of it, since it is chained to the wall and has a collar around it with the
+words, "Gallowin of the water" on it.  Upon closer inspection you can see
+a chest chained to it, and you wonder what could be inside it.
+~
+4200585 128 1000 W2
+17 10 5 10d15+200 1d4+10
+5000 12500
+8 8 2
+15 0 13 13 13 18 0
+14 5 4
+50 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#3868
+Bryst fire dragon red~
+Bryst~
+A humungous red dragon sits here, guarding her treasure.
+~
+You see a large dragon here, it has reddish scales and looks at you with
+a suspicious look.  You guess it must be a pet of some sort, by the looks
+of it, since it is chained to the wall and has a collar around it with the
+words, "Bryst of the fire" on it.  Upon closer inspection, you can see a 
+chest chained to it, and you wonder what could be inside it.
+~
+4200585 128 1000 W2
+17 10 5 10d15+200 1d4+10
+5000 12500
+8 8 2
+15 0 13 13 13 18 0
+12 5 4
+50 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#3869
+Lanstar wind dragon white~
+Lanstar~
+A humungous white dragon sits here, guarding his treasure.
+~
+You see a large dragon here, with white scales.  It looks at you suspiciously
+as you wonder around the room.  You guess it must be a pet of some sort, since
+it is chained to the wall, and has a collar around it, with the words, 
+"Lanstar of the wind" written on it.  Upon closer inspection, you can see
+a chest chained to it, and you wonder what could be inside it.
+~
+4196363 128 1000 W2
+17 10 5 10d15+200 1d4+10
+5000 12500
+8 8 1
+15 0 13 13 16 18 0
+15 5 4
+50 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#3870
+Dinodilos rock dragon black~
+Dinodilos~
+A humungous black dragon sits here, guarding her treasure.
+~
+You see a large dragon here, with black scales.  It looks at you suspiciously
+as you wander about the room.  You guess it must be a pet of some sort, since
+it is chained to the wall, and has a collar around it.  Looking closely, you
+see the words, "Dinodilos of the rock" written upon the collar.  You see a
+chest held against the dragon's breast, as you look on in awe.
+~
+4200459 128 1000 W2
+17 10 5 10d15+200 1d4+10
+5000 12500
+8 8 2
+15 0 13 13 16 18 0
+13 5 4
+50 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#3871
+Burstone mountain dragon grey~
+Burstone~
+A humungous grey dragon sits here, guarding his treasure.
+~
+You see a large dragon here, with grey scales.  It looks at you suspiciously
+as you wander about the room.  You guess it must be a pet of some sort, since
+it is chained to the wall, and has a collar around it.  Looking closely, you
+see the words, "Burstone of the mountain" written upon the collar.  You see a
+chest held against the dragon's breast, as you look on in awe.
+~
+4200459 128 1000 W2
+17 10 5 10d15+200 1d4+10
+5000 12500
+8 8 1
+15 0 13 13 16 18 0
+13 5 4
+50 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#3872
+Rose c'est la vie moon dragon silver~
+Rose c'est la vie~
+A humungous silver dragon sits here, guarding his treasure.
+~
+You see a large dragon here, with silver scales.  It looks at you with
+great suspicion as you wander about the room.  You guess it must be a pet
+of some sort, judging from the chains which bind it to the wall.  Looking
+closely, you see the words, "Rose c'est la vie of the moon" written upon its
+collar.  You see a chest which the dragon hold close to it as well...
+~
+4200459 128 1000 W2
+17 10 5 10d15+200 1d4+10
+5000 12500
+8 8 1
+15 0 13 13 16 18 0
+8 5 4
+50 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#3873
+Omzack thunder dragon gold~
+Omzack~
+A humungous gold dragon sits here, guarding his treasure.
+~
+You see a large dragon here, with golden scales.  It looks at you suspiciously
+as you wander about the room.  You guess it must be a pet of some sort, as
+you can see a collar around it's neck, which reads, "Omzack of the thunder".
+It holds a chest close to it.
+~
+4200459 128 1000 W2
+17 10 5 10d15+200 1d4+10
+5000 12500
+8 8 1
+15 0 13 13 16 18 0
+16 5 4
+50 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#3874
+Zeorymer heavens dragon white blue~
+Zeorymer~
+A humungous white and blue dragons sits here, guarding its treasure.
+~
+You see a large dragon here, with white and blue scales.  It looks at you
+suspiciously as you wander about.  You guess it must be a pet of some sort
+since you see a collar around it which reads, "Zeorymer of the heavens".
+You see it holding a chest close to it, protecting some sort of precious
+treasure.
+~
+4200459 128 1000 W2
+17 10 5 10d15+200 1d4+10
+5000 12500
+8 8 0
+15 0 13 13 16 18 0
+11 5 4
+50 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#3875
+clorets demon lord demonlordclorets~
+Demon Lord Clorets~
+You see the demon lord standing before you, grinning evilly.
+~
+You see a tall man, with long, lavendar hair.  He gives you a malicious smile
+and says, "So, you're the adventurers who have come on behalf of the King.
+Well, since you have made it this far, I will tell you what I am doing.
+Look around you.  These are the sands of time.  There is a spell that will
+make me master of all time, and one of the components is a newborn child born
+on the night of the full moon.  I won't allow anyone to stand in my way!"
+~
+4194315 16777216 -1000 W2
+16 10 1 1d4+400 1d4+10
+10000 15000
+8 8 1
+13 0 18 16 13 12 0
+8 2 2
+10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3876
+ghoul~
+a ghoul~
+A ghoul stands here, guarding its master.
+~
+You see an evil looking ghoul standing here.  It is obviously guarding its
+master and it looks pretty tough.  You wonder what's the best way to deal
+with the undead...
+~
+4194312 0 -1000 W2
+2 3 9 5d8+10 1d4+2
+100 2000
+8 8 0
+13 0 13 13 13 13 0
+0 2 1
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3877
+spectre~
+a spectre~
+A spectre stands here, holding its scythe in an attack position.
+~
+You see an evil looking spectre standing here.  It is obviously guarding
+its master and it looks pretty dangerous.  You wonder what's the best way
+to deal with the undead creature...
+~
+4194312 0 -1000 W2
+3 5 8 7d8+20 1d6+2
+200 4000
+8 8 0
+13 0 13 13 13 13 0
+0 2 1
+80 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#3878
+zombie~
+a zombie~
+A zombie stands here, guarding its master.
+~
+You see an evil looking zombie standing here. It is obviously guarding its
+master and it looks pretty tough.  You wonder what's the best way to deal
+with this undead creature.
+~
+4194312 0 -1000 W2
+3 4 8 6d8+15 1d5+2
+150 3000
+8 8 0
+13 0 13 13 13 13 0
+0 2 1
+80 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#3879
+worm sand sandworm~
+a sandworm~
+You see a disgusting sandworm here, trying to lure you into its lair.
+~
+You see a huge sandworm here.  It tries to suck you into its lair with little
+success.  You think you'd better run away from it as soon as possible, before
+it gets smarter...
+~
+4194312 0 -1000 W2
+5 7 7 7d10+20 1d4+4
+300 6000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+70 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#3880
+Herb adventurer lemon homeless handsome~
+Herb~
+You see an adventurer here, wearing a half-cape and armor.
+~
+You see a handsome adventurer here.  He smiles at you with an honest smile,
+and introduces himself, "Hi, I'm Lemon Herb, the homeless, are you going
+on the quest to rescue the prince too?"  He looks like a formidable foe and
+you don't think you'd like to mess with him.
+~
+4194315 0 1000 W2
+19 7 6 10d15+400 1d4+10
+5000 12500
+8 8 1
+15 0 15 16 14 18 0
+20 2 2
+60 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#3881
+Tino man red retainer~
+Tino~
+You see a red-haired young man here.
+~
+You see a young man here, looking depressed.  He has red hair and bright
+eyes.  You look at him carefully, measuring his character.  He looks up 
+and says, "Hi, I'm Tino, Herb's retainer.  We're on a mission to rescue the
+prince of this realm."  You nod your head and wonder if you should join
+this quest as well.
+~
+4198410 0 1000 W2
+14 5 10 10d15+400 1d4+10
+100 12500
+8 8 1
+15 0 12 3 18 12 0
+0 2 2
+100 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#3882
+boatsman boat man~
+a boatsman~
+A boatsman stands here, waiting for customers.
+~
+You see a big, burly bear of a man who sits here, with an oar in hand.
+He nods in your direction and asks, "If you would like to pay for fare
+across the lake, you're out of luck.  There's a Siren who is there who
+captures anyone who would cross the lake... but I am willing to sell you
+a boat, since I have no use for them if the Siren remains here."
+~
+4194314 1032 1000 W2
+125 40 -20 10d50+30000 1d4+50
+10000 1000000
+8 8 1
+18 100 13 13 13 13 0
+0 3 2
+-200 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3883
+woman wife boat boatsman~
+the boatsman's wife~
+A woman stands here, bowing in your direction.
+~
+~
+4194314 0 1000 W2
+10 5 5 1d4+300 1d4+6
+1000 12500
+8 8 2
+15 0 15 15 12 17 0
+0 2 2
+50 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#3884
+knight red~
+the red knight~
+You see a knight here, dressed in red armor.
+~
+You look at a knight here.  He is dressed in red armor, and he looks very
+strong.  Obviously, he must be one of the many adventurers trying to rescue
+the baby prince that was captured by the Demon Lord.
+~
+4194312 0 1000 W2
+16 8 5 1d4+400 1d4+6
+1000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3885
+knight blue~
+the blue knight~
+You see a knight here, dressed in blue armor.
+~
+You look at a knight here.  He is dressed in blue armor, and looks very
+experienced.  Obviously, he must be one of the many adventurers trying to
+rescue the baby prince that was captured by the Demon Lord.
+~
+4194312 0 1000 W2
+16 8 5 1d4+400 1d4+6
+1000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3886
+knight white~
+the white knight~
+You see a knight here, dressed in white armor.
+~
+You look at a knight here.  He is dressed in white armor, and he looks very
+competent.  Obviously, he must be one of the many adventurers trying to rescue
+the baby prince that was captured by the Demon Lord.
+~
+4194312 0 1000 W2
+16 8 5 1d4+400 1d4+6
+1000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3887
+knight green~
+the green knight~
+You see a knight here, dressed in green armor.
+~
+You look at a knight here.  He is dressed in green armor, and he looks very
+tough.  Obviously, he must be one of the many adventurers trying to rescue
+the baby prince that was captured by the Demon Lord.
+~
+4194312 0 1000 W2
+16 8 5 1d4+400 1d4+6
+1000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#3888
+bard~
+a bard~
+A bard stands here, singing songs of better days
+~
+A bard stands here, singing to a crowd of villagers.  Noticing your arrival,
+he changes his song to that of a legend that you've heard sung before...
+"Seven companions once sought adventure,
+One was a brave knight, willing to risk it all,
+One was a wise priest, strong in his beliefs,
+One was a powerful mage, worldly in her ways,
+One was a cunning thief, quick to help her friends,
+One was a holy warrior, fiercely faithful to her God,
+One was a dark warrior, black in soul, but brilliant in battle,
+One was a cavalier of nature, friend to all that lives,
+The seven found death, and one sacrificed for the six,
+The remaining ones mourned, and created a tribute to their friend,
+A labor of love, a work of art, a memory to honor,
+Mined, cleansed, forged, decorated, blessed, magicked...
+The honor of the fallen friend defeated death,
+and was entrusted to the keeping of nature,
+As a token to life, to remember their lost friend."
+~
+4194312 0 600 W2
+2 3 8 5d8+20 1d4+2
+100 1000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+80 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3889
+man old wise~
+a wise old man~
+You see an old man here, sitting in the sun.
+~
+You see an old man here, who is sitting in the sun, and enjoying the warm
+weather.  He looks up at you and says, "Hi there, youngster, I bet you want
+to hear a story.  Well, the only one that I know of is the one the bards
+have been singing.  But you know what?  It's a true story.  The shopkeepers
+in the town are the remaining six companions.  It's a shame that their friend
+had to die though, it really broke their spirits.  And they locked away
+the tribute to their friend in many different places, so that no one could
+abuse its power, and they even locked it away from the people they gave it
+to, and gave the key to one they knew wouldn't give the key away, or have the
+key taken away from..."
+~
+4194314 0 500 W2
+1 0 10 1d10+10 1d4+0
+0 30
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3890
+Wren-type cyborg~
+Wren~
+A cyborg called Wren wanders about, being gawked by onlookers.
+~
+You have never seen such a man (or whatever it is) wander the streets of 
+Japan (except for Godzilla ^_^) He is donned in black-plated armor that
+looks impervious enough to withstand the force of a nuclear warhead. He
+wields an enormous pulse cannon on one arm which looks like it could take
+down a skyscraper with one hit. People stare in awe and fear at him
+, surprised by his height and sheer strength. Tall and dark, his eyes shine
+with an intense intelligence and calmness. His chistled features are framed
+by a black head gear that comes in contrast with his pale skin. Looking
+in you direction he asks, "Do you know the coordinates to the nearest space
+station?
+~
+4198408 128 456 W2
+26 13 -4 30d20+2 4d5+3
+3000 10000
+8 8 1
+17 0 17 13 13 13 0
+0 3 0
+-40 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#3891
+Parn guild master guildmaster warrior~
+Parn~
+Parn, the warrior guildmaster stands here, judging your form.
+~
+You see the warrior guildmaster here.  His name is Parn, as you have heard 
+his name whispered across the town.  He looks like a fierce warrior, and
+yet, his eyes tell you of a more innocent time.  You have heard that he came
+from an island known as Lodoss, and is only here temporarily.
+~
+4456459 128 1000 W2
+125 40 -20 50d10+30000 1d4+50
+30000 1000000
+8 8 1
+18 0 12 3 15 15 0
+3 2 2
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3892
+Etoh guildmaster guild master cleric~
+Etoh~
+Etoh, the cleric guildmaster stands here, teaching you how to be more spiritual.
+~
+You see the cleric guildmaster here.  His name is Etoh, as you have heard
+his name whispered across the town.  He looks like a very wise cleric, and
+yet, his eyes shine of keen knowledge as well.  You have heard that he is
+a king in a distant land known as Lodoss, be he has been travelling with his
+friends, and is only taking this position temporarily.
+~
+4456459 128 1000 W2
+125 40 -20 50d10+30000 1d4+50
+30000 1000000
+8 8 1
+14 0 15 18 14 12 0
+3 2 2
+-200 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3893
+Slayn guild master guildmaster mage~
+Slayn~
+Slayn, the mage guildmaster stands here, correcting your spellcasting.
+~
+You see the mage guildmaster here.  His name is Slayn, as you have heard
+his name whispered across the town.  He looks like a compentent magician,
+and his eyes tell you that he his a good man.  You have heard that he comes
+from an island known as Lodoss, and is here only as a temporary position,
+before he goes onword with his journeys.
+~
+4456459 16777344 1000 W2
+125 40 -20 50d10+30000 1d4+50
+30000 1000000
+8 8 1
+8 0 18 18 16 6 0
+3 2 2
+-200 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3894
+Woodchuck Wood chuck master guildmaster thief~
+Woodchuck~
+Woodchuck, the thief guildmaster stands here, backstabbing you with a spoon.
+~
+You see the thief guildmaster here.  His name is Woodchuck, and you have
+heard his name whispered across the town.  He looks like a very sneaky 
+individual, but the look in his eyes tell you he is a very loyal companion.
+You have heard that he comes from an island known as Lodoss, and is here
+with his friends only as a temporary stop off before their quest continues.
+~
+4456459 128 1000 W2
+125 40 -20 50d10+30000 1d4+50
+30000 1000000
+8 8 1
+13 0 16 13 18 14 0
+3 2 2
+-200 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3895
+Ghim guild master guildmaster ranger~
+Ghim~
+Ghim, the ranger guildmaster stands here, checking the direction of the wind.
+~
+You see the ranger guildmaster here.  His name is Ghim, and you have heard
+his name whispered among the townspeople.  He is an old dwarf, but you can
+see the wisdom in his eyes.  You have heard that he is just passing by the
+town, and only filling this position temporarily, before he moves onword.
+You have also heard of tales of his death, and wonder what he is doing here.
+~
+4456459 128 1000 W2
+125 40 -20 50d10+30000 1d4+50
+30000 1000000
+1 8 2
+16 0 12 16 14 18 0
+3 1 2
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3896
+Deedlit guild master guildmaster paladin elf~
+Deedlit~
+Deedlit, the paladin guildmaster stands here, giggling at your mistakes.
+~
+You see the paladin guildmaster here.  Her name is Deedlit, and you have heard
+of her from the whispers of the townspeople.  She is an elf, and only here
+temporarily.  While she is really no paladin, she knows of many clerical
+spells, and her natural fighting ability makes her an obvious choice as a
+guildmaster.  You have heard that she is only passing by, and will be moving
+on shortly.
+~
+4456459 128 1000 W2
+125 40 -20 50d10+30000 1d4+50
+30000 1000000
+8 8 2
+15 0 18 12 18 12 0
+3 2 2
+-200 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3897
+Pirotess guild master guildmaster anti-paladin~
+Pirotess~
+Pirotess, the anti-paladin guildmaster stands here, casting a spell.
+~
+You see the anti-paladin guildmaster here.  Her name is Pirotess, and you 
+have heard stories about her from the villagers.  She is a dark-elf, from
+the looks of it, and her knowledge of the dark magics and her fighting ablility
+makes her an easy choice as guildmaster.  No one knows where she comes
+from, and she will probably leave soon, but for now, she is the guildmaster
+and is willing to teach you what you need to know.
+~
+4456459 128 -1000 W2
+125 40 -20 50d10+30000 4d5+3
+10000 1000000
+8 8 2
+15 0 18 13 18 13 0
+3 2 2
+-200 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3898
+wife glutton~
+the glutton's wife~
+The glutton's wife lays on the ground sensually, waiting to be harrassed.
+~
+Taken from Diva's house of pleasure, this woman makes the perfect mate for
+the glutton of punishment. Wagging her tongue in your direction, she waits
+to be punished as she runs her hands up and down her scantily clad body.
+~
+4481034 0 1 W2
+47 10 10 1d8+30000 15d3+40
+0 1
+8 8 2
+3 0 3 3 3 3 0
+0 2 2
+100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3899
+glutton punishment~
+a glutton for punishment~
+A glutton for punishment is here, chopping wood.
+~
+You see a very strange looking man.  He seems to look quite depressed and
+has a very sad look on his face.  He looks at you with imploring eyes, and
+asks you to punish him for his sins.  You wonder if you should do it, because
+he looks like a very strong man, able to take a lot of punishment.
+~
+4251656 0 0 W2
+49 10 6 1d8+30000 15d2+0
+1 1000000
+8 8 1
+3 0 3 3 3 3 0
+0 2 2
+60 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

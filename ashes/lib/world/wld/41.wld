@@ -1,0 +1,1915 @@
+#4100
+The tunnel~
+   Suddenly you feel that the tunnel leads slightly down..  The only 
+exit is to the west, and it leads down..
+~
+41 32781 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 4101
+S
+#4101
+The long tunnel~
+   You are in a long east-west leading tunnel.  The tunnel is quite
+wide at this point.
+~
+41 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4100
+D3
+~
+~
+0 -1 4102
+S
+#4102
+The long tunnel~
+   You are in a long east-west leading tunnel.  The tunnel becomes
+narrow to the west.
+~
+41 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4101
+D3
+~
+~
+0 -1 4103
+S
+#4103
+The long tunnel~
+   You are in a long east-west leading tunnel.  The tunnel is quite
+narrow at this point.  You notice a small hole leading south.
+~
+41 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4102
+D2
+~
+~
+0 -1 4106
+D3
+~
+~
+0 -1 4104
+S
+#4104
+The long tunnel~
+   You are in a long east-west leading tunnel.  The tunnel starts sloping
+down towards the west.
+~
+41 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4103
+S
+#4105
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light.  The cave continues to the south and west.
+~
+41 32776 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 4108
+D3
+~
+~
+0 -1 4106
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4106
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light.  The cave continues to the south and east, to the north i a narrow
+tunnel.
+~
+41 32776 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4103
+D1
+~
+~
+0 -1 4105
+D2
+~
+~
+0 -1 4109
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4107
+The passage~
+   You are in a small passage, it leads south, to the west is a golden
+cave.
+~
+41 32777 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 4113
+D3
+~
+~
+0 -1 4108
+S
+#4108
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light.  The cave continues to the north and west, east from you there is
+a small passage.
+~
+41 32776 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4105
+D1
+~
+~
+0 -1 4107
+D3
+~
+~
+0 -1 4109
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4109
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light.  The cave continues to the south, east and north.
+~
+41 32776 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4106
+D1
+~
+~
+0 -1 4108
+D2
+~
+~
+0 -1 4114
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4110
+The hole~
+   You are standing by a large hole in the floor; when you look down
+into the darkness you feel frightened.
+~
+41 32781 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 4111
+D5
+~
+~
+0 -1 4006
+S
+#4111
+The tunnel~
+   You are in a small tunnel, it leads from east to the west.
+~
+41 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4110
+D3
+~
+~
+0 -1 4112
+S
+#4112
+The tunnel~
+   You are in a larger tunnel, it leads from west to east.
+~
+41 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4150
+D1
+~
+~
+0 -1 4111
+D3
+~
+~
+0 -1 4113
+S
+#4113
+The passage~
+   You are in a passage that leads towards the south.  To the east 
+you see a tunnel.
+~
+41 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4107
+D1
+~
+~
+0 -1 4112
+D2
+~
+~
+0 -1 4116
+S
+#4114
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light.  The cave continues to the north, to the west you see a dark 
+passage.
+~
+41 32776 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4109
+D3
+~
+~
+0 -1 4115
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4115
+The dark passage~
+   You are in a dark passage, that leads east.  In the ceiling you notice
+a small hole, just big enough to pass through.
+~
+41 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4114
+D4
+~
+~
+0 -1 4021
+S
+#4116
+The passage~
+   You are in a passage that leads north-south.  You notice a small
+light to the south.
+~
+41 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4113
+D2
+~
+~
+0 -1 4120
+E
+light~
+Well you can't see where it comes from..
+~
+S
+#4117
+The secret tunnel~
+   You are in a secret tunnel that leads north, to the south you see
+a small chamber.
+~
+41 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4114
+D2
+~
+~
+0 -1 4122
+S
+#4118
+The cave~
+   You are in a light cave, from torches several feet above your
+head fire lights the room.  The cave continues to the west and south.
+To the north a small hole leads to a tunnel.
+~
+41 32776 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4111
+D2
+~
+~
+0 -1 4123
+D3
+~
+~
+0 -1 4119
+S
+#4119
+The cave~
+   You are in a light cave, from torches several feet above your
+head fire lights the room.  The cave continues to the east and south.
+~
+41 32776 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 4118
+D2
+~
+~
+0 -1 4124
+D3
+~
+~
+0 -1 4121
+S
+#4120
+The passage~
+   You are in a north-south leading passage.  To the south you see
+light.
+~
+41 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4116
+D2
+~
+~
+0 -1 4125
+E
+light~
+It nearly is enough to light the passage.
+~
+S
+#4121
+The secret tunnel~
+   You are in a secret tunnel that leads west, you feel evilness
+approaching you as you continue west.
+~
+41 32777 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 4122
+S
+#4122
+The secret chamber~
+   You are in a secret chamber, the room is filled with an evil
+feeling.
+~
+41 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4117
+S
+#4123
+The cave~
+   You are in a light cave, from torches several feet above your
+head fire lights the room.  The cave continues to the north and west.
+~
+41 32776 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4118
+D3
+~
+~
+0 -1 4124
+S
+#4124
+The cave~
+   You are in a light cave, from torches several feet above your
+head fire lights the room.  The cave continues to the east and north.
+To the west a passage leads north.
+~
+41 32776 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4119
+D1
+~
+~
+0 -1 4123
+D3
+~
+~
+0 -1 4125
+S
+#4125
+The passage~
+   You are in a passage, to the east you see a cave.  Light from the
+cave lights up the passage.  To the north the passage leads into
+the darkness..
+~
+41 32776 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4120
+D1
+~
+~
+0 -1 4124
+S
+#4126
+A steeply sloping tunnel~
+As you enter this portion of the tunnel, you slip and almost fall! Getting
+your balance and feeling around with your foot, you determine that this
+particular tunnel slopes very sharply, and you will need to take great care
+in order to avoid going down the quick way. To the north, the tunnel levels
+out, or you may proceed down the slope, deeper into the caves.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4007
+D5
+~
+~
+0 -1 4127
+S
+#4127
+A steeply sloping tunnel~
+Continuing along the treacherous slope, you pause to recover your breath
+and get your bearings. Peering into the distance, you think you can make
+out some light somewhere at the bottom of the slope, but the top is
+completely dark. You may proceed up or down the slope from here.
+~
+41 32777 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 4126
+D5
+~
+~
+0 -1 4128
+S
+#4128
+A steeply sloping tunnel~
+You are standing at the bottom of a steeply sloping tunnel. To the southwest,
+the tunnel opens up into an enormous cave, lighted in some fashion by an
+open pit in the center. You may investigate this cave, or proceed up the
+slope to the darkness beyond.
+~
+41 32777 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 4127
+D9
+~
+~
+0 -1 4129
+S
+#4129
+Entrance to the enormous cavern~
+You are standing in the entrance to an absolutely enormous cavern, deep in
+the heart of Moria. The center of the cavern lies to the south, where you
+see a large, circular hole has been cut in the cavern floor. Apparently
+some sort of lava or magma lies there, because the cavern is rather warm,
+and a dim red light illuminates it. To the northwest, you see the entrance
+to a strange-looking tunnel, barely tall enough to walk through. You may
+also exit the cavern by going northeast.
+~
+41 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4151
+D6
+~
+~
+0 -1 4128
+D7
+~
+~
+0 -1 4130
+S
+#4130
+Entrance to a strange tunnel~
+You are standing at the mouth of an odd-looking tunnel. The tunnel is rather
+short, just barely tall enough for a human to walk through without stooping.
+Listening into the tunnel, you hear a number of odd clicking noises, and you
+wonder what could be making them. The tunnel proceeds to the northwest, and
+to the southeast lies an enormous lighted cavern.
+~
+41 32780 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4131
+D8
+~
+~
+0 -1 4129
+S
+#4131
+A strange tunnel~
+You are traveling down a strange-looking tunnel that is just barely tall
+enough for you to stand upright in. Odd clicking noises seem to be coming
+from further down the tunnel, and as you take a breath, you suddenly notice
+a strange smell in the air...something that reminds you of cinnamon...
+~
+41 32777 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4132
+D8
+~
+~
+0 -1 4130
+S
+#4132
+A strange tunnel~
+You are still proceeding through the strange tunnel. The smell of cinnamon
+is stronger here, and the clicking noises are definitely louder. You strain
+your ears trying to identify the noise, but you cannot seem to recall what
+it is, though it definitely reminds you of something familiar. Up ahead, to
+the northeast, you see a four-way intersection in the tunnel. You may also
+head off to the southwest, where you see an enormous lighted cavern not too
+far away from where you are.
+~
+41 32777 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4133
+D8
+~
+~
+0 -1 4131
+S
+#4133
+Intersection in a strange tunnel~
+You are at an intersection in the strange tunnel. The clicking noises and
+cinnamon smell are both growing more prevalent, but your memory stubbornly
+refuses to divulge where you have heard and smelled these things before.
+To the northeast and southwest, you see a couple of small offshoots of the
+tunnel, more like small caves, and the tunnel continues to the northwest.
+~
+41 32777 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 4135
+D7
+~
+~
+0 -1 4136
+D8
+~
+~
+0 -1 4132
+D9
+~
+~
+0 -1 4134
+S
+#4134
+The guard post~
+You are standing in an offshoot of the strange tunnel. Looking around the
+cave, you are startled by some movement in the back. Your light source
+reflects off of a hard black exoskeleton, and you let out a yelp of horror
+when you suddenly remember where you've heard that clicking noise before...
+~
+41 32777 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 4133
+S
+#4135
+Food storage area~
+This area contains a number of old-looking leather sacks. As you open one,
+from pure curiousity, you gag on the overwhelming smell of cinnamon that
+erupts from the bag. Looking inside, you see a number of disgusting-looking
+white grubs, squirming around frantically under your light source. You
+quickly close the bag and look away.
+~
+41 32777 0
+0d0+0 0 0
+D9
+~
+~
+0 -1 4133
+S
+#4136
+A strange tunnel~
+Continuing through the strange tunnel, you are alarmed to notice that the
+clicking noises are all around you now. Disturbing. The tunnel proceeds
+northwest, or you can go back southeast, where you can still see a glimmer
+of light from the enormous cavern.
+~
+41 32777 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4137
+D8
+~
+~
+0 -1 4133
+S
+#4137
+A strange tunnel~
+You are still walking through the strange-looking tunnel. The smell of
+cinnamon has waned a bit, but you can still hear the clicking noises. It
+dawns on you that they sound rather like insect noises, but from very
+large and numerous insects, judging by the sound. You clutch the handle
+of your weapon nervously. Up ahead, to the northwest, there is another
+four-way intersection, or you can proceed back southeast.
+~
+41 32777 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4138
+D8
+~
+~
+0 -1 4136
+S
+#4138
+Intersection in a strange tunnel~
+You are in another intersection in the strange tunnel. Offshoots of the
+tunnel lead northeast, where an eerie, flickering blue light relieves the
+darkness of the tunnel, and southwest, where the smell of cinnamon is
+powerfully evident. The tunnel also continues northwest and southeast.
+~
+41 32777 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 4140
+D7
+~
+~
+0 -1 4141
+D8
+~
+~
+0 -1 4137
+D9
+~
+~
+0 -1 4139
+S
+#4139
+Food storage area~
+This room is virtually identical to the one further down the tunnel. A
+number of bags here, filled with nasty white grubs that smell strongly of
+cinnamon, lie in wait for the hungry mantis warriors. At the thought, your
+stomach begins to heave and you quickly turn away. You may never eat again!
+~
+41 32777 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 4138
+S
+#4140
+The Loremaster's area~
+You are standing in an offshoot of the very strange tunnel. This place is
+very odd-looking, sort of a cross between a mage's laboratory and an
+anthive. Numerous small insectoid creatures scurry around in glass bottles,
+a large number of vials contain various powders and liquids, and a number
+of vellum scrolls are laying around, covered in an exceedingly odd form of
+writing. Also, a number of bags smelling strongly of cinnamon are scattered
+throughout the room. You feel very uncomfortable standing here, and an
+inner voice suggests that leaving would be a very good idea.
+~
+41 32777 0
+0d0+0 0 0
+D9
+~
+~
+0 -1 4138
+S
+#4141
+A strange tunnel~
+You are continuing down the strange-looking tunnel, which leads northwest to
+southeast. It is very dark here, but the smell of cinnamon appears to be
+fading slowly, though the clicking noises continue full force. To the
+southeast is another intersection in the tunnel, and to the northwest the
+tunnel continues straight into the darkness.
+~
+41 32777 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4142
+D8
+~
+~
+0 -1 4138
+S
+#4142
+A strange tunnel~
+You are standing in a strange tunnel deep underneath the caves of Moria. The
+tunnel proceeds northwest and southeast. The ubiquitous clicking noise seems
+to be getting louder to the northwest, though it is difficult to be sure in
+tunnels such as this one. Far to the southeast, you can still make out a
+point of light from the enormous cavern in that direction.
+~
+41 32777 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4143
+D8
+~
+~
+0 -1 4141
+S
+#4143
+A strange tunnel~
+The strange tunnel continues to the northwest and southeast. The smell of
+cinnamon is definitely reduced here, but the clicking noises are much
+louder. Ahead, to the northwest, you spy another intersection in the tunnel.
+The way your footsteps echo from the walls makes you think you might be
+nearing the end of the tunnel. The thought sounds attractive, actually.
+~
+41 32777 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4144
+D8
+~
+~
+0 -1 4142
+S
+#4144
+Intersection in a strange tunnel~
+You are standing at an intersection in the strange tunnel, with offshoots
+of the tunnel leading to the northeast and southwest. A very odd smell is
+coming from the northeastern area, and the southwestern area seems to be
+one of the sources of the noise you have been hearing. The tunnel also
+continues to the northwest and southeast.
+~
+41 32777 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 4146
+D7
+~
+~
+0 -1 4147
+D8
+~
+~
+0 -1 4143
+D9
+~
+~
+0 -1 4145
+S
+#4145
+A guard post~
+This room appears to be a guard post for the mantis warriors. An odd carving
+in the stone wall serves as a weapons rack, and a number of spears and
+throwing wedges are lying there. Thri-kreen warriors are much more aggressive
+than the average thri-kreen, and you feel anxious to get out of this place
+before one of them discovers your intrusion...
+~
+41 32777 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 4144
+S
+#4146
+The nursery~
+As soon as you enter this room, you notice that it is noticeably warmer and
+moister than the rest of the cave, though how this is accomplished is not
+apparent. The reason for it soon becomes obvious, though. Looking around
+the room, you see dozens of tiny thri-kreen larvae, carefully being tended
+by a number of thri-kreen nurses. The scene makes you feel a sense of
+kinship with the alien thri-kreen for the first time you can remember, and
+you are reluctant to disturb the thri-kreen in the labors.
+~
+41 32777 0
+0d0+0 0 0
+D9
+~
+~
+0 -1 4144
+S
+#4147
+Entrance to the Hivemaster's lair~
+Suddenly, the strange tunnel opens out into a much larger one. The smell of
+cinnamon is strong here, and the air seems warmer for some reason. The
+tunnel continues to the northwest, and you may also go back southeast.
+~
+41 32777 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4148
+D8
+~
+~
+0 -1 4144
+S
+#4148
+Inside the Hivemaster's lair~
+You are definitely in a lair of some sort. The air is growing warmer and
+thicker, and the smell of cinnamon is almost overpowering. The widened
+tunnel makes a sudden turn to the northeast, and the echoes of your
+footsteps tell you that it ends there...
+~
+41 32777 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 4149
+D8
+~
+~
+0 -1 4147
+S
+#4149
+The breeding chamber~
+The tunnel widens into a full-fledged cave here, and abruptly ends. As you
+look around, you see an elaborately furnished room, but quite alien to your
+eyes. A great throne of stone, carved with mind-numbingly odd designs, sits
+at the back of the cave. Upon this throne sits the king of the thri-kreen,
+their Hivemaster. A number of smaller thri-kreen lie around on the floor,
+languishing. These are presumably female, but with thri-kreen, who can tell
+the difference? All present in the room make alarming clicking noises with
+their mandibles as you enter the sacred presence of their Hivemaster. Maybe
+that wasn't such a good idea after all...
+~
+41 32777 0
+0d0+0 0 0
+D9
+~
+~
+0 -1 4148
+S
+#4150
+The hobgoblin chief's room~
+This room is simply a cave that has been furnished with various sorts of
+fiendish torture devices, perfect for hobgoblins. It stinks of fear, blood,
+and feces, and you grow uneasy just being here. Suddenly, you hear movement
+from further within the room, and your hand goes involuntarily to your
+weapon as a grim, alien voice laughs sadistically at you...
+~
+41 32769 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4112
+S
+#4151
+The center of the enormous cavern~
+You are standing in the center of the enormous cavern. Before you, you see a
+large hole in the floor, possibly an old mine shaft. It is obvious that if
+this was a mine shaft, it has been abandoned long ago. As you look down into
+the hole, a blast of raw heat dries your skin. A few hundred feet below you,
+a river of lava flows, warming and lighting the entire cavern. You may go
+north, south, east, or west from here.
+~
+41 32780 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4129
+D1
+~
+~
+0 -1 4153
+D2
+~
+~
+0 -1 4155
+D3
+~
+~
+0 -1 4152
+S
+#4152
+Northwest corner of the enormous cavern~
+You are in the northwest corner of the enormous lighted cavern. To the east
+lies the center of the cavern, where a dim red glow that lights the whole
+area comes from a large hole in the floor. The cavern continues to the south,
+where you think you spy a tunnel leading out.
+~
+41 32780 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4151
+D2
+~
+~
+0 -1 4154
+S
+#4153
+Eastern end of the enormous cavern~
+You are at the eastern end of the enormous lighted cavern. The cavern extends
+to the west, where you see a huge crack in the floor, the northwest, where
+you see the entrance to the cavern from the sloping tunnel, and the south,
+from which a very bad smell is coming.
+~
+41 32780 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4156
+D3
+~
+~
+0 -1 4151
+D7
+~
+~
+0 -1 4129
+S
+#4154
+Southwest corner of the enormous cavern~
+You are standing in the southwestern corner of the enormous cavern, where a
+wide tunnel leads off to the west into total darkness. The cavern also
+continues to the north and east from here.
+~
+41 32780 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4152
+D1
+~
+~
+0 -1 4155
+D3
+~
+~
+0 -1 4157
+S
+#4155
+South end of the enormous cavern~
+You are in the southern portion of the enormous cavern. The cavern continues
+to the north, east, and west, and to the south you see a dark tunnel leading
+further south. This tunnel, unlike the others, looks as if it has been
+worked, and is not natural. However, it is doubtful that humans were involved
+in its construction, as it is barely tall enough for a human to walk upright
+in. The tunnel is very dark, and you feel wary about investigating.
+~
+41 32780 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4151
+D1
+~
+~
+0 -1 4156
+D2
+~
+~
+0 -1 4176
+D3
+~
+~
+0 -1 4154
+S
+#4156
+Southwest corner of the enormous cavern~
+You are in the southwest corner of the enormous lighted cavern. The cavern
+extends to the north and west. To the east, you see a huge tunnel, from
+which an absolutely awful smell is coming. You feel dread well up in your
+bones as you contemplate progressing in that direction.
+~
+41 32780 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4153
+D1
+~
+~
+0 -1 4166
+D3
+~
+~
+0 -1 4155
+S
+#4157
+The dropoff~
+You have walked into the tunnel no more than thirty feet when suddenly your
+foot finds the edge of a cliff. Stopping in a hurry, you shine your light
+source along the area. You appear to be standing on a cliff about sixty or
+seventy feet high, leading down into blackness. Straining your eyes, you
+see a faint glimmer at the bottom of the cliff. You could probably descend
+the cliff without too much trouble, or you can go back east, to the cavern.
+~
+41 32781 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4154
+D5
+~
+~
+0 -1 4158
+S
+#4158
+The water-filled cavern~
+You find yourself in a cavern that is almost completely filled with water.
+It is so deep that you must swim or tread water in order to make any headway.
+You realize that this must have been the glimmer that you saw from the top
+of the cliff. Looking around the place, you see that you can either go back
+up the cliff, or continue west, further into the water-filled cavern, and
+see what can be seen.
+~
+41 32777 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4159
+D4
+~
+~
+0 -1 4157
+S
+#4159
+The water-filled cavern~
+Swimming strongly, you continue down the water-filled cavern. The walls of
+the cave look very unremarkable, and you find it hard to understand why you
+are still here. Still, you have come this far, so perhaps you should keep
+going. The cavern leads back to the east, and to the west, you are able to
+pick out a huge, rounded cavern, also nearly full of water.
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4158
+D3
+~
+~
+0 -1 4160
+S
+#4160
+The huge pool~
+You are in an huge, rounded cavern. You somehow sense that the water is much
+deeper here than in the caverns to the east. Perhaps there is a large hole
+in the bottom of the cave, which lets the water in. There appears to be a
+lot of pale and sickly-looking vegetation covering the walls here, perhaps
+washed up from some other source in the caverns. To the east, you may go
+back to the water-filled caverns, and to the west you notice a slightly
+drier tunnel leading into the darkness.
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4159
+D3
+~
+~
+0 -1 4161
+S
+#4161
+The slightly drier tunnel~
+You are in a slightly narrower tunnel where the water is not quite as high.
+You are able to walk here instead of swimming, but progress is pretty slow,
+and you are getting tired pretty rapidly. The water rises to about waist
+level at some points. To the east, you see a much larger cave with deep
+water, that will necessitate a brief swim, and to the west the drier tunnel
+continues.
+~
+41 32781 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4160
+D3
+~
+~
+0 -1 4162
+S
+#4162
+The slightly drier tunnel~
+You are still slogging along through a tunnel filled waist-deep with water.
+The tunnel bends here, turning to the north, or you can go back east.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4163
+D1
+~
+~
+0 -1 4161
+S
+#4163
+The dark, cold tunnel~
+Woah. Suddenly, the tunnel gets very cold, and darker than any tunnel you've
+ever encountered before. The water has gotten chillier, too, and you find
+yourself shivering and rubbing your hands together. The tunnel continues
+to the north, and to the south you see a bend in the tunnel that should take
+you back to the warmer caverns.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4164
+D2
+~
+~
+0 -1 4162
+S
+#4164
+The dark, cold tunnel~
+You are a bend in the dark, cold tunnel. To the east, you see a large cave.
+You can pick out no details, but your light source reveals that there may
+be something moving in there, several somethings in fact. You may also
+exit to the south, back toward the warmer tunnels.
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4165
+D2
+~
+~
+0 -1 4163
+S
+#4165
+The shrine of the kuo-toa~
+As soon as you enter this area, you realize that it is somewhere you would
+rather not be. Dominating the cave is a huge statue made of limestone, of
+a stunningly beautiful naked woman with the head of a frightful lobster.
+The statue is studded with gemstones, most notably two large emeralds at
+the tips of her antennae. Your palms itch with the desire to acquire these
+priceless stones, and you fail to notice that this room is occupied...
+~
+41 32777 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4164
+S
+#4166
+Inside the huge, smelly tunnel~
+You are inside the huge, smelly tunnel. The smell is putrid, and overwhelming,
+something like rotting flesh. You can barely keep your gorge down as you
+walk down the tunnel. You can continue down the tunnel to the northeast, but
+perhaps it would be better to go back to the cavern, west of you...
+~
+41 32777 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4156
+D6
+~
+~
+0 -1 4167
+S
+#4167
+Inside the huge, smelly tunnel~
+The stench is growing stronger, almost palpable at this point. You have some
+serious doubts about your ability to hold your food down. There is a bend in
+the tunnel ahead, to the northeast, or you can return to the southwest.
+~
+41 32777 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 4168
+D9
+~
+~
+0 -1 4166
+S
+#4168
+At a bend in the huge, smelly tunnel~
+As you reach this point in the tunnel, you hear a scraping noise from further
+down the tunnel that you cannot identify. It sounded like something very
+large, though. A feeling of dread runs up and down your spine. What is in
+this tunnel? Why are YOU in this tunnel? You can go 'round the bend to the
+southeast and investigate, or turn tail and go back to the southwest.
+~
+41 32781 0
+0d0+0 0 0
+D8
+~
+~
+0 -1 4169
+D9
+~
+~
+0 -1 4167
+S
+#4169
+Further down the huge, smelly tunnel~
+You have rounded the bend in the huge tunnel and are now staring down a
+long, wide tunnel leading south. You hear the scraping noises from further
+down the tunnel and your heart skips a beat. Maybe you ought to go back...
+~
+41 32777 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4170
+D7
+~
+~
+0 -1 4168
+S
+#4170
+The tunnel widens~
+The tunnel widens a great deal at this point. It is now so large that your
+light source cannot illuminate both walls at the same time. The smell seems
+to have leveled out a bit, or maybe you are just becoming accustomed to it.
+You can continue south, further down the tunnel, or go north, where the
+tunnel grows narrower, and bends off.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4169
+D2
+~
+~
+0 -1 4171
+S
+#4171
+The wide, smelly tunnel~
+You hear the scraping noises again, and that is not reassuring. It reminds
+you a little bit of huge stones grating together, but there is a stealthy
+quality to it as well. You shudder as you contemplate the possiblities, and
+grip your weapon tightly. The tunnel continues north and south.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4170
+D2
+~
+~
+0 -1 4172
+S
+#4172
+The wide, smelly tunnel~
+You have discovered the source of the foul smell, and your nausea reasserts
+itself with sharp clarity. This portion of the tunnel is simply covered in
+various dead and dismembered humanoid bodies. You notice humans, duergar,
+gnolls, goblins, and even the occassional elf or dwarf. The stench is
+overpowering, and brings tears to your eyes. You notice that the bodies
+are piled especially high on the eastern wall, but you are not sure you
+have the nerve to investigate further. There is a humungous cavern to the
+south, and you hear scraping noises coming from it...
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4171
+D1
+A large pile of decaying humanoid corpses conceals a tunnel.
+~
+tunnel~
+1 -1 4173
+D2
+~
+~
+0 -1 4175
+S
+#4173
+A very narrow tunnel~
+This tunnel has apparently been forgotten by whoever laid the bodies down,
+for the dust on the floor has been undisturbed for years. This tunnel is a
+lot narrower than the one you just left, and it continues to the east.
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4174
+D3
+A large pile of decaying humanoid corpses conceals a tunnel.
+~
+tunnel~
+1 -1 4172
+S
+#4174
+The secret chamber~
+The tunnel dead-ends into a small chamber here, and it looks as if it has
+been furnished, with alchemical vessels and similar accoutrements of the
+practicioners of magic. You wonder what mage would choose to dwell among
+the monsters of Moria, but suddenly you catch some movement out of the
+corner of your eye, and your question is answered for you...
+~
+41 34825 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4173
+D5
+~
+door~
+1 5160 5100
+S
+#4175
+The humungous stinking cavern~
+This cavern is incredibly large, definitely the largest you have ever seen,
+or even heard of. Your light picks out stalactites that must be sixty feet
+long, hanging high above you from the cave ceiling. Suddenly, you hear a
+loud scraping noise behind you, and you turn to face a nine-foot dark green
+monstrosity with tremendous claws and fangs. You fool! You've wandered into
+a lair full of trolls!
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4172
+S
+#4176
+Inside the mineshaft~
+You are inside the tunnel. You notice again that the ceiling is rather low
+when you bash your head quite painfully against it trying to straighten up.
+Your back is not going to thank you for this excursion, you think, rubbing
+your sore head and hunching over. The tunnel resembles a mineshaft, in fact.
+It leads to the south, or you can exit the tunnel to the north.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4155
+D2
+~
+~
+0 -1 4177
+S
+#4177
+Inside the mineshaft~
+Continuing down the mineshaft, you notice that the walls here have marks on
+them, in some sort of strange characters you've never encountered before.
+It looks as if the types of stone in the walls have been categorized and
+labeled accordingly. The shaft continues to the north and south. You can
+see the enormous lighted cavern to the north.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4176
+D2
+~
+~
+0 -1 4178
+S
+#4178
+Inside the mineshaft~
+Still hobbling painfully down the shaft, you notice that it widens at this
+point, and the walls become rougher. Apparently the shaft struck a natural
+cavern here, which is being utilized for something. Unfortunately, the
+ceiling of the cavern is no higher than that of the shaft. The cavern lies
+to the south. You may also continue north, back towards the lighted cave.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4177
+D2
+~
+~
+0 -1 4179
+S
+#4179
+Living quarters~
+You are standing in a large cavern deep below the caves of Moria. Your light
+source picks out a number of bedrolls, pots, and cooking utensils scattered
+across the floor, and a number of sticks of unused firewood. Apparently
+some people are using this area for living quarters. And judging by the
+lack of cleanliness of all this gear, it is a group of miners. The cavern
+continues to the south, west, and east, and to the north you can re-enter
+the mineshaft.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4178
+D1
+~
+~
+0 -1 4181
+D2
+~
+~
+0 -1 4183
+D3
+~
+~
+0 -1 4180
+S
+#4180
+Living quarters~
+You are in the northwest corner of the natural cavern, which extends to the
+east and south from here. A number of leather sacks have been scattered
+around here, probably to carry wood for the cooking fires.
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4179
+D2
+~
+~
+0 -1 4182
+S
+#4181
+Living quarters~
+This is the northeastern corner of the natural cavern. The cavern extends to
+the south and west from here. A number of empty barrels have been left here.
+From the smell of them, they were once full of some very strong beer.
+~
+41 32777 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4184
+D3
+~
+~
+0 -1 4179
+S
+#4182
+Living quarters~
+This is the southwestern corner of the natural cavern, which extends to the
+north and east. A number of smelly copper pots are piled in this corner.
+You refrain from conjecturing on what they are used for.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4180
+D1
+~
+~
+0 -1 4183
+S
+#4183
+Living quarters~
+You are in the southern portion of the natural cavern. This area seems to
+have been left fairly clear of personal effects and other debris. Another
+mineshaft leads south out of the cavern, and the cavern continues to the
+north, east, and west.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4179
+D1
+~
+~
+0 -1 4184
+D2
+~
+~
+0 -1 4185
+D3
+~
+~
+0 -1 4182
+S
+#4184
+Living quarters~
+This is the southeast corner of the natural cavern. A number of maps of the
+caves have been left here, but all of the writing is in the same sort of
+strange characters you saw on the wall of the shaft earlier, and thus they
+are completely useless to you. The cave continues to the north and west.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4181
+D3
+~
+~
+0 -1 4183
+S
+#4185
+Inside the mineshaft~
+This mineshaft is no taller than the other, and you are beginning to consider
+sitting down for awhile and resting your aching back. However, as you enter
+the shaft, you hear noises of clashing metal against rock from further down
+the way, and you decide it wouldn't be prudent. The shaft continues to the
+south, and to the north you see a large natural cavern.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4183
+D2
+~
+~
+0 -1 4186
+S
+#4186
+Inside the mineshaft~
+The mineshaft bends here, continuing to the west. You can also go north.
+More of that odd writing is on the wall here. The metallic noises seem to
+be getting louder as well.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4185
+D3
+~
+~
+0 -1 4187
+S
+#4187
+Inside the mineshaft~
+Your back is really beginning to kill you.
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4186
+D3
+~
+~
+0 -1 4188
+S
+#4188
+Before the cave~
+You are standing in a mineshaft with a low ceiling. Apparently the shaft ran
+into another natural cavern here, to the south. A wide arch has been hewn
+into the south wall, allowing access to the cavern. Those metallic clashing
+noises are definitely louder, but they are coming from the west, where the
+mineshaft continues into the darkness, rather than from the south. As you
+debate your next move, your light source catches the glint of metal from
+inside the cavern to the south. Interesting.
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4187
+D2
+~
+~
+0 -1 4189
+D3
+~
+~
+0 -1 4193
+S
+#4189
+The equipment room~
+You are in another natural cavern below the caves of Moria. This one has
+been discovered and utilized by miners, it seems, since it is full of
+mining-related equipment, everything from picks and shovels to a number of
+brand-new spirit levels. Pretty unexciting, for the most part. The cavern
+continues to the south and east, and to the north you see a mineshaft
+leading out of the cavern.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4188
+D1
+~
+~
+0 -1 4190
+D2
+~
+~
+0 -1 4191
+S
+#4190
+The equipment room~
+You are in the northeast corner of the cavern. Nothing but mining equipment
+and more mining equipment. Looking a bit more closely, you realize that
+this stuff was definitely not fashioned for human hands. It is rather small,
+but made of some sort of dull, heavy metal. The cavern continues to the
+south and west.
+~
+41 32777 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4192
+D3
+~
+~
+0 -1 4189
+S
+#4191
+The equipment room~
+You are in the southwest corner of the cavern. This area contains a small
+wooden table and a short stool. Upon the table are a thick sheaf of paper,
+a number of quill pens, and a couple of bottles of ink. The papers appear
+to contain diagrams relating to mining, but since you understand neither
+the language they are written in, nor mining, they are useless to you. The
+cavern continues to the north and east.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4189
+D1
+~
+~
+0 -1 4192
+S
+#4192
+The equipment room~
+This is the southeastern corner of the large cavern. A number of rocks have
+been dropped here, probably samples from various places in the mine. All
+you can really tell about them is that they are, in fact, rocks. The large
+cavern continues to the north and west.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4190
+D3
+~
+~
+0 -1 4191
+S
+#4193
+Inside the mineshaft~
+This place is definitely beginning to get to you. You now have a headache
+to go with your backache, due to the continuous, rhythmic clash of metal
+on stone, coming from further down the shaft, which continues east and
+west from here.
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4188
+D3
+~
+~
+0 -1 4194
+S
+#4194
+Before the main deposit~
+As you enter this portion of the shaft, you feel certain that the noise is
+coming from the cavern directly ahead of you, to the west. You get a sudden
+urge to pull a weapon and destroy the source of your pounding headache, but
+you can still continue east if you decide to restrain yourself.
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4193
+D3
+~
+~
+0 -1 4195
+S
+#4195
+The main deposit~
+As you enter this cave, the ringing sound of metal on rock becomes almost
+too much to bear. Looking around, you see a large group of short, broad
+people chipping away at the stone with picks. They appear to be dwarves,
+but they have different complexions from the dwarves you have encountered
+before. As your light source illuminates the room, some of them cry out in
+pain and drop their tools. At the sound of this, another group of them
+decide to rush you. Whoops...
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4194
+D2
+~
+~
+0 -1 4196
+D3
+~
+~
+0 -1 4198
+S
+#4196
+The main deposit~
+This appears to be the main deposit of whatever metal or mineral these odd-
+looking dwarves are searching for. The cave has been greatly enlarged here,
+and bulges and curves in odd places, presumably to follow the seam. As you
+enter the area, a number of the tough-looking fellows snarl at you and
+raise their tools threateningly. Maybe you should leave.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4195
+D3
+~
+~
+0 -1 4197
+S
+#4197
+The main deposit~
+This portion of the cavern looks to have been mined out, as there are no
+miners working on it currently, and the cave wall is covered in those odd-
+looking markings you have noticed elsewhere. The cavern extends both north
+and east, and you see a number of the miners hard at work in both places.
+~
+41 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4198
+D1
+~
+~
+0 -1 4196
+S
+#4198
+The main deposit~
+You appear to be in the main deposit of whatever these strange dwarves are
+mining. A number of them are hard at work now, their tools clanging against
+the wall with a harsh, ringing sound. They do not appear pleased to see you,
+and as you eye their massive muscles in their solid frames, you begin to
+think that it might be best to indulge them. You can leave to the east,
+south, or west.
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4195
+D2
+~
+~
+0 -1 4197
+D3
+~
+~
+0 -1 4199
+S
+#4199
+A new tunnel~
+It appears that the dwarves have started a new tunnel here, to follow the
+seam. A smaller group of miners are hard at work, and a dwarf somewhat larger
+than the rest is shouting orders at them in a harsh, guttural language. As
+your light source brightens the room, the workers cry out and falter, and
+the larger dwarf turns to face you, hate in his pupilless grey eyes...
+~
+41 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4198
+S
+$

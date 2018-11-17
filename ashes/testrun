@@ -1,0 +1,3 @@
+rm test/syslog.test
+bin/circle -q -m -d test 7654 >> syslog.test 2>&1
+mv syslog.test test

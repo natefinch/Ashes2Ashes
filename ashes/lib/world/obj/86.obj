@@ -1,0 +1,488 @@
+#8600
+piece tarrasque carapace~
+a 3' x 5' piece of Tarrasque carapace~
+A large piece of an incredibly hard carapace lies here.~
+~
+9 8548368 513 0
+0 0 0
+18 0 0 0
+20 20000 0
+A
+18 2
+A
+17 1
+E
+piece tarrasque carapace~
+This chunk of carapace is jagged and sharp, as a result of the fact
+that the only way it could come off the Tarrasquewas for the creature's
+own immense weight to crush it's carapace when it died. Too bad that
+the carapace is so nearly indestructible, or it could be made into a
+truly legendary shield. If only you knew of a good enough armor-smith.
+~
+#8601
+tarrasque shield carapace rimmed mithril~
+a Tarrasque carapace shield, rimmed with mithril~
+A greenish-brown shield, with a silvery-looking rim, lies here.~
+~
+9 10014976 513 0
+0 0 0
+15 0 0 0
+15 25000 0
+A
+16 -5
+A
+11 15
+E
+tarrasque shield carapace rimmed mithril~
+This shield is made from the carapace of the legendary Tarrasque. It
+was forged in fires blessed by Moradin, and crafted by the skilled hand
+of Buster Bracer, foremost of dwarven armor-smiths. It seems strong
+enough to stand up to the impact of a meteor! (you'd still get crushed,
+but the shield would most likely be fine)
+~
+#8602
+writhing coils pure magic~
+Writhing coils of pure magic~
+Several coils of pure magical engery writhe on the ground.~
+~
+11 950361 4097 0
+0 0 0
+0 0 0 0
+1 200000 0
+A
+13 4
+A
+10 25
+E
+writhing coils pure magic~
+   Mystra is the Godess of Magic. She is able to draw her power directly
+from the Weave itself, in the form of pure magical energy. Any spellcaster
+would kill to be able to derive his power so directly.
+~
+#8603
+gown magic pure white~
+a white gown of pure magic~
+A shimmering white gown floats in the air, empty.~
+~
+9 966745 9 0
+0 0 0
+6 0 0 0
+0 250000 0
+A
+13 5
+A
+10 30
+E
+gown magic pure white~
+   This shimmering white gown is made of magic taken directly from
+the Weave by Mystra. It is less a physical object than a manifestation
+of Mystra's power in concealing her divine form in a mortal-seeming
+fascade.
+~
+#8604
+cyrinishad book lies~
+the Cyrinishad, the Book of Lies~
+A leather-bound tome, emblazoned with thousands of tiny sunbursts
+and having a sentient skull on the cover, lies here...it must be read.~
+~
+3 8846024 16385 0
+0 0 0
+50 4 4 64
+10 1000000 0
+A
+18 4
+A
+17 4
+E
+cyrinishad book lies~
+  This is the life story of Cyric, God of Death, Murder, Lies, Tyranny,
+etc, told by the god himself. As you read the book you learn of the
+hypocrisy of Truth and Honor, and the value of taking control over your
+own Fate. The more you read of the book, the more you believe in what
+the book is telling you. That's the trap...it's too late for you now. The
+magic of the Cyrinishad is powerful enough to warp the mind of even a
+god. You try to put the book down, but as the words on the page burn
+themselves into your very soul, you find that you no longer have the
+willpower.
+~
+#8605
+armor inquisitor inquisitor's holy~
+(Un)Holy Inquisitor's Armor~
+A huge suit of armor with nasty spikes and sharp edges lies here.~
+~
+9 8712344 9 0
+0 0 0
+18 0 0 0
+120 40000 0
+A
+13 -40
+A
+24 5
+E
+armor inquisitor inquisitor's holy~
+  This suit of Inquisitor's armor, along with eight others, was built by
+Gond to outfit Cyric's "Holy" Inquisitors. The armor itself stands roughly
+nine feet tall, and is bolted into the body, with springs replacing muscles
+and mechanisms enhancing the senses. The suit completely repels
+all magic, and is all but indestructible -- even the sword Godsbane was
+unable to penetrate it.
+~
+#8606
+gun gondgun arquebus~
+an arquebus~
+A primitive gun is lying here, a hazard to anyone around.~
+~
+5 24 8193 0
+0 0 0
+0 1 35 12
+15 29000 0
+A
+18 4
+A
+17 -4
+#8607
+wand azuth azuth's~
+Azuth's Wand~
+A wand floats in the air, nearly bursting with raw power.~
+~
+3 0 16385 0
+0 0 0
+50 20 20 26
+1 250000 0
+#8608
+helm helm's gauntlet unsleeping eye~
+Gauntlet of the Unsleeping Eye~
+A gauntlet with a depiction of an eye on the palm, lies here.~
+~
+9 9336640 129 0
+0 0 0
+10 0 0 0
+15 350000 0
+A
+18 2
+A
+11 20
+E
+helm helm's gauntlet unsleeping eye~
+  This gauntlet is worn by Helm, God of Guardians. The eye shown on
+the palm is his holy symol...the eye that never sleeps. Helm uses the
+gauntlet as his only weapon, and it's the only one he needs.
+~
+#8609
+ray rays first sun sunlight~
+the First Rays of Morning Sunlight~
+A ray of sunlight first peeks over the horizon.~
+~
+1 574729 16385 0
+0 0 0
+0 0 -1 0
+0 10000 0
+A
+13 4
+A
+7 10
+#8610
+featureless mirrored mirror mask~
+a Featureless, Mirrored Mask~
+A globe-like mirrored mask lies here, nearly hidden from view.~
+~
+9 426304 17 0
+0 0 0
+5 0 0 0
+5 100000 0
+A
+18 2
+A
+13 4
+E
+featureless mirrored mirror mask~
+  This mirrored mask is worn by Leira, and copies are worn by her
+priests. The mask keeps the wearer's facial features completely hidden
+and alter's the wearers voice to one which is generic and echoing, 
+reveraling nothing about the wearer at all. When worn with the magical
+vestments of Leira's clergy, which can obscure height and build, the
+wearer could be anything beneath the robes and mask.
+~
+#8611
+wrist sheath concealed~
+a concealed wrist sheath~
+A small wirst sheath with leather straps lies here.~
+~
+15 9351168 4097 0
+0 0 0
+8 0 0 0
+3 2000 0
+A
+17 2
+A
+18 2
+E
+wrist sheath concealed~
+  This sheath can easily conceal a dagger in it, and can be worn under
+the sleeves of a shirt without drawing attention. The dagger in the sheath
+is easily retrievable.
+~
+#8612
+dagger thin~
+a thin dagger~
+A thin dagger lies here, unsheathed.~
+~
+5 8196 8193 0
+0 0 0
+0 9 3 11
+2 150 0
+#8613
+book true life cyric~
+"The True Life of Cyric" by Oghma~
+A book detailing the true life of Cyric, lies here.~
+~
+2 540952 16385 0
+0 0 0
+50 67 65 52
+10 10000 0
+A
+3 3
+A
+4 3
+E
+book true life cyric~
+  This is the story of Cyric, once a pathetic orphaned thief, now God
+of Strife, Tyranny, Lies, Death, etc. In order to counteract the lies that
+Cyric put forth in his "Cyrinishad," Oghma began the writing of the true
+version of Cyric's life. Whereas Cyric used magic to distort the mind
+of anyone reading his book, the "True Life" is not inherently magical.
+~
+#8614
+potion elixer youth~
+an elixer of youth~
+A sweet-smelling potion lies here.~
+~
+10 64 1 0
+0 0 0
+50 54 54 54
+2 5000000 0
+E
+potion elixer youth~
+A small label reads: Garuanteed, or your life is refunded.
+~
+#8615
+thunder cloud thundercloud~
+a Thundercloud~
+A devestating thunderstorm is brewing here.~
+~
+9 8581248 1025 0
+0 0 0
+2 0 0 0
+15 20000 0
+A
+17 1
+A
+18 3
+E
+thunder cloud thundercloud~
+   This storm is very powerful, but even the most destructive of storms
+won't last forever.
+~
+#8616
+charm lightning~
+a Lightning Charm, crackling with energy~
+A solid piece of lightning writhes around on the ground, sparking.~
+~
+9 8532481 5 0
+0 0 0
+3 0 0 0
+1 250000 0
+A
+17 2
+A
+18 2
+#8617
+armor battle battlearmor war wargod god~
+the Battle Armor of the War God~
+A huge, nasty, spiked, barbed, bladed suit of armor awaits a berserker!~
+~
+9 8810754 9 0
+0 0 0
+16 0 0 0
+130 2500000 0
+A
+17 2
+A
+18 2
+E
+armor battle battlearmor war wargod god~
+  This suit of armor is fit to be used by Tempus himself (and was until
+it was taken from him). It is designed to protect the wearer as well as
+inflict damage on any opponent within reach. Anyone messing with a
+warrior in this armor is going to get a bit bloody.
+~
+#8618
+chains chain duty~
+Chains of Duty~
+A heavy chain lies here.~
+~
+9 8402976 4097 0
+0 0 0
+8 0 0 0
+20 1000 0
+A
+11 30
+A
+12 30
+E
+chains chain duty~
+  Though they cannot be seen, these chains of duty bind Torm to each
+of the other gods, even the evil ones. The more lawful or good the deity,
+the more strongly the chain binds Torm to the god. As with any type of
+responsibility, Duty carries with it both rewards and disadvantages.
+~
+#8619
+luckiest charm lucky~
+the Luckiest Charm~
+A charm lies here, lucky you!~
+~
+10 0 5 0
+0 0 0
+50 1 66 34
+4 20000 0
+A
+19 -5
+A
+23 -5
+#8620
+ring truth~
+the Ring of Truth~
+You thought you heard the ring of truth in what someone just said.~
+~
+9 3347 3 0
+0 0 0
+2 0 0 0
+5 200000 0
+A
+10 30
+A
+11 30
+E
+ring truth~
+  The Ring of Truth is an intangible quality interpreted by a listener to
+mean that whoever is talking is telling the truth. The one that Tyr wears
+is mostly decorative, since he can always tell a lie from the truth.
+~
+#8621
+blanket killing frost~
+a blanket of killing frost~
+The ground is frosted over here.~
+~
+11 311809 1025 0
+0 0 0
+0 0 0 0
+12 350000 0
+A
+18 2
+A
+10 30
+#8622
+new redone DMG guide book dungeon master~
+the new, redone Dungeon Master's Guide~
+One of those new Dungeon Master's Guides is here, being ignored.~
+~
+11 311296 16385 0
+0 0 0
+0 0 0 0
+2 20 0
+A
+13 2
+A
+10 15
+E
+new redone DMG guide book dungeon master~
+  This is one of those silly-looking, new, cartoon-colored AD&D reference
+books. You'd probably much rather have one of the older ones, but this
+will have to do
+~
+#8623
+2nd edition DMG guide book dungeon master~
+the 2nd Edition Dungeon Master's Guide~
+One of the old reliable second edition AD&D reference books is here.~
+~
+11 311296 16385 0
+0 0 0
+0 0 0 0
+2 100 0
+A
+13 3
+A
+10 20
+E
+2nd edition DMG guide book dungeon master~
+  Ahhh, you're lucky you have one of these things. If you hadn't gotten
+this version of the DMG, you might have to settle for one of the new,
+cartoonish ones. This one still has those cool pitcures that we all know
+and love.
+~
+#8624
+1st edition DMG guide book dungeon master~
+a 1st Edition Dungeon Master's Guide~
+WOW! Someone left a 1st Ed. Dungoen Master's Guide lying around.~
+~
+11 311296 16385 0
+0 0 0
+0 0 0 0
+2 30000 0
+A
+13 4
+A
+10 30
+E
+1st edition DMG guide book dungeon master~
+  Count yourself among the lucky few to own one of these classics.
+While this old standby lack the color illustration and updated rules of
+the 2nd edition version, there can be no doubt that this is the ultimate
+reference book. I mean, where else can you find a list of common items
+found in an average torture chamber?
+~
+#8625
+pool water large~
+a farily large pool of water~
+A fairly large pool of water serves as a source of fresh water for the nomads.~
+~
+23 0 0 0
+0 0 0
+200 200 0 0
+200000 0 0
+#8697
+key mortal realms~
+a key to the mortal realms~
+A key that could get you home is lying here.~
+~
+18 4 1 0
+0 0 0
+0 0 0 0
+1 0 0
+#8698
+key~
+a key you shouldn't have~
+~
+~
+18 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#8699
+tablets fate tablet~
+the Tablets of Fate~
+Two Tablets covered in arcane runes lie here.~
+~
+18 68 1 0
+0 0 0
+0 0 0 0
+10 0 0
+E
+tablets fate tablet~
+   Upon these tablets are written the powers and responsibilities of each
+god and goddess of the Realms. When these tablets were stolen by
+Myrkul and Bane (now both dead), Ao, the overgod cast the gods down
+from the heavens, and said that none would re-enter the planes unless
+they carried both tablets.
+~
+$

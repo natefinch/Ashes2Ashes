@@ -1,0 +1,44 @@
+CircleMUD v3.0 Shop File~
+#<num>~
+<item num 1>
+<item num 2>
+<item num 3>
+  .
+  .
+  .
+<item num n>
+-1
+<Profit when selling (>= 1.0)>
+<Profit when buying (<= 1.0)>
+<type 1>  [namelist 1]
+<type 2>  [namelist 2]
+<type 3>  [namelist 3]
+  .
+  .
+  .
+<type n>  [namelist n]
+-1
+<Message When Item to buy is non existing>~
+<Message When item trying to sell is non existing>~
+<Message When shop does not buy offered item>~
+<Message when shop can't afford item>~
+<Message when player can't afford item>~
+<Message when successfully buying an item (price is %d)>~
+<Message when selling an item (price is %d)>~
+<Temper (-1 none, 0 puke, 1 smoke joint)>
+<Shop Bitvector (1 fight OK, 2 money in bank)>
+<Shop Keeper Mobile Number>
+<With Who Bitvector (1 !good, 2 !evil, 4 !neutral)>
+<Shop Room 1>
+<Shop Room 2>
+<Shop Room 3>
+   .
+   .
+   .
+<Shop Room n>
+-1
+<Time when open start 1>
+<Time when open end 1>
+<Time when open start 2>
+<Time when open end 2>
+$~

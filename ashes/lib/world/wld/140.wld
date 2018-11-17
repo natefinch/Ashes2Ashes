@@ -1,0 +1,1760 @@
+#14000
+Entrance to a Large Mansion~
+You appear on the steps of a large mansion with strange and intriguing
+lights in the windows.  You can go north to the door of the mansion or go
+back to the south through the Portal!
+A sign catches your eye!  It reads....
+WARNING!!!!  DO NOT GO IN HERE IF UNDER LEVEL 100!!!
+~
+140 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 14001
+D2
+~
+~
+0 -1 10302
+S
+#14001
+Door to a Large Mansion~
+This is the front door to the mansion of Professor Xavier, and the common
+home/headquarters for those Uncanny X-Men.  Your curiosity is bubbling
+but you also fear what you may find!
+~
+140 0 0
+0d0+0 0 0
+D0
+~
+Door~
+1 -1 14002
+D2
+~
+~
+0 -1 14000
+S
+#14002
+Main Hall of the Xavier Mansion~
+It is a really large entrance foyer that you have walked into, it gives those
+entering time to put away their coats, sticks, weapons, boots, and the like
+It has stairs going up in front of you and the hall continues east and west.
+~
+140 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14003
+D1
+~
+~
+0 -1 14004
+D2
+~
+The Door~
+1 -1 14001
+D3
+~
+~
+0 -1 14011
+S
+#14003
+Stairway~
+A spiraling staircase leading to the second floor, nothing to spectacular 
+about this particular staircase, but you better watch your step, there's no
+telling what kinda surprises the X-Men could have up their sleeves.
+~
+140 4 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14002
+D4
+~
+~
+0 -1 14042
+S
+#14004
+North-Eastern Hall of the Mansion~
+A extravagant hall with pictures and murals of great warriors but they are
+somehow different, almost mutated.  the hall continues north and there is a
+door to the east!
+~
+140 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14006
+D3
+~
+~
+0 -1 14002
+S
+#14005
+North-Western Hall of the Mansion~
+More intriguing pictures line the walls and battles of old appear to decorate
+the already lavish walls that appear to have a marble look to them!
+~
+140 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14008
+D3
+~
+~
+0 -1 14006
+S
+#14006
+Before the Dead End~
+More intriguing pictures line the walls and battles of old appear to decorate
+the already lavish walls that appear to have a marble look to them!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14007
+D1
+~
+~
+0 -1 14005
+S
+#14007
+Dead-End~
+It is a end to the hall this way, perhaps it would be better to not get cornered in by anything in this huge house!
+~
+140 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14006
+S
+#14008
+North-Western Hall of the Mansion~
+This hall just seems to go on endlessly but you swear you can smell something
+cooking, you can almost smell the spices!!!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14009
+D3
+~
+~
+0 -1 14005
+S
+#14009
+Outside the Kitchen~
+The hall does have an end!!  And its by the kitchen...you can hear
+someone complaining about trying to clean up Gumbo!!!!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14010
+D3
+~
+~
+0 -1 14008
+S
+#14010
+The Kitchen~
+You are standing in a space age kitchen that has become a disaster area.  There
+is crap lying everywhere.  Pots and pans are strewn about the floor, as well
+as chunks of whatever is being cooked.  As you survey the room closely, you
+realize that a man is cooking here, and cussing as you have never heard.
+~
+140 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14009
+S
+#14011
+West of the Main Hall~
+There are exits to the north, east and west.  To the east is the main hall,
+north takes you through another hallway, and the west you hear some vague
+noise of maybe a tv.
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14025
+D1
+~
+~
+0 -1 14002
+D3
+~
+~
+0 -1 14012
+S
+#14012
+Hallway in the Mansion~
+The hallway goes east and west, a common direction you have noticed.  Nothing
+is really standing out other than the fact this place is REALLY BIG!!!!
+You hear noise to the west, someone arguing about the remote or something.
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14011
+D3
+~
+~
+0 -1 14013
+S
+#14013
+Intersection in the Hall~
+You can go either north or west from here, you can hear those ramblings to
+the west getting louder and you wonder what is going on here.  Your curiosity
+is overwhelming!!!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14019
+D1
+~
+~
+0 -1 14012
+D3
+~
+~
+0 -1 14014
+E
+bookshelf~
+You see rows and rows of classical books.  One book seems to stand out among
+the others.  It is called the CURRENT EXPLOITS of the XMEN.  Pull to enter.
+whoa, a clue to the secret test lab and rec areas of the mutants.
+~
+E
+painting~
+WOW, HOLY CRAP, a FRIGGIN PAINTING :P
+You should really look at the BOOKSHELF
+~
+E
+equipment~
+It is lying here in a neat order.  It is all conspicuously pointing toward
+the bookshelf
+HINT HINT
+~
+S
+#14014
+Hallway of the Mansion~
+You can smell something from the north and you hear something from the west.
+The battle for the remote is continuing as you hear crashes and battle noises.
+At least that is your thoughts as you hear "I WANNA WATCH OPRAH!"
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14018
+D1
+~
+~
+0 -1 14013
+D3
+~
+~
+0 -1 14015
+S
+#14015
+End of the Hall~
+The end of the hall leaves you with two choices north or south.
+North, you can hear the ramblings of a TV commercial, and there is silence
+from the south, maybe this should be checked out!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14017
+D1
+~
+~
+0 -1 14014
+D2
+~
+~
+0 -1 14016
+S
+#14016
+Observation Lounge~
+There is a big bay window in this room for you to stare out onto the land.
+The whole yard can be seen here, there are also chairs and couches to relax
+on.
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14015
+S
+#14017
+The Main Living Room of the Mansion~
+There are a couple worn in couches and chairs, it appears this room is used
+quite often, it has a very relaxing atmosphere, you feel the need to sit
+down and enjoy the tv that is on and kick back for a while.
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14018
+D2
+~
+~
+0 -1 14015
+E
+sign~
+You try and make it out, you just can't see it...
+~
+S
+#14018
+Dining Hall of the Mansion~
+This is where the X-Men break bread at the end of a hard day!  It would not
+be wise to interfere with any part of their dining practices!!!
+Exits to the east and west are visual.
+~
+140 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14019
+D2
+A door
+~
+door~
+1 -1 14014
+D3
+~
+~
+0 -1 14017
+S
+#14019
+Another Hallway of the Mansion~
+The hall continues north and there is a dining hall to the west. You smell
+something odd from the dining room, maybe you should order a pizza, or just
+go on ahead north!
+~
+140 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14020
+D2
+~
+~
+0 -1 14013
+D3
+~
+~
+0 -1 14018
+S
+#14020
+Another Hallway of the Mansion~
+The hallway is getting darker and more narrow as you move, it feels like the
+walls are closing in! You can continue north or go back south, however your
+curiousity is pulling you north to see what is at the end of this hall!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14021
+D2
+~
+~
+0 -1 14019
+S
+#14021
+Corner of the Hallway~
+It is dark and creepy in this part of the hallway, you can almost feel eyes
+watching you from every shadow!  You can feel the warm breath of something
+on your neck!  As your eyes adjust you see a camera in the upper corner!
+~
+140 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14020
+D3
+~
+~
+0 -1 14022
+S
+#14022
+Hallway to the Library~
+It is still pitch black but you can make out a door frame at the end of the
+hall to the west, the feeling of dread is semi past as you walk towards the
+west, but it returns if you go east!
+~
+140 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14021
+D3
+~
+~
+0 -1 14023
+S
+#14023
+Library of the Mansion~
+There are bookshelves to be sure here, loaded with books for everyone in the
+Xavier's School for the Gifted.  You notice all the books are remarkable in
+that each one is so clean except one, might be a reason!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14022
+D3
+A Bookshelf
+~
+book~
+1 -1 14024
+S
+#14024
+Hidden Command Center for the X-Men~
+The brain of the mansion, a huge super computer with monitors everywhere.
+You notice that dark hallway on one of them, that explains the feeling of
+being watched! This is usually Professor X's main stay!
+~
+140 14344 0
+0d0+0 0 0
+D1
+A Bookshelf
+~
+book~
+1 -1 14023
+S
+#14025
+Side Hallway~
+A side hallway with a long stretch going north, you are not sure where it goes
+however in a place as big as this, it has got to be an adventure!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14026
+D2
+~
+~
+0 -1 14011
+S
+#14026
+Side Hallway~
+The hallway continues north and south, it is dimly lit, but you can hear some
+noise and other racket that sounds of metal and concrete meeting!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14027
+D2
+~
+~
+0 -1 14025
+S
+#14027
+Side Hallway~
+The hall continues to run north and south, you can still faintly hear noise
+from the north, but you cannot tell what exactly it is!  You can see some
+scrathes along the wall, looks like Wolverine frequents this route!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14028
+D2
+~
+~
+0 -1 14026
+S
+#14028
+Back Hallway Intersection~
+The hallway comes to a T-intersection, you hear running water and a steamy
+fog is coming from the east, and there is the sound of grunting to the west
+that would tell you to be cautious!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14034
+D2
+~
+~
+0 -1 14027
+D3
+~
+~
+0 -1 14029
+S
+#14029
+Back Hallway of the Mansion~
+This hallway has a musty type of odor to it, but not to bad that you can't
+continue.  You can go try your luck at the weight room of the X-Men or you
+can take your girly self back east!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14028
+D3
+~
+~
+0 -1 14030
+S
+#14030
+Back Hallway of the Mansion~
+You are in a back hallway of the mansion, the size of this place is incredible
+You can see gym equipment to the north and the hallways continues to the west.
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14031
+D1
+~
+~
+0 -1 14029
+D3
+~
+~
+0 -1 14032
+S
+#14031
+Gymnasium of the Uncanny X-Men~
+This is no ordinary Gymnasium, you can tell by the strange and utterly devious
+looking equipment in this room.  There are things here that look more like
+torture devices than exercise equipment, but these are the X-Men!
+~
+140 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14030
+S
+#14032
+Back Hallway of the Mansion~
+This like the rest of the back hallway doesn't have anything to intriguing,
+but there is a work-out gym to the north, you hope you don't interrupt any
+lessons or you may be the next example!!!!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14033
+D1
+~
+~
+0 -1 14030
+S
+#14033
+Work-Out Room of the X-Men~
+This room is slightly less deadly than the room next door, but you notice
+marks on the wall where it appears some of the lessons might have gotten out
+of hand, you wonder when the next lesson is!
+~
+140 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14032
+S
+#14034
+Back Hallway of the Mansion~
+The hall goes east and west, and the fog is getting a lil thicker but you
+can still see where you are going quite easily.  The temperature is rising
+as well, you wonder what is down this hall and should you find out?
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14035
+D3
+~
+~
+0 -1 14028
+S
+#14035
+Back Hallway of the Mansion~
+It is getting warmer every step you take but it is more of a relaxing heat
+it is soothing your muscles that are sore from your combat of the day!
+You feel the need to go find out where this refreshing steam is from!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14036
+D3
+~
+~
+0 -1 14034
+S
+#14036
+Back Hallway of the Mansion~
+You see the end of the hall to the east and you can always go back west.
+The steamy fog is a little more light here and cooler air can be felt!
+You also can smell the scent of chlorine from somewhere!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14037
+D3
+~
+~
+0 -1 14035
+S
+#14037
+Back Hallway of the Mansion~
+This end of the hallway has a distinct odor of chlorine and running water can
+be heard north as well, you wonder what kind of water sports the X-Men take
+part in, and if it is safe!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14038
+D3
+~
+~
+0 -1 14036
+S
+#14038
+Relaxation Quad~
+This is the room that adjoins all the relaxation rooms of the mansion!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14039
+D1
+~
+~
+0 -1 14040
+D2
+~
+~
+0 -1 14037
+D3
+~
+~
+0 -1 14041
+S
+#14039
+The Pool~
+This is an olympic sized pool with a strong odor of chlorine and it looks like
+some of the water sports here have gotten a lil rough, there are scratches on
+the sides of the pool.
+~
+140 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14038
+S
+#14040
+The Hot-Tub of the Mansion~
+A larger than usual hot-tub, I guess to fit some of the other larger "gifted"
+students here at Professor X's school.  It is nice and warm and the water 
+calls to your battle racked body!
+~
+140 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 14038
+S
+#14041
+Steam Room~
+You can hardly see when you enter, but your eyes quickly adjust.  It is the
+steam room where the X-Men can lose some tension and maybe get a rub down
+after the long hard battles.
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14038
+S
+#14042
+Flight of Stairs~
+A spiraling staircase that leads downward to the first floor.  It is carpeted
+and is very old looking but well kept.  You still might want to watch your
+step on the way down!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14043
+D5
+~
+~
+0 -1 14003
+S
+#14043
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14045
+D2
+~
+~
+0 -1 14042
+D3
+The door
+~
+door~
+2 14014 14044
+S
+#14044
+Wolverine's Bedroom~
+With scratches all over the walls, and the shredded picture of Cyclops, you 
+can make the assumption this is Wolverine's room.  His hate for how Cyclops
+got Jean has made him bitter, but still a worthy ally.
+~
+140 14344 0
+0d0+0 0 0
+D1
+The door
+~
+door~
+2 14014 14043
+S
+#14045
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14046
+D2
+~
+~
+0 -1 14043
+S
+#14046
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14048
+D1
+The door
+~
+door~
+2 14015 14047
+D2
+~
+~
+0 -1 14045
+S
+#14047
+Storm's Bedroom~
+This is obviously Storm's bedroom, there is a clothes closet the size of some
+bedrooms, and the fact the air in this room is so comfortable shows its
+owners control of the environment!
+~
+140 14344 0
+0d0+0 0 0
+D3
+The door
+~
+door~
+2 14015 14046
+S
+#14048
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14049
+D2
+~
+~
+0 -1 14046
+D3
+~
+~
+0 -1 14051
+S
+#14049
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14050
+D3
+~
+~
+0 -1 14048
+S
+#14050
+Dead End of the 2nd Floor~
+The end of the hallway where it seems a good hiding spot to jump those coming
+up the stairs, it is also the darkest corner of the mansion.
+~
+140 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14049
+S
+#14051
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14048
+D3
+~
+~
+0 -1 14052
+S
+#14052
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D0
+The door
+~
+door~
+2 14019 14053
+D1
+~
+~
+0 -1 14051
+D2
+The door
+~
+door~
+2 14020 14054
+D3
+~
+~
+0 -1 14055
+S
+#14053
+Cyclops' Room~
+A picture on a nightstand by the bed of Jean Grey tells you this is Cyclops'
+room, and there are plans and maps of past and future missions scattered all
+about the room, it appears he takes his duties VERY seriously, you better go!
+~
+140 14344 0
+0d0+0 0 0
+D2
+The door
+~
+door~
+2 14019 14052
+S
+#14054
+Jean's Room~
+Although she is rarely here, and when she is it is not alone, this is her room
+and she likes it left undisturbed, so I advise leaving before her or Cyclops
+stops in for something!
+~
+140 14344 0
+0d0+0 0 0
+D0
+The door
+~
+door~
+2 14020 14052
+D4
+~
+trapdoor~
+2 14014 14099
+S
+#14055
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14052
+D2
+~
+~
+0 -1 14056
+D3
+~
+~
+0 -1 14059
+S
+#14056
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14055
+D2
+~
+~
+0 -1 14057
+S
+#14057
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14056
+D1
+The door
+~
+door~
+2 14018 14058
+S
+#14058
+Nightcrawler's Bedroom~
+You have NO idea what has lived here, and from the looks of the door it has 
+never been opened!!!  Whoever lives here must have a pretty neat way of 
+getting around the mansion!
+~
+140 14344 0
+0d0+0 0 0
+D3
+The door
+~
+door~
+2 14018 14057
+S
+#14059
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14060
+D1
+~
+~
+0 -1 14055
+D3
+~
+~
+0 -1 14061
+S
+#14060
+Steps to the 3rd Floor~
+Yet another spiraling staircase leading upwards further...You fear what else
+the mansion may have yet to discourage you with!  This is not a place for the
+timid!!!
+~
+140 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14059
+D4
+~
+~
+0 -1 14071
+S
+#14061
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14059
+D2
+The door
+~
+door~
+2 14016 14062
+D3
+~
+~
+0 -1 14063
+S
+#14062
+Rogue's Bedroom~
+A quaint little piece of south is in the room, you can sense it!  There is
+pictures of Mardi Gras and other southern events that you don't recognize.
+And you can also see a picture of Gambit tucked away on a dresser!
+~
+140 14344 0
+0d0+0 0 0
+D0
+The door
+~
+door~
+2 14016 14061
+S
+#14063
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14061
+D2
+The door
+~
+door~
+1 -1 14064
+D3
+~
+~
+0 -1 14066
+S
+#14064
+Gambit's Room~
+A room filled with playing cards everywhere, but none more seen than the Ace
+of Spades, you assume the owners calling card!!  There is a picture of Rogue
+on a dresser in the corner and the smell of Gumbo in the air!
+~
+140 8 0
+0d0+0 0 0
+D0
+The door
+~
+door~
+1 -1 14063
+S
+#14065
+Beast's Abode~
+There is a endless supply of books in this room!!!  The owner is quite
+the scholar and takes great pride in his library of sorts...however smaller
+than the Mansion's library still a handsome collection!
+~
+140 14344 0
+0d0+0 0 0
+D3
+The door
+~
+door~
+2 14017 14068
+S
+#14066
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14068
+D1
+~
+~
+0 -1 14063
+D2
+The door~
+door~
+2 14022 14067
+S
+#14067
+A REALLY BIG ROOM!!!!!~
+This room was obviously made for the largest and strongest of the X-Men, and
+they made this room none to weak, it has a metal on the walls that looks like
+it could withstand a tank blast close range!!!!
+~
+140 14344 0
+0d0+0 0 0
+D0
+The door
+~
+door~
+2 14022 14066
+S
+#14068
+2nd Floor Hallway~
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14069
+D1
+The door
+~
+door~
+2 14017 14065
+D2
+~
+~
+0 -1 14066
+S
+#14069
+2nd Floor Hallway~
+~
+140 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14068
+D3
+The door
+~
+door~
+2 14021 14070
+S
+#14070
+Jubilee's Room~
+A room with a few knicks in it!  A FEW???  Who are we kidding, it looks like
+someone hasn't mastered their special talent yet, this room has more holes
+than a screen.  At least the door was made solid and hasn't blown up yet!
+~
+140 14344 0
+0d0+0 0 0
+D1
+The door
+~
+door~
+2 14021 14069
+S
+#14071
+Stairs~
+Stairs spiraling downward to the second floor, and after hearing some of the
+sounds and screams from this floor you feel like going down more and more!
+~
+140 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14072
+D5
+~
+~
+0 -1 14060
+S
+#14072
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14071
+D1
+~
+~
+0 -1 14073
+D2
+~
+~
+0 -1 14089
+S
+#14073
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 14074
+D3
+~
+~
+0 -1 14072
+S
+#14074
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14073
+D1
+~
+~
+0 -1 14075
+S
+#14075
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14095
+D2
+~
+~
+0 -1 14076
+D3
+~
+~
+0 -1 14074
+S
+#14076
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14075
+D2
+~
+~
+0 -1 14078
+D3
+~
+~
+0 -1 14077
+S
+#14077
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14076
+D3
+~
+~
+0 -1 14072
+S
+#14078
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14076
+D1
+~
+~
+0 -1 14079
+D3
+~
+~
+0 -1 14072
+S
+#14079
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14080
+D3
+~
+~
+0 -1 14078
+S
+#14080
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14083
+D2
+~
+~
+0 -1 14081
+D3
+~
+~
+0 -1 14079
+S
+#14081
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14080
+D1
+~
+~
+0 -1 14072
+D2
+~
+~
+0 -1 14082
+S
+#14082
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14081
+D2
+~
+~
+0 -1 14072
+D3
+~
+~
+0 -1 14072
+S
+#14083
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14084
+D1
+~
+~
+0 -1 14072
+D2
+~
+~
+0 -1 14072
+D3
+~
+~
+0 -1 14080
+S
+#14084
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14072
+D2
+~
+~
+0 -1 14083
+D3
+~
+~
+0 -1 14085
+S
+#14085
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14086
+D1
+~
+~
+0 -1 14084
+S
+#14086
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14092
+D1
+~
+~
+0 -1 14087
+D2
+~
+~
+0 -1 14085
+S
+#14087
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14088
+D1
+~
+~
+0 -1 14072
+D3
+~
+~
+0 -1 14086
+S
+#14088
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14072
+D1
+~
+~
+0 -1 14089
+D2
+~
+~
+0 -1 14087
+S
+#14089
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through, however you hears noises to the
+east, but that just might be what you don't want!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14072
+D1
+~
+~
+0 -1 14090
+D3
+~
+~
+0 -1 14088
+S
+#14090
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through, but there is noises even louder
+coming from around you, you can't see anything but it is close!!!
+~
+140 8 0
+0d0+0 0 0
+D0
+The wall
+~
+wall~
+2 14026 14091
+D1
+~
+~
+0 -1 14072
+D2
+~
+~
+0 -1 14072
+D3
+~
+~
+0 -1 14089
+S
+#14091
+THE DANGER ROOM~
+This is the REAL DEAL, there are no games in this room, it's all or nothing.
+You will have to be extra cautious or extra dead! The X-Men made this room
+to hone their powers, can you survive? We shall see!
+~
+140 8200 0
+0d0+0 0 0
+D0
+The simulation
+~
+simulation~
+2 14025 14097
+D1
+The simulation
+~
+simulation~
+2 14023 14096
+D2
+The wall
+~
+wall~
+2 14026 14090
+D3
+The simulation
+~
+simulation~
+2 14024 14098
+S
+#14092
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14072
+D2
+~
+~
+0 -1 14086
+D3
+~
+~
+0 -1 14093
+S
+#14093
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14094
+D1
+~
+~
+0 -1 14092
+D2
+~
+~
+0 -1 14095
+S
+#14094
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14072
+D2
+~
+~
+0 -1 14093
+D3
+~
+~
+0 -1 14072
+S
+#14095
+Maze of the Danger Room~
+A baffling array of rooms that has no apparent direction that is correct!
+You will have to guess your way through!
+~
+140 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14093
+D3
+~
+~
+0 -1 14075
+S
+#14096
+Magneto's Simulation~
+This is the simulation with the king of all evil mutants!  The X-Men made this
+simulation for one reason, to add all the new techniques they encounter from
+Magneto to it so they can be ready and train for when they battle!
+~
+140 14344 0
+0d0+0 0 0
+D3
+The simulation
+~
+simulation~
+2 14023 14091
+S
+#14097
+Juggernaut's Simulation~
+This simulation pits you against the X-Men's favorite ramming dim-witted
+sometimes, foe.  He is a tough sim to beat, but the X-Men can do it, so can
+you if you are strong enough, Good Luck!
+~
+140 14344 0
+0d0+0 0 0
+D2
+The simulation
+~
+simulation~
+2 14025 14091
+S
+#14098
+Basic Simulation~
+This is a basic simulation filled with terrors and booby traps for the X-Men,
+made to help them count on agility and fighting teamed together, this is 
+still a formiddable room, and do not underestimate it!
+~
+140 14344 0
+0d0+0 0 0
+D1
+The simulation
+~
+simulation~
+2 14024 14091
+S
+#14099
+A storage attic~
+As you look around you see a room filled with old discarded memories that
+Jean is trying to forget, and when you look you see something glowing in
+the corner.  What could it be, it appears to be OH NO, it is the DARK Phoenix
+and it never left Jean's side, it has just been hiding here awaiting to be
+discovered by her again, maybe this is hy Jean never comes up here, she knows
+and keeps the door locked...you had beeter run before it absorbs your soul!
+~
+140 22530 0
+1d1+199 90 0
+D5
+~
+trapdoor~
+2 14014 14054
+S
+$

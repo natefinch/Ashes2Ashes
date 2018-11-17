@@ -1,0 +1,263 @@
+CircleMUD v3.0 Shop File~
+#0~
+8305
+8306
+8307
+8308
+8309
+-1
+1.2 
+0.8 
+-1
+%s Haven't butchered anything like that today, perhaps one of the specials?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s Sorry, but until you can pay, you'll have to leave.~
+%s Tasty choice today. That'll be %d coins, enjoy your meal.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+0 
+8316 
+0 
+8367 
+-1
+0 
+25 
+0 
+0 
+#1~
+8330
+8331
+8332
+8333
+8334
+-1
+1.2 
+0.8 
+-1
+%s Haven't cooked anything like that recently, perhaps something else?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You can't afford that. Try something cheaper.~
+%s Very good, That'll be %d coins for your snack.~
+%s BUG - %d coins - please report to the nearest immortal.~
+0 
+0 
+8318 
+0 
+8374 
+-1
+0 
+25 
+0 
+0 
+#2~
+8315
+8316
+8317
+8318
+8319
+-1
+1.2 
+0.8 
+9
+11
+8
+-1
+%s It appears that we have nothing like that in your size today.~
+%s My appoligies, but unless you have something to seel, you'll have to 
+leave.~~
+%s We only buy the finest clothing, perhaps you should try some other shop.~
+%s Thats a beautiful piece, but alas, my bankroll is not what it used to be.~
+%s Since it seems you can't afford that item, you'll have to choose 
+something else.~
+%s Beautfil choice, I'll just need %d coins for that.~
+%s Thank you for your trade. Here's your %d coins for that.~
+0 
+0 
+8319 
+0 
+8365 
+-1
+0 
+25 
+0 
+0 
+#3~
+8325
+8326
+8327
+8328
+8329
+-1
+1.2 
+0.8 
+8
+13
+16
+-1
+%s I only sell the finest treasures from around the world! Be gone peasant!~
+%s You have nothing like that, leave my shop at once you beggar!~
+%s I don't buy filth like that. Bring me treasures if anything.~
+%s That items is rare even beyond my means, perhaps someone else would 
+like it.~
+%s You haven't the money for such a treasure. Be gone you wretch!~
+%s May this treasure bring you luck, I'll just need %d coins.~
+%s You'll get %d coins for it. Now go dirty someone elses establishment.~
+0 
+0 
+8320 
+0 
+8369 
+-1
+0 
+25 
+0 
+0 
+#4~
+8310
+8311
+8312
+8313
+8314
+-1
+1.2 
+0.8 
+-1
+%s I've crafted nothing liek that today, perhaps something like a chair?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You can't afford my wares, please get out of my shop!~
+%s Very nice choice, I'll just need %d coins to complete the deal.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+0 
+8321 
+0 
+8366 
+-1
+0 
+25 
+0 
+0 
+#5~
+8320
+8321
+8322
+8323
+8324
+-1
+1.2 
+0.8 
+9
+11
+5
+6
+7
+-1
+%s I have nothing like that in storage today, perhaps something on the list?~
+%s What do you take me for? You carry nothing like that!~
+%s I only buy the finest metal wares, try taking that to a wizard.~
+%s Such an exquisite weapon I would die to posess, alas I cannot afford it.~
+%s You haven't the money for such a fine item, pick something else!~
+%s Fine choice, I'll just need %d coins for that.~
+%s You'll get %d coins for that. Thank you.~
+0 
+0 
+8335 
+0 
+8368 
+-1
+0 
+25 
+0 
+0 
+#6~
+8347
+8348
+8349
+8350
+8351
+-1
+1.2 
+0.8 
+-1
+%s I haven't got anything like that, perhaps something on today's list?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You can't afford my shop. Get out at once!~
+%s That'll be %d coins. Nice climbing, or hanging.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+0 
+8324 
+0 
+8395 
+-1
+0 
+25 
+0 
+0 
+#7~
+8322
+8324
+8344
+8345
+8348
+-1
+1.2 
+0.8 
+4
+5
+6
+7
+-1
+%s Sorry, but I haven't seen anything similar to that lately.~
+%s You don't have anything like that. What do you take me for?~
+%s I only buy the finest weaponry, try some wizard for that rubbish.~
+%s I'd really like to get my hands on one of those, but I'm short on funds.~
+%s You can't hand the cost, my friend. Try coming back later.~
+%s I'll just need %d coins for that.~
+%s Here, you'll get %d coins for that.~
+0 
+0 
+8325 
+0 
+8394 
+-1
+0 
+25 
+0 
+0 
+#8~
+8339
+8340
+8341
+8342
+8343
+-1
+1.2 
+0.8 
+-1
+%s I haven't crafted such a bow in all my lifetime, perhaps something else.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You can't afford that. Pick something else, or be gone.~
+%s I'll just need %d coins. Ok, enjoy your hunting trip.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+0 
+8326 
+0 
+8396 
+-1
+0 
+25 
+0 
+0 
+$~

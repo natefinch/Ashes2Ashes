@@ -1,0 +1,341 @@
+#18300
+doll~
+a ragged cotton doll~
+A ragged cotton doll lies on the ground, instead of in the arms of a little girl.~
+This doll is a common doll made in the Kingdom of the Isles for small
+children. It has big eyes and a fluffy little dress. ~
+12 0 24577 0
+0 0 0
+0 0 0 0
+3 10 0
+A
+12 0
+E
+doll~
+This little doll is one commonly made for children of the Kingdom of the
+Isles. With it's big eyes and cute smile, who could resist? ~
+#18301
+hoop iron~
+a large iron hoop~
+An iron hoop, large in diameter, but made with little material, rusts in the dirt. ~
+~
+11 0 17413 0
+0 0 0
+0 0 0 0
+8 3 0
+A
+3 -2
+E
+iron hoop~
+This hoop is used to play the game ringnal in the Kingdom of the Isles.
+young children use sticks made by themselves to propel it forward in
+a rolling fashion. ~
+#18302
+stick carved~
+a carefully carved stick~
+A carefully carved stick lies here, ready to be used. ~
+~
+5 0 24577 0
+0 0 0
+0 1 3 7
+2 2 0
+E
+carved stick~
+This stick was carved by a young boy, who traditionally carved it to play
+ringnal. ~
+#18303
+stick ~
+a stick, broken from a tree~
+A stick, freshly broken from it's tree, lies here. ~
+~
+5 0 24577 0
+0 0 0
+0 1 2 2
+2 2 0
+E
+stick~
+This stick has been freshly taken from it's tree. It has dust on the end,
+which seems a bit worn. ~
+#18304
+belt knife~
+a small broken belt knife~
+Lying here is a small belt knife, once used by a commoner. ~
+~
+13 64 0 0
+0 0 0
+0 1 4 3
+3 0 0
+#18305
+sword broad broadsword~
+a standard issue broadsword~
+A broadsword lies here neglected.~
+This is the type of sword used by many in the realm.~
+5 0 8193 0
+0 0 0
+0 5 2 3
+10 100 0
+#18306
+tabard darkmoor~
+a decorative tabard~
+A silken tabard lies here getting soiled.~
+~
+11 0 9 0
+0 0 0
+0 0 0 0
+0 200 0
+A
+1 1
+E
+tabard silk decorative darkmoor~
+This tabard has the sparrow of Durrany's Vale embossed upon it.
+Only the personal guards of Lord Durrany may wear this symbol.
+~
+#18307
+Dress~
+a long white dress~
+A long white dress is lying here~
+Made of fine satin, the lady that wore this must have been
+married to a wealthy man.~
+11 0 9 0
+0 0 0
+0 0 0 0
+2 10 0
+E
+dress~
+Made of fine satin, the lady that wore this dress must have been married
+to a wealthy man. ~
+#18308
+Bread~
+a package of bread~
+A package of bread is here~
+~
+19 0 16385 0
+0 0 0
+6 0 0 0
+4 15 0
+E
+Bread from the Bakery is lying here.~
+A loaf of bread that looks like it came right out of the oven 
+from the bakery is here.
+~
+#18309
+robe white healer's~
+the white robe of a healer~
+A healer's robe
+~
+~
+9 10278144 9 0
+0 0 0
+4 0 0 0
+6 400 0
+A
+4 1
+E
+robe white healer's~
+The robe fills you with a sense of peace as you hold it.  You feel that the
+robe's pure white is due not entirely to washing, but as though the gods 
+had decided to make the robe white to honor themselves.
+~
+#18310
+shawl dirty~
+a dirty shawl~
+This shawl is dirty and riddles with holes; it couldn't keep a fire warm.~
+~
+9 0 5 0
+0 0 0
+5 0 0 0
+0 0 0
+#18311
+apple pie~
+an apple pie~
+A pie sits here untouched.~
+~
+19 0 16385 0
+0 0 0
+20 0 0 0
+4 30 0
+#18312
+danish food bread sweet~
+a danish~
+A sticky danish lies here collecting dirt~
+~
+19 0 16385 0
+0 0 0
+3 0 0 0
+0 5 0
+E
+danish~
+This is quite possibly the best looking danish you have ever seen. It's
+sticky gooey and bad for you..YUM!~
+#18313
+meat pie huge venison~
+a huge venison meat pie~
+A huge meat pie is here, ready to be eaten.~
+~
+19 0 16385 0
+0 0 0
+30 0 0 0
+8 50 0
+#18314
+bread stick breadstick hot~
+a breadstick~
+A steaming hot breadstick lies here.~
+~
+19 16 16385 0
+0 0 0
+10 0 0 0
+0 10 0
+#18315
+cup cool milk~
+a cup of cool milk~
+~
+~
+17 0 16385 0
+0 0 0
+8 8 10 0
+13 4 0
+#18316
+mug ale cool~
+a mug of ale~
+A mug of cool ale is sitting here.~
+~
+17 0 16385 0
+0 0 0
+15 10 3 0
+15 5 1
+E
+ale~
+What are you looking at just drink it!~
+#18317
+wooden cup red wine~
+a wooden cup of red wine~
+A wooden cup rests here.~
+~
+17 0 16385 0
+0 0 0
+10 10 2 0
+15 10 0
+#18318
+shot whiskey glass hard shot~
+a shot of whisky~
+A shot of whisky lies here tempting the drunk in you.~
+~
+17 16 16385 0
+0 0 0
+1 1 5 0
+6 0 0
+#18319
+dagger~
+a dagger~
+A dagger lies here
+~
+~
+5 0 24577 0
+0 0 0
+0 4 1 11
+2 25 0
+E
+dagger~
+A throwing dagger lies here.
+~
+#18320
+finely honed well balanced sword~
+a finely honed, well-balanced sword~
+The famous sword of Uric Dabury lies here neglected.~
+~
+5 8679681 8193 0
+0 0 0
+0 7 4 3
+12 3500 0
+A
+18 2
+A
+17 4
+E
+finely honed well balanced sword~
+This sword looks like it has never seen a fight. Uric must have taken
+better care of this sword than he did of himself!
+~
+#18327
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#18370
+chest box jewel~
+a jewel Encrusted Box~
+A Jewel Encrusted box is here.~
+~
+15 0 0 0
+0 0 0
+300 15 18371 0
+100 1000 0
+#18371
+Key~
+a Jeweled Key~
+A Jeweled key is here.~
+~
+18 0 16385 0
+0 0 0
+18370 0 0 0
+5 10 0
+#18372
+staff obo~
+a huge obo~
+This obo is at least 4 ft long and glitters as if made from solid gold.
+~
+~
+4 966721 24577 0
+0 0 0
+30 10 10 9
+17 10000 0
+A
+23 -2
+A
+13 3
+E
+staff obo~
+You feel the magic trapped within the staff, striving to be freed.
+~
+#18390
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#18398
+Chicken Bone~
+Chicken Bone~
+Chicken Bone~
+~
+4 515 16385 0
+0 0 0
+40 5 5 46
+0 0 0
+A
+7 2
+E
+chicken bone~
+A feeling of evil seeps from this bone.
+~
+#18399
+Pandions Sword of Utter Destruction~
+Pandions Sword of Utter Destruction~
+Pandions Sword of Utter Destruction~
+~
+5 3 8193 0
+0 0 0
+0 0 0 6
+0 0 0
+A
+18 0
+A
+17 0
+$

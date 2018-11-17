@@ -1,0 +1,801 @@
+OLC
+
+For information on how to apply for a zone see: zapply
+For help on learning to build see: olctrain
+For general information and limits on objects see: olcguide
+For additional limits see: olcweapons, setaffects
+For help on rooms see: redit
+For help on objects see: oedit
+For help on mobs see: medit
+For help on zone loading see: zedit
+
+For usage information on the olc command, type: olc
+
+#
+olcguide
+
+The following area the OLC guidelines for Ashes to Ashes:
+
+The OLC guidelines are now based on a "points system." For each
+affectation on an item, it will be assigned a certain number of points.
+The total number of points on a particular item will be limited to:
+12- items loading in open zones
+14- items loading in the god museum
+15(maximum)- quest items
+
+Points will be assigned as follows:
+1 point per:
+-1 point of manaregen
+-5 points of maxmana or maxhit
+-1 point of Magic Resistance(MR)
+-point of ability score modification in excess of 2 (a modification of 3
+is 1 point, 4 is 2 points, etc.)
+-3 years of age
+-point of ac-apply above the "average" given below
+-Resistance affectation
+
+2 points per:
+-1 point of hitroll or damroll 
+-Strong Resistance affectation
+
+0 points for the following:
+-ability score increases of 1 or 2
+-any adjustment to char-height or char-weight
+-any amount of hit-regen or move-regen up to +10
+-any saving throw bonus up to -5
+-ac-apply (or equivalent amount of ARMOR) not exceeding the following:
+        light-4
+        finger-4
+        neck-8
+        body-11
+        head-9
+        legs-8
+        feet-4
+        hands-4
+        arms-8
+        shield-14
+        about-9
+        waist-4
+        wrist-4
+        wield-9
+        hold-9
+
+***NOTE*** 
+No more than half of the points on a particular item may come from one
+affectation. For normal items loading in the game, that means that more
+more than 6 points on one affectation. This includes "resistances"
+in one category for this purpose.
+***NOTE***
+The total points an item is worth is _not_ reduced by giving the item
+negative stats. I am not inflexible, however, and it may be possible to
+exceed the normal points for an item if I deem the penalties appropriate.
+You can expect such occurances to be rare, and you must bring them to my
+attention _before_ I review your zone. If I find illegally powerful items
+that I have not been told of in advance, I will not be pleased.
+***NOTE***
+Just because I have set down these maximums for items does not mean I
+except every item to have the maximum allowable number of points. On the
+contrary, I except that relatively few items will carry such high point
+values (yes, you can interpret this as meaning I will still refuse some
+items that are under the maximum point values).
+
+See Also:  OLCWEAPONS, SETAFFECTS
+#
+olcweapons
+
+Weapons are an exception to the general working of the new points system.
+Along with holdables, weapons will be permitted a maximum of 4 hit and 4
+damage. This is to keep with what is currently in the game right now. This
+also applies only to those items where hit/dam are the only affectations
+that would count for points. For instance, adding 10 maxhit to a 4/4
+weapon would not be allowed, but having it give +2 int would be permitted.
+
+See Also: OLCGUIDE, SETAFFECTS
+#
+setaffects
+
+Items that set affects are not covered in the OLC guidelines for object
+maximums. That is because they are treated as a special case. In general,
+items will be allowed to set affects that make sense for the item at no
+cost in points. Such cases would be a pair of nightvision goggles that
+sets INFRA, or a pair of winged boots that set FLY. As long as such
+items are not overused, they will be allowed unrestricted.
+
+Items that set more powerful affectations, such as SANC, HASTE, and
+DIVINE-PROT will be more carefully monitored. While there will be no
+set amount of points for such affectations, their usage should --and
+will-- be rare. use you best judgement when considering whether to
+put such affectations on objects, and don't be surprised if they are
+not approved.
+
+See Also: OLCGUIDE, OLCWEAPONS
+#
+zapply zapplication
+
+                   Online Creation (OLC)
+
+APPLICATION
+ If you would like to create an area for Ashes to Ashes using OLC,
+the following information must be given to MidKnight, by mud mail:
+
+    a)  Zone name
+    b)  Person(s) that will be working on the area, this includes you.
+        Please ask anyone else first so you know they don't have any
+        projects they have to do first.  Remember, someone doesn't need
+        to have access to your zone to help you come up with ideas.
+    c)  Major theme of the area
+    d)  What level player(s) should be able to complete the area.  This
+        doesn't have to be percise (mid to high will do nicely), but some
+        estimates needs to be given.
+    e)  How many zones your area will require.  A zone is a block of 100
+        rooms, mobiles, and objects.  It is best to be a little generous
+        with this estimate, since it is much easier to give you all the
+        zones at once then have to look for an open zone later.
+    f)  Any information that you think might be important to know about
+        the zone.  This includes mobprograms you have or need written,
+        special trick teleporter doorways, or extremely powerful objects
+        you plan to introduce into the game.
+    g)  Your e-mail address.
+
+MidKnight will make the decisions on the areas.  If your area is not
+accepted for some reason, there is a good reason for it - please don't get
+discouraged.  Possibly there are already too many areas on for the level
+of character, or another with close to the same theme, or whatever.  Please
+don't get discouraged.  Come up with another idea and submit it.  :]
+
+ If your area idea is accepted you will be assigned a zone number and will
+be given privileges to edit that zone.
+
+ ATTENTION:  All new areas will need to be playtested before they are
+opened. For playtesting, you MAY recruit volunteer morts to go through
+the area and kill mobs, etc, however, they must be informed that NO EQ
+and/or items they acquire from that area can be kept.  The IMM that opens
+the area for testing will be held responsible for insuring that all EQ
+obtained is junked. They may keep the gold and exp gained, only.
+FURTHERMORE:  You may NOT use any of your own morts for playtesting an
+area.  If you cannot get volunteers from the mort world to test it for
+you, we will create a TEST CHAR for you, which will be deleted, along
+with any and all EQ obtained during testing, after the area is tested
+and approved.  NOTE: it is not considered playtested if you have only
+tested your mobs against other mobs.
+
+#
+olctrain olctraining
+
+All new builders will be required to build a small practice area. This
+area will consist of 10 rooms, 10 mobs, and 10 items. You will be
+expected to use all of the options available at least once in making
+these rooms/mobs/items.
+
+During the course of your training, you will be assisted by the building
+instructor, who will be in charge of monitoring your progress and making
+sure that you know how to build properly. Once you have finished your
+min-zone, the building instructor will either approve or reject it. Zones
+will be rejected if the building instructor feels that you have not
+completed your rooms in a manner that shows you fully grasp all the
+aspects of building.
+
+Once you have completed this mini-zone to the satisfaction of the building
+instructor, you may mail MidKnight to apply for a zone
+
+See Also: ZAPPLY
+
+#
+REDIT
+
+Usage: redit <number>
+
+Redit lets you edit rooms. Number is the vnum of the room you
+want to edit. This is what the redit menu looks like, along
+with explanations:
+
+1. ROOM:[1208]  This is the number of the room.. This doesn't change
+unless you are copying
+2. Name: This is the name of the room.. Shown at the top of the
+description
+3. Description:  This is what the morts see as the "room"
+4. Extra descriptions: If you put something in the desc and wish to
+describe it further you may do so here.  (SEE HELP xdesc)
+5. Sector Type: Inside  This is how many moves this room takes
+(SEE HELP SECTORS)
+6. Death Trap: This determines how much damage a death trap will do
+(SEE HELP DEATHTRAPS)
+7. Room Flags: These make up the charataristics of the room
+(SEE HELP rflags) 
+ 8. north exit:  (See help doors)  Makes north exit
+ 9. east exit: Makes east exit
+10. south exit: Makes South exits
+11. west exit: Makes West exits
+12. up exit: Makes up exits
+13. down exit: Makes down exits
+14. northeast exit: Makes Northeast exit
+15. northwest exit: Makes northwest exit
+16. southeast exit: Makes southeast exit
+17. southwest exit: Makes southwest exit
+0. Exit
+
+See also: OLC MEDIT OEDIT ZEDIT
+
+#
+XDESC
+
+This is what the extra description menu looks like,
+along with explanations:
+
+1. Add extra description  -Allows you to add extra descs
+2. Delete extra description - Lets you delete an extra desc put in
+previous
+3. Change extra description - Allows you to change without deleting
+0. Previous Menu
+
+#
+RFLAGS
+
+These are the flags available for rooms, and their explanations:
+
+ 1. DARK  The morts will need a light source in this room
+ 2. !MOB  Mobs cannot move into this room.
+ 3. INDOORS  Weather messages will not be displayed here
+ 4. PEACEFUL No player fighting is allowed in these rooms
+ 5. SOUNDPROOF Tells and public channels are blocked in this room
+ 6. !TRACK The track skill cannot track through this room, if the
+only path to a mob is through a !TRACK room, the mob cannot be tracked
+ 7. !MAGIC You cannot use any spells in this room
+ 8. TUNNEL No more than two players can walk into this room
+ 9. PRIVATE You cannot enter this room when two or more players or
+mobs are in it
+10. GODROOM You must be staff level+ to enter this room
+11. !TELEPORT You cannot leave this room by any spell
+12. !RELOCATE  You cannot enter this room by any spell
+13. !QUIT  You cannot quit out from this room
+14. !FLEE  You cannot flee into this room
+15. MAGIC-DARK This room will be dark to mortals, no matter what
+kind of light or spell they have. They can see the room description
+though, so you can give them descriptions of sounds, touch, etc.
+Unlike normal darkness or blindness, you cannot see exits in a
+MAGIC-DARK room.
+16. BEAMUP If you use a beamer device in your zone, it can only
+beam people up from rooms that are flagged BEAMUP
+17. FLY  This means that this room is above ground and you must be
+flying to enter it. If fly wears off while in this room, you will
+fall, continuing down as long as there is a down exit, even if
+the rooms below you are not fly rooms. You cannot fall farther than
+twenty rooms though, so don't bother making any more than that.
+For each room fallen you will take more damage when you hit the
+ground, and a 20 room fall can be fatal even to a level 100 warrior.
+18. STASIS  This gives the room the same effect as the stasis field skill.
+
+#
+SECTORS
+
+These are the sector types available and their movement costs:
+
+ 1. Inside             1 move per room
+ 2. City               2 moves per room
+ 3. Field              2 moves per room
+ 4. Forest             3 moves per room
+ 5. Hills              4 moves per room
+ 6. Mountains          7 moves per room
+ 7. Water (Swim)       3 moves per room
+ 8. Water (No Swim)    3 moves per room
+ 9. Underwater         5 moves per room
+10. In Flight          1 move per room
+11. Desert             6 moves per room
+12. Road               1 move per room
+13. Jungle             7 moves per room
+
+As the name implies, water (swim) is water you can use the swim
+skill in, and water (no swim) is water that it too rough to swim in.
+
+#
+DEATHTRAPS
+
+Death Trap info:  This will determine how much damage a death trap will
+do.. each of the selections is self-explanatory
+1. Number of damage dice [0] (0-100)
+2. Size of damage dice [0] (0-1000)
+3. Additional damage [0] (0-30000)
+4. Minimum percentage of maxhit the DT will do [0] (0-99)
+
+Does the death trap keep damaging you as you stand in it? [NO]
+5. No
+6. Yes
+
+0. Previous Menu
+7. No death trap  If you decide not to make this a death trap you must
+take it out using this selection
+
+#
+DOORS
+
+This is what the door menu looks like, along with explanations:
+
+1. Leads to room [0] ()  This is what room you want the exit to lead
+2. Door type: [no door]  This can be any available combination of
+pickproof, secret, or hidden. Secret means the door cannot be seen when it
+is closed in any way. Hidden mean the exit does not show up even when
+open, but it can still be walked through.
+3. Key [no key]  This is the vnum of the key (obj #), if you leave it
+as no key, the door will not have a lock
+4. Keywords: []  This is what the players will used to open and shut door
+5. Description:  This is what the players will see when they look in this
+direction
+
+0. Previous Menu
+6. Delete exit If you choose not to use this exit.. you must delete it.
+
+Note: When making exits that have doors in a zone, be sure that
+both sides of the door (for example, the west exit in one room, and
+the east exit in another room) have their door type set the same.
+Also, make sure they have the same key, unless you specificaly want
+to make it troublesome for them. Finaly, do not try to get the
+door to stay closed or locked with zlock or zedit until both sides
+of the door exist.
+
+#
+MEDIT
+
+Usage: medit <number>
+
+Medit lets you edit mobs. Number is the vnum of the mob you want
+to edit. This is what the medit menu looks like, along with
+explanations:
+
+1. MOB:[1209] This is the mobs vnum.  This doesn't change unless you
+copy the mob.
+2. Aliases:  What this mob can be called to kill, track, or look at it
+3. Short description:  This is the mobs name
+4. Long description: This is the line morts see when entering the room
+5. Description:  This is what the morts see when they look at the mob
+6. Str:13    7. Str add:0    8. Int:13    9. Wis:13
+10. Dex:13    11. Con:13    12. Cha:13
+13. Level: Mobs level determined by guidelines
+14. Class: What kind of mob this is (undead disintegrate instead
+of leaving corpse)
+15. Alignment: Same as in morts.. helps align morts as well
+16. Sex: Male female or neutral  17. Size: How large the mob is
+18. HP: How many hit points the mob has
+19. HP Regen:+0 Total[0]  If you wish to increase the mobs regen
+20. Exp: How much exp is the mob going to give to a char of equal level
+21. Gold: How much gold will the mob be carrying
+22. Damage: Amount of damage a mob is going to do
+23. Ferocity:  How likely the mob is to attack, if it's agro
+24. HR:0 THAC0[0] The mobs hitroll.. also adds to THAC0
+( 5 X HR = THAC0 bonus )
+25. Attacks:2 How many hits the mobs gets every TWO rounds
+26. Move Rate:6 How often the mob moves
+27. Armor:+100 AC[+100] The adjustment to the mob's ac (in addition
+to dex bonus)
+28. MR:  The percentage of magic resistance a mob has
+29. Defaul Pos: Standing  Determines if a mob is standing, sitting,
+reseting, or sleeping.
+30. Saves:[100/100/100/100/100] A mob's chance of being affected by
+spells like poison, and of taking half damage from spells, breath
+weapons, death traps, etc. It is a percentage, with 100 being the worst.
+31. Attack Type: There is a list that goes with this.. pick the one you
+like the best or that fits the mob best 
+32. Spec Proc: (SEE HELP SPECPROC)
+33. MOB Flags: (SEE HELP MFLAGS)
+34. AFF Flags: (SEE HELP AFLAGS)
+35. Immune Flags: This will determine what the mob is immune to
+36. Weak Flags: determines the weakness's of a mob
+37. Resist Flags: determines what the mob is resistant to
+38. Action list: List of commands that the mob will do
+0. Exit
+
+See also: OLC OEDIT REDIT ZEDIT
+
+#
+SPECPROC
+
+These are the choices for specproc, and explanations. You can
+only use one of these on a mob.
+
+ 1. NONE  no special procedure
+ 2. cityguard  This mob will assist the combatant of highest alignment
+ 3. postmaster  You can receive mail from this mob
+ 4. guildmaster  You can practice skills from this mob
+ 5. eat corpses   This mob eats corpses and leaves eq on ground
+ 6. pick up junk  This mob picks of items of the type junk or low value
+ 7. poison bite  This mob poison's you when he bites
+ 8. thief  This mob steals gold from players
+ 9. magic user  This mob can cast mage spells
+10. undead  This mobs casts spells like chill touch and curse
+11. cleric  This mob can cast offensive cleric spells
+12. random breath  The mob can choose at random among the types of breath
+13. fire breath       breaths fire
+14. acid breath       breaths acid
+15. frost breath      breaths frost
+16. gas breath        breaths gas
+17. lightning breath  breaths lightning
+18. bash  This mob will bash
+19. berserk  This mob will berserk
+20. kick  This mob will kick
+21. warrior This mob will hurl, bash, or berserk
+
+#
+MFLAGS
+
+These are the flags available for mobs, and their explanations:
+
+ 1. SENTINEL  This mob will stay in the room it's loaded in
+ 2. SCAVENGER  This mob picks up items on the ground or in corpses
+by highest value (makes it a looting mob)
+ 3. AWARE  This mob cannot be backstabbed or stolen from
+ 4. AGGR  This mob is aggressive to all players
+ 5. STAY-ZONE  This mob stays in the zone he was loaded in
+ 6. WIMPY  This mob flees when they are about to be killed
+ 7. AGGR_EVIL This mob is aggressive to only evil aligned characters
+ 8. AGGR_GOOD  This mob is aggressive to only good aligned chars.
+ 9. AGGR_NEUTRAL  This mob is aggressive to only neutral aligned chars.
+10. MEMORY  This mob will remember who they were fighting and will attack
+11. HELPER  This mob assists anyone who is attacked.
+12. !CHARM  This mob cannot be charmed
+13. !SUMMN  This mob cannot be summoned
+14. !SLEEP  This mob cannot be affected by the sleep spell
+15. !BASH   This mob cannot be bashed
+16. !BLIND  This mob cannot be affected by the blind spell
+17. QHEAL  This mob heals at a faster rate and heals even when poisoned
+18. !CURSE This mob cannot be affected by the curse spell
+19. !SLOW  This mob cannot be affected by the slow spell
+20. !POISON  This mob cannot be affected by the poison spell
+21. NICE  This mob will not kill a mortal that is mortally wounded
+22. DOORSTOP  Makes mob completely invulnerable and completely invisible,
+it is for when you want a mob prog in a room, but don't want a mob there
+to be seen or attacked
+23. HUNTER  This mob will track and attack players that have attacked
+it previously. It will only track if the player is in it's zone, and
+it has the same limits as the track skill. A mob with HUNTER also needs
+memory to work properly.
+24. FLESH_EATER  This mob is affected by natural AC (the kind monks have)
+only 2/3 as much as normal mobs.
+
+#
+AFLAGS
+
+These are the flags available for affects on mobs,
+and their explanations:
+
+ 1. BLIND  The mob is blind
+ 2. INVIS  The mob is invis
+ 3. DET-INVIS  The mob can detect invis
+ 4. SENSE-LIFE  The mob can sense life
+ 5. WATERWALK  The mob can walk over water areas
+ 6. SANCT  The mob has the spell sanct on them
+ 7. CURSE  The mob is cursed
+ 8. INFRA  The mob can see in the dark
+ 9. POISON  The mob is poisoned
+10. PROT-EVIL  Makes it hard for evil players to start a fight with the mob
+11. PROT-GOOD  Makes it hard for good players to start a fight with the mob
+12. !TRACK  The mob cannot be tracked
+13. SPELL-SHIELD  The mob is using the spell shield
+14. MAGIC-SHIELD  The mob is using the magic shield
+15. SNEAK  The mob is using the skill sneak
+16. HIDE  The mob is using the skill hide
+17. FLY  The mob is flying
+18. (UN)HOLY  The mob is affected in the same was as holy or unholy word
+19. SLOW  The mob is affected by the spell slow
+20. HASTE  The mobs is affected by haste
+21. MAGIC-LIGHT  The mob can see in the dark and acts as a light source
+22. DIVINE-PROT  Makes it hard for players to start a fight with the mob
+23. LOWER-MR  The mob is affected by the lower resistance spell
+24. DISEASED  The mob will spread disease to players.
+25. FEEL_LIGHT  The mob will be able to see even when blinded, but it will
+still suffer the stat penalties of being blind (same as the skill).
+26. ENERGY_CONT  The mob will get a save for half damage against fire,
+ice, and energy attacks and will gain magic light from energy absorbed.
+Not cumulative with sanc (same as the skill).
+
+Note: A mob affected by blind or curse here will not suffer the
+usual hitroll and ac penalties from them.
+
+#
+ZEDIT
+
+Usage: zedit <zone>
+
+Zedit lets you edit the zone reset commands of the zone you specify
+by number. This is what the zedit menu looks like, along with
+explanations:
+
+New zone
+IF mob 3062 (a beastly fido) in room 25601 () Prob:10000 Lim:1
+  IF obi 3010 (a bread) to inventory of mob 3062 (a beastly fido) Prob:5000
+Lim:none
+  ELSE
+    obi 1395 (a spiked c) to mob 3062 (a beastly ), First worn around Neck
+Prob:10000 Lim:none
+
+1. Add Command  Lets you add a command (see zadd)
+2. Delete Command  Lets you delete a command
+3. Edit Command  Lets you edit components of a command
+4. Move Command  Lets you move a command
+5. Copy Command  Lets you copy a command
+0. Exit
+
+If you delete, move, or copy a command that has other commands depending on
+it, those commands will be deleted, moved, or copied also. You can see
+dependance by the indenting and the if and else statements.
+
+See also: OLC MEDIT OEDIT REDIT
+
+#
+ZADD
+
+When you add a command it will ask you a series of questions. They are:
+
+After which line do you want to add a command?
+  The new command you are adding will come after the command number you
+specify and can depend on that command happening. If there are no commands,
+or you want the new command to be at the top of the list, choose 0 for the
+top of the zone table.
+
+Next you get a choice of:
+1. No dependance on the previous command
+2. Depend on the previous command happening
+3. Depend on the previous command not happening
+  These should be self explanatory. This is how you build if/else
+statements. Note that if you choose no dependance, the command you are
+adding will be in the same area as the command before it, so if the previous
+command is nested within an if statement, so will this command.
+
+Next you are given choices of what kind of command you want.
+1. Load mob in room
+2. Load obj in room
+3. Load obj in obj
+4. Load obj in inventory of mob
+5. Load obj equipped on mob
+6. Set door state
+  If the new command has no dependance on anything, only options 1, 2, and 6
+will be available. If you want to load an object in and object or on a mob,
+the statement to load the object should come after and depend on the command
+that loads the thing where you want to put the object.
+
+Depending on what you choose, it will ask for vnums, directions, and eq
+positions. Those are all self explanitory.
+
+Then it will ask you for a probability. This is a range from 1 to 10000,
+with 10000 being 100%, and 1 being 0.01%.
+
+Finaly, if you are loading a mob or an object, it will ask for a limit. The
+limit is different for objects and mobs, so be sure to read the message that
+comes with each to be sure you set it apropriatly. For the most part, you
+will want to keep a limit of -1 on items and 1 on mobs.
+
+#
+OEDIT
+
+Usage: oedit <number>
+
+Oedit lets you edit objects. Number is the vnum of the object you
+want to edit. This is what the oedit menu looks like, along with
+explanations:
+
+1. OBJ:[1208]
+2. Aliases: Words that can be used to look at or search for this item
+3. Short description: The name of the item
+4. Long description: What the morts see when the item is on the ground
+5. Extra descriptions:  What the morts see when they look at the item must
+be put in extra descs (SEE xdesc)
+6. Type: Determines what the eq will do (SEE otype)
+12. Wearable on: This is how you set the item to be worn/wielded/held
+Every item that you want to be used must have the TAKE wear flag
+13. Flags: (SEE oflags)
+14. Sets affects: (SEE OAFF) 
+15. Strong resistance: Determines what resistances the eq will offer 
+16. Vulnerabilities: Determines what weaknesses the eq will open to the
+player
+17. Resistance: Determines resistances that are not strong 
+18. Weight:  How much the item weighs   19. Value: How much items is
+worth ALWAYS PUT VALUES ON ITEMS  ALWAYS..
+20. Affect1: Sets the stats on the item
+21. Affect2: Sets the stats on the item
+22. Affect3: Sets the stats on the item
+23. Affect4: Sets the stats on the item
+24. Affect5: Sets the stats on the item
+25. Affect6: Sets the stats on the item
+0. Exit
+
+See also: MEDIT REDIT ZEDIT
+
+#
+OFLAGS
+
+These are the flags available for objects, and their explanations:
+
+ 1. GLOW  The item glows (Just for looks)
+ 2. HUM  The item hums (Just for looks)
+ 3. !RENT  Items with this flag must be junked or dropped before the
+player can quit the game
+ 4. !DONATE  This item cannot be donated
+ 5. !INVIS  This item cannot be made invis by the spell
+ 6. INVISIBLE This item is invisible
+ 7. MAGIC  This item glows to people with detect magic, and cannot
+be enchanted if it is a weapon
+ 8. !DROP  This item cannot be dropped (cursed)
+ 9. BLESS  The item is blessed (Just for looks)
+10. !GOOD  This item cannot be used by good aligned chars
+11. !EVIL   This item cannot be used by evil aligned chars
+12. !NEUTRAL  This item cannot be used by neutrally aligned chars
+13. !MAGE  Mages cannot use this item
+14. !CLERIC  Clerics cannot use this item
+15. !THIEF  Thieves cannot use this item
+16. !WARRIOR  Warriors cannot use this item
+17. !SELL  This item cannot be sold
+18. !PALADIN  This item cannot be used by paladins
+19. !RANGER  This item cannot be used by rangers
+20. !APAL  This item cannot be used by apaladins
+21. !MONK  This item cannot be used by monks
+22. !PSI  This item cannot be used by psionicists
+23. STRICT_CLASS  This item can only be worn by someone of the exact
+classes allowable. For example, if the item can be worn by mages and
+clerics, then it will only be usable by a mage/cleric multiclass. This
+lets you design items for a specific multiclass combo or single class
+only.
+24. STRONG_RESTRICT  This will cause all anti-class flags to zap players
+even when they're multiclass. For example, !WARRIOR and STRONG_RESTRICT
+would prevent a war/ran from using the item as well as a single class 
+warrior.
+
+#
+OAFF
+
+These are the flags available for affects that objects will give
+to players when worn, and their explanations:
+
+ 1. BLIND  With use of this item you will be blind
+ 2. INVIS  With use of this item you will be invis
+ 3. DET-ALIGN  With use of this item you will be able to determine a mob
+and or items align
+ 4. DET-INVIS  With use of this item you can detect invis mobs and items
+ 5. DET-MAGIC  With use of this item you can detect magic
+ 6. SENSE-LIFE  With use of this item you can sense mobs that are hiding
+ 7. WATERWALK  With this item you can walk over water areas
+ 8. SANCT  use of this item will cause you to have sanct
+ 9. CURSE  Use of this item will cause you to be cursed
+10. INFRA  Use of this item will allow you to see in dark as with the
+infravision spell
+11. POISON  Use of this item will make you poisoned
+12. PROT-EVIL  Use of this item will protect you from evil aligned aggro
+mobs
+13. PROT-GOOD  Use of this item will protect you from good aligned aggro
+mobs
+14. !TRACK  Use of this item will make make you impossible to track
+15. SPELL-SHIELD  Use of this item will give you spell-shield
+16. MAGIC-SHIELD  use of this item will give you magic-shield
+17. SNEAK  use of this item will cause you to sneak
+18. FLY  Use of this item will cause you to fly
+19. (UN)HOLY  Use of this item will give the affect of unholy or holy word
+20. SLOW  Use of this item will reduce your attacks as with the slow spell
+21. HASTE  Use of this item will give you an extra attack
+22. MAGIC-LIGHT  Use of this item will give you magic light
+23. DIVINE-PROT  Use of this item will give you divine prot
+24. LOWER-MR  Use of this item will lower your magic resistance as with
+the lower resistance spell
+25. FEEL_LIGHT  Use of this item will give you feel light, as the skill
+26. ENERGY_CONT  Use of this item will give you energy containment,
+as the skill
+0. Previous Menu
+
+Note: Affects like blind, invis, curse, and poison will only give you
+the effect, but will not change stats. For example, blind will make
+it so you cannot see, but it won't lower your hitroll like the spell
+does. Also, affects from items can only be removed by removing the
+item. Spells that cure the aflictions caused by the items will not
+get rid of them.
+
+#
+OTYPE
+
+These are the types of items available, as well as the special stats
+you need to specify for each type:
+
+1. LIGHT  The object will be a light. It must have the HOLD wear
+flag to be used.
+  Hours left: How many tics the light will last, -1 is infinite
+2. SCROLL  The item is a scroll. The spells on it can be memorized if
+you are the right class for the spell and have the memorize skill.
+When used the scroll will disappear.
+  Spell level: Level that the spells will be cast at
+  Spell1: The first spell on the scroll
+  Spell2: The second spell on the scroll (this can be left blank)
+  Spell3: The third spell on the scroll (this can be left blank)
+3. WAND  The item is a wand. It casts spells that need a target. The item
+stays around even when it is out of spells.
+  Spell: The spell this item casts
+  Level: The level it casts the spell at
+  Charges: Each spell takes 1 charge, this is how many are left
+  Max charges: This is the most charges the item can have. Right
+               now there is no way to recharge an item, but set
+               this apropriatly for the future.
+4. STAFF  The item is a staff. It casts spells that don't need a target. The
+item stays around even when it is out of spells.
+  Spell: The spell this item casts
+  Level: The level it casts the spell at
+  Charges: Each spell takes 1 charge, this is how many are left
+  Max charges: This is the most charges the item can have. Right
+               now there is no way to recharge an item, but set
+               this apropriatly for the future.
+5. WEAPON  This item is a weapon
+  Damage dice: How much damage the weapon does
+  Weapon type: What kind of attack the weapon uses
+6. TREASURE  This item is valuable. It will never be picked up
+by janitors even if you set it's value low.
+7. ARMOR  This item is armor, and give the user ac. The ac it gives
+is multiplied by 2 on the head and legs, and by 3 on body.
+  AC-apply: The ac of the armor. The higher the ac, the better
+8. POTION  This item can be quaffed to cast spells on the player
+quaffing it. Once used it disappears.
+  Spell level: Level that the spells will be cast at
+  Spell1: The first spell on the scroll
+  Spell2: The second spell on the scroll (this can be left blank)
+  Spell3: The third spell on the scroll (this can be left blank)
+9. WORN  This item is just some piece of clothing or equipment with
+no special qualities
+10. OTHER  This is for items that don't fall under any other category
+11. TRASH  This item will be picked up by janitors and shops will
+not buy it
+12. CONTAINER  This item can hold other items
+  Weight Capacity: How many pounds the item can hold. It has to hold
+                   it's own weight too, so this should be it's weight
+                   plus what you want it to hold.
+  Lock Type: Is the items closeable, pickproof, closed, locked?
+  Key Num: The vnum of the key that opens this item, if it is locked
+13. NOTE  This item can be written on or has a message. If you leave
+the action description blank, it can be written on. If you put text
+in the action description it will be seen as writing on the note,
+however if you have extra descriptions, they will will be seen instead
+of the action description.
+14. LIQ_CONTAINER  This item can hold something to drink
+  Capacity: How much liquid can the container hold. For normal water,
+            it takes 9 liquid points to bring a person from completely
+            thirsty to completely satisfied.
+  Contains: How much liquid starts in the container
+  Liquid: The type of liquid. Different types will take more or
+          fewer liquid points to satisfy your thirst, some will
+          make you drunk, some will fill you up a little, and
+          some will make you more thirsty.
+  Poisoned: Is the liquid poisoned?
+15. KEY  This item is a key. When you the vnum of an object as a key
+to a lock, be sure to make that object type key.
+16. FOOD  This item can be eaten
+  Makes full: How much it fills you up. 24 will fill you completely
+from totaly hungry.
+  Poisoned: Is it poisoned?
+17. MONEY  The item is money and will be converted into coins when taken
+  Coins: How many coins the item will become
+18. PEN  The item can be used to write on notes
+19. BOAT  The item will let you travel on water. Wearable boats must
+be worn to function. Non-wearable boats must be in inventory.
+20. FOUNTAIN  The item works like a drink container, but it cannot
+be filled, and other drink containers can be filled from it
+  Capacity: How much liquid it can hold
+  Contains: How much liquid is currently in it
+  Liquid: What type of liquid it contains
+  Poisoned: Is it poisoned?
+21. BEAMER_DEVICE  You can beam people up to your location with this
+item if they are in the same zone and in a beamup room. This item will
+work if it is in the room, as well as if it is in your inventory.
+  Beam down room: This is the vnum of the room you will be taken to
+if you beam down. Every beamer device can beam down, but not every one
+can beam up since the right kind of room is required for beaming up.
+22. DAMAGEABLE  The item can be damaged when you take damage while
+wearing it. The affects the item gives (affect1-6 in oedit) will
+be reduced acording to it's condition, and will be restored to
+normal when it is repaired.
+  Durability: How strong the item is. The higher the number, the
+              more powerful blow is required to damage the item and
+              the less frequently it will be damaged when receiving
+              such a blow.
+  Condition: What kind of shape the item starts in. Whatever shape
+             it starts in, or however much it gets damaged, it can
+             be repaired to full strength any time before it is
+             damaged to the point of being destroyed.
+
+Note: scrolls, wands, staffs, and potions let you enter an action
+description. If you do so, it will change what people in the room
+see when you used the item. There is a list of codes to use in the
+action description on the screen where you enter it.
+
+#
+$

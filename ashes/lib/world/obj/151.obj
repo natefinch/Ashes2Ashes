@@ -1,0 +1,493 @@
+#15101
+Well well~
+a well~
+The town well is here, providing water for everyone.  ~
+~
+23 0 0 0
+0 0 0
+30000 30000 15 0
+0 0 0
+#15102
+key Key iron Iron~
+a small, iron key~
+A small iron key is laying here~
+~
+18 12 1 0
+0 0 0
+1 0 0 0
+1 0 0
+#15103
+Ancient ancient Key key~
+an ancient key~
+An antique is lying here.  It looks almost ancient!~
+~
+18 12 16385 0
+0 0 0
+2 0 0 0
+1 0 0
+#15104
+chunk Chunk stone Stone orcrest Orcrest~
+a chunk of Orcrest~
+A softly glowing stone is lying here~
+~
+12 527377 16385 0
+0 0 0
+0 0 0 0
+2 5000 0
+A
+18 2
+A
+13 4
+#15105
+giantish Giantish sailing Sailing vessel Vessel boat Boat~
+a giantish sailing vessel~
+A large boat is moored here, ready to be sailed~
+~
+22 0 1 0
+0 0 0
+0 0 0 0
+32 1000 0
+#15106
+lomillialor Lomillialor staff Staff~
+a lomillialor staff~
+A softly glowing staff is lying here~
+~
+5 707585 24577 0
+0 0 0
+0 3 4 7
+10 10000 0
+A
+10 10
+A
+13 2
+#15107
+gravelingas Gravelingas pot Pot clay Clay~
+a gravelingas pot~
+A brightly glowing clay pot is here~
+~
+1 0 16385 0
+0 0 0
+0 0 -1 0
+0 0 0
+#15108
+aliantha Aliantha berries Berries~
+Aliantha berries~
+Aliantha berries can be seen here.~
+~
+19 0 1 0
+0 0 0
+24 0 0 0
+2 0 0
+A
+15 1
+#15109
+decanter Decanter crystal Crystal springwine Springwine~
+a decanter of springwine~
+A rough crystal decanter of Springwine sits here.~
+~
+17 256 1 0
+0 0 0
+10 8 2 0
+13 500 0
+#15110
+stone Stone flask Flask diamondraught Diamondraught~
+a stone flask of Diamondraught~
+A stone flask of giantish diamondraught sits here.~
+~
+17 0 1 0
+0 0 0
+5 3 7 0
+4 500 0
+#15111
+hurtloam Hurtloam mud Mud~
+hurtloam~
+A mud flecked with gold lies here.~
+~
+10 40 1 0
+0 0 0
+20 28 3 18
+2 8000 0
+#15112
+staff law~
+the Staff of Law~
+An iron-shod staff is lying on the ground here, glowing~
+~
+5 786441 24577 0
+0 0 0
+0 3 8 7
+12 25000 0
+A
+17 3
+A
+13 5
+#15113
+shortsword Shortsword sword Sword krill Krill~
+a white-bladed shortsword~
+A glowing, white-bladed shortsword is lying here.~
+~
+5 8928577 24577 0
+0 0 0
+0 3 6 11
+7 10000 0
+A
+17 3
+A
+2 1
+#15114
+staff lord lords~
+a Lords staff~
+A staff with small metal heels is lying here~
+~
+5 967938 8193 0
+0 0 0
+0 2 8 7
+12 9000 0
+A
+13 2
+A
+10 10
+#15115
+fragment Fragment stone Stone illearth Illearth~
+a fragment of the Illearth stone~
+A glowing green chunk of stone is sitting here.~
+~
+0 131585 16385 0
+0 0 0
+0 0 0 0
+5 4000 0
+A
+17 2
+A
+13 5
+#15116
+stone Stone illearth Illearth~
+the illearth stone~
+A large glowing green stone is sitting here.~
+~
+0 131649 16385 0
+0 0 0
+0 0 0 0
+15 25000 0
+A
+10 30
+A
+13 3
+E
+stone illearth green~
+ As if all sickness had hardened into one glowing solid force, the illearth
+stone reeks of evil so strongly it's almost overwhelming.  You feel both
+drawn towards it and repulsed by it, so powerful is it's evil!
+~
+#15117
+ring Ring white White~
+a white gold ring~
+A ring of white gold is lying here innocently.~
+~
+9 527424 16387 0
+0 0 0
+10 0 0 0
+2 100000 0
+A
+11 25
+A
+14 10
+#15118
+bread Bread flat Flat~
+a flat bread~
+A loaf of flat bread is sitting here.~
+~
+19 0 1 0
+0 0 0
+12 0 0 0
+1 25 0
+A
+15 1
+#15119
+spear Spear~
+a steel spear~
+A soldiers spear is lying here~
+~
+5 8418368 24577 0
+0 0 0
+0 2 8 3
+8 3765 0
+A
+17 2
+A
+23 -2
+#15120
+staff Staff binding Binding~
+a cavewights staff~
+A short, iron heeled staff has been discared here.
+~
+~
+18 13 1 0
+0 0 0
+2 0 0 0
+10 0 0
+#15121
+sword Sword broadsword Broadsword~
+a cavewight broadsword~
+A rather mundane looking broadsword has been discarded here.~
+~
+5 8531968 8193 0
+0 0 0
+0 3 4 3
+7 2000 0
+A
+17 1
+A
+18 1
+#15122
+clingor Clingor belt Belt~
+a clingor belt~
+A sticky clingor belt lies here.~
+~
+15 0 2049 0
+0 0 0
+100 0 0 0
+5 2000 0
+A
+16 5
+#15123
+rock Rock key Key~
+a key of rock~
+A key-shaped rock is lying here.~
+~
+18 12 16385 0
+0 0 0
+2 0 0 0
+5 0 0
+#15124
+iron Iron chest Chest~
+a small iron chest~
+A small iron chest sits here.~
+~
+15 0 1 0
+0 0 0
+10 13 0 0
+5 1000 0
+#15125
+scroll Scroll melenkurion Melenkurion~
+a scroll marked "Melenkurion"~
+A scroll is here.~
+~
+2 560192 1 0
+0 0 0
+48 55 0 0
+1 25000 0
+#15126
+old Old scroll Scroll abatha Abatha~
+a scroll marked "Abatha"~
+An old scroll is here.~
+~
+2 560192 1 0
+0 0 0
+48 22 0 0
+1 25000 0
+#15127
+yellow Yellow scroll Scroll kabaal Kabaal~
+a scroll marked "Kabaal"~
+A yellowed scroll is here.~
+~
+2 560192 1 0
+0 0 0
+48 36 0 0
+1 35000 0
+#15128
+golden key~
+a golden key~
+A golden key lies here, discarded.~
+~
+18 12 1 0
+0 0 0
+2 0 0 0
+2 0 0
+#15129
+illearth glowing green key~
+a glowing green key~
+The illearth key lies here, glowing with a sick green light...~
+~
+18 5 16385 0
+0 0 0
+2 0 0 0
+5 0 0
+E
+illearth glowing green key~
+ This key gives off a sickly feel, and the green glow makes you feel ill.
+~
+#15130
+sign note signpost post~
+a signpost with a note attached to it.~
+A signpost is stuck in the ground here, with a note posted on it.~
+  #######################################################################
+  #                                                                     #
+  #  Warning!      Your current path leads to an area full of culture   #
+  #              and history, but also full of danger.  Newbies should  #
+  #  Warning!    not enter here!  This is a mid-high level area, and    #
+  #              should not be entered into lightly.        -M.G.       #
+  #                                                                     #
+  #######################################################################
+
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#15150
+gold coin coins~
+a large stack of gold coins.~
+A large stack of gold coins sits here.~
+~
+20 0 1 0
+0 0 0
+30000 0 0 0
+0 0 0
+#15175
+~
+----- Personal Stuff~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#15176
+body suit skin~
+a mouse skin body suit~
+A crumpled pile of soft grey leather lies here.~
+~
+9 0 9 0
+0 0 0
+0 0 14 0
+5 0 0
+A
+12 0
+A
+15 0
+#15177
+pizza slice~
+a slice of pizza~
+A slice of pepperoni pizza sits here, steaming.  It smells good.~
+~
+19 0 1 0
+0 0 0
+100 0 0 0
+1 0 0
+#15178
+mug glass coke coca-cole~
+a glass Coca-cola mug~
+A glass Coca-cola mug sits here.~
+~
+17 0 1 0
+0 0 0
+100 100 15 0
+105 0 0
+#15179
+shard soul~
+a shard of a frozen immort's soul~
+A sliver of odd looking ice lies here...~
+~
+5 0 24577 0
+0 0 0
+8 0 0 11
+1 5000 0
+A
+18 0
+A
+17 0
+#15180
+A pair of soft, gray, leather gloves.~
+a pair of mouseskin gloves~
+A pair of gray leather gloves lie nearby.~
+~
+9 9089096 129 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+gloves~
+These glove are obviously artifacts of ENOURMOUS power...
+~
+#15181
+boots~
+a pair of soft, gray, leather boots~
+A pair of soft, gray, leather boots stands here.~
+~
+9 9089096 65 0
+0 0 0
+0 0 0 0
+0 0 0
+#15182
+tunic shirt~
+a soft, gray shirt~
+A crumples pile of soft, gray material lies here.~
+~
+9 9089096 257 0
+0 0 0
+0 0 0 0
+0 0 0
+#15183
+coat surcoat~
+a royal blue surcoat~
+A royal blue surcoat hangs nearby.~
+~
+9 9089096 9 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+14 0
+A
+11 0
+#15184
+cloak~
+a royal blue cloak~
+A large pile of royal blue material lies here.~
+~
+9 9089096 1025 0
+0 0 0
+0 0 0 0
+0 0 0
+#15185
+trousers pants~
+a pair of stylish leather trousers~
+A stylish pair of soft, gray, leather trousers lies discarded here.~
+~
+9 9089096 33 0
+0 0 0
+0 0 0 0
+0 0 0
+#15186
+scimitar~
+a blue-tinted scimitar~
+An elegant blue-tinted bladed weapon lies here.~
+~
+5 9089096 24577 0
+0 0 0
+0 0 0 11
+0 0 0
+A
+17 0
+A
+18 0
+#15190
+dossier brief briefing~
+a leather bound dossier~
+A leather bound notebook is lying discarded here.~
+MISSION BRIEFING: 98362543 : X-MEN CRISIS (TOP SECRET)
+
+Approximately 1 hour ago we received a message from Professor Charles Xavier
+who is leader of a super-hero team known as the X-Men.  He said that the
+base for his team, Xaviers School for Gifted Youngsters, was under attack by
+an organized team of powerful, evil mutants.  According to Xavier, his main
+security system had been disabled, and his team captured.  His broadcast
+was interrupted by this group, and terminated.  We can only assume he was
+captured as well.  You mission: To defeat this group of evil mutants, free
+the X-Men and liberate the mansion.  That is all.
+~
+16 1 1 0
+0 0 0
+0 0 0 0
+1 0 0
+$

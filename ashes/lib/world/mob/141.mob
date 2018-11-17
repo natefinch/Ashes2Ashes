@@ -1,0 +1,201 @@
+#14100
+Rabbit rab white~
+a rabbit~
+A white rabbit is hopping about here in search of food.
+~
+He's just a standard cute, furry, little white rabbit. Although if you've
+ever owned a rabbit, doesn't matter how cute they are, they usually don't
+like to be messed with.
+~
+4194378 0 0 W3
+8 10 2 1d1+200 3d5+0
+0 1250
+8 8 0
+13 0 13 13 13 13 13
+0 1 3
+25 8 1 0 0 0
+40 40 40 40 40
+0 0 0
+6 1
+
+~
+#14101
+fox brown~
+a fox~
+A brown fox is here sniffing the ground looking for a rabbit to eat.
+~
+You look at the fox. He's an orange brown color and looks like he doesn't
+like company. I'd leave him alone.
+~
+74 0 0 W3
+12 15 0 1d1+300 4d5+0
+0 5000
+8 8 0
+13 0 13 13 13 13 13
+0 2 3
+0 4 2 0 0 0
+40 40 100 40 40
+0 0 0
+6 1
+~
+#14102
+sparrow~
+a sparrow~
+A small sparrow is here poking in the grass looking for food .
+~
+You take a closer look at a sparrow..Hmmmm....Guess what? It's a sparrow!!!
+~
+4194378 0 0 W3
+4 4 8 1d1+30 2d5+0
+0 800
+8 8 0
+13 0 13 13 13 13 13
+0 0 3
+80 4 1 0 0 0
+70 70 70 70 70
+0 0 0
+6 1
+~
+#14103
+snake brown~
+a brown snake~
+A brown snake slithers by your feet, watch out.
+~
+Taking a closer look at the snake you see he's not entirely brown, rather he
+has some small black spots on his back. His fangs look pretty sharp, they'd
+probably hurt a lot.
+~
+74 0 0 W3
+10 15 0 1d1+200 6d3+0
+0 3000
+8 8 0
+13 0 13 13 13 13 13
+0 1 3
+0 4 1 0 0 0
+50 50 50 50 50
+0 0 0
+6 1
+~
+#14104
+villager graven man~
+a lost Graven villager~
+A lost Graven villager is wandering here, looking for a way out of the
+forest.
+~
+He looks kind of lost.. but thats just guess. What bothers you is that he
+looks really scared. Perhaps he knows something you don't?
+~
+16779340 0 0 W3
+25 15 0 1d1+1000 5d5+0
+500 10000
+8 8 1
+13 0 13 13 13 13 13
+0 2 2
+0 13 2 0 0 0
+40 40 40 40 40
+0 0 0
+5 1
+~
+#14105
+monster snarl dark woods~
+a monster of the Dark Woods~
+A monster of the Dark Woods is here snarling viciously at you.
+~
+You look at this terrible creature...His 3 inch fangs, hairy body and sharp
+claws remind you of a dog, only it stands upright on 2 powerful, hairy legs.
+His mouth drips with a red colored liquid, a liquid you know all to well. You
+can smell his very presence, a smell of rotted meat and decaying flesh. Maybe
+now is a good time to run.
+~
+33558089 1024 -200 W3
+75 45 -17 1d1+8000 6d5+22
+0 175000
+8 8 0
+18 0 13 13 13 13 13
+4 3 0
+-175 9 3 0 0 0
+25 25 25 25 25
+0 0 0
+6 15
+growl
+~
+#14106
+woodlander wood lander man~
+a Woodlander~
+A Woodlander stands here, looking cautiously around.
+~
+This is obviously one of the people that you had seen evidence of living in
+the woods. He looks fairly tall, and seems to be uncannily aware of his
+surroundings. He is wearing some kind of animal skin on his body, and
+wielding a small sword.
+~
+4491354 1056 500 W3
+35 20 0 1d1+1500 4d5+0
+0 30000
+8 8 0
+14 0 13 13 13 13 13
+0 2 2
+0 13 3 0 0 0
+20 20 20 20 20
+0 0 0
+6 1
+~
+#14107
+robin bird~
+a robin~
+A robin is here looking for worms in the soil.
+~
+Taking a closer look, you see nothing unusual about this pretty little bird.
+He's just going about his business looking for food.
+~
+4194378 1024 0 W3
+6 12 4 1d1+50 5d2+0
+0 500
+8 8 0
+13 0 13 13 13 13 13
+0 0 3
+40 4 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 1
+~
+#14108
+jay blue~
+a blue jay~
+A blue jay is pecking the ground here in search of a tasty bug or 2.
+~
+You look a little more closely at this small blue bird. You notice he appears
+to be really hungry. Hmmm.... Got any bread?
+~
+4194382 1024 0 W3
+5 10 6 1d1+40 6d2+0
+0 400
+8 8 0
+13 0 13 13 13 13 13
+0 0 3
+60 4 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 1
+~
+#14109
+deer~
+a deer~
+A deer is stnding here, drinking from the pond.
+~
+Looking at the deer you see it's a beautiful animal. If only you had a 12
+gauge shotgun with you. Oh well. For now you'll have to be content with
+watching it.
+~
+4194378 1024 0 W3
+14 17 0 1d1+500 4d6+0
+0 7000
+8 8 0
+13 0 13 13 13 13 13
+0 3 3
+0 0 2 0 0 0
+30 30 30 30 30
+0 0 0
+6 1
+~
+$

@@ -1,0 +1,311 @@
+#18900
+warrant note parchment~
+a garrison entrance warrant~
+A small roll of parchment lies here. ~
+A small roll of parchment lies here. ~
+16 0 16385 0
+0 0 0
+0 0 0 0
+1 1 0
+E
+note warrant parchment garrison~
+To Garrison Commander:
+
+I hereby authorize the holder of this warrant to enter the Shamata
+Garrison on official State business.
+
+                                                   ^
+                                                  <D>
+                                                   V
+
+                                            Lord Durrany
+~
+#18901
+guradsman guard shortsword sword short~
+a guardsman's shortsword~
+A shortsword with a blue seal upon the hilt lies here. ~
+~
+5 9056256 24577 0
+0 0 0
+1 6 2 11
+1 1000 0
+A
+5 1
+#18902
+key red cross~
+key with a red cross~
+A key with a red cross emblazoned on it lies here.~
+~
+18 0 16385 0
+0 0 0
+2 0 0 0
+1 1000 0
+#18903
+chest medicine red cross ches ches cros cro~
+medicine chest~
+A medicine chest with a red cross emblazoned on it's side is on the floor
+against the east wall.
+~
+~
+15 0 0 0
+0 0 0
+5000 15 18902 0
+1000 0 0
+#18904
+red hot simmering crimson potion simm sim crim ~
+red hot simmering crimson potion~
+A red hot simmering crimson potion lies here.~
+~
+10 2 16385 0
+0 0 0
+45 28 28 28
+2 10000 0
+#18905
+simmering crimson potion pot crim cri sim simm ~
+a simmering crimson potion~
+A simmering crimson potion lies here.~
+~
+10 0 16385 0
+0 0 0
+45 28 28 0
+2 5000 0
+#18906
+crimson potion crim pot cri potic crims~
+a crimson potion~
+A crimson potion lies here.
+~
+~
+10 0 16385 0
+0 0 0
+45 28 0 0
+2 2000 0
+#18907
+herb her potion potio poti pot~
+a herb based potion~
+A herb based potion lies here.~
+~
+10 0 16385 0
+0 0 0
+45 15 15 15
+2 900 0
+#18908
+red cross cros cro armband arm band ~
+red cross armband~
+An armband with a red cross embroidered on it lies here.~
+~
+9 836609 257 0
+0 0 0
+3 0 0 0
+5 5000 0
+A
+10 10
+A
+13 2
+#18909
+crimson cross armband armband arm band crim cros cro crimson crims cri~
+crimson cross armbands~
+A pair of crimson cross armbands lie here.~
+~
+9 836610 257 0
+0 0 0
+4 0 0 0
+5 10000 0
+A
+13 3
+A
+10 10
+#18910
+metal meta met helmet helme helm hel~
+a metal helmet~
+A metal helmet lies here.~
+~
+9 1052672 17 0
+0 0 0
+6 0 0 0
+6 800 0
+#18911
+suit sui field fiel fie plate plat pla armor armo arm~
+a suit of field plate armor~
+A suit of field plate lies here in a heap.
+~
+~
+9 8679424 9 0
+0 0 0
+9 0 0 0
+15 2300 0
+A
+5 1
+A
+12 -10
+#18912
+thick thic thi leather leath leat lea vest ves~
+a thick leather vest~
+A sturdy looking vest of leather lies here in a clump.
+~
+~
+9 0 9 0
+0 0 0
+4 0 0 0
+4 500 0
+#18913
+key long~
+a long key~
+A long key with the guard emblem lies here. ~
+~
+18 0 16385 0
+0 0 0
+18908 2 6 3
+1 0 0
+#18914
+common well~
+the garrison's common well~
+The garrison's common well has been dug here, in the center of the camp.~
+~
+23 0 0 0
+0 0 0
+30000 30000 0 0
+0 0 0
+#18915
+lek tkalt lek'tkalt~
+a Lek'Tkalt~
+A very long, black blade lies here, eminating evil and absorbing light. ~
+This weapon is used by an elite band of assassin with loyalties unknown.
+It is used by slashing lengthwise across the body of an enemy. Being,
+wielded thru the back of the fist, such a long weapon, it is also used
+defensively as a shield. ~
+5 8845888 9217 0
+0 0 0
+0 8 3 3
+8 50000 0
+A
+16 -20
+A
+10 20
+#18916
+strong box huge strongbox~
+a huge strongbox~
+A huge strongbox rests heavily to one side of the room. ~
+This stronbox is made of tempered iron plates, meaning there is something
+of great importance in it... or something very dangerous. A note has
+been carelessly left atop the box. ~
+15 0 0 0
+0 0 0
+30000 15 18917 0
+10000 0 0
+E
+note~
+Lt. Varta,
+You have my express permission to visit your family on Krondor. I,
+personally will take your watch.
+
+                                                Garrison Commander
+~
+E
+box strong strongbow huge~
+This bow is made of tempered iron plate. Something important must be in
+there... or something dangerous. A note has been carelessly left upon
+the box. ~
+#18917
+large steel key~
+a large steel key~
+A large steel key with a garrison seal lies here. ~
+~
+18 0 1 0
+0 0 0
+18916 0 0 0
+1 0 0
+#18985
+condom cond con janfer~
+Janfer's condom of Supreme Protection~
+Janfer's condom of Supreme Protection has been discarded here.~
+~
+9 323 2065 0
+0 0 0
+0 0 0 0
+0 0 0
+#18990
+sign~
+a sign~
+A sign fixed upon a post commands your attention.~
+
+
+ATTENTION:
+               YOU ARE ABOUT TO ENTER MIDKEMIA, AN ALL
+               LEVEL, FULLY LOGICAL ZONE. IF YOU DIE
+               HERE, IT IS BECAUSE YOU WEREN'T PAYING
+                  ATTENTION.
+ 
+BROUGHT TO YOU BY:
+                        [PROJECT MIDKEMIA]
+                AUTHOR: RAYMOND E. FIEST
+              BUILDERS: NAVARRE (DIRECTOR)
+                        JANFER
+                        JIMMY
+                        RAISTLIN
+                        THIEF
+                        MATTHIAS
+                        HUGH
+
+WITH SPECIAL THANKS TO:
+
+               NIGEL, CTHULHU, DYREWULF, MACLEOD,
+
+            AND EVERYONE ELSE WHO REALLY BELIEVED THAT WE
+                       WOULD SOMEDAY OPEN
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+spock~
+~
+E
+spocks~
+~
+E
+spock's~
+~
+E
+armor~
+~
+E
+vulcan~
+~
+#18997
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+50 68 68 68
+0 0 0
+#18998
+silverthorne silver thorn thorne~
+the silverthorne~
+~
+~
+5 0 29059 0
+0 0 0
+0 0 0 11
+0 0 0
+A
+11 0
+A
+18 0
+#18999
+board~
+Midkemia Project Notice Board~
+Midkemia Project Notice Board
+~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+$

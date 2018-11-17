@@ -1,0 +1,903 @@
+#11301
+The Gate to Redwall~
+You are before the gate to Redwall, the ground you walk on has beatiful 
+freshly cut grass that you can smell as your walking into the Portcullis 
+north of you.  As your feet glide through the soft grass and the wind blows
+your hair around you try to muster up the courage to enter this Castle.  It
+is a beatiful sight, the most beatiful castle that you have ever seen.  You
+want to go in, but beware.
+~
+113 0 2
+0d0+0 0 0
+D0
+Gate
+~
+Gate~
+2 11301 11302
+D2
+~
+Portal~
+0 -1 6090
+S
+#11302
+Passed the gate to Redwall on a field~
+You have gone through the portcullis and you see a wide open field, there
+is a fresh pond near you, you think of taking a swim in the pond since the
+water looks so clean and blue.  Their are little fishes hopping around in 
+their. You cannot go in their because you have to get on your way...maybe
+just a little swim then?
+~
+113 0 2
+0d0+0 0 0
+D0
+Before the Great hall of Redwall
+~
+Before the Great Hall of Redwall~
+0 -1 11305
+D1
+A way around the castle
+~
+A way around the Castle~
+0 -1 11303
+D2
+To the south you see a Gate and a road.
+~
+Gate to Redwall~
+2 11301 11301
+D3
+A little Pond
+~
+A little Pond~
+0 -1 11304
+S
+#11303
+A way around the Castle~
+There is a large castle in the front of you, you start going around in
+on a small dirth path.  This path leads you to more dirt and more dirt,
+pretty soon you cannot see the bright green grass or smell the fresh scent 
+of it anymore.  Where are you going?  Where are you?  Watch out!
+~
+113 0 2
+0d0+0 0 0
+D0
+Around the Castle
+~
+Around the Castle~
+0 -1 11309
+D3
+A field to the Castle of Redwall
+~
+A field to the Castle of Redwall~
+0 -1 11302
+S
+#11304
+A little Pond~
+There is a fresh-water pond here, you already know that though because you
+are swimming in it!  It is so refreshing to you, there are fishes jumping 
+around in here and having fun.  You feel as if this is taking so long and 
+then you get out and get on your way.  Know if only you can find where
+you put your cloths?
+~
+113 0 7
+0d0+0 0 0
+D1
+A field leading to the Castle of Redwall
+~
+A field leading to the Castle of Redwall~
+0 -1 11302
+S
+#11305
+Before the Great Hall of redwall~
+You are surrounded by grass which leads to a large wooden door, there
+is metal strips of steel across the door to make it sturdy so you can't 
+bash it open. It looks like your going to need the key for this one.
+~
+113 0 2
+0d0+0 0 0
+D0
+Door to Great Hall
+~
+Door~
+2 11305 11306
+D2
+A field leading to the Castle of Redwall
+~
+A field leading to the Castle of Redwall~
+0 -1 11302
+S
+#11306
+Inside the Great Hall of Redwall~
+This is the Great Hall of Redwall, it is an extremely long hall and there
+are paintings and tables lining the walls of this hall.  The wall tower
+bove you as you look up.  There is a great big table in the center here,
+I wonder what its used for?
+~
+113 0 0
+0d0+0 0 0
+D0
+Stairs
+~
+~
+0 -1 11307
+D2
+Door to Great Hall
+~
+Door~
+2 11305 11305
+S
+#11307
+Stairs~
+You are at a flight of stairs where it swings around in a chinese staircase
+upwards, there is a strange wind coming from the east.  But when you look 
+east all you can see is that there is a Tapestry of the great Martin the
+warrior. Why don't you go look at it?
+~
+113 0 0
+0d0+0 0 0
+D1
+Tapestry of Martin the warrior
+~
+Tapestry~
+2 11307 11308
+D2
+The Great Hall
+~
+~
+0 -1 11306
+D4
+~
+~
+0 -1 11313
+S
+#11308
+Before the great statue of Martin the Warrior~
+Here stands the great statue of Martin the Warrior, there is an exit to
+your north but you see that it is a locked door so then you notice the
+key that the Statue has on him.  I am sure you can piece it together from
+here.
+~
+113 0 0
+0d0+0 0 0
+D0
+Wall
+~
+Wall~
+2 11308 11312
+D3
+The Tapestry of Martin the warrior
+~
+Tapestry~
+2 -1 11307
+S
+#11309
+Path around Castle~
+You have wandered around the Castle, for some reason you don't think you
+should be here.  You smell rotting corpses and trash.  Where has Redwall
+taken you?  Could it be the dungeon but all on the floor is only dirt.
+As you turn around to get back to where you once were, you spot a large
+metal grate going down.
+~
+113 0 0
+0d0+0 0 0
+D2
+Path around Castle
+~
+~
+0 -1 11303
+D5
+Down into the darkness
+~
+Grate~
+2 -1 11310
+S
+#11310
+In the Darkness~
+You have gone into complete darkness, and your nose burns from the stench
+of rotting corpses and decaying of bones.  You try to gain your wits and
+by then you realize that someone is breathing next to you.  A sharp
+pain appears at your right shoulder.  Watch out your under attack!!!
+~
+113 6152 0
+0d0+0 0 0
+D3
+Gate
+~
+Gate~
+2 11310 11311
+D4
+A Grate leading into the light
+~
+Grate~
+2 -1 11309
+S
+#11311
+Dungeon~
+You are standing aimlessly in a dungeon, corpses of used-to-be-players
+are here manacled on the wall, until they dared to come into Redwall.
+So to make an example they were hung on to Manacles for the rest of their
+lives. Or what lives I have allowed them to have.
+~
+113 14336 0
+0d0+0 0 0
+D1
+Gate
+~
+Gate~
+2 11310 11310
+S
+#11312
+Secret room for Martin the Warrior~
+This is the secret of Martin the Warrior, the founder of Redwall.  You
+look around the room and notice a treasure chest in the middle.  Maybe 
+you should try and open it, then again maybe you shouldn't.
+~
+113 14336 0
+0d0+0 0 0
+D2
+Wall
+~
+Wall~
+2 11308 11308
+S
+#11313
+The first level~
+You have reached the level 1 hallway of Redwall.  Can you pass here
+flawlessly or do you have the urge to kill or be killed?  Watch from the 
+corner of your eyes and be aware of the doors lining the walls on the way
+South.
+~
+113 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11314
+D5
+~
+~
+0 -1 11307
+S
+#11314
+Hallway~
+You are in a Hallway and you are getting paranoid from the sounds you are
+hearing outside the rooms, you start to wonder if you should enter the 
+rooms ling the walls or then again maybe you shouldn't.
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11313
+D1
+~
+Door~
+1 -1 11315
+D2
+~
+~
+0 -1 11317
+D3
+~
+Door~
+1 -1 11316
+S
+#11315
+Nursing Room~
+You are in a room with two other creatures, a nurse and a mouse, it looks
+as if the Mouse has been hurt and needs medical attention.  You wonder
+what to do now, should you stay and help the mouse or should you forget the
+mouse and go on?  Your decision.
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+Door~
+1 -1 11314
+S
+#11316
+Nursing room~
+You are in a room with two other creatures, a nurse and a mouse, it looks as
+if the Mouse has been hurt and needs medical attention.  You wonder what
+to do now, should you help the mouse, or should you just leave?  Plus you
+can always just kill both of them.  Your decision.
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+1 -1 11314
+S
+#11317
+Hallway~
+You are in a Hallway and you are getting paranoid from the sounds you are
+hearing outside the rooms, you start to wonder if you should enter the rooms
+lining the walls or then again maybe you shouldn't.
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11314
+D1
+~
+Door~
+1 -1 11318
+D2
+~
+~
+0 -1 11320
+D3
+~
+Door~
+1 -1 11319
+S
+#11318
+Nursing room~
+You are in a room with two other creatures, a nurse and a mouse, it looks 
+as if the Mouse has been hurt and needs medical attention.  What should you
+do now?  Should you keep going, should you help the mouse?  Or should you 
+just kill them both and be on your way?  Your decision.
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+Door~
+1 -1 11317
+S
+#11319
+Nursing Room~
+You are in a room with two other creatures, a nurse and a mouse, it looks
+as if the Mouse has been hurt and needs medical attention.  What should
+you do now?  Should you keep going, help the mouse, or just kill them both
+and be on your way?  Your decision.
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+1 -1 11317
+S
+#11320
+Hallway~
+You are in a Hallway and you are getting paranoid from the sounds you are
+hearing outside the rooms, you start to wonder if you should enter the
+rooms lining the walls or then again maybe you shouldn't.
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11317
+D1
+~
+Door~
+1 -1 11321
+D2
+~
+~
+0 -1 11323
+D3
+~
+Door~
+1 -1 11322
+S
+#11321
+Nursing Room~
+You are in a room with two other things, a nurse and a mouse, it looks as
+if the Mouse has been hurt and needs medical attention.  What should you 
+do now?  Should you just keep going, help the mouse?  Or should you
+kill them both and be on your way?  Your decision.
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+Door~
+1 -1 11320
+S
+#11322
+Nursing Room~
+You are in a room with two other creatures, a nurse and a mouse, it looks as
+if the mouse was hurt and needs medical attention.  What should you do now?
+Should you keep going, should you help the mouse?  Or should you just kill
+them both and be on your way.  You decide.
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+1 -1 11320
+S
+#11323
+Hallway~
+You are in a Hallway and you are getting paranoid from the sounds you are
+hearing outside the rooms, you start to wonder if you should enter the
+rooms lining the walls or then again maybe you shouldn't.
+Beware of the South's East and West. 
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11320
+D1
+~
+Door~
+1 -1 11324
+D2
+~
+~
+0 -1 11326
+D3
+~
+Door~
+1 -1 11325
+S
+#11324
+Nursing Room~
+You are in a room that has two creatures in it, a nurse and a mouse, it looks
+as if the Mouse has been hurt and needs medical attention.  What should you
+do now?  Should you stay and help the mouse?  Should you keep going and not
+be bothered by the mouse?  Or should you just kill them both and be on your 
+way? Your decision.
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+Door~
+1 -1 11323
+S
+#11325
+Nursing room~
+You are in a room with two creatures in it, would you like to know what
+two creatures are here with you?  A nurse and a Mouse.  It looks as if
+the mouse has been been wounded and is in need of medical attention.  You
+wonder what to do now?  Should you just leave them here and do nothing to help
+them, should you stay here and try to help the Mouse?  Or should you just
+kill them and put them both out of misery?  YOu decide.
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+1 -1 11323
+S
+#11326
+End of the Hallway~
+Your now at the end of the hallway.   Didn't I tell you not to come down here?
+Well now that your are here you could see that theres nothing to be afraid of.
+I was just scaring you!  Well, that was fun.  What to do now?  Go scare
+someone else?
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11323
+D1
+~
+Door~
+2 11326 11327
+D3
+~
+Door~
+2 11325 11328
+D4
+~
+~
+0 -1 11329
+S
+#11327
+Doctor's Room~
+Here stands the Doctor.  Yes he is in.  He should be in all those rooms
+helping the Mice, right?  So whats he doing in here?  Well, maybe he is
+on his break, wait maybe he is injecting himself with drugs?  That would
+not be cool.  Having a doctor that you need to heal you be using drugs?
+Maybe he is waiting for the nurse.
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+Door~
+2 11326 11326
+S
+#11328
+Nurse's Office~
+HELLO! This is the nurse's office and shower room!  What are you doing in here
+you little pervert a nurse screams and slaps you at the same time.  Well in the
+corner there is a nurse getting ready to go "visit" the doctor.  Maybe its 
+about time you left, the nurse's are getting upset.
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+2 11325 11326
+S
+#11329
+Second Level~
+You are now at the second level, I am surprised you made it here, get ready
+for mobs, mobs, and more mobs!  You see 10 doors to your east and west along
+the walls on the way North.
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11330
+D5
+~
+~
+0 -1 11326
+S
+#11330
+Hallway~
+You are in a Hallway and you are getting paranoid from the sounds you are hearing outside the rooms, you start to wonder if you should enter the rooms ling the walls or then again maybe you shouldn't.
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11331
+D1
+~
+Door~
+1 -1 11338
+D2
+~
+~
+0 -1 11329
+D3
+~
+Door~
+1 -1 11339
+S
+#11331
+Hallway~
+You are in a Hallway and you are getting paranoid from the sounds you are hearing outside the rooms, you start to wonder if you should enter the rooms ling the walls or then again maybe you shouldn't.
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11332
+D1
+~
+Door~
+1 -1 11341
+D2
+~
+~
+0 -1 11330
+D3
+~
+Door~
+1 -1 11340
+S
+#11332
+Hallway~
+You are in a Hallway and you are getting paranoid from the sounds you are hearing outside the rooms, you start to wonder if you should enter the rooms ling the walls or then again maybe you shouldn't.
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11333
+D1
+~
+Door~
+1 -1 11352
+D2
+~
+~
+0 -1 11331
+D3
+~
+Door~
+1 -1 11351
+S
+#11333
+Hallway~
+You are in a Hallway and you are getting paranoid from the sounds you are hearing outside the rooms, you start to wonder if you should enter the rooms ling the walls or then again maybe you shouldn't.
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11334
+D1
+~
+Door~
+1 -1 11342
+D2
+~
+~
+0 -1 11332
+D3
+~
+Door~
+1 -1 11343
+S
+#11334
+Stairs~
+You are in a Hallway and you are getting paranoid from the sounds you are hearing outside the rooms, you start to wonder if you should enter the rooms ling the walls or then again maybe you shouldn't. There are stairs leading up here.  Watch your step!
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+1 -1 11344
+D2
+~
+~
+0 -1 11333
+D3
+~
+Door~
+1 -1 11345
+D4
+~
+Hatch~
+1 -1 11346
+S
+#11338
+House~
+You are in the house of a mouse, it is cozy and warm inside here, you feel 
+like you could stay in here till forever!  You want to just go and fall
+asleep next to the warm fire.  But if the mouse that is sitting in his
+favorite char and wakes up, you better hope he doesn't mind! 
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+door~
+0 -1 11330
+S
+#11339
+House~
+You are in the house of a mouse, it is cozy and warm inside here, you feel 
+like you could stay in here till forever!  You want to just go and fall
+asleep next to the warm fire.  But if the mouse that is sitting in his
+favorite char and wakes up, you better hope he doesn't mind! 
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11330
+S
+#11340
+House~
+You are in the house of a mouse, it is cozy and warm inside here, you feel 
+like you could stay in here till forever!  You want to just go and fall
+asleep next to the warm fire.  But if the mouse that is sitting in his
+favorite char and wakes up, you better hope he doesn't mind! 
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+1 -1 11331
+S
+#11341
+House~
+You are in the house of a mouse, it is cozy and warm inside here, you feel 
+like you could stay in here till forever!  You want to just go and fall
+asleep next to the warm fire.  But if the mouse that is sitting in his
+favorite char and wakes up, you better hope he doesn't mind! 
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+Door~
+1 -1 11331
+S
+#11342
+House~
+You are in the house of a mouse, it is cozy and warm inside here, you feel 
+like you could stay in here till forever!  You want to just go and fall
+asleep next to the warm fire.  But if the mouse that is sitting in his
+favorite char and wakes up, you better hope he doesn't mind! 
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+Door~
+1 -1 11333
+S
+#11343
+House~
+You are in the house of a mouse, it is cozy and warm inside here, you feel 
+like you could stay in here till forever!  You want to just go and fall
+asleep next to the warm fire.  But if the mouse that is sitting in his
+favorite char and wakes up, you better hope he doesn't mind! 
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+1 -1 11333
+S
+#11344
+House~
+You are in the house of a mouse, it is cozy and warm inside here, you feel 
+like you could stay in here till forever!  You want to just go and fall
+asleep next to the warm fire.  But if the mouse that is sitting in his
+favorite char and wakes up, you better hope he doesn't mind! 
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+Door~
+1 -1 11334
+S
+#11345
+House~
+You are in the house of a mouse, it is cozy and warm inside here, you feel 
+like you could stay in here till forever!  You want to just go and fall
+asleep next to the warm fire.  But if the mouse that is sitting in his
+favorite char and wakes up, you better hope he doesn't mind! 
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+1 -1 11334
+S
+#11346
+Last set of Stairs~
+This is the 3rd and final level of the castle Redwall, mail Matthias on your 
+comments of Redwall.  Did you like it?  There are in fact 5 exits in this one
+room alone.  North, East, South, West, and down.  Well, why don't you go find
+out whats in them?
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+Door~
+1 -1 11347
+D1
+~
+Door~
+1 -1 11349
+D2
+~
+Door~
+1 -1 11350
+D3
+~
+Door~
+1 -1 11348
+D4
+~
+OUT~
+0 -1 10501
+D5
+~
+Hatch~
+1 -1 11334
+S
+#11347
+The room of Matthias.~
+This is the room of Matthias, he is standing here watching you and knowing
+that you cannot kill him.  You may think you can but if you use a Mage, 
+goodbye! Just a little helpful hint for you.
+~
+113 6144 0
+0d0+0 0 0
+D2
+~
+Door~
+1 -1 11346
+S
+#11348
+The room of Cornflower.~
+Cornflower is standing here in the room with a wide smile on her face, I 
+wouldn't be caught dead trying to kill her because if you are thats what
+you will be, dead!  
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+1 -1 11346
+S
+#11349
+The room of Mattimeo.~
+This is the room of Mattimeo, son of Matthias and Cornflower.  He is standing
+here showing off his great tunic and you notice that you want the tunic he
+is wearing.  Beware for he is but a little child, and a very strong one indeed
+for he was raised by the great Matthias!
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+Door~
+1 -1 11346
+S
+#11350
+Abbot's Room.~
+This is the room for the old Abbot, he is very very old and he can barely stand himself up.  He stays in his room all day and makes important decisions for 
+Redwall.
+~
+113 0 0
+0d0+0 0 0
+D0
+~
+Door~
+1 -1 11346
+S
+#11351
+House~
+You are in the house of a mouse, it is cozy and warm inside here, you feel 
+like you could stay in here till forever!  You want to just go and fall
+asleep next to the warm fire.  But if the mouse that is sitting in his
+favorite char and wakes up, you better hope he doesn't mind! 
+~
+113 0 0
+0d0+0 0 0
+D1
+~
+Door~
+1 -1 11332
+S
+#11352
+House~
+You are in the house of a mouse, it is cozy and warm inside here, you feel 
+like you could stay in here till forever!  You want to just go and fall
+asleep next to the warm fire.  But if the mouse that is sitting in his
+favorite char and wakes up, you better hope he doesn't mind! 
+~
+113 0 0
+0d0+0 0 0
+D3
+~
+Door~
+1 -1 11332
+S
+#11399
+Matthias' Room of Divineness~
+Yeah Yeah, this is my little room....it sucks...Its never clean..wait thats
+my real life room sorry:)  This room is always clean!  Zues aka Jupiter is here
+talking to me.  I grab his thunderbolt and kill him because he is so annoying.
+Then I get Hera over here and show her Zues body..I pick up his body and 
+throw it at Hera, the tbolt sticking out of his back enters her sides killing
+her instantly.  What is this room about??  Well I'll tell you, it is a room for
+me to concentrate on my "C for Dummies" book!:)  Ok now Hera and Zues are dead
+anybody else want to come and annoy me?  I didn't think so.
+~
+113 14348 0
+0d0+0 0 0
+S
+$

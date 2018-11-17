@@ -1,0 +1,1488 @@
+#22200
+student acme toon~
+a Acme student~
+A student is here getting ready for class, the toon looks quite funny
+~
+~
+72 0 0 W3
+3 5 10 1d1+29 1d3+0
+500 1250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#22201
+dizzy devil~
+Dizzy Devil~
+Dizzy is here spinning wildly and eating everything, he is Taz's favorite student!
+~
+He is purple and has two different colored eyes...he spins wildly as you look
+and he has a cute lil beanie on his head with a propeller
+~
+72 0 0 W3
+5 5 5 1d1+49 1d4+0
+500 1250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22202
+elmira~
+Elmira~
+That cute little brat that wants to hug you to pieces is here
+~
+She stands here in her dress, with her bow on her head with the skull on it
+and she is going to hug you to pieces if you do not run now!!!!
+She is swinging about her head something that looks like a cat!!
+~
+2088 0 0 W3
+5 5 5 1d1+49 1d4+0
+500 1250
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 10
+~
+#22203
+buster bunny~
+Buster Bunny~
+Buster Bunny stands here proclaiming his no relation to Babs
+~
+He is the short lil blue bunny of show Tiny Toons...He is usually joined by
+his co-host Babs, who is never to far away from him when there is mischief
+to be done on the show!
+~
+72 0 0 W3
+5 5 5 1d1+49 1d5+0
+500 1300
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22204
+Babs Bunny~
+Babs Bunny~
+Babs Bunny stands here proclaiming her no relation to Buster
+~
+She is adorable, cute, so darn precious its sickening!!!
+She is here ready to start the show, with her side-kick and co-host Buster
+~
+72 0 0 W3
+5 5 5 1d1+49 1d4+0
+500 1300
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22205
+furball~
+Furball~
+Furball is here shaking, he has found a place to hide from Elmira it appears
+~
+You look on him with pity, as you know he is often the target of that little
+brat Elmira, but for now it appears he has found a safe place to relax for a
+bit!  But be careful, he is not known for his luck!
+~
+72 0 0 W3
+5 5 5 1d1+49 1d4+2
+500 1200
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22206
+plucky duck~
+Plucky Duck~
+Plucky Duck is here trying to steal the show as usual
+~
+That annoying lil green duck is here!  He is dressed in his BAT-DUCK outfit
+You wonder how someone so small could cause so much trouble, but isn't he
+fun to watch slide into walls???
+~
+72 0 0 W3
+5 5 5 1d1+49 1d4+0
+500 1250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22207
+hampton pig~
+Hampton J. Pig~
+Hampton J. Pig, one of Porky's favorite students, is here cleaning something
+~
+He is remarkably neat for a pig, almost to the point of being obnoxious
+but everyone has to have their hobbies, why not him too?
+He hopes he doesn't see Dizzy come his way any time soon, he just got clean
+from the last visit he had from him
+~
+72 0 0 W3
+5 5 5 1d1+49 1d4+0
+500 1250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22208
+gogo dodo~
+GoGo DoDo~
+GoGo DoDo that crazy thing from the alternate galaxy is here
+~
+Here is this cute little creature that appears to bend all known rules
+to his liking, nothing appears to phase him and he has a cute little
+umbrella looking thing on his head!
+~
+72 0 0 W3
+5 5 5 1d1+49 1d4+0
+500 1250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22209
+mink dragon half~
+Mink, the Dragon-Half~
+Mink the Dragon-Half stands here ready to win Dick Saucer's affections.
+~
+She stands about 5'10" with long red hair with horns protruding up through
+the locks.  She spreads her wings and her tail is positioned just right in
+the back of her shorts.  She is a buxom beauty, but be warned, she is not a
+weak little girl by no means having the strength of a dragon and the emotions
+of a hormonal teenager, together making her a FIERCE adversary.
+~
+313387 196776 0 W3
+80 75 -25 1d1+7999 10d20+60
+75000 250000
+8 8 2
+18 100 13 13 18 13 0
+12 2 4
+-250 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#22210
+dug fin son warlock~
+Dug Fin, Son of Warlock~
+A short pointy eared lil demon stands here ready to 'Burn to Ash' any and all.
+~
+Dug Fin is the son of Warlock the leader of all the evil demons in his realm.
+Dug has gained certain powers being the son of Warlock and uses them to
+make people see is dad is the real deal when it comes to demons.  If you get
+in his way you best be ready to face all the heat that is the sun in his
+fireballs.  His Burn to Ash technique is second to none as well as his weapon
+the Godslayer of Hitpoints which he pulls from the middle of his head.
+He is about 4 foot tall and pointy ears protrude out from his turban and his
+youth is shown when you offer him a candy bar, but beware, he hates crackers!
+~
+297003 16973992 -1000 W3
+132 88 -30 1d1+11000 10d15+60
+75000 250000
+8 8 1
+18 100 13 13 18 13 0
+8 1 0
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22211
+damaramu~
+Damaramu~
+Damaramu stands here looking for Mink to take her back to the king.
+~
+he is a proud and noble warrior, a bit on the slow side, but still a good
+fighter.  he has made his name as a mercenary and the king has hired him
+to kill Mink if she will not come back to the castle with him.  This
+mission that Damaramu said "he shall not regret" has perhaps changed his mind.
+He is said to have a brain compacted to a minute size so any shots to his
+head will render no damage.  He is accompanied by his faithful companion,
+Yoshi.  Can Mink escape the clutches of such a keen warrior?  I would wager
+that to be a big yes!
+~
+38923 168 0 W3
+80 65 -20 1d1+5999 10d10+50
+50000 200000
+8 8 1
+18 100 13 13 13 13 0
+20 2 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22212
+yoshi~
+Yoshi~
+Yoshi, Damaramu's faithful bird-like companion is here.
+~
+This is more a blob like bird than any resemblance of a normal bird.  How this
+creature is able to achieve flight is beyond you, but with it's claws and 
+beak it could rip apart anything fleshy.  Mink is to be the next meal on this
+birds menu.
+~
+6155 168 0 W3
+60 50 -15 1d1+4499 8d8+40
+0 100000
+8 8 0
+18 100 13 13 13 13 0
+18 3 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22213
+geese howard~
+Geese Howard~
+The king of south town, Geese Howard determines you are not worth his effort.
+~
+Standing about 6 foot tall and with the same shade of blonde hair as Terry
+Bogard, Geese is the undisputed king of south town, and Terry and Andy's
+worse enemy.  Geese killed their father right in front of them when they
+were boys, and drove them to become the fighting machines they are today.
+Geese was barely defeated by Terry thanks to the Hapioku-Saiken's final
+attack.  Geese has sought revenge ever since and will not rest until he
+beats Terry Bogard.
+~
+297483 16777384 -1000 W3
+127 75 -27 1d1+9999 10d15+60
+50000 275000
+8 8 1
+18 100 13 13 18 13 0
+18 2 0
+-270 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22214
+wolfgang krauser~
+Wolfgang Krauser~
+Wolfgang Krauser is here looking for someone to give him a challenge.
+~
+He stands about 6'8" with dark hair and even darker eyes.  He sends a feeling
+of power through you to the very core making your hair stand on end.  He
+killed his father when he was 16 to take over the family of Stroheim.
+He sought out Terry as he has felt unchallenged since the day he killed his
+father barehanded, and was rather disappointed when he beat Terry almost
+as easy.  Terry however came back and beat Krauser to regain his title of
+world's best fighter.  Krauser is a most deadly fighter relying on brute
+force and speed which make him unmistakably a force to be reckoned with.
+~
+2394123 524416 0 W3
+140 90 -27 1d1+9999 15d15+50
+50000 20000
+8 8 0
+25 100 13 13 18 13 0
+18 3 2
+-270 10 9 700 20 20
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22215
+mai shiranui~
+Mai Shiranui~
+Mai Shiranui stands here wrapped around the arm of her beau, Andy Bogard.
+~
+The one and only Independant Dual Suspension Ninja Girl is here and looking
+to give you the fight of your life.  She calmly looks at you and asks you
+not to underestimate her just because she is a woman.  She is wearing a
+rather semi revealing uniform that has two strips of cloth that run right
+down the middle of her chest making the reason she is called I.D.S. obvious
+with each bounce she does.  You wonder how Andy can always push her aside or
+just ignore her advances.  She wields fans that are metallic and razor sharp.
+This ninja girl is here to play!
+~
+301067 136 1000 W3
+125 76 -20 1d1+4999 8d10+50
+35000 200000
+8 8 2
+18 100 13 13 18 13 0
+20 2 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22216
+laocorn gaudeamus~
+Laocorn Gaudeamus~
+A skinny lil boy with a gleam in his eye and a fireball in hand is here.
+~
+After his father was killed by a jealous associate who sought the power of
+The Armor of Mars which his father discovered the legend to and were direct
+descendants of the Gaudeamus who wore the 6 pieces at once and became a God
+back in the old Roman empire.  Laocorn has made it his personal mission to
+find all the pieces and become the most powerful being in existance.  The
+only thing stopping him is his twin sister Sulia who has gone to seek
+out the one man who can stop this, Terry Bogard.  Laocorn refuses to rest
+until he has all the armor and can take over the world.
+~
+264235 168 -351 W3
+127 80 -25 1d1+14999 20d10+50
+50000 300000
+8 8 1
+18 100 13 13 18 13 0
+20 1 2
+-250 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#22217
+sulia gaudeamus~
+Sulia Gaudeamus~
+A small, scared little girl is here looking for Terry Bogard to help her.
+~
+Sulia is blue haired (it's anime, blue hair is not a problem) and very strong
+willed, she can heal herself or others to a certain degree.  She has sought
+Terry Bogard to help her stop her brother from finding the Armor of Mars
+which will bring about an evil curse if he succeeds.  In so finding Terry
+and ataining his help she falls for the "Lone Wolf" as does he for her.
+She is very attractive and will do anything to stop her brother from getting
+the armor.
+~
+301067 128 0 W3
+140 71 -15 1d1+4999 8d8+50
+25000 150000
+8 8 2
+18 100 13 13 18 13 0
+8 1 2
+-150 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22218
+jamin~
+Jamin~
+Jamin is here ready to assist Laocorn but secretly yearning for Sulia.
+~
+He stands about 6 and a half feet tall and has red spiked hair and a look of
+discontent at your having stepped into his domain.  He is as strong as
+Krauser and possibly stronger with his Earthquaker technique, which is
+similar to Terry's Power Wave technique.  He is always serving Laocorn to
+help him get the Armor of Mars but he secretly longs to be with Sulia.
+His final act in fighting Terry is the indication of this, he let himself be
+defeated by terry so that Terry could save Laocorn and in turn Sulia.
+He is a warrior of noble stature and will only fight fair rather than cheat
+or resort to tactics his associate Hauer would.
+~
+2394123 16777344 0 W3
+130 88 -35 1d1+9999 10d15+60
+30000 20000
+8 8 1
+25 100 13 13 25 13 10
+12 3 2
+-350 9 9 300 20 20
+10 10 10 10 10
+1 0 0
+6 0
+~
+#22219
+panni~
+Panni~
+Panni can control the very element of water as she has a wave crash into you.
+~
+A very arrogant woman with a desire to please Laocorn and get him his Armor
+of Mars and she hates Mai for her cutesy ways and seeks to beat her at any
+chance.  She is the master of water as Jamini is the master of fire and
+Hauer is the master of air.  She can order the water to crash you into a
+wall at a mere glance or a whim.  She does not seem impressed at your 
+eyeing your spandexed body over, you had better leave.
+~
+297003 16777344 0 W3
+100 70 -20 1d1+9999 10d15+60
+50000 225000
+8 8 2
+18 100 13 13 18 13 0
+14 2 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22220
+hauer~
+Hauer~
+The most deadly master of the air is here, Hauer is not amused with you.
+~
+Hauer, the deadly master of air, is whom you are looking at.  He wears a gold
+mask to protect his face from injury much as Vega in Street Fighter.  It
+is decorated with a feather in the middle and when he removes the mask all the
+ladies drool >except for Mai who still thinks he's not as cute as Andy<.
+The fact Mai indicated this to him makes him hate Andy all the more.  Hauer
+does not get along with his cohort very well in that Jamin is such a good
+sport and Panni is such a follower that he truly dislikes them all.  He does
+however fear Laocorn which buys his loyalty.  Hauer can summon a tornado
+or a nice strong gust to knock you into a nearby wall leaving a crater a
+foot deep, or he may just use the sheer force of it to cut your head off.
+Either way he is not a opponent to be taken lightly.
+~
+297003 16777384 0 W3
+100 70 -20 1d1+9999 10d15+60
+50000 225000
+8 8 1
+18 100 13 13 18 13 0
+15 2 2
+-200 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#22222
+lunchlady server~
+Acme Lunchlady~
+A lunchlady stands here ready to serve you your food...least you hope its food!
+~
+She is wearing a filthy off white smock   you assume it WAS white at some time
+you hope the food is better prepared than she looks!!
+~
+74 0 0 W3
+12 15 2 1d1+150 3d3+6
+3000 8000
+6 8 2
+13 0 13 13 13 13 0
+0 2 0
+20 0 4 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#22228
+montana max~
+Montana Max~
+A very greedy looking little brat is here, looks like he spends a lot of time in detention
+~
+He is well dressed and clean to appearance but he has the appearance of a real
+mean looking brat!  He is the little monster we all were at some time or
+another!
+~
+72 0 -1000 W3
+5 5 5 1d1+99 1d3+2
+2000 1250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22239
+belldandy~
+Belldandy~
+A goddess stands here dreaming of Keitche
+~
+Wearing a unique outfit that only a goddess of her class could wear.
+She dreams of being with Keitche for the rest of her life, but she never knows when the man upstairs may call her away and she is thankful for
+the time she does get.
+~
+299019 65536 1000 W3
+100 68 -25 1d1+5999 10d10+75
+50000 300000
+8 8 2
+18 100 13 13 18 13 0
+8 2 0
+-250 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22240
+keitche~
+Keitche~
+A love struck youth stands here trying to win Belldandy's affections
+~
+A small rather goofy looking yet good hearted youth stands here and looks at
+his love?! a lifetime, Belldandy.  He made the mistake when visited by a
+goddess granting a wish.  He wished for a girl just like her and now he is
+stuck with her.  He doesn't mind anymore and desires to be the apple of her
+eye.
+~
+4231179 0 1000 W3
+100 68 -25 1d1+5999 10d10+75
+50000 300000
+8 8 1
+18 100 13 13 18 13 0
+20 2 0
+-250 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22241
+joe higashi~
+Joe Higashi~
+Joe Higashi stands here ready to earn another championship belt
+~
+With spiked hair and a Thai kickboxing championship belt around his waist, Joe
+stands here ready to help his friends in ANY challenge that comes along.  Youhad better leave this group alone as Joe's "screw upper" is not
+something to toy with.
+~
+294955 65664 1000 W3
+125 70 -25 1d1+7999 8d8+50
+50000 300000
+8 8 1
+18 100 13 13 18 13 0
+18 2 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22242
+andy bogard~
+Andy Bogard~
+Andy Bogard stands here ready to back up his friends
+~
+The silver haired handsome younger brother of Terry is here in nothing but
+his white muscle shirt and gi bottoms.  He has his own array of powers and
+techniques capable of whooping you easily.  If he is not running from his
+"fiancee" Mei, he is trying to think  of ways to become a better fighter.
+~
+299051 65664 1000 W3
+125 69 -25 1d1+7999 8d8+50
+50000 300000
+8 8 1
+18 100 13 13 18 13 0
+19 2 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22243
+terry bogard wolf~
+Terry "Hungry Wolf" Bogard~
+Terry the Hungry Wolf Bogard stands here ready for the next challenge
+~
+Terry has a very thin build and with his biker gloves and baseball cap he looks
+like a normal kid, but his fighting skills are unmatched in the world, except
+maybe by his brother Andy.  Terry was chosem by his master to carry the lost
+technique of channeling the power of the Earth and focusing it into his body
+so all you see is a whirlwind of punches and kicks.
+~
+430123 16842880 1000 W3
+125 73 -25 1d1+9999 10d10+50
+50000 300000
+8 8 1
+18 100 13 13 18 13 0
+18 2 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22244
+vampire hunter d~
+Vampire Hunter D~
+A man dressed in a low brimmed hat and cloak stands here in the shadows
+~
+A man of pale skin and narrow eyes forged by the most skilled of craftsmen it
+would appear.  He stands well over 6 feet tall and emits a feeling of power
+to which nothing you have ever known has ever been.  His sword as long as he
+is tall with a slight curve and very narrow and very sharp hangs over his
+shoulder in a sheath.  He looks up at you and his eyes glow blue for an instant
+and you realize he is not of human blood, or not completely anyway!
+~
+264235 16777344 0 W3
+127 69 -35 1d1+8000 12d12+75
+100000 350000
+8 8 1
+18 100 13 13 18 13 0
+18 2 0
+-350 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22245
+kaneida~
+Kaneida~
+A young man stands here defiantly against the world and his best friend
+~
+Forced to try and stop the raving Tetsuo, Kaneida had the misfortune of being
+caught in the Akira blast that leveled Neo-Tokyo for a second time.  He saw
+how it all began and how it came to a close.  He wears a red leather jacket
+with the picture of a two colored cylinder on the back.  He rides the state
+of the art in motorcycles.  He is a force to be reckoned with by sheer will
+alone!
+~
+301067 65664 1000 W3
+100 56 -25 1d1+3999 10d10+50
+50000 300000
+8 8 1
+18 100 13 13 18 13 0
+19 1 2
+-250 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22246
+tetsuo~
+Tetsuo~
+A boy with a long flowing red cape cackles maniacally at you as you enter
+~
+The small lad is only about 5 foot tall for someone of age 15 he is a runt and
+is always being picked on by others or teased by even his friend Kaneida.  He
+has unbelievable power in his mind and can easily blow you to shreds if he
+concentrates hard enough.  You look and see in his eyes he has lost all  reason
+and rationale, you had better leave before he sees you as a threat.
+~
+301099 2176 0 W3
+100 62 0 1d1+5999 15d10+50
+50000 300000
+8 8 1
+18 100 13 13 18 13 0
+18 1 2
+0 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#22247
+akira~
+Akira~
+A boy stands here glowing and humming faintly, his eyes show power
+~
+Although Akira is but a 10 year old frame he has the power to destroy a single
+city with a mere thought.  His powers limitations are still unknown to us, but
+you can bet he is not one to be toyed with.  His eyes show power and a
+definate knowledge of how to use it.  You had better leave.
+~
+297003 65664 0 W3
+100 62 -25 1d1+7999 20d10+50
+50000 300000
+8 8 1
+18 100 13 13 18 13 0
+18 2 0
+-250 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22248
+agito~
+the GuyverIII~
+The GuyverIII stands here plotting his next move, against who is unknown
+~
+Standing seemingly taller than the powerful Guyver, GuyverIII is here to maybe
+back up Sho or perhaps to put his friends in greater danger, no one knows what
+his true intentions are.  What is known is Agito is familar with how to use
+the bio booster armor more so than Sho, and Agito loves to demonstrate this.
+You had better leave since this "Dark Knight" has more knowledge, more power
+and more determination than any character than you have ever seen.
+~
+297003 16781444 1000 W3
+130 88 -33 1d1+7999 16d8+60
+10000 15000
+8 8 1
+18 100 13 13 20 13 0
+8 2 0
+-330 12 8 300 20 25
+10 10 10 10 10
+17 0 0
+6 10
+~
+#22249
+sho~
+the Guyver~
+The Guyver stands here looking to save Tetsuro and Mizuky
+~
+Standing a remarkable 7 feet tall and with a shiny metal sphere right in the
+middle of his forehead, the Guyver looks like he means buisness.  The powers
+of this remarkable bio booster armor are still not fully known to its owner,
+but what the owner does know is deadly enough to blow away acres of trees in
+a single blast, you had better not mess with him of his friends!
+~
+2398507 16781452 1000 W3
+130 88 -33 1d1+7999 16d8+60
+5000 25000
+8 8 1
+18 100 13 13 18 13 10
+8 2 0
+-330 12 8 400 20 20
+10 10 10 10 10
+16 0 0
+6 10
+~
+#22250
+alpha 5~
+Alpha-5~
+An annoying robot is standing here chattering about danger AYE AYE AYE!
+~
+A short lil robot with a light that scans side to side from side to middle and
+back again with a gold helmet and lighted lightning bolt in the middle
+of his chest.  He calls the rangers when there is danger or a problem.
+He may be short but he is a scrappy lil devil.
+~
+292939 16982144 -500 W3
+57 69 -30 100d5+29500 12d12+125
+12 1000000
+8 4 1
+18 100 18 18 18 18 0
+15 2 0
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22251
+dr scratchinsniff scratchy~
+Dr. Scratchinsniff~
+Dr. Scratchinsniff wanders about looking for those pesky Warner Bros.
+~
+Dr. Scratchy as he is affectionately called stands here ready to listen to
+your problems and try to help you understand them.  He is strung out it
+seems and a little jittery, his bald head where he has pulled out all of
+it shines in the light.  You notice his rather thick glasses and think,
+he sure is lucky Coca-Cola didn't go out of business, those puppies are THICK~
+8394 128 0 W3
+40 35 -4 1d1+999 4d4+10
+12000 75000
+8 8 1
+13 0 18 18 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22252
+hello nurse~
+Hello Nurse~
+There is a blonde bombshell of a nurse standing here, HELLO NURSE!!!
+~
+This nurse is no ordinary nurse, she has long shapely legs that go all the
+way up, up to her curvy hips and thighs, they look tender enough to be prime
+cut. Her waist is small and you follow it around and notice her meaty tush.
+The blonde, blue eyed babe walks up to you and asks "Can I help you?" You
+think to yourself, "If you only knew honey!" She's not bad...
+She's just drawn that way!!!
+~
+8264 128 0 W3
+40 20 -4 1d1+999 4d4+10
+12000 75000
+8 8 2
+13 0 13 13 18 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22253
+pinky mouse~
+Pinky~
+Pinky is here running around wildly wondering what we are going to do tonight.
+~
+A mouse with a bent tail, he is cross-eyed and very hyper it appears. He is
+usually accompanied by his most intelligent friend and companion, Brain.
+Pinky looks up at you and says BOINK EGAD NARF!!!!!  This leaves you
+puzzled and you decide this little rodent is hardly worth the effort!
+~
+8206 128 0 W3
+20 15 -7 1d1+499 3d3+5
+3000 20000
+8 8 1
+13 0 13 13 16 13 0
+0 0 0
+-70 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#22254
+brain mouse~
+Brain~
+Brain is here pondering how he is going to take over the world.
+~
+This mouse has entirely to large of a head for a mouse.  His ears are rather
+large too.  This mouse is so unlike any mouse you have ever seen you have to
+laugh, upon acknowledging your presence, Brain asks if you have seen his
+scatter-brained companion, Pinky.  He mumbles something about worthless
+human and goes about his buisness.
+~
+14 128 0 W3
+40 15 -7 1d1+1299 5d5+10
+3000 75000
+8 8 1
+13 0 18 18 18 13 0
+0 0 0
+-70 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22255
+yakko warner~
+Yakko Warner~
+Yakko stands here talking you into a coma, you feel the need to flee!
+~
+Characterized by his red nose and cute little ears sticking up with a little
+bend in them.  He is wearing some tan trousers with a black belt and yellow
+buckle.  He is the talker of the team and he taking this opportunity to tell
+you things you would rather not know, like the contents of Wakko's underwear
+drawer! BLECH!!!!
+~
+2120 128 0 W3
+40 20 -10 1d1+1199 5d5+10
+12000 75000
+8 8 1
+13 0 13 13 18 13 0
+0 1 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22256
+wakko warner~
+Wakko Warner~
+Wakko is here eating everything in sight, and some things that weren't there!
+~
+Wakko is sporting his blue turtleneck shirt with the matching red baseball
+cap tipped to the back, make no mistakes, Wakko is only down with one crew,
+The ANIMANIACS!!!!  His red nose is trademark of the Warner kids, and his
+tongue hanging to the side shows his ability to eat ANYTHING!!! Watch your
+hands and feet near him!!
+~
+8205 128 0 W3
+40 20 -10 1d1+1199 5d5+10
+12000 75000
+8 8 1
+13 0 13 13 18 13 0
+4 1 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22257
+dot warner~
+Dot Warner~
+Dot, the Warner Sister is standing here looking cuuuuuuuuuuute!
+~
+Dot stands here in her pink little dress and flower holding her ears in place.
+Her red nose shows she is a true Warner, that and the fact she is bouncing
+all over the place asking things that make no sense and then she plants a
+nice juicy wet one on your lips, mmmmmmmmmmmmmmmmmmmmmmah!!!!!  She bounds
+away playfully, looking for Mel Gibson!
+~
+72 128 0 W3
+40 20 -10 1d1+1199 5d5+10
+12000 75000
+8 8 2
+13 0 13 13 18 13 0
+0 1 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22258
+buttons puppy dog~
+Buttons~
+Buttons is here frantically looking for Mindy!
+~
+The cute little collie looking dog that takes more punches than a Mike Tyson
+opponent.  The dog is very loyal to Mindy and loves her dearly but does take
+a beating at the hands of trying to save Mindy from all the trouble she finds.
+~
+72 128 0 W3
+40 20 -10 1d1+1299 5d5+10
+5000 75000
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22259
+mindy~
+Mindy~
+Mindy is wandering around here looking for a accident to walk into!
+~
+That cute little blonde haired girl that manages to drag her poor puppy 
+through hell and back.  She is blue eyed and very cute, but trying to
+hang onto her is like trying to hang onto a greased pig!  She is also
+very painful to mess with, if she doesn't whack ya something will probably
+fall on you, run you over, or you will fall off something, ask Buttons!
+~
+8264 128 0 W3
+20 15 -5 1d1+399 4d4+5
+1000 20000
+8 8 2
+13 0 13 13 18 13 0
+0 1 0
+-50 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#22260
+slappy squirrel~
+Slappy Squirrel~
+Slappy Squirrel is here complaining about everything and nothing in particular!
+~
+This is the crankiest of squirrels in the whole wide world, this grey squirrel
+is not happy at your infringement into her home, the little hat she wears
+has a flower growing out of the top of it.  She has a grouchy mentality.
+~
+267 128 1000 W3
+40 15 -5 1d1+999 4d5+10
+3000 75000
+8 8 2
+18 0 18 18 9 13 0
+5 1 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22261
+skippy squirrel~
+Skippy Squirrel~
+Skippy Squirrel stands here looking for some fun.
+~
+This small little brown squirrel idolizes his Aunt Slappy and he hopes he
+can be as smart as her some day.  He tends to run around saying
+SPEEEEEWWWWWWWWWWWWWWWW.  What this means is beyond you He is cute
+~
+12298 128 0 W3
+15 10 -2 1d1+199 2d4+5
+1000 10000
+8 8 1
+13 0 13 13 15 13 0
+0 1 0
+-20 0 4 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#22262
+pesto~
+Pesto, the Good Feather~
+Pesto of the Good Feathers is standing here looking to pick a fight!
+~
+That crazy loud mouthed bird with the two colored eyes and bad temper sits
+here looking for his favorite bird to beat up, Squit!
+He also is know to be not to far from Bobby their leader, and who knows,
+Pesto might just decide to fight with you if you dont leave him alone.
+~
+8203 128 0 W3
+10 10 0 1d1+99 3d3+0
+0 10000
+8 8 1
+13 0 13 13 18 13 0
+18 0 0
+0 0 4 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#22263
+bobby~
+Bobby, the Good Feather~
+Bobby, of the Good Feathers stands here trying to keep Pesto from killing Squit!
+~
+The leader of the good feathers, he is stout and a rather charming bird.
+He is very laid back in style but also has a air of power to him that
+has made him a good leader for the good feathers.
+~
+12298 128 0 W3
+10 10 0 1d1+99 3d3+0
+3000 10000
+8 8 1
+13 0 13 13 18 13 0
+0 0 0
+0 0 4 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#22264
+squit~
+Squit, the Good Feather~
+Squit, of the Good Feathers stands here trying to get out of a fight with Pesto!
+~
+He is the commentator of the team, he tells what he thinks and what often the
+others are thinking too.  He always dreamed of making it into the good
+feathers and now it looks like he has made his shot!
+~
+12298 128 0 W3
+10 10 0 1d1+99 3d3+0
+3000 10000
+8 8 1
+13 0 13 13 18 13 0
+0 0 0
+0 0 4 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#22265
+god pigeon~
+the God Pigeon~
+The God Pigeon stands here muttering something incoherant to you!
+~
+This pudgy lil round bird is the king pin of all the pigeons.  He is treated
+with the utmost respect and all the pigeons bow down and kiss his toes in
+worship.  His squinty eyes, and white feathers he has for hair tells you
+he has been around a bit and could teach you a thing or two about a thing
+or two.
+~
+10 128 0 W3
+40 15 -10 1d1+1299 5d5+10
+12000 75000
+8 8 1
+13 0 13 13 18 13 0
+0 1 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22266
+rita cat~
+Rita~
+Rita is sitting here singing her rendition of a off broadway hit!
+~
+This little wiry grey cat has the brains of the outfit, and the voice too.
+Rita generally likes to sit and relax and bathe herself
+however having Runt around makes this pretty close to impossible, but she
+loves him anyway for his company.
+~
+8264 128 0 W3
+15 15 -5 1d1+749 3d3+5
+7000 20000
+8 8 2
+13 0 13 13 18 13 0
+0 1 0
+-50 0 4 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#22267
+runt dog~
+Runt~
+Runt is standing here following Rita around and joining in the singing!
+~
+This big hairy monster is dumb as a stump, but with a heart of gold.
+He may think Rita is a dog, but he still watches out for her, and takes
+care of her.  he has been known to get into a spot of trouble from time to
+time and Rita has to bail him out. He looks to be friendly enough!
+~
+8264 128 0 W3
+15 15 -5 1d1+749 3d3+5
+7000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#22268
+steven spielberg~
+Steven Spielberg~
+Steven Spielberg stands here looking over his studio set!
+~
+That grey haired old fuddy duddy who made hits like E.T. and others like
+the infamous Tiny Toons and Animaniacs sits up here in his office like
+a king raking in million after million!  You want to kill him just for that!
+~
+10 128 0 W3
+45 20 -12 1d1+1499 5d6+15
+20000 90000
+8 8 1
+13 0 13 13 18 13 0
+0 2 0
+-120 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22269
+gate guard~
+Gate Guard~
+The Gate Guard for the studio is here looking for those Warner kids!
+~
+That fat guard who is constantly chasing the Warner Bros. and the Warner
+sister is here trying to figure out whether to give up and eat a doughnut,
+or keep searching and get a doughnut.  You notice his size and think a 
+doughnut would not be a wise choice the slacks look like they could use a
+letting out as it is!
+~
+26696 128 0 W3
+40 20 -2 1d1+1199 6d6+5
+12000 75000
+8 8 1
+18 0 13 13 18 13 0
+0 2 0
+-20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22270
+mel gibson~
+Mel Gibson~
+Mel Gibson stands here wooing the ladies!
+~
+Before you stands the epiphany of every females dream and every males worst
+nightmare!  He is well defined for one of his age, and he is not looking 
+like he wants to be bothered at the moment, but then again one can never
+tell when he is acting.
+~
+264203 524416 1000 W3
+127 80 -28 1d1+7999 20d10+60
+20000 200000
+8 8 1
+18 0 13 13 18 13 0
+18 2 0
+-280 0 8 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#22271
+jean claude van damme~
+Jean-Claude Van Damme~
+Jean-Claude Van Damme sends a whirlwind kick inches from your face!
+~
+Standing before you is that master of the movie screen martial arts!
+He is approximately 5'10", with a well toned body that calls to all the
+ladies, you notice the ladies in the room take little nonchalant glances at
+his superior posterior!  You feel the need to kill him!!!! BUT GOOD LUCK!!!
+~
+24587 262280 1000 W3
+127 65 -22 1d1+7999 10d10+60
+40000 100000
+8 8 1
+18 100 13 13 18 13 0
+19 2 0
+-220 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#22286
+little beeper~
+Little Beeper~
+A little bird is here ready to peel out, say hi and bye to Little Beeper
+~
+He is short, but you can tell he is fast by the lil Nikes he has on!!!
+He is definatly quick but you don't think "It's the shoes"
+~
+72 0 0 W3
+5 5 5 1d1+99 1d3+2
+500 1500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22287
+arnold pitbull~
+Arnold the Pit Bull~
+Arnold the Pitbull is here looking for someone to bully
+~
+He is built like a mack truck and something tells you he means business...
+whether its the veins popping out of his neck or the KILL BUSTER tee shirt
+he is wearing...this is one ticked off puppy!
+~
+72 0 0 W3
+8 10 2 1d1+125 1d5+3
+1500 4000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#22288
+Fifi La Fume~
+Fifi La Fume~
+A skunk is here, trying very much to look her best...
+~
+She may not be very popular, but she is a good friend to Babs, and she is
+kinda cute too!!  Enough of that, she is sitting here thinking she is high
+and mighty...show her she is wrong!
+~
+72 0 0 W3
+5 5 5 1d1+99 1d3+2
+500 1250
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22289
+fowlmouth~
+Fowlmouth~
+A bird is standing here cussing up a storm...HAS to be Fowlmouth
+~
+With Foghorn always on his case to be a better student and not use such 
+language that would get Warner Bros. in deep moose poop, he still has not
+gotten the hang of it!  EWWWWW  The horror!
+~
+72 0 0 W3
+5 5 5 1d1+99 1d3+2
+500 1250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22290
+calamity coyote~
+Calamity Coyote~
+Wile E.'s favorite pupil Calamity is here
+~
+Taking after his role model Wile E., Calamity is trying to catch Lil Beeper!
+Using all the tricks of the trade that he learned from his mentor, Calamity
+is a resourceful young tyke!
+~
+72 0 0 W3
+5 5 10 1d1+75 1d3+2
+500 1250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22291
+shirley loon~
+Shirley the Loon~
+Shirley the Loon is floating here
+~
+She is at one with herself and all things around her or something and stuff
+She does not like things that will disturb her!
+~
+72 0 1000 W3
+5 5 5 1d1+99 1d3+2
+500 1250
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22292
+principal yosemite sam~
+Yosemite Sam~
+Principal Yosemite Sam stands here looking for trouble
+~
+He is short, with his red moustache, and six shooters at his side, it looks
+like he could hand you your rear if you started anything!
+~
+8201 128 500 W3
+127 70 -20 1d1+12000 10d10+70
+40000 1000000
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+-200 0 8 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22293
+bugs bunny~
+Bugs Bunny~
+Bugs Bunny stands here, but upon seeing you runs up and kisses you full in the mouth!
+~
+A tall, grey rabbit with an ATTITUDE!  He stands here chewing on a carrot...
+Asking what's up doc!!??  You notice he has a dress in the corner...you begin
+to ask yourself, did you think Bugs looked cute as a girl bunny??
+~
+10248 129 0 W3
+30 12 1 1d1+849 5d5+15
+12 30000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 6 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#22294
+porky pig~
+Porky Pig~
+Porky Pig stands here proclaiming badehdehbadeh That's all Folks, but you just got here
+~
+A short, rotund little guy, with the cute little nose and pink color...
+He has a picture of his sweetheart in his shirt sticking out, with the name
+Petunia written on it!
+~
+8264 128 0 W3
+20 7 4 1d1+399 4d3+8
+4000 13000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#22295
+daffy duck~
+Daffy Duck~
+Daffy stands here, then runs up to you telling you it is rabbit season
+~
+A black duck, with a unusual white ring around his neck, he has a orange bill
+which has the bad habit of being blown off his face, which brings his usual
+complaint and whine that Your Dispicable!!!
+~
+8264 129 0 W3
+25 10 2 1d1+599 5d4+7
+8000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#22296
+foghorn leghorn~
+Foghorn Leghorn~
+Foghorn Leghorn stand here that tall, annoying chicken that always demands your attention
+~
+You typical walking talking chicken with a southern accent...and cute little
+sayings that get a chuckle
+~
+8392 128 0 W3
+20 6 3 1d1+549 4d4+10
+4000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#22297
+elmer fudd~
+Elmer Fudd~
+Elmer Fudd stands here ready to give you your lesson, with that stupid laugh
+~
+With his trusty hunting hat on and his rifle not to far out of reach, it looks
+like there's going to be trouble for some rabbits out there when he gets out
+of teaching today!
+~
+8264 128 0 W3
+20 17 4 1d1+449 3d5+5
+3500 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#22298
+taz devil~
+Taz~
+Taz stands here ready to make a rabbit sandwich, now where's pesky rabbit?
+~
+He is standing here, then he begins to spin violently and whirls around the
+room, he is rather short and pudgy, but you dare not cross him...
+He could hit you about 3 times before you knew what hit you!
+~
+8264 128 0 W3
+55 25 1 1d1+749 5d5+10
+8000 35000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22299
+coyote wile ~
+Wile E. Coyote~
+A tall, lanky coyote stand here ready to dicipline you on Physics
+~
+Your typical coyote with a PHD who can't talk, but has a lifetime membership
+to Acme Co.  He really doesn't like Road Runners!
+~
+8264 128 0 W3
+25 10 2 1d1+499 4d5+5
+5000 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+$

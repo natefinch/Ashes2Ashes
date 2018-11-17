@@ -1,0 +1,919 @@
+#1200
+papers walking~
+Walking Papers~
+A pile of papers lies here.
+~
+~
+8 0 1 0
+0 0 0
+0 0 0 3
+20 100000 0
+E
+papers~
+We'll cya later.
+
+~
+#1201
+cross daxx~
+Daxx's Cross of Light~
+A cross lies here humming, with an very eerie aura around it.
+~
+~
+11 0 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#1202
+map shire~
+a map of shire.~
+~
+          Chicken        House
+            Coop           |
+             |             |
+           Barn         End of
+             |       Delving Lane
+             |             |                        Inn
+House      Fields-----Delving Lane----Shiriff Post  /
+ |           |             |                       /
+Path------Pig Pen     Delving Lane----Green Dragon/    
+                           |
+                       Brandywine                  General   Armory         
+                         Bridge                        |      |
+                           |                           |      |
+Fields----Took Hill------Bywater Road----Enterance----Bywater R----Thain
+                         |   |    |        |              |   o
+                 Watermill   |  Shiriff   Path         Kid'n  a 
+                          Grocers          |            Keep  d
+                                          Path                |-Training       
+~
+16 0 1 0
+0 0 0
+0 0 0 0
+0 0 0
+#1203
+coupon IMP sanct~
+a coupon for an IMP sanct~
+~
+This is good for one IMP sanct from the IMP team, it is good at
+anytime but is good only once
+Sheol
+~
+2 0 16385 0
+0 0 0
+59 36 0 0
+0 100 0
+#1204
+Octavia angel pendant~
+Octavia's Angel Pendant~
+You see a small pile of shimmering gold lazily shining in the sun.~
+]ÿÿ~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#1205
+doris bra~
+Doris's 54EE Super Anti-Gravity Brasier(JIGGLING)(NIPPLED)~
+You see doris's eq lying here, it is worthless.~
+~
+11 0 9 0
+0 0 0
+0 0 0 0
+0 0 0
+#1206
+doris chastity belt~
+Doris's Rusty Chastity Belt (UNLOCKED)(RUSTY)(ILL-FITTING)~
+A large belt sits here covered in chains and padlocks!~
+~
+11 0 2049 0
+0 0 0
+0 0 0 0
+0 0 0
+#1207
+test~
+a piece of cheater eq~
+~
+~
+13 0 1 0
+0 0 0
+0 0 0 0
+0 0 0
+#1208
+olc sign~
+an Olc Sign~
+An Olc Sign is taped to the wall here.~
+  So you want to learn how to build, do you...
+
+Well, here are some things you'll need to keep in mind:
+
+1.  You will have 10 rooms, mobs, and objects to work with in zone 80.
+They will all have the same vnums, ie if you have rooms 8001-8010, then
+you also have mobs 8001-8010 and objects 8001-8010.  Never edit anything
+outside your section as you will most likely be messing up someone else's
+stuff, and they won't like that...  (:
+
+2.  Please do not connect rooms in your section of zone 80 to rooms 
+outside that section.  So you can't take a room, and connect it to the 
+Temple.
+
+3.  You will receive some Mob and Object guidelines via email.  Follow
+these guidelines as if you we're building a real zone.  I do *not* want
+to see any 100d100 +100 +100 weapons in there...
+
+read page2
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#1209
+ring wedding~
+Daxx's golden wedding ring~
+Daxx's golden wedding ring lies here~
+~
+11 0 3 0
+0 0 0
+5 0 0 0
+0 0 0
+E
+ring~
+To my wonderful Daxx,
+Today I give this ring as a symbol of my eternal love.  I give it
+as I give myself to you, with all my heart and soul.  It serves as a
+token of the beginning of our love.  When you wear it think of my love
+for you and remember that every day we spend together will be more special
+than the last and the love we have will be stronger than the day before.
+Wear it in happiness and know you will always have a part of me with you.
+Jahana
+~
+#1210
+permit building olc~
+an ROI Building Permit~
+An ROI Building Permit lies on the ground here.~
+This permit certifies that the holder of this permit has passed
+all the required tests to prove him/her/it worthy of building on
+this MUD.
+Signed,  Vicious
+~
+16 0 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#1211
+page2~
+Page 2 of the Olc Sign~
+Page 2 of the Olc Sign is taped to the bottom of the first sign.~
+Olc Sign, continued...
+
+4.  When you feel that you have practiced enough, let me know, and I will
+email you the OLC Test.  Once you're finished with the test, I'll check
+it with you, and if you pass, you'll get your ROI Building Permit.  Once
+you have the permit, you can go bug Dyrewulf about giving you a real 
+zone to work on, or find someone that is working on a zone now that 
+you'd like to help on, and see if they'll let you.
+
+5.  Have fun with this.  This is your chance leave your signature on
+the mud for everyone to see.
+
+If you run into problems, or need help with something, find me, or my 
+mort Moonshine.  If I'm not here you can usually get help from just 
+about any other higher up imm.
+Vicious.
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#1212
+sink water~
+a sink~
+An ancient cast iron sink is here leaking water.
+~
+~
+23 0 0 0
+0 0 0
+30000 30000 15 0
+30005 100 0
+#1213
+doris tee shirt t lesbian~
+an "I'm not a lesbian, but my girlfriend is!" t-shirt~
+A baggy white t-shirt sits here crumpled in a ball.~
+~
+11 0 1025 0
+0 0 0
+0 0 0 0
+0 0 0
+#1214
+magic gathering tee shirt t~
+an "I'm a MAGIC - the Gathering" Widow's t-shirt~
+A small worthless shirt sits here in a ball.~
+~
+11 0 9 0
+0 0 0
+0 0 0 0
+0 0 0
+#1215
+warm fuzzy soft~
+a nice soft warm fuzzy~
+A nice soft warm fuzzy lies here rewarding a STAFF member for hard work!~
+~
+8 0 32767 0
+0 0 0
+0 0 0 0
+0 0 0
+#1216
+gold platform shoes~
+a pair of glittering gold platform shoes (CHEAP)~
+A pair of shiny, tacky, rock-star looking boots sit here rejected.~
+~
+11 0 65 0
+0 0 0
+0 0 0 0
+0 0 0
+#1217
+bracer leather hide~
+a leather bracer~
+A thick, sturdy bracer made from the hide of a ferocious animal lies here.~
+~
+9 4160 4097 0
+0 0 0
+0 100 0 0
+0 0 0
+#1218
+collar leather hide~
+a thick leather collar~
+A thick collar made from the hide of a ferocious beast lies here discarded.~
+~
+9 4160 5 0
+0 0 0
+0 0 0 0
+0 0 0
+#1219
+cloak leather hide~
+a leather cloak~
+A cloak made from the hide of a ferocious animal hangs from a hook here.~
+~
+9 4160 1025 0
+0 0 0
+0 5 5 0
+0 9 0
+#1220
+breast plate hide breastplate~
+a leather breastplate~
+A breast plate made from the hide of some fearsome animal gathers dust here.~
+~
+9 4160 9 0
+0 0 0
+0 0 0 0
+0 0 0
+#1221
+helmet leather hide~
+a leather helmet~
+A small helmet made from the hide of a ferocious beast is here.~
+~
+9 4160 17 0
+0 0 0
+0 0 0 0
+0 0 0
+#1222
+sleeves leather hide~
+a pair of leather sleeves~
+A pair of sleeves made from the hide of a ferocious beast lies here unused.~
+~
+9 4160 257 0
+0 0 0
+0 0 0 0
+0 0 0
+#1223
+leggings leather hide~
+a pair of leather leggings~
+A pair of leggings made from the hide of a ferocious beast is here.~
+~
+9 4160 33 0
+0 0 0
+0 0 0 0
+0 0 0
+#1224
+boots leather hide thick~
+a pair of thick leather boots~
+A thick pair of boots made from the hide of a ferocious beast lies here.~
+~
+9 4160 65 0
+0 0 0
+0 0 0 0
+0 0 0
+#1225
+shield leather hide~
+a sturdy leather shield~
+A shield made from the hide of a ferocious beast lies here in the mud.~
+~
+9 4160 513 0
+0 0 0
+0 0 0 0
+0 0 0
+#1226
+belt leather hide~
+a leather belt~
+A belt made from the cured hide of a ferocious beast is here getting dirty.~
+~
+9 33558592 2049 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+25 50
+#1227
+gloves leather hide~
+a pair of thick leather gloves~
+A thick pair of gloves made from the hide of a ferocious beast is here.~
+~
+9 4160 129 0
+0 0 0
+0 0 0 0
+0 0 0
+#1228
+Widget~
+a widget~
+
+This is a weapon that is all blade and no excuses. It is a half-circle of steel
+with a handle inset on the flat side. You can slash into a mob or person about 
+6-10 inches! It is magically balanced for whomever holds it. 
+~
+~
+5 453 24577 0
+0 0 0
+0 0 0 3
+2 0 0
+A
+18 0
+A
+17 0
+E
+claws~
+The claws are long, curved razors with a glint of red you determine as blood
+of their owners last victim!  They have the power to be as gentle as a common
+fingernail, or as deadly as Cati wishes them to be!!  You better not mess
+with them, for if she sees you playing with her claws, it may be YOUR blood
+that decorates them next!!!
+~
+#1229
+mort slayer~
+the Mort Slayer~
+A blade of light lies here, the sight of it burns your eyes.~
+~
+5 69599 16385 22020224
+63 0 0
+0 13 4 10
+30 1 1
+A
+18 50
+A
+16 -50
+A
+16 -50
+A
+24 50
+A
+24 50
+E
+mort slayer~
+This is a blade of pure light. Normal flesh shrivels just
+being near it. When wielded it lets out an awful screeching
+that deafens everyone near. Looking at it hurts more than
+looking at the sun. Only a god could wield this weapon.
+~
+#1232
+santa sack~
+Santa's Sack of Goodies~
+~
+~
+15 4 16385 0
+0 0 0
+30000 0 0 0
+0 0 0
+#1233
+egg easter choclate~
+a chocolate easter egg~
+A choclate covered easter egg lies here.  Yum Yum!~
+~
+19 4 1 0
+0 0 0
+15 0 0 0
+1 0 0
+#1234
+egg easter cracked~
+a cracked easter egg~
+A cracked easter egg is lying here.  What could be inside it?~
+~
+15 4 1 0
+0 0 0
+100 1 0 0
+0 0 0
+#1235
+daxx bow up doll~
+an Inflatable Daxx Blow-Up Doll~
+A small piece of plastic sits here waiting to be blown up!~
+~
+11 0 2049 0
+0 0 0
+0 0 0 0
+0 0 0
+#1240
+ring diamond engagement~
+a diamond engagement ring~
+Maeve has left here ring here on the floor.~
+~
+8 1 3 0
+0 0 0
+0 0 0 0
+1 2000000 0
+E
+ring engagement diamond~
+A perfect one carrot diamond mounted on a slim gold band.
+~
+#1241
+donut donuts~
+a glazed donut~
+A tasty donut lies discarded here, still in its wrapper.~
+~
+19 0 2049 0
+0 0 0
+6 0 0 0
+1 20 1
+#1242
+sword~
+a sword~
+~
+~
+5 0 8193 0
+0 0 0
+0 0 0 0
+1 0 0
+A
+18 50
+A
+17 50
+#1250
+results 190 zone check nigel~
+Nigel's zone check results of 190~
+Nigel's zone check results is left here by some irresponsible immort.~
+~
+0 0 1 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+1~
+Okay, here's the zone check list I came up with on 190. ::))
+
+It's not in any particular order cuz I 'walked' through a zone, statting
+rooms and mobs and objects...etc.
+
+mob 19040  Sanatra is mispelled but it's prolly not important tho' people
+           would make fun of you. ;)
+mob 19001  You need to recheck the lying description for this mob please.
+room 19000  you need to recheck your room title.
+mob 19011  needs 'Peggy' in alias
+obj 19022  should have 'peggy' alias
+obj 19023  lower load % to 250-500, +2 +2 with barely any restricts.
+obj 19035  item is nobits...load % must go down to 500
+obj 19011  'player' alias needed
+room 19010  the door to Marcy's house is left open
+obj 19010  double load prob like DW said.
+obj 19025  DW mention this one, read his recommendation
+obj 19031  lower load % to 500 or so
+obj 19032  'aligator' mispelled, need 'steve' in alias
+obj 19039  take out alt load for same number. it will always load at 10000.
+~
+E
+2~
+obj 19046  needs 'greyhound' in alias
+excuse me that was not object 19046, it's mob 19046 :)
+obj 19020  drop to 2 hitrolls
+obj 19021  2d17 is an illegal enchantment item.  I think we had a rule
+           where the max enchantment weapon was avg 16 or 15 dam.  So you
+           could just turn this into a 2d15 instead please.
+obj 19049  'Anthrax' in alias please.  drop this to 2 hitrolls or drop 
+           it to 250 load %  cuz 4 mobs load the same item
+mob 19049  drop coins to 500000 or less, please
+obj 19041  object is spelled wrong, recheck please
+obj 19012  ac8 to 5 or lower
+obj 19015  ac8 to 5 or lower
+obj 19016  ac8 to 5 or lower
+obj 19017  ac8 to 5 or lower
+obj 19018  ac6 to 5 or lower
+obj 19019  6d4 enchantment...okay, for now
+obj 19034  alt load is the same number, this will make it load 10000, take
+           out alt load please.
+obj 19042  +4 dam hold obj on a not-so-difficult mob.  drop obj to +3 dam
+           or beef up the stud.
+~
+E
+3~
+obj 19027  -10 armor, nope, take out affection please or make it a worn
+           item.
+obj 19050  Santa's bag has a max load o 750.  change this to 500 please.
+
+Okay, this is it for now.  I didnt include some of DW's comment cuz I
+didnt have time to read them as I was finishing up the check.  Please use
+both check lists as a reference when correcting this area. :::)))
+
+Nigel the Main Man ;)
+~
+#1255
+Kiwi Strawberry Snapple~
+Kiwi Strawberry Snapple~
+You see a Snapple bottle, you read the label and it says "Help make us the number three beverage on Earth!"~
+~
+17 0 1 0
+0 0 0
+30000 30000 8 0
+30005 0 0
+#1256
+picture~
+a picture of his true love Heather.~
+~
+~
+1 1 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#1257
+wonderful doohickey~
+a Doohickey~
+Here lies a wonderful Doohickey~
+~
+5 335 24579 0
+0 0 0
+30 20 3 10
+1 1000 0
+A
+17 17
+A
+18 17
+E
+wonderful doohickey~
+Here lies a wonderful Doohickey.  What the hell is it, and what the
+hell does it do?  There is only one mind crazy enough to think up
+something as WaRpEd as this item.  Realizing that Harkin has to behind
+this madness you have an irresistable urge to grab it and go wild and
+have fun like he would want you to.
+~
+#1258
+wacky whatchamacallit~
+a Whatchamacallit~
+Here lies a wacky Whatchamacallit~
+~
+9 325 1033 0
+0 0 0
+5 0 0 0
+1 1000 0
+E
+wacky whatchamacallit~
+Here lies a wacky Whatchamacallit.  What the hell is it, and what 
+the hell does it do?  There is only one mind crazy enough to think
+up something as WaRpEd as this item.  Realizing that Harkin has to
+behind this madness you have an irresistable urge to put it on and
+go wild and have fun like he would want you to.
+~
+#1259
+warped thingamagigy~
+a Thingamagigy~
+Here lies a WaRpEd Thingamagigy~
+~
+3 325 16385 0
+0 0 0
+1 100 100 26
+1 1000 0
+E
+warped thingamagigy~
+Here lies a WaRpEd Thingamagigy.  What the hell is it, and what the
+hell does it do?  There is only one mind crazy enough to think up
+something as WaRpEd as this item.  Realizing that Harkin has to behind
+this madness you have an irresistable urge to grab it and go wild and
+have fun like he would want you to.
+~
+#1260
+number~
+number 55~
+Number 55
+~
+number 55
+~
+12 0 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#1270
+espresso americano grande iced~
+an iced triple espresso~
+Ahhh.....three shots of espresso pressed from the finest espresso beans and
+mixed with pure iced water over ice.  If this doesn't keep you alert and happy
+nothing can!~
+~
+17 0 1 0
+0 0 0
+10 10 12 0
+15 0 0
+#1271
+testament copy mud~
+a copy of the RoI testament~
+You see a book here.~
+~
+16 3 24577 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+testament~
+This is the book of the IMPs, you care pathetic and there is no way
+you could possible read this.
+~
+#1272
+test ring~
+test ring~
+If you can read this, L-descripts are fine
+~
+~
+4 0 16387 0
+0 0 0
+50 5 5 42
+0 0 0
+#1273
+stabber~
+Stabber~
+~
+~
+5 0 8193 0
+0 0 0
+0 2 3 14
+1 0 0
+#1275
+bat frank thomas~
+Frank Thomas' bat~
+A black baseball bat lies here.~
+(null)~
+5 10408000 8193 0
+0 0 0
+0 7 4 7
+5 5000 5000
+A
+18 3
+A
+17 3
+#1276
+ball chain~
+Ball and Chain~
+A ball and Chain lie here.
+~
+~
+9 0 65 0
+0 0 0
+0 0 0 0
+0 0 0
+#1278
+test potion~
+Test potion~
+A 55 gallon drum of Pepsi Sits here waiting to satisfy your thirst.
+~
+~
+10 0 0 0
+0 0 0
+50 73 1 3
+5 0 0
+#1279
+personal transporter~
+a personal transporter~
+Somebody has left their personal transporter on the ground here.~
+~
+24 917520 1 0
+0 0 0
+1281 0 0 0
+5 1000 0
+#1280
+hr5~
+hr5~
+Hr5
+~
+~
+5 0 8193 0
+0 0 0
+0 1 20 3
+0 0 0
+A
+17 5
+#1281
+hr10~
+hr10~
+Hr10
+~
+~
+5 0 8193 0
+0 0 0
+0 1 20 0
+0 0 0
+A
+17 10
+#1282
+hr15~
+hr15~
+Hr15
+~
+~
+5 0 8193 0
+0 0 0
+0 1 20 0
+0 0 0
+A
+17 15
+#1283
+hr20~
+hr20~
+Hr20
+~
+~
+5 0 8193 0
+0 0 0
+0 1 20 0
+0 0 0
+A
+17 20
+#1284
+hr25~
+hr25~
+Hr25
+~
+~
+5 0 8193 0
+0 0 0
+0 1 20 0
+0 0 0
+A
+17 25
+#1285
+hr30~
+hr30~
+Hr30
+~
+~
+5 0 8193 0
+0 0 0
+0 1 20 0
+0 0 0
+A
+17 30
+#1286
+hr35~
+hr35~
+Hr35
+~
+~
+5 0 8193 0
+0 0 0
+0 1 20 0
+0 0 0
+A
+17 35
+#1287
+hr40~
+hr40~
+Hr40
+~
+~
+5 0 8193 0
+0 0 0
+0 1 20 0
+0 0 0
+A
+17 40
+#1288
+oedit test item~
+an OEDIT test item~
+A test item les here.
+~
+~
+3 131584 16385 8388608
+1 16 32
+30 20 20 81
+1 10000 10000
+A
+24 -20
+A
+14 5
+A
+11 10
+A
+1 3
+A
+8 50
+A
+18 2
+#1289
+test item ring invis~
+an invisibility test item~
+~
+~
+1 0 3 2
+0 0 0
+0 0 0 0
+1 0 0
+#1290
+ac 30~
+ac 30~
+Ac 30
+~
+~
+9 0 9 0
+0 0 0
+30 0 0 0
+0 0 0
+#1291
+ac 50~
+ac 50~
+Ac 50
+~
+~
+9 0 9 0
+0 0 0
+50 0 8 0
+5 0 0
+#1292
+ac 80~
+ac 80~
+Ac 80
+~
+~
+9 0 9 0
+0 0 0
+80 0 0 0
+0 0 0
+#1293
+ac 100~
+ac 100~
+Ac 100
+~
+~
+9 0 9 0
+0 0 0
+100 0 0 0
+0 0 0
+#1294
+ac 120~
+ac 120~
+Ac 120
+~
+~
+9 0 9 0
+0 0 0
+120 0 0 0
+0 0 0
+#1295
+ac 60~
+ac 60~
+Ac 60
+~
+~
+9 0 9 0
+0 0 0
+60 0 0 0
+0 0 0
+#1296
+ac 70~
+ac 70~
+Ac 70
+~
+~
+9 0 9 0
+0 0 0
+70 0 0 0
+0 0 0
+#1297
+ac 90~
+ac 90~
+Ac 90
+~
+~
+9 0 9 0
+0 0 0
+90 0 0 0
+0 0 0
+#1298
+ac 110~
+ac 110~
+Ac 110
+~
+~
+9 0 9 0
+0 0 0
+110 0 0 0
+0 0 0
+#1299
+test~
+test~
+~
+~
+3 3 16385 0
+0 0 0
+50 5 5 0
+0 0 0
+$

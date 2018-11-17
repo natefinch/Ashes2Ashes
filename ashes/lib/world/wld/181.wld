@@ -1,0 +1,2256 @@
+#18100
+The Abyss~
+  A bleak landscape stretches out before you, utterly featureless. The ground
+beneath your feet is hard packed dull orange sand. The sky glows a pale pink
+from some source beyond the horizon which you can never reach. You see no one
+and hear nothing, and an intense feeling of emptiness is driving you closer
+and closer to insanity.
+~
+181 20584 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 18102
+D1
+~
+~
+0 -1 18101
+D2
+~
+~
+0 -1 18199
+D3
+~
+~
+0 -1 17918
+S
+#18101
+The Abyss~
+  A bleak landscape stretches out before you, utterly featureless. The ground
+beneath your feet is hard packed dull orange sand. The sky glows a pale pink
+from some source beyond the horizon which you can never reach. You see no one
+and hear nothing, and an intense feeling of emptiness is driving you closer
+and closer to insanity.
+~
+181 20584 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 18103
+D1
+~
+~
+0 -1 17918
+D2
+~
+~
+0 -1 18106
+D3
+~
+~
+0 -1 18100
+S
+#18102
+The Abyss~
+  A bleak landscape stretches out before you, utterly featureless. The ground
+beneath your feet is hard packed dull orange sand. The sky glows a pale pink
+from some source beyond the horizon which you can never reach. You see no one
+and hear nothing, and an intense feeling of emptiness is driving you closer
+and closer to insanity.
+~
+181 20584 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 18105
+D1
+~
+~
+0 -1 18103
+D2
+~
+~
+0 -1 18100
+D3
+~
+~
+0 -1 18104
+S
+#18103
+The Abyss~
+  A bleak landscape stretches out before you, utterly featureless. The ground
+beneath your feet is hard packed dull orange sand. The sky glows a pale pink
+from some source beyond the horizon which you can never reach. You see no one
+and hear nothing, and an intense feeling of emptiness is driving you closer
+and closer to insanity.
+~
+181 20584 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 18106
+D1
+~
+~
+0 -1 18104
+D2
+~
+~
+0 -1 18101
+D3
+~
+~
+0 -1 18102
+D5
+~
+~
+0 -1 17907
+S
+#18104
+The Abyss~
+  A bleak landscape stretches out before you, utterly featureless. The ground
+beneath your feet is hard packed dull orange sand. The sky glows a pale pink
+from some source beyond the horizon which you can never reach. You see no one
+and hear nothing, and an intense feeling of emptiness is driving you closer
+and closer to insanity.
+~
+181 20584 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 18107
+D1
+~
+~
+0 -1 18102
+D2
+~
+~
+0 -1 17918
+D3
+~
+~
+0 -1 18103
+S
+#18105
+The Abyss~
+  A bleak landscape stretches out before you, utterly featureless. The ground
+beneath your feet is hard packed dull orange sand. The sky glows a pale pink
+from some source beyond the horizon which you can never reach. You see no one
+and hear nothing, and an intense feeling of emptiness is driving you closer
+and closer to insanity.
+~
+181 20584 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 18100
+D1
+~
+~
+0 -1 18106
+D2
+~
+~
+0 -1 18102
+D3
+~
+~
+0 -1 18107
+S
+#18106
+The Abyss~
+  A bleak landscape stretches out before you, utterly featureless. The ground
+beneath your feet is hard packed dull orange sand. The sky glows a pale pink
+from some source beyond the horizon which you can never reach. You see no one
+and hear nothing, and an intense feeling of emptiness is driving you closer
+and closer to insanity.
+~
+181 20584 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 18101
+D1
+~
+~
+0 -1 18107
+D2
+~
+~
+0 -1 18103
+D3
+~
+~
+0 -1 18105
+S
+#18107
+The Abyss~
+  A bleak landscape stretches out before you, utterly featureless. The ground
+beneath your feet is hard packed dull orange sand. The sky glows a pale pink
+from some source beyond the horizon which you can never reach. You see no one
+and hear nothing, and an intense feeling of emptiness is driving you closer
+and closer to insanity.
+~
+181 20584 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 17918
+D1
+~
+~
+0 -1 18105
+D2
+~
+~
+0 -1 18104
+D3
+~
+~
+0 -1 18106
+S
+#18108
+Outside a Sealed Room~
+  The tower's spiraling staircase ends here before a locked wooden door. If
+it were what it appeared you could probably just break it down or at least
+pick the lock, but you're pretty sure there's more to it since this is a
+mage's tower. More important than the door is the pair of glowing eyes
+staring at you as if to pierce your soul, moving closer and closer.
+~
+181 4105 0
+0d0+0 0 0
+D0
+This appears to be nothing more than an average wooden door with a simple
+lock, but you know better than to trust appearances when it comes to mages.
+~
+door wooden~
+2 17900 18199
+D5
+~
+~
+0 -1 17920
+S
+#18109
+A Kender Home~
+  This is a meager residence. There are a few cots on the left wall, with large
+piles of junk thrown under them. On the right wall is a fireplace over which
+hangs a cooking pot. A window on the far wall looks out onto the plains around
+the city. 
+~
+181 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18110
+S
+#18110
+Main Street Kendermore~
+  Kender scurry about all around you, looking in each other's pouches for goods
+as calmly as they look at the merchants tables. Most of the kender are
+chattering about what treasures they have found and the adventures they have
+been on. Several run up to you and begin asking about your adventures and
+inspecting you items. If you wish to hang onto them, you definitely don't want
+to be here. 
+~
+181 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18111
+D2
+~
+~
+0 -1 18113
+D3
+~
+~
+0 -1 18109
+S
+#18111
+A Kender Home~
+  As you enter this house the smell of fresh baked bread wafts into your
+nostrils. On the far wall are loaves of bread cooling on a table. In side room
+are several beds, and covering the walls are shelves full of nick knacks. 
+~
+181 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 18110
+S
+#18112
+A Kender Home~
+  This is a larger house than most. It is two stories, with bedrooms upstairs,
+and a kitchen, bathroom, and common room downstairs. By the number of bedrooms
+and large collections of stuff, a very large family must live here. 
+~
+181 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18113
+S
+#18113
+Main Street Kendermore~
+  Kender scurry about all around you, looking in each other's pouches for goods
+as calmly as they look at the merchants tables. Most of the kender are
+chattering about what treasures they have found and the adventures they have
+been on. Several run up to you and begin asking about your adventures and
+inspecting you items. If you wish to hang onto them, you definitely don't want
+to be here. 
+~
+181 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18110
+D1
+~
+~
+0 -1 18114
+D2
+~
+~
+0 -1 18116
+D3
+~
+~
+0 -1 18112
+S
+#18114
+A Path Into Kendermore~
+  This path leads directly into the heart of Kendermore. If you are traveling
+it you must be either insane or running out of town before what few items you
+have left are stolen. 
+~
+181 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 17974
+D3
+~
+~
+0 -1 18113
+S
+#18115
+A Kender Home~
+  As you enter this house you hear the sounds of a baby's cry and a mothers
+soothing voice. In one corner a mother sits, rocking her baby to sleep, while
+a father tends to another child in a crib, and a third child crawls around on
+the floor, picking up little "treasures" he finds and looking at them happily.
+~
+181 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18116
+S
+#18116
+Main Street Kendermore~
+  Kender scurry about all around you, looking in each other's pouches for goods
+as calmly as they look at the merchants tables. Most of the kender are
+chattering about what treasures they have found and the adventures they have
+been on. Several run up to you and begin asking about your adventures and
+inspecting you items. If you wish to hang onto them, you definitely don't want
+to be here. 
+~
+181 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18113
+D1
+~
+~
+0 -1 18117
+D2
+~
+~
+0 -1 17978
+D3
+~
+~
+0 -1 18115
+S
+#18117
+A Kender Home~
+  This is a small house, with one main room, a bathroom, and a closet. Beds are
+bunked two high on one wall, and a fireplace for heating and cooking takes up
+another wall. The closet door is open and a pile of stuff is spilling out of
+it onto the floor. 
+~
+181 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 18116
+S
+#18118
+The Entrance to Dargaard Keep~
+  The outside of the keep is littered with rock from crumbled blocks that
+have fallen from the top, and is overgrown with weeds. Above the windows
+are black streaks of soot. One gate hangs off it's hinges at the front
+wall, while the other is missing, and where the door to the keep used to be
+is a layer of ash.
+~
+181 4 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 18119
+D2
+~
+~
+0 -1 17968
+S
+#18119
+A Charred Hallway~
+  Soot coats the ground, walls and ceiling. The air has a smoky smell to
+it, but mostly clear. The soot is like hard packed ground, and you leave
+only light tracks as you pass. The fire must have happened a long time ago.
+From here, what was probably once the main hallway continues north, while a
+smaller hallway leads east.
+~
+181 10248 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18121
+D1
+~
+~
+0 -1 18120
+D2
+~
+~
+0 -1 18118
+S
+#18120
+A Charred Hallway~
+  There is a little less soot here than in the main hallway, and on the
+wall hangs the burnt, but still intact remains of a tapestry, however it's
+image is no longer discernible. The fire may have spared this part of the
+keep some of it's wrath, but time has made up for that. Just ahead the
+north wall has collapsed, closing off the passage.
+~
+181 10248 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 18119
+S
+#18121
+A Charred Hallway~
+  Suits of armor are set up in this part of the hallway. The seals on the
+front are still visible, depicting the rose, the sword, and the crown, the
+symbols of the Knights of Solamnia. But now the armor is pitch black and
+the seals are dull and smudged. They give this gloomy place an even eerier
+look. The hallway continues north, and east of here bare hinges hang in the
+entrance to a room, the door having burned away.
+~
+181 10248 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18123
+D1
+~
+~
+0 -1 18122
+D2
+~
+~
+0 -1 18119
+S
+#18122
+A Gutted Bedroom~
+  There is a pile of ash on the north wall, probably once a desk or
+dresser. The south wall and the southern part of the east wall, as well as
+the ceiling above that area have collapsed into a huge mound of rubble. On
+the east wall at the base of the rubble is a grim sight, the metal frame of
+a bed rests there, and tangled among the springs are the bones of it's
+unfortunate occupant.
+~
+181 10248 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 18121
+S
+#18123
+A Charred Hallway~
+  The main hallway ends here where it meets a cross hallway, but the west
+passage is blocked by collapsed walls. North is an arched entryway partly
+blocked by the rubble but still passable. After wandering around this place
+for a while the soot coating everything is also coating you, and getting
+extremely annoying.
+~
+181 10248 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17994
+D1
+~
+~
+0 -1 18124
+D2
+~
+~
+0 -1 18121
+S
+#18124
+A Charred Hallway~
+  The hallway ends here and a doorway opens on a room to the north. Long
+hinges like those that would support large double doors stick out like
+black fangs into the doorway. Above the door hangs what was probably once a
+shield, but it is deformed and stretched from melting slightly in the heat
+of the fire.
+~
+181 10248 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18125
+D3
+~
+~
+0 -1 18123
+S
+#18125
+A Large Blackened Room~
+  A large area in the center of this room is covered in several inches of
+ash. The walls and ceiling of the room are pitch black everywhere. The huge
+stone blocks that make up the floor as well as the foundation of the keep
+have gaping cracks from the intense heat. And arched entryway leads north
+out of the room, but some of the stone from the top of the arch seems to
+have actually burned away.
+~
+181 10248 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17995
+D2
+~
+~
+0 -1 18124
+S
+#18126
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18129
+D1
+~
+~
+0 -1 18130
+D2
+~
+~
+0 -1 18128
+D3
+~
+~
+0 -1 18127
+S
+#18127
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18128
+D1
+~
+~
+0 -1 18128
+D2
+~
+~
+0 -1 18127
+D3
+~
+~
+0 -1 18127
+S
+#18128
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 68 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18133
+D1
+~
+~
+0 -1 18129
+D2
+~
+~
+0 -1 17964
+D3
+~
+~
+0 -1 18127
+S
+#18129
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18134
+D1
+~
+~
+0 -1 18128
+D2
+~
+~
+0 -1 18127
+D3
+~
+~
+0 -1 18133
+S
+#18130
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18129
+D1
+~
+~
+0 -1 18127
+D2
+~
+~
+0 -1 18133
+D3
+~
+~
+0 -1 18126
+D8
+~
+~
+0 -1 17999
+S
+#18131
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18136
+D1
+~
+~
+0 -1 18129
+D2
+~
+~
+0 -1 18127
+D3
+~
+~
+0 -1 18131
+S
+#18132
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18137
+D1
+~
+~
+0 -1 18133
+D2
+~
+~
+0 -1 18139
+D3
+~
+~
+0 -1 18127
+S
+#18133
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18126
+D1
+~
+~
+0 -1 18127
+D2
+~
+~
+0 -1 18128
+D3
+~
+~
+0 -1 18132
+S
+#18134
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18133
+D1
+~
+~
+0 -1 18135
+D2
+~
+~
+0 -1 18130
+D3
+~
+~
+0 -1 18127
+S
+#18135
+A Vast Ocean~
+  There is a lot of turbulence here, but it's not because of normal ocean
+waves. Instead of mist and fog, there is steam all around you. When you
+look down you see the ocean boiling below you! A few meters away the water
+is parting, revealing a red glow from far below. You better get out of
+here FAST!
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18140
+D1
+~
+~
+0 -1 18131
+D2
+~
+~
+0 -1 18128
+D3
+~
+~
+0 -1 18127
+D5
+~
+~
+0 -1 18005
+S
+#18136
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18179
+D1
+~
+~
+0 -1 18127
+D2
+~
+~
+0 -1 18131
+D3
+~
+~
+0 -1 18128
+S
+#18137
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18127
+D1
+~
+~
+0 -1 18138
+D2
+~
+~
+0 -1 18132
+D3
+~
+~
+0 -1 18130
+S
+#18138
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18007
+D1
+~
+~
+0 -1 18130
+D2
+~
+~
+0 -1 18127
+D3
+~
+~
+0 -1 18127
+S
+#18139
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18128
+D1
+~
+~
+0 -1 18128
+D2
+~
+~
+0 -1 18127
+D3
+~
+~
+0 -1 18131
+S
+#18140
+A Vast Ocean~
+  A cold wind blows from the north and large waves crash all around you.
+The sky is gray and hazy and storm clouds gather in the distance. The ocean
+hurls you about as you try to maneuver, protecting it's secrets from all
+but the heartiest of adventurers.
+~
+181 0 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18168
+D1
+~
+~
+0 -1 18139
+D2
+~
+~
+0 -1 18126
+D3
+~
+~
+0 -1 18127
+S
+#18141
+Inside the High Clerist Tower~
+  An apparatus for sharpening weapons is set up in this corner. The floor
+is gritty and sparkles slightly with iron shavings. One man sits pedaling
+a grinding wheel while another sharpens swords on the stone, a pile of
+completed swords on his left and a much larger pile of swords that need
+sharpening on his right.
+~
+181 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18144
+D1
+~
+~
+0 -1 18142
+S
+#18142
+Inside the High Clerist Tower~
+  This is a fairly open part of the tower. Not many knights walk through
+here and there isn't anything of interest to look at. The few who do walk
+by look at you strangely, wondering if you should be here and if they
+should do anything about it.
+~
+181 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18145
+D1
+~
+~
+0 -1 18143
+D3
+~
+~
+0 -1 18141
+S
+#18143
+Inside the High Clerist Tower~
+  Stocks are set up in this corner of the tower, facing the entrance. They
+are meant to punish and humiliate those who break the strict code of honor
+the knights keep. One poor soul is in the stocks, a look of grief and
+sorrow on his face. The knights passing by take a quick glance at him and
+then pointedly ignore him.
+~
+181 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18146
+D3
+~
+~
+0 -1 18142
+S
+#18144
+Inside the High Clerist Tower~
+  There is a large stairway here leading up to the next floor of the
+tower. It is is lined by a red carpet and has a decorative silver railing.
+Knights are coming and going from the stairway, with serious looks on
+their faces. It's quite busy here and once again you find yourself being
+bumped around and generally ignored.
+~
+181 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18148
+D1
+~
+~
+0 -1 18145
+D2
+~
+~
+0 -1 18141
+D4
+~
+~
+0 -1 18002
+S
+#18145
+Inside the High Clerist Tower~
+  A large stone pillar extends from the floor to the ceiling here in the
+center of the tower. Baskets are stacked nearby and a piece of paper
+affixed to the pillar. As the knights walk near they stop and glance at the
+paper and then move on.
+~
+181 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18149
+D1
+~
+~
+0 -1 18146
+D2
+~
+~
+0 -1 18142
+D3
+~
+~
+0 -1 18144
+E
+paper note~
+Next Shift's Duty Roster
+------------------------
+
+Front Gate  -Keldor and Draknor
+East Wall   -Torav
+North Wall  -Dulron
+South Wall  -Algeron
+West Wall   -Gorak
+~
+S
+#18146
+Inside the High Clerist Tower~
+  You stand just inside the the tower on a worn stone floor. Knights are
+running here and there moving supplies and going to and from their posts,
+and generally using this entrance a lot, tending to bump into you, and
+asking very politely that you please MOVE OUT OF THE WAY.
+~
+181 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18150
+D1
+~
+~
+0 -1 18147
+D2
+~
+~
+0 -1 18143
+D3
+~
+~
+0 -1 18145
+S
+#18147
+The Entrance to the High Clerist Tower~
+  Eight inch thick, iron bound, wooden doors provide the first line of
+defense at the front of the curtain wall, followed by a portcullis, with
+murder holes in the walls in between the two for archers to pick off
+invaders who have gotten through the first barrier while they struggle with
+the second. Finally a metal door protects the entrance to the tower itself.
+But these are only necessary during an attack, and currently stand open, as
+they have for a long time.
+~
+181 12 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17984
+D3
+~
+~
+0 -1 18146
+D4
+~
+~
+0 -1 18166
+S
+#18148
+Inside the High Cleris Tower~
+  This corner is wide open, with no obstructions on the floor, and the
+knights moving about the tower going around this area. Stone floor is warn
+and scared and the walls are marked as well. The reason is soon apparent,
+as two knights enter the area and begin sparring.
+~
+181 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18149
+D2
+~
+~
+0 -1 18144
+S
+#18149
+Inside the High Clerist Tower~
+  A red tapestry with a platinum dragon embroidered on it with platinum
+thread hangs on the north wall. All of the knights that pass by here turn
+toward it and bow their heads briefly in respect to their god.
+~
+181 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18150
+D2
+~
+~
+0 -1 18145
+D3
+~
+~
+0 -1 18148
+S
+#18150
+Inside the High Clerist Tower~
+  There is little activity here in the corner of the tower. A row of
+shields hangs on the wall. They are just simple wooden shields, and look
+to be hung there for easy access should someone attack instead of for
+decoration.
+~
+181 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 18146
+D3
+~
+~
+0 -1 18149
+S
+#18151
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18166
+D2
+~
+~
+0 -1 18152
+S
+#18152
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18151
+D3
+~
+~
+0 -1 18153
+S
+#18153
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18152
+D3
+~
+~
+0 -1 18154
+S
+#18154
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18153
+D3
+~
+~
+0 -1 18155
+S
+#18155
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18154
+D3
+~
+~
+0 -1 18156
+S
+#18156
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18157
+D1
+~
+~
+0 -1 18155
+S
+#18157
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18158
+D2
+~
+~
+0 -1 18156
+S
+#18158
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18159
+D2
+~
+~
+0 -1 18157
+S
+#18159
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18160
+D2
+~
+~
+0 -1 18158
+S
+#18160
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18161
+D2
+~
+~
+0 -1 18159
+S
+#18161
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18162
+D3
+~
+~
+0 -1 18160
+S
+#18162
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18163
+D3
+~
+~
+0 -1 18161
+S
+#18163
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18164
+D3
+~
+~
+0 -1 18162
+S
+#18164
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18165
+D3
+~
+~
+0 -1 18163
+S
+#18165
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18164
+D2
+~
+~
+0 -1 18166
+S
+#18166
+On the Curtain Wall~
+  You are standing on top of the ten foot thick, thirty foot high stone
+wall that surrounds the tower, providing the first line of defense. The
+outward edge of the wall is raised two feet higher than the rest of the
+wall, and there are six foot high sections at regular intervals providing
+perfect cover as well as range of aim for archers manning the wall.
+~
+181 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18165
+D2
+~
+~
+0 -1 18151
+D5
+~
+~
+0 -1 18147
+S
+#18167
+A Dark Cave~
+  The mouth of this cave is very wide and the cave gets so wide inside
+that you cannot see the sides in the meager light. The ceiling is
+disproportionately low, only about twenty feet high. The air is very dry,
+and from the back comes a noise as of air blowing through jagged rocks.
+~
+181 1 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 18168
+S
+#18168
+A Rocky Coast~
+  You stand on the shore of an island that looks more like an enormous
+pile of rocks than a normal island. Mountains completely cover it, with
+cliffs everywhere but this small beach. Boulders litter the sand and
+large, jagged rocks jut out of it. The beach only heads inland twenty feet
+before the ground is all rock and climbs steeply into the mountains. To
+either side of the beach are cliffs dotted with caves, only the lowermost
+of which you can reach. Hidden behind one of the largest rocks you find
+another cave, sloping downward into the island.
+~
+181 4 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 18171
+D1
+~
+~
+0 -1 18169
+D2
+~
+~
+0 -1 18140
+D3
+~
+~
+0 -1 18167
+D5
+~
+~
+0 -1 18176
+S
+#18169
+A Dark Cave~
+  Some of the sand from the beach covers the floor of this cave. Sunlight
+shines through the entrance quite well, glinting off a pile of gold and
+silver coins. The cave curves as you move inward so that the back is in
+darkness. From the darkness comes the jingling of shifting coins.
+~
+181 1 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 18168
+S
+#18170
+A Dark Cave~
+  This cave is very large, with a thirty foot diameter entrance which
+opens up so wide that no light reaches the walls or ceiling. From
+somewhere way in the back you can hear the slow breathing of powerful
+lungs, and every once in a while you catch a yellow glint reflected back
+from your light.
+~
+181 1 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 18171
+S
+#18171
+A Boulder Filled Valley~
+  Hidden near the center of the island is a small valley. It is covered by
+a cliff that hangs over most of it and there are so many boulders filling
+it that most of the ground cannot be seen. There is a partially blocked
+entrance to a cave sloping steeply downward at your feet, and you can see
+many caves in the mountains surrounding the valley.
+~
+181 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 18174
+D1
+~
+~
+0 -1 18172
+D2
+~
+~
+0 -1 18168
+D3
+~
+~
+0 -1 18170
+D4
+~
+~
+0 -1 18177
+D5
+~
+~
+0 -1 18178
+D6
+~
+~
+0 -1 18175
+D7
+~
+~
+0 -1 18173
+S
+#18172
+A Dark Cave~
+  A narrow slit opens into a cave the grows wider and wider as you walk
+into it. A thin ray of sunlight shines in through a hole in the ceiling of
+the cave a hundred feet up, and glints off something silvery near the back
+of the cave.
+~
+181 1 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 18171
+S
+#18173
+A Dark Cave~
+  When you enter this cave you are instantly assailed by a very foul smell
+that hurts your lungs. The stone of the cave is pitted as if it has been
+eaten away at. Looking toward the back of the cave you see utter darkness,
+but the darkness seems to move.
+~
+181 1 5
+0d0+0 0 0
+D8
+~
+~
+0 -1 18171
+S
+#18174
+A Dark Cave~
+  A small entrance opens up to a large cave that seems to be basically
+round. Hundreds of feet up the cave opens to the daylight, but it is too
+far off to light the lower portion of the cave. The air seems to be filled
+with energy and smells of ozone.
+~
+181 1 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 18171
+S
+#18175
+A Dark Cave~
+  This cave is a lot like a tunnel, with a wide mouth, and walls about the
+same width extending back into darkness. It is very damp in here. Moss
+grows in patches on the walls, and the air is musty and humid. Something
+in the air makes your eyes water and gives you a choking sensation as you
+breathe it.
+~
+181 1 5
+0d0+0 0 0
+D9
+~
+~
+0 -1 18171
+S
+#18176
+A Dark Cave~
+  The entrance to this cave is about thirty feet wide. It is certainly not
+hard to spot once you've moved up on the beach but from the shore there is
+a huge rock blocking it from view. Sand dunes roll down into the cave and
+make it hard to maneuver. Not enough light can enter to illuminate the
+cave because of the huge rock in the way, and after a few steps it is
+pitch black.
+~
+181 1 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 18168
+S
+#18177
+A Dark Cave~
+  This cave slopes slightly upward. It is higher up than the other caves
+around here, but not nearly high enough to account for the chill air. It
+seems to be coming in waves from the back of the cave. The floor has a
+thin layer of frost which makes walking up the slope of the cave even
+harder.
+~
+181 1 5
+0d0+0 0 0
+D5
+~
+~
+0 -1 18171
+S
+#18178
+A Dark Cave~
+  As you enter this cave you notice it is quite a bit warmer here. As you
+move farther in the heat becomes almost unbearable. Near the back of the
+cave you can see glinting yellow-red light, like fire reflecting off gold.
+~
+181 1 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 18171
+S
+#18179
+Before the Gates of Storm's Keep~
+  A large stone keep is built right near the shore of this small island.
+Large, iron, double doors provide the only entrance that you can see.
+There are guards all along the walls, at the doors, and on top of towers
+at each of the corners of the keep.
+~
+181 4 2
+0d0+0 0 0
+D0
+Large, iron, double doors, as strong as the massive walls they seal up.
+~
+door doors double iron gate gates~
+1 17907 18181
+D2
+~
+~
+0 -1 18136
+S
+#18180
+Inside Storm's Keep~
+  The knights avoid this area of the tower. Runes cover the walls, and a
+few creep onto the floor near the walls. Some of the robed people enter
+this area and begin speaking strange words like 'yufzbarr' and 'xafe ay
+oculoahp'. Standing in this area you get a strange, repressing feeling.
+~
+181 136 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18184
+D1
+~
+~
+0 -1 18181
+S
+#18181
+Inside Storm's Keep~
+  Knights in dark armor march here and there, throwing you wary glances,
+but never taking their attention off their duties. Other people in robes
+move swiftly and smoothly around the keep, equally attentive to their
+duties.
+~
+181 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18185
+D1
+~
+~
+0 -1 18182
+D2
+Large, iron, double doors, as strong as the massive walls they seal up.
+~
+door doors double iron gate gates~
+1 17907 18179
+D3
+~
+~
+0 -1 18180
+S
+#18182
+Inside Storm's Keep~
+  Weapon racks line both walls in this part of the keep. Dozens of swords,
+lances, daggers, and axes, all marked with symbols of Takhisis rest here,
+sharpened and ready for war. Several knights are guarding the weapons. One
+of them is sharpening his sword in what must be an obsessive habit, as the
+iron shavings are visible on the ground beneath him and his sword is
+thinner than it should be.
+~
+181 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18186
+D3
+~
+~
+0 -1 18181
+S
+#18183
+Inside Storm's Keep~
+  Here the runes twist around the floor and up the walls, and join at the
+ceiling. They form a repeating pattern in a line on the ceiling that
+glows, lighting up the room. A stairway spirals up, and the runes follow
+along the ceiling as far as you can see.
+~
+181 6280 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18184
+D4
+~
+~
+0 -1 18018
+S
+#18184
+Inside Storm's Keep~
+  Runes twist around on the floor here, forming spiraling pattern. At the
+center of the spiral is one large, intricate rune. The few knights who
+pass through here walk a wide path around the large rune. A lightheaded
+feeling grows stronger and stronger as you stand here.
+~
+181 6280 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18188
+D1
+~
+~
+0 -1 18185
+D2
+~
+~
+0 -1 18180
+D3
+~
+~
+0 -1 18183
+S
+#18185
+Inside Storm's Keep~
+  This part of the keep is set up as a training area. A circle drawn on
+the stone floor marks the boundaries for practice duals. Several torn and
+battered dummies are set up near the circle for new knights just learning
+how to fight with their weapons. A small weapons rack holds dull swords
+and padded clubs and spears to practice with.
+~
+181 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18017
+D1
+~
+~
+0 -1 18186
+D2
+~
+~
+0 -1 18181
+D3
+~
+~
+0 -1 18184
+S
+#18186
+Inside Storm's Keep~
+  Two armed and armored guards stand before a landing to the east. Knights
+pass by without any trouble. They watch you and the robed ones carefully,
+but do not interfere at all.
+~
+181 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18189
+D1
+~
+~
+0 -1 18187
+D2
+~
+~
+0 -1 18182
+D3
+~
+~
+0 -1 18185
+S
+#18187
+Inside Storm's Keep~
+  Here is a spacious landing before a wide set of stairs, with room enough
+for three men in full armor and carrying weapons to pass. Torches mounted
+on the wall provide light, and reveal marring in the stone floor from the
+frequent passing of armored troops and bored men with weapons. Someone is
+scrubbing at the wall with an iron brush, trying to remove an "I love
+Takhisis" carving made by an over zealous soldier.
+~
+181 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 18186
+D4
+~
+~
+0 -1 18026
+S
+#18188
+Inside Storm's Keep~
+  As you draw near this part of the tower, an odd feeling comes over you,
+almost as if there is a small force push at you from all sides. The walls
+here are covered with runes. Some of the knights glance over at this place
+and then quickly turn away, and avoid walking near it. The robed people
+walk near and through this area without any worry.
+~
+181 136 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18017
+D2
+~
+~
+0 -1 18184
+S
+#18189
+Inside Storm's Keep~
+  There is a table wedged into the corner here. Maps of different parts of
+the world cover the table and the walls above it. Troops are marked with
+tacks, black for the Knights of Takhisis, and various colors for all their
+foes. Unfortunately, or fortunately, depending on your side, the black
+tacks far outnumber the others. Lines are drawn all over the map, showing
+movements and strategies, and it appears that soon a very swift and well
+planned attack will begin.
+~
+181 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 18186
+D3
+~
+~
+0 -1 18017
+S
+#18190
+Waywreth Forest~
+  This forest has a very unnerving quality about it. The trees are all
+twisted, casting shadows with a vaguely human appearance in places where
+light gets through, and seeming alive themselves in the darkness. The way
+you want to go always seems blocked, and when you look down an open path
+and look away, it too is blocked when you look back. The normal noises of
+creaking branches and forest animals sound strange and distorted, at times
+mocking, and other times malicious.
+~
+181 4097 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18194
+D1
+~
+~
+0 -1 18197
+D2
+~
+~
+0 -1 18198
+D3
+~
+~
+0 -1 18193
+S
+#18191
+Waywreth Forest~
+  This forest has a very unnerving quality about it. The trees are all
+twisted, casting shadows with a vaguely human appearance in places where
+light gets through, and seeming alive themselves in the darkness. The way
+you want to go always seems blocked, and when you look down an open path
+and look away, it too is blocked when you look back. The normal noises of
+creaking branches and forest animals sound strange and distorted, at times
+mocking, and other times malicious.
+~
+181 4097 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18197
+D1
+~
+~
+0 -1 18192
+D2
+~
+~
+0 -1 18062
+D3
+~
+~
+0 -1 18194
+S
+#18192
+Waywreth Forest~
+  This forest has a very unnerving quality about it. The trees are all
+twisted, casting shadows with a vaguely human appearance in places where
+light gets through, and seeming alive themselves in the darkness. The way
+you want to go always seems blocked, and when you look down an open path
+and look away, it too is blocked when you look back. The normal noises of
+creaking branches and forest animals sound strange and distorted, at times
+mocking, and other times malicious.
+~
+181 4097 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18194
+D1
+~
+~
+0 -1 18197
+D2
+~
+~
+0 -1 18191
+D3
+~
+~
+0 -1 18194
+S
+#18193
+Waywreth Forest~
+  This forest has a very unnerving quality about it. The trees are all
+twisted, casting shadows with a vaguely human appearance in places where
+light gets through, and seeming alive themselves in the darkness. The way
+you want to go always seems blocked, and when you look down an open path
+and look away, it too is blocked when you look back. The normal noises of
+creaking branches and forest animals sound strange and distorted, at times
+mocking, and other times malicious.
+~
+181 4097 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18190
+D1
+~
+~
+0 -1 18197
+D2
+~
+~
+0 -1 18194
+D3
+~
+~
+0 -1 18194
+S
+#18194
+Waywreth Forest~
+  This forest has a very unnerving quality about it. The trees are all
+twisted, casting shadows with a vaguely human appearance in places where
+light gets through, and seeming alive themselves in the darkness. The way
+you want to go always seems blocked, and when you look down an open path
+and look away, it too is blocked when you look back. The normal noises of
+creaking branches and forest animals sound strange and distorted, at times
+mocking, and other times malicious.
+~
+181 4097 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18196
+D1
+~
+~
+0 -1 18194
+D2
+~
+~
+0 -1 18197
+D3
+~
+~
+0 -1 18197
+S
+#18195
+Waywreth Forest~
+  This forest has a very unnerving quality about it. The trees are all
+twisted, casting shadows with a vaguely human appearance in places where
+light gets through, and seeming alive themselves in the darkness. The way
+you want to go always seems blocked, and when you look down an open path
+and look away, it too is blocked when you look back. The normal noises of
+creaking branches and forest animals sound strange and distorted, at times
+mocking, and other times malicious.
+~
+181 4097 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18192
+D1
+~
+~
+0 -1 18197
+D2
+~
+~
+0 -1 18194
+D3
+~
+~
+0 -1 18198
+S
+#18196
+Waywreth Forest~
+  This forest has a very unnerving quality about it. The trees are all
+twisted, casting shadows with a vaguely human appearance in places where
+light gets through, and seeming alive themselves in the darkness. The way
+you want to go always seems blocked, and when you look down an open path
+and look away, it too is blocked when you look back. The normal noises of
+creaking branches and forest animals sound strange and distorted, at times
+mocking, and other times malicious.
+~
+181 4097 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18193
+D1
+~
+~
+0 -1 18197
+D2
+~
+~
+0 -1 18194
+D3
+~
+~
+0 -1 18194
+S
+#18197
+Waywreth Forest~
+  This forest has a very unnerving quality about it. The trees are all
+twisted, casting shadows with a vaguely human appearance in places where
+light gets through, and seeming alive themselves in the darkness. The way
+you want to go always seems blocked, and when you look down an open path
+and look away, it too is blocked when you look back. The normal noises of
+creaking branches and forest animals sound strange and distorted, at times
+mocking, and other times malicious.
+~
+181 4161 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17992
+D1
+~
+~
+0 -1 18197
+D2
+~
+~
+0 -1 18194
+D3
+~
+~
+0 -1 18196
+S
+#18198
+Waywreth Forest~
+  This forest has a very unnerving quality about it. The trees are all
+twisted, casting shadows with a vaguely human appearance in places where
+light gets through, and seeming alive themselves in the darkness. The way
+you want to go always seems blocked, and when you look down an open path
+and look away, it too is blocked when you look back. The normal noises of
+creaking branches and forest animals sound strange and distorted, at times
+mocking, and other times malicious.
+~
+181 4097 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18195
+D1
+~
+~
+0 -1 18194
+D2
+~
+~
+0 -1 18197
+D3
+~
+~
+0 -1 18197
+S
+#18199
+Raistlin's Laboratory~
+  This place has been locked tight and guarded by undead under the command of
+Raistlin loyal even after his death. No mortal was ever to enter this place
+again, and your presence here can only mean that something is very wrong.
+There is a large table in the center of the room covered with scrolls, flasks
+filled colorful liquids, and jars full of all manner of putrid substances.
+Filling several bookshelves along the wall are two collections of books, one
+bound in deep blue and the other bound in black, containing nothing less than
+the most powerful magical research ever attempted. The most outstanding
+feature of this room, and the reason it has been sealed, is the large oval
+portal pushed up against the north wall. Five dragon heads surround it, and
+would devour anyone who tried to pass, but now, without explanation, the heads
+are silent and motionless and the normally swirling portal is completely calm
+as if it were simply a window looking out on the Abyss. 
+~
+181 14349 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18100
+D2
+This appears to be nothing more than an average wooden door with a simple lock,
+but you know better than to trust appearances when it comes to mages. 
+~
+door wooden~
+2 17900 18108
+S
+$

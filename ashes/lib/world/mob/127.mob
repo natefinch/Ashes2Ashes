@@ -1,0 +1,1398 @@
+#12700
+woman poor slum~
+a poor slum woman~
+A poor slum woman is here, the look of despair in her eyes.
+~
+She has a haggard look on her face, the usual exhausted face of the slum
+woman who is twenty-five and looks forty, thanks to miscarriages and
+drudgery. Her face bears a most desolate and hopeless expression, and you
+know full well, looking at her as she gazes back directly, that she is
+fully aware of the despair and desolation of life in the slums. She is not
+suffering ignorantly like an animal. She knows, she lives it.
+~
+2252 0 0 W3
+1 1 10 1d10+20 1d4+0
+10 200
+8 8 2
+15 0 13 13 13 13 0
+0 2 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12701
+merchant pusher dealer~
+a juice merchant~
+A drug pusher stands here, giving you an appraising look.
+~
+The clinking of cheap glass vials and the crinkling of dust packets are
+muffled by the long, voluminous coat worn by this merchant. His drugs
+offer a brief respite from the daily misery of the slum people. But he is
+not to be thanked, for he deals in poisons of the mind and body.
+~
+2124 0 -600 W3
+9 6 4 1d20+160 2d6+1
+666 2500
+8 8 1
+15 0 14 15 14 14 0
+0 2 2
+40 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#12702
+bum man~
+an out-of-work bum~
+A lowly bum sits here, doing nothing in particular.
+~
+He looks up at you and mumbles to himself then looks down and stares dumbly
+at his feet. His clothing is tattered and unwashed, as are his calloused
+hands and grimy face. He sits here doing nothing, occasionally staring
+blankly into space. How he ekes his living, you do not know.
+~
+204 0 0 W3
+2 1 10 1d10+20 1d5+0
+10 200
+8 8 1
+14 0 12 13 13 13 0
+0 2 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12703
+addict juice deranged~
+a deranged juice addict~
+A juice addict is here, gasping and muttering incoherently as he trips.
+~
+You are disgusted by his appearance and habits.
+~
+72 0 0 W3
+3 2 9 1d15+45 1d8+0
+30 600
+8 8 1
+15 0 11 11 14 12 0
+0 2 2
+90 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#12704
+whore woman juice~
+a juice whore~
+A haggard woman in ragged clothing tries to haggle some juice from you.
+~
+The bad effects of being addicted to a harmful substance are already well
+evident on her body. She has sores over her skin and scarred pimples on
+her face, a result of the constant infections assaulting her body. Yet
+she desperately needs more juice, and will do _anything for some.
+~
+204 0 0 W3
+2 0 10 1d10+20 1d5+0
+0 200
+8 8 2
+14 0 13 13 12 11 0
+0 2 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12705
+child waif ragged street poor boy~
+a poor street waif~
+A ragged child looks up at you with tear streaked eyes.
+~
+Dressed in filthy, tattered rags and dirty all over, this frail-looking
+child is a product of the conditions of the slums. If he's not dead soon,
+he will face a host of problems on the streets as he grows up. You wonder
+how many hours it has been since he's seen a dead body, been kicked in
+the ribs, or even merely had a crust of bread.
+~
+4194508 0 200 W3
+1 0 10 1d10+5 2d1+0
+1 100
+8 8 1
+8 0 12 14 15 12 0
+0 1 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12706
+gangster gang member~
+a gang member~
+a tough-looking gang member looks at you with hate in his eyes.
+~
+The streets breed a tough kind of adolescent unimpaired with any sense
+of moral concern or social duty beyond having a reputation for being an
+individual not to be trifled with. This one will live a short and brutal
+life, that will end without anyone ever really having remembered him.
+~
+2248 0 0 W3
+2 0 10 1d15+40 1d6+0
+60 600
+8 8 1
+16 0 13 13 14 14 0
+0 2 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12707
+prostitute whore streetwalker~
+a prostitute~
+A gaudily dressed street whore stands here displaying her wares.
+~
+Not too pretty when your attention gets past the initial flashes of
+flesh... Her revealing attire seems to be somewhat out-of-date and none-
+too-well matched. She looks like a tired and worn woman in her late
+twenties, you'd guess. She might even have children at home waiting for
+her. But do you really want to agonize over this? Or just pay her to help
+you forget your _own_ problems? If not you, she'll find another.
+~
+2249 0 0 W3
+3 3 10 1d20+55 1d7+0
+15 1000
+8 8 2
+13 0 14 15 16 13 0
+5 2 2
+100 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#12708
+zoner juicehead addict~
+a 'Zoner~
+A tall individual with 'Zoner' tattooed on his forehead stares blankly ahead.
+~
+Not the brightest person in the world, though enthusiastic in his
+support of his leader, the Supreme Taco. He tries to look a step above the
+usual street scum, but fails miserably. He fails also to realize that he
+is only being used by the drug merchants who operate this haven.
+~
+4170 0 0 W3
+6 2 8 1d20+120 1d8+2
+40 1600
+8 8 1
+13 0 11 12 13 13 0
+0 2 2
+80 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#12709
+taco supreme man~
+the Supreme Taco~
+A filthy and disgusting old man sits here, his eyes dull and glazed over.
+~
+Having won the title of Supreme Taco by virtue of receiving the largest
+number of drugs pumped, snorted, and inhaled through ALL bodily openings,
+he sits here now, dazed and confused, supposedly contemplating the life
+and peanut butter cups. You stare in awe at this man's total lack of
+intelligence. There appears to be an I.V. tube taped to the back of his
+neck. ~
+74 0 0 W3
+13 5 1 1d20+190 2d6+5
+1000 15000
+6 6 1
+9 0 3 3 8 12 0
+0 2 2
+10 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#12710
+ganja dealer rastafarian~
+Ganja Rastafarian~
+The old dealer eyes you shrewdly, then smiles just as suddenly, smelling cash.
+~
+A thin, spectacled old man with long, peppery grey dreadlocks sprouting
+from his head. He reminds you of your old grandfather, the one who always
+managed to scare the living piss outta ya when you was a wee tot. (Ahh,
+the memories!) Now he just looks like an old, harmless eccentric...
+~
+2122 1064 -200 W3
+66 70 -10 1d100+7000 6d6+34
+10000 120000
+8 8 1
+17 0 14 17 16 12 0
+0 2 2
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12711
+eric draven man~
+Eric Draven~
+Crouched low to the ground, Eric Draven silently battles his inner torments.
+~
+Once a rising musician, his life and that of his fiancee, Shelly, was cut
+short by a gang of brutal thugs. Years have passed since his return to life
+and his achieved vengeance for Shelly's death that was accomplished with
+the help of a mystical crow. Now, unable to quiet his inner demons or to
+achieve final peace, he sits alone here, in constant battle against his
+personal torments. ~
+268363 1064 900 W3
+75 60 -10 1d100+9700 6d6+45
+100000 400000
+8 6 1
+18 10 14 15 18 15 0
+19 2 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12712
+The Crow~
+Crow~
+The Crow stares at you with brilliant yellow eyes.
+~
+A normal crow by all appearances... Yet an unseen aura about it can be
+felt. It looks at you appraisingly, knowing your intentions.
+~
+12362 528384 0 W3
+28 20 -2 10d10+500 8d2+10
+1 27500
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+-20 0 2 0 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#12713
+mangy cat~
+a mangy cat~
+A mangy, underfed cat cringes at your approach.
+~
+Thin, with mangy patches of fur clinging on in disconcerting clumps, with
+ribs easily seen under the skin, this cat is still considered a delicacy
+by slumdwellers who consider them poor matches against rats.
+~
+136 0 0 W3
+2 0 10 5d2+0 1d3+0
+0 150
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12714
+girl daydreaming~
+a daydreaming girl~
+A pretty, dirt-smudged girl sits here humming softly, staring at the sky.
+~
+Thin and gangly, dressed in a dirty white smock she has taken pains to
+try to keep clean, this teenaged girl has escaped here to daydream.
+She would look pretty - even beautiful - if she had been fed well and
+treated well from birth on. But for now, all she can do is sit here and
+sigh wistfully. ~
+4194442 0 620 W3
+1 0 9 1d10+20 1d5+0
+5 500
+6 6 2
+10 0 16 13 15 12 0
+0 2 2
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12715
+burglar character man cat~
+a cat burglar~
+A suspicious-looking character walks about, looking around.
+~
+A common thief who has taken to the rooftops, he is an expert in the art
+of burglary. He pays tribute to the Slayers for limited access to the
+rooftops. ~
+2184 1024 -100 W3
+5 3 7 1d20+85 1d6+2
+200 1300
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+70 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#12716
+jitta slayer mistress~
+Jitta~
+Mistress Jitta gazes at you expectantly with her vibrant green eyes.
+~
+Slim and petite, she nonetheless exudes a powerful and commanding aura.
+Graceful, catlike, quick and deadly, just like a Siberon panther, only
+more intelligent! No wonder she is Mistress of the Slayers. You feel
+drawn by the hypnotic gaze of her emerald green eyes...
+~
+6219 1024 100 W3
+57 30 -1 1d100+3000 8d3+25
+10000 75000
+8 8 2
+14 0 16 17 18 14 0
+18 2 2
+-10 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12717
+siberon panther~
+a Siberon Panther~
+A very dangerous Siberon panther lounges on the floor.
+~
+Fierce and magnificent, proud and dangerous, the Siberon panther's native
+habitat are the dense exotic jungles of the Imperium. This one is huge,
+with fur of a smoky grey color, and powerfully muscled. Swift, fast,
+deadly, ~
+4171 1064 0 W3
+31 25 2 1d50+540 6d3+15
+0 27000
+5 5 1
+18 30 14 15 18 15 0
+4 3 3
+20 0 4 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#12718
+chest mimic ivory~
+an ivory mimic~
+A large ivory chest decorated with gold inlay sits heavily upon the floor.
+~
+The chest is composed of what seems to be two separate blocks of pure
+ivory - one larger and making up the body, the other smaller, which
+composes the lid. Thin, delicate script of an unknown language create
+a decorative border design that surrounds the edges of each of the six
+sides. They are of gold inlaid upon indentations carved into the ivory.
+Very artistically done...
+~
+20559 0 -300 W3
+24 10 -2 10d10+900 2d15+0
+10000 20000
+6 6 0
+13 0 8 8 13 13 0
+4 2 0
+-20 0 4 0 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#12719
+jeweled chest mimic~
+a jeweled mimic~
+A jewel encrusted chest sits heavily on the floor.
+~
+Studded with many jewels, this chest alone is worth it's weight in gold.
+~
+6218 0 -200 W3
+25 6 -3 10d10+900 2d15+0
+1000 10500
+6 6 0
+13 0 13 13 13 13 0
+0 2 0
+-30 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#12720
+sentry guard slayer black~
+a Black Slayers guard~
+An armed sentry has been posted here to guard against intruders.
+~
+He cuts a dashing figure in his Slayers uniform, dressed as he is in all
+black and bearing a razorsharp black ceremonial sword. This here must be
+one of the elite of the Black Slayers. His eyes follow your every move.
+~
+6218 262152 -300 W3
+22 10 1 8d10+460 2d7+8
+1200 16500
+8 8 1
+17 0 13 14 15 15 0
+0 2 2
+10 0 4 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#12721
+slayer member~
+a Slayers member~
+An off-duty Slayers member is here resting and relaxing.
+~
+Garbed in the typical all-black gear of the Slayers, he wears loose, baggy
+pants and a black armorjack that is rather light. You admire his handsome
+attire and striking appearance.
+~
+2122 1024 -200 W3
+23 15 5 1d50+250 3d4+5
+500 11790
+8 8 1
+14 0 13 13 16 14 0
+0 2 2
+50 0 4 0 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#12722
+vixen scantily clad~
+a scantily clad vixen~
+A scantily clad vixen is here doing all sorts of naughty and lewd things.
+~
+She truly is a beaut! Nice long flowing hair, a smooth, firm body that's
+hard in the right places, and soft in the other right places. Her breasts
+do not sag, and of course she is showing you alot of pink! She winks!
+~
+2122 0 0 W3
+9 2 10 2d10+70 1d7+1
+60 400
+8 8 2
+12 0 13 13 17 13 0
+0 2 2
+100 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#12723
+diva mistress dominatrix~
+Mistress Diva~
+Mistress Diva struts about commandingly, inflicting delightful pain!
+~
+Your eyes bug out at the sight of the wickedly lovely goddess standing
+before you in her sinful black corset. She looks at you with scorn in her
+expression, for she considers you to be far beneath her, worthy only to
+lick her footwear and shrimp her smelly toes. A feeling of powerlessness
+overcomes you, and you want so badly to submit!
+~
+2123 0 0 W3
+41 20 1 1d50+1000 6d3+12
+5000 42000
+8 8 2
+16 0 14 15 18 15 0
+18 2 2
+10 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12724
+slave submissive pervert~
+a submissive slave~
+A submissive slave is here tied up and suffering in pleasure.
+~
+A prime example of what they should lock up these days... Yet it does look
+like wagonloads of fun! Hmm... Would it be that bad to be whipped and
+humiliated, made to submit to Diva?
+This one is screaming out in pain, but he keeps asking for more!
+~
+4170 0 0 W3
+7 3 10 1d30+80 2d4+1
+60 500
+8 8 1
+14 0 13 13 14 14 0
+0 2 2
+100 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#12725
+Jimmy little jr son~
+Little Jimmy, Jr.~
+Before you is the mayor's son, doing some nasty things!
+~
+Shocking! To think everybody thought he was the more decent one in the
+family! Now he's here, caught in the act, his little reddish thing
+sticking out in plain sight for you to see! What? No shame? He's even
+smiling at you! You roll your eyes in disgust.
+~
+2250 0 -20 W3
+14 5 6 1d50+270 4d4+4
+2000 1000
+5 5 1
+12 0 13 13 14 13 0
+0 2 2
+60 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#12726
+Jimmy Swaggart~
+Jimmy Swaggart~
+Jimmy Swaggart cries for forgiveness as he continues to grope and squeeze.
+~
+You've caught him away from the pulpit, here playing in a cockpit.
+His face is flush with blood, and you see how utterly repulsive his
+pale white skin is like. So much for the bastion of morality nowadays.
+~
+2122 0 -200 W3
+12 5 6 10d10+200 1d12+4
+2000 10500
+8 8 1
+13 0 16 11 12 11 0
+0 2 2
+60 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#12727
+patron customer rowdy~
+a rowdy patron~
+A happy customer is here partying hard and spending money freely.
+~
+Here is one of the lucky few who can actually afford to call this place
+a second home - he's been here so many times! He's prolly a corporate from
+downtown who is here with his friends having a good (tax deductible) time.
+~
+2122 0 0 W3
+4 3 7 1d10+50 1d8+1
+300 1000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#12728
+carouser lady drunk~
+a drunk lady~
+A drunken carouser cheers on a stud as she slips him bills.
+~
+She's here having a good ole time with her gal friends, having taken off
+work early to enjoy the sights. By now her bra is off and perched on the
+head of one of the handsome hunks she's crazy for! Woo hoo! Party on!
+~
+202 0 0 W3
+3 1 7 1d10+50 1d8+0
+300 570
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#12729
+guido manzetti bouncer~
+Guido Manzetti~
+Guido the bouncer looks at you appraisingly, hoping you don't got good ID.
+~
+Tall, extremely muscular, and very swarthy, Guido here just finished
+working out at the local Gold's and is here waiting for Nunzio's signal
+for him to do his work. He's dressed in jeans and a tanktop.
+~
+6219 0 20 W3
+18 8 10 1d50+520 2d6+8
+1000 16500
+8 8 1
+18 30 11 12 15 13 0
+17 2 2
+100 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#12730
+nunzio calzone bouncer~
+Nunzio Calzone~
+Nunzio the bouncer flicks lint off his Georgio Armani suit.
+~
+Short, squat, and very swarthy, this tough guy squares his shoulders
+and sticks his chin out at you. You have a feeling he'll let Guido have a
+go at ya if ya don't got ID. Capeesh?
+~
+6219 0 0 W3
+19 5 6 1d50+520 3d5+5
+1000 16500
+8 8 1
+16 0 15 14 14 14 0
+18 2 2
+60 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#12731
+kain tyco leader reds~
+Mr. Kain~
+Tyco Kain, leader of the Reds, contemplates crushing your skull flat.
+~
+Large and brutish of feature, his heavily muscled frame hides fast
+reflexes and an even faster temper. You have no doubt he deserves his
+title of Arena Champion, a position he's held for seven years running.
+Fiery red tattoos seem to writhe and glow upon his arms.
+~
+292971 0 -1000 W3
+62 26 -1 1d100+5800 6d5+20
+100000 72000
+8 8 1
+18 100 16 14 18 18 0
+18 2 2
+-10 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#12732
+dummy combat simulations~
+a combat simulations dummy~
+An animated training dummy waits here for it's next sparring partner.
+~
+Made from various pieces of wood, metal, and foam rubber padding, this
+dummy has an old CPU stripped from some outdated computer and installed
+in it to control the sturdy servos that guide it about. It looks rather
+awkward and unsteady, but the errors the unit makes actually give a
+sense of randomness to this dummy.
+~
+75 0 0 W3
+6 0 7 1d10+150 1d10+0
+0 1560
+8 8 0
+14 0 8 8 12 13 0
+17 2 0
+70 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#12733
+stirge~
+a angry stirge~
+Buzzing mad, a stirge swoops down to attack.
+~
+Seemingly a cross between insect and bird, this stirge has a long, sharp
+beak, wickedly curved. It also has four strong, clawed feet. You gather
+they must be failed genetic experiments escaped from a bio-lab.
+~
+106 0 -400 W3
+2 2 9 1d20+40 2d2+0
+0 100
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 10
+~
+#12734
+slayer raid leader figure~
+a Slayers raid leader~
+A dark figure wearing a grinning skull mask is here directing the operation.
+~
+Tough, wiry muscles are hidden by the folds and cut of his all-black
+stealth attire. His facial features are hidden behind his silver skull
+mask, the only expression you get from him is the permanent grin on the
+mask. But that is enough to let you realize he is about to attack...
+~
+4203 1024 -400 W3
+24 17 3 1d50+680 4d4+10
+30000 21000
+8 8 1
+18 1 15 14 17 15 0
+19 2 2
+30 0 4 0 0 0
+40 40 40 40 40
+0 0 0
+6 10
+~
+#12735
+slayer elite raider~
+an elite Slayers raider~
+A Slayers raider can barely be made out from the surrounding shadows.
+~
+Garbed all in black and moving ever so silently, you can barely make out
+the outline of his body, let alone try to get a look at his face. From the
+way he moves, you get the feeling he must be swift and deadly.
+~
+4170 263168 -200 W3
+20 10 2 1d50+320 3d5+2
+1000 12000
+8 8 0
+16 0 14 13 16 13 0
+0 2 2
+20 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#12736
+trooper reds member~
+a Reds trooper~
+A Reds member stands around, glaring at you evilly.
+~
+One of the sturdy ones who have survived the rigorous (some say deadly)
+gang initiations, this individual displays his bare tattooed arms
+proudly. He sneers at you and grins, revealing poor dental hygiene.
+~
+2121 0 -360 W3
+12 5 4 10d4+150 4d3+2
+250 5200
+8 8 1
+14 0 11 11 14 15 0
+17 2 2
+40 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#12737
+veteran reds member~
+a veteran Reds member~
+A veteran Reds member stares at you sullenly.
+~
+It is surprising how this one has survived so long, given the Reds'
+reputation for self-destruction. He is barely in his late twenties, but
+already his face shows signs of aging. Don't be fooled though... This
+one's still tough and able to kick ass!
+~
+2121 0 -400 W3
+21 10 1 5d10+380 2d6+7
+1000 15700
+8 8 1
+16 0 13 15 15 16 0
+18 2 2
+10 0 4 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#12738
+bodyguard guard reds elite~
+an elite Reds bodyguard~
+An elite Reds bodyguard stands here calmly regarding you.
+~
+Chosen for combat prowess and the ability to curb their killing frenzies,
+Kain's elites serve as guards and leaders. This one here looks very
+strong and tough, ready to take you on. He looks you right back in the
+eye! ~
+4171 0 -700 W3
+30 20 1 8d10+500 2d4+13
+2500 60000
+8 8 1
+18 0 14 15 15 16 0
+19 2 2
+10 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#12739
+bill cosby~
+Bill Cosby~
+Bill Cosby stands here endorsing the Jell-O and oggling the women!
+~
+This guy here looks just like Bill Cosby! He's standing here, flabby
+body and all, in his swimming trunks, brandishing an old plastic spoon.
+Some people will do anything to be in show business. Sheesh!
+~
+202 0 500 W3
+31 15 4 1d100+1400 5d5+20
+5000 24500
+8 8 1
+11 0 12 12 12 10 0
+0 2 2
+40 0 2 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#12740
+politician rabid wild~
+a wild rabid politician~
+A wild rabid politician bursts from the muck to attack you!
+~
+Failed genetic experiments to make politicians honest, these horrible
+defects were dumped on the streets by some unknown biologicals corp to
+avoid costly cleanup. These are now left to a life in the muck. Hmm...
+Not much changed for them, did it? They annoy the Reds with their
+constant clamorings for equitable distribution, but are tolerated, as
+_someone_ has to dispose of the corpses of the losers...
+~
+111 1024 -500 W3
+9 13 7 1d30+110 4d2+0
+2000 1000
+8 8 0
+14 0 15 11 15 11 0
+17 2 2
+70 0 4 0 0 0
+75 75 75 75 75
+0 0 0
+6 10
+~
+#12741
+tagger kid street~
+a scruffy-lookin' tagger~
+A street kid is here lookin' fer a spot to spray somethin' and tag his name.
+~
+He looks barely ten or so, and wears a mix of oversized hand-me-downs
+he's yet to grow into and some bits of urban flash. He's got a spray
+can in his pocket and one in his hand, lookin' around for a spot to
+tag, and maybe earn alittle fame.
+~
+2121 0 120 W3
+2 0 10 1d10+15 2d1+0
+5 200
+8 8 1
+12 0 14 12 16 13 0
+19 2 2
+100 0 4 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12742
+mother woman addict~
+an addict mother~
+A worn out mother sits here, body aslack, eyes staring dumbly into space.
+~
+A tired-looking woman who has now given in to despair and turned to the
+promise of release and escape brought about by drugs. Her clothes are
+dirty. She's not changed in a few days, and there are a few old food
+stains on her T-shirt and skirt. They both fit her badly, for she is
+somewhat heavyset and the shirt does nothing to flatter her figure,
+emphasizing as they do her folds of fat and large floppy breasts.
+Obviously she no longer cares for herself, let alone her children.
+~
+2252 0 0 W3
+1 1 10 1d10+9 1d4+0
+13 200
+6 6 2
+13 0 14 12 12 13 0
+0 2 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12743
+child waif ragged street poor girl~
+a poor street waif~
+A ragged child looks up at you with tear streaked eyes.
+~
+Dressed in filthy, tattered rags and dirty all over, this frail-looking
+child is a product of the conditions of the slums. If she's not dead soon,
+she will face a host of problems on the streets as she grows up. You
+wonder how many hours it has been since she's seen a dead body, been
+grabbed and fondled, or even merely had a decent word said to her.
+~
+4194508 0 200 W3
+1 0 11 1d10+0 2d1+0
+1 100
+8 8 2
+8 0 12 14 15 12 0
+0 1 2
+110 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12745
+slayer member off-duty sleeper~
+an off-duty Slayers member~
+An off-duty Slayers member is here, awakened from sleep by the fighting.
+~
+Wow! What a change when they're not in uniform. This one looks alittle
+too pale for his own good, and his underwear is funny. Heh, and he calls
+himself a member of the Black Slayers? He looks more like a geek.
+~
+2122 1024 -200 W3
+19 15 5 1d50+250 3d4+5
+500 11790
+4 8 1
+14 0 13 13 16 14 0
+0 2 2
+50 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#12746
+bot cleaning~
+a small cleaning bot~
+A small cleaning bot roams the hallways picking up trash.
+~
+It looks like a trash can on wheels - which it is. It has small, yet
+durable servo-arms that can lift bits and pieces of rubbish and place in
+the receptacle opening at the top. A little processor and memory unit
+inside  keep it 'aware' in a limited sense, enough to do the job.
+~
+16589 0 0 W3
+1 0 10 5d1+1 1d1+0
+2 10
+8 8 0
+10 0 8 8 14 12 0
+16 1 0
+100 0 2 0 0 0
+95 95 95 95 95
+16 0 0
+6 0
+~
+#12747
+gigolo handsome hunk~
+a muscle-bound gigolo~
+A well-muscled hunk of handsome gigolo is here pleasing the ladies.
+~
+As the last long-description was unacceptable, I re-wrote it.
+This is a large, muscle-bound gigolo.  Wow.
+~
+2122 0 100 W3
+5 5 10 2d10+70 1d7+1
+60 400
+8 8 1
+16 0 13 13 14 16 0
+0 2 2
+100 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#12748
+sentry guard slayer black~
+a Black Slayers guard~
+An armed sentry has been posted here to guard against intruders.
+~
+She cuts a dashing figure in her Slayers uniform, dressed as she is in all
+black and bearing a razorsharp black ceremonial sword. This here must be
+one of the elite of the Black Slayers. Her eyes follow your every move.
+~
+6218 262152 -300 W3
+23 10 1 8d10+460 2d7+8
+1200 16500
+8 8 2
+17 0 13 14 16 15 0
+0 2 2
+10 0 4 0 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#12749
+mangy cat~
+a mangy cat~
+A mangy, underfed cat cringes at your approach.
+~
+Thin, with mangy patches of fur clinging on in disconcerting clumps, with
+ribs easily seen under the skin, this cat is still considered a delicacy
+by slumdwellers who consider them poor matches against rats.
+~
+138 0 0 W3
+1 0 10 5d2+0 1d3+0
+0 150
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12750
+kid little boy~
+a little kid~
+A little kid is here on the sidewalk riding around on his tricycle.
+~
+He's wearing green kids' overalls and a white T-shirt with a Captain
+America cartoon on it. Barely four years old, this little boy is small
+for his age, very darkskinned, and possessed of large eyes with which he
+regards you curiously. He rides his tricycle up to you and smiles toothily.
+~
+4194504 0 1000 W3
+1 0 10 1d10+0 2d1+0
+3 50
+8 8 1
+8 0 14 12 15 12 0
+0 1 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12751
+woman poor slum~
+a poor slum woman~
+A poor slum woman is here, the look of despair in her eyes.
+~
+She has a haggard look on her face, the usual exhausted face of the slum
+woman who is twenty-five and looks forty, thanks to miscarriages and
+drudgery. Her face bears a most desolate and hopeless expression, and you
+know full well, looking at her as she gazes back directly, that she is
+fully aware of the despair and desolation of life in the slums. She is not
+suffering ignorantly like an animal. She knows, she lives it.
+~
+2254 0 0 W3
+1 1 10 1d10+9 1d4+0
+10 200
+8 8 2
+15 0 13 13 13 13 0
+0 2 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12752
+gangsta gang member gangster~
+a gang member~
+A street gangsta sizes you up, then shrugs and pretends to ignore you.
+~
+Here he is, hair oiled and sleeked back, dressed in well-ironed oversized
+sagged pants and an extra large dark-colored Urban Flash holo-shirt that
+depicts one of the local raking teams. He gives you all kinds of hand
+signals, and seems puzzled you don't understand him. He just shrugs after
+a while and walks along actin' cool, giving you a glance occasionally.
+~
+2248 0 0 W3
+2 0 10 2d10+22 1d6+0
+60 600
+8 8 1
+14 0 13 13 14 14 0
+0 2 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12753
+solo man street~
+a street solo~
+A man in a dark trenchcoat intimidates you merely with his presence.
+~
+A black baseball cap is pulled down low over his brow, shielding his eyes.
+He wears a thick, dark brown trench and stiff denims. Oddly, a few wires
+seem to be sprouting from the behind his ear, disappearing into the neck
+of his coat. You somehow feel that he must be a dangerous person...
+~
+2251 0 0 W3
+9 0 10 1d20+200 2d4+2
+1000 600
+8 8 1
+16 0 13 15 17 14 0
+19 2 2
+100 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#12754
+girl pretty~
+a pretty girl~
+A pretty girl is here on the sidewalk playing jacks with her friends.
+~
+Somewhat short, but a little plump, she is dressed in blue jeans and a
+T-shirt and wearing a pair of girls' Reeboks sneakers. She should be
+inside the house doing her homework, but is out here playing a game of
+jacks instead. She smiles at you as you watch her and her friends play,
+displaying some braces on her teeth. Heehee! Cute. :)
+~
+4194442 0 900 W3
+2 0 9 1d10+25 1d5+0
+5 500
+6 6 2
+10 0 16 13 15 12 0
+0 2 2
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12755
+girl little meimei~
+a little girl~
+A little girl is here learning how to ride her red bicycle.
+~
+She is really small and has to stand on her bicycle to ride since it's
+too high for her. She has a look of determination in her almond-shaped
+eyes, though, so you know she's going to keep at this until she really
+_can_ ride! Sweat beads on her forehead, causing her ebony bangs to
+cling to it. This little girl is dedicated, all right. Heh, good thing
+her bicycle has training wheels. *grin*
+~
+4194442 0 900 W3
+1 0 9 1d10+12 1d3+0
+4 100
+8 8 2
+10 0 14 13 15 12 0
+0 2 2
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12756
+father man babysitting~
+a babysitting father~
+One of the neighborhood fathers is keeping a watch on the playing children.
+~
+This stalwart working man is spending some of his free time helping to
+keep an eye on the neighborhood children as they play here, as well as
+watch for any suspicious characters. He is wearing slacks and an old
+flannel shirt, and constantly looks at his watch, then at the kids, and
+the surrounding area. He smiles at you, a twinkle in his eye.
+~
+4200522 0 800 W3
+3 3 8 1d20+50 1d4+1
+100 500
+8 8 1
+14 0 14 15 14 14 0
+0 2 2
+80 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#12757
+citizen man city~
+a citizen of the city~
+A man on the street ignores you as he hurries on to his destination.
+~
+As nondescript as one could ever be, you realize he is here merely to
+represent that large group of people in society we see so often, yet never
+remember much of. As such, he is garbed in typical clothes that do nothing
+to attract attention. You could call him an Average Joe if you wanted.
+~
+4194504 0 0 W3
+2 0 10 50d1+0 1d6+0
+50 500
+8 8 1
+13 0 13 13 13 14 0
+0 2 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12758
+citizen woman city~
+a citizen of the city~
+A woman on the street ignores you as she hurries on to her destination.
+~
+As nondescript as one could ever be, you realize she is here merely to
+represent that large group of people in society we see so often, yet never
+remember much of. As such, she is garbed in typical clothes that do nothing
+to attract attention. You could call her an Average Jane if you wanted.
+~
+4194504 0 0 W3
+2 0 10 50d1+0 1d6+0
+50 500
+8 8 1
+13 0 13 13 13 14 0
+0 2 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12759
+guard security corporate~
+a corporate security guard~
+An armed guard is stationed here to keep the peace.
+~
+Actually, he's here more to make sure private property (read: corporate)
+is protected and their interests kept safe. Otherwise, he doesn't really
+care if you happen to be beating up a bum, and might actually help you!
+This guard is wearing a grey jumpsuit with a kevlar vest to cover his chest.
+Cradled in his arms is an FN-RAL assault rifle. These men are the only
+ones legally allowed to carry such arms on patrol. Not even city police
+may do so (let alone afford it on their piddling budget).
+~
+2123 0 0 W3
+12 5 3 10d4+190 4d3+2
+500 5200
+8 8 1
+15 0 11 11 14 15 0
+17 2 2
+30 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#12760
+citycop cop policeman~
+an overworked citycop~
+An overworked citycop patrols here in a futile effort to keep the peace.
+~
+Ever since corporations began to field their own paramilitary troops,
+ever since taxes were lowered and social service programs axed, city cops
+have had a grueling nightmare job of trying to keep the peace. If it's not
+having to break up a firefight 'tween local gangstas and out-of-town
+nomad packs (hard to do when they often pack better firepower, armor, and
+cybernetics than you do!), it's having to endure snubbing from corp guards.
+~
+6217 0 700 W3
+6 5 4 1d10+60 1d8+1
+200 5200
+8 8 1
+14 0 14 14 13 15 0
+17 2 2
+40 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#12761
+citycop cop policewoman~
+an ill-equipped citycop~
+An ill-equipped citycop patrols here in a futile effort to keep the peace.
+~
+Ever since handguns and SMG's were legalized to be carried on the street
+in concealed locations, ever since the Collapse and the installment of a
+puppet gov't by the Coalition Imperium, city cops have had serious trouble
+trying to deal with corruption, drugs, and keeping public order. If it's
+not being ordered to shoot taggers and demonstrators, it's having to head
+out with only a kevlar vest and a 9mm handgun against drug runners with
+armor trenches, assault rifles, and infra-scopes. No wonder she's bushed!
+~
+6217 0 700 W3
+6 5 4 1d10+60 1d8+1
+200 5200
+8 8 2
+14 0 14 14 13 15 0
+17 2 2
+40 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#12762
+pigeon scraggly skyrat~
+a scraggly pigeon~
+A scraggly, diseased, and lice-infested pigeon scrambles about for food.
+~
+This here is one of the infamous skyrats common to the city. Making their
+nests atop roofs, winging their way across the sky in search of scraps of
+food from trashcans, roadkills, and old bag ladies, they annoy people
+with their constant wing-flapping and aerial bombardments.
+~
+136 0 0 W3
+1 0 10 1d1+3 1d3+0
+0 150
+8 8 0
+12 0 13 13 15 11 0
+0 0 0
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#12763
+guard checkpoint wall corporate~
+a Wall guard~
+An armed guard is stationed here to prevent access to the Corporate Zone.
+~
+Still and silent, fully at attention, this checkpoint guard is stationed
+here to prevent the entry of unauthorized individuals (like you!) into
+the Corporate Zone - the area where multinational megacorps have their
+offices and apartments. He wears a grey jumpsuit and a black kevlar vest,
+an FN-RAL assault rifle at the ready, chipped and wired to a socket in
+his right wrist. You're quite sure he's getting a readout on you from
+his tactical display cyber-optics.
+~
+2123 0 0 W3
+17 7 3 10d4+350 4d5+3
+1000 5200
+8 8 1
+15 0 11 11 14 15 0
+17 2 2
+30 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#12764
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#12770
+mob test~
+Test Mob~
+A Test mob is here.
+~
+A Test mob. ~
+14411 1024 100 W3
+50 35 -30 1d1+2770 1d1+0
+10000 75000
+8 8 2
+14 0 16 17 18 14 0
+0 2 2
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12790
+target~
+Slayer Sentry~
+A Slayer Sentry glares menancingly at you.
+~
+~
+8232 0 0 W3
+50 20 20 100d100+10000 6d6+25
+0 200000
+4 4 0
+13 0 13 13 13 13 0
+0 2 0
+200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#12799
+Eric cat~
+Eric the Cat~
+Eric the Cat is 'ere, purring 'appily.
+~
+Oi, boyz an' gurlz! Zis 'ere is Eric the Cat! Eric the Cat is 'ere
+purring 'appily. Now whoy doncha feed 'im?
+~
+8 0 0 W3
+1 0 10 1d1+10 1d3+0
+0 50
+8 8 1
+13 0 13 13 13 13 0
+0 0 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+$

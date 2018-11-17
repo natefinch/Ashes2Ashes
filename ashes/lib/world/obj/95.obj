@@ -1,0 +1,368 @@
+#9500
+shotgun~
+Terminator's Shotgun~
+You see a shotgun lying here.~
+It's the Terminator's shotgun.~
+5 8679451 8193 0
+0 0 0
+0 6 5 12
+19 1500000 0
+A
+18 4
+A
+17 3
+#9501
+ball metal liquid~
+a ball of liquid metal~
+You see a ball of metal laying here, it looks liquidy.~
+It is a ball of metal, it looks liquidy.~
+9 168448 16385 0
+0 0 0
+4 0 0 0
+10 1000000 0
+A
+18 3
+#9502
+uniform police~
+a Police Officer's Uniform~
+You see a police officer's uniform laying here.~
+It is a police officer's uniform.~
+11 442896 9 0
+0 0 0
+0 0 0 0
+13 0 0
+A
+10 30
+A
+13 5
+#9503
+laptop computer connor john~
+John Connor's Laptop~
+You see a laptop laying here.~
+~
+18 0 1 0
+0 0 0
+2 0 0 0
+10 0 0
+#9504
+compartment~
+a Compartment~
+You see a big metal compartment on the wall.~
+~
+15 0 0 0
+0 0 0
+100 15 9503 0
+100 0 0
+#9505
+chip terminator~
+the chip of a Terminator~
+You see a small chip laying here.~
+~
+0 0 16385 0
+0 0 0
+0 0 0 0
+0 1000 0
+A
+5 2
+A
+4 3
+#9506
+key~
+a Huge Key~
+There is a huge key laying here.~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+0 0 0
+#9507
+arm terminator robotic~
+a Terminator's mechanical arm piece.~
+A robotic looking arm is laying here.~
+~
+9 9221120 257 0
+0 0 0
+15 0 0 0
+0 0 0
+#9508
+red terminator eye~
+Terminator's glowing red eye~
+A red glowing eyeball is laying here.~
+~
+1 8680449 16385 0
+0 0 0
+0 0 -1 0
+10 100000 0
+A
+18 2
+A
+17 1
+#9509
+card id~
+Cyberdine id card~
+An id card is laying here.~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+7 0 0
+#9510
+robotic mechanical terminators arm piece~
+a Terminator's mechanical arm piece~
+You see a robotic m piece laying here.~
+~
+9 9199616 257 0
+0 0 0
+15 0 0 0
+5 500000 0
+#9511
+handgun gun laser laser-sited terminator~
+the Terminator's Laser-Sited Handgun~
+You see a handgun with a laser site just sitting here.~
+~
+5 8665603 8193 0
+0 0 0
+0 9 3 12
+15 0 0
+A
+18 4
+A
+11 20
+#9512
+terminators terms leather jacket coat~
+the Terminator's Leather Jacket~
+You see a cool leather jacket on the ground covered in dirt.~
+~
+9 8812560 9 0
+0 0 0
+9 0 0 0
+5 30000 0
+A
+18 2
+A
+17 2
+#9514
+connors sarahs hair blond~
+Sarah Connor's Blond Hair~
+You see a lock of blond hair laying on the ground.~
+~
+9 9206785 17 0
+0 0 0
+16 0 0 0
+30 0 0
+A
+1 -5
+#9515
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#9516
+trench coat trenchcoat kyle reece's~
+Kyle Reece's Brown Trenchcoat~
+You see a brown trenchcoat hung up on a coat rack here.~
+~
+11 8926208 1025 0
+0 0 0
+0 0 0 0
+5 40000 0
+A
+18 1
+A
+17 3
+#9519
+glass case~
+a glass case~
+There is a large glass dispay case that has been sat here.~
+~
+15 0 0 0
+0 0 0
+1000 15 9506 0
+100 0 0
+E
+case~
+There is a large glass display case here that has some odd objects in it.
+there seems to be a mechanical arm of some sort in it and there is some
+kind of computer chip in there ...wierd.
+~
+#9584
+flame thrower~
+a flame thrower~
+A flame thrower lies here unattended.~
+~
+5 8451072 8193 0
+0 0 0
+0 4 3 2
+0 0 0
+A
+1 1
+A
+14 3
+#9585
+Slingshot~
+a Childs slingshot~
+A child's slingshot lies here without a child to use it.~
+~
+5 8682496 16385 0
+0 0 0
+0 3 4 2
+0 0 0
+A
+17 2
+A
+16 0
+#9586
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#9588
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#9591
+handstamp hand stamp~
+Fiona's hand stamp.~
+Fiona , the front door lady's, hand stamp lies here in a pool of ink.~
+~
+5 0 16385 0
+0 0 0
+0 3 7 7
+0 0 0
+E
+look stamp~
+This is a hand stamp from a hot new club.  When you walk into work tomorrow
+everyone is gonna envy you cause you got it to this club. Aren't you the 
+lucky one?
+~
+#9592
+shoes shoe dancing dancin'~
+Magic Mike's dancin' shoes.~
+Magic Mike's dancin' shoes lies here in a cloud of stench.~
+~
+11 0 65 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+4 -2
+A
+18 1
+E
+shoe shoes dancing~
+You have never seen a more guady pair of shoes in your life.  They are 
+red and purple sequined and are they ever ugly.  They look to be a sizw
+12 or s.  They smell bad too.~
+#9593
+flash light flashlight~
+Barney, the bouncer's, flashlight~
+Barney's Flashlight is lying here in a pool of liquor.~
+~
+1 0 16385 0
+0 0 0
+0 0 100 0
+0 0 0
+A
+17 2
+#9594
+piano tie necktie~
+Joe's piano necktie.~
+Joe's piano necktie is lying here on the piano.~
+~
+11 1 5 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+17 2
+A
+13 2
+E
+look tie ~
+This tie looks like it is made of some kind of fake leather.  There are 
+black and white bars running down it making it look like the keys
+on a p[iano.
+~
+#9595
+hair bow hairbow trish~
+Trish's Purple hairbow.~
+This is trish's tacky purple hairbow lying in a puddle of cosmetics.~
+~
+11 8927234 17 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+18 2
+A
+5 1
+E
+look bow~
+This is trish's tacky purple hairbow that she wears with everything, Even
+when it matches nothing she is wearing.  There are tassles on it which 
+lead you to believe she made it out of an old set of curtains.
+~
+#9596
+can teddi whip~
+a huge chilled can of Teddi-whipp(tm) whip cream.~
+A huge chilled can of Teddi-whipp(tm) is sitting here.
+~
+~
+0 0 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#9597
+Lipstick potion Make-up make up~
+a Tube of purple passion lipstick.~
+A small tube of lipstick lies here.
+~
+~
+10 0 16385 0
+0 0 0
+10 19 29 38
+1 0 0
+#9598
+A beautiful red rose~
+a beautiful red rose in full bloom.~
+A beautiful red rose is lying here on the floor.
+~
+~
+0 1 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+rose red~
+The rose is in full bloom and it is the most beautiful shade of red
+you have ever seen.  The red reminds you of hearts, flowers, and 
+love. There is a small note attached to it.
+~
+#9599
+Brent t-shirt~
+Brent, The drummer's sweaty t-shirt.~
+A t-shirt lies here in a pool of sweat.
+~
+~
+11 8451072 9 0
+0 0 0
+0 0 0 0
+3 0 0
+A
+18 2
+A
+1 2
+$

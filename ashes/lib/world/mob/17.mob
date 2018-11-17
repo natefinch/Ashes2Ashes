@@ -1,0 +1,439 @@
+#1701
+gatekeeper~
+the Gatekeeper~
+A bored gatekeeper is standing guard here.
+~
+This man is in charge of the gate to the castle.  His orders are to not
+let anyone in, but his eyes shine with avarice, and he might be persuaded
+to open the gate for the right price.
+~
+74 0 0 W3
+65 3 -100 1d1+29999 1d1+1
+100 100
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1702
+guard castle~
+a castle guard~
+A castle guard stands ready to defend the keep.
+~
+
+This castle guard, like many others, is a victim of circumstance.  A generally
+honest and good man, he is forced to work in the castle for Lord Glum, else
+his family would suffer.  He follows orders reluctantly, but his fear of Lord
+Glum and his concern for his family keep him loyal to the castle.
+~
+6216 0 500 W3
+12 15 0 1d1+144 1d6+5
+1000 1
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#1703
+common commoner frightened~
+a commoner~
+A frightened commoner goes about his business.
+~
+This man has seen eno
+ugh of Lord Glum's reign to know to be very frightened
+of him.  While a decent enough fellow, he will do nothing to bring the wrath
+of any of the Lords Grymourne upon him.
+~
+200 0 450 W3
+7 10 5 1d1+37 1d8+2
+100 500
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#1704
+elderly servant~
+an elderly servant~
+An elderly servant is running errands for her master.
+~
+This old lady has worked in the castle for many decades, and has stuck on in
+the hopes that one day Lord Glum will be driven from the keep.
+~
+200 0 900 W3
+8 5 8 1d1+70 1d7+3
+1 1000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+80 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#1705
+boy stableboy stable~
+a stableboy~
+A stableboy is looking for a horse that got away from him.
+~
+Barely 16, this young lad is partly scared of all Bloodguard, and partly
+fascinated by them.  A good boy, raised by fine parents who were killed 
+during Lord Glum's rise to power.
+~
+72 0 1000 W3
+1 1 10 1d1+5 1d6+1
+15 100
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+100 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#1706
+maid girl~
+a maid~
+A pretty maid is cleaning up here.
+~
+A
+ pretty girl who is probably married to one of the guards.
+~
+204 0 1000 W3
+8 10 5 1d1+88 2d4+4
+0 2000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+50 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#1707
+sergeant arms guard~
+a sergeant-at-arms~
+A sergeant-at-arms is giving orders to the men.
+~
+A hardened warrior, he keeps the others in line for the Lords Grymourne.  He
+reports directly to Sir David himself, and while not an evil man, he is jaded
+enough to not care what happens to those around him.
+~
+2120 0 0 W3
+20 15 0 1d1+224 2d5+10
+0 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#1708
+blood guard bloodguard warrior~
+a bloodguard warrior~
+A bloodguard warrior is waiting to ambush someone.
+~
+These fanatic warriors are the product of demented experimentation.  They
+only live to kill, and they are loyal only to Lord Glum. They are the backbone
+of his shock troops, and fight until death no matter what.
+~
+28778 1024 -400 W3
+25 25 -1 1d1+364 6d2+15
+5000 35000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-10 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 10
+~
+#1709
+blood guard bloodguard warrior~
+a bloodguard warrior~
+A bloodguard warrior is looking for someone to kill.
+~
+These fanatic warriors are utterly devoted to Lord Glum,  Nothing will stop
+them short of death, theirs or yours.  They know no fear, no pity, no mercy.
+~
+28776 0 -400 W3
+25 25 -1 1d1+364 6d2+15
+15000 36000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-10 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 10
+~
+#1710
+chaos warrior legion~
+a warrior of chaos~
+A Warrior of Chaos patrols the halls here.
+~
+A mighty warrior and member of the Legions of Chaos, this being was created
+out of the very fabric of entropy to be the perfect fighting force for Lord
+Glum.  Every day more and more chaos warriors join the ranks of the Chaos
+Brigade here in the castle.
+~
+6184 0 -400 W3
+30 25 -4 1d1+656 4d4+15
+30000 90000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-40 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 10
+~
+#1711
+chaos warrior legion champion~
+the Champion of Chaos~
+The Champion of Chaos, leader of the Chaos Brigade, looks at you menacingly.
+~
+Once a Chaos Warrior, this creature fought it's way through the ranks to become
+the most fearsome of all the Legion of Chaos.  Wielding a large runeblade,
+he cuts a path through his foes as he steals their life essence.
+~
+30825 1160 -700 W3
+45 20 -8 1d1+1048 5d5+25
+75000 150000
+8 8 1
+18 100 13 13 13 13 0
+18 3 2
+-80 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#1712
+sentinel guardian~
+the sentinel~
+The sentinel is standing guard here.
+~
+A large stone golem, the sentinel is a mighty guardian who has been set here
+to prevent any from entering the throne room beyond.  He is slow, but made
+of solid granite and nearly impossible to destroy.
+~
+24586 1032 0 W3
+60 18 0 0d0+30000 4d4+40
+100000 350000
+8 8 0
+13 0 13 13 13 13 0
+0 3 5
+0 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1713
+key master keymaster~
+the keymaster~
+
+The keymaster of Castle Grymourne lies in wait.
+~
+This is Lord Glum's keymaster, responsible for keeping people in, or keep
+them from leaving.
+~
+24650 787466 -300 W3
+20 15 -10 1d10+200 4d4+10
+5000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#1714
+sir david grymourne~
+Sir David~
+Sir David Grymourne is overseeing the troops here.
+~
+Younger brother to Lord Glum, Sir David is the general in charge of his human
+armies.  An Anti-Paladin in the Order of the Ebon Flame, Sir David is a mighty
+warrior in his own right.  He rules the outer castle with an iron hand.
+~
+30793 1160 -750 W3
+50 30 -10 10d10+2500 5d5+25
+150000 250000
+8 8 1
+13 0 13 13 13 13 0
+18 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#1715
+lord glum grymourne lordglum~
+Lord Glum~
+Lord Glum looks out over his subjects with disdain.
+~
+Lord Glum is a powerfully built giant of a man.  In fact, he looks more demon 
+than man, and you wonder 
+at his origins.
+~
+292907 553649288 -1000 W3
+150 90 -35 100d10+15600 20d10+65
+55000 50000
+8 8 1
+18 100 13 13 25 13 0
+15 2 2
+-350 0 8 200 15 30
+10 10 10 10 10
+16 0 0
+6 10
+~
+#1716
+demon doppel doppel-demon~
+the Doppel-Demon~
+The Doppel-demon has been revealed!
+~
+In it's true form, the Doppel-Demon is enormous. Eight feet tall and well over
+500 pounds, the demon has razor sharp talons and spiked protruding all over his
+skin.  It's power is much greater in it's true incarnation.
+~
+30763 1160 -400 W3
+60 48 -10 20d20+2000 14d5+43
+180000 250000
+8 8 0
+13 0 13 13 13 13 0
+11 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#1717
+tangi grymourne~
+Tangi~
+The Bloodguard leader, Tangi, is creating new bloodguards.
+~
+
+Brother to Lord Glum and Sir David, Tangi is the middle brother of the three.
+He leads the fanatical warriors of Lord Glum known as the Bloodguard.  He is
+half-insane himself, either due to nature or his own brother's conditioning.
+~
+292907 1160 -400 W3
+65 30 -25 20d20+3500 6d5+45
+195000 250000
+8 8 1
+13 0 13 13 13 13 0
+18 2 2
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#1718
+chaos priest~
+a priest of chaos~
+A priest is here, worshiping the dark forces of chaos.
+~
+One of the disciples of Sir Sabbath Grymourne, this priest is a loyal follower
+of the lords of Chaos.
+~
+30762 1032 -400 W3
+25 25 -8 10d10+600 5d5+25
+50000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-80 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 10
+~
+#1719
+sir sabbath grymourne~
+Sir Sabbath~
+Sir Sabbath Grymourne stands here incanting a prayer to the lords of Chaos.
+~
+Sir Sabbath Grymourne is a high priest of Chaos, and the father of the brothers
+Grymourne.  His eldest son, Lord Glum, rules the lands around the castle with
+the help of Sir Sabbath and his demonic allies.  Sir Sabbath is wholly evil,
+and no trace of pity or mercy are to be found left within his soul.
+~
+292911 132232 -400 W3
+130 40 -30 25d25+8000 20d6+60
+10000 20000
+8 8 1
+18 100 13 13 20 13 0
+11 2 2
+-300 0 6 1000 10 20
+10 10 10 10 10
+16 0 0
+6 15
+~
+#1720
+lord glum grymourne lordglum~
+Lord Glum~
+Lord Glum Grymourne smiles at you, and fear enters your heart.
+~
+As you look upon him in his true form, Lord Glum sends fear through your entire
+soul.  He can crush you with the least effort, and you realize how puny your
+existance truly is.
+~
+292907 9352 -1000 W3
+140 85 -32 50d50+17000 20d10+80
+25000 50000
+8 8 1
+18 100 18 18 22 18 0
+18 2 2
+-320 10 8 300 18 25
+1 10 10 10 10
+0 0 0
+6 10
+~
+#1721
+seer~
+the Seer of Midgaard~
+The Seer of Midgaard is scrying the future.
+~
+She looks very mysterious.
+~
+8266 1024 0 W3
+50 0 -100 1d1+25000 1d1+1
+0 0
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-1000 0 2 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#1722
+blah~
+blah~
+Jiro
+~
+it's blah
+~
+10 1024 100 W3
+20 2 0 10d10+100 2d2+2
+3 100
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+$

@@ -1,0 +1,373 @@
+#1900
+legend blair witch aura~
+the legend of the Blair Witch~
+A horrifying aura is assaulting your senses.~
+~
+1 1493001 16385 536870912
+0 0 0
+0 0 -1 0
+3 4000 4000
+A
+13 6
+A
+10 10
+#1901
+curse blair witch aura~
+the curse of the Blair Witch~
+An evil aura is here.~
+~
+9 1493512 1025 32768
+0 0 0
+10 0 0 0
+5 666 666
+A
+13 5
+A
+10 30
+A
+2 2
+#1902
+cloak blair witch twana black hooded spirit~
+a black, hooded cloak of the Twana, rife with power~
+A visitor from the spirit world is here trapped in this world.~
+~
+11 1493017 9 4
+0 0 0
+0 0 0 0
+10 9600 9600
+A
+13 5
+A
+10 30
+A
+16 -2
+A
+2 1
+#1903
+bible holy~
+the Holy Bible~
+A copy of the bible is laid to rest on the ground.~
+~
+12 3091 16385 0
+0 0 0
+0 0 0 0
+7 50 50
+A
+7 10
+E
+bible testament book~
+It's weathered and old from many readings.  Its pages frail and
+its cover torn.
+~
+#1904
+tome rare~
+a rare tome, "The Blair Witch Cult"~
+A rare tome has been discarded at your feet.~
+~
+12 2029705 16385 0
+0 5 0
+0 0 0 0
+7 16000 16000
+A
+1 1
+A
+13 6
+A
+10 25
+E
+tome rare cult blair witch~
+It tells the story of an entire town cursed by an outcast witch.
+~
+#1905
+flashlight light~
+a flashlight~
+A flashlight is rolling around on the ground, left turned on by someone.~
+~
+1 1 16385 2560
+0 0 0
+0 0 168 0
+5 25 25
+A
+5 -6
+#1906
+cap stocking~
+a cap~
+A warm looking cap has lost its owner.~
+~
+9 0 17 0
+0 0 0
+-5 0 0 0
+1 5 5
+A
+3 -2
+A
+4 -2
+#1907
+log large crossing~
+log~
+A large log is lying across the creek providing passage to the other side.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1500 0 0
+E
+log~
+The log is positioned about 3 feet above the waters surface.
+~
+#1908
+creek water stream~
+gently flowing creek~
+The creek is flowing gently here.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 0 0
+5000 0 0
+E
+creek water stream~
+The water looks clean and inviting. Jump in. Have a lazy swim.
+~
+#1909
+creek water stream~
+gently flowing creek~
+The creek here is littered with sticks and the surface covered with strange oil.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 0 1
+5000 0 0
+#1910
+stone pile curse omen~
+a pile of stones~
+A neatly stacked pile of stones is on the ground.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+100 0 0
+#1911
+stone pile curse omen~
+a pile of stones~
+Several piles of stones are on the ground, put here by persons unknown.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+100 0 0
+#1912
+stickman stick twana~
+a stickman~
+A stickman, fashioned from small limbs bound by ropes, is hanging in a tree.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+25 1000 1000
+E
+stick stickmen stickman twana spirit~
+The Twana stickmen are rife with power.
+~
+#1913
+map paper~
+a map of the Black Hills Forest~
+A shredded, useless map is lying here.~
+~
+18 12 2049 0
+0 0 0
+0 0 0 0
+5 0 0
+E
+map ma~
+This map makes no sense to you and is no help.
+~
+#1914
+camera video~
+a video camera~
+A black box with a lense is here covered in blood.~
+~
+8 0 17 0
+0 0 0
+0 0 0 0
+15 1000000 1000000
+A
+6 4
+A
+16 10
+A
+2 -3
+#1915
+demons dreams dreaming nightmare vision cold chills~
+Demons Dreaming~
+A burst of cold air chills your soul.~
+~
+9 9648640 17 0
+0 0 0
+11 0 0 0
+4 32000 32000
+A
+17 3
+A
+18 2
+#1916
+key mythical~
+a key of myth~
+A key has been used and tossed aside.~
+~
+18 12 4097 0
+0 0 0
+0 0 0 0
+1 0 0
+#1917
+key legend~
+the key of legend~
+A key has been used and tossed aside.~
+~
+18 12 1 0
+0 0 0
+0 0 0 0
+1 0 0
+#1918
+key banished curse~
+the cursed key of the banished~
+A key has been used and tossed aside.~
+~
+18 12 4097 0
+0 0 0
+0 0 0 0
+1 0 0
+#1919
+key despair~
+the key of despair~
+A key has been used and tossed aside.~
+~
+18 12 1 0
+0 0 0
+0 0 0 0
+1 0 0
+#1920
+key insanity~
+the key of insanity~
+A key has been used and tossed aside.~
+~
+18 12 4097 0
+0 0 0
+0 0 0 0
+1 0 0
+#1921
+key damned~
+the key of the damned~
+A key has been used and tossed aside.~
+~
+18 12 1 0
+0 0 0
+0 0 0 0
+1 0 0
+#1922
+trinket charm blood teeth tongue~
+a trinket of bloody teeth and tongue~
+A familiar scream fills the air with an assaulting power.~
+~
+9 1505296 4097 32
+0 0 1
+7 0 0 0
+4 11000 11000
+A
+17 3
+A
+18 1
+#1923
+door car automobile deathwagon~
+a car~
+A car is parked on the edge of the road.~
+~
+15 0 0 0
+0 0 0
+1000 5 0 0
+5 0 0
+E
+car ca auto~
+It looks in working order. Although, there is no one in it.
+~
+#1924
+poster missing person~
+Poster~
+A missing persons poster is on a bulletin board here.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+poster po pos post mi mis miss missing per pers person~
+Heather Donahue, last seen near Black Rock Road October 21, 1994.
+~
+#1925
+poster missing person~
+Poster~
+A missing persons poster is on a bulletin board here.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+poster po pos post mi mis miss missing per pers person~
+Joshua Leonard, last seen near Black Rock Road October 21, 1994.
+~
+#1926
+poster missing person~
+Poster~
+A missing persons poster is on a bulletin board here.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+poster po pos post mi mis miss missing per pers person~
+Michael Williams, last seen near Black Rock Road October 21, 1994.
+~
+#1927
+sign warning caution~
+a sign~
+A rusty sign is here. PLEASE READ ME.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+si sig sign war warn warning rus rust rusty~
+This area is extremely dangerous and could easily result in painful death
+and the loss of your equipment.  If you are part of a large group enter at
+your own risk.  If you are alone, turn back now.
+~
+#1930
+~
+~
+~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+#1931
+~
+~
+~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+#1932
+~
+~
+~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+$

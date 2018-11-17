@@ -1,0 +1,386 @@
+#14100
+mushroom grey mush shroom~
+a grey mushroom~
+A small grey mushroom grows on the ground here.~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+1 0 0
+E
+mushroom mush shroom~
+Taking a closer look at this little mushroom, you see it looks almost exactly
+like a portabella, except for it's grey coloring. It looks pretty tasty. You
+think it's safe to eat.
+~
+#14101
+Pond clear small~
+a clear pond~
+You look at the pond, and watch the dragonflys buzz about it's surface.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 15 0
+10000 0 0
+#14102
+mushroom grey mush shroom~
+a grey mushroom~
+A grey mushroom grows on the log here.~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+1 0 0
+E
+mushroom mush shroom~
+Taking a closer look at this little mushroom, you see it looks almost exactly
+like a portabella, except for it's grey coloring. It looks pretty tasty. You
+think it's safe to eat.
+~
+#14103
+log rot rotten~
+a rotten log~
+A rotten log lies on the ground here.~
+~
+15 0 0 0
+0 0 0
+1000 5 0 0
+1 0 0
+E
+log rotten rot~
+You take a closer look at the log.... It's very large log. It must have once
+been a great tree like the ones that surround you. Mushrooms grow all over
+it's surface. They look pretty apettizing too.
+~
+#14104
+tree fruit~
+a fruit tree~
+A fruit tree grows here, occasionally droping a piece of fruit to the ground.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+10000 0 0
+E
+tree~
+The tree is old and looks as though it's weathered many years, but come out
+for best of it. Odd looking fruit hangs from it's branches.
+~
+#14105
+fruit piece~
+a piece of fruit~
+A piece of fallen fruit is lying on the ground here, it looks delicious.~
+~
+19 0 0 0
+0 0 0
+12 0 0 0
+2 0 0
+E
+fruit piece fru~
+As you examine the fruit, you realize you've never seen anything of it's kind
+before. I looks almost like a cross between an apple and orange, having the
+the shape of an apple, but the texture & color of an orange.
+~
+#14106
+rags cloth clothing~
+a piece of torn clothing~
+A piece of tattered clothing is lying on the ground here rotting.~
+~
+11 0 9 0
+0 0 0
+0 0 0 0
+2 0 0
+A
+6 2
+E
+rags cloth clothing~
+You look at the clothing and realize whatever creature it belonged to was
+about your size. The clothing is pretty messed up. iT looks like it's been
+sitting here a while decaying.
+~
+#14107
+torch burnt~
+a burnt out torch~
+An old, used torch is lying on the ground here.~
+~
+1 0 16385 0
+0 0 0
+0 0 0 0
+2 1 1
+E
+torch tor burnt~
+You examine the torch and acertain that it's pretty worthless. You wonder
+about who it must have belonged to. Again you have that feeling of not being
+alone.
+~
+#14108
+mush green~
+a funny green mushroom~
+A small green mushroom is growing here, it looks rather odd.~
+~
+19 0 1 0
+0 0 0
+12 0 0 1
+2 0 0
+E
+green mushroom mush shroom~
+You examine the mushroom a little closer. It has an odd shape and a really
+bad odor, probably not something you wanna eat.
+~
+#14109
+sign~
+a sign~
+A small sign written in funny lettering is here, maybe you should read it.~
+~
+12 65544 0 0
+0 0 0
+0 0 0 0
+1000 0 0
+E
+sign~
+To those who dare enter the Dark Woods:  Beware the demons that inhabit this
+section of the woods, for many have died, and you shall too if you are not
+fiercer then they.
+~
+#14110
+pond red bloody~
+a blood colored pond~
+A blood colored pond sits nearby, you wonder if it contains REAL blood......~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 13 1
+10000 0 0
+E
+blood red pond~
+You examine the pond only to feel even more certain that it is indeed made of
+blood. You wonder what kind of place this is you're in.
+~
+#14111
+corpse rot rotting~
+a rotting corpse~
+The rotting corpse of some unfortunate victim is here lying on the ground.~
+~
+15 0 0 0
+0 0 0
+1000 0 0 0
+1 0 0
+E
+corpse rot rotting~
+You take a closer look at this unfortunate person's carcass.... Whatever
+killed this guy was not very nice. There are deep gashes that look like they
+were done with claws all over the body. You also notice several places where
+the corpse was partially eaten. You can't help but shutter at the thought of
+ending up like this guy.
+~
+#14112
+map grimwall~
+a map of Grimwall~
+A tattered map of Grimwall is lying here~
+~
+12 0 1 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+map grim grimwall~
+            Map of Grimwall                O--------O
+                                           |        |
+                                           | Graven | 
+                                           | Castle | 
+                                           |        |
+????????????????????  ///////////////////  O--------O
+                   ?  ///////////////////      ||
+                   ?  ///////////////////  # # /\ # #
+     Darkendale    ?  //////Graven///////  ----  ----  Graven
+       Forest      ?  //////Field////////  ----  ----  Village
+                   ?  ///////////////////  # # \/ # #
+????????????????????  ///////////////////      ||
+                                               ||
+~
+#14113
+key skull black~
+a black key~
+A small black key with an evil looking skull on it is lying here.~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+key skull black~
+It is black with a skull for a handle. Looking really close you can make out
+small intricate scratch marks on it. Strange.
+~
+#14114
+key wood wooden~
+a wooden key~
+A wooden key lies here in the dirt.~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+key wood wooden~
+Looking at it you see it is indeed make of wood. It appears to be carved from
+the same wood that the trees around you are made of. You wonder who on earth
+makes a key out of wood.
+~
+#14115
+book small~
+a small book~
+A small, tattered book is lying on the ground here.~
+~
+12 65544 16385 0
+0 0 0
+0 0 0 0
+2 0 0
+A
+3 1
+E
+book small tattered~
+Grimwall History by Rigbyd. This book is a small decription of the theme of
+Grimwall and will explain the story of this area. The chapters are: 1. Story
+order followers Grimwall  2. The woodlanders  3. The people of Graven  4. The
+monsters of the dark woods  5. Map of Grimwall. The individual chapters can
+be read by typing look chap1, chap2, chap3, chap4, and chap5. It is advisable
+you read this, as it may help you in figuring out certain puzzles involved
+during your of this zone. So read it! (-: Thanks!!!
+~
+E
+chap1~
+Story of Grimwall: In a land far away....No, actually, in THIS land, there
+lives a king, some tree people, and some ugly mosters. (Sounds interesting
+right?) The king was the King of Graven, King Rancoth. He is a very powerful
+king and does not like those who disobey or disrespect him, the punishment
+for those who do is usually immediate death. (Not a nice guy.) The people of
+Graven tolerate his rule only because it is all they have known and they fear
+him. In the land of Grimwall also lives a peaceful people who live in the
+woods (Woodlanders). They have a small treehouse community and live in
+seclusion from the rest of the kingdom. Until recently, the existance of the
+woodlanders had been merely a wives tale passed down over the generations,
+but now one of them was caught by garrison of guards exploring the lighter
+portion of the woods. King Rancoth sees the Woodlanders as a potential enemy,
+so he has ordered the capture and imprisonment of all of them.
+~
+E
+chap3~
+The people of Graven are catagorized into 2 sections, those that inhabit
+Graven castle, and those who inhabit Graven village. Both of these are
+regular, ordinary people, so I will not elaborate on them. consider this
+chapter a waste.
+~
+E
+chap2~
+There is one slight problem with the King's order, Darkendale Forest, which
+in turn is inhabited by a species of monster unknown, all that is known is it
+feeds upon the flesh of thoses foolish enough to enter the woods. No one will
+dare enter the woods in search of the Woodlanders. The Woodlanders: The
+Woodlanders have had a history of being an peace & nature loving people.
+Until recently, they have never had aneed for weapons, but they realize the
+potential danger they are in and are preparing for a possible war in which
+they are sure to lose. Their only advantages being their cunning and
+remarkable woodsmanship abilities. They have also developed a way of keeping
+the monsters away, light. They discovered long ago that the monsters fear
+light itself and that is the reason for their main inhabitance of the dark
+woods.
+~
+E
+chap5~
+            Map of Grimwall                O--------O
+                                           |        |
+                                           | Graven | 
+                                           | Castle | 
+                                           |        |
+????????????????????  ///////////////////  O--------O
+                   ?  ///////////////////      ||
+                   ?  ///////////////////  # # /\ # #
+     Darkendale    ?  //////Graven///////  ----  ----  Graven
+       Forest      ?  //////Field////////  ----  ----  Village
+                   ?  ///////////////////  # # \/ # #
+????????????????????  ///////////////////      ||
+                                               ||
+~
+E
+chap4~
+The monters of the Dark Woods: These are a centuries old family of creatures
+that have been inhabiting these woods since the dawn of time. The legend goes
+that a group of cave men turned cannibalistic and where exiled from their
+community for thier man eating practices. They then went into the woods and
+where never heard from again. Frequently a person from the village nearby
+would go missing in the middle of the night. Their muffled screams and the
+sound of footsteps the only sound. No trace was ever left. So as the story
+goes, the cannibals became more and more animal like over the centuries, but
+never losing their intelligence. And so they still dwell in the darker
+regions of Brickstone forest today. Occasionally a tortured screams escapes
+from the woods late at night. Only to be silenced again.
+~
+#14116
+bones bone~
+a pile of bones~
+A pile of bones lies on the cave floor, devoid of all flesh.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+bone bones~
+You take a closer look at the bones and realize they are human. A chill
+sweeps across your body. They are completely clean of meat and you can see
+teeth marks in them.
+~
+#14117
+coins pile~
+a pile of coins~
+A small pile of coins lies on the ground here.~
+~
+20 0 0 0
+0 0 0
+100 0 0 0
+1 0 0
+#14118
+coins pile~
+a large pile of coins~
+A large pile of coins lies on the ground here.~
+~
+20 0 0 0
+0 0 0
+1000 0 0 0
+1 0 0
+#14119
+skull bone~
+a human skull~
+The skull of some dead person is rolling about on the ground.~
+~
+9 0 17 0
+0 0 0
+4 0 0 0
+1 0 0
+A
+1 2
+A
+17 2
+E
+skull~
+You look at the skull and it's black, hollow eyes look back. It almost seems
+to be grinning at you. It has many scratches on it's surface, you hate to
+think of how this porr guy died.
+~
+#14120
+nest hive~
+a bee hive~
+A bee hive lays on the ground here.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+hive nest~
+It's a regular bee hive, only it's occupants are extremely pissed about being
+kicked around. The bees are flying out of the hive and attacking you. OUCH!
+That hurts!
+~
+$

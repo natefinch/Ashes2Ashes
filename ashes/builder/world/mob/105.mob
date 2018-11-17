@@ -1,0 +1,315 @@
+#10501
+zombie putrid~
+the putrid zombie~
+A putrid zombie is here.
+~
+It is a prime example of the undead:  sickly green skin, sunken eyes with a 
+yellowish tinge, and sharp, dirt-encrusted claws.
+~
+10 0 -255 W
+11 12 4 1d6+165 2d7+1
+1 6250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#10502
+asp snake~
+the Deadly Asp~
+A poisonous asp slithers here.
+~
+~
+40 0 0 W
+14 11 2 2d6+150 3d6+0
+0 9750
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+20 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 10
+#10503
+morticia guildhead~
+Morticia~
+Morticia, Guildhead of the Living Dead, is here.
+~
+Her long, raven black hair drapes those stunning curves of hers.  How
+did such a sweet thing become the leader of this cult?  As a bard once
+wrote, 'You could tell she was practiced at the art of deception/ by
+her bloodstained hands.'
+~
+14 136 -1000 W
+30 20 -2 3d6+425 2d8+7
+24786 54750
+8 8 2
+13 0 13 13 13 13 0
+0 5 0
+-20 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#10504
+assassin physician lazaru laza~
+Lazarus~
+Lazarus, Assassin and Guild Physician, is here.
+~
+This master herbalist was found too valuable to the Guild as a maker
+of both soothing balms and poisons.  Even death could not release
+him...the necromancers just reanimate him.
+
+~
+10 128 -900 W
+23 18 0 2d8+222 2d10+2
+13238 34750
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#10505
+beetle undead~
+the undead riding beetle~
+An undead riding beetle is parked here.
+~
+A fine example of Necromancy, this giant beast can travel for miles
+with no need for food nor water.  A most economical mount--and sporty
+too!
+~
+10 0 -300 W
+10 10 2 1d6+150 2d6+1
+1 6250
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#10506
+wraith knight~
+the wraith knight~
+A wraith knight stands a silent watch here.
+~
+This was probably some poor adventurer, like you, before the
+Necromancers got their hold on him.  Now he just awaits, blade drawn,
+like some ethereal beefeater.
+~
+42 0 -800 W
+13 14 1 1d8+185 2d8+2
+1555 14750
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+10 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 10
+#10507
+keeper~
+the Crypt Keeper~
+The Crypt Keeper, grinning at you maliciously, is here.
+~
+The dessicated little fellow cackles with mad glee as he approaches
+you.  He twitches from excitement so much that his scraggly hair
+jostles as he flashes his dull yellow teeth.
+~
+42 8 -1000 W
+22 11 2 3d6+500 3d6+8
+25225 34750
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+20 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 10
+#10508
+hermit~
+the hermit~
+A Hermit, starved for company, is here.
+~
+Although raving mad, the hermit has come out of his isolation since he
+has not spoken with anyone for ages.  The shaggy hermit draws you over
+and tells you a tale:
+
+	Some 600 years ago, when I was but a lad, a great dragon
+	ruled the land.  His name was Ancalador.  Many heroes came
+	to do battle with him, but all failed and died, horribly,
+	I imagine.  But one wizard challenged the Drake to a magic
+	duel.  He too died, like the others, but with his last
+	breath, the wizard turned the mighty Ancalador to stone!
+	Many believed the dragon's evil reign ended, but after the
+	dancing and drinking were over, and life returned to its
+	quiet pace, the people began to notice that the Dragon's
+	presence could still be felt.  Ancalador did, in fact,
+	continue to rule from his petrified prison through the 
+	manipulation of the minds of men.  Indeed, he has done so
+	to this day.  Many believe he is plotting the day he can
+	return in the flesh, so to speak...
+
+With that the Hermit begins to cackle madly, tears running down his
+leathery face.  You can get no more out of him.
+~
+10 0 500 W
+9 9 4 2d8+125 2d6+1
+23 5250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+40 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#10509
+slime blob~
+the Green Slime~
+A blob of Green Slime drops upon you!
+~
+It looks like animated mucous, dissolving and eating all it touches.
+~
+42 0 0 W
+6 5 4 1d10+75 1d8+1
+0 2250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+40 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 10
+#10510
+dweller flame~
+the Flame Dweller~
+A Flame Dweller is basking in fire here.
+~
+It's shape changes like the flame it lives in.  One moment it may
+resemble a serpent, the next, a man.  It seems to be thoroughly
+enjoying itself.
+~
+10 0 -50 W
+13 13 1 1d10+175 2d8+1
+18000 9750
+6 6 0
+13 0 13 13 13 13 0
+0 5 0
+10 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#10511
+spider green~
+the green crystal spider~
+A Green Crystal Spider is roaming here.
+~
+The fantastic beast seems to be made of a crystalline substance which
+is giving off a green light.  It clicks it's crystal mandibles in
+irritation with you.
+~
+136 0 -400 W
+8 7 3 2d6+96 2d5+1
+0 4250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+30 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#10512
+spider yellow~
+the yellow crystal spider~
+A Yellow Crystal Spider is clicking its mandibles here.
+~
+Slightly smaller than it's green cousin, this creature also appears to
+be made of living crystalline substance which glows yellow.
+~
+40 0 -350 W
+7 6 4 1d8+85 2d4+1
+351 3250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 10
+#10513
+warden~
+the Petrified Warden~
+A Petrified Warden guards the way.
+~
+He wears the sneer of cold command upon his stony visage.
+~
+10 0 -700 W
+11 10 2 2d4+155 2d7+1
+1009 4750
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#10514
+hulk umber~
+the umber hulk~
+A lumbering Umber Hulk is here.
+~
+This great beast has huge mandibles and a mammals mouth, angry animal
+eyes set between unreadable insect eyes.  The effect is
+confusing.
+~
+40 0 -750 W
+18 17 0 3d6+225 3d6+2
+0 22250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 10
+#10515
+jello ochre~
+an Ochre Jello~
+A hideous Ochre Jello approaches.
+~
+As it oozes slowly at you, you can make out items undigested within
+it.  From past unfortunates, you presume.
+~
+40 0 -700 W
+16 15 1 2d6+196 2d8+2
+1576 17250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+#10599
+necromancer necro~
+the Necromancer~
+A Necromancer of the Bloodstone, creating zombies, is here.
+~
+Evil reeks from his dark robes.  His hands are adorned with the long,
+wicked nails which are stained with the ichor of embalmers and
+malignant salves.
+~
+170 0 -900 W
+16 14 1 1d6+210 2d8+2
+6666 17250
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+$

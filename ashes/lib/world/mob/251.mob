@@ -1,0 +1,413 @@
+#25100
+Cultist man~
+a Cultist~
+An evil Cultist stands here.
+~
+Foam drips from this crazed man's mouth as he looks around blindly. He is
+dressed in robes that are stained with blood and gore. 
+~
+137 1 0 W
+6 0 6 5d7+60 4d1+4
+500 6000
+8 8 1
+13 0 13 13 13 13 0
+5 5 0
+60 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#25101
+trooper man cultist~
+a cultist trooper~
+You see an evilt Cultist trooper standing here.
+~
+This man is dressed in robes and has a deadly look on his face. He looks to be
+a natural leader and a aura of command hangs about him. 
+~
+2057 0 -50 W
+19 10 3 5d7+180 4d1+10
+1000 19000
+8 8 1
+13 0 13 13 13 13 0
+17 5 0
+30 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#25102
+dog chaos~
+a Chaos dog~
+A chaos dog stands here.
+~
+Calling this thing a dog, would be an insult to the dog. It has huge teeth
+stained yellow and large limbs. It stands about 5 feet tall at the shoulder
+and stinks badly. 
+~
+137 0 -25 W
+9 0 6 5d7+80 4d1+6
+500 9000
+8 8 1
+13 0 13 13 13 13 0
+4 5 0
+60 0 4 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#25103
+cultist leader man~
+a cultist leader~
+You see a cultist leader standing here.
+~
+Leader of the Cultists this man wears a simple dress uniform. The uniform has
+lots of shiny medals on it and looks to be important. He walks with the
+dignity of a general. 
+~
+2089 512 -500 W
+21 15 6 5d7+180 4d2+10
+2000 21000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+60 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 10
+#25104
+beastman man beast~
+a beastman~
+A beastman stands here.
+~
+This thing looks to be a cross between a ram and a human. It has a vagely human
+shape to it, but it's head is one of a ram. It walks with a limp and has no
+verbal skills. 
+~
+2089 16777728 0 W
+39 20 3 5d7+500 4d2+16
+2500 39000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25105
+chaos fleshound hound dog~
+a chaos fleshhound~
+A chaos fleshhound stands here glaring.
+~
+~
+2093 128 -1000 W
+46 10 0 5d7+550 5d5+10
+3000 46000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+0 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25106
+marine chaos scout~
+Chaos marine scout~
+A Chaos Marine Scout stands here.
+~
+Standing before you is a man clad in light scout armor of the Imperial Space
+Marines. The armor is dented up and looks to be decaying. His face is covered
+up by a small helmet, with it's blast shield down. 
+~
+2089 16777224 -1000 W
+50 30 -3 5d7+1075 5d5+10
+3500 50000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25107
+wizard chaos man~
+Chaos Wizard~
+A Chaos Wizard stands here muttering to himself.
+~
+A man stands here in long decaying robes. He has a hood covering his face, but
+you can see two small glowing eyes in the darkness of the hood. A stench hangs
+around him and he sways as he moves. 
+~
+264233 16777346 -1000 W
+29 0 0 5d7+380 4d1+6
+2000 29000
+8 8 1
+13 0 13 13 13 13 0
+8 5 0
+0 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 10
+#25108
+marine tactical chaos man~
+Tactical Chaos Marine~
+A Tactical Chaos Marine stands here aiming his gun at you.
+~
+A man stands here clad in some kind of metal armor. It has dents and holes all
+over it, as well as burn marks from laser fire. 
+~
+2089 16778376 -1000 W
+55 30 -3 5d7+650 5d5+10
+4000 55000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25109
+death guard chaos man~
+Death Guard~
+A member of the Death Guard stands here.
+~
+This man looks more of a monster than a man. His suit looks as if it is grafted
+to his body and in places it is. His helmet is only a face mask and a tube
+attached to his mouth. His eyes are completely white. 
+~
+2089 16777344 -1000 W
+65 30 -3 5d7+1075 5d5+12
+4500 65000
+8 8 1
+13 0 13 13 13 13 0
+20 5 0
+-30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25110
+terminator marine chaos man~
+Chaos Chaos Terminator~
+A Chaos Marine Terminator stands here.
+~
+Huge describes this man the most. The armor he wears is the biggest you have
+ever seen. Huge plates connect to cover his entire body, they must be about
+three inches thick. 
+~
+2089 16777856 -1000 W
+72 40 -15 5d7+1075 5d5+30
+60000 72000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-150 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25111
+Chaos Dreadnought robot~
+Chaos Dreadnought~
+A Chaos Dreadnought stands here
+~
+A lone dreadnought, or robot, stands here guarding something, what you do not
+know. It seems almost dead as it doesn't move a muscle, or metal arm in this
+case. 
+~
+2061 16777857 -1000 W
+127 70 -22 5d7+9750 5d7+50
+381000 142000
+8 8 1
+13 0 13 13 13 13 0
+12 5 0
+-220 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#25112
+Palindor man chaos~
+Palindor the Unforgiven~
+Palindor the Unforgiven stands here.
+~
+~
+2089 128 -1000 W
+127 65 -38 5d7+8250 5d7+12
+150000 135000
+8 8 1
+13 0 13 13 13 13 0
+12 5 0
+-380 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25113
+katam man chaos~
+Katam~
+Katam stands here.
+~
+Katam is dressed in robves that have a rotten stench about them. He is tall and
+has black matted hair, that falls around his shoulders and across his chest.
+His eyes pierce into your soul. 
+~
+41 16777344 -1000 W
+127 65 -38 5d7+4450 5d7+62
+200000 168000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-380 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25114
+lord corruption chaos man~
+Lord of Corruption~
+The Lord of Corruption stands here.
+~
+A huge mass of flesh sits here on the ground. It has two arms that seem to just
+grow out of the middle of the mass. It's head, if you could call it that, sits
+on the top of all the flesh. It's eyes, huge and yellow, seem to tear into
+your heart. 
+~
+264233 16777344 -1000 W
+127 50 -22 5d7+3150 5d7+30
+100000 137000
+8 8 1
+13 0 13 13 13 13 0
+12 5 0
+-220 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25115
+Ragmor damned man chaos~
+Ragmor the Damned~
+Ragmor the Damned stands here.
+~
+Ragmor the Damned stands here eminating huge clouds of death. When hit by a
+wave of one such cloud you reel in pain and agony, for that is what Ragmor
+strives for. Ragmor sends your stomach reeling and your mind into panic. 
+~
+2089 130 -1000 W
+109 30 -22 5d7+8250 4d1+8
+100000 109000
+8 8 1
+13 0 13 13 13 13 0
+15 5 0
+-220 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25116
+zeathos destroyer man chaos~
+Zeathos the Destroyer~
+Zeathos the Destroyer stands here.
+~
+Zeathos the Destroyer is here seeking blood for his blood god. He looks at you
+and charges into battle screaming at the top of his lungs, Blood for the Blood
+God!!! He has spittle and foam flowing from his mouth as he cleaves into you. 
+~
+41 16777344 -1000 W
+127 70 -22 50d7+8000 50d2+42
+381000 127000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-220 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25117
+Khorne Champion chaos man~
+Khorne Champion~
+A Khorne Champion stands here.
+~
+This beast lives for only one reason, and that is to serve his god. And that
+god is the mighty Khorne, ruler of all that is war. The beast seems almost
+human like, that is if you could call a nine foot tall, horned, minotuar
+headed, rat human like. 
+~
+2089 16777344 -1000 W
+126 55 -16 5d7+8250 5d7+42
+100000 126000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-160 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25118
+Traitor Terminator man chaos~
+Traitor Terminator~
+A Traitor Terminator stands here.
+~
+This terminator is rather normal looking, if you look past the many skulls and
+body parts stuck to his armor. He struggles to keep at least some humanity
+working for the chaos gods, but after centuries of torment he has finally
+failed and been taken over by the gods evil corruption. 
+~
+264233 16777344 -1000 W
+127 55 -16 5d7+8250 5d7+44
+150000 132000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-160 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25119
+Kelin corrupt man chaos~
+Kelin the Corrupt~
+Kelin the Corrupt stands here
+~
+Kelin used to be commander for the Cresant Hawks before the Horus Hersey, but
+now he commands the lowly beastmen of the chaos legions. He doesnot like his
+job and seems to want to take it out on you. 
+~
+2089 16973952 -1000 W
+126 70 -20 5d7+8250 5d7+12
+150000 126000
+8 8 1
+13 0 13 13 18 13 0
+12 5 0
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#25120
+magus chaos man~
+Chaos Magus~
+A Chaos Magus stands here.
+~
+A non-descript magus stands here studying some sort of scroll, when he looks
+up. He instantly sends a wave of death rolling forward into your ranks. He
+seems to be evilly grinning at you as he points his finger. 
+~
+2089 16777346 -1000 W
+106 50 -30 5d7+2750 5d7+0
+150000 106000
+8 8 1
+13 0 13 13 13 13 0
+15 5 0
+-300 0 2 0 0
+10 10 10 10 10
+16 0 0
+6 10
+#25121
+Gorath Unpure man chaos~
+Gorath the Unpure~
+Gorath the Unpure stands here.
+~
+Gorath stands here studying what is left of his poor ship. He used to command
+this vessal years ago when it was thought of as a merchant ship , but now he
+flys he cosmos waging war on all who oppose his god. 
+~
+2089 16793730 -1000 W
+117 70 -30 5d7+9750 5d7+0
+150000 117000
+8 8 1
+13 0 13 13 13 13 0
+15 5 0
+-300 0 2 0 0
+10 10 10 10 10
+16 0 0
+6 10
+$

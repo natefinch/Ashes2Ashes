@@ -1,0 +1,306 @@
+#4000
+ring yellow green~
+a yellow and green ring~
+A ring is here, with yellow and green ornamentation.  It looks very old.~
+~
+9 0 16387 0
+0 0 0
+0 0 0 0
+1 50 20
+A
+1 -2
+E
+ring~
+It feels heavy.
+~
+#4001
+corpse~
+a corpse~
+A halfway decayed corpse of a goblin is here, giving off a foul odor.~
+~
+15 0 1 0
+0 0 0
+1 0 -1 0
+10 0 500
+#4002
+coins~
+some coins~
+A small pile of coins is on the ground.~
+~
+20 0 1 0
+0 0 0
+500 0 0 0
+0 0 0
+#4003
+axe orc chieftain~
+the orc chieftain's axe~
+A large battle axe, black with dried blood, lies here.~
+~
+5 8417280 8193 0
+0 0 0
+0 3 4 3
+10 500 0
+A
+18 2
+#4004
+whip long leather~
+a long, black leather whip~
+A long, black leather whip with a weighted tip lies here.~
+~
+5 0 24577 0
+0 0 0
+0 5 3 2
+5 4500 0
+A
+18 2
+#4005
+cat nine tails~
+a cat-o'-nine tails~
+A dangerous-looking cat-o'-nine tails lies here forgotten.~
+~
+5 0 8193 0
+0 0 0
+0 9 1 2
+5 1250 0
+#4006
+breast plate iron~
+an iron breastplate~
+A breastplate made of iron lies on the ground getting rusty.~
+~
+9 9457664 9 0
+0 0 0
+6 0 0 0
+25 7000 0
+#4007
+boots shod iron~
+a pair of iron-shod boots~
+A pair of thick leather boots shod in iron lie here.~
+~
+9 9457664 65 0
+0 0 0
+3 0 0 0
+9 2500 0
+#4008
+sickle blade steel~
+a sickle~
+A large sickle with a serrated steel blade lies here looking deadly.~
+~
+5 8417280 8193 0
+0 0 0
+0 3 6 3
+10 1000 0
+#4009
+belt wide leather~
+a wide leather belt~
+A wide belt made of thick leather sits here neglected.~
+~
+9 0 2049 0
+0 0 0
+3 0 0 0
+4 400 0
+#4010
+bracers bronze~
+a pair of bronze bracers~
+A pair of bracers made of bronze lie here turning green.~
+~
+9 9457664 257 0
+0 0 0
+7 0 0 0
+10 2500 0
+#4011
+axe double bitted~
+a double-bitted axe~
+A double-bitted axe with a lot of nicks in it lies on the ground here.~
+~
+5 8417280 8193 0
+0 0 0
+0 3 6 6
+10 2350 0
+#4012
+skullcap skull cap iron~
+a skullcap~
+A skullcap made of thick iron lies here in the dust.~
+~
+9 9457664 17 0
+0 0 0
+5 0 0 0
+5 2500 0
+#4013
+goblin skull skulls necklace~
+a necklace made of goblin skulls~
+A necklace made of goblin skulls strung together sits here looking gross.~
+~
+11 135680 5 0
+0 0 0
+0 0 0 0
+4 10000 0
+A
+18 2
+A
+4 -3
+#4014
+hammer two mighty two-handed~
+a mighty two-handed warhammer~
+A mighty two-handed warhammer lies here, waiting to be used in battle.~
+~
+5 9457664 8193 0
+0 0 0
+0 3 6 0
+15 5000 0
+A
+17 -2
+#4015
+gloves chain mail~
+a pair of chain mail gloves~
+A pair of gloves made out of chain mail lie in a pile here.~
+~
+9 9457664 129 0
+0 0 0
+4 0 0 0
+3 125 0
+#4016
+leggings chain mail~
+a pair of chain mail leggings~
+A pair of leggings made out of chain mail have been wadded up in a ball here.~
+~
+9 9457664 33 0
+0 0 0
+5 0 0 0
+60 2250 0
+#4017
+pike spear gnoll long~
+a gnollish pike~
+A pike, a long spear often used by gnolls, lies here discarded.~
+~
+5 8417280 8193 0
+0 0 0
+0 3 6 11
+12 2250 0
+A
+17 2
+A
+12 -10
+#4018
+flayer spear barbed gnoll~
+a gnollish "flayer"~
+A "flayer", a long barbed spear favored by gnolls, lies here unused.~
+~
+5 8531968 8193 0
+0 0 0
+0 3 6 11
+12 2500 0
+A
+17 -2
+A
+18 2
+#4019
+jerkin black leather~
+a black leather jerkin~
+A black jerkin of thick leather gathers dust here.~
+~
+9 0 9 0
+0 0 0
+5 0 0 0
+20 150 0
+#4020
+gutter dirk barbed gnoll~
+a gnollish "gutter"~
+A "gutter", a sharp serrated dirk favored by gnolls, lies here ominously.~
+~
+5 139264 24577 0
+0 0 0
+0 3 6 11
+4 2250 0
+A
+17 1
+A
+18 1
+#4021
+hacker sword gnoll serrated~
+a gnollish "hacker"~
+A "hacker", a long, serrated steel sword favored by gnolls, sits here.~
+~
+5 8531968 8193 0
+0 0 0
+0 3 6 3
+6 2250 0
+A
+17 1
+A
+18 1
+#4022
+battleaxe axe battle gnoll mighty chieftain~
+the gnoll chieftain's mighty battle axe~
+The gnoll chieftain's mighty battle axe lies here, sticky with blood.~
+~
+5 8417280 8193 0
+0 0 0
+0 7 2 6
+17 15000 0
+A
+18 2
+A
+12 -25
+#4050
+potion purple~
+a purple potion~
+A purple potion is here.~
+~
+10 0 16385 0
+0 0 0
+17 14 36 33
+1 35500 2000
+E
+potion purple~
+It looks rather strange!
+~
+#4051
+helmet metal~
+a metal helmet~
+A metal helmet in here.~
+~
+9 0 16401 0
+0 0 0
+4 0 0 0
+4 3000 100
+A
+23 -2
+A
+22 -2
+E
+helmet metal~
+It looks somehow magical!.
+~
+#4052
+mushroom~
+a mushroom~
+A small mushroom is here.~
+~
+19 0 16385 0
+0 0 0
+2 0 0 1
+1 9 3
+E
+mushroom~
+Let's put it this way - I wouldn't eat it!!
+~
+#4053
+dirk~
+a thieves' dirk~
+A beautifully crafted dirk is lying here.~
+stab~
+5 9351168 24577 0
+0 0 0
+0 4 2 11
+2 850 30
+A
+17 1
+A
+18 1
+E
+dirk~
+It's a medium sized, beautifully crafted dirk made from some greyish alloy.
+Its blade is double-edged and very thin...this looks like a good thieves'
+weapon.
+~
+$

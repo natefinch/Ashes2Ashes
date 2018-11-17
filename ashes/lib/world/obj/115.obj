@@ -1,0 +1,397 @@
+#11500
+sign~
+a small sign~
+You see a small sign resting here.~
+~
+16 0 0 0
+0 0 0
+115 0 0 0
+0 0 0
+E
+sign~
+~
+#11501
+bestial blade~
+the bestial blade~
+A sharp blade with bestial markings on it.~
+~
+5 0 8193 0
+0 0 0
+0 2 6 11
+3 120 1
+#11502
+cloak darkness~
+a darkness cloak~
+A pitch black cloak emitting an evil aura lies here.~
+~
+9 2656 1025 0
+0 0 0
+3 0 0 0
+4 13000 1
+A
+2 1
+A
+23 5
+#11503
+jewel dark evil~
+the dark jewel of evil~
+A dark, evil jewel lies here.~
+The jewel explodes and black streams of evil entanges your foes.
+~
+4 64 16385 0
+0 0 0
+30 70 70 25
+2 50000 1
+A
+23 20
+A
+20 30
+#11504
+vial holy water~
+a vial of holy water~
+A vial of holy water is here.~
+~
+10 320 1 0
+0 0 0
+30 3 34 35
+4 10000 1
+#11505
+liches sceptre~
+the liches sceptre~
+You have found the liches sceptre.~
+~
+3 393280 16385 0
+0 0 0
+50 5 5 26
+5 25000 1
+#11506
+bone human~
+a human bone~
+A bone from a skeleton of a human corpse is here.~
+~
+5 0 8193 0
+0 0 0
+0 1 4 7
+5 5 1
+#11507
+recipie card~
+the recipie~
+A small card sets here.~
+~
+16 0 1 0
+0 0 0
+0 0 0 0
+1 1 1
+E
+note card recipie~
+In order to make a beautiful dish of human carcases, you need:
+  3  Freshly killed humans
+  1  Oz. of Dwarven blood
+  1  Great big pot
+Take care in preparing your corpses, somtimes they still might be alive!
+Brown to perfection, and stir for several hours.
+~
+#11508
+human head~
+a human head~
+You see a delicious human head cooked just the way you like it.~
+~
+19 0 1 0
+0 0 0
+12 0 0 0
+6 5 1
+#11509
+arm meaty~
+a meaty arm~
+A nice meaty arm is lying here, be glad it's not yours!~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+4 3 1
+#11510
+vial blood~
+a blood-filled vial~
+A vial filled with blood is here.~
+~
+10 0 1 0
+0 0 0
+20 17 0 0
+3 1000 1
+#11511
+~
+~
+A sword is here.~
+~
+0 131136 8193 0
+0 0 0
+0 0 8 3
+6 15000 1
+#11512
+jewel odd~
+an odd looking jewel~
+There is an odd looking jewel hidden in the dust.~
+The jewel seems to ward off the evil forces around you.
+~
+11 393297 5 0
+0 0 0
+0 0 0 0
+3 100000 1
+A
+18 2
+A
+11 -15
+A
+16 -3
+#11513
+boots dark darkness~
+a pair of darkness boots~
+There are some dark boots on the ground.~
+~
+9 133696 65 0
+0 0 0
+5 0 0 0
+4 40000 1
+A
+2 2
+A
+12 20
+#11514
+key dead~
+the key of the dead~
+A small, engraved key made of bone lies here.~
+~
+18 0 1 0
+0 0 0
+116 0 0 0
+1 500 1
+#11515
+shield bone~
+the shield of bone~
+A shield made of bone lies here.~
+~
+9 393792 513 0
+0 0 0
+8 0 0 0
+8 20000 1
+A
+18 2
+A
+2 2
+#11516
+breastplate plate evil~
+an evil-looking breastplate~
+An evil-looking breastplate lies here.~
+~
+9 2633 9 0
+0 0 0
+10 0 0 0
+14 50000 1
+#11517
+megaheal potion~
+the megaheal potion~
+A potion of megaheal is here.~
+~
+10 64 1 0
+0 0 0
+30 28 28 28
+2 15000 1
+#11518
+potion protection~
+a protection potion~
+A potion of protection is here.~
+~
+10 64 1 0
+0 0 0
+30 36 0 0
+3 20000 1
+#11519
+scroll enchant~
+an enchant weapon scroll~
+A scroll of enchant weapon is here.~
+~
+2 64 1 0
+0 0 0
+30 24 0 0
+1 15000 1
+#11520
+runesword rune sword~
+a minor runesword~
+A black runesword lies here, sigils glowing a dull amber orange.~
+~
+5 525656 8193 0
+0 0 0
+0 5 1 3
+7 4000 1
+A
+17 4
+#11521
+jeffrey dahmer leggings legs~
+outdated Jeffrey Dahmer's Leggings~
+Bloody leggings are here.
+~
+~
+9 393280 1 0
+0 0 0
+10 6 66 6
+12 100000 1
+A
+18 3
+#11522
+alien shard~
+an alien shard~
+A broken shard from an alien ship.~
+~
+5 33098 8193 0
+0 0 0
+0 1 1 11
+5 1000000 1
+A
+2 3
+A
+17 10
+#11523
+bracers strength str~
+Bracers of Strength~
+A pair of hard, greenish bracers rest on the ground.~
+~
+9 262209 257 0
+0 0 0
+7 0 0 0
+5 15000 1
+A
+18 2
+A
+1 1
+#11524
+backpack pack back~
+a backpack~
+A backpack of a deceased adventurer is here.~
+~
+15 0 17409 0
+0 0 0
+50 1 -1 0
+2 500 1
+#11525
+~
+a strange glowing skull~
+A magical, glowing skull is giving off a strange light.~
+~
+0 64 16385 0
+0 0 0
+0 0 -1 0
+2 500 1
+#11526
+~
+~
+~
+~
+0 65 3 0
+0 0 0
+0 0 0 0
+2 250000 2500
+A
+18 2
+#11527
+jeffrey dahmer leggings legs~
+Jeffrey Dahmer's Leggings~
+Bloody leggings are here.
+~
+~
+9 393280 33 0
+0 0 0
+10 6 66 6
+12 100000 1
+A
+18 1
+A
+1 2
+#11528
+bone belt human finger bones fingerbones~
+a belt made of human fingerbones~
+A grisly looking belt made up of human bones is lying here.~
+~
+11 131072 2049 0
+0 0 0
+0 0 0 0
+2 50000 0
+A
+17 2
+A
+18 2
+A
+16 -1
+#11540
+charm carnal knowledge~
+a charm of carnal knowledge(THROBBING)~
+You see a throbbing charm lying here.~
+~
+11 131584 5 0
+0 0 0
+0 0 0 0
+5 100 100
+A
+4 2
+A
+3 2
+#11541
+charm putrid knowledge~
+a charm of putrid knowledge~
+You see a whacked out charm lying here.~
+~
+11 131584 5 0
+0 0 0
+0 0 0 0
+5 100 0
+A
+4 3
+A
+3 3
+#11576
+Leila heart blood~
+Leila's Heart(THROBBING)~
+You see heart torn from the body of the Queen of vampires, it thrives on the
+powers of evil.~
+~
+11 444944 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+10 20
+A
+13 3
+#11590
+Tales Crypt book~
+Tales from the Crypt~
+Centuries old, this book has overcome the tests of time. Magical in it's
+origin, the untold stories lie within.
+~
+~
+11 393761 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+18 1
+A
+17 4
+#11598
+counts key~
+the count's key~
+You see a silver key lying here.~
+~
+18 68 16385 0
+0 0 0
+0 0 0 0
+1 100 0
+#11599
+count counts key~
+the count's key~
+You see a silver key lying here.~
+~
+18 68 16385 0
+0 0 0
+0 0 0 0
+4 0 0
+$

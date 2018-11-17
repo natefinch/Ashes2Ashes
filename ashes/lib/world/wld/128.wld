@@ -1,0 +1,1830 @@
+#12800
+The Entrance to The Bazaar~
+Before your eyes is the largest marketplace you have ever seen. In fact, 
+it appears as if the whole dimension of Deva is just one HUGE merchants
+headquarters. You get the disturbing feeling that you will spend more here
+in five minutes than you have made the whole last year. There is a sign here.
+~
+128 0 1
+0d0+0 0 0
+D0
+You see a silvery strand of light.
+~
+north~
+0 -1 12244
+D2
+You see Merchants Row stretching out ahead of you.
+~
+south~
+0 -1 12801
+E
+sign~
+Welcome to The Bazaar. If you want it, you can find it here...for a price
+that is.  Remember, all deals are FINAL, and the merchant is ALWAYS right.
+We hope you enjoy your stay on Deva.
+
+
+The Association of Deveel Merchants.
+~
+S
+#12801
+Merchants Row~
+This street is bustling with Deveels and Demons, also know as dimension
+travelers, running to and fro trying to get the best of each other. You
+wonder if anyone here ever comes out ahead.
+~
+128 0 1
+0d0+0 0 0
+D0
+You see the Entrance to The Bazaar.
+~
+north~
+0 -1 12800
+D1
+You see Urayla's Palm Readings.
+~
+east~
+0 -1 12811
+D2
+You see Merchants Row stretching out ahead of you.
+~
+south~
+0 -1 12802
+D3
+You see Reid's Deals.
+~
+west~
+0 -1 12810
+S
+#12802
+Merchants Row~
+This has to be the most chaotic marketplace you have ever seen. Yet even
+through all the chaos, everyone here seems to know exactly whats going on.
+Even if they dont, they sure act like they do.
+~
+128 0 1
+0d0+0 0 0
+D0
+You see Merchants Row stretching out ahead of you.
+~
+north~
+0 -1 12801
+D1
+You see Aliman's Wares.
+~
+east~
+0 -1 12813
+D2
+You see Merchants Row stretching out ahead of you.
+~
+south~
+0 -1 12803
+D3
+You see The Even-Odds.
+~
+west~
+0 -1 12812
+S
+#12803
+Merchants Row~
+There are so many Deveels and Demons buying and selling different types of
+merchandise here that you find it hard to distinguish the buyers from the
+sellers.
+~
+128 0 1
+0d0+0 0 0
+D0
+You see Merchants Row stretching out ahead of you.
+~
+north~
+0 -1 12802
+D1
+You see Seamus O'Malley's Irish Pub.
+~
+east~
+0 -1 12815
+D2
+You see Merchants Row stretching out ahead of you.
+~
+south~
+0 -1 12804
+D3
+You see Singe's Buyers Protection.
+~
+west~
+0 -1 12814
+S
+#12804
+Merchants Row~
+This place is starting to give you a headache. How the Deveels can stand
+it is beyond you. All the lights and noises just keep assaulting you from
+all sides until they are just one HUGE blur inside your head.
+~
+128 0 1
+0d0+0 0 0
+D0
+You see Merchants Row stretching out ahead of you.
+~
+north~
+0 -1 12803
+D1
+You see Jimgrie's Sporting Goods.
+~
+east~
+0 -1 12817
+D2
+You see Merchants Row stretching out ahead of you.
+~
+south~
+0 -1 12805
+D3
+You see The Dragon Eporium.
+~
+west~
+0 -1 12816
+S
+#12805
+Merchants Row~
+By now you are beginning to feel numb to the hustle and bustle all around
+you. You wonder if this isn't exactly what the merchants want to have
+happen.
+~
+128 0 1
+0d0+0 0 0
+D0
+You see Merchants Row stretching out ahead of you.
+~
+north~
+0 -1 12804
+D1
+You Hakkan's Mystical Footwear.
+~
+east~
+0 -1 12818
+D2
+You see Merchants Row stretching out ahead of you.
+~
+south~
+0 -1 12806
+D3
+You see William's Tannery.
+~
+west~
+0 -1 12819
+S
+#12806
+Merchants Row~
+Hrmmm. Maybe this place isn't so bad after all. In fact, for some reason,
+it seems almost nice. You begin to wonder if you couldn't get something
+you always needed but couldn't quite think of until now.
+~
+128 0 1
+0d0+0 0 0
+D0
+You see Merchants Row stretching out ahead of you.
+~
+north~
+0 -1 12805
+D1
+You see Doral's News Stand.
+~
+east~
+0 -1 12820
+D2
+You see Marchants Row stretching out ahead of you.
+~
+south~
+0 -1 12807
+D3
+You see Allison's Jewels.
+~
+west~
+0 -1 12821
+S
+#12807
+Merchants Row~
+There are so many Deveels and Demons buying and selling different types of
+merchandise here that you find it hard to distinguish the buyers from the
+sellers.
+~
+128 0 1
+0d0+0 0 0
+D0
+You see Merchants Row stretching out ahead of you.
+~
+north~
+0 -1 12806
+D1
+You see Dnth's Used Books.
+~
+east~
+0 -1 12823
+D2
+You see Merchants Row stretching out ahead of you.
+~
+south~
+0 -1 12808
+D3
+You see Davia's School of Magik.
+~
+west~
+0 -1 12824
+S
+#12808
+Merchants Row~
+There are so many Deveels and Demons buying and selling different types of
+merchandise here that you find it hard to distinguish the buyers from the
+sellers.
+~
+128 0 1
+0d0+0 0 0
+D0
+You see Merchants Row stretching out ahead of you.
+~
+north~
+0 -1 12807
+D1
+You see Aragath's Curio SHop.
+~
+east~
+0 -1 12826
+D2
+You see Merchants Row stretching out ahead of you.
+~
+north~
+0 -1 12809
+D3
+You see Don Bruce's Insurance.
+~
+west~
+0 -1 12825
+S
+#12809
+Merchants Row~
+You look to the south and all you can see is miles and miles of merchants
+tents. This truly is the largets marketplace you have ever seen. Suddenly
+a HUGE caravan of Demons appears right in front of you and begins to argue
+about which direction to go. They seem to be blocking any further passage
+south. You wonder if the tents south of here are any different than the 
+ones to the north of here. With a caravan of THIS size blocking your path
+you doubt you'll ever find out. Unless they move along soon that is.
+~
+128 0 1
+0d0+0 0 0
+D0
+You see Merchants Row stretching out ahead of you.
+~
+north~
+0 -1 12808
+D1
+~
+tent~
+1 -1 12827
+D3
+You see The Dream Cafe.
+~
+west~
+0 -1 12822
+S
+#12810
+Reid's Deals~
+This tent is packed full of everything. But for all the stuff that is here,
+there really doesn't seem to be anything of any value. You wonder how a 
+shop like this can stay in business.
+~
+128 0 0
+0d0+0 0 0
+D1
+You see Merchants Row.
+~
+east~
+0 -1 12801
+S
+#12811
+Urayla's Palm Readings~
+This tent is a typical gypsies tent, complete with crystal ball, tarot
+cards, and LOTS of candles. You wonder if Urayla's readings are any more
+accurate than most gypsies are...
+~
+128 0 0
+0d0+0 0 0
+D3
+You see Merchants Row.
+~
+west~
+0 -1 12801
+S
+#12812
+The Even-Odds.~
+This appears to be a gambling establishment. There is a small bar on the
+south wall. There are several tables here, but they all seem to be deserted
+except one. Nearly everyone in the room is crowded around this one table.
+Must be a pretty intense game of Dragon Poker going on. Wait...is that the
+Sen-Sen Ante Kid playing there??? Rumor has it that he is the best Dragon
+Poker player on Deva, maybe in any dimension. WOW. Now you understand why
+everyone is crowded around his table. There is a sign here. 
+~
+128 0 0
+0d0+0 0 0
+D1
+You see Merchants Row.
+~
+east~
+0 -1 12802
+E
+sign~
+Welcome to The Even-Odds. All games are monitored for both magical and 
+telepathical cheating, so you are guaranteed a fair game. Play is on a CASH
+ONLY basis, NO MARKERS ACCEPTED WHATSOEVER.
+~
+S
+#12813
+Aliman's Wares.~
+This tent is very much like all the other ones. There seems to be the same
+abundance of merchandise which noone will probably ever need. You look
+around for the shopkeeper, Aliman, but he's nowhere to be seen.
+~
+128 0 0
+0d0+0 0 0
+D3
+You see Merchants Row.
+~
+west~
+0 -1 12802
+S
+#12814
+Singe's Buyers Protection.~
+As you enter this building you look around to see what exactly it is that
+Singe is selling. There appears to be nothing here. Then you hear Singe
+explaining to the Demon who entered ahead of you what his shop is all
+about. You hear him say that he will sell you protection guaranteed to
+protect you from buying anything you don't absolutely need. He seems to be
+a pretty smooth talker. You see the Demon get his money out and buy some
+protection from Singe. You wonder who protects you from shops like this?
+~
+128 0 0
+0d0+0 0 0
+D1
+You see Merchants Row.
+~
+east~
+0 -1 12803
+S
+#12815
+Seamus O'Malley's Irish Pub~
+One look at this pub and you begin to think you are in Ireland. There is a
+band in the corner that perfectly fits the Irish setting. Uilleann pipes and
+fiddles acompany a lively flute in a tune that makes you want to dance and
+quaff a Guinness. Over in the far corner is a plaque comemmorating the heroic
+deeds of a cleric turned warrior.
+~
+128 0 0
+0d0+0 0 0
+D3
+You see Merchants Row.
+~
+west~
+0 -1 12803
+E
+plaque~
+In honor of Irish, who in his braver moments lead a 24 man attack on the
+IMP statues. This establishment would like to remember those 12 men who
+sacraficed their lives that day for the glory and honor of the Irish.
+~
+S
+#12816
+The Dragon Eporium.~
+This shop is all but torched. It would only be normal though, for a shop
+that deals with fire breathing pets. Nowhere is there a shopkeeper to be
+seen. There are a few charred articles of clothing laying on the ground.
+They seem to be at the feet of a rather large dragon. Perhaps he didn't
+like the shopkeeper. Perhaps he didn't like whoever the shopkeeper sold 
+to. Perhaps he doesn't like YOU!!!!
+~
+128 6272 0
+0d0+0 0 0
+D1
+You see Merchants Row.
+~
+east~
+0 -1 12804
+S
+#12817
+Jimgrie's Sporting Goods.~
+This shop is full of all kinds of sporting equipment. There is every type of
+ball imaginable here. There is also nets, hoops, bats, knifes, and many other
+kinds of equipment about which you can only guess the purpose.
+~
+128 8 0
+0d0+0 0 0
+D3
+You see Merchants Row
+~
+west~
+0 -1 12804
+S
+#12818
+Hakkan's Mystical Footwear.~
+The sign on the outside says that this is a footwear shop, but you cannot 
+see any kind of footwear inside. The only thing you can see is a pile of 
+very ornate looking carpets stacked in the corner.
+~
+128 136 0
+0d0+0 0 0
+D3
+You see Merchants Row
+~
+west~
+0 -1 12805
+S
+#12819
+William's Tannery~
+The pungent smell of curing leather assaults your nose as you enter this
+shop. There is a shelf full of all kinds of leather tools. Long belts hang
+from the wall, ornately carved with different sayings in all different kinds
+of languages. There is a sign here.
+~
+128 8 0
+0d0+0 0 0
+D1
+You see Merchants Row
+~
+east~
+0 -1 12805
+E
+sign~
+Welcome to Wiliam's Tannery. We only deal in the curing and customizing of
+leather. You supply the leather, we supply the finished product.
+Thank you.
+~
+S
+#12820
+Doral's News Stand.~
+This tent is full of every kind of newspaper and magazine you could ever 
+possibly imagine. There are papers here from dimensions you have never even
+heard of.
+~
+128 8 0
+0d0+0 0 0
+D3
+You see Merchants Row
+~
+west~
+0 -1 12806
+S
+#12821
+Allison's Jewels.~
+The light in the room is fractured into a million dazzling optical displays.
+Each shelf of the clear display case is full of a different color gemstone. 
+The amount of money contained here is easily enough to secure your financial
+future for a very long time.
+~
+128 8 0
+0d0+0 0 0
+D1
+You see Merchants Row
+~
+east~
+0 -1 12806
+S
+#12822
+The Dream Cafe.~
+As you enter this cafe you seem to lose all your worries. The air is filled
+with the soothing music of a blues musician playing a guitar in the corner.
+The music sounds melancholy, but the mood it creates is a peaceful air of
+nonchalance. This place is one of the most peaceful places you have ever 
+been in.
+~
+128 24 0
+0d0+0 0 0
+D1
+You see Merchants Row
+~
+east~
+0 -1 12809
+S
+#12823
+Dnth's Used Books~
+This store looks like a library that recently survived an earthquake. There
+are books everywhere. Huge shelves of books line the walls, while smaller
+shelves create rows upon rows. There is a quiet desk in the southwest corner
+where the owner sits, patiently waiting on his customers.
+~
+128 8 0
+0d0+0 0 0
+D3
+You see Merchants Row
+~
+west~
+0 -1 12807
+S
+#12824
+Davia's School of Magik.~
+There is a pretty lady standing at the front of this shop. She is facing
+several rows of desks which are occupied by younger students. She seems to be
+giving a dissertation on the intricasies of dimension travel. Nothing she is
+saying makes any sense at all to you.
+~
+128 8 0
+0d0+0 0 0
+D1
+You see Merchants Row
+~
+east~
+0 -1 12807
+S
+#12825
+Don Bruce's Insurance Company.~
+This does not look like the office of any insurance company you have ever
+been in before. The room is very lowly lit and there is a smell of cigars
+drifting out from the back room. As you enter this shop you see a smaller
+man running from the back room screaming in pain as he cradles his obvioulsy
+broken arm. A loud voice shouts "Next time you are late on your insurance
+payments we breaka botha your arms..." You get the feeling this is not the
+kind of insurance you really want.
+~
+128 8 0
+0d0+0 0 0
+D1
+You see Merchants Row
+~
+east~
+0 -1 12808
+S
+#12826
+Aragath's Curio Shop.~
+This room has items in it you never thought could exist. Items like a Delac
+with only one head, a Pervect who is satisfied with what little money he 
+has, it even has a Deveel who is reputed to have never cheated anyone. You
+find the last one rather hard to believe.
+~
+128 8 0
+0d0+0 0 0
+D3
+You see Merchants Row
+~
+west~
+0 -1 12808
+S
+#12827
+The Entrance to The Great Skeeve's Tent.~
+This tent is astonishing!! The dimensions of the inside are definitely NOT
+the same as the dimensions of the outside. The entrance alone is at least
+ten times bigger than the whole perimeter of the outside. It is rather 
+disorienting to ponder.
+~
+128 14344 0
+0d0+0 0 0
+D1
+You see a HUGE hallway.
+~
+east~
+0 -1 12829
+D3
+~
+tent~
+1 -1 12809
+S
+#12828
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D1
+You see a HUGE hallway.
+~
+east~
+0 -1 12829
+D3
+You see the entrance to the Great Skeeve's tent.
+~
+west~
+0 -1 12827
+S
+#12829
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see a HUGE hallway.
+~
+north~
+0 -1 12833
+D1
+You see a HUGE hallway.
+~
+east~
+0 -1 12830
+D2
+You see a staircase to the second floor.
+~
+south~
+0 -1 12839
+D3
+You see a HUGE hallway.
+~
+west~
+0 -1 12828
+S
+#12830
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D1
+You see a HUGE hallway.
+~
+east~
+0 -1 12831
+D3
+You see a HUGE hallway.
+~
+west~
+0 -1 12829
+S
+#12831
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D1
+You see a HUGE hallway.
+~
+east~
+0 -1 12832
+D2
+You see a staircase to the second floor.
+~
+south~
+0 -1 12840
+D3
+You see a HUGE hallway.
+~
+west~
+0 -1 12830
+S
+#12832
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D1
+~
+door~
+2 12820 12851
+D3
+You see a HUGE hallway.
+~
+west~
+0 -1 12831
+S
+#12833
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see a HUGE hallway.
+~
+north~
+0 -1 12834
+D2
+You see a HUGE hallway.
+~
+south~
+0 -1 12829
+S
+#12834
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D1
+You see a HUGE hallway.
+~
+east~
+0 -1 12835
+D2
+You see a HUGE hallway.
+~
+south~
+0 -1 12833
+D8
+~
+wall~
+2 12820 12857
+S
+#12835
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D1
+You see a HUGE hallway.
+~
+east~
+0 -1 12836
+D3
+You see a HUGE hallway.
+~
+west~
+0 -1 12834
+S
+#12836
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see a HUGE hallway.
+~
+north~
+0 -1 12838
+D1
+You see a HUGE hallway.
+~
+east~
+0 -1 12837
+D3
+You see a HUGE hallway.
+~
+west~
+0 -1 12835
+S
+#12837
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D1
+~
+door~
+2 12820 12856
+D3
+You see a HUGE hallway.
+~
+west~
+0 -1 12836
+S
+#12838
+A HUGE hallway.~
+This hallway is larger than you would ever have imagined. Considering the
+size of the tent from the outside, you estimate that this hallway is about
+ten times the size of the whole tent.
+~
+128 14344 0
+0d0+0 0 0
+D0
+~
+door~
+2 12820 12850
+D2
+You see a HUGE hallway.
+~
+south~
+0 -1 12836
+S
+#12839
+A staircase to the second floor.~
+There is a very elegant staircase here. The bannister is ornately carved
+from a dark stained oak. A plush carpet pads the stairs as they rise to 
+the second floor.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see a HUGE hallway.
+~
+north~
+0 -1 12829
+D2
+~
+door~
+1 12820 12849
+D4
+~
+staircase~
+2 -1 12841
+S
+#12840
+A staircase to the second floor.~
+There is a very elegant staircase here. The bannister is ornately carved
+from a dark stained oak. A plush carpet pads the stairs as they rise to 
+the second floor.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see a HUGE hallway.
+~
+north~
+0 -1 12831
+D2
+~
+door~
+2 12822 12852
+D4
+~
+staircase~
+2 -1 12845
+S
+#12841
+An ornate hallway.~
+As incredible as it may have seemed to have such a large hallway on the first
+floor, it is nothing compared to the surprise you get when you discover there
+is a second hallway on the second floor.
+~
+128 14344 0
+0d0+0 0 0
+D2
+You see the second floor hallway.
+~
+south~
+0 -1 12842
+D5
+~
+staircase~
+2 -1 12839
+S
+#12842
+An ornate hallway.~
+As incredible as it may have seemed to have such a large hallway on the first
+floor, it is nothing compared to the surprise you get when you discover there
+is a second hallway on the second floor.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the second floor hallway.
+~
+north~
+0 -1 12841
+D2
+You see the second floor hallway.
+~
+south~
+0 -1 12843
+D3
+~
+door~
+2 12823 12853
+S
+#12843
+An ornate hallway.~
+As incredible as it may have seemed to have such a large hallway on the first
+floor, it is nothing compared to the surprise you get when you discover there
+is a second hallway on the second floor.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the second floor hallway.
+~
+north~
+0 -1 12842
+D2
+You see the second floor hallway.
+~
+south~
+0 -1 12844
+S
+#12844
+An ornate hallway.~
+As incredible as it may have seemed to have such a large hallway on the first
+floor, it is nothing compared to the surprise you get when you discover there
+is a second hallway on the second floor.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the second floor hallway.
+~
+north~
+0 -1 12843
+D3
+~
+door~
+2 12824 12854
+S
+#12845
+An ornate hallway.~
+As incredible as it may have seemed to have such a large hallway on the first
+floor, it is nothing compared to the surprise you get when you discover there
+is a second hallway on the second floor.
+~
+128 14344 0
+0d0+0 0 0
+D2
+You see the second floor hallway.
+~
+south~
+0 -1 12846
+D5
+~
+staircase~
+2 -1 12840
+S
+#12846
+An ornate hallway.~
+As incredible as it may have seemed to have such a large hallway on the first
+floor, it is nothing compared to the surprise you get when you discover there
+is a second hallway on the second floor.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the second floor hallway.
+~
+north~
+0 -1 12845
+D1
+~
+door~
+2 12826 12855
+D2
+You see the second floor hallway.
+~
+south~
+0 -1 12847
+S
+#12847
+An ornate hallway.~
+As incedible as it may have seemed to have such a large hallway on the first
+floor, it is nothing compared to the surprise you get when you discover there
+is a second hallway on the second floor.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the second floor hallway.
+~
+north~
+0 -1 12846
+D2
+You see the second floor hallway.
+~
+south~
+0 -1 12848
+S
+#12848
+An ornate hallway.~
+As incredible as it may haved seemed to have such a large hallway on the first
+floor, it is nothing compared to the surprise you get when you discover there
+is a second hallway on the second floor.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the second floor hallway.
+~
+north~
+0 -1 12847
+D1
+~
+door~
+2 12827 12858
+S
+#12849
+Guido's Room.~
+This room looks like it belongs to a VERY tough individual. Resting along
+the wall are numerous weapons which look as if they would be VERY painful
+if they came in contact with your face.
+~
+128 14344 0
+0d0+0 0 0
+D0
+~
+door~
+1 12820 12839
+S
+#12850
+Nunzio's room.~
+This rooms looks alot like Guido's room. The trademark weapons all line the
+walls. There is a poster here advertising Don Bruce's Insurance. There seems
+to be a small note on the wall. 
+~
+128 14344 0
+0d0+0 0 0
+D2
+~
+door~
+2 12820 12838
+E
+note~
+Dear Boss,
+Me an Guido thought that since Tanada and Chumley was here, you wouldn't 
+mind if we went to the slums south of Midgaard and payed our friend, Diva,
+a visit. We will be back before you was to even know we was gone.
+
+Nunzio Calzone~
+S
+#12851
+Bunny's room.~
+This room looks like it has been decorated with all the flair of a maffia
+persona. The room is dark and smoke fills the air. You find it rather hard
+to even see across the room.
+~
+128 14344 0
+0d0+0 0 0
+D3
+~
+door~
+2 12820 12832
+S
+#12852
+Massha's Room~
+The barage of colors that assaults your senses as you enter this room is
+rather annoying. Never before have you seen such poor taste in color mixing.
+Kinda makes you wonder about the interior decorator of this room.
+~
+128 14344 0
+0d0+0 0 0
+D0
+~
+door~
+2 12822 12840
+S
+#12853
+Tanada's room.~
+This room is very organized. All the shelves are arrainged in neat rows.
+The bed is made with hospital corners. Even the closet is well kept and in
+perfect order.
+~
+128 14344 0
+0d0+0 0 0
+D1
+~
+door~
+2 12823 12842
+S
+#12854
+Chumley's room.~
+WHAT A MESS!!! This is the kind of room that would make a mother cringe in
+terror at the thought of ANYONE ever seeing it. The clothes are all piled 
+everywhere. The shelves aren't even all hanging on the wall, much less in
+any kind of order. What kind of person could stand to live in such a mess?
+~
+128 14344 0
+0d0+0 0 0
+D1
+~
+door~
+2 12824 12844
+S
+#12855
+Aahz's room.~
+This room looks as if it belongs to a very frugal occupant. Nothing here is
+wasted. As you survey this room you realize that there is no possible way
+to economize, with either space or money, this room any more than it already
+has been. 
+~
+128 14344 0
+0d0+0 0 0
+D3
+~
+door~
+2 12826 12846
+S
+#12856
+Gleep's Den~
+This room is rather large. It looks large enough to containa good sized
+monster. You notice that all the walls are scorched black, as if they have
+all been forced to endure occasional torchings.
+~
+128 14472 0
+0d0+0 0 0
+D3
+~
+door~
+2 12820 12837
+S
+#12857
+Skeeve's waiting room.~
+This appears to be the room where guests are made to wait upon the whims of
+the host. It isn't a bad waiting room. Actually it is rather nice. There are
+a few nice chairs around a very expensive coffee table. Resting on the coffee
+table is plate of cookies and a pitcher of milk. There must be something
+magikal about the pitcher or else the milk would probably have gone bad by
+now. There is a huge door to the north.
+~
+128 14344 0
+0d0+0 0 0
+D0
+~
+door~
+2 12825 12859
+D7
+~
+wall~
+2 12820 12834
+E
+cookies~
+YUMMY! They appear to be chocolate chip cookies.~
+E
+pitcher~
+This pitcher is silver with runes carved into the sides of it.~
+E
+table~
+This is a very expensive looking coffee table. There is a pitcher of milk,
+and a plate of cookies on it.~
+S
+#12858
+The Great Skeeve's room.~
+This room has a magical aura about it. You sense that it has been positioned
+so that the strongest magical powerline in all of Deva flows right through
+here. Obviously the occupant desires a great deal of magical power at his
+disposal at any given time.
+~
+128 14344 0
+0d0+0 0 0
+D3
+~
+door~
+2 12827 12848
+S
+#12859
+The courtyard to a large castle~
+You are standing in a rather large courtyard. The sky here is very dark and
+the sun has all but disappeared. You notice small shapes flittering in the
+darkened sky overhead. There is a rather large castle to the south, and to
+the north is a road which appears to lead you to a small village.
+~
+128 14337 11
+0d0+0 0 0
+D0
+You see a road which leads north.
+~
+north~
+0 -1 12860
+D2
+You see the entrance to a large castle.
+~
+door~
+1 12825 12857
+S
+#12860
+A road to a small village~
+You are on a road whic lies just to the north of a very large castle. Off
+in the distance, to the northeas, you can barely make out a small village in
+this dark dimension.
+~
+128 14337 11
+0d0+0 0 0
+D0
+You see a road to a small village.
+~
+north~
+0 -1 12861
+D2
+You see the courtyard of a large castle.
+~
+south~
+0 -1 12859
+S
+#12861
+A road to a small village~
+You are on a small dirt road. To the south lies a rather large castle. To
+the northeast you can barely make out a smalle village. There seem to be
+numerous small fluttering things flying through the night sky overhead.
+~
+128 14337 11
+0d0+0 0 0
+D0
+You see a road to a small village.
+~
+north~
+0 -1 12862
+D2
+You see a road to a large castle.
+~
+south~
+0 -1 12860
+S
+#12862
+A road to a small village~
+To the northeast you can see a small village. It appears to be smaller than
+Midgaard. To the south you can see a rather large castle. In fact it almost
+looks as if the castle is bigger than the village.
+~
+128 14337 11
+0d0+0 0 0
+D0
+You see a road to a small village
+~
+north~
+0 -1 12863
+D2
+You see a road to a large castle.
+~
+south~
+0 -1 12861
+S
+#12863
+A road to a small village~
+The village lies directly to the east now. You are now close enough to 
+notice that even though it is dark out, the town seems to be coming to life.
+~
+128 14337 11
+0d0+0 0 0
+D1
+You see the entrance to a small village.
+~
+east~
+0 -1 12864
+D2
+You see a road leading to a large castle.
+~
+south~
+0 -1 12862
+S
+#12864
+The entrance to a small village~
+You are standing at the entrance to a small village. You notice that all of
+the villagers who have spotted you stop and stare at you. You get an uneasy
+feeling, like you are somehow different than them.
+~
+128 14337 1
+0d0+0 0 0
+D1
+You see a road leading through a small village.
+~
+east~
+0 -1 12865
+D3
+You see a small dirt road.
+~
+west~
+0 -1 12863
+S
+#12865
+A small road leading through a small village~
+This appears to be the only road leading through this small village. There
+are all kinds of people milling around this village. These people, for some
+odd reason, send chills down your spine.
+~
+128 14337 1
+0d0+0 0 0
+D1
+You see a road leading through a small village.
+~
+east~
+0 -1 12866
+D2
+~
+door~
+1 -1 12867
+D3
+You see the entrance to a small village.
+~
+west~
+0 -1 12864
+S
+#12866
+A small road leading through a small village~
+This appears to be the only road leading through this small village. There
+are all kinds of people milling around this village. These people, for some
+odd reason, send chills down your spine.
+~
+128 14337 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 12869
+D1
+~
+door~
+1 -1 12868
+D3
+You see a road leading through a small village.
+~
+west~
+0 -1 12865
+S
+#12867
+The Woof Writers home.~
+This is a run down shack. Although the shack seems to be in bad repair, you
+see things that make you think this is a homey kind of place. Things such 
+as pictures of family of the mantel (although every person in the picture
+is so hairy it is difficult to make out any faces), a small fire burning in
+the fireplace, and the smell of home cooking (although what they are cooking
+you don't think you really want to find out).
+~
+128 14344 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 12865
+S
+#12868
+The Dispatcher's Office~
+Hundreds of glass pictures line these walls, pictures which depict living,
+moving, things, much like looking into a rack of fishbowls. What is even
+wierder is that the images were depicting acts of unspeakable violence and
+unimaginable horror being performed on seemingly helpless victims. The 
+overall effect is neither relaxing nor pleasant...definitely not something
+you would want on the wall at home.
+~
+128 14344 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 12866
+S
+#12869
+The Entrance to the Wooden Stake~
+This club is incredibly bright. Compared to the rest of this dimension, 
+which seems to be forever embedded in darkness, this club is in very stark
+contrast. There are all kinds of people here. They all seem to be dancing
+and generally having a good time.
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the dance floor.
+~
+north~
+0 -1 12870
+D2
+~
+door~
+1 -1 12866
+S
+#12870
+The dance floor~
+Every kind of creature that goes bump in the night that you can imagine is
+here. There are werewolves, zombies, mummies, ghouls, two-headed men, three-
+headed women, headless kinds of both sex, and most of all Vampires. There
+are more vamipres here than you could have ever imagined even existed. All
+the monsters seem intent on one thing and one thing alone, dancing. They
+are dancing as if there is no tomorrow. Kind of strikes you as odd that all
+these monsters that you grew up fearing as a kid are in here having a grand
+old time...
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the dance floor.
+~
+north~
+0 -1 12873
+D1
+You see the dance floor
+~
+east~
+0 -1 12872
+D2
+You see the entrance to The Wooden Stake.
+~
+south~
+0 -1 12869
+D3
+You see the dance floor.
+~
+west~
+0 -1 12871
+D6
+You see the dance floor.
+~
+northeast~
+0 -1 12874
+D7
+You see the dance floor.
+~
+northwest~
+0 -1 12875
+S
+#12871
+The dance floor~
+Every kind of creature that goes bump in the night that you can imagine is
+here. There are werewolves, zombies, mummies, ghouls, two-headed men, three-
+headed women, headless kinds of both sex, and most of all Vampires. There
+are more vamipres here than you could have ever imagined even existed. All
+the monsters seem intent on one thing and one thing alone, dancing. They
+are dancing as if there is no tomorrow. Kind of strikes you as odd that all
+these monsters that you grew up fearing as a kid are in here having a grand
+old time...
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the dance floor.
+~
+north~
+0 -1 12875
+D1
+You see the dance floor.
+~
+east~
+0 -1 12870
+D3
+You see the bar.
+~
+west~
+0 -1 12877
+D6
+You see the dance floor.
+~
+northeast~
+0 -1 12873
+D7
+You see the bar.
+~
+northwest~
+0 -1 12878
+D9
+You see the bar.
+~
+southwest~
+0 -1 12876
+S
+#12872
+The dance floor~
+Every kind of creature that goes bump in the night that you can imagine is
+here. There are werewolves, zombies, mummies, ghouls, two-headed men, three-
+headed women, headless kinds of both sex, and most of all Vampires. There
+are more vamipres here than you could have ever imagined even existed. All
+the monsters seem intent on one thing and one thing alone, dancing. They
+are dancing as if there is no tomorrow. Kind of strikes you as odd that all
+these monsters that you grew up fearing as a kid are in here having a grand
+old time...
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the dance floor
+~
+north~
+0 -1 12874
+D1
+You see a booth in the southeast corner.
+~
+east~
+0 -1 12881
+D3
+You see the dance floor.
+~
+west~
+0 -1 12870
+D7
+You see the dance floor.
+~
+northwest~
+0 -1 12873
+S
+#12873
+The dance floor~
+Every kind of creature that goes bump in the night that you can imagine is
+here. There are werewolves, zombies, mummies, ghouls, two-headed men, three-
+headed women, headless kinds of both sex, and most of all Vampires. There
+are more vamipres here than you could have ever imagined even existed. All
+the monsters seem intent on one thing and one thing alone, dancing. They
+are dancing as if there is no tomorrow. Kind of strikes you as odd that all
+these monsters that you grew up fearing as a kid are in here having a grand
+old time...
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see a booth on the north wall.
+~
+north~
+0 -1 12883
+D1
+You see the dance floor.
+~
+east~
+0 -1 12874
+D2
+You see the dance floor.
+~
+south~
+0 -1 12870
+D3
+You see the dance floor.
+~
+west~
+0 -1 12875
+D8
+You see the dance floor.
+~
+southeast~
+0 -1 12872
+D9
+You see the dance floor.
+~
+southwest~
+0 -1 12871
+S
+#12874
+The dance floor~
+Every kind of creature that goes bump in the night that you can imagine is
+here. There are werewolves, zombies, mummies, ghouls, two-headed men, three-
+headed women, headless kinds of both sex, and most of all Vampires. There
+are more vamipres here than you could have ever imagined even existed. All
+the monsters seem intent on one thing and one thing alone, dancing. They
+are dancing as if there is no tomorrow. Kind of strikes you as odd that all
+these monsters that you grew up fearing as a kid are in here having a grand
+old time...
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see a booth on the north wall.
+~
+north~
+0 -1 12884
+D1
+You see a booth on the east wall.
+~
+east~
+0 -1 12882
+D2
+You see the dance floor.
+~
+south~
+0 -1 12872
+D3
+You see the dance floor.
+~
+west~
+0 -1 12873
+D9
+You see the dance floor.
+~
+southw~
+0 -1 12870
+S
+#12875
+The dance floor~
+Every kind of creature that goes bump in the night that you can imagine is
+here. There are werewolves, zombies, mummies, ghouls, two-headed men, three-
+headed women, headless kinds of both sex, and most of all Vampires. There
+are more vamipres here than you could have ever imagined even existed. All
+the monsters seem intent on one thing and one thing alone, dancing. They
+are dancing as if there is no tomorrow. Kind of strikes you as odd that all
+these monsters that you grew up fearing as a kid are in here having a grand
+old time...
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see a booth on the north wall.
+~
+north~
+0 -1 12880
+D1
+You see the dance floor.
+~
+east~
+0 -1 12873
+D2
+You see the dance floor.
+~
+south~
+0 -1 12871
+D3
+You see the bar.
+~
+west~
+0 -1 12878
+D7
+You see the bar.
+~
+northwest~
+0 -1 12879
+D8
+You see the dance floor.
+~
+southeast~
+0 -1 12870
+D9
+You see the bar.
+~
+southwest~
+0 -1 12877
+S
+#12876
+By the bar~
+Here there are alot less customers than on the dance floor. This must be the
+place where people go to rest thier weary legs and have a tall cool one. The
+bar is a rather nice place, although why they have it so bright is beyond
+you. Aren't bars and nightclubs supposed to be dimly lit???
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the bar.
+~
+north~
+0 -1 12877
+D6
+You see the dance floor.
+~
+northeast~
+0 -1 12871
+S
+#12877
+By the bar~
+Here there are alot less customers than on the dance floor. This must be the
+place where people go to rest thier weary legs and have a tall cool one. The
+bar is a rather nice place, although why they have it so bright is beyond
+you. Aren't bars and nightclubs supposed to be dimly lit???
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the bar.
+~
+north~
+0 -1 12878
+D1
+You see the dance floor.
+~
+east~
+0 -1 12871
+D2
+You see the bar.
+~
+south~
+0 -1 12876
+D6
+You see the dance floor.
+~
+northeast~
+0 -1 12875
+S
+#12878
+By the bar~
+Here there are alot less customers than on the dance floor. This must be the
+place where people go to rest thier weary legs and have a tall cool one. The
+bar is a rather nice place, although why they have it so bright is beyond
+you. Aren't bars and nightclubs supposed to be dimly lit???
+~
+128 14344 0
+0d0+0 0 0
+D0
+You see the bar.
+~
+north~
+0 -1 12879
+D1
+You see the dance floor.
+~
+east~
+0 -1 12875
+D2
+You see the bar.
+~
+south~
+0 -1 12877
+D8
+You see the dance floor.
+~
+southeast~
+0 -1 12871
+S
+#12879
+By the bar~
+Here there are alot less customers than on the dance floor. This must be the
+place where people go to rest thier weary legs and have a tall cool one. The
+bar is a rather nice place, although why they have it so bright is beyond
+you. Aren't bars and nightclubs supposed to be dimly lit???
+~
+128 14344 0
+0d0+0 0 0
+D2
+You see the bar.
+~
+south~
+0 -1 12878
+D8
+You see the dance floor.
+~
+southeast~
+0 -1 12875
+S
+#12880
+A booth on the north wall~
+Here is where the customers go who REALLY want to relax. The booth is about
+the same size as any booth in any bar. Hanging on the wall though, you see
+the oddest decorations. There are large strands of garlic hanging in the
+shape of crosses (although a closer inspection reveals the garlic to be 
+fake), vials of holy water are hung about every five feet, and between every
+booth is a huge wooden stake. Considering that this clubs premier customers
+are all vampires you find thier choice in deco rather interesting...
+~
+128 14344 0
+0d0+0 0 0
+D2
+You see the dance floor.
+~
+south~
+0 -1 12875
+S
+#12881
+A booth in the southwest corner~
+Here is where the customers go who REALLY want to relax. The booth is about
+the same size as any booth in any bar. Hanging on the wall though, you see
+the oddest decorations. There are large strands of garlic hanging in the
+shape of crosses (although a closer inspection reveals the garlic to be 
+fake), vials of holy water are hung about every five feet, and between every
+booth is a huge wooden stake. Considering that this clubs premier customers
+are all vampires you find thier choice in deco rather interesting...
+~
+128 14344 0
+0d0+0 0 0
+D3
+You see the dance floor.
+~
+west~
+0 -1 12872
+S
+#12882
+A booth on the eastern wall.~
+Here is where the customers go who REALLY want to relax. The booth is about
+the same size as any booth in any bar. Hanging on the wall though, you see
+the oddest decorations. There are large strands of garlic hanging in the
+shape of crosses (although a closer inspection reveals the garlic to be 
+fake), vials of holy water are hung about every five feet, and between every
+booth is a huge wooden stake. Considering that this clubs premier customers
+are all vampires you find thier choice in deco rather interesting...
+~
+128 14344 0
+0d0+0 0 0
+D3
+You see the dance floor.
+~
+west~
+0 -1 12874
+S
+#12883
+A booth on the north wall~
+Here is where the customers go who REALLY want to relax. The booth is about
+the same size as any booth in any bar. Hanging on the wall though, you see
+the oddest decorations. There are large strands of garlic hanging in the
+shape of crosses (although a closer inspection reveals the garlic to be 
+fake), vials of holy water are hung about every five feet, and between every
+booth is a huge wooden stake. Considering that this clubs premier customers
+are all vampires you find thier choice in deco rather interesting...
+~
+128 14344 0
+0d0+0 0 0
+D2
+You see the dance floor.
+~
+south~
+0 -1 12873
+S
+#12884
+A booth on the north wall~
+Here is where the customers go who REALLY want to relax. The booth is about
+the same size as any booth in any bar. Hanging on the wall though, you see
+the oddest decorations. There are large strands of garlic hanging in the
+shape of crosses (although a closer inspection reveals the garlic to be 
+fake), vials of holy water are hung about every five feet, and between every
+booth is a huge wooden stake. Considering that this clubs premier customers
+are all vampires you find thier choice in deco rather interesting...
+~
+128 14344 0
+0d0+0 0 0
+D2
+You see the dance floor.
+~
+south~
+0 -1 12874
+S
+$

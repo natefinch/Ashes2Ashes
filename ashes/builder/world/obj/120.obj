@@ -1,0 +1,762 @@
+#12000
+ring pewter~
+a pewter ring~
+There is a pewter ring lying here.~
+~
+11 96 3 0
+0 0 0
+0 0 0 0
+1 15000 2500
+A
+11 10
+A
+2 1
+E
+ring pewter~
+A thick, dull grey ring molded entirely of pewter. It looks rather
+fragile.
+~
+#12001
+bronze belt~
+a bronze belt~
+There is a bronze belt on the ground here.~
+~
+9 32 2049 0
+0 0 0
+4 0 0 0
+5 10000 500
+A
+1 -2
+A
+17 1
+E
+bronze belt~
+Pieces of bronze and a large medallion riveted to a thick leather belt.
+On the front is the impressed image of an eagle's head. It looks rather
+fierce and even somewhat alive. You marvel at the craftsmanship.
+~
+#12002
+helmet roman combat~
+a Roman combat helmet~
+A Roman combat helmet has been left here.~
+~
+9 1 17 0
+0 0 0
+8 0 0 0
+6 12000 8000
+A
+2 -2
+A
+17 1
+E
+helmet roman combat~
+The standard issue helmet of the Roman legions, worn by soldiers in
+every farflung outpost of the Roman Empire. It is cast bronze, well
+polished, and very sturdy.
+~
+#12003
+whistle~
+a coach's whistle~
+A coach's whistle has been left here.~
+~
+8 128 5 0
+0 0 0
+0 0 0 0
+1 1000 200
+E
+whistle~
+A molded pewter whistle. It looks rather useless except as a mere
+noisemaker. There is a tiny clay ball inside that rattles alittle.
+~
+#12004
+stethoscope scope~
+a stethoscope~
+Lying here is a crude wooden physician's stethoscope.~
+~
+11 256 5 0
+0 0 0
+0 0 0 0
+2 15000 2000
+A
+17 4
+A
+18 -3
+E
+stethoscope scope~
+A crude hollow wooden instrument with a terminus at either
+end, used by a healer to check for abberations in breathing and
+heartbeat. There is a leather thong attached for wearing around the neck.
+~
+#12005
+hairpin pin~
+a beautiful hairpin~
+Lying here is a beautiful woman's hairpin.~
+~
+11 256 17 0
+0 0 0
+0 0 0 0
+1 3000 500
+A
+1 -1
+A
+3 1
+E
+hairpin pin~
+It is made of laquered wood, and carved with an attractive flower and
+vine motif - very delicate, painstakingly done.
+~
+#12006
+apple~
+an apple~
+A delicious looking apple has been left here.~
+~
+19 0 1 0
+0 0 0
+4 0 0 0
+1 5 5
+E
+apple~
+It has a golden red skin, and smells delicious! Go on, eat it!
+~
+#12007
+orange~
+an orange~
+A sun-ripened orange has been left here.~
+~
+19 0 1 0
+0 0 0
+6 0 0 0
+1 6 6
+E
+orange~
+A sweet and tart fruit imported by galley an sold in the markets
+of Rome. It is considered a luxury food.
+~
+#12008
+sandals leather pair~
+a pair of leather sandals~
+A pair of leather sandals have been tossed here and abandoned.~
+~
+9 0 65 0
+0 0 0
+2 0 0 0
+2 250 41
+E
+sandals~
+The classic footwear of Romans, from citizens to patricians. It is
+tough, functional, and will withstand countless miles of use. There
+are straps to bind them to your feet and calves.
+~
+#12010
+frank dog hotdog~
+a hotdog~
+A hotdog loaded with chili and onions has been left here.~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+1 11 11
+E
+hotdog dog frank~
+A greasy hotdog loaded with chili and onions. If you don't mind the bad
+breath, go ahead and eat it. Though it makes you wonder how these ever
+made it here to Rome. Hotdogs didn't get invented until he 1800s!!
+~
+#12011
+bracelet silver gold~
+a silver and gold bracelet~
+Here lies a bracelet made of silver and gold wires intertwined.~
+~
+11 194 4097 0
+0 0 0
+0 0 0 0
+2 10000 8000
+A
+10 25
+A
+18 -2
+E
+bracelet wires~
+Many tiny silver and gold wires have been twisted and intertwined
+in order to form this elegant piece of jewelry.
+~
+#12012
+sapphire ring~
+a sapphire ring~
+A gleaming sapphire ring lies here at your feet.~
+~
+11 0 3 0
+0 0 0
+0 0 0 0
+1 35000 5500
+A
+17 2
+A
+16 -10
+E
+sapphire ring~
+A gleaming blue-green sapphire is mounted on this silver ring. The
+sapphire seems to impart a cool, refreshing feeling as you gaze at it.
+~
+#12013
+pendant jade~
+a jade pendant~
+A beautiful jade pendant has been left here.~
+~
+11 0 5 0
+0 0 0
+0 0 0 0
+1 10000 5000
+A
+3 1
+A
+4 1
+E
+jade pendant~
+An exquisite piece of work, carved entirely from a single piece of
+jade, but chiseled and worked on until there is what you have before
+you... Interlocking jade chain links join together, while the
+centerpiece is a hanging pictogram representing the concept of 'Mind.'
+~
+#12014
+robe~
+Froboz's robe~
+A robe belonging to Froboz the wizard lies here collecting dirt.~
+~
+11 0 5 0
+0 0 0
+0 0 0 0
+2 15000 2500
+A
+16 -6
+A
+23 -4
+E
+robe~
+A clean white robe with edgings at the hem an alternating black and
+gold. There is a crest design embroidered on both front and back,
+that will mark the wearer as a devotee to Mithras, cult god of warriors
+and the Light.
+~
+#12015
+tempered steel sword~
+a tempered sword~
+A sword with a wicked-looking tempered steel blade lies here.~
+~
+5 8400898 8193 0
+0 0 0
+0 3 8 3
+7 15000 5000
+A
+17 -2
+E
+sword tempered steel blade~
+The sword hilt forms a curving sickle moon shape. The grip is of
+tightly wrapped reddish brown leather. A swordknot hangs from the
+ring pommel. And the blade itself is a long, jagged piece of tempered
+steel designed to rip through flesh and tear off chunks.
+~
+#12016
+sword quenched~
+the Quenched sword~
+A sword lies here, drenched in blood and thirst abated...~
+~
+5 8400928 24577 0
+0 0 0
+0 4 4 3
+8 10000 4000
+E
+sword quenched~
+A very large sword that only comes into full power in the hands of a
+powerful deity. Otherwise, it is rather quiescent, it's need for blood
+apparently quenched... for now.
+~
+#12017
+bracers moorish~
+a pair of Moorish bracers~
+Bracers of Moorish make lie here, scuffed and neglected.~
+~
+9 1 257 0
+0 0 0
+8 0 0 0
+4 25000 10000
+A
+2 -2
+A
+18 2
+E
+bracers moorish~
+Two arm bracers that look to have decorative features common to
+metalwork originating from Moorish lands. There are horses, spears,
+and scimitars all carved on the exterior of the bronze bracers.
+~
+#12018
+plate breast roman combat breastplate~
+a Roman combat breastplate~
+At your feet lies a discarded Roman combat breastplate.~
+~
+9 1 9 0
+0 0 0
+8 0 0 0
+48 50000 9500
+A
+2 1
+A
+17 -2
+E
+plate breast roman combat breastplate~
+Cast from solid bronze and then beaten and smoothed into shape, this
+breastplate is yet another good example of the solid, functional armor
+worn by Roman soldiers on campaigns from Europe to Asia Minor to
+North Africa.
+~
+#12019
+boots combat~
+a pair of Roman combat boots~
+At your feet lies a pair of Roman combat boots.~
+~
+9 1 65 0
+0 0 0
+8 0 0 0
+6 8750 9000
+A
+1 2
+A
+18 -1
+E
+boots combat roman~
+Boots of thick, durable leather with bronze plates riveted to the
+outside for extra protection.
+~
+#12020
+lightningbolt bolt~
+a dead bolt~
+A lightningbolt wrenched from Jupiter's hands writhes and crackles here.~
+~
+5 8679488 8193 0
+0 0 0
+0 1 4 6
+20 100000 100000
+E
+lightningbolt bolt~
+A massive bolt of jagged godsteel that crackles with occasional
+static discharges and seems to draw the ire of powerful monsters.
+Constantly.
+~
+#12021
+loincloth cloth red~
+a red loincloth~
+A loincloth belonging to Mars, the war god, lies here.~
+~
+9 525314 2049 0
+0 0 0
+15 0 0 0
+20 100000 20000
+A
+1 2
+A
+2 2
+E
+loincloth~
+A large loincloth made of near-indestructable material. It emits a
+low, vibrating hum, and is several sizes too large for you. You
+gather that whomever this originally belonged to was well adorned.
+~
+#12022
+crystal necklace~
+a crystal necklace~
+The crystal necklace of Knowledge has been left here by someone.~
+~
+11 2 5 0
+0 0 0
+0 0 0 0
+15 50000 12000
+A
+3 4
+A
+4 4
+E
+crystal necklace~
+A breathtakingly beautiful necklace crafted from pure crystal, this object
+has been imbued with the accumulated knowledge of countless generations.
+It lends great mental powers to the wearer.
+~
+#12023
+winged sandals~
+a pair of winged sandals~
+Here lies a pair of winged sandals formerly belonging to Mercury.~
+~
+9 2049 65 1048576
+0 0 0
+8 0 0 0
+10 75000 13000
+A
+2 3
+A
+12 50
+E
+sandals~
+You examine this pair of golden sandals formerly belonging to Mercury,
+the god of messengers, travel, and speed. Small wings sprout from
+either side of each sandal, flapping occasionally.
+~
+#12024
+scroll grey dark~
+a dark grey scroll~
+A magical scroll of dark grey color lies here.~
+~
+2 49184 16385 0
+0 0 0
+20 4 15 1
+1 5000 2000
+E
+scroll dark grey~
+As you open up the scroll, your eyes light upon a strange magical
+script. None of the words make sense, though you can recite them...
+~
+#12025
+scroll ornate~
+an ornate scroll~
+A scroll with ornate designs on the outside lies here at your feet.~
+~
+2 49152 16385 0
+0 0 0
+18 10 10 10
+2 7000 3000
+E
+scroll ornate~
+A strange-looking scroll with ornate designs of many different colors
+and shapes inked along the margins on the outside. Unrolling, your
+eyes light upon a strange script that you can barely pronounce and
+recite. You understand not what is written.
+~
+#12026
+scroll plain~
+a plain scroll~
+A rather unremarkable scroll lies here on the floor.~
+~
+2 8966144 16385 0
+0 0 0
+15 7 15 1
+1 8000 2200
+E
+scroll plain~
+A rather boring outside for a scroll. A rather plain inside. You do
+not understand the words, but you can recite them if you wish...
+~
+#12027
+bag herbs~
+a bag of herbs~
+There is a small, sweet-smelling bag lying here on the ground.~
+~
+3 8966146 16385 0
+0 0 0
+30 4 4 43
+1 15000 2000
+E
+bag herbs~
+A tiny burlap sack stuffed with herbs and cinched closed with a
+loop of twine. It smells sweet, and clears your nasal passages
+with one whiff!
+~
+#12028
+staff kodarta~
+a Kodarta staff~
+A Kodarta staff has been carelessly left here.~
+~
+4 8966144 16385 0
+0 0 0
+17 3 3 15
+6 35000 4000
+E
+staff kodarta~
+A staff belonging to a healer. It is old, twisted, and gnarled in
+appearance, but seems to have a character, if an item could have one.
+~
+#12029
+wand prototype~
+a prototype wand~
+There is a prototype of a new magical wand lying here.~
+~
+3 8577696 16385 0
+0 0 0
+30 4 3 26
+2 20000 13000
+A
+17 -3
+A
+23 8
+E
+wand prototype~
+It has scorch marks all along the cylindrical metal surface, and you
+wonder why there is a smell of burn flesh associated with this wand.
+~
+#12030
+flask blaze orange potion~
+a blaze orange flask~
+There is a flask containing a blaze orange concoction resting here.~
+~
+10 0 1 0
+0 0 0
+9 4 17 33
+2 1000 100
+E
+flask potion blaze orange~
+Within this glass flask with a cork stopper is a blaze orange liquid.
+The fluid inside seems molten and shifts about!
+~
+#12031
+mace~
+an executioner's mace~
+A gruesome, bloodsoaked executioner's mace is lying here attracting flies.~
+~
+5 135296 8193 0
+0 0 0
+0 5 1 7
+13 3000 18
+A
+2 -2
+A
+1 -2
+E
+mace~
+This large, heavy spiked mace has dried and congealing blood smeared
+on the head. You also notice bits of hair and stinking skin glued
+to certain areas. Is smells and it is attracting flies.
+~
+#12032
+gold encrusted key~
+a gold encrusted key~
+A gleaming gold key is buried in the dust before you.~
+~
+18 12 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#12033
+carved wooden key~
+a delicately carved wooden key~
+A small wooden key lies discarded here.~
+~
+18 12 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#12034
+bladed key sharp~
+a bladed key~
+A sharp looking key lies on the floor before you.~
+~
+18 12 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#12035
+steel key~
+a steel key~
+A small steel key lies here in the dust.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+2 0 0
+#12036
+key diamond studded~
+a diamond studded key~
+A key with small diamonds studded to the handle lies here.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+2 1000 1
+E
+key~
+A silver key with diamond studs on the handle. It looks rather
+over-decorated, and is just right for the pomposity of a palace.
+~
+#12037
+polished wooden key~
+a polished wooden key~
+A small wooden key lies in pieces at your feet.~
+~
+18 12 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#12050
+lightning bolt lightningbolt~
+a lightningbolt~
+You see a bolt of red light lying here.~
+~
+5 10245187 24577 0
+0 0 0
+0 7 3 12
+8 100000 100000
+A
+17 3
+A
+18 3
+#12051
+thunder bolt thunderbolt~
+a thunderbolt~
+A large bolt of thunder is lying here.~
+~
+5 9073667 8193 0
+0 0 0
+0 6 5 12
+18 1000000 100000
+A
+17 4
+A
+18 4
+#12091
+leaf ironwood dagger~
+a dagger fashioned from an ironwood leaf~
+A short metal leaf lies here. Once it grew from a branch of ironwood.~
+~
+5 0 24577 0
+0 0 0
+0 2 3 3
+4 100 1
+E
+ironwood leaf sword~
+Ironwood trees are rare, and their existence carefully guarded by rangers.
+It is traditional for young rangers to spend their last night of training
+asleep within the branches of an old ironwood. They have their visions of
+guidance during the night, while breathing the cinnamon-sweet air that
+permeates the wood. In the morning, they awaken to find a leaf of ironwood
+in each hand, tightly gripped at the stem...
+~
+#12092
+cloak felt green~
+a green felt cloak~
+Lying here is a sturdy cloak made from thick green felt.~
+~
+11 0 5 0
+0 0 0
+0 0 0 0
+2 10 1
+A
+16 -4
+E
+cloak felt green~
+Before you is a simply made cloak of felt dyed a deep dark green.
+~
+#12093
+boots brown tracker's~
+a pair of brown tracker's boots~
+Tossed here and discarded are a pair of brown boots woven from plant fibres.~
+~
+11 9105664 65 0
+0 0 0
+0 0 0 0
+1 1 1
+A
+12 5
+A
+16 -4
+E
+boots brown tracker tracker's~
+Those boots are woven from a mixture of fibres stripped from the barks of
+the oak and ironwood trees. Made by rangers, and made for rangers, it's
+special magical power is imbued through a special little ritual...
+...At the time of the full moon, this pair of boots is soaked in clean
+water and then left out on a bare rock to dry under the moonlight for
+the entire night. From the next day on, only a ranger may wear this, and
+benefit from it's magical gift.
+~
+#12094
+shirt leather long-sleeved~
+a long-sleeved shirt of thick leather~
+A long-sleeved shirt made from leather and decorated with fringes lies here.~
+~
+9 0 9 0
+0 0 0
+4 0 0 0
+4 50 2
+E
+shirt leather long-sleeved~
+This is a sturdily constructed long-sleeved shirt fashioned from thick, yet
+pliable deerskin. The entire outfit is an unobtrusive brown, though there
+are decorative fringes hanging from the undersides of each sleeve, and a
+few beads knotted in here and there.
+~
+#12095
+leaf ironwood sword~
+a sword fashioned from an ironwood leaf~
+A long metal leaf lies here. Once it grew from a branch of ironwood.~
+~
+5 0 24577 0
+0 0 0
+0 2 4 3
+4 100 1
+E
+ironwood leaf sword~
+Ironwood trees are rare, and their existence carefully guarded by rangers.
+It is traditional for young rangers to spend their last night of training
+asleep within the branches of an old ironwood. They have their visions of
+guidance during the night, while breathing the cinnamon-sweet air that
+permeates the wood. In the morning, they awaken to find a leaf of ironwood
+in each hand, tightly gripped at the stem...
+~
+#12096
+symbol unholy vile~
+a vile black symbol (glowing green)~
+A black unholy symbol lies here, bathing the area in a green glow.~
+~
+1 393792 18437 0
+0 0 0
+0 0 -1 0
+2 500 4
+E
+symbol unholy~
+A symbol that sends fear into the hearts of victims, and commands
+obedience among followers. It emits a sickly green glow that
+bathes all in an unholy light.
+~
+#12097
+shield black round~
+a black shield mounted with an unholy symbol~
+A black shield belonging to an unholy warrior lies here.~
+~
+9 9851456 513 0
+0 0 0
+4 0 0 0
+10 300 3
+E
+shield~
+This is a medium-sized round shield painted black and mounted with
+a vile symbol feared by the defenseless, hated by the good, and
+adheared to by followers upon penalty of death.
+~
+#12098
+tabard black cloth~
+a black tabard with a skull emblem~
+A pile of black cloth lies here, emitting an aura of evil.~
+~
+9 393728 1033 0
+0 0 0
+4 0 0 0
+3 400 2
+E
+tabard cloth skull emblem~
+A large silver skull is emblazoned upon the back of this black tabard.
+The entire piece of cloth radiates an aura of evil that repulses the
+good and welcomes those who follow the ways of evil...
+~
+#12099
+scourge tormentor's black~
+a black tormentor's scourge~
+A nasty black scourge with wicked barbs lies here.~
+~
+5 393728 24577 0
+0 0 0
+0 1 9 2
+3 200 20
+E
+scourge~
+A mean whipping instrument used to exact pain from victims. It has a
+stiff handle and ends in several flexible strips ending in wicked
+metal barbs. In the hands of an expert, it can kill.
+~
+$

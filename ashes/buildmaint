@@ -1,0 +1,13 @@
+#!/bin/sh
+
+cd builder/etc
+echo `date` >> DELETED
+../../bin/purgeplay players >> DELETED
+if [ ! -z players.new ]; then
+  rm -f players.old
+  mv players players.old
+  mv players.new players
+fi
+cd ..
+./purgeobjs
+cd ..

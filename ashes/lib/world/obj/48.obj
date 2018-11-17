@@ -1,0 +1,446 @@
+#4801
+wristband confusion Alakazam~
+Alakazam's wristband of Confusion~
+Grab that bracelet, Alakazam's offering a reward for it!~
+~
+9 0 4097 0
+0 0 0
+5 0 0 0
+4 16000 16000
+A
+17 1
+A
+18 1
+#4802
+cannon Blastoise water~
+a Blastoise water cannon~
+Water is shooting wildly around the room!~
+~
+5 17410 8193 0
+0 0 0
+0 5 5 12
+14 60000 60000
+A
+17 1
+A
+18 2
+#4803
+egg chansey wand~
+Chansey's egg~
+A big, pink egg is on the ground here begging for a home in a frying pan.~
+~
+3 0 16385 0
+0 0 0
+40 2 2 28
+5 2500 2500
+#4804
+flame charizard eternal~
+Charizard's eternal flame~
+A flame is here hovering above the ground.~
+~
+1 66561 16385 0
+0 0 0
+0 0 -1 0
+6 21000 21000
+A
+17 1
+A
+18 1
+#4805
+stone moon wand~
+Moon Stone~
+A chunk of the moon barely missed you and landed in the room.~
+~
+3 4 16385 0
+0 0 0
+60 3 3 39
+2 43000 43000
+#4806
+fangs gyarados pokemon teeth~
+Gyarados' fangs~
+Careful not to step on these sharp teeth.~
+~
+9 2048 17 0
+0 0 0
+6 0 0 0
+3 11500 11500
+A
+17 1
+A
+18 1
+#4807
+gloves hitmonchan red boxing~
+Hitmonchan's red boxing gloves~
+A couple of red mushrooms are sprouting up rather nicely.~
+~
+9 2048 129 0
+0 0 0
+6 0 0 0
+4 29000 29000
+A
+17 1
+A
+18 1
+#4808
+belt energy conservation machamp~
+Machamp's belt of energy conservation~
+Machamp is gonna get insane if he sees you near his belt.~
+~
+11 1361921 2049 0
+0 0 0
+0 0 0 0
+4 32000 32000
+A
+10 5
+A
+13 3
+#4809
+magneton thunder shock~
+Magneton's Thunder Shock~
+A magnetic force draws you nearer, demanding your attention.~
+~
+11 0 1025 0
+0 0 0
+0 0 0 0
+2 115000 115000
+A
+17 2
+A
+18 1
+A
+16 -1
+#4810
+barrier psychic mewtwo~
+a Psychic Barrier~
+A voice is calling to you, "Pick up the psychic barrier."~
+~
+9 2027546 513 536870912
+0 0 0
+13 0 0 0
+2 1000000 1000000
+A
+17 3
+A
+18 1
+#4811
+armplates purple nidoking pokemon power~
+Nidoking's purple armplates~
+Lying here, in a pile of psychedelic purple, are some armplates.~
+~
+9 2048 257 0
+0 0 0
+5 0 0 0
+6 5500 5500
+A
+17 1
+A
+18 1
+#4812
+infravision ninetales keen eyesight~
+Ninetales' keen infravision~
+A pair of glowing eyes blinks at you.~
+~
+1 1 16385 0
+0 0 0
+0 0 -1 0
+4 40000 40000
+A
+13 2
+A
+10 15
+#4813
+swirl hypnotic poliwrath~
+Poliwrath's hypnotic swirl~
+Someone ripped the swirl right off Poliwrath's chest and ditched it here.~
+~
+11 2048 257 0
+0 0 0
+0 0 0 0
+2 25000 25000
+A
+13 1
+A
+10 15
+#4814
+thunder wave belt raichu~
+Raichu's thunder wave belt~
+A rumbling belt has been dropped on the ground.~
+~
+9 2048 2049 0
+0 0 0
+5 0 0 0
+4 12000 12000
+A
+17 2
+A
+18 1
+#4815
+leaf leafy plant razor venusaur pokemon~
+Venusaur's razor leaf~
+A big leafy plant in need of some water and sunshine is sitting here.~
+~
+9 2048 1025 0
+0 0 0
+7 0 0 0
+9 250 250
+A
+13 2
+A
+10 15
+#4816
+claws zapdos huge orange pokemon~
+Zapdos' huge orange claws~
+Zapdos must have taken off so fast he forgot his claws.~
+~
+9 34080768 65 0
+0 0 0
+4 0 0 0
+5 43000 43000
+A
+17 1
+A
+18 1
+#4817
+beaming blade dreams mewtwo pokemon~
+the Beaming blade of Dreams~
+Lying here, beaming with psychic energy, is tomorrow.~
+~
+5 1128473 24577 0
+0 0 0
+0 9 3 11
+22 250000 250000
+A
+17 4
+A
+18 4
+A
+1 1
+A
+14 5
+E
+blade~
+You are blinded by horrible, bloody visions of tomorrow.
+~
+#4818
+object obsession kadabra psychic revenge~
+an Object of Obsession~
+A hypnotic object catches your undivided attention.~
+~
+9 442889 4097 32
+0 8 0
+1 0 0 0
+4 90000 90000
+A
+13 4
+A
+10 25
+#4819
+vision cruel intentions Mantis Scyther~
+Cruel Intentions~
+A cruel intention can't wait to get inside your head.~
+~
+11 1493512 17 0
+0 0 0
+0 0 0 0
+5 70000 70000
+A
+13 5
+A
+10 15
+A
+2 2
+E
+intention~
+Your mind is poisoned with a dark, twisted idea.
+~
+#4850
+key rocket team~
+a rocket key~
+A key marked with a red "R" lies on the ground.~
+~
+18 12 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4851
+key genetic mewtwo~
+a genetic key~
+The key to winning the ultimate battle is on the ground here.~
+~
+18 12 4097 0
+0 0 0
+0 0 0 0
+1 0 0
+#4852
+key~
+a key of Power~
+A tarnished yellow key is lying here.~
+~
+18 12 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4853
+key~
+a Lavender key~
+A key of trainer envy is lying here.~
+~
+18 12 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4854
+key psychic obsession~
+a charm key~
+A dark, stone key is here hovering a few inches off the ground.~
+~
+18 12 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4855
+freezer~
+freezer~
+A freezer sits in the corner.~
+~
+15 0 0 0
+0 0 0
+100 5 -1 0
+10 5 5
+#4856
+amber~
+amber~
+A piece of amber containing ancient DNA.~
+~
+19 0 1 0
+0 0 0
+10 0 0 0
+1 1 1
+#4860
+inflatable yellow raft~
+inflatable yellow raft~
+A comfy looking yellow air matress with a picture of Pikachu on it is here.~
+~
+22 0 1 0
+0 0 0
+0 0 0 0
+10 500 500
+#4861
+flashlight plastic~
+a plastic flashlight~
+A glowing wand has been dropped on the ground here.~
+~
+1 0 16385 0
+0 0 0
+0 0 72 0
+5 50 50
+#4862
+chili cheese fries~
+Chili cheese fries~
+Here on the floor, steaming hot, is an enormous order of chili fries
+smothered in cheese.~
+~
+19 0 1 0
+0 0 0
+24 0 0 0
+2 10 10
+#4864
+can lemonade~
+a can~
+A can of Lemonade catches your eye, making you thirsty.~
+~
+17 0 1 0
+0 0 0
+12 12 6 0
+17 15 15
+#4865
+scroll identify~
+a scroll of identify~
+A scroll is sitting here.~
+~
+2 0 16385 0
+0 0 0
+25 52 0 0
+1 250 250
+#4866
+scroll recall~
+a scroll of recall~
+A scroll of recall is lying here.~
+~
+2 0 16385 0
+0 0 0
+40 42 0 0
+8 25 25
+#4867
+sign~
+sign~
+A sign is here taped to the counter.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+5000 0 0
+E
+sign~
+The shop is temporarily closed, but will be open for business in a few days.
+Thanks, The Poke' Mart staff
+~
+#4868
+badge boulder~
+a Boulder Badge~
+A shiny badge is here.~
+~
+9 8 9 0
+0 0 0
+7 0 0 0
+4 1500 1500
+A
+17 2
+#4869
+badge cascade~
+a Cascade Badge~
+A shiny badge is here.~
+~
+9 8 9 0
+0 0 0
+7 0 0 0
+4 1500 1500
+A
+17 1
+A
+18 1
+#4870
+potion healing~
+potion of heal~
+A tasty potion is here going to waste.~
+~
+10 12 16385 0
+0 0 0
+35 28 0 0
+1 20000 20000
+#4871
+energy burst psychic~
+a burst of psychic energy~
+A rare, bright light forces you to look away.~
+~
+5 68712483 8193 0
+0 61 0
+0 13 2 12
+28 250000 250000
+A
+1 -3
+A
+11 -40
+A
+2 -3
+A
+5 -5
+A
+17 4
+A
+18 4
+E
+energy ener ene en burst bur psychic psych psy ps~
+Thought only to be a myth, you hold proof that it exists.
+~
+$

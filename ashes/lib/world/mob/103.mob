@@ -1,0 +1,2451 @@
+#10300
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#10301
+spider-man spider man spiderman~
+Spider-Man~
+The Amazing Spider-Man is here clinging on his apartment wall...
+~
+You see Spidey clinging to the wall -- he looks surprised that you've
+entered the apartment place.  You wonder to yourself what's his 
+connection to Peter Parker...  Spider-Man wears a strange looking 
+costume with a large spider in the center.  He has some web-shooters
+on his wrist.  He doesn't look too happy that you're here -- Spidey  
+seems like he's about to spring at you!
+~
+2390347 172 1000 W3
+180 88 -32 10d10+13500 13d12+70
+12000 10000
+8 8 1
+25 100 18 18 18 18 0
+19 5 0
+-325 10 9 400 10 10
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10302
+comic book collector~
+a comic book collector~
+A comic book collector is here looking for more books to add to his collection.
+~
+He's just an ordinary comic book collector.  Like any comic book collector
+he wanders around the convention, looking to find a dealer who's interested
+in trading his worthless comics for some high-grade Silver-Age treasures.
+~
+72 0 100 W3
+10 10 5 10d10+200 3d4+2
+1000 1000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#10303
+dealer comic~
+a comic book dealer~
+A comic dealer is trying hard to sell his entire comic collection.   
+~
+He's unemployed and in desperate need for money.  It's a shame that he's
+selling all those cool comic books that he had accumulated in the past.
+The dealer is holding a strange key...it seems to be glowing...  The
+dealer seems to be holding the key firmly as though it was something
+precious.
+~
+26698 0 500 W3
+24 20 2 10d10+620 5d4+2
+1 2000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#10304
+Jarvis butler~
+Jarvis the Avenger's butler~
+Jarvis, the Avenger's loyal butler, is here pruning some shrubbery.
+~
+He's a tall, slender fellow wearing a black and white uniform.  He speaks
+with a British accent and has been serving the Avengers for the last
+thirty years.  Good o' Jarvis is the most trustworthy servant that money
+can buy... 
+~
+26826 0 1000 W3
+25 25 2 10d10+650 6d4+5
+1000 1000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#10305
+incredible hulk~
+the Incredible Hulk~
+The Incredible Hulk is ready to destroy everything in sight.       
+~
+He's 7 feet tall and weighs over half a ton.  The savage green goliath
+towers over you.  You begin to shiver...his monstrous size is unimaginable.
+The Hulk growls at you because he trusts no one.  Don't you think it's
+time to leave?
+~
+290891 172 400 W3
+72 68 -25 10d10+8000 12d10+64
+100000 102000
+8 8 1
+18 0 13 13 13 18 0
+18 3 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10306
+dog junk yard junk-yard~
+a vicious junk-yard dog~
+A vicious junk-yard dog is ready to rip you to pieces!!!
+~
+This dog is no Fido...  He's rabid and ready to take you down.    
+~
+18250 0 100 W3
+29 29 2 1d1+800 4d6+8
+10 1500
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+20 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#10307
+security guard~
+a security guard~
+A security guard is here looking for any signs of trouble.
+~
+He's a typical high-paid guard.  He stands 6'4" and can kick you butt
+anytime--any day.
+~
+28746 0 1000 W3
+32 32 0 1d1+800 7d3+8
+0 0
+8 8 1
+18 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#10308
+thing orange rock~
+the Thing~
+The Thing cries out,"It's Clobbering Time!!!"
+~
+You see an ugly looking orange creature...  His skin is made of solid
+rock.  The creature is about 6'4" and he's MASSIVE.  He looks at you
+with distaste...it looks like you're in trouble, kiddo.
+~
+293194 132 900 W3
+58 62 -19 10d10+3700 10d8+49
+40000 75000
+8 8 1
+18 0 13 13 13 13 0
+0 3 0
+-190 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10309
+human torch fire burning~
+the Human Torch~
+The Human Torch is here laughing at Ben Grimm's jokes.
+~
+He's the teenage sensation...the dream date for all young girls--he's 
+the dashing Johnny Storm but you can call him the Human Torch.  You
+don't want to get too close to him--you might get burned...
+~
+26699 8388736 1000 W3
+57 64 -6 10d10+3400 9d9+40
+45000 60000
+8 8 1
+13 0 18 18 13 13 0
+12 2 0
+-60 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10310
+fantastic mister mr elastic plastic~
+Mr. Fantastic~
+Mr. Fantastic is wondering how Dr. Doom will try to take over the world.
+~
+Reed Richards is the leader of the Fantastic Four.  He's valuable not
+for his pathetic fighting abilities but rather his superior intelligence.
+Mr. Fantastic is a cheap imitation of the Plastic Man however he has
+his unique qualities...
+~
+286794 172 1000 W3
+56 63 -6 10d10+3500 9d9+45
+50000 60000
+8 8 1
+13 0 18 18 13 18 0
+0 2 0
+-60 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#10311
+invisible woman girl ~
+the Invisible Woman~
+The Invisible Woman is wondering if anyone would ever notice her presence.
+~
+She's invisible...  The Invisible Woman is also known as Susan Storm       
+Richards.  She's a very attractive young woman--it's a shame she likes
+old guys like Reed Richards.
+~
+288842 131214 1000 W3
+55 62 -9 10d10+2000 10d7+45
+50000 62000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-90 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10312
+iron man steel armor~
+the Iron Man~
+The Invincible Iron Man is trying to keep the Avengers in order.
+~
+The man behind the armor is Tony Stark, multi-millionaire and entrepreneur.
+ He also leads the Avengers when Captain America is absent.  Iron Man
+is a capable leader and also an intelligent strategist.
+~
+290891 131204 1000 W3
+62 69 -28 10d10+5700 12d9+55
+100000 79000
+8 8 1
+18 0 13 13 13 18 0
+17 2 0
+-280 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10313
+giant man giant-man~
+the Giant-Man~
+A BIG, TALL guy is standing here watching where he's stepping...must be Giant-Man.
+~
+He's can adjust his growth to be much taller than a 4 story building.  Hank
+Pym also know as Giant-Man has developed a formula which could alter
+the size of any living matter.  He became Giant-Man to use his new found
+formula for combat the forces of evil.
+~
+30793 0 1000 W3
+53 50 -5 10d10+2100 6d6+25
+25000 50000
+8 8 1
+18 0 13 13 13 13 0
+19 5 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10314
+wasp sting small bug woman~
+the Wasp~
+There's a annoying bug here flying everywhere in the room...must be that Wasp.
+~
+The Wasp is so small, she could sneak into any room without anyone knowing.
+She's so tiny but don't be fooled by her size--the Wasp can sting...
+~
+292939 524332 1000 W3
+51 50 -5 10d10+1800 7d5+20
+50000 60000
+8 8 2
+13 0 13 13 13 13 0
+16 0 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10315
+hawkeye hawk eye archer arrow~
+Hawkeye~
+The Avenger's archer, Hawkeye, is here waiting to be leader someday *sigh*
+~
+Hawkeye is the most accurate archer of all time.  He can shoot an arrow
+that'll reach its target every time.  Hawkeye is also a skilled fighter.
+ ~
+26696 36 900 W3
+54 50 -6 10d10+2000 6d6+24
+55000 65000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10316
+vision android~
+Vision~
+The super-android name Vision is here to assist the leader.
+~
+The Vision is one of the most powerful Avengers.  He can easily change
+the molecular matter of his body.  He can pass through walls like a
+ghost...
+~
+292936 131116 1000 W3
+53 42 -5 10d10+1810 6d6+34
+54000 65000
+8 8 1
+18 0 13 13 13 13 0
+0 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10317
+scarlet witch woman sorceress magic~
+the Scarlet Witch~
+The Scarlet Witch is trying hard to learn some new spells.
+~
+She's considered the Sorceress Supreme in the Marvel Universe.  Though
+she once served the mutant menace named Magneto...Scarlet Witch has
+been reformed.  She uses her black magics to conquer all her foes...
+~
+30793 197692 500 W3
+52 49 -6 10d10+1850 6d6+28
+50000 62000
+8 8 2
+13 0 18 18 13 18 0
+8 2 0
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10318
+quicksilver silver quick speedster~
+Quicksilver~
+Quicksilver is wondering if he can beat the Flash in a race.
+~
+Quicksilver is probably the fastest man in the Marvel Universe.  He's
+amazingly quick and agile for a mutant.  Quicksilver is the brother of
+Scarlet Witch.  Together they join the Avengers to combat the forces
+of evil.
+~
+30793 262188 1000 W3
+53 48 -6 10d10+1900 7d5+29
+50000 63000
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10319
+hercules olympian strongman muscle~
+Hercules~
+Hercules is here flexing his oversize muscles...showoff...
+~
+The son of Zeus is always ready for combat.  His size and strenght are
+unmatched (with the exception of Thor, Hulk, Thing...err forget that line).
+Hercules is the strongman of the Avengers.
+~
+292937 60 1000 W3
+54 47 -6 10d10+1950 6d6+28
+56000 65000
+8 8 1
+18 0 13 13 13 18 0
+17 2 0
+-60 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10320
+black knight swordsman~
+the Black Knight~
+A knight in dark armor is here polishing his ethereal sword.
+~
+The Black Knight is the greatest swordsman that ever lived.  When he 
+wields his magical blade there is none who can match him in the arts
+of sword fighting.  The Black Knight is one of the oldest and the 
+most celebrated Avenger.
+~
+30793 196628 1000 W3
+54 48 -6 10d10+1980 7d5+29
+60000 64000
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10321
+high evolutionary creator god~
+the High Evolutionary ~
+The High Evolutionary wants to create the most perfect living creature.
+~
+You see a man covered in armor from all places.  He wears an iron mask
+to conceal his identity.  His uniform makes him more godly so that his
+"creation" would look up to him for guidance.  The High Evolutionary
+is considered by many to be a GOD...he can destroy you with ease.
+~
+288842 196796 500 W3
+60 64 -19 10d10+5300 10d11+55
+60000 69000
+8 8 1
+13 0 18 18 13 13 0
+0 2 0
+-190 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10322
+king conan kingconan~
+Conan the Barbarian~
+King Conan is here praying to his God -- Crom.
+~
+He's as savage as the legends claim him to be.  Conan is a big fellow --
+his muscles are bulging out from his fur cloak.  No matter what age
+Conan may be, he's still the toughest Cimmerian there will ever be.
+~
+288847 180 600 W3
+60 66 -20 10d10+5100 10d13+51
+60000 65000
+8 8 1
+18 0 13 13 13 13 0
+19 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10323
+sonja red woman warrior cimmerian~
+Red Sonja~
+Red Sonja the Lady Warrior is looking for a punk to kill.
+~
+Red Sonja is a very attractive woman...  Her hair is the deepest red.  She's
+one of the greatest warriors of her time.  Red Sonja is determined to 
+find the men who did her wrong.
+~
+26696 36 800 W3
+41 39 -4 1d1+1200 6d6+32
+1000 30000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10324
+firelord fire lord cosmic herald~
+Firelord~
+Firelord is soaring through space looking for some action.
+~
+Firelord is a cosmic being of enormous power.  He's capable of destroying
+a galaxy with just a small fraction of his awesome power cosmic.  He
+once served the World-Devourer, Galactus.  Firelord looks as though his
+is on fire.  He wields a staff which he channels and directs his cosmic
+powers.
+~
+26699 44 400 W3
+42 52 -5 1d1+1220 6d6+26
+2000 25000
+8 8 1
+13 0 13 13 13 13 0
+12 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10325
+nova cosmic herald ~
+Nova~
+Nova is searching for a planet for her hungry master...Galactus!
+~
+Nova is the currently the herald of the World-Devourer, Galactus.  She
+is constantly in search of a planet for her master's unsatiable 
+appetite.
+~
+18506 188 300 W3
+44 43 -5 10d10+650 6d6+28
+4000 32000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10326
+warlock him infinity ~
+Warlock~
+A man in a long cloak is riding through space...looks like the Warlock...
+~
+Warlock is one of the most powerful beings in space.  He is the keeper
+of the six infinity gems.  Warlock travels with his companions through
+his cosmic journey to understand the universe.
+~
+30794 4284 1000 W3
+52 58 -7 10d10+850 6d6+32
+5600 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-70 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10327
+drax destroyer~
+Drax the Destroyer~
+Drax is riding the spaceways with his pal, Warlock.
+~
+Drax is not a guy you'd like to mess with.  He's probably the strongest
+guy in the universe...his strenght can match that of the Hulk's.  The 
+only weakness to Drax is that he has a mind of a 7 year old...      
+~
+22602 44 1000 W3
+37 43 -2 1d1+900 6d6+25
+2000 16000
+8 8 1
+18 0 13 13 13 13 0
+0 3 0
+-20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10328
+moondragon moon dragon~
+Moondragon~
+Moondragon is traveling with Warlock to protect the universe.
+~
+Moondragon is a priestess from another world, far from our own.  She's
+gifted in many areas such as the art of fighting.  She also has 
+mental abilities (telekinetic) that are so powerful that even she
+could not control them.  Moondragon is an attractive woman even though
+she's bald *gasp*.
+~
+30794 60 1000 W3
+35 42 -2 1d1+850 6d5+30
+2000 12000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10329
+quasar comet cosmic~
+Quasar~
+Watch Out!  A comet is headed this way!  wait a sec...it's only Quasar.
+~
+Quasar is an earthling who was given the cosmic bands to defend the
+universe from evil space invaders.  Quasar has the powers to convert
+light into solid objects.  His powers make him one of Marvel's most
+powerful super-heroes.
+~
+26698 0 1000 W3
+39 57 -3 1d1+900 6d6+31
+2000 14000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10330
+skrull soldier killer~
+a Skrull soldier~
+A Skrull soldier is looking forward to killing some stinkin' humans.
+~
+Boy, those damn Skrulls are sure butt-ugly!  Their green skins and
+large pointy ears are just repulsive.  However, they think the same
+way about humans.  This Skrull soldier wants to ravage the earth
+using their new space portal.  Is there anyone who can save us
+from these monsters?
+~
+20715 0 -1000 W3
+25 28 -1 1d1+510 5d4+10
+1000 4500
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+-10 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 10
+~
+#10331
+thanos thano titan~
+Thanos the Titan~
+Thanos is devising a new plan to conquer the universe!
+~
+Thanos is known and feared throughout the universe.  His name scares 
+even the most powerful, celestrial beings.  Thanos is always planning
+how he can acquire more and more power.  He plans to rule the universe
+one day, under HIS iron fist!
+~
+288843 131260 -500 W3
+65 68 -14 10d10+4300 8d9+47
+100000 86000
+8 8 1
+18 0 18 18 13 18 0
+18 3 0
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10332
+punk loser drug drugpusher addict criminal~
+a punk~
+A punk is here trying to sell some dope.
+~
+He's a stinkin' punk alright.  This drugpusher has been selling drugs
+since he was a teen.  He'll kill you for money because he's an addict
+himself.  This low-life has ruin the lives of many...don't you think
+it's time to pay this sucka back?
+~
+20584 0 -1000 W3
+18 13 2 1d1+300 4d4+10
+500 1000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 10
+~
+#10333
+drug addict loser users user~
+a drug addict~
+A drug addict is here shooting needles and sniffing coke.
+~
+He's a total loser.  This man turn to drugs to escape the problems of
+the world and in his life.  You wonder to yourself if this slime
+deserves your pity...
+~
+202 0 -100 W3
+8 8 1 1d1+180 4d1+1
+10 500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#10334
+thunder strike thunderstrike thor imitator fake god~
+Thunderstrike ~
+Thunderstrike is here searching for adventure and excitement.
+~
+Thunderstrike was an ordinary human being who was transformed into a
+god.  He became the second Thor but had to later relinquish that title.
+Thunderstrike is a big blonde fellow, he looks and sometimes act like
+the real Thor.  He even wields a hammer that looks like the real deal.
+~
+26697 60 1000 W3
+43 53 -2 1d1+1200 6d5+27
+9000 20000
+8 8 1
+18 0 13 13 13 13 0
+17 2 0
+-20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10335
+loki mischief mischievious god asgardian evil~
+Loki, the God of Mischief~
+Loki is plotting to take over Asgard with his evil allies.
+~
+The Asgardian God is always determined to take over this kingdom.  He
+is determined to humble the noble Thor as well as his own father,
+the mighty Odin.  Loki is the master schemer, however, he doesn't
+have much success when Thor's there to stop him.
+~
+288971 196752 -1000 W3
+64 66 -24 10d10+5800 10d9+50
+50000 75000
+8 8 1
+13 0 13 13 13 13 0
+8 2 0
+-240 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10336
+tiger shark fish killer ~
+Tiger Shark~
+The Tiger Shark is ready to tear your apart...come a little closer...
+~
+The Tiger Shark is a vicious killer.  He's in a quest to dominate the
+7 seas and to seek revenge upon the Sub-mariner for defeating him in
+every battle.  Tiger Shark is a dangerous predator and he's no one
+you should fool around with...
+~
+26698 0 -1000 W3
+43 44 -4 1d1+1190 6d5+29
+25000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10337
+attuma~
+Attuma~
+Attuma, the self-proclaimed Master of the 7 Seas, is looking for Namor.
+~
+Attuma is truly a magnificent being.  He fighting skills underwater can
+match that of the Sub-Mariner himself.  Attuma has rarely lost a battle.
+Though he has lost to Namor the Sub-Mariner in countless confrontations--
+Attuma has defeated every other challengers who seek to take his throne.
+~
+27211 60 -900 W3
+46 42 -5 1d1+1000 6d6+26
+20000 30000
+8 8 1
+18 0 13 13 13 13 0
+17 3 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10338
+captain america patriot flag us freedom fighter~
+Captain America~
+Captain America is trying to rid the world of crime and wrong-doers.
+~
+Captain America, the patriotic super-hero, is always dedicated to stop
+the Red Skull and all other super-baddies from harming innocent lives.
+He is trusted by the President himself.  Cap is the most noble and
+honest super-hero today.  Captain America wears a uniform made from
+the US and a shield made of pure adamantium.
+~
+2422859 188 1000 W3
+150 88 -34 10d10+17000 18d11+69
+25000 10000
+8 8 1
+18 100 18 18 25 18 25
+18 5 0
+-340 10 11 1000 19 29
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10339
+lord mephisto lordmephisto~
+Mephisto~
+Mephisto, the Lord of the Underworld, welcomes you to HELL!!!
+~
+Mephisto is the master of the realm known as Hell.  He is truly evil
+incarnate.  Mephisto has taken the souls of many innocent people.  He'd
+even tried taking one from a super-being.  Mephisto is a powerful
+being who's well respected by the celestrial powers.  His "magicks" 
+make him the most deadliest adversary.
+~
+288875 66748 -1000 W3
+67 67 -14 10d10+6000 9d9+58
+100000 90000
+8 8 1
+18 0 18 18 18 18 0
+12 2 0
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#10340
+ghost rider spirit revenge~
+Ghost Rider~
+The Ghost Rider wants to wrap his chains around Mephisto's neck.
+~
+The Ghost Rider is truly a Spirit of Vengeance.  He seeks to stop 
+murdering super-villains as well as evil demons from harming the
+innocent.  Ghost Rider is a supernatural being himself.  His hellfire
+can surely burn through even the toughest stone walls!
+~
+26699 188 400 W3
+50 58 -6 1d1+800 6d6+24
+16000 26000
+8 8 1
+13 0 13 13 13 13 0
+17 2 0
+-60 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10341
+mary jane watson mrs. parker wife woman~
+Mary Jane Watson Parker~
+Mary Jane is here doing the dishes and waiting for her hubby to come home.
+~
+She's a glamourous model and soap star.  That Peter Parker is sure lucky
+to have a wife like her.  Mary Jane has nice, long red hair that matches
+her luscious lips...you can imagine the rest ;)
+~
+20554 524288 1000 W3
+30 30 1 10d10+1000 5d5+30
+1000 1000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#10342
+aunt may ms. parker old lady ~
+Aunt May~
+An old lady is going out to buy some grocery for her nephew.
+~
+She's just a feeble, old lady.  A kind, gentle person...  There's no  
+need to hurt such a friendly person. 
+~
+24776 0 1000 W3
+52 50 -5 1d1+2000 6d6+25
+10 1300
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10343
+namor sub-mariner sub mariner prince sea atlantis~
+Namor the Sub-Mariner~
+Prince Namor, the king of Atlantis, is here.
+~
+The Sub-Mariner is not a person anyone would want to mess with.  He has
+the strenght of the Hulk and a very powerful army behind him.  Namor
+is the king of all atlantis and an enemy of all humans.  He had tried
+on several occasions to invade the continents and was stopped by the
+Fantastic Four.
+~
+288843 188 -10 W3
+65 62 -22 10d10+6000 12d9+50
+90000 87000
+8 8 1
+18 0 18 18 13 18 0
+18 2 0
+-220 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10344
+dead pool deadpool assassin-for-hire assassin hire~
+Deadpool~
+Deadpool, the deadly assassin, is here waiting for a job.
+~
+Deadpool is one of the most high-paid assassin in the world.  He is a
+mutant with the power to heal himself quickly.  He even can regenerate
+an arm if it was severed during an "accident."  Deadpool is quick and
+agile.  He's also an expert in using all sorts of weapons.
+~
+288843 168 0 W3
+64 62 -15 10d10+5500 12d7+50
+75000 76000
+8 8 1
+18 0 18 18 18 18 0
+19 2 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10345
+daredevil dare devil red mask costume murdock matt~
+Daredevil~
+A man in a red mask and costume is standing here.
+~
+Matt Murdock is the Daredevil, the Man without Fear!  Daredevil's 
+power is his superhuman senses.  Blind for life because of an accident,
+Murdock was exposed to a mutagen which gave him his power to "see"
+things with his sonar-like senses.  Daredevil wields a billy-club 
+which he uses often in battle with super-villains.
+~
+288971 189 1000 W3
+66 64 -16 10d10+6800 12d9+50
+79000 85000
+8 8 1
+18 0 18 18 13 18 0
+19 2 0
+-160 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10346
+typhoid mary ninja crazy pshychotic~
+Typhoid Mary~
+A pshychotic-looking woman with two long katanas is looking at you *gulp*
+~
+Typhoid Mary is not your ordinary assassin-for-hire.  She's on of
+Kingpin's top hitman...err...hitwoman.  Mary wields two sharp kitana--
+she is a master of ninjitsu and has kicked Daredevil's butt several
+times.
+~
+26699 60 -500 W3
+53 50 -4 10d10+1800 7d6+20
+30000 39000
+8 8 2
+13 0 13 13 13 13 0
+17 2 0
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10347
+bullseye bull eye bulls assassin ~
+Bullseye~
+Bullseye the lethal assassin is here waiting for someone to piss him off.
+~
+Bullseye is a master of martial arts -- no matter what style.  He has
+fought many opponents and rarely does he ever loses.  Bullseye is the
+most accurate sharpshooter and he never misses his target.  His
+employer is Wilson Fisk aka the Kingpin...and Mr. Fisk pays him a lot!
+~
+26827 40 -1000 W3
+53 60 -5 10d10+1800 6d7+21
+40000 43000
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10348
+Rose fisk son masked man ~
+the Rose~
+A man in a purple mask and an Armani suit is quietly reading a newspaper.
+~
+The Rose is not a person any man should mess with.  Though he has
+plotted against his father, the Kingpin, in the past the Rose has
+always admire his father's ruthless tactics.    
+~
+26826 44 -1000 W3
+43 39 -4 1d1+1200 6d5+25
+25000 29000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10349
+fisk wilson kingpin fatman fat man criminal mastermind~
+Kingpin~
+Wilson Fisk the Kingpin of Crime is staring down at you!
+~
+He is the mastermind behind the takeover of Apocalypse City.  The 
+Kingpin is well-known throughout the world as a kind and loving person.
+It's a shame that most people don't know Fisk like you do.  He's a
+drug dealer, a murderer, and everything else that's associate with
+the criminal underworld.  Wilson Fisk is not exactly a man with you
+wrestle with.  Though he weighs more than 300 pounds -- Fisk is a
+master of judo plus many other arts of fighting!
+~
+288843 168 -1000 W3
+63 67 -12 10d10+5200 9d8+50
+100000 72000
+8 8 1
+18 0 18 18 18 18 0
+18 3 0
+-120 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10350
+mighty thor asgardian prince thunder god~
+the Mighty Thor~
+Thor, the God of Thunder, is singing love songs to the fair maiden, Sif.
+~
+Thor is one of the most noble gods in Asgard.  He is the son of the 
+All-Father Odin and is the next in line for the throne providing that
+Odin the immortal may die in a mishap someday.  Thor wields his
+mighty hammer which is made from the mystical and indestructible
+uru metal.
+~
+293195 196780 1000 W3
+74 68 -22 10d10+8000 12d11+65
+222000 200000
+8 8 1
+18 0 18 18 18 18 0
+16 2 0
+-220 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10351
+Sif lady asgardian goddess god pretty~
+Sif~
+The Lady Sif is here listening to Thor's wonderful songs...
+~
+The Asgardian Goddess is well-known in the Norse folklore.  She was
+the first love of Thor, the God of Thunder.  Sif is a master swords-man
+and she will fight for Asgard and to protect her beloved.
+~
+30794 196608 1000 W3
+33 38 -2 1d1+800 5d6+21
+3400 16000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-20 0 4 0 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#10352
+odin ruler~
+Odin~
+Odin, the Ruler of Asgard, is sitting on his mighty throne.
+~
+Odin is the All-Father of Asgard.  He is the most powerful Asgardian in
+the kingdom.  Odin is a noble man even though he had made many bad
+judgements in the past.  Odin has a long white beard and a suit made
+of pure mystical steel.  
+~
+288842 131260 1000 W3
+65 64 -14 10d10+5900 10d10+48
+70000 77000
+8 8 1
+18 0 18 18 13 18 0
+0 2 0
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10353
+electro electric shock shocker~
+Electro~
+Electro wants to give you a warm handshake -- come over here...
+~
+Electro can generater unlimited amount of electricity from his body.  His
+electric shock can burn you into ashes.
+~
+26696 0 -900 W3
+38 42 -1 1d1+900 6d5+23
+10000 12000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10354
+carnage symbiote venom ~
+Carnage~
+Carnage is here on a murdering spree!
+~
+Carnage is the "offspring" of Venom.  His costume is made of the same
+alien substance as that of Venom's.  Carnage is much more ruthless and
+dangerous than any deranged criminal.
+~
+26696 0 -1000 W3
+42 44 -1 1d1+1050 7d5+27
+4000 21000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10355
+kang~
+Kang~
+Kang, the master of time, is planning to take over the world.
+~
+Kang is a criminal of the future, the past, and the present.  He is a
+dangerous man to deal with.  He can use actually use "time" as an
+ultimate weapon against his enemies.
+~
+18632 0 -800 W3
+39 42 -1 1d1+900 5d6+21
+12000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10356
+vulture bird prey old geezer ~
+Vulture~
+A bird of prey named the Vulture is here looking for Spider-Man.
+~
+Vulture has been a nemesis of Spider-Man for quite sometime.  His
+power of flight and manueverability in the air makes him a deadly
+foe.
+~
+18504 0 -800 W3
+37 49 0 1d1+800 6d4+24
+9000 16000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10357
+robot guard doom servant slave dr.~
+a robot guard~
+A robot guard of Dr. Doom is protecting his master.
+~
+He looks exactly like Dr. Doom himself but he's only a robot...right?
+These robots are designed to attack anyone to tries to harm Doom.
+~
+28746 0 -1000 W3
+20 20 -1 1d1+500 4d4+15
+1500 2000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#10358
+dr. dr doom man~
+Dr. Doom~
+A man in an iron mask is looking at you and laughing out loud!
+~
+Dr. Doom is one of the earth's most "brightest" criminal masterminds.
+He is a master of science as well as the mystic arts.  Doom is the
+most elusive super-villain because of his superior intelligence and 
+wit.  
+~
+10314 188 -1000 W3
+49 38 -9 10d10+1200 7d7+32
+20000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-90 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10359
+dr. doctor doom doctordoom~
+Dr. Doom~
+The real Dr. Doom is preparing for a battle with YOU!
+~
+This is the ORIGINAL Dr. Doom not that robot fake you've just fought.
+Dr. Doom laughs at you...  He doesn't think you have what it takes
+to stop him from taking over the world.  Doom wears an iron mask as
+well as an armor all over his body.  He has gauntlets which could
+send out a powerful burst of energy to his victim.  
+~
+289355 188 -1000 W3
+67 64 -14 10d10+6200 12d9+54
+98000 75000
+8 8 1
+18 0 18 18 13 18 0
+12 2 0
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10360
+dr dr. octopus doctor otto octavius tentacles~
+Doctor Octopus~
+Doctor Octopus walks across the room using his adamantium tentacles.
+~
+You see a man with four long steel tentacles.  These tentacles are 
+connected to his body.  Doctor Octupus uses these tentacles as a 
+means of controlling his criminal empire.  His tentacles are made
+of pure adamantium, the same substance used for Captain America's shield
+and Wolverine's skeleton!
+~
+10248 65536 -1000 W3
+42 44 -4 1d1+1050 6d6+25
+30000 32000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10361
+abomination gamma ray hulk monster creature~
+Abomination~
+A green, scaly creature is ready to rip your head off -- he's the Abomination.
+~
+The Abomination was exposed to gamma radiation similar to the Hulk...
+however his dosage was even greater.  That accident turned him into
+a maniac with the strenght that even the Hulk can't match.  The
+Abomination is a green, scaly type creature -- he looks like a Merman.
+~
+26696 0 -900 W3
+40 42 -5 1d1+910 6d5+24
+5000 12000
+8 8 1
+18 0 13 13 13 13 0
+0 3 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10362
+waitress mutant waiter server woman~
+a waitress~
+A waitress with tight jeans is here to serve your needs.
+~
+She's cute alright.  She wears some pretty tight jeans...maybe you
+should ask her for her number.
+~
+16586 0 10 W3
+10 10 6 1d1+100 4d1+1
+100 100
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#10363
+emma frost white queen whitequeen~
+Emma Frost, the White Queen~
+The White Queen is here drinking her usual -- a Bloody Mary.
+~
+Emma Frost aka the White Queen is a mutant of great power.  Her power
+of telekinetic is impossible to match.  The White Queen wears a
+kinky leather outfit and a long white cape.
+~
+31562 0 -1000 W3
+39 44 -4 1d1+950 6d5+27
+10000 13000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10364
+omega red tentacles evil mutant~
+Omega Red~
+Omega Red is trying to think of a way to kill Wolverine.
+~
+Omega Red is the eternal enemy of Wolverine.  He wears a red and white
+armor with a large tentacle connected to each of his hands. 
+~
+31562 0 -1000 W3
+41 42 -5 1d1+1000 6d5+20
+20000 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10365
+sand man sandman sandy criminal crime~
+Sandman~
+The Sandman is here looking for a fight -- whatcha lookin' at, punk?
+~
+The Sandman has the power to change his body completely into sand.  He
+can make a large mallet out of his hand as a weapon...  The Sandman
+can turn his body into solid rock which makes him almost invincible.
+~
+289353 0 -900 W3
+40 41 -4 1d1+950 5d6+20
+28000 22000
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10366
+venom symbiote alien black costume spider-man spider~
+Venom~
+The deadly Venom is here trying to find a way to kill Spider-Man.
+~
+Venom is a ruthless killer.  He especially want to see Spider-Man dead.
+After countless defeats under the Web-Slinger, Venom has sworn to 
+find a way to kill Spider-Man.  Venom is wearing a black pajama with
+a large symbol of a spider in the middle.  The suit is actually a
+living alien --the host is the man in this costume, Eddie Brock.
+~
+288843 524416 -1000 W3
+64 63 -10 10d10+5500 10d11+50
+78000 79000
+8 8 1
+18 0 13 13 13 18 0
+13 2 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10367
+deathlok deathlock death machine man lock lok~
+Deathlok~
+The war-machine known as the Deathlok is standing here.
+~
+He's half man and half machine.  Deathlok is a one-man-army and he's
+ready to kick some punk's ass.  Deathlok wields a powerful phaser gun.
+~
+26696 0 1000 W3
+40 45 -5 1d1+930 6d5+30
+25000 26000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10368
+gilligan geek little man sailor side-kick~
+Gilligan~
+A skinny sailor is running from the Skipper.
+~
+Gilligan is a little guy--shy and honest.  He's wearing a red shirt and
+some sailor's pants.  Gilligan is always getting in trouble and making
+the Skipper mad.
+~
+16586 0 1000 W3
+25 6 0 1d1+305 3d5+5
+50000 5000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#10369
+skipper fatman fat man captain       ~
+the Skipper~
+The Skipper is chasing Gilligan all around the island.
+~
+The Skipper is always picking on poor Gilligan.  He's a pretty big guy.
+He wears a large blue shirt and a captain's hat. 
+~
+16458 0 1000 W3
+29 8 -1 1d1+305 4d4+11
+50000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#10370
+dr. doctor strange sorcerer wizard supreme doctor~
+Dr. Strange the Sorcerer Supreme~
+A man in a long cloak is floating in mid-air!
+~
+Dr. Strange is the greatest and the most powerful magic-user on Earth.
+No one can best him in the mystic arts.  Stephen Strange was trained 
+by the Ancient One himself.  Strange is wearing a long cloak and he
+wears a bright gold band around his finger.  He's also holding a 
+"strange" key.
+~
+288843 196792 1000 W3
+66 65 -20 10d10+6500 10d11+60
+75000 78000
+8 8 1
+18 0 18 18 13 18 0
+14 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10371
+dreaded dormammu demon alien magician sorcerer~
+the Dreaded Dormammu~
+An alien with a head of flame is staring at you -- with interest.
+~
+Dormammu is the deadliest rival of Dr. Strange.  He had tried to murder
+Strange many times in the past.  He's locked up in this dimension with
+no where else to go.  
+~
+27401 196736 -1000 W3
+56 55 -5 10d10+2200 9d7+44
+42000 45000
+8 8 1
+18 0 18 18 13 18 0
+12 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10372
+baron mordo desciple student magician sorcerer~
+Baron Mordo~
+Baron Mordo wants to get his REVENGE on Doctor Strange.
+~
+He used to be the only desciple of the Ancient One himself until Stephen
+Strange became a student.  Baron Mordo was never as good as Strange
+in the mystic arts.  Mordo vowed that he would be the one and only
+Supreme Sorcerer of earth after he kill off Strange.
+~
+27595 0 -1000 W3
+39 48 -3 1d1+940 6d5+18
+20000 34000
+8 8 1
+13 0 13 13 13 13 0
+8 2 0
+-30 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10373
+clea woman strange sorceress beautiful~
+Clea ~
+A beautiful woman is held captive by that fiend Dormammu -- it's Clea.
+~
+Clea is the beloved of Doctor Strange.  She was also a student of the
+evil Dormammu.  Her birth place is the same as that of Dormammu -- they
+belong to another dimension.  
+~
+24776 3 1000 W3
+25 35 0 1d1+500 5d4+15
+2400 16000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#10374
+kraven hunter criminal spider-man~
+Kraven the Hunter~
+Kraven the Hunter is setting up a trap for Spider-Man.
+~
+He's believed to be the greatest hunter in the world.  Kraven is an
+expert of many different forms of martial arts.  He has the speed of
+a cheetah and the strenght of an elephant. 
+~
+288841 8 -1000 W3
+40 44 -4 10d10+900 6d5+20
+30000 39000
+8 8 1
+18 0 13 13 13 13 0
+17 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10375
+nick fury agent shield s.h.i.e.l.d.~
+Nick Fury~
+Nick Fury, the leader of S.H.I.E.L.D., is here smoking a cigar.
+~
+Nick Fury is the head of the organization called S.H.I.E.L.D.  He has
+lead his men into war with criminal organizations such as A.I.M. and
+Hydra.  Fury is one of the most powerful men in the states -- his
+control over the agents of Shield makes him as powerful as the
+president himself!
+~
+288842 188 1000 W3
+57 58 -9 10d10+3800 8d6+40
+65000 61000
+8 8 1
+18 0 18 18 13 18 0
+0 2 0
+-90 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10376
+shield agent s.h.i.e.l.d. guard~
+a Shield agent~
+A Shield agent is getting ready to kick some criminal butt.
+~
+He's just a regular agent of Shield.  This agent is very well-trained.
+He wears the standard Shield uniform and carries a few high-tech weapons.
+~
+24648 0 1000 W3
+20 28 1 1d1+260 4d4+5
+1400 5000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#10377
+timothy tim dum dugan~
+Timothy "Dum Dum" Dugan~
+"Dum Dum" Dugan is looking for Nick Fury.
+~
+Timothy "Dum Dum" Dugan is the right-hand man of Nick Fury.  He has
+been in many battles with Fury and was awarded as Nick's most
+trusted officer and friend.
+~
+26824 0 1000 W3
+40 42 -4 10d10+975 6d5+24
+20000 26000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10378
+super patriot johnny walker~
+Super Patriot~
+The Super Patriot is here to challenge Captain America.
+~
+Johnny Walker aka the Super Patriot is a vigilante but unlike Captain
+America he likes to "teach" these criminals a lesson.  He is much 
+like the Punisher -- a man who would go to extremes to punish the
+criminal underworld.
+~
+26696 0 50 W3
+45 48 -5 10d10+899 6d5+38
+30000 43000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10379
+heimdall guardian rainbow bridge~
+Heimdall the guardian~
+The brave Heimdall is here to guard the entrance to Asgard.
+~
+Heimdall is a large man -- about 6'11" and he doesn't look too friendly.
+He's an expert swordman as well as one of Odin's most trusted soldiers.
+He was given the position of guarding the entrance to Asgard by Odin
+himself.  He's willing to give up his life than to let a trespasser pass
+by him without authorization.
+~
+288843 196736 1000 W3
+60 65 -19 10d10+2000 10d8+45
+35000 54000
+8 8 1
+18 0 13 13 13 13 0
+12 2 0
+-190 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10380
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#10381
+fandral warrior asgardian~
+Fandral~
+Fandral the Unbeatable is guarding the royal family of Asgard.
+~
+Fandral is probably the best swordsman in the Warriors' Three.  He
+has beaten countless foes within minutes and sometimes even seconds!
+~
+30826 0 1000 W3
+34 44 -4 1d1+600 6d5+19
+5600 16000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+15 15 15 15 15
+0 0 0
+6 10
+~
+#10382
+hogun handsome blonde asgardian warrior~
+Hogun~
+A dashing, handsome warrior named Hogun is here to serve his majesty.
+~
+He bold and daring...Hogun is a man of many talents.  He is an expert
+swordsman and one of Odin's most trusted warriors.  Hogun has fought
+alongside with the Warriors' Three for many long years.
+~
+26730 0 1000 W3
+33 42 -3 1d1+580 6d5+18
+5000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 4 0 0 0
+15 15 15 15 15
+0 0 0
+6 10
+~
+#10383
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#10384
+volstagg fatman fat man warrior~
+Volstagg~
+An overweight warrior named Volstagg is here to protect Odin.
+~
+Volstagg is one of the members of the Warriors' Three.  His size is
+awesome -- Volstagg weighs more than a thousand pounds yet he has
+the agility and speed of a "normal" man. 
+~
+30826 0 1000 W3
+33 42 -3 1d1+570 6d5+15
+5000 14000
+8 8 1
+13 0 13 13 13 13 0
+0 3 0
+-30 0 4 0 0 0
+15 15 15 15 15
+0 0 0
+6 10
+~
+#10385
+galactus~
+Galactus the world-devourer~
+The all-mighty Galactus is standing here...
+~
+Galactus is considered by many to be a God because of his awesome powers.
+He can absorb the energies of a planet and use these energies to feed 
+his unsatiable hunger.  Galactus uses his superior intelligence and 
+technology to reach his goal.  There is no one who can match the unlimited
+power that he possesses.  Galactus has the "power cosmic" -- the power
+of the life-force of all living things.  Galactus used this power cosmic
+to create heralds such as the Silver Surfer, Firelord, Terrax, Nova, and
+the Destroyer.
+~
+321611 1212 1000 W3
+95 70 -30 10d10+13000 20d10+75
+285000 250000
+8 8 1
+19 100 18 18 18 18 0
+12 5 0
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10386
+silver surfer herald surfboard soarer cosmic~
+Silver Surfer~
+Silver Surfer is here to protect his former master.
+~
+Silver Surfer was the first herald of the mighty Galactus.  No other
+herald was more powerful than the Surfer.  Silver Surfer can absorb
+cosmic powers easily because his silvery skin acts as a "solar cell."
+He holds a surfboard which he can control with his mind.  The board
+is totally indestructable and not even the brutish strength of the
+Hulk can break it.
+~
+292939 160 1000 W3
+65 68 -20 10d10+6000 12d9+59
+80000 79000
+8 8 1
+18 100 18 18 18 18 0
+14 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10387
+hobgoblin green goblin hob pumpkin~
+Hobgoblin~
+The deadly Hobgoblin is here, counting his loot.
+~
+Hobgoblin is one of Spider-Man's most deadliest foes.  He's also one of
+the most highly paid assassin around.  The Hobgoblin has no conscience
+when killing anyone.  He's a psychotic murderer with no remorse.  Spider-
+Man has never been able to capture this ellusive criminal.  The Hobgoblin
+has been known to work for the Rose and the Kingpin.
+~
+289354 129 -1000 W3
+62 65 -18 10d10+5000 10d7+55
+80000 74000
+8 8 1
+18 0 18 18 13 18 0
+0 2 0
+-180 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10388
+punisher frank castle vigilante skull~
+the Punisher~
+A man with a large skull on his chest is loading his .38 caliber pistol.
+~
+Punisher is THE vigilante of all vigilantes.  Frank Castle (the Punisher)
+has vowed to destroy all criminal empires of the world.  He gives no
+mercy to drug pushers, pimp, murderers, and all other sinners.  The
+Punisher is a one-man-army who's ready to clean house -- preferably
+the house of the Kingpin!
+~
+289099 164 1000 W3
+66 67 -20 10d10+6500 10d11+65
+75000 80000
+8 8 1
+18 0 18 18 18 18 0
+19 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10389
+microchip micro chip computer wiz friend side-kick sidekick~
+Microchip~
+Microchip, the Punisher's sidekick, is here.
+~
+Microchip is the loyal sidekick of the Punisher.  They both share the 
+same dream -- to put an end to all crime.  Microchip's history is much
+like the Punisher.  His family was murdered and he seeks revenge on
+all criminals by assisting the Punisher.
+~
+30922 0 1000 W3
+35 38 -5 1d1+860 6d5+20
+18000 26000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10390
+morlock mutant freak~
+a Morlock~
+A Morlock is here, looking for some food.
+~
+A typical Morlock...  He's filthy and hungry for food.  The Morlocks are
+mutant outcasts of society.  Because of their hideous appearance, they
+fear they may be lynch by the "normal" people.
+~
+24776 0 0 W3
+24 26 0 1d1+250 5d4+6
+2000 2500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#10391
+morlock leech mutant freak~
+Leech~
+Leech is trying to contact the X-Men.
+~
+Leech is one of the youngest Morlocks in the clan.  He has the power
+to absorb powers of other mutants.  Leech was once a member of the
+first X-Factor team.
+~
+24776 0 0 W3
+26 26 0 1d1+380 5d4+4
+2000 2500
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+0 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#10392
+mole man small underground dweller~
+the Mole Man~
+The Mole Man is planning to invade the surface world.
+~
+The Mole Man is the first super-villain who fought the Fantastic Four.
+He commands his people to attack the surface world countless times.
+The Mole Man is the king of his underground empire.  His men are 
+loyal to his commands and right now, the Mole Man is planning another
+strike on the surface grounds.
+~
+288843 188 -1000 W3
+59 57 -19 10d10+5000 10d8+52
+56000 60000
+8 8 1
+18 0 18 18 18 18 0
+17 1 0
+-190 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10393
+watcher watch ubiquitous god~
+the Watcher~
+The ubiquitous Watcher is here, watching your every movement...
+~
+Not much is known about the all-powerful Watcher.  His race is as old
+as the universe itself.  All of the Watchers possesses incredible  
+power.  Not many can withstand their power.  The Watchers are a 
+peaceful race.  Their purpose is to observe and record all major
+events happening in the universe.
+~
+288843 172 1000 W3
+69 66 -13 10d10+5800 8d8+46
+0 0
+8 8 0
+18 0 18 18 18 18 0
+16 5 0
+-130 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10394
+red skull nazi racist german mask ~
+the Red Skull~
+The bastard Nazi named Red Skull is here, making a long speech.
+~
+Red Skull is the oldest and the most deadliest foe of Captain America.
+During World War II, Red Skull assisted Hitler in a massacre of innocent
+people in Poland.  He teaches his lackeys the ways of the Nazi and
+tries hard at recruiting men into his clan.  Red Skull wears a bloody
+red mask which makes all his men fear him and thus they would be loyal
+to him as well.
+~
+292939 188 -1000 W3
+65 63 -14 10d10+5400 8d8+49
+59000 76000
+8 8 1
+18 0 18 18 18 18 0
+17 2 0
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10395
+nazi soldier follower hate guard~
+a Nazi soldier~
+A Nazi soldier is following carefully the words of the Red Skull.
+~
+He's in his mid-teens, unemployed, a former convict, and a drug user --
+the signs of a total loser.  Kill him, please.
+~
+20554 0 -1000 W3
+25 25 -1 1d1+320 5d4+20
+3000 11000
+8 8 1
+13 0 13 13 13 13 0
+0 4 0
+-10 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#10396
+morbius vampire living dracula ~
+Morbius the living vampire~
+Morbius, the living vampire, wants your thick, warm blood.
+~
+Morbius was once a prominent doctor.  He was exposed to a virus which
+gave him a "disease."  Doctor Morbius was transformed into a living
+vampire and requires blood as his nourishment.  
+~
+26696 32 -50 W3
+41 44 -4 1d1+940 6d5+39
+30000 39000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10397
+spiral sorceress six-armed mojo~
+Spiral~
+A six-armed sorceress named Spiral is here, looking for Longshot.
+~
+Spiral is a sorceress from another dimension.  Her "magicks" are 
+almost as powerful as that of Doctor Strange's.  Spiral has six arms
+four which are mechanical.  She uses her many arms to wave gestures
+for a spell.  Spiral is a master at teleporting through different
+dimensions.  She often travels to earth to make trouble for
+Longshot and the X-Men.
+~
+26696 196624 -1000 W3
+41 46 -5 10d10+1000 6d5+28
+27000 32000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10398
+disguise changeling mystique mutant~
+Mystique~
+Mystique is here, planning to destroy the X-Men.
+~
+Mystique is a master of disguise.  She can change her face and clothes
+in a matter of seconds.  Mystique is a very powerful mutant and also an
+intelligent leader.  The government recruited her to become the leader
+of the Freedom Force -- a band of mutants who serve the government.
+~
+26696 16 -500 W3
+37 48 -4 1d1+875 6d5+28
+27000 30000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10399
+longshot long shot mojo x-man~
+Longshot~
+Longshot is on a mission to find his former love, Dazzler.
+~
+Longshot is from a dimension unlike our own.  He comes from a dimension
+where television programs control the minds of the people.  Longshot
+wants to change all that and thus he became a rebel and a wanted 
+criminal on his home planet.
+~
+288841 128 1000 W3
+42 40 -5 10d10+650 6d5+35
+0 0
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10400
+balder brave asgardian warrior~
+Balder the Brave~
+Balder the Brave is preparing to battle the Ragnorak.
+~
+Balder is believed to be the bravest man in Asgard.  Because of his     
+past deeds, he was granted the title "the Brave" by the mighty
+Odin himself.
+~
+26696 16 1000 W3
+39 45 -5 1d1+800 6d5+26
+35000 36000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10401
+green goblin harry osborne madman~
+the Green Goblin~
+Green Goblin is soaring through the sky, looking for Spider-Man.
+~
+Harry Osborne aka the Green Goblin, is a man gone mad.  Harry was once
+the best friend of Spider-Man's alter-ego, Peter Parker.  The Green
+Goblin is one of the few people who knows the true identity of
+Spider-Man.  The Goblin wears a green mask and rides on anti-gravity
+glider.
+~
+26696 0 -1000 W3
+53 57 -5 1d1+1900 7d7+38
+34000 37000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10402
+havok x-man cyclops havoc~
+Havok~
+Havok is here, causing havoc for criminals everywhere.
+~
+Havok was once the leader of the group, X-Factor.  He is the younger
+brother of the X-Man named Cyclops.  Havok has powers that are almost
+uncontrollable.  Like Cyclops, Havok was born with this strange mutant
+power.  He was once an X-Man himself -- for a brief period of time.
+~
+26696 128 1000 W3
+53 59 -9 10d10+1900 6d6+34
+65000 65000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-90 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10403
+polaris magnetism x-man mutant mistress~
+Polaris~
+Polaris, the mistress of magnetism, is here looking for Havok.
+~
+Polaris has the power to control anything which is made of metal.  Her
+powers are quite similar to that of Magneto's but not as powerful.
+However, she has not maximize the potential of her powers.
+~
+26696 0 1000 W3
+40 43 -4 1d1+930 6d5+30
+40000 42000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10404
+elektra electra ninja assassin woman ~
+Elektra~
+A ninja assassin named Elektra has Daredevil on her hitlist.
+~
+Elektra was once the world's greatest assassin.  She became involved 
+with Daredevil and that relationship changed her life.  Elektra was
+thought to be dead many years ago until the management at Marvel 
+Comics revived her.
+~
+26696 0 0 W3
+38 42 -4 1d1+730 6d5+30
+38000 40000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10405
+beta ray bill thor alien~
+Beta Ray Bill~
+Beta Ray Bill is having a drink with his friend, Thunderstrike.
+~
+Beta Ray Bill is an alien from a planet, hundreds of light-years away.
+He was granted the power of Thor by Odin himself.  Bill was also 
+given a hammer which almost rivals that of Thor's enchanted Mjornir.
+Beta Ray Bill used his new powers to serve justice on his home
+planet.  He makes frequent visits to Asgard and Earth.
+~
+288840 0 1000 W3
+53 48 -10 10d10+2500 7d6+38
+36000 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10406
+banshee wail irish x-man~
+Banshee~
+The Banshee is here, scaring the punks off the streets.
+~
+A former X-Man, the Banshee's weapon is his "wail" which can tear 
+open walls or steel safes.  The Banshee is an Irish man, about 40
+something.
+~
+26696 0 1000 W3
+38 40 -5 1d1+780 6d5+31
+25000 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10407
+vengeance ghost rider ghost-rider spirit demon~
+Vengeance~
+Vengeance is looking for some action on the streets.
+~
+Vengeance is the Ghost Rider wannabe.  His powers are similar to those 
+of the Ghost Rider but their attitudes are quite different.  Vengeance
+believes in extreme violence towards criminals and he has been known
+to kill them during confrontations.
+~
+288840 0 50 W3
+46 44 -6 10d10+1400 6d5+30
+27000 42000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-60 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10408
+annihilus annihilator annihilation negative alien~
+Annihilus~
+Annihilus is here, to take over the universe.
+~
+Annihilus is the master of the Negative Zone -- a dimension that is
+not known by many.  He vowed to invade the universe someday in an 
+attempt to destroy Earth.  Annihilus possesses unimaginable powers 
+that even the Fantastic Four cannot handle.
+~
+26698 0 -1000 W3
+43 45 -5 1d1+1150 6d5+31
+30000 35000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10409
+iron fist iron-fist rand danny daniel kung-fu~
+Iron Fist~
+Iron Fist is looking for his good pal, Luke Cage the Power Man.
+~
+Iron Fist is a master of martial arts.  He was trained in Tibet and  
+became a master.  Iron Fist's power is his Chi -- the internal power
+that all men possesses.  He harness this Chi into his fist.  Iron  
+Fist can deliver a blow to any man and they would die instantly.
+~
+26697 0 1000 W3
+44 43 -4 1d1+1240 6d5+28
+30000 39000
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10410
+ultron adamantium android~
+Ultron~
+An adamantium android named Ultron is on a murdering rampage.
+~
+Ultron is an android made of pure adamantium and thus he is 
+indestructable.  He also has a plasma burst which could kill even
+the mightiest heroes.  Ultron is a highly intelligent life-form.
+He's capable of rational decisions even though he's a killing machine.
+~
+26696 128 -1000 W3
+45 50 -7 1d1+700 6d5+27
+23000 36000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-70 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10411
+luke cage power man muscle big man~
+Luke Cage the Power Man~
+Luke Cage is here, beating on a gang of punks.
+~
+Luke Cage is the Power Man.  He dedicated his life to stopping crime
+by any means necessary.  Cage is a big guy with bulletproof skin.  He
+made a big name for himself by kicking criminal butts.  All the punks
+on the street fear him...
+~
+26697 0 1000 W3
+40 43 -5 1d1+920 6d5+30
+26000 31000
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10412
+ancient one old man magic strange frail store-owner wizard sorcerer~
+the Ancient One~
+The Ancient One is here to serve your needs.
+~
+He's the most powerful sorcerer on this planet.  Even though he looks
+small and weak, the Ancient One can send you to OBLIVION with one of
+his deadly fireballs!
+~
+286794 196796 1000 W3
+90 70 -100 10d10+30000 3d2+2
+270000 1000000
+8 8 1
+18 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#10413
+sabretooth cat tooth sabre claws~
+Sabretooth~
+Sabretooth is here, stalking his prey...
+~
+Sabretooth is the deadliest foe of the X-Man known as Wolverine.  He's a
+big fellow, about 6'6", and has the agility of an olympic athlete.
+Sabretooth has a healing factor just like Wolverine as well as heightened
+senses.  Sabretooth has claws that are sharp as razor... don't get too
+close, kid, or you'll get cut!
+~
+288874 188 -1000 W3
+63 62 -20 10d10+5300 10d10+54
+76000 78000
+8 8 1
+18 0 18 18 18 18 0
+0 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#10414
+nomad bucky~
+Nomad~
+A mysterious stranger named Nomad is here.
+~
+Nomad is the former partner of the patriotic super-hero, Captain America.
+He was formerly known as Bucky, an old side-kick of Cap's.  Nomad is
+a skilled fighter and an expert target shooter. 
+~
+26696 0 1000 W3
+38 42 -4 1d1+810 6d5+27
+25000 30000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10415
+ghost bucky barnes ~
+the ghost of Bucky Barnes~
+The ghost of Bucky Barnes is here to protect his partner, Captain America.
+~
+Bucky Barnes use to be the partner of the star-spangled crime fighter,
+Captain America.  Bucky was killed during one of Cap's many missions
+during World War II.  Bucky Barnes was given the medal of honor by
+the President himself.  It seems, however, that Bucky is still alive...
+His ghost is here to protect his noble partner from any kind of danger!
+~
+1374282 524416 1000 W3
+200 120 -8 10d10+30000 4d4+0
+70000 75000
+8 8 1
+18 100 13 13 25 13 0
+0 5 0
+-80 0 16 0 20 20
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10416
+iceman ice man frost~
+Iceman~
+Iceman is here, looking for Professor Xavier.
+~
+Iceman was one of the original X-Men.  Recently he has regrouped with his
+old team-mates to form a new group called X-Factor.  Iceman has the mutant
+power to turn anything into ice.  He helped the X-Men in countless battles
+against super-powered criminals.  
+~
+288843 128 1000 W3
+55 54 -8 10d10+2000 6d6+35
+60000 70000
+8 8 1
+18 0 18 18 13 18 0
+14 2 0
+-80 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10417
+generic super hero superhero~
+a passing super hero~
+A super hero is flying here, on patrol.
+~
+This is one of the city's many super heroes, helping out innocent citizens
+wherever they need help.
+~
+6216 0 1000 W3
+51 30 -5 40d20+1 5d5+10
+100 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-50 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#10482
+test dummy ~
+Test Dummy~
+A Test Dummy is standing here.
+~
+nothing.~
+278602 1192 1000 W3
+50 90 -8 10d10+30000 6d5+39
+0 0
+8 8 0
+18 100 13 13 13 18 0
+0 2 0
+-80 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

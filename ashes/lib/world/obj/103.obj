@@ -1,0 +1,1386 @@
+#10300
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+100 5 5 0
+0 0 0
+#10301
+key marvel universe~
+a Key to the Marvel Universe (tm) (c)~
+An odd-looking key is lying here...~
+~
+18 1 16385 0
+0 0 0
+10301 0 0 0
+0 0 0
+#10302
+avengers id card avenger ~
+an Avenger's id card~
+A typical Avenger's id card lies here...~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+0 100 0
+#10303
+key~
+an elevator key~
+An elevator key is lying here...~
+~
+18 0 5 0
+0 0 0
+0 0 0 0
+0 200 0
+#10304
+Strange key~
+a Strange-looking key~
+A Strange-looking key is lying here...~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+0 200 0
+#10305
+apartment key~
+an apartment key~
+A shiny key is left on the floor.~
+~
+18 0 5 0
+0 0 0
+0 0 0 0
+0 10 0
+#10306
+skeleton key ~
+a skeleton key~
+It looks like someone left a rusty old key on the floor.~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#10307
+Doom master key   ~
+Doom's master key~
+A weird looking key is lying on the floor.~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#10308
+letter~
+a letter with Doctor Doom's wax seal~
+A piece of paper with a written message is lying on the floor...~
+~
+16 0 1 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+letter~
+To the lackey who's reading this letter:
+
+So you think you're pretty good now...eh?  FOOL!...the "Doom" you were
+fighting was one of my many robot dummies.  Did you actually believe
+you can match your puny weapons against ME?  If you want me, lack-wit,
+come and get me--I'll make sure you suffer when I get you into my
+torture chamber!
+
+                                With Love,
+
+                                Doctor Victor von Doom
+~
+#10309
+stash money~
+a stash of money~
+A large bundle of money is left on the floor--quickly, call Lost & Found!~
+~
+20 0 1 0
+0 0 0
+10000 0 0 0
+0 10000 0
+#10310
+key office~
+a key to Deadpool's office~
+A rusty old key lies on the floor...~
+~
+18 32 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#10311
+fireball fire ball~
+a Human Torch's fireball~
+Something is lying on the floor...it's burning HOT!~
+~
+1 8401921 16385 0
+0 0 0
+0 0 -1 0
+13 50000 0
+A
+18 1
+#10312
+uniform plastic elastic~
+Mr. Fantastic's elastic uniform~
+A blue spandex uniform lies on the floor.~
+~
+9 8926208 1033 0
+0 0 0
+5 0 0 0
+15 100000 0
+A
+18 2
+A
+17 -2
+#10313
+invisible shield~
+the Invisible Woman's invisible shield~
+Something lies on this floor...but you can't see what it is...curious...~
+~
+9 8926241 513 0
+0 0 0
+12 0 0 0
+10 50000 0
+A
+1 2
+#10314
+gauntlets glove gauntlet gloves~
+a pair of Iron Man's repulsor gauntlets~
+A pair of metal gauntlets lies on the floor...~
+~
+9 9204737 129 0
+0 0 0
+5 0 0 0
+14 60000 0
+A
+18 2
+A
+1 2
+#10315
+armor steel iron breastplate~
+a prototype armor from Stark Corps.~
+An armor made from the finest metal lies on the floor!~
+~
+9 9337859 9 0
+0 0 0
+10 0 0 0
+15 70000 0
+A
+18 3
+A
+11 -10
+#10316
+boots boot shoes shoe giant~
+a pair of size 40 boots *gasp*~
+A very, very large pair of boots lies on the ground.~
+~
+9 8926208 65 0
+0 0 0
+5 0 0 0
+19 20000 0
+A
+12 40
+#10317
+stinger sting ~
+a deadly stinger~
+A strange looking device is lying on the floor...looks like a bracelet...~
+~
+9 9319456 4097 0
+0 0 0
+5 0 0 0
+12 60000 0
+A
+18 1
+A
+17 1
+#10318
+bow arrow archery~
+Hawkeye's Bow~
+A bow lies here on the floor...waiting for someone to pick it up.~
+~
+5 9319425 24577 0
+0 0 0
+0 4 6 11
+13 70000 0
+A
+18 2
+#10319
+magic magical red stone red-stone ring~
+a magical red-stone ring~
+A ring of mystical orgin lies here on the floor...~
+~
+9 838721 3 0
+0 0 0
+5 0 0 0
+17 56000 0
+A
+13 2
+#10320
+shoes shoe lightning tennis lightning-fast~
+Quicksilver's lightning-fast tennis shoes~
+A pair of shoes with white lightning-stripes lies on the ground...~
+~
+11 8534018 65 0
+0 0 0
+0 0 0 0
+18 90000 0
+A
+18 1
+A
+12 10
+A
+16 -4
+#10321
+sword blade dark black ethereal magical~
+the dark sword of pure evil~
+A sword with a black blade lies here on the ground.~
+~
+5 8681537 8193 0
+0 0 0
+0 6 3 3
+13 67000 0
+A
+11 20
+#10322
+wand fireball magical magic~
+a deadly magical wand!~
+A scroll is lying on the floor--it hums with power...~
+~
+3 2112 16385 0
+0 0 0
+40 4 4 26
+11 2000 0
+#10323
+mask forged iron creator~
+an iron mask forged by the Creator~
+A mask made of steel lies on the floor.~
+~
+9 968768 17 0
+0 0 0
+6 0 0 0
+18 50000 0
+A
+13 4
+#10324
+hulk fist hulk's~
+Hulk's fist~
+A large, severed hand lies on the floor...~
+~
+5 9335808 24577 0
+0 0 0
+0 8 3 6
+13 75000 0
+A
+18 3
+A
+17 2
+#10325
+ripped-up rip pants pant purple~
+a pair of purple, ripped-up pants~
+A pair of used pants lies on the floor.~
+~
+9 9319424 33 0
+0 0 0
+6 0 0 0
+15 40000 0
+A
+18 1
+A
+17 1
+#10326
+crom sword blade heavenly heaven~
+the sword of Crom~
+A heavy, long sword is lying on the ground -- it's...~
+~
+5 9073665 8193 0
+0 0 0
+0 5 5 3
+18 80000 0
+A
+11 25
+#10327
+crown jewel studded rare gold golden~
+a golden crown studded with rare jewels~
+A gold crown lies on the floor gathering dust.~
+~
+9 8944640 17 0
+0 0 0
+5 0 0 0
+10 30000 0
+A
+4 2
+A
+5 3
+#10328
+firelord lord fire cosmic staff~
+Firelord's cosmic staff~
+A staff of pure cosmic power lies here...it looks hot!~
+~
+5 313410 24577 0
+0 0 0
+0 5 4 7
+13 20000 0
+A
+10 15
+#10329
+cape cloak warlock's warlock infinity~
+the cloak of infinity~
+A long cloak lies here gathering dust.~
+~
+9 311361 1033 0
+0 0 0
+6 0 0 0
+12 19000 0
+A
+7 10
+A
+10 20
+#10330
+band cosmic quasar quasar's band~
+Quasar's cosmic band~
+A large bracelet is left on the ground...~
+~
+9 838721 4097 0
+0 0 0
+5 0 0 0
+14 30000 0
+A
+13 1
+A
+10 10
+#10331
+infinity gauntlet gems gem ~
+the Infinity Gauntlet~
+A large gauntlet is lying on the ground...it's studded with gems!~
+~
+9 2005065 129 0
+0 0 0
+8 0 0 0
+25 90000 0
+A
+13 4
+A
+10 20
+#10332
+thanos' thanos neck-guard neck guard~
+Thanos' neck-guard~
+A neck-brace is lying on the floor...~
+~
+9 2048 5 0
+0 0 0
+3 0 0 0
+16 14000 0
+A
+5 2
+A
+4 2
+#10333
+hammer truth thunderstrike's  ~
+the Hammer of Truth~
+A hammer is lying on ground--it's made of a weird stone...~
+~
+5 8942594 24577 0
+0 0 0
+0 4 6 7
+13 20000 0
+A
+18 1
+A
+17 1
+#10334
+wand loki's lightning rod~
+a deadly wand of lightning~
+~
+~
+3 2144 16385 0
+0 0 0
+45 4 4 30
+13 10000 0
+#10335
+loki's enchanted helmet head-wear visor~
+Loki's enchanted helmet~
+A large helmet with long horns lies on the ground...~
+~
+9 442944 17 0
+0 0 0
+8 0 0 0
+13 50000 0
+A
+13 3
+A
+7 3
+#10336
+trident attuma's blood-stained blood stained~
+a blood-stained trident~
+A three-pronged weapon is lying on the ground.~
+~
+5 9073152 8193 0
+0 0 0
+0 7 3 11
+18 30000 0
+A
+17 1
+#10337
+shield captain america~
+Captain America's shield~
+A shield with a star and red stripes is lying on the floor.~
+~
+9 9057537 513 0
+0 0 0
+11 0 0 0
+20 150000 0
+A
+18 3
+A
+17 2
+#10338
+uniform star stripes ~
+a uniform with stars and stripes all over~
+A weird-looking uniform is lying on the floor.~
+~
+9 9059584 9 0
+0 0 0
+14 0 0 0
+20 50000 0
+#10339
+mephisto's mephisto ritual dagger~
+Mephisto's ritual dagger~
+A six inch blade lies on the ground--there's blood all over it!~
+~
+5 967233 24577 0
+0 0 0
+0 5 5 11
+18 90000 0
+A
+13 4
+A
+10 15
+#10340
+mystical chains hellfire chain~
+mystical chain of hellfire~
+There's a chain left on the ground--it looks HOT!~
+~
+5 18689 8193 0
+0 0 0
+0 4 6 2
+13 30000 0
+A
+5 2
+A
+4 -2
+#10341
+ghost rider skull head flaming rider's~
+Ghost Rider's flaming skull~
+A burning skull is lying on the ground -- watchout it looks hot!~
+~
+1 9058305 16385 0
+0 0 0
+0 0 -1 0
+13 30000 0
+A
+4 1
+A
+5 1
+#10342
+lsd drug drugs acid~
+a pack of LSD~
+There's some LSD lying on the ground...~
+~
+19 0 1 0
+0 0 0
+0 0 0 1
+2 1 0
+#10343
+webshooters webshooter spider-man's spider-man spider web shooter shooters~
+Spider-Man's webshooter~
+A strange-looking, metal wrist-wear is lying on the ground.~
+~
+9 9057280 4097 0
+0 0 0
+6 0 0 0
+14 30000 0
+A
+18 2
+#10344
+costume black symbiote venom alien spider-man spider~
+Spider-Man's black costume~
+A black pajamas with a spider in the center lies on the ground.~
+~
+9 836673 9 0
+0 0 0
+9 0 0 0
+18 50000 0
+#10345
+costume uniform pajamas spider-man blue red original~
+Spider-Man's red & blue costume~
+A red & blue pajamas is left on the ground.~
+~
+9 9057281 9 0
+0 0 0
+8 0 0 0
+18 70000 0
+A
+18 2
+A
+17 2
+#10346
+katana sword typhoid mary katanas~
+a katana stained with blood~
+A bloody katana lies on the ground.~
+~
+5 8402944 24577 0
+0 0 0
+0 4 5 3
+13 10000 0
+A
+17 -2
+#10347
+pendant necklace typhoid mary neck blood-red blood red~
+a blood-red pendant~
+A red pendant lies on the ground.~
+~
+9 8532482 5 0
+0 0 0
+5 0 0 0
+15 20000 0
+A
+14 3
+#10348
+belt utility all-purpose weapons weapon bullseye bullseye's~
+Bullseye's weapons-utility belt~
+A belt with many pouches lies on the ground.~
+~
+9 9089024 2049 0
+0 0 0
+6 0 0 0
+16 40000 0
+A
+18 2
+A
+17 2
+#10349
+kingpin's king kingpin pin cane~
+Kingpin's cane~
+A cane with a large diamond at the end lies on the ground.~
+~
+5 9091073 24577 0
+0 0 0
+0 6 4 7
+18 50000 0
+A
+18 3
+A
+17 3
+#10350
+armani suit extra large~
+an extra-extra large Armani suit~
+A white suit lies on the ground gathering dust.~
+~
+9 9058304 1033 0
+0 0 0
+7 0 0 0
+10 20000 0
+A
+11 25
+#10351
+key 3rd floor third~
+a key to the 3rd floor~
+A key lies here -- nothing special about it.~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+2 1 0
+#10352
+key plain fourth floor~
+a key to the 4th floor~
+A plain key lies on the floor.~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+2 1 0
+#10353
+office key kingpin fisk ~
+a key to Fisk's office~
+A key lies on the ground -- nothing special.~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+2 0 0
+#10354
+thor's thor hammer mjolnir uru enchanted~
+Mjolnir the enchanted hammer~
+A large, stone hammer lies here.~
+~
+5 9073921 8193 0
+0 0 0
+0 8 3 0
+18 100000 0
+A
+18 3
+A
+17 3
+#10355
+thor's thor crown ~
+Thor's crown~
+A crown of pure power lies on the ground.~
+~
+9 9073665 17 0
+0 0 0
+6 0 0 0
+15 30000 0
+A
+18 2
+A
+17 1
+#10356
+sceptre odin asgardian asgard staff ~
+the Sceptre of Asgard~
+A sceptre lies here on the ground -- looks pretty powerful.~
+~
+1 820288 16385 0
+0 0 0
+0 0 -1 0
+18 30000 0
+A
+7 10
+#10357
+electric spark electro light light-source~
+an electric spark~
+A spark of light lies on the ground -- it looks dangerous to touch.~
+~
+1 8402944 16385 0
+0 0 0
+0 0 20000 0
+10 10000 0
+A
+5 1
+#10358
+wings wing vulture's vulture~
+Vulture's wings~
+A large pair of wings lies on the ground.~
+~
+9 8402944 1025 0
+0 0 0
+5 0 0 0
+10 15000 0
+A
+17 2
+#10359
+dr. dr doom doom's iron mask face~
+Dr. Doom's iron mask~
+A face-mask made out of steel lies on the ground.~
+~
+9 8402945 17 0
+0 0 0
+6 0 0 0
+14 40000 0
+A
+18 2
+#10360
+armor dr. doom old body ~
+an armor of Doom~
+A body armor lies on the ground.~
+~
+9 8402944 9 0
+0 0 0
+13 0 0 0
+20 25000 0
+A
+1 2
+#10361
+gauntlet gloves glove hot iron doom doom's~
+gauntlets of Doom~
+A pair of iron gauntlets lies on the ground.~
+~
+9 8402944 129 0
+0 0 0
+5 0 0 0
+10 25000 0
+A
+18 1
+A
+17 1
+#10362
+tentacle tentacles doc doctor octopus' octopus~
+adamantium tentacles~
+Four steel tentacles are lying on the ground.~
+~
+9 8401408 1025 0
+0 0 0
+4 0 0 0
+14 15000 0
+A
+14 2
+#10363
+alien symbiote costume uniform pajama spider-man black~
+Venom's black costume~
+A black costume is left on the ground -- it's moving!~
+~
+9 967233 9 0
+0 0 0
+10 0 0 0
+15 40000 0
+A
+13 4
+A
+10 10
+#10364
+phaser handgun hand gun ~
+a phaser handgun~
+A weird-looking gun is left on the ground.~
+~
+5 9072640 24577 0
+0 0 0
+0 5 4 6
+10 1000 0
+A
+22 1
+#10365
+levitation cloak body strange ~
+the cloak of levitation~
+A long cloak is lying on the ground.~
+~
+9 967745 5 0
+0 0 0
+6 0 0 0
+10 50000 0
+A
+13 2
+#10366
+ring magic dr. doctor strange strange's~
+Dr. Strange's ring~
+A ring of power is left on the ground.~
+~
+11 966721 3 0
+0 0 0
+0 0 0 0
+10 30000 0
+A
+13 3
+A
+16 -4
+#10367
+deadly force wand strange strange's~
+a wand of deadly force~
+A wand is left on the floor.~
+~
+3 525376 16385 0
+0 0 0
+55 4 4 26
+10 10000 0
+#10368
+scroll strange magic~
+a Strange scroll~
+A magic scroll is lying on the ground.~
+~
+2 1 1 0
+0 0 0
+50 0 1 0
+7 10000 0
+E
+scroll~
+This scroll will grant anyone a spell for triple-attack.  Also there's
+armor added to you once it is recited.
+~
+#10369
+wand fireball magical magic~
+a wand of fireball~
+A scroll is lying on the floor--it hums with power...~
+~
+3 2112 16385 0
+0 0 0
+30 4 4 26
+11 2000 0
+#10370
+spear kraven kraven's weapon~
+Kraven's spear~
+A spear lies on the ground.~
+~
+5 9457664 8193 0
+0 0 0
+0 7 3 11
+14 60000 0
+A
+18 1
+#10371
+wristband wrist band sub-mariner's sub mariner power strength~
+a wristband of super-strength~
+A large wristband is left on the ground.~
+~
+9 9056257 4097 0
+0 0 0
+5 0 0 0
+10 35000 0
+A
+1 2
+A
+11 10
+#10372
+namor namor's dagger death backstab~
+Namor's dagger of death~
+A powerful dagger is left on the ground.~
+~
+5 9351168 24577 0
+0 0 0
+0 8 3 11
+14 80000 0
+A
+18 2
+A
+17 2
+#10373
+knife backstab backstabbing twelve 12" survival~
+a backstabbing 12" survival knife~
+A survival knife is left to rust on the ground.~
+~
+5 9351168 24577 0
+0 0 0
+0 6 4 3
+14 50000 0
+A
+18 2
+A
+17 -2
+#10374
+billyclub billy club daredevil~
+Daredevil's billy-club~
+A red cane is left on the ground.~
+~
+5 9073664 8193 0
+0 0 0
+0 5 5 7
+17 40000 0
+A
+14 2
+A
+22 2
+#10375
+red horned mask daredevil's daredevil~
+a red, horned mask~
+A red mask with two horns is left on the ground.~
+~
+9 8926209 17 0
+0 0 0
+6 0 0 0
+13 36000 0
+A
+18 1
+A
+17 2
+#10376
+eyepatch nick fury fury's eye patch~
+Nick Fury's eyepatch~
+An eyepatch is left on the ground.~
+~
+9 9056257 17 0
+0 0 0
+4 0 0 0
+13 19000 0
+A
+5 2
+A
+4 2
+#10377
+dagger torch-dagger torch hot~
+a hot torch-dagger~
+A flaming, hot knife is left on the ground.~
+~
+5 8400896 24577 0
+0 0 0
+0 4 6 0
+13 15000 0
+A
+5 1
+A
+1 -1
+#10378
+enchanted sword blade knife asgard~
+an enchanted sword~
+A sword lies on the ground.~
+~
+5 8400896 8193 0
+0 0 0
+0 5 3 0
+13 1000 0
+A
+17 -1
+#10379
+gold key skeleton~
+a skeleton key made of pure gold~
+A gold key lies on the ground.~
+~
+18 33 16385 0
+0 0 0
+0 0 0 0
+2 0 0
+#10380
+ultimate nullifier null ~
+the Ultimate Nullifier~
+A Very, Very Powerful weapon is left on the ground!~
+~
+5 9058304 8193 0
+0 0 0
+0 9 3 12
+25 1000000 0
+A
+18 3
+A
+17 3
+#10381
+surfboard surf board silver surfer~
+a silver surfboard~
+Someone left a silver surfboard on the ground.~
+~
+9 9075721 65 0
+0 0 0
+5 0 0 0
+18 100000 0
+A
+18 3
+A
+12 -10
+#10382
+pumpkin bomb hobgoblin~
+a pumpkin bomb~
+A weird looking pumpkin is left on the ground.~
+~
+1 9089025 16385 0
+0 0 0
+0 0 -1 0
+13 25000 0
+A
+18 2
+A
+14 4
+#10383
+.38 caliber pistol gun shotgun punisher's~
+a .38 caliber pistol~
+Someone left a gun on the floor.~
+~
+5 8942592 8193 0
+0 0 0
+0 5 5 7
+13 21000 0
+A
+18 1
+#10384
+greaves kevlar armor punisher's leg~
+Punisher's leg armor~
+A pair of greaves is left lying on the ground.~
+~
+9 8942592 33 0
+0 0 0
+5 0 0 0
+13 40000 0
+A
+18 1
+A
+17 1
+#10385
+mole man spectacles glasses eyewear head~
+Mole Man's spectacles~
+A pair of strange glasses lies on the ground.~
+~
+9 967232 17 0
+0 0 0
+2 0 0 0
+10 30000 0
+A
+13 2
+A
+14 -1
+#10386
+cosmic cube watcher's~
+a cosmic cube~
+A weird looking cube lies on the ground.~
+~
+1 966723 16385 0
+0 0 0
+6 0 -1 0
+15 80000 0
+A
+13 5
+#10387
+blood bloody mask red bloody-red skull~
+a bloody-red skull mask~
+A red skull mask is left on the floor.~
+~
+9 8548864 17 0
+0 0 0
+6 0 0 0
+9 40000 0
+A
+18 2
+A
+14 2
+#10388
+cloak dark blood cape body~
+a dark cloak of blood~
+A cloak is lying on the ground.~
+~
+9 442944 5 0
+0 0 0
+2 0 0 0
+8 20000 0
+A
+10 10
+#10389
+mask spider-man's face webbed headgear~
+Spider-Man's mask~
+A strange-looking mask lies on the ground.~
+~
+9 9073664 17 0
+0 0 0
+6 0 0 0
+10 50000 0
+A
+18 2
+A
+17 2
+#10390
+kevlar vest punisher's punisher bodyarmor armor~
+Punisher's kevlar vest~
+A vest with a large skull in the center is left on the ground.~
+~
+9 9073664 9 0
+0 0 0
+12 0 0 0
+18 55000 0
+A
+18 2
+#10391
+mystical belt waist spiral's spiral~
+a mystical belt~
+Someone left a belt on the ground.~
+~
+9 313408 2049 0
+0 0 0
+2 0 0 0
+10 30000 0
+A
+13 1
+#10392
+mystique's gloves glove ~
+Mystique's gloves~
+A pair of gloves is left on the floor.~
+~
+9 966720 129 0
+0 0 0
+2 0 0 0
+11 35000 0
+A
+13 1
+A
+14 -1
+#10393
+magic boots pair boot shoes shoe~
+a pair of magic boots~
+A pair of boots is left lying on the ground.~
+~
+9 967744 65 0
+0 0 0
+4 0 0 0
+13 31000 0
+A
+10 10
+#10394
+sword courage balder brave~
+a sword of courage~
+A long sword is left on the ground.~
+~
+5 8942592 8193 0
+0 0 0
+0 4 6 3
+13 29000 0
+A
+18 1
+#10395
+anti-gravity glider bat anti gravity~
+an anti-gravity bat glider~
+A weird-looking thingy lies on the ground.~
+~
+9 8400896 65 0
+0 0 0
+5 0 0 0
+13 30000 0
+A
+18 1
+A
+14 1
+#10396
+gloves glove plasma-charged plasma charged ~
+a pair of plasma-charged gloves~
+A pair of gloves lies on the ground.~
+~
+9 8926208 129 0
+0 0 0
+4 0 0 0
+12 20000 0
+A
+14 5
+#10397
+sai silver elektra's elektra~
+a silver sai~
+Someone left a sai lying on the ground.~
+~
+5 8400896 24577 0
+0 0 0
+0 5 4 11
+11 21000 0
+A
+22 2
+#10398
+beta ray bill's hammer bill~
+Beta Ray Bill's hammer~
+A hammer is left on the ground.~
+~
+5 8941570 8193 0
+0 0 0
+0 4 6 7
+13 34000 0
+A
+18 1
+A
+22 2
+#10399
+skeleton bracelet wrist vengeance's~
+a skeleton bracelet~
+A bracelet made of bones is left on the ground.~
+~
+9 311296 4097 0
+0 0 0
+4 0 0 0
+10 20000 0
+A
+3 1
+A
+4 1
+#10400
+cosmic rod annihilus'~
+a cosmic rod~
+A large rod is left on the ground.~
+~
+11 311296 5 0
+0 0 0
+0 0 0 0
+11 20000 0
+A
+4 2
+A
+3 1
+#10401
+adamantium greaves leggings leg guards~
+a pair of adamantium greaves~
+A pair of greaves is left on the ground.~
+~
+9 8402945 33 0
+0 0 0
+6 0 0 0
+13 40000 0
+A
+18 1
+A
+14 -3
+#10402
+scroll armor~
+a scroll of armor~
+Someone left a scroll on the ground.~
+~
+2 0 16385 0
+0 0 0
+40 1 0 0
+4 10000 0
+#10403
+big bad shoes boots boot shoe~
+a pair of big, bad boots~
+A pair of boots is left on the floor.~
+~
+9 1024 65 0
+0 0 0
+3 0 0 0
+12 20000 0
+A
+1 2
+#10404
+darkhold dark hold book spellbook spell~
+a book called "Darkhold"~
+Someone left a book on the ground.~
+~
+9 967169 16385 0
+0 0 0
+7 0 0 0
+13 40000 0
+A
+13 4
+#10405
+asgardian shield ~
+an Asgardian shield~
+A shield is left on the ground.~
+~
+9 8400896 513 0
+0 0 0
+3 0 0 0
+8 9000 0
+A
+14 1
+#10406
+trench coat dark nomad's~
+a dark trench coat~
+A trench is here, lying on the ground.~
+~
+9 0 1033 0
+0 0 0
+3 5 5 0
+13 13000 0
+A
+5 1
+#10407
+enchanted gloves glove dormammu's~
+Dormammu's enchanted gloves~
+A pair of gloves is lying on the ground.~
+~
+9 968769 129 0
+0 0 0
+4 5 5 0
+10 40000 0
+A
+13 2
+#10408
+armor galactus unknown strength powerful bodyarmor~
+an armor of unknown strength~
+A powerful armor lies on the ground!~
+~
+9 0 9 0
+0 0 0
+17 0 0 0
+22 30000 0
+A
+1 3
+#10409
+ring odin's might~
+Odin's ring of might~
+A powerful-looking ring lies on the ground.~
+~
+9 8926240 3 0
+0 0 0
+5 0 0 0
+10 30000 0
+A
+18 2
+A
+17 -1
+#10410
+hat bag pouch magic container~
+a magic top-hat~
+A top-hat lies on the ground.~
+~
+15 2 17 0
+0 0 0
+400 0 0 0
+5 12000 0
+#10411
+backpack journeyman's pockets pocket pouches pouch~
+a journeyman's backpack~
+A backpack with many pouches is left on the ground.~
+~
+15 0 2049 0
+0 0 0
+450 0 0 0
+10 12000 0
+#10412
+man sabretooth's mane~
+Sabretooth's mane~
+A large ball of hair lies on the ground.~
+~
+11 9058304 5 0
+0 0 0
+0 0 0 0
+13 50000 0
+A
+18 2
+A
+17 -2
+A
+16 -4
+#10413
+key captain america's office~
+a key to Captain America's office~
+A key lies on the ground.~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#10414
+sign marvel universe board warning~
+a sign~
+* Bloodseeker says, 'Read this SIGN before you go any further!' *~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign board welcome~
+                 Welcome to the Marvel Universe!!!!
+
+     Before you go any further from this point, here are some warnings:
+
+     *  If you're level 1-40, don't enter unless you have a group who
+        can kick butt.
+     *  If you're level 41-50, you MAY be able to solo a few lowly mobs
+        by yourself...
+
+     The best way to beat all high mobs is to form a "super-power" 
+     group!  Also make a map if you have to -- some areas in this zone
+     are very tricky and it's easy to get lost.  And here's another
+     advice, you may want to "consider" your opponent before you hit him.
+     (A smart player would buy identify scrolls to id his target instead
+     of using the "consider" function.  *that's why there's a magic shop
+     on Marvel Main Street.)
+
+     If there are any irregularities or bugs in this zone, please notify
+     an immort.
+
+     This zone was brought to you by Bloodseeker the Iron Marshal :)
+~
+#10415
+icy armplates armguards arm-guards ice-hard ice hard~
+Ice-hard armplates~
+Something is melting on the ground...~
+~
+9 836673 257 0
+0 0 0
+2 0 0 0
+14 50000 0
+A
+13 2
+#10416
+shield captain america~
+Captain America's shield~
+A shield with a star and red stripes is lying on the floor.~
+~
+9 311554 513 0
+0 0 0
+-11 0 0 0
+20 150000 0
+A
+18 -3
+A
+17 -2
+#10499
+magic scroll~
+a magic scroll~
+Aa magic scroll lies here...~
+~
+13 0 8193 0
+0 0 0
+10 1 36 39
+1 100 0
+$

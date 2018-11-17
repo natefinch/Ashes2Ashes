@@ -1,0 +1,256 @@
+#2900
+griswold blacksmith griswoldthemob~
+Griswold the blacksmith~
+Griswold the blacksmith is here showing off his wares.
+~
+This huge man in a sooty leather apron crosses his arms over his chest and
+regards you cooly.  He is the Blacksmith of Tristram and will sell you all of
+your weapon and armor needs. He sells the basic things, without their
+'extra's' and also sells some magical items, it will cost you though.
+~
+8290315 1024 0 W3
+200 0 -100 0d0+30000 0d0+0
+0 0
+8 8 1
+13 0 13 13 25 13 13
+0 2 0
+-1000 0 0 1000 200 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2901
+pepin healer~
+Pepin the healer~
+Pepin the healer is here ready to help the injured.
+~
+Pepin is an old, kind priest dressed in a long white robe.  His balding head
+shines in the sun as he smiles at you.  He will heal you for free if you just
+say the word "heal".  He also sells potions of healing, a must for any foray
+into the underworld.
+~
+8290314 1032 0 W3
+200 0 -100 0d0+30000 0d0+0
+0 0
+8 8 1
+13 0 13 13 25 13 13
+0 2 0
+-1000 0 0 1000 200 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2902
+adria witch woman adriathemob~
+Adria the witch~
+Adria the witch is here, displaying her magical inventory.
+~
+Adria wears a long black dress, her dark eyes are outlined by long dark hair.
+This woman arrived soon after the dissapearance of Prince Albrecht, and set a
+camp in the south west corner of town in less than a night. She deals in the
+mystical potions and spells of the East, as well as being able to recharge
+and refill your staves.
+~
+8290315 1032 0 W3
+200 0 -100 0d0+30000 0d0+0
+0 0
+8 8 2
+13 0 13 13 25 13 13
+0 2 0
+-1000 0 0 1000 200 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2903
+wirt peg-legged boy wirtthemob~
+Wirt the peg-legged boy~
+Wirt the peg-legged boy is here sitting under a tree.
+~
+Wirt was taken away into the Dungeon when he was younger, and what the demons
+did to him cost him his leg. Now he sits secluded from the rest of the town,
+and finding unique and special items to sell you. He has some plan to get
+away from the village with all of that money... He talks of Gillian being
+with him.
+~
+8290314 1024 0 W3
+200 0 -100 0d0+30000 0d0+0
+0 0
+8 8 1
+13 0 13 13 25 13 13
+0 2 0
+-1000 0 0 1000 200 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2904
+cain elder~
+Cain the elder~
+Cain the elder is standing next to the fountain.
+~
+Cain wears a long blue robe and a strange red cap signifying his standing in
+the town.  He is perhaps the wisest man in the realms. For a mere 100 coins
+he will identify an item for you.
+~
+8290314 1032 0 W3
+200 0 -100 0d0+30000 0d0+0
+0 0
+8 8 1
+13 0 13 13 25 13 13
+0 2 0
+-1000 0 0 1000 200 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2905
+furnham drunk~
+Furnham the drunk~
+Furnham the drunk is sitting on the ground talking to himself.
+~
+This man has been ravaged by the demons of the underworld ten-fold, and
+constantly has nightmares about his experiences. He drinks the ale to soothe
+his soul, but it does not do much help. He can tell you, if you understand,
+some odd things about the Underworld and its creatures.
+~
+8290314 0 0 W3
+200 0 -100 0d0+30000 0d0+0
+0 0
+8 8 1
+13 0 13 13 25 13 13
+0 2 0
+-1000 0 0 1000 200 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2906
+ogden tavern owner~
+Ogden the tavern owner~
+Ogden the tavern owner looks overjoyed to see you.
+~
+This man is wearing plain brown clothes, his hair cropped short. Though you
+can tell from the stains on his clothing that he works at a tavern, he looks
+kind and knowledgeable.  As he notices you, he regales you with tales from
+the underworld, speaking of strange monsters and great treasure.
+~
+8290314 0 0 W3
+200 0 -100 0d0+30000 0d0+0
+0 0
+8 8 1
+13 0 13 13 25 13 13
+0 2 0
+-1000 0 0 1000 200 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2907
+Gillian barmaid~
+Gillian the barmaid~
+Gillian the barmaid is here spreading the gossip.
+~
+This attractive looking woman draws your eye, her red blouse and blue skirt
+showing off her shapely form.  As you walk closer she smiles and offers you a
+drink.  The bar looks well kept and the place is cleaner than almost any
+other you've been in.  Certainly this woman takes pride in her work.  You
+hear her talking to another woman at the bar, passing along the local gossip.
+~
+8290314 0 0 W3
+200 0 -100 0d0+30000 0d0+0
+0 0
+8 8 2
+13 0 13 13 25 13 13
+0 2 0
+-1000 0 0 1000 200 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2908
+doorstop~
+Doorstop (Adria)~
+Adria's doorstop is here loading stuff for her.
+~
+~
+8388618 0 0 W3
+0 0 10 0d0+1 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2909
+wirtdoorstop doorstop~
+Doorstop(Wirt)~
+Wirt's doorstop is here loading stuff for him.
+~
+~
+8388618 0 0 W3
+0 0 10 0d0+1 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2910
+doorstop~
+Doorstop (Griswold)~
+Wirt's doorstop is here loading stuff for him.
+~
+~
+8388618 0 0 W3
+0 0 10 0d0+1 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2911
+Da item guy daitemguy~
+Da item guy~
+Da item guy is here passing out stuff to any mob that asks.
+~
+~
+8388618 0 0 W3
+0 0 10 0d0+1 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2940
+auctioneer~
+the Auctioneer~
+The Auctioneer is here.
+~
+~
+8 0 0 W3
+5 0 10 0d0+1 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+$

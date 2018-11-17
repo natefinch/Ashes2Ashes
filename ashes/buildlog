@@ -1,0 +1,80 @@
+autoscript starting game Sun Apr  4 15:58:17 CDT 1999
+Sun Apr  4 15:58:18 :: Restricting game -- no new players allowed.
+Sun Apr  4 15:58:18 :: Using builder as data directory.
+Sun Apr  4 15:58:18 :: Running game on port 3210.
+Sun Apr  4 15:58:18 :: Finding player limit.
+Sun Apr  4 15:58:18 :: Setting player limit to 60 using rlimit.
+Sun Apr  4 15:58:18 :: Opening mother connection.
+Sun Apr  4 15:58:18 :: Boot db -- BEGIN.
+Sun Apr  4 15:58:18 :: Resetting the game time:
+Sun Apr  4 15:58:18 ::    Current Gametime: 18H 3D 14M 254Y.
+Sun Apr  4 15:58:18 :: Initializing character classes.
+Sun Apr  4 15:58:18 :: Reading greetings, news, credits, help, bground, info & motds.
+Sun Apr  4 15:58:18 :: Loading zone table.
+Sun Apr  4 15:58:18 :: Loading rooms.
+Sun Apr  4 15:58:18 :: Renumbering rooms.
+Sun Apr  4 15:58:18 :: Checking start rooms.
+Sun Apr  4 15:58:18 :: Loading mobs and generating index.
+Sun Apr  4 15:58:18 :: Loading mobprogs.
+Sun Apr  4 15:58:18 :: Loading objs and generating index.
+Sun Apr  4 15:58:18 :: Renumbering zone table.
+Sun Apr  4 15:58:18 :: Loading shops.
+Sun Apr  4 15:58:18 :: Loading help entries.
+Sun Apr  4 15:58:18 :: Generating player index.
+Sun Apr  4 15:58:18 ::    69 players in database.
+Sun Apr  4 15:58:18 :: Loading fight messages.
+Sun Apr  4 15:58:18 :: Loading social messages.
+Sun Apr  4 15:58:18 :: Assigning function pointers:
+Sun Apr  4 15:58:18 ::    Mobiles.
+Sun Apr  4 15:58:18 ::    Shopkeepers.
+Sun Apr  4 15:58:18 ::    Objects.
+Sun Apr  4 15:58:18 ::    Rooms.
+Sun Apr  4 15:58:18 ::    Spells.
+Sun Apr  4 15:58:18 :: Assigning spell and skill levels.
+Sun Apr  4 15:58:18 :: Sorting command list and spells.
+Sun Apr  4 15:58:18 :: Booting mail system.
+Sun Apr  4 15:58:18 ::    0 bytes read.
+Sun Apr  4 15:58:18 ::    Mail file read -- 0 messages.
+Sun Apr  4 15:58:18 :: Reading banned site and invalid-name list.
+Sun Apr  4 15:58:18 :: Initializing virtual channels.
+Sun Apr  4 15:58:18 :: Deleting timed-out rent files:
+Sun Apr  4 15:58:18 :: Done.
+Sun Apr  4 15:58:18 :: Reading object update list.
+Sun Apr  4 15:58:18 :: Scanning for duped items and dupe-marking reimb files.
+Sun Apr  4 15:58:18 :: Rent check done
+Sun Apr  4 15:58:18 :: Reimb mark done
+Sun Apr  4 15:58:18 :: Checking arena.
+Sun Apr  4 15:58:18 :: Non-existant arena zone: arena disabled.
+Sun Apr  4 15:58:18 :: Resetting Limbo (rooms 0-199).
+Sun Apr  4 15:58:18 :: Resetting midgaard breather (rooms 800-899).
+Sun Apr  4 15:58:18 :: Resetting God Rooms (rooms 1200-1299).
+Sun Apr  4 15:58:18 :: Resetting Northern Midgaard Main City (rooms 2950-3099).
+Sun Apr  4 15:58:18 :: Resetting Southern part of Midgaard (rooms 3100-3199).
+Sun Apr  4 15:58:18 :: Resetting Great Temple of Asgaard and River (rooms 3200-3299).
+Sun Apr  4 15:58:18 :: Resetting Haon-Dor (Light) (rooms 6000-6099).
+Sun Apr  4 15:58:18 :: Resetting Sewer (rooms 7000-7099).
+Sun Apr  4 15:58:18 :: Resetting Redferne's Residence (rooms 7900-7999).
+Sun Apr  4 15:58:18 :: Resetting Ancalador (rooms 10500-10599).
+Sun Apr  4 15:58:18 :: Resetting The Haunted Castle (rooms 11500-11599).
+Sun Apr  4 15:58:18 :: Resetting Rome (rooms 12000-12099).
+Sun Apr  4 15:58:18 :: Resetting Star Wars (rooms 24500-24699).
+Sun Apr  4 15:58:18 :: Boot db -- DONE.
+Sun Apr  4 15:58:18 :: Signal trapping.
+Sun Apr  4 15:58:18 :: Entering game loop.
+Sun Apr  4 15:58:18 :: No connections.  Going to sleep.
+Sun Apr  4 15:58:19 :: New connection.  Waking up.
+Sun Apr  4 15:58:21 :: Sarnoth [136.165.080.001] has connected.
+Sun Apr  4 15:58:22 :: Sarnoth retrieving crash-saved items and entering game.
+Sun Apr  4 15:58:29 :: the ranger's guild guard (#6097): Attempting to call non-existing mob func
+Sun Apr  4 15:58:37 :: Sarnoth has quit the game.
+Sun Apr  4 15:58:38 :: Losing player: Sarnoth.
+Sun Apr  4 15:58:38 :: No connections.  Going to sleep.
+Sun Apr 25 12:03:01 :: New connection.  Waking up.
+Sun Apr 25 12:03:04 :: Sarnoth [136.165.080.051] has connected.
+Sun Apr 25 12:03:05 :: Sarnoth un-renting and entering game.
+Sun Apr 25 12:03:08 :: Sarnoth has quit the game.
+Sun Apr 25 12:03:09 :: Losing player: Sarnoth.
+Sun Apr 25 12:03:09 :: No connections.  Going to sleep.
+Sun Apr 25 14:58:48 :: New connection.  Waking up.
+Sun Apr 25 14:58:49 :: Losing player: <null>.
+Sun Apr 25 14:58:49 :: No connections.  Going to sleep.

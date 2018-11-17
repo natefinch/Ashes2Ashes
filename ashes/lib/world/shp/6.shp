@@ -1,0 +1,445 @@
+CircleMUD v3.0 Shop File~
+#0~
+646
+647
+648
+649
+681
+-1
+1.1 
+0.5 
+-1
+%s I'm sorry, but I seem to be out of that right now, try again later.~
+%s Did you really think that I would fall for that? Try again.~
+%s I'm sorry, I don't buy things like that. Perhaps you should try 
+Derrick's Pawn.~
+%s I'm running a little short on funds this week. Perhaps you should try 
+Derrick's pawn shop.~~
+%s It seems that the price is just a little out of your range.~
+%s What a perfect choice, that will be %d coins, please.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+609 
+0 
+699 
+-1
+0 
+28 
+0 
+0 
+#1~
+626
+651
+652
+653
+654
+-1
+1.2 
+0.5 
+-1
+%s Ah, I know i had one of those yesterday. Seems I sold the last one 
+though.~
+%s Ummmm, you don't seem to be carrying that right now. And i must 
+appraise it before i can buy it.~
+%s Sorry, but I only buy very rare items here. Try Derrick's pawn shop.~
+%s That treasure is far to expensive for my tastes, perhaps Derrick would 
+be interested.~
+%s You don't seem to be able to cover the bill. Please vacate my 
+establishment.~
+%s Ahhhh, what a beautiful choice. I'll just need %d coins first.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+618 
+0 
+618 
+-1
+0 
+28 
+0 
+0 
+#2~
+602
+603
+619
+620
+688
+-1
+1.1 
+0.5 
+-1
+%s I ain't seem to got one of them buddy.~
+%s You ain't got that, ya moron!~
+%s This is a respectable store. I don't buy that kind of crap!~
+%s Ain't got that much on me, try someplace else.~
+%s If you ain't gonna pay, then get the hell outta my shop!~
+%s Heh, that'll be %d coins ya sucker.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+620 
+0 
+620 
+-1
+5 
+29 
+0 
+0 
+#3~
+628
+630
+631
+632
+687
+-1
+1.1 
+0.5 
+-1
+%s Dem's pretty goot stuf, but ain't nobody seen none of dem for 'bout  
+tree monts or so.~~
+%s You ain't seem to got one of dem little critters pal.~
+%s Sorry pal, but me don't buy nothing like that, try Derrick, down de 
+street.~
+%s Whoa man, runnin short in da wallet today, try me again 'morrow.~
+%s You ain't got enuff ta cover the tab fella, what's da prob?~
+%s Der ya go, I'll just be takin %d coins for that fine fish.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+625 
+0 
+625 
+-1
+0 
+28 
+0 
+0 
+#4~
+609
+627
+650
+658
+689
+-1
+1.1 
+0.5 
+-1
+%s Ok buddy, think it's time for you to go. Your so drunk you're seeing 
+things!~
+%s Trying to seel me a hallucination is not gonna work pal.~
+%s Sorry mac, i don't buy stuff like that. Try Derrick's Pawn up the road.~
+%s Man, I would love to pick one of thoose up, but I'm running low on 
+cash today. Sorry.~
+%s What! You can't cover the tab! YO VINNIE! Throw this guy out!~
+%s There ya go. That'll be %d coins. And leave a little something for the 
+waitress.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+627 
+0 
+627 
+-1
+0 
+28 
+0 
+0 
+#5~
+607
+608
+612
+613
+614
+-1
+1.1 
+0.5 
+-1
+%s Sorry sir, but I don't carry anything like that.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s What?! You can't afford my wares! Leave the theater at once.~
+%s Very good choice, sir. That'll be %d coins please.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+658 
+0 
+658 
+-1
+0 
+28 
+0 
+0 
+#6~
+633
+634
+635
+636
+637
+-1
+1.1 
+0.5 
+-1
+%s My good man, there's nothing like that on the menu for today. Perhaps 
+you would like to try one of our specials?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You cannot pay your tab? Out of my restaurant at once!~
+%s Nice choice, sir. That'll be %d coins. And here is your meal.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+622 
+0 
+643 
+-1
+0 
+28 
+0 
+0 
+#7~
+638
+639
+641
+642
+643
+-1
+1.1 
+0.5 
+-1
+%s Do to a shortage in the market, I haven't carried one of those in 
+about two months, perhaps something else?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You cannot afford my precious clothing, scoundrel. Leave!~
+%s What an attractive choice. That will be %d coins, sir.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+621 
+0 
+642 
+-1
+0 
+28 
+0 
+0 
+#8~
+682
+683
+684
+685
+686
+-1
+1.1 
+0.5 
+-1
+%s Sorry sonny, but I ain't got anything like that today.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s Can't even afford a paper? Jeez you must be hard up for cash.~
+%s There ya go, that'll be %d coins for the news.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+649 
+0 
+649 
+-1
+0 
+28 
+0 
+0 
+#9~
+622
+623
+624
+-1
+1.1 
+0.5 
+-1
+%s Sorry, but we are out of that flavor today, perhaps something else?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You don't seem to be able to afford that...perhaps something less 
+expensive?~~
+%s Very nice choice, I'll just need %d coins from you.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+680 
+0 
+680 
+-1
+0 
+28 
+0 
+0 
+#10~
+605
+615
+616
+617
+618
+-1
+1.1 
+0.5 
+-1
+%s Nothing like in the shop today, perhaps i can interest you in 
+something else?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You can't afford that! Get out of my shop.~
+%s Very well, I'll just need %d coins for that piece.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+624 
+0 
+684 
+-1
+0 
+28 
+0 
+0 
+#11~
+-1
+720.0 
+1.0 
+1.00
+-1
+0
+%s Sorry, but I don't have any tickets to that destination.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s Without the fare, I can't allow you to have a ticket. Sorry sir.~
+%s That will be %d coins for your fare. Thank you and have a nice day.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+723 
+0 
+702 
+-1
+0 
+28 
+0 
+0 
+#12~
+724
+725
+726
+727
+728
+-1
+1.1 
+0.5 
+-1
+%s Nothing like that on the menu today, try something else?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You can't afford THAT, try something a little cheaper.~
+%s I'll just need %d coins...ahh there you go.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+751 
+0 
+709 
+-1
+0 
+28 
+0 
+0 
+#13~
+715
+716
+717
+718
+719
+-1
+1.1 
+0.5 
+-1
+%s I only sell the freshest fruits, care to look at the list?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s That's way out of your budget, try something less expensive.~
+%s What a tasty choice. I'll just need %d coins for that.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+724 
+0 
+739 
+-1
+0 
+28 
+0 
+0 
+#14~
+728
+726
+714
+729
+-1
+1.1 
+0.5 
+-1
+%s Hey mate, if you ain't bright enough to choose something in the store, 
+perhaps you should do a nose dive off a tall building, know what I mean?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s Yo mate, without the money, you don't get the stuff, understand?~
+%s Pleasure dealing with ya. That'll be %d coins please.~
+%s BUG - %d coins - please report to an immortal.~
+0 
+0 
+725 
+0 
+758 
+-1
+0 
+28 
+0 
+0 
+#15~
+-1
+1.25 
+0.75 
+4
+5
+9
+8
+11
+-1
+%s Sorry friend, but I don't have anything like that on storage right 
+now, perhaps next time I might.~~
+%s Hey! What do you take me for? Try selling something you have!~
+%s Sorry, but that's not worth even looking at, try someplace else.~
+%s I'd love to deal bud, but I'm running short this week, maybe next time.~
+%s You ain't got the cash for the deal. Beat it!~
+%s Been a pleasure helpin' ya out friend. That'll be %d coins.~
+%s Thanks for the stuff. Here's you %d coins for the deal.~
+0 
+0 
+634 
+0 
+692 
+-1
+0 
+28 
+0 
+0 
+$~

@@ -1,0 +1,879 @@
+#700
+Billy Bully~
+Billy the Bully~
+Billy is here trying to get money off of the other kids.
+~
+Billy is a heafty boy for his age.  He looks to be about 10 years old.
+Billy looks at you with a smirk on his face.
+~
+12 262144 -200 W
+5 5 7 5d4+5 2d3+3
+50 800
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+70 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#701
+Shadow dog German Shepherd black~
+Shadow~
+Shadow is lying here wagging her tail.
+~
+Shadow is a black German Shepherd.  There is a tuft of white on her
+chest and at the tip of her tail.  Her legs have a bit of tan on them
+also. She has a chain collar around her neck.
+~
+6154 0 600 W
+6 5 5 10d5+10 2d4+2
+0 1900
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#702
+Al scarface Capone~
+Al "Scar-face" Capone~
+Scar-face is lying in the bed here.
+~
+Al is five foot ten inches tall and weighs 255 pounds.  He has a scar
+under his left eye when he was slashed there.  His whole face is covered
+with talcom powder to hide that scar.~
+10 128 -700 W
+127 40 -100 100d100+1000 100d100+12
+40000 156000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#703
+Jack Diebold John~
+Jack Diebold~
+Jack Diebold is here playing with Shadow.
+~
+Jack looks to be about 9 years old.  He has short dark brown hair
+and blue eyes.  Jack is a VERY cute kid.
+~
+10 0 700 W
+4 3 6 8d5+5 2d3+2
+40 700
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#704
+elephant~
+African Elephant~
+A large grey creature with two big teeth and a long nose stands here.
+~
+This creature is a very huge, thick-skinned mammal.  It has a long, 
+flexible nose and two white teeth.~
+26696 0 0 W
+25 13 -14 10d7+150 7d6+9
+0 43500
+8 8 0
+18 90 13 13 10 16 0
+0 4 0
+-140 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#705
+lion~
+Large Lion~
+A large golden color cat is here.
+~
+This creature is a large, powerful cat.  It has gold fur and sharp
+claws.~
+16488 262176 200 W
+25 14 -9 7d3+90 4d4+8
+0 43500
+8 8 0
+15 0 13 13 18 13 0
+0 3 0
+-90 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 10
+#706
+tiger striped cat~
+Large Tiger~
+A large cat with black stripes is here.
+~
+This large cat, has a tawny coat.  The coat has black stripes running
+down the cat.~
+16488 786464 200 W
+21 13 -2 2d3+60 2d2+7
+0 33500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-20 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 10
+#707
+rhino rhinoceros~
+Rhinoceros~
+A large grey creature with two horns on its head is here.
+~
+This creature has grey, think skin.  On its snout are two upright horns.
+The horns look rather deadly.
+~
+24681 0 0 W
+20 10 -5 15d40+50 5d3+10
+0 31000
+8 8 0
+18 0 13 13 12 13 0
+17 3 3
+-50 0 2 0 0
+50 50 50 50 50
+16 0 0
+6 10
+#708
+dog wolf~
+Wolf Pack~
+A larger than normal, grey dog is here watching you.
+~
+This wild creature, is a doglike mammal.  The coat of this animal is 
+grey.
+~
+22632 32 -50 W
+12 8 1 2d3+90 3d2+2
+0 11000
+8 8 0
+13 0 13 13 14 13 0
+0 2 0
+10 0 6 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#709
+porcupine ~
+Porcupines~
+A little rodent with needles on it is here.
+~
+This little rodent has coarse hair mixed in with long, stiff, sharp
+spines or needles.  I would watch out, because they use the spines
+or needles for defense.
+~
+8392 0 0 W
+7 5 3 2d3+90 3d3+2
+0 3000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+30 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#710
+giraffe longneck~
+the Giraffes~
+A creature with a long neck stands here.
+~
+This creature has a long neck and long legs.  It has large tan spots
+all over it's body.
+~
+2120 0 50 W
+18 13 1 3d4+240 4d3+2
+0 26000
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+10 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#711
+camel hump~
+Camel~
+An animal with two humps on its back is here.
+~
+This large animal has two humps on the spine of its back.  It has a
+long neck like the giraffe.  Its fur is a brownish color.
+~
+18504 0 0 W
+15 8 3 12d2+270 4d6+3
+0 18500
+8 8 0
+13 0 13 13 10 15 0
+0 3 0
+30 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#712
+panda bear~
+Panda Bear~
+A bear with black and white fur is here.
+~
+This bear has black and white fur.  It looks like a bear but smaller
+than normal brown bears.
+~
+26952 32 0 W
+15 11 3 6d4+210 3d3+1
+0 18500
+8 8 0
+15 0 13 13 13 13 0
+0 2 0
+30 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#713
+sloth slow~
+Sloth~
+An animal who hangs in the tree is here.
+~
+This slow moving creature has three toes.  It hangs in the tree with
+its back to the ground.  As you look at this thing, you haven't seen
+it move for about 15 minutes!
+~
+74 0 0 W
+2 1 11 2d4+20 2d2+3
+0 200
+8 8 0
+13 0 13 13 4 13 0
+0 1 0
+110 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#714
+snake ~
+Snake~
+A long scaly thing with no legs slithers here.
+~
+This slithering creature is a long, limbless reptile.  It also has a
+tapering tail.
+~
+16457 40 0 W
+13 10 -6 5d3+120 3d3+2
+0 13500
+8 8 0
+13 0 13 13 13 13 0
+6 1 0
+-60 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#715
+monkey~
+Monkey~
+An animal resembling a human plays in the trees here.
+~
+This primate has a flat, hairless face and a long tail.  As you 
+watch it, you see it use its tail to swing in the tree.
+~
+16525 524288 0 W
+5 5 8 3d3+50 2d2+4
+0 900
+8 8 0
+13 0 13 13 13 13 0
+18 1 0
+80 0 4 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#716
+polar bear~
+Polar Bear~
+A large, hairy, white beast is here playing in the pool.
+~
+This is a very large white bear.  It has sharp claws.
+If I were you, I would stay a way from it!
+~
+16424 32 0 W
+20 15 -3 4d4+360 4d5+5
+0 31000
+8 8 0
+15 0 13 13 13 15 0
+0 3 0
+-30 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 10
+#717
+zookeeper~
+the Zookeeper~
+The man who seems to be the keeper of the zoo is here.
+~
+He is about 30 years old, 5'7", and very well built for his age. 
+He has short black hair and brown eyes.  He gives you a smile as
+he whistles a tune.
+~
+26700 0 100 W
+18 14 3 6d5+250 4d4+5
+720 26000
+8 8 1
+14 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#718
+groundskeeper cleaning~
+the groundskeeper~
+A man is here cleaning up the grounds of the zoo.
+~
+This man is about 5'6", skinny, short dark hair and brown eyes.  He
+looks to be in his 20s.  As you look at him, he doesn't seem to notice
+that you are there.
+~
+204 0 -100 W
+12 10 2 6d5+150 3d3+2
+50 0
+8 8 1
+12 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#719
+statue~
+a statue~
+A large stone statue is here.
+~
+This statue looks like an old Egyptian god of sorts.  It has a head
+and a stiff body.  As you look upon it, its gets harder to tell what
+it resembles.
+~
+25674 1152 -100 W
+30 20 -12 5d5+500 7d4+6
+0 31000
+8 8 0
+15 0 13 13 13 13 0
+0 3 0
+-120 0 2 0 0
+25 25 25 25 25
+16 0 0
+6 0
+#720
+mummy mummies~
+a mummy~
+A human-like figure wrapped in rags is here.
+~
+This thing is about 6 foot tall.  It has tired white bandages wrapped
+all around its body.
+~
+8776 160 -150 W
+27 19 -4 5d5+440 3d3+6
+0 48500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#721
+guard man~
+a museum guard~
+A man with a uniform and a club is here.
+~
+This man is a well built male.  He wears a dark blue uniform and
+has a dark blue hat to match.  As you look at him, he eyes you
+suspiciously.
+~
+6154 128 50 W
+25 16 -1 4d4+400 5d5+4
+2000 46000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#722
+guard man~
+a museum guard~
+A man with a uniform and a club walks around here.
+~
+This man is a well built male.  He wears a dark blue uniform and
+has a dark blue hat to match.  As you look at him, he eyes you
+suspiciously.
+~
+72 128 50 W
+25 16 1 4d4+400 5d5+4
+2000 43500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#723
+ticket taker Sara~
+Sara the Ticket Taker~
+Sara is here selling tickets to the museum.
+~
+Sara is about 16 years old.  She has short brown hair and brown eyes.
+She is wearing a brown suit with a nametag on it.
+~
+10 0 40 W
+40 30 4 5d5+800 5d5+10
+5000 81000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#724
+Scott Martin grocier~
+Scott Martin~
+Scott Martin is here selling goods.
+~
+Scott is about 65 years old.  He has white hair and green eyes.
+He has brown pants and a white shirt on.  Over his clothes, he
+has a very dirty brown apron.
+~
+78 128 500 W
+54 40 -15 100d100+5000 7d7+10
+10000 155000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-150 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#725
+clerk ~
+Beach store clerk~
+A beachbum clerk is here dancing to the tunes on the radio.
+~
+This man is about 20 years old.  He is wearing a pair of shorts and
+a T-Shirt.  He has scraggle brown hair and brown eyes.
+~
+206 0 0 W
+20 15 6 5d5+450 6d5+6
+750 13500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#726
+cop police officer~
+Cops~
+A man wearing a badge is here.
+~
+This is a typical cop.  He is wearing a blue suit and blue hats.
+He has a badge that signifies that he is indeed a copper.
+~
+6216 0 750 W
+15 11 -2 4d6+190 5d4+3
+200 7500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#727
+John O'Malley ~
+John O'Malley~
+John O'Malley is here.
+~
+John is aoubt 30 years old.  He is a muscular man, and is about 5'11"
+tall.  He has jet black hair and brown eyes.
+~
+26954 128 550 W
+28 20 -2 5d5+540 3d4+9
+450 18000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#728
+Sergeant Kevin Wick~
+Sergeant Kevin Wick~
+The sergeant, Kevin Wick, is sitting here reading some papers.
+~
+Kevin is about 6'2" tall.  He is muscular, has blonde hair and blue
+eyes.  He has the same blue cop suit, but he has a star by his
+nametag.
+~
+26954 132 1000 W
+27 23 -6 3d4+540 3d4+8
+7000 23500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-60 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#729
+alley cat~
+alley cat~
+A mangy cat paws in the garbage can here.
+~
+This cat is very skinny.  It has dark dirty fur.
+~
+12 0 0 W
+1 1 0 2d1+1 1d1+1
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+0 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#730
+bodyguard Gary O'Niell~
+Capone's bodyguard~
+Capone's bodyguard is standing here looking mean.
+~
+Gary is about 6'3" tall.  He has short brown hair and brown eyes.  He
+is wearing a pin-striped suit.  He looks quite muscular and looks a
+litte funny in the suit.  When you look at him he snarls at you.
+~
+14 128 -1000 W
+50 40 -15 6d5+6000 7d7+9
+10000 45000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-150 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#731
+Gale manager apartment~
+Apt. manager~
+Gale the apartment manager is here reading.
+~
+Gale is about 45 years old.  She has black hair with strands of white
+mixed in.  She is 5'6" tall, and slender.  She looks up from her book
+as you enter the room.
+~
+10 0 0 W
+15 12 4 4d6+200 5d2+2
+100 4500
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#732
+Sally naked woman~
+the naked woman~
+Sally, naked under the sheets, is here.
+~
+Sally is very beautiful.  She has long flowing blonde hair and blue eyes.
+She is thin with white skin.  She looks very tired.
+~
+138 0 0 W
+6 4 7 5d5+90 2d3+1
+0 0
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#733
+Conner teacher school~
+Mrs. Conner the school teacher~
+Mrs. Conner, the school teacher, is here watching the children.
+~
+Mrs. Conner is about 50 years old.  She has white hair and wears a 
+suit with a skirt.  She is about 5 and a half feet tall with brown
+eyes. Her make-up seems to be a lot to you.
+~
+10 0 500 W
+8 6 5 3d3+145 2d3+3
+100 0
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#734
+kid~
+a kid~
+A kid is here playing.
+~
+This kid looks like your normal everyday kid.. DIRTY!  In fact, 
+there's so much dirt on this kid, you're not sure if it's a boy
+or a girl.
+~
+12 0 600 W
+4 3 9 5d5+60 1d2+4
+10 0
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#735
+lifeguard~
+the Lifeguard~
+The lifeguard is here watching over the beach.
+~
+He reminds you of one of those california blond, surfer types.  He's
+just sitting here getting a tan and watching the beauties walk on the
+beach.  
+~
+10 0 0 W
+13 11 9 5d5+155 4d5+1
+0 0
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#736
+drug dealer pusher~
+a drug dealer~
+A drug dealer is here selling his merchandise.
+~
+~
+12 0 0 W
+15 13 -50 5d5+220 3d3+2
+780 0
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-500 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#737
+drunk~
+a drunk~
+A drunk is singing here, off tune, waving his beer bottle.
+~
+He sits on the ground, groggily trying to sing a tune.  As you look at
+him he glances up at you.  "Wa you wan?  Eh?  I ain' go' no broplem."
+He then swigs another drink from his bottle.
+~
+12 0 -20 W
+8 6 7 2d2+160 2d2+3
+10 0
+8 8 1
+13 0 13 13 9 13 0
+0 2 0
+70 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#738
+beach bum ~
+a beach bum~
+A beach bum is here soaking up the rays of the sun.
+~
+He lies here with suntan lotion on his nose, trying to get a tan.
+~
+10 0 10 W
+9 7 9 4d4+160 3d3+4
+0 0
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#739
+priest preacher~
+a Preacher of God~
+A Preacher of God is here trying to make you follow the word of the Lord.
+~
+The preacher thumps the podium and his bible trying to get his point
+across to you and the other members of the congrication.
+~
+2058 128 1000 W
+10 6 7 6d6+40 2d3+2
+20 0
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#740
+parrot bird~
+a parrot~
+A very brightly colored winged bird with feathers is here.
+~
+~
+8 0 0 W
+3 2 9 2d2+10 1d1+1
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+90 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#741
+pigeon bird~
+a pigeon~
+A feathered friend that is gray and white is here.
+~
+~
+8 0 0 W
+1 1 10 2d1+2 1d1+0
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#742
+owl bird~
+an owl~
+A creature of the night is here saying, "Who, Who".
+~
+~
+8 0 0 W
+4 2 7 3d3+20 2d1+1
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+70 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#743
+eagle bird~
+an eagle~
+A big, brown bird with a white head is perched on a branch here.
+~
+~
+2088 0 0 W
+5 4 3 3d3+60 2d2+1
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 10
+#747
+vulture bird~
+a vulture~
+A bird with a crimped neck is perched on a high branch here.
+~
+~
+40 0 0 W
+6 3 3 4d4+75 2d2+2
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+30 0 6 0 0
+85 85 85 85 85
+0 0 0
+6 10
+#748
+flamingo bird~
+a flamingo~
+A pink bird is standing here on one leg.
+~
+~
+8 0 0 W
+2 1 10 2d2+8 1d1+1
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#749
+criminal crook prisoner~
+a criminal~
+A man is here in a black and white striped outfit.
+~
+~
+44 0 0 W
+25 15 -3 5d5+300 4d4+4
+0 0
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 6 0 0
+35 35 35 35 35
+0 0 0
+6 10
+#750
+Doc Angelo ~
+Angelo Vittori~
+Angelo, better known as Doc is here reading a book.
+~
+Doc is about 6 feet tall with black hair.  He has hazel grey eyes.
+He is squarely built and has an olive complexion.  He is wearing a
+nice suit and he has short wavy hair.
+~
+2056 0 0 W
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+17 0 18 14 15 13 0
+0 2 0
+0 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#751
+worker~
+Museum cafe worker~
+A worker for the museum is here waiting your order.
+~
+this man is about 25 years old.  He is wearing pants and a white button
+up shirt.  He has short brown hair and brown eyes.
+~
+206 0 0 W
+20 15 6 5d5+450 6d5+6
+750 13500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+$

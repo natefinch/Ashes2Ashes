@@ -1,0 +1,478 @@
+#13100
+ring~
+a membership ring of the Clan -=<[EXTASY]>=-~
+A membership ring of the Clan -=<[EXTASY]>=- lies here.~
+~
+11 65 3 0
+0 0 0
+0 0 0 0
+0 0 0
+#13101
+liver~
+the Liver of Vicious~
+The Liver of Vicious floats here.~
+~
+11 1 24577 0
+0 0 0
+0 0 0 0
+0 0 0
+#13102
+fountain~
+a fountain~
+A cracked marble fountain is here, and it still functions.~
+~
+23 0 0 0
+0 0 0
+30000 30000 15 1
+30005 0 0
+E
+plaque~
+
+                              Vicious & Mouseglove
+                                 -=<[EXTASY]>=-
+
+~
+E
+fountain~
+ This fountain has withstood the ravages of the holocaust, and still contains
+a liquid, but you don't know if it's safe to drink from or not.  A small 
+plaque is on the base. ~
+#13103
+skull~
+a skull~
+A skull is here, leering at you with its bony grin~
+~
+12 0 17 0
+0 0 0
+0 0 0 0
+1 2 0
+#13104
+moldy taco~
+a moldy taco~
+A moldy taco lies here.  It looks awful!~
+~
+19 1 1 0
+0 0 0
+4 0 0 1
+1 1 0
+#13105
+moldy nachos~
+modly nachos~
+Some moldy nachos sit here.  They smell disgusting!~
+~
+19 1 1 0
+0 0 0
+7 0 0 1
+1 1 0
+#13106
+barrel water~
+an old barrel~
+An old barrel stands here, ravaged by time.~
+~
+17 0 1 0
+0 0 0
+20 20 0 1
+25 0 0
+E
+barrel~
+This is an old, wooden barrel, worn by the ravages of time and the war.
+~
+#13107
+heart~
+a withered heart~
+A dry, withered human hear lies here.~
+~
+10 65 16385 0
+0 0 0
+10 43 0 0
+2 0 0
+E
+heart~
+This withered heart is all that remains of the organs of the body, but it
+seems to have some kind of liquid in it still.....
+~
+#13108
+collar quest fido fido's~
+a fido's quest collar~
+An irradiated fido's quest collar lies here.~
+~
+12 1 16389 0
+0 0 0
+0 0 0 0
+0 1 0
+#13109
+belt sword swordbelt sheath~
+a mercenary's sword belt~
+A mercenaries sword belt lies discarded here.~
+~
+11 0 2049 0
+0 0 0
+0 0 0 0
+0 3 0
+A
+2 1
+A
+3 -1
+#13110
+bread~
+a bread~
+A loaf of bread has been left here.~
+~
+19 0 1 0
+0 0 0
+12 0 0 0
+1 10 10
+#13111
+danish pastry~
+a danish pastry~
+A nice looking delicious danish pastry has been placed here.~
+~
+19 0 1 0
+0 0 0
+5 0 0 0
+1 5 5
+#13112
+sign~
+a faded sign hangs here by a rusted wire.~
+A faded but readable sign hangs here in silent effigy.~
+ HERE LIES MIDGAARD: GRAVEYARD OF FOOLS
+ ======================================
+ At the height of it's power, the Immortals of Midgaard became giddy with
+ their power and began to neglect the safety of the mortals whose worship
+ gave them their power.  The True Gods had chosen to ignore the actions of
+ their underlings, and the nuclear fallout from the teleportation and
+ destruction of monsters and players alike began to poison the mortals who
+ lived here.  In the end, the mortals died of the sickness, pleading to the
+ Gods for assistance, but none came.  And, with their deaths, the immortals
+ lost their powers, and found that they too had become succeptable to the
+ poison they created, and they too died.  This sign should serve as a
+ warning to any who would attempt this again, so speaks Odin this day!
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#13113
+collar flea~
+a flea collar~
+A dirty flea collar lies here.~
+~
+11 0 4101 0
+0 0 0
+0 0 0 0
+3 0 0
+A
+17 2
+A
+16 -3
+#13114
+legbone human spikes spiked bone leg club~
+a spiked bone club~
+You see a human legbone decorated with spikes on one end lying here.~
+~
+5 0 24577 0
+0 0 0
+0 3 3 0
+14 1000 0
+A
+18 1
+A
+17 1
+#13115
+pot cooking old~
+an old cooking pot~
+You see an old cooking pot here, discarded by its former owner.~
+~
+9 0 17 0
+0 0 0
+3 0 0 0
+5 100 0
+A
+12 -5
+A
+18 1
+#13116
+shell carapace~
+a cockroaches carapace~
+An empty bit of carapace-like shell lies here.~
+~
+9 0 1025 0
+0 0 0
+5 0 0 0
+10 200 0
+A
+16 -2
+A
+2 -1
+#13117
+glove cestus spiked leather~
+a spiked leather cestus~
+An old leather glove, pierced with nails lies discarded here.~
+~
+5 0 24577 0
+0 0 0
+0 4 5 6
+0 0 0
+#13135
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#13136
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#13148
+jersey~
+a torn and muddy Miramichi Raider's Jersey~
+Some muddy material lies here.~
+~
+11 136 9 0
+0 0 0
+0 0 0 0
+0 0 0
+#13149
+soul~
+the Soul of Vicious~
+The Soul of Vicious floats here.~
+~
+11 1 16393 0
+0 0 0
+0 0 0 0
+0 0 0
+#13150
+gambit Gambit quarterstaff Quarterstaff broken~
+Gambit's broken quarterstaff~
+Gambit's quarterstaff lies broken on the ground.~
+~
+5 8401923 24577 0
+0 0 0
+0 6 5 7
+0 0 0
+A
+18 -4
+A
+17 -2
+#13151
+vampire lord lords pendant vampiric~
+the Vampire Lords pendant~
+A pendant carved from black stone lies here~
+~
+11 9105409 5 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+11 20
+A
+18 2
+A
+16 -4
+#13152
+vampire lord lords pendant vampiric~
+the Vampire Lords pendant~
+A pendant carved from black stone lies here~
+~
+11 966658 5 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+10 20
+A
+13 3
+A
+16 -4
+#13153
+ring minotaur power ~
+Ring of minotaur power~
+A minotaur's power ring lies here~
+~
+11 8433667 3 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+18 3
+A
+17 3
+#13154
+ring minotaur power~
+Ring of minotaur power~
+A minotaur's power ring lies here~
+~
+11 8400898 3 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+18 2
+A
+17 2
+#13155
+ring minotaur power~
+Ring of minotaur power~
+A minotaur's power ring~
+~
+11 8400897 3 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+18 1
+A
+17 1
+#13156
+soul eric draven~
+Eric Draven's soul~
+Eric Draven's tormented soul hovers in the air~
+~
+1 8435745 16385 0
+0 0 0
+0 0 -1 0
+0 5000 0
+A
+18 3
+A
+5 -3
+#13157
+jupiter jupiters bolt tbolt thunderbolt thunder~
+a silent Thunderbolt~
+A large but silent bolt of thunder is lying on the ground here~
+~
+5 9335811 8193 0
+0 0 0
+0 6 5 7
+18 1000000 100000
+A
+18 -4
+A
+17 -4
+#13158
+titanic legplates leg hercules~
+titanic legplates of Hercules~
+A huge set of legplates is floating just above your head here~
+~
+9 525312 33 0
+0 0 0
+5 0 0 0
+12 50000 2500
+A
+18 3
+A
+1 2
+#13159
+titanic breastplate hercules breast plate~
+titanic breastplate of Hercules~
+A huge breastplate is floating just above your head here~
+~
+9 9188352 9 0
+0 0 0
+10 0 0 0
+0 0 0
+A
+18 3
+A
+16 -3
+#13160
+gold golden arm armlet armlets~
+a beautiful golden armlet~
+An beautifully forged golden armlet lies on the ground here~
+~
+11 8441857 4097 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+18 2
+A
+1 1
+#13161
+gold golden arm armlet armlets~
+a beautiful golden armlet~
+An beautifully forged golden armlet lies on the ground here~
+~
+11 838658 4097 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+10 25
+A
+13 3
+#13162
+glass staff glassstaff~
+Staff of Glass~
+A staff of molten glass lies here.~
+~
+5 9107490 8193 0
+0 0 0
+0 7 4 7
+17 100 0
+A
+18 4
+A
+17 4
+#13163
+molten glass helm helmet~
+a molten glass helmet~
+Some molten glass shaped like a helmet lies here.~
+~
+9 8958976 17 0
+0 0 0
+3 0 0 0
+0 0 0
+A
+2 3
+A
+18 3
+#13166
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#13197
+elle~
+Elle MacPhearson~
+Elle MacPhearson lies here, waiting for you.~
+~
+19 0 1041 0
+0 0 0
+0 0 0 0
+0 0 0
+#13198
+killer~
+Mortal Killer~
+A mort killer lies here.~
+~
+13 0 0 0
+0 0 0
+0 2000 1 11
+0 0 0
+A
+18 50
+A
+17 50
+#13199
+ring~
+a membership ring of the Clan -=<[EXTASY]>=-~
+A membership ring of the Clan -=<[EXTASY]>=- lies here.~
+~
+11 65 3 0
+0 0 0
+0 0 0 0
+0 0 0
+$

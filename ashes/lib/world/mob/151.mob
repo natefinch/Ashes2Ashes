@@ -1,0 +1,1206 @@
+#15100
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#15101
+man male stonedowner~
+a male stonedowner~
+A male stonedowner is standing here smiling.
+~
+Obviously someones husband, and obviously well fed, this man stands about
+6'0" and weighs over 200 lbs, and it looks to be all muscle.  He smiles and
+nod at you as he notices your gaze.
+~
+2057 1056 300 W3
+10 5 5 1d30+229 2d6+0
+1000 18338
+8 8 1
+17 0 13 13 13 17 0
+17 2 0
+50 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#15102
+woman girl female stonedowner~
+a female stonedowner~
+A female stonedowner is sitting nearby.
+~
+Smiling to herself, a female stonedowner is sitting here, glancing at the
+men and children from time to time.  There is a serene inner beauty seen in
+her eyes.  She is truly happy with her life.
+~
+2060 0 300 W3
+8 4 6 1d20+179 2d4+1
+800 14212
+6 6 2
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#15103
+kid child children stonedowner~
+a stonedown child~
+A stonedown child is here, playing.
+~
+ This child is beauty incarnate in a youngster.  Full of life and energy,
+they run from place to place, seeming to ignore fatigue.
+~
+2188 0 300 W3
+4 2 8 1d20+99 1d4+1
+400 8212
+8 8 2
+13 0 13 13 13 13 0
+0 1 0
+80 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15104
+trell stonedowner gravelingas~
+Trell, the stonedown's Gravelingas~
+Trell, the stonedown's Gravelingas, is standing here.
+~
+ Trell, the stonedown's Gravelingas is standing here.  He is a very muscular
+man, and his hands are worn and calloused, but his eyes are kind.  He looks
+like a typical gentle father type, and he smiles at you as you enter.
+~
+10249 4128 500 W3
+12 6 4 1d30+289 3d4+1
+1200 24360
+8 8 1
+16 0 13 13 13 18 0
+19 2 0
+40 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#15105
+atiaran trell-mate stonedowner mate~
+Atiaran Trell-Mate~
+Atiaran Trell-Mate is standing here, cooking for her family.
+~
+ Atiarian Trell-Mate is both wife to the Stonedowns Gravelingas, but mother
+to Lena as well.  She is embroiled in cooking dinner for her family and does
+not see you come in, but you feel if she did, you would be welcomed.
+~
+14349 32 300 W3
+10 5 5 1d20+229 2d6+0
+1000 24450
+8 8 2
+13 0 17 18 13 13 0
+10 2 0
+50 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#15106
+lena girl woman daughter~
+Lena, daugher of Atiaran and Trell~
+Lena, daughter of Atiaran and Trell is sitting here smiling.
+~
+ This young lady is absolutely lovely!  She is, without a doubt, the most
+beautiful woman in the entire stonedown.  As you look at her, you can see
+the resemblence to both Trell and Atiaran, and she smiles and stands to
+greet you as you enter.
+~
+2188 0 300 W3
+9 4 5 1d20+199 2d4+2
+900 3250
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#15107
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#15108
+triock man stonedowner~
+Triock, a stonedowner~
+Triock, betrothed to Lena, is here glowering at you.
+~
+ Triock, son of Thuler is standing here, glowering.  He is engaged to Lena,
+daughter of Trell and Atiaran, and is very possessive of her (as well as a bit
+over protective).  He is very strong, as all stonedown men are, and looks
+easily angered.
+~
+14349 32 0 W3
+11 6 4 1d30+259 3d4+0
+1100 21960
+8 8 1
+17 0 13 13 15 17 0
+17 2 0
+40 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#15109
+man apprentice gravelingas~
+an apprentice gravelingas~
+An apprentice gravelingas is standing here, ready to assist.
+~
+ This young man is an apprentice gravelingas, working with Trell, the master
+gravelingas for the stonedown.  He is very strong and appears rather
+intelligent as well.  He looks eager to learn.
+~
+6285 0 300 W3
+11 5 4 1d20+259 3d4+16
+1100 21560
+8 8 1
+16 0 13 13 13 16 0
+17 2 0
+40 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#15110
+villager man male~
+a male villager~
+A male revelwood villager is standing here.
+~
+ This man who stands before you looks strong and agile.  He looks at you with
+slight suspicion, but offers you a tentative smile regardless.
+~
+2057 8 300 W3
+14 7 3 1d30+349 2d6+3
+1400 29160
+8 8 1
+13 0 13 13 17 13 0
+17 2 0
+30 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#15111
+villager woman female~
+a female villager~
+A female Revelwood villager is standing here.
+~
+ This woman is lithe and spritely, lean and agile looking.  She looks at
+you with a penitrating gaze that makes you feel naked and unsettled.  You
+look away, but not before you notice her slight smile.
+~
+2057 32 300 W3
+12 6 4 1d20+289 3d4+1
+1200 23960
+8 8 2
+13 0 13 13 18 13 0
+19 2 0
+40 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#15112
+villager kid child children~
+a revelwood child~
+A revelwood child is here, looking at you with big eyes.
+~
+This child looks at you with undisguised awe.  You are obviously one of few
+strangers this child has ever seen, and they are rooted to spot where they
+stand, staring at you.  It's almost humorous, in an odd way.
+~
+2184 0 300 W3
+6 3 7 1d20+139 1d6+2
+600 11212
+8 8 2
+13 0 13 13 13 13 0
+0 1 0
+70 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15113
+staff elder staff-elder lillianrill~
+a Staff-Elder~
+The Staff-Elder of the Lillianrill is here, instructing.
+~
+ The Staff-Elder of the Lillianrill looks you over with calm, wise eyes.  He
+seems to take your image as a serious consideration on whether you are friend
+or foe, and you're not quite sure if he's made up his mind...
+~
+14603 4140 500 W3
+20 8 0 1d50+519 3d6+2
+1600 40000
+8 8 1
+15 0 17 17 18 18 0
+20 2 0
+0 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#15114
+hirebrand apprentice~
+a Hirebrand~
+A Hirebrand stands here, ready to assist the Staff-Elder.
+~
+ These young men are here to learn at the hands of the Staff-Elder.  They
+both look young and inquisitive, and barely spare you a glance, so enrapt are
+they with the Staff-Elders teachings.
+~
+2058 40 500 W3
+15 7 2 1d30+389 3d6+0
+1500 22500
+8 8 1
+14 0 15 14 18 15 0
+0 2 0
+20 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#15115
+kresh wolf yellow~
+a Kresh~
+A vicious Kresh wolf is crouched here, growling at you.
+~
+Snarling at you, this Kresh wolf is a dirty yellow color, and looks like it
+hasn't eaten in quite a while.  Whether it's just hunger or some kind of
+real intelligence you see in it's eyes doesn't matter as it lunges at you,
+jaws wide! ~
+41 40 -500 W3
+16 8 2 1d20+389 3d6+1
+0 22500
+8 8 0
+13 0 13 13 13 13 0
+6 3 3
+20 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 10
+~
+#15116
+giant~
+a giant~
+A giant stands here, smiling at you merrily.
+~
+ Standing over 10 feet, this giant regards you with eyes filled with delight
+and a smile on his face.  "Hello my friend! Be welcome in the Land" he says,
+motioning for you to join him.
+~
+2059 32 500 W3
+20 10 0 1d50+519 3d6+2
+2000 40000
+8 8 1
+18 100 13 18 13 18 0
+17 4 0
+0 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#15117
+guard bloodguard haruchai~
+a bloodguard~
+A bloodguard of the Haruchai stands here, his watchful eyes seeing all.
+~
+ A Bloodguard of the Haruchai studies you through watchful eyes that never
+sleep.  Because of an ancient vow, they have sworn their lives to the
+protection of the Lords and the Land.
+~
+30985 1060 400 W3
+46 31 -13 10d10+2449 6d8+11
+1000 102000
+8 8 1
+18 100 13 13 18 18 0
+20 2 0
+-130 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15118
+guard bloodguard haruchai bannor~
+Bannor~
+The bloodguard Bannor, of the Haruchai, stands here, tensed and ready.
+~
+ Bannor, of the Bloodguard, stands here, his passionless eyes gazing about
+at everything.  His was the duty to guard the Ul-Lord Thomas Covenant, White
+Gold wielder and Ringthane, and he looks able to do that and more.
+~
+12297 40 500 W3
+48 33 -14 10d10+2649 6d6+19
+8400 108000
+8 8 1
+16 0 13 13 18 17 0
+20 2 0
+-140 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15119
+warmark quaan~
+Warmark Quaan~
+Warmark Quaan is here, pondering strategies against the Despiser.
+~
+ This grizzled old war veteran still stands strong and tall, and his eyes
+look to have seen the evils of war, but recognized it's neccessity, and
+he appears reconciled to fight.  The thought flashes across your mind that
+you might not want to anger him.
+~
+10249 40 750 W3
+110 29 -12 10d10+2249 10d6+3
+7600 96000
+8 8 1
+18 50 15 17 16 18 0
+20 2 0
+-120 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15120
+hiltmark amorine~
+Hiltmark Amorine~
+Hiltmark Amorine is standing here, glaring like a drill seargent.
+~
+ Stern and hard, this woman stands before you, a solid rock of discipline.
+As you gaze at here, the only word that crosses your mind is 'battleaxe',
+such is the authority that seems to eminate from her.
+~
+10507 44 750 W3
+40 25 -10 10d10+1849 6d9+2
+6000 84000
+8 8 2
+18 0 14 15 16 18 0
+20 2 0
+-100 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15121
+lord hyrim lordhyrim~
+Lord Hyrim~
+Lord Hyrim is standing here, eyes dancing merrily.
+~
+ This man looks to be one who enjoys fine dining.  In fact, he almost looks
+like a man who enjoys ANY dining at all.  He is what you would call a robust
+man, and his eyes dance merrily as he regards you, smiling.
+~
+10253 40 750 W3
+46 31 -13 10d10+2449 6d8+11
+8400 102000
+8 8 1
+14 0 16 18 14 15 0
+10 2 0
+-130 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15122
+lord shetra lordshetra~
+Lord Shetra~
+Lord Shetra is here, looking grim and proper.
+~
+ Lord Shetra is standing nearby, surveying the room with a cool, even eye.
+She appears stern and ready to disapprove, and her eyes never leave you for
+a second.  She makes you feel like you're back in the third grade again...
+~
+10249 48 750 W3
+46 31 -14 10d10+2449 6d8+11
+8400 102000
+8 8 2
+15 0 17 16 15 16 0
+10 2 0
+-140 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15123
+lord mhoram lordmhoram~
+Lord Mhoram~
+Lord Mhoram is here, regarding you with a quiet wisdom.
+~
+ Lord Mhoram is a man of moderate build, but sharp features and penitrating
+eyes.  He regards you with a quiet dignity and nods solemnly to you as he
+returns your gaze sincerely.
+~
+10249 44 900 W3
+48 33 -14 10d10+2649 6d6+19
+9200 108000
+8 8 1
+15 0 18 18 16 16 0
+10 2 0
+-140 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15124
+high lord elena highlordelena~
+High Lord Elena~
+High Lord Elena is here, preparing for a Council meeting.
+~
+ As you gaze at High Lord Elena, you wonder how someone so young could have
+risen to be the head of the Council of Lords.  Elena seems almost naive, until
+you look into her eyes, and see the wisdom of the ages there.  It is obvious
+this young woman has seen and experienced much in her life thus far.
+~
+14347 69692 900 W3
+46 31 -13 10d10+2449 6d8+11
+8400 102000
+8 8 2
+13 0 18 18 17 17 0
+8 2 0
+-130 0 2 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#15125
+soldier revelstone~
+a soldier~
+A soldier of revelstone is standing at attention here.
+~
+ This young man who stands at attention, steadfastly ignoring your gaze, is
+a soldier in the army housed at Revelstone.  It is his job to safeguard and
+protect the Keep and the inhabitants of the land from any physical threat.
+~
+2059 32 300 W3
+30 15 -5 5d15+1019 2d8+13
+4000 57125
+8 8 1
+18 0 13 13 17 18 0
+20 2 0
+-50 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#15126
+villager man male~
+a woodhelven villager~
+A male woodhelven villager is here.
+~
+ Taught with tradition and fear, this villager stands ready to defend his
+village from any threat, be it from Lord Foul the Despiser and his minions,
+or from a stranger like you.  He appears able to deal with just about
+anything.  ~
+2057 40 500 W3
+22 11 -1 1d50+619 3d8+1
+2400 43250
+8 8 1
+18 50 14 14 17 17 0
+19 2 0
+-10 0 2 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#15127
+villager woman girl female~
+a female villager~
+A female woodhelven villager is sitting here, nervously.
+~
+ This woman sitting here looks like she has had a rough life.  The war with
+the Despiser has pulled almost all the joy out of life, and replaced it
+with fear and anxiety.  But, just as you think thats all there is, you notice
+a faint glimmer in her eyes. Hope? Perhaps, but something nonetheless.
+~
+2056 40 500 W3
+20 10 0 1d50+519 3d6+2
+2000 40000
+8 8 2
+14 0 15 16 18 16 0
+0 2 0
+0 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#15128
+villager kid child children~
+a small woodhelven child~
+A small woodhelven child here, trying to play.
+~
+ This child looks like he knows that something is wrong, but doesn't quite
+understand what it is, or how serious it is, so he's trying to enjoy himself
+and play like usual, but is being hindered by the fear and worry that is
+eminating from his elders here.  He looks at you with a strange, almost
+hopeful expression, as if maybe you can help somehow.
+~
+2056 0 500 W3
+8 4 6 1d20+139 2d4+1
+800 2800
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+60 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#15129
+llaura heer~
+Llaura, Heer of Soaring Woodhelven~
+Llaura, Heer of Soaring Woodhelven is standing here thinking.
+~
+ Llaura is a beautiful young woman, and the Heer (town leader) of Soaring
+Woodhelven.  She looks battle-worn and fearful, and you can see the edge
+of tears in her eyes, but behind those almost-tears lies a fierce sense of
+determination to protect her people, and the child Pietten, who she has
+chosen to be ward of, after his parents were killed by Urviles.
+~
+10633 40 750 W3
+26 13 -3 5d10+669 3d6+5
+3200 51250
+8 8 2
+15 0 18 18 17 15 0
+8 2 0
+-30 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#15130
+pietten child~
+Pietten~
+Pietten, Llaura's adopted child, stands here looking haunted.
+~
+ Pietten, the child adopted by Llaura after his parents were killed by
+Urviles, looks up as you enter.  You are greeted by such a frank, almost
+murderous look that you pull up short of approaching him.  His eyes look
+haunted and evil.  He smiles at you suddenly, almost like an attack, and
+you can see the blood in his teeth.  You do not think it is his either.
+~
+10249 66600 -300 W3
+18 6 1 2d10+139 6d1+2
+1800 30000
+8 8 1
+16 0 18 10 18 13 0
+18 2 0
+10 0 4 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#15131
+urvile black~
+an urvile~
+An urvile is here, growling and snarling softly.
+~
+ This creature is black, from top of misshapen head, through flat, pupil-less
+eyes and long, cruelly clawed hands, a distorted yet muscular torso, long
+obscenely thin legs, to his clawed, calloused feet.  As you gaze in utter
+revulsion at this monstrosity, it looks up at you and grins an evil, feral
+grin, revealing two rows of uneven, razor-sharp teeth.  As you stare into
+that mouth, you cannot help but shudder.
+~
+8335 1024 -500 W3
+90 19 -7 5d15+1374 5d9+20
+4800 43000
+8 8 0
+13 0 13 13 13 13 0
+7 1 2
+-70 0 2 0 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#15132
+cavewight wight ~
+a demonic cavewight~
+A demonic cavewight is coiled here, ready to attack.
+~
+ With long scrawny limbs, hands as huge as shovels, a thin, hunched torso
+and a head like a battering ram, these creature almost looks comical.  As it
+crouches, it's knees come up to the level of it's ears.  But as it senses
+you, it unfolds itself, like a spider awakening from a long sleep, and what
+you once thought comical now looks completely different, in fact... Deadly!
+~
+10254 56 -750 W3
+95 29 -12 10d10+2249 6d9+4
+7600 76000
+8 8 0
+18 75 15 15 18 16 0
+0 2 2
+-120 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15133
+drool rockworm cavewight wight~
+Drool Rockworm~
+Drool Rockworm is here, raving wildly.
+~
+ More decrepit looking than a normal cavewight, Drool appears to be some sort
+of elder in the cavewight community.  His head is mottled and wrinkled, and
+he walks with a pronounced limp, almost like a spider missing legs.  You
+notice that he drips a disgusting liquid from his lips whenever he speaks,
+and the fact that he doesn't seem to notice leads you to begin to wonder if
+he has gone completely and utterly mad...
+~
+27279 40 -800 W3
+48 33 -14 10d10+2649 5d10+9
+8200 296945
+8 8 0
+14 0 18 18 15 15 0
+18 2 2
+-140 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15134
+plainsman man male~
+a plainsman~
+A plainsman of the Ramen is standing here.
+~
+ Browned by the suns rays and the plains winds, this man of the plains, a
+member of the tribe of Ramen who tend the Ranyhyn, looks at you steadily.
+~
+10249 40 500 W3
+70 15 -5 5d15+1074 5d8+0
+4000 122540
+8 8 1
+18 25 15 15 17 17 0
+20 2 0
+-50 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#15135
+plainswoman woman girl female~
+a plainswoman~
+A plainswoman is here, her hair blowing in the warm winds.
+~
+ Head thrown back proudly, hair streaming in the wind, this woman looks at
+you with an arrogance that gives you pause.  This is obviously a woman
+that is quite capable of standing her own in any situation.
+~
+10249 40 500 W3
+65 14 -4 5d10+769 5d6+2
+3600 87615
+8 8 2
+17 0 15 15 17 17 0
+20 2 0
+-40 0 2 0 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#15136
+plainschild child kid~
+a plainschild~
+A plainschild is here, running like the wind.
+~
+ This child looks like he is always running!  He is the very essence of
+free and unbridled energy as he sprints around, grinning wolfishly at you.
+~
+10248 40 500 W3
+60 5 5 3d10+199 2d6+0
+1000 161625
+8 8 1
+13 0 13 13 15 13 0
+0 1 0
+50 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#15137
+mane woman girl female~
+a mane~
+A mane is here, tending to the needs of the Ranyhyn.
+~
+ Before you stands a Mane of the Ranyhyn.  These chosen of the plains
+people have dedicated their lives to the needs of the Ranyhyn.  It is to
+them that falls the lore of healing for the breed of Noble horses that
+reside in these grassy plains, and they do their duties well.
+~
+10249 262184 750 W3
+59 17 -6 5d15+1149 5d9+0
+4400 95120
+8 8 2
+18 10 16 16 18 18 0
+19 2 0
+-60 0 2 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#15138
+manethrall lithe woman girl female~
+Manethrall Lithe~
+Manethrall Lithe is standing here, scrutinizing everything.
+~
+ Although slight of build and size, Manethrall Lithe almost reeks of quiet,
+calm authority.  She takes in all she surveys with an assessing gaze, and as
+her gaze passes over you, you feel she can see your very soul.
+~
+14345 40 750 W3
+34 19 -7 5d15+1299 5d9+2
+4800 147290
+8 8 2
+18 30 17 18 17 17 0
+20 2 0
+-70 0 2 0 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#15139
+ranyhyn horse~
+a Ranyhyn~
+A Ranyhyn is here, tossing his mane proudly.
+~
+ As you first view this creature, this horse called a Ranyhyn, you can't
+see what seperates this creature from an extraordinarily well bred hourse.
+But on further inspection, you can see the grace, the beauty, the
+incredible fluidity with which these creatures move.  That, couples with
+the uncomfortably intelligent gaze in their eyes, convinces you that these
+Ranyhyn are truly a noble species, and one worth respecting.
+~
+10248 4136 0 W3
+70 15 -5 15d5+1074 5d8+0
+4000 83925
+8 8 0
+18 0 15 17 16 18 0
+0 3 3
+-50 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#15140
+fire lion lions~
+a fire lion~
+A fire lion prowls the slopes here.
+~
+ At first this creature appears little more than a ball of fire, but as
+you get closer, and as you begin to feel it's heat, you can see it is of
+feline shape, and it's sharp fire teeth look dangerous and sharp.
+~
+10248 1064 0 W3
+100 35 -15 10d10+2849 6d9+7
+10000 100000
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+-150 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15141
+lord foul lordfoul despiser~
+Lord Foul~
+Lord Foul the Despiser is here, desecrating the land.
+~
+ Lord Foul, the Despiser, the embodiment of corruption in the Land, stands
+here laughing at you.  He is a large man, with a neatly trimmed goatee and
+eyes with no irises.  His eyes are pure blackness, as black as his heart.
+~
+26635 1192 -1000 W3
+75 11 -15 10d10+3449 6d10+25
+30000 1000000
+8 8 1
+18 100 18 18 18 18 0
+8 2 0
+-150 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15142
+giant saltheart foamfollower~
+Saltheart Foamfollower~
+Saltheart Foamfollower, the last of the Seareach giants is here.
+~
+Bruised and scorched, Saltheart Foamfollower, the last of the Giants of
+Seareach stands here. He looks like he has been through hell, but he has
+come here, to assist his friend Thomas Covenant in his fight to save the
+land. He appears grim of visage, but his eyes laugh with an inner joy.
+~
+26635 140 1000 W3
+77 40 -15 10d10+3249 5d10+20
+10000 100000
+8 8 1
+18 100 18 18 18 18 0
+17 4 0
+-150 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15143
+thomas covenant unbeliever~
+Thomas Covenant the Unbeliever~
+Thomas Covenant the Unbeliever is here, fighting to save the land.
+~
+ Thomas Covenant, the self-named 'Unbeliever', stands here within this huge
+cavern, looking small and powerless.  He is wearing clothing that speaks of
+his origin from another world, and his visage is that of a man haunted by
+memories of that world.  The two outmost fingers of his left hand are
+missing, and upon one of the remaining fingers, he wears a white gold
+wedding ring.  That ring seems to be glowing with a power that throws off
+the evilness of this place.  He looks resolute and steadfast, and prepared
+to die to defend this land and its people, if necessary.
+~
+26634 172 1000 W3
+90 11 -15 10d10+4249 6d10+26
+10000 100000
+8 8 1
+18 100 18 18 18 18 0
+0 2 0
+-150 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15144
+wraith Wraith~
+a wraith of Andelain~
+A wraith of Andelain flits through the air here.
+~
+ The figure of a humanoid shape is barely visable within the circle of light
+that hovers around this creature.  The wraith of Andelain zips merrily about
+your head as you attempt to study it, the flits back off to rejoin the dance.
+~
+138 0 300 W3
+10 5 5 3d10+199 2d6+0
+1000 3750
+8 8 0
+13 0 13 13 13 13 0
+0 0 2
+50 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#15145
+griffin~
+a griffin~
+A ferocious griffin is here, poised to attack.
+~
+ This creature has the head and wings of a hawk or falcon, and the body
+and tenacity of a Lion.  It looks vicious and dangerous and ready to attack.
+~
+10282 40 -500 W3
+100 25 -10 10d10+1849 6d9+2
+4000 300000
+8 8 1
+18 0 13 13 16 18 0
+0 3 0
+-100 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#15146
+A giant~
+a raver possessed giant~
+A giant possessed by the might of the illearth stone commands here.
+~
+ Although your experience with the giants of this land are limited, it is
+clear that something is wrong with this giant.  There is no joy or laughter
+in his eyes at all, only death and carnage.  And in the center of the giants
+forehead, a small, glowing green hole can be seen, smoking slightly.
+~
+10251 40 -1000 W3
+40 25 -10 10d10+1849 6d9+2
+6000 84000
+8 8 1
+18 100 10 10 15 18 0
+17 4 0
+-100 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15147
+baker~
+a Baker~
+The Stonedown baker is here.
+~
+ This is the Stonedown's baker.  He is the primary source of food for the
+entire village, and by the looks of him, he loves his work!
+~
+26699 1064 1000 W3
+75 40 -100 1d1+30000 2d8+18
+2058 1
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15148
+urvile black~
+an urvile~
+An urvile is here, growling and snarling softly.
+~
+ This creature is black, from top of misshapen head, through flat, pupil-less
+eyes and long, cruelly clawed hands, a distorted yet muscular torso, long
+obscenely thin legs, to his clawed, calloused feet.  As you gaze in utter
+revulsion at this monstrosity, it looks up at you and grins an evil, feral
+grin, revealing two rows of uneven, razor-sharp teeth.  As you stare into
+that mouth, you cannot help but shudder.
+~
+8367 1024 -500 W3
+34 19 -7 5d15+1374 5d9+20
+4800 30000
+8 8 0
+13 0 13 13 13 13 0
+7 1 2
+-70 0 2 0 0 0
+15 15 15 15 15
+0 0 0
+6 10
+~
+#15149
+old man~
+a strange old man~
+A strange old man in ochre robes is standing here.
+~
+  This man seems, at first glance, to be rather infirm and in need of some
+medical attention, good food and lots of rest.  But, almost as you gaze upon
+him, he seems to alter in your sight, taking on a robust look so strong, you
+would swear him to be the very essence of health.  He smiles gently at you
+and whispers "Be true, you shall not fail.  There is still love in the world"
+~
+286731 524330 1000 W3
+75 0 -100 1d1+25000 10d10+-56
+0 1
+8 8 1
+18 100 18 18 18 18 0
+20 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#15150
+guard bloodguard haruchai~
+a bloodguard~
+A bloodguard of the Haruchai stands here, his watchful eyes seeing all.
+~
+ A Bloodguard of the Haruchai studies you through watchful eyes that never
+sleep.  Because of an ancient vow, they have sworn their lives to the
+protection of the Lords and the Land.
+~
+30987 1060 400 W3
+46 31 -13 10d10+2449 6d8+11
+1000 102000
+8 8 1
+18 100 13 13 18 18 0
+20 2 0
+-130 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15180
+~
+Below are private~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#15181
+fido~
+an irradiated fido~
+A glowing beastly fido is here.
+~
+Larger, and more deadly looking than it's pre-war counterparts, this fido
+looks at you with intimidatingly intelligent eyes.  It's fur is thick and
+bristly, and it's eyes glow with a luminescent green hue.  As you look at
+it, a tongue lolls out of its mouth, revealing dual rows of pointed teeth
+the size of carpenter's nails.  This is definitely not a normal dog...
+~
+9 0 -200 W3
+3 3 7 9d10+10 1d2+3
+300 300
+8 8 0
+15 0 17 15 14 15 0
+4 1 3
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15190
+blob~
+the Blob~
+The blob is here, stomping around.
+~
+ Fat? FAT? I'll show you fat, ya skinny little punk!  I'm the BLOB!  I'm the
+heaviest thing around, and when I decide to stand my ground, NOTHIN' can 
+move me.  You're in for a WORLD of hurt, pal.
+~
+8329 131240 -1000 W3
+51 30 -20 1d1+5000 8d6+30
+100000 100000
+8 8 1
+18 100 13 13 13 18 0
+20 3 5
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15191
+mystique~
+Mystique~
+Mystique is attempting to hide here.
+~
+ Damn, I thought I'd hidden myself well enough so you couldn't see me. Oh
+well, that's alright I suppose.  I'm still more than skilled enough to take
+out pathetic little people like you.  I'm Mystique.  Used to be the head
+of this group, until Magneto took that spot away from me.  He better watch
+his ass, or I'll spit him on it, just to spite him.
+~
+10381 17433768 -1000 W3
+51 25 -20 1d1+3999 6d6+25
+100000 100000
+8 8 2
+13 0 17 17 18 13 0
+7 2 0
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15192
+pyro~
+Pyro~
+Pyro is here, flames leaking from his hands...
+~
+ Whatcha lookin' at, mate?  Yeah, my name is Pyro, and fire's what I make.
+I'm whatcha call a real 'hot' number. <Pyro laughs>  Listen, mate, tell ya
+what:  I'll let ya get a 1 second head start before I star burnin' your
+bum with my little pets.  Deal?
+~
+10381 8520872 -1000 W3
+57 25 -20 1d1+3999 5d6+25
+100000 100000
+8 8 1
+17 0 13 13 16 15 0
+20 2 0
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15193
+avalanche~
+Avalanche~
+Avalanche is here, rumbling.
+~
+ Whatchs starin' at, ya worm!  I'm Avalanche, and I make things... rumble.
+I been hooked up with Pyro for years, but I'm thinkin' of goin' it on my
+own.  He's too much of a hothead fer me... Hahahahaha.... Hey! You don't like
+my jokes?  Well, then, let's see how ya like a pratfall...
+~
+14477 132264 -1000 W3
+51 25 -20 1d1+4499 5d6+25
+100000 100000
+8 8 1
+18 100 15 14 15 18 0
+10 3 0
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15194
+sabre tooth sabretooth~
+Sabretooth~
+Sabretooth is crouched here, ready to attack.
+~
+ Grrrrrrrrrrr..... I don't wanna talk to you.  I just wanna kill ya.  You
+look like one of them bleedin' heart types, wantin' ta save the animals and
+all that.  You got 2 seconds to get out before I gut ya.  Hah!  I lied!
+~
+14505 132264 -1000 W3
+51 40 -18 1d1+5499 10d6+45
+100000 100000
+8 8 1
+18 100 10 10 18 18 0
+20 4 5
+-180 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#15195
+magneto~
+Magneto~
+Magneto is here, planning his next attack.
+~
+ Ah, I see you have actually survived to greet me.  Well, know that you have
+come to the end of your journey, for I am Magneto, Master of Magnetism!  You
+will surely die if you do not leave immediately.  I am far to busy to waste
+time and energy destroying you, but interfere with my plans and rest assured
+I shall, and you will perish in pain.  Your choice, but I grow impatient...
+~
+10253 16778408 -1000 W3
+56 40 -25 1d1+5999 10d8+50
+150000 150000
+8 8 1
+18 100 18 18 18 18 0
+8 2 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

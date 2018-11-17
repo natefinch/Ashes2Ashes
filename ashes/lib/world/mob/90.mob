@@ -1,0 +1,566 @@
+#9000
+old withered man~
+an old withered man~
+An old withered man crouches here, warning you to turn back!
+~
+A crazed old man peers at you, wondering what you're thinking.
+~
+203 1032 0 W2
+6 3 2 10d7+30 8d2+2
+500 3000
+8 8 1
+13 0 13 13 13 13 0
+5 2 2
+20 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#9001
+grey goblin wandering~
+a wandering goblin~
+A wandering grey-skinned goblin snarls at your presence.
+~
+A pale grey face snarls at you angerly. Although much shorter than you,
+this goblin looks like a fierce fighter.
+
+~
+24201 263168 -650 W2
+17 11 0 30d10+163 2d6+8
+3500 12000
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#9002
+ogre guard~
+a large ogre guard~
+A large ogre guard keeps watch over the jail.
+~
+ Faithful, yet stupid, this ogre looks as though he could crush you in
+a few, half-hearted swings at your frail human body. From the size of
+the club he's wielding you know you'd be in for a fight.
+
+~
+6249 1032 -1000 W2
+26 22 -3 25d20+133 6d3+13
+11520 55350
+8 8 1
+18 100 13 13 13 13 0
+17 3 5
+-30 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 10
+~
+#9003
+green slime~
+a green slime~
+A disgusting green slime drops down from above!
+~
+A reaking mass of gelatin oozes towards you, dissolving everything in its
+path! Small particles of half-digested wood, leather and rusted metal
+are visible in its ever-changing mass.
+
+~
+4143 525312 0 W2
+24 19 -16 20d20+480 5d2+10
+9631 58200
+8 8 0
+13 0 13 13 13 13 0
+6 1 0
+-160 0 2 0 0
+40 40 40 40 40
+16 0 0
+6 10
+~
+#9004
+small undead beholder~
+a small, undead beholder~
+A small, undead beholder floats here guarding the area.
+~
+A large, disfigured eye centered in a brown, scaly head stares back at
+you in a magical silence. On top of its head are many small stalks, each
+hosting a smaller eye. Even at a distance, you feel the magic radiating
+from this creature numbing your skin.
+
+~
+26123 1160 -353 W2
+39 19 -7 40d20+555 2d15+5
+8320 86735
+8 8 0
+13 0 13 13 13 13 0
+8 1 0
+-70 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9005
+drawl ogre jailer~
+a large ogre jailer~
+Drawl, the ogre jailer, bellows something incomprehensible and attacks!
+~
+Drawl is definately the biggest ogre you've seen in your sheltered life.
+Standing well over seven feet tall, he excels in crushing things, namely
+intruders like YOU!
+
+~
+30763 66560 -1000 W2
+29 22 -4 35d35+180 4d5+13
+28523 92620
+8 8 1
+13 0 13 13 13 13 0
+18 3 0
+-40 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 10
+~
+#9006
+water weird~
+the Water Weird~
+Rising from its watery abode, a water weird moves towards you to attack!
+~
+Somehow the water has formed a snakelike creature, held together by
+a strong magical force.
+
+~
+63563 1160 -351 W2
+25 16 -1 20d13+255 2d6+6
+8000 23350
+8 8 0
+18 100 13 13 13 13 0
+8 2 0
+-10 0 4 0 0
+35 35 35 35 35
+16 0 0
+6 0
+~
+#9007
+small stone gargoyle~
+a small, stone gargoyle~
+A small, stone gargoyle scowls at you with glowing eyes.
+~
+Crouched before you and completely motionless except for its eyes, sits
+a stone creature with a doglike face curled in an intimidating snarl.
+You can't help but notice what big, sharp claws it has.
+
+~
+14347 197800 -200 W2
+34 20 -14 30d5+320 4d3+13
+10000 66300
+8 8 0
+18 100 13 13 13 13 0
+18 2 2
+-140 0 4 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#9008
+nasty vampire bat~
+a nasty vampire bat~
+A nasty vampire bat hangs from the ceiling, lusting for your blood.
+~
+The dark, winged creature squeaks as it senses your warm blood nearby.
+
+~
+2216 853032 0 W2
+18 8 -1 15d12+60 4d4+5
+0 8531
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+-10 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 10
+~
+#9009
+statue living~
+a living statue~
+A living stone statue is here on its pedistal, oblivious to your presence.
+~
+A figure of an Arabian man poses before you, frozen in stone. He wields
+a crystal sword and is clothed in rich clothes with a brooch on his
+left breast.
+
+~
+24587 1152 0 W2
+39 19 -12 30d40+333 2d6+15
+62225 98950
+8 8 0
+13 0 13 13 13 13 0
+17 3 2
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9010
+large dire wolf~
+a large dire wolf~
+A large dire wolf slowly circles you, waiting to strike.
+~
+A furry creature, three times the size of a normal wolf, barks at you
+in hatred!
+
+~
+4139 263208 -100 W2
+22 17 4 15d5+200 5d2+10
+500 28225
+8 8 1
+13 0 13 13 13 13 0
+6 2 2
+40 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 10
+~
+#9011
+vicious black snake~
+a vicious black snake~
+A vicious black snake slithers from a hole in the wall looking for its dinner!
+~
+The snake's black scales glisten as the rays of your torchlight hit them.
+Upon a little closer inspection you see a small red mark on its head...
+
+~
+43 1056 -250 W2
+15 15 -2 15d9+55 8d2+2
+1 9000
+8 8 0
+13 0 13 13 13 13 0
+6 1 0
+-20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+~
+#9012
+prisoner ghastly white~
+a ghastly white prisoner~
+A ghastly white prisoner stares blankly at you.
+~
+This poor, weak human has been tortured and beaten over time. She may
+have been used as a slave here, but is too shocked to speak.
+
+~
+136 0 650 W2
+11 4 4 11d5+30 1d2+3
+1 3540
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#9013
+skeleton warrior~
+an undead skeleton warrior~
+An undead skeleton warrior, clad in metal plate armor, clatters towards you.
+~
+A red glow comes from within the eye sockets of this undead creature. As
+it walks towards you, its bones clatter and start you thinking about
+your near future.
+
+~
+8233 1064 0 W2
+19 18 -4 20d10+220 4d2+8
+3000 37520
+8 8 0
+13 0 13 13 13 13 0
+9 2 0
+-40 0 6 0 0
+50 50 50 50 50
+0 0 0
+6 10
+~
+#9014
+spear sharp~
+a sharp spear~
+A sharp spear is being thrust at your head!
+~
+You feel stupid staring at a sharp spear and can't seem to decide
+weather or not to let it pierce you.
+
+~
+24616 787458 0 W2
+28 25 -8 4d6+80 2d24+15
+0 13308
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+-80 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 10
+~
+#9019
+baby dire wolf~
+a baby dire wolf~
+A baby dire wolf bears its teeth and pounces on you.
+~
+A young wolf doesn't look too elated to see you.
+
+~
+172 1056 -103 W2
+11 6 2 10d10+50 6d2+7
+325 13225
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+~
+#9020
+flesh hound~
+a flesh hound~
+A huge hound of a dull grey color circles around you.
+~
+This large dog reaks of rotted meat. His large fangcanonine teeth don't look
+too inviting either...
+
+~
+40 263176 -100 W2
+26 22 0 50d4+200 5d6+6
+300 23621
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+0 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 10
+~
+#9021
+drunk drunken goblin~
+a drunken goblin~
+A pathetic-looking goblin slouches in a corner looking VERY inebriated.
+~
+This goblin looks quite drunk.
+
+~
+138 1032 -100 W2
+18 13 0 10d4+250 3d4+4
+320 8133
+6 6 1
+13 0 13 13 13 13 0
+0 1 2
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#9022
+kron human knight~
+Kron~
+A large human knight searches the halls, thirsting to destroy evil.
+~
+A heavily armoured human warrior nods at you and smiles. His charismatic
+presence makes you feel safe within this dungeon and you know he would
+do you no harm unless provoked.
+
+~
+27017 9352 776 W2
+43 22 -14 28d15+560 3d9+14
+28350 94306
+8 8 1
+18 100 13 13 13 13 0
+20 3 5
+-140 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9023
+derrick knight warrior~
+Derrick~
+An enormous warrior prowels the halls in search of evil.
+~
+Squinting at you in distrust, this bulky, human warrior seems to be
+judging your next move. After some time he nods to himself and, 'hmms'
+he then becomes indifferent to your presence as he knows his strength
+too well.
+
+~
+289161 9384 811 W2
+41 21 -14 29d17+500 4d4+10
+48311 93500
+8 8 1
+18 100 13 13 13 13 0
+1 3 2
+-140 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9024
+rat~
+a disease-ridden rat~
+A disease-ridden rat is squeaking maliciously at you!
+~
+A rat about one foot in length scuttles about the floor looking
+for scraps of decayed meat.
+~
+137 1024 0 W2
+13 11 0 6d8+160 3d3+5
+0 7000
+8 8 0
+13 0 13 13 13 13 0
+4 0 3
+0 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#9025
+shadow warrior intangible~
+a shadow warrior~
+An intangible shadow drifts here, patrolling the underworld.
+~
+This dark soul seems vaguely human as it drifts silently towards you.
+Perhaps it is the spirit of a past adventurer like yourself who has
+been damned to wander these halls for eternity...
+
+~
+169 1026 -311 W2
+25 20 -6 10d6+355 3d6+6
+3206 49360
+8 8 1
+13 0 13 13 13 13 0
+20 2 1
+-60 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 10
+~
+#9026
+wolf werewolf figure~
+a werewolf~
+A humanlike figure with the head of a wolf snarls at you with coal-black eyes!
+~
+Standing over six feet tall, this poor soul has long since lost its human
+form. In this advanced stage of lycantheropy, the only cure is death,
+however the werewolf may beg to differ...
+
+~
+266377 263208 -500 W2
+28 26 0 10d8+675 6d4+13
+7300 96000
+8 8 0
+16 0 13 13 13 13 0
+17 2 2
+0 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#9027
+worm fyre fyrewyrm wyrm undead spirit image ghost~
+the undead spirit of the FyreWyrm~
+A ghostly image of the FyreWyrm hovers here waiting for revenge.
+~
+Slashed to pieces with large ghostly chunks of flesh hanging from its
+intangable wounds, this guardian fears no mortal creature.
+
+~
+321579 1194 0 W2
+68 20 -12 30d10+1500 8d8+28
+0 183000
+8 8 0
+13 0 13 13 13 13 0
+9 4 1
+-120 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#9028
+mouth magic lips~
+the Magic Mouth~
+A large mouth grins at you from on the wall!
+~
+Painted on the wall and brought to life by some means of magic, a large
+mouth grins at you broadly. It begins to speak!
+
+~
+57355 128 0 W2
+30 12 -8 10d10+555 5d5+12
+0 13000
+8 8 0
+18 100 13 13 18 13 0
+8 1 0
+-80 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#9029
+belvedere elf mage~
+Belvedere~
+An elven mage stands here, chanting in arcane words.
+~
+A tall, lank elven mage humbly chants in an arcane tongue. He seems to
+be memorizing some magical spell as he intently studies the pages in 
+his spellbook. After noticing your presence, he returns to his magic.
+
+~
+272777 1192 700 W2
+30 21 -13 20d10+456 5d5+14
+12350 82300
+5 5 1
+15 0 18 18 13 15 0
+8 2 2
+-130 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#9090
+worm fyre fire fyrewyrm wyrm enormous red fireworm~
+the FyreWyrm~
+Hissing and thrashing its head, an ENORMOUS red worm snaps and attacks!!
+~
+Rising before you, a gargantuan scaly worm emits a hellish heat and
+blinding light. Your life literally flashes through your mind as it
+lunges towards you, intending to take you to a new plane of existance...
+
+~
+321581 1192 -450 W2
+126 58 -23 20d20+7500 11d8+50
+165500 835150
+5 5 0
+18 100 13 13 18 18 0
+12 5 4
+-230 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#9096
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+$

@@ -1,0 +1,1175 @@
+#5901
+Street~
+Oops.  You've reached a dead end, literally.  There are bodies laying
+everywhere.  The smell is horrible...you'd better leave.
+~
+59 0 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 5902
+S
+#5902
+Street~
+You are standing on a brightly lit street.  All around you, drug deals are
+going on and bodies are laying in the street.  You wonder why the area has
+gotten this bad.  Suddenly a cop car drives by and throws a doughnut box out
+the window.  You sigh and realize you'd better leave before you get shot.
+~
+59 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 5904
+D1
+~
+~
+0 -1 5901
+D2
+~
+~
+0 -1 3071
+S
+#5904
+Stairs~
+You are standing on some beautiful marble steps that lead up into the
+Manhattan Court House. While you are standing here admiring the view,
+you hear a blood-curdling scream from the south.  You better hurry up
+the stairs before you are the next victim!
+~
+59 8204 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 5902
+D4
+~
+~
+0 -1 5905
+S
+#5905
+Entrance to the Court House~
+You stand immediately before the entrance of one of the city's municipal
+court buildings. It was built back during the heyday of the roaring 20's,
+back when the city really had money to spend and public buildings of all
+kinds were being erected. It must have looked good back then, but today,
+with the onset of time, weather, smog and acid rain, it looks worn and
+aged. The granite facade is bleak, and the marbled floors are scuffed.
+Yet the city still conducts business here, and court is always in session.
+~
+59 8200 1
+0d0+0 0 0
+D0
+Before you is the main double door entrance to the municipal court
+building. Judges hold court inside, city clerks keep all kinds of records.
+~
+door~
+2 -1 5906
+D5
+~
+~
+0 -1 5904
+S
+#5906
+A Hall in the Court House~
+You are standing in the middle of the hall.  Directly north of you is the
+court room.  Since court is in session now, not many people are lingering
+in the hallway.  The smell of food is coming from somewhere to the east.
+Yummy! Go see where the smell is coming from.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5939
+D1
+~
+~
+0 -1 5909
+D2
+You see doors leading out. ~
+door~
+2 -1 5905
+D3
+~
+~
+0 -1 5907
+S
+#5907
+A Hall in the Court House~
+This is one of the many hallways in the court house. Court is now in 
+session, so there are not many people lingering in the hallway. The
+only exit is east, towards the court room.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5906
+D3
+~
+~
+0 -1 5908
+S
+#5908
+A Hall in the Court House~
+This is one of the many hallways in the court house. Court is now in 
+session, so there are not many people lingering in the hallway. The
+only exit is east, towards the court room.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5907
+S
+#5909
+A Hall in the Court House~
+You are standing in the middle of a hallway.  Not many people are here,
+since court is in session.  The hall continues to the east, and somewhere
+to the west is the court room.  A wonderful aroma is drifting from the
+south, making you drool.  Could it be week-old meatloaf?
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5910
+D2
+~
+~
+0 -1 5936
+D3
+~
+~
+0 -1 5906
+S
+#5910
+A Hall in the Court House~
+You are standing in the middle of a hall in front of the court room.  Not
+many people are here, since court is in session.  The hall continues to the
+east and west.  Somewhere to the west is the court room and the cafeteria.
+The smell of food is overwhelming here.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5911
+D3
+~
+~
+0 -1 5909
+S
+#5911
+A Bend in the Hall~
+You are standing in the bend of the hallway.  To the west is the court room
+and the Cafeteria.  To the distant north, you can see a stairwell, some
+pay phones, and a bathroom.  There also seems to be a lot of commotion
+to the north.  From what you can understand, Bull has lost a prisoner once
+again. Oh no, poor Bull!
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5912
+D3
+~
+~
+0 -1 5910
+S
+#5912
+A Hall in the Court House~
+You are standing in the middle of the hall that is parallel to the court
+room. The commotion gets louder as you go north, so you wonder where it
+is coming from.  To the south is a bend in the hall, while the hall 
+continues to the north.  In the distant north you can see a set of stairs,
+a bathroom, and some pay phones.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5913
+D2
+~
+~
+0 -1 5911
+S
+#5913
+A Hall in the Court House~
+You are standing in the middle of a hall that runs parallel to the court
+room.  To the south you notice a bend in the hallway, while to the north
+you notice a set or stairs and a bathroom.  There is a lot of noise coming
+from the north for some reason.  Go check it out!
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5914
+D2
+~
+~
+0 -1 5912
+S
+#5914
+A Hall in the Court House~
+You are standing in the middle of the hall that runs parallel to the court
+room. As you look to the east, you notice a set of stairs that leads down
+to the holding cells.  It seems pretty noisy here, and you wonder if you
+should venture down the stairs or not.  To the distant north you see some
+pay phones and a bathroom.  The hall continues to the north and south.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5915
+D1
+~
+~
+0 -1 5933
+D2
+~
+~
+0 -1 5913
+S
+#5915
+A Hall in the Court House~
+You are standing in the middle of a hall that runs parallel to the court
+room.  As you walk down the hall, you notice a gorgeous painting on the
+wall.  Upon inspection of the painting, though, you realize that it is
+not a painting at all but a cheap replica.  The hall continues south and
+north.  To the distant north you see a bathroom and some phones, while to
+the south you see some stairs.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5916
+D2
+~
+~
+0 -1 5914
+S
+#5916
+A Hall in the Court House~
+You are standing in the middle of the hall that parallels the court room.
+The commotion seems to be getting louder as you go north.  Sheesh, it
+sounds like someone is yelling.  The hall continues to the north and to the
+south.  In the distant south you can see some stairs, while to the north
+you see a bathroom and some public pay phones.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5917
+D2
+~
+~
+0 -1 5915
+S
+#5917
+A Hall in the Court House~
+You are standing in the middle of the hall that runs parallel to the court
+room.  There is a lot of commotion here for some reason.  Apparently Bull
+still hasn't found the criminal that he lost.  To the east you see a men's
+bathroom, while the hall continues to the north and south.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5918
+D1
+~
+door~
+1 -1 5928
+D2
+~
+~
+0 -1 5916
+S
+#5918
+A Bend in the Hall~
+You are standing in the middle of the hall which turns west and south.
+There is a cute little boy here that is shining peoples' shoes.  As he
+notices you, he asks you if you want your shoes shined.  You decide to
+have him shine your shoes, and then realize that they haven't looked 
+this shiny in a long time.  There are pay phones to the east, while the
+hall continues to the west and south.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5927
+D2
+~
+~
+0 -1 5917
+D3
+~
+~
+0 -1 5919
+S
+#5919
+A Hall Behind the Court Room~
+You are standing in the middle of the hall behind the court room.  You
+hear some moaning coming from the west.  What could be making that noise?
+To the east you see a boy shining shoes, and to the distant east you see
+some pay phones.  The hall continues to the east and west.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5918
+D3
+~
+~
+0 -1 5920
+S
+#5920
+A Hall Behind the Court Room~
+You are standing in the middle of a hall behind the court room.  As you
+are standing here, you hear some strange noises coming from the closet
+north of you.  Wow, someone in the closet just screamed.  You wonder if
+it is safe to venture north.  South of you is an aisle leading into
+the court room, while the hall continues to the east and west.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 5926
+D1
+~
+~
+0 -1 5919
+D3
+~
+~
+0 -1 5921
+S
+#5921
+A Hall Behind the Court Room~
+You are standing in the middle of the hall behind the court room.  There
+is a bench here, as well as an ash tray.  It seems to be busy in the
+hall for some reason.  Court is probably in recess for a few minutes.
+You can go east or west in the hallway.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5920
+D3
+~
+~
+0 -1 5922
+S
+#5922
+A Hall Behind the Court Room~
+You are standing in the middle of the hall behind the court room.  The
+hall seems quite busy right now for some reason.  As you glance south,
+you notice Mac's desk and distantly you see the rest of the court room.
+The hall continues to the east, while to the west you see Harry's office.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5921
+D2
+~
+~
+0 -1 5956
+D3
+~
+~
+0 -1 5923
+S
+#5923
+The Hall Outside Harry's Office~
+You are standing in the middle of the hall behind the court room.  The
+hall seems to end here at Harry's office door for some reason.  Strange,
+Harry's door is open.  You look into his room, and you cannot see him.
+But, you do see a safe sitting in the middle of the floor.  You can go
+north into Harry's office or return east into the hall.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5924
+D1
+~
+~
+0 -1 5922
+S
+#5924
+Harry's Office~
+Upon entering Harry's office, you are overwhelmed by his awesome decorating
+abilities. On the wall above his desk is a framed picture of Marilyn
+Monroe, and on the stand next to his desk is a picture of Mel Torme.  You
+sit down on his big, comfortable leather couch as you glance around the
+rest of the room.  Harry has an armadillo on his book shelves and a 
+computer on his desk, neither of which a proper judge can be without.  You
+make a mental note to yourself to ask Harry who his decorator is.
+~
+59 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5925
+D2
+~
+~
+0 -1 5923
+E
+computer~
+The computer is Harry's only downfall that is evident in the room.  He
+bought a *gasp* Mac!  Well, at least he has training wheels if he ever
+needs them...  You start to wonder if _this_ is the kind of things
+that the taxpayers' money is being squandered on.
+~
+E
+armadillo~
+This stuffed armadillo is one of Harry's most prized possessions.  You
+better not misplace it, or there will be h*ll to pay when Harry finds
+out about it.  Hmm, it _is_ cute, isn't it...
+~
+S
+#5925
+Inside Harry's Safe~
+You have entered Harry's safe.  It looks like another one of Harry's tricks
+has gone awry.  It's a good thing that you opened the safe when you did,
+because Harry was running out of air.  As you are standing here, the safe
+door slams shut.  Wait!  Where is that slight breeze coming from?  Hopefully
+you can find out where the secret is hidden.
+~
+59 10377 0
+0d0+0 0 0
+D2
+The safe door appears to be extremely sturdy.
+~
+safe door~
+2 5924 5924
+D3
+~
+secret~
+1 5924 5924
+S
+#5926
+Hall Closet~
+This is the closet that Dan Fielding usually goes to during recesses in
+court and during his lunch hour.  Looking around, you get the feeling that
+this closet is used quite a lot.  Dan apparently brings his many girls
+here for a quickie, because you see some of his toys lying about.
+~
+59 9 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 5920
+S
+#5927
+Pay Phones~
+These pay phones are here for the use of the public.  Upon looking at the
+wall, you notice a phone number and the following message: "For a great
+time, call Dan at 555-1212."  As you look closer, you realize that Dan
+was the one that wrote that message!  Apparently he is more desperate
+than we had thought.
+~
+59 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5918
+E
+phone phones~
+The phones appear to be broken.  It looks as if someone put some gum in
+the coin slots.  How gross!
+~
+S
+#5928
+Men's Bathroom~
+Upon entering this bathroom, you notice that it is just like every other
+public bathroom that you have been in.  Along one wall are some urinals.
+There are some stalls along another wall, while on the third wall there
+are some sinks with a few mirrors.  The walls are also painted in that
+wonderful institution blue color that everyone loves so much.
+~
+59 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 5917
+E
+urinal urinals~
+The urinals are very dirty-looking, so I would not advise you to use one.
+There also seems to be a man handcuffed to the one urinal.  Hmm, I wonder
+how he got here!
+~
+S
+#5929
+Holding Cell~
+You are standing in a 5' X 5' room.  There are no windows, and there is
+a huge steel door blocking your way out of here.  As you glance around
+your "new home," you see some dirty old cots with gross-looking stains 
+on them.  There is also a smelly stained toilet, which reassures you
+even less.  Upon closer inspection, you notice that the water coming
+out of the sink is brown.  You better hope you get out of here soon!
+~
+59 8 0
+0d0+0 0 0
+D1
+The steel door leads back into the hallway.
+~
+door~
+1 -1 5931
+S
+#5930
+Holding Cell~
+You are standing in a 5' X 5' room.  There are no windows, and there is
+a huge steel door blocking your way out of here.  As you glance around
+your "new home," you see some dirty old cots with gross-looking stains 
+on them.  There is also a smelly stained toilet, which reassures you
+even less.  Upon closer inspection, you notice that the water coming
+out of the sink is brown.  You better hope you get out of here soon!
+~
+59 8 0
+0d0+0 0 0
+D1
+The steel door leads back into the hallway.
+~
+door~
+1 -1 5932
+S
+#5931
+Outside the Cells~
+You are standing outside one of the holding cells.  As you look west, you
+notice someone in the cell.  They appear to be dressed as an elf.  Isn't
+Halloween over already?  You can go south or enter the cell to the west.
+~
+59 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5932
+D3
+You see a steel door, which opens into a holding cell.
+~
+door~
+1 -1 5929
+S
+#5932
+Outside the Cells~
+You are standing outside one of the holding cells.  As you look west, you
+notice someone in the cell.  They appear to be dressed as an elf.  Isn't
+Halloween over already?  You can go back up the stairs, enter the cell to
+the west, or go north towards another holding cell.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5931
+D3
+You see a steel door, which opens into a holding cell.
+~
+door~
+1 -1 5930
+D4
+~
+~
+0 -1 5933
+S
+#5933
+Stairs~
+These stais lead down to a place where few want to venture... the holding
+cells! As you descend to the cells, you hear a lot of commotion coming
+up the stairs.  You hear some wolf-whistles, and it sounds like someone is
+banging something against the cell door.  Be careful if you venture further
+down, because the people down there are not the most reputable people.
+~
+59 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5914
+D5
+~
+~
+0 -1 5932
+S
+#5934
+The Back of the Cafeteria~
+Here is where the cooks prepare the oh-so-delicious food that is usually
+found in the cafeteria.  As you are standing here, you smell something
+pretty raunchy.  Hmm, could it be the meatloaf left over from last week?
+~
+59 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5935
+S
+#5935
+Cafeteria~
+In the middle of the room is a salad bar and the cash register.  The cake
+on the dessert tray has an imprint in it that suspiciously looks as if
+someone's face was smashed into it.  There are also a few tables here
+where you can sit and have some coffee.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5934
+D3
+~
+~
+0 -1 5936
+S
+#5936
+Cafeteria~
+This cafeteria seems to be like the typical public cafeteria.  You notice
+many people sitting here, just drinking coffee.  There is also a little
+news stand here, which is run by Jack.  He seems to have everything
+from a roll of Tums to the latest issue of Cosmo.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5909
+D1
+~
+~
+0 -1 5935
+S
+#5937
+The Peanut Gallery~
+A few people are sitting on the wooden benches here.  As you sit down
+with them for a few minutes, you realize that the benches are extremely
+uncomfortable. There also seems to be some graffiti on the benches.
+How rude!  You wonder how people can sit here for a few hours at a time.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5938
+S
+#5938
+The Peanut Gallery~
+A few people are sitting on the wooden benches here.  As you sit down
+with them for a few minutes, you realize that the benches are extremely
+uncomfortable. There also seems to be some graffiti on the benches.
+How rude!  You wonder how people can sit here for a few hours at a time.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5939
+D3
+~
+~
+0 -1 5937
+S
+#5939
+An Aisle in the Court Room~
+This aisle leads to the front of the court room. To the east and west of you
+are some wooden benches. There is a lot of noise coming from the east and
+west. Maybe you should go investigate. Try not to fall on the... whatever
+it is... in the middle of the aisle.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5944
+D1
+~
+~
+0 -1 5940
+D2
+~
+~
+0 -1 5906
+D3
+~
+~
+0 -1 5938
+S
+#5940
+The Peanut Gallery~
+A few people are sitting on the wooden benches here.  As you sit down
+with them for a few minutes, you realize that the benches are extremely
+uncomfortable. There also seems to be some graffiti on the benches.
+How rude!  You wonder how people can sit here for a few hours at a time.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5941
+D3
+~
+~
+0 -1 5939
+S
+#5941
+The Peanut Gallery~
+A few people are sitting on the wooden benches here.  As you sit down
+with them for a few minutes, you realize that the benches are extremely
+uncomfortable. There also seems to be some graffiti on the benches.
+How rude!  You wonder how people can sit here for a few hours at a time.
+~
+59 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5940
+S
+#5942
+The Peanut Gallery~
+A few people are sitting on the wooden benches here.  As you sit down
+with them for a few minutes, you realize that the benches are extremely
+uncomfortable. There also seems to be some graffiti on the benches.
+How rude!  You wonder how people can sit here for a few hours at a time.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5943
+S
+#5943
+The Peanut Gallery~
+A few people are sitting on the wooden benches here.  As you sit down
+with them for a few minutes, you realize that the benches are extremely
+uncomfortable. There also seems to be some graffiti on the benches.
+How rude!  You wonder how people can sit here for a few hours at a time.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5944
+D3
+~
+~
+0 -1 5942
+S
+#5944
+An Aisle in the Court Room~
+The aisle continues north to the front of the court room.  To the east and
+west of you are some wooden benches.  There is a lot of noise coming from
+the east and west.  Maybe you should go investigate.  Try not to fall on
+the stuff in the middle of the aisle.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5948
+D1
+~
+~
+0 -1 5945
+D2
+~
+~
+0 -1 5939
+D3
+~
+~
+0 -1 5943
+E
+stuff middle~
+This pile of... stuff... in the middle of the aisle contails some gross
+oddities that make you want to puke.  The stench from the pile makes
+you want to high-tail it out of here.
+~
+S
+#5945
+The Peanut Gallery~
+A few people are sitting on the wooden benches here.  As you sit down
+with them for a few minutes, you realize that the benches are extremely
+uncomfortable. There also seems to be some graffiti on the benches.
+How rude!  You wonder how people can sit here for a few hours at a time.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5946
+D3
+~
+~
+0 -1 5944
+S
+#5946
+The Peanut Gallery~
+A few people are sitting on the wooden benches here.  As you sit down
+with them for a few minutes, you realize that the benches are extremely
+uncomfortable. There also seems to be some graffiti on the benches.
+How rude!  You wonder how people can sit here for a few hours at a time.
+~
+59 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5945
+S
+#5947
+Christine's Desk~
+This is Christine Sullivan's desk while she is at court.  Her desk is 
+extremely neat, which comes as no surprise to you.  Her desk has been 
+polished recently, and you can actually see your reflection on it.
+Sheesh, talk about being anal!
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5948
+S
+#5948
+An Aisle Between the Desks~
+You are in the aisle between Christine Sullivan's and Dan Fielding's desks.
+To the distant north is Harry's Bench.  Strange, but Harry looks younger
+than you thought he would.  You can go south to the Peanut Gallery, east
+to Dan's Desk, west to Christine's Desk, or north towards the bench.  
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5951
+D1
+~
+~
+0 -1 5949
+D2
+~
+~
+0 -1 5944
+D3
+~
+~
+0 -1 5947
+S
+#5949
+Dan's Desk~
+This is Dan Fielding's desk while he is at court.  His desk has papers all
+over it, which makes you wonder how he can ever find anything.  Upon closer
+inspection, you notice a few of Dan's most prized possessions lying on
+his desk.  Apparently he is planning on using them later tonight...
+~
+59 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5948
+E
+prized possessions toys~
+You notice some handcuffs, leather restraints, blindfolds, a whip of some
+sort, whipped cream, a few different oils, and some other objects which
+make you shudder with anticipation.
+~
+S
+#5950
+An Aisle in front of Christine's Desk~
+Directly behind you is Christine's desk.  That's strange, the smell of Lemon
+Pledge is drifting from the south.  To the north is Mac's desk, while to 
+the distant north you can see the hall behind the court room.  The aisle also
+continues to the east.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5953
+D1
+~
+~
+0 -1 5951
+S
+#5951
+An Aisle in the Middle of the Court Room~
+You are standing in the aisle in the middle of the court room.  To the 
+distant north is Harry's bench, while to the distant south you can see
+the Peanut Gallery.  Somewhat to the east you can see the court
+stenographer, and somewhat to the west you can see Mac's desk.  The 
+aisle continues to the east and west.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5954
+D1
+~
+~
+0 -1 5952
+D2
+~
+~
+0 -1 5948
+D3
+~
+~
+0 -1 5950
+S
+#5952
+An Aisle in Front of Dan's Desk~
+You are standing in front of Dan Fielding's desk.  To the north you can
+see the court stenographer, while to the direct north you can see the
+hall behind the court room.  As you glance behind you, you see Dan
+stripping you naked with his eyes.  What a pervert!  The aisle continues
+to the west.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5955
+D3
+~
+~
+0 -1 5951
+S
+#5953
+An Aisle Leading to the Hall~
+You are standing in an aisle that leads to the hall.  Directly to the north
+you see Mac Robinson's desk, while to the distant north you see people
+moving around in the hall behind the court room.  As you are standing here,
+you admire the nice wax job that Art did on the floor.  Just make sure
+you don't fall.  The continues to the east.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5956
+D1
+~
+~
+0 -1 5954
+D2
+~
+~
+0 -1 5950
+S
+#5954
+Before the Bench~
+You are standing before the bench.  You see a Harry look-alike sitting in
+Harry's chair to the north.  To the south you see the aisle that leads 
+to the back of the court room.  To the east is the court stenographer,
+Lisette Hocheiser.  The aisle continues to the west.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5955
+D2
+~
+~
+0 -1 5951
+D3
+~
+~
+0 -1 5953
+S
+#5955
+Court Stenographer~
+You are standing where the court stenographer, Lisette Hocheiser, usually
+sits. The only objects here are a chair and a big pack of bubble gum 
+(strawberry flavored, of course).  To the east you can see the jury box,
+while to the distant north you can see the hall behind the court room. 
+The aisle continues to the west.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5958
+D1
+~
+~
+0 -1 5959
+D2
+~
+~
+0 -1 5952
+D3
+~
+~
+0 -1 5954
+S
+#5956
+Mac's Desk~
+Mac's desk seems to be somewhat cluttered, because it contains most of 
+the files for tonight's cases.  As you glance at the pile, you notice
+that some of the people seem to have a high recidivism rate because their
+files are a few inches thick.  Yikes!  Even though there is a lot of stuff
+on Mac's desk, he always seems to know where everything is.  Harry's bench
+is to the east, the hall is to the north, and to the south is an aisle.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5922
+D1
+~
+~
+0 -1 5957
+D2
+~
+~
+0 -1 5953
+S
+#5957
+Harry's Bench~
+You are standing behind the bench that Judge Harold T. Stone sits at when
+Manhattan Criminal Court is in session.  His desk is pretty neat, and has
+the normal stuff that a judge has, such as a gavel and a gavel cozy.  You
+also notice some of Harry's practical joke props, such as his rubber chicken
+and his hand buzzer.  Strange, there is a Harry look-alike sitting here.
+You can go west towards Mac's desk or east to an aisle.
+~
+59 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5958
+D3
+~
+~
+0 -1 5956
+S
+#5958
+An Aisle Leading into the Hall~
+You are standing in the middle of an aisle that leads into the hall.  The
+floors are very shiny, as if Art has recently waxed them.  To the west is 
+Harry's bench, while to the south is where the court stenographer sits.
+To the distant north, you see a closet door.
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5920
+D2
+~
+~
+0 -1 5955
+D3
+~
+~
+0 -1 5957
+S
+#5959
+Jury Box~
+Since there is no jury in this criminal court, criminals sometimes wait
+here until they are ready to be transported.  As you look around, you
+notice that this part of the court room is pretty messy.  There are 
+cigarette butts thrown around haphazardly, probably by Selma.
+~
+59 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5960
+D3
+~
+~
+0 -1 5955
+S
+#5960
+Jury Box~
+Since there is no jury in this criminal court, criminals sometimes wait
+here until they are ready to be transported.  As you look around, you
+notice that this part of the court room is pretty messy.  There are 
+cigarette butts thrown around haphazardly, and there are also a few candy
+bar wrappers.  Looks like Roz is cheating on her diet again...
+~
+59 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5959
+S
+#5999
+~
+~
+59 0 0
+0d0+0 0 0
+S
+$

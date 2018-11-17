@@ -1,0 +1,462 @@
+#15801
+belt bearskin~
+a bearskin belt~
+A belt made of bearskin is left on the ground.~
+~
+9 0 2049 0
+0 0 0
+1 0 0 0
+3 50 0
+A
+1 1
+#15802
+boots boot alligator shoes shoe~
+a pair of alligator boots~
+A pair of scaly alligator boots is left on the floor.~
+~
+9 0 65 0
+0 0 0
+1 0 0 0
+3 55 0
+A
+2 1
+#15803
+pelt skin jaguar jaguarskin~
+a jaguar pelt~
+A pelt of a jaguar is left on the floor.~
+~
+9 0 1033 0
+0 0 0
+1 0 0 0
+3 58 0
+A
+17 1
+#15804
+gloves gauntlets gauntlet glove gorilla~
+gorilla gloves~
+A pair of gorilla-skin gloves is left on the floor.~
+~
+9 311296 129 0
+0 0 0
+1 0 0 0
+3 60 0
+A
+3 1
+#15805
+pelt skin tigerskin tiger~
+a tigerskin pelt~
+A pelt made of tigerskin is left on the ground.~
+~
+9 0 1033 0
+0 0 0
+1 0 0 0
+4 65 0
+A
+11 5
+#15806
+greaves leggings greave legging elephant-skin skin~
+elephant-skin greaves~
+A pair of elephant-skin greaves is left on the floor.~
+~
+9 0 33 0
+0 0 0
+1 0 0 0
+5 55 0
+A
+16 -2
+#15807
+helm helmet horned horn rhino's rhino~
+a rhino's horned helm~
+A helmet made of rhino skin is on the ground.~
+~
+9 0 17 0
+0 0 0
+1 0 0 0
+5 59 0
+A
+5 1
+#15808
+banana big~
+a big banana~
+A large banana is left on the floor.~
+~
+5 0 24577 0
+0 0 0
+0 2 3 7
+2 40 0
+#15809
+pelt skin bigfoot bigfoot's~
+Bigfoot's pelt~
+A pelt of the Bigfoot is left on the floor.~
+~
+9 0 1033 0
+0 0 0
+1 0 0 0
+5 75 0
+A
+14 2
+#15810
+winchester rifle gun ~
+a Winchester~
+A long rifle is left on the floor.~
+~
+5 0 8193 0
+0 0 0
+0 2 5 7
+10 150 0
+A
+18 2
+A
+17 1
+#15811
+vest hunter's camouflage~
+a hunter's vest~
+A hunter's vest is left on the floor.~
+~
+9 0 9 0
+0 0 0
+1 0 0 0
+6 85 0
+A
+11 5
+#15812
+pants pant camouflage hunter's~
+camouflage hunter's pants~
+A pair of army pants is left on the floor.~
+~
+9 0 33 0
+0 0 0
+1 0 0 0
+3 60 0
+A
+14 1
+#15813
+boots boot shoes shoe camouflage sportman's~
+a pair of sportsman's boots~
+A pair of camouflage boots is left on the floor.~
+~
+9 0 65 0
+0 0 0
+1 0 0 0
+4 55 0
+A
+12 5
+#15814
+backpack pouch bag pouches pack back hunter's~
+a hunter's backpack~
+A hunter's backpack is left lying on the floor.~
+~
+15 0 17409 0
+0 0 0
+200 0 0 0
+3 30 0
+#15815
+paintbrush brush paint artist's~
+an artist's paintbrush~
+A paintbrush is left on the ground.~
+~
+9 311296 16385 0
+0 0 0
+1 0 0 0
+2 70 0
+A
+13 2
+#15816
+overall farmer's pants pant ~
+a farmer's overall~
+A farmer's overall is left lying on the floor.~
+~
+9 311296 1033 0
+0 0 0
+1 0 0 0
+5 80 0
+A
+10 5
+#15817
+smurfberries berry berries bunch~
+a bunch of Smurfberries~
+A bunch of berries is left on the grounds...ants are crawling all over it.~
+~
+19 0 1 0
+0 0 0
+25 0 0 0
+2 5 0
+#15818
+pacifier nipple baby's~
+a baby's pacifier~
+A baby's pacifier is left on the ground.~
+~
+9 0 16385 0
+0 0 0
+1 0 0 0
+2 70 0
+A
+5 1
+#15819
+mirror vanity~
+a vanity mirror~
+A hand-held mirror is left on the ground.~
+~
+1 1 16385 0
+0 0 0
+0 0 600 0
+2 90 0
+A
+16 -2
+#15820
+gadget odd device~
+an odd gadget~
+A strange gadget is left on the floor.~
+~
+5 0 24577 0
+0 0 0
+0 3 3 6
+2 70 0
+A
+4 1
+#15821
+overall carpenter's pants pant~
+a carpenter's overall~
+A white overall is left on the floor.~
+~
+9 311296 1033 0
+0 0 0
+1 0 0 0
+4 90 0
+A
+13 1
+#15822
+tattoo heart arrow ~
+a heart-and-arrow tattoo~
+A nice, cute stick-on tattoo is left on the ground.~
+~
+9 0 257 0
+0 0 0
+1 0 0 0
+2 60 0
+A
+1 1
+#15824
+spectacles glasses nerd's specs spec~
+a nerd's spectacles~
+A pair of thick glasses is left on the ground.~
+~
+9 311296 17 0
+0 0 0
+1 0 0 0
+3 90 0
+A
+3 1
+#15825
+dress smurfy-looking smurfy gown~
+a Smurfy-looking dress~
+A cute white gown is left on the floor.~
+~
+9 311296 1033 0
+0 0 0
+1 0 0 0
+4 100 0
+A
+13 1
+#15826
+heels high shoes heel shoe smurfy~
+a pair of Smurfy high heels~
+A pair of high heels is left on the ground.~
+~
+9 0 65 0
+0 0 0
+1 0 0 0
+2 50 0
+A
+15 1
+#15827
+pie smurfberry pastry berry~
+a Smurfberry pie~
+A delicious fruit-berry pie is left on the ground.~
+~
+19 0 1 0
+0 0 0
+30 0 0 0
+2 20 0
+#15828
+wand smurfy ~
+a Smurfy wand~
+A strange wand is carelessly left on the ground.~
+~
+3 1 16385 0
+0 0 0
+12 3 3 26
+2 80 0
+#15829
+cap hat smurfy red helm helmet~
+a Smurfy red cap~
+A nice red cap is left lying on the floor.~
+~
+9 311296 17 0
+0 0 0
+2 0 0 0
+3 110 0
+A
+4 1
+A
+3 1
+#15830
+potion smurfberry berry ~
+a Smurfberry potion~
+A potion is left on the floor...it's bubbly red.~
+~
+10 1 1 0
+0 0 0
+15 1 3 57
+2 150 0
+#15831
+poem poet's ~
+a poet's poem~
+A long, beautiful poem is left on the floor.~
+~
+9 0 16385 0
+0 0 0
+1 0 0 0
+2 80 0
+A
+23 -1
+#15832
+cap droopy clumsy hat helm helmet~
+a droopy, clumsy cap~
+A white cap is left on the floor.~
+~
+9 0 17 0
+0 0 0
+1 0 0 0
+2 75 0
+A
+22 -1
+#15833
+box gift exploding present gift-wrapped~
+an exploding gift box~
+A gift-wrapped present is lying on the floor.~
+~
+9 0 16385 0
+0 0 0
+1 0 0 0
+3 80 0
+A
+11 5
+#15834
+scroll spell gargamel's~
+Gargamel's spell scroll~
+A scroll is carelessly left on the ground.~
+~
+2 1 16385 0
+0 0 0
+12 1 3 57
+2 80 0
+#15835
+robe beggar's clothes garb~
+a beggar's robe~
+A long beggar's robe is left on the floor.~
+~
+9 0 9 0
+0 0 0
+1 0 0 0
+5 99 0
+A
+5 1
+#15836
+shoes shoe beggar's old~
+a pair of beggar's shoes~
+A pair of dirty, old beggar's shoes is left on the ground.~
+~
+9 0 65 0
+0 0 0
+1 0 0 0
+3 70 0
+A
+12 5
+#15837
+collar choker flea azrael's~
+Azrael's flea collar~
+A brown leather flea collar is left on the ground.~
+~
+9 0 5 0
+0 0 0
+1 0 0 0
+3 120 0
+A
+14 2
+A
+11 10
+#15838
+mask bigfoot helm helmet ~
+a Bigfoot mask~
+A strange-looking mask is left on the ground.~
+~
+9 311296 17 0
+0 0 0
+1 0 0 0
+3 90 0
+A
+10 5
+#15839
+feet foot bigfoot's big shoe shoes boots boot~
+Bigfoot's big feet~
+A pair of severed feet is left on the ground.~
+~
+9 0 65 0
+0 0 0
+1 0 0 0
+6 99 0
+A
+15 2
+#15840
+suit clothes covering skin tigerskin jungle~
+a jungle suit~
+A suit made from tigerskin is left on the ground.~
+~
+9 0 1033 0
+0 0 0
+1 0 0 0
+3 95 0
+A
+1 1
+#15841
+eggs caviar egg ~
+salmon eggs~
+Little small fish eggs are left all over the floor.~
+~
+19 0 1 0
+0 0 0
+21 0 0 0
+1 0 0
+#15842
+map ~
+a map of the Newbie Forest~
+An area map is left lying on the floor.~
+~
+9 0 16385 0
+0 0 0
+1 0 0 0
+1 150 0
+A
+11 5
+E
+map area~
+          Hunter Bob's cabin              N
+                 |                     W  *  E
+     Swamp  __ __|                        S
+     Lands
+      | (Far Northern area)
+      |__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+      |                       |                          |__    a
+      | (Northwestern area)   | (Northeastern area)      |   narrow
+      |                       |                          |   stream
+      |__ __ __ __ __ __ __ __|__ __ __ __ __ __ __ __ __|     |
+      |                       |                          |     |
+      | (Southwestern area)   | (Southeastern area)      |     |
+      |                       |                          |    the
+      |__ __ __ __ __ __ __ __|__ __ __ __ __ __ __ __ __|   Smurf
+                              |                             Village
+                              |
+                Entrance to the Newbie Forest
+~
+$

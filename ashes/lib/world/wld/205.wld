@@ -1,0 +1,1154 @@
+#20500
+Aisle to the Satellite Stage~
+    Here you are, dead smack in the middle of 70,000 U2 fans, all pushing
+and groping each other just to get a little peek at Bono. To the north, you
+see the Satellite Stage where the band performs the second half of their 
+Zoo TV show.
+~
+205 32768 0
+0d0+0 0 0
+D0
+To the Satellite Stage~
+~
+0 -1 20501
+D2
+~
+~
+0 -1 21115
+S
+#20501
+Satellite Stage~
+    You're now standing on the Satellite Stage, where the band performs such
+great songs as Angel of Harlem, and Satellite of Love. How many people in
+that crowd you fought through would just KILL to get to where you are right
+now. To the north, you can see the main stage, and to the south, you can
+see that mass of chaos called "fans".
+~
+205 32768 0
+0d0+0 0 0
+D0
+To Main Stage~
+~
+0 -1 20502
+D2
+Aisle to Satellite Stage~
+~
+0 -1 20500
+S
+#20502
+Main Stage~
+    This is the main stage, where 1,200 tons of equipment, 3 miles of cable,
+and 1 million watts power the spectacle that you see unraveling before you.
+Looking around, you see TV screens to the north, east, and west playing
+movies, and looking up, you notice a smaller stage above the main stage.
+You think to yourself..."How many stages do these guys need, anyways?"
+~
+205 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20504
+D2
+~
+~
+0 -1 20501
+D3
+~
+~
+0 -1 20503
+S
+#20503
+The West Stage~
+You are at the west part of the main stage surrounded by all the
+sights and sounds of ZooTV.  Further to the north you can hear the banging
+and crashing of Larry Mullen Jr's drums.
+~
+205 32772 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20507
+D1
+~
+~
+0 -1 20502
+S
+#20504
+A TV screen showing the Rocky Horror Picture Show.~
+    Sitting here in technicolor(tm) splendor, is the gateway to the
+mansion of Dr. Frank N. Furter. Do you dare risk the the peril of androids
+and transvestite aliens? I hope so, because one step to the north, is your
+ticket to sex, drugs, violence, and yes, even Meatloaf.
+~
+205 32772 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20519
+D3
+~
+~
+0 -1 20502
+S
+#20505
+~
+~
+205 0 0
+0d0+0 0 0
+S
+#20506
+~
+
+~
+205 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 20502
+S
+#20507
+The North Stage~
+You are standing at the north end of the stage by Larry Mullen Junior's
+huge drum set.  The crisp snare sounds of Sunday Bloody Sunday fill the 
+air around you.  It's as if you've been taken back to the war-torn streets
+of West Belfast.
+~
+205 32768 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 20508
+D2
+~
+~
+0 -1 20503
+S
+#20508
+Backstage at ZooTV~
+You are behind the main ZooTV stage.  Behind the world of TV screens
+CDI, DVE, and the miracle of chromakey are the band members' dressing
+rooms.  Do you dare go any farther?
+~
+205 294912 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20507
+D6
+~
+~
+0 -1 20515
+D7
+~
+~
+0 -1 20509
+S
+#20509
+Bono's Dressing Room~
+You are in the middle of Bono's dressing room.  THe small cubicle is
+all covered in gold glitter and filled with several very bright lights.
+On the north wall of the room is a small make-up table with a large
+mirror.  Bono is sitting in front of the mirror and having his make-up
+applied.  The only question is...whose picture is that on the wall?
+~
+205 32768 0
+0d0+0 0 0
+D8
+~
+~
+0 -1 20508
+S
+#20510
+A large mud field~
+~
+205 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 20511
+D2
+~
+~
+0 -1 20509
+S
+#20511
+A Road into town~
+~
+205 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 20510
+S
+#20512
+Start of the Meaning of Your Life~
+You're in a damp and wet red room.  Wait a second...this must be the
+womb from which you'll spring forth and begin your life.  What awaits
+You out there in the cruel world only time will tell!
+~
+205 129 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20508
+D3
+~
+~
+0 -1 20513
+S
+#20513
+The Fetus Frightening Room~
+You have entered into a room filled with all sorts of expensive equipment
+and doctors.  This is where it all begins...life.  Oh...look over there is
+the machine that goes PING!  That's the most expensive machine in the whole
+hospital!  It costs over three hundred million pounds!  Aren't you lucky?
+~
+205 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20512
+D3
+~
+~
+0 -1 20514
+S
+#20514
+The Meaning of Life Part II:  The Third World~
+You are standing in the middle of the street in a middle class working
+neighbourhood of East London.  There are literally hundreds of kids dancing
+around the street and singing "Every Sperm is Sacred."  Look at all those
+Catholics filling up the world with all those children.  
+~
+205 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20513
+S
+#20515
+Adam Clayton's Dressing Room~
+You stand here in the middle of Adam Clayton's dressing room.  There's
+a spare bass guitar sitting over in the corner begging to be played.  I'm
+sure Adam wouldn't notice...would he?
+~
+205 32768 0
+0d0+0 0 0
+D9
+~
+~
+0 -1 20508
+S
+#20516
+The Dining Room~
+We came here to discuss Eddie.  Well, actually you came here to eat Eddie,
+but that's a rather tender subject.  Another slice anyone?  Mmmmmm.....
+~
+205 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20594
+D2
+~
+~
+0 -1 20517
+S
+#20517
+The Kitchen~
+You are standing in the centre of the castle's rather spacious kitchen.
+You're really not sure that you want to know what gets cooked in here, but
+I have a feeling you're going to find out like it or not!
+~
+205 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20516
+D1
+~
+~
+0 -1 20518
+S
+#20518
+The Criminologist's Suite~
+I would like, if I may, to take you, on a strange journey.  It seemed a
+fairly ordinary night when Brad Majors and his Finacee Janet Weiss, two
+young...oh stuff it Chucky.  The man who sits behind the desk in this room
+has absolutely no neck.  He has no neck!
+~
+205 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20517
+S
+#20519
+The Parking Lot~
+What more is there to say?  This is the large parking lot where you can
+drive up to see the Rocky Horror Picture Show.  You see the large screen
+to the south, to the north is the entrance to the castle.  You see a small
+church in the lot off to the east.
+~
+205 32768 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 20599
+D1
+~
+~
+0 -1 20520
+D2
+~
+~
+0 -1 20504
+S
+#20520
+Outside the Church~
+You stand outside the church.  There is a wedding reception going on, and
+lots of corny people are standing around and singing.  There's a car parked
+in front of the church, and on the side is painted "She got hers, now he'll
+get his."  What cheezeballs...
+~
+205 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20521
+D3
+~
+~
+0 -1 20519
+S
+#20521
+Inside the Church~
+So lets go see the man who began it (he's in the casket!) when we met in his
+science exam(it)...made me...give you the eye and then panic.  This is a
+fairly ordinary church, except for the transvestites posing as decons and
+church officials.
+~
+205 43016 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20520
+S
+#20522
+Denny's Restauraunt~
+The neon signs...Moons over Mi-Hammy...the Grand Slam breakfast.  This is
+paradise without a doubt.  Where else can you get coffee, eggs, and cheerful
+service 24 hours a day?  So, come in my friends.
+~
+205 294912 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20599
+D3
+~
+~
+0 -1 20524
+S
+#20523
+The Smoking Section~
+This is the smoking section.  All the various freaks from Rocky Horror
+Picture Show hang out here after the show.  None of them bother to order
+anything, they just sit there drinking water and tormenting the other
+patrons.  Is there any other way???
+~
+205 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20524
+S
+#20524
+The Cashier's Stand~
+This is where you come to get seated, and get seated you will...as long
+as you're not one of the thousands of types of people that Denny's has
+decided it doesn't like!
+~
+205 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20523
+D1
+~
+~
+0 -1 20522
+D2
+~
+~
+0 -1 20525
+D3
+~
+~
+0 -1 20527
+S
+#20525
+The non-smoking Section~
+There air here is almost thin enough that you can breath.  This is a far
+cry from the smoking section and all its assorted freaks.  Here, you have
+all kinds of urban-trash sitting here enjoying their $$1.99 specials.
+~
+205 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20524
+D3
+~
+~
+0 -1 20528
+S
+#20526
+The Back of the Kitchen~
+This area is absolutely nasty!  There are various scraps laying all over
+the floor, and lots of food is burning on the grill.  After seeing this,
+you're SURE you never want to eat at Lenny's...I mean Denny's...again!
+~
+205 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20527
+S
+#20527
+Entrance to the Kitchen~
+This is where the waitresses come to place the orders...that is if they
+don't forget to do it!  There are several cooks around, most of them
+wearing nose rings and having jet black hair.  Oh well, ass long
+as they don't spit on your food...
+~
+205 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20526
+D1
+~
+~
+0 -1 20524
+S
+#20528
+The Unisex Bathroom~
+Welcome to Denny's bathroom.  We want your experience to be pleasant, so
+please let us know if anything is not up to your standards.  Please don't
+mind the drunk in the corner.
+~
+205 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20525
+S
+#20530
+a Dark and Narrow Path~
+You've stepped north on to a small and narrow trail...if you can even call
+it that.  It's really just some grass and such that's been trampled down
+by several people passing to the north.
+~
+205 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20531
+D2
+~
+~
+0 -1 3077
+S
+#20531
+Along the Path~
+The trail seems to become a little wider here, with trees having obviously
+been cut to make passage easier.  There's no noticeable traffic here, but
+it's obvious to you that someone came this way not too long ago.
+~
+205 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20532
+D2
+~
+~
+0 -1 20530
+S
+#20532
+a Steep Slope~
+The path you're on heads sharply downhill at this point.  You have to hold
+on to the tree branches on either side of you to prevent yourself from 
+falling as you make your way.
+~
+205 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20533
+D2
+~
+~
+0 -1 20531
+S
+#20533
+In the Vines~
+The foliage seems to get much thicker here.  Either whoever comes this
+way didn't bother to cut these branches down, or they're trying to hide
+something.  Either way, you should probably turn back.
+~
+205 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20534
+D3
+~
+~
+0 -1 20532
+S
+#20534
+The Clearing~
+You stand in a large clearing, where you notice all the surrounding trees
+have been cut down.  The ground is trampled smooth, and you think that you
+can hear faint chanting coming from the north.
+~
+205 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20535
+D2
+~
+~
+0 -1 20533
+S
+#20535
+In Front of the Large Stone Compound~
+You are on the north side of the clearing, and a large stone compound sits
+here.  There are massive iron doors on it, with the letters "BZ" engraved
+in gold and silver.  Something on the guards' faces tells you you don't
+seem to belong here!
+~
+205 32768 0
+0d0+0 0 0
+D0
+a large stone door.~
+large stone door~
+2 20561 20537
+D2
+~
+~
+0 -1 20534
+S
+#20536
+The Southwest Corner~
+This is the southwest corner of the compound.  There are several worshippers
+here chanting and singing.  They seem to be in an almost trace-like state,
+blindly devoted to their leader.
+~
+205 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20539
+D1
+~
+~
+0 -1 20537
+D6
+~
+~
+0 -1 20540
+S
+#20537
+Inside the Compound~
+You step inside, and suddenly are overwhelmed by the smell of incense.  You
+notice worshippers all around you, praying to their leader.  A small sign
+on the wall informs you that you have entered the compound of the Branch
+Zooropean cult.  If you're not a member, you best leave!
+~
+205 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20540
+D1
+~
+~
+0 -1 20538
+D2
+~
+large~
+1 -1 20535
+D3
+~
+~
+0 -1 20536
+D6
+~
+~
+0 -1 20541
+D7
+~
+~
+0 -1 20539
+S
+#20538
+The Prayer Nook~
+There are several mats spread on the floor here, and several cult members 
+are sitting on them praying.  They seem to be chanting "zooooo....zooooo"
+or some such silly thing.
+~
+205 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20541
+D3
+~
+~
+0 -1 20537
+D7
+~
+~
+0 -1 20540
+S
+#20539
+The Armory~
+This is the armory of the Branch Zooropean cult.  What would a cult be if
+it wasn't heavily armed?  In the future, when enough donations have been
+collected, this will be where the stockpile of arms sits.
+~
+205 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20540
+D2
+~
+~
+0 -1 20536
+D8
+~
+~
+0 -1 20537
+S
+#20540
+The Sacrificial Altar~
+This is where the members of the cult come to dispose of their victems. 
+Here, they offer them up to the skies, so that Zooropa shall be pleased.
+If you don't leave soon, you may be next!
+~
+205 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20542
+D1
+~
+~
+0 -1 20541
+D2
+~
+~
+0 -1 20537
+D3
+~
+~
+0 -1 20539
+D8
+~
+~
+0 -1 20538
+D9
+~
+~
+0 -1 20536
+S
+#20541
+The Donation Room~
+In the not too distant future, this will be where you will be expected
+to donate 10% of your income to the cult.  By dropping your money here, it
+will go into the cult's treasury.  It will be used for the betterment of
+cult members.
+~
+205 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20538
+D3
+~
+~
+0 -1 20540
+D9
+~
+~
+0 -1 20537
+S
+#20542
+The High Priest's Room~
+This is where the high priest of the Branch Zooropeans celebrates.  He
+or she is devinely chosen by Zooropa himself to do his work on the mud.
+If you're coming in here, you'd better have a darn good reason!
+~
+205 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20540
+S
+#20570
+Frank's Pleasure Suite~
+Scattered all around this room are various instruments which Dr. Frank N.
+Furter uses to create his "toys."  Hey...what's that over in the corner?  It
+looks like some sort of interplanetary transport device...you mean...he's
+going to send you to another planet?  Planet, Schmanet, Janet...
+~
+205 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7599
+D2
+~
+~
+0 -1 20590
+S
+#20578
+A Large Dark Cave~
+You have entered into a large dark cave.  This is perhaps the most
+frightening place you've ever been!  Flee now while you still can!  You
+would be lucky to escape from here alive!
+~
+205 1 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20579
+S
+#20579
+End of Hallway~
+You are at the pitch black end of the hallway.  You have never felt such
+immense fear in all of your life.  Turn back now when you still can!
+~
+205 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20578
+D2
+~
+~
+0 -1 20580
+S
+#20580
+Hallway~
+It's even darker this far north.  You feel immense danger from the north
+which causes you to shiver to the bone.  I'd seriously reconsider this if
+I was you!
+~
+205 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20579
+D2
+~
+~
+0 -1 20581
+S
+#20581
+Hallway~
+You are in a large hallway leading north.  To the north, it seems to get
+darker and darker.  Something tells you you'd better be pretty darn
+prepared if you intend to head north!
+~
+205 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20580
+D2
+~
+~
+0 -1 20589
+S
+#20582
+The Swimming Pool~
+You've fallen into the large swimming pool in the middle of the theatre.
+The water is crystal-clear, except for the transvestites and assorted
+fruit loops floating in it.  
+~
+205 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 20583
+S
+#20583
+Frank N. Furter's Theatre~
+You have entered into a cavernous auditorium filled with ex-celebs who
+must have done something really bad to get forced to sit through this
+floor show.  Below the stage you see a large swimming pool with a Greek
+mosaic on the bottom.
+~
+205 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20584
+D5
+~
+~
+0 -1 20582
+S
+#20584
+End of a Long Hallway~
+You have come to the far eastern end of the long east-west hallway.  Fear
+grips you as you consider going any farther to the east.  Entering the
+movie theatre could be one of the most frightening things you have ever
+done!
+~
+205 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20583
+D3
+~
+~
+0 -1 20585
+S
+#20585
+The Hallway~
+You are in a long and narrow east to west hallway.  To the west you see the
+door leading into Frank's central reception hall and ballroom.  You only
+wonder what kind of indecent things lie further east.
+~
+205 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20584
+D3
+~
+~
+0 -1 20588
+S
+#20586
+The Red Bedroom~
+You have entered into a bedroom with a slight rose tint to it.  There's
+a large canopy bed in the middle of the room and lots of giggling is
+coming from under the covers.  Something about this room just makes your
+skin crawl.
+~
+205 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20588
+S
+#20587
+The Blue Bedroom~
+You have entered into a room with a faint blue hue.  All around you is
+darkness except for the blue light above the large canopy bed in the 
+centre of the room.  What Frank does in this room is something you
+really don't care to know!
+~
+205 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20588
+S
+#20588
+Behind the Stage~
+You stand next to a globe behind the stage.  Looks like this area has been
+used several times for Frank's less wholesome hobbies.  It makes you want
+to take Charles Atlas by the....hand.  In just seven days, he can make you
+a man!
+~
+205 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20587
+D1
+~
+~
+0 -1 20585
+D2
+~
+~
+0 -1 20586
+D3
+A heavy Iron door is blocking your way.
+~
+Door~
+1 20595 20594
+S
+#20589
+Balcony Above Frank's Laboratory~
+You stand on the large circular balcony above Frank's laboratory.  Frank
+is below showing off his creation to Brad and Janet.  Standing among all
+these transvestites makes you feel a bit creepy and out of place.
+~
+205 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20581
+D5
+~
+~
+0 -1 20592
+S
+#20590
+Behind the Tank~
+You are behind the large glass tank which Rocky Horror appeared from.
+On the floor you see Rocky Horror -- he looks hurt.  Did THEY do this
+to him?  They sure did!  Good thing Janet's bandaged his wounds with
+torn shreads of her slip.
+~
+205 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20570
+D2
+~
+~
+0 -1 20592
+S
+#20591
+The Walk-In Freezer~
+You have entered a large walk in freezer.  The stench in here is almost
+unbearable.  It almost smells like rotting human flesh.  You have an urge
+to throw up and run out of this room as soon as possible!
+~
+205 137 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20592
+S
+#20592
+Frank N. Furter's Laboratory~
+You have entered into a serile room which resembles an operating room.
+At the far north end of the room is Frank N. Furter dressed in green
+surgical garb.  A large balcony surrounds the room, and it is filled
+with a gaggle of unconventional conventionists.  To the north is a large
+tank of water and to the west is a large freezer.
+~
+205 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20590
+D3
+~
+~
+0 -1 20591
+D4
+~
+~
+0 -1 20589
+D5
+~
+~
+0 -1 20593
+S
+#20593
+The Elevator~
+You are in a small metal elevator with Riff-Raff and Columbia.  Looks
+like you have to go up.  You can just pull out the aces when the time
+is right.
+~
+205 32776 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 20592
+D5
+~
+~
+0 -1 20597
+S
+#20594
+On the Stage~
+You have stepped onto the large stage in Frank's ballroom.  You see him
+perched on his plush vinal chair and grinning at you.  Coloumbia is
+to his left and Magenta is on the right.  All the unconventional
+conventionalists are standing around cheering Frank's rendition of
+"Sweet Transvestite."
+~
+205 8 0
+0d0+0 0 0
+D1
+A heavy iron door is here hidden behind the satin curtains.  Looks like
+you'll need a very special key for this one!
+~
+Door~
+2 20595 20588
+D2
+~
+~
+0 -1 20516
+D3
+~
+~
+0 -1 20595
+S
+#20595
+Aisle to a stage~
+You're in the middle of a large ballroom.  All around you stand a
+myriad assortment of transsexuals and generally odd people.  Ahead of
+you you see a raised stage.
+~
+205 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20594
+D3
+~
+~
+0 -1 20596
+S
+#20596
+Aisle to a stage~
+You stand in an aisle in the middle of a large ballroom.  You feel
+cold, wet, and just plain scared!  The aisle continues to the east.
+~
+205 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20595
+D3
+~
+~
+0 -1 20597
+S
+#20597
+The door to the ballroom~
+You have opened the door into a rather large ballroom.  All around you
+are a myriad assortment of transsexuals and aliens.  You're frightened,
+but something about this place intrigues you!
+~
+205 294920 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20596
+D3
+~
+~
+0 -1 20598
+D4
+~
+~
+0 -1 20593
+S
+#20598
+The Foyer~
+You've stepped into the foyer of a large castle.  You look around and
+can't help but wonder "What kind of a Place is this?  It must be some kind
+of hunting lodge for rich weirdos."  (yeah rich weirdos!)  Everything
+around you is dusty, including the transvestite perched on the banister!
+~
+205 294912 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20597
+D2
+Yup, it's still the door you entered through.
+~
+door~
+1 -1 20599
+S
+#20599
+The door to the castle~
+Riff-Raff has opened the door to Frank N. Furter's castle.  He gives
+you a quick "hello" before the lightning outside reveals a row of Harley
+Davidsons.  Oops...weren't supposed to see that!  I think perhaps you'd
+better.....come inside.
+~
+205 32768 0
+0d0+0 0 0
+D0
+Yup, it's a door alright...
+~
+door~
+1 -1 20598
+D2
+~
+~
+0 -1 20519
+D3
+~
+~
+0 -1 20522
+S
+$

@@ -1,0 +1,1474 @@
+#3000
+wizard~
+the Wizard~
+A Wizard walks around behind the counter, talking to himself.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard. He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.
+~
+2058 8 900 W3
+127 40 -100 1d1+30000 4d8+20
+30000 180000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3001
+baker~
+the Baker~
+The Baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker. But you can see that he has many scars on his
+body.
+~
+2058 8 900 W3
+127 40 -100 1d1+30000 2d8+18
+100 190000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3002
+grocer~
+the Grocer~
+A grocer stands at the counter, with a slightly impatient look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+2058 8 900 W3
+127 40 -100 1d1+30000 4d8+20
+30000 180000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3003
+weaponsmith~
+the Weaponsmith~
+A weaponsmith is standing here, eager to sell you his latest implements of
+carnage and destruction.
+~
+He's a young weaponsmith, who still has lots to learn.
+~
+2058 8 900 W3
+127 40 -100 1d1+30000 2d8+18
+30000 1000000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3004
+armorer~
+the Armorer~
+An Armorer stands here displaying his shiny new (and previously owned) armors.
+~
+An old but very strong armorer.  He has made more armors in his life than you
+have ever seen.
+~
+2058 8 900 W3
+127 40 -100 1d1+30000 2d8+18
+28500 185000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3005
+receptionist~
+the Receptionist~
+A receptionist sits behind the desk, smiling at you.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+2059 32 900 W3
+127 15 -25 1d1+30000 8d8+20
+0 1000000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-250 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3006
+captain~
+the Captain~
+A retired Captain stands here, selling boats.
+~
+This Captain has eaten more sharks than you have killed peas.
+~
+2058 0 8 W3
+91 40 -100 1d1+30000 2d8+12
+10000 300000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3007
+sailor~
+the Sailor~
+A Sailor stands here, waiting to help you.
+~
+He looks like a strong, fit sailor.
+~
+2059 0 900 W3
+127 40 -100 1d1+30000 2d8+12
+2000 200000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3008
+uncle juan~
+Uncle Juan~
+Uncle Juan is here ready to take your order.
+~
+He looks like he may or may not have a green card.
+~
+2058 0 900 W3
+91 40 -100 1d1+30000 2d8+18
+2000 1000000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3009
+wally watermaster~
+Wally the Watermaster~
+Wally the Watermaster is standing behind the counter, proudly displaying his
+fine collection of contemporary waters.
+~
+Wally is a bit pudgy but looks very strong.  He has a glass of Midgaard
+Natural Spring Water in his hand.
+~
+2058 8 800 W3
+91 40 -100 1d1+30000 1d8+18
+1000 180000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3010
+postmaster post master~
+the Postmaster~
+The head Postmaster is standing here, waiting to help you with your mail.
+~
+The Postmaster seems like a happy old man, though a bit sluggish.  He worries
+about the reputation of the MMS (Midgaard Mail Service), as many people seem to
+think that it's slow.  Perhaps if he were to brush the cobwebs from his uniform
+it'd help to make a better impression.
+~
+2059 8 1000 W3
+91 60 -25 1d1+30000 1d8+18
+2000 0
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-250 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3011
+quest solo prototype proto~
+Prototype for solo quests~
+The Prototype for solo quests. these stats are a guide. edit mob 3012
+~
+~
+26635 197768 0 W3
+123 40 -10 10d100+1000 4d4+21
+369000 100000
+8 8 1
+18 100 18 18 13 13 0
+8 2 2
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3012
+big evil nasty guy~
+the Big Evil Nasty Guy~
+The pintacle of ultimate evil is here, smirking in disgust.
+~
+~
+20553 394280 -1000 W3
+127 40 -15 1d1+29000 7d5+50
+0 0
+8 8 0
+18 100 18 18 18 18 0
+8 4 0
+-150 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#3013
+quest postmaster~
+the quest Postmaster~
+You see the man, the myth, the legend, the quest postmaster.
+~
+He is a tall boy about 7 feet tall, and he is ready to kick yer ass.
+~
+26639 16974984 0 W3
+127 69 -38 100d100+22000 8d8+40
+381000 100000
+8 8 1
+18 100 18 18 13 13 0
+8 2 2
+-380 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3014
+demon minor lesser minion smalldemon~
+a Demonic Minion~
+A minion of the great Demon Lord is here protecting his master.
+~
+~
+30731 787464 0 W3
+80 25 -5 5d5+500 6d6+20
+10000 50000
+8 8 0
+13 0 13 13 13 13 0
+8 2 1
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3020
+guildmaster master~
+the Guildmaster~
+The Guildmaster is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses.  She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+2059 136 1000 W3
+60 60 -100 1d1+10000 1d8+50
+30000 380000
+8 8 2
+13 0 13 13 13 13 0
+8 2 2
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3021
+guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+You are in no doubt that this guildmaster is truly close to your god; he has
+a peaceful, loving look.  You notice that he is surrounded by a white aura.
+~
+2059 136 1000 W3
+60 60 -100 1d1+10000 1d8+50
+30000 380000
+8 8 1
+13 0 13 18 13 13 0
+10 2 2
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3022
+guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief.  She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+2059 136 1000 W3
+60 60 -100 1d1+10000 1d8+50
+18794 380000
+8 8 2
+13 0 13 13 18 13 0
+3 2 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3023
+guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+2059 0 1000 W3
+60 60 -25 1d1+10000 1d8+50
+30000 380000
+8 8 1
+18 0 13 13 13 13 0
+20 2 2
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3024
+sorcerer guildg~
+the Sorcerer~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive as
+well as defensive spells make him a deadly opponent.
+~
+4204555 136 900 W3
+57 20 -20 16d10+2950 2d8+22
+2000 911400
+8 8 1
+13 0 13 13 13 13 0
+8 2 0
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3025
+knight templar guildg~
+the Knight Templar~
+A Knight Templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the Faith.
+His duty is to protect the faithful fom persecution and infidel attacks and
+his religious devotion combined with his superior skill makes him a deadly
+opponent.
+~
+4196363 136 1000 W3
+57 20 -5 16d10+2950 2d8+22
+2000 455700
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3026
+assassin guildg~
+the Assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as possible,
+using all sorts of weapons.  His superior knowledge of how and where to use
+them combined with his extraordinary stealth makes him a deadly opponent.
+~
+4204555 524426 400 W3
+54 20 -10 16d10+1950 1d8+25
+2000 455700
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3027
+knight guildg~
+the Knight~
+A knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+4196363 8 800 W3
+61 20 -8 16d10+2950 2d8+33
+2000 455700
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-80 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3029
+quest proto prototype group~
+Prototype for group quests~
+You see the man, the myth, the legend, the quest postmaster.
+~
+He is a tall boy about 7 feet tall, and he is ready to kick yer ass.
+~
+26639 197768 0 W3
+127 40 -10 100d100+22000 8d8+40
+381000 100000
+8 8 1
+18 100 18 18 13 13 0
+8 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3030
+statue~
+the statue of Brian 'Wes' Wesley~
+The statue of Brian 'Wes' Wesley, former IMP, stands here.
+~
+You see before you the statue of Wesley.  He was known in real life
+as Brian...and you know he helped rebuild and repair a failed
+mud known as RealityBites....
+~
+26638 0 1000 W3
+127 40 -15 100d100+10000 10d10+40
+381000 455700
+8 8 1
+18 100 13 13 13 13 0
+0 5 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3031
+paladin protector guildguard~
+the Protector~
+The Protector is guarding the entrance.
+~
+Years of training show as you look at this strong-looking man.  His holy
+shield strapped to his left arm glows as he watches you approach.  The 
+point of his broadsword is in the ground as he holds onto the pommel,
+ready to use it if the need calls.  You notice that he is without a
+helm as his hair blows in the breeze created by your enterance into
+this room.
+~
+4196363 136 1000 W3
+57 20 -5 16d10+2950 2d8+22
+2000 455700
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3032
+antipaladin desecrator guildguard~
+the Desecrator~
+A Desecrator is guarding the entrance.
+~
+The man blocks the doorway as you enter.  His black, full plate armor
+shows some dents from a recent battle.  This man looks like he knows how
+to handle the sword that hangs in his scabbard.  His black helm with
+a red plume is held under his right arm while his shield gives off
+an evil red glow.  You know it will take him mere seconds to wear the
+helm and grab the sword.  Not enough time for you to damage him too
+much.  His eyes glow a bloody red as you stand there staring at him.
+~
+4196363 136 -1000 W3
+57 20 -5 16d10+2950 2d8+22
+2000 455700
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3033
+guildmaster master~
+the Guildmaster~
+The Guildmaster is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses.  She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+2059 136 1000 W3
+60 60 -25 1d1+10000 1d8+50
+30000 380000
+8 8 2
+13 0 13 13 13 13 0
+8 2 2
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3034
+waiter~
+the Waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+4194314 0 900 W3
+35 18 2 16d10+1083 1d8+20
+2000 51000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3035
+waiter~
+the Waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+4194314 0 900 W3
+28 18 2 16d10+1083 1d8+20
+2000 51000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#3040
+bartender~
+the Bartender~
+A Bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+4194314 0 900 W3
+38 18 2 16d10+1083 1d8+40
+2000 76000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3041
+waiter~
+the Waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+4194314 0 900 W3
+35 18 2 16d10+1083 1d8+20
+2000 51000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3042
+waiter~
+the Waiter~
+A man who in his young days was a famous sorcerer but now leads a quiet,
+peaceful life as a waiter.
+~
+(null)~
+4194314 0 600 W3
+35 19 2 16d10+1083 1d8+20
+2000 36000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3043
+waiter~
+the Waiter~
+A serene waiter stands here, meditating upon his faith.
+~
+(null)~
+4194314 0 1000 W3
+35 19 2 1d100+1100 1d8+25
+2000 53500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3044
+waiter~
+the Waiter~
+A waiter who knows where all his costumers has their money.
+~
+(null)~
+4194314 0 600 W3
+35 19 2 16d10+1083 1d8+20
+2000 36000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3045
+waiter~
+the Waiter~
+A waiter is here who looks like he could easily kill you while still carrying
+quite a few firebreathers.
+~
+(null)~
+4194314 0 600 W3
+35 19 2 16d10+1083 1d8+20
+2000 36000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3046
+filthy~
+Filthy~
+Filthy is standing here, eager to serve you a special drink.
+~
+Filthy looks real, ehm, dirty.  He likes to keep his costumers happy,
+but do not mess with him or else he'll get upset.
+~
+2062 136 600 W3
+127 19 -10 1d1+30000 1d8+30
+2000 150000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3050
+clinton bill president states united~
+Bill Clinton~
+Bill Clinton, President of the United States, is here chuckling evilly.
+~
+Doesn't look like much, does he? This is the man plotting to destroy this
+MUD and every other MUD like it! Kill him now, before he succeeds!
+~
+26635 197768 0 W3
+50 40 -10 10d100+1000 4d4+21
+150000 100000
+8 8 1
+18 100 18 18 13 13 0
+8 2 2
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3051
+monk master grandmaster flowers~
+the Grandmaster of Flowers~
+The highest ranking monk is here to teach you the ancient ways.
+~
+  The Grandmaster of Flowers is the most honorable title among
+monks. The thin, bald-headed man who regards you calmly hardly
+seems the lethal type. But that is the mystique of monks...the
+ability to accomplish amazing feats by means of training, not
+raw phisical abilities.
+~
+4194331 0 800 W3
+127 120 -60 1d1+29999 100d5+100
+0 500000
+8 8 1
+13 0 13 13 18 13 13
+19 2 2
+-600 0 14 0 200 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#3052
+master grandmaster great sorcerer mage wizard archmage~
+the Great Sorcerer~
+The master sorcerer waits for apprentices.
+~
+  You can see very little of this master of the arcane arts. He
+sits behind a large desk, and is wearing a heavy black robe, with
+the cowl pulled down. Noticing your attention, he becons with one
+thin-fingered hand for you to approach, and greets you with a
+whispered voice.
+~
+4194331 0 800 W3
+127 120 -60 1d1+29999 100d5+100
+0 500000
+8 8 1
+13 0 18 13 13 13 13
+8 2 2
+-600 0 0 0 200 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#3053
+warrior master king grandmaster~
+the Warrior King~
+A heavily-muscled master warrior is willing to train you.
+~
+  He may rule a kingdom, but he is an adventurer at heart.
+Standing head and shoulders taller than most men, he looks like
+a body-builder. Shunning armor, he faces his foes with a combination
+of strength and fury that few can match.
+~
+4194331 0 800 W3
+127 120 10 1d1+29999 100d11+100
+0 500000
+8 8 1
+20 0 13 13 13 13 13
+20 3 2
+100 3 8 0 200 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#3054
+master grandmaster priest high high-priest~
+the High-Priest~
+A high priest wishes to enlighten your soul.
+~
+  Dressed all in white, with gold trim, and wearing a mitre, the
+high priest hardly looks like an impoverished humanitarian. In
+fact, he has a certain assured authority about him. Maybe being
+a cleric wouldn't be bad after all.
+~
+4194331 0 800 W3
+127 120 -60 1d1+29999 100d5+100
+0 500000
+8 8 1
+13 0 13 18 13 13 13
+10 2 2
+-600 0 1 0 200 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#3055
+master grandmaster ranger man outdoorsman~
+the Wilderness Guide~
+A true outdoorsman tips his hat to you and smiles.
+~
+  He wears a hat with the brim bend upwards on one side, and a
+vest made from some sort of leather. A necklace of sharp teeth
+decorates his neck. Everything about this master ranger attests
+to his competance.
+~
+4194331 0 800 W3
+127 120 -60 1d1+29999 100d5+100
+0 500000
+8 8 1
+13 0 13 13 18 13 13
+17 2 2
+-600 0 6 0 200 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#3056
+thief spy master grandmaster~
+the Master Spy~
+A well-dressed man lifts a glass of champaign to you as you enter.
+~
+  Dressed in a well-tailored suit and looking like a movie star,
+this man hardly seems the thieving type. That's the point. As a
+master spy, he has stolen secrets and technologies from anyone
+he was ordered to. A master of deception, he is a gentleman one
+minute, and commando the next.
+~
+4194331 0 800 W3
+127 120 -60 1d1+29999 100d5+100
+0 500000
+8 8 1
+13 0 18 13 18 13 13
+0 2 2
+-600 0 5 0 200 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#3057
+knight holy paladin master grandmaster~
+the Holy Knight~
+A great, holy knight bows to you, and asks to teach you virtue.
+~
+  His neaty-groomed hair and well-trimmed, greying beard give this
+man an air of dignity and authority. Dressed in chain mail even
+outside of battle, and wearing a tabard bearing a red lion crest,
+he is every bit the dedicated warrior.
+~
+4194331 0 950 W3
+127 120 -60 1d1+29999 100d5+100
+0 500000
+8 8 1
+13 0 13 13 18 13 18
+0 2 2
+-600 0 6 0 200 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#3058
+dark lord antipaladin master grandmaster~
+the Dark Lord~
+A black clad master of darkness waits silently for pupils.
+~
+  Dressed completely in black, this large man exudes evil. His face
+is obscured by a mask, also of black, presumably covering some
+disfigurement brought about by his dealing with dark powers.
+When he adresses you, his voice is raspy, and his breathing labored,
+suggesting that this man has paid the price for the vast powers
+he now posesses.
+~
+4194331 0 -950 W3
+127 120 -60 1d1+29999 100d5+100
+0 500000
+8 8 1
+13 0 13 13 18 13 13
+9 2 2
+-600 0 6 0 200 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#3059
+keeper peacekeeper gold strikeforce~
+the peacekeeper~
+A Gold StrikeForce peacekeeper is standing here, nervously ready to jump at any sign of trouble.
+~
+He looks real tuff and real smart.  He also looks like he is ready to rock!
+~
+2249 8 1000 W3
+32 20 0 13d6+625 1d8+15
+2500 61000
+8 8 1
+13 0 13 13 13 13 0
+1 2 0
+0 0 4 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#3060
+cityguard city guard red strikeforce~
+the cityguard~
+A Red StrikeForce cityguard stands here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+6345 8 1000 W3
+31 20 1 1d24+375 1d8+12
+500 58500
+8 8 1
+13 0 13 13 13 13 0
+1 2 0
+10 0 4 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#3061
+janitor~
+the Janitor~
+A janitor is walking around, cleaning up.
+~
+~
+2057 0 800 W3
+1 0 9 5d6+26 1d5+0
+34 240
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3062
+fido dog~
+a beastly fido~
+A beastly fido is mucking through the garbage here looking for food.
+~
+Fido is a small dog that has a foul smell and pieces of rotted meat hanging
+around his teeth.
+~
+169 0 -200 W3
+0 5 10 1d6+10 1d4+0
+0 155
+8 8 1
+18 100 18 18 13 13 0
+0 2 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 10
+~
+#3063
+mercenary merc~
+the mercenary~
+A mercenary is waiting for a job here.
+~
+He looks pretty mean, and you imagine he'd do anything for money.
+~
+2060 0 -330 W3
+7 5 5 5d6+166 1d6+1
+87 3000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#3064
+drunk~
+the drunk~
+A singing, happy Drunk.
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+10 0 400 W3
+2 1 8 5d6+60 1d6+0
+53 500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3065
+beggar~
+the beggar~
+A beggar is here, asking for a few coins.
+~
+The beggar looks like she is fed up with life.
+~
+10 0 400 W3
+1 0 9 5d6+26 1d5+0
+0 625
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3066
+yaj onivel~
+yaj onivel~
+A yaj onivel is here, walking backwards.
+~
+The yaj is a small imp that has been reversed by some jay.
+~
+169 0 -200 W3
+0 0 10 1d6+10 1d4+0
+0 155
+8 8 1
+13 0 13 13 13 13 0
+4 2 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 10
+~
+#3067
+cityguard city guard blue strikeforce~
+the cityguard~
+A Blue StrikeForce cityguard stands here, guarding the gate.
+~
+A big, strong, helpful, trustworthy guard.
+~
+6219 0 1000 W3
+30 20 1 1d24+375 1d8+12
+500 56000
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+10 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#3068
+green gelatinous blob~
+the green gelatinous blob~
+An oozing green gelatinous blob is here, sucking in bits of debris.
+~
+A horrid looking thing; it's huge, greenish, and looks like the blob.
+~
+2185 8 0 W3
+12 20 0 2d5+101 2d4+2
+1000 11000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#3069
+paladin waiter~
+the Waiter~
+A waiter who seems to have reached contact with God.
+~
+~
+10 0 600 W3
+127 19 2 1d1+10000 1d8+25
+2000 125000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3070
+knight templar guildg~
+the Knight Templar~
+A magnificent Paladin Knight is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the Faith.
+His duty is to protect the faithful fom persecution and infidel attacks and
+his religious devotion combined with his superior skill makes him a deadly
+opponent.
+~
+2059 136 1000 W3
+71 20 -5 16d10+2950 2d8+22
+2000 455700
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3071
+guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge he possesses.  He is wearing fine magic clothing,
+and you notice that he is surrounded by a blue shimmering aura.
+~
+2059 136 1000 W3
+93 60 -100 1d1+10000 1d8+50
+18794 380000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3072
+statistician~
+the Statistician~
+The statistician is here to help you with your numbers.
+~
+This man has the ability to increase or decrease your stats.  Don't
+make him angry or you will regret it.
+~
+26635 1160 0 W3
+127 40 -100 1d1+30000 1d8+100
+0 1000000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3073
+samson smith man smithy~
+Samson~
+A powerful man is here working at the forge.
+~
+Samson is almost seven feet tall, and his arms are as wide around as your
+waist.  He is wearing only pants and boots, and is covered in soot except
+where trickles of sweat have washed it away.  His body is marked with
+small scars from red hot shards of iron.  His long black hair is pulled
+back loosely, framing a handsome face.  His hazel eyes meet your gaze with
+such a look of pride and confidence that you find yourself thinking that
+he may be the best smith you have ever met, even before you see his work.
+~
+57355 131112 0 W3
+127 100 -100 1d1+29999 100d100+100
+381000 200000
+8 8 1
+25 0 13 13 13 13 0
+0 2 2
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3074
+guildmaster monk master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+  An old man with grey hair, your guildmaster is truly ancient. His
+knowledge of the traditional ways is vast, and he is a master of
+every technique.
+~
+4210715 0 0 W3
+120 60 10 1d1+9999 40d5+50
+10000 100000
+8 8 1
+13 0 13 13 13 13 13
+3 2 0
+100 0 8 0 0 0
+10 10 10 10 10
+0 0 0
+6 1
+~
+#3075
+myrian archmage mage ancient shriveled woman~
+Archmage Myrian~
+An ancient, shriveled woman watches you from beneath a large hooded robe.
+~
+Her body is shriveled and looks about 300 years old, but she still moves
+and talks with strength and confidence. This quality, along with her
+robes, reveal her as a powerful mage.
+~
+2285595 1064 0 W3
+200 127 -50 0d0+30000 5d10+20
+14250 100000
+8 8 2
+13 0 25 25 13 13 13
+0 2 2
+-500 0 2 1000 150 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#3076
+shopkeeper man gods messenger~
+the Gods' Shopkeeper~
+A nine foot tall man sits in the middle of the room.
+~
+He is huge, nine feet tall to be exact. He has rippling muscles and bronze
+skin. His features are perfect. This is a messenger from the Gods. He was
+sent to provide rewards for those who pass the tests the Gods set forth
+for them.
+~
+8314971 67142696 0 W3
+200 127 -100 0d0+30000 10d10+100
+0 200
+8 8 1
+25 0 25 25 25 25 25
+0 5 2
+-1000 13 4 1000 200 100
+1 1 1 1 1
+63 0 0
+6 1
+~
+#3083
+Hotel Manager~
+Magica Hotel Manager~
+Magica, the hotel manager smiles happily behind the front desk
+~
+A smiling young looking woman stands here proud of having the best hotel in 
+all Town.
+
+~
+8201 0 900 W3
+100 40 -10 1d1+30000 1d8+100
+40000 160000
+8 8 2
+13 0 13 13 13 13 0
+20 3 2
+-100 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3084
+psionicist master~
+the master psionicist~
+The master psionicist probes your mind for psionic ability.
+~
+  A tall, wirey man stares down at you, trying to assess your worthiness. You
+feel a tingle in your mind and then a powerful presence as this master of all
+psionicists probes you for the powers which would qualify you to become one
+of the rarest of people on this world -- a psionicist.  He frowns and you can
+tell he is almost ready to reject your untrained mind as not having the
+prowess needed, but at the last minute something changes his mind and his
+face returns to its normal, neutral mask.
+~
+4194331 0 800 W3
+127 120 -60 1d1+29999 100d5+100
+0 500000
+8 8 1
+13 0 13 13 18 13 13
+19 2 2
+-600 0 14 0 200 0
+1 1 1 1 1
+0 0 0
+6 1
+~
+#3090
+kitten~
+the kitten~
+A small loyal kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+14 0 200 W3
+1 0 9 1d6+30 1d4+0
+0 250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3091
+puppy~
+the puppy~
+A small loyal puppy is here.
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+14 0 100 W3
+1 0 9 1d6+30 1d4+0
+0 250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3092
+beagle~
+the beagle~
+A small, quick, loyal beagle is here.
+~
+The beagle looks like a fierce fighter.
+~
+14 0 50 W3
+2 1 8 1d12+60 1d6+0
+0 500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#3093
+rottweiler~
+the rottweiler~
+A large, loyal rottweiler is here.
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+14 0 -200 W3
+4 2 7 1d12+96 1d7+0
+0 750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#3094
+wolf~
+the wolf~
+A large, trained wolf is here.
+~
+The wolf looks like a strong, fearless fighter.
+~
+14 0 -200 W3
+5 3 6 1d12+130 1d8+0
+0 1000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#3095
+cryogenicist cryo~
+the Cryogenicist~
+The Cryogenicist is here, staring at you and playing with a canister of
+liquid nitrogen.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+2059 32 900 W3
+127 15 -25 1d1+30000 8d8+20
+0 0
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-250 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3096
+Anti-Paladin guildguard~
+an Anti-Paladin~
+An Anti-Paladin is guarding the entrance.
+~
+He is a specially trained warrior belonging to the forces of evil.
+His duty is to protect his brethen from persecution and his dedication
+to the forces of evil combined with his superior skill makes him a
+deadly opponent.
+~
+2058 136 -1000 W3
+71 20 -5 16d10+2950 2d8+22
+2000 455700
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3097
+waiter~
+the Waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+10 0 900 W3
+35 18 2 16d10+1083 1d8+12
+2000 43500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3098
+guildmaster master~
+the Guildmaster~
+Your guildmaster is standing here.
+~
+Even though your guildmaster looks tired and battle scarred, you can
+clearly see the vast amount of knowledge he possesses.  He is
+wearing dark black armor, and you notice that he is surrounded by
+a black aura.
+~
+2059 136 1000 W3
+93 60 -100 1d1+10000 1d8+50
+18794 380000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#3099
+guard monk acolyte~
+an Acolyte Monk.~
+An acolyte monk guards the monks' guild.
+~
+  This acolyte is wearing a drab-colored tunic, leggings and
+sandals, and has his head shaved bare. He is ordered to guard this
+entrance against non-monks, even at the cost of his own life.
+~
+4194331 0 500 W3
+55 20 -10 16d10+2950 2d8+22
+250 227850
+8 8 1
+13 0 13 13 13 13 13
+0 2 2
+-100 0 8 0 0 0
+20 20 20 20 20
+0 0 0
+6 1
+~
+$

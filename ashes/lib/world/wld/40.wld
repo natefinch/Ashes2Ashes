@@ -1,0 +1,1787 @@
+#4000
+Path leading towards Moria~
+   You are on a path leading north, small hills surrounds you.  You feel
+the forces of evil approach you from the north.  
+~
+40 32772 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 4001
+D2
+~
+~
+0 -1 3199
+S
+#4001
+The hills~
+   You are on a small path leading north, dark threatening hills
+surrounds you to almost all sides.
+~
+40 32772 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 4002
+D1
+The hills continue east. Far off in the distance, you see a snowy mountain.
+~
+~
+0 -1 21700
+D2
+~
+~
+0 -1 4000
+S
+#4002
+End of the path~
+   The path stops here, to the north is a single mountain and around you
+are some threatening hills.  There is a dark cave to the north.  You see a
+large sign on the mountain.
+~
+40 4 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 4010
+D2
+~
+~
+0 -1 4001
+D4
+~
+~
+0 -1 4596
+E
+sign~
+The sign says:
+***********************************************************************
+*                                                                     *
+* ******************************************************************* *
+* *                                                                 * *
+* *                    The Mines of Moria                           * *
+* *                                                                 * *
+* *                  Enter at your own risk.                        * *
+* *                                                                 * *
+* *     Welcome to the mines of Moria..  At present there are only  * *
+* *           3 levels.  Later the plan is to build 20...           * *
+* *                                                                 * *
+* *     Are you below level 3 Don't enter..                         * *
+* *     Are you below level 8 Don't enter alone..                   * *
+* *                                                                 * *
+* ******************************************************************* *
+*                                                                     *
+***********************************************************************
+~
+S
+#4003
+A dank, dark tunnel~
+The tunnel grows narrower here, and damper. You hear water dripping and the
+whole area seems to smell of wet earth. You seem to hear some noise coming
+from the other end of the tunnel, to the north.
+~
+40 33025 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4004
+D2
+~
+~
+0 -1 4059
+S
+#4004
+The dank, dark tunnel~
+The tunnel continues as before, but there is definitely the sound of activity
+coming from the end of the tunnel, to the west. The tunnel continues back south,
+or you can proceed west, where the tunnel opens into a large cave.
+~
+40 32768 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4003
+D3
+~
+~
+0 -1 4005
+S
+#4005
+A huge cave~
+The tunnel opens out into a huge cave, which has been decorated with soiled
+furs and bolts of cloth, obviously stolen from caravans heading to the city.
+This is the domain of the chieftain of the orcs, who does not look very
+happy to see you visiting his abode...
+~
+40 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4004
+S
+#4006
+Under the hole~
+You have descended into an even darker portion of the caves; everything is
+completely black, except what is illuminated by your light source. You
+appear to be in a dead end, but you can squeeze through a narrow crack to
+the west, or go back up through the hole above you.
+~
+40 32769 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4007
+D4
+~
+~
+0 -1 4110
+S
+#4007
+A very dark tunnel~
+You are in a tunnel that leads north and south. On the eastern wall you see
+a crack that it is just possible to squeeze through. It is very dark and
+quiet here, the only sounds being your own labored breathing and a few drips
+of running water.
+~
+40 32773 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4008
+D1
+~
+~
+0 -1 4006
+D2
+~
+~
+0 -1 4126
+S
+#4008
+A very dark tunnel~
+You are in the northern end of a very dark underground tunnel. The tunnel
+continues north and south. You hear activity from somewhere to the north.
+~
+40 32769 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4009
+D2
+~
+~
+0 -1 4007
+S
+#4009
+A very dark tunnel~
+You are in the northern end of a very dark underground tunnel. All seems
+quiet here, but you can hear some muffled activity to the north, where
+the tunnel seems to get a bit wider. You can also continue south.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4045
+D2
+~
+~
+0 -1 4008
+S
+#4010
+The cave~
+   You are in a cave, to the south you sense fresh air.  To the north a
+small tunnel continues into the mountain.
+~
+40 32777 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4011
+D2
+~
+~
+0 -1 4002
+S
+#4011
+The tunnel~
+   You force your way through a small tunnel, to you south you sense 
+a little fresh air, and to the north the tunnel continues.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4014
+D2
+~
+~
+0 -1 4010
+S
+#4012
+The tunnel~
+   You are in a small tunnel, to the north there is a cave.  The tunnel
+continues to the east.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4016
+D1
+~
+~
+0 -1 4013
+S
+#4013
+The tunnel~
+   You are in a small tunnel leading east-west.  The floor is covered by
+dust.
+~
+40 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4014
+D3
+~
+~
+0 -1 4012
+S
+#4014
+The tunnel~
+   You are in a tunnel, the tunnel continues to the south and to the 
+west, to the north there is a cave.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4018
+D2
+~
+~
+0 -1 4011
+D3
+~
+~
+0 -1 4013
+S
+#4015
+The tunnel~
+   You are in a small tunnel, the tunnel continues west.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4019
+D3
+~
+~
+0 -1 4014
+S
+#4016
+The large cave~
+   You are in a large cave, the cave continues east and west, to the south
+you notice a small tunnel.
+~
+40 32777 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 4017
+D2
+~
+~
+0 -1 4012
+D3
+~
+~
+0 -1 4023
+S
+#4017
+The large cave~
+   You are in the east end of the large cave.
+~
+40 32777 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 4016
+S
+#4018
+The cave~
+   You are in the south end of a cave, to the south you see a tunnel.  You
+notice a large pile of bones in the corner.
+~
+40 32777 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4025
+D2
+~
+~
+0 -1 4014
+E
+pile bones~
+Well you better watch out - some of the bones are human !
+~
+S
+#4019
+The tunnel~
+   You are in a north-south leading tunnel.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4026
+D2
+~
+~
+0 -1 4015
+S
+#4020
+The hole~
+   You are by a hole in the floor, you can leave down, or north.
+~
+40 32781 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4027
+D5
+~
+~
+0 -1 4064
+S
+#4021
+The hole~
+   You are by a hole in the floor, exits are down or east.
+~
+40 32781 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4022
+D5
+~
+~
+0 -1 4115
+S
+#4022
+The damp tunnel~
+   You are in a damp tunnel, your clothes feel wet.  The tunnel continues
+to the north, to the west you see a hole in the floor and to the east
+there is a large cave.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4024
+D1
+~
+~
+0 -1 4023
+D3
+~
+~
+0 -1 4021
+S
+#4023
+The large cave~
+   You are in the western part of the large cave, to the west you see
+a damp tunnel.
+~
+40 32777 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 4016
+D3
+~
+~
+0 -1 4022
+S
+#4024
+The damp tunnel~
+   You are in a damp tunnel, that leads west.
+~
+40 32777 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 4022
+D3
+~
+~
+0 -1 4059
+S
+#4025
+The cave~
+   You are in the north end of a cave.  To the east you see some tunnels
+which leads in many directions.
+~
+40 32777 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 4026
+D2
+~
+~
+0 -1 4018
+D3
+~
+~
+0 -1 9600
+S
+#4026
+The many tunnels~
+   You are in a tunnel, that leads of in all directions.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4028
+D1
+~
+~
+0 -1 4027
+D2
+~
+~
+0 -1 4019
+D3
+~
+~
+0 -1 4025
+S
+#4027
+The tunnel~
+   You are in a north-south leading tunnel, you also notice a tunnel to
+the west.  From the north you sense the fresh air!
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4029
+D2
+~
+~
+0 -1 4020
+D3
+~
+~
+0 -1 4026
+S
+#4028
+The smelly tunnel~
+   You are in a north-south leading tunnel, you see a small light
+to the north.  You notice a strange smell from the north..
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4030
+D2
+~
+~
+0 -1 4026
+S
+#4029
+The cave~
+   You are in a cave that is filled with fresh air, you sense the
+wind blowing from the north.  To the south you see a small tunnel
+continue into the mountain.
+~
+40 32777 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4031
+D2
+~
+~
+0 -1 4027
+S
+#4030
+The light cave~
+   You are in a light cave, through a hole large above you, you see 
+the sky.  A small tunnel to the south is the only way out.
+You notice the source of the strange smell, all around you there is
+corpses from several monsters.
+~
+40 32768 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 4028
+E
+corpse corpses~
+IT STINKS!
+~
+S
+#4031
+The valley~
+   You are in a small valley, surrounded by hills and a mountain to 
+the south.  In the mountain there is a cave.  To the north you enter
+the hills.
+~
+40 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4032
+D2
+~
+~
+0 -1 4029
+E
+cave~
+Well it doesn't look nice, but it's the only way out..
+~
+S
+#4032
+The foothills~
+   You are on a winding path that leads through the foothills on the
+other side of the mountain.  The path continues north.
+~
+40 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4033
+D2
+~
+~
+0 -1 4031
+S
+#4033
+The intersection in the foothills~
+   The small path you are following splits here.  The path continues
+north and south or you can follow a trail east into the mountains.
+~
+40 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4034
+D1
+~
+~
+0 -1 4037
+D2
+~
+~
+0 -1 4032
+S
+#4034
+The grassy area of the foothills~
+  The grass here is unusually high.  You notice several areas where
+someone or something large has crush spots of the down.  Several very
+large rocks litter this area.  You can go north, west or south.
+~
+40 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4035
+D2
+~
+~
+0 -1 4033
+D3
+~
+~
+0 -1 4042
+S
+#4035
+The foothills end~
+  At this point you are leaving the foothills.  You see a plains area
+to the north of here.  You can spot a small city in the distance from
+here.
+~
+40 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4036
+D2
+~
+~
+0 -1 4034
+S
+#4036
+The plains~
+   The plains.  The only exit is south.
+~
+40 32768 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 4035
+S
+#4037
+The foothills path~
+  exits are east and west.
+~
+40 32768 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 4038
+D3
+~
+~
+0 -1 4033
+S
+#4038
+Base of the mountain~
+  Exits are east and west.
+~
+40 32768 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 4039
+D3
+~
+~
+0 -1 4037
+S
+#4039
+A trail up the mountain~
+   Exits are east and west.
+~
+40 32768 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 4040
+D3
+~
+~
+0 -1 4038
+S
+#4040
+The mountain top~
+You are on top of the mountain. Exits are north and west.
+~
+40 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4041
+D3
+~
+~
+0 -1 4039
+S
+#4041
+The lion's den~
+This is definitely a den of some sort.  There are partially gnawed bones
+strewn about - and some are definitely human.  Some are also definitely
+fresh. You get the distinct feeling this den is still being used as such.
+~
+40 32768 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 4040
+S
+#4042
+The level foothills~
+You are in the level foothills. The exits are east and west, and to the
+north you see a large cave with mist rising from the entrance.
+~
+40 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 9000
+D1
+~
+~
+0 -1 4034
+D3
+~
+~
+0 -1 4043
+S
+#4043
+The cave entrance~
+   Exits are east and west.
+~
+40 32768 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 4042
+D3
+~
+~
+0 -1 4044
+S
+#4044
+The ogre's den~
+This place has a certain rude splendor to it. Moth-eaten and matted furs
+cover the floor, and a number of animal bones have been scattered among
+them. Whoever lives here isn't very sophisticated, it seems.
+~
+40 32777 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 4043
+S
+#4045
+Before the large cavern~
+The dark tunnel widens out here, and as you look to the north you see that it
+leads into the mouth of a very large cavern, where you hear some clinking of
+chains and animal noises. There is also a side passageway to the west, or
+you may continue back south.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4046
+D2
+~
+~
+0 -1 4009
+D3
+~
+~
+0 -1 4076
+S
+#4046
+The large cavern~
+You are inside a large cavern. The animal noises are louder now, as is the
+sound of what you believe to be chains clinking. Suddenly you hear some
+deep, guttural noises that sound like language coming from the back of the
+cavern. You may proceed north or east from here, or go back south through
+the opening to the cavern.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4048
+D1
+~
+~
+0 -1 4047
+D2
+~
+~
+0 -1 4045
+S
+#4047
+The large cavern~
+You are in the southeast portion of the large cavern. You hear cursing and
+animal noises to the north, as well as the clink of metal. You can also go
+west from here, to another portion of the cavern.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4049
+D3
+~
+~
+0 -1 4046
+S
+#4048
+The large cavern~
+You are in the northwestern portion of the large cavern. The animal noises,
+guttural sounds, and other sounds of activity are much louder, and appear
+to be coming from the northeastern potion of the cavern. It is still too
+dark to see any movement there, though. You may investigate the noises to
+the east, or go back south.
+~
+40 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4049
+D2
+~
+~
+0 -1 4046
+S
+#4049
+The Houndmaster's area~
+This is the northeast portion of the large cavern, and it appears to have
+been given over to the purpose of maintaining a kennel for several large
+canines. However, as you enter the area, you notice that there are no dogs
+chained up the the cavern wall here, but several very large wargs, and the
+figure in black leather cursing at them is definitely not human...
+~
+40 32777 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4047
+D3
+~
+~
+0 -1 4048
+S
+#4050
+The tunnel~
+   You are in a tunnel, which turns here.  The tunnel continues to the
+east and the south.
+~
+40 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4051
+D2
+~
+~
+0 -1 4053
+S
+#4051
+The tunnel~
+   You are in an east-west leading tunnel.  The tunnel is very narrow
+here.
+~
+40 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4052
+D3
+~
+~
+0 -1 4050
+S
+#4052
+The tunnel~
+   You are in an east-west leading tunnel.
+~
+40 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4100
+D3
+~
+~
+0 -1 4051
+S
+#4053
+The tunnel~
+   You are at a turn, the tunnel continues north and east.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4050
+D1
+~
+~
+0 -1 4054
+S
+#4054
+The light cave~
+You are in a large, dry cave. To the north, you a see a large open fire that
+serves to light the entire cave, and to the east and west tunnels lead off.
+~
+40 32776 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4056
+D1
+~
+~
+0 -1 4055
+D2
+~
+~
+0 -1 4063
+D3
+~
+~
+0 -1 4053
+S
+#4055
+The maze~
+   You are in a maze of small damp tunnels.  Only exit is west to a 
+light cave.
+~
+40 32777 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 4054
+S
+#4056
+The light cave~
+   You are in a light cave, a large fire in front of you lights the room.
+The cave continues to the north and south.
+~
+40 32776 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4075
+D2
+~
+~
+0 -1 4054
+D9
+~
+~
+0 -1 4061
+E
+fire~
+Well, errh - It looks somehow quite warm..!
+~
+S
+#4057
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads both north
+and south.
+~
+40 9 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4055
+D2
+~
+~
+0 -1 4062
+S
+#4058
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads west and south.
+~
+40 9 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 4063
+D3
+~
+~
+0 -1 4057
+S
+#4059
+The tunnel~
+The tunnel turns here, leading to the north, where it becomes narrower and
+darker. You can also go back east, the way you came.
+~
+40 32781 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4003
+D1
+~
+~
+0 -1 4022
+S
+#4060
+The tunnel~
+   You are in a small tunnel, to the west the tunnel continues and 
+to the east you see some light.
+~
+40 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4061
+D3
+~
+~
+0 -1 4059
+S
+#4061
+The light cave~
+   You are in the south end of a light cave, tunnels leads of to the
+south and west.
+~
+40 32776 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4056
+D2
+~
+~
+0 -1 4065
+D3
+~
+~
+0 -1 4060
+S
+#4062
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads east and west.
+~
+40 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4063
+D3
+~
+~
+0 -1 4061
+S
+#4063
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads north and east.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4054
+D1
+~
+~
+0 -1 4064
+S
+#4064
+The tunnel~
+   You are in a tunnel, only exit is west - Only exit, well there is 
+also a hole in the ceiling.
+~
+40 32777 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 4063
+D4
+~
+~
+0 -1 4020
+S
+#4065
+The maze~
+   You are in a maze of small damp tunnels.  The tunnel continues east.
+To the north there is a light cave.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4061
+D1
+~
+~
+0 -1 4066
+S
+#4066
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads east and
+north.  To the south is a large cave.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4062
+D1
+~
+~
+0 -1 4067
+D2
+~
+~
+0 -1 4069
+S
+#4067
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads west and
+north.
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4063
+D3
+~
+~
+0 -1 4066
+S
+#4068
+The large cave~
+   You are in the northwest end of a large cave.
+~
+40 32777 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 4069
+D2
+~
+~
+0 -1 4070
+S
+#4069
+The large cave~
+   You are in the northeast end of a large cave.  To the north the
+is a small damp tunnel.
+~
+40 32777 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4066
+D2
+~
+~
+0 -1 4071
+D3
+~
+~
+0 -1 4068
+S
+#4070
+The large cave~
+   You are in the southwest end of a large cave.
+~
+40 32777 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4068
+D1
+~
+~
+0 -1 4071
+S
+#4071
+The large cave~
+   You are in the southeast end of a large cave.  To the east you
+notice a small tunnel.
+~
+40 32777 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 4069
+D1
+~
+~
+0 -1 4072
+D3
+~
+~
+0 -1 4070
+S
+#4072
+The tunnel~
+   You are in a narrow tunnel, which leads both to the east and the
+south.  There is also an exit towards the west, where you see a large
+cave.
+~
+40 32777 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 4073
+D2
+~
+~
+0 -1 4074
+D3
+~
+~
+0 -1 4071
+S
+#4073
+End of tunnel~
+   The tunnel stops here.  There is no other exits than the one you
+came from.
+~
+40 32777 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 4072
+S
+#4074
+The hole~
+   You are at a small hole in the floor, you can either leave north
+or try your luck and leave down into the unknown!
+~
+40 32777 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4072
+S
+#4075
+The light cave~
+You are at the northern end of the lighted cave. The only exit is south.
+~
+40 32768 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4056
+S
+#4076
+A side passageway~
+You are in a passageway that leads east and west. To the west, it appears to
+grow wider and not quite as damp, while to the east it dead-ends in a very
+dark tunnel. You think you hear metal clinking to the east, but there are
+some suspicious noises to the west as well. Now would be a very good time
+to decide where to go.
+~
+40 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4045
+D3
+~
+~
+0 -1 4077
+S
+#4077
+A foul-smelling cavern~
+The side passageway has led you into a cavern that smells truly foul, like
+nothing you have ever experienced before. The odor is almost palpable; a
+mixture of blood, sweat, and wet dogs. You hear noise from the northern
+end of the cavern. Squinting into the distance, you can see a passageway
+leading further west, and one leading east, toward a very dark tunnel.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4078
+D1
+~
+~
+0 -1 4076
+D3
+~
+~
+0 -1 4083
+S
+#4078
+A foul-smelling cavern~
+You are still in a foul-smelling cavern, which continues further north, and
+you can hear noise of some sort going on there. As you continue through the
+area, you hear a crack, and you realize that the floor is covered with bones,
+no few of them human ones. On the heels of this thought is your observation
+that the cavern also continues south, back the way you came...
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4080
+D2
+~
+~
+0 -1 4077
+S
+#4079
+A gnollish torture chamber~
+This portion of the cavern smells even worse, and the reason for this is
+quickly apparent. A number of crude, but effective torture devices have
+been set up here, and one is occupied by a human woman who looks to have
+died very recently. Others are stained with blood and other materials, and
+the floor is positively littered with bones and gore. A number of evil-
+looking gnolls are shouting at each other here, but they quickly turn
+around when you enter, then grin at you and raise their weapons...
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4081
+D2
+~
+~
+0 -1 4080
+S
+#4080
+A foul-smelling cavern~
+Continuing north into the cavern, you are forced to walk very slowly as the
+bones of the floor have increased in frequency. The smell is, if anything,
+growing even more intense, and you begin to wonder why you are still here
+as you wipe the stinging tears away from your eyes. The cavern continues
+north and south, and the activity to the north seems much closer now.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4079
+D2
+~
+~
+0 -1 4078
+S
+#4081
+The cages~
+This part of the cavern is given over to a number of crude but strong cages,
+where prisoners are kept before being tortured. A quick glance over the
+pens reveals that none of them are currently occupied, but you feel sick to
+your stomach nonetheless, and get a great urge to smash something, preferably
+whatever foulness is responsible for this savagery!
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4082
+D2
+~
+~
+0 -1 4079
+S
+#4082
+The Master Torturer's chamber~
+The cavern dead-ends here, and as your eyes absorb the sight waiting for you
+at the back of the foul-smelling cavern, you feel sick and horrified and
+outraged all at the same time. What is obviously the gnolls' Master Torturer
+is sitting here, calmly chewing on the corpse of a dead human baby. You feel
+the sick certainty that it is the child of the woman who was just tortured
+to death in the center of the cavern. Your stomach heaves at this vile
+atrocity, and you can barely restrain yourself from killing the filthy gnoll
+where he sits!
+~
+40 32777 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4081
+S
+#4083
+A side passageway~
+This passageway leads east and west. To the east you see the southern end of
+a cavern that smells quite foul, and to the west the passageway continues.
+~
+40 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4077
+D3
+~
+~
+0 -1 4084
+S
+#4084
+A side passageway~
+You are in a side passageway leading east and west. To the west you hear a
+lot of loud noises, while the eastern end of the passage is relatively quiet.
+You suddenly get a whiff of something foul from the east.
+~
+40 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4083
+D3
+~
+~
+0 -1 4085
+S
+#4085
+Entrance to the barracks cave~
+You are at the entrance to a very large, very noisy cave. The clash of metal,
+guttural grunts, and scuffling of feet fills the air here. It sounds as if
+there is a battle of some sort in progress in there. The noise appears to
+be coming from the north. However, you can also go east from here, and try
+to remain undetected by whoever is in there.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4087
+D1
+~
+~
+0 -1 4084
+S
+#4086
+The barracks cave~
+You are in the southwestern corner of the noisy cave. The source of the noise
+seems to lie somewhere to the northeast of you. There are a large number of
+furred blankets lying around on the floor here. Examining them more closely,
+you see that they were crudely made. Some of them are covering a number of
+very disquieting bones, possibly human ones.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4089
+D1
+~
+~
+0 -1 4087
+S
+#4087
+The barracks cave~
+You are in the southern portion of the noisy cave. The source of the racket
+sounds as if it lies to the northeast of your location. Looking to the east
+and west, you see a large number of furs lying about the floor in disarray.
+Looks as if a lot of people use this room to sleep in.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4090
+D1
+~
+~
+0 -1 4088
+D2
+~
+~
+0 -1 4085
+D3
+~
+~
+0 -1 4086
+S
+#4088
+The barracks cave~
+You are in the southeastern corner of the cave. The noise is very close to
+you now, probably directly to the north. You can see a number of large
+humanoid forms moving around in that direction, but it is too dark to make
+out any details. A bunch of furs are piled up in this end of the cave.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4091
+D3
+~
+~
+0 -1 4087
+S
+#4089
+The barracks cave~
+You are in the northeast corner of the noisy cave. You sense that the racket
+is definitely coming from somewhere to the east of you. The cave floor in
+this area is covered with wood ash and soot, as if someone has been tending
+an open fire here recently. A number of charred bones litters the floor.
+~
+40 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4090
+D2
+~
+~
+0 -1 4086
+S
+#4090
+The barracks cave~
+You are in the northern portion of the cave. The noise is very close now.
+You think it lies directly to the east. Peering in that direction, you see
+a number of very large humanoid forms moving around, and the glint of steel
+catches your eye, but it is too dark to make out any details...like how
+many of them there are. The northern wall of this area has a very large
+boulder pushed in front of it, and as you examine it, you feel a slight
+breeze, as if it is concealing a passage of some sort.
+~
+40 32777 0
+0d0+0 0 0
+D0
+A large boulder blocks passage to the north.
+~
+passage~
+1 -1 4093
+D1
+~
+~
+0 -1 4091
+D2
+~
+~
+0 -1 4087
+D3
+~
+~
+0 -1 4089
+S
+#4091
+The barracks cave~
+You are in the northeastern portion of the cave. This is obviously the source
+of the racket you heard earlier. A bunch of gnolls appear to be sparring in
+here, their weapons gleaming wickedly by your light source. As you enter the
+area, they turn to face you, and it seems that they would much rather fight
+with you than with each other...
+~
+40 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4092
+D2
+~
+~
+0 -1 4088
+D3
+~
+~
+0 -1 4090
+S
+#4092
+The barracks cave~
+This is a small alcove in the cave. There is a good view of the sparring
+area from here, as well as a few rocks that would make fairly comfortable
+places to sit. The trouble with this idea is that someone else has already
+thought of it...
+~
+40 32777 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4091
+S
+#4093
+The officers' quarters~
+This portion of the cave seems a lot drier and warmer than the outer part.
+Although the decor is much the same, consisting largely of soiled furs,
+bones, and ashes, the cave is a bit more comfortable. Apparently the people
+who live here are a bit more important than the average gnolls.
+~
+40 32777 0
+0d0+0 0 0
+D2
+A large boulder blocks the passage.
+~
+passage~
+1 -1 4090
+D3
+~
+~
+0 -1 4094
+S
+#4094
+The officers' quarters~
+This cave is much like the other one, with a number of what appear to be
+wolf pelts arranged on the floor to serve as a kind of bed. A large leg
+bone lies on top of them, worried at by a set of extremely large teeth.
+Maybe someone is trying to stop a nasty nail-biting habit. And maybe if
+you're not careful, they might decide they need a new bone to chew on...
+Also catching your eye is a large pile of broken rock on the north wall.
+A closer examination reveals some sort of tunnel behind it, that may be
+accessible, if you can shove the rocks away.
+~
+40 32777 0
+0d0+0 0 0
+D0
+The tunnel is blocked by a huge pile of broken rock.
+~
+tunnel~
+1 -1 4096
+D1
+~
+~
+0 -1 4093
+D3
+~
+~
+0 -1 4095
+S
+#4095
+The officers' quarters~
+This cave is fairly similar to the other two inner caves, being a bit warmer
+and drier than the one outside. This room's denizen apparently catches rats
+in his spare time, for a number of them are tied to a long stake wedged into
+a crack in the floor by their tails. Looking around, you see a few more of
+the rats have been brained with something hard and heavy. These bodies seem
+to be missing their tails altogether. Rats are very ungrateful pets.
+~
+40 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4094
+S
+#4096
+A twisty narrow passage~
+Pushing aside the broken rocks, you find that this tunnel is a lot narrower
+than you expected it to be. Your gear bangs noisily against the cave walls
+as you struggle to adjust your position. You peer around and notice that
+this tunnel weaves and twists around quite a good bit, but appears to lead
+north. You can also go back south, the way you came.
+~
+40 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4097
+D2
+The tunnel is blocked by a large pile of broken rock.
+~
+tunnel~
+1 -1 4094
+S
+#4097
+A twisty narrow passage~
+Dragging yourself painfully through this tight and twisty passage, you find
+that it turns to the east here, or you may go back south.
+~
+40 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4098
+D2
+~
+~
+0 -1 4096
+S
+#4098
+A twisty narrow passage~
+Struggling through this tortuous passage, you grin in relief when you see
+that it opens out into a cave ahead, to the east. At last! Then, you
+suddenly freeze in horror when you hear a loud noise. There is something
+in there, and it is moving...
+~
+40 32777 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4099
+D3
+~
+~
+0 -1 4097
+S
+#4099
+The gnoll chieftain's chamber~
+You emerge from the twisty narrow tunnel and find yourself in what passes
+for an opulent lair here in Moria. This is where the chieftain of the gnolls
+makes his home, and he is currently admiring some treasure brought back from
+a caravan his raiders have looted. As the sound of your presence reaches him,
+he turns and confronts you with a look that says you will die slowly...
+~
+40 32777 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4098
+S
+$

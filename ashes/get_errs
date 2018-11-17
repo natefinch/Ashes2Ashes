@@ -1,0 +1,7 @@
+# !/bin/sh
+#
+
+rm -f syserrs
+fgrep "SYSERR" syslog >> syserrs
+tail -20 syserrs
+exit

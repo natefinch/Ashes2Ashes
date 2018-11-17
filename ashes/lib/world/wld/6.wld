@@ -1,0 +1,2178 @@
+#600
+Entrance to Blue Parrot~
+This small cubicle used as an entrance and as the bouncer's meeting place
+is very dimly lit.  By the light of the dim lightbulb over your head
+you notice a payphone to your left with an Out of Order sign on it.
+~
+6 12 0
+0d0+0 0 0
+D1
+Outside the Blue Parrot
+~
+~
+0 -1 613
+D3
+The waiting area of the Blue Parrot.
+~
+~
+0 -1 652
+E
+payphone~
+The payphone looks like one of those out of a 1920's movie.  The out
+of order sign on it looks like it has been there for awhile.  You
+decide that it would be better to leave it alone.
+~
+E
+phone~
+The payphone looks like one of those out of a 1920's movie.  The out
+of order sign on it looks like it has been there for awhile.  You 
+decide that it would be better to leave it alone.
+~
+S
+#601
+Dining area~
+There are plenty of tables in this room that you could sit down and
+eat at.  You notice that there are some patrons sitting down, trying
+to eat their meals, but as you walk in, most of them get up to
+leave as they give you strange looks.
+There seems to be someone still sitting in the back booth though, not
+worried at all about you.
+~
+6 8 0
+0d0+0 0 0
+D0
+There is a stage area off to the north where you could watch the stage 
+performance. Though you don't here any music from there yet.
+~
+~
+0 -1 603
+D1
+The waiting area of the Blue Parrot.
+~
+~
+0 -1 652
+D2
+The handsome man and beautiful woman are at this booth.  Of course, the
+dog is also there.
+~
+~
+0 -1 602
+S
+#602
+Back booth~
+The people sitting at the table ignore you as they are talking
+very seriously about smuggling and gambling.  You hear Capone
+mentioned once or twice in the time you're standing there.
+~
+6 8 0
+0d0+0 0 0
+D0
+The main dining area is to the north.
+~
+~
+0 -1 601
+S
+#603
+Performance room~
+This room has tables and chairs set up to face the stage for a performance.
+It seems that the singer is a little bit late though, as the men seem to
+be getting a little rowdy.  From all around you hear male voices chanting,
+"Toni, Toni."  After awhile it gets unnerving.
+~
+6 8 0
+0d0+0 0 0
+D1
+The actual stage that the singers perform on is to the east.
+~
+~
+0 -1 604
+D2
+The main dining area is to the south.
+~
+~
+0 -1 601
+S
+#604
+Stage~
+Standing on the stage, you hear the boos and hisses from the audience.
+You hear from one of the tables "Hey, get off the stage.  I paid good
+money to see Toni sing tonight."  Looking at the tables from here, you
+almost get blinded by the stagelights.
+~
+6 12 0
+0d0+0 0 0
+D1
+You could go behind the stage if you so choose to.
+~
+~
+0 -1 605
+D3
+The performance room is west of you.
+~
+~
+0 -1 603
+E
+stagelights~
+As you look at the lights you feel as if you are looking directly at 
+the sun.  You begin to see spots in front of your eyes as you look
+away, not able to stand it anymore.
+~
+E
+tables~
+The tables are set and people (mostly men) are sitting at them 
+waiting for the show.  They look as though they will begin throwing
+things at you if you don't remove yourself from the stage.
+~
+S
+#605
+Behind the stage~
+This is a small area behind the stage, almost like a small hallway
+leading down to a door at the end.  The door reads "Dressing room."
+There is a star taped to the door that says "Toni" on it.
+~
+6 8 0
+0d0+0 0 0
+D0
+There is a door to a dressing room to the north
+~
+door~
+1 -1 606
+D3
+The stage is to the west.
+~
+~
+0 -1 604
+E
+star~
+The star is old and worn.  The name Toni stands out in big black 
+letters. The yellow color looks a little faded and you can catch
+a little bit of metallic flakes in the color as if it was supposed
+to be gold at one time.
+~
+S
+#606
+Dressing room~
+This rather large room has a vanity table at one end of the room, and
+a couch on the wall to your left.  There are clothes strewn all over
+the floor, tossed onto the couch, and hanging on wall lamps.
+~
+6 8 0
+0d0+0 0 0
+D1
+You gaze at a large walk-in closet deciding if you should go in.
+~
+~
+0 -1 607
+D2
+The area behind the stage is to the south.
+~
+door~
+1 -1 605
+E
+lamp~
+Attached into the walls, these lights come out a bit from them.  It
+casts shadows in the room, but seems to light the room up fairly well.
+The area by the vanity table though is well lit by these lights.
+~
+E
+couch~
+The couch looks comfortable.  You could almost just lay down and rest 
+yourself, but all of the clothes strewn over it stop you.  You'd have
+to figure out what to do with the clothes if you wanted to lay down.
+~
+E
+vanity~
+The vanity table has a lot of makeup bottles and containers laid all
+over the top of it.  You notice that some of the bottles have fallen
+over, but luckily the lid was on so nothing is leaking.  There is 
+nothing here that you would want.
+~
+S
+#607
+Closet~
+This closet seems to go on for a long time.  You are almost amazed by
+the number of clothes still left in the closet because of the number
+you saw strewn in the Dressing room.  You walk down the aisle gazing
+at the clothes.  You realize that anything in here would not be good
+to use as armor as it is only for show.
+~
+6 8 0
+0d0+0 0 0
+D3
+The dressing room is to the west.
+~
+~
+0 -1 606
+E
+clothes~
+You look at the clothes.  The are all for performance use and would not
+make good armor.  Most of them are cut high onto the hip to show of
+the legs of the person wearing the clothes.  You don't notice any clothes
+or suits for men in here.
+~
+S
+#608
+Stairway~
+This stairway is very dimly lit by wall lamps on the side of the stairs.
+You notice that there seems to be quite a bit of light coming from the
+bottom of the stairs and you hear a lot of people talking down there.
+Over all of this you notice the sound of gold exchanging hands.
+~
+6 8 0
+0d0+0 0 0
+D1
+When the door opens to let someone through, you catch a glimpse of the
+main dining area on the other side.
+~
+~
+0 -1 601
+D5
+There seems to be some noise coming from below you.
+~
+~
+0 -1 609
+S
+#609
+Paradice~
+This seems to be the lobby of the casino.  There are comfortable chairs
+against a few of the walls, but most of them are already taken and to be really
+comfortable, you would have to sit at one of the tables.  The roulette wheel
+is to your left, the blackjack table is in front of you, and the craps table
+is to your right.  You also notice a row of slot machines behind you as you
+gaze around the room trying to soak everything in.  Finally, you notice a 
+small set of stairs descending into a very dimly-lit bar.
+~
+6 8 0
+0d0+0 0 0
+D5
+A dark, smoky bar is down a small set of stairs.
+~
+~
+0 -1 627
+S
+#610
+Blackjack tables~
+You sit down at a green, cloth covered table.  There are chips stacked
+up on the other side of the table from you and the man behind the
+table is constantly shuffling cards.
+~
+6 8 0
+0d0+0 0 0
+D2
+The "lobby" of Paridice is south of you.
+~
+~
+0 -1 609
+S
+#611
+Roulette wheel~
+A large wheel is the center of attention here.  The woman behind the table
+spins it and drops a marble onto it and waits until it settles into one of the
+spots.  She then calls out the winning number and color, making most of the
+patrons groan and leave.
+~
+6 8 0
+0d0+0 0 0
+D1
+The "lobby" of Paradice is east of you.
+~
+~
+0 -1 609
+S
+#612
+Row of Slot Machines~
+The one-armed bandits look as though they are very hungry and want your
+gold. There is a chance that you might win, but you never know, you 
+could also lose.
+~
+6 8 0
+0d0+0 0 0
+D0
+The "lobby" of Paradice looks a little crowded.
+~
+~
+0 -1 609
+S
+#613
+Pierwalk Ave~
+The road is paved with tar, one of the few you've noticed around here.  
+Buildings line both sides of the street, but the one that really stands out
+is a restaurant called the Blue Parrot.  You've heard that the food there is
+good, the wine is better, and the women are the best around.
+~
+6 0 0
+0d0+0 0 0
+D0
+Pierwalk Ave continues.
+~
+~
+0 -1 617
+D1
+An old abandoned building is rotting here.
+~
+~
+0 -1 614
+D2
+The intersection of Pierwalk Ave and Monroe.
+~
+~
+0 -1 630
+D3
+The entrance to the Blue Parrot
+~
+~
+0 -1 600
+S
+#614
+Abandoned Warehouse~
+This is a very large, empty room.  You see cobwebs in the corner and a
+rat's nest in a corner on the floor, because it's been so long since
+anyone has been in this building.  You can see gaps in the ceiling,
+floorboards for the upper floor.  The only light coming into this
+place is through the cracks in the walls.  Something about this place
+gives you an eerie feeling.
+~
+6 0 0
+0d0+0 0 0
+D3
+You can see Pierwalk Ave and the Blue parrot looking out the cracks.
+~
+~
+0 -1 613
+D4
+Stairs head up to the second floor.
+~
+~
+0 -1 615
+S
+#615
+Upstairs Warehouse~
+This room is as large and as empty as the main room had been.  There 
+seems to be more spiderwebs up here then downstairs.  You notice a 
+door in the far west wall.  Checking out the sturdiness of the floorboards
+they creak as you put even a little pressure on them.  It also looks
+as if the termites have had a field day with this place.
+~
+6 0 0
+0d0+0 0 0
+D3
+You don't know if the floorboards are going to be able to take all
+of your weight.  And if you fall, you'll probably die.
+~
+~
+0 -1 616
+D5
+The main room of the warehouse still looks as empty as when you came in.
+~
+~
+0 -1 614
+S
+#616
+Back room~
+You try to walk to the door in the west wall, but as you place your
+weight on the floorboards they give out under you.  You
+P
+L
+U
+M
+M
+E
+T
+To the main floor and break your NECK.
+
+YOU HAVE     D I E D
+~
+6 16386 0
+1d1+199 90 0
+D3
+Pierwalk Ave, and beyond that, The Blue Parrot.
+~
+~
+0 -1 613
+S
+#617
+Pierwalk Ave~
+The road is paved with tar, one of the few you've noticed around here.
+Most of the roads seem to be made out of brick.  Buildings line either
+side of the street, but the one that seems to stand out is Johnny's
+Jewels. To the east is one of the Great Lakes.
+~
+6 0 0
+0d0+0 0 0
+D0
+Pierwalk ave just before interesecting with Washington Street.
+~
+~
+0 -1 619
+D2
+The Blue Parrot and an abandoned warehouse are here.
+~
+~
+0 -1 613
+D3
+The enterance to Johnny's Jewels is a nice glass door.
+~
+~
+0 -1 663
+E
+lake~
+You gaze out over the lake.  It seems to go on forever without stopping.
+If you didn't know any better you would believe it to be the ocean, but
+it doesn't have the salt smell that the ocean does.  It smells more of
+fresh, clean, water.
+~
+S
+#618
+Johnny's Jewels~
+The carpeting is a very soft, velvet looking red.  The glass display
+cases are placed on solid oak pedestals.  Within the display cases you
+notice earings, rings, necklaces and bracelets spread evenly on black
+velvet.
+~
+6 8 0
+0d0+0 0 0
+D1
+The entryway is here.
+~
+~
+0 -1 663
+S
+#619
+Pierwalk Ave~
+This road is paved with black tar, one of the few around here.  Buildings
+line the west side of the road.  To the east is one of the Great Lakes.
+The building that gets your attention here is Johnson's Corner Store
+located on the corner of Pierwalk Ave and Washington Street.
+~
+6 0 0
+0d0+0 0 0
+D0
+The intersection of Pierwalk ave and Washington street.
+~
+~
+0 -1 621
+D2
+Pierwalk Ave continues
+~
+~
+0 -1 617
+D3
+Johnson's Corner store is a good place to by your supplies.
+~
+~
+0 -1 694
+S
+#620
+Johnson's Corner Store~
+The hard tile floor echos every step you make in the store.  The cash
+register is immediatly before you and behind it stands Mr. Johnson.
+Behind Mr. Johnson is the candy shelves.  There are chips to your
+left and automotive supplies to your right.
+~
+6 8 0
+0d0+0 0 0
+D1
+The entrance to the store lies to the east.
+~
+~
+0 -1 694
+S
+#621
+Intersection~
+This street is one of the first streets in the city to be paved with black tar.
+Buildings line the street, and one of the Great Lakes can be seen to the east.
+Pierwalk Ave runs north and south from here, and Washington Street runs to the
+west.
+~
+6 0 0
+0d0+0 0 0
+D0
+Pierwalk Ave continues
+~
+~
+0 -1 624
+D1
+There is an old pier here.  You see a lighthouse towards the end
+of the pier.  A small figure is sitting on the pier about halfway
+between you and the lighthouse.
+~
+~
+0 -1 671
+D2
+Pierwalk ave continues.
+~
+~
+0 -1 619
+D3
+Washington street begins.
+~
+~
+0 -1 622
+S
+#622
+Washington Street~
+This is a brick road that ends at Pierwalk Ave to the east.  It continues
+westward and the buildings lining it may be of some interest.
+~
+6 0 0
+0d0+0 0 0
+D0
+The Riveria Theatre.  Good place to relax. Not much else.
+~
+~
+0 -1 628
+D1
+The intersection of Washington Street and Pierwalk Ave.
+~
+~
+0 -1 621
+D2
+Bernie's News Corner is located on the corner of Pierwalk ave and 
+Washington Street.
+~
+~
+0 -1 649
+D3
+Washington Street continues
+~
+~
+0 -1 644
+S
+#623
+Pier~
+This old pier creaks under your weight as you walk to the end.  There
+is a can of worms sitting here and fish in a bucket.  The reflection
+of buildings off from the lake, the birds flying overhead and the
+fish jumping in the lake is breathtaking.
+~
+6 0 0
+0d0+0 0 0
+D0
+Do you really want to step off the pier?
+~
+~
+0 -1 656
+D1
+The lighthouse looms above you.
+~
+~
+0 -1 672
+D2
+Do you really want to step off the pier?
+~
+~
+0 -1 656
+D3
+The pier continues towards the shore.
+~
+~
+0 -1 671
+S
+#624
+Pierwalk Ave~
+This road is paved with black tar, one of the few you've seen in this
+world. Buildings line the west side of the road and to the east is
+a Great Lake and a small, open-air fishmarket.
+~
+6 0 0
+0d0+0 0 0
+D0
+Pierwalk Ave continues
+~
+~
+0 -1 648
+D1
+The open-air fishmarket sells fish and bait.  
+~
+~
+0 -1 625
+D2
+The intersection of Pierwalk Ave and Washington street.
+~
+~
+0 -1 621
+D3
+The enterance to Lakefrount City's First National Bank.
+~
+~
+0 -1 664
+S
+#625
+Fishmarket~
+This is an open-air fishmarket.  To your right is a basket full of small fish
+caught right out of the Great Lake located behind the fishmarket (at least 
+that's what the sign says).  You believe that some of them are still fresh
+(by the few that are still squirming) but most of them have probably been
+frozen at one time or another.  To your left is an assortment of Fisherman's
+Magazines, one of the few dedicated to fishing.  (Of course the newest copy
+isn't there, but it is located on the counter, where the owner of this market
+is reading it.)  Hanging overhead is one BIG fish, stuffed and displayed to
+prove that there are BIG fish in the Great Lakes.
+~
+6 0 0
+0d0+0 0 0
+D3
+Pierwalk Ave
+~
+~
+0 -1 624
+S
+#626
+Lakefront City First National Bank~
+This is your typical bank.  Along one wall is a row of booths where bank tellers
+wait to help people with their financial transactions.  Near the door to your
+right rest several chairs where you may wait your turn.  On the far wall you
+see a huge steel door, obviously protecting a fortune in valuables.  A lone
+bank guard stands here, staring at you suspiciously.  The bank manager begins
+to lock away several stacks of newly counted money as you enter.  Your footsteps
+echo loudly on the hard tile floor as you walk about, and the scent of this
+place reeks of dirty money.
+~
+6 8 0
+0d0+0 0 0
+D1
+The entryway is here.
+~
+~
+0 -1 664
+D3
+~
+~
+2 680 686
+S
+#627
+Bar~
+The bar is hazy because of all the smokers in here.  You can barely
+make out shapes of people with the combination of dim lights and
+smoke. There are stools lined up at the bar, but most of them are
+taken.
+~
+6 8 0
+0d0+0 0 0
+D4
+The brightly lit lobby of the casino is up a small set of stairs.
+~
+~
+0 -1 609
+S
+#628
+Riviera Theatre~
+There are posters on the wall advertising for "The Gold Rush" with Chaplin,
+"The Big Parade" with Vidor, "The Ghost of Moulin Rouge" with Clair and
+"Go West" with Keaton.  This might be a good place to hang out and
+relax, but you don't think you'll find much else in there.
+~
+6 12 0
+0d0+0 0 0
+D0
+The lobby of the Riveria theatre is located north of you.
+~
+~
+0 -1 658
+D2
+Washington Street is as safe as any can be these days.
+~
+~
+0 -1 622
+S
+#629
+Theatre~
+The theatre is very dark.  The only light is coming from the screen.  
+There seems to be a lot of empty seats if you want to sit down and
+watch "The Gold Rush" with Chaplin.
+~
+6 24 0
+0d0+0 0 0
+D2
+The lobby of the Riveria Theatre.
+~
+~
+0 -1 658
+S
+#630
+Intersection~
+This is the intersection of Pierwalk Ave and Monroe Ave.  Pierwalk is
+a tar paved road heading north and south.  Monroe is a brick layed road
+headed east and west.
+~
+6 0 0
+0d0+0 0 0
+D0
+Pierwalk Ave.
+~
+~
+0 -1 613
+D1
+~
+~
+0 -1 659
+D2
+Pierwalk Ave continues.
+~
+~
+0 -1 641
+D3
+The street called Monroe
+~
+~
+0 -1 631
+S
+#631
+Monroe Street~
+Monroe is a brick lined street that heads east and west.  The buildings 
+lining the sides of the street here are rather boring.
+~
+6 0 0
+0d0+0 0 0
+D1
+Intersection of Pierwalk and Monroe.
+~
+~
+0 -1 630
+D3
+Monroe continues.
+~
+~
+0 -1 632
+S
+#632
+Monroe Street~
+The street is brick layed and very dimly lit in this area.  There is a pawn
+shop south from here and a doctor's office to the north.  Monroe continues
+east and west from here.
+~
+6 4 0
+0d0+0 0 0
+D0
+Dr. Jack's office
+~
+~
+0 -1 635
+D1
+Monroe continues
+~
+~
+0 -1 631
+D2
+Derrick's Pawn shop
+~
+~
+0 -1 634
+D3
+Monroe continues.
+~
+~
+0 -1 633
+S
+#633
+Monroe Street~
+This is a brick layed street that heads east and west.  Some of the buildings
+that line the sides are very interesting, but most are boring.  There
+is nothing of interest on this block.
+~
+6 0 0
+0d0+0 0 0
+D1
+Monroe continues.
+~
+~
+0 -1 632
+D3
+Interseciton onf Monroe street and Maple alley.
+~
+~
+0 -1 636
+S
+#634
+Derrick's Pawn Shop~
+Before you lies a vast array of tables, shelves, cabinets, and display cases
+cluttered with a myriad of invaluable trinkets.  Antique clocks, pawned jewelry,
+leather backpacks, old bottles, dusty lanterns, and every other imaginable type
+of miscellaneous junk that is even remotely valuable lies here, waiting to be
+purchased.  The clerk here seems busy examining a finely-wrought golden watch.
+Judging by all that you see available, you are positive that you can purchase
+anything you need here, for the right price.  A doorway to the east leads into
+another room of the shop, where other types of items are bought and sold.  The
+doorway to the north will take you back out to Monroe Street.
+~
+6 8 0
+0d0+0 0 0
+D0
+Monroe street
+~
+~
+0 -1 632
+D1
+The large room continues east.
+~
+~
+0 -1 691
+E
+watch~
+This high-quality golden watch seems a little out of place here.  Engraved on
+the back are the words 'Property of the Terratech Corporation'.
+~
+S
+#635
+Doctor Jack's Office~
+This is a common doctor's office.  In the center of the room rests an
+examination table.  Against the far wall is a cabinet filled with all manners
+of pills, tonics, and elixirs.  On a stand behind the examination table rests
+some steel surgical equipment.  Against the right wall lies a large steel sink.
+Doctor Jack can usually be found here, sitting at his desk doing paperwork.
+~
+6 12 0
+0d0+0 0 0
+D2
+Monroe street
+~
+~
+0 -1 632
+S
+#636
+Intersection~
+Intersection of Monroe Street and Maple Alley.  Maple alley looks dark
+and foreboding and goes north and south.  Monroe street is dimly lit, but
+much brighter than Maple alley.
+Monroe goes east and west.
+~
+6 0 0
+0d0+0 0 0
+D0
+Maple alley looks dark and foreboding
+~
+~
+0 -1 637
+D1
+~
+Monroe continues.~
+0 -1 633
+D3
+Monroe is dimly lit, but continues.
+~
+~
+0 -1 639
+S
+#637
+Maple alley~
+Maple alley is a very dark and eerie street.  It continues north and
+south from here.  To the west you notice a small church.
+~
+6 0 0
+0d0+0 0 0
+D0
+Maple Alley continues.
+~
+~
+0 -1 665
+D2
+Intersection of Maple Alley and Monroe.
+~
+~
+0 -1 636
+D3
+An old abandoned church is here.
+~
+~
+0 -1 666
+S
+#638
+Mob distribution room for area 6~
+This is a room to let the mobs that wander around Chicago not be crowded
+into one room.
+~
+6 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 613
+D1
+~
+~
+0 -1 621
+D2
+~
+~
+0 -1 630
+D3
+~
+~
+0 -1 636
+D4
+~
+~
+0 -1 689
+D5
+~
+~
+0 -1 613
+D6
+~
+~
+0 -1 641
+D7
+~
+~
+0 -1 696
+D8
+~
+~
+0 -1 650
+D9
+~
+~
+0 -1 689
+S
+#639
+Monroe Street~
+This is the end of Monroe Street.  This dark and filthy dead end is inhabited
+mainly by rats and bums.  To the north is an abandoned building, ready to be
+demolished.  The hair on the back of your neck prickles as you get the feeling
+you are being watched.
+~
+6 0 0
+0d0+0 0 0
+D0
+An old, abandoned storefront with a broken window.
+~
+~
+0 -1 640
+D1
+Intersection of Monroe street and Maple alley.
+~
+~
+0 -1 636
+D9
+~
+~
+0 -1 12029
+S
+#640
+Abandoned Store~
+Shattered glass lies on the floor, crunching beneath your feet as you walk
+around examining the room.  There is a small staircase in the back of the room
+that leads upstairs.  Display cases that once held expensive merchendise are
+broken and the splinters of wood lie among the shards of glass.
+~
+6 8 0
+0d0+0 0 0
+D2
+Monroe.
+~
+~
+0 -1 639
+D4
+The stairs go up to the second floor.
+~
+~
+0 -1 657
+S
+#641
+Pierwalk Ave~
+This is a tar paved road, one of the few you've seen in this area, that
+runs north and south.  Buildings line either side of the road.  To the
+east is Torina's Restaurant.  To the west is Mariano's Furriers.  The
+rest of the buildings do not catch your attention.
+~
+6 0 0
+0d0+0 0 0
+D0
+Intersection of Monroe and Pierwalk Ave.
+~
+~
+0 -1 630
+D1
+Torina's Restuarant
+~
+~
+0 -1 643
+D2
+~
+~
+0 -1 10547
+D3
+Mariano's Furriers
+~
+~
+0 -1 642
+S
+#642
+Mariano's Furriers~
+This store is filled with plush furs of every type.  Fur coats, vests, and hats
+line the racks here.  The furs come in every type and color, from mink coats
+to racoon-skin hats.  On the walls are mounted the heads of many of the animals
+that "contributed" to the shop's collection.  As you look down, you notice a
+bear-skin rug looking back up at you.
+~
+6 12 0
+0d0+0 0 0
+D1
+Pierwalk Ave.
+~
+~
+0 -1 641
+S
+#643
+Torina's Restuarant~
+As you walk in the first thing you notice is the delicious aroma wafting
+through the air.  Many candle-lit tables are here, with patrons waiting to be
+served.  Waitresses are busy carrying large steel trays covered with plates of
+food around to all the tables.  Soft violin music catches your ear as you
+notice that you are next in line to receive a table.
+~
+6 12 0
+0d0+0 0 0
+D3
+Pierwalk Ave
+~
+~
+0 -1 641
+S
+#644
+Washington Street~
+Traveling along the brick-lined road, you see the majestic Lexington
+Hotel to the north.  Farther down the road to the west, you notice a
+barber shop and to the east a newstand and the Riviera Theatre.
+Washington street continues east and west.
+~
+6 0 0
+0d0+0 0 0
+D0
+Leddington Hotel
+~
+~
+0 -1 695
+D1
+Washington Street continues.
+~
+~
+0 -1 622
+D3
+Another section of Washington Street.
+~
+~
+0 -1 650
+S
+#645
+The Lexington Hotel~
+The brightness of this room is almost blinding.  The light shined
+down from the chandiliers is reflected off the gold and silver
+lined arches and pillars.  The fountain in the center of the 
+room is virtually breathtaking as the water flows from the open
+fish's mouth down 3 lilypad layers into the basin.  The people
+roaming around the room are well dressed in tuxes and evening
+dresses. Bellhops also roam around the lobby, always ready
+to take stuff up to rooms for a tip.
+~
+6 8 0
+0d0+0 0 0
+D0
+The grand stairway is to the north.
+~
+~
+0 -1 660
+D2
+The revolving doors to the street lie to the south.
+~
+~
+0 -1 695
+E
+fountain~
+Looking closer at the fountian you realize that the stone fish
+is a replica of a coy.  You remember a saying you heard once, a
+while back which went something like:  "Happiness is coy in a
+pond." You smile as you think of this and watch the water flow
+down to the basin.
+~
+S
+#646
+2nd Floor~
+The plush red carpeting gives way easily under your feet.  The 
+chandeliers over your head give off a low glow, enough to see 
+your way to the rooms, but not much more than that.
+~
+6 8 0
+0d0+0 0 0
+D0
+You see the door to room 209.
+~
+door~
+1 -1 682
+D1
+The 2nd floor hallway continues eastward.
+~
+~
+0 -1 661
+D2
+It looks like an elevator.
+~
+~
+0 -1 687
+D3
+The 2nd floor hallway continues westward.
+~
+~
+0 -1 662
+D4
+Third floor of the Leddington Hotel.
+~
+~
+0 -1 647
+D5
+The grand stairway is below you.
+~
+~
+0 -1 660
+D6
+You see the door to room 210.
+~
+door~
+1 -1 683
+D7
+You see the door to room 208.
+~
+door~
+1 -1 681
+E
+Chandeliers~
+The chandeliers give off a soft glow.  You see nothing special
+about them.
+~
+S
+#647
+3rd Floor~
+This is the top floor of the hotel.  You can see right away that this is where
+all the wealthy and powerful people stay.  The floor is covered by a plush red
+rug that is routinely kept clean by the maids.  Several large suites make up
+the only rooms on this floor.  The doors to each suite are ornately engraved
+and decorated with gold-leaf designs.  The hallway is well lit by several
+brass lamps attached to the walls.  A guard posted outside one of the rooms
+eyes you suspiciously.
+~
+6 8 0
+0d0+0 0 0
+D3
+There is a door here.
+~
+door~
+2 -1 776
+D5
+2nd floor Leddington Hotel.
+~
+~
+0 -1 646
+S
+#648
+Pierwalk Ave~
+This road is one of the first you've ever seen that has been paved with black
+tar.  Many important buildings line this street.  To the east a Great Lake can
+be seen in the distance, while a condemned building lies, all boarded up, on
+the western side of the street.
+~
+6 0 0
+0d0+0 0 0
+D0
+Pierwalk Ave continues
+~
+~
+0 -1 679
+D2
+Pierwalk Ave continues
+~
+~
+0 -1 624
+S
+#649
+Bernie's News Corner~
+This is a newspaper stand.  It looks like a big box made out of wood with
+an opening for a shelf.  Papers and magazines are located in racks and
+spread on the shelf.  The owner is leaning on the shelf reading one of
+his newest magazines.
+~
+6 0 0
+0d0+0 0 0
+D0
+Pierwalk ave is here.
+~
+~
+0 -1 622
+S
+#650
+Washington Street~
+This is a well-worn brick road that has seen quite a bit of use.  To the south
+is Jerry's Barber Shop.  If you went north, you could walk down Broad Street
+towards Union Street.  
+~
+6 0 0
+0d0+0 0 0
+D0
+Broad street is lined with cars and heads towards Union Street.
+~
+~
+0 -1 653
+D1
+Another section of Washington Street.
+~
+~
+0 -1 644
+D2
+The Red, White, and Blue swirl light tells you that this is a 
+barber's shop.  Jerry's Barber Shop to be precise.
+~
+~
+0 -1 651
+D3
+The intersection of Washington Street and Maple alley.
+~
+~
+0 -1 669
+S
+#651
+Jerry's Barber Shop~
+This is a typical barber shop.  On a coatrack by the door hand several jackets
+and trenchcoats.  There are two barber's chairs here and several normal chairs
+for customers waiting their turn.  A large mirror hangs on one wall, with a sink
+directly below it.  On a stand between the barber's chairs can be found numerous
+pairs of scissors, combs, and razors, as well as a bucket of shaving lather.
+On another wall you see several pictures hanging.  one of the pictures is of a 
+handsome, well-dressed, middle-aged man who really resembles one of the local
+crime lords.  Several frightened customers scurry out the door at your arrival.
+~
+6 8 0
+0d0+0 0 0
+D0
+You can see washington street outside the door.
+~
+~
+0 -1 650
+E
+picture~
+This is a picture of the notorious crime-boss Al Tolino.  You wonder what
+association he has with Jerry the barber...
+~
+S
+#652
+Waiting area~
+There are chairs lined up against the two walls for people to sit in
+while waiting to be seated.  There is a large sign in front of you.
+~
+6 8 0
+0d0+0 0 0
+D1
+The entryway to the Blue Parrot
+~
+~
+0 -1 600
+D3
+The dining area of the Blue Parrot.
+~
+~
+0 -1 601
+E
+sign~
+The sign reads:
+
+Please seat yourself.  We will be with you shortly.
+
+Thank you.
+~
+S
+#653
+Broad Street~
+This is a very wide road that runs between Union Street and Washington
+Street. Like most of the other streets around here, it's laid with
+reddish-brown bricks which are cracked from all of the travel on them.
+Cars line the sides of the road, in front of stores that do not catch
+your intrest.
+~
+6 0 0
+0d0+0 0 0
+D0
+Broad Street continues to the north towards Union Street.
+~
+~
+0 -1 655
+D2
+Broad street runs into Washington street here.
+~
+~
+0 -1 650
+S
+#654
+C T T Builders~
+You are standing in a room crowded with steel and other various metals.  You
+can see many people hard at work here, trying to turn out the best product
+possible.  The street is to the west.
+~
+6 8 0
+0d0+0 0 0
+D3
+You see Broad street outside the door
+~
+~
+0 -1 655
+S
+#655
+Broad Street~
+This is a well worn, reddish-brown, wide brick road.  It travels north
+to Union Street and south to Washington Street.  Bugs flower shop is
+to the west and CTT (Cat/Techie/Terabyte) builders is to the east.
+~
+6 0 0
+0d0+0 0 0
+D0
+Broad Street continues north.
+~
+~
+0 -1 689
+D1
+The building for Jennings Builders is located here.
+~
+~
+0 -1 654
+D2
+Broad Street continues south towards Washington Street.
+~
+~
+0 -1 653
+D3
+The big glass window reads "BUGS FLOWER SHOP".  You believe it might, just
+might, be a flower shop.
+~
+~
+0 -1 699
+S
+#656
+Off the pier...~
+You walk off the edge of the pier and SPLASH!!  As you climb out of the
+Great Lake, you think to yourself that you *really* ought to look where
+you're walking.  Unless you're LOOKING for cement shoes?
+~
+6 144 0
+0d0+0 0 0
+D2
+The pier lies here.
+~
+~
+0 -1 623
+S
+#657
+Upstairs Abandoned Store~
+This is the second floor of the abandoned store.  It appears to have been a
+storage room for the store below.  Large wooden crates lie strewn about,
+shattered open and their contents stolen.  A cold draft blowing in through a
+broken window chills your soul.  The floor boards creak loudly as you step into
+the room.
+~
+6 8 0
+0d0+0 0 0
+D5
+An abandoned store is here.
+~
+~
+0 -1 640
+S
+#658
+Lobby of Theatre~
+The red carpet is soft under your feet.  There are chairs and sofas 
+placed against the wall.  To your right is a counter to buy various
+theatre treats.
+~
+6 8 0
+0d0+0 0 0
+D0
+The darkened theatre.
+~
+~
+0 -1 629
+D2
+The entrance of the Riveria Theatre is here.
+~
+~
+0 -1 628
+S
+#659
+Monroe Street~
+This is the end of Monroe Street.  To the east you see one of the Great Lakes.
+The buildings on each side of the road are dark and gloomy.  Garbage lines the
+sides of the street, in and out of trash cans.  You see a small rat scurry
+through the debris.
+~
+6 0 0
+0d0+0 0 0
+D0
+Jeapordy Road leads north from here.
+~
+~
+0 -1 19000
+D3
+~
+~
+0 -1 630
+S
+#660
+Grand Stairway~
+The plush red carpet gives softly beneath your feet as you climb
+the stair.  The view of the lobby from here is majestic as you look
+out over the glass chandeliers which softly light the lobby below.
+~
+6 8 0
+0d0+0 0 0
+D2
+The main lobby is to the south.
+~
+~
+0 -1 645
+D4
+The first floor of the hotel is up the stairs.
+~
+~
+0 -1 646
+S
+#661
+2nd Floor~
+This hallway leads to a dead end with several doors to rooms on either side.
+The floor is covered by an expensive red carpet and brass lamps light the hall.
+The doors to each room are securely locked.
+~
+6 0 0
+0d0+0 0 0
+D3
+The stairway leading down is off the second floor to the west.
+~
+~
+0 -1 646
+S
+#662
+2nd Floor~
+The hallway ends in a window overlooking the street below.  Doors line both
+sides of the hall, but as you check them you discover that only one of them
+is unlocked.  You quietly walk on the soft red carpet and open the door, but
+the light given off by the brass lamps here is not enough to see inside the
+room.
+~
+6 0 0
+0d0+0 0 0
+D1
+The stairway to the main floor is off the hallway to the east.
+~
+~
+0 -1 646
+D8
+Room 201
+~
+~
+0 -1 685
+S
+#663
+Entrance to Johnny's Jewels~
+You are standing in the entrance to Johnny's Jewels.  Glancing inside the
+building, you can see all the jewelry that Johnny sells laid out in glass cases
+on black velvet lining.  Going back outside will take you to Pierwalk Ave.
+~
+6 12 0
+0d0+0 0 0
+D1
+Pierwalk Ave is outside the door.
+~
+~
+0 -1 617
+D3
+Johnny's Jewels is just one step inside.
+~
+~
+0 -1 618
+S
+#664
+Entrance to Lakefront City First National Bank~
+You are standing in the entrance to Lakefront City First National
+Bank. The glass doors rise far over your head.  Just inside is
+a security guard ready to fight you if you cause any trouble.
+~
+6 12 0
+0d0+0 0 0
+D1
+Pierwalk Ave lies outside the doors.
+~
+~
+0 -1 624
+D3
+The main bank with tellers and operators lies just one step
+inside the building.
+~
+~
+0 -1 626
+S
+#665
+Maple Alley~
+The alley here is dark and gloomy.  Garbage is strewn along the sides of it. 
+An alley cat hisses as you approach and scurries away.
+~
+6 0 0
+0d0+0 0 0
+D0
+Maple alley continues
+~
+~
+0 -1 667
+D2
+Maple Alley continues.
+~
+~
+0 -1 637
+S
+#666
+First American Church~
+This church is extremely old and run down.  It looks as though no reasonable
+person has set foot in it for awhile.  But you have heard rumors that gangs,
+wanted criminals, and cults sometimes use it for their meeting place.  You
+think you saw a light coming from the altar as you came in.
+~
+6 0 0
+0d0+0 0 0
+D1
+Maple alley is outside the big double doors.
+~
+~
+0 -1 637
+D5
+You push the altar aside to reveal a hidden staircase down
+~
+altar~
+2 610 688
+E
+altar~
+You see a bloodstained altar here~
+S
+#667
+Maple Alley~
+Maple Alley is dark and dreary.  Even during the day there isn't
+much sunlight here due to the closeness of the buildings.  Clotheslines
+connect apartments and the laundry hangs from them to dry in the
+wind. You squeeze between the buildings to continue on your way.
+~
+6 0 0
+0d0+0 0 0
+D0
+Maple Alley continues
+~
+~
+0 -1 668
+D2
+Maple Alley continues.
+~
+~
+0 -1 665
+S
+#668
+Maple Alley~
+Maple Alley is dark and dreary.  Even during the day there isn't
+much sunlight here due to the closeness of the buildings.  Clotheslines
+connect apartments and the laundry hangs from them to dry in the
+wind. You squeeze between the buildings to continue on your way.
+~
+6 0 0
+0d0+0 0 0
+D0
+Intersection of Maple alley and Washington Street.
+~
+~
+0 -1 669
+D2
+Maple Alley continues
+~
+~
+0 -1 667
+S
+#669
+Intersection~
+Washington Street runs east, while Maple alley runs north and
+south. Washington Street is a brighter section of town then
+Maple Alley is.  In fact, Maple alley looks very run down while
+Washington street seems to be the best part of town.
+~
+6 0 0
+0d0+0 0 0
+D0
+Maple Alley continues.
+~
+~
+0 -1 670
+D1
+Washington street.
+~
+~
+0 -1 650
+D2
+Maple Alley continues.
+~
+~
+0 -1 668
+S
+#670
+Maple Alley~
+Maple Alley is dark and dreary.  Even during the day there isn't
+much sunlight here due to the closeness of the buildings.  Clotheslines
+connect apartments and the laundry hangs from them to dry in the
+wind. You squeeze between the buildings to continue on your way.
+~
+6 0 0
+0d0+0 0 0
+D2
+The intersection of Maple Aleey and Washington Street
+~
+~
+0 -1 669
+S
+#671
+Pier~
+Standing at the edge of the pier, you see how far it extends out into
+the water.  You are thoroughly impressed by the lighthouse at the
+end of the pier.  You realize how nice that would look with a 
+sunset in the background.
+~
+6 0 0
+0d0+0 0 0
+D1
+The pier continues towards the lighthouse.
+~
+~
+0 -1 623
+D3
+The intersection between Pierwalk Ave and Washington Street is to the
+west.
+~
+~
+0 -1 621
+S
+#672
+Lighthouse~
+Glancing at the big, red lighthouse from this distance, you can see
+the individual bricks that make it.  You climb over rocks, listening
+to the waves crash over them and smelling the fresh water, to get
+closer to it.  When you get to it, you notice a door, slightly ajar,
+open just enough so you can get into the lighthouse.  It looks as if
+the lock was broken.
+~
+6 0 0
+0d0+0 0 0
+D0
+The door is open enough for you to squeeze into the lighthouse.
+~
+~
+0 -1 673
+D3
+The pier stretches back to the beach.
+~
+~
+0 -1 623
+S
+#673
+First floor of Lighthouse~
+This is the lowest level of the lighthouse.  It is damp and dusty here.  The
+wooden floor creaks loudly as you step upon it.  A winding stairway leads
+upwards into the darkness...  You feel as though you are being watched.
+~
+6 4 0
+0d0+0 0 0
+D2
+The door is open enough for you to leave the lighthouse.
+~
+~
+0 -1 672
+D4
+These stairs lead up to the 2nd floor.
+~
+~
+0 -1 674
+S
+#674
+Second floor of lighthouse~
+The spiraling staircase leads ever upwards from here.  The wooden boards that
+make up the stairs are well worn, and in good condition.  A loose board creaks
+as you step on it.  You get the eerie feeling that you are being watched again.
+~
+6 0 0
+0d0+0 0 0
+D4
+These stairs go up to the third level.
+~
+~
+0 -1 675
+D5
+These stairs lead down to the main floor of the lighthouse.
+~
+~
+0 -1 673
+S
+#675
+Third Floor of Lighthouse~
+It is damp and musty here, but you feel a slight breeze blowing down the steps.
+The steps are in worse condition here...maybe you should go back down.
+~
+6 0 0
+0d0+0 0 0
+D4
+These stairs go up to the Forth floor.
+~
+~
+0 -1 676
+D5
+These stairs go down to the second floor.
+~
+~
+0 -1 674
+S
+#676
+Fourth Floor of Lighthouse~
+You can definitely feel a slight breeze blowing through here from above.  The
+stairs are dusty and decayed, and creak loudly as you step on them.  You aren't
+sure if the steps can hold your weight for long.  You notice a tiny spider
+crawling on the wall.
+~
+6 0 0
+0d0+0 0 0
+D4
+These stairs go up to the fifth floor.
+~
+~
+0 -1 677
+D5
+These stairs go down to the Third Floor
+~
+~
+0 -1 675
+E
+spider~
+This is a just a tiny black spider.  What possible importance could it hold?
+~
+S
+#677
+Fifth Floor of Lighthouse~
+This is the top of the lighthouse.  In the center of the room is a brightly-
+lit lamp revolving slowly in a circle.  The view of the bay area from here is
+breathtaking.  You can see for many miles out over the lake.  Behind you lies
+the city, dark and forboding, covered by a haze of pollution.  A gentle breeze
+can be felt here, blowing in through an open window.
+~
+6 0 0
+0d0+0 0 0
+D5
+These stairs go down to the Forth Floor.
+~
+~
+0 -1 676
+E
+lamp~
+This is a slowly spinning oil-burning light.  The light seems to be in good
+condition and is working properly.  You don't know why you bothered to look at
+this at all.
+~
+S
+#678
+Craps Table~
+You stand at the craps table.  It's green, velvet-lined throwing pit is begging
+you to throw the dice and test your luck.
+~
+6 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 609
+S
+#679
+Pierwalk Ave~
+This newly paved street is lined with buildings.  On the eastern side of the
+street is an ice cream parlor and a clothing store is to the west.
+~
+6 0 0
+0d0+0 0 0
+D0
+Pierwalk Ave continues north
+~
+~
+0 -1 696
+D1
+Lakeside Ice Cream Shoppe looks inviting.  The desplays in the
+window are marvelous making you crave for the homemade ice cream
+that they serve.
+~
+~
+0 -1 680
+D2
+Pierwalk Ave continues.
+~
+~
+0 -1 648
+D3
+The clothing store looks inviting.  Probably nothing worthwhile there,
+but you can never be sure unless you look.
+~
+~
+0 -1 684
+S
+#680
+Lakeside Ice Cream Shoppe~
+This small ice cream parlor is filled with teenagers gossiping about the 
+latest events at school.  A long counter near the right wall is lined with
+spinning stools for your enjoyment.  A freezer in the back is filled with 
+every flavor of ice cream you could ever want.  There must be at least 
+fourteen different kinds!  There is a juke box near the back, playing the 
+latest craze in music today.  
+~
+6 4 0
+0d0+0 0 0
+D3
+Pierwalk Ave lies outside these doors.
+~
+~
+0 -1 679
+S
+#681
+Room 208~
+This is a simple hotel room.  The bed against one wall is unmade, and there
+is the lingering smell of cheap perfume around the room.  On each side of the
+bed are small night stands, one of which has some tissue paper with red
+lipstick stains on it.  The bathroom door along the far wall is ajar and all
+the lights are off.
+~
+6 0 0
+0d0+0 0 0
+D8
+The 2nd floor hallway is here.
+~
+~
+0 -1 646
+S
+#682
+Room 209~
+This is a simple hotel room.  A large bed rests against one wall, with a 
+nightstand on either side of it.  A clothes rack near the door has the hat and
+coat of the current occupant of the room.  A small bathroom with a sink, toilet,
+and mirror, can be seen through a doorway on the far wall.
+~
+6 0 0
+0d0+0 0 0
+D2
+2nd floor hallway.
+~
+~
+1 -1 646
+S
+#683
+Room 210~
+This is your average hotel room.  A large bed rests against one wall, with
+night stands located along either side.  An empty coat rack sits next to the
+door.  A closed door on the far wall leads to a small bathroom.  This room
+appears to be unoccupied.
+~
+6 0 0
+0d0+0 0 0
+D9
+2nd floor hallway.
+~
+~
+0 -1 646
+S
+#684
+PierWalk Clothing Store~
+Racks and racks of clothing fill the room, just waiting to be purchased.  
+Fine men's business suits, elegant dresses and gowns of every style and color,
+any kind of hat you could every desire, and even men's ties line every shelf
+and clothing rack in the store.  A dressing room with a mirror is located in
+the back of the store.  The store smells of new clothing.
+~
+6 4 0
+0d0+0 0 0
+D1
+You see PierWalk Ave outside the door.
+~
+~
+0 -1 679
+S
+#685
+Room 201~
+This is your typical hotel room.  A large bed rests against one wall, with
+bed stands on either side.  A coat rack with a coat and hat on it is by the 
+door.  And a small bathroom can be seen through a door on the far wall.
+~
+6 0 0
+0d0+0 0 0
+D7
+Second floor hallway.
+~
+~
+0 -1 662
+S
+#686
+Inside the Bank Vault~
+This is the inside of the vault, where all the bank's money is kept.  Along
+the right-hand wall are many safety deposit boxes filled with the important
+possessions of many rich and powerful members of the city.  Along the other
+wall are several smaller vaults where most of the bank's money is kept.  On a
+table along the far wall is a pile of ancient gold coins, undoubtedly waiting
+to be placed into one of the safety deposit boxes.  As you walk around the
+room checking for unlocked safes, you hear an alarm ringing in the background.
+You'd better get out of here soon, before the police arrive.
+~
+6 0 0
+0d0+0 0 0
+D1
+~
+~
+2 680 626
+S
+#687
+Elevator~
+You are standing in an elevator.  There are a button on the wall.
+Other than that, you see nothing important.
+~
+6 0 0
+0d0+0 0 0
+D0
+There is a hallway here.
+~
+~
+0 -1 646
+S
+#688
+A secret altar~
+You descend the staircase to find yourself in front of a secret altar hidden
+below the church.  By the markings on the walls, you expect that some sort of
+cult is using it.......and the lighted candles and chanting tells you they are
+using it right now!!!!!!!!!!!
+~
+6 8 0
+0d0+0 0 0
+D4
+You go back up the stairs
+~
+altar~
+1 610 666
+S
+#689
+Broad Street~
+This is well worn, reddish-brown, wide brick road.  It travels north
+and south.  There is nothing of interest along the sides of the road.
+~
+6 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 722
+D2
+Broad street continues south.
+~
+~
+0 -1 655
+S
+#690
+Intersection~
+This is the intersection of Broad and Union Streets.  Broad street runs to 
+the south, while Union Street runs east.  Be careful bacause the dark 
+alleys running off from Union Street can be deadly.  
+~
+6 0 0
+0d0+0 0 0
+D2
+Broad street runs south.
+~
+~
+0 -1 689
+S
+#691
+Derricks Pawn Shop~
+In this room rests several tables, racks, and display cases lined with all
+types of armor and clothing.  Antique suits of armor, battered shields, dusty
+helmets, and used clothing can all be found here in abundance.  The clerk
+seems distracted by a leather belt that won't adjust properly.  From here you
+may go to the west, or south through another doorway.
+~
+6 8 0
+0d0+0 0 0
+D2
+You notice a back room to the pawn shop.
+~
+~
+0 -1 692
+D3
+The large room continues west.
+~
+~
+0 -1 634
+E
+belt~
+This leather belt has a platinum, jeweled clasp, and glows dimly.  It seems to
+come apart every time the clerk fixes it, making his pants fall down around
+his knees.  The clerk seems very embarrased...
+~
+S
+#692
+Back room of Derricks Pawn Shop~
+Weapons of all types line the tables and racks on the walls.  Ancient swords,
+dusty axes, and even small handguns lie out on the shelves.  Derrick, the owner,
+hints that more modern weaponry might be available, if the price is right.
+Some larger guns of an unknown design lie, partially covered, in a glass case
+in the corner.  From here you can go to the north or southwest into a darker
+back room of the shop.
+~
+6 8 0
+0d0+0 0 0
+D0
+The main room of Derricks Pawn Shop.
+~
+~
+0 -1 691
+D9
+More of the back room of Derrick's Pawn Shop.
+~
+~
+0 -1 693
+E
+gun~
+This gun is large, shiny, and seems to be made of an unknown metal.  There is
+no place to load ammunition, and is makes a low humming sound.  This gun
+would be a very powerful addition to your equipment, if Derrick would be willing
+to sell it.
+~
+S
+#693
+Back room of Derricks Pawn Shop~
+This room has a dark, mystic aura about it.  A dark-robed figure stands over
+the tables here, watching you intently.  Gnarled staves, glittering wands,
+dusty tomes, and bubbling potions await you here.  The room is barely lighted
+by several candles that smell heavily of incense.  The only exit is to the
+northeast.
+~
+6 8 0
+0d0+0 0 0
+D6
+The back room of Derricks Pawn Shop.
+~
+~
+0 -1 692
+E
+staff~
+This magnificent staff rests in the corner of the shop.  Ancient runes of power
+wrap around the mighty oaken staff from one end to the other.  Each end of the
+staff is encased in the purest mithril, and the upper section is encrusted
+with a king's ransom in jewels of all types, forming a spiraling rainbow
+pattern towards the tip.  At the very top of the staff is a huge sapphire
+inscribed with a strange runic sumbol.  As if by magic, you immediately
+realize that the symbol marks the staff as being property of the High Archmage
+of Stormhaven, the mighty Diabla Hellborne herself.
+~
+S
+#694
+Entrance to Johnson's Corner Store~
+This is the store entrance, where shopping carts are kept.  Several newspaper
+vending machines are also here, sitting against one wall.
+~
+6 12 0
+0d0+0 0 0
+D1
+Pierwalk Avenue lies outside the door.
+~
+~
+0 -1 619
+D3
+The main store.
+~
+~
+0 -1 620
+S
+#695
+The Lexington Hotel~
+This is the enterance to the majestic Lexington Hotel.  Looking up,
+you see the grand building rise befor you, it must be one of the tallest
+buildings in the city.  Directly above the doorway is an arched black
+roof to shelter guests from the rain.  The neon sign buzzes noisily
+above you.  Standing in the doorway are several bellhops waiting
+to greet you and take your bags.
+~
+6 4 0
+0d0+0 0 0
+D0
+The inside of the Leddington hotel looks nice and dry.
+~
+~
+0 -1 645
+D2
+Washington street lies outside the revolving doors.
+~
+~
+0 -1 644
+S
+#696
+Pierwalk Avenue~
+This newly paved road keeps going north.  To the west is a train
+station, bustling with people.  To the east a Great Lake is barely
+visible through the haze of pollution caused by the growing industries
+and increased use of motorized vehicles.
+~
+6 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 718
+D2
+Pierwalk Ave continues south.
+~
+~
+0 -1 679
+D3
+~
+~
+0 -1 697
+S
+#697
+Trolley Station~
+A rather dirty train/trolley station sits here, hushed with the 
+expectancy of the next train arriving.
+~
+6 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 696
+D3
+~
+~
+0 -1 698
+S
+#698
+Train Tracks~
+Train tracks.  Yep, that's what they are.  As you're stading here, you
+REALLY hope that a train isn't due anytime soon.  The tracks go
+southwest and northeast.
+~
+6 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 697
+S
+#699
+Bugs's Flower shop~
+This room is filled with the pleasant aroma of flowers.  Surrounding you are
+rows and rows of carnations, roses, tulips, orchids, and many other types of
+exotic flowers.  In the far right corner of the room is the counter with the
+cash register for you to pay for your purchases.  The room is dimly lit, but
+seems to be brightened by the presence of the flowers and the sunlight coming
+through the glass covering the west wall.
+~
+6 8 0
+0d0+0 0 0
+D1
+You see Broad street outside the door.
+~
+~
+0 -1 655
+S
+$

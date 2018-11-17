@@ -1,0 +1,1052 @@
+#24200
+shaolin master shaolinmaster~
+a Shaolin master~
+A Shaolin master is standing here, teaching his students.
+~
+This Shaolin monk shows no expression at all.  All he does is
+just instructs his students to practice and to learn from his
+demostrations.  The Shaolin master is wearing an orange robe like
+any other Shaolin headmasters here.
+~
+74 0 1000 W3
+8 4 3 1d1+180 4d1+2
+125 4000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+30 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#24201
+shaolin master shaolinmaster~
+a Shaolin master~
+A Shaolin master is walking around the temple, observing the pupils.
+~
+This Shaolin monk shows no expression at all.  All he does is
+just instructs his students to practice and to learn from his
+demostrations.  The Shaolin master is wearing an orange robe like
+any other Shaolin headmasters here.
+~
+72 0 1000 W3
+8 4 3 1d1+180 4d1+2
+125 4000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+30 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#24202
+student shaolin pupil monk~
+a Shaolin student~
+A student of Shaolin is standing here, studying the martial arts.
+~
+This Shaolin student is like all other students here in the
+temple.  He's a diligent man, always studying the ancient
+manuscripts and learning the martial arts of Shaolin.  This
+student wears a blue robe, and unlike the monks in this temple
+he has to keep his hair until he becomes a true master.
+~
+74 0 1000 W3
+4 2 6 1d1+100 4d1+0
+55 750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#24203
+student shaolin pupil monk~
+a Shaolin student~
+A Shaolin student is walking around, reciting the holy manuscripts.
+~
+This Shaolin student is like all other students here in the
+temple.  He's a diligent man, always studying the ancient
+manuscripts and learning the martial arts of Shaolin.  This
+student wears a blue robe, and unlike the monks in this temple
+he has to keep his hair until he becomes a true master.
+~
+72 0 1000 W3
+4 2 6 1d1+100 4d1+0
+55 750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#24204
+monk shaolin ~
+a Shaolin monk~
+A Shaolin monk is walking around, meditating and watching the students.
+~
+This Shaolin monk is unlike the Shaolin master who has to teach the
+young students.  His purpose for staying here in the temple is to
+watch the students carefully to make sure they don't step out of 
+line.  He wants to make sure that each student is discipline and that
+they will study hard in their learnings.
+~
+16456 0 1000 W3
+5 3 6 1d1+120 5d1+0
+60 1000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#24205
+master woo masterwoo~
+Master Woo~
+Master Woo, the 'Wing-Chun' master, is practicing his technique.
+~
+This Shaolin master is one of the most powerful monks here in the
+temple.  His skill in the arts of Wing-Chun is unmatched.  
+Wing-Chun is a 'graceful' martial art that deals with balance and
+speed.  It was originally a skill invented by a woman with that
+same name and now, it's used throughout China and the rest of the
+world.  Master Woo is an average size man and he wears a long, dull
+monk's robe.
+~
+321611 128 1000 W3
+69 65 -20 10d10+1395 10d3+32
+25000 25000
+8 8 1
+18 100 18 18 18 18 0
+17 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24206
+master baoh masterbaoh~
+Master Baoh~
+Master Baoh, the 'Sticking Hands' master, is displaying his skills.
+~
+Baoh is the master of the martial art technique known as 'Sticking
+Hands.'  This martial art is best used against an enemy of a greater
+size.  The 'Sticking Hands' was popularized by Bruce Lee.  Though
+Lee did not invent this technique he demonstrated to the world its
+power and how effective it could be.  Baoh is the master of this
+technique and there's no one here in Shaolin that could best him
+using the same technique.
+~
+321611 128 1000 W3
+69 65 -18 10d10+1395 10d3+32
+25000 25000
+8 8 1
+18 100 18 18 18 18 0
+19 2 3
+-180 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24207
+master lam masterlam~
+Master Lam~
+Master Lam, the Monkey Kung-Fu master, is showing off his amazing skills.
+~
+Master Lam knows that no one in Shaolin is better at the
+technique known as Monkey Kung-Fu than he is.  This skill is an
+old martial art form of Shaolin and it's still widely use today.
+The Monkey Kung-Fu is faast and unpredictable.  It's not easy to
+learn this strange skill because a person must have the agility
+as well as the intelligence to study and understand this technique.
+~
+321611 128 1000 W3
+76 75 -20 10d10+1770 3d15+33
+30000 30000
+8 8 1
+18 100 18 18 18 18 0
+18 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24208
+masterkhal-lung master khal-lung khal lung~
+Master Khal-Lung~
+Master Khal-Lung, the Dragon Kung-Fu master, is practicing his lethal kung-fu.
+~
+The Dragon Kung-Fu is definitely a dangerous martial art when
+it's used for the wrong purpose.  The Dragon claws and Dragon
+tail are two steps to this lethal martial art.  The claws are the
+hands and the tail is the swift leg of the Dragon Kung-Fu 
+fighter.  Khal-Lung knows that only one who can control his
+'inner self' may be master this deadly martial art.
+~
+321611 128 1000 W3
+61 55 -14 10d10+1020 6d5+29
+20000 20000
+8 8 1
+18 100 18 18 18 18 0
+12 2 3
+-140 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24209
+master gow mastergow~
+Master Gow~
+Master Gow, the Shaolin 'Long-Fist' master, is practicing his kung-fu.
+~
+Speed and power are the keys to understanding the 'Long-Fist'
+martial art technique.  Not only that, this skill also focus on
+finding and concentrating on weak points of the human body.
+Master Gow is a full contact fighter whenever he uses this skill,
+and when he attacks, you can be sure that you'll be disabled as
+soon as his deadly blows connect.
+~
+321611 128 1000 W3
+69 65 -20 10d10+1395 10d3+32
+25000 25000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24210
+masterwong-fei-hong master wong fei hong~
+Master Wong-Fei-Hong~
+Master Wong-Fei-Hong, the Drunken Fist Master, is drinking some rice wine.
+~
+The Drunken Fist is the one of the popular if not the most
+popular martial art in China today.  This strange form of martial
+art is most effective when the fighter is drunk, however, not many
+expert users of this technique require wine to demostrate this skill.
+~
+321611 128 1000 W3
+85 65 -20 10d10+1395 10d3+32
+25000 25000
+8 8 1
+18 100 18 18 18 18 0
+17 2 3
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24211
+master tang mastertang~
+Master Tang~
+Master Tang, the Crane Kung-Fu master, is standing on one leg.
+~
+Master Tang is here meditating as he stands on one of his legs
+with arms stretched out wide.  The Crane Kung-Fu is more of an
+exercise skill but it could be used as a fighting technique. The
+Crane Kung-Fu focus on balance and grace and thus it's one of
+Shaolin's most 'tamed' martial arts.
+~
+321611 128 1000 W3
+61 55 -14 10d10+1020 6d5+29
+18000 20000
+8 8 1
+18 100 18 18 18 18 0
+19 2 3
+-140 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24212
+monk crazy fo lung fo-lung~
+Fo-Lung the rebel monk~
+A crazy monk is here, trying to break those chains that bind him.
+~
+As long as he lives, Fo-Lung is a threat to everyone.  This
+insane, bloodthirsty monk has killed many when he first escaped
+from Shaolin.  Fo-Lung used to be the master of 'Wu-Shu'-- a fast
+and lethal martial art that's widely used around the world.  A Wu-
+Shu expert is always a dangerous opponent when it comes to a fight.
+~
+321643 128 1000 W3
+85 65 -20 10d10+1395 10d3+32
+25000 25000
+8 8 1
+18 100 18 18 18 18 0
+18 2 3
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24213
+lai-hong hong lai master monk~
+Master Lai-Hong~
+Master Lai-Hong, the Snake Kung-Fu master, is practicing his deadly skill.
+~
+The Snake Kung-Fu is very popular in China.  Lai-Hong is the
+master of this martial art here in the Shaolin Temple and he could
+use this deadly skill quite well.  The Snake Kung-Fu requires that
+the fighter uses every part of his body, similar to how a snake
+would use its body to move and kill.  Speed is the key if a person
+is to learn the way of the Snake Kung-Fu.
+~
+321611 128 1000 W3
+69 65 -20 10d10+1395 10d3+32
+25000 25000
+8 8 1
+18 100 18 18 18 18 0
+13 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24214
+wu-king wu king~
+Master Wu-King~
+Master Wu-King, the Tiger Kung-Fu master, is practicing his skill.
+~
+Tiger Kung-Fu is a skill that focus on strength and accuracy.
+The hand claws of the Tiger Kung-Fu fighter mimic the powerful
+claws of the tiger.  The deadly hand claws could rip through most
+things once the fighter has master this technique.
+~
+321611 128 1000 W3
+61 55 -14 10d10+1020 6d5+29
+18000 20000
+8 8 1
+18 100 18 18 18 18 0
+17 2 3
+-140 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24215
+master lew masterlew~
+Master Lew~
+Master Lew, the 'Steel Bridge' master, is practicing his powerful skill.
+~
+Master Lew has isolated himself from the outside world so that he
+may study the 'Steel Bridge' technique more thoroughly.  To learn
+this mysterious form of martial art, one must focus the mind and 
+concentrate on his studies.  This is the only way a person may 
+uncover the secrets of the power behind this Shaolin martial art.
+~
+321611 128 1000 W3
+69 65 -20 10d10+1395 13d2+33
+25000 25000
+8 8 1
+18 100 18 18 18 18 0
+17 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24216
+master chai masterchai~
+Master Chai~
+Master Chai, the Tai-Chi master and head Shaolin monk, is standing here.
+~
+Master Chai is the head abbott here in this temple.  He is
+practicing a graceful martial art called Tai-Chi which he is
+the master of.  Though the martial art that he's practicing seems
+to look weak, slow, and useless, it could be something more than
+just an exercise technique.  Tai-Chi is not something anyone
+should underestimate.  This art form can be used against any
+opponent and it works best when the Tai Chi fighter wields a long
+double-edge Tai-Chi sword.  Tai Chi focuses on 'repelling' the
+opponent's own force and strength without having the Tai-Chi
+fighter exerting his own force.
+~
+321611 128 1000 W3
+125 80 -22 10d10+2770 15d5+37
+35000 42000
+8 8 1
+18 100 18 18 18 18 0
+8 2 3
+-220 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24217
+chow sentinel monk~
+Sentinel Chow~
+Sentinel Chow is here, looking for any signs of trouble in Shaolin.
+~
+Chow is the leader of the four lethal Shaolin Sentinels.  He will
+halt any troublemakers in the temple by any force necessary.  His
+primary orders are to keep the temple in peace and make sure no
+one dares to interrupt the headmasters in their study.  Sentinel
+Chow looks like an awesome man.  With robes made of a thin gold
+material and a staff made of bronze, he looks like a man who
+could really do some damage.
+~
+63561 128 1000 W3
+75 55 -14 10d10+1020 4d2+41
+18000 20000
+8 8 1
+18 100 18 18 18 18 0
+18 2 3
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24218
+lai-man lai man sentinel monk~
+Sentinel Lai-Man~
+Sentinel Lai-Man is here, patrolling this area.
+~
+Lai-Man doesn't look like a pushover when you first see him.  He
+stands tall with his powerful staff in hand and he looks like he
+could really hurt someone.  Lai-Man is one of the four deadly
+Sentinels of Shaolin and he will enforce the laws here in the
+temple.
+~
+63561 128 1000 W3
+75 55 -14 10d10+1020 12d2+29
+18000 20000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24219
+kwong sentinel monk~
+Sentinel Kwong~
+The always-vigilant Sentinel Kwong is looking around the temple.
+~
+This Shaolin master is one of the four deadly Shaolin Sentinels.
+He will do anything to stop invaders who are here to cause
+trouble for the Shaolin headmasters and pupils.  Kwong looks like
+an impressive man, with lean bulging muscles, this man is someone
+you don't want to fight...trust me.
+~
+63561 128 1000 W3
+75 55 -14 10d10+1020 6d5+29
+18000 20000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24220
+tam sentinel monk~
+Sentinel Tam~
+Sentinel Tam is here, looking for toublemakers to bash on.
+~
+Sentinel Tam is one of the most aggressive of the four Shaolin
+Sentinels.  He will hurt you bad if you try to do anything bad
+around the temple.  Tam is a master of the bronze staff that he's
+carrying and he wouldn't hesitate to use this weapon if he knows
+someone here is a troublemaker.
+~
+63561 128 1000 W3
+75 55 -14 10d10+1020 9d3+29
+18000 20000
+8 8 1
+18 100 18 18 18 18 0
+18 2 3
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24221
+ninja ninja-assassin assassin chinese~
+a Chinese ninja-assassin~
+A very silent and deadly ninja is looking for his target...
+~
+This Chinese ninja-assassin is trying to find the person that
+he's here to assassinate.  His quiet footsteps and his uncanny
+invisibility makes him quite elusive to even the four Shaolin
+Sentinels.  This Chinese ninja, unlike the Japanese ninjas, is
+much more faster, smarter, and many times deadlier.
+~
+59597 262274 -500 W3
+61 55 -14 10d10+1020 10d3+27
+18000 20000
+8 8 1
+18 100 18 18 18 18 0
+19 2 3
+-140 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24222
+empress dowager~
+Empress Dowager~
+Empress Dowager is here, praying to a statue that stands before her.
+~
+Empress Dowager is one of the most cruelest ruler in China's
+history.  She has sentence more than ten thousand men to the 
+guillotine when she was in power and many, many people despise
+this mad woman.  Dowager is a god-fearing worshipper.  She
+believes that everything she did, all those men she murdered,
+were the instructions of her God.
+~
+43087 128 -1000 W3
+57 75 -14 10d10+2020 12d2+29
+16000 18000
+8 8 2
+18 100 18 18 18 18 0
+8 2 3
+-140 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24223
+ghost bruce lee ~
+Bruce Lee's ghost~
+Bruce Lee's ghost is looking for Brandon.  Do you know where he is?
+~
+A strange figure in the shape of Bruce Lee is walking silently 
+around the temple.  He seems to be looking for someone, maybe
+he's looking for his son, Brandon.  This ghostly image of Bruce
+Lee is wearing some dark kung-fu pants much like the pants Lee
+wore in all his movies.
+~
+305227 16777354 1000 W3
+127 85 -27 10d10+7400 12d10+75
+50000 100000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-270 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24224
+ghost brandon lee~
+Brandon Lee's ghost~
+A lonely, ghost figure of Brandon Lee cries out, 'Who killed me?'
+~
+Brandon Lee has come back from the dead because his murder is 
+still unsolved.  This vengeful ghost wants the man who switch
+those blank bullets for the real thing.  Brandon could've had a
+great life, an engagement to a lovely woman and a blooming 
+career, but all that was taken away by someone who wanted him 
+dead for a reason that is still unknown...
+~
+59465 262274 1000 W3
+75 65 -20 10d10+1395 10d3+42
+20000 25000
+8 8 1
+18 100 18 18 18 18 0
+17 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#24225
+man bronze #1~
+Bronze Man #1~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+456747 136 1000 W3
+58 45 -16 10d10+1520 4d3+29
+25000 27000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-160 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24226
+man bronze #2~
+Bronze Man #2~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+456747 136 1000 W3
+58 45 -16 10d10+1520 4d3+29
+25000 27000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-160 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24227
+man bronze #3~
+Bronze Man #3~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+456747 136 1000 W3
+59 55 -16 10d10+1520 4d3+29
+25000 27000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-160 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24228
+man bronze #4~
+Bronze Man #4~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+456747 136 1000 W3
+61 55 -10 10d10+1520 5d5+27
+29000 33000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24229
+man bronze #5~
+Bronze Man #5~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+456747 136 1000 W3
+66 65 -14 10d10+1530 6d5+29
+30000 35500
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-140 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24230
+man bronze #6~
+Bronze Man #6~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+456747 136 1000 W3
+75 64 -19 10d10+1545 10d4+33
+32000 40000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-190 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24231
+man bronze #7~
+Bronze Man #7~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+456747 136 1000 W3
+80 65 -19 10d10+1800 10d5+35
+32000 40000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-190 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24232
+man bronze #8~
+Bronze Man #8~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+456747 136 1000 W3
+81 70 -19 10d10+1900 10d5+35
+32000 40000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-190 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24233
+man bronze #9~
+Bronze Man #9~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+325675 136 1000 W3
+86 70 -20 10d10+2070 10d5+40
+35000 50000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24234
+man bronze #10~
+Bronze Man #10~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+325675 136 1000 W3
+86 70 -20 10d10+2070 12d4+40
+35000 50000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24235
+man bronze #11~
+Bronze Man #11~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+325675 136 1000 W3
+88 72 -20 10d10+2070 15d4+36
+35000 50000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24236
+man bronze #12~
+Bronze Man #12~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+325675 136 1000 W3
+88 72 -20 10d10+2500 18d2+40
+35000 50000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24237
+man bronze #13~
+Bronze Man #13~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+325675 136 1000 W3
+88 75 -20 10d10+2420 11d5+35
+35000 50000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#24238
+man bronze #14~
+Bronze Man #14~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+325675 136 1000 W3
+103 80 -24 10d10+2470 10d5+60
+40000 65000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-240 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#24239
+man bronze #15~
+Bronze Man #15~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+325675 136 1000 W3
+103 80 -24 10d10+2470 10d3+70
+40000 65000
+8 8 1
+18 100 18 18 18 18 0
+18 2 3
+-240 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#24240
+man bronze #16~
+Bronze Man #16~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+325675 136 1000 W3
+105 85 -24 10d10+2670 12d2+72
+40000 65000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-240 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#24241
+man bronze #17~
+Bronze Man #17~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+325675 136 1000 W3
+127 85 -26 10d10+4950 15d5+66
+40000 100000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-260 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#24242
+man bronze #18~
+Bronze Man #18~
+A Bronze Man is standing here, guarding the large entrance.
+~
+The lean, muscular bronze body of this deadly guardian looks
+impenetrable.  This Bronse Man is always ready to hurt anyone who
+tries passing through those massive, red oak doors behind him.  
+Not many could defeat this lethal guardian.  Only those with
+patience and great strength may be able to earn a victory from
+this seemingly invincible guardian.
+~
+325675 136 1000 W3
+127 85 -27 10d10+5660 10d10+75
+75000 180000
+8 8 1
+18 100 18 18 18 18 0
+18 2 3
+-270 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#24243
+monk bald-headed guy man student shaolin~
+a Shaolin student~
+A bald-headed monk is running up the stairs with two pails of water!
+~
+INCREDIBLE!  No one can move that quickly up the stairs even without
+carrying those two large pails of water.  This monk must have the
+strength of ten men.  He moves up the stairs as though he's not even
+tired from climbing those other few thousands steps before him.  
+~
+72 0 1000 W3
+4 2 6 1d1+100 4d1+0
+55 750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#24244
+buddha statue golden god~
+the statue of Buddha~
+A large golden Buddha statue is sitting on top a huge stone pedestal.
+~
+This holy statue of Buddha is strangely covered in solid gold and it's left
+here for all to come and worship it.  The large statue looks as though it's
+alive as you come closer to inspect it...
+~
+272715 16975032 1000 W3
+127 83 -29 10d10+5880 10d10+75
+150000 110000
+8 8 1
+18 100 18 18 18 18 0
+16 5 0
+-290 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#24298
+~
+             ~
+              
+~
+        ~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 0 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#24299
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+$

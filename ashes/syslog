@@ -1,0 +1,329 @@
+autoscript starting game Fri Aug 18 19:30:37 CDT 2000
+Fri Aug 18 19:30:37 :: Auto-reboot enabled.
+Fri Aug 18 19:30:37 :: Using lib as data directory.
+Fri Aug 18 19:30:37 :: Running game on port 3333.
+Fri Aug 18 19:30:37 :: Finding player limit.
+Fri Aug 18 19:30:37 :: Setting player limit to 60 using rlimit.
+Fri Aug 18 19:30:37 :: Opening mother connection.
+Fri Aug 18 19:30:37 :: Boot db -- BEGIN.
+Fri Aug 18 19:30:37 :: Resetting the game time:
+Fri Aug 18 19:30:37 ::    Current Gametime: 20H 26D 5M 295Y.
+Fri Aug 18 19:30:37 :: Initializing character classes.
+Fri Aug 18 19:30:37 :: Reading greetings, news, credits, help, bground, info & motds.
+Fri Aug 18 19:30:37 :: Loading zone table.
+Fri Aug 18 19:30:38 :: Loading rooms.
+Fri Aug 18 19:30:40 :: Renumbering rooms.
+Fri Aug 18 19:30:40 :: Checking start rooms.
+Fri Aug 18 19:30:40 :: Loading mobs and generating index.
+Fri Aug 18 19:30:42 :: Loading mobprogs.
+Fri Aug 18 19:30:42 :: Loading objs and generating index.
+Fri Aug 18 19:30:43 :: Renumbering zone table.
+Fri Aug 18 19:30:43 :: Loading shops.
+Fri Aug 18 19:30:43 :: Loading help entries.
+Fri Aug 18 19:30:43 :: Generating player index.
+Fri Aug 18 19:30:43 ::    321 players in database.
+Fri Aug 18 19:30:43 :: Loading fight messages.
+Fri Aug 18 19:30:43 :: Loading social messages.
+Fri Aug 18 19:30:43 :: Assigning function pointers:
+Fri Aug 18 19:30:43 ::    Mobiles.
+Fri Aug 18 19:30:43 ::    Shopkeepers.
+Fri Aug 18 19:30:43 ::    Objects.
+Fri Aug 18 19:30:43 ::    Rooms.
+Fri Aug 18 19:30:43 ::    Spells.
+Fri Aug 18 19:30:43 :: Assigning spell and skill levels.
+Fri Aug 18 19:30:43 :: Sorting command list and spells.
+Fri Aug 18 19:30:43 :: Booting mail system.
+Fri Aug 18 19:30:43 ::    30700 bytes read.
+Fri Aug 18 19:30:43 ::    Mail file read -- 49 messages.
+Fri Aug 18 19:30:43 :: Reading banned site and invalid-name list.
+Fri Aug 18 19:30:43 :: Initializing virtual channels.
+Fri Aug 18 19:30:43 :: Deleting timed-out rent files:
+Fri Aug 18 19:30:44 :: Done.
+Fri Aug 18 19:30:44 :: Reading object update list.
+Fri Aug 18 19:30:44 :: Scanning for duped items and dupe-marking reimb files.
+Fri Aug 18 19:30:47 :: Rent check done
+Fri Aug 18 19:30:49 :: Reimb mark done
+Fri Aug 18 19:30:49 :: Checking arena.
+Fri Aug 18 19:30:49 :: Resetting Limbo (rooms 0-199).
+Fri Aug 18 19:30:49 :: Resetting Mortal Kombat (rooms 200-299).
+Fri Aug 18 19:30:49 :: Resetting DC Comics (Hysteria, Asita) (rooms 300-499).
+Fri Aug 18 19:30:49 :: Resetting Wamphyri (rooms 500-599).
+Fri Aug 18 19:30:49 :: Resetting Chicago 1920's (Cati, Panther) (rooms 600-699).
+Fri Aug 18 19:30:49 :: Resetting Chicago 1920's (Cati, Panther) (rooms 700-799).
+Fri Aug 18 19:30:49 :: Resetting midgaard breather (rooms 800-899).
+Fri Aug 18 19:30:49 :: Resetting Wolfenstein (Sheol) (rooms 900-999).
+Fri Aug 18 19:30:49 :: Resetting The Shire (rooms 1100-1199).
+Fri Aug 18 19:30:49 :: Resetting God Rooms (rooms 1200-1299).
+Fri Aug 18 19:30:49 :: Resetting High Tower of Sorcery (rooms 1300-1499).
+Fri Aug 18 19:30:49 :: Resetting The God Museum (MidKnight) (rooms 1500-1599).
+Fri Aug 18 19:30:49 :: Resetting Xanth: paths,forest,gap(Midknight) (rooms 1600-1699).
+Fri Aug 18 19:30:49 :: Resetting Grymourne/Xanth (rooms 1700-1799).
+Fri Aug 18 19:30:49 :: Resetting Hitchhiker (Arthur) (rooms 1800-1899).
+Fri Aug 18 19:30:49 :: Resetting The Blair Witch Project (Hysteria) (rooms 1900-1999).
+Fri Aug 18 19:30:49 :: Resetting Camelot (Lazarus) (rooms 2000-2199).
+Fri Aug 18 19:30:49 :: Resetting Draconia (rooms 2200-2299).
+Fri Aug 18 19:30:49 :: Resetting The Keep of Mahn-Tor (rooms 2300-2399).
+Fri Aug 18 19:30:49 :: Resetting Diablo Lvl 1 (Dungeons) (rooms 2500-2549).
+Fri Aug 18 19:30:49 :: Resetting Diablo Lvl 3 (Caves) (rooms 2550-2599).
+Fri Aug 18 19:30:49 :: Resetting Diablo Lvl 2 (Catacombs) (rooms 2600-2649).
+Fri Aug 18 19:30:49 :: Resetting Diablo Town (MidKnight) (rooms 2900-2950).
+Fri Aug 18 19:30:49 :: Resetting Northern Midgaard Main City (rooms 2951-3099).
+Fri Aug 18 19:30:49 :: Resetting Southern part of Midgaard (rooms 3100-3199).
+Fri Aug 18 19:30:49 :: Resetting Great Temple of Asgaard and River (rooms 3200-3299).
+Fri Aug 18 19:30:49 :: Resetting Diablo Lvl 4 (Hell) (rooms 3300-3399).
+Fri Aug 18 19:30:49 :: Resetting Quest Maze (rooms 3400-3499).
+Fri Aug 18 19:30:49 :: Resetting Land of Oz (Booof) (rooms 3600-3799).
+Fri Aug 18 19:30:49 :: Resetting Devil's Wood (Herb and Linna) (rooms 3800-3899).
+Fri Aug 18 19:30:49 :: Resetting Moria, levels 1, 2, and 5 (rooms 4000-4099).
+Fri Aug 18 19:30:49 :: Resetting Moria, levels 3-4, 6-9 (rooms 4100-4199).
+Fri Aug 18 19:30:49 :: Resetting Newbie builder school (Teddy) (rooms 4200-4299).
+Fri Aug 18 19:30:49 :: Resetting MidKnight's Castle (rooms 4300-4499).
+Fri Aug 18 19:30:49 :: Resetting Elemental Canyon (Drazzst) (rooms 4550-4599).
+Fri Aug 18 19:30:49 :: Resetting New zone (rooms 4600-4699).
+Fri Aug 18 19:30:49 :: Resetting Poke'mon I (Hysteria) (rooms 4700-4799).
+Fri Aug 18 19:30:49 :: Resetting Poke'mon II (Hysteria) (rooms 4800-4899).
+Fri Aug 18 19:30:49 :: Resetting Toy Story (rooms 4900-4999).
+Fri Aug 18 19:30:49 :: Resetting The Great Eastern Desert (rooms 5000-5099).
+Fri Aug 18 19:30:49 :: Resetting Drow City (Dru) (rooms 5100-5199).
+Fri Aug 18 19:30:49 :: Resetting The City of Thalos (rooms 5200-5299).
+Fri Aug 18 19:30:49 :: Resetting The Pyramid (rooms 5300-5399).
+Fri Aug 18 19:30:49 :: Resetting Sarnoth's zone (rooms 5400-5499).
+Fri Aug 18 19:30:49 :: Resetting The Odyssey (Asita) (rooms 5600-5699).
+Fri Aug 18 19:30:49 :: Resetting Night Court (Akiya, Myan, Stretch) (rooms 5900-5999).
+Fri Aug 18 19:30:49 :: Resetting Haon-Dor (Light) (rooms 6000-6099).
+Fri Aug 18 19:30:49 :: Resetting Haon-Dor (Dark) (rooms 6100-6199).
+Fri Aug 18 19:30:49 :: Resetting Disney Land (rooms 6400-6499).
+Fri Aug 18 19:30:49 :: Resetting The Dwarven Kingdom (rooms 6500-6599).
+Fri Aug 18 19:30:49 :: Resetting Blade Runner (Booof) (rooms 6600-6799).
+Fri Aug 18 19:30:49 :: Resetting Sewer (rooms 7000-7099).
+Fri Aug 18 19:30:49 :: Resetting MudSchool (rooms 7300-7399).
+Fri Aug 18 19:30:49 :: Resetting Planet Mars (Bloodseeker) (rooms 7500-7599).
+Fri Aug 18 19:30:50 :: Resetting Redferne's Residence (rooms 7900-7999).
+Fri Aug 18 19:30:50 :: Resetting Xanth:Roogna&Humphreys (Midknight) (rooms 8200-8299).
+Fri Aug 18 19:30:50 :: Resetting Xanth:Humfrey-2,Villages (Midknight) (rooms 8300-8399).
+Fri Aug 18 19:30:50 :: Resetting Forgotten Realms (Shifter) (rooms 8400-8499).
+Fri Aug 18 19:30:50 :: Resetting Forgotten Realms 2 (Shifter) (rooms 8500-8599).
+Fri Aug 18 19:30:50 :: Resetting Forgotten Realms 3 (Shifter) (rooms 8600-8699).
+Fri Aug 18 19:30:50 :: Resetting Muppets (DonGiovanni) (rooms 8800-8899).
+Fri Aug 18 19:30:50 :: Resetting Hills of Hell (Arkon) (rooms 9000-9099).
+Fri Aug 18 19:30:50 :: Resetting Galaxy V  2.0(Sheol) (rooms 9300-9399).
+Fri Aug 18 19:30:50 :: Resetting Terminator 2 (Darkheart) (rooms 9500-9599).
+Fri Aug 18 19:30:50 :: Resetting Lost Valley (Thyra) (rooms 9600-9699).
+Fri Aug 18 19:30:50 :: Resetting Statue Museum (Daxx) (rooms 9800-9899).
+Fri Aug 18 19:30:50 :: Resetting Duke Nukem (rooms 9900-9999).
+Fri Aug 18 19:30:50 :: Resetting Marvel Universe (Bloodseeker) (rooms 10300-10499).
+Fri Aug 18 19:30:50 :: Resetting Ancalador (rooms 10500-10599).
+Fri Aug 18 19:30:50 :: Resetting The Great Chessboard (rooms 10600-10666).
+Fri Aug 18 19:30:50 :: Resetting Quest Zone 2 (rooms 10800-10899).
+Fri Aug 18 19:30:50 :: Resetting Shannara A (rooms 11200-11299).
+Fri Aug 18 19:30:50 :: Resetting Redwall (Matthias) (rooms 11300-11399).
+Fri Aug 18 19:30:50 :: Resetting The Haunted Castle (rooms 11500-11599).
+Fri Aug 18 19:30:50 :: Resetting Ttor 2 II (DH, Teddy) (rooms 11600-11699).
+Fri Aug 18 19:30:50 :: Resetting Holiday Hell(Teddy/Sheol/etc) (rooms 11800-11899).
+Fri Aug 18 19:30:50 :: Resetting Quest shop zone (rooms 11900-11999).
+Fri Aug 18 19:30:50 :: Resetting Rome (rooms 12000-12099).
+Fri Aug 18 19:30:50 :: Resetting Astral Plane  -(Raul) (rooms 12200-12299).
+Fri Aug 18 19:30:50 :: Resetting The Slums (rooms 12700-12799).
+Fri Aug 18 19:30:51 :: Resetting The Bazaar (Gru) (rooms 12800-12899).
+Fri Aug 18 19:30:51 :: Resetting Magic: The Gathering (Shifter) (rooms 13000-13099).
+Fri Aug 18 19:30:51 :: Resetting Midgaard: 2439 (rooms 13100-13199).
+Fri Aug 18 19:30:51 :: Resetting X-Men Mansion (rooms 14000-14099).
+Fri Aug 18 19:30:51 :: Resetting Grimwall I (Rigbyd) (rooms 14100-14199).
+Fri Aug 18 19:30:51 :: Resetting Grimwall II (Rigbyd) (rooms 14200-14299).
+Fri Aug 18 19:30:51 :: Resetting Addams Family Mansion (Booof) (rooms 14500-14599).
+Fri Aug 18 19:30:51 :: Resetting Addams Family II (Booof) (rooms 14600-14699).
+Fri Aug 18 19:30:51 :: Resetting King's Castle (rooms 15000-15055).
+Fri Aug 18 19:30:51 :: Resetting The Land (rooms 15100-15199).
+Fri Aug 18 19:30:51 :: Resetting Newbie Plateau of Prairie (rooms 15600-15699).
+Fri Aug 18 19:30:51 :: Resetting Newbie Forest (Bloodseeker) (rooms 15800-15899).
+Fri Aug 18 19:30:51 :: Resetting Gilligan's Island - Rapead (rooms 16000-16099).
+Fri Aug 18 19:30:51 :: Resetting The Wheel Turns (HigherAnarchy) (rooms 16100-16199).
+Fri Aug 18 19:30:51 :: Resetting New zone (rooms 16200-16299).
+Fri Aug 18 19:30:51 :: Resetting New zone (rooms 16300-16399).
+Fri Aug 18 19:30:51 :: Resetting LagLand (DonGiovanni) (rooms 17200-17299).
+Fri Aug 18 19:30:51 :: Resetting LagLand II (DonGiovanni) (rooms 17300-17399).
+Fri Aug 18 19:30:51 :: Resetting Dragonlance (Sarnoth) (rooms 17900-18099).
+Fri Aug 18 19:30:51 :: Resetting Dragonlance (Sarnoth) (rooms 18100-18199).
+Fri Aug 18 19:30:51 :: Resetting Durrany's Vale MK (rooms 18300-18399).
+Fri Aug 18 19:30:51 :: Resetting Green Reaches MK (rooms 18400-18499).
+Fri Aug 18 19:30:51 :: Resetting Midkemia (rooms 18500-18599).
+Fri Aug 18 19:30:51 :: Resetting Endless Sea (Bloodseeker) (rooms 18700-18799).
+Fri Aug 18 19:30:51 :: Resetting Midkemia (rooms 18900-18999).
+Fri Aug 18 19:30:51 :: Resetting BundyLand! (Xorin) (rooms 19000-19099).
+Fri Aug 18 19:30:52 :: Resetting Final Fantasy (Azuth) (rooms 19600-19699).
+Fri Aug 18 19:30:52 :: Resetting Final Fantasy (Azuth) (rooms 19700-19799).
+Fri Aug 18 19:30:52 :: Resetting Raiders of the lost Fridge (rooms 20300-20399).
+Fri Aug 18 19:30:52 :: Resetting Zoo Tv (rooms 20500-20599).
+Fri Aug 18 19:30:52 :: Resetting The MTV Zone (rooms 20600-20699).
+Fri Aug 18 19:30:52 :: Resetting Quest Zone (Sheol) (rooms 20800-20899).
+Fri Aug 18 19:30:52 :: Resetting New Sparta (rooms 21000-21199).
+Fri Aug 18 19:30:52 :: Resetting Giant Caves (Dyrewulf) (rooms 21700-21799).
+Fri Aug 18 19:30:52 :: Resetting Assassin's Arena (rooms 21900-22199).
+Fri Aug 18 19:30:52 :: Resetting Acme Acres/Animaniacs/Anime BigH (rooms 22200-22299).
+Fri Aug 18 19:30:52 :: Resetting Caddyshack (rooms 22300-22399).
+Fri Aug 18 19:30:52 :: Resetting City of Agrabah (rooms 22500-22599).
+Fri Aug 18 19:30:52 :: Resetting Palace of Agrabah (rooms 22600-22699).
+Fri Aug 18 19:30:52 :: Resetting Skavenblight (Gru) (rooms 22700-22899).
+Fri Aug 18 19:30:52 :: Resetting Ruins of Ozymandias (Xorin) (rooms 23000-23099).
+Fri Aug 18 19:30:52 :: Resetting Frost Giants (Bloodseeker) (rooms 23500-23599).
+Fri Aug 18 19:30:52 :: Resetting Jurassic Park (Sandtiger, Rand) (rooms 23700-23799).
+Fri Aug 18 19:30:52 :: Resetting JP Visitor's Center (Lapo) (rooms 23800-23899).
+Fri Aug 18 19:30:52 :: Resetting Shaolin Temple (Bloodseeker) (rooms 24200-24299).
+Fri Aug 18 19:30:52 :: Resetting The X-Files (Bloodseeker) (rooms 24300-24399).
+Fri Aug 18 19:30:53 :: Resetting Star Wars (rooms 24500-24699).
+Fri Aug 18 19:30:53 :: Resetting Mall of Death (Velvet & Zed) (rooms 24700-24799).
+Fri Aug 18 19:30:53 :: Resetting Hollywood (Darkheart) (rooms 24800-24999).
+Fri Aug 18 19:30:53 :: Resetting Warhammer 40k (Arken & Xorin) (rooms 25000-25099).
+Fri Aug 18 19:30:53 :: Resetting Space Hulk (Xorin) (rooms 25100-25199).
+Fri Aug 18 19:30:53 :: Resetting Death Star (Wimpy/Sargon) (rooms 25500-25599).
+Fri Aug 18 19:30:53 :: Resetting Grimwall (rooms 25600-25609).
+Fri Aug 18 19:30:53 :: Resetting New zone (rooms 25620-25629).
+Fri Aug 18 19:30:53 :: Resetting New zone (rooms 25630-25639).
+Fri Aug 18 19:30:53 :: Resetting New zone (rooms 25640-25649).
+Fri Aug 18 19:30:53 :: Resetting New zone (rooms 25650-25659).
+Fri Aug 18 19:30:53 :: Resetting New zone (rooms 25660-25669).
+Fri Aug 18 19:30:53 :: Resetting New zone (rooms 25740-25749).
+Fri Aug 18 19:30:53 :: Resetting New zone (rooms 25750-25759).
+Fri Aug 18 19:30:53 :: Resetting New zone (rooms 25760-25769).
+Fri Aug 18 19:30:53 :: Resetting New zone (rooms 25770-25779).
+Fri Aug 18 19:30:53 :: Boot db -- DONE.
+Fri Aug 18 19:30:53 :: Signal trapping.
+Fri Aug 18 19:30:53 :: Entering game loop.
+Fri Aug 18 19:30:53 :: No connections.  Going to sleep.
+Fri Aug 18 19:30:53 :: New connection.  Waking up.
+Fri Aug 18 19:30:54 :: Hysteria [024.006.004.170] has connected.
+Fri Aug 18 19:31:01 :: Hysteria retrieving crash-saved items and entering game.
+Fri Aug 18 19:31:03 :: a tourist (#409): Attempting to call non-existing mob func
+Fri Aug 18 19:31:03 :: a tourist (#409): Attempting to call non-existing mob func
+Error reading board: No such file or directory
+Error reading board: No such file or directory
+Error reading board: No such file or directory
+Error reading board: No such file or directory
+Fri Aug 18 19:32:50 :: Neo [209.255.112.030] has connected.
+Fri Aug 18 19:32:52 :: Neo un-renting and entering game.
+Fri Aug 18 19:33:27 :: Neo has quit the game.
+Fri Aug 18 19:33:29 :: Losing player: Neo.
+Fri Aug 18 19:35:49 :: Eagleknight [216.146.133.097] has connected.
+Fri Aug 18 19:35:51 :: Eagleknight un-renting and entering game.
+Fri Aug 18 19:42:11 :: Asita [024.006.005.050] has connected.
+Fri Aug 18 19:42:11 :: Asita un-renting and entering game.
+users 1
+users 2
+users 3
+users 4
+users 5
+users 6
+users 7
+Fri Aug 18 19:42:57 :: (GC) Asita gave a piece of mail to Hysteria at Before The Throne Of a God [8560].
+Fri Aug 18 19:44:10 :: (GC) Asita has eaten a piece of mail at Before The Throne Of a God [8560].
+Fri Aug 18 19:44:12 :: Neo [209.254.216.116] has connected.
+Fri Aug 18 19:44:15 :: Neo un-renting and entering game.
+Fri Aug 18 19:44:31 :: (GC) Asita gave a piece of mail to Hysteria at Before The Throne Of a God [8560].
+users 1
+users 2
+users 3
+users 4
+users 5
+users 6
+users 7
+Fri Aug 18 19:45:31 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:45:38 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:45:43 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:45:53 :: nusage: 4   sockets connected, 4   sockets playing
+Fri Aug 18 19:46:04 :: (GC) Asita gave a piece of mail to Hysteria at Room of Tricks [8555].
+Fri Aug 18 19:46:15 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:46:30 :: Neo has quit the game.
+Fri Aug 18 19:46:30 :: Neo un-renting and entering game.
+Fri Aug 18 19:47:12 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:47:46 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:47:57 :: Construct [209.254.216.116] has connected.
+Fri Aug 18 19:47:59 :: Construct un-renting and entering game.
+Fri Aug 18 19:47:59 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:48:05 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:48:32 :: Neo has quit the game.
+Fri Aug 18 19:48:33 :: Neo un-renting and entering game.
+Fri Aug 18 19:48:56 :: Stenrik [024.013.121.067] has connected.
+Fri Aug 18 19:48:56 :: Stenrik un-renting and entering game.
+users 1
+users 2
+users 3
+users 4
+users 5
+users 6
+users 7
+users 1
+users 2
+users 3
+users 4
+users 5
+users 6
+users 7
+users 1
+users 2
+users 3
+users 3.1
+users 3.2
+users 3.3
+users 3.4
+users 3.5
+users 4
+users 5
+users 6
+users 7
+Fri Aug 18 19:50:10 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:50:23 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:50:36 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:50:45 :: (GC) Asita has eaten a piece of mail at Asita's Lair [1212].
+Fri Aug 18 19:51:19 :: Stenrik has quit the game.
+Fri Aug 18 19:51:20 :: Losing player: Stenrik.
+Fri Aug 18 19:52:20 :: Hysteria has quit the game.
+Fri Aug 18 19:52:21 :: Losing player: Hysteria.
+Fri Aug 18 19:52:42 :: Sarnoth [136.165.080.051] has connected.
+Fri Aug 18 19:52:43 :: Sarnoth un-renting and entering game.
+Fri Aug 18 19:53:26 :: Eagleknight has quit the game.
+Fri Aug 18 19:53:28 :: Losing player: Eagleknight.
+Fri Aug 18 19:57:19 :: Construct advanced to level 63
+Fri Aug 18 19:58:58 :: Construct has quit the game.
+Fri Aug 18 19:58:59 :: Construct un-renting and entering game.
+Fri Aug 18 19:59:04 :: Construct has quit the game.
+Fri Aug 18 19:59:05 :: Losing player: Construct.
+Fri Aug 18 19:59:12 :: Neo has quit the game.
+Fri Aug 18 19:59:16 :: Losing player: Neo.
+Fri Aug 18 20:00:53 :: nusage: 2   sockets connected, 2   sockets playing
+users 1
+users 2
+users 3
+users 4
+users 5
+users 6
+users 7
+users 1
+users 2
+users 3
+users 4
+users 5
+users 6
+users 7
+Fri Aug 18 20:06:42 :: Warax [063.025.109.064] new player.
+users 1
+users 2
+users 3
+users 4
+users 5
+users 6
+users 7
+Fri Aug 18 20:06:46 :: Warax advanced to level 1
+Fri Aug 18 20:06:46 :: Warax retrieving crash-saved items and entering game.
+Fri Aug 18 20:07:02 :: (GC) Asita snooping Warax.
+Fri Aug 18 20:08:09 :: Turcot [063.025.109.064] has connected.
+Fri Aug 18 20:08:11 :: Turcot un-renting and entering game.
+users 1
+users 2
+users 3
+users 4
+users 5
+users 6
+users 7
+Fri Aug 18 20:08:21 :: (GC) Asita stopped snooping Warax.
+Fri Aug 18 20:14:47 :: Warax advanced to level 2
+Fri Aug 18 20:15:54 :: nusage: 4   sockets connected, 4   sockets playing

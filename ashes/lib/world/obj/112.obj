@@ -1,0 +1,231 @@
+#11200
+key magick seal druid~
+the Druids seal.~
+The Druids seal lies here in the dust and muck.~
+~
+18 65677 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#11201
+holster belt druid elite guard~
+Holster of the Elite Druid Guard~
+A muddy holster lies here in the dust and grime.~
+~
+11 9336992 2049 0
+0 0 0
+0 0 0 0
+1 2500 2500
+A
+18 3
+A
+17 3
+#11202
+master warrior belt holster platemail~
+the Master Warrior's Belt~
+A Platemail belt of unknown metals lies here.~
+~
+11 9272360 2049 0
+0 0 37
+0 0 0 0
+1 0 0
+A
+22 -5
+A
+16 -4
+A
+24 3
+#11203
+druid cloak black tattered torn aged~
+the Druid's Cloak (TATTERED)(TORN)~
+A torn piece of cloth lies here in the dust.~
+~
+11 2084288 1025 0
+0 0 32
+0 0 0 0
+1 0 0
+A
+10 30
+A
+13 5
+#11204
+shannara hilt swordhilt sword~
+the Hilt of Shannara~
+A glowing hilt emits a great heat here.~
+$n points $p at $N and $N is engulfed in holy druid fire.~
+3 1952768 16385 0
+0 0 0
+90 30 29 26
+1 0 0
+A
+10 30
+A
+13 5
+#11205
+bremen cloak warm new allanon~
+Bremen's Cloak of Shannara~
+A cloak glowing with the power of the 5 races lies here.~
+~
+11 8630752 9 0
+0 0 1
+0 0 0 0
+1 0 0
+A
+18 3
+A
+24 5
+A
+16 -4
+#11206
+elfstone black evil brona~
+the Black Elfstone~
+An elfstone black as the darkest night lies here eminating darkness~
+$n points $p at $N and the power of $p attempts to overwhelm the soul of $N~
+3 1559200 16385 0
+0 0 0
+100 30 30 7
+1 0 0
+A
+10 25
+A
+13 6
+A
+4 2
+A
+3 2
+#11207
+sword shannara glowing blazing magick~
+the Sword of Shannara (BLAZING)~
+A sword lies here with the symbol of the elit druin on it's hilt.~
+~
+5 8468800 24577 0
+0 0 0
+0 12 2 11
+18 9999 9999
+A
+18 4
+A
+17 4
+A
+6 2
+#11208
+hunter necklace teeth~
+a Trolls necklace of Human Teeth~
+A complete set of teeth lie here on the ground.~
+~
+11 0 16389 0
+0 0 33
+0 0 0 0
+1 0 0
+A
+16 -4
+A
+6 -2
+A
+5 2
+A
+2 2
+#11209
+hunter necklace teeth dwarf~
+a Dwarven Hunters necklace of Troll Teeth~
+A full set of ragged broken teeth lie here.~
+~
+11 0 16389 0
+0 0 58
+0 0 0 0
+1 10000 10000
+A
+16 -4
+A
+1 2
+A
+4 2
+A
+3 2
+#11210
+dagger swiftness short small quick fast lithe~
+a Dagger of Swiftness~
+A very lithe looking dagger is poking out of the ground here.~
+~
+5 0 24577 0
+0 0 13
+0 6 5 14
+1 0 0
+A
+1 2
+A
+16 -4
+A
+2 2
+A
+24 6
+#11211
+The Elit key~
+the Elit Key~
+This key glows with the power of Druid's Fire.~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#11212
+elit druin chain office high druid~
+the Elit Druin~
+The chains of office of the high druid lie here (GLOWING)~
+~
+11 9165256 16389 0
+4 0 0
+0 0 0 0
+1 0 0
+A
+18 3
+A
+17 2
+A
+16 -4
+#11213
+gala galaphile wisdom belief blood martyr~
+the Blood of the Martyr~
+Gloves covered with droplets of blood lie here in the dust~
+~
+11 0 129 33554432
+0 0 0
+0 0 0 0
+1 0 0
+A
+13 5
+A
+10 20
+#11214
+ugly black mask darkness cloaked hood cloak~
+a pair of red eye's floating behind a black cloak~
+A cloak of blackest night embedded with mystical runes lies here.~
+~
+15 8903392 1025 1024
+0 0 0
+1000 0 0 0
+1 2 2
+A
+4 2
+A
+3 2
+A
+5 2
+A
+18 3
+A
+17 2
+#11215
+elit druin druid seal~
+the Elit Druin (HUMMING)~
+A large humming seal lies here on the ground.~
+~
+9 10108000 513 4096
+0 0 0
+8 0 0 0
+24 99999 99999
+A
+18 3
+A
+17 2
+$

@@ -1,0 +1,769 @@
+#18500
+paper note~
+a small scrap of paper~
+A small scrap of paper lies here.
+~
+Things to do.
+
+  1. Check on little Alia.
+  2. Write advances for cure in journal.
+  3. Place cure in box, and replace box.
+~
+16 64 1 0
+0 0 0
+0 0 0 0
+0 13 0
+#18501
+box~
+a small wooden keepsake box~
+A small wooden keepsake box rests here. It is beautifully carved.~
+For my sweet Taelok.~
+15 0 1 0
+0 0 0
+250 5 0 0
+0 10 0
+#18502
+bed~
+a bed with long bedcloths~
+A bed with long bedcloths rests here. ~
+Hey, check out the covers on that bed!
+~
+15 1024 0 0
+0 0 0
+3000 5 0 0
+1000 12 0
+E
+floor~
+There is a box under the bed...
+~
+E
+covers~
+You see something ever so slightly sticking out from under the covers
+on the floor...
+~
+E
+bed~
+An ornately carved bed with... Hey, check out those covers! ~
+#18503
+tiny brown vial~
+a tiny brown vial~
+This little vial is made of clay. It has a small cork in the top to
+keep the liquid inside.~
+A small clay vial has been left here.~
+10 0 16385 0
+0 0 0
+50 43 42 29
+0 0 0
+#18504
+tiny brown vial~
+a tiny brown vial~
+This little vial is made of clay. It has a small cork in the top to
+keep the liquid inside.~
+A small clay vial has been left here.~
+10 0 16385 0
+0 0 0
+50 2 23 44
+2 0 0
+#18505
+well~
+the Village's Common Well~
+This well is quite large and is rounded in stone. It is surrounded by a stone
+bench that circles it completely. It was a wonderful meeting place for the
+villagers.
+~
+This well is beautifully carved with floral designs.
+~
+23 320 0 0
+0 0 0
+30000 30000 15 1
+10000 0 0
+#18506
+forge~
+the forge stands burning relentlessly against the wall.~
+The forge stands burning relentlessly against the wall.~
+The forge burns white hot....~
+15 0 16384 0
+0 0 0
+3 1 0 0
+1600 123 0
+E
+forge~
+The opening in the forge burns white hot with flames. Anything put in there
+would be disentigrated unless it was metal.
+~
+#18507
+large wooden table~
+a hefty wooden table stands here.~
+A large wooden table stands in the middle of the room holding a week's
+worth of work.~
+~
+15 0 0 0
+0 0 0
+3000 0 0 0
+500 0 0
+E
+table ~
+This table is covered with a week's worth of work for the smith and his 
+apprentice. Tools and metal objects of all kinds lie scattered about it's
+surface.
+~
+#18508
+hammer~
+a hammer~
+A hammer lies here on the ground.
+~
+This is Taelok's hammer. He made his living using this as a handyman.
+~
+5 0 8193 0
+0 0 0
+0 8 2 7
+0 8 2
+#18509
+apron smith smiths smith's~
+a leather smith's apron~
+An apron of leather lies here.
+~
+This apron is used to protect the blacksmith from the heat of the forge.
+It is covered in soot.
+~
+9 0 9 0
+0 0 0
+4 0 0 0
+3 100 0
+A
+16 -4
+#18510
+horseshoe horse shoe~
+a horseshoe~
+A horseshoe glows brightly inside the forge.
+~
+It's a horseshoe, what else can you say? Well, except that it's white hot.
+~
+1 9359361 16385 0
+0 0 0
+0 0 30000 0
+1 25000 0
+A
+13 3
+#18511
+horseshoe horse shoe~
+a horseshoe~
+A horseshoe glows brightly inside the forge.
+~
+It's a horseshoe, what else can you say? Well, except that it's white hot.
+~
+1 9363457 16385 0
+0 0 0
+0 0 30000 0
+1 25000 0
+A
+5 2
+#18512
+pouch leather~
+a leather pouch~
+A large leather purse has been left here.
+~
+It is an ordinary gold purse, or so it seems.
+~
+15 0 18433 0
+0 0 0
+1000 1 0 0
+1 1 0
+#18513
+gold~
+a lot of gold~
+You see a lot of gold in this pouch.
+~
+~
+20 0 1 0
+0 0 0
+30000 0 0 0
+20 0 0
+#18514
+sword broad broadsword~
+a standard issue broadsword~
+A broadsword lies here neglected.~
+This is the type of sword used by many in the realm.~
+5 0 8193 0
+0 0 0
+0 5 4 3
+10 100 0
+#18515
+shield raven~
+a shield engraved with the likeness of a raven~
+A shield engraved with a likeness of a raven lies here.~
+This is the shield used by the Darkmoor guard.~
+9 0 1537 0
+0 0 0
+8 0 0 0
+10 100 0
+#18516
+book old silver bound~
+an old black book, with silver binding~
+A black book with silver binding lies in the dirt deteriorating.
+~
+This was the work of Father Dugan, a priest of Ishap. It hold great power.
+~
+15 9231433 16385 0
+0 0 0
+20 13 18521 0
+10 13 18521
+A
+14 4
+#18517
+page parchment~
+a page torn from a book of knowledge~
+This page carries the knowledge of it's creator. Who knows what powers
+reside upon the parchment.
+~
+A page from a book lies on the ground.
+~
+2 0 1 0
+0 0 0
+70 24 0 0
+0 20000 0
+#18518
+page parchment~
+a page torn from a book of knowledge~
+This page carries the knowledge of it's creator. Who knows what powers
+reside upon the parchment.
+~
+A page from a book lies on the ground.
+~
+2 0 1 0
+0 0 0
+70 23 34 19
+0 20000 0
+#18519
+page parchment~
+a page torn from a book of knowledge~
+This page carries the knowledge of it's creator. Who knows what powers
+reside upon the parchment.
+~
+A page from a book lies on the ground.
+~
+2 0 1 0
+0 0 0
+70 22 19 35
+0 20000 0
+#18520
+page parchment~
+a page torn from a book of knowledge~
+This page carries the knowledge of it's creator. Who knows what powers
+reside upon the parchment.
+~
+A page from a book lies on the ground.
+~
+2 0 1 0
+0 0 0
+50 1 44 36
+0 1 44
+#18521
+light glimmer silver key tarnished~
+a tarnished silver key~
+You see a glimmer of light on the floor.
+~
+It is a tiny silver key, tarnished with age.
+~
+18 0 1 0
+0 0 0
+18516 0 0 0
+1 0 0
+E
+key light glimmer~
+It is a tiny key, fallen into a crack in the floor.
+~
+#18522
+rapier noble~
+a noble's rapier~
+A noble's rapier, very ornate with jewels set in the hilt.
+~
+A rapier stands stuck point down on the ground.
+~
+5 0 24577 0
+0 0 0
+0 2 10 3
+4 20000 0
+A
+2 2
+A
+17 3
+#18523
+hand fate~
+the Hand of Fate~
+TThe Hand of Fate lies here, unable to dictate the course of the universe.
+~
+This IS Fate.
+~
+3 32 16385 0
+0 0 0
+30 10 10 61
+0 10000000 0
+A
+1 -6
+A
+5 -6
+#18524
+large fountain~
+a large fountian~
+A large fountain burbles merrily here in the square.~
+~
+23 0 0 0
+0 0 0
+30000 30000 0 0
+20000 0 0
+E
+fountain~
+This huge stone fountain is surrounded by a bench, integrated into the design
+by it's master.~
+#18525
+wagon~
+a merchant wagon rests here while awaiting cargo.~
+A wagon rests here, with it's team of mules, while casks of wine are loaded.~
+~
+15 0 0 0
+0 0 0
+30000 0 0 0
+2000 0 0
+E
+wagon~
+This is a teamster's wagon. He and his team travel to far away lands to
+buy goods for resale, such as the wine from Ravensburg.
+~
+#18526
+cask wine barrel~
+a cask of Darkmoor wine~
+A mohogany cask rests here.~
+A cask of fine Darkmoor wine lies here.~
+17 0 1 0
+0 0 0
+500 100 2 0
+105 5000 0
+E
+barrel cask~
+This cask has the seal of the Barony of Darkmoor.
+~
+#18527
+crate~
+a crate of grapes~
+A crate, one of hundreds stacked against the wall, full of grapes.~
+A crate full of Darkmoor grapes.
+~
+15 0 1 0
+0 0 0
+300 5 0 0
+50 25 0
+#18528
+crate~
+a crate of grapes~
+A crate, one of hundreds stacked against the wall, full of grapes.~
+A crate full of Darkmoor grapes.
+~
+15 0 1 0
+0 0 0
+300 5 0 0
+50 25 0
+#18529
+crate~
+a crate of grapes~
+A crate, one of hundreds stacked against the wall, full of grapes.~
+A crate full of Darkmoor grapes.
+~
+15 0 1 0
+0 0 0
+300 5 0 0
+50 25 0
+#18530
+crate~
+a crate of grapes~
+A crate, one of hundreds stacked against the wall, full of grapes.~
+A crate full of Darkmoor grapes.
+~
+15 0 1 0
+0 0 0
+300 5 0 0
+50 25 0
+#18531
+bundle grape grapes~
+a bundle of grapes~
+A bundle of grapes lies here.~
+Beautiful Darkmoor grapes rest here.
+~
+19 0 1 0
+0 0 0
+20 0 0 0
+5 20 0
+#18532
+crate~
+a crate of grapes~
+A crate, one of hundreds stacked against the wall, full of grapes.~
+A crate full of Darkmoor grapes.
+~
+15 0 1 0
+0 0 0
+300 5 0 0
+50 25 0
+#18533
+crate~
+a crate of grapes~
+A crate, one of hundreds stacked against the wall, full of grapes.~
+A crate full of Darkmoor grapes.
+~
+15 0 1 0
+0 0 0
+300 5 0 0
+50 25 0
+#18534
+crate~
+a crate of grapes~
+A crate, one of hundreds stacked against the wall, full of grapes.~
+A crate full of Darkmoor grapes.
+~
+15 0 1 0
+0 0 0
+300 5 0 0
+50 25 0
+#18535
+crate~
+a crate of grapes~
+A crate, one of hundreds stacked against the wall, full of grapes.~
+A crate full of Darkmoor grapes.
+~
+15 0 1 0
+0 0 0
+300 5 0 0
+50 25 0
+#18536
+vat wine~
+a deep wine vat~
+A large wrought iron vat stands here against the wall, full of juice.~
+~
+23 0 0 0
+0 0 0
+10000 10000 2 0
+0 0 0
+E
+vat~
+This vat is HUGE. It is full of soon-to-be wine. ~
+#18537
+white hot coal~
+a white hot coal~
+A white hot coal is giving off an emmense amount of heat.
+~
+A white hot coal is throwing off more heat than a campfire.
+~
+1 1 16385 0
+0 0 0
+0 0 30000 0
+1 100 0
+A
+11 -24
+A
+5 -6
+#18538
+sickle~
+a farmer's sickle~
+A farmer's sickle lies here.~
+This sickle has quite a few niches in the blade. It needs to be repaired
+by a skilled blacksmith.~
+5 0 8193 0
+0 0 0
+0 2 7 3
+10 50 0
+A
+18 -2
+#18539
+shield raven~
+an engraved shield~
+A shield with the likeness of a raven engraved upon it lies here.~
+This shield is beaten, and in need of repair.~
+9 0 1537 0
+0 0 0
+5 0 0 0
+10 100 0
+#18540
+ring mail rings ringmail~
+the ringmail~
+Small rings lies here half covered by soil.~
+This is a suit of ringmail used by Kingdom men.~
+9 0 9 0
+0 0 0
+6 0 0 0
+8 0 0
+#18541
+tabard darkmoor~
+a decorative tabard~
+A silken tabard lies here getting soiled.~
+This tabard has a beautiful raven embossed on it. In it's beak it holds a
+golden sprig.~
+11 0 9 0
+0 0 0
+0 0 0 0
+0 200 0
+A
+3 1
+A
+23 -2
+#18542
+glasses spectacles silver rimmed~
+the spectacles~
+A pair of silver rimmed spectacles lies here neglected.~
+The glasses look like they would fit perfectly.~
+11 32768 17 0
+0 0 0
+0 0 0 0
+1 100 0
+A
+17 1
+A
+3 2
+#18543
+sickle plain old~
+a plain sickle~
+A plain, old sickle lies here.~
+This sickle would be great for cutting vines!~
+18 4 16385 0
+0 0 0
+18814 0 0 0
+4 0 0
+E
+sickle old plain~
+This would be great for cutting vines!~
+#18544
+cheese, chee, chees, che, block, bloc, blo~
+a block of cheese~
+A tasty looking block of cheese lies here.~
+~
+19 0 16385 0
+0 0 0
+18 0 0 0
+4 20 0
+E
+block, cheese, bloc, chee~
+Mmmmmm! This cheese sure looks delicious!
+~
+E
+chees, blo, che~
+Mmmmmm!  Sure looks tasty!
+~
+#18545
+butter, butte, butt, but, lump, lum~
+a pound of butter~
+A forgotten lump of butter lies here.~
+~
+19 0 16385 0
+0 0 0
+1 0 0 0
+1 3 0
+E
+pound, butter, butte, butt, but, poun, pou~
+You see a white cube of butter. It appears to be quite fresh.
+~
+#18546
+milk, mil, container, containe, contain, contai, conta, cont, con~
+a milk container~
+A container of milk lies here.~
+~
+17 0 16385 0
+0 0 0
+30 30 10 0
+35 15 0
+E
+milk, mil, container, contain~
+You see a tall container used for holding milk. There is a funny smell
+coming from the container.~
+#18547
+farming, farmin, farmi, farm, far, implement, implemen, impleme, implem, imple, impl, imp, ancient, ancien, ancie, anci, anc~
+a farming implement~
+An ancient farming implement hangs on the wall.~
+~
+8 0 1 0
+0 0 0
+0 0 0 0
+50 25000 0
+E
+farming, farm, implement, implemen, impleme, imple, impl, imp, farmin, farmi, farm, far~
+You are looking at what you believe to be some sort of farm tool. You can't
+even begin to imagine what it could possibly be used for as it is quite
+unlike anything you have ever seen before.~
+#18548
+chair, chai, cha, old~
+a very old chair~
+An extremely old chair lies forgotten in the corner.~
+~
+8 0 1 0
+0 0 0
+0 0 0 0
+50 25000 0
+E
+chair, chai, cha, old~
+You can see that this chair was once a masterful piece of furniture. The
+intricate carvings and the quality of the materials used in its construction
+are of the highest standards. Perhaps with a little (more likely a lot)
+care this piece of furniture could once again be the centerpiece for
+someone's living room.~
+#18549
+old, rotting, rottin, rotti, rott, rot, whip, whi~
+a rotting whip~
+An old, rotting whip lies here.~
+~
+5 8400896 24577 0
+0 0 0
+0 8 2 2
+5 1000 0
+A
+17 -6
+A
+18 3
+E
+old, whip, whi, rotting, rottin, rotti, rott, rot~
+This whip looks like it has definately seen better days. It is cracking
+and falling apart. You notice a blunt metal attachment on the end of the
+whip that looks like it would still give someone a good welt if you were
+able to hit them with it.~
+#18550
+sack, sac, rice, ric~
+a sack of rice~
+A large sack of rice lies here.~
+~
+19 0 16385 0
+0 0 0
+24 0 0 0
+1 0 0
+E
+sack, sac, rice, ric~
+Looks edible.~
+#18551
+orange, orang, oran, ora~
+a moldy orange~
+A moldy orange rests here.~
+~
+19 0 16385 0
+0 0 0
+6 0 0 12
+1 0 0
+#18553
+bracelet, bracele, bracel, brace, brac, bra, childs, child, chil, chi~
+a childs bracelet ~
+A small bracelet glitters in the dirt.~
+~
+11 0 4097 0
+0 0 0
+0 0 0 0
+1 1500 0
+A
+4 -4
+A
+12 20
+E
+bracelet, bracele, bracel, brace, brac, bra, childs, child, chil, chi~
+The bracelet looks like it once belonged to a small child. It is so
+small and finely crafted you are not sure if you should bother taking
+it.~
+#18554
+large heavy torch light~
+a large heavy torch~
+This giant torch can burn for awhile, that is if you can hold it.~
+~
+1 16 16385 0
+0 0 0
+0 0 60 0
+0 0 60
+E
+torch heavy large~
+This giant of a torch can burn for days. ~
+#18555
+small lantern~
+a small lantern~
+A small lantern is lying here on it's side.~
+~
+1 8 16385 0
+0 0 0
+0 0 5 0
+0 0 5
+E
+lantern small~
+This small lantern won't last long, but hey it was cheap enough.~
+#18556
+mug ale cool~
+a mug of ale~
+A mug of cool ale is sitting here.~
+~
+17 0 16385 0
+0 0 0
+15 10 3 0
+15 5 1
+E
+ale~
+What are you looking at just drink it!~
+#18557
+wooden cup red wine~
+a wooden cup of red wine~
+A wooden cup rests here.~
+~
+17 0 16385 0
+0 0 0
+10 10 2 0
+15 10 0
+#18558
+shot whiskey glass hard shot~
+a shot of whisky~
+A shot of whisky lies here tempting the drunk in you.~
+~
+17 16 16385 0
+0 0 0
+1 1 5 0
+6 0 0
+#18559
+obsidian cold black runed ring~
+a cold, black, runed obsidian ring~
+This ring is made ornately from the black stone, and has undecipherable
+runes carved all the way around it.
+~
+~
+11 139808 16387 0
+0 0 0
+0 0 0 0
+1 5000 0
+A
+11 -50
+A
+18 2
+#18560
+boots scale black mail~
+a pair of boots made from black scale mail~
+A pair of black scale mail boots lies here. ~
+These boots look like they would be very hard to mave in, but would protect
+your feet from any damage. ~
+9 139776 65 0
+0 0 0
+5 0 0 0
+10 500 0
+A
+18 1
+A
+12 -20
+#18598
+page parchment~
+a page torn from a book of knowledge~
+This page carries the knowledge of it's creator. Who knows what powers
+reside upon the parchment.
+~
+A page from a book lies on the ground.
+~
+2 0 1 0
+0 0 0
+50 62 73 64
+50 104 111
+#18599
+bridge key~
+bridge key~
+~
+~
+18 0 16385 0
+0 0 0
+18511 0 0 0
+0 0 0
+A
+5 18
+$

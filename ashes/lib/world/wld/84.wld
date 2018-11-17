@@ -1,0 +1,1786 @@
+#8400
+The Docks at Waterdeep Harbor~
+As you step onto the docks of Waterdeep Harbor, you can't help but be
+impressed by the sheer size of the city known throughout the North as
+the City of Splendors. The city sprawls on for miles, it seems, and
+the population must be incredible. All around you are people who have
+come to this city for trade, travel, and pleasure, and more than a few
+who are here for less inicent reasons. Waterdeep is still a frontier city
+in some ways. Those who feel a need for adventure can still find it, and
+many look for it. You can separate the adventures on the street from the
+guardsman and thugs easily; adventurers like yourself tend to stand out
+in a crowd. If too many of these sort of people got out of hand, it would
+be more than the city guard could handle. 
+      But toward the southern side of the city you see why Waterdeep has
+remained safe and prosperous...Blackstaff Tower. The tower is home to the
+Lord Mage of Waterdeep, Khelben Arunsun, known as the "Blackstaff."
+~
+84 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 8405
+D3
+~
+~
+0 -1 8675
+S
+#8401
+On the Streets of Waterdeep~
+   You are standing on one of the main streets of Waterdeep. You have to
+wade through a sea of bodies to make any progress through the streets.
+If it weren't for the presence of the Guard, this crowd might get ugly.
+Good thing the guardsmen seem to be well trained at handling this sort of
+thing.
+~
+84 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 8402
+D2
+~
+~
+0 -1 8405
+S
+#8402
+Inside the Northern Gate of Waterdeep~
+   You are standing in front of one of the city gates. To the North, lies
+the road leading to smaller cities and frontier towns, as well as trading
+posts and barbarian villages. The fact that the road leads into the
+untamed wilderness seems to deter few of the merchants who are constantly
+passing through the gate out of the city. Those who enter through the gate
+seem none the worse for the experience, and often come bearing carts
+loaded with goods from the far North. You start to wonder just how safe
+the northern roads are though, when you notice that every caravan leaving
+the city takes with it several well-armed guards, and that the caravans
+returning seem to have fewer, in general, than the ones leaving.
+~
+84 0 1
+0d0+0 0 0
+D0
+~
+gate~
+1 -1 8427
+D1
+~
+~
+0 -1 8403
+D3
+~
+~
+0 -1 8401
+S
+#8403
+On the Streets of Waterdeep~
+Everywhere you turn, you see more people. All going about their jobs
+as if it were perfectly normal to be dodging around horse-carts and
+pushing through crowds to go anywhere, you wonder at the mindset of 
+the citizens of this city. For all the apparent chaos, the workings
+of the marketplace and the city in general seem remarkable efficient.
+Whoever is running this city has done an excellent job of keeping the
+large population under control.
+~
+84 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 8407
+D3
+~
+~
+0 -1 8402
+S
+#8404
+Holding Cell~
+   This is a combination holding cell/drunk tank, used by the Watch to
+temporarily house those who have caused the good citizens of Waterdeep
+a little too much trouble recently. The smell of alcohol and unwashed
+bodies is strong...quite strong. It seems as if most of the residents
+of this cell come in sweaty and drunk, and leave sweaty and sober; and
+no one washes the place out in between. Not really the ideal place to
+spend the night.
+~
+84 8200 0
+0d0+0 0 0
+D2
+You see a sturdy iron door with a small window that can be opened from 
+the other side only. There is also a slot near the floor - presumably
+for a tray of food to be passed through. *sigh* looks like you might be
+here a while.
+~
+door~
+1 8402 8408
+S
+#8405
+Sword Street~
+This is one of the main streets of Waterdeep. The hustle and bustle of
+hundreds of merchants, tradesmen, and street performers is dizzying. Back
+to the west are the docks of Waterdeep Harbor, and off a way to the south
+you can see a large tower. Now, if only you can find your way around in 
+this crowd.
+~
+84 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 8401
+D2
+~
+~
+0 -1 8409
+D3
+~
+~
+0 -1 8400
+S
+#8406
+The Yawning Portal Inn~
+   The clanking of drinks an the sounds of drunken revelry make it hard to
+hear yourself think. The smell of something cooking lures you in though.
+All around you are what appear to be travellers and adventurers - it
+appears that this particular inn has earned a bit renown even outside
+the city. Many of the partons carry weapons with casual ease, but seem
+relaxed and cheerful, and obviously mean no harm to fellow adventurers.
+~
+84 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8407
+D5
+It looks as if one of the floorboards is a trifle loose...hmmmm.
+~
+floorboard~
+1 -1 8424
+S
+#8407
+On the Street of Waterdeep~
+This seems to be a relatively quiet part of the city. It's not that there
+are fewer people here, but the normally loud, rough corwd seems to be a 
+bit more subdued. It probably has something to do with the fact that there
+is a guardhouse immediately to the east of here. It also doesn't take
+much to figure out why the guardhouse is here. With all the foreigners
+who frequent the inn nearby, the Guard is needed frequently.
+~
+84 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 8403
+D1
+~
+~
+0 -1 8408
+D2
+~
+~
+0 -1 8411
+D3
+~
+~
+0 -1 8406
+S
+#8408
+Headquarters of the City Watch~
+   This is one of several headquarters for the Waterdeep militia. The office
+you are currently standing in has a desk, with several forms that can be
+filled out to report anything from theft and murder, to the occasional act
+of magical espionage. Along the walls, there are racks for the equipment of
+off-duty guardsmen, but all of them are empty right now. There must be something
+big going on for that many guards to be on duty at one time.
+     You notice a holding cell with several drunks and troublemakers, as well
+as the offices of the higher ranking officers in the Guard and the Watch, 
+but those are strictly off-limits.
+~
+84 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 8402 8404
+D3
+~
+~
+0 -1 8407
+S
+#8409
+Sword Street~
+Sword Street runs as far as you can see to the north and south. The mob
+of people that seems to be present throughout the city is as bad here
+as it is anywhere. You start to feel a little claustrophobic with all 
+these people all around you. Then, you notice a small, exotic bookstore
+that seems to have few customers, and you think that it might be a nice
+break from the frenzy outside.
+~
+84 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 8405
+D1
+~
+~
+0 -1 8410
+D2
+~
+~
+0 -1 8413
+S
+#8410
+A Stuffy Old Bookstore~
+As you enter the room, you hear the tinkle of one of those annoying
+little bells that shopkeepers use to let them know when a customer
+enters (usually so they can harrass them into buying something). You 
+take a look at one of the books, and the cloud of dust that rises from
+the book when you touch it makes you sneeze. It seems as if most of the
+books here have been untouched for QUITE some time. There is a display
+case in the back of the room, its glass tinted yellow with age. In the
+case, the owner of the store keeps what he apparently believes to be his
+most valuable works...not much to look at as far as you can tell. At 
+least the quiet is a relief from the chaos outside.
+~
+84 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8409
+D4
+The cord to an old pull-down, folding set of stair is hanging from the 
+cieling.~
+stairs~
+1 -1 8425
+E
+case glass~
+  The inside of the glass case isn't very well-lit, but from what you can
+see the books inside are truly ancient. You can see gold lettering, on
+some of them, written in an obscure, dead language. If you want to
+find out any more about the books, you're probably going to have to
+subject yourself to a history lesson from whatever old windbag runs
+this place...not worth it.
+~
+S
+#8411
+On the Streets of Waterdeep~
+This road is the main thoroughfare for merchants bringing their wares to
+the markets in the sourthern part of the city. The guards here try to keep
+you away from the merchants. After all, it just wouldn't do to have rich
+merchants bothered by ruffians, now would it?
+~
+84 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 8407
+D1
+~
+~
+0 -1 8412
+D2
+~
+~
+0 -1 8415
+S
+#8412
+Inside the East gate of Waterdeep~
+This is the eastern gateway into the City of Splendors. Through this gate
+lies the untamed wilderness, and some of the largest trading roads
+in the North. Rumors in the city suggest that this road is no longer
+safe...caravans have been disappearing....
+~
+84 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 8636
+D3
+~
+~
+0 -1 8411
+S
+#8413
+Sword Street~
+   This part of Sword Street seems to be less crowded than it was father to the
+north. You only wonder briefly why that is, thankful as you are for any relief
+from the noisy crowd. With the relative quiet, you can get a better look out
+over the cityscape, and once again you can see Blackstaff Tower off to the
+South. 
+~
+84 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 8409
+D2
+~
+~
+0 -1 8417
+S
+#8414
+The Temple of Mystra~
+The temple is clean and pleasant. Though there are no visible light sources
+the room is well-lit; but this is a place of magic after all. A circular 
+altar draws you attention to the middle of the temple.
+~
+84 24 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8415
+E
+altar~
+The inscription on the base of the altar reads: "I am the One True Spell"
+~
+S
+#8415
+On the Streets of Waterdeep~
+All these streets are starting to look the same. People, shops, people, 
+shops...Then you notice a more pleasant looking building: the Temple of
+Mystra. To the west you see that the temple's doors are open to anyone
+whether or not they worship the Lady of Mysteries. Oh, and to the east is
+another shop *groan*
+~
+84 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 8411
+D1
+~
+~
+0 -1 8416
+D2
+~
+~
+0 -1 8419
+D3
+~
+~
+0 -1 8414
+S
+#8416
+General Store~
+This store has it all. Everything the adventurer needs to survive is sold
+here...at least the shopkeeper says so. He does seem to have a pretty large
+inventory though. The fine clothing the shopkeeper is wearing though, suggeests
+that his prices might be a bit high
+~
+84 136 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8415
+S
+#8417
+Before Blackstaff Tower~
+You notice that the congestion of Waterdeep isn't nearly as severe here.
+For a second, you wonder if this might not be the safest part of town.
+But as you walk, you enter the shadow of an enormous tower. That explains
+things, since Blackstaff Tower is home to one of the most powerful archmages
+in all the realms, as well as Lord Protector of Waterdeep, Khelben Arunsun,
+also known as the "Blackstaff."
+~
+84 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 8413
+D1
+~
+~
+0 -1 8418
+D3
+It might be a way into Blackstaff Tower
+~
+secret~
+2 -1 8426
+D5
+It might be a way into Blackstaff Tower
+~
+secret~
+2 -1 8421
+S
+#8418
+A Street in Waterdeep~
+You can't help but be impressed with the sights of the city. From this
+vantage point, you can see out over the harbor, where huge galleons
+are docked. To the west, you can see Blackstaff Tower.
+~
+84 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 8419
+D3
+~
+~
+0 -1 8417
+S
+#8419
+A Street in Waterdeep~
+This is one of the main marketplaces in Waterdeep. Caravans from all over
+the world come here to sell their goods, and buy others. You could find
+almost anything here if you looked hard enough. Even those rare shops that
+sell magical items can be found here. In fact, there is one just to the
+east.
+~
+84 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8415
+D1
+~
+~
+0 -1 8420
+D3
+~
+~
+0 -1 8418
+S
+#8420
+Ye Olde Magick Shoppe~
+This tidy little shop is run be a Cormyrian merchant who has settled down
+into a lucrative business...selling magic. He is very knowledgeably and
+carries most of the magical neccesities demanded by adventurers. A glass 
+display case shows off his wares.
+~
+84 136 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8419
+S
+#8421
+Blackstaff Tower~
+The entranceway to Blackstaff Tower is much like what you'd expect to find
+In the home of a wealthy merchant. The furnishings in this room seem to
+indicate that it is used as a sitting room for entertaining guests.
+The chiars are well-cushioned and seem to be accustomed to frequent use. 
+You're tempted to sit down and take a well-deserved rest, but then you
+hear voices from upstairs, and remember that you're an uninvited guest. A set
+of spiral stairs leads up.
+~
+84 6152 0
+0d0+0 0 0
+D1
+~
+door~
+0 -1 8417
+D4
+You see the tell-tale bluish fires of magical wards, and wonder if its
+really safe to be going up there. Only one way to find out.
+~
+~
+0 -1 8422
+S
+#8422
+Apprentices' Laboratories~
+   This is the the room where all of Khleben and Laeral's apprentices learn
+the rudiments of spellcasting. The room is heavily warded to protect
+against any accidents the newbie mages might make. There is a table in the
+middle of the room, on which lies the components necessary for casting the
+most basic of spells. Arrayed around the table are enough stools for all
+the apprentices to crowd around. In front of each apprentice is a spellbook
+which is very nearly blank.
+~
+84 4104 0
+0d0+0 0 0
+D4
+This is the way to the man himself. Take a deep breath and just do it.
+~
+~
+0 -1 8423
+D5
+Ahhh, chickening out I see. Well, back down seems the safest course.
+~
+~
+0 -1 8421
+E
+book spellbook books spellnooks~
+  Even without formal magical training you'd be able to read the few
+spells these apprentices know. The page all the books are open to has
+the spells 'detect invisible' and 'magic missile'.
+~
+S
+#8423
+Khelben's Study and Spell Laboratory~
+   This is Khelben's personal study. On a desk in one corner of the
+room are several spell-scrolls that are drying after being newly
+scribed. Behind a bookshelf you notice some kind of vault.
+~
+84 4104 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 8422
+E
+vault~
+The vault appears to be magically held shut. You doubt that it is within
+your power to open it.
+~
+S
+#8424
+Theives' Guild Hideout~
+The shadows are deep here; this isn't a place for those who want to be
+seen. Several thieves are occupying themselves with games of "chance,"
+which actually involve a lot less chance the way they seem to be playing.
+There are tables at which a few off-duty thugs and cat-burglers talk 
+among themselves, discussing the day's business. In the shadows though,
+lurk more sinister creatures. Though human, these men are as much predators
+as any wild beast. They prey on anyone...for the right price. As, you
+enter, every eye in the room turns to look at you. You try to act casual.
+~
+84 6153 0
+0d0+0 0 0
+D4
+~
+floorboard~
+0 -1 8406
+S
+#8425
+A Small Reading Room in the Bookstore's Attic~
+Old books, papers, and scrolls cover every surface in this little room. The
+person who uses this room is obviously a voracious reader.
+~
+84 8 0
+0d0+0 0 0
+D5
+~
+stairs~
+1 -1 8410
+S
+#8426
+A Narrow Rune-Engraved Tunnel~
+YEEEEEEEEEOOOOOOOOUUUUUUUUCCCCCCCCCCCCCHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!
+Remember to throttle whoever was paranoid and vengeful enough to place
+a spell-trap on what appeared to be a perfectly safe secret entrance to
+his home. How DARE he put traps to defend...his private...property. Well,
+looking back on it, maybe it was you fault for trying to break in. Oh
+well, looks like you're going to get some time to think over what you've 
+done. The only way out is into a holding cell.
+~
+84 24715 0
+1d1+199 90 0
+D5
+~
+~
+0 -1 8404
+S
+#8427
+Outside the Northern Gate of Waterdeep~
+You see the vast wilderness before you and question the wisdom of trying
+to make your way across it. The way before you is not lightly travelled, for
+foul creatures make their home in that region. It isn't too late to turn back.
+~
+84 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 8428
+D2
+~
+gate~
+1 -1 8402
+S
+#8428
+The Untamed Wilderness of the Northlands~
+While the sights of the fields and copses of trees is pleasant, you know better
+than to let your guard down. Monsters could lurk around any corner.
+~
+84 0 4
+0d0+0 0 0
+D2
+~
+~
+0 -1 8427
+D6
+~
+~
+0 -1 8429
+D7
+~
+~
+0 -1 8656
+S
+#8429
+The Untamed Wilderness of the Northlands~
+While the sights of the fields and copses of trees is pleasant, you know better
+than to let your guard down. Monsters could lurk around any corner.
+~
+84 0 4
+0d0+0 0 0
+D6
+~
+~
+0 -1 8430
+D9
+~
+~
+0 -1 8428
+S
+#8430
+The Untamed Wilderness of the Northlands~
+While the sights of the fields and copses of trees is pleasant, you know better
+than to let your guard down. Monsters could lurk around any corner.
+~
+84 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 8431
+D6
+~
+~
+0 -1 8432
+D9
+~
+~
+0 -1 8429
+S
+#8431
+The Untamed Wilderness of the Northlands~
+While the sights of the fields and copses of trees is pleasant, you know better
+than to let your guard down. Monsters could lurk around any corner.
+~
+84 0 4
+0d0+0 0 0
+D2
+~
+~
+0 -1 8430
+D7
+~
+~
+0 -1 8435
+S
+#8432
+The Untamed Wilderness of the Northlands~
+While the sights of the fields and copses of trees is pleasant, you know better
+than to let your guard down. Monsters could lurk around any corner.
+~
+84 0 4
+0d0+0 0 0
+D1
+~
+~
+0 -1 8433
+D9
+~
+~
+0 -1 8430
+S
+#8433
+A Trail Leading Toward a Desert~
+You notice a subtle shift in the normally hilly terrain. The path you are 
+following levels out somewhat and off in the distance you think you see
+what looks like a desert, but you hope it is just some parched terrain. 
+You wouldn't relish the thought of crossing an entire desert.
+~
+84 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 8432
+D6
+~
+~
+0 -1 8434
+S
+#8434
+A Path into the Desert~
+Your worst fears have been confirmed. Once you can get a good look out
+to the east, you are sure that this is one BIG desert. Though it seems that
+you can see out a few hundred miles, you don't see anything to indicate
+where the other side might be. If you try crossing, you'd better have plenty
+of provisions....this might take a while.
+~
+84 4 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 8582
+D9
+~
+~
+0 -1 8433
+S
+#8435
+The Untamed Wilderness of the Northlands~
+While the sights of the fields and copses of trees is pleasant, you know better
+than to let your guard down. Monsters could lurk around any corner.
+~
+84 0 4
+0d0+0 0 0
+D6
+~
+~
+0 -1 8436
+D8
+~
+~
+0 -1 8431
+S
+#8436
+The Base of a Mountain Range~
+To your north is the largest mountain range in the world...a wall of stone.
+Marking the northern boundary of civilization, the Spine of the World spans
+thousands of miles in length. While much of the lands south of the range
+are still wild, nothing north of the Spine can reasonably be considered 
+civilized.
+~
+84 0 4
+0d0+0 0 0
+D6
+~
+~
+0 -1 8437
+D9
+~
+~
+0 -1 8435
+S
+#8437
+The Spine of the World Mountains~
+You are on a path leading among, but seemingly not through the mountains.
+According to legend, the ancient dwarven city of Mithril Hall is located
+somewhere around this region. Even having a rough-edged dwarven city as
+a refuge would be welcome in this severe evnironment.
+~
+84 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 8438
+D9
+~
+~
+0 -1 8436
+S
+#8438
+The Spine of the World Mountains~
+You are on a path leading among, but seemingly not through the mountains.
+According to legend, the ancient dwarven city of Mithril Hall is located
+somewhere around this region. Even having a rough-edged dwarven city as
+a refuge would be welcome in this severe evnironment.
+~
+84 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 8439
+D3
+~
+~
+0 -1 8437
+S
+#8439
+The Spine of the World Mountains~
+You are on a path leading among, but seemingly not through the mountains.
+According to legend, the ancient dwarven city of Mithril Hall is located
+somewhere around this region. Even having a rough-edged dwarven city as
+a refuge would be welcome in this severe evnironment.
+~
+84 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 8440
+D3
+~
+~
+0 -1 8438
+S
+#8440
+A Path in the Mounatins~
+This path is a little more open than the ones you came from. You notice
+that down a trecherous slope, there is what appears to be the ruins of an
+old city. The only thing that seems to be left are some of the stone walls
+of a few of the buildings.
+~
+84 0 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 8439
+D5
+~
+~
+0 -1 8441
+S
+#8441
+The Ruins~
+This is the ruin of the dwarven city of Dwarvendarrow, called Settlestone by
+outsiders. Though the city was abandoned centuries ago, the walls of the
+stone buildings have not been touched by the years, dwarven craftsmanship
+lasting as well as the mountain stone.
+~
+84 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 8442
+D4
+~
+~
+0 -1 8440
+S
+#8442
+A Dead End~
+You have run out of places to go. The only way you have out of here is
+the way you came in. The rock wall here is too step to climb, and there
+doesn't even seem to be a trail above it to make a climb worthwhile.
+~
+84 0 5
+0d0+0 0 0
+D1
+When you first look, you don't seem anything. But, on further study, you
+notice the almost imperceptible seem in the rock. A secret entrance perhaps?
+~
+rock~
+2 -1 8450
+D3
+~
+~
+0 -1 8441
+S
+#8443
+An Ominous Hallway~
+   This section of the hall seems to be a bit museum-like. Suits of decorative
+armor line both sides of the wall, mounted on small pedestals. You think you
+hear a slight creaking of metal as you start to pass by the first of the
+suits. You've got a bad feeling about this... 
+~
+84 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8444
+D2
+~
+~
+0 -1 8588
+S
+#8444
+The Middle of the Ominous Hallway~
+   This section of the hallway is a welcome relief from the part you just
+passed. The only distinguishing feature is the pattern carved into the floor.
+Intricate runes flow and intertwine, and...uh oh...runes in a mage's
+tower...not a good sign. GULP. 
+~
+84 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8445
+D2
+~
+~
+0 -1 8443
+S
+#8445
+The Far End of the Ominous Hallway~
+   Here's the layout: big stone door; big stone golem blocking the big stone
+door. You get the distinct impression that this golem does not want you here,
+at least not if you are tying to get throught the door.
+   Other than the door itself, the end of the hallway is unremarkable. 
+~
+84 4104 0
+0d0+0 0 0
+D0
+~
+door~
+2 -1 8540
+D2
+~
+~
+0 -1 8444
+S
+#8446
+Manshoon's Private Chambers~
+   With a reputation like his, you would have though that his room would be a
+small museum dedicated to the evils he has perpetrated throughout the
+centuries. In fact though, it is tastefully decorated, and appears lavishly
+comfortable. The chairs around what appears to be a private meeting table are
+covered in felt and thickly padded. Arranged around the room are various works
+of art, ranging from paintings and tapestries, to sculptures. The bed on one
+side of the room is enormous, and it is "decorated" by a young, sleeping woman
+presently. Your guess would be that this is Manshoon's current mistress. 
+~
+84 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8540
+S
+#8447
+Sarhthor's Laboratory~
+   Unlike the sitting room outside, this laboratory is dark and ominous. The
+walls are lined with shelves containing various fluids and concoctions, which
+bubble and froth, waiting to be used in some sort of sorcerous endeavor. On
+one table there is a large crystal ball, held in place by a carving of a
+dismembered hand. On another table lies a flesh golem, presently under
+construction, and some *ugh* raw materials for making it. 
+~
+84 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8537
+E
+golem flesh construction~
+   This grisly undertaking invloves the creation of a host body for a powerful elemental
+force to animate. The body of a flesh golem is pieced together from the relatively
+intact remains of several dead humanoid creatures. When finished, a flesh golem
+is a formiddable opponent, and a valuable tool for a wizard.
+~
+S
+#8449
+On The Streets of Zhentil Keep~
+   You find yourself standing in front of a large building built of jet black
+stone. The HUGE holy symbol of Cyric hanging about the door lets even the most
+dense of commoners know that this is the Chruch of Cyric. Men in purple robes
+occasionally come out of the church, but passers-by are careful to look away
+and avoid the notice of these "holy" men of the death god. You would to well
+to do the same. 
+~
+84 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 8569
+D6
+~
+~
+0 -1 8553
+D7
+~
+~
+0 -1 8565
+D8
+~
+~
+0 -1 8561
+D9
+~
+~
+0 -1 8551
+S
+#8450
+The hidden entrance to Mithril Hall~
+This is it....the formerly lost city of Mithril Hall. Rediscovered a few years
+ago by Breunor, Drizzt, Wulfgar, and Regis, The Hall has regained the prestige
+it had over two centuries ago, when the dwarves were driven away. 
+~
+84 265 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8451
+D3
+~
+rock~
+0 -1 8442
+S
+#8451
+The Hall of Kings~
+This chamber is a tribute to each of the Kings of Mithril Hall. Around the room
+are busts of the previous seven kings, ending with Garumn, King of the Hall
+at the time of its downfall. An eighth bust, that of King Bruenor, has been
+started, but has yet to be finished.
+~
+84 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8450
+D6
+~
+~
+0 -1 8452
+S
+#8452
+A Hallway in Mithril Hall~
+This hallway is somewhat small for humans, but acceptable. It is well lit by
+torches burning in sconces along the walls.
+~
+84 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8453
+D9
+~
+~
+0 -1 8451
+S
+#8453
+The Hall of Dumathoin~
+  This room is breathtaking. Containing the greatest masterpieces of the dwarven
+smiths, as well as the most prized gifts received from outsiders, the Hall of
+Dumathoin holds more priceless treasures than could be imagined. You used to
+think highly of the accomplishments of some human craftsmen but
+their works are put to shame by these masterpieces.
+~
+84 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8452
+D8
+~
+~
+0 -1 8454
+S
+#8454
+A Hallway in Mithril Hall~
+This hallway is somewhat small for humans, but acceptable. It is well lit by
+torches burning in sconces along the walls.
+~
+84 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 8455
+D7
+~
+~
+0 -1 8453
+D8
+~
+~
+0 -1 8456
+S
+#8455
+Beunor's Room~
+  This room is a contradition is almost every way. As befits a king, the
+furnishings are of the highest craftsmanship and best material. The dwarves
+seem to have spared no expense or effort to make sure their king had the best
+of all things.
+   The luxuries available are seemingly ignored though. The fine furniture has
+been casually pushed aside, and a stool pushed up to the writing desk in a
+corner. Papers on the desk are scattered about and held down with a raw chunk
+of mithril being used as a paperweight. And a weapons rack hangs empty, while
+the axe that should be in it rests against the wall, well used and notched
+along the handle, counting its kills in battle. 
+~
+84 8 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 8454
+S
+#8456
+A Hallway in Mithril Hall~
+This hallway is somewhat small for humans, but acceptable. It is well lit by
+torches burning in sconces along the walls.
+~
+84 8 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 8457
+D7
+~
+~
+0 -1 8454
+D9
+~
+~
+0 -1 8458
+S
+#8457
+Catti-Brie's Room~
+   While most of the rooms in Mithril Hall are somewhat spartan, this one has a
+homey feel to it. The room is fairly neat, and conservatively, but carefully
+decorated, with personal touches and objects that seemingly have more
+sentimental value than monetary value. The clothes you see are too large for
+almost any dwarf, and are meant for a woman, so you assume this must be the
+room where Catti-brie, Bruenor's adopted human daughter, lives. 
+~
+84 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 8456
+S
+#8458
+A Hallway in Mithril Hall~
+This hallway is somewhat small for humans, but acceptable. It is well lit by
+torches burning in sconces along the walls.
+~
+84 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 8459
+D3
+~
+~
+0 -1 8460
+D6
+~
+~
+0 -1 8456
+S
+#8459
+Regis' Room~
+   This room looks as if someone just moved in. Things are still are still lying in
+piles, having yet to be put away. The possesions of the occupant lead you to
+wonder. There are many jewels and gems, and the clothes are of unquestionably
+good quality, bordering on foppish. However, a quick count shows that there
+were only enough clothes for a couple days. Whoever packed obviously wanted
+to be sure to have his riches with him.
+~
+84 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 8458
+S
+#8460
+A Hallway in Mithril Hall~
+This hallway is somewhat small for humans, but acceptable. It is well lit by
+torches burning in sconces along the walls.
+~
+84 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 8461
+D1
+~
+~
+0 -1 8458
+D9
+~
+~
+0 -1 8462
+S
+#8461
+Wulfgar's Room~
+This room is definitely not inhabited by a dwarf! The bed, chairs and table
+have been specially made, HUGE, for someone who is almost twice the size of
+any dwarf in the Hall. Some wolf-skin armor, with the head still attached, is
+draped over the chair, and has definitely seen a lot of combat, as several
+blood-stains have never gone away. This is obviously the room of a warrior. 
+~
+84 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 8460
+S
+#8462
+A Hallway in Mithril Hall~
+This hallway is somewhat small for humans, but acceptable. It is well lit by
+torches burning in sconces along the walls.
+~
+84 8 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 8460
+D7
+~
+~
+0 -1 8463
+D9
+~
+~
+0 -1 8465
+S
+#8463
+A Hallway in Mithril Hall~
+This hallway is somewhat small for humans, but acceptable. It is well lit by
+torches burning in sconces along the walls.
+~
+84 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 8464
+D8
+~
+~
+0 -1 8462
+S
+#8464
+Drizzt's Room~
+   This room is nearly bare. If it weren't for the fact that there is no dust,
+you'd suspect that it was vacant. Whoever lives here must not be much on
+decorating. The only thing you notice other than the barest of furnishings is
+a figurine resting on the table, depicting a great, black hunting cat....a
+panther. 
+~
+84 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 8463
+S
+#8465
+Walkway between the Upper Halls and the Undercity~
+This is a winding path leading down into the heart of Mithril Hall. You can
+hear the ringing of hammer on mithril.
+~
+84 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 8468
+D6
+~
+~
+0 -1 8462
+S
+#8466
+The Undercity of Mithril Hall~
+This is the heart of Mithril Hall. All around you you hear the sounds of the
+dwarven crafts being plied. The peal of the hammer against the anvil, the
+rushing of the air in the bellows, heating the forges, and the crack of pick-axe
+against stone as miners extract more precious mithril from the lower tunnels.
+It's much hotter down here than in the upper halls, and would be intolerable
+if not for the chinmeys taking smoke and heat to higher, uninhabited tunnels.
+~
+84 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 8467
+D2
+This is the way into the shrine. Don't worry, you'll be welcome there.
+~
+~
+0 -1 8469
+D8
+~
+~
+0 -1 8470
+S
+#8467
+The Undercity of Mithril Hall~
+This is the heart of Mithril Hall. All around you you hear the sounds of the
+dwarven crafts being plied. The peal of the hammer against the anvil, the
+rushing of the air in the bellows, heating the forges, and the crack of pick-axe
+against stone as miners extract more precious mithril from the lower tunnels.
+It's much hotter down here than in the upper halls, and would be intolerable
+if not for the chinmeys taking smoke and heat to higher, uninhabited tunnels.
+~
+84 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 8468
+D2
+~
+~
+0 -1 8470
+D3
+~
+~
+0 -1 8466
+D9
+This is the way into the shrine. Don't worry, you'll be welcome there.
+~
+~
+0 -1 8469
+S
+#8468
+Entrance to the Undercity~
+The view before you is spectacular. The great Undercity of Mithril Hall can be
+seen from one side to the other from here. The immense cavern contains the
+homes and workplaces of thousands of dwarves. The heat from the great
+forge and the other, smaller forges of the city, bring sweat to your brow. you
+take little notice of that slight discomfort, though, as you are in awe of the
+scene you see. The undercity is a hive of activity as some of the finest smiths
+in all the Realms toil endlessly at the forges, while other dwarves carry out
+other activities that are necessary to keep the forges and the city running.
+~
+84 8 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 8467
+D4
+~
+~
+0 -1 8465
+D9
+~
+~
+0 -1 8470
+S
+#8469
+Shrine to the dwarven gods~
+This humble, well-constructed shine pays homage to the 3 main dwarven gods:
+Moradin the Soulforger, god of craft, Dumathoin the Keeper of Secrets Under
+the Mountain, and Clanggedin, the dwarven god of battle.
+    The small temple is not ornate,the dwarves preferring to honor their gods by
+living up to thier doctrines of hard work and fearless devotion. Dwarven often
+stop by here to show their latest masterpiece to their appreciative divine
+sponsors.
+~
+84 136 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 8466
+D1
+~
+~
+0 -1 8470
+D2
+~
+~
+0 -1 8472
+D6
+~
+~
+0 -1 8467
+D8
+~
+~
+0 -1 8473
+S
+#8470
+The Undercity of Mithril Hall~
+This is the heart of Mithril Hall. All around you you hear the sounds of the
+dwarven crafts being plied. The peal of the hammer against the anvil, the
+rushing of the air in the bellows, heating the forges, and the crack of pick-axe
+against stone as miners extract more precious mithril from the lower tunnels.
+It's much hotter down here than in the upper halls, and would be intolerable
+if not for the chinmeys taking smoke and heat to higher, uninhabited tunnels.
+~
+84 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 8467
+D1
+You shield your eyes from looking into the brightness of the forge.
+~
+~
+0 -1 8471
+D2
+~
+~
+0 -1 8473
+D3
+This is the way into the shrine. Don't worry, you'll be welcome there.
+~
+~
+0 -1 8469
+D6
+~
+~
+0 -1 8468
+D7
+~
+~
+0 -1 8466
+D8
+~
+~
+0 -1 8474
+D9
+~
+~
+0 -1 8472
+S
+#8471
+The Great Central Forge~
+This is the heart and soul of the city. One of the three main forges, this one
+is currnetly occupied by a master mithril-smith. You feel very industrious
+just standing here...as if Moradin himself were motivating you to go out and
+pound a block of mithril into a masterpiece. You manage to resist the
+temptation though, since you 'd have no clue where to start. 
+~
+84 136 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 8470
+E
+forge central main great~
+The forge seems hot enough to melt just about anything. Even standing this
+close to it, you feel sweat pouring down your face. The heat is necessary to
+soften the incredibly hard mithril used by the dwarven smiths. You suspect that
+substances even harder than mithril could be worked in a forge such as this.
+~
+S
+#8472
+The Undercity of Mithril Hall~
+This is the heart of Mithril Hall. All around you you hear the sounds of the
+dwarven crafts being plied. The peal of the hammer against the anvil, the
+rushing of the air in the bellows, heating the forges, and the crack of pick-axe
+against stone as miners extract more precious mithril from the lower tunnels.
+It's much hotter down here than in the upper halls, and would be intolerable
+if not for the chinmeys taking smoke and heat to higher, uninhabited tunnels.
+~
+84 8 1
+0d0+0 0 0
+D0
+This is the way into the shrine. Don't worry, you'll be welcome there.
+~
+~
+0 -1 8469
+D1
+~
+~
+0 -1 8473
+D2
+~
+~
+0 -1 8475
+D6
+~
+~
+0 -1 8470
+S
+#8473
+The Undercity of Mithril Hall~
+This is the heart of Mithril Hall. All around you you hear the sounds of the
+dwarven crafts being plied. The peal of the hammer against the anvil, the
+rushing of the air in the bellows, heating the forges, and the crack of pick-axe
+against stone as miners extract more precious mithril from the lower tunnels.
+It's much hotter down here than in the upper halls, and would be intolerable
+if not for the chinmeys taking smoke and heat to higher, uninhabited tunnels.
+~
+84 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 8470
+D1
+~
+~
+0 -1 8474
+D3
+~
+~
+0 -1 8472
+D7
+This is the entrance to the shrine. Don't worry, you'll be welcome.~
+~
+0 -1 8469
+D9
+~
+~
+0 -1 8475
+S
+#8474
+The Undercity of Mithril Hall~
+This is the heart of Mithril Hall. All around you you hear the sounds of the
+dwarven crafts being plied. The peal of the hammer against the anvil, the
+rushing of the air in the bellows, heating the forges, and the crack of pick-axe
+against stone as miners extract more precious mithril from the lower tunnels.
+It's much hotter down here than in the upper halls, and would be intolerable
+if not for the chinmeys taking smoke and heat to higher, uninhabited tunnels.
+~
+84 8 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 8473
+D7
+~
+~
+0 -1 8470
+D8
+~
+~
+0 -1 8482
+S
+#8475
+The Mines of Mithril Hall~
+Dwarven mines, unlike those of human design, are not unpleasant places. The
+tunnels are large enough to walk without stooping, even for humans, and they
+are lit with ever-burning torches. The tunnels of the mine are braced with beams
+every 12 feet or so, and the craftsmanship of the dwarves leads you to the
+conclusion that these mines will never collapse...unless the dwarves want them
+to.
+~
+84 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8472
+D6
+~
+~
+0 -1 8473
+D9
+~
+~
+0 -1 8476
+E
+torch torches ever burning~
+The dwarves need these. You cannot have them. The torches light the mines
+so that anyone working here can see what they are doing.
+~
+S
+#8476
+The Mines of Mithril Hall~
+Dwarven mines, unlike those of human design, are not unpleasant places. The
+tunnels are large enough to walk without stooping, even for humans, and they
+are lit with ever-burning torches. The tunnels of the mine are braced with beams
+every 12 feet or so, and the craftsmanship of the dwarves leads you to the
+conclusion that these mines will never collapse...unless the dwarves want them
+to.
+~
+84 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8477
+D6
+~
+~
+0 -1 8475
+E
+torch torches ever burning~
+The dwarves need these. You cannot have them. The torches light the mines
+so that anyone working here can see what they are doing.
+~
+S
+#8477
+The Mines of Mithril Hall~
+Dwarven mines, unlike those of human design, are not unpleasant places. The
+tunnels are large enough to walk without stooping, even for humans, and they
+are lit with ever-burning torches. The tunnels of the mine are braced with beams
+every 12 feet or so, and the craftsmanship of the dwarves leads you to the
+conclusion that these mines will never collapse...unless the dwarves want them
+to.
+~
+84 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8476
+D5
+~
+~
+0 -1 8478
+E
+torch torches ever burning~
+The dwarves need these. You cannot have them. The torches light the mines
+so that anyone working here can see what they are doing.
+~
+S
+#8478
+A Newer Mineshaft~
+The walls of this section of the mines are not as well-worked as in the older
+parts of the mine. There's a good reason for this....there's still mithril in them.
+The dwarves are working on fixing that though, as miners all around you pound
+away with pick-axes.
+     There is a small track on which a minecar can run.
+~
+84 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8479
+D4
+~
+~
+0 -1 8477
+D6
+~
+~
+0 -1 8480
+S
+#8479
+A Newer Mineshaft~
+The walls of this section of the mines are not as well-worked as in the older
+parts of the mine. There's a good reason for this....there's still mithril in
+them. The dwarves are working on fixing that though, as miners all around you
+pound away with pick-axes.
+     There is a small track on which a minecar can run. 
+~
+84 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8478
+S
+#8480
+A Newer Mineshaft~
+The walls of this section of the mines are not as well-worked as in the older
+parts of the mine. There's a good reason for this....there's still mithril in
+them. The dwarves are working on fixing that though, as miners all around you
+pound away with pick-axes.
+     There is a small track on which a minecar can run. 
+~
+84 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8481
+D9
+~
+~
+0 -1 8478
+S
+#8481
+A Newer Mineshaft~
+The walls of this section of the mines are not as well-worked as in the older
+parts of the mine. There's a good reason for this....there's still mithril in
+them. The dwarves are working on fixing that though, as miners all around you
+pound away with pick-axes.
+     There is a small track on which a minecar can run. 
+~
+84 264 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8480
+S
+#8482
+A Little-Used Tunnel~
+It's strangely quiet in this part of the undercity. Not a mine...no forges
+here... not even living quarters. Seems that this part of Mithril Hall has
+been abandoned by the dwarves. 
+~
+84 268 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 8474
+D8
+~
+~
+0 -1 8483
+S
+#8483
+A Little-Used Tunnel~
+It's strangely quiet in this part of the undercity. Not a mine...no forges
+here... not even living quarters. Seems that this part of Mithril Hall has
+been abandoned by the dwarves. 
+~
+84 268 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8484
+D7
+~
+~
+0 -1 8482
+S
+#8484
+Garumn's Gorge~
+Hardly a gorge--"canyon" would be more accurate. Spanning hundreds of feet, and
+deeper than anyone would care to measure, Garumn's Gorge was once an emergency
+escape route from Mithril Hall. However, during Bruenor's initial exploration
+of the Halls, a group of Duergar destroyed the bridge...the only way across.
+Ever since then, there has been little reason to come here.
+    The walls of the gorge are nearly sheer, but if you were reeeeaaaally
+careful, you might be able to climb down. 
+~
+84 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8483
+D5
+~
+~
+0 -1 8485
+S
+#8485
+In Garumn's Gorge~
+Well, you seem to be holding on okay. Just don't look down *gulp*
+~
+84 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 8484
+D5
+~
+~
+0 -1 8486
+S
+#8486
+The Bottom of Garumn's Gorge~
+You're amazed that you managed to survive the climb down. It isn't too
+impressive...until you look back up. You nearly faint just thinking about
+having to climb back up there.
+~
+84 2057 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 8485
+S
+$

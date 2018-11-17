@@ -1,0 +1,306 @@
+#900
+nazi soldier~
+a nazi~
+A nazi soldier stands here, alerted to your presence.
+~
+You see a nazi in a standard black uniform.  He is carrying an automatic
+machine gun and he is point it at you.!
+~
+317613 271528 -1000 W3
+125 74 -33 10d10+2500 30d5+25
+1000 10000
+8 8 1
+18 100 13 13 18 13 0
+20 2 0
+-330 12 6 0 0 100
+10 10 10 10 10
+0 0 0
+6 10
+~
+#901
+frederick fred~
+Frederick~
+Lt. Frederick, the head of the Nazi Soldiers, is charging at you!
+~
+You see a nazi in a standard black uniform.  He is carrying an automatic
+machine gun and he is point it at you.!
+~
+6317 128 -1000 W3
+65 60 -10 10d10+1000 10d5+25
+1000 10000
+8 8 1
+18 100 13 13 18 13 0
+20 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#902
+cyborg nazi soldier a-series a series~
+an "A" series Nazi cyborg soldier~
+A Nazi cyborg stands here, idling.
+~
+You see a nazi in a metallic black suit.  He is carrying some type of
+laser pistol.  He is arming it and firing on you!
+~
+39085 640 -1000 W3
+65 60 -10 10d10+1000 10d5+25
+1000 10000
+8 8 1
+18 100 13 13 18 13 0
+16 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#903
+cyborg nazi soldier b-series b series~
+a "B" series cyborg soldier~
+A Nazi cyborg stands here, prepared to attack.
+~
+You see a nazi in a metallic black suit.  He is carrying some type of
+laser pistol.  He is arming it and firing on you!
+~
+39085 640 -1000 W3
+67 60 -10 10d10+1250 10d5+25
+1000 10000
+8 8 1
+18 100 13 13 18 13 0
+16 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#904
+cyborg nazi soldier c-series c series~
+a "C" series cyborg soldier~
+A Nazi cyborg stands here, prepared to attack.
+~
+You see a nazi in a metallic black suit.  He is carrying some type of
+laser pistol.  He is arming it and firing on you!
+~
+39085 640 -1000 W3
+68 60 -12 10d10+1375 10d5+25
+1000 10000
+8 8 1
+18 100 13 13 18 13 0
+16 2 0
+-120 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#905
+cyborg nazi soldier d-series d series~
+an incomplete "D" series cyborg~
+An incomplete cyborg stands, wanting to attck, but can't.
+~
+You see a nazi in a metallic black suit.  He is carrying some type of
+laser pistol.  He is arming it and firing on you!
+~
+6317 640 -1000 W3
+63 60 -10 10d10+625 10d5+25
+1000 10000
+8 8 1
+18 100 13 13 18 13 0
+16 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#906
+cyborg incomplete nazi soldier e-series e series~
+an "E" series cyborg soldier~
+A Nazi cyborg stands here, prepared to attack.
+~
+You see a nazi in a metallic black suit.  He is carrying some type of
+laser pistol.  He is arming it and firing on you!
+~
+39085 640 -1000 W3
+70 60 -15 10d10+1500 10d5+25
+1000 10000
+8 8 1
+18 100 13 13 18 13 0
+16 2 0
+-150 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#907
+mad scientist~
+the mad scientist~
+The mad scientist stands here, hiding behind the cyborg creations.
+~
+You see a small man who has tried his cyborg chips on himself and failed,
+but, he has extra powers that may help him.
+~
+6317 524416 -1000 W3
+73 60 -10 10d10+2000 10d5+25
+1000 10000
+8 8 1
+18 100 13 13 18 13 0
+17 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#912
+ss soldier nazi~
+an SS Nazi soldier~
+An SS Nazi Soldier screams something in German and charges!
+~
+You see a man dressed in a blue SS Nazi uniform.  He is wielding a gun and
+is charging at you.
+~
+2095 16777384 -1000 W3
+85 70 -15 10d10+1750 10d5+65
+100000 30000
+8 8 1
+18 100 13 13 18 13 0
+18 5 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#913
+dog~
+a dog~
+You see a drooling dog here.
+~
+It is a german shephard with red eyes.  It is drooling profusely from the
+mouth and is attacking you!
+~
+2189 160 -351 W3
+49 60 0 10d10+100 25d2+70
+0 10000
+8 8 0
+13 0 13 13 13 13 0
+6 5 0
+0 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#914
+gregor soldier ss nazi commander~
+Gregor~
+Gregor, the SS Nazi Commander screams something in German and charges!
+~
+You see a man dressed in a blue SS Nazi uniform.  He is wielding a gun and
+is charging at you.
+~
+2361391 20980904 -1000 W3
+127 78 -35 10d100+6000 20d5+65
+10000 30000
+8 8 1
+18 100 13 13 18 13 0
+18 5 0
+-350 12 8 300 5 40
+10 10 10 10 10
+0 0 0
+6 10
+~
+#915
+herman ss soldier~
+Herman~
+Herman, lead SS soldier is here, ready to kick some ass!
+~
+You see a man dressed in a blue SS Nazi uniform.  He is wielding a gun and
+is charging at you.
+~
+2095 16777384 -1000 W3
+75 70 -25 20d100+1900 10d5+65
+100000 30000
+8 8 1
+18 100 13 13 18 13 0
+18 5 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#916
+nazi cyber soldier cyborg~
+an "F" series Cyborg Nazi soldier~
+The Cyborg Nazi stands here, trying to stop your progress.
+~
+You see a thing that was once a man, but is now nothing more then metal
+some flesh, and all madness.
+~
+2398255 16777384 -1000 W3
+130 80 -25 20d100+4500 20d5+65
+5000 30000
+8 8 0
+18 100 13 13 18 13 0
+18 5 0
+-250 12 8 500 10 10
+10 10 10 10 10
+1 0 0
+6 10
+~
+#940
+roger cia agent~
+Roger~
+A CIA agent stands here, blocking newbies from getting into this zone.
+~
+You see a man in plain clothes.
+
+He says " If you are under level 90, do not enter here. "
+~
+6319 9384 0 W3
+130 70 -22 10d10+6000 24d5+25
+1000 10000
+8 8 1
+18 100 13 13 18 13 0
+20 2 0
+-220 12 6 0 20 40
+10 10 10 10 10
+1 0 0
+6 10
+~
+#972
+clone adolph hitler~
+Adolph Hitler~
+You see Adolph Hitler standing here.
+~
+You see what looks like Adolph, smells like Adolph, but isnt' Adolph.
+~
+297007 65664 -1000 W3
+140 85 -35 10d10+16000 20d10+45
+10000 100000
+8 8 0
+18 100 13 13 18 13 0
+8 2 0
+-350 12 9 200 10 20
+10 10 10 10 10
+16 0 0
+6 10
+~
+#973
+adolph hitler~
+Adolph Hitler~
+You see Adolph Hitler standing here.
+~
+This is the real Adolph, short mustache and all.  He is in his brown uniform
+and has the key to the chopper door.  Your only choice is to kill him and
+save the planet!
+~
+301103 536937640 -1000 W3
+130 88 -35 22d10+15000 20d10+45
+10000 20000
+8 8 1
+18 100 18 18 20 12 12
+12 2 0
+-350 12 9 400 5 25
+10 10 10 10 10
+16 0 0
+6 10
+~
+$

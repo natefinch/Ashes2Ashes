@@ -1,0 +1,1908 @@
+#21700
+The hills~
+The hills continue as far as you can see. Exits are south and east. To the
+east, a high, snowy mountain rises up out of the gloom.
+~
+217 0 4
+0d0+0 0 0
+D1
+~
+~
+0 -1 21705
+D2
+~
+~
+0 -1 21701
+D3
+The hills continue west. You can see the path leading towards Moria that way.
+~
+~
+0 -1 4001
+S
+#21701
+The hills~
+The hills stretch as far as you can see here. Exits are north, south, and
+east. Far to the east, you see a tall, snowy mountain.
+~
+217 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 21700
+D1
+~
+~
+0 -1 21706
+D2
+~
+~
+0 -1 21702
+S
+#21702
+The hills~
+The hills extend almost to the limits of your vision here, in all four
+cardinal directions. To the west, you can see the Lane leading toward the
+mountain-mines of Moria; far to the east, a huge snowy mountain rises out
+of the hilly country. The the north and south, more hills.
+~
+217 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 21701
+D1
+~
+~
+0 -1 21707
+D2
+~
+~
+0 -1 21703
+D3
+~
+~
+0 -1 4001
+S
+#21703
+The hills~
+The hills stretch as far as you can see here. Exits are north, south, and
+east. Far to the east, you see a tall, snowy mountain.
+~
+217 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 21702
+D1
+~
+~
+0 -1 21708
+D2
+~
+~
+0 -1 21704
+S
+#21704
+The hills~
+The hills extend as far as you can see from here. Exits are north and east.
+Far to the east, you can make out a high, snowy mountain.
+~
+217 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 21703
+D1
+~
+~
+0 -1 21709
+S
+#21705
+The hills~
+The hills suddenly shear away into a wide, deep gorge to the east. There is no
+safe way to descend from here; you must go south or west instead. You can
+still see the mountain, off to the east, beyond the gorge.
+~
+217 0 4
+0d0+0 0 0
+D2
+~
+~
+0 -1 21706
+D3
+~
+~
+0 -1 21700
+S
+#21706
+The hills~
+The hills suddenly shear off into a wide, deep gorge to the east. There is
+no safe way to descend from here; however, you can still go north, south,
+or west. The mountain to the east looks closer, but you must cross the gorge
+in order to ascend its slopes.
+~
+217 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 21705
+D2
+~
+~
+0 -1 21707
+D3
+~
+~
+0 -1 21701
+S
+#21707
+The hills~
+The hills suddenly break off into a deep, wide gorge to the east. There is
+no safe way for you to descend from here; you will have to continue north,
+south, or west. To the east, the mountain still lurks beyond the gorge,
+taunting you with its inaccessibility.
+~
+217 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21706
+D2
+~
+~
+0 -1 21708
+D3
+~
+~
+0 -1 21702
+S
+#21708
+The hills~
+The hills continue in each cardinal direction except for east, where a
+gaping gorge blocks your passage. You seem to see a slope that will take
+you safely into its depths further to the south. The snowy mountain still
+stands tall and serene before you, far to the east.
+~
+217 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 21707
+D2
+~
+~
+0 -1 21709
+D3
+~
+~
+0 -1 21703
+S
+#21709
+The hills~
+The hills still spread out before you as far as you can see, except for to
+the east, where a deep gorge slashes the foothills, blocking your passage.
+There is a pass down into the gorge here that, although steep, still looks
+safe enough for you to traverse. To the east, the mountain still rises
+high above you.
+~
+217 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 21708
+D3
+~
+~
+0 -1 21704
+D5
+~
+~
+0 -1 21714
+S
+#21710
+The gorge~
+You are standing at the bottom of the gorge, looking up at a steep but
+serviceable pass that leads up the east side. There is no way to climb the
+west side, but the gorge continues to the south, so maybe you can find a
+different route in that direction.
+~
+217 0 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 21711
+D4
+~
+~
+0 -1 21715
+S
+#21711
+The gorge~
+This gorge is definitely getting hazardous to your health. The caves which
+you noticed earlier have sprouted huge, ugly heads, and boulders the size
+of your chest are hurtling down around you. You think you can make out a
+pass leading up the east side of the gorge to the north. Better run!
+~
+217 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21710
+D2
+~
+~
+0 -1 21712
+S
+#21712
+The gorge~
+The high stone walls of the gorge block all passage except to the north or
+south. You see caves in the walls of the cliffs, but they are too high up
+for you to reach. As you ponder your next move, a large rock hurtles down
+from the cliff, just missing your head!
+~
+217 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 21711
+D2
+~
+~
+0 -1 21713
+S
+#21713
+The gorge~
+The gorge continues to the north and south. To the south you see a steep
+pass leading up the west side of the gorge. Caves dot the cliff walls here,
+and the smell of rotting meat permeates the area.
+~
+217 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 21712
+D2
+~
+~
+0 -1 21714
+S
+#21714
+The gorge~
+You have descended into the deep gorge. The walls rise high around you, and
+you notice a number of caves dotting the walls, perhaps ten feet off the
+ground. You smell rotting meat. There is no way to climb the other side of
+the gorge, but it continues to the north, or you can ascend the near side.
+~
+217 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 21713
+D4
+~
+~
+0 -1 21709
+S
+#21715
+The hills~
+You are standing on the east side of a deep, wide gorge. On the other side,
+rolling hills lead back to the Lane. Before you, hills continue to the foot
+of a tall, snowy mountain. You can go down into the gorge, or south.
+~
+217 0 4
+0d0+0 0 0
+D2
+~
+~
+0 -1 21716
+D5
+~
+~
+0 -1 21710
+S
+#21716
+The hills~
+You are standing on a hilltop, right next to a huge mountain, so tall you
+feel a twinge in your neck trying to see the top. There is a huge boulder
+to the south, possibly blocking an entrance. To the west is a deep gorge,
+but there is no safe way to descend from here. To the north, more hills.
+~
+217 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21715
+D2
+~
+~
+0 -1 21717
+S
+#21717
+The hills~
+You are standing before a very large boulder which has been crammed up against
+the side of the mountain to the east. You feel a light breeze blowing, and
+see a dim light behind the large rock. It is much too heavy to move with bare
+hands, however. To the west, a gaping gorge stands ready to send you falling
+to your death. To the north and south, more hills.
+~
+217 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21716
+D1
+A huge boulder blocks the entrance to the mountain.
+Looks like you'll need a lever of some sort to move it.
+~
+boulder~
+2 21798 21721
+D2
+~
+~
+0 -1 21718
+S
+#21718
+The hills~
+You are strolling along the rolling hills, just in front of the huge snowy
+mountain. The rock wall is directly to the east, but you see a large boulder
+standing against the mountain a bit to the north. To the south, the hills
+continue, and to the west, a treacherous gorge blocks your passage.
+~
+217 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 21717
+D2
+~
+~
+0 -1 21719
+S
+#21719
+The hills~
+You have come to a dead end; smooth, solid rock walls block passage to the
+east and south, and a wide and dangerous gorge spreads out to the south.
+Your only exit is north, to more rolling hills.
+~
+217 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21718
+S
+#21720
+Inside the cave~
+You are inside the giant cave. It looks pretty boring over here, so you would
+probably be best off going somewhere else. Exits are east, further into the
+cave, or south, back to the huge boulder-door.
+~
+217 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 21725
+D2
+~
+~
+0 -1 21721
+S
+#21721
+Inside the cave~
+This cave is a lot darker than you expected...you take a moment for your eyes
+to adjust to the gloom. All around you, large stalactites shimmer glassily in
+the dim glare of your light source. With a shock you notice that you are not
+alone in here! Huge, lanky forms shamble around, glancing occassionally in
+your direction, but paying you no mind. You seem to have stumbled into an
+enclave of stone giants! The cave continues noth, south, and east, and to
+the west, a giant boulder blocks the egress to the cave.
+~
+217 13 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21720
+D1
+~
+~
+0 -1 21726
+D2
+~
+~
+0 -1 21722
+D3
+A huge boulder blocks the exit to the cave.
+Looks like you will need a lever of some sort to move it.
+~
+boulder~
+2 21798 21717
+S
+#21722
+Inside the cave~
+You are inside the giant cave. This part is stunningly boring, so you would be
+best advised to go east, further into the cave, or north, back towards the
+giant boulder blocking the exit.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21721
+D1
+~
+~
+0 -1 21727
+S
+#21723
+Inside the cave~
+You are in the northernmost end of the giant cave. The floor is a bit warmer
+here than elsewhere in the cave, and the stone giants do not appear very
+comfortable hanging around here. The cave continues south and east.
+~
+217 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 21730
+D2
+~
+~
+0 -1 21724
+S
+#21724
+Inside the cave~
+You are in the north-central portion of the giant cave. You smell fresh,
+cold air from the south, and to the north it is dark and silent. The cave
+also continues further east from this point.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21723
+D1
+~
+~
+0 -1 21731
+D2
+~
+~
+0 -1 21725
+S
+#21725
+Inside the cave~
+You are in the north-central portion of the giant cave, which continues in
+all four cardinal directions from here. The boulder blocking the entrance
+lies to the southwest from your current position.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21724
+D1
+~
+~
+0 -1 21732
+D2
+~
+~
+0 -1 21726
+D3
+~
+~
+0 -1 21720
+S
+#21726
+Inside the cave~
+You are in the center of the giant cave. Stone giants move busily around you,
+and you are hard-pressed to keep out from underfoot. Best to move before you
+are accidentally squashed. The cave continues to the north, south, east, and
+west from your current location.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21725
+D1
+~
+~
+0 -1 21733
+D2
+~
+~
+0 -1 21727
+D3
+~
+~
+0 -1 21721
+S
+#21727
+Inside the cave~
+You are in the south-central part of the giant cave. You hear some alarming
+grinding noises coming from the south, but it is too dark to see what's going
+on over there. There are exits in all four cardinal directions.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21726
+D1
+~
+~
+0 -1 21734
+D2
+~
+~
+0 -1 21728
+D3
+~
+~
+0 -1 21722
+S
+#21728
+Inside the cave~
+You are in the southern part of the giant cave. There are grinding noises all
+around you, and you see to your amazement that there are some stone giants
+here, grinding up rocks with their bare hands! They are ignoring you right
+now, and you feel it best to keep it that way. You can go north, south, or
+east from here. You feel a breeze from the north.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21727
+D1
+~
+~
+0 -1 21735
+D2
+~
+~
+0 -1 21729
+S
+#21729
+Inside the cave~
+You are standing next to the south wall of the giant cave. You see that a 
+bunch of crude handholds have been carved into the wall here, allowing you to
+climb out of the cave and up the mountainside. A blast of chilly air mixed
+with snow washes down on you as you consider it. Your other options are north
+and east, further into the cave.
+~
+217 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21728
+D1
+~
+~
+0 -1 21736
+D4
+~
+~
+0 -1 21744
+S
+#21730
+Inside the cave~
+You are at the far northern end of the giant cave. The floor is quite a bit
+warmer here than in the rest of the cave. On the floor, you see a large,
+heavy-looking trap door made of iron. It looks quite sturdy. The cave
+continues south and west from here.
+~
+217 13 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 21731
+D3
+~
+~
+0 -1 21723
+D5
+A heavy trapdoor made of iron is on the floor. It is warm to the touch.
+~
+trapdoor~
+2 21799 21781
+S
+#21731
+Inside the cave~
+You are in the northern portion of the cave. You notice that the floor here
+is a bit warmer than elsewhere in the cave, and furthermore, the stone giants
+seem to be avoiding this side. Hmmmm... You can go north, south, or west.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21730
+D2
+~
+~
+0 -1 21732
+D3
+~
+~
+0 -1 21724
+S
+#21732
+Inside the cave~
+You are in the north-central portion of the giant cave. To the south, you hear
+faint grinding noises. To the north, it is dark and silent. You can also go
+east or west from here.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21731
+D1
+~
+~
+0 -1 21737
+D2
+~
+~
+0 -1 21733
+D3
+~
+~
+0 -1 21725
+S
+#21733
+Inside the cave~
+You are in the center of the giant cave. Stone giants move all around you,
+completely blase about your presence in their home. It might be a good idea
+to leave before they change their minds, however, since they look like they
+could easily squash you flat. You can exit in any cardinal direction.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21732
+D1
+~
+~
+0 -1 21738
+D2
+~
+~
+0 -1 21734
+D3
+~
+~
+0 -1 21726
+S
+#21734
+Inside the cave~
+You are walking around in the south-central portion of the giant cave. You
+hear some funny, stone-on-stone scraping noises to the south, but to the
+north, all is dark and quiet. There are still plenty of stone giants around,
+though, so don't relax yet. Exits lie in all four cardinal directions.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21733
+D1
+~
+~
+0 -1 21739
+D2
+~
+~
+0 -1 21735
+D3
+~
+~
+0 -1 21727
+S
+#21735
+Inside the cave~
+You are in the southern part of the giant cave. There are a lot of giants here,
+so you'd better stay out of the way, or you'll get stomped. You can go north,
+south, or west from here.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21734
+D2
+~
+~
+0 -1 21736
+D3
+~
+~
+0 -1 21728
+S
+#21736
+Inside the cave~
+You are next to the southern wall of the giant cave. Busy stone giants labor
+all around you, and you are careful to keep from underfoot. You can go north
+or west from here. To the west, you see sunlight, and feel cold, fresh air.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21735
+D3
+~
+~
+0 -1 21729
+S
+#21737
+Inside the cave~
+You are in the extreme eastern end of the giant cave. A large pile of huge,
+heavy boulders has been made here for some inexplicable reason. You can go
+south or west from here.
+~
+217 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 21738
+D3
+~
+~
+0 -1 21732
+S
+#21738
+Inside the cave~
+You are at the extreme eastern end of the giant cave. The floor shakes with
+giant's footsteps, and the air resounds with booming voices. You can go
+north, south, or west from here.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21737
+D2
+~
+~
+0 -1 21739
+D3
+~
+~
+0 -1 21733
+S
+#21739
+Inside the cave~
+You are at the far eastern end of the giant cave. Stalactites loom around you.
+It is very dark here, but you hear the shuffling sounds of giant feet moving
+all around you. You can go north or west from here.
+~
+217 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21738
+D3
+~
+~
+0 -1 21734
+S
+#21740
+On the mountainside~
+The path takes another hairpin turn here, leading down and to the north, or up
+and to the east. You feel the bitingly cold wind whoosh around the side of
+the mountain, and begin to seriously consider turning back.
+~
+217 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 21745
+D1
+~
+~
+0 -1 21741
+S
+#21741
+On the mountainside~
+That wind is blowing in your face again, and with it comes some soft, sticky
+snowflakes. You'd better hurry if you want to get to the top of this mountain,
+as the footing will get very slippery pretty soon. You can continue east or
+west from here.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21742
+D3
+~
+~
+0 -1 21740
+S
+#21742
+On the mountainside~
+The snow is beginning to collect. As you turn around, you can already see your
+tracks beginning to disappear. You can go east or west from here.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21743
+D3
+~
+~
+0 -1 21741
+S
+#21743
+On the mountainside~
+The path is steadily inclining as you walk along it. It bends here, turning to
+the north, or you can go west, back the way you came.
+~
+217 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 21748
+D3
+~
+~
+0 -1 21742
+S
+#21744
+On the mountainside~
+You are standing on a steep path leading around the outside of the mountain.
+The wind howls around you, and you are finding it very difficult to keep your
+footing. The path continues to the north, slanting upward, or you can get back
+to the safety of the cave, below.
+~
+217 4 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 21749
+D5
+~
+~
+0 -1 21729
+S
+#21745
+On the mountainside~
+This portion of the path seems to be out of the wind, so you choose to take
+the opportunity to shake some of the snow out of your footwear. You can take
+the path south, further up the incline, or north, back the way you came.
+~
+217 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 21750
+D2
+~
+~
+0 -1 21740
+S
+#21746
+On the mountainside~
+You have reached the end of this particular path, as you come to a sheer cliff
+face that prevents further progress to the west. If you are very brave and
+very lucky, you could possibly climb the cliff and continue up the mountain,
+but it would probably be better just to go east, back the way you came.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21747
+D4
+~
+~
+0 -1 21758
+S
+#21747
+On the mountainside~
+The path is so steep here that you are forced to crawl along it to make any
+headway. You can barely feel your hands! The path continues back to the east,
+and to the west you see a sheer cliff face.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21748
+D3
+~
+~
+0 -1 21746
+S
+#21748
+On the mountainside~
+The path turns again here, heading west and south. The snow is getting deeper,
+and you are feeling VERY cold. It would be quite nice to get off this cliff,
+you reflect as you cling to the path, shivering.
+~
+217 0 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 21743
+D3
+~
+~
+0 -1 21747
+S
+#21749
+On the mountainside~
+The steep mountain path continues north and south around the mountain here.
+It is extremely cold here; you feel your extremities growing numb.
+~
+217 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 21754
+D2
+~
+~
+0 -1 21744
+S
+#21750
+On the mountainside~
+The path makes a dangerous turn to the south here, but by sliding yourself
+along and muttering a prayer or two, you think you'll be able to make it.
+Alternatively, you can head back east, where the path heads slightly downward.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21751
+D2
+~
+~
+0 -1 21745
+S
+#21751
+On the mountainside~
+The path is getting steeper and more slippery here; you had better watch your
+step! To the west, you see the path making a tight and dangerous turn to the
+south, and to the east the going is a bit easier.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21752
+D3
+~
+~
+0 -1 21750
+S
+#21752
+On the mountainside~
+You are wending your weary way around the dangerous mountain path. Your toes
+are getting numb as they crunch through the snow and ice. The path continues
+east and west from here, and inclines slightly to the west.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21753
+D3
+~
+~
+0 -1 21751
+S
+#21753
+On the mountainside~
+Continuing along the narrow path, a sudden gust of wind almost sends you
+hurtling off the cliff. You cling tightly to the wall, and your blood freezes
+as you hear the lonely howl of a wolf, close by. You may continue east or west
+from here.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21754
+D3
+~
+~
+0 -1 21752
+S
+#21754
+On the mountainside~
+You are at a treacherous bend in the mountain path. You may continue to the
+west, where the path winds slowly up the mountain, or south, where there is
+a slight decline.
+~
+217 0 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 21749
+D3
+~
+~
+0 -1 21753
+S
+#21755
+Further up the mountainside~
+The path curves sharply upward here; you are going to need to crawl in order
+to continue up it, to the north. East, back the way you came, is looking more
+and more attractive...
+~
+217 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 21759
+D1
+~
+~
+0 -1 21756
+S
+#21756
+Further up the mountainside~
+Wind. Snow. Ice. Rock. Yawn! Exits are east and west.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21757
+D3
+~
+~
+0 -1 21755
+S
+#21757
+Further up the mountainside~
+The path looks very firmly packed down here, as if freshly walked on by
+someone or something very big and heavy. Your hand twitches toward your
+weapon as you contemplate a fight in this thin, cold air...better, perhaps
+to move on, where the path continues to the west or the northeast.
+~
+217 0 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 21756
+D6
+~
+~
+0 -1 21762
+S
+#21758
+Further up the mountainside~
+You have (barely!) managed to scramble up the cliff face, and are now looking
+at a slightly wider path, continuing around and up the mountain. The path
+goes off to the northeast, or you may climb back down the cliff face.
+~
+217 0 5
+0d0+0 0 0
+D5
+~
+~
+0 -1 21746
+D6
+~
+~
+0 -1 21763
+S
+#21759
+Further up the mountainside~
+The path is still winding its way up the mountain...you may continue to the
+east, or backtrack to the south. Watch out for falling rocks, though.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21760
+D2
+~
+~
+0 -1 21755
+S
+#21760
+Further up the mountainside~
+The path is turning sharply upward again...and the air is getting thinner.
+All of your gear feels like it weighs a ton, and your feet drag listlessly
+in the snow. When will it end?! You can go east or west from here.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21761
+D3
+~
+~
+0 -1 21759
+S
+#21761
+Further up the mountainside~
+You wearily slow to a stop and contemplate the high, icy wall of a cliff that
+rises in front of you. You can dimly see a path continuing up the mountain
+on top of the cliff, but you are not sure if your cold-numbed muscles can
+stand such a climb. Maybe you'd better head west instead.
+~
+217 0 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 21760
+D4
+~
+~
+0 -1 21768
+S
+#21762
+Further up the mountainside~
+Peering into the wind, your watery eyes notice that the path is getting even
+wider here, allowing you to relax a bit without fear of plummeting to a cold
+and painful death. The path continues to the northwest and southwest.
+~
+217 0 5
+0d0+0 0 0
+D7
+~
+~
+0 -1 21765
+D9
+~
+~
+0 -1 21757
+S
+#21763
+Further up the mountainside~
+The mountain path leads east and southwest from here, and inclines slightly
+as you head east. The wind howls around you, making it hard to keep your
+footing on the tightly packed snow and ice of the path.
+~
+217 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 21764
+D9
+~
+~
+0 -1 21758
+S
+#21764
+Further up the mountainside~
+"Because it's there," does not seem to be sufficient reason to attempt this
+climb, you reflect as a strong gust of wind nearly hurls you off the side of
+the mountain. You can continue east or west from here.
+~
+217 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 21765
+D3
+~
+~
+0 -1 21763
+S
+#21765
+Further up the mountainside~
+You have come to an easier portion of the climb, the path gets quite a bit
+wider here anyway. You are able to take your numbed hands off the cliff wall
+for a moment and try to pound some life into them. The path continues to the
+west and southeast.
+~
+217 0 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 21764
+D8
+~
+~
+0 -1 21762
+S
+#21766
+Near the top of the mountain~
+You clutch the side of the mountain as a fresh gust of wind howls
+dramatically around you. The mountain path continues upward to the northwest,
+and declines toward the north. You are nearly at the top now.
+~
+217 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 21768
+D7
+~
+~
+0 -1 21767
+S
+#21767
+Near the top of the mountain~
+The path is almost invisible under the thick carpet of snow. Your feet sink
+in almost up to your thighs, and your gear is getting heavier with each step.
+The path continues to the northeast and southwest, and you can almost see the
+peack of the mountain from here...
+~
+217 0 5
+0d0+0 0 0
+D6
+~
+~
+0 -1 21770
+D9
+~
+~
+0 -1 21766
+S
+#21768
+Near the top of the mountain~
+You struggle your way to the top of the cliff and pause to catch your breath.
+It is getting more and more difficult to do so, as the air is very cold and
+thin up here. However, you have almost reached the top of the mountain...just
+a few more feet to go. You may proceed south or down from here.
+~
+217 0 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 21766
+D5
+~
+~
+0 -1 21761
+S
+#21769
+Near the top of the mountain~
+GROAN...not again!! This high cliff face looks almost impassable, especially
+in your half-frozen and bedraggled condition. However, if you manage to make
+it up there, you will be at the mountain's peak at last! However, the faint
+of heart can still go northwest and avoid the whole issue.
+~
+217 0 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 21771
+D7
+~
+~
+0 -1 21770
+S
+#21770
+Near the top of the mountain~
+Almost...there...! The path goes only a little further now, sloping upward to
+the southeast, but you catch sight of yet another high cliff face and groan
+in utter despair. You look longingly back to the southwest...
+~
+217 0 5
+0d0+0 0 0
+D8
+~
+~
+0 -1 21769
+D9
+~
+~
+0 -1 21767
+S
+#21771
+The mountain peak~
+You have made it to the top of the mountain! Yay for you! However, you have
+little time to enjoy your triumph, as Jakan Djanneskald, the mighty frost
+giant, has made it up here before you, and is perparing to send you back
+down the mountain...the quick way!
+~
+217 0 5
+0d0+0 0 0
+D5
+~
+~
+0 -1 21769
+S
+#21772
+An underground cavern~
+You are standing on the southern portion of the big platform of lava-rock.
+The room is well-lit by the enormous flow of red-hot lava directly under you,
+and you shiver at the thought of how quickly you would be consumed, should
+you be so foolish as to enter it. The only safe direction to go is north.
+~
+217 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21781
+D1
+No, you DON'T want to go this way...
+~
+~
+0 -1 21773
+S
+#21773
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21774
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21775
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21776
+An underground cavern~
+These must be the homes of fire giants. They are incredibly large, but crudely
+fashioned of black igneous rock. You try to make yourself as inconspicuous as
+possibly to avoid getting killed and eaten. North is your only safe exit.
+~
+217 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21785
+D1
+Instant death awaits you to the east.
+~
+~
+0 -1 21777
+D3
+Um, I wouldn't recommend it...
+~
+~
+0 -1 21775
+S
+#21777
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21778
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21779
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21780
+An underground cavern~
+You are at the southern end of the fire giants' courtyard. The fire giants
+appear extremely wary, as if they expect to be attacked soon. But maybe
+that is just how they always are. North is your only safe exit, as boiling
+hot lava seethes to the west.
+~
+217 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21789
+D3
+Don't say I didn't warn you...
+~
+~
+0 -1 21779
+S
+#21781
+An underground cavern~
+You have descended a ladder made of heavy black metal, and are now standing
+in a cavern deep underneath the mountain. The temperature here is markedly
+warmer than elsewhere in the caves, and you begin to perspire furiously.
+You are standing on a large platform made of lava-rock, which extends to the
+north, south, and east, or you may ascend the ladder to get back to the cave.
+~
+217 13 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21791
+D1
+~
+~
+0 -1 21782
+D2
+~
+~
+0 -1 21772
+D4
+A ladder leads back up to the stone giant cave.
+~
+~
+0 -1 21730
+S
+#21782
+A treacherous rock bridge~
+You are on a wide but very narrow bridge made from solid lava-rock. Boiling
+hot lava cascades like water underneath you, so you are careful to stay to
+the center of the bridge. The heat is almost unbearable. The only safe ways
+to proceed are east and west.
+~
+217 8 0
+0d0+0 0 0
+D0
+Um, no, not a good idea.
+~
+~
+0 -1 21792
+D1
+~
+~
+0 -1 21783
+D2
+Don't be stupid. You want to swim in red-hot lava?
+~
+~
+0 -1 21773
+D3
+~
+~
+0 -1 21781
+S
+#21783
+A treacherous rock bridge~
+Continuing across the rock bridge, you notice some very large shapes striding
+along, calling out in deep, booming voices. What sort of creatures could take
+this much heat? The only safe ways to proceed are east and west.
+~
+217 8 0
+0d0+0 0 0
+D0
+You have a death wish or something?
+~
+~
+0 -1 21793
+D1
+~
+~
+0 -1 21784
+D2
+I said, RED HOT LAVA. Get it?
+~
+~
+0 -1 21774
+D3
+~
+~
+0 -1 21782
+S
+#21784
+A treacherous rock bridge~
+You are almost halfway across the rock bridge, and the heat is, if anything,
+only getting worse. The shapes appear to be humanoid in form, but MUCH bigger
+than any humanoids you have ever seen. East and west are the only safe ways
+to proceed from here.
+~
+217 8 0
+0d0+0 0 0
+D0
+Does the word "doom" mean anything to you?
+~
+~
+0 -1 21794
+D1
+~
+~
+0 -1 21785
+D2
+Why don't you just fall on your sword instead?
+~
+~
+0 -1 21775
+D3
+~
+~
+0 -1 21783
+S
+#21785
+An underground cavern~
+The rock bridge has intersected an underground cavern here, and as you look
+around, you see that the cavern is filled with enormous dwelling places, all
+made out of unattractive black lava-rock. You feel a sudden chill despite the
+heat as you realize that these must be the homes of the evil fire giants! You
+may continue in all four cardinal directions from here.
+~
+217 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21795
+D1
+~
+~
+0 -1 21786
+D2
+~
+~
+0 -1 21776
+D3
+~
+~
+0 -1 21784
+S
+#21786
+A treacherous rock bridge~
+You are continuing up the second portion of the rock bridge. Up ahead, you see
+a large, blocky stone structure shaped vaguely like a castle. Fire giants are
+prowling around it, as if looking for intruders. Maybe you should leave before
+they discover you...
+~
+217 8 0
+0d0+0 0 0
+D0
+No, I don't think so...
+~
+~
+0 -1 21796
+D1
+~
+~
+0 -1 21787
+D2
+Just don't. Trust me on this one.
+~
+~
+0 -1 21777
+D3
+~
+~
+0 -1 21785
+S
+#21787
+A treacherous rock bridge~
+The rock bridge continues east and west, while north and south, lava flows,
+promising an instant but very painful death. The large stone structure is
+getting closer now, to the east, and the fire giant dwellings are west.
+~
+217 8 0
+0d0+0 0 0
+D0
+Death awaits you to the north.
+~
+~
+0 -1 21797
+D1
+~
+~
+0 -1 21788
+D2
+Go ahead, I DARE you...
+~
+~
+0 -1 21778
+D3
+~
+~
+0 -1 21786
+S
+#21788
+A treacherous rock bridge~
+You are almost at the end of the rock bridge. Directly to the east is the
+"courtyard" of the fire giant "castle", while to the west you can still dimly
+see the dwelling places of the other fire giants. There are a number of very
+large, very mean-looking fire giants prowling around, so you had best be very
+careful. North and south, lava flows.
+~
+217 8 0
+0d0+0 0 0
+D0
+It's called a death trap. Ever heard of them?
+~
+~
+0 -1 21798
+D1
+~
+~
+0 -1 21789
+D2
+Well, if you MUST learn the hard way...
+~
+~
+0 -1 21779
+D3
+~
+~
+0 -1 21787
+S
+#21789
+An underground cavern~
+You are in the courtyard of the fire giant castle. Huge and terrible figures
+move around near you. In the interior of the castle, to the east, you can see
+an extremely large and well-armed fire giant molesting a mighty storm giant,
+who appears to be shackled into a sitting position. Other fire giants are
+crowding around to see the fun. North and south, the courtyard continues,
+and to the west is the treacherous rock bridge.
+~
+217 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21799
+D1
+~
+~
+0 -1 21790
+D2
+~
+~
+0 -1 21780
+D3
+~
+~
+0 -1 21788
+S
+#21790
+Hall of the Fire Giant King~
+This room is decked out in barbaric splendor, with all sorts of metallic
+treasure strewn about. In the center of the floor, a mighty storm giant sits
+shackled to the floor, where he is being tormented by a number of very large
+fire giants. His huge eyes catch yours, and you are filled with sympathy for
+this being, who has been brought so low by such evil creatures. Perhaps you
+would be able to free him from his bondage...
+~
+217 2056 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 21798
+D1
+~
+~
+0 -1 21779
+D2
+~
+~
+0 -1 21779
+D3
+~
+~
+0 -1 21789
+S
+#21791
+An underground cavern~
+You are standing on the northern portion of the platform of lava-rock. It is
+extraordinarily hot here, especially because of the tremendous flow of hot
+lava directly to the east. One false move, and you would be instantly crisped.
+The only safe direction to go from here is south.
+~
+217 8 0
+0d0+0 0 0
+D1
+The hot lava boils furiously under you. You DON'T want to go this way!
+~
+~
+0 -1 21792
+D2
+~
+~
+0 -1 21781
+S
+#21792
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21793
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21794
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21795
+An underground cavern~
+Moving cautiously around the cavern, you gaze in fascination at the homes of
+the fire giants. They are incredibly large, yet crudely made. Fire giants are
+reportedly much stronger than they are smart, but when you are strong ENOUGH,
+being smart ceases to be quite as important. You'd better hope they don't see
+you lurking around, or you will be in big trouble. South is your only safe exit.
+~
+217 8 0
+0d0+0 0 0
+D1
+Plunging into hot lava is not an Olympic sport yet. Forget it.
+~
+~
+0 -1 21796
+D2
+~
+~
+0 -1 21785
+D3
+That's right, COOK the giants' food for them...go ahead.
+~
+~
+0 -1 21794
+S
+#21796
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21797
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21798
+A pit of boiling lava~
+
+AAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGHHHHHHHHHHHHH!!!!!!
+
+                             You are VERY dead.
+
+~
+217 16390 0
+1d1+199 90 0
+S
+#21799
+An underground cavern~
+You are at the northern end of the courtyard. Fire giants are patrolling
+the area, looking for intruders. The look in their eyes teels you that they
+are not interested in taking you on a tour of their domain. South is the
+only safe exit; hot lava flows fiercely to the west.
+~
+217 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 21789
+D3
+You will DIE, you fool, DIE!
+~
+~
+0 -1 21798
+S
+$

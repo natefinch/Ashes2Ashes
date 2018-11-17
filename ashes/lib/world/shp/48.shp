@@ -1,0 +1,57 @@
+CircleMUD v3.0 Shop File~
+#4876~
+4860
+4861
+4862
+4864
+4865
+4866
+-1
+2.0
+0.5
+-1
+%s Sorry, we are out of that item.~
+%s You can't sell what you don't have!~
+%s I don't buy things, I sell things!~
+%s That's way too expensive for my small mart.~
+%s You cannot afford such a fine item.~
+%s That'll be %d coins. Thanks for shopping at Poke' Mart.~
+%s If I bought that type of item, I'd give you %d coins for it.  But I don't.~
+2
+0
+4876
+0
+4880
+-1
+0
+24
+0
+0
+#4877~
+4861
+4862
+4864
+4865
+4866
+-1
+2.0
+0.5
+-1
+%s Sorry, we are out of that item.~
+%s You can't sell what you don't have!~
+%s I don't buy things, I sell things!~
+%s That's way too expensive for my small mart.~
+%s You cannot afford such a fine item.~
+%s That'll be %d coins. Thanks for shopping at Poke' Mart.~
+%s If I bought that type of item, I'd give you %d coins for it.  But I don't.~
+2
+0
+4877
+0
+4881
+-1
+0
+24
+0
+0
+$~

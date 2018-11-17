@@ -1,0 +1,1848 @@
+AUTOAUCTION
+
+Usage: autoauction <item> <min bid>
+
+Autoauction will put an item up for bidding on the autoauction system.
+The item must be in your inventory and the min bid is the minimum
+number of coins you will accept for the item. If you drop the item,
+give it to another person, or quit the game during the auction it
+will be taken off the auctioning block.
+
+Example: auction bloodstone 100000
+
+See also: IDENTIFY BID
+#
+BID
+
+Usage: bid <coins>
+
+Bid will put in your bid on the item that is currently being auctioned
+with autoauction. Bid will use the coins you have in the bank as well
+as the coins you have on you.
+
+Example: bid 100000
+
+See also: AUTOAUCTION IDENTIFY
+#
+AUTOMAINTENANCE
+
+Automaintenance deletes idle characters. How much idle time you're
+allowed depends on the level of your character. It goes by the
+highest level of your classes if you are multiclassed. If you are
+going to be unable to log in for a long time, you can talk to
+mortal affairs about getting your chars protected from automaint.
+The times before deletion are:
+Level  | Time (days)
+-------------------
+ 1     | 7
+ 2-8   | 14
+ 9-20  | 30
+21-70  | 60
+71-100 | 90
+
+#
+AUTOLOOT
+
+Usage: autoloot
+
+Turns on and off automatic corpse looting.
+
+See also: AUTOGOLD AUTOSPLIT
+
+#
+AUTOGOLD
+
+Usage: autogold
+
+Turns on and off automatic gold looting.
+
+See also: AUTOLOOT AUTOSPLIT
+
+#
+AUTOSPLIT
+
+Usage: autosplit
+
+Turns on and off automatic splitting of looted gold.
+
+See also: AUTOLOOT AUTOGOLD SPLIT
+
+#
+NOARENA "ARENA COMBAT"
+
+Usage: noarena
+
+The arena is a place for people to fight in one-on-one, group, or free
+for all combat. The arena channel anounces things happening in the
+arena but cannot be spoken on. You can turn off the arena channel with
+noarena. When the channel is off, you cannot make or receive challenges.
+
+There is no chance of con loss in the arena. Assassins will not be able
+to kill other assassins in the arena, only their designated oponents.
+When you are killed in the arena you are put in the temple, still wearing
+all your equipment, and restored to the hit, mana, and move you had before
+the challenge began.
+
+See also: ACCEPT ASSASSINS CHALLENGE RETIRE
+
+#
+CHALLENGE
+
+Usage: challenge <name | group | all>
+
+You use the challenge command to pick a fight. You can challenge any
+person on the arena channel. If they accept the challenge, you will both
+be pulled from your rooms and places in the arena, where you can hunt
+each other down and kill each other. You cannot enter the arena while
+you are in a fight or from a !teleport room.
+
+If you are in a group of at least 3 people, you can challenge them all
+with "challenge group". Once everyone has accepted the challenge, you
+will all be put in random locations in the arena and will be free to kill
+each other. The last one alive is declaired the victor.
+
+You can enter the arena for free for all combat with "challenge all".
+You will be immediatly transfered to a random room in the arena where
+you can kill or be killed by anyone else challenging all.
+
+See also: NOARENA ACCEPT RETIRE
+
+#
+ACCEPT
+
+Usage: accept
+
+You use accept to accept a challenge for arena combat.
+
+See also: NOARENA CHALLENGE RETIRE
+
+#
+RETIRE
+
+Usage: retire
+
+You use retire to leave the arena without finishing a fight, or to
+leave if you're challenging all and don't want to wait for someone to
+come along to kill you.
+
+See also: NOARENA ACCEPT CHALLENGE
+
+#
+MULTICLASSING TRAIN
+
+You can become another class by training with a master of that class.
+It takes practice slots to train, based on how many extra you have.
+If you spend too many extra on stat increases, you may not have enough
+to multiclass, so be careful. To see how many practices it will take,
+seek out a master and type "train". To become that class type
+"train <classname>".
+
+When you multiclass, you start over at level 1 in the new class, and
+leveling takes your number of classes times the normal exp needed. You
+lose your abilities from your previous class until you earn them back.
+The more classes you are, the higher level you get your abilities back at.
+You will not be able to get them all back because some will be beyond
+your comprehension when your training is spread thin over different
+classes. You also get the abilities of your new class at higher levels,
+and some abilities will be beyond your reach. You can only gain back
+abilities which you were able to practice earlier. You can practice them
+more once you get them back if they are not superb, but you can't gain an
+ability in a class if you weren't high enough level for it when you
+switched. You can never go back to a class once you have switched.
+
+When you multiclass, you keep your hit, mana, and move points. As you
+advance in level, it keeps a running total of what points you would
+have gained, averaging all your classes. If any of the points from this
+total is more than your previous total, it uses the new ammount.
+
+You get the average thac0 of all the classes you are, but you get the
+best saving throws of the classes.
+
+You can wear equipment that is usable by at least one of your classes,
+however monks have special equipment restrictions (see help monk), and
+if one of your classes is monk, you will always have those restrictions.
+
+Note: Once you switch classes you can never go back, and you cannot
+advance in your old class anymore. You will lose any extra practices
+once you train.
+
+Number of Classes | Max Skill Level
+-----------------------------------
+  1               |  100
+  2               |   65
+  3               |   44
+  4               |   31
+  5               |   23
+  6               |   18
+  7               |   15
+  8               |   13
+
+#
+ASSASSINS
+
+The Circle of Assassins is a long standing guild whithin the Worlds of 
+Destiny.  It has a proud tradition which must be upheld by all those 
+who choose to apply for membership within its ranks.  Only members of 
+the Circle of Assassins may be involved in fighting other players.  
+Unlike on other muds, you will not be flagged as a player killer.  
+However, whom you may attack and where you may fight is limited.  In 
+order for you to battle other player, you must be an assassin and your
+target must be an assassin also.  No player-to-player fighting is allowed 
+in Midgaard as well as other areas which you will find soon enough.
+
+There is no possibility of CON loss when a player is killed by another 
+player.
+
+To become an assassin, you must be at least a level 40, and you must
+request acceptance into the circle with the following command:
+
+REQUEST ASSASSIN
+usage: request assassin 
+
+After you have typed request assassin, Talk to an immortal and they will
+make the decision to let you in or to deny your request.
+
+Before you request to be an assassin we ask that you read the assassin 
+rules so you know what they are and agree to abide by them.
+
+You are not an assassin until an immortal assassin accepts you 
+into the Circle.
+
+See Also:  Assassin Rules
+#
+"ASSASSIN RULES"
+
+The Circle of Assassins has few true rules.  For the most part, the 
+members govern each other in their behavior and treatment.  But there are 
+several rules written upon the walls in the guild house.  They are fairly 
+simple and straightforeward in their meaning and anyone caught breaking 
+one of the following rules will be immediately exiled from the circle, 
+never to be allowed to return.  Assassins follow a code of honor.  When 
+an assassin kills another member of the Cicle, the killer must first 
+guard the corpse of the deceased.  The killer is responsible for making 
+sure that no mob or player loots the corpse or picks it up.  The killer 
+must also allow the deceased to retreive his corpse and regenerate enough 
+to be a threat in battle.  Assassins frown upon those who attack each 
+other when they are at their weakest.  Other assassins must also allow 
+recently killed assassins to retreive their equipment and regen before 
+attacking them.  As an assassin, you may not recieve outside help to kill 
+another assassin.  This includes having your non-assassin cleric heal you 
+in combat, or summoning your "prey" for you to kill.  As a general rule, 
+members of the Circle of Assassins do not like people who quit on them.  
+Therefore, once you de-pledge from the Circle, you can never go back.
+
+See also: ASSASSINS
+
+#
+COMBINE
+
+Usage: combine
+
+Combine will turn on and off item combining. When it is on, you will see 
+items in a row of the same type on one line with a number.
+For example:
+bread
+bread
+bread
+bread
+
+would be displayed:
+(4) bread
+
+#
+CAPS
+
+There are limits to some stats on players. These caps are listed here:
+
+Stat      |   Limit
+----------|---------
+Damroll     50
+Maxhit      1500 (naked)
+Maxmana     1500 (naked)
+Maxmove     1500 (naked)
+Str         18/100
+Int         18
+Wis         18
+Dex         18
+Con         18
+Cha         18
+
+#
+CRASHES
+
+Sometimes it is necisary to restore your rent file from a backup
+such as if you die and the mud crashes before you get your corpse,
+or the server has problems and eats your rent file. Restoring
+from the backup is known as reimbursing you. If you think you
+need a reimbusrment, talk to an immortal, and be sure to tell
+them everything you know about what happened. We do not give
+reimbursements for planned reboots, so take heed of the 10 minute
+warning before a reboot and be sure not to die at that time.
+Control of the backup files is in your hands. Your backup file
+is updated when you type "save reimb". Be sure to keep it up
+to date, and when you die, be sure not to update it until
+you have all your equipment back, or you may overwrite the
+old file with a blank file, which will not help you if there is
+a crash before you get your equipment back. We can only give
+back what is in the files.
+
+See also: SAVE
+#
+DAMAGE DAM "DAMAGE MESSAGES"
+
+This is a basic list of the relative strength of the damage messages 
+which you receive in combat. They go from least to most damaging:
+
+tickle, barely hit, hit, hit hard, hit very hard, hit extremely hard,
+MASSACRE, OBLITERATE, DEMOLISH, MUTILATE, LIQUIFY, DESTROY, DECIMATE,
+PULVERIZE, ANNIHILATE, BUST A CAN, MAIM, SAVAGE, DISEMBOWEL, BUTCHER,
+DISMEMBER, ATOMIZE
+
+#
+ZONE ZONES
+
+=========================================================================
+ Zone Name                      Creator(s)                        Levels
+=========================================================================
+ Acme Acres/Anime               BigH                              All
+ Addam's Family Mansion         Booof                             All
+ Agrabah City                   Merlin, Something                 All
+ Agrabah Palace                 Merlin, Something                 35+
+ Ancalador                      (stock)                           New-15
+ Astral Plane                   (stock), *Raul                    M-HG
+ Bazaar, The                    Gru                               HG
+ Blade Runner                   Booof                             30+
+ BundyLand                      Xorin                             25+
+ Caddyshack                     Stretch, Teddy                    10+
+ Camelot                        Lazarus                           10+
+ Castle Grymourne               Neuro                             HG
+ Chicago 1920's                 Cati, Panther                     All
+ Devil's Wood                   Herb, Linna                       10+
+ Disneyland                     Poppy                             10-40
+ Draconia                       (stock)                           20+
+ Drow City                      Dru                               HG    
+ Dwarven Kingdom                (stock)                           20-40
+ Endless Sea                    Bloodseeker/Nigel                 20+
+ Forgotten Realms               Shifter                           M-HG
+ Frost Giants                   Bloodseeker                       HG+
+ Galaxy                         (stock), *Sheol                   M-HG
+ Giant Caves                    Dyrewulf                          20+
+ Gilligan's Island              Rapead                            20+
+ God Museum                     (by all admin+)                   HG
+ Great Chessboard               (stock)                           20-40
+ Great Eastern Desert           (stock)                           All
+ Great River of Midgaard        (stock), *Sheol                   10+
+ and the Temple of Asgaard
+ Haon-Dor (dark)                Quifael                           New
+ Haon-Dor (light)               Quifael                           New
+ High Tower of Sorcery          Skylar                            20+
+ Hills of Hell                  Arkon                             20+
+ Holiday Hell                   Lapo, Teddy                       20+
+ Hollywood                      Darkheart                         All
+ Jurassic Park                  Sandtiger, Rand                   HG+
+ Keep of Mahn-Tor               (stock)                           HG
+ King's Castle                  (stock)                           15+
+ Land, The                      Mouseglove                        20+
+ Land of OZ, The                Booof                             35+
+ Land of the Frost Giants       Bloodseeker/Nigel                 20+
+ Lost Valley                    Thyra                             20+
+ Marvel Universe                Bloodseeker/Nigel                 30+
+ M*A*S*H*                       Jahana, Stretch                   20+
+ Midgaard                       (stock)                           All
+ Midgaard: 2439                 Vicious, Mouseglove               All
+ Midkemia                       Navarre, Janfear, Thief,          All
+                                Jimmy, Raistlin, Matthias,        
+                                Thomas, Hugh
+ Moria                          (stock), *Dyrewulf                All
+ Mortal Kombat                  Viper                             25+
+ MTV Zone, The                  Zooropa                           20-40
+ Mudschool                      Cati, Ryno, Maeve                 New
+ Muppet Show, The               Don (DonGiovanni)                 New-10
+ New Sparta                     Darkwing                          All
+ Newbie Forest                  Bloodseeker/Nigel                 New
+ Newbie Plateau of Prairie      Vall                              New-10
+ Night Court                    Akiya, Myan, Stretch              30+
+ Planet Mars                    Bloodseeker/Nigel                 All
+ Pyramid                        Anderson                          20-40
+ Raiders of the Lost Fridge     Zooropa                           20+
+ Redferne's Residence           (stock)                           HG
+ Redwall                        Matthias                          20+
+ Rome                           (stock)                           10-20
+ Ruins of Ozymandias            Xorin                             M-HG
+ Sewer                          Azurel                            New-15
+ Shaolin Temple                 Bloodseeker/Nigel                 All
+ Shire                          (stock), *Raul                    All
+ Skavenblight                   Gru                               HG+
+ Slums                          (stock), *Yendle, *Raul           All
+ Star Wars                      Cthulhu                           All
+ Terminator 2                   Darkheart, Teddy                  30+
+ Thalos, City of                (stock)                           20+
+ Undead World(Dracula's Castle) Poppy, *Sheol, *Dru               10-20
+ Wamphyri                       Elveron                           M-HG
+ Wolfenstein                    Sheol                             M-HG
+ Xanth                          Dyrewulf                          20+
+ X-Files Zone, The              Bloodseeker/Nigel                 All
+ X-Men Mansion                  BigH                              HG+
+ Zoo TV                         Zooropa                           30+
+=========================================================================
+ (*)  touch-ups, revamps, etc.
+ (stock) are areas that are not originally built on Ashes.  The authors of
+         these zones are usually unknown.
+           
+ New    = This area is newbie-friendly.
+ All    = All levels can find something there.  Lower levels be careful.
+ M-HG   = Mid to High level groups
+ HG     = High level groups
+ HG+    = VERY High level groups
+ 51+    = You will die here.  Stay away.  
+                                     
+                                      Zone list updated by Apu  4.3.97
+========================================================================= 
+
+#
+RULES
+Usage: type policy
+
+The rules and regulations of Ashes to Ashes are explained in the
+policy of this mud.  We are assuming that you have read the policy, and
+we require that you adhere to the rules that are listed there.  
+Ignorance of the rules is no excuse, nor is the failure to properly 
+understand the rules listed there.  If you do not understand the rules, 
+ask another player, or immortal to explain to you whatever it is that
+you do not understand.
+
+#
+VIRTUAL VIRTUALCHANNEL VC
+
+This is a channel system that is modeled loosely after a BBS
+style teleconference system.  Check it out, its kind of fun :)
+To talk on the virtual channel, format is:  . <text>
+
+Commands currently supported:
+VCJOIN, VCINVITE, VCSQUELCH, VCMODERATOR, VCKICK, VCDEPART, VCLIST
+VCEMOTE, VCACTION
+
+SEE ALSO: help on any of the above listed supported commands
+#
+VCEMOTE
+
+Usage: vcemote <text>
+
+This is the virtual-channel equivelant of the emote command.  You would
+use it to simulate actions that aren't currently supported.
+
+example: vcemote is cool.
+
+That would display something like:
+(mychannel) <Your name> is cool.
+
+to everyone on your virtual channel.  Vcemote also obeys virtual-squelch
+rules.
+
+You can also vcemote with a comma.
+, rocks the mud
+is the same as
+vcemote rocks the mud
+
+SEE ALSO: VCACTION VIRTUAL
+#
+VCACTION
+
+Usage: vcaction <action> [target-name]
+
+This is the virtual-channel equivelant of the social system.  You use it
+almost exactly the same, except that you must put vcaction in front of the
+action you wish to use.
+
+Example: vcaction smile Anton
+
+would display something like:
+(mychannel) <Your name> smiles happily at Anton.
+
+for everyone on your virtual channel.  Just try it out and learn by 
+example :)  Vcaction also obeys with virtual-squelch rules.
+
+You can also use a < instead of typing out vcaction.
+< smile anton
+is the same as
+vcaction smile anton
+
+SEE ALSO: VCEMOTE, VIRTUAL
+#
+VCJOIN
+
+Usage: vcjoin <channelname>
+
+This will, if the moderator has invited you, allow you to join the
+channel that matches channelname, or if there isn't one yet, one is
+created and you become the moderator.
+
+
+SEE ALSO: VIRTUAL
+#
+VCINVITE
+
+Usage: vcinvite <charname>
+
+This will, if you are the moderator of a channel, allow the person
+named <charname> to join your channel if he/she pleases. 
+
+SEE ALSO: VIRTUAL
+#
+VCSQUELCH
+
+Usage: vcsquelch <charname>
+
+This will, if you are the moderator of a channel, prevent the person
+named <charname> from being able to use vcsay. However, they can still
+monitor what is going on in the channel. Using it a second time will 
+unsquelch them.
+
+SEE ALSO: VIRTUAL
+#
+VCKICK
+
+Usage: vckick <charname>
+
+Kicks <charname> off of the channel, if you are the moderator.
+
+SEE ALSO: VIRTUAL
+#
+VCDEPART
+
+Usage: vcdepart
+
+Exits the current channel you are on, destroying it if you
+are the moderator.
+
+SEE ALSO: VIRTUAL
+#
+VCLIST
+
+Usage: vclist
+
+Shows a list of people on your current channel.
+
+SEE ALSO: VIRTUAL
+#
+VCMODERATOR
+
+Usage: vcmoderator <player>
+
+Makes the player specified moderator of the virtual channel.
+You must be the current moderator to do this, and the player
+must be on the virtual channel with you.
+
+SEE ALSO: VIRTUAL
+#
+IMMORTING IMMORTS APPLICATION
+
+One of the possibilities, which you can consider once you reach level
+100, is applying to become an immortal. This allows you to begin helping
+make the MUD a better place for all by adding new areas or ideas and 
+such. But, becoming an immortal is not an automatic process.
+
+When you have achieved enough experience to advance to level 101, you will 
+need to create a 'resume' of your mud experience and ideas. This resume 
+should consist of things such as any previous experience as an immortal 
+character on another MUD, the ideas you will be trying to work on as an 
+immortal, and any new zone ideas you might be interested in building.
+
+Once you have compilied your MUD resume, you will then need to e-mail
+it to the immortal who is in charge of accepting applications for 
+immortship. Teddy is currently our designated 'personel' officer and 
+will be examining all of the immortal applications. So, just compile 
+all of your thoughts and ideas and then e-mail all of it to 
+tonyae@iglou.com
+so that she will be able to quickly make a decision and get you moving.
+
+#
+MAP MAPS AREA AREAS
+
+The following maps are available from HELP:
+
+MAP OF MIDGAARD         is a map of the city of Midgaard.
+MAP OF WORLD            is a rough map of the entire world.
+
+For example, to see a map of Midgaard, type:
+
+HELP MAP OF MIDGAARD
+
+#
+"MAP OF MIDGAARD" MIDGAARD
+
+
+                                   N
+                                   |
+         N                      Midgaard
+         |  Up            North-South Highway        
+         | /                       |           Shrine of 
+ W -- -- * -- -- E                 |         / the Elders
+       / |                       By the    /
+   Down  |                    Temple Altar 
+         S                         |
+                    Reading        |        Donation
+                     Room    --- Temple ---   Room          Cryogenic
+                                /  |                         Center
+                           Ashes   |                            |
+                         Mudschool |        Post Office      Reception
+                                   |             |          /  Room
+                   Clerics'  --- Temple --- Grunting Boar /     |
+                    Guild        Square         Inn        Reimbursement
+                                   |                      File Update Room 
+           Water                   |                Weapon          
+           Shop      Bakery        |     Armory      Shop       
+            |          |           |       |          |        
+  <-West------Main Street--------Market--------Main Street---------East->
+    Gate    |          |         Square    |          |            Gate
+    |     Uncle     General        |    Smithy's   Warriors'        |
+    |     Juan's     Store         |      Shop      Guild           |
+    |                              |                                |
+    |  Magic Shop  Statistician    |                                |
+   West     |          |           |                               East
+   Wall----Carnival Lane--------- Odin ---------Carnival Lane------Wall
+   Road     |          |         Square    |           |           Road
+    |     Mages'      Monk's       |     Pet Shop    House of       |
+    |     Guild       Guild        |                 Horrors        |
+    |                              |  Anti-Paladins'   |            |
+   Western      Paladins' Guild    |     Guild       Undead      Eastern
+   End of              |           |       |         Castle       End of
+   Alley-----Poor Valley---------Common------Dark Alley------------Alley
+    |       |          |         Square    |           |          / |
+    |    Inventor's  Grubby        |     Thieves'    Levee   Sewers |
+    |      Shop       Inn          |      Guild        |            |
+    |                              |                   |       Warehouse
+   Concourse                      The             Great River
+    |                             Dump                of
+   Slums                                           Midgaard
+
+
+                                   Midgaard Map design by Nigel 10.1.96
+                                                         Updated 7.4.97
+
+#
+"MAP OF WORLD" WORLD
+*****************************
+** Areas North of Midgaard **                         ^ ^ ^ = woods 
+*****************************                         ~ ~ ~ = water
+                                    N                 + + + = desert
+                                    |                 * * * = underground
+         Jurassic  ~~  Endless ~ Camelot
+           Park   ----   Sea  ----- | ----- Ancalador
+                    ~ /  ~~  \      |
+                 Shaolin   Land of  |
+ ^ ^^  ^         Temple    Frost    |
+ Midkemia ^                Giants   |
+ ^  |^ ^  Chicago 1920's            |
+    |   /       |___ BundyLand      |
+   Rome --------------------------- |
+    |                               |
+    |                 The           |   ^^  Newbie ^^
+ God Museum       Muppet Show ----- | ----- Plateau ^^
+                                    |     ^^       ^^
+                          W <-- Midgaard --> E
+                                    |
+                                    S 
+****************************
+** Areas East of Midgaard **                                                 
+****************************                               
+          
+          Hills   Skavenblight
+          of Hell    /        X-Men   
+    Lost    *  \  */   *      Mansion  ^^  ^ ^   ^
+    Valley --- Moria -- Giant    |    Devil's Woods
+            *   |  \ *  Caves    |   /    ^^ ^
+              Drow   \        Portal -- Disneyland        King's
+           *  City ^  | ^        |   \                     Castle
+                      | ^^       |    Acme          ^^ The   |
+           ^^ Newbie  |   Night  |    Acres            Land  |
+              Forest  |   Court  |                       |   |
+         N  ^^  | ^^  |     |    | Caddyshack      ZooTV |   |
+         |      |     |     |    |     |             |   |   |  Chess-
+W <-- Midgaard ------------------------------------------------ board -> E 
+         |            |     |    |                       |
+         S            |  X-Files |                       |  
+                      |          |                  *  Dwarven *  *
+                    Land of    Blade              *  * Kingdom  *
+                      OZ       Runner                   *
+*****************************
+** Areas South of Midgaard **
+*****************************
+
+                            N
+                            |
+                 W  <-- Midgaard --> E
+Wall                        |
+Road -----------------------|--------- Levee --------|
+            |             / |   Raiders  |            \       *
+            |     M*A*S*H* MTV /  of     | ~       * *  Sewers   * 
+        Midgaard:          Zone  Lost    |             *   *
+      /   2439   \              Fridge   | ~~         
+Wastelands  |    Terminator 2            |
+       Warhammer 40k                  ~~ |
+                                    ~~   |  ~~
+       Magic: The                        |
+        Gathering    Planet           ~~ |  ~~               Pyramid
+Marvel     |          Mars               |          Thalos      |
+Universe   |       /                  ~  |  Drow          \  +  | Wamphyri
+     \     |    ZooTV         ~          |    |             \ + |+ /
+        New   /       ~   ~~      ~~     |    |  ~ ~~   ~ ++ Eastern + ++
+       Sparta -------------------- River of Midgaard -------- Desert  +
+              |   ~~    ~~       ~~      | ~~     ~ ~~  ~~~   | | + \  +
+              |            ~~     Temple of Asgaard     ++ + /  |+ + |
+           Forgotten                                       /    |  Agrabah
+            Realms                        The   ___  Astral    Star
+                                         Bazaar      Plane     Wars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************
+** Areas West of Midgaard **
+****************************
+
+           Ozymandian         Hitchhiker's
+               |                 Guide            Redwall
+ Castle    ____|___ Holiday       ^|^       ^^       |
+ Grymourne  ^  | ^^ Hell           |   Shire         |         N
+               |    ^   ^  ^^^ ^^  |^    |   ^^^ ^^  |         |
+      Shanara ----------------------- Haon-Dor ------------ Midgaard --> E
+               |   ^^   ^^^     |  ^^^   |  ^^ ^^^       |     |
+ Tower of  ^^  |  ^          ^  |        |               |     S
+ Sorcery    ^  |                |     Ranger's       Southern  
+       \      /    Mortal   ^^  | ^^   Guild         Midgaard   Addam's    
+ ^^^^   |^^ / ^  / Kombat       |                        |----- Family
+        Shadow /              ^ | ^^^                    |
+   ^^   Grove  ---- Galaxy      |                        |_____ Redferne's
+       /   ^^^                  | ^^                     |      Residence
+     /                   ~~~ ~~ |                        |
+Draconia         Gilligan's ----|                      Slums      
+   |               Island ~ ~~  |                        |
+Wolfenstein             The Keep of Mahn-Tor             |--- Hollywood
+                                                         
+
+                                        World Map Design by Nigel 10.1.96
+                                                           Updated 7.4.97
+
+#
+PAGELENGTH
+
+Usage: pagelenth [0-200]
+
+Pagelength is used to set the number of lines you will get at a time when
+you're in the pager. With no argument it will show you your current
+pagelength, and if you set your pagelength to 0 it will use the default.
+
+#
+WALKIN WALKOUT
+This command lets you set what people see when you walk into or out 
+of a room.
+Example using the character Tyler:
+>walkin struts in from the
+Will give someone in the room
+  Tyler struts in from the <direction>
+>walkout stumbles out the door
+Will give someone in the room he's leaving
+  Tyler stumbles out the door <direction>
+# 
+REROLL REROLLING STATS ABILITIES DEATH
+The basic abilities are strength, intelligence, wisdom, dexterity,
+constitution, and charisma.  These abilities contribute to a characters
+ability to fight, learn, use spells and skills, regenerate and gain
+hit points when levelling.
+When a character dies there is a chance that their constitution will
+be decreased by one.  If a characters constitution falls below 3, they 
+will be unable to do anything as they are then too weak to act.  Spells
+such as limited wish can be used restore a person that has fallen below
+a 3 CON.  Players killed by other players will not risk the loss of CON.
+You can reroll your stats at any time if you have the cash for it. This
+will start you over at level 1 in your current class. The first time
+costs 1 million coins, and it goes up by a million each time. Go to the
+sailor in the warehouse in Midgaard to reroll and be sure to read the
+sign fo details.
+
+Here is a brief description of what each stat does:
+  STRENGTH: Hit and dam bonus for high str (no dam bonus for monks). 
+Affects how much weight you can carry.
+  INTELLIGENCE: This affects how many times you need to practice 
+something to learn it perfect. It also affects your mana gain per level and 
+your mana regen.
+  WISDOM: This affects how many practices you gain while leveling. It also 
+affects your mana gain per level and your mana regen.
+  DEXTERITY: This affects your ac when it is high or low for everyone 
+except monks. For monks it determins your permanent ac gain per level. It 
+also affects how many items you can carry in inventory.
+  CONSTITUTION: This affects your hp gain when you level, as well as 
+keeping you alive as stated above.
+  CHARISMA: This affects your chances of being attacked by an agro mob when 
+in a group of players.
+
+#
+ALIAS ALIASES
+
+Usage: alias [alias name] [command]
+
+An alias is a single command used to represent one or more other commands.
+The ALIAS command can be used to manipulate your character's aliases.
+Type
+ALIAS alone to see a list of your currently defined aliases.
+
+  > alias
+
+Type ALIAS <alias name> <command> to create a new alias.  The alias name
+must
+be one word.  The command can be any string.  Aliases may not be nested or
+used recursively.  Any command may be overridden by an alias (other than
+the
+ALIAS command itself, of course).
+
+  > alias gbb get bread bag
+  > alias gac get all corpse
+
+Type ALIAS <alias-name> to delete an alias that has already been defined.
+
+  > alias gbb
+
+A semicolon (";") can be used to define multiple actions to be taken with
+a single alias.
+
+  > alias eat get bread bag; eat bread
+
+Note that the 'eat' contained within the eat alias is interpreted as the
+MUD's
+internal eat command; aliases may not be nested or used recursively.  The
+variables $1, $2, ... $9 may be used to represent arguments given with
+an alias.
+
+Examples:
+
+  > alias killem cast 'fireball' $1; cast 'harm' $2
+  > killem fido mage
+
+Would cast fireball on fido, followed by casting harm on mage.  Variables
+may be used repeatedly and in any order:
+
+  > alias helpem cast 'heal' $1; cast 'bless' $1; cast 'armor' $1
+
+The special variable $* represents the entire input line after an alias:
+
+  > alias tr tell rasmussen $*
+  > tr hi there, how are you today?
+  You tell Rasmussen, 'hi there, how are you today?'
+
+#
+NOEXITS
+Toggle the state of the auto-exits display when entering or looking at
+rooms.
+#
+LOOK
+For studying your surroundings. Examples:
+look                                      
+look AT the angel
+look IN the bag
+look to the south   (or just: look south)
+Note that if you LOOK AT CORPSE you will not see its inventory.
+To see what's inside a container (i.e. a corpse) use LOOK IN <OBJECT>.
+See also: EXAMINE, READ
+#
+AC
+"AC" is your armor class.  It is a number from -400+ to 100+, roughly
+defined as follows:
+  60 Naked person
+   -250 Very Heavily armored (Plate mail, and "two shields") 
+  -300 Armored battle tank
+The score command displays your armor class as a number such as -250;
+See also:  SCORE
+#
+OPEN CLOSE LOCK UNLOCK
+To open, close, lock, and unlock doors, of course.
+<open | close | lock | unlock> <door> [direction]
+> open portal
+> lock door
+> unlock door south
+> close gate
+#
+NORTH SOUTH EAST WEST UP DOWN NORTHEAST NORTHWEST SOUTHEAST SOUTHWEST
+To walk in a given direction.
+#
+EAT DRINK SIP TASTE
+If you're hungry or thirsty, these commands are for you!
+> eat bread
+> taste bread
+> drink from cup
+> sip fountain
+#
+WHO
+Lists the people currently in the game.  Some people may be invisible.
+Command-line options can be used to limit the listing.  The parameters
+can be specified on the command-line in any order.
+who [minlev[-maxlev]] [-n sname] [-c classlist] [-s] [-o] [-q] [-r] [-z]
+minlev, maxlev : list only people whose level is at or above minlev, and
+     optionally, at or below maxlev
+-n : list only people whose names or titles contain same [Currently 
+disabled]
+-c : list only people of a certain class, where classlist is any 
+combination
+     of the letters w, m, c, t, p, a, r
+-s : list names in the short form (4 columns of names, without titles or 
+flags)
+-o : list only outlaws (i.e. people with a killer or thief flag)
+-q : list only people who are on the Quest
+-r : list only people who are in your room
+-z : list only people in your zone
+-a : list only people who are assassins (or want to be)
+> who -c wc -s -l 20
+        List, in short form, warriors and clerics at or above level 20
+> who 15-25 -o -z
+        List all outlaws between levels 15 and 25 who are in your zone.
+#
+TITLE
+ Sets the title people see on the WHO list and when you're in the room with
+them.  You can't use parentheses (the "(" and ")" characters) because those
+are reserved for flags.
+Do not abuse this command; if you do, it will be taken from you.
+See also:  FLAGS
+#
+FLAGS
+Players sometimes have FLAGS after their names in the WHO list.  These
+flags are always in parentheses, not brackets or braces.
+FLAG        MEANING
+----------- ---------------------------------------------------------
+(KILLER)        Player is trying to kill other players.  That means you
+                can try to kill him/her without being flagged. [Not used]
+(THIEF)         Player is trying to steal from other players.  Fire away.
+(invis)         Player is invisible; you can see him/her because you are
+                sensitive to the presence of invisible things.
+(writing)       Player is writing on the board; do not disturb.
+(mailing)       Player is writing mail; do not disturb.
+(deaf)          Player has chosen not to hear shouts.
+(notell)        Player has chosen not to accept tells.
+(quest)         Player is participating in a quest currently being run by
+                the Gods.
+(assassin)      Player is a member of the Circle of Assassins.
+(req_assassin)  Player desires to become a member of the Circle of 
+Assassins.
+See also:  STEAL VISIBLE NOSHOUT NOTELL QUEST ASSASSIN
+#
+GIVE
+If you feel benevolent, you may give some stuff to someone in need.
+give <object> <victim>
+give <number> <object> <victim>
+give <number> coins <victim>
+give <number> quest <victim>
+> give all ras
+> give bread onivel
+> give all.bronze romulus
+> give 10 bread keldor
+> give 400 coins aramina
+> give 5 quest xarlok
+
+Note: Giving quest points will take twice that number away from you. This
+is the penalty for trying manipulate the rewards of the gods.
+#
+SAVE
+ Save your persona.  This includes experience points, stats, & gold.
+ You CANNOT load a saved version if you die -- your persona still exists,
+but you may lose CON, and all your objects stay in the game, with
+your corpse.
+ There is a special version of save that will update your reimb file.
+To do this, type: save reimb
+
+See also: CRASHES
+#
+INVENTORY
+ If you're uncertain about what you're carrying, or simply want to check
+that no thieves have got to your backpack.
+See also: EQUIPMENT
+#
+EQUIPMENT
+Gives you a list of all the equipment you're wearing, holding, and 
+wielding.
+See also: INVENTORY
+#
+REMOVE EQUIPMENT
+If you tire of wearing some armor or wielding a weapon.
+> remove boots
+> remove sword
+> remove all
+> remove all.bronze
+See also: WEAR, WIELD
+#
+WEAR
+If you want to wear some clothes, armor or the likes.
+Also, to wear everything in your inventory (or at least try to, as wearing 
+things like loaves of bread is not a good way to win friends and influence
+people) you can type "wear all".
+Optionally, you can specify what part of your body to wear the equipment 
+on.
+> wear boots
+> wear all.bronze
+> wear all
+> wear ring finger
+See also: EQUIPMENT, REMOVE EQUIPMENT
+#
+WIELD
+When you get tired of bashing monsters with your fists, you might consider
+wielding a weapon.
+> wield sword
+See also: EQUIPMENT, REMOVE EQUIPMENT
+#
+SCORE
+ Whenever you want to check whether you're still alive and healthy
+or simply want to see how much money you have left.  Score will tell
+you some vital information you need to know about yourself.
+#
+GSAY GTELL
+(gs, gt)
+Tell something to all the members of your group, even if they're not in the
+room.
+#
+QSAY
+To tell something to everyone on the current Quest.
+See also: QUEST
+#
+ASAY
+ To talk to the assassins.  You must be an assassin to do this.  
+Type noasay to turn off this channel.
+#
+QUI SHUTDOW
+ Just to prevent accidental quittings and/or shutdowns. This command 
+doesn't DO anything, it simply is.
+#
+KILL HIT
+A good way to start a fight.  Not a good idea to hit other players.
+#
+MURDER
+Kill command to hit another player.  To avoid accidental flagging (i.e.
+trying to type "kiss redferne" but accidentally typing "kill redferne")
+Note that it is illegal to kill other players, unless you AND the other 
+player are assassins.
+See also:  FLAGS, Assassins
+#
+CAST
+Cleric/Mage/Anti-Paladin/Paladin
+If you want to throw a spell at someone or something.
+Example : cast 'burning hands' <player>
+   Note that the name of the spell must be enclosed by "'"s.
+See also : help on each individual spell, for example:
+  > help cure ligh
+  > help energy drain
+#
+JUNK
+Use JUNK instead of DROP if you want to keep the world a little cleaner.  
+junk <object>
+junk <number> coins
+> junk cup
+> junk all.bronze
+> junk 500 coins
+See also: DROP DONATE
+#
+DONATE
+ This command takes an object that you no longer want and deposits it in 
+the
+donation room of Midgaard to assist newbies in getting started.  There is
+a 75% chance objects donated will wind up in a donation room in Midgaard,
+and a 25% chance the item will be junked.
+donate <object>
+donate <number> coins
+> donate shield
+> donate all.bread
+> donate 500 coins
+See also: JUNK
+#
+DROP
+ If you lose interest in a carried item, you can drop it on the ground.
+Please do not drop a lot of items in the same room unless it is the dump 
+or the donation room.  If you really aren't interested in the object, 
+please junk or donate it instead of just dropping it.
+drop <item>
+drop all.<item>
+drop all
+drop <number> coins
+> drop bottle
+> drop all.bread
+> drop all
+> drop 1000 coins
+See also: GET JUNK DONATE
+#
+BUY SELL LIST VALUE
+Commands for the shops - very useful too!
+#
+WEATHER
+If you're uncertain whether the sun is shining or the rain is pouring down.
+#
+READ
+When you want to read something.  If you want to read a message on one of 
+the many bulletin boards around town, you have to look at the board and 
+read the message # of the message you want to read.
+#
+SHOPS
+ Shops are places where the adventurer may purchase equipment for his 
+quests,
+and where he may sell his treasure if he should manage to survive the 
+perils
+with his life and sanity intact. Many shops trade only in a specific type 
+of
+merchandise. Thus, a baker may well refuse to buy your armor, even if it 
+is of
+high quality!
+ To some people, the prospect of obtaining the entire inventory of a shop 
+by
+murdering the keeper may appear tempting - but beware: The shopkeepers are 
+often rugged, capable men; roughened by years of trading and, indeed, 
+surviving
+in a world where the only safe prospect is death in the end.
+See also: BUY, SELL, LIST, VALUE
+#
+COMMANDS
+A canonical list of all the known verbs.
+> commands
+#
+PRACTICE PRACTISE
+ Practice is the way you improve your spells and skills. You must go to
+your guildmaster to let him/her help you improve.
+ If you type practice, you will see which skills you can improve upon, and
+how good you already are at these. You can then use practice <skill>, to 
+practice the appropriate skill.
+ You can only practice a certain amount for each level you gain, and you
+do not have to save this, it can be accumulated.
+#
+EXITS
+Gives you a list of the obvious exits from your location. Of course, the 
+less
+obvious ones won't show up here - you have to THINK in order to locate 
+those.
+#
+LEAVE
+If you feel claustrophobic, typing 'leave' will make you use the nearest
+obvious exit to the outside.
+#
+ENTER
+If you type 'enter' while you are outdoors, you'll enter any nearby 
+shelter.
+You can also follow 'enter' with an argument; for example, 'enter window'.
+#
+TIME
+ Gives you the current game time.  Your initial reaction to the output of
+this command may be one of surprise, but you'll get used to it.  You'll
+have to, at any rate, since certain things in the game depend on this
+particular notion of time; the opening hours of the shops, for example.
+#
+BUG TYPO IDEA 
+For making useful suggestions to the Powers that Be.
+{bug | typo | idea} <text>
+> bug the entire game crashes when I type 'put bag in bag'
+> idea make a restaurant in Midgaard
+> typo 'sence' should be spelled 'sense'
+#
+QUIT INNS RENT
+
+ When you get tired of playing, you can leave the game by typing 'quit'.
+Your items will will be stored for when you come back.
+
+See also: FORCERENT QQUIT RQUIT
+#
+QQUIT
+
+ This command will junk unrentable items, excess mail, and excess items 
+by lowest value automaticaly incase you have to quit fast. It is the same 
+thing as getting forcerented.
+
+See also: FORCERENT RQUIT QUIT
+#
+RQUIT
+
+ This command will quit if possible, but if something prevents you from 
+quitting it will give you a detailed report about what qquit will do.
+
+See also: FORCERENT QQUIT QUIT
+#
+FORCERENT
+ Forcerent is an automatic procedure that happens if you are linkless for 
+over an hour.  The game will automatically force you to rent and quit.  
+If you have more then 35 items when you are forcerented then the game
+will drop you down to 35 items getting rid of the stuff you have with
+the lowest value first.
+THERE ARE NO REIMBURSEMENTS FOR FORCERENT
+See also: Rent
+#
+GET TAKE
+ If you find something interesting on the ground, you may use 'get' to pick
+it up.  'get' can also be used to extract items from containers.
+> get sword corpse
+> get all corpse
+> get all all.bag
+> get all.bread all.bag
+See also: DROP PUT
+#
+PUT
+For putting items into containers.
+> put bread bag
+> put all.bread bag
+> put all chest
+See also: GET
+#
+EXAMINE
+May give you some valuable information about an item.
+See also: LOOK
+#
+WRITE
+ In order to write a note, you need a piece of blank paper (or similar), 
+and
+a pen of some sort. You can then type something like "write on the paper 
+with
+the pen", whereupon you'll be asked to type in your note at the keyboard.
+ This command is also used to write on the varios boards throught the 
+Worlds.
+type write <subject name> to write on the boards.
+#
+WAKE SLEEPING REST SIT STAND
+ For changing your position.  If you feel weary, it's probably a good idea
+to sit and rest for a while, or maybe even take a nap.  You must stand 
+after
+you wake up because wake only puts you in a sitting position.
+#
+POUR
+If you want to pour some liquid from one container to another.
+> pour canteen cup
+See also: FILL
+#
+FILL
+ If you want to fill a container you're holding with liquid from a fountain
+in the same room as you.
+> fill canteen fountain
+See also: POUR
+#
+GRAB HOLD
+For getting a good grip on something; a torch, for example.
+> hold torch
+> grab stone
+See also: WEAR, WIELD, EQUIPMENT, REMOVE EQUIPMENT
+#
+FOLLOW
+Use FOLLOW to automatically follow someone else.
+> follow ras
+> follow self
+#
+FLEE
+ If you are in a fight and things are beginning to get a little 
+uncomfortable
+(maybe you are dying), just type 'flee', and presto! you are out of harm's 
+way
+- that is, IF there is a suitable exit nearby, and IF that exit doesn't 
+simply
+bring you from the ashes to the fire... but then, who wants to live 
+forever?
+WARNING: you may have to try to flee from a mob more than once.
+#
+IMPLEMENTOR
+ The most powerful beings in existence.  Bow, worship and honor them when 
+they are near.
+#
+GUILD
+ The Guildhouse is the place where mortals may go to escape the troubles 
+and
+perils of a cruel world. Each guild is heavily guarded, so that only 
+members
+may enter the building. Guilds are also the places where people come to
+learn and practice the skills of their trade.
+See also: PRACTICE
+#
+WHERE
+Tells you the location of a monster, a player or an object.
+Mortals can only "where" monsters or players, and only from their own
+zone.
+Immortals may type 'where' without arguments to see where everybody is.
+> where
+> where torch
+> where dragon
+#
+LEVELS
+Lists the levels of your class. 
+#
+NOREPEAT
+This command toggles whether or not you see your communication echoed
+back to you (i.e., from commands such as SAY, SHOUT, HOLLER, GOSSIP, etc.)
+Useful if you have a slow connection or if it just annoys you.
+#
+BRIEF
+ Toggle "brief mode".  When in brief mode, you don't see the descriptions 
+of
+the room you are in; only the name of the room and the people and objects
+there.  Unless you're very familiar with the area in which you're 
+travelling,
+however, it is not advisable to use this command.  Frequently, you will 
+find
+small but vital hints in the descriptions of the rooms: An extra peek at 
+your
+surroundings could mean the difference between life and death!
+See also: COMPACT
+#
+! ^
+Use ! to repeat the last command typed at the keyboard.
+Use ^ to replace a string from the last command with a new string.  The
+syntax is the same as in csh: "^old-string^replacement"  For example:
+> tell rasmusse Hi there, how are you?
+No-one by that name here.
+> ^rasmusse^rasmussen
+You tell Rasmussen, 'Hi there, how are you?'
+> ^you^you doing^
+You tell Rasmussen, 'Hi there, how are you doing?'
+#
+CONSIDER
+Usage : consider <monster>
+ This command will compare your Level with the <monsters> level. You will 
+then receive a rough estimate, which is by no means exact. Consider does 
+not take hitpoints/special attacks/damage into accout.
+> consider fido
+#
+EXPERIENCE XP
+ Whenever you kill a monster or a player, you earn experience points. When
+enough experience points are earned, you raise a level.
+Things you should know about experience points:
+  * When damaging a monster, you get experience points.
+  * If you kill a monster of higher level than yourself, you get bonus
+    experience points. If killing a monster of lower level you'll gain
+    less experience points
+See Also: GROUP
+#
+GROUP
+Usage : GROUP [player]
+        GROUP all
+ GROUP with no arguments shows the status of your group.  GROUP <player>
+adds or removes <player> from your group.  GROUP ALL adds everyone who is
+following you to your group.
+ If you are a group member, then you will share experience points for 
+killing
+monsters with higer levels getting the most exp out of the kill. 
+Experience 
+points will only be shared among group members that are in the same 
+location, at the time of the killing blow. Sharing is regardless of 
+wherther the group members have been participating in the fight.
+ Group with no argument shows a list of people with whom you are grouped.
+"group all" groups all people who are following you.
+ To make a group, a "leader" must be selected. All members of the group
+must then "follow" the leader using the follow command. The leader should
+NOT follow anyone at all! The leader can now toggle group membership for
+each player in the group, by using "group <player_name>". The leader
+should remember to include himself in the group.
+Example:
+Quifael and Redferne wishes to group with Dragon.
+Quifael : "follow dragon"
+Redferne: "follow dragon"
+(Dragon should be following no one but himself)
+Dragon  : "group dragon"
+Dragon  : "group redferne"
+Dragon  : "group quifael"
+Later when Dragon gets upset at Quifael (because he is sleeping all the 
+time)
+he types : "Group Quifael" to kick Quifael out of the group.
+See Also: XP EXPERIENCE UNGROUP
+#
+UNGROUP
+ UNGROUP can be used by group leaders to disband the entire group, or
+to kick a specific group member out of the group (and stop him/her from
+following the leader).
+> ungroup
+> ungroup homer
+See also: GROUP
+#
+QUAFF POTION POTIONS
+Use : Quaff <Potion>
+Quaff is used to "drink" a (magical) potion.
+#
+RECITE SCROLL SCROLLS
+Use : Recite <Scroll> [Target]
+ Is used to "read" a magical scroll. Target can be an object, character or
+nothing (which may be yourself).
+#
+USE WAND STAFF STAFFS WANDS
+Use : Use <Staff>
+      Use <Wand> <Target>
+ Using staff's will automatically target everybody (or everything) in a
+room, execpt yourself. Therefore staff's are naturally very powerful, and
+yet may be very dangerous to use around other players.
+ Using wands require that you point it at a target, which can be either a
+character or an object.
+ Both staff's and wand's must be HELD in the hand prior to use! (Use the
+grab or hold commands). You must still supply the name of the staff or
+wand to avoid confusion.
+#
+PROMPT DISPLAY
+
+Usage: prompt <string>
+
+You use the prompt command to customize your prompt.
+If you type prompt by itself, it will show your current prompt
+string. "prompt *" will give you a default prompt.
+A "%" in the prompt string specifies a code, which displays information.
+An invalid code will show up as "!". The following codes are available:
+
+ %a     alignment
+ %A     AC
+ %b     colored alignment (red=evil, yellow=neutral, green=good)
+ %c<n>  <n> must be a number between 0 and 7. This changes the color
+        of subsequent promt text.
+        Colors are:
+          0    normal
+          1    red
+          2    green
+          3    yellow
+          4    blue
+          5    magenta
+          6    cyan
+          7    white
+ %d     counter between casting spells that drain you
+ %D     counter between being able to cast
+ %g     number of gold coins
+ %h     current hit points
+ %H     maximum hit points
+ %i     invis level (only aplicable for immortals)
+ %j     current hit points colored by percentage
+ %J     maximum hit points colored by percentage of current hit points
+ %m     current mana
+ %M     maximum mana
+ %n     current mana colored by percentage
+ %N     maximum mana colored by percentage of current mana
+ %r     line return
+ %t     tank hitpoints
+ %v     current movement points
+ %V     maximum movement points
+ %w     current movement points colored by percentage
+ %W     maximum movement points colored by percentage of current move
+ %x     xp needed to level
+ %X     percent of xp still needed for next level
+ %%     prints the '%' character
+#
+ORDER
+Used for ordering pets and charmed people to do your evil bidding.  You
+can order everyone under your command with "order followers".
+order <character> <command>
+order followers <command>
+> order puppy eat bread
+> order cityguard sleep
+See also:  CHARM
+#
+BANK WITHDRAW DEPOSIT BALANCE
+Commands to take money out of the bank, put money in the bank, or see how
+much money you have in the bank.  Can be used at any branch of the First
+National Bank of CircleMUD (wherever you see an automatic teller machine).
+> deposit 400
+> withdraw 1000
+> balance
+#
+NOSUMMON
+Due to problems we've had with players killing other players by summoning
+them to Bad Places, all characters now have SUMMON PROTECTION turned on by
+default.  This prevents people from summoning you and gives you a warning
+message if someone tries.  If you want to let someone summon you (i.e. if
+someone wants to summon you for a legitamate reason), type NOSUMMON to turn
+off summon protection.  You can then type NOSUMMON again to turn protection
+back on.
+#
+WIMP WIMPY
+Use the WIMP command to automatically wimp out of a fight.
+WIMP 35 will make your character automatically flee a fight if he/she has
+        less than 35 hit points.
+WIMP 0  will turn off wimpy mode.
+WIMP    will show you your current wimp status.
+
+See also:  TOGGLE
+#
+REPEAT
+Use REPEAT to control whether or not the mud echoes your communication 
+commands to you (i.e. the MUD will tell you what you just said, group-said,
+shouted, or told someone).  This is useful to verify what you just said, 
+but
+can be annoying if you have a slow link.
+See also:  SAY GSAY TELL SHOUT HOLLER
+#
+TOGGLE
+TOGGLE shows you the current values of various toggles available on the 
+MUD.
+This command CAN NOT be used to change these values (see related commands.)
+All of these toggles remain the same until you change them; i.e. they are
+saved when you quit or rent.
+See Also:  DISPLAY BRIEF COMPACT NOTELL NOSHOUT NOSUMMON QUEST REPEAT WIMP
+#
+SPLIT
+Usage:  SPLIT <amount to split>
+SPLIT is used to split money among people in your group who are in the same
+room as you.  If you are in a group with 4 other people, all of whom are in
+the same room with you, and you type SPLIT 100, you will give each of the
+other 4 group members 20 coins each.  (100 coins is split 5 ways; you keep
+your share and give everyone else their share).
+See also: GROUP FOLLOW
+#
+ASSIST
+Usage: ASSIST [person in need]
+If Quifael is being beaten senseless by a warg and you feel brave enough
+to help him, type ASSIST QUIFAEL to hit the warg.  Note that the warg will
+keep hitting Quifael; assist only makes you start to fight whomever you're
+trying to assist.  If you are a member of a group, and you want to assist
+another group member simply type ASSIST.
+> assist quifael
+See also:  RESCUE, FLEE
+#
+NOSHOUT
+NOSHOUT toggles whether or not you hear shouts.  (deaf) will appear after
+your name in the WHO list.
+See also: FLAGS SHOUT WHO
+#
+NOTELL
+Use NOTELL if you wish to prevent other players from using "tell" to
+communicate with you.  (notell) will appear after your name in the WHO
+list if you have notell on.
+See also: FLAGS TELL WHO TOGGLE
+#
+LINK
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+II. If your link jams (freezes), you have a problem.  The only solution we
+    can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.
+#
+COMPACT
+This command toggles the extra blank line output to your screen after each
+command.  Useful if you have a small display.
+See also: BRIEF
+#
+VISIBLE
+Use this command to break your spell of invisibility before it expires.
+#
+EMOTE :
+Show people what you're feeling.  The shorthand is ":".
+"emote <string>" will display your name, then the string.  For example,
+if your name is "Quifael",
+> emote is feeling very sad today.
+will display:
+Quifael is feeling very sad today.
+See also: SOCIALS
+#
+MAIL CHECK RECEIVE
+The commands used by the Midgaard Mail System (MMS) are MAIL, CHECK, and
+RECEIVE.  These commands can only be used while in an Official MMS Post
+Office.
+To write mail to Quifael:
+> mail quifael
+To check and see if you have any mail waiting:
+> check
+To ask the Postmaser to give you your mail, if you have any waiting:
+> receive
+Stamps cost 150 coins.
+#
+SAY TELL ASK WHISPER SHOUT YELL HOLLER '
+If you consider communicating with other beings, you might be understood
+better if you start your sentences with either say, tell, whisper or shout.
+<say | shout | holler> <string>
+<tell | whisper | ask> <player> <string>
+> say Hey, does anyone know how to get to Oz?
+> tell uncle hi, how are you?
+You can use ' as a shorthand for say, as in: ' hello there.
+Shout broadcasts your message to everyone is your geographic zone.  Holler
+broadcasts to everyone in the game but costs 20 movement points.  You must
+be level 2 before you can use shout and yell.
+See also: GOSSIP AUCTION GSAY NOREPEAT QSAY
+#
+AUCTION GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS
+These are channels reserved for specific purposes.  Messages on these
+channels reach everyone who is monitoring them.  You must be at least level
+three to use these channels.
+auction <string>
+gossip <string>
+grats <string>
+> auction short sword -- minimum bid 100k
+> gossip Hey, is that a short sword on your belt or are you happy to see 
+me?
+> grats LEVEL!!!!!!!!
+> grats GRATS!!!!!!!
+See also:  SAY GSAY NOREPEAT
+#
+SOCIALS
+Socials are commands used to show your affective state to others.  The
+actor, victim and bystanders may receive different messages.  Generally,
+social commands are used only to express emotion, but it is possible that
+some mobs (or players) will take action based on the social.
+<social> [<victim>]
+> shake homer
+> applaud marge
+> stare 
+The SOCIALS command generates a canonical listing of all available socials.
+> socials
+See also: EMOTE
+#
+INFO NEWS POLICY VERSION
+These commands show you important information about Worlds of 
+Destiny.  It is a good idea to read them every once in a while.
+info     - useful information about the game for beginners
+news     - general information about the mud
+policy   - policies on topics like playerkilling
+version  - displays the current Ashes to Ashes version number
+#
+CIRCLE CIRCLEMUD CREDITS
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code
+unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another
+throughout
+the course of its development.  Although it's impossible for me to
+remember
+them all, I'd like to extend special thanks to certain people:
+
+  -- Jeff Fink, for submitting a veritable mountain of excellent code.
+  -- Chris Epler and Chris Herringshaw for extensive beta-testing and bug
+     reporting.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world
+files.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions.
+  -- Jean-Jack Riethoven for porting the code to the Amiga, and David
+Carver
+     for porting it to OS/2.
+  -- Bill Bogstad and Tim Stearns for allowing Circle to exist at JHU.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave &
+Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being 
+     there in the very early days of Circle's development.
+  -- And, of course, Sharon, Ben, Erica, Aly, and Josh, for keeping me
+sane.
+
+...plus everyone else in the Circle community who has submitted material!
+Thanks everyone!
+
+  Anonymous FTP:  ftp.cs.jhu.edu:pub/CircleMUD
+Author's E-Mail:  jelson@jhu.edu
+            URL:  http://www.cs.jhu.edu/~jelson/circle.html
+   Mailing List:  circle@pvv.unit.no
+#
+WIZLIST IMMLIST
+Lists the most powerful beings on the MUD.
+#
+QUEST
+This simple toggle command merely informs the Powers that Be that you
+wish to participate in the currently running Quest.  If an immortal
+is running a Quest and needs to know who wishes to participate, he/she
+will ask players to turn on their Quest flags using this QUEST command
+if they are interested in the Quest.  It also allows you to listen in on
+the quest channel and receive information specific to the quest.
+> quest
+See also:  QSAY
+#
+REPORT
+This command sends a report of your current and max hp and mana to your
+group.  You can use this command to let potential rescuers know how
+low your hps are without forcing them to use the "group" command.  It is
+designed as a convenience for groups with members who get lag or have slow
+modems.
+> report
+#
+DIAGNOSE
+diagnose
+diagnose <character>
+The DIAGNOSE command tells you how wounded a character looks.  If you are
+fighting someone, you can use DIAGNOSE with no arguments to diagnose the
+person you're fighting.
+> diagnose
+> diagnose rasmussen
+#
+HELP
+Following help is available:
+HELP help       - This text.
+HELP            - A list of some of the most useful commands.
+Help searches for a partial match of the entered word, including any
+spaces that may follow the word.
+Example:
+> 'help magic mis'
+    will find the help text for the magic missile spell.
+> 'help mag '
+   will not match anything.
+> 'help mag'
+   will match 'magic user' or 'magic missile' depending on first
+   occurence in the help file.
+See also:  COMMANDS
+#
+CLEAR CLS
+Clears the screen on many terminals.
+#
+ANSI "COLOR"
+If you have a color-capable terminal and wish to see useful color-coding
+of information, use the COLOR command to set the level of coloring you see.
+> color off
+This command disables all color.
+> color sparse
+> color normal
+> color complete
+These three commands turn color on to various levels.  Experiment to see
+which level suits your personal taste.
+Using color will slow down the speed at which you see messages VERY 
+slightly.
+The effect is more noticable on slower connections.  Even if you have
+color turned on, non-colorized messages will not be slowed down at all.
+See also: COLORSPRAY
+#
+SPAM
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+This is spam. Not fun is it?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+SO WHAT DO YOU THINK OF SPAM NOW? IT GETS ANNOYING DOESN'T IT?
+#
+$
+

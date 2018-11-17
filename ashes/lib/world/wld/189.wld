@@ -1,0 +1,1489 @@
+#18900
+Inside the Eastern Gate~
+You are standing inside the Eastern Gate of the Garrison. You are impressed
+by the design of the fortress and feel sorry for anyone who would ever
+have to attack it. The walls are almost four feet thick and the huge steel
+gate coupled with the wrought iron drawbridge make it seemingly impossible
+to bust into this place. You see a tall tower to your west and a small
+road running north-south along the eastern wall.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18920
+D1
+~
+drawbridge draw dra bridge bridg brid bri~
+1 -1 18511
+D2
+~
+~
+0 -1 18922
+D3
+~
+~
+0 -1 18901
+S
+#18901
+Base of the Tower~
+There is a large mound of hard-packed dirt here which forms the base of
+what appears to be a look-out tower. The tower is quite high and would
+probabally give an unobstructed view for miles. North of here is a
+small building with a large red cross painted on it, while to the south
+is another building which looks like it houses soldiers. To the west you
+spot a well and to your east lies the main gate for the Garrison.
+~
+189 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18912
+D1
+~
+~
+0 -1 18900
+D2
+~
+~
+0 -1 18908
+D3
+~
+~
+0 -1 18904
+D4
+~
+~
+0 -1 18902
+S
+#18902
+On the Tower~
+You are standing on a small platform half way up the look-out tower. You
+can see the layout of the Garrison below you. You can climb back down from
+here or continue upwards into the top of the tower.
+~
+189 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 18903
+D5
+~
+~
+0 -1 18901
+S
+#18903
+In the Watch-Tower~
+You are standing in the top of the look-out tower for the Garrison. The 
+view is incredible from up here, you can see for miles and miles without
+any obstruction blocking your view. You notice that the area surrounding
+the Garrison has been cleared for a distance of at least 200 yards all
+around so that anyone approaching the fortress can be detected with
+ease.
+~
+189 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 18902
+S
+#18904
+The Well~
+You are standing beside a deep well which is used as the main water supply
+for the Garrison. Smells of what could be food drift to you from the south. 
+To the north you spot a long, low building, which looks like it acts as
+sleeping quarters for the soldiers. To the west you see a path that runs
+along the western wall.
+~
+189 16 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18911
+D1
+~
+~
+0 -1 18901
+D2
+~
+~
+0 -1 18906
+D3
+~
+~
+0 -1 18905
+S
+#18905
+West Wall~
+You are standing on a small road which runs east through the center of
+the Garrison, and north-south along the western wall. To the east lies
+the Garrison's water supply and the sounds of hand-to-hand combat drift
+to you from the north.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18919
+D1
+~
+~
+0 -1 18904
+D2
+~
+~
+0 -1 18921
+D5
+~
+secret~
+2 18901 18938
+S
+#18906
+Mess Hall~
+The smell of food hits you as you enter the mess hall. This is where the
+soldiers of the Garrison get together to eat while they are stationed
+here. There are 3 long tables positioned side by side near the east wall and
+a smaller table that looks like it is for officers only near the west wall.
+At the south end of the mess hall you see a long table covered with the
+remains of the last meal served in here.
+~
+189 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18904
+D5
+~
+Locker lock~
+1 -1 18907
+S
+#18907
+Food Stores~
+You find yourself in a cool cellar which looks like it was constructed
+to store various food supplies for the Garrison. You see that shelves have
+been built into three out of the four walls. The fourth wall is stacked
+high with barrels. The shelves look much more bare than you would expect
+for a Garrison of this size and you suppose that a shipment of goods must
+be due soon. Large pots and other cooking instruments hang from various
+hooks in the ceiling.
+~
+189 0 0
+0d0+0 0 0
+D4
+~
+locker lock~
+1 -1 18906
+S
+#18908
+Officers Quarters~
+You have found your way into the officers quarters. The room is less 
+extravagant than you would have imagined it to be. It appears to be more
+for functional purposes then to provide a haven of luxury for the officers.
+There are single beds along the east and west walls of a size not to much
+greater then one would find in regular barracks. A door leads to the south.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18901
+D2
+~
+door~
+2 18913 18909
+D5
+~
+trapdoor door trap~
+2 18913 18910
+S
+#18909
+Officers Lounge~
+You are standing in the officers lounge. It is a comfortable looking room
+where the officers can get together to relax and trade stories. There
+are some very comfortable looking chairs surrounding a round table.
+The lounge is not overly extravagent but appears to be a suitable reward
+for the men who have reached a high enough rank to be able to make use of
+it. To the north is the officers barracks.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+door~
+2 18913 18908
+S
+#18910
+Strategic Planning ~
+You are in a dimly lit room which appears to be used for strategic planning
+purposes by the officers of the Garrison. The walls are dotted with maps and
+the main table is covered with a map and various measurement tools.
+~
+189 9 1
+0d0+0 0 0
+D4
+~
+trapdoor trap door~
+1 -1 18908
+S
+#18911
+The Barracks~
+You are inside the Garrison barracks. The building appears as though it 
+was not designed for much more than sleeping in. The ceiling is quite
+low and the building is very long. There are bunk beds arranged in rows
+across the entire room. The sound of horses drifts in to this building
+from the North.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+backdoor back door~
+1 -1 18913
+D2
+~
+door~
+1 -1 18904
+S
+#18912
+Medical Station~
+You are inside the Garrison's medical building. Various potions and salves
+line the shelving on the walls. A number of various medical instruments,
+at least that's what they appear to be, are lined neatly on a counter along
+the west wall. From the north you can hear the moaning of someone in pain.
+~
+189 6168 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18914
+D2
+~
+door~
+1 -1 18901
+S
+#18913
+Horse pen~
+The smell of horses and hay is overpowering as you enter the horse pens.
+The pens appear to be well maintained and surprisingly clean. There are
+two large stalls along each of the east and west walls that look as though
+they could hold up to a dozen horses each. Hay is stacked in lofts above
+each stall.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18916
+D2
+~
+~
+0 -1 18911
+S
+#18914
+Recovery Area~
+You are in the room in which the more seriously injured are placed so that
+better care may be taken of them. There are four beds in this room for 
+the recovery of injured soldiers. An atmosphere of discomfort and pain
+hangs about this room. You can feel death in the air here.
+~
+189 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18912
+S
+#18915
+North-West Corner~
+You are standing in the north-west corner of the compound. A road which
+runs beside the Garrison wall extends to the east and south. A small turret
+has been built into the corner of the encampment to provide a position
+from which the fortress can be defended and to supplement the main watch
+tower for look-out purposes.
+~
+189 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18916
+D2
+~
+~
+0 -1 18919
+D4
+~
+~
+0 -1 18927
+S
+#18916
+North Wall~
+You are on a small road which runs east-west along the northern wall. The
+smell and sounds of horses drift to you from the south. You notice that
+this area and the area to the east have been widened and covered with dirt
+to provide a small area for horse training. There are barrels scattered
+about for riding practice as well as some training dummies for practicing
+attacks while on horseback.
+~
+189 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18917
+D2
+~
+~
+0 -1 18913
+D3
+~
+~
+0 -1 18915
+S
+#18917
+North Wall~
+You are on a small road which runs east-west along the northern wall.
+You notice that this area and the area to the west have been covered with 
+dirt on either side of the road to provide an area for training soldiers
+in the skills of horse back riding and attacking while on horses.
+To your south is the rear of the medical buildings.
+~
+189 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18918
+D3
+~
+~
+0 -1 18916
+S
+#18918
+North-East Corner~
+You are standing in the north-east corner of the compound. A road which
+runs beside the Garrison wall extends to the west and south. A small turret
+has been built into the corner of the encampment to provide a position
+from which the fortress can be defended and to supplement the main watch
+tower for look-out purposes.
+~
+189 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18920
+D3
+~
+~
+0 -1 18917
+D4
+~
+~
+0 -1 18928
+S
+#18919
+West Wall~
+You are on a small road which runs north-south along the western wall.
+There is a small area beside the road which is used for the training of
+soldiers in hand-to-hand combat. To your east is the side of the Garrison
+barracks and you can hear the sound of horses from the north-east.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18915
+D2
+~
+~
+0 -1 18905
+S
+#18920
+East Wall~
+You are on a small road, almost a path, which runs north-south along
+the eastern wall. A large clearing has been made on both sides of the
+road to provide an area for sword training. Training swords are stacked
+in an inset in the side of the eastern wall and training dummies are
+set up on either side of the road. 
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18918
+D2
+~
+~
+0 -1 18900
+S
+#18921
+West Wall~
+You are standing on a small road which runs north-south along the western
+wall of the Garrison. To the north-east is the side of the mess hall and
+you can see the main watch tower looming above the mess hall just beyond it.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18905
+D2
+~
+~
+0 -1 18923
+D6
+~
+door~
+1 -1 18906
+S
+#18922
+East Wall~
+You are on a small road, almost a path, that runs north-south along
+the eastern wall. This area couples as an archery practice area as you
+notice that various archery targets have been set up along the wall.
+To your west you notice the sides of two well constructed buildings.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18900
+D2
+~
+~
+0 -1 18926
+S
+#18923
+South-West Corner~
+You are standing in the south-west corner of the compound. A road which
+runs beside the Garrison wall extends to the north and east. A small turret
+has been built into the corner of the encampment to provide a position 
+from which the fortress can be defended and to supplement the main watch
+tower for look-out purposes.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18921
+D1
+~
+~
+0 -1 18924
+D4
+~
+~
+0 -1 18929
+S
+#18924
+South Wall~
+You are on a small road which runs east-west along the southern wall of
+the Garrison. There are some benchs and the remains of a small campfire
+on the north side of the road. This looks like some sort of meeting place
+for off-duty soldiers.
+~
+189 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18925
+D3
+~
+~
+0 -1 18923
+S
+#18925
+South Wall~
+You are on a small road which runs east-west along the southern wall.
+The rear of the officers lounge is to your north and beyond that you
+can see the main watch tower rising above the ground in the center of
+the Garrison.
+~
+189 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18926
+D3
+~
+~
+0 -1 18924
+S
+#18926
+South-East Corner~
+You are standing in the south-east corner of the compound. A road which
+runs beside the Garrison wall extends to the north and west. A small turret
+has been built into the corner of the encampment to provide a position 
+from which the fortress can be defended and to supplement the main watch
+tower for look-out purposes.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18922
+D3
+~
+~
+0 -1 18925
+D4
+~
+~
+0 -1 18930
+S
+#18927
+In the Turret~
+You are standing in a turret built into the corner of the Garrison. From
+this vantage point you have an unobstructed view looking away from the
+encampment for at least a few miles. Below you on the other side of the 
+wall, you can look down into the deep moat which is lined with sharpened
+spikes. Along the wall in either direction you notice that sharp rocks
+and small bits of metal have been embedded into the top of the wall. You
+also notice that short, sharp spikes are attached to the top of the wall
+at an angle facing away from the Garrison.
+~
+189 8 1
+0d0+0 0 0
+D5
+~
+~
+0 -1 18915
+S
+#18928
+In the Turret~
+You are standing in a turret built into the corner of the Garrison. From
+this vantage point you have an unobstructed view looking away from the
+encampment for at least a few miles. Below you on the other side of the 
+wall, you can look down into the deep moat which is lined with sharpened
+spikes. Along the wall in either direction you notice that sharp rocks
+and small bits of metal have been embedded into the top of the wall. You
+also notice that short, sharp spikes are attached to the top of the wall
+at an angle facing away from the Garrison.
+~
+189 8 1
+0d0+0 0 0
+D5
+~
+~
+0 -1 18918
+S
+#18929
+In the Turret~
+You are standing in a turret built into the corner of the Garrison. From
+this vantage point you have an unobstructed view looking away from the
+encampment for at least a few miles. Below you on the other side of the 
+wall, you can look down into the deep moat which is lined with sharpened
+spikes. Along the wall in either direction you notice that sharp rocks
+and small bits of metal have been embedded into the top of the wall. You
+also notice that short, sharp spikes are attached to the top of the wall
+at an angle facing away from the Garrison.
+~
+189 8 1
+0d0+0 0 0
+D5
+~
+~
+0 -1 18923
+S
+#18930
+In the Turret~
+You are standing in a turret built into the corner of the Garrison. From
+this vantage point you have an unobstructed view looking away from the
+encampment for at least a few miles. Below you on the other side of the 
+wall, you can look down into the deep moat which is lined with sharpened
+spikes. Along the wall in either direction you notice that sharp rocks
+and small bits of metal have been embedded into the top of the wall. You
+also notice that short, sharp spikes are attached to the top of the wall
+at an angle facing away from the Garrison.
+~
+189 8 1
+0d0+0 0 0
+D5
+~
+~
+0 -1 18926
+S
+#18931
+Garrison Distribution~
+~
+189 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18905
+D1
+~
+~
+0 -1 18915
+D2
+~
+~
+0 -1 18917
+D3
+~
+~
+0 -1 18920
+D4
+~
+~
+0 -1 18922
+D5
+~
+~
+0 -1 18925
+D6
+~
+~
+0 -1 18929
+D7
+~
+~
+0 -1 18911
+D8
+~
+~
+0 -1 18906
+D9
+~
+~
+0 -1 18901
+S
+#18938
+Along the West Wall~
+~
+189 0 0
+0d0+0 0 0
+D4
+~
+secret~
+1 -1 18905
+S
+#18951
+The Temple of Astalon~
+When you enter this temple, you notice the very solemn feeling of
+spirit here. Astalon is the God of justice, and rightfully so.
+He is protector of innocence, and vengeance for the meek. This
+temple is almost barren, excepting the candlabras that provide
+the glimmering light.
+~
+189 8 1
+0d0+0 0 0
+D8
+~
+~
+0 -1 18954
+S
+#18952
+The Altar Room~
+This room is decorated much like the entrance of the temple, excepting
+the altar and large statue of the beautiful Killian, which seems to be
+made of water! The altar stands against the far wall, and in which you
+see offerings of gold and spice.
+~
+189 8 1
+0d0+0 0 0
+D5
+~
+~
+0 -1 18953
+S
+#18953
+The Inner Sanctum~
+This is the room where the most devout of the followers of Killian
+offer themselves in exchange for her blessings. This room is a sacred
+place to her followers. Glowing with bright light, resting upon
+another altar rest the first raindrop that fell upon Midkemia, and
+the first sapling of a great Nareth, the first tree. These are obviously
+well protected by her followers.
+~
+189 8 1
+0d0+0 0 0
+D3
+A black curtain hangs upon the wall. ~
+curtain~
+1 -1 18973
+D4
+~
+~
+0 -1 18952
+S
+#18954
+Before the Altar of Astalon~
+As you step up to the altar, you begin searching thru your life 
+wondering if you have wronged anyone. You begin to doubt yourself
+as you know you have, but will he take offense and reek havoc upon
+your entering his temple? You see his statue; a strong god, with
+a stern face and an accusing look. Perhaps you should make an offering,
+for you are beginning to shake.
+~
+189 8 1
+0d0+0 0 0
+D5
+~
+~
+0 -1 18955
+D7
+~
+~
+0 -1 18951
+S
+#18955
+The Inner Sanctum of Astalon~
+If you aren't pure of heart, you really shouldn't be here. This lavishly
+furnished room is very bright and clean. Chairs made from rosewood and
+silk rest against the wall, and are decorated with golden inlay. A circle
+is marked in silver in the floor, and is about 5 yards in diameter.
+Swords and rapiers made from exquisite materials hang upon the walls.
+~
+189 8 1
+0d0+0 0 0
+D4
+~
+~
+0 -1 18954
+D7
+A black curtain is hung upon the wall. ~
+curtain~
+1 -1 18974
+S
+#18956
+Before the Altar of Fire~
+You step up the the altar as flames jump from below the floor in
+front of you. This is more of a pit of hell than an altar, you think.
+It looks as if stairs lead down into the altar. You see melted gold
+coins on the steps, thrown in by soldiers or parents of soldiers, or
+by smiths who ask for a good livelyhood. Huge spears of gold are
+burning on both sides of the altar, but do not melt!
+~
+189 8 1
+0d0+0 0 0
+D5
+~
+~
+0 -1 18957
+S
+#18957
+Within the Altar of Fire~
+You gather all of your courage as you step into the flames. You step
+through on the other side to find an arsenal! A five yard golden ring
+inlaid upon the floor marks the site of divine instruction. Weapons
+of all kinds line the walls, and some strange articles that you cannot
+identify are scatter with the others. You feel a sense of strength
+and an urge to exert force upon something pervade you. Although
+flames burn everywhere in the room to provide bright light, it is
+comfotable cool here.
+~
+189 8 1
+0d0+0 0 0
+D0
+A black curtain is hung upon the wall .~
+curtain~
+1 -1 18975
+D4
+~
+~
+0 -1 18956
+S
+#18958
+Before the Altar~
+You have pushed your way past the columns and silk, and now stand before
+the altar of Banath. It is an upraised stone pillar, undecorated, with
+only a few silver peices lying upon it. Thieves sure are stingy, unless
+Banath endows them with a large booty, when they customarliy leave 
+twenty percent to thier patron God. Circular obsidian stairs lead down
+into darkness to your left.
+~
+189 8 1
+0d0+0 0 0
+D5
+~
+~
+0 -1 18959
+S
+#18959
+The Sanctum of Banath~
+You have entered the Sanctum of the Thieves, and thier God Banath.
+This is where divine knowledge comes to those faithful to Him.
+A golden cirlce is inlaid upon the floor and marked in quarters
+with jewels. The room is dark and lit only woth four candles, one
+burning in each corner.
+~
+189 8 1
+0d0+0 0 0
+D4
+~
+~
+0 -1 18958
+D6
+A black curtain hangs upon the wall. ~
+curtain~
+1 -1 18976
+S
+#18960
+In the Great Hall~
+This huge hall is built over the temple of Lims-Kragma, and is just
+as lavish as the entrance. Tapestries depicting a representation of
+the chaos wars are hung upon the walls, and gold and silver columns
+hold the marble ceiling above your head. Light eminates from the
+walls and floor, flooding the temple.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18961
+S
+#18961
+Before the Altar of Ishap~
+A huge ivory altar stands at the end of the hall, covered in gold and
+jewels as offerings to the Highest One. It seems no one is brave enough
+to touch the riches piled high upon it, for Ishap may not appreciate
+theft from his followers.
+~
+189 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18960
+D5
+~
+~
+0 -1 18962
+S
+#18962
+A Winding Ivory Staircase~
+This exquisite stair leads you further down into the earth. The bright
+light still permeates your surroundings. As you go deeper, a calm 
+sweeps over you, and you feel as if you are under some kind of spell.
+~
+189 8 1
+0d0+0 0 0
+D4
+~
+~
+0 -1 18961
+D5
+~
+~
+0 -1 18963
+S
+#18963
+The Inner Sanctum of Ishap~
+Books upon books upon books line the walls. Scrolls by the hundreds are
+neatly placed in holding shelves and are labeled by volume. Candles burn
+to provide light for those who dwell in the knowledge of Ishap. This 
+place is extremly calm and serene. Knowledge flows from this room
+like a waterfall.
+~
+189 8 1
+0d0+0 0 0
+D2
+A black curtain is hung upon the wall here. ~
+curtain~
+1 -1 18978
+D4
+~
+~
+0 -1 18962
+S
+#18964
+The Hall Behind the Statue of the Goddess of Death~
+This hall has no decorations of any kind. It is carved from the underground
+stone that the city rests on. Small orbs of light hover scant inches from
+the ceiling at five foor intervals to provide a dim light.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18972
+S
+#18965
+The Hall Behind the Statue of the Goddess of the Natural World~
+This hall has no decorations of any kind. It is carved from the underground
+stone that the city rests on. Small orbs of light hover scant inches from
+the ceiling at five foor intervals to provide a dim light.
+~
+189 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18973
+S
+#18966
+The Hall Behind the Statue of the God of Justice~
+This hall has no decorations of any kind. It is carved from the underground
+stone that the city rests on. Small orbs of light hover scant inches from
+the ceiling at five foor intervals to provide a dim light.
+~
+189 8 1
+0d0+0 0 0
+D8
+~
+~
+0 -1 18974
+S
+#18967
+The Hall Behind the Staute of the God of War~
+This hall has no decorations of any kind. It is carved from the underground
+stone that the city rests on. Small orbs of light hover scant inches from
+the ceiling at five foor intervals to provide a dim light.
+~
+189 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18975
+S
+#18968
+The Hall Behind the Statue of the God of Thieves~
+This hall has no decorations of any kind. It is carved from the underground
+stone that the city rests on. Small orbs of light hover scant inches from
+the ceiling at five foor intervals to provide a dim light.
+~
+189 8 1
+0d0+0 0 0
+D9
+~
+~
+0 -1 18976
+S
+#18969
+The Hall Behind the Statue of the God of Life and Healing~
+This hall has no decorations of any kind. It is carved from the underground
+stone that the city rests on. Small orbs of light hover scant inches from
+the ceiling at five foor intervals to provide a dim light.
+~
+189 8 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 18977
+S
+#18970
+A Hall Leading North~
+This hall has no decorations of any kind. It is carved from the underground
+stone that the city rests on. Small orbs of light hover scant inches from
+the ceiling at five foor intervals to provide a dim light.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18978
+D2
+~
+~
+0 -1 18971
+S
+#18971
+A Stair Circling the Domed Hall~
+You walk upon the stairs that lead into the halls of Ishap. The stairs
+are carved from the stone of the hall, and you can see everything from
+here, and it is quite a sight.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18970
+S
+#18972
+The Priest's Domicile~
+This is a sparselt furnished room. Upon the floor lie soft rugs.
+This is where the priests of the Goddess Lims-Kragma, the Goddess
+of death, reside. All of her faithful and devoted servants wear black
+robes which cover thier faces, which are a pale white. The High
+Priestess presides over this place, for she is the nearest to her God.
+~
+189 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18981
+D2
+~
+~
+0 -1 18964
+D3
+~
+~
+0 -1 18982
+S
+#18973
+The Priest's Domicile~
+This is the residence of the faithful to Killian, Goddess of the forest
+and fields and sea. A fountain burbles next to the wall, where plants
+grow in the bright light of the magic. you notice that the floor here
+is soil, instead of rock, and that a breeze calmly floats by you.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18983
+D1
+A black curtain hangs upon the wall. 
+~
+curtain~
+1 -1 18953
+D2
+A black curtain is hung upon the wall. 
+~
+curtain~
+1 -1 18984
+D3
+~
+~
+0 -1 18965
+S
+#18974
+The Priest's Domicile~
+Here is the living quarters of the priests of Astalon, God of justice.
+You see two torches burning on either side of an altar, which has
+a set of golden scales wieghted evenly upon it. Pillows and rugs
+line the marble floor.
+~
+189 8 1
+0d0+0 0 0
+D6
+~
+~
+0 -1 18985
+D7
+~
+~
+0 -1 18966
+D8
+A black curtain is hung upon the wall. ~
+curtain~
+1 -1 18955
+D9
+~
+~
+0 -1 18986
+S
+#18975
+The Priest's Domicile~
+This domicile seems very warm. The floors are made from granite, and
+a huge fire bellows in an extraordinarily lagre fireplace. Upon the walls
+hang numerous weapons. Torches burn on the walls all around the room.
+You can hear the clanks of metal against metal from another room.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18967
+D1
+~
+~
+0 -1 18987
+D2
+A black curtain is hung upon the wall. ~
+curtain~
+1 -1 18957
+D3
+~
+~
+0 -1 18988
+S
+#18976
+The Priest's Domicile~
+As you enter the dimly lit room, your eyes begin to focus. You notice
+a large ebony table with tem chairs surrounding it. Upon the table 
+rests food and drink. Daggers seem to be the eating utensils here.
+You see a large chest, locked with a huge iron lock.
+~
+189 8 1
+0d0+0 0 0
+D6
+~
+~
+0 -1 18968
+D7
+~
+~
+0 -1 18990
+D8
+~
+~
+0 -1 18989
+D9
+A black curtain hangs upon the wall. ~
+curtain~
+1 -1 18959
+S
+#18977
+The Priest's Domicile~
+This domicile is covered wall to wall in books and scrolls. These
+priests seem enamored by knowledge, for they are all studying the
+collection of works. Desks are placed face to face in the center of the
+room, and share a common large candelabra.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18992
+D1
+~
+~
+0 -1 18969
+D2
+~
+~
+0 -1 18991
+S
+#18978
+The Priest's Domicile~
+This domicile is sparsely furnished. The floor is made of marble and
+has candle holders on the wall made from gold. A large tapestry
+hangs on the far wall, with symbols that you cannot decipher.
+~
+189 8 1
+0d0+0 0 0
+D0
+You see a black curtain hung on the wall. ~
+curtain~
+1 -1 18963
+D1
+~
+~
+0 -1 18980
+D2
+~
+~
+0 -1 18970
+D3
+~
+~
+0 -1 18979
+S
+#18979
+A Small Chapel~
+This is where the priests of Ishap make thier vows and devotions
+to thier God. This is a place of personal growth and premonitions.
+Priests gain insight and knowledge here and sometimes even have 
+visions.
+~
+189 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18978
+S
+#18980
+The Priests' Sleeping Quarters~
+This rooms is very unprivate. Mats lie on the floor where the priests
+sleep at night, or rest during the day. You see about forty mats
+here; there must be many od Ishap's servants here.
+~
+189 8 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 18978
+S
+#18981
+The Priests' Sleeping Quarters~
+This room has no lighting whatsoever. Using your light source, you see
+single beds, with black drapes hanging over them, lined against the
+walls. There seems to be thirty beds here. Your light glimmers
+off of the marble floor with golden inlay and you wonder how anyone
+could live in such darkness.
+~
+189 9 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 18972
+S
+#18982
+A Small Chapel~
+This chapel's walla are coated entirely of obsidian. The light from
+the two candles sitting on the small altar glimmer off the walls like
+you are surrounded by diamonds. A small stone sits in frony of the altar
+for the priests to kneel upon when offering thier devotions.
+~
+189 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18972
+S
+#18983
+A Small Chapel~
+This chapel is dedicated to Killian, by the priests who are devoted to
+her. This chapel is like a large atrium, with a fountain burbling
+from the wall into a pool that takes up half of the floor space in the
+room. PLants grow all around the pool, and small birds hop from
+branch to branch of the larger plants. You can see how the preists
+con be so serene here.
+~
+189 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18973
+S
+#18984
+The Priests' Sleeping Quarters~
+This room has plants growing all over it. You see where the priests
+have been sleeping upon the soil. The room is cool, and a breeze flows
+through the room and the light isnt too bright, when you look up, it
+seems that you can see the night sky, although you know that you are
+underground.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18973
+S
+#18985
+A Small Chapel~
+This chapel is made entirely of marble. That includes the small
+altar and offering stone on the far wall. Other than that, this
+rooms is barren,
+~
+189 8 1
+0d0+0 0 0
+D9
+~
+~
+0 -1 18974
+S
+#18986
+The Priests' Sleeping Quarters~
+This room is as barren as the rest, with simple beds lining the walls.
+Like the others, it is made compltely of marble. Obviously, justice
+is blind to wealth and poverty
+~
+189 8 1
+0d0+0 0 0
+D6
+~
+~
+0 -1 18974
+S
+#18987
+A Small Chapel~
+Fire dominates this room as well. How anyone could concentrate or 
+meditate in this room, you have no idea. Upon the small altar lie
+broken weapons, as well as fine articles such as the silver dagger
+you see there.
+~
+189 8 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 18975
+S
+#18988
+The Priests' Sleeping Quarters~
+This room is lit by torches all around the walls. Beds lie against the walls
+under each torch. Weapons of all kinds are ornamentally hung upon the wall,
+and tapestries are hung next to each bed, each showing a different
+group.
+~
+189 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18975
+S
+#18989
+A Small Chapel~
+This room doesn't look much like a chapel. The walls are covered in black 
+silk and a dagger has been plunged into the stone altar. Two candles
+burn on the altar and you hear movement close by.
+~
+189 8 1
+0d0+0 0 0
+D7
+~
+~
+0 -1 18976
+S
+#18990
+The Priests' Sleeping Quarters~
+Between the drapes of silk hanging all over the room, you see small beds
+covered in black. The priests must sleep easy in this room, if they once
+were thieves. You wonder how long they are going to let you stay in
+thier domicile...
+~
+189 8 1
+0d0+0 0 0
+D8
+~
+~
+0 -1 18976
+S
+#18991
+A Small Chapel~
+This small chapel's walls are made of a glowing white material. When you
+enter, your wound seem to feel better and a peace pervades your spirit.
+You begin to think that you would like to rest here for some time, for
+you seem to feel really good just being here.
+~
+189 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18977
+S
+#18992
+The Priests' Sleeping Quarters~
+This room is quite dark compared to the rest of Sung's sanctum.
+The walls are still white, and bed also line the walls of the long
+narrow room. You begin to think that you need to take a nap.
+~
+189 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18977
+S
+#18993
+Barrett's Coffee House~
+This establishment is famous in Krondor for its wonderful and exotic
+blends of coffee. This quaint building is small, and well lit, with
+round tables scattered about. A waiter walks around with a tray of
+dirty cups, and a white cloth draped over his arm. 
+~
+189 8 1
+0d0+0 0 0
+D3
+A small wooden door can barely be detected trhough the smoke. ~
+door~
+1 -1 18994
+S
+#18994
+A Small Dwelling~
+This is the home of the owner of Barrett's. Surprisingly, his name isn't
+Barrett. There are shelves full of litigation papers lined against the
+walls, and a desk sits near a fireplace with a lantern burning atop.
+~
+189 8 1
+0d0+0 0 0
+D1
+A small wooden door is barely noticeable through the smoke. ~
+door~
+1 -1 18993
+S
+#18995
+The Entrance To The Arena~
+This is where the action is! The people of Krondor flock to this arena
+to watch duels, battles, fights, and executions. Prisoners who are captured
+and convicted of murders and warcrimes are brought from the palace
+dungeon, which happenes to be connected to this building underneath by
+passages, to duel for thier lives, or to be executed. To the west you
+see a vast room, over one hundred yards across, with wooden benches
+surrounding it on all sides.
+~
+189 14344 1
+0d0+0 0 0
+S
+#18996
+A Guard Station~
+This two story building stands to house guards to watch the palace
+gates around the clock. Bowmen with huge longbows stnd atop a balcony
+overlooking the street. Swordsmen stand at the gate outside, and in here
+is a desk with a Krondorian guard flipping thru arrival and departure
+schedules.
+~
+189 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18997
+S
+#18997
+The Barracks~
+This is where the gate guards are house for a three week rotation in and
+out of the palace. It is small and cramped, but serves the palace
+well.
+~
+189 8 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 18996
+S
+#18998
+The Northern Road~
+You step through the gates to find that a portal has opened in front of
+you. It shines with an eerie green glow that attracts you closer. It
+swirls, twists and congeals the light that eminiates from the center.
+You begin to wonder if you should enter, for your insides may get the
+same treatment as the light.
+~
+189 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 18400
+D2
+A huge wrought iron gate is here, well maintained.~
+gate huge wrought iron well maintained~
+1 -1 12029
+S
+#18999
+The Shrine at Sethanon~
+As you look around the room, you notice it reminds you of a large temple,
+yet it is underground. The lights are dim and you see shimmering in a corner.
+People dressed in white robes line two sides of the hall. An altar rests
+upon a dias on which sets a huge glowing green gem with a golden hilted
+sword forced into it. The gem pulsates and changes in varying patterns
+and shades of green. You hear an audible sigh from some large creature.
+~
+189 8 1
+0d0+0 0 0
+S
+$

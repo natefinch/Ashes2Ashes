@@ -1,0 +1,1627 @@
+#25000
+Walking down a road.~
+Walking past the rubble you can spot a top of a huge Cathedral ahead. It's
+towers must be about 100 feet in the air. You wonder who lives, or resides, in
+that monsterous building. There is a path ahead that turns into a well paved
+road about 50 feet from you. 
+~
+250 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25001
+D2
+~
+~
+0 -1 13154
+S
+#25001
+On a road.~
+As you walk along the path you see the Cathedral rise up before you. It is a
+dark, evil looking place. It is made of black granite, or some other smooth
+type of stone. There are no other roads leading to the Cathedral, only this
+one. Beyond the Cathedral you see some mountains and a ship orbiting in the
+sky. 
+~
+250 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25002
+D2
+~
+~
+0 -1 25000
+S
+#25002
+On the steps on the Cathedral~
+Walking closer to the Cathedral you can now make out more shapes that lurk
+around the walls and on the battlements. They depict small furried creatures
+and gargolyes. There are large cannons and turrets built into the towers and
+some of the battlements the look as if they could destroy whole ships in just
+one volley. This is a very fortified position. The road continues on straight
+toward the Cathedral. 
+~
+250 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25003
+D2
+~
+~
+0 -1 25001
+S
+#25003
+On the steps of the cathedral~
+You stand before the great cathedral. The doors loom nearly one hundered
+meters above your head. Luckily they are already open. A dim light shines
+from within the sanctuary. As you stand here you feel at peace with the 
+universe.
+~
+250 20 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 25004
+D2
+~
+~
+0 -1 25002
+S
+#25004
+In the grand entrance way.~
+This is the grand entranceway to the great cathedral. Above you the arched
+ceiling stretches nearly two hundered metres above you. The walls and ceiling
+are made of a golden metal. The floors are covered in ornate red and gold 
+carpets. The hall is lit by a soft light with no apparent source.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25005
+D1
+~
+~
+0 -1 25016
+D2
+~
+~
+0 -1 25003
+D3
+~
+~
+0 -1 25015
+S
+#25005
+A long hallway.~
+The hallway continues north and south within the cathedral. The walls are
+covered with great stain glass windows. The windows provide the room with
+a peacefull light. As you continue down the hall you notice several robed
+figures pass silently by. To the north you can see an intersection in the
+hallway.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25006
+D2
+~
+~
+0 -1 25004
+E
+stain glass window arken~
+The stain glass windows depict a great battle. Warriors in huge suits of
+armor fight great deformed red demons. Above the battlefield flies a great
+white dragon with icy blue eyes.
+~
+S
+#25006
+An intersection.~
+You stand at the intersection of a hallway that runs east and west. Doors
+line both sides of these hallways and to the south is the entrance to the
+cathedral. At the north end of this intersection is a set of closed doors
+carved from dark brown wood.  You hear the muted sound of a pipe organ
+playing through the thick doors.
+~
+250 12 0
+0d0+0 0 0
+D0
+~
+doors~
+2 -1 25007
+D1
+~
+~
+0 -1 25008
+D2
+~
+~
+0 -1 25005
+D3
+~
+~
+0 -1 25009
+D5
+~
+~
+0 -1 25037
+S
+#25007
+In the sanctuary.~
+You stand at the south end of a very large sanctuary. The room is
+lit by a large stain glass window above the altar. To your left and
+right are several rows of pews. The ceiling streches hundereds of
+feet over head. The room is filled with the sound of a pipe organ
+playing ancient hymns.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25014
+D2
+~
+doors~
+1 -1 25006
+D3
+~
+door~
+1 -1 25024
+S
+#25008
+The east wing.~
+The east wing of the cathedral is used for housing purposes. To the north and
+south are the clergy chambers. Light fills the room from a skylight overhead.
+The hall is completely quiet. Every so often a robed figure passes silently
+through the halls.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25017
+D1
+~
+~
+0 -1 25010
+D2
+~
+door~
+1 -1 25018
+D3
+~
+~
+0 -1 25006
+D4
+~
+skylight~
+1 -1 25033
+S
+#25009
+The west wing.~
+The main hallway of the west wing is smaller than the rest of the hallways
+you have seen so far. The halls are completely silent. Light flows in from
+several windows along the walls. There are open doors to the north and south.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25022
+D1
+~
+~
+0 -1 25006
+D2
+~
+door~
+1 -1 25023
+D3
+~
+~
+0 -1 25011
+S
+#25010
+Further down the eastern wing.~
+The hallway widens and comes to an end. To the north and south are more quarters
+used by the clergy. To the west the hallway continues. Set deep within the
+eastern wall is a huge oaken door. From the other side of the door you can
+hear chanting, and humming. Strange smells escape from beneath the door.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25019
+D1
+~
+door~
+1 -1 25021
+D2
+~
+door~
+1 -1 25020
+D3
+~
+~
+0 -1 25008
+S
+#25011
+A winding passage.~
+The hallway turns into a small passagway, only about two feet wide.
+Back to the west, you can see an intersection off in the distance.
+The passage turns sharply, and continues to the north. The walls
+begin to lean inward here. Light shines in from the west, and north.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25012
+D1
+~
+~
+0 -1 25009
+S
+#25012
+Before a sturdy metal door.~
+You stand before a sturdy metal door. The metal apears iron, or
+perhaps steel. The door has been engraved with intricate designs. 
+Next to the door is a small controll panel. The lights on the
+panel flicker, and pulse every few seconds.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 25099 25013
+D2
+~
+~
+0 -1 25011
+S
+#25013
+An unlit room.~
+You light barely manages to illuminate this dark corner in the cathedral.
+As you gaze around you discover yourself in a small dusty room.
+There is a table in the center, and shelves lining three of the four walls.
+The shelves and table are covered in odds and ends used in a church.
+~
+250 9 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 25012
+S
+#25014
+Standing before the altar.~
+You stand before the altar of the great cathedral. Light shines in
+from above through a large stain glass window. The alter is made of
+a solid piece of granite. On the alter is a large golden cross, and
+two large golden offering plates.
+~
+250 12 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 25007
+S
+#25015
+A small antechamber.~
+You have found a small coat room. The walls are made of stone, and are
+lined with coat racks. The only light comes in through the doorway
+that leads to the main hallway.
+~
+250 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25004
+S
+#25016
+A small antechamber.~
+You have found a small coat room. The walls are made of stone, and are
+lined with coat racks. The only light comes in through the doorway
+that leads to the main hallway.
+~
+250 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 25004
+S
+#25017
+The private chambers of one of the clergy.~
+The room is bare except for a bed and a small table. The room is
+exceptionally clean. There is no dust on the floor, and the bed
+is made. The only light comes in from a window high over the bed.
+~
+250 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 25008
+S
+#25018
+The private chambers of one of the clergy.~
+The room is bare except for a bed and a small table. The room is
+exceptionally clean. There is no dust on the floor, and the bed
+is made. The only light comes in from a window high over the bed.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25008
+S
+#25019
+The private chambers of one of the clergy.~
+The room is bare except for a bed and a small table. The room is
+exceptionally clean. There is no dust on the floor, and the bed
+is made. The only light comes in from a window high over the bed.
+~
+250 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 25010
+S
+#25020
+The private chambers of one of the clergy.~
+The room is bare except for a bed and a small table. The room is
+exceptionally clean. There is no dust on the floor, and the bed
+is made. The only light comes in from a window high over the bed.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25010
+S
+#25021
+The pennance chamber.~
+This is the room where the clergy pay pennance for thier sins. The
+walls are covered with racks full of instruments of torture. There
+are also fasting chambers. The room is dark except for your light,
+which combined with all the whips, and scourges give the room a less
+than holy aura.
+~
+250 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 25010
+S
+#25022
+The private chambers of one of the clergy.~
+The room is bare except for a bed and a small table. The room is
+exceptionally clean. There is no dust on the floor, and the bed
+is made. The only light comes in from a window high over the bed.
+~
+250 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 25009
+S
+#25023
+The private chambers of one of the clergy.~
+The room is bare except for a bed and a small table. The room is
+exceptionally clean. There is no dust on the floor, and the bed
+is made. The only light comes in from a window high over the bed.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25009
+S
+#25024
+The entrance to the great library.~
+This is the entrance to the great library of the cathedral. You can
+see shelves of books streching several hundered meters in all
+directions. Above you the ceiling streches fifty feet above you.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25025
+D1
+~
+door~
+1 -1 25007
+D2
+~
+~
+0 -1 25026
+D3
+~
+~
+0 -1 25027
+S
+#25025
+Among the shelves of books~
+You stand among the many shelves of books in the great library.
+The shelves strech in all directions, and all the way to the ceiling.
+You are very confused...
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25026
+D1
+~
+~
+0 -1 25027
+D2
+~
+~
+0 -1 25028
+D3
+~
+~
+0 -1 25029
+S
+#25026
+Among the shelves of books~
+You stand among the many shelves of books in the great library.
+The shelves strech in all directions, and all the way to the ceiling.
+You are very confused...
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25025
+D1
+~
+~
+0 -1 25028
+D2
+~
+~
+0 -1 25029
+D3
+~
+~
+0 -1 25030
+S
+#25027
+Among the shelves of books~
+You stand among the many shelves of books in the great library.
+The shelves strech in all directions, and all the way to the ceiling.
+You are very confused...
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25025
+D1
+~
+~
+0 -1 25028
+D2
+~
+~
+0 -1 25029
+D3
+~
+~
+0 -1 25030
+S
+#25028
+Among the shelves of books~
+You stand among the many shelves of books in the great library.
+The shelves strech in all directions, and all the way to the ceiling.
+You are very confused...
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25026
+D1
+~
+~
+0 -1 25027
+D2
+~
+~
+0 -1 25029
+D3
+~
+~
+0 -1 25030
+S
+#25029
+Among the shelves of books~
+You stand among the many shelves of books in the great library.
+The shelves strech in all directions, and all the way to the ceiling.
+You are very confused...
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25026
+D1
+~
+~
+0 -1 25027
+D2
+~
+~
+0 -1 25028
+D3
+~
+~
+0 -1 25030
+S
+#25030
+Among the shelves of books~
+You stand among the many shelves of books in the great library.
+The shelves strech in all directions, and all the way to the ceiling.
+You are very confused...
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25026
+D1
+~
+~
+0 -1 25028
+D2
+~
+~
+0 -1 25029
+D3
+~
+~
+0 -1 25031
+S
+#25031
+Among the shelves of books~
+You stand among the many shelves of books in the great library.
+The shelves strech in all directions, and all the way to the ceiling.
+You are very confused...
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25027
+D1
+~
+~
+0 -1 25028
+D2
+~
+~
+0 -1 25029
+D3
+~
+~
+0 -1 25032
+S
+#25032
+A secluded room.~
+You have found a secluded room in the library. The room is only a few
+meters wide. The room is lit by an odd light with no apparent source.
+The walls are lined with book covered shelves. In the center of the
+room is a large oaken desk covered in papers, and books. A smokey
+haze filles the room, and a pungent odor assaults your senses.
+~
+250 12 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25030
+S
+#25033
+On the parapets of the cathedral.~
+You have managed to climb up through the skylight, and onto the roof
+of the great cathedral. All around you are the paraets, and turrets you saw
+from the ground. Off in the distance, far above you in the sky, you
+can see what looks like some kind of ship. Below you on the ground
+you can hear the boom of thrusters as several fighter craft, and troop
+transports lift off. You can see more papapets to the east,
+and west.
+~
+250 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25034
+D3
+~
+~
+0 -1 25035
+D5
+~
+skylight~
+1 -1 25008
+S
+#25034
+The eastern missile battery.~
+There are several turrets here, as well as a large missile
+battery. It appears capable of holding well over ten thousand short
+range missiles. The main launcher is also equiped with quad las
+cannons. The cannons have not yet begun to fire, but every few seconds
+they move slightly as they track the ship through the sky.
+~
+250 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 25033
+S
+#25035
+Next to a small building on the roof.~
+There are several turrets here slowly tracking the ship through the
+sky. To the south is a snall building. The walls are made of a thick
+grey metal. There is a door on the north side. The door has no
+apparent handles or knobs. However, next to the door is an instrument
+pannel. Lights on the pannel periodically flicker, and pulse.
+~
+250 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25033
+D2
+~
+door~
+1 25099 25036
+S
+#25036
+A forgotten room.~
+You stand in a building on top of the cathedral. The floors and ceiling
+are made of stone. The walls are covered by shelves piled with books.
+In the middle of the room is a long table. The table is made of oak,
+and is covered in books and parchments. On the table is a very large
+candle that sheds light on the room.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 25099 25035
+S
+#25037
+A grey metal corridor.~
+The scenery dramatically changes at this point. You find yourself 
+in a grey metal corridor. The low ceiling is covered with pipes, and
+flourescent lamps. You can hear the humof engines to the south, and
+several footsteps to the east and west.
+~
+250 12 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25038
+D1
+~
+~
+0 -1 25039
+D3
+~
+~
+0 -1 25040
+D4
+~
+~
+0 -1 25006
+S
+#25038
+Before huge metal doors.~
+You stand before a set of large metal double doors. On the floor before
+the doors are yellow and black lines. A red light above the door flashes
+every few seconds. From behind the door you can hear men shouting, and the hum
+rumble of engines. To the south the hall way comes to a T intersection.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+doors~
+1 25099 25051
+D2
+~
+~
+0 -1 25037
+S
+#25039
+Outside the quartermaster's office.~
+You stand in a small grey metal corridor. To the north and south are
+doors leading to the barracks. To the east however is a door leading to
+the quartermaster's office. The door looksexactly like all the others
+except there are no handles or knobs. Instead there is a glowing
+keypad next to the door. From the other side of the door you can hear
+voices, and footsteps. To the north and south you hear several more
+voices and footsteps.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25048
+D1
+~
+door~
+1 25099 25050
+D2
+~
+door~
+1 -1 25049
+D3
+~
+~
+0 -1 25037
+S
+#25040
+A thin corridor.~
+The corridor is only a few feet wide at this point. The walls and floor
+are made of a greyish metal. The corridor runs from east to west. The north
+and south walls are lined with doors. You can hear the faint hum of
+machinery to the east. The air grows think and pungent the more
+west ward you travel.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25041
+D1
+~
+~
+0 -1 25037
+D2
+~
+door~
+1 -1 25042
+D3
+~
+~
+0 -1 25043
+S
+#25041
+Inside a barracks.~
+You have found one of the barracks used by the space marine troops
+stationed here. The walls are lined with shelf like beds. Beneath each
+bed is a locker. Several of the beds are in use, but the majority of
+them are currently vaccant.
+~
+250 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 25040
+S
+#25042
+Inside a barracks.~
+You have found one of the barracks used by the space marine troops
+stationed here. The walls are lined with shelf like beds. Beneath each
+bed is a locker. Several of the beds are in use, but the majority of
+them are currently vaccant.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25040
+S
+#25043
+The end of the corridor.~
+You have come to the end of the corridor. To the north and south are
+more doors leading to the barracks. To the west is a large steel door.
+Steam comes out from underneath the door. The air near the door is
+thick, hot, and smells of rotting flesh.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25044
+D1
+~
+~
+0 -1 25040
+D2
+~
+door~
+1 -1 25045
+D3
+~
+door~
+1 -1 25046
+S
+#25044
+Inside a barracks.~
+You have found one of the barracks used by the space marine troops
+stationed here. The walls are lined with shelf like beds. Beneath each
+bed is a locker. Several of the beds are in use, but the majority of
+them are currently vaccant.
+~
+250 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 25043
+S
+#25045
+Inside a barracks.~
+You have found one of the barracks used by the space marine troops
+stationed here. The walls are lined with shelf like beds. Beneath each
+bed is a locker. Several of the beds are in use, but the majority of
+them are currently vaccant.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25043
+S
+#25046
+In the mess.~
+The room stinks of rotting flesh. The room is lined with tables, filled
+with men hurredly eating goop on trays. To the north you can see men
+standing in a line to get this stuff. Whatever it is they apparently
+like it. There are also several men in aprons scurrying to and fro
+cleaning up the mess left by the soldiers.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25047
+D1
+~
+door~
+1 -1 25043
+S
+#25047
+The kitchen.~
+You have found the source of the horrible assault to your senses.
+You stand amidst steam, and sweaty men in threadbare t-shirts. In the
+center of the room is a huge metal cauldron. Several men using long
+wooden poles stir the dubious contents. While others use shovels to
+heap the sludge into the serving bins. A cook stands in the back of the
+room smoking a cigar, and shouting orders to the rest of the men.
+~
+250 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 25046
+S
+#25048
+Inside a barracks.~
+You have found one of the barracks used by the space marine troops
+stationed here. The walls are lined with shelf like beds. Beneath each
+bed is a locker. Several of the beds are in use, but the majority of
+them are currently vaccant.
+~
+250 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 25039
+S
+#25049
+Inside a barracks.~
+You have found one of the barracks used by the space marine troops
+stationed here. The walls are lined with shelf like beds. Beneath each
+bed is a locker. Several of the beds are in use, but the majority of
+them are currently vaccant.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25039
+S
+#25050
+The quartermaster's office.~
+You have entered a plush office. As you look around, the only hint that
+you are in a military instalation is given by the grey pipes lining the
+ceiling. The walls are made of wood, the floor is carpeted. In the
+center of the room is a large oaken desk. The desk is piled high with
+papers. Also on the desk is a paper wieght shapped like an old Civil
+War cannon.
+~
+250 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 25099 25039
+S
+#25051
+The docking bay.~
+All around you troops file aboard troop transports, as fighter crafts
+are launched ahead. Several officers bark orders to the troops. You
+can see a wide variety of armaments being loaded onto a nearby craft.
+Everything from las cannons, to chainswords are unpacked from crates and
+handed to troops as they board.
+~
+250 8 0
+0d0+0 0 0
+D2
+~
+doors~
+1 -1 25038
+D4
+~
+~
+0 -1 25052
+S
+#25052
+Aboard the troop transport.~
+As you enter the craft troops begin strapping themselves into the seats
+lining the walls of the craft.  After several seconds the entrance ramp is
+raised and the loading doors close.  The engines begin to hum louder and louder.
+Within seconds you can no longer hear anything else.  Then suddenly
+you are thrown to the ground as the craft leaps into the air.  You
+manage to stabalize yourself by grabbing hold onto a nearby marine.  The craft is
+several times, and begins to shake violently.  You hear a voice 
+from the cabin announc "We have touched down.  Exit, and procede north
+to the rondevou.  Warning all troops! We are now in direct confrontation
+with enemy troops!"  You have a bad feeling about this...
+Maybe now would be a good time to turn back...
+~
+250 12 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 25053
+S
+#25053
+Aboard the alien craft.~
+The transport had managed to touch down inside the enemy craft. Apparenlty
+it was equipped with a device that allowed it to cling to the hull while
+troops were injected into the craft. All around you are marines running, and
+ducking for cover. Ahead to the north you can see flashes of light
+and hear heavy gunfire.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25055
+D4
+~
+~
+0 -1 25054
+S
+#25054
+Aboard the troop transport.~
+There dosn't seem to be near as many troops making the return voyage
+as there were going into battle.  Either these guys love to fight or
+they died real fast.  You hear a gentle clang as the ship slides into
+the docking bay.  If only the ride up had been as smooth.  A voice from
+the cabin announces "You may depart and report to your assigned positions now."
+The ship doors slide open and you ca see the docking bay below you.
+~
+250 12 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 25051
+S
+#25055
+Standing at the end of a smoke filled corridor.~
+You stand at one end of a smoke filled corridor. To the north all you can see
+is smoke. You can hear the rapid pulsing of a las cannon, and several bursts
+of gunfire from automatic weapons. Periodicaly you hear explosions, and the
+whole room shakes. To the south you can hear troops shouting, and more gunfire
+as marines infiltrate the ship. Above you is a small metal hatch in the ceiling.
+There are black and yellow caution stripes around the hatch.
+~
+250 13 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25056
+D2
+~
+~
+0 -1 25053
+D4
+~
+hatch~
+1 -1 25057
+S
+#25056
+In a smoke filled passage.~
+All you can see is smoke. The echos of gunfire all around you make it
+nearly impossible to find your way.
+~
+250 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25062
+D1
+~
+~
+0 -1 25056
+D2
+~
+~
+0 -1 25055
+D3
+~
+~
+0 -1 25058
+S
+#25057
+A gunnery pod.~
+You stand in a cramped gunnery pod. There is just enough room for one person
+to sit in the gunners seat. Above you is a glass bubble dome. Outside you can
+see a swarm of fighter craft engaged in dogfights, and making bombing runs on
+the alien ship. You can also see several troop transports slowly making their
+way towards you.
+~
+250 264 0
+0d0+0 0 0
+D5
+~
+hatch~
+1 -1 25055
+S
+#25058
+In a smoke filled passage.~
+All you can see is smoke. The echos of gunfire all around you make it
+nearly impossible to find your way.
+~
+250 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25058
+D1
+~
+~
+0 -1 25056
+D2
+~
+~
+0 -1 25063
+D3
+~
+~
+0 -1 25059
+S
+#25059
+In a smoke filled passage.~
+All you can see is smoke. The echos of gunfire all around you make it
+nearly impossible to find your way.
+~
+250 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25060
+D1
+~
+~
+0 -1 25059
+D2
+~
+~
+0 -1 25062
+D3
+~
+~
+0 -1 25056
+S
+#25060
+In a smoke filled passage.~
+All you can see is smoke. The echos of gunfire all around you make it
+nearly impossible to find your way.
+~
+250 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25056
+D1
+~
+~
+0 -1 25062
+D2
+~
+~
+0 -1 25061
+D3
+~
+~
+0 -1 25060
+S
+#25061
+In a smoke filled passage.~
+All you can see is smoke. The echos of gunfire all around you make it
+nearly impossible to find your way.
+~
+250 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25056
+D1
+~
+~
+0 -1 25060
+D2
+~
+~
+0 -1 25063
+D3
+~
+~
+0 -1 25064
+S
+#25062
+In a smoke filled passage.~
+The room is too filled with smoke to see anything. Anything that is except
+a small red light near the floor.
+
+OUCH! That REALLY HURT!
+
+As you come to your senses the memory of recent events slowly returns. The
+flash of light, the deafening boom, the soul rending pain, and all the blood...
+The smoke has intensified, but as you return to your feet you realize the the
+room is several degrees hotter.
+~
+250 22539 0
+1d1+199 90 0
+S
+#25063
+In a smoke filled passage.~
+The room is completely filled with smoke. You can barely make out the...
+
+OUCH! That REALLY hurt!
+
+As the world comes into focus, you make a promise to yourself _never_ to
+underestimate anti-tank fire again. The explosion created even more smoke,
+and combined with your headache, it is now quite impossible find your way.
+~
+250 22539 0
+1d1+199 90 0
+S
+#25064
+Before a smoke filled passage.~
+You stand in a controll room of some kind. To the east is a smoke filled
+passage. You can hear the sounds of gunfire to the east. To the north is
+a large metal door that has been blown off its hinges. To the south is
+a shimmering red force field blocking a passageway. To the west is a blast
+door. Next to the door is a small control pannel with flashing lights.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25065
+D1
+~
+~
+0 -1 25061
+D2
+~
+forcefield~
+2 25098 25066
+D3
+~
+blastdoor~
+1 25099 25067
+S
+#25065
+A narrow passage.~
+You are in a tight corridor that runs north and south. To the east is a metal
+door. To the south is a small control room. To the north the corridor opens
+into a larger room.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25071
+D1
+~
+door~
+1 25099 25070
+D2
+~
+~
+0 -1 25064
+S
+#25066
+Inside a transport tube.~
+You are inside a transport tube. As soon as you step in you notice a control
+pannel on the wall. After several seconds the lights on the panel begin to
+flash, and the tube begins to move.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+forcefield~
+2 25098 25064
+D5
+~
+~
+0 -1 25069
+S
+#25067
+A narrow passage.~
+You stand in a narrow passage that runs east and west. The floor and walls are
+constructed of a greyish metal material. Overhead is a network of pipes and
+vents. Steam leaks from several of the pipes, and clouds the passage.
+~
+250 8 0
+0d0+0 0 0
+D1
+~
+blastdoor~
+1 25099 25064
+D3
+~
+~
+0 -1 25068
+S
+#25068
+A control room overlooking the shuttle bay.~
+You stand in a small five by five room. To the west is a small corridor. The
+north, and south walls of the room are covered with monitors, and instruments
+of all kinds. To the east is a large glass window overlooking the docking bay.
+The bay is bustling with troops. Crews hurredly prepare fighter craft for
+the assault.
+~
+250 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25067
+S
+#25069
+In the docking bay.~
+You have found the docking bay of the spacecraft. The bay is nearly five
+hundered feet in length, and a hundered feet high. The floor is made of
+thick concrete, the walls are made of a greyish metal, a network of pipes
+run overhead. The room is filled from wall to wall with small fighter craft.
+The hang on racks, and are slowly being launched from the ship.
+~
+250 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 25066
+S
+#25070
+A missile bay.~
+You stand in a huge room. It is nearly a hundered feet in lenght. The room
+is filled with missiles, and equipment to launch, load, and arm them. There
+is a console at on end of the room. It is covered by displays, and lights.
+Every few seconds a terminal beeps, and several lights flash.
+~
+250 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 25099 25065
+S
+#25071
+Above the reactor core.~
+You are crossing a thin bridge hundreds of feet above the reactor core. Below
+you, you can see a bright light, and feel an intense heat. Every few minutes a
+wave of energy pulses up the shaft.
+~
+250 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25073
+D1
+~
+~
+0 -1 25072
+D2
+~
+~
+0 -1 25065
+D3
+~
+~
+0 -1 25072
+D5
+~
+~
+0 -1 25072
+D6
+~
+~
+0 -1 25072
+D7
+~
+~
+0 -1 25072
+D8
+~
+~
+0 -1 25072
+D9
+~
+~
+0 -1 25072
+S
+#25072
+Falling into the reactor!~
+You have taken a wrong step, and are now paying the price. As you fall to
+certain doom, you think to yourself how nice it will be to get away from it
+all.
+~
+250 16522 0
+1d1+199 90 0
+S
+#25073
+In a transport tube.~
+You are inside a small transport tube. On the wall is a small instrument
+pannel. After a few seconds the tube begins to move.
+~
+250 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 25071
+D4
+~
+~
+0 -1 25074
+S
+#25074
+On the main control deck.~
+You stand on the main control deck of the ship. All around you are lights
+and screens. Every few seconds alarms go off, and lights flicker. On several
+screens you can see the cathedral, and fighters engaging the ground targets.
+~
+250 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 25075
+D5
+~
+~
+0 -1 25073
+S
+#25075
+The upper control room.~
+This is a small room just big enough for one person. In the center is a desk.
+The walls around the desk are covered  with monitors. The desk is covered with
+lights and control pannels. Every few seconds lights flash, and beeps sound.
+~
+250 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25074
+S
+#25076
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25077
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25078
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25079
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25080
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25081
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25082
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25083
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25084
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25085
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25086
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25087
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25088
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25089
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25090
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25091
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25092
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25093
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25094
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25095
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25096
+~
+~
+250 6152 0
+0d0+0 0 0
+S
+#25097
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25098
+~
+~
+250 8 0
+0d0+0 0 0
+S
+#25099
+~
+~
+250 8 0
+0d0+0 0 0
+S
+$

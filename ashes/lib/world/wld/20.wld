@@ -1,0 +1,1766 @@
+#2000
+Enchanted Forest~
+Either you've entered a realm of enchantment and legend, or you took one
+hell of a long turn at Albuqurque! Whatever the case, you find yourself
+walking along a woodland road with some sense of foreboding. A sign points
+to the north and says: CAMELOT THIS WAY -------->.
+~
+20 8 3
+0d0+0 0 0
+D0
+High road to camelot
+~
+High Road to Camelot~
+0 -1 2001
+D2
+~
+~
+0 -1 10501
+S
+#2001
+The High Road to Camelot~
+You find yourself on the high road to Camelot, seat of power of all the Britons.
+The road ahead of you looks even less inviting than the portion of road you
+are now on, and the road you are now on is making your skin crawl. You cannot
+shake the feeling that someone is watching you, but all you see around you
+are trees, trees, bushes, and perhaps an ocasional shrubbery.
+~
+20 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 2002
+D2
+~
+High Road to Camelot~
+0 -1 2000
+S
+#2002
+The High Road to Camelot~
+You realize now that the woods are having their way with your senses, you feel
+as though if you do not see sunlight and blue skies soon you shall surely
+go insane! Relax! You're just a few steps away, but you still can't shake
+the utterly paranoid feeling you're being watched. Be careful!
+~
+20 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 2003
+D1
+~
+~
+0 -1 2020
+D2
+~
+High Road of Camelot~
+0 -1 2001
+S
+#2003
+The High Road to Camelot~
+The forest is beginning to thin just a little, but your paranoia is not.
+You hope you can make it out of this place as it is really beginning to
+give you the creeps. The trees seem younger here, and the bushes and 
+shrubberies are more evident than before. There is light ahead.
+~
+20 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 2004
+D2
+~
+~
+0 -1 2002
+S
+#2004
+The great field~
+You find yourself in a small field clearing, off in the distance you can
+make out what appears to be a battlefield and a great shining castle. You
+suspect this is the great Camelot. But there seems to be something between
+you and it, more like someone...
+~
+20 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 2005
+D2
+~
+~
+0 -1 2003
+S
+#2005
+The great field~
+You are standing in the center of a great field. Ahead you see Camelot
+shining brightly against the panorama. Around you there are signs of 
+civilized society, such as: what appears to be a battlefield off to the 
+west, and a tournament field to the east. You are comforted by these 
+signs of civilization, it makes you just want to stick a sword in someone.
+~
+20 4 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 2006
+D1
+~
+~
+0 -1 2030
+D2
+~
+~
+0 -1 2004
+D3
+~
+~
+0 -1 2032
+S
+#2006
+In front of the city.~
+You see a beautiful shimmering castle of Camelot before you, you are amazed
+at its splendor and beauty. High towers raise into the skies and you can
+see this fortress is heavily guarded on many levels. You wonder if going in
+here for murder, death, and meyhem is really worth it...better send for 
+lawyers, guns, and money!!!
+~
+20 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 2007
+D2
+~
+~
+0 -1 2005
+S
+#2007
+Causeway to Camelot~
+You are in a dark causeway that leads into Camelot, at both entraces there are 
+portculluses and you can see within the walls there is a guard house and
+barracks.
+~
+20 264 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 2008
+D2
+~
+~
+0 -1 2006
+S
+#2008
+End of causeway~
+You are at the end of the causeway that leads into the city of Camelot, not
+much of a city really, but you smell the kitchens of the closeby castle and
+hear the ringing of the blacksmith working with his iron. So what are you
+still doing here? Go on in!
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2010
+D1
+~
+~
+0 -1 2009
+D2
+~
+~
+0 -1 2007
+D3
+~
+~
+0 -1 2014
+S
+#2009
+Guard house~
+This is a guard house built into the very walls of the fortress. You see it
+is kept rather neat and orderly, probably because the Captain's office is
+right next door. In the middle of the room is a large table with chairs where
+the guards may take their meals and rest.
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2012
+D2
+~
+~
+0 -1 2013
+D3
+~
+~
+0 -1 2008
+S
+#2010
+The City of Camelot~
+You find yourself inside the walled city of Camelot. It's not much of a city
+really, just some stands where serfs are selling their wares, and a blacksmithy
+for the knights to have their armor repaired.  Set up from the city is
+Camelot itelf, a shining silver plated fortress of amazing size and 
+beauty.  You can see it is well guarded and there is but one drawbridge to
+the north to gain entrance.
+~
+20 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 2040
+D1
+~
+~
+0 -1 2043
+D2
+~
+~
+0 -1 2008
+D3
+~
+~
+0 -1 2044
+S
+#2011
+The East Antechamber.~
+~
+20 8 0
+0d0+0 0 0
+S
+#2012
+Guard Captain's office~
+You have entered the spartan office of the Captain of the guard. There is a
+desk in the middle of the room with neatly stacked papers pertaining to the 
+watch rotation and other matters of a guardly nature. You get the impression
+the Captain of the Guard is an orderly man.
+~
+20 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2009
+D5
+You have found what appears to be a locked trap door.
+~
+trapdoor~
+2 2019 2090
+E
+trapdoor~
+You find a keyhole in the center of what looks to be a trapdoor.
+~
+S
+#2013
+The bunkroom~
+This is a small bunkroom for the guards who are on call, but not on duty.
+It has several bunks along the walls, and scattered through the room are
+weapons and armors of various types.  
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2009
+S
+#2014
+To the watchtowers~
+You find yourself at the bottom of a stone stairway, where it leads, you
+can only guess. The oak door is open and there is only a slight torchlight 
+wafting up the stone stairway that spirals up as far as you can see. Shall
+you ascend it and discover what lay at the top?
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2008
+D4
+~
+~
+0 -1 2015
+S
+#2015
+Stairs~
+You are on stairs that lead up to the watchtowers.
+~
+20 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 2016
+D5
+~
+~
+0 -1 2014
+S
+#2016
+Top of the stairs~
+*puff* *puff* You've reached the top of the stairs to the watchtowers.
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2018
+D3
+~
+~
+0 -1 2017
+D5
+~
+~
+0 -1 2015
+S
+#2017
+Western watchtower~
+You are standing at the top of the western tower defenses of the castle. You
+can see the forest you wandered through to get here, and even closer, a vast
+battlefield with a lone knight sitting in the middle of it. You notice the
+shimmering of a lake off to the southwest and make a mental note to explore
+that region when you get some time. Meanwhile, you look at the vast
+fortifications and anti-siege equipment that lay neatly stacked around you
+and you thank whatever deity you worship you didn't have to assault this
+castle!
+~
+20 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 2016
+S
+#2018
+Hall~
+You are in a hall that is directly above the causeway. There are arrow slits
+cut into the stone at regular intervals facing outward (and inward) from
+the castle walls.
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2019
+D3
+~
+~
+0 -1 2016
+S
+#2019
+Eastern watchtower~
+You've stepped out onto the other watchtower along the eastern side of the
+castle. You see more of that battlefield and what appears to be a 
+tournament field off to the east. Several knights appear to be practicing for
+an upcoming event, perhaps you'll go down and challenge them later.
+~
+20 0 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 2018
+S
+#2020
+A path into the woods.~
+You walk along the wooded path and you get the strange suspicion you are
+being watched. You look around you and see nothing but trees, bushes, and
+an occasional shrubbery. You feel confident should a Knight who goes NI! 
+ask you to bring him a shrubbery, you could complete the task in no time.
+But WHO is there?
+~
+20 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 2021
+D3
+~
+~
+0 -1 2002
+S
+#2021
+Unkempt path~
+You are still on this wooded path that gives you the creeps, could there
+be some hidden person around here ready to cut your purse, or perhaps your
+throat, or both? You make the call.
+~
+20 0 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 2020
+D6
+~
+~
+0 -1 2022
+S
+#2022
+The path~
+You move along the path with more confidence now, that perhaps you are not
+being watched, followed, planned for someone's meal, or otherwise thought
+ill of. This is probably because you can see a clearing up ahead and you 
+figure it may be safer than these blasted woods!
+~
+20 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 2058
+D1
+~
+~
+0 -1 2023
+D9
+~
+~
+0 -1 2021
+S
+#2023
+Clearing~
+You have reached a small clearing in the woods. You are greatful for the
+small patch of sky you see above you, but you are curious at the number
+of shields hanging on a tree nearby. You wonder who would be nutty enough
+to hang so many shields on a tree, then you wish you had saved your 
+ponderings as the answer becomes clear...
+~
+20 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 2022
+D8
+~
+~
+0 -1 2024
+S
+#2024
+A new path~
+You have found another path going into the woods, you wonder where 
+it may lead. Should you decide to follow it? I don't know, it was a 
+rhetorical question.
+~
+20 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 2025
+D7
+~
+~
+0 -1 2023
+S
+#2025
+a rock formation~
+The forest is interrupted by a rocky formation jutting out from the ground.
+You sense something hidden in the stone, look carefully.
+~
+20 0 3
+0d0+0 0 0
+D1
+~
+hidden~
+1 -1 2026
+D3
+~
+~
+0 -1 2024
+E
+look hidden~
+You have found a hidden doorway! To open type open hidden.
+~
+E
+look carefully~
+You have found a hidden doorway! To open type open hidden.
+~
+E
+l carefully~
+You have found a hidden doorway! To open type open hidden.
+~
+S
+#2026
+a secret cave~
+You find yourself inside a great cavern. Stalactites and stalagmites are
+all around you. As well as some other things you might not be too keen on...
+~
+20 269 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2029
+D3
+~
+~
+0 -1 2025
+D5
+~
+~
+0 -1 2027
+S
+#2027
+Merlin's chamber~
+You have stumbled into the private chambers of Merlin. This room is in
+quite a state, papers are piled up on workbenches along with books. There
+are large star charts on the walls and strange symbols adorn them. There
+are many racks of chemicals and half finished experiments that you can only
+guess at. In one corner of the room there is a comfortable looking chair
+which along the back is perched a rather indignant looking owl, who stares
+at you as if your ears just melted and your hair has turned purple.
+~
+20 264 0
+0d0+0 0 0
+D0
+~
+secret~
+2 2040 2028
+D4
+~
+~
+0 -1 2026
+E
+examine room~
+You find what appears to be a secret door on the north wall, where do you
+think the key is?~
+E
+look secret~
+You find what appears to be a secret door on the north wall, where do you
+think the key is?~
+E
+look hidden~
+You find what appears to be a secret door on the north wall, where do you
+think the key is?~
+S
+#2028
+A strange room~
+You have no idea what this room is for. Along one entire wall there is
+what appears to be a giant mirror. When you touch it's surface your hand
+goes through it and a liquid-like ripple appears across it. You wonder 
+where stepping through this thing will take you...?
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2055
+D2
+~
+~
+0 -1 2027
+S
+#2029
+Morgan's chamber~
+This is the not so hidden chambers of Morgan Le Fay. All around you there
+are tables and benches covered with various notes and grimores. There are
+racks of chemical compounds you can only guess at, and large charts cover
+the stone walls. There are many things that appear to be defying the laws
+of gravity as you know it such as a hourglass with the sand going up instead
+of down, and a rope that seems to be suspending itself in the air. You
+puzzle over this until you notice you're not alone in the room.
+~
+20 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2026
+S
+#2030
+To the tournement grounds.~
+Off to the east lay the tournement grounds.
+~
+20 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 2031
+D3
+~
+~
+0 -1 2005
+S
+#2031
+The tournement grounds~
+You find yourself in the middle of a long field decorated with many flags
+and banners. You see crude benches along the sides and an elevated platform
+where the king and his court may watch. You correctly deduce that this is
+a tournament field where brave knights battle each other for honor, glory, and
+maybe even the kiss of a fair maiden...(WOO WOO!).
+~
+20 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 2030
+S
+#2032
+The great field~
+You see a great field scarred with many battles, what remaining grass grows
+in wasted clumps along with many poppies. The ground seems littered with the
+remains of battles and campfires long since forgotten except in songs of
+old.
+~
+20 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 2005
+D9
+~
+~
+0 -1 2033
+S
+#2033
+The field~
+You are now walking through the great battle field in front and to the
+west of Camelot. You see many ruined weapons of carnage and destruction which
+lay where they fell. Many things appear to have been the victims of 
+scavengers. An occasional bone will stick out through the ground filling 
+your bones with a chill. You wonder how many brave warriors came to an
+untimely death apon this field.
+~
+20 8 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 2032
+D9
+~
+~
+0 -1 2034
+S
+#2034
+across the field~
+The great battlefield is being retaken by the forests ahead. You see the
+same woods you followed not too long ago to reach Camelot before you. A 
+crude path has been cut into them and leads off to the south. You must
+now decide which way will lead you to glory and meyhem.
+~
+20 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2035
+D6
+~
+~
+0 -1 2033
+S
+#2035
+Entering the forest~
+The trees are beginning to get dense, as is the underbrush. You see a slight
+trail has been worn into the ground here.
+~
+20 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 2034
+D2
+~
+~
+0 -1 2036
+S
+#2036
+a forest trail~
+You find yourself on a narrow forest trail, up ahead you see a clearing.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2035
+D2
+~
+~
+0 -1 2037
+S
+#2037
+The lake~
+This is the legendary lake where Arthur first held Excalibur in his hands, be
+careful, as the lady of the lake protects her domain with a vengance!
+~
+20 2048 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 2036
+D3
+~
+~
+0 -1 2038
+S
+#2038
+a path around the lake~
+There is a path around the lake to the west, if you dare...
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2037
+D3
+~
+~
+0 -1 2039
+S
+#2039
+around the lake~
+You find yourself on the shores of a lake and can either go into the forest or
+around the lake.
+~
+20 2048 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 2038
+D9
+~
+~
+0 -1 2058
+S
+#2040
+Before the castle~
+You are heading in the general direction of the castle drawbridge, there are
+of course, many distractions between here and there.
+~
+20 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 2041
+D2
+~
+~
+0 -1 2010
+S
+#2041
+In front of the drawbridge~
+You stand before a open drawbridge to the shining castle of Camelot. You are
+awed by it's size and beauty, you wonder if you dare enter such an amazing
+structure.
+~
+20 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 2045
+D2
+~
+~
+0 -1 2040
+S
+#2042
+~
+~
+20 8 0
+0d0+0 0 0
+S
+#2043
+The Royal Stables.~
+Two things immediately tell you where you are. The first is your keen 
+sense of smell, which recognizes the odor of animals, hay, and manure. 
+The other clue is that you just stepped into a nice, fresh, clump of 
+something warm and smelly. This is decidedly not the most pleasant 
+place to stick around, but to each their own!
+~
+20 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2010
+S
+#2044
+The smithy~
+You've entered the blacksmith's work area.  It's hot and musky in here, you
+can see weapons and implements of all kinds in various stages of completetion.
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2010
+S
+#2045
+Inside the Castle walls~
+You have entered the actual walls of the castle now, you see they are very 
+thick. There are all sorts of materials for defending the castle stacked 
+up around you and you see it is the sort of place that is well guarded.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2046
+D1
+~
+~
+0 -1 2048
+D2
+~
+~
+0 -1 2041
+D3
+~
+~
+0 -1 2047
+S
+#2046
+The Antechamber~
+You have entered a large room with only one entrance and one exit.  It was
+designed to be defensible should an enemy manage to get this far into the
+castle.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2050
+D2
+~
+~
+0 -1 2045
+S
+#2047
+The Squire's chambers~
+This is the chambers where all the many knight's squires may rest from their
+duties, for a squire may be called upon at any time day or night to run for
+his master.  The pages also reside here, usually on the floor.
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2045
+S
+#2048
+The Royal Guard's chambers~
+You have entered the chambers of the Kings elite Royal Guard.  It is an orderly
+sort of place, there are several beds and a big table for the guards to take
+their meals.  Neatly hung on racks and pegs are the Guard's implements of 
+destruction, should someone need a little incentive for treating these
+guys with respect.
+~
+20 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2045
+S
+#2049
+The East tower~
+This appears to be a small tower area which might be an excellent platform
+for shooting arrows at an approaching enemy. You can deduce this because there
+is a rack with arrows on it along the wall and many long narrow slits which 
+face away from the castle.
+~
+20 8 0
+0d0+0 0 0
+S
+#2050
+The main hall~
+You have entered the main hall of the castle of Camelot. All around
+you are signs of the royalty and riches of the land of the Britons.
+Bright tapestries adorn the walls, as do fine works of armor and weapontry.
+You are amazed at the high butresses, columns, and arches that make up
+the interior construction of the castle. You have many choices as to a
+direction to choose, so pick well.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2051
+D1
+~
+~
+0 -1 2052
+D2
+~
+~
+0 -1 2046
+D3
+~
+~
+0 -1 2053
+D4
+~
+~
+0 -1 2054
+D5
+~
+~
+0 -1 2070
+S
+#2051
+Banquet hall~
+This is a large room with several long tables in it.  On the walls are 
+beautiful tapestries and war banners from long ago campaigns.  In the center
+of the room is the most beautiful round table you have ever seen, you conclude
+you have indeed found the residence of the fabled Knights of the Round Table.
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2055
+D2
+~
+~
+0 -1 2050
+D3
+~
+~
+0 -1 2057
+S
+#2052
+Eastern hall~
+You find yourself in an exquisite hallway. The walls are of solid polished 
+granite, the torches hang in guilded holders, and the floor is clean polished
+stone with beautiful carpets along the middle path. The doors are made of
+the finest oak and are banded with black iron. You admire the sheer design
+before you go on to create more havok and mayhem.
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2060
+D3
+~
+~
+0 -1 2050
+S
+#2053
+Western hall~
+You enter yet another section of the hallway, above you is an archway and
+column design that you surmise gives the castle more support. You see 
+similar features as before, except there are three doors instead of 2.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2057
+D1
+~
+~
+0 -1 2050
+D3
+~
+~
+0 -1 2056
+S
+#2054
+The staircase~
+You are on a beautiful starcase that winds around both sides of the northern
+doors, where does it go? Keep climbing and find out.
+~
+20 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2061
+D3
+~
+~
+0 -1 2062
+D5
+~
+~
+0 -1 2050
+S
+#2055
+The library~
+This is the King's library, contrary to popular belief, he loves to read.
+The shelves go all the way to the ceiling and cover all four walls, except
+for the large fireplace. There is a long table along the middle and several
+comfortable chairs near the fireplace where one can read by firelight.
+~
+20 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2051
+S
+#2056
+Throne Room~
+This is King Arthur and Queen Guinevere's Throne room. The dust everywhere
+leads you to believe that it is not used very often. There are huge banners
+and tapestries along the walls and suits of ceremonial armor in the spaces
+in between. On a raised dias along the far wall sit two charis which you expect
+you will find empty, however, one of them seems to be occupied...
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2053
+D5
+~
+secret ~
+2 2053 2059
+E
+look throne~
+You find a keyhole on the floor next to the King's throne. If you have the
+proper key unlock secret and open secret will do the trick.
+~
+S
+#2057
+The main kitchen~
+You have entered the main kitchen, you smell all sorts of strange and wonderful
+foods around you. There are huge hearths with bubbling cauldrens of food 
+being prepared. Spices and wine lay  scattered about the work area. Utensils
+of all sorts hang from racks above your head, plates and dinner ware are
+also in evidence. You think you might want to stay a bit and grab a snack,
+of course the cook might not like it.
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2051
+D2
+~
+~
+0 -1 2053
+S
+#2058
+a forest path~
+You find yourself facing a forest path that leads into the unknown, you wonder
+where it might take you, only one way to find out. The trees begin to surround
+you and you feel the hair on the back of your neck prickling up as if there
+is some hidden dangers lurking just out of sight behind the trees and 
+shrubbery.
+~
+20 0 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 2022
+D6
+~
+~
+0 -1 2039
+S
+#2059
+The King's Treasury~
+This is the King's treasury, it is full of impressive and untold riches.
+~
+20 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 2056
+S
+#2060
+The Queen's sitting room~
+This is where Queen Guinevere and her ladies in waiting may sit and entertain
+female guests of personage while the men get drunk and carouse next door.
+There is an abundance of horrid romance novels and poetry books along the wall
+and embroidery hoops and sewing equipment laying in neat stacks. An exquisite
+silver tea service stands ready in the corner of the room by the huge stone
+fireplace where the ladies may keep warm and see to sew.
+~
+20 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2052
+S
+#2061
+Eastern staircase~
+You have chosen the eastern staircase, you can see the landing to the east
+wing ahead.~
+20 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2054
+D4
+~
+~
+0 -1 2063
+S
+#2062
+Western staircase~
+You have chosen the western staircase, ahead you can see the second floor.
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2054
+D4
+~
+~
+0 -1 2091
+S
+#2063
+East wing ~
+You have entered a long hall that is the second floor to the east wing. Torches
+line the walls periodically giving off a faint, erie light that makes the 
+flagstones look dark and forbidding. There are also some large oak doors 
+along the hall.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2067
+D1
+~
+~
+0 -1 2064
+D5
+~
+~
+0 -1 2061
+S
+#2064
+East wing hall~
+ You are in the east wing hall, you see torches and doors and a dead end down
+a ways.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2068
+D1
+~
+~
+0 -1 2065
+D2
+~
+~
+0 -1 2069
+D3
+~
+~
+0 -1 2063
+S
+#2065
+further along the east wing~
+You find yourself further along the east wing, there are doors to either side
+of you.
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2066
+D3
+~
+~
+0 -1 2064
+S
+#2066
+The end of the east wing~
+The east wing comes to an end here, there is a tapestry on the wall in front
+of you, it is a beautiful dragon design.
+~
+20 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2065
+S
+#2067
+Guest room~
+You have found what appears to be a guest room, there is a lavish canopy
+bed, fine carpets on the floor, and a huge fireplace and mantle. The window
+looks out over the castle walls.
+~
+20 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2063
+S
+#2068
+Another guest room~
+You find yet another guest room, this one appears to be lived in...
+~
+20 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2064
+S
+#2069
+Lancelot's room~
+It appears the Queen's champion has a room of his very own, although he
+seems hardly to ever use it, do you wonder why?
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2064
+S
+#2070
+To the Dungeons~
+This is a processing room for those deemed the King's enemies. There is a
+large table where prisoners are stripped of any personal belongings and sent
+further below. 
+~
+20 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 2050
+D5
+~
+~
+0 -1 2071
+S
+#2071
+The entrance to the Dungeon~
+You stand before a great oaken door to the south, you conclude you must be
+entering the very pits of hell from the screams you hear within.
+~
+20 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2072
+D4
+~
+~
+0 -1 2070
+S
+#2072
+The cell block~
+You have entered the cell block itself, there are doors to your right and l
+left and more as you look down the hall. You hear screams coming from the 
+door all the way to the south.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2071
+D1
+~
+~
+0 -1 2073
+D2
+~
+~
+0 -1 2075
+D3
+~
+~
+0 -1 2074
+S
+#2073
+a cell~
+~
+20 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2072
+S
+#2074
+A cell~
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2072
+S
+#2075
+Further along the block~
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2072
+D1
+~
+~
+0 -1 2077
+D2
+~
+~
+0 -1 2076
+D3
+~
+~
+0 -1 2078
+S
+#2076
+The torture room~
+You enter a room that sickens you. Grisly machines of human torture are all
+around you, bits of gore and blood are imbedded in some of them. The room 
+reeks of blood and decay. You feel compelled to kill whomever would gain some
+pleasure out of doing this to other people.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2075
+D5
+~
+trapdoor~
+2 2019 2080
+E
+trapdoor~
+You find a keyhole in the center of what looks to be a trapdoor
+~
+S
+#2077
+A cell~
+~
+20 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2075
+S
+#2078
+A cell~
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2075
+S
+#2079
+The West Wall.~
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2080
+D1
+~
+~
+0 -1 2095
+D2
+~
+~
+0 -1 2078
+S
+#2080
+Secret tunnel~
+You have entered a dark tunnel, you can see a trapdoor above you and a yawning
+blackness awaiting you to the south.
+~
+20 265 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2081
+D4
+~
+trapdoor~
+2 2019 2076
+S
+#2081
+tunnel~
+further along the tunnel.
+~
+20 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2080
+D2
+~
+~
+0 -1 2082
+S
+#2082
+tunnel~
+Further along the tunnel
+~
+20 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2081
+D2
+~
+~
+0 -1 2083
+S
+#2083
+tunnel~
+You are still in the tunnel, the darkness grows as you move north. The glow
+to the south is becoming most prominant.
+~
+20 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2082
+D2
+~
+~
+0 -1 2084
+S
+#2084
+tunnel~
+The tunnel is opening up to the south, you are approaching what looks like a
+natural cave fissure in the rock. The glow is also coming from that cave.
+~
+20 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2083
+D2
+~
+~
+0 -1 2085
+S
+#2085
+The crystal cave~
+This is the crystal cave that will ultimately become Merlin's prison for all
+eternity. Unfortunately he's not here yet, so those events must not have 
+happened, however, something else seems to be here...
+~
+20 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2084
+D2
+~
+~
+0 -1 2087
+D5
+~
+~
+0 -1 2086
+S
+#2086
+Crystal treasure room~
+You find yourself slipping on the descent and falling onto a bed of razor
+sharp crystals, you are decorated like a crystal porcupine...sorry!
+~
+20 16387 0
+1d1+199 90 0
+D4
+~
+~
+0 -1 2085
+S
+#2087
+The tunnel~
+You are continuing along the tunnel, it slopes upward as you go south, downward
+as you go north. You can see a shimmering light from the north.
+~
+20 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2085
+D2
+~
+~
+0 -1 2088
+S
+#2088
+tunnel~
+You are continuing along the tunnel
+~
+20 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2087
+D2
+~
+~
+0 -1 2089
+S
+#2089
+tunnel~
+You are continuing along the tunnel
+~
+20 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2088
+D2
+~
+~
+0 -1 2090
+S
+#2090
+The secret tunnel~
+You have entered a secret tunnel, it appears to go off in a northerly
+direction.
+~
+20 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2089
+D4
+~
+trapdoor~
+2 2019 2012
+S
+#2091
+Top of the Western Staircase~
+You have reached the top of the western staircase, you see several doors
+along a hall lit with torches.
+~
+20 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2092
+D5
+~
+~
+0 -1 2062
+S
+#2092
+Along the west wing~
+ You find yourself in the hall of the west wing, this hall is meant to be
+highly defensible as it would be perhaps the spot of the last fight for the
+castle. There are more torches on the walls and some nice tapestries as well.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2093
+D1
+~
+~
+0 -1 2091
+D3
+~
+~
+0 -1 2094
+S
+#2093
+Royal apartments~
+This is the anti-room to the King's Royal chambers. It is tastefully
+decorated in early mideval with carpets, a huge fireplace, chairs, a table, and
+a desk in the corner. A few tapestries adorn the walls. You can see a 
+woman's touch in the decoration and can only assume Guinevere had something
+to say about it.
+~
+20 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2092
+D3
+~
+~
+0 -1 2096
+S
+#2094
+West wing hall~
+You are in the middle of the west wing hall, torches hang along the walls
+and you see some very thick oak doors around you.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2096
+D1
+~
+~
+0 -1 2092
+S
+#2095
+Chamberlain's quarters~
+This is the King's Chamberlain's quarters. He is a very neat man and uptight
+as all heck. His room is spartan and orderly. He has a large desk in the
+corner near the fireplace from which he plans the king's itinerary.
+~
+20 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2097
+S
+#2096
+Royal bedroom~
+~
+20 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2093
+D2
+~
+~
+0 -1 2094
+S
+#2097
+Prison cell~
+You have no way out of here
+~
+20 12312 0
+0d0+0 0 0
+S
+#2098
+The balcony~
+You step out onto the balcony and smell the sweet mud air. You see that
+this whole area is actually a floating island high above Midgarrd. You can
+see down to the city and the surrounding areas. You almost imagine people
+scurrying around like ants to this adventure or that. An eagle flies by
+the sanctuary, breaking the spell of your visual wanderings. You notice
+there is actually many deck chairs out here, a cooler stocked with beer,
+steaks on the bar-b-que, and a mini-bar in the corner. That seems rather nice.
+~
+20 131072 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 2099
+S
+#2099
+Lazarus's Sanctum~
+You have entered a room with wall-to-wall bookshelves neatly cut to allow
+for doorways and a fireplace. The fireplace mantle contains many nick-nacks:
+A "question authority" pin, a bumper sticker stating: Support Fascism-Vote
+Republican, and a few other politically incorrect items of interest. Above
+the mantle rests a HOLY AVENGER, onced used by the paladin Lazarus before he
+ascended the heavens to his holy loftiness. At the other end of the room is
+a console that looks very much like the one in the engineering room of the
+USS Enterprise-D, you know this is impossible since it was blown up in the
+last movie so you wonder what it is doing there. There is a thick carpet
+at your feet and several comfortable looking chairs around the room. There
+are several magic portals to realms about the mud.
+~
+20 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2098
+D2
+~
+~
+0 -1 1228
+D3
+~
+~
+0 -1 3062
+D4
+~
+~
+0 -1 1204
+D5
+~
+~
+0 -1 3001
+S
+#2100
+~
+~
+20 0 0
+0d0+0 0 0
+S
+#2101
+~
+~
+20 0 0
+0d0+0 0 0
+S
+$

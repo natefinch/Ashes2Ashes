@@ -1,0 +1,1183 @@
+#3601
+kiddie Munchkin~
+a cute little Munchkin kiddie~
+A cute little Munchkin kiddie is standing here.
+~
+~
+200 0 500 W
+2 2 8 25d0+10 2d3+1
+12 1000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+80 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#3602
+mayor~
+the mayor~
+The mayor of the Munchkin City sits here looking very important.
+~
+~
+2411 128 1000 W
+40 20 -1 5d10+700 4d25+10
+9000 160000
+6 6 1
+13 0 13 13 13 13 0
+19 1 0
+-10 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#3603
+fisherman munchkin~
+a merry Munchkin fisherman~
+A merry Munchkin fisherman is happily fishing here.
+~
+This Munchkin fisherman is ready for a long day of fishing.  He is well
+tanned by long hours in the sun and looks very fit.  You get the feeling that
+he does not like being disturbed.
+~
+75 0 1000 W
+16 8 -1 10d5+300 5d2+5
+6000 6000
+6 6 1
+13 0 13 13 13 13 0
+18 2 0
+-10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#3604
+bubble pink~
+a pink bubble~
+A pink bubble is floating here.
+~
+A lovely pink bubble is floating slowly on the breeze.  If you look closely
+at its irridescent surface, you can see a distorted image of yourself.
+~
+24650 0 1000 W
+20 10 3 10d5+500 4d5+2
+100 5000
+5 5 0
+13 0 13 13 13 13 0
+0 5 0
+30 0 2 0 0
+50 50 50 50 50
+16 0 0
+6 0
+#3605
+shorty shopkeeper~
+Shorty~
+A shopkeeper named "Shorty" is waiting patiently to help you.
+~
+Shorty the Grocer is an unusually plump Munchkin, with a round pot belly and
+a merry smile.  He has a very long beard that is braided at the end and is
+wearing a white apron over the usual blue Munchkin-style clothes that all of
+the Munchkins wear.  He smiles at you expectantly.
+~
+74 128 1000 W
+46 25 -17 50d3+1900 4d8+10
+138000 300000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-170 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3606
+crow~
+a crow~
+A crow sits here flapping its wings and staring at you with beady eyes.
+~
+~
+8776 1 -400 W
+7 3 6 4d5+100 4d3+1
+3 2000
+6 6 0
+13 0 13 13 13 13 0
+0 0 0
+60 0 2 0 0
+80 80 80 80 80
+16 0 0
+6 0
+#3607
+scarecrow~
+the Scarecrow~
+The Scarecrow is standing here looking rather lumpy.
+~
+This shabby scarecrow is crudely made from old, tattered clothes stuffed
+with straw.  A stuffed burlap bag serves as head.  It has a friendly face
+painted on it which somehow seems alive.  It must be your imagination!
+~
+270538 160 1000 W
+75 40 -15 5d40+3900 4d5+70
+30000 55000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-150 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3608
+Mombi mombi Witch witch~
+Mombi the Witch~
+Mombi the Witch stands here glaring at you with a look of pure evil.
+~
+Mombi is a withered old hag dressed in shabby robes and hobbling about on a
+cane.  Her gnarled hands look very strong and have long, jagged nails that
+have been filed to sharp points.  You sense an aura of great evil as Mombi
+stares at you with her dead eyes.
+~
+10251 1192 -800 W
+55 25 -20 25d4+1700 9d5+4
+85000 300000
+8 8 2
+13 0 13 13 13 13 0
+13 2 0
+-200 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3609
+tree ~
+an apple tree~
+A huge, gnarled apple tree almost seems to be staring at you here.
+~
+~
+586 40 -800 W
+28 12 -9 10d5+750 4d5+3
+1000 12000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-90 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#3610
+tin man tinman woodsman~
+the Tin Woodsman~
+The Tin Woodsman is standing here gleaming brightly.
+~
+The Tin Woodsman is a beautifully crafted replica of a man but fashioned
+of bolts, rivets, and sheets of tin instead of flesh.  He has a jaunty
+look on his face that goes well with his tin bowtie and funnel cap.  He
+glimmers softly in the diffuse forest light and smells faintly of machine
+oil.  He looks at you with a friendly smile.
+~
+270539 169 800 W
+77 35 -29 100d5+2500 8d10+4
+75000 35000
+8 8 1
+18 0 13 13 13 13 0
+17 2 0
+-290 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#3611
+lion cowardly coward~
+the Cowardly Lion~
+The Cowardly Lion paces back and forth nervously while he watches you.
+~
+This immense beast is the largest lion you have ever seen.  Massively
+muscled with huge jaws filled with dagger sharp teeth, this savage beast
+could easily rip out your throat and tear you to shreds.  For some reason,
+the lion looks at you uneasily.
+~
+24778 168 1000 W
+80 40 -30 50d20+3800 7d9+12
+20000 60000
+8 8 0
+18 0 13 13 13 13 0
+0 4 0
+-300 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3612
+nome worker~
+a Nome worker~
+A Nome worker is gathering some blue moss here.
+~
+The Nome has skin and clothing that is the same color as the rocks that
+surround you.  He is extremely thin and seems to fade in and out while he
+moves about.  He has a bag slung over his shoulder and seems overworked.
+~
+14540 40 -500 W
+25 11 -7 50d3+550 3d5+2
+12000 14000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-70 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#3613
+miner nome~
+a burly Nome miner~
+A burly Nome miner is digging up precious gems for his King here.
+~
+This Nome miner looks strong and aggressive.  He is sweating from his labors
+and is covered with a fine layer of dust.  He glares at you with an evil look
+that makes you wonder if you should move on.
+~
+2632 40 -900 W
+34 14 -9 20d5+700 10d3+4
+30000 50000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-90 0 4 0 0
+15 15 15 15 15
+0 0 0
+6 0
+#3614
+boq farmer munchkin~
+Boq~
+Boq stands here getting ready to return to his fields.
+~
+Boq is dressed in the typical blue clothes that almost all of the Munchkins
+wear.  His face is deeply tanned and he squints slightly after many years
+in the bright Oz sun.  When you glance at his heavily caloused hands, you
+could almost swear that his thumb looked a little green!
+~
+10316 40 800 W
+15 8 2 6d5+330 3d3+1
+1000 8000
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#3615
+foreman nome~
+the Nome foreman~
+The Nome foreman is standing here glowering at you.
+~
+This Nome is much larger than most of the other Nomes you have seen.  He is
+dressed in dusty, stone colored clothes and has a serious, no-nonsense look
+about him.  He does not look pleased to see you in his mines.
+~
+10346 168 -500 W
+49 20 -17 25d6+1300 9d5+1
+147000 95000
+8 8 1
+18 0 13 13 13 13 0
+0 2 0
+-170 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 10
+#3616
+salamander~
+a blazing salamander~
+A huge salamander covered in flames is chained to the floor here.
+~
+The enchanted creature resembles a huge lizard covered with sheets of flame
+that do not appear to harm it in the least.  A huge collar surrounds its neck
+and a heavy chain is bolted to the floor to imprison it here.  After centuries
+of imprisonment by the Nome King, the salamander is pretty hot!
+~
+26731 161 0 W
+66 38 -30 100d5+3400 6d6+14
+198000 38000
+8 8 0
+18 50 13 13 13 13 0
+12 5 0
+-300 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#3617
+gloom munchkin bouncer~
+a sour little Munchkin~
+A sour-looking little Munchkin named Gloom is sitting here. 
+~
+This unusually small Munchkin looks sour and unpleasant.  He is sitting
+at a table nursing a beer while he glares unpleasantly at all of the people
+in the Inn.  
+~
+30793 40 100 W
+28 12 -9 25d4+700 4d6+2
+4000 52000
+6 6 1
+18 45 13 13 18 13 0
+20 1 0
+-90 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#3618
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#3619
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#3620
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#3621
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#3630
+warrior nome~
+a Nome warrior~
+A fierce Nome warrior emerges from the rock and glares at you.
+~
+This battle-hardened veteran of the Nome King's many campaigns of conquest
+looks like a deadly and merciless opponent.  He is much larger than most of 
+the Nomes you have seen and does not have the typical pot belly.  He is 
+heavily muscled and moves with the silent grace of a cat.
+~
+12393 262144 -500 W
+43 15 -13 25d4+975 7d5+1
+5000 50000
+8 8 1
+18 0 13 13 13 13 0
+18 2 0
+-130 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 10
+#3631
+jeweler nome~
+a crafty Nome jeweler~
+A crafty Nome jeweler is plying his trade here.
+~
+This wizened Nome craftsman has a leather apron worn over his clothing.  
+His rheumy eyes are bloodshot and permanently locked into a perpetual squint
+from years of setting gemstones and creating jewelry for the King.  He is
+thinner than most of the other Nomes you have seen but his wirey frame looks
+strong and fit.
+~
+201 0 0 W
+25 10 -9 25d4+700 4d5+3
+48000 33000
+6 6 1
+13 0 13 13 13 13 0
+7 1 0
+-90 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#3632
+nome king nomeking roquat~
+the Nome King~
+The Nome King, Roquat the Red stands here imperiously.  
+~
+Roquat the Red looks smaller and meaner than most of his subjects.  His
+haughty demeanor and souless gaze make you feel that he values no life other
+than his own.  Dissipated and venal, the King of the Nomes is not to be 
+trifled with.  It would be best if you had never come this far.
+~
+288911 131200 -1000 W
+99 40 -37 50d4+5300 20d4+10
+297000 45000
+8 8 1
+18 100 13 13 13 13 0
+11 1 0
+-370 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#3633
+blug general~
+General Blug~
+General Blug is standing here at attention.  
+~
+General Blug is an unusually tall Nome with grey whiskers that almost reach
+the floor.  His rock-colored uniform is covered with medals and is neatly
+pressed.  He stands stiffly at attention but you notice that his eyes move
+constantly, scanning the room for threats to the Nome King.
+~
+10314 40 -400 W
+50 25 -21 50d3+1700 9d6+2
+4000 1000000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-210 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3634
+Kalidah~
+a fearsome Kalidah~
+A fearsome Kalidah stands ready to pounce on you.  
+~
+This immense and powerful creature is a Kalidah, with the body of a bear and
+the head of a tiger.  Its powerful claws and sharp fangs make it an incredibly
+effective predator, as is its appetite for blood and raw flesh.  Heavily
+muscled and extremely agile and quick, these creatures rarely are killed by
+either man or beast.
+~
+4202 1064 0 W
+44 20 -17 50d3+1300 9d5+4
+100 85000
+8 8 0
+18 0 13 13 13 13 0
+0 5 0
+-170 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#3635
+guild member munchkin~
+a member of the Lollipop Guild~
+A member of the Lollipop Guild is busy eating a lollipop.
+~
+This young Munchkin is a member of the notorious Lollipop Guild, a secret
+society of teenage Munchkins who spend all of their time munching lollipops
+when they should be working in the fields.  The youngster looks somewhat
+hyperactive, probably from all of the sugar.  His face and hands are sticky
+and he seems a little plump.
+~
+4297 0 400 W
+14 7 -1 10d4+340 3d4+3
+300 15000
+5 5 1
+13 0 13 13 13 13 0
+19 1 0
+-10 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#3636
+constable munchkin~
+a Munchkin constable~
+A Munchkin constable is walking his beat here.  
+~
+This portly Munchkin is a member of the local constabulary.  There is almost
+no crime in the Munchkin City so this constable looks relaxed and somewhat
+bored.  He smiles and nods at all of the passersby but you notice that he is
+keeping a wary eye on all strangers, including you.
+~
+6345 8 1000 W
+19 8 -1 10d4+340 4d4+1
+500 10000
+8 8 1
+13 0 13 13 13 13 0
+1 1 0
+-10 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#3637
+lullabye member Munchkin~
+a member of the Lullabye League~
+A member of the Lullabye League is sleeping here.  
+~
+This beautiful Munchkin girl is extremely petite, and is barely tall enough
+to reach your waist.  She is dressed in a beautiful blue silk nightshirt and
+looks like she just rolled out of bed.
+~
+200 16384 800 W
+13 7 1 30d3+225 4d3+2
+200 9000
+4 4 2
+13 0 13 13 13 13 0
+0 0 0
+10 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#3638
+snake asp~
+an emerald green snake~
+An emerald green snake slithers into view near your feet.  
+~
+This slender snake is bright green and almost three feet long.  It's hide
+has an unearthly, irridescent shimmer and it moves with remarkable speed
+without making the slightest noise.  You notice that it's head is diamond
+shaped and its fangs are rather long.
+~
+72 524328 -100 W
+25 10 -5 10d5+500 4d4+6
+0 22000
+6 6 0
+13 0 13 13 13 13 0
+0 0 0
+-50 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#3639
+peacock bird~
+a peacock~
+A beautiful peacock is strutting by with his tail plumes displayed.  
+~
+This beautiful peacock has the most spectacular plumage you have ever seen.
+It has a haughty look as it struts around and preens at his feathers.
+~
+200 0 0 W
+10 6 2 10d3+200 3d4+1
+0 9000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#3640
+jackdaw bird~
+a Jackdaw~
+A huge black bird flutters angrily over your head.  
+~
+This huge bird resembles a crow except that it is huge, easily outweighing
+you.  It is covered with coarse, black feathers and has beady eyes that dart
+around, glaring angrily at you.  Its beak is sharp, as are its talons.  It
+does not look happy to find you near its nest.
+~
+2159 40 -400 W
+24 12 -5 10d5+500 4d4+2
+22000 12000
+8 8 0
+13 0 13 13 13 13 0
+7 4 0
+-50 0 4 0 0
+40 40 40 40 40
+0 0 0
+6 10
+#3641
+poppies bed flower flowers~
+a beautiful expanse of poppies~
+A beautiful carpet of poppies grows beneath your feet.
+~
+Beautiful poppies grow thickly here, creating a fragrant carpet of blossoms
+that is very comfortable to walk upon.  You detect a faint haze from the
+heavy pollen that the sticky blooms give off.  The odor is faintly sweet and
+makes you feel rather sleepy.
+~
+4194410 16424 0 W
+10 2 0 5d40+0 2d3+0
+0 1000
+5 5 0
+13 0 13 13 13 13 0
+0 0 0
+0 0 2 0 0
+75 75 75 75 75
+16 0 0
+6 10
+#3642
+bee honey~
+a fat honey bee~
+A fat honey bee is lazily buzzing from flower to flower.  
+~
+This tiny insect buzzes noisly as it moves from blossom to blossom, looking
+for pollen.  It has a narrow yellow marking circling its abdomen and a nasty
+looking stinger protrudes from its rear end.
+~
+2122 0 -100 W
+8 4 3 4d5+170 3d3+1
+0 3000
+5 5 0
+13 0 13 13 13 13 0
+0 0 0
+30 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#3643
+horse~
+a horse~
+A nervous horse is tethered here by the wagon.
+~
+This nice looking horse looks well cared for and well fed.  The howling
+winds are making him nervous and he is pulling a little on the tether that
+is tied to the wagon.  
+~
+74 32 0 W
+5 3 7 3d3+85 1d8+2
+2 500
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+70 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#3644
+cow~
+a cow~
+A rather sad-looking cow is floating by upside down.
+~
+This heifer looks like a typical cow except for that fact that is floating
+upside down inside a tornado.  It looks rather stunned.
+~
+24650 0 0 W
+8 5 2 4d3+2 2d5+2
+3 2000
+3 3 0
+13 0 13 13 13 13 0
+0 3 0
+20 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#3645
+jitterbug bug~
+the Jitterbug~
+The Jitterbug stands here waving its mandibles at you.
+~
+This huge insect is easily six feet tall and stands erect on two of its
+legs.  It has a heavilly armored, wasp-like body with long, articulated legs
+that are covered with dangerous looking spines.  It's mandibles look
+powerful enough to tear any creature apart and it stares at you with its
+multi-faceted eyes.
+~
+289007 168 -300 W
+75 30 -13 50d3+2200 12d6+2
+225000 125000
+8 8 0
+18 99 13 13 13 13 0
+13 5 0
+-130 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 10
+#3646
+guard~
+a castle guard~
+One of the castle guards is standing at his post here.  
+~
+The warrior standing guard here is tall and heavily-muscled, with the
+predatory look of a battle-hardened veteran.  His skin has a strange, bluish
+cast to it and his teeth appear to have been filed to sharp points.
+~
+523 40 -250 W
+51 20 -14 33d3+1150 20d3+1
+3000 32000
+8 8 1
+13 0 13 13 13 13 0
+18 2 0
+-140 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3647
+guard~
+an off-duty guard~
+An off duty guard is sitting here sharpening a nasty-looking dagger.
+~
+This guard looks battle-hardened and world-weary.  He is using his off
+duty hours to work on his equipment, oiling his leather equipment and
+maintaining a keen edge on all of his weapons.  He seems absorbed in his
+knife-sharpening and does not appear to notice you enter the room.
+~
+74 0 -250 W
+47 18 -12 25d3+1000 8d5+2
+4000 29000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-120 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3648
+guard~
+a castle guard~
+One of the castle guards is patrolling here.  
+~
+This guard is tall and heavily-muscled with a battle-hardened gaze that
+sends shivers up your spine.  His skin has an odd, bluish color that adds
+to his ferocious appearance.  He stares at you with an evil grin and prepares
+to attack.
+~
+6186 40 -250 W
+42 20 -14 33d3+1100 8d5+5
+3000 34000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-140 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#3649
+monkey ~
+a flying monkey~
+A flying monkey comes diving at you out of nowhere, howling and screeching.
+~
+This disgusting creature is a large monkey that has enormous wings
+sprouting from its back.  It is wearing an odd leather harness and has a
+heavy iron ring around its neck.  Even from a distance you can clearly see
+its vicious teeth and long claws.  
+~
+8300 32 -500 W
+28 12 -9 4d6+775 4d6+1
+4000 48000
+8 8 0
+18 0 13 13 13 13 0
+0 2 0
+-90 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 10
+#3650
+marvel professor~
+Professor Marvel~
+Professor Marvel is sitting here relaxing by the campfire.
+~
+Professor Marvel is a rather distinguished-looking gentlemen wearing a
+dark frock coat with a red vest, black pants, and a wide-brimmed hat.  His
+clothes look dirty and a bit shabby but he smiles at you with a merry twinkle
+in his eye.
+~
+4218955 16 500 W
+17 7 -1 20d2+340 4d4+4
+8500 9000
+6 6 1
+13 0 13 13 13 13 0
+7 2 0
+-10 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#3651
+henry uncle farmer~
+Uncle Henry~
+Uncle Henry is making sure the livestock is out of the barn.
+~
+Uncle Henry is an old, tired-looking farmer whose skin is dark and deeply
+lined by years of hard work in the hot Kansas countryside.  He is wearing
+denin overalls, heavy boots, and an old shirt that has been carefully
+mended many, many times.  He looks worried about his farm.
+~
+4202697 0 900 W
+12 7 1 4d4+280 3d4+1
+200 6000
+8 8 1
+13 0 13 13 13 13 0
+19 2 0
+10 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#3652
+em emily aunt~
+Aunt Em~
+Aunt Em is here looking for her niece Dorothy.
+~
+Aunt Em is in her fifties and looks tired and careworn.  Despite her age
+she looks strong and is searching desperately for her niece Dorothy who must
+be missing.  She is wearing a gingham dress and an apron that are blowing
+wildly in the wind.
+~
+4194505 0 900 W
+10 6 2 10d3+200 3d4+1
+175 4500
+8 8 2
+13 0 13 13 13 13 0
+5 2 0
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#3653
+gulch miss~
+Miss Gulch~
+Miss Gulch is walking here looking sour and totally pissed off.
+~
+Miss Gulch is an aging spinster whose money and power has not made her
+happy nor kept her looking young.  She is stomping along with a sour look
+on her face and looks angry at the world.  Her expensive clothes are dust
+streaked and sweat is beading up across her forhead.  
+~
+4204621 0 -500 W
+21 8 -1 4d5+360 7d2+4
+12000 9000
+8 8 2
+13 0 13 13 13 13 0
+19 2 0
+-10 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#3654
+witch wicked~
+the Wicked Witch~
+The Wicked Witch stares at you with an unholy hunger.
+~
+The Wicked Witch of the West is a vile and disgusting creature whose
+years of practicing the unholy arts has left her a withered, dessicated
+creature barely recognizable as a human being.  Her skin has a greenish
+tinge and is stretched taut over her bones.  Her claw-like hands are making
+strange gesture as she licks her cracked lips in anticipation.
+~
+289007 131240 -1000 W
+125 38 -50 50d6+13000 40d3+20
+50000 300000
+8 8 2
+18 100 18 18 13 18 0
+16 2 0
+-500 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#3655
+monkey guard~
+a flying monkey~
+A flying monkey screeches at you for entering the Aerie.  
+~
+This disgusting creature is a large monkey that has enormous wings
+sprouting from its back.  It is wearing an odd leather harness and has an
+iron ring around its neck.  It is leaping about furiously preparing to
+attack.
+~
+10286 32 -500 W
+32 14 -10 25d3+925 4d5+5
+4000 50000
+5 5 1
+18 0 13 13 13 13 0
+0 2 0
+-100 0 4 0 0
+20 20 20 20 20
+0 0 0
+6 10
+#3656
+wizard oz~
+the Wizard of Oz~
+The Wizard of Oz is stand here looking like a humbug.
+~
+The famous and powerful Wizard of Oz is an unassuming little man who
+looks more like an English teacher than a being of immense magic power.
+He looks friendly enough and smiles at you with a slightly embarassed
+expression on his face.
+~
+288975 128 200 W
+122 38 -49 50d6+11350 25d4+20
+38000 280000
+8 8 1
+18 99 18 18 13 13 0
+8 2 0
+-490 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3657
+guard~
+the Palace guard~
+The Palace guard looks at you with disdain and sniffs.
+~
+The Palace guard is tall and imposing.  He stands at attention and glares
+at you with utter contempt.  He is wearing an emerald green greatcoat and
+has a long, drooping mustache.
+~
+262603 128 500 W
+43 16 -13 25d3+1000 9d4+2
+8000 9000
+8 8 1
+13 0 13 13 13 13 0
+1 2 0
+-130 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3658
+horse~
+a horse~
+A horse with oddly changing skin color is standing here.
+~
+This spectacular horse stands here with its tail twitching, eyeing you
+with curiously intellingent eyes.  It is beautifully groomed with mane and
+tail braided and oiled.  Its odd green color surprises you at first, and
+even more so as its color slowly shifts to purple, orange, yellow, and back
+to green again.
+~
+200 40 400 W
+14 5 4 4d4+170 6d2+2
+20 1100
+8 8 0
+18 0 13 13 13 13 0
+0 3 0
+40 0 4 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#3659
+jack Jack pumpkinhead Pumpkinhead~
+Jack Pumpkinhead~
+Jack Pumpkinhead is standing here unsteadily, grinning like an idiot.
+~
+Jack Pumpkinhead is a strange creature with a body made of roughly
+whittled branches crudely pinned together to fashion the spindly arms and
+legs that are attached to a log torso.  Brightly colored clothes are hung
+on his odd frame and a bright orange pumpkin carved with a huge smile is
+impaled onto the sharpened stick that serves as a neck.  Amazingly enough,
+Jack Pumpkinhead is alive and well and smiling at you.
+~
+4196552 0 0 W
+30 15 -13 25d3+1000 9d4+1
+300 65000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-130 0 2 0 0
+25 25 25 25 25
+16 0 0
+6 0
+#3660
+innkeeper~
+the Innkeeper~
+The Innkeeper smiles at you from behind the bar.
+~
+The Innkeeper is a somewhat stout man who looks happy and prosperous.
+He has a ruddy complexion and is heavily built.  He looks like he runs 
+a tight ship and has a lot of fun doing it.
+~
+2251 128 700 W
+37 16 -12 25d3+1000 4d4+4
+9000 62000
+8 8 0
+13 0 13 13 13 13 0
+5 2 0
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3661
+drunk~
+9~
+4
+~
+This gentleman has had a few too many and is starting to nod off.  He is
+leaning heavily on the table and is about to go face first into his beer.
+~
+8392 0 700 W
+15 7 -1 4d5+360 4d2+2
+3 15000
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#3662
+rowdy patron~
+a rowdy patron~
+A rowdy patron is bellowing some tuneless drinking song.
+~
+This guy is obviously feeling on pain as he bellows out some obnoxious
+drinking song that has no tune and no discernable words that you can
+understand.  He looks fit but his face is flushed and sweaty and he is
+completely ignoring you.
+~
+12361 0 800 W
+24 10 -5 10d5+500 4d4+3
+150 18000
+8 8 1
+16 0 13 13 13 13 0
+17 2 0
+-50 0 4 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#3663
+guard~
+an off-duty guard~
+An off-duty guard is drinking here and is eyeing you carefully.
+~
+This guard is still in uniform but is clearly off duty.  He is drinking
+a beer but is watching you carefully from across the room.  
+~
+6473 32 900 W
+33 11 -7 5d25+600 9d4+3
+1200 20000
+6 6 1
+18 0 13 13 13 13 0
+1 2 0
+-70 0 4 0 0
+15 15 15 15 15
+0 0 0
+6 0
+#3664
+dorothy girl~
+a little girl~
+A little girl is sleeping quietly here on top of the bed.
+~
+This little girl must be Dorothy Gale!  The gingham dress and the ruby
+slippers are a dead giveaway.  She is very dear to the people of the Emerald
+City and to the Wizard himself.  Best not to disturb her nap!
+~
+4473033 168 1000 W
+74 35 -30 50d4+3600 35d2+10
+12000 125000
+4 4 2
+13 0 18 18 13 13 0
+19 2 0
+-300 0 2 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#3665
+gatekeeper~
+the Gatekeeper~
+The Gatekeeper guards the city entrance and watches you warily.
+~
+The Gatekeeper of the Emerald City is dressed elegantly and has an air
+of tremendous self-importance.  After glancing at your travel stained 
+clothing and foreign appearance, he is not really paying any attention to
+you.  You guess he will NOT let you into the city.
+~
+2123 168 800 W
+73 30 -25 50d3+2200 20d3+10
+50000 85000
+8 8 0
+18 99 13 13 13 13 0
+5 2 0
+-250 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#3666
+troll~
+a vicious troll~
+A vicious looking troll ponders your impending death.
+~
+This is your typical, under-the-bridge type of troll.  Huge, muscular,
+and extremely pissed.  His face is contorted into a look of pure rage as he
+attacks you for trespassing.
+~
+24687 40 -900 W
+38 24 -18 25d4+1600 9d5+5
+9000 115000
+8 8 0
+18 99 13 13 13 13 0
+18 5 0
+-180 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#3667
+toto dog cairn terrier~
+a cute little Cairn Terrier~
+A cute little Cairn terrier is resting here.  His name must be Toto!
+~
+Toto is a typical Cairn terrier with bright, beady eyes and a tail that
+wags constantly.  He looks well fed and well groomed and is alertly watching
+for threats to his little mistress.
+~
+10312 60 700 W
+25 12 -9 4d6+2 10d3+2
+0 48000
+5 5 1
+18 0 13 13 13 13 0
+0 1 0
+-90 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#3668
+rat~
+a huge rat~
+A huge rat hisses at you and stands its ground.
+~
+This rat is about the size of a small dog.  Its dark, beady eyes stare 
+at you with no sign of fear while its whiskers and naked pink tail 
+twitch from side to side.  You wonder what diseases the huge creature
+must carry.
+~
+32873 40 -100 W
+10 3 2 10d3+200 3d3+2
+1 500
+8 8 0
+13 0 13 13 18 13 0
+6 1 0
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 10
+#3669
+pawnbroker~
+a pawnbroker~
+A wizened pawnbroker eyes your equipment with an appraising look.
+~
+This old, wrinkled man moves rather slowly but has an intense look in his
+eyes.  His old, rheumy eyes flicker across your equipment, silently
+appraising what he can see and guessing at what he cannot.
+~
+2122 128 500 W
+47 25 -21 50d3+1700 9d6+2
+141000 300000
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-210 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3670
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+$

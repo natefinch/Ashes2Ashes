@@ -1,0 +1,883 @@
+#8800
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#8801
+strange yellow muppet~
+a Strange looking Yellow Muppet~
+A strange looking yellow muppet sits here in a seat.
+~
+You see before you a large yellow muppet sitting in one of the many seats in
+the theater.  She is wearing a long yellow dress and has a large orange nose.
+As you look down you notice that she has large webbed feet.
+~
+8 0 0 W3
+1 1 9 2d3+36 1d4+0
+10 200
+8 8 2
+13 0 13 13 13 13 0
+0 3 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#8802
+old purple muppet~
+an Old Purple Muppet~
+An old purple muppet slowly walks toward his seat.
+~
+The muppet standing before you is slowly making his way down the isle.  He has
+been coming to this theater ever since he was little.  He has fond memories
+of the days when he would run down the isle to his seat.
+~
+8 0 0 W3
+3 2 7 2d3+76 1d4+1
+100 750
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8803
+light green muppet~
+a Light Green Muppet~
+A light green muppet sits here in its seat.
+~
+A small light green muppet sits here in its seat.  It looks as if it has no
+nose at all and has long legs.  It sits here wondering if the show is going
+to start soon.
+~
+8 0 0 W3
+2 1 8 5d3+50 1d3+1
+25 475
+6 8 0
+13 0 13 13 13 13 0
+0 1 0
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#8804
+old man statler~
+Statler~
+Statler sits here heckeling the people on stage.
+~
+A man sits here making fun of the actors as they perform.  He has been
+coming to the theater ever since he was a little boy.  They were just
+as easy to heckle then too.
+~
+4104 0 -50 W3
+5 2 3 2d3+96 2d3+1
+2000 1500
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8805
+old man waldorf~
+Waldorf~
+Waldorf sits here laughing at the people on stage.
+~
+An old man who sits here laughing at the people on stage.  He has grey hair
+and enjoys making fun of the people on stage.  He sits here and remembers
+a joke he told a few minutes ago.
+~
+4104 0 -100 W3
+5 4 6 5d3+70 2d3+1
+2500 2000
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8806
+conductor man~
+the Conductor~
+The conductor stands here directing the orchestra.
+~
+You stand before a rather large man with dark eyes.  He watches you
+closely as you wander through 'his' orchestra.  His long white baton
+flies through the air as if he was trying to swat a fly.
+~
+10 0 -100 W3
+4 2 6 5d3+90 2d3+0
+250 1200
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8807
+zoot~
+Zoot~
+Zoot stands here moving with the music.
+~
+A man with long blond hair and big lips stands before you.  He wears cool
+stuff and hangs out here while he sings with the orchestra.
+~
+8 0 0 W3
+3 2 7 2d3+76 1d4+1
+5 725
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8808
+animal~
+Animal~
+Animal sits here beating on his drums.
+~
+You see before you a wild and crazy muppet.  He beats on his drums and
+screams as he plays with the band.  You never know what to expect from him.
+~
+8 0 0 W3
+8 6 5 1d1+212 1d4+3
+10 3000
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#8809
+scooter~
+Scooter~
+Scooter stands here making sure everything runs smoothly.
+~
+An orange muppet with glasses stands here directing traffic.  Being the
+stage manager isn't always easy.  He has to make sure muppets and things
+are in the right place at the right time.
+~
+10 0 10 W3
+5 2 6 5d3+110 1d4+2
+50 2100
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8810
+swedish chef~
+the Swedish Chef~
+The Swedish chef stands here saying, 'hern-de-hern-di-hern.'
+~
+You see a tall muppet with a white apron and a tall white hat.  He has a
+brown moustache and enjoys waving his knives around.  He slowly cuts up a
+chicken and throws it in a pot.  Unfortunately, he forgot to take the
+feathers off if it.
+~
+10 0 10 W3
+4 2 6 2d3+96 2d3+0
+150 750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8811
+dr. swine~
+Dr. Swine~
+An old pig in a silvery space suit sits here.
+~
+You see before you an old muppet in a space suit.  He sits in his chair
+behind the control panel awaiting the rest of the crew.
+~
+10 0 0 W3
+3 2 7 2d3+76 1d4+1
+250 750
+6 8 1
+13 0 13 13 13 13 0
+0 1 0
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8812
+news anchor~
+the News Anchor~
+The news anchor sits here reading a story about falling cattle prices.
+~
+The news anchor sits here in an old brown suit with an ugly striped tie.  He
+is a tall muppet with dark hair and a serious face.  As he reads his story
+he suddenly hears a noise.  Only too late does he look up to see the cow
+falling from above.
+~
+10 0 0 W3
+5 3 6 5d5+105 1d4+2
+1200 2125
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8813
+Dr. Rowlf~
+Dr. Rowlf~
+Dr. Rowlf stands here getting ready.
+~
+A dog in medical garb stands in front of you.  He puts on his gloves and
+organizes his instruments as he gets ready for his next operation.  Who knows
+what's going to happen today.
+~
+10 0 10 W3
+4 2 6 2d3+96 2d3+0
+2000 850
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8814
+beaker~
+Beaker~
+Beaker, Dr. Bunsen's able bodied assistant, stands here.
+~
+A tall skiny muppet with a large red nose stands before you .  He wears a
+long white lab coat and gloves.  He says, 'mee, mee, mee' as you enter the
+room.
+~
+4106 0 25 W3
+5 2 6 2d3+116 1d4+2
+1200 2250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8815
+bunsen~
+Bunsen~
+Bunsen stands here mixing dangerous chemicals.
+~
+Bunsen has a round head and a black set of glasses.  He slowly pours a
+chemical from one test tube into another.  In a huge flash, the liquid
+explodes.  Ooops!
+~
+4106 0 0 W3
+6 3 5 5d3+130 2d5+0
+1500 4500
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8816
+vincent price~
+Vincent Price~
+Vincent Price stands in the corner watching you as you wander around his room.
+~
+Before you stands a tall man dressed in all black.  As you look up at his
+face you get chills from his dark and sinister expression.  His small beady
+eyes seem to cut you like a laser as he stares at you.
+~
+10 0 -100 W3
+8 4 3 5d3+170 2d5+0
+1200 4100
+8 8 1
+13 0 13 13 13 13 0
+0 3 0
+30 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#8817
+john denver~
+John Denver~
+John Denver sits in a chair singing along with his guitar.
+~
+You see before you a nice looking man in a plad shirt.  He sings along with
+guitar as you are charmed by the beautiful music.  It is very peacefull and
+melodic.
+~
+10 0 50 W3
+7 3 4 2d3+156 1d4+3
+2000 4500
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#8818
+gonzo~
+Gonzo~
+Gonzo stands here getting ready for his next act.
+~
+A strange muppet with a hooked nose stands in front of you.  He seems very
+excited as he gets into his flight suit.  It looks as if he is about to
+perform one of his typical stunts.
+~
+10 0 0 W3
+6 3 5 5d3+130 2d3+1
+250 2600
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8819
+kermit frog~
+Kermit~
+Kermit the frog sits here getting ready for his next act.
+~
+You see before you a large green muppet.  He is dressed like a reporter
+with a brown trench coat and a brown hat.  He holds his mike and reports
+from the scene of the action.
+~
+10 0 0 W3
+8 4 0 2d3+150 2d3+1
+2000 4500
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#8820
+big bird~
+Big Bird~
+Big Bird is here traveling down the highway.
+~
+A large yellow bird stands before you.  He has a long orange beak and
+big webbed feet.  he has a friendly smile and waves at you as you
+pass him.
+~
+8 128 120 W3
+15 5 0 5d3+400 2d4+0
+0 19500
+8 8 1
+13 0 13 13 13 13 0
+0 3 0
+0 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#8821
+used car salesman~
+a Used Car Salesman~
+A Used Car Salesman walks around in search of his next customer.
+~
+An older man in his late 40s stands before you.  He is in search of
+his next victem . . .er customer.  He walks around in hopes of
+selling his huge inventory of cars.
+~
+8 0 -130 W3
+14 5 0 5d3+250 5d3+2
+2000 19000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#8822
+customer~
+a Customer~
+A customer is here looking at cars.
+~
+You can tell that this person isn't too bright simply from the fact
+they are looking for cars in this place.  Most of the cars look 
+like they are about to fall apart and the handle almost comes
+off when they try to open the door.
+~
+8 0 0 W3
+6 3 0 5d3+120 3d2+0
+10 3000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8823
+shaggy monster~
+a Shaggy Monster~
+A big shaggy monster stands here.
+~
+You see a big hairy monster standing in the used car lot.  It just
+seems to be handing out there for no apparent monster.  It doestn't
+look to friendly though.
+~
+8 0 0 W3
+11 3 0 5d3+400 2d4+0
+1000 10000
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+0 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#8824
+old lady~
+an Old Lady~
+An old lady sits here waiting for her soup.
+~
+You see a woman with pointed glasses and a hair style from forty
+years ago.  She wears enough make up to plaster a wall with and
+the colors of her clothing could blind a person if they were not
+careful.
+~
+8 0 25 W3
+10 4 4 5d3+400 2d3+0
+50 5000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8825
+cook~
+a Cook~
+The cook chases after a frog that got away from him.
+~
+You see a fairly large man in a white uniform.  He has a tall white
+hat and a thing black moustache.  He runs around the room violently
+chaseing after an escaped frog.
+~
+8 0 0 W3
+8 4 0 5d3+100 4d3+0
+100 4500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#8826
+gangster~
+a Gangster~
+A gangster is here thinking of ways to get Kermit to do an add for him.
+~
+You see the typical gangster standing before you. He has dark hair and a
+fancy suit.  You can see his gun hiding inside his suit coat.
+~
+10 0 -50 W3
+10 5 2 5d3+210 3d3+1
+3000 9500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8827
+waiter~
+a Waiter~
+A waiter runs around looking for escaped frogs.
+~
+A small man with a moustache runs around in search of frogs hoping that no
+one will notice what he is doing.
+~
+8 0 0 W3
+4 2 6 5d3+90 2d3+0
+60 4000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8828
+dr. teeth~
+Dr. Teeth~
+Dr. Teeth stands here playing with the band.
+~
+You see a funky muppet with a gold tooth.  He has a crazy striped hat and
+cool clothes.  He loves to jam with the band and play his guitar.
+~
+8 0 0 W3
+6 3 5 2d3+136 2d4+1
+200 6500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8829
+shirley~
+Shirley~
+Shirley stands here singing with the choir.
+~
+You see a beautiful muppet standing before you.  She usually sings backup with
+the band and enjoys singing in general.
+~
+8 0 0 W3
+5 2 6 5d3+110 1d4+2
+250 4500
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8830
+fozzie bear~
+Fozzie the Bear~
+Fozzie the bear stands here telling a terrable joke.
+~
+You see a large fuzzy brown bear with a brown hat.  He has to duck as things
+are thrown at him after his jokes.  He just shrugs it off and goes on.
+~
+10 0 0 W3
+6 4 0 5d3+150 1d4+3
+1200 7500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8831
+Rowlf~
+Rowlf~
+Rowlf sits here playing the piano.
+~
+You see a small brown dog with a hat and a black nose.  He sits here
+entertaining the customers as they sip their drinks and talk to one another.
+~
+10 0 0 W3
+8 4 3 5d3+170 3d3+0
+550 9500
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#8832
+bartender~
+a bartender~
+A bartender stands here waiting for his shift to end.
+~
+A large man with long dark hair stands behind the counter.  He has just
+finished his shift and is not serving drinks.  Looks like you'll have to
+wait for the next one to show up.
+~
+10 0 0 W3
+6 3 5 5d3+130 2d3+1
+5000 6500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8833
+patron~
+a Patron~
+A patron sits here at a table drinking.
+~
+A man with a nice suit sits here at the table drinking a beer.  He hopes that
+some lady will see that he is sitting alone and join him.  Who knows?
+~
+10 0 0 W3
+3 2 7 2d3+76 1d4+1
+300 680
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8834
+gonzo~
+Gonzo~
+Gonzo sits here looking up into the stars as he sings.
+~
+A strange muppet with a hooked nose stands in front of you.  He sits here
+at peace with his beloved Camilla.
+~
+8 128 0 W3
+9 3 0 5d3+140 2d3+1
+250 5000
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8835
+camilla~
+Camilla~
+Camilla sits here thinking of Gonzo.
+~
+A small chicken with white feathers and a yellow beak sits in front of you.
+She looks up at the stars and thinks of her beloved Gonzo. [31
+~
+8 128 0 W3
+8 3 5 5d3+130 2d3+1
+250 7500
+8 8 1
+13 0 13 13 13 13 0
+0 1 0
+50 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#8836
+miss piggy~
+Miss Piggy~
+Miss piggy sits here thinking about her kermie.
+~
+You see a large pig in a dress.  She sits here singing with the others as
+they sit around the glowing fire.
+~
+4106 128 0 W3
+11 6 4 5d3+150 4d3+0
+700 15000
+8 8 2
+13 0 13 13 13 13 0
+0 5 0
+40 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#8837
+kermit frog~
+Kermit The Frog~
+Kermit sits here wishing miss piggy would leave him alone as he sings.
+~
+A frog wearing clothes sits here at the fire.  He looks at the stars and t     
+thinks of rainbows as he sings.  Maybe one day he might find the other side.
+~
+4106 128 100 W3
+13 5 2 5d5+205 3d3+1
+500 20000
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#8838
+man~
+a Man on the Street~
+A man in a suit runs past you.
+~
+You see a man dressed in a nice business suit.  It looks as if he is late for
+work and is trying to make up time on the way there.  Better get out of
+the way because he looks like he is in a real hurry.
+~
+8 0 0 W3
+3 2 7 5d3+70 1d4+1
+2500 800
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8839
+woman~
+a Woman on the Street~
+A woman passes you on her way to work.
+~
+A tall woman in a business suit walks past you as she heads off to her
+office.  She has long blond hair and a nice smile.  She looks like a
+nice person.
+~
+8 0 25 W3
+3 2 7 1d1+70 2d3+0
+2500 810
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8840
+security guard~
+a Security Guard~
+A security guard watches you as you enter the room.
+~
+A large man in a grey uniform stands before you.  He watches all of the
+people as they come and go throught the building.  He gives you a strange
+look, but lets you pass.
+~
+10 0 0 W3
+11 4 3 5d3+170 3d3+0
+500 15000
+8 8 1
+13 0 13 13 13 13 0
+0 4 0
+30 0 4 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#8841
+clerk~
+a Clerk~
+A clerk sits at a desk helping people.
+~
+A man in a suit sits behind his large wooden desk helping people.  He wears
+a uniform suit with the name of the movie company on it.  He looks like
+he is too young to be working here, but he seems to know what he is doing.
+~
+10 0 0 W3
+5 2 0 4d3+112 1d4+2
+50 6000
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#8842
+receptionist~
+the Receptionist~
+The receptionist sits here looking over the director's appointment book.
+~
+You see a large woman with a mean look on her face.  She has had a very
+busy day taking dictations, answering the phone, and doing various other
+things a receptionist must do.
+~
+10 0 0 W3
+9 5 2 5d5+185 1d4+4
+250 12000
+6 8 2
+13 0 13 13 13 13 0
+0 3 0
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#8843
+director~
+the Director~
+The director sits in his chair ready to listen to you.
+~
+A large man in a dark blue suit sits here in his chair waiting for you to
+tell him your ideas.  He looks old, but seems very strong.  He does not
+look like someone to mess with.
+~
+10 128 0 W3
+19 7 2 5d3+280 3d5+3
+5000 20000
+6 8 1
+13 0 13 13 13 13 0
+0 3 0
+20 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#8844
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+$

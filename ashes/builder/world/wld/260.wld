@@ -1,0 +1,275 @@
+#25640
+Meek's Office~
+This office is elegant. A richly appointed room furnished with a massive old
+desk of scrolled oak, matching chairs with stuffed leather seats and backs,
+and workbenches and endtables with charts and magazines and what appears to
+be work files. Floor-to-ceiling bookcases line three walls, filled with
+ancient tomes and artifacts of all kinds. A bank of windows comprise the
+fourth wall, but the curtains are drawn tight across them and there are only
+ceiling lamps to give the room its oddly muted light. Deep pile carpet of
+earthen brown sprout from the floor like dry saw grass. The room smells
+faintly of furniture polish and old leather
+~
+260 8204 0
+0d0+0 0 0
+D2
+
+~
+~
+0 -1 25641
+E
+desk~
+An old desk of scrolled oak, but it appears that you can not open it.
+~
+E
+chairs~
+These chairs look very comfortable enough to sit down in and rest
+~
+E
+bookcase~
+All of the items seem to be out of your reach in the bookcase.
+~
+E
+windows~
+You desperatly would like to look out the window on the 26th floor.
+~
+E
+curtains~
+It seems that you can not open the curtains, too bad.
+~
+S
+#25641
+Entrance to Landover~
+This is a lightly wooded area. There appears to be a path that leads south
+through the trees. You are pretty sure that path will take you to Sterling
+Silver, where Ben the King of Landover resides.
+~
+260 8196 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 25640
+D2
+~
+~
+0 -1 25642
+S
+#25642
+Before Sterling Silver~
+Here you are ... inside the magic kingdom of Landover. From here it appears
+that you can go most anywhere. There is a castle to the south, you can go see
+the king. There is a nice looking place to the southeast it looks all
+official. To the west you may find Strabo. Through the jungle it is rumored
+that you may actually find Nightshade although I fo not reccomend it as she
+hates visitors ....
+~
+260 8192 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 25641
+D2
+~
+~
+0 -1 25643
+D3
+~
+~
+0 -1 25646
+D8
+~
+~
+0 -1 25644
+D9
+~
+~
+0 -1 25648
+S
+#25643
+Inside Sterling Silver~
+You find yourself inside of Sterling Silver, the King's Castle. In here you
+would expect to find so much, but it just does not seem that big. Hopefully
+the King's guards do not take you for evil doers and attack you on site.
+~
+260 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25642
+S
+#25644
+The Heart~
+As you walk through a light forest, suddenly without warning the trees part
+and you enter a clearing. This clearing is bright with sunshine, its grasses
+a glimmer of green, gold and crimson. Bonnie Blues grow all about the edges
+of the clearing, evenly spaced and perfectly formed. Burnished timbers of
+white oak form a dais and throne at the clearing's center. Polished silver
+stanchions are anchored at the corners of the dias, and in their holders are
+tall white candles, their wicks new. Flags of varying colors and insignia
+lift from behind the dais All about are white velvet kneeling pads and
+rests. You are pretty sure if a coranation where to take place, it would
+happen here.
+~
+260 8192 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 25645
+D7
+~
+~
+0 -1 25642
+E
+pad pads velvet kneel kneeling~
+There are velvet kneeling pads located all around the dais. They appear to be
+for guests attending the coronation.
+~
+E
+candle candles~
+These are long white candles. They are currently burining in anticipation of
+a coronation.
+~
+E
+stanchion stanchions~
+These appear to be tall candle holders.
+~
+E
+throne chair seat~
+In the center of the dais, there is a throne made of white oak.
+~
+E
+dais~
+In the center of this clearing, there is a dais made of white oak.
+~
+E
+bonnie blues blue~
+Bonnie Blues appear to be a natural growing food.
+~
+S
+#25645
+The Tangle Box~
+You are unsure how this has happened, but you are inside the Tangle Box. You
+are not very sure how you will get out of this mess. You are not quite sure
+that you want to leave as it is very relaxing here. You suddenly remember the
+Gorse may be here!
+~
+260 8235 0
+0d0+200 35 0
+D0
+~
+~
+0 -1 25644
+S
+#25646
+Before Strabo's Lair~
+Here you are before Strabo's lair. The gate to your west is locked. Perhaps
+the gate is locked to protect Strabo from you or would it be to protect you
+from him? It is a well known fact that gnomes pick keys and all other sorts
+of things up.
+~
+260 8192 10
+0d0+0 0 0
+D1
+~
+~
+0 -1 25642
+D3
+There is a sturdy gate, perhaps keeping Strabo in?
+~
+gate~
+2 25646 25647
+E
+gate~
+The gate appears to be shut for a reason, are you sure you want to open it?
+~
+S
+#25647
+Strabo's Lair~
+Finally .. you have found Strabo's lair. Now as you look around, you begin
+to wonder if it was such a good idea to seek out his lair. As you look at
+Strabo you know that it is probably a good idea to leave.
+~
+260 14464 10
+0d0+0 0 0
+D1
+~
+gate~
+2 25646 25646
+S
+#25648
+Impenetrable Woods~
+You are in a very dense forest. It seems like you will never get out. All
+around you you can only see trees and more trees. You are not even sure that
+you are not going in circles. You know you will only find Nightshade if you
+make it through the forest anyway. You are starting to wonder just how good
+of an idea this really is.
+~
+260 8193 12
+0d0+0 0 0
+D0
+~
+~
+0 -1 25648
+D1
+~
+~
+0 -1 25648
+D2
+~
+~
+0 -1 25648
+D3
+~
+~
+0 -1 25648
+D6
+~
+~
+0 -1 25642
+D7
+~
+~
+0 -1 25648
+D8
+~
+~
+0 -1 25648
+D9
+~
+~
+0 -1 25649
+E
+tree trees jungle forest~
+You see trees, many trees. Nothing else.
+~
+S
+#25649
+The Deep Fell~
+You feel very uncomfortable entering this area. The sounds you heard as you
+went through the forest have went away as you entered this clearing. This
+area reeks of evil, you begin to wonder if this is such a great idea to be
+here. You see a lone figure standing near the center of this clearing, you
+belive that it may be Nightshade. You already know that you are here
+uninvited, so you know that she will not be very happy to see you.
+~
+260 8193 12
+0d0+0 0 0
+D6
+~
+~
+0 -1 25648
+E
+clearing~
+You see a clearing in the forest, there appears to be a figure standing near
+the center of the clearing.
+~
+E
+figure person human humanoid~
+There is a person in the center of the clearing, it appears to be Nightshade!
+~
+S
+$

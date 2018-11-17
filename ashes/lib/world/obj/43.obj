@@ -1,0 +1,535 @@
+#4300
+night~
+the Night~
+A patch of the deepest, most dark night slowly sucks the light from the room.~
+~
+5 204824 8193 0
+5 0 0
+0 18 1 12
+0 1000000 1000000
+A
+17 4
+A
+18 4
+A
+1 4
+A
+14 -20
+E
+night~
+This is the essence of the Night itself, terribly powerful.  Its use is
+shaped by the intent of its owner.  The power can only be fully controlled
+by MidKnight himself, all others attempting to do so, slowly lose their
+lifeforce to the devouring hunger of the darkness.
+~
+#4301
+moon moonshadows shadows shadow light moonlight midnight~
+Moonshadows created by moonlight at midnight~
+A shadow created by the moon at midnight stretches across the floor.~
+~
+12 204816 1025 294912
+5 0 0
+0 0 0 0
+0 500000 500000
+A
+18 3
+A
+17 2
+E
+shadows shadow moon moonshadow moonlight light midnight~
+These dark shadows consist of everything dark and mysterious.  They are
+the cloak that shrouds MidKnight at all times.  They seem to writhe and
+expand as you stare at them, reaching out tendrils of deepest night to
+draw your soul inward.  The touch is cool, yet not uncomfortable, and you
+find yourself yearning to be a part of the darkness.
+~
+#4302
+star~
+the Star of MidKnight~
+You see a small, seven pointed star floating just above the floor here.~
+~
+11 541777 5 5120
+0 0 0
+0 0 0 0
+1 500000 500000
+A
+18 3
+A
+17 3
+A
+14 10
+E
+star midknight~
+ Looking at the star, it seems to glow and hum before your very eyes.
+There is a snake coiled into the sign of infinity in the center, biting
+it's own tail like the great world serpent.  The stars seems at first to
+be a normal six pointed star, but when you look more carefully you see that
+there are actually seven points.  As you move closer, you think you notice
+movement out of the corner of your eye.  Was it a trick of the light, or
+did that snake start to writhe?
+~
+#4303
+wedding band polished memories lost love~
+a gold wedding band polished by the memories of a lost love~
+A gold wedding band lies on the floor.~
+~
+11 10058776 3 4194304
+0 0 0
+0 0 0 0
+1 200000 200000
+A
+7 10
+A
+5 -3
+A
+11 -30
+E
+gold wedding band polished memories lost love~
+This is Jericho's wedding ring, it's match buried along with his wife.  In a
+huge war seven years ago, Jericho's wife, Sarah, was caught in a town
+ransacked by the enemy.  Jericho fought valiantly, killing dozens of men
+before he was captured.  Unfortunately he could do nothing to save his wife,
+who was killed before they could be reunited.  Swearing vengeance on the
+soldiers of the town, and the entire enemy, Jericho escaped his prison and
+killed the rest of the army in the town.  But nothing could bring back his
+wife.
+~
+#4304
+star silver sebastian~
+a small, silver star on a leather thong~
+A small silver star lies on the floor here.~
+~
+8 1044504 5 0
+0 0 0
+0 0 0 0
+1 200000 200000
+A
+18 3
+A
+17 3
+A
+16 -4
+A
+14 20
+A
+15 20
+E
+small silver star leather thong~
+This is a simple silver star threaded onto a leather thong to be worn around
+the neck.  It is Sebastian's only memento from his early childhood among the
+gypsies.
+~
+#4305
+small silver flute~
+a small silver flute~
+A small silver flute lies on the ground.~
+~
+3 65560 16385 0
+0 0 0
+100 50 50 59
+1 20000 20000
+A
+15 20
+A
+14 20
+A
+12 50
+A
+16 -4
+E
+small silver flute~
+This is the flute Sebastian keeps with him at all times.  It's low, mellow
+tones often fill the air while he's reminiscing, or just when he is in the
+mood.  It looks old, but well cared for, the silver is polished and without
+tarnish.
+~
+#4306
+tarnished silver armlet runes~
+a tarnished silver armlet covered in runes~
+An old silver armlet lies on the ground, discarded.~
+~
+12 1045592 257 1073741824
+0 0 0
+0 0 0 0
+1 200000 200000
+A
+18 1
+A
+17 3
+A
+16 -4
+A
+12 25
+A
+15 10
+A
+10 30
+E
+tarnished silver armlet runes~
+This is the armlet Sebastian wears on his right bicep, he never takes it off.
+Only Sebastian knows where he got it, but many think it's a powerful magic
+item he acquired in his travels.  It looks tarnished and old, but powerful
+runes are inscribed on it, inside and out, showing it's power to those with
+the right knowledge.
+~
+#4307
+deep purple bracer christened tears innocent children~
+a deep purple bracer christened by the tears of innocent children~
+A deep purple bracer lies on the floor.~
+~
+12 619544 4097 4096
+9 32 0
+0 0 0 0
+1 200000 200000
+A
+11 10
+A
+14 5
+A
+4 2
+A
+18 3
+A
+17 1
+E
+deep purple bracer christened tears innocent children~
+This wrist armor was blessed by the tears of the innocent children Jericho
+fought to protect in a battle long ago.  Made of a strange deep purple metal,
+it sparkles in anything but the deepest darkness, showing the power of
+sacrifice for another. Jericho gave the bracer to MidKnight after he saved
+Jericho's life.
+~
+#4308
+huge studded gauntlets~
+a pair of huge studded gauntlets~
+A pair of huge gauntlets sits on the floor.~
+$n pounds $s gauntleted fist into the earth, and the ground heaves under you.~
+4 9531416 16513 0
+0 0 0
+127 25 25 23
+0 1000000 1000000
+A
+11 30
+A
+16 -8
+E
+huge studded gauntlets~
+These gauntlets are made of the strongest metal known to man.  Bands of armor
+go half way up the forearm and there are big metal studs attached to the
+knuckles.  They are almost weapons in and of themselves.
+~
+#4309
+small gold locket~
+a small gold locket~
+A small gold locket lies on the floor, dropped by some fair maiden.~
+~
+8 574488 5 0
+0 0 0
+0 0 0 0
+1 200000 200000
+A
+13 4
+A
+10 30
+E
+locket golden~
+On the back of the locket you see an inscription which reads, To my love,
+Dakota, who will always be in my heart.  Jericho. Looking inside you see the
+picture of a handsome man standing next to Dakota.  The picture is old but
+still in good condition.  This was obviously a very important item to Dakota.
+~
+#4310
+shoes horseshoes moonrock~
+Silver horseshoes dusted with powdered moonrock~
+Two silver horshoes are tacked to the wall here.~
+~
+9 607321 65 0
+7 0 0
+12 0 0 0
+1 0 0
+A
+24 3
+A
+15 10
+A
+12 30
+#4311
+innocence child shield~
+the wide-eyed innocence of a child~
+Looks like someone lost their innocence here.~
+~
+12 642152 513 4096
+13 0 0
+0 0 0 0
+1 200000 200000
+A
+4 -2
+A
+7 -10
+A
+16 -20
+E
+innocence child shield~
+This is the essence of all that is wonderful in childhood.  The ability to
+take everything in with a sense of wonder and amazement, the ability to
+shield one's self from anguish and harm through naivete and innocence. There
+is nothing so cherished as the innocence of childhood.
+~
+#4312
+heart screaming darkness incarnate~
+the screaming heart of darkness incarnate~
+A pulsing heart of the deepest black throbs in the shadows.~
+~
+12 35045528 129 0
+0 0 0
+0 0 0 0
+3 200000 200000
+A
+14 15
+A
+10 25
+A
+13 5
+E
+heart darkness screaming incarnate~
+This is the very essence of the darkness MidKnight controls.  It writhes
+around you, seeking to devour your life force.  Those who control this
+powerful entity gain extraordinary powers of regeneration, though they soon
+discover the sword has two edges.  The power is a curse upon the wielder, in
+short order making his life into a neverending nightmare.
+~
+#4313
+aura darkness~
+an aura of darkness~
+A patch of darkness deepens the shadows of the room.~
+~
+9 1507992 1025 536879617
+5 34 0
+14 0 0 0
+1 200000 200000
+A
+18 3
+A
+17 2
+A
+2 -4
+#4314
+bear blue teddy overstuffed big~
+a big overstuffed blue teddy bear~
+A big blue teddy bear sits in the corner happily.~
+~
+8 4 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4315
+~
+~
+
+~
+~
+12 10354008 8193 135168
+0 0 0
+0 0 0 0
+1 1000000 1000000
+#4316
+sword holy avenger~
+the Holy Avenger~
+A well made sword sits here in the dust.~
+~
+5 60683608 8193 4329472
+7 0 0
+0 9 3 6
+1 1000000 1000000
+A
+17 4
+A
+18 4
+A
+24 10
+E
+sword holy avenger~
+This is the sword Samantha received from her god for long and faithful
+service to him.  Its hilt is crafted in the fashion of a gold dragon, and the
+blade shines, always kept magically sharp. On the blade of this magnificent
+sword is written the word JUSTICE. You can feel the power in this weapon,
+though you can tell it can only truly be wielded by one pure of heart and
+resolute of spirit.
+~
+#4317
+platemail plate~
+Engraved steel plate mail~
+A pile of well made platemail lies in the corner.~
+~
+9 60683608 9 0
+0 0 0
+17 0 0 0
+50 200000 200000
+A
+17 3
+A
+18 3
+A
+11 25
+E
+platemail steel plate~
+This armor was forged by Samantha's boyhood friend, Jeremiah.  When Samantha
+took up her sword, he turned to blacksmithing, while at first she chided him
+for his choice, she is now proud to be his friend, as he is known to be the
+best armorsmith in the kingdom. The armor holds great enchantments,
+strengthening it against attacks. But even aside from its magic, the armor is
+a wonderful piece of work. Intricate designs are engraved over the entire
+armor, finer than any King's ceremonial armor.  They say you can see the
+shine from a mile away.
+~
+#4350
+~
+~
+~
+~
+12 0 24585 0
+0 0 0
+0 0 0 0
+1 0 0
+#4387
+armor suit~
+a suit of armor~
+A large suit of full plate armor is standing here at attention.~
+~
+15 0 0 0
+0 0 0
+77 0 0 0
+75 0 0
+E
+armor suit plate~
+This armor is exceedingly well made.  The metal is highly polished and
+engraved with intricate symbols.
+~
+#4388
+armor suit~
+a suit of armor~
+A large suit of full plate armor is standing here at attention.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+75 0 0
+E
+armor suit plate~
+This armor is exceedingly well made.  The metal is highly polished and
+engraved with intricate symbols.
+~
+#4389
+key small~
+a small key~
+~
+~
+18 4 1 0
+0 0 0
+0 0 0 0
+1 0 0
+#4390
+fountain stone water~
+a small fountain~
+A small fountain nestled under a large oak tree sits here.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 0 0
+1 0 0
+#4391
+key gate~
+the key to the gate~
+A large key sits on the ground.~
+~
+18 4 1 0
+0 0 0
+0 0 0 0
+1 0 0
+#4392
+key~
+a small key~
+A small key rests on the floor here, waiting to be used.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4393
+chest~
+a small chest~
+A small chest sits on one of the shelves of the library.~
+~
+15 0 0 0
+0 0 0
+2 15 4392 0
+1 0 0
+#4394
+fountain~
+a fountain~
+A small fountain sits off to one side of the garden.~
+~
+15 0 0 0
+0 0 0
+2 0 0 0
+1 0 0
+E
+fountain~
+This is a multi-levelled fountain, with water falling from the top and
+cascading down from level to level.  The water is clear and cool and
+something small and silver in one of the middle level pools catches your eye.
+Looks like a chain with something on it, wonder what it could be.
+~
+#4395
+fountain~
+~
+~
+~
+15 0 0 0
+0 0 0
+2 0 0 0
+1 0 0
+#4396
+key chain~
+a key on a small chain~
+A key on a small chain rests on the ground.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4397
+fountain~
+a fountain~
+A small fountain surrounded by flowers bubbles gently.~
+~
+23 0 0 0
+0 0 0
+1000000 1000000 15 0
+1 0 0
+E
+fountain inscription~
+The inscription on the bottom of the fountain, under the water reads
+Dedicated to the memory of my dearest love, and best friend, Dakota. You will
+be in my heart until we can once again be together.
+-J.O.
+~
+#4398
+key~
+a small key~
+A small key lies in the dust.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4399
+key dark runed~
+a key covered in dark runes~
+~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+$

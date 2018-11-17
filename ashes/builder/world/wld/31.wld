@@ -1,0 +1,890 @@
+#3100
+Wheat fields.~
+North and west is the river.
+~
+31 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3101
+D2
+~
+~
+0 -1 3106
+S
+#3101
+Wheat fields.~
+North is the river.
+~
+31 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3102
+D2
+~
+~
+0 -1 3107
+D3
+~
+~
+0 -1 3100
+S
+#3102
+A dirt road between the fields.~
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3051
+D1
+~
+~
+0 -1 3103
+D2
+~
+~
+0 -1 3108
+D3
+~
+~
+0 -1 3101
+S
+#3103
+A path, or a farmer's front yard or something..~
+This room connects a farmer's house with his horse stable and
+the road between the fields. The river is north.
+~
+31 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3104
+D2
+~
+~
+0 -1 3109
+D3
+~
+~
+0 -1 3102
+S
+#3104
+A horse stable.~
+~
+31 0 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 3103
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3105
+Wheat fields.~
+To the north is the river, to the west is a dense forest.
+~
+31 4 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3106
+D2
+~
+~
+0 -1 3113
+S
+#3106
+Wheat fields.~
+~
+31 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3100
+D1
+~
+~
+0 -1 3107
+D2
+~
+~
+0 -1 3114
+D3
+~
+~
+0 -1 3105
+S
+#3107
+Wheat fields.~
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3101
+D1
+~
+~
+0 -1 3108
+D2
+~
+~
+0 -1 3115
+D3
+~
+~
+0 -1 3106
+S
+#3108
+A dirt road between the fields.~
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3102
+D2
+~
+~
+0 -1 3116
+D3
+~
+~
+0 -1 3107
+S
+#3109
+A farmer's house.~
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3103
+D2
+~
+~
+0 -1 3117
+S
+#3110
+Corn fields.~
+To the east is a mountain range.
+~
+31 8 0
+0d0+0 0 0
+D1
+You see the park road.
+~
+door~
+1 3120 3111
+D2
+~
+~
+0 -1 3118
+S
+#3111
+A path through the forest.~
+Here the path meets a strange street (mockingbird lane).
+Addam's family will be to the north.
+~
+31 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3112
+E
+building door sign~
+The sign on the door says:-
+
+                 Cityguard Head Quarters
+
+           WARNING: Authorized Personnel Only!
+~
+S
+#3112
+A path through the forest.~
+~
+31 4 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3113
+D3
+~
+~
+0 -1 3111
+S
+#3113
+Wheat fields.~
+To the west is a dense forest.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3105
+D1
+~
+~
+0 -1 3114
+D2
+~
+~
+0 -1 3119
+D3
+~
+~
+0 -1 3112
+S
+#3114
+Wheat fields.~
+~
+31 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 3106
+D1
+~
+~
+0 -1 3115
+D2
+~
+~
+0 -1 3120
+D3
+~
+~
+0 -1 3113
+S
+#3115
+By a meteor crater.~
+Here is a large meteor in a crater. There is a chain attached to
+it that goes up into the sky (that's the chain that leads to redfern).
+There should be something about the local lore about this place.
+Ideas I had are that it's the world's equivalent of a plug in a washtub,
+for when the river floods, or that it is a discarded weapon of the gods
+(an enormous ball and chain).
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3107
+D1
+~
+~
+0 -1 3116
+D2
+~
+~
+0 -1 3121
+D3
+~
+~
+0 -1 3114
+D4
+~
+~
+0 -1 7914
+D5
+~
+~
+0 -1 3131
+S
+#3116
+A dirt road between the fields.~
+~
+31 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3108
+D1
+~
+~
+0 -1 3117
+D2
+~
+~
+0 -1 3122
+D3
+~
+~
+0 -1 3115
+S
+#3117
+Corn fields.~
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3109
+D1
+~
+~
+0 -1 3118
+D2
+~
+~
+0 -1 3123
+D3
+~
+~
+0 -1 3116
+S
+#3118
+Corn fields.~
+To the east is a mountain range.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3110
+D1
+You see a small cottage with an oaken door.  A name plate has been set on it.~
+door~
+2 3300 0
+D2
+~
+~
+0 -1 3124
+D3
+~
+~
+0 -1 3117
+E
+plate name~
+The name 'Papi Llon' has been carved into the name plate.
+~
+S
+#3119
+Corn fields.~
+To the west is a dense forest.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3113
+D1
+~
+~
+0 -1 3120
+D2
+~
+~
+0 -1 3125
+S
+#3120
+Corn fields.~
+A path leads through the field, from the east, north to the farmer's house.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3114
+D1
+~
+~
+0 -1 3121
+D2
+~
+~
+0 -1 3126
+D3
+~
+~
+0 -1 3119
+E
+sign~
+The sign points in all directions:
+
+   North - Emerald Avenue.
+   East  - Park Road.
+   South - Emerald Avenue.
+   West  - Park Road.
+
+Someone has added the following with red paint:
+
+   Up    - Redferne's Flying Citadel.
+~
+E
+chain~
+The chain reaches the clouds high above you.  It must take some really
+powerful magic to hold such a chain in place.
+~
+S
+#3121
+Corn fields.~
+A path passes through this field from the road east of here to the west.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3115
+D1
+~
+~
+0 -1 3122
+D2
+~
+~
+0 -1 3127
+D3
+~
+~
+0 -1 3120
+S
+#3122
+A dirt road between the fields.~
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3116
+D1
+~
+~
+0 -1 3123
+D2
+~
+~
+0 -1 3128
+D3
+~
+~
+0 -1 3121
+S
+#3123
+Corn fields.~
+~
+31 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3117
+D1
+~
+~
+0 -1 3124
+D2
+~
+~
+0 -1 3129
+D3
+~
+~
+0 -1 3122
+S
+#3124
+Corn fields.~
+To the east is a mountain range.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3118
+D2
+~
+~
+0 -1 3130
+D3
+~
+~
+0 -1 3123
+E
+elm tree~
+The fresh young leaves of the elm tree wave gently in the wind.
+~
+S
+#3125
+A pig pen.~
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3119
+S
+#3126
+A farmer's house.~
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3120
+E
+door knocker~
+As you look at it, the goblin door knocker comes alive!
+
+The head splutters 'Tiz iz da houze uff Kwiff...  Kuiffe...  Qwiff...  Erhm...'
+The head splutters 'Quiff...  Quiffil...  Ne'er mind!  Quiffy livez ere!'
+
+It opens its mouth wide and gobbles 'Unlokk me!'
+~
+E
+house~
+The house is obviously very old and needs painting.  The heavy oaken door is
+equipped with a brass door knocker shaped as a goblin's head.  No name plate
+is to be seen anywhere.
+~
+S
+#3127
+Corn fields.~
+To the south are grasslands.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3121
+D1
+~
+~
+0 -1 3128
+S
+#3128
+A dirt road between the fields.~
+The room south of here will be the first dirt road room at the
+start of dukes of hazard.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3122
+D1
+~
+~
+0 -1 3129
+D2
+~
+~
+0 -1 3218
+D3
+~
+~
+0 -1 3127
+S
+#3129
+Corn fields.~
+To the south are grasslands.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3123
+D1
+~
+~
+0 -1 3130
+D3
+~
+~
+0 -1 3128
+S
+#3130
+Corn fields.~
+The desert starts east of here, so this might not be a good field.
+The desert will spread out east like it does off of the river now.
+The first room of the desert will be that place outside the starwars
+shuttel station. To the south a sort of dry grassy area (no actual rooms,
+but for the description, that's what is there).
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3124
+D1
+~
+~
+0 -1 24503
+D3
+~
+~
+0 -1 3129
+S
+#3131
+In the crater.~
+This is inside the crater, next to the meteor.
+There will be a south exit into a crack in the meteor, which is where
+the inventor will be, but he can be an alien or something, whatever fits.
+Down will be crawling in a space under the meteor.
+~
+31 0 1
+0d0+0 0 0
+D4
+~
+~
+0 -1 3115
+D5
+~
+~
+0 -1 3132
+S
+#3132
+Under the meteor.~
+There should be a description of a tv here, but in terms of midieval
+people, like maybe a strange glowing box full of demons or something.
+It tries to pull them in. Going down will lead to "inside your tv",
+the mtv place.
+~
+31 0 1
+0d0+0 0 0
+D4
+~
+~
+0 -1 3131
+S
+#3133
+Extra room~
+~
+31 0 1
+0d0+0 0 0
+S
+#3134
+Extra room~
+~
+31 0 1
+0d0+0 0 0
+S
+#3135
+Extra room~
+~
+31 0 1
+0d0+0 0 0
+S
+#3136
+Extra room~
+~
+31 0 1
+0d0+0 0 0
+S
+#3137
+Extra room~
+~
+31 8 0
+0d0+0 0 0
+E
+typewriter~
+It is an ancient Quifatronic T-1000 mk I.  These machines are known for their
+incredible durability, and for their even more incredible weight.  They make
+a Cray II look like a laptop.
+~
+E
+desk~
+An extremely heavy desk.  It is so large that it doesn't even need drawers.
+Everything can be stored on its top.
+~
+E
+chair chairs~
+Not the very least comfortable.
+~
+S
+#3138
+Extra room~
+~
+31 8 0
+0d0+0 0 0
+E
+chair armchair~
+This chair is really a masterpiece.  A chair where one can sit as comfortably
+as in a bed.  All auditoriums should be equipped with these things.  A shame
+that there wouldn't be room for the students too, though.
+~
+E
+desk~
+This desk is obviously very old.  Nevertheless it looks as if has never been
+used.
+~
+S
+#3139
+Extra room~
+~
+31 0 1
+0d0+0 0 0
+S
+#3140
+Extra room~
+~
+31 4 1
+0d0+0 0 0
+S
+#3141
+Extra room~
+~
+31 0 1
+0d0+0 0 0
+S
+#3142
+Extra room~
+~
+31 28 0
+0d0+0 0 0
+E
+sign board post~
+There's a Deathtrap (DT) behind this door.  The purpose for this DT is to
+help players get their reimbursement files updated.  It's the most convient
+way to get an update since accidental pwipes can happen at anytime.  There
+will be no con lost if you die in this DT so don't worry.  If you suspect
+your corpse has been looted by someone, please contact an immort asap or if
+there is no immort on to help you, please mail Bigh or Jahana.
+* We are not responsible if you do not come back in time to retrieve your
+  corpse.  If it is left sitting there and your corpse dissolves, it will
+  become fair game for anyone who picks up the gear.
+~
+S
+#3143
+Extra room~
+~
+31 28 0
+0d0+0 0 0
+S
+#3144
+Extra room~
+~
+31 16414 0
+1d1+199 90 0
+S
+#3145
+Extra room~
+~
+31 0 1
+0d0+0 0 0
+S
+#3146
+Extra room~
+~
+31 4 1
+0d0+0 0 0
+S
+#3147
+A Dark, Heavy Canvas Tent~
+As you walk into the tent, your mind is assaulted by buzzing and static.
+Small items on your person leap out of pockets and bags as neophite
+psionicists try to harness the power of their minds.  Scraps of conversations
+fill your ears, though you realize they are actually being projected into
+your head.  There is an interesting little creature next to the door who mews
+at some of the people entering.  Perhaps this little monster can detect
+latent psionics.  Looking around you see the exit to the back room covered by
+a heavy tarp that is pulled back to allow people entrance.
+~
+31 16 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3148
+D2
+
+~
+~
+0 -1 3013
+S
+#3148
+Regeneration Area~
+An apprentace rests on a pillow as bottles and glasses move around the room
+by themselves.  You realize he must be controlling them with his mind.  It is
+completely quiet, though looking carfully you can see people's facial
+expressions change as silent discussions take place.  A plate of food
+suddenly bursts into flame and just as quickly, the flames die down, leaving
+the stak underneath done just perfectly.  There certainly do seem to be
+advanages to having a psionic around.
+~
+31 144 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3147
+D3
+~
+~
+0 -1 3149
+S
+#3149
+Grey Matter Proving Grounds~
+The heavy curtain falls back down behind you, and you immediately discern
+it's purpose as a good sized chunk of the floor explodes right next to you.
+Miraculously, though it was scant inches from your feet, you remain unharmed.
+You can see similar holes throughout the floor, and off to the rear of the
+building you see mortar and stones floating down to patch holes on that side
+of the room.  Scorch marks line the walls, and you see several students
+around the yard practicing their art.  At least you assume they are, it's
+pretty hard to tell.
+~
+31 30744 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3148
+S
+#3188
+~
+~
+31 0 0
+0d0+0 0 0
+S
+#3199
+The Beaten Path~
+You stand upon the beaten path.........It has been packed and worn down by
+many a traveller just like yourself.  Some were lucky enough to return one
+day to tell of their adventures.
+~
+31 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3071
+D3
+~
+~
+0 -1 3053
+S
+$

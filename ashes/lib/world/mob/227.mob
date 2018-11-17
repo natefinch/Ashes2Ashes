@@ -1,0 +1,1392 @@
+#22700
+rat small~
+a small rat~
+A small rat.
+~
+This rat doesn't look any different than all the other rats you have ever
+seen. It is small, filthy, and sitting in it's own feces.
+~
+2188 1 -300 W3
+110 5 1 9d6+20 4d2+0
+0 1000
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+10 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#22701
+rat~
+a giant rat~
+A giant rat.
+~
+This rat has been mutated by warpstone. It is very large. It stands a good
+two feet off of the ground, and is a good four or five feet long. It's eyes
+seem to glow with an unnatural evil.
+~
+6184 40 -1000 W3
+110 5 0 25d4+25 4d3+5
+0 2000
+8 8 0
+13 0 13 13 13 13 0
+0 2 3
+0 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 10
+~
+#22702
+rat ogre adolescent~
+an adolescent rat ogre~
+An adolescent rat ogre.
+~
+Before you stands a huge rat like ogre. Through the twisted mutating effect
+of warpstone, and the ingenious breeding procedures of the Skaven packmasters
+they have managed to get a near perfect mix of a rat and an ogre. It has the
+brutish strength of an ogre, the lightning reflexes of a rat, and the razor
+sharp teeth and claws of a Skaven. You are glad the packmaster isn't in this
+pen to order this beast to attack you.
+~
+2061 40 -1000 W3
+110 10 -7 60d5+1400 25d2+10
+0 40000
+8 8 0
+18 50 13 13 13 13 0
+18 4 2
+-70 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22703
+skaven eshin gutter runner~
+a Clan Eshin gutter runner~
+A gutter runner is here, training to be an assassin.
+~
+This Skaven is dressed in dark trousers. He is wearing only a vest on his
+body, and has an array of weapons about him. He is currently trying to survive
+the Circle of Assassins. If he survives, he will be promoted to a Clan Eshin
+assassin. If he doesn't survive, he may get fed to the Clan Moulder rat ogres,
+if the assassin who kills him doesn't eat him first that is...
+~
+2153 787456 -1000 W3
+110 50 -5 100d7+900 2d8+10
+1000 30000
+8 8 1
+13 0 13 13 18 13 0
+7 2 2
+-50 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22704
+eshin assassin skaven~
+a Clan Eshin Assassin~
+A Clan Eshin assassin is here lurking in the shadows.
+~
+Once you have laid eyes on a Clan Eshin assassin, you have sealed your fate.
+These Skaven are more talented than ANYONE at the art of stealthy murder.
+If Clan Eshin has you as a target you can forget about seeing tomorrow...
+~
+6249 853128 -250 W3
+110 60 -13 100d10+2300 6d4+30
+10000 60000
+8 8 1
+13 0 13 13 18 13 0
+7 2 2
+-130 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22705
+Snikch Skaven eshin assassin~
+Deathmaster Snikch~
+Deathmaster Snikch, Chief Assassin of Clan Eshin, is here.
+~
+Snikch is the most elite killer known. His background is shrouded in mystery.
+Perhaps the only thing more mysterious than his background, is his wherabouts
+at any given time. Lord Sneek, the Skaven Nightlord and member of the council
+of Thirteen, likes to keep the wherabouts of his pet killer, Snikch, a total
+mystery at all times.
+~
+19138669 554435752 -350 W3
+150 90 -38 100d2+16500 16d12+80
+15000 25000
+8 8 1
+18 100 13 13 18 13 0
+20 2 2
+-380 14 9 400 20 40
+10 10 10 10 10
+0 0 0
+10 10
+~
+#22706
+warlock engineer skaven skryre~
+a Clan Skryre Warlock engineer~
+A Clan Skryre Warlock engineer is here, tinkering with technology.
+~
+Engineers are the lowest rank of Clan Skryre Warlocks. They are the beginning
+of the Skaven magic users. Though they may be the least trained in the ways
+of magic, their ambitions are usually enough to get them through most battles.
+If they can survive long enough, thay may someday become a Warlock Master,
+and maybe, if they are VERY lucky, a Grey Seer.
+~
+26667 66600 -1000 W3
+110 18 -4 60d11+900 8d3+25
+5000 40000
+8 8 1
+13 0 18 18 13 13 0
+8 2 2
+-40 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22707
+warlock champion skaven skryre~
+a Clan Skryre Warlock Champion~
+A Clan Skryre Warlock Champion waits to kill you.
+~
+Warlock champions are one step up from Warlock engineers. They have proven
+they have the magical abilities to advance in the Clan Skryre echelon. Theirs
+is the trusted task of helping the Warlock Masters bring their diabolical
+new devices to fruition by overseeing the construction and testing of such
+devices. Unfortunately not many champions make it past this stage because
+they are usually killed by some testing procedure. This is perhaps in the
+best interest of the Warlock Master who authorized the testing, and is 
+nothing more than the Skaven way...
+~
+10473 197800 -1000 W3
+110 20 -6 60d11+1500 8d4+30
+8000 50000
+8 8 1
+13 0 18 18 13 13 0
+8 2 2
+-60 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22708
+warlock master skaven skryre~
+a Clan Skryre Warlock master~
+A Clan Skryre Warlock master prepares to blast you with a potent spell.
+~
+Warlock masters are as high as is possible to attain in the Clan Skryre
+echelon. They have mastered the art of magic use in all it's Skaven forms.
+They only await backing by either a Lord of Decay, or a Grey Seer. If they
+receive such backing, they will then themselves be promoted to the lofty
+position of Grey Seer, and will be as independant of the law as is possible
+for any Skaven, saving the Council of Thirteen.
+~
+10283 197800 -1000 W3
+110 25 -8 60d11+2500 8d5+35
+10000 75000
+8 8 1
+13 0 18 18 13 13 0
+15 2 2
+-80 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22709
+grey seer skaven~
+a Skaven Grey Seer~
+A Skaven Grey Seer is here, testing the winds of magic.
+~
+Grey Seers are the ultimate magic users in Skaven society. Their purpose is
+to uphold and defend the Council of Thirteen, although many ambitious Grey
+Seers seek to unseat various members of the Council of Thirteen (this is
+highly unlikely though as the current members of the Council have occupied
+their positions for many centuries.
+~
+2153 984232 -1000 W3
+110 30 -10 60d11+3500 8d5+40
+25000 100000
+8 8 1
+13 0 18 18 13 13 0
+11 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22710
+Ikit claw skryre chief warlock skaven~
+Ikit Claw~
+Ikit Claw, Chief Warlock of Clan Skryre grins evilly.
+~
+Ikit Claw is one of the most powerful sorcerers in the Old World, being
+second in power only to Teclis, the High Elf mage. Ikit has dedicated his
+life to the study of all forms of magery, including the spells of men, Elves
+and Orcs. Ikit is tall and white-furred, always a sign of distinction and
+power amongst the Skaven. His face and arm were badly burned during a failed
+experiment long ago. He has constructed an intricate mask to cover his 
+mutilated and hairless skull, and a cunningly-made skeletal claw of iron, 
+crystal, and brass to give strength to his withered arm.
+~
+2402347 16975016 -1000 W3
+155 90 -37 60d11+16000 20d10+85
+10000 50000
+8 8 1
+18 100 18 18 20 18 10
+18 2 2
+-370 8 10 500 20 40
+10 10 10 10 10
+24 0 0
+6 10
+~
+#22711
+thazartak skaven warlock master skryre~
+Thazartak~
+Thazartak, Skaven Warlock Master of Clan Skryre is here.
+~
+Thazartak is one of the most powerful Warlock masters. He is of the same
+birthing as the Skaven Grey Seer Thanquol. His ambition is undisguised, as
+the 22 failed assassination attempts on Thanquol make obvious. He despises
+Thanquol and will stop at nothing to replace him as the Council of Thirteen's
+pet Grey Seer.
+~
+2369707 541271208 -1000 W3
+130 92 -37 60d11+15000 40d4+75
+10000 10000
+8 8 1
+18 100 13 13 25 13 0
+8 2 2
+-375 10 11 450 20 40
+10 10 10 10 10
+17 0 0
+6 10
+~
+#22712
+skryre team warpfire skaven~
+a Clan Skryre warpfire team~
+A Clan Skryre warpfire team is here, shooting flames at you.
+~
+This team consists of two Skaven. One is carrying a huge barrel of chemicals
+on his back, while the other wields a hugr nozzle which is attacked to the
+barrel by a hose. The nozzle is spouting a green looking flame. I would
+not suggest getting to close to the flames...
+~
+2091 1192 -1000 W3
+110 15 -12 60d11+1000 9d3+15
+2000 20000
+8 8 1
+13 0 13 13 13 13 0
+12 3 0
+-120 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22713
+skryre skaven jezzail team~
+a Clan Skryre jezzail team~
+A Clan Skryre jezzail team aims at your head.
+~
+A jezzail team consists of two skaven wielding a huge rifle. One Skaven holds
+a stick upon which the other Skaven rests the end of the barrel. The jezzail
+itself is a rather large gun capable of punching holes in heavy armor with
+relative ease.
+~
+10283 1192 -1000 W3
+110 15 -8 60d11+1000 9d3+15
+3000 20000
+8 8 1
+13 0 13 13 13 13 0
+12 1 0
+-80 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22714
+skaven giant frankenstein~
+a Skaven-giant~
+a Skaven-giant is rampaging about here.
+~
+What is this horror? This creature looks like it has been stiched together
+from the pieces of a Skaven and a giant. If there were such a creature in
+the Old World as Frankensteins monster, this would be it. It even appears
+to have been animated from the dead through science.
+~
+2088 168 -1000 W3
+110 45 -20 20d5+2000 6d3+30
+50000 80000
+8 8 0
+18 100 13 13 13 13 0
+0 5 1
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22715
+skaven guard albino immense~
+an immense albino guard~
+An immense albino guard of the Council of Thirteen is here, guarding his key.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+10255 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22716
+skaven guard albino~
+an albino guard~
+An albino guard is here, guarding the gates.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+10255 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22717
+skaven guard albino skavenguard~
+an albino guard~
+An albino guard is here, guarding the gates.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+47119 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22718
+eshin assassin guard~
+an assassin guard~
+A Clan Eshin Assassin guard is here keeping the unprepared out.
+~
+This Skaven has jet black fur. In this dark tunnel it is hard to even make
+out anything about him because the color of his fur helps him blend into the
+darkness.
+~
+303114 1160 -1000 W3
+110 40 -100 11d60+30000 6d5+25
+0 500000
+8 8 1
+13 0 13 13 13 13 0
+0 3 2
+-1000 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#22719
+skaven~
+a Skaven~
+A Skaven is here, watching the fighting below.
+~
+This Skaven is watching the fighting taking place in the Clan Mors Arena. Like
+all Skaven, he looks more akin to a rat than to a human, but it is hard to 
+tell for sure. Anyways he seems to be very proccupied by the contests below.
+~
+2284 263168 -1000 W3
+110 20 5 10d10+200 4d2+0
+2000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 10
+~
+#22720
+skaven clanrat warrior~
+a Clanrat~
+A Skaven Clanrat warrior is here, ready to fight.
+~
+The Clanrat warriors are drwan from the Warlord clans and are the mainstay
+of any Skaven army. In battle they form up into vast chittering hordes which
+overwhelm the foe in a terrifying avalanche of insane rat-warriors. Individual
+Clanrats are vicious, but can be ill disciplined and cowardly. In large packs
+they become fanatically over-confident and well-nigh unstoppable.
+~
+14507 1024 -1000 W3
+110 20 -6 10d10+2000 5d4+20
+25000 25000
+8 8 1
+13 0 13 13 13 13 0
+20 2 2
+-60 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22721
+stormvermin clanrat warrior skaven~
+a Stormvermin~
+A black-furred Stormvermin is here, wanting to kill you!!!
+~
+The Stormvermin are the hand-picked warrior elite of the Clanrat hordes.
+Stormvermin are much larger than ordinary Clanrats and many have black fur.
+For this reason, black-furred Skaven have a reputation for being killers, 
+and are much feared amongst the Clanrats.
+~
+6249 1192 -1000 W3
+110 40 -7 10d10+3500 6d5+30
+30000 30000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-70 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22722
+Queek head-taker skaven warlord mors~
+Queek~
+Warlord Queek Head-Taker is here, looking quite impressive!!
+~
+Warlord Queek Head-Taker is the right claw of Warlord Gnawdwell, the ruler of
+Clan Mors and the City of Pillars. His vitriolic temper and immense ego are
+well known among the Skaven and greatly admired. He takes pleasure in 
+challenging opposing leaders and heros to single combat and slaying them. The
+severed heads on Queek's trophy rack are kept as momentoes of the more
+challenging fights, making him an unmistakable sight on the battle field, his
+collection includes the head of Krug Ironhand of Karak Drazh, Ikit Slash of
+Fester Spike, and the hands of Albrecht Kraus.
+~
+19179561 553845928 -1000 W3
+155 88 -39 60d60+16000 15d15+75
+20000 35000
+8 8 1
+18 100 13 13 21 13 16
+20 3 2
+-390 11 9 600 15 35
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22723
+warrior minotaur~
+the Minotaur Warrior~
+A captured minotaur warrior is here, far away from Mahn Tor.
+~
+You see a huge minotaur that is wearing the robes of a slave. He has black
+fur and red eyes. He look formidable even in the robes of a slave.
+~
+108 0 -330 W3
+110 21 0 300d1+50 3d7+10
+9000 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+45 45 45 45 45
+0 0 0
+6 10
+~
+#22724
+ogre huge ugly~
+an ogre~
+A huge and incredibly ugly ogre glowers at you stupidly.
+~
+This is an ogre captured from the magical land of Xanth. The Skaven love to
+watch a good fight and will go to just about any land to get a worthy opponent.
+~
+8233 1056 -350 W3
+110 35 -2 1d100+2769 10d6+3
+0 100000
+8 8 1
+18 0 3 3 7 18 0
+19 4 2
+-20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22725
+orc~
+an orc~
+An orc is here, along way away from Moria.
+~
+This orc has been dragged from the mines of Moria, to this arena in
+Skavenblight. Here he will be forced to fight day after day until he finally
+dies at the hands of either a Clan Mors trainee, or some other poor creature
+captured by the Skaven.
+~
+8268 1024 -500 W3
+110 9 2 5d20+125 2d6+2
+200 11000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#22726
+skaven slave~
+a Skaven slave~
+A Skaven slave is here, looking quite pitiful.
+~
+Skaven slaves are the dregs of Skaven society, slaves too unskilled or stupid
+to be put to work in the mines or forges. Nearly all Skavenslaves are from
+Clans which have been defeated and enslaved in intercine Clan warfare.
+~
+2222 1024 -1000 W3
+110 10 10 10d10+200 4d1+0
+0 10000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+100 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 10
+~
+#22727
+moulder skaven packmaster~
+a Packmaster~
+A Clan Moulder Packmaster is looking for some warpstone.
+~
+Clan Moulder is one of the smallest Clans in numbers but controls a large
+amount of warpstone which it uses to create new and ever more dangerous
+creatures. The Packmasters are the one to whom is given the responsiblity of
+training these creatures, as well as controlling them in the heat of battle.
+~
+10284 1064 -1000 W3
+110 45 5 10d10+2000 4d3+10
+25000 17000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22728
+rat ogre~
+a Rat Ogre~
+A Rat Ogre towers above you.
+~
+Rat Ogres are the most feared of all the Clan Moulder's mutant beasts. Rat
+Ogres are huge, Skaven-like creatures the size and strength of true Ogres,
+but possessed of the speed and ferocity of Skaven. A Rat Ogre's small brain
+is devoted entirely to fighting and bloodshed, so in battle units of Rat Ogres
+are controlled by Clan Moulder Packmasters who direct the monsters and unleash
+their devastating charges when the time is right.
+~
+43023 168 -250 W3
+110 60 2 10d10+3500 6d3+45
+0 75000
+8 8 1
+13 0 13 13 13 13 0
+18 2 2
+20 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22729
+throt moulder unclean skaven~
+Throt the Unclean~
+Throt the Unclean Skaven Packmaster of Clan Moulder is training some Rat Ogres.
+~
+Throt the Unclean is one of Clan Moulder's strongest Packmasters. His rise
+through the ranks of Clan Moulder has been carefully watched by agents of
+Lord Verminkin, though whether he intends to reward or destroy him remains to
+be seen. Throt is a fearsome fighter renowned for his fantastic strength.
+As well as his steel-hard muscles, Thro has been blessed with the mutation of
+a third arm since his birthing and has learned to wield a sword and a man-
+catcher together with deadly skill. Throt lost an eye in his last fight with
+a rival Packmaster and has had it replaced with a glowing warpstone charm,
+making him look wierder than ever.
+~
+305167 16778408 -1000 W3
+110 70 -25 60d60+9500 10d15+65
+75000 250000
+8 8 1
+18 100 13 13 13 13 0
+20 2 2
+-250 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22730
+pestilens censer bearers skaven~
+a Plague Censer Bearer~
+A Clan Pestilens Plague Censer Bearer is waving his censer around.
+~
+The most fanatical and deranged members of Clan Pestilens are given the
+singular honor of wielding a plague censer. As the Plague Monks march into
+battle they are preceded by a loose group of Plague Censer Bearers who pollute
+the air with foul fumes. Swinging their censers, the bearers swarm forward
+to the chanted accompaniment of the Liturgus Infecticus.
+~
+2092 1192 -1000 W3
+110 30 -10 10d10+2000 4d4+15
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22731
+pestilens skaven plague monk~
+a Plague Monk~
+A Clan Pestilens Plague Monk is spreading disease.
+~
+The Plague Monks are a devout order which have dedicated themselves utterly
+to the spreading of corruption and decay in the name of the Horned Rat. They
+are the initiates of infection and the disciples of disease. In battle Plague
+Monk regiments hurl themselves into the fray with fanatical ferocity, eager
+to bring death and destruction to their foes.
+~
+2056 1192 -1000 W3
+110 35 5 10d10+3000 4d3+10
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22732
+pestilens plague priest skaven~
+a Plague Priest~
+A Clan Pestilens Plague Priest is speading disease here.
+~
+Plague Priests are among the foulest and most degenerate ratmen in the rotting
+brotherhood of the diciples of decay. They command all the other Clan Pestilens
+members (with the exception of both Skrolk and Nurglitch). 
+~
+2091 1192 -1000 W3
+110 50 -15 10d10+5000 5d6+35
+75000 250000
+8 8 1
+13 0 13 13 13 13 0
+15 2 2
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22733
+Skrolk lord pestilens plaguuelord skaven~
+Lord Skrolk~
+Lord Skrolk, Plaguelord of Clan Pestilens is eyeing you.
+~
+Lord Skrolk is very old an unutterably evil. By the blessing of the Horned
+Rat he has lived many times his ordinary lifespan and unleashed unspeakable
+woes upon the world of men. At the beginning of his life Skrolk was a simple
+Plague Monk, but his devotion to the Horned Rat drew him up to the long
+struggle for power which eventually led him to Skavenblight to offer his
+services to Nurglitch, the seventh Arch-Plaguelord. Nurglitch-who-is-seventh
+set him many long and arduous trials, including traversing the insanely
+dangerous Blindwyrm Labyrinth beneath Clan Pestilens' hold in Lustria. Sucess
+came to Skrolk in all things.
+~
+2361387 553657512 -1000 W3
+130 93 -36 60d60+13000 16d12+75
+22000 10000
+8 8 1
+18 100 13 13 21 13 0
+15 2 2
+-365 9 10 400 12 33
+10 10 10 10 10
+17 0 0
+6 10
+~
+#22734
+Nurglitch skaven pestilens plaguelord~
+Nurglitch~
+Arch-Plaguelord Nurglitch of Clan Pestilens is rotting here.
+~
+Nurglitch is the highest ranking Clan Pestilens you can ever achieve. He now
+has no healthy cell left in his entire body. He might almost be considered a
+living dead, except his cells still live, they are just infested and rotting.
+~
+2361391 553657512 -1000 W3
+155 92 -35 60d60+15000 20d10+75
+40000 10000
+8 8 1
+18 100 13 13 25 13 0
+15 2 2
+-355 10 11 750 15 40
+10 10 10 10 10
+17 0 0
+6 10
+~
+#22735
+Morskittar lord skryre skaven~
+Morskittar~
+Lord Morskittar of Clan Skryre is devising some fiendish contraption.
+~
+Lord Morksittar is the head of Clan Skryre. Clan Skryre focuses on making
+the most destrutive devices. Their past successes include the Doom Wheel,
+the jezzail, the warpfire thrower, and the all too feared Screaming Bell
+Tower. You can beleive that Morskittar is right now working on a more 
+destructive, if not effective, way to kill you.
+~
+264239 16778408 -1000 W3
+110 65 -27 60d60+15000 10d10+50
+75000 750000
+8 8 1
+13 0 13 13 13 13 0
+18 2 2
+-270 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22736
+Verminkin lord skaven moulder~
+Verminkin~
+Lord Verminkin, the leader of Clan Moulder, waits to destroy you.
+~
+Lord Verminkin is the highest ranking Skaven in the Clan Moulder. Moulder
+specializes in mutating creatures through careful breeding processes and
+exposure to warpstone. Lord Verminkin oversaw the creation of the infamous
+Rat Ogres. He surely has the power to call help to his side when needed.
+~
+264235 1192 -1000 W3
+110 70 -27 60d60+12000 10d10+40
+125000 750000
+8 8 1
+13 0 13 13 13 13 0
+20 2 2
+-270 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22737
+Nightlord Sneek lord skaven eshin~
+Lord Sneek~
+Lord Sneek, Lord of Decay and Nightlord of Clan Eshin lurks in the shadows
+here.
+~
+Lord Sneek is one of the most feared Skaven ever. While he is not as good at
+the art of subtle killing as his pet killer, Snikch, the very fact that he
+commands Snikch's every move makes him even more fearsome. He has been on the
+Council of Thirteen for a very long time and is only slightly less adept at
+the art of murder than Snikch.
+~
+2361391 558367912 -1000 W3
+155 89 -36 60d60+16000 20d10+80
+5000 20000
+8 8 1
+18 100 13 13 21 13 0
+20 2 1
+-365 11 9 450 20 40
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22738
+Gnawdwell lord warlord mors skaven~
+Warlord Gnawdwell~
+Lord Gnawdwell, Chief Warlord and residing member of the Council of Thirteen is here.
+~
+Warlord Gnawdwell is probably the most skilled fighter among the Skaven. He
+might have a hard time killing Snikch, or Sneek, but when it comes to open
+battle, where your enemy is seen, Gnawdwell shines. He has practiced every
+form of fighting known to man and some that have been kept secret from man.
+~
+264235 16778408 -1000 W3
+110 75 -27 60d60+15000 12d12+65
+75000 750000
+8 8 1
+18 100 13 13 18 13 0
+20 2 2
+-270 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22739
+Sleekit master grey seer skaven~
+Sleekit~
+Master Sleekit, the Grey Seer of the Council is researching some spells.
+~
+Sleekit is the current residing Grey Seer on the Council of Thirteen. He
+inherited the position after an aweseome duel with, Kritislik, the Grey Seer
+who formerly occupied the position. Sleekit trained Thanquol and now uses him
+as his little pet magician.
+~
+264235 1152 -1000 W3
+127 72 -100 60d60+8000 10d10+40
+75000 750000
+8 8 1
+13 0 13 13 18 13 0
+8 2 2
+-1000 0 9 0 30 50
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22740
+Velasque lord skaven cleric~
+Lord Velasque~
+Cleric-Lord Velasque is learning how to keep his Skaven alive in battle.
+~
+Velasque has occupied his Council position for several centuries. There is
+some speculation as to whether this is due to the blessing of the Horned Rat,
+or because Velasque himself studies the art of healing and the preservation
+of life (a fact that has made the other Skaven to think he somewhat less of
+a Skaven).
+~
+264235 1064 -1000 W3
+110 70 -100 60d60+15000 10d10+50
+75000 750000
+8 8 1
+13 0 13 13 13 13 0
+10 2 2
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22741
+Paskrit lord skaven~
+Lord Paskrit~
+Lord Paskrit is here, observing the stars.
+~
+Lord Paskrit is one of the original twelve council members. He is so old that
+he has devised a way to understand the future by looking at the stars. So here
+in his observatory, Paskrit sits and observes the stars to see what might 
+happen. Does he see your death in the near future?
+~
+264239 1192 -1000 W3
+110 65 -100 60d60+7500 10d10+60
+75000 750000
+8 8 1
+13 0 13 13 13 13 0
+15 2 2
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22742
+Skritisqueel philosopher skaven lord~
+Lord Skritisqueel~
+Skritisqueel is here, thinking of a way to further the Skaven causes.
+~
+Skritisqueel is the most intelligent of all Skaven. When the Skaven have a 
+problem they cannot figure out, they seek out Skritisqueel. Whil he would
+much rather spend his time considering the mysteries of the universe, and
+not be bothered by the petty intrigues of the Skaven wars, he also knows
+that if he wishes to maintain the blessing of the Horned Rat he must do what
+he can to help his fellow Skaven out.
+~
+280587 1192 -1000 W3
+110 70 -20 60d60+1000 10d10+35
+75000 750000
+8 8 1
+13 0 13 13 13 13 0
+11 2 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22743
+Vasque librarian skaven lord~
+Lord Vasque~
+Lord Vasque is here, cataloging some documents.
+~
+Lord Vasque has been on the council so long that his main concerc is to keep
+a written account of all Skaven history. He remembers things that no other
+Skaven, with the exception of a few council members, do. This is what he does
+all day long, and he seems to enjoy it immensely. How odd for a Skaven...
+~
+264235 1192 -1000 W3
+110 65 -27 60d60+1000 10d10+45
+75000 750000
+8 8 1
+13 0 13 13 13 13 0
+18 2 2
+-270 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22744
+Rakscree lord skaven~
+Lord Rakscree~
+Lord Rakscree is here, getting ready to kill you!!!
+~
+Nothing much is known about Lord Rakscree, except that he is possibly the
+most mysterious of all Skaven (with the exception of maybe Sneek and Snikch).
+All that is know about Rakscree is the rumors which circulate after some poor
+Skaven has been made to see him face to face...and was never seen again.
+~
+2361387 541074600 -1000 W3
+140 90 -36 60d60+16000 20d10+65
+0 0
+8 8 1
+18 100 13 13 25 13 0
+8 2 2
+-365 10 10 600 18 35
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22745
+Thraskin lord skaven~
+Lord Thraskin~
+Lord Thraskin is pondering some concept here.
+~
+Lord Thraskin is a very old and very evil Skaven. He is one of the few residing
+members who was there when the Horned Rat created the Thirteen Sided Pillar.
+While he was not one of the first members of the council, various events have
+brought about his rise to the council, and he is now considered one of the
+most reverred members of the council.
+~
+264235 16777384 -1000 W3
+140 85 -25 60d60+13000 10d10+55
+75000 750000
+8 8 1
+13 0 13 13 19 13 0
+16 2 2
+-250 0 8 0 25 25
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22746
+horned rat hornedrat~
+the Horned Rat~
+The Horned Rat towers above you like a monolith!!!
+~
+The Horned Rat is the Skaven god. He was born out of the Chaos void, and 
+loves nothing more than chaos personified. He stands a good twenty-five feet
+tall, looks alot like a Skaven, except that he has hoofed feet and horns on his
+head. He does not look like someone you would like to mess with at all.
+~
+319499 16975036 -1000 W3
+110 90 -100 60d60+30000 20d20+100
+0 1000000
+8 8 1
+18 100 13 13 18 13 0
+11 5 0
+-1000 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22747
+rat ogre boneripper~
+Boneripper~
+Boneripper, Thanquols personal body guard, is here, looking for Thanquol.
+~
+Boneripper was given to Thanquol by the Council of Thirteen after he failed
+to destroy the city of Nuln. His failed attempt however, resulted in wiping
+out the Skaven warriors of Clan Skab, who had planned a revolt against the
+Council. This coupled with the fact that half of the city of Nuln was
+destroyed, prompted the Council to reward Thanquol with a Rat Ogre who had
+been mutated by Clan Moulder to have three arms. Thanquol was so pleased with
+his luck that he named the Rat Ogre Boneripper, after his former Rat Ogre
+body guard who died at the hands of Gotrek, during the failed attempt to
+destroy Nuln.
+~
+321645 1212 -1000 W3
+110 60 4 60d60+5000 7d7+35
+0 750000
+8 8 1
+13 0 13 13 13 13 0
+20 4 2
+40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22748
+skaven chieftan mors~
+a Skaven Chieftan~
+A Skaven Chieftan of Clan Mors is training here.
+~
+Chieftans are powerful indivuals who have fought their way up through the
+ranks of the Skaven to become the lieutenants of a great Warlord.
+~
+2125 1024 -1000 W3
+110 35 -10 10d10+1000 3d3+15
+10000 20000
+8 8 1
+13 0 13 13 13 13 0
+20 2 2
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22749
+warlord general skaven mors~
+a Warlord General~
+A Skaven Warlord General is here, training his troops.
+~
+A General is a powerful Clanrat Warlord who has either been given direct
+command of an army by order of the Council of Thirteen or is undertaking a
+conquest as part of his own private schemes.
+~
+10286 1212 -1000 W3
+110 55 -13 10d10+1500 5d5+20
+35000 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-130 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22750
+champion skaven mors~
+a Champion~
+A Skaven Champion of Clan Mors is here.
+~
+This Skaven doesn't look much different than the other Skaven you have seen
+here in the Clan Mors Arena. He is most likely an especially powerful or
+adept Skaven warrior, hence the title Champion.
+~
+18476 188 -1000 W3
+110 45 -12 10d10+1000 3d3+20
+20000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-120 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22751
+doomwheel~
+a Doomwheel~
+A Clan Skryre Doomwheel rumbles ominously toward you!!!
+~
+The Doomwheel was designed by the mad genius Ikit Claw. It consists of a 
+huge wheel which is steered by a smaller wheel in the back of this fiendish
+contraption. Within the larger of the wheels are six giant rats which are
+fed a stimulant drug, and driven into an insane frenzy by the lightning
+flashing and sparking around them. As they tumple over each other the wheel
+rumbles forward steadily, but inconsistantly. Their movements also power the
+huge warp generators within the wheel's chasis. With three huge metal claws
+protruding from the front and both sides, the generators unleash their
+dreadful warplightning when the Warlock Engineer throws the switch, lashing
+out at the nearest target, be they friend or foe.
+~
+49192 1192 -1000 W3
+110 55 -20 30d30+1500 10d2+10
+0 50000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#22752
+chaos spawn~
+a chaos spawn~
+A chaos spawn.
+~
+This creature is a spawn of the swirling energies of chaos itself. There
+is no real way to describe it except to say that it hates any and everything.
+It will attack randomly and regardless of race.
+~
+280585 196608 -1000 W3
+110 55 -10 10d10+2000 9d4+25
+0 25000
+8 8 0
+13 0 13 13 13 13 0
+18 3 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22753
+skaven guard albino immense~
+an immense albino guard~
+An immense albino guard of the Council of Thirteen is here, guarding his key.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+10255 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22754
+skaven guard albino immense~
+an immense albino guard~
+An immense albino guard of the Council of Thirteen is here, guarding his key.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+10255 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22755
+skaven guard albino immense~
+an immense albino guard~
+An immense albino guard of the Council of Thirteen is here, guarding his key.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+10255 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22756
+skaven guard albino immense~
+an immense albino guard~
+An immense albino guard of the Council of Thirteen is here, guarding his key.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+10255 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22757
+skaven guard albino~
+an albino guard~
+An albino guard is here, guarding the gates.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+47119 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22758
+skaven guard albino~
+an albino guard~
+An albino guard is here, guarding the gates.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+47119 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22759
+skaven guard albino~
+an albino guard~
+An albino guard is here, guarding the gates.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+47119 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22760
+skaven guard albino~
+an albino guard~
+An albino guard is here, guarding the gates.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+47119 16975016 -1000 W3
+127 86 -30 11d60+5200 8d6+60
+25000 75000
+8 8 1
+18 0 13 13 19 15 5
+18 3 2
+-300 0 8 0 33 50
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22761
+skaven guard albino~
+an albino guard~
+An albino guard is here, guarding the gates.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+47119 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22762
+skaven guard albino~
+an albino guard~
+An albino guard is here, guarding the gates.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+47119 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22763
+skaven guard albino~
+an albino guard~
+An albino guard is here, guarding the gates.
+~
+This Skaven is huge in comparison to other Skaven you have seen. His fur is
+also the purest white. You are not sure whether his skin color and size are
+the result of magic, mutation, breeding, or just natural.
+~
+47119 16975016 -1000 W3
+110 70 -20 11d60+2500 8d6+35
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+18 3 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#22854
+Thanquol grey seer skaven~
+Grey Seer Thanquol~
+Grey Seer Thanquol is here, guarding the door.
+~
+Thanquol is a cunning and exceptionally dangerous Grey Seer with a peculiar
+gift for avoiding death and inspiring fear in his fellow Skaven. In traditional
+Skaven fashion he clawed his way up the order of Grey Seers over the bodies
+of his opponents, entering the order as a novice and eventually consuming
+his mentor. His rapid rise from the bowels of the Under-City beneath
+Skavenblight to the heights of power has been noticed by the Coincil of
+Thirteen and it seems he has some patrons, as well as some enemies, amongst
+the Lords of Decay.
+~
+319499 16778428 -1000 W3
+110 65 -29 60d60+10000 10d10+60
+75000 750000
+8 8 1
+13 0 13 13 13 13 0
+11 2 2
+-290 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

@@ -1,0 +1,574 @@
+#14501
+~
+~
+
+~
+~
+9 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#14502
+~
+~
+
+~
+~
+9 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#14503
+uncle fester man addams~
+Uncle Fester~
+Uncle Fester stands here grinning and looking for trouble.
+~
+Uncle Fester is a stout, short man dressed in a clerical style
+robe with a tightly buttoned fur collar and buttons reaching to
+the floor.  His head is completely hairless and it gleams with a
+preternatural glow.  Small drops of sweat can be seen on his
+face and a single drop hangs precariously from the end of his
+nose.
+~
+321551 136 -1000 W
+97 50 -13 100d10+10000 9d9+45
+291000 250000
+8 8 1
+18 100 14 15 18 18 0
+18 2 2
+-130 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#14504
+abigail craven woman doctor~
+Abigail Craven~
+Abigail Craven lurks here looking for the Addams money.
+~
+Abigail Craven looks like some sort of Nazi hairstylist with a
+forties style wool suit and her hair drawn back tightly in a
+bun.  She is mumbling to herself in an awful German accent and
+is constantly peering over her shoulder.
+~
+10347 40 -1000 W
+21 15 -2 2d10+400 2d8+13
+0 85000
+8 8 2
+13 0 13 13 13 13 0
+8 2 0
+-20 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 10
+#14505
+dust bunny rabbit~
+dust bunny~
+A dust bunny lies here looking, well, dusty!
+~
+This dust bunny looks exactly like you would expect it to look
+Its a round ball of dust, rather grey in color with soft edges
+and no discernable features besides some white chalk dust flecks.
+How fascinating!
+~
+4107 0 100 W
+18 12 1 0d0+0 0d0+0
+0 4000
+5 5 0
+13 0 13 13 13 13 0
+19 0 0
+10 0 2 0 0
+55 55 55 55 55
+16 0 0
+6 0
+#14506
+grandfather clock~
+a Grandfather clock~
+A huge Grandfather clocks ticks ominously here.
+~
+This huge Grandfather's clock is made of some of blood-red wood
+and is heavily carved with ornate woodland scenes filled with
+bizarre and warped creatures.  There are no numbers on the dial
+and the hands are visibly moving counterclockwise.  A heavy
+pendulum can be seen within swinging back and forth.
+~
+74 8 0 W
+29 15 -5 16d10+550 4d2+2
+8000 60000
+8 8 1
+15 0 16 10 13 13 0
+0 2 2
+-50 0 6 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#14507
+tully alford lawyer man~
+Tully Alford~
+Tully Alford crouches here looking for a way to crash the party.
+~
+Tully Alford is dressed in a cheap suit with a rather ragged
+overcoat.  With briefcase in hand, he is sweating heavily and
+trying to figure out how to get more money out of the Addams
+Family.  His bushy black eyebrows and wild expression make him
+fit right into the family.
+~
+201 0 100 W
+22 18 -1 8d6+500 4d8+6
+15000 16000
+8 8 0
+13 0 13 13 13 13 0
+7 2 0
+-10 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#14509
+Judge Womack judge man~
+Judge Womack~
+Judge Womack is lurking about with an angry look on his face.
+~
+Looking furtive and angry, Judge Womack has a large bruise on his
+forehead and is clutching a golf ball in his hand. His face is
+beet red with anger as he stands in the shadows outside of the
+ballroom.  He is dressed in dark clothes and looks like he has
+walked from a great distance.
+~
+2063 0 -100 W
+36 15 0 0d0+250 2d9+30
+3000 20000
+8 8 1
+13 0 13 13 13 13 0
+7 2 3
+0 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#14518
+slosh Slosh Addams addams man~
+Slosh Addams~
+Slosh Addams looks sloshed and in search of more to drink.
+~
+Staggering and weaving from side to side, Slosh Addams smells like
+a brewery and looks like an unmade bed.  With the front of his
+clothes soaked with various beverage spills, he seems to be
+staggering in time to the music.  What a party animal!
+~
+8393 0 -400 W
+22 14 -7 5d8+600 4d4+2
+4000 7000
+8 8 1
+13 0 13 13 13 13 0
+7 2 0
+-70 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#14526
+bass player musician man~
+a one-armed bass player~
+A one-armed bass player is somehow laying down a vicious groove.
+~
+It may be physically impossible, but this one-armed musician is
+playing an upright bass, twirling it suddenly while he plays some
+really gut-shuddering bass lines.  He does tend to have that
+Addams look with the long hair and black leather jeans required
+to be a musician.
+~
+12490 32 300 W
+35 21 -3 4d12+501 8d5+10
+13000 19500
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#14528
+conductor man musician~
+the conductor~
+The conductor stands here frantically waving his baton.
+~
+The conductor is an incredibly thin man wearing a tuxedo that is
+several sizes too large.  He has an amazing Yahoo Serious kinda
+hair style which makes it look as if he has touched a power line.
+He is waving a baton frantically with the music, but for some
+reason seems oddly out of synch.
+~
+28751 0 -300 W
+32 20 -1 5d17+261 9d4+10
+9250 22605
+8 8 1
+13 0 13 13 13 13 0
+17 2 0
+-10 0 4 0 0
+20 20 20 20 20
+0 0 0
+6 0
+#14531
+snake mocassin~
+a deadly water mocassin~
+A poisonous water mocassin surfaces and strikes.
+~
+You notice something moving in the water near your feet and as
+you look down, you notice a long snake writhing rapidly through
+the water.  It moves with sinuous grace as it undulates towards
+you, pushing itself through the water.
+~
+33353 524328 -250 W
+19 15 -1 5d5+225 1d8+6
+1000 28500
+8 8 0
+13 0 13 13 13 13 0
+6 1 0
+-10 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#14532
+small brown bat~
+a small brown bat~
+A small brown bat flutters overhead, chirping in the darkness.
+~
+Wiry and fluttering with incredible speed, a small brown bat
+swoops out of the shadows and heads straight for you.  Its beady
+eyes are clearly visible as it zooms towards you, as are its very
+long, nasty-looking fangs.  
+~
+32876 0 -1000 W
+15 15 2 2d5+100 3d4+6
+0 1200
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+#14533
+black bat small~
+a small black bat~
+A small black bat flutters overhead, then heads towards you.
+~
+Just out of reach, a small black bat flutters in and out of the
+light, disappearing into the blackness before returning to swoop
+by you again.  It has some lethal-looking fangs below its black
+beady eyes.  It moves with incredible swiftness and is almost
+silent.
+~
+36941 524320 -1000 W
+20 16 0 2d5+200 3d4+6
+0 2000
+8 8 0
+13 0 13 13 13 13 0
+5 1 0
+0 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#14534
+jimmy hoffa man teamster~
+Jimmy Hoffa~
+Jimmy Hoffa is shivering here, looking old and very, very pale.
+~
+Pale and obese, an elderly man who resembles the old union boss
+Jimmy Hoffa stands here trembling in the cold and gumming 
+constantly with his toothless smile.  His thinning hair is slicked
+back and his clothes have dirt and grass stains all over them.
+He looks as if he was dug up out of the ground recently, perhaps
+in the end zone of Giant Stadium.
+~
+262154 152 500 W
+70 40 -10 5d10+5000 5d5+45
+125000 120000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#14535
+ghost spirit shimmering spectre~
+a shimmering ghost~
+A shimmering ghost moves quietly through the air.
+~
+Translucent like a heat mirage, this ghostly figure is shimmering
+and floating silently on the breeze.  Occasionally you get 
+glimpses of an anguished face as it fades in and out, and every
+few minutes it lets out a low, moaning cry.  
+~
+77 8226 -750 W
+12 10 1 20d2+110 2d4+6
+150 1000
+6 6 1
+16 0 14 13 13 18 0
+17 2 2
+10 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#14536
+skeleton bones bone~
+a skeleton~
+A skeleton with scraps of rotting flesh hanging on it shrieks at you.
+~
+A skeleton covers with shreds of rotting sinew and tissue staggers
+in front of you, dropping bits of flesh as it walks.  It shrieks
+an unearthly cry that chills you to the bone and its fetid smell
+almost brings you to your knees.  Making an odd crackling sound
+as it walks, its shiny white bones glimmer in the light.
+~
+589 8224 100 W
+13 15 3 8d8+100 2d3+7
+170 1500
+6 6 1
+13 0 13 13 13 13 0
+17 2 0
+30 0 2 0 0
+65 65 65 65 65
+16 0 0
+6 0
+#14537
+zombie rotting~
+a rotting zombie~
+A rotting zombie shuffles towards you, dropping bits as it goes.
+~
+A horrible, half decayed corpse actually seems alive as it lurches
+towards you.  With huge gaping holes in its body, bones and sinew
+shine wetly in its rotting flesh while pieces fall wetly to the
+ground as it jerks from side to side.  An awful stench emanates
+from this nightmare apparition as it makes wet, squishing sounds
+as it moves.
+~
+41485 32 -1000 W
+20 19 -2 12d12+220 1d8+14
+3000 7500
+8 8 1
+13 0 13 13 13 13 0
+18 2 0
+-20 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#14542
+bryan Bryan addams Addams man~
+Bryan Addams~
+Bryan Addams is working up a sweat thrashing his guitar.
+~
+With his trademark flannel shirt and pock-marked face, Canadian
+rocker Bryan Addams is happily playing his guitar and wondering
+where his career went.  He seems to be muttering the words to
+the songs as he plays and is staring off into space while churning
+out the chords.  He is hoping that the 'Cuts Like A Knife' video
+girl comes to the party.
+~
+268363 1064 900 W
+75 50 -7 1d100+8000 6d6+45
+100000 300000
+8 8 1
+18 10 14 15 18 15 0
+17 2 0
+-70 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#14544
+storm cloud~
+a dense black storm cloud~
+A dense black stormcloud hovers malignantly over the floor.
+~
+A thick, boiling mass of dark vapors swirl in the center of the
+room.  As bolts of lightning flicker in the center of the small
+storm, thunder makes the floor beneath your feet shake.  This
+dense mass of violently convecting air seems to be aware of you
+as you notice it back away as you entered this room.  The floor
+is wet beneath it and the air reeks of ozone.
+~
+288875 0 0 W
+50 21 -3 5d10+700 10d5+10
+0 39750
+8 8 0
+13 0 13 13 13 13 0
+16 2 0
+-30 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#14547
+guest drunken drunk woman~
+a drunken party guest~
+A party guest wanders in weaving drunkenly from side to side.  
+~
+Completely wasted, this guest has visited the bar a few too many
+times.  You can't tell whether he is staggering around in a
+drunken stupor or is attempting to do the electric slide.  In
+any case, better stay away or he might lose it onto your shoes.
+~
+8 0 -400 W
+20 16 1 2d5+186 5d5+5
+3000 6600
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 6 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#14548
+friend man~
+a friend of the family~
+A friend of the family looks oddly out of place here.
+~
+This average-looking person looks definitely out of place here
+at the Addams family party.  Dressed in normal clothes, only
+one head, no unusual growths coming out of their bodies, only
+two eyes, hmmmm.  Must be a friend but not a relation.
+~
+8 0 -400 W
+20 16 1 2d5+186 5d5+5
+3000 6600
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 6 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#14553
+botulin toxin mass bacteria poison~
+a pulsating mass of botulin~
+A huge pulsating mass of botulin shuffles toward you.
+~
+A huge gluey mass of pus-like goop moves moistly towards you with
+an odd slithering sound.  A poisonous sheen glistens wetly on
+its undulating surface and it leaves small globs of itself behind
+as it moves toward you.
+~
+57454 32 -1000 W
+16 16 2 5d2+150 3d4+6
+0 1200
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+20 0 2 0 0
+60 60 60 60 60
+16 0 0
+6 10
+#14554
+salmonella bacteria clump~
+a large clump of salmonella~
+A large clump of salmonella quivers and waves tendrils at you.  @
+~
+This beachball-sized blob of yellow slime is constantly moving
+and changing, growing tendrils which wave about then recede back
+into the central mass of the creature.  It looks something like 
+what a piece of undercooked chicken would look like if left around
+to rot and spoil for a year or two. 
+~
+36943 524320 -1000 W
+20 16 0 2d5+200 3d4+6
+0 2000
+8 8 0
+13 0 13 13 13 13 0
+5 1 0
+0 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#14555
+charles addams Charles Addams cartoonist artist~
+Charles Addams~
+An aged Charles Addams is chained to a desk writing furiously.
+~
+Withered and as pale as a ghost, an aged man is sitting at a desk
+scribbling on some sheets of paper.  He appears to be drawing
+some sort of cartoon and has a pile of New Yorker magazines
+stacked on the top of the desk.  He is dribbling a constant
+stream of spittle which is smearing his drawings but he doesn't
+seem to notice or mind.  A heavy chain is fastened to an iron
+ring on his leg keeping him from leaving this rocky prison.
+~
+24651 136 -500 W
+113 60 -7 7d50+5000 9d9+10
+40000 143385
+6 6 1
+13 0 13 13 13 13 0
+15 2 0
+-70 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#14556
+Forrest Gump forrest gump man gardener~
+Forrest Gump~
+Forrest Gump sits here happily working on the lawn mower.
+~
+A kinda doofy looking guy with a shirt buttoned up all the way and
+some khaki pants and loafers is sitting here fiddling with the
+engine on the lawn mower.  He has a buzzcut and is drooling just
+a bit and you can hear him mutter, 'Broken is as broken does.'
+~
+10443 16778368 850 W
+127 70 -24 10d100+10000 10d10+65
+175000 335000
+6 6 1
+18 100 14 15 18 15 0
+13 2 0
+-240 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#14558
+drunk man~
+a drunk man~
+A man reeking of alcohol is stretched out on the floor.
+~
+This average-looking person looks definitely out of place here
+at the Addams family party.  Dressed in normal clothes, only
+one head, no unusual growths coming out of their bodies, only
+two eyes, hmmmm.  Must be a friend but not a relation.
+~
+8 0 -400 W
+20 16 1 2d5+186 5d5+5
+3000 6600
+4 4 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#14559
+Tim tim Allen allen man~
+Tim Allen~
+Tim Allen is grinning like a goof while looking for something to build.
+~
+A guy wearing a flannel shirt, work pants, and heavy boots looks
+like he is having a lot of fun here.  He has a kind of stupid grin
+on his face while he constantly adjusts his tool belt.  You notice
+that he seems to have a lot of bandaids on his fingers.
+~
+8393 1064 750 W
+72 44 -10 10d100+6000 6d5+48
+88000 235000
+8 8 1
+18 100 14 15 18 15 0
+17 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+$

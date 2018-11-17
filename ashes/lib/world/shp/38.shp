@@ -1,0 +1,202 @@
+CircleMUD v3.0 Shop File~
+#0~
+3881
+-1
+1.05 
+0.95 
+22
+-1
+%s Sorry pal, I have not got that kind of craft.~
+%s You want to sell me that? Ok, but let me see it first.~
+%s I only trade in the best crafted ships.~
+%s I can't afford such a well built ship.~
+%s This ship is too expensive for your likes.~
+%s Here is your ship, I'll take %d gold coins.~
+%s What a fine deal, you get %d gold coins.~
+0 
+0 
+3882 
+0 
+3868 
+-1
+6 
+22 
+6 
+22 
+#1~
+3831
+3832
+3833
+3834
+3835
+-1
+1.1 
+0.95 
+-1
+%s I don'tt stock such rubbish, try my list or be gone!~
+%s Sorry, you must be confused. I don't actually buy anything.~
+%s Sorry, you must be confused. I don't actually buy anything.~
+%s Sorry, you must be confused. I don't actually buy anything.~
+%s You haven't the funds for my wares. Be Gone!~
+%s Here is your potion, I'll just take %d coins.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+0 
+3815 
+0 
+3821 
+-1
+0 
+20 
+0 
+0 
+#2~
+3846
+3847
+3848
+3849
+3850
+-1
+1.1 
+0.95 
+-1
+%s I haven't got anything like this week, try again later.~
+%s Sorry, you must be confused. I don't actually buy anything.~
+%s Sorry, you must be confused. I don't actually buy anything.~
+%s Sorry, you must be confused. I don't actually buy anything.~
+%s You seem to be running short of money, care tro try something else?~
+%s I'll just take %d coins for that piece, enjoy your purchase.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+0 
+3814 
+0 
+3822 
+-1
+0 
+18 
+0 
+0 
+#3~
+3826
+3827
+3828
+3829
+3830
+-1
+1.2 
+0.85 
+9
+11
+12
+13
+-1
+%s I don't stock such armors, try something on the list!~
+%s You have no such item! What do you take me for?~
+%s I only buy the finest armors made, that is of no interest to me.~
+%s I haven't the funds for such a treasure, try a wizard.~
+%s You have no money for my wares! Be gone!~
+%s that will be %d coins. Enjoy your adventures.~
+%s You'll gett %d coins for that. Thank you for your business.~
+0 
+0 
+3813 
+0 
+3806 
+-1
+0 
+16 
+0 
+0 
+#4~
+3836
+3837
+3838
+3839
+3840
+-1
+1.1 
+0.95 
+-1
+%s I haven't anything like that in stock. Try again.~
+%s Sorry, you must be confused. I don't actually buy anything.~
+%s Sorry, you must be confused. I don't actually buy anything.~
+%s Sorry, you must be confused. I don't actually buy anything.~
+%s You haven't the funds to cover your purchases.~
+%s That'll be %d coins. Please doing business.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+0 
+3812 
+0 
+3805 
+-1
+0 
+14 
+0 
+0 
+#5~
+3821
+3822
+3823
+3824
+3825
+-1
+1.2 
+0.95 
+4
+5
+6
+7
+18
+-1
+%s I don't carry those. Try something in stock today.~
+%s What do you take me for? Sell something you actually have!~
+%s I only buy the finest weapons made, that interests me not.~
+%s That is truly a treasure, but beyond my budget.~
+%s You can'tt pay your bill on that. Be gone at once!~
+%s I'll just take %d coins and you can be on your way.~
+%s %d coins is all I can give you for that. Enjoy.~
+0 
+0 
+3811 
+0 
+3807 
+-1
+0 
+15 
+0 
+0 
+#6~
+3841
+3842
+3843
+3844
+3845
+-1
+1.15 
+0.9 
+22
+19
+17
+15
+8
+-1
+%s I don't carry those, try something else.~
+%s You carry no such item. Care to try again?~
+%s That is pure rubbish, get it out of my shop!~
+%s That is a treasure beyond my modest means to purchase.~
+%s You seem to be short on funds this week, perhaps another time.~
+%s I'll need %d coins to finish the deal. Enjoy your stay.~
+%s You'll get %d coins for that item.~
+0 
+0 
+3810 
+0 
+3804 
+-1
+0 
+18 
+0 
+0 
+$~

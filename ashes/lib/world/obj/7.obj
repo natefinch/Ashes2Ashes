@@ -1,0 +1,503 @@
+#700
+fire hydrant~
+Fire hydrant~
+There is a fire hydrant sitting here, waiting for a dog to relieve himself.
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 10 0
+#701
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#702
+gem ruby red~
+a large red ruby.~
+The ruby is a bit smaller than a baseball.  It is a deep
+red color.~
+~
+8 12 0 0
+0 0 0
+0 0 0 0
+5 15000 0
+#703
+battle axe weapon~
+Battle Axe~
+~
+~
+5 8663300 8193 0
+0 0 0
+0 2 8 3
+10 500 0
+A
+18 3
+#704
+case~
+a glass case~
+There is a glass case here.~
+~
+15 0 0 0
+0 0 0
+30 9 705 0
+60 200 0
+#705
+gold key~
+a gold key~
+This a gold key that they used in the 1920's.~
+~
+18 0 16384 0
+0 0 0
+0 0 0 0
+1 400 0
+#706
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#707
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#708
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#709
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#710
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#711
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#712
+gloves black Fingerless leather~
+Black Fingerless Leather Gloves~
+Here layes a pair of black leather gloves that have no fingers.~
+~
+11 0 129 0
+0 0 0
+0 0 0 0
+1 1000 0
+A
+18 2
+A
+16 -2
+E
+gloves~
+As you look at the leather gloves, you first notice that the fingers
+have been cut off.  Then as you look at them some more, you notice
+that the knuckles have a bit of brass covering them.~
+#713
+zoo key animal animals~
+zoo key~
+A key with the word ZOO on it, is lying here.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#714
+beach towel~
+a beach towel~
+A beach towel is neatly folded here.~
+~
+5 0 24577 0
+0 0 0
+0 1 1 2
+2 25 5
+A
+18 2
+#715
+watermelon~
+watermelon~
+A large, ripe watermelon is here.~
+~
+19 0 1 0
+0 0 0
+30 0 0 0
+5 50 5
+#716
+bunch banana bananas~
+a bunch of bananas~
+A small bunch of bananas is lying here.~
+~
+19 0 1 0
+0 0 0
+16 0 0 0
+2 50 5
+#717
+bag peanuts~
+a bag of peanuts~
+A bag of peanuts is here.~
+~
+19 0 1 0
+0 0 0
+6 0 0 0
+1 30 3
+#718
+ice cube cubes~
+an ice cube~
+An ice cube lies melting on the ground here.~
+The ice cube begins melting in your hand.~
+19 256 16385 0
+0 0 0
+1 0 0 0
+1 100 10
+#719
+orange~
+an orange~
+A ripe, juicy orange lies on the ground here.~
+~
+19 0 1 0
+0 0 0
+10 0 0 0
+1 30 3
+#720
+museum ticket~
+a museum ticket~
+A ticket to see the museum has been dropped here.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+1 500 50
+#721
+capone apartment key~
+Capone's apartment key~
+The key to Al Capone's apartment has been hidden under a rock here.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+1 500 50
+#722
+badge pi private investigator~
+a PI badge~
+The badge of a private investigator has been left here.~
+~
+9 524352 9 0
+0 0 0
+2 0 0 0
+1 1000 75
+A
+3 2
+#723
+silvery whistle~
+a whistle~
+A small silvery whistle has been dropped here.~
+~
+3 0 16385 0
+0 0 0
+3 8 5 64
+1 500 1250
+#724
+hamburger~
+a hamburger~
+A juicy hamburger lies in the dust here.~
+~
+19 0 1 0
+0 0 0
+20 0 0 0
+1 60 5
+#725
+pretzel pretzels bag~
+a bag of pretzels~
+A half-eaten bag of pretzels has been dropped here.~
+~
+19 0 1 0
+0 0 0
+9 0 0 0
+2 25 3
+#726
+coke bottle~
+a bottle of coke~
+A bottle of the original coke has been left here.~
+~
+17 64 16385 0
+0 0 0
+4 4 15 0
+9 100 10
+#727
+hotdog~
+a hotdog~
+A delicious hotdog has been dropped here, still in it's wrapping.~
+~
+19 0 1 0
+0 0 0
+5 0 0 0
+1 25 2
+#728
+box cookie cookies~
+a box of cookies~
+An unopened box of cookies has been left here.~
+~
+19 0 1 0
+0 0 0
+16 0 0 0
+2 100 10
+#729
+surfboard~
+a surfboard~
+A surfboard is leaning against the wall here.~
+~
+22 260 16385 0
+0 0 0
+0 0 0 0
+10 1000 100
+A
+16 -1
+E
+surfboard~
+This will let you surf all the gnarley waves!
+~
+#730
+broom straw~
+a broom~
+A cheap straw broom is lying on the floor here.~
+~
+13 0 16385 0
+0 0 0
+0 0 0 0
+4 40 1
+#731
+shovel~
+a shovel~
+A shovel has been left here.~
+~
+5 16384 24577 0
+0 0 0
+0 3 3 7
+10 1000 50
+A
+18 2
+#732
+sergeant badge~
+the sergeant's badge~
+A police officer has dropped his badge here.~
+~
+9 0 16393 0
+0 0 0
+4 0 0 0
+1 5000 100
+A
+2 1
+#733
+key iron apt 1~
+a key to apt. #1~
+A simple iron key has been dropped here.~
+~
+18 4 1 0
+0 0 0
+0 0 0 0
+1 100 10
+#734
+key iron apt 2~
+a key to apt. #2~
+A simple iron key has been dropped here.~
+~
+18 4 1 0
+0 0 0
+0 0 0 0
+1 100 10
+#735
+key iron apt 3~
+a key to apt. #3~
+A simple iron key has been dropped here.~
+~
+18 4 1 0
+0 0 0
+0 0 0 0
+1 100 10
+#736
+key iron apt 4~
+a key to apt. #4~
+A simple iron key has been dropped here.~
+~
+18 4 1 0
+0 0 0
+0 0 0 0
+1 100 10
+#737
+coffee mug~
+a coffee mug~
+A coffee mug full of hot, black coffee is here.~
+~
+17 0 16385 0
+0 0 0
+1 1 12 0
+1 45 4
+#738
+coffee pot~
+a coffee pot~
+A coffee pot full of hot coffee has been left here.~
+~
+17 0 16385 0
+0 0 0
+10 10 12 0
+15 450 45
+#739
+donut donuts~
+a glazed donut~
+A tasty donut lies discarded here, still in its wrapper.~
+~
+19 0 1 0
+0 0 0
+6 0 0 0
+1 20 1
+#740
+train ticket tickets~
+a train ticket~
+A discarded train ticket lies here.~
+~
+8 0 16385 0
+0 0 0
+0 0 0 0
+1 5000 500
+#741
+little black book~
+a little black book~
+Someone's address book has been dropped here.~
+~
+11 0 16385 0
+0 0 0
+0 0 0 0
+2 5000 500
+A
+4 1
+E
+book~
+This is a little black book filled with the names, addresses, and phone numbers
+of many people.  You see see the names of many well respected and important
+members of the community mentioned within.
+~
+E
+black~
+This is a little black book filled with the names, addresses, and phone numbers
+of many people.  You see see the names of many well respected and important
+members of the community mentioned within.
+~
+E
+little~
+This is a little black book filled with the names, addresses, and phone numbers
+of many people.  You see see the names of many well respected and important
+members of the community mentioned within.
+~
+#742
+key jail gold~
+a gold key~
+A gold key lies on the ground here.~
+~
+18 4 16384 0
+0 0 0
+0 0 0 0
+5 50 0
+#743
+book War Peace~
+War & Peace~
+A very thick book called War & Peace is here.~
+~
+11 0 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+18 2
+#744
+bible book~
+the Holy Bible~
+The Holy Bible is here.~
+~
+0 8934657 16385 0
+0 0 0
+0 0 0 0
+5 0 0
+#750
+Clue~
+a clue~
+A clue lies here, perhpas you need it.~
+~
+0 0 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+clue~
+This is a clue, too bad it's rather useless.  The creater of this
+clue must not have known a lot themselves.  Oh well, at least it was
+a good try.
+~
+#798
+bike harley~
+Panther's Harley~
+A nice Harley-Davidson bike is resting here.~
+~
+8 0 1 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+bike~
+This bike is a rather special bike.  As you look at the bike, you notice
+that it has a black panther painted on the engine cover.  The bike has
+two seats and it is kept in nice condition.  The owner of this bike must
+love the bike, because it looks brand new.
+~
+#799
+bike harley~
+Panther's Harley~
+A nice Harley-Davidson bike is resting here.~
+~
+8 0 1 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+bike harley~
+This bike is a rather special bike.  As you look at the bike, you notice
+that it has a black panther painted on the engine cover.  The bike has
+two seats ans it is kept in rather nice condition.  The bike itself is 
+mainly silver and black.  The owner of this bike must love the bike, 
+because it looks brand new.
+~
+$

@@ -1,0 +1,1959 @@
+#17900
+key small black ebony~
+a small black key~
+A small black key lies here.~
+~
+18 84 1 0
+0 0 0
+0 0 0 0
+1 1 0
+E
+key small black ebony~
+This is a small key made of pollished ebony. Very small, intricate runes
+are carved all along the top edge.
+~
+#17901
+seal ebony~
+an ebony seal~
+A piece of ebony rests here.~
+~
+18 65 1 0
+0 0 0
+0 0 0 0
+1 1 0
+E
+seal ebony~
+This is a flat, smooth piece of ebony with silver runes traced on one side.
+~
+#17902
+seal ivory~
+an ivory seal~
+An chunk of ivory rests here.~
+~
+18 65 1 0
+0 0 0
+0 0 0 0
+1 1 0
+E
+ivory seal~
+This is a flat, smooth piece of ivory with gold runes traced on one side.
+~
+#17903
+sign flame~
+a sign of flame~
+A warning sign of pure flame hovers before you.~
+~
+16 81 0 0
+0 0 0
+0 0 0 0
+1 1 0
+E
+sign flame~
+DO NOT ENTER
+All who enter the grove will die!
+Only the most foolish of people would even dare approach it.
+Stay away.
+  -Dalamar, Master of the Tower of High Sorcery at Palanthas
+~
+#17904
+fountain marble water~
+a marble fountain~
+A marble fountain gurgles and sparkles in the sunlight.~
+~
+23 16 0 0
+0 0 0
+30000 30000 15 0
+30005 2000 0
+E
+fountain marble~
+This is a large fountain made of polished gray marble. A stream of clear
+water sprays out of the top, collects in a small shallow dish, and then
+flows over into the large, lower bowl of the fountain.
+~
+E
+water~
+The water is crystal clear.
+~
+#17905
+key iron~
+an iron key~
+And iron key lies here.~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+1 1 0
+E
+key iron~
+This is just a simple iron key.
+~
+#17906
+sand beach ripples image sign~
+ripples~
+As the sand drops from your hand the beach ripples, forming an image.~
+~
+16 16 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sand beach ripples image sign~
+The ripples dissipate leaving a circular area about 2 feet in diameter that
+reflects the sky. The clouds in the reflection slowly form a face, which a
+quick glance upward tells you is no longer a reflection. The face speaks:
+  Hello traveler, I am Sarnoth, creator and guardian of this place.
+  You are about to enter the realms of Dragonlance. Most places there are
+  are fairly harmless for an adventurer of some experience, but beware,
+  there is more than enough trouble to be had if you go looking for it.
+  The people are for the most part kind, or at least willing to leave
+  strangers alone, but look out for Kender. They are quite kind, but very
+  curious and if you don't watch your items around them you may find that
+  you are traveling much lighter than you thought.
+As the face finishes talking, the reflection fades, and soon you are just
+staring at the sand.
+~
+#17907
+key iron~
+an iron key~
+A key lies at your feet.~
+~
+18 4 1 0
+0 0 0
+0 0 0 0
+1 1 0
+E
+key iron~
+A sturdy iron key that looks like it goes to a rather complex lock.
+~
+#17908
+backpack~
+a backpack~
+A large backpack rests here.~
+~
+15 0 1025 0
+0 0 0
+90 0 -1 0
+2 57 57
+E
+backpack~
+This is a large, brown backpack with lots of pockets. It is old and worn,
+but still strong.
+~
+#17909
+longsword sword~
+a longsword~
+A long, sharp sword stands point down in the dirt.~
+~
+5 9449472 8193 0
+0 0 0
+0 5 4 3
+7 350 350
+A
+17 2
+E
+longsword sword~
+This is a sturdy and well balanced longsword. The hilt is very simple, and
+would not provide much protection, but the blade is well made and well
+cared for.
+~
+#17910
+dagger sharp~
+a sharp dagger~
+A sharp slivery dagger glints in the light.~
+~
+5 12352 24577 0
+0 0 32
+0 3 6 11
+2 630 630
+A
+18 1
+A
+2 1
+A
+17 1
+A
+14 5
+E
+dagger sharp~
+The handle of the dagger decorated with trees and animals, which also
+provide a good grip. The blade is very sharp and is so shiny that it must
+be made partly of sliver. When you touch the weapon you feel a little
+quicker and more aware.
+~
+#17911
+sword blackened bastard~
+a blackened sword~
+A black bastard sword lies here, discarded.~
+~
+5 9663176 8193 0
+0 2 5
+0 4 7 3
+19 230 230
+A
+17 4
+A
+24 3
+E
+sword blackened bastard~
+This sword, once a well made Solanmic sword, is permanently blackened by
+the fire that killed it's owner. It is cold to the touch and makes you
+feel uneasy.
+~
+#17912
+armor breastplate plate charred solamnic~
+charred Solamnic armor~
+Some charred Solamnic armor lies in the dust.~
+~
+9 9654920 9 0
+0 2 17
+14 0 0 0
+30 450 450
+A
+6 -2
+A
+7 10
+A
+23 -5
+E
+armor breastplate plate charred solamnic~
+This is the breastplate of a suit of Solamnic armor. A rose, a sword, and
+a kingfisher, the symbols of the Solamnic knights, decorate the armor.
+They are burned and black now, and the rest of the armor is dull gray.
+~
+#17913
+greaves charred~
+charred greaves~
+Some charred greaves lie in the dust.~
+~
+9 9654920 33 0
+1 2 0
+11 0 0 0
+20 400 400
+A
+11 10
+E
+greaves charred~
+These are well made steel greaves. They are dark gray from the fire that
+killed their wearer. No matter how much you polish them, they stay gray
+and sooty. They feel cool and clammy to the touch.
+~
+#17914
+vambraces charred~
+charred vambraces~
+Some charred vambraces lie in the dust.~
+~
+9 9654920 257 0
+0 2 1
+11 0 0 0
+15 350 350
+A
+24 2
+A
+13 4
+E
+vambraces charred~
+These are well made steel vambraces. They are dark gray from the fire that
+killed their wearer. No matter how much you polish them, they stay gray
+and sooty. They feel cool and clammy to the touch.
+~
+#17915
+armor breastplate plate solamnic~
+Solamnic sword armor~
+A breastplate with a sword symbol on it lies in the corner.~
+~
+25 9991168 9 0
+0 0 0
+70 0 0 0
+30 2500 2500
+A
+16 -35
+A
+18 1
+A
+17 1
+A
+11 5
+E
+armor breastplate plate solamnic~
+This is a well made breastplate of steel. A raised and colored sword
+emblem decorates the front.
+~
+#17916
+armor breastplate plate solamnic~
+Solamnic crown armor~
+A breastplate with a crown symbol on it lies in the corner.~
+~
+25 9991168 9 0
+0 0 0
+70 0 0 0
+30 2500 2500
+A
+16 -35
+A
+3 2
+A
+4 2
+A
+11 5
+A
+5 1
+E
+armor breastplate plate solamnic~
+This is a well made breastplate of steel. A raised and colored crown
+emblem decorates the front.
+~
+#17917
+armor breastplate plate solamnic~
+Solamnic rose armor~
+A breastplate with a rose symbol on it lies in the corner.~
+~
+25 9991168 9 0
+0 0 24
+75 0 0 0
+30 2500 2500
+A
+16 -50
+A
+11 5
+E
+armor breastplate plate solamnic~
+This is a well made breastplate of steel. A raised and colored rose emblem
+decorates the front.
+~
+#17918
+book history volume 935827~
+Krynn History, vol. 935827~
+A large, leather-bound book lies on the floor.~
+~
+12 0 16385 0
+0 0 0
+0 0 0 0
+3 10640 10640
+A
+3 4
+A
+4 3
+A
+16 -2
+E
+book history volume 935827~
+This is the most recent volume of the history of Krynn. It is very large
+and bound in leather. The writing is very neat and flowing. It is 300
+pages of over a quarter billion pages of world history.
+~
+#17919
+book history~
+a book that was never written.~
+A large, leather-bound book lies on the floor.~
+~
+12 0 16385 0
+0 0 0
+0 0 0 0
+3 110500 110500
+A
+18 4
+A
+17 3
+A
+16 -2
+E
+book history~
+This book is from a different time line, when Raistlin conquered the gods
+and destroyed the world. This book was never written and the events never
+happened, but yet Astinus knows and here is the book in your hands. The
+story in this book demonstrates that knowledge is power.
+~
+#17920
+medallion crysania's~
+Crysania's medallion~
+A gold medallion on a gold necklace lies here.~
+~
+8 3330 5 0
+2 0 0
+0 0 0 0
+1 80450 80450
+A
+11 10
+A
+16 -2
+E
+medallion crysania's~
+A dragon, the symbol of Paladine, is carved on this gold medallion. It is
+warm to the touch and bring a feeling of peace. It hangs on a well crafted
+gold chain.
+~
+#17921
+medallion tandar's~
+Tandar's medallion~
+A gold medallion on a black collar lies here.~
+~
+8 3330 5 131072
+0 0 0
+0 0 0 0
+1 64300 64300
+A
+11 15
+A
+16 -3
+E
+medallion tandar's~
+A dragon, the symbol of Paladine, is carved on this gold medallion. It
+give you a feeling of protection. It it attached to a black collar.
+~
+#17922
+lantern hooded~
+a hooded lantern~
+A hooded lantern lies on it's side, discarded.~
+~
+1 0 16385 0
+0 0 0
+0 0 72 0
+2 50 50
+E
+lantern hooded~
+The lantern is about 10 inches tall. Glass sides and a metal roof protect
+it from even strong winds. From it's size, it looks like it could burn a
+long time before running out of oil.
+~
+#17923
+boots~
+slightly used hiking boots~
+Some old hiking boots lie here.~
+~
+11 0 65 0
+0 0 0
+0 0 0 0
+2 35 35
+A
+16 -2
+A
+12 5
+E
+boots~
+These are a very nice pair of brown leather hiking boots. They are a
+little worn though.
+~
+#17924
+gloves~
+some very thick gloves~
+A pair of large, black gloves sits in the dirt.~
+~
+9 9465856 129 0
+0 0 1
+5 0 0 0
+2 740 740
+A
+2 -1
+A
+17 -3
+E
+gloves~
+These gloves are made of leather, but from what animal is anyone's guess.
+They are a half inch thick and have been treated with some kind of
+chemical. They are black from soot and scorching and were probably once
+used by a blacksmith working with hot metal. They could proved a lot of
+protection for your hands, however you can barely move your fingers in
+them.
+~
+#17925
+cram biscuit rock~
+some cram~
+A rock lies at your feet.. no, wait, it's a biscuit.~
+~
+19 0 1 0
+0 0 0
+24 0 0 0
+1 13 13
+E
+cram biscuit rock~
+This is a very solid, very heavy biscuit. It never goes bad, or is it that
+it is already bad and can't possibly get worse? Whatever the case, it is
+rations and a little bit can feed you for weeks.
+~
+#17926
+skin water~
+a water skin~
+Someone has left a water skin on the ground here.~
+~
+17 0 1 0
+0 0 0
+150 120 0 0
+125 42 42
+E
+skin water~
+This is a large leather water skin with metal spout and a screw on cap. It
+can hold enough water for a long time.
+~
+#17927
+ring protection +2 silver~
+a ring of protection +2~
+An intricate silver ring rests here.~
+~
+11 64 3 0
+0 0 7
+0 0 0 0
+1 865000 865000
+A
+16 -2
+A
+23 -2
+E
+ring protection +2 silver~
+Small runes decorate the outside of this silver ring. Tiny gems of all
+colors fill the little spaces between the raised lines of the runes. When
+you put it on you feel like something is guarding you.
+~
+#17928
+necklace tears~
+a necklace of tears~
+A necklace with several pearls lies at your feet.~
+~
+11 1359936 5 0
+0 56 0
+0 0 0 0
+1 500000 500000
+A
+11 -10
+A
+13 4
+E
+necklace tears~
+This is a silver chain necklace with 5 tear-shaped pearls hanging from it.
+~
+#17929
+cloak displacement~
+a cloak of displacement~
+The shimmering image of a cloak hovers above the ground.~
+~
+11 1359968 1025 2
+0 0 0
+0 0 0 0
+1 920000 920000
+A
+16 -12
+A
+10 -10
+A
+12 -10
+E
+cloak displacement~
+You can feel the cloak in your hands, but you see it hovering in the air a
+few feet away from you. The image itself is shadowy and translucent.
+~
+#17930
+bracer magical~
+a magical bracer~
+A leather bracer stained with purple writing lies at you feet.~
+~
+11 1359936 4097 0
+0 0 0
+0 0 0 0
+1 650000 650000
+A
+11 15
+A
+24 2
+E
+bracer magical~
+This is a bracer made of soft leather. On it is purple writing in a
+language you can't understand.
+~
+#17931
+crystal ball~
+a crystal ball~
+A crystal ball is rolling around on the ground.~
+~
+8 1359936 16385 0
+0 0 0
+0 0 0 0
+4 700000 700000
+A
+10 20
+A
+13 1
+E
+crystal ball~
+This crystal ball is quite weighty. It is about 5 inches in diameter and
+completely clear.
+~
+#17932
+staff wooden~
+a long wooden staff~
+A long staff lies on the floor.~
+~
+5 10412112 8193 0
+0 0 0
+0 8 3 5
+3 1000000 1000000
+A
+24 3
+A
+16 -3
+A
+23 -3
+A
+13 3
+E
+staff wooden~
+This staff is six and a half feet long. It is made of a single, magically
+shaped tree branch and is stained deep red.
+~
+#17933
+scroll~
+a scroll of strength~
+A small scroll tied with a red ribbon is collecting dust.~
+~
+2 10412096 1 0
+0 0 0
+15 39 0 0
+1 26 26
+E
+scroll~
+This small scroll is neatly rolled and tied with a red ribbon. The writing
+is done in thin, precise lines of black ink.
+~
+#17934
+scroll~
+a scroll of curse~
+A small scroll tied with a red ribbon is collecting dust.~
+~
+2 10412096 1 0
+0 0 0
+15 17 0 0
+1 52 52
+E
+scroll~
+This small scroll is neatly rolled and tied with a red ribbon. The writing
+is done in thin, precise lines of black ink.
+~
+#17935
+scroll~
+a scroll of infravision~
+A small scroll tied with a red ribbon is collecting dust.~
+~
+2 10412096 1 0
+0 0 0
+15 50 0 0
+1 40 40
+E
+scroll~
+This small scroll is neatly rolled and tied with a red ribbon. The writing
+is done in thin, precise lines of black ink.
+~
+#17936
+scroll~
+a scroll of magic shield~
+A small scroll tied with a red ribbon is collecting dust.~
+~
+2 10412096 1 0
+0 0 0
+15 77 0 0
+1 104 104
+E
+scroll~
+This small scroll is neatly rolled and tied with a red ribbon. The writing
+is done in thin, precise lines of black ink.
+~
+#17937
+potion purification flask~
+a potion of purification~
+A stoppered glass flask containing a light blue liquid rests here.~
+~
+10 64 1 0
+0 0 0
+30 35 43 75
+2 82 82
+E
+potion purification flask~
+This glass flask hold about a pint of liquid. Inside is a light blue
+liquid that is too murky to see though clearly, but seems unnaturally
+bright. The flask is stoppered, and when you remove the stopper you can
+see the liquid start to evaporate, but it doesn't have any odor.
+~
+#17938
+breastplate plate iron~
+an iron breastplate~
+A heavy iron breastplate lies here.~
+~
+25 9465856 9 0
+0 0 0
+60 0 0 0
+16 230000 230000
+A
+16 -43
+E
+breastplate plate iron~
+This is a thick breastplate made of iron. It has black leather straps to
+hold it in place, but is otherwise featureless.
+~
+#17939
+helmet iron~
+an iron helmet~
+An iron helmet lies on the ground.~
+~
+25 0 17 0
+0 0 0
+60 0 0 0
+5 160000 160000
+A
+16 -25
+E
+helmet iron~
+This is a solid, one piece helmet made of iron. A bar extends from the top
+of the helmet over the nose providing some protection for the face.
+~
+#17940
+greaves iron~
+a pair of iron greaves~
+A pair of iron greaves lie on the ground.~
+~
+25 0 33 0
+0 0 0
+60 0 0 0
+10 220000 220000
+A
+16 -23
+E
+greaves iron~
+These are thick greaves that provide good protection but they aren't very
+stylish or comfortable. It is like wearing two pipes on each leg with a
+joint connecting them at the knee.
+~
+#17941
+vambraces iron~
+some iron vambraces~
+A pair of iron vambraces lies here.~
+~
+25 0 257 0
+0 0 0
+60 0 0 0
+8 170000 170000
+A
+16 -11
+E
+vambraces iron~
+These are very sturdy vambraces, but very uncomfortable too. It is like
+wearing two pipes on each arm with a joint at the elbow.
+~
+#17942
+shield iron~
+an iron shield~
+An iron shield rests on the ground.~
+~
+25 0 513 0
+0 0 0
+60 0 0 0
+20 240000 240000
+A
+16 -17
+E
+shield iron~
+This is a large, square, solid iron shield. It is 3/4 inch thick and can
+prove a lot of protection when you hide behind it.
+~
+#17943
+girdle leather~
+a leather girdle~
+A leather girdle lies on the ground.~
+~
+25 0 2049 0
+0 0 0
+55 0 0 0
+3 105000 105000
+A
+16 -6
+E
+girdle leather~
+This girdle is made of thick, hardened leather. It looks like it could
+proved good protection without too much restriction of movement.
+~
+#17944
+shortsword sword~
+a shortsword~
+A shorsword lies on the ground.~
+~
+5 8400896 8193 0
+0 0 0
+0 5 5 3
+5 42500 42500
+A
+17 1
+A
+18 1
+E
+shortsword sword~
+This is a well made short sword. The hilt is made of iron, but the blade
+is steel. It is well balanced and very sharp.
+~
+#17945
+club wooden~
+a club~
+A wooden club.~
+~
+5 8409088 8193 0
+0 0 0
+0 4 7 6
+15 32500 32500
+A
+18 1
+E
+club wooden~
+This is a simple wooden club made of a large tree branch that has been cut
+and sanded. It is very heavy and could do considerable damage in the hands
+of someone strong enough to wield it effectively.
+~
+#17946
+dart~
+a dart~
+A small dart lies on the ground.~
+~
+5 0 1 0
+0 0 0
+0 5 5 14
+1 3000 3000
+E
+dart~
+This is a small, metal dart with brown guiding feathers.
+~
+#17947
+axe battle~
+a battle axe~
+A large battle axe lies here.~
+~
+5 8417280 8193 0
+0 0 0
+0 8 3 3
+18 40000 40000
+A
+18 1
+A
+17 -1
+E
+axe battle~
+This axe has a long oak handle and a wide iron blade. It is quite heavy
+and would do a lot of damage even if the blade weren't sharp.
+~
+#17948
+dagger~
+a saw-toothed dagger~
+A dagger with a wicked blade rests here.~
+~
+5 8400896 24577 0
+0 0 0
+0 2 13 11
+3 35000 35000
+A
+18 1
+E
+dagger~
+This is a steel dagger with a black leather grip on the handle. The blade
+has barbs all along one side.
+~
+#17949
+hoopak staff~
+a hoopak~
+A strange forked staff lies here.~
+~
+5 692224 24577 0
+0 0 16
+0 4 6 5
+5 500 500
+A
+17 4
+A
+4 -3
+A
+2 1
+A
+16 -2
+E
+hoopak staff~
+This is a large staff made of wood. One end is forked and has a leather
+sling attached to it.
+~
+#17950
+spoon kender turning silver~
+the kender spoon of turning~
+A silver spoon rests on the ground.~
+~
+4 0 16385 0
+0 0 0
+50 25 25 22
+1 400 400
+A
+4 -2
+A
+3 -1
+A
+20 -5
+A
+21 -5
+A
+19 -5
+E
+spoon kender turning silver~
+This is a silver spoon from a nice set of silverware. Tas "borrowed" it
+from Dalamar, and since then he has been calling it the kender spoon of
+turning, and claiming it has magical powers.
+~
+#17951
+ring gold~
+a gold ring~
+A plain gold ring lies in the dirt.~
+~
+11 136 3 0
+0 0 0
+0 0 0 0
+1 650 650
+A
+9 -50
+A
+8 -50
+A
+8 -50
+E
+ring gold~
+This is just a plain gold band. There is one small symbol inscribed on the
+inside, but you can't make any sense of it.
+~
+#17952
+starjewel jewel egg~
+a starjewel~
+A brilliant, egg shaped jewel lies on the ground.~
+~
+8 1345 5 0
+0 0 0
+0 0 0 0
+2 142000 142000
+A
+4 2
+A
+6 1
+A
+10 15
+A
+11 10
+E
+starjewel jewel egg~
+This is a starjewel hanging on a silver chain. It is white, translucent,
+and shaped like a small egg. It reflects even the faintest light with
+great intensity.
+~
+#17953
+sword brightblade~
+the Brightblade sword~
+An ancient sword lies here.~
+~
+5 9465856 8193 0
+0 0 0
+0 11 2 3
+13 52000 52000
+A
+17 4
+E
+sword brightblade~
+This is a very old Solamnic sword, passed down in the Brightblade family
+from father to son for generations. The hilt is very elaborate and
+decorative. The blade is made of steel and has been kept polished and very
+sharp. The sword sits nicely in your hand, well balanced, and moving
+gracefully as you swing it around.
+~
+#17954
+plate mail armor takhisis~
+armor of the Knights of Takhisis~
+A suit of plate mail lies on the ground.~
+~
+9 9597184 9 0
+16 7 40
+15 0 0 0
+40 254100 254100
+E
+plate mail armor takhisis~
+This is a very sturdy suit of plate mail. It is quite heavy and extremely
+solid. It is decorated with a death lily and has been blessed by Takhisis.
+~
+#17955
+robe hooded~
+a robe of the Gray Mages~
+A gray, hooded robe lies in a ball at your feet.~
+~
+11 9887824 1025 8
+0 0 0
+0 0 0 0
+3 35000 35000
+A
+10 12
+A
+13 2
+E
+robe hooded~
+This is a stone-gray robe. It has a hood, long sleeves, and no visible
+seams. Around the hem of the hood and sleeves are small runes embroidered
+with silver thread.
+~
+#17956
+wyrmslayer sword~
+Wyrmslayer~
+An ancient sword rests here.~
+~
+5 1060864 8193 0
+0 0 0
+0 5 6 3
+8 50000 50000
+A
+17 4
+A
+22 -5
+E
+wyrmslayer sword wyrm~
+This is a very large sword. It looks like it can inflict considerable
+damage. It would normally be too large and heavy to wield well, but runes
+engraved along the blade give it magical speed and weight.
+~
+#17957
+bracers caramon~
+Caramon's bracers~
+Some gigantic braces lie here.~
+~
+9 9465856 289 0
+0 0 0
+12 0 0 0
+16 900 900
+A
+1 3
+A
+8 10
+E
+bracers caramon car bracer brac bra~
+These are huge metal bracers. You can just barely make them fit by
+tightening the straps all the way. They're so big you could wear them on
+your legs.
+~
+#17958
+longbow bow elven~
+an elven longbow and arrows~
+A very fine longbow lies here next to a quiver of arrows.~
+~
+5 10137600 8193 262144
+0 0 0
+0 4 7 14
+5 8400 8400
+A
+17 3
+E
+longbow bow elven~
+This is a longbow of elven design. It is very well made, probably for
+royalty. The arrows are equally well made.
+~
+#17959
+skillet tika~
+Tika's skillet~
+A black skillet lies here.~
+~
+5 4096 8193 0
+0 0 0
+0 8 3 5
+6 80 80
+A
+18 4
+A
+5 2
+E
+skillet tika skil~
+This skillet has seen more action than some adventurers. It has small
+dents in the bottom from whacking draconians and other baddies on the head.
+~
+#17960
+shield tika~
+Tika's shield~
+A battered shield lies here.~
+~
+5 0 8705 0
+0 0 0
+0 5 4 5
+8 210 210
+A
+16 -6
+A
+18 2
+E
+shield tika~
+This is a wooden shield that has gotten a lot of use, and not all of it
+was defensive. In fact, if you look closely you can make out the imprint
+of a face on the front.
+~
+#17961
+cloth silk blue elven~
+a piece of blue silk~
+A blue cloth lies here.~
+~
+11 574464 2049 0
+0 0 0
+0 0 0 0
+1 1200 1200
+A
+13 3
+E
+cloth silk blue elven~
+This is a finely made strip of blue silk. It is of elven make.
+~
+#17962
+staff silver~
+a silver staff~
+A short silver staff lies here.~
+~
+3 1359872 16385 0
+0 0 0
+60 10 10 74
+2 14000 14000
+E
+staff silver~
+It is a plain silver staff about 3 feet long.
+~
+#17963
+flask blue~
+a flask of blue liquid~
+A glass flask containing blue liquid lies here.~
+~
+10 0 1 0
+0 0 0
+80 28 57 0
+2 8000 8000
+E
+flask blue~
+This glass flask contains about a pint of translucent blue liquid.
+~
+#17964
+amulet gold~
+a gold amulet~
+A gold amulet lies in the dirt.~
+~
+11 9748480 5 0
+7 0 0
+0 0 0 0
+1 16800 16800
+A
+13 1
+E
+amulet gold~
+This is a gold amulet hung on a gold chain. A dragon is engraved on the amulet.
+~
+#17965
+cord silver parsalian~
+Parsalian's silver cord~
+A silver cord lies here.~
+~
+11 10415168 2049 0
+0 0 0
+0 0 0 0
+1 120000 120000
+A
+10 15
+A
+13 2
+A
+24 4
+E
+cord silver parsalian par~
+This is a silver cord made of silk, meant to be used as a belt. It is warm
+to the touch.
+~
+#17966
+book spellbook magius~
+Magius' spell book~
+A very old spell book lies here.~
+$n hold$c $p up and begin$c speaking strange words of magic.~
+2 10412112 16385 0
+0 0 0
+80 81 58 0
+5 240000 240000
+A
+10 30
+A
+3 3
+A
+4 1
+E
+book spellbook magius spell~
+This is a very old spell book bound in red leather. On the cover the name
+Magius is printed in gold letters. The leather is cracking, the gold leaf
+is flaking off, and the pages are very brittle. Despite the book's
+fragility, the words within are very strong. Only the most powerful mages
+may read past the cover without harm.
+~
+#17967
+scroll black~
+a scroll tied with black ribbon~
+A scroll tied with a black ribbon lies on the ground.~
+~
+2 10412096 1 0
+0 0 0
+80 62 0 0
+1 1000 1000
+#17968
+scroll black~
+a scroll tied with black ribbon~
+A scroll tied with a black ribbon lies on the ground.~
+~
+2 10412096 1 0
+0 0 0
+80 74 0 0
+1 1000 1000
+#17969
+scroll black~
+a scroll tied with black ribbon~
+A scroll tied with a black ribbon lies on the ground.~
+~
+2 10412096 1 0
+0 0 0
+80 24 0 0
+1 1000 1000
+#17970
+graygem gem~
+one half of the graygem~
+Half of a hollow gem rest in the dirt.~
+~
+8 84 1 0
+0 0 0
+0 0 0 0
+1 100000 100000
+E
+graygem gem gray~
+This gem is gray, but that is the only characteristic anyone can agree
+upon. To some people it is as large as a bowling ball, to others it is
+small enough to fit on a ring. To some it is smooth, to others it is cut
+in a simple diamond shape, and to others it has hundreds of facets.
+~
+#17971
+graygem gem~
+the other half of the graygem~
+Half of a hollow gem rest in the dirt.~
+~
+8 84 1 0
+0 0 0
+0 0 0 0
+1 100000 100000
+E
+graygem gem gray~
+This gem is gray, but that is the only characteristic anyone can agree
+upon. To some people it is as large as a bowling ball, to others it is
+small enough to fit on a ring. To some it is smooth, to others it is cut
+in a simple diamond shape, and to others it has hundreds of facets.
+~
+#17972
+hammer~
+a gigantic dwarven hammer~
+A huge war hammer lies here.~
+~
+5 9457664 8193 0
+0 0 0
+0 1 35 6
+25 85000 85000
+A
+18 4
+A
+17 1
+E
+hammer ham~
+This is a very well made war hammer. Most dwarves would sell their brother
+for a weapon such as this. It is made of several kinds of metal, worked
+together to give it better balance and control. On the handle is a short
+prayer to Reorx in dwarven.
+~
+#17973
+beard chaos hair thread~
+a hair from Chaos' beard~
+A tangible thread of flame burns on the ground.~
+~
+11 592 5 0
+0 1 0
+0 0 0 0
+1 200 200
+A
+11 -35
+A
+14 -10
+E
+beard chaos hair thread~
+This is a hair from Chaos' beard. It is made of solid fire, and it HURTS
+to hold. Still, it is a piece of the most powerful being in existance, so
+maybe it is worth it.
+~
+#17974
+beard chaos hair thread~
+a hair from Chaos' beard~
+A tangible thread of flame burns on the ground.~
+~
+11 592 5 0
+0 1 0
+0 0 0 0
+1 200 200
+A
+11 -25
+A
+14 -20
+A
+10 20
+A
+13 3
+E
+beard chaos hair thread~
+This is a hair from Chaos' beard. It is made of solid fire, and it HURTS
+to hold. Still, it is a piece of the most powerful being in existance, so
+maybe it is worth it.
+~
+#17975
+beard chaos hair thread~
+a hair from Chaos' beard~
+A tangible thread of flame burns on the ground.~
+~
+11 592 5 0
+0 1 0
+0 0 0 0
+1 200 200
+A
+11 -50
+A
+14 -30
+A
+17 1
+A
+18 2
+E
+beard chaos hair thread~
+This is a hair from Chaos' beard. It is made of solid fire, and it HURTS
+to hold. Still, it is a piece of the most powerful being in existance, so
+maybe it is worth it.
+~
+#17976
+beard chaos hair thread~
+a hair from Chaos' beard~
+A tangible thread of flame burns on the ground.~
+~
+11 592 5 0
+0 1 0
+0 0 0 0
+1 200 200
+A
+11 -50
+A
+14 -30
+A
+17 2
+A
+13 3
+E
+beard chaos hair thread~
+This is a hair from Chaos' beard. It is made of solid fire, and it HURTS
+to hold. Still, it is a piece of the most powerful being in existance, so
+maybe it is worth it.
+~
+#17977
+beard chaos hair thread~
+a hair from Chaos' beard~
+A tangible thread of flame burns on the ground.~
+~
+11 592 4097 0
+0 1 0
+0 0 0 0
+1 200 200
+A
+11 -25
+A
+14 -20
+A
+10 20
+A
+13 2
+E
+beard chaos hair thread~
+This is a hair from Chaos' beard. It is made of solid fire, and it HURTS
+to hold. Still, it is a piece of the most powerful being in existance, so
+maybe it is worth it.
+~
+#17978
+beard chaos hair thread~
+a hair from Chaos' beard~
+A tangible thread of flame burns on the ground.~
+~
+11 592 4097 0
+0 1 0
+0 0 0 0
+1 200 200
+A
+11 -50
+A
+14 -30
+A
+18 2
+E
+beard chaos hair thread~
+This is a hair from Chaos' beard. It is made of solid fire, and it HURTS
+to hold. Still, it is a piece of the most powerful being in existance, so
+maybe it is worth it.
+~
+#17979
+beard chaos hair thread~
+a hair from Chaos' beard~
+A tangible thread of flame burns on the ground.~
+~
+11 592 4097 0
+0 1 0
+0 0 0 0
+1 200 200
+A
+11 -50
+A
+14 -30
+A
+18 2
+A
+13 2
+E
+beard chaos hair thread~
+This is a hair from Chaos' beard. It is made of solid fire, and it HURTS
+to hold. Still, it is a piece of the most powerful being in existance, so
+maybe it is worth it.
+~
+#17980
+beard chaos hair thread~
+a hair from Chaos' beard~
+A tangible thread of flame burns on the ground.~
+~
+11 592 2049 0
+0 1 0
+0 0 0 0
+1 200 200
+A
+11 -25
+A
+14 -20
+A
+10 15
+A
+13 2
+E
+beard chaos hair thread~
+This is a hair from Chaos' beard. It is made of solid fire, and it HURTS
+to hold. Still, it is a piece of the most powerful being in existance, so
+maybe it is worth it.
+~
+#17981
+beard chaos hair thread~
+a hair from Chaos' beard~
+A tangible thread of flame burns on the ground.~
+~
+11 592 2049 0
+0 1 0
+0 0 0 0
+1 200 200
+A
+11 -50
+A
+14 -30
+A
+17 1
+A
+18 2
+E
+beard chaos hair thread~
+This is a hair from Chaos' beard. It is made of solid fire, and it HURTS
+to hold. Still, it is a piece of the most powerful being in existance, so
+maybe it is worth it.
+~
+#17982
+beard chaos hair thread~
+a hair from Chaos' beard~
+A tangible thread of flame burns on the ground.~
+~
+11 592 2049 0
+0 1 0
+0 0 0 0
+1 200 200
+A
+11 -50
+A
+14 -30
+A
+17 1
+A
+18 1
+A
+13 2
+E
+beard chaos hair thread~
+This is a hair from Chaos' beard. It is made of solid fire, and it HURTS
+to hold. Still, it is a piece of the most powerful being in existance, so
+maybe it is worth it.
+~
+#17983
+orb dragon sphere glass~
+a dragon orb~
+A large, glass sphere rests here.~
+~
+8 1425488 16385 0
+0 0 0
+0 0 0 0
+20 210000 210000
+A
+3 -2
+A
+4 -2
+A
+13 5
+A
+14 5
+E
+orb dragon sphere glass~
+This is a hollow glass sphere, two feet in diameter. Inside colored smoke
+swirls around. When you touch it you can feel an intelligence that tries
+to control you.
+~
+#17984
+bloodstone pendant fistandantilus chain stone~
+Fistandantilus' bloodstone pendant~
+A dark red stone on a gold chain lies here.~
+~
+11 1499712 5 0
+0 0 0
+0 0 0 0
+2 86000 86000
+A
+10 15
+A
+13 5
+E
+bloodstone pendant chain stone blood fist fistandantilus~
+The stone is smooth and oval shaped. It is dark red and translucent, with
+swirls of black through it. It hangs on a simple gold chain.
+~
+#17985
+essence life death mass swirling black~
+the essence of life and death~
+A swirling black mass slithers around on the ground.~
+~
+11 65552 1025 32
+0 0 0
+0 0 0 0
+1 330000 330000
+A
+17 3
+A
+18 3
+A
+16 -7
+A
+24 2
+A
+11 10
+E
+essence life death mass swirling black~
+It is a gray field of energy with inky black swirls moving through it. It
+is warm to the touch and molds easily into whatever shape you desire.
+~
+#17986
+chaos ball lights~
+pure chaos~
+A ball of colored lights floats just above the ground.~
+~
+12 145 16385 0
+7 0 0
+0 0 0 0
+1 550000 550000
+A
+10 35
+A
+13 4
+A
+11 10
+A
+14 5
+A
+12 15
+A
+15 10
+E
+chaos ball lights~
+At the center is a slowly pulsing red/black sphere. All around it are
+wisps of energy of every color imaginable, flying about so fast they blur.
+When you grab hold of it the wisps begin circling you.
+~
+#17987
+flames black fire~
+black flames~
+A fire burns here, but the flames are black!~
+~
+9 65680 5 0
+2 1 4
+6 0 0 0
+1 12000 12000
+A
+10 40
+A
+13 4
+A
+24 3
+E
+flames black fire flame~
+These black flames are the very life blood of Chaos, straight from his
+heart. They are hot, like any other flames, but rather than burn solid
+material and give off light, they burn light and are solid!
+~
+#17988
+power ball orange~
+the power of the gods~
+A crackling orange ball of energy floats here.~
+~
+5 155 8193 570425344
+0 0 0
+0 13 2 12
+1 300000 300000
+A
+18 5
+A
+17 3
+A
+24 4
+E
+power ball orange~
+This is the essence that is given to a god on its creation. Its power is
+infinite on the mortal plane, but it is intended for use by an infinite
+intelligence. You can only benefit from it as much as your puny mind can
+handle.
+~
+#17989
+sword kitiara~
+Kitiara's sword~
+A dark sword lies here.~
+~
+5 211608 8193 20972032
+0 0 0
+0 6 5 3
+5 0 0
+A
+17 4
+E
+sword kitiara~
+This sword is made of unholy power. It is cold to the touch and gives you
+a very bad feeling. It looks like very dull, dark gray metal. The hilt is
+designed to resemble the intertwined necks and heads of Takhisis.
+~
+#17990
+staff magius~
+the Staff of Magius~
+A wooden staff with a golden dragon's claw gripping a crystal ball rests here.~
+~
+1 27189328 16385 65552
+0 0 0
+0 0 -1 0
+3 500000 500000
+A
+10 10
+A
+13 5
+E
+staff magius~
+This staff is formed from a perfectly straight piece of wood. On one side
+of the staff is a golden dragon's claw. The claw is holding a small
+crystal ball. Magical energy flows through the staff like water in a river.
+~
+#17991
+stick~
+a gray stick~
+A gray stick lies here.~
+~
+5 145920 8193 0
+0 0 0
+0 2 5 0
+1 3 3
+E
+stick~
+It is a stick, gray with age.
+~
+#17992
+knife rabbitslayer~
+rabbitslayer~
+A very short knife lies here.~
+~
+5 8192 24577 4096
+0 0 0
+0 1 25 11
+1 60 60
+E
+knife rabbitslayer rabbit~
+This is a short knife with a 2 inch wooden handle and a 2 inch blade.
+~
+#17993
+robe chislev green~
+Chislev's green robe~
+A green robe lies here.~
+~
+11 1885520 1025 0
+0 0 0
+0 0 0 0
+2 90000 90000
+A
+10 25
+A
+13 4
+E
+robe chislev green~
+This is a green robe made of course cloth. It belongs to the goddess Chislev.
+~
+#17994
+tongue hiddukel silver~
+Hiddukel's silver tongue~
+A silver tongue lies here.~
+~
+11 9581392 5 0
+0 0 50
+0 0 0 0
+1 90000 90000
+A
+16 -15
+E
+tongue hiddukel silver~
+This is a tongue formed from pure silver. It belongs to the god Hiddukel.
+~
+#17995
+hammer reorx~
+Reorx's hammer of creation~
+A huge hammer lies here.~
+~
+5 1069392 8193 0
+0 0 0
+0 5 6 6
+23 110000 110000
+A
+17 4
+A
+18 4
+A
+14 5
+A
+15 5
+E
+hammer reorx~
+This is the very hammer used to forge the world! It belongs to the god Reorx.
+~
+#17996
+scales armor takhisis~
+Takhisis' scales~
+A pile of multicolored dragon scales lies here.~
+~
+9 9597776 9 8192
+1 0 16
+17 0 0 0
+18 130000 130000
+A
+18 3
+A
+17 1
+E
+scales armor takhisis~
+This is a suit of armor made of the scales of the 5-headed dragon form of
+the goddess Takhisis.
+~
+#17997
+shield paladine platinum~
+Paladine's platinum shield~
+A shield made of platinum lies here.~
+~
+9 1594704 513 4096
+1 0 24
+20 0 0 0
+15 130000 130000
+E
+shield paladine platinum plat~
+This is a platinum shield with the outline of a dragon etched into it. It
+belongs to the god Paladine.
+~
+#17998
+horns sargonnas~
+Sargonnas' horns~
+Some horns lie here.~
+~
+9 9597776 17 0
+0 0 0
+5 0 0 0
+7 110000 110000
+A
+18 2
+A
+17 2
+A
+1 3
+A
+11 10
+E
+horns sargonnas horn~
+These are the horns off the god Sargonnas' head.
+~
+#17999
+pendant solinari crystal~
+Solinari's pendant~
+A crystal pendant lies here.~
+~
+11 10413392 5 16
+0 0 0
+0 0 0 0
+1 110000 110000
+A
+10 30
+A
+13 3
+A
+24 3
+E
+pendant solinari crystal~
+This is a round pendant made of crystal, with words of magic etched into
+it. It hangs on a gold chain.
+~
+#18000
+pendant lunitari ruby~
+Lunitari's pendant~
+A ruby pendant lies here.~
+~
+11 10412368 5 16
+0 0 0
+0 0 0 0
+1 110000 110000
+A
+10 20
+A
+13 5
+A
+24 3
+E
+pendant lunitari ruby~
+This is a round pendant made of ruby, with words of magic etched into it.
+It hangs on a gold chain.
+~
+#18001
+pendant nuitari sapphire~
+Nuitari's pendant~
+A sapphire pendant lies here.~
+~
+11 10412880 5 16
+0 0 0
+0 0 0 0
+1 110000 110000
+A
+10 30
+A
+13 3
+A
+24 3
+E
+pendant nuitari sapphire~
+This is a round pendant made of sapphire, with words of magic etched into
+it. It hangs on a gold chain.
+~
+#18002
+beacon zivilyn light~
+Zivilyn's space-time beacon~
+A pulsing light hovers here.~
+~
+1 574800 16385 0
+0 0 0
+0 0 -1 0
+1 90000 90000
+A
+10 10
+A
+13 5
+A
+14 6
+A
+15 9
+E
+beacon zivilyn light~
+This beacon is made entirely of energy. It is diamond shaped and pulses
+regularly, growing larger and brighter, then smaller and dimmer. It hangs
+in space wherever you let go of it.
+~
+#18003
+energy morgion blessing swirl vortex~
+Morgion's cursed blessing~
+A small swirl of gray energy moves around the room.~
+~
+11 9597904 33 2048
+0 0 0
+0 0 0 0
+1 90000 90000
+A
+17 2
+A
+18 3
+A
+11 -10
+E
+energy morgion blessing swirl vortex~
+This is a small vortex of energy that quickly attaches itself to your legs
+like an overactive dog.
+~
+#18004
+book gilean leather~
+Gilean's book of knowledge~
+A large, leather bound book lies here.~
+~
+8 1360208 16385 0
+0 0 0
+0 0 0 0
+5 130000 130000
+A
+10 30
+A
+13 6
+A
+3 2
+A
+4 2
+A
+5 2
+E
+book gilean leather~
+This book contains the most recent histoy of Krynn, as seen by the gods.
+Needless to say, it has knowledge never meant for human viewing.
+~
+#18005
+touch chemosh field black energy~
+Chemosh's deadly touch~
+A small, shiny, black field of energy hovers an inch off the ground.~
+~
+11 144208 129 2048
+0 0 0
+0 0 0 0
+1 90000 90000
+A
+18 3
+A
+17 2
+A
+11 -10
+E
+touch chemosh field black energy~
+Its surface is like a polished black stone. It moves like cloth, but you
+can't actualy grip it because a force keeps your fingers slightly off its
+surface. When you wrap it around your hand it shapes itself like a glove.
+~
+#18006
+touch mishakal field white energy~
+Mishakal's healing touch~
+A small, shiny, white field of energy hovers an inch off the ground.~
+~
+11 1885520 129 0
+0 0 0
+0 0 0 0
+1 110000 110000
+A
+10 30
+A
+13 3
+E
+touch mishakal field white energy~
+Its surface is like a pearl. It moves like cloth, but you can't actualy
+grip it because a force keeps your fingers slightly off its surface. When
+you wrap it around your hand it shapes itself like a glove.
+~
+$

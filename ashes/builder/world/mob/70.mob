@@ -1,0 +1,363 @@
+#7000
+troll mud mudtroll~
+a mud troll~
+A mud troll bares his yellowed fangs and growls as he looks at you.
+~
+A small, twisted-bodied creature with large yellow fangs looks as if he
+would like to have you as his next meal. Covered in yellowish-brown muck,
+he looks right at home in this slimy place. He growls under his breath.
+~
+72 8 -500 W
+21 4 2 1d100+100 4d5+2
+100 20000
+6 8 1
+13 0 13 13 13 13 0
+0 1 2
+20 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#7001
+bat~
+a black bat~
+A black bat hangs from the ceiling, sleeping quietly.
+~
+A small black bat hangs from the ceiling, sleeping peacefully, until
+arroused by an attack. When attacked, she will fight fiercely with tooth
+and claw, never giving in till the battle is done.
+~
+72 524288 -500 W
+5 3 5 1d40+10 1d6+0
+0 5000
+8 8 2
+13 0 13 13 13 13 0
+0 0 3
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#7002
+rat~
+a large sewer rat~
+A large sewer rat stands here, looking at you hungrily.
+~
+A hairy sewer rat, coat caked with mud, looks at you speculatively. He
+hasn't eaten for a bit and thinks you look mighty tasty. His yellow eyes
+glow in the darkness menacingly. He makes chittering noises calling to his
+mates to come and join him in a nice, large meal.
+~
+8200 0 -1000 W
+12 5 5 1d10+100 2d4+1
+30 10000
+8 8 1
+13 0 13 13 13 13 0
+0 0 3
+50 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 10
+#7003
+spider~
+a red kia spider~
+A red kia spider is here, spinning her web.
+~
+A large, red kia spider with huge fangs hangs heavily in its web. Its
+bright red color is a warning of sorts to the unwary. She moves her legs
+restlessly, studying you intently. Venom drips from her fangs.
+~
+9 8 -700 W
+6 0 3 1d12+13 1d4+0
+1 2000
+8 8 2
+13 0 13 13 13 13 0
+6 0 0
+30 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 10
+#7004
+beetle~
+a giant beetle~
+A giant beetle crawls up the wall here.
+~
+A giant beetle crawls up the wall, searching for things to eat. Its hard 
+shell protects it well from most of the denisons here. Its antannae wiggle 
+and it's wings flutter slightly as it moves from one side to the other.
+~
+8 0 -300 W
+10 0 3 3d10+163 2d4+2
+1000 9375
+4 8 1
+13 0 13 13 13 13 0
+0 0 0
+30 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#7005
+leech~
+a giant leech~
+A giant leech wriggles happily through the muck.
+~
+A giant leech wiggles through the muck, its skin slimy with the stagnant
+water in which it lives. It is searching for its next meal and its attention
+is focused on you. Wriggling excitedly, it moves toward you.
+~
+8 0 0 W
+5 0 9 3d5+58 1d7+0
+2 3000
+8 8 1
+13 0 13 13 13 13 0
+0 0 0
+90 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#7006
+snake~
+a snake~
+A brilliant green and blue snake slithers toward you.
+~
+A brilliant green and blue snake slithers though the muck in search of lunch.
+He wears bright colors to make up for his nasty environment and, also, to
+warn others that he is very dangerous. He looks at you speculatively.
+~
+9 0 -500 W
+6 0 7 3d5+66 1d9+0
+1 2500
+8 8 0
+13 0 13 13 13 13 0
+6 0 0
+70 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 10
+#7007
+adventurer~
+an adventurer~
+An adventurer is wandering around, hopelessly lost.
+~
+A wandering adventurer has become hopelessly lost in the sewers. Painfully
+thin, he obviously does not like what can be found to eat down here. Aimless,
+he wanders through the sewers looking for fluffy bunnies to kill.
+~
+8 0 -1000 W
+16 4 2 1d10+150 2d6+1
+300 23750
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#7008
+homunculus homo~
+a homunculus~
+A homunculus is here, hovering above the muck.
+~
+About a foot and a half tall, the homunculus has greenish reptilian skin and
+a bat-like mouth with teeth that pass on venom. It flexes its leathery wings
+and then springs to hover in midair, looking at you appraisingly.
+~
+8 8 -780 W
+18 5 1 4d3+175 2d6+2
+500 20000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+10 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#7009
+guard rat ~
+the Rat King's guard~
+A guard of the Rat King stand here, watching closely.
+~
+The rat guard stands his post watchfully, eyes gleaming with surpressed hate.
+His mottled fur is spattered with muck. Copying humans, he has aquired bits
+and pieces of garb which he wears, not always in its correct location. He
+bares his teeth fiercely as he looks at you.
+~
+73 0 -500 W
+25 8 -5 5d6+225 3d3+3
+1200 30000
+8 8 1
+13 0 13 13 13 13 0
+20 2 3
+-50 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#7010
+King rat Hthalas~
+Hthalas the Rat King~
+A man-sized rat is here, looking at you with hate-filled eyes.
+~
+A man-size rat with gleaming yellow eyes and teeth to match looks at you
+speculatively. Radiating an aura of evil, he stands with great assurance.
+He is dressed in dirty red velvet and leather clothes and his fur looks
+as if it has been long since his last grooming.
+~
+2123 8 -1000 W
+40 15 -5 5d5+1000 4d8+2
+0 0
+8 8 1
+13 0 13 13 13 13 0
+20 2 3
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#7011
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#7012
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#7013
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#7040
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#7041
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#7042
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#7043
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#7044
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#7045
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#7046
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+$

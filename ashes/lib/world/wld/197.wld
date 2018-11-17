@@ -1,0 +1,1247 @@
+#19700
+Sloping Hallway~
+This hallway branches from the room and begins to slope downward.  The slope
+is rather steep and you must walk carefully to avoid falling.  Also, the stone
+walls and floor seem to be darker, almost more sinister in nature.  It's hard
+to believe that anything could be worse than some of the things you've already
+seen.~
+197 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 19701
+S
+#19701
+Sloping hallway~
+The hallway continues to slope down toward the west.  Some thick, grey
+gelatinous material covers the wall on one side.  It almost looks like brain
+matter.  You shudder at the thought and keep walking.
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19700
+D3
+~
+~
+0 -1 19702
+S
+#19702
+T in sloping hallway~
+Here the hallway flattens out and the hallway continues in the north/south
+direction.  You hear what sounds like deep moans of sadness from the south.
+The hallway north leads into darkness.
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19703
+D1
+~
+~
+0 -1 19701
+D2
+~
+~
+0 -1 19705
+S
+#19703
+a hallway in the Tower~
+THis hallway is very very dark.  Even compared to the rest of the tower, this
+darkness is unusual.  It almost seems as if the stones themselves are radiating
+the darkness.  Something tells you the Crown Jewels MUST be this way.
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19704
+D2
+~
+~
+0 -1 19702
+S
+#19704
+a hallway in the Tower~
+This dark hallway finally shows some signs of life.  To the north, you can see
+some flicker lights that look like torches or lamps.  How in the world can
+the guards see in this cursed darkness?
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19707
+D2
+~
+~
+0 -1 19703
+S
+#19705
+a hallway in the Tower~
+You are in a hallway that continues north/south.
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19702
+D2
+~
+~
+0 -1 19706
+S
+#19706
+a hallway in the Tower~
+You are in a hallway that continues north/south.
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19705
+D2
+~
+~
+0 -1 19708
+S
+#19707
+Small circular room~
+You have entered a circular room that is about 20 feet in diameter.  There
+seems to be no ceiling as the roof is completely out of sight.  Bright light
+flickers from the exit to the northwest.  An extremely narrow exit leads to
+the northeast into darkness.  A sign hangs on the wall here.
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19704
+D6
+~
+~
+0 -1 19761
+D7
+~
+~
+0 -1 19722
+E
+sign~
+
+"You can unlock any door if you only have the key."
+                           -----Mrs. Jonathan Brisby
+~
+S
+#19708
+Another T intersection~
+Here, you can go any of three directions.  You can return to the north or
+see where the corridor heading east/west leads.
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19706
+D1
+~
+~
+0 -1 19709
+D3
+~
+~
+0 -1 19712
+S
+#19709
+a hallway in the Tower~
+This corridor is getting kinda warm.  Heat rushes at you from a direction
+you can't be certain of.  You're pretty sure it's not coming from the
+intersection you just came from.
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19710
+D3
+~
+~
+0 -1 19708
+S
+#19710
+a hallway in the Tower~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19711
+D3
+~
+~
+0 -1 19709
+S
+#19711
+Prison~
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19710
+S
+#19712
+4-Way intersection~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19716
+D1
+~
+~
+0 -1 19708
+D2
+~
+~
+0 -1 19721
+D3
+~
+~
+0 -1 19713
+S
+#19713
+4-Way intersection~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19717
+D1
+~
+~
+0 -1 19712
+D2
+~
+~
+0 -1 19720
+D3
+~
+~
+0 -1 19714
+S
+#19714
+4-Way intersection~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19718
+D1
+~
+~
+0 -1 19713
+D2
+~
+~
+0 -1 19719
+D3
+~
+~
+0 -1 19715
+S
+#19715
+Executioner's Den~
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+2 -1 19714
+S
+#19716
+Torture Chamber~
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19712
+S
+#19717
+Torture Chamber~
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19713
+S
+#19718
+Torture Chamber~
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19714
+S
+#19719
+Torture Chamber~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19714
+S
+#19720
+Torture Chamber~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19713
+S
+#19721
+Torture Chamber~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19712
+S
+#19722
+Three Way Junction~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19723
+D3
+~
+~
+0 -1 19759
+D8
+~
+~
+0 -1 19707
+S
+#19723
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19724
+D2
+~
+~
+0 -1 19722
+S
+#19724
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19725
+D2
+~
+~
+0 -1 19723
+S
+#19725
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19724
+D3
+~
+~
+0 -1 19731
+S
+#19726
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19727
+D3
+~
+~
+0 -1 19733
+S
+#19727
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19728
+D2
+~
+~
+0 -1 19726
+S
+#19728
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19727
+D3
+~
+~
+0 -1 19734
+S
+#19729
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 19735
+S
+#19730
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19731
+S
+#19731
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19732
+D1
+~
+~
+0 -1 19725
+D2
+~
+~
+0 -1 19730
+D3
+~
+~
+0 -1 19737
+S
+#19732
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19726
+D2
+~
+~
+0 -1 19731
+S
+#19733
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19734
+D3
+~
+~
+0 -1 19739
+S
+#19734
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19728
+D2
+~
+~
+0 -1 19733
+S
+#19735
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19736
+D1
+~
+~
+0 -1 19729
+D3
+~
+~
+0 -1 19741
+S
+#19736
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19737
+D2
+~
+~
+0 -1 19735
+S
+#19737
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19731
+D2
+~
+~
+0 -1 19736
+S
+#19738
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19739
+S
+#19739
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19740
+D1
+~
+~
+0 -1 19733
+D2
+~
+~
+0 -1 19738
+S
+#19740
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19739
+D3
+~
+~
+0 -1 19746
+S
+#19741
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19742
+D1
+~
+~
+0 -1 19735
+S
+#19742
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+S
+#19743
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19742
+D3
+~
+~
+0 -1 19749
+S
+#19744
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19745
+D3
+~
+~
+0 -1 19750
+S
+#19745
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19744
+S
+#19746
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19740
+D2
+~
+~
+0 -1 19752
+S
+#19747
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19748
+D3
+~
+~
+0 -1 19753
+S
+#19748
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19749
+D2
+~
+~
+0 -1 19747
+S
+#19749
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19743
+D2
+~
+~
+0 -1 19748
+S
+#19750
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19744
+D3
+~
+~
+0 -1 19756
+S
+#19751
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19752
+D3
+~
+~
+0 -1 19757
+S
+#19752
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19746
+D2
+~
+~
+0 -1 19751
+S
+#19753
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19754
+D3
+~
+~
+0 -1 19747
+S
+#19754
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19755
+D2
+~
+~
+0 -1 19753
+S
+#19755
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19754
+S
+#19756
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19757
+D1
+~
+~
+0 -1 19750
+S
+#19757
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19758
+D1
+~
+~
+0 -1 19751
+D2
+~
+~
+0 -1 19756
+S
+#19758
+Confusing, twisting corridor~
+You are in a corridor that looks exactly like the one you were in 5 minutes
+ago, which looks like the same one you were in 10 minutes ago.  You are
+getting very confused.  The torchlight dances wildly off the walls casting
+strange shadows.  Will this cursed corridor never end???
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19757
+S
+#19759
+Very cold hallway~
+There is a very, VERY cold wind blowing down this hallway from the west.
+It chills you to the bone and is absolutely relentless.  You have serious
+second thoughts about continuing west.  Let's go back east where it is warm.
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19722
+D3
+~
+~
+0 -1 19760
+S
+#19760
+Meat freezer~
+The t-t-temperature here must-t-t be b-b-below f-fr-fr-freezing.  You m-must
+b-b-be in the some t-typ-pe of storage area.  Brrrr.  Did I mention it's
+c-c-c-cold.  You c-can f-feel your flesh fr-freezing.  B-B-Better g-get out-t
+now.
+~
+197 16398 0
+1d1+199 90 0
+D1
+~
+~
+0 -1 19759
+S
+#19761
+Narrow corridor~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19762
+D9
+~
+~
+0 -1 19707
+S
+#19762
+Narrow corridor~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19763
+D2
+~
+~
+0 -1 19761
+S
+#19763
+Turn in narrow corridor~
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19764
+D2
+~
+~
+0 -1 19762
+S
+#19764
+On the ladder~
+~
+197 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 19763
+D4
+~
+~
+0 -1 19765
+S
+#19765
+On the ladder~
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19768
+D4
+~
+trapdoor~
+2 -1 19766
+D5
+~
+~
+0 -1 19764
+S
+#19766
+On the ladder~
+~
+197 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 19767
+D5
+~
+~
+0 -1 19765
+S
+#19767
+On the ladder~
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19770
+D5
+~
+~
+0 -1 19766
+S
+#19768
+Tiny crawlspace~
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19769
+D3
+~
+~
+0 -1 19765
+S
+#19769
+Dead end~
+~
+197 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 19768
+S
+#19770
+Narrow corridor~
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19771
+D3
+~
+~
+0 -1 19767
+S
+#19771
+Another ladder~
+~
+197 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4
+D3
+~
+~
+0 -1 19770
+D4
+~
+trapdoor~
+2 -1 19773
+S
+#19772
+Dead End~
+~
+197 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 19771
+S
+#19773
+Another ladder~
+~
+197 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 19774
+D5
+~
+~
+0 -1 19771
+S
+#19774
+Top of the Tower~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+ ~
+0 -1 19775
+D5
+~
+~
+0 -1 19773
+S
+#19775
+Outside the chamber~
+~
+197 0 0
+0d0+0 0 0
+D0
+~
+Heavy banded door~
+2 -1 19776
+D2
+~
+~
+0 -1 19774
+S
+#19776
+The Tower Treasury~
+~
+197 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19775
+S
+$

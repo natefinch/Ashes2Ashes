@@ -1,0 +1,904 @@
+#12800
+reid dealer~
+Reid the Dealer~
+The owner of the shop is standing here hoping that you will buy something.
+~
+This man bears an incredible resemblance to a rat. He is standing here behind
+the counter hoping he can sell you some of his wares. Reid's eyes are
+surprisingly trust inducing, but something tells you this mans friends don't
+even trust him.
+~
+26767 136 -135 W3
+55 20 -10 10d10+3000 9d3+30
+50000 100000
+8 8 1
+16 0 13 13 18 13 0
+20 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12801
+Urayla~
+Urayla~
+Urayla the Palm reader is standing here.
+~
+This woman is not attractive. Nor is she unattractive. She has long hair
+that borders on blond and brown at the same time. Her plain, non-descript
+face does nothing to either attract or repulse you.
+~
+18443 184 5 W3
+51 30 -10 10d7+1700 5d3+12
+120000 140000
+6 6 2
+13 0 13 13 16 13 0
+8 2 2
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12802
+Sen-Sen Ante Kid~
+the Sen-Sen Ante Kid~
+The Sen-Sen Ante Kid is playing a mean game of Dragon Poker.
+~
+This is the dimensions best Dragon Poker player. As he raises the ante he
+deftly tosses in a sen-sen. His sen-sen breath mints are his trademark and
+you know he's gonna put on a good show tonight.
+~
+22542 168 1000 W3
+55 40 -11 10d7+2700 5d6+20
+165000 150000
+6 6 1
+13 0 13 18 16 13 0
+0 2 2
+-110 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12803
+geek~
+the Geek~
+The Geek is carefully monitoring the game.
+~
+The Geek is a rather large man. You have to be to succesfully manage a 
+gambling joint on Deva. Despite his rather large size, he seems to be kind
+of docile. But for all his docile appearance you are not sure you really
+want to see him get upset.
+~
+6155 196744 250 W3
+50 40 -10 10d7+2700 6d6+25
+150000 200000
+8 8 0
+18 50 18 18 13 13 0
+18 3 2
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12804
+bouncer~
+a bouncer~
+A bouncer is standing here, eyeing you warily.
+~
+If you thought The Geek was big, take a look at his bouncers. These bouncers
+were obvioulsy chosen for their size and not for their intelligence. One of
+the bouncers is trying hard to understand what the sign says. You are curious
+if he even made it through kindergarten, but you refrain from asking him. No
+sense in making him upset now is there???
+~
+6154 0 1000 W3
+25 10 -5 9d9+1000 5d3+10
+50000 50000
+8 8 1
+18 70 4 5 14 13 0
+0 4 2
+-50 0 4 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#12805
+pidge~
+Pidge~
+Pidge is here ignoring the rule about markers.
+~
+Pidge is a slimy individual. He is so engrossed with gambling that he ignores
+the common rules of decency. He has run his tab with The Geek so high that
+he no longer plays with cash. Instead he leaves his marker, a sweet looking
+little girl named Markie, to insure payment. Nice guy huh???
+~
+26763 40 -500 W3
+25 10 -6 7d10+700 6d5+4
+0 30000
+6 6 1
+13 0 13 13 13 5 0
+7 2 2
+-60 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#12806
+grunk~
+Grunk~
+Grunk is playing cards here.
+~
+Grunk is a nasty looking individual. He is easily 8 feet tall. He has bright
+red eyes, and his teeth are as long as your fingers. He looks as if he could
+eaisly rip your head off if he was so inclined. You are just glad you aren't
+the one currently beating him at Dragon Poker.
+~
+6155 168 500 W3
+54 30 -12 9d12+2500 10d2+22
+50000 75000
+6 6 1
+18 100 13 13 17 13 0
+18 4 2
+-120 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#12807
+markie girl~
+Markie~
+A cute little girl named Markie is wondering who her new daddy will be.
+~
+This girl is the epitomy of cuteness. You take one look at her and wish you
+could take her home with you. Good thing you aren't in the current game of
+Dragon Poker or maybe you would be taking her home with you. She is Pidge's
+current marker. If he doesn't make good with his payments, whoever wins her
+will sell her into slavery.
+~
+18442 136 5 W3
+43 20 -10 8d8+1325 7d8+4
+100 75000
+8 8 2
+13 0 13 13 13 13 0
+0 1 2
+-100 0 2 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#12808
+singe~
+Singe~
+Singe the shopkeeper wants to sell you his ward.
+~
+This man looks untrustworthy. Something about him makes you VERY uneasy.
+Maybe it's the fact that he is selling an item that is totally worhtless..
+~
+2190 168 -500 W3
+36 20 -6 5d4+1000 8d4+5
+20000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12809
+seamus o'malley~
+Seamus O'Malley~
+Seamus O'Malley is here, inviting you to share a Guinness with him.
+~
+Seamus O'Malley is a burly man. His size coupled with the temper of the 
+Irish makes you think twice about making him upset. He has bright red
+hair and alot of freckles. Right now he is engaged in a story about how he 
+once took on ten bloody brits at once. Makes you kind if nervous around a 
+man with such a temper.
+~
+38923 136 1000 W3
+55 40 -10 9d9+2700 7d7+35
+50000 100000
+8 8 1
+18 85 13 13 13 18 0
+18 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12810
+dragon~
+a purple dragon~
+A purple dragon is here waiting to toast anyone it feels like toasting.
+~
+This dragon doesn't look too happy about you being here. In fact it doesn't
+appear to be very happy about anything at all. A huge puff of smoke flares
+out it's nostrils and it says 'Prepare to die FOOL!!'
+~
+61231 16777404 -500 W3
+75 30 -22 10d15+2500 5d5+10
+10000 75000
+8 8 0
+13 0 13 13 13 13 0
+12 5 4
+-220 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#12811
+A crafty deveel~
+a wandering deveel~
+A deveel stands here, looking for someone to cheat.
+~
+This deveel looks very untrustworthy.
+~
+2120 8 -750 W3
+15 8 4 10d13+20 1d12+3
+1000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#12812
+demon dimension traveler~
+a demon~
+A demon is here, reminding you forcefully that demon stands for dimension traveler.
+~
+This doesn't look at all like any demon you have ever imagined. He has no 
+horns, no tail, heck..he ain't even red!!! Maybe their idea of demon in this
+land differs slightly from your idea of demon???
+~
+2120 8 1000 W3
+15 7 3 10d10+25 1d10+2
+500 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#12813
+aliman~
+Aliman~
+Aliman is here, warning you to steer clear of the Great Skeeve.
+~
+This is defenitely a weasel of a man. His very presence exudes craftiness
+and guile. You get the notion that he would sell his own son if he felt it
+fould be to his financial advantage.
+~
+76 0 -500 W3
+25 15 -10 100d7+70 6d5+5
+5000 20000
+5 5 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#12814
+greg brown guitarist~
+a very talented musician~
+A guitarist is here, plunging the depths of your soul with his poetry.
+~
+This man seems to know you inside and out. He is singing the very feelings
+you have always felt, yet were never aware of. 
+~
+286730 65544 1000 W3
+67 30 -80 10d77+2000 9d4+10
+5 50000
+6 6 1
+13 0 18 18 13 13 0
+0 2 0
+-800 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#12815
+lady~
+a young lady~
+A young lady is here, enjoying her coffee.
+~
+This woman is rather pretty. You notice that she seems to be at peace.
+~
+10250 8 1000 W3
+43 30 -22 70d11+1000 6d6+28
+50 25000
+6 6 2
+13 0 13 13 13 13 0
+0 2 0
+-220 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12816
+aragath~
+Aragath the merchant~
+Aragath is here, trying to sell you some curious goods.
+~
+This man looks rather like all the other deveels around here, smug, devious
+and ready to cheat anyone at any time.
+~
+2058 8 -300 W3
+36 25 -8 10d30+1095 10d5+2
+10000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-80 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12817
+man hitman~
+a tough looking man~
+A tough looking man is here, trying to sell you his protection...
+~
+This man is very big. He also looks very mean. You wonder how a man like
+this ever got into the insurance sales business.
+~
+63499 8 100 W3
+43 20 -6 100d5+580 5d4+22
+5000 30000
+8 8 1
+13 0 13 13 13 13 0
+17 3 0
+-60 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12818
+jimgrie~
+Jimgrie the merchant~
+Jimgrie is trying to sell you some sporting goods.
+~
+This man is the epitomy of fitness. He looks like he could run from this
+dimension all the way to the next without the use of a dimension hopper,
+and still not break a sweat. 
+~
+8202 8 500 W3
+55 40 -12 9d30+3000 9d5+40
+6000 35000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-120 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12819
+hakkan~
+Hakkan the merchant~
+Hakkan wants to sell you some footwear
+~
+This deveel looks surprisingly honest. You aren't sure if you really want to
+be surprised that bad though.
+~
+2059 131208 300 W3
+65 40 -20 70d11+2000 10d4+40
+60000 75000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12820
+dnth~
+Dnth the merchant~
+Dnth wants you to buy his books.
+~
+This man looks as if he has read way too many books. If he has read even a 
+half of the books in his shop then he HAS read way too many books.
+~
+2058 40 400 W3
+39 25 0 1d1+1499 10d3+22
+6000 50000
+8 8 1
+13 0 13 13 3 13 0
+0 2 2
+0 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12821
+davia~
+Davia the magician~
+Davia is teaching magik.
+~
+This woman is very beautiful. Despite her beauty, she does not appear to
+be a tame woman. You surmise that messing with her would not be in your
+best interests.
+~
+55307 196776 1000 W3
+65 40 -14 30d9+4000 10d4+42
+50000 100000
+8 8 2
+13 0 13 13 13 13 0
+8 2 2
+-140 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12822
+student apprentice~
+a student of magik~
+A student of magik is taking lessons from Davia.
+~
+This pupil looks as if he has spent too much time studying. Hopefully, his
+diligence in studying will pay off.
+~
+47115 40 1000 W3
+40 30 -4 70d11+1000 10d6+4
+5000 25000
+8 8 1
+13 0 13 13 13 13 0
+8 2 2
+-40 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12823
+Doral~
+Doral the merchant~
+Doral is reading a newspaper.
+~
+This merchant looks like he is up on the latest events. The fact that he 
+owns a newstand, with publishings from evry major dimension, indicates that
+he not only looks like he knows it all, but probably DOES know it all.
+~
+2058 40 300 W3
+27 15 -10 10d7+700 10d3+4
+5000 30500
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 2 0 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#12824
+allison~
+Allison the jeweler~
+Allison is eyeing some precious gems.
+~
+This is a small woman. She is constantly squinting, perhaps from all the 
+time she spends valuing the many jewels that come through her shop.
+~
+10250 40 500 W3
+43 30 -6 70d11+1000 10d4+24
+60000 60000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12825
+william tanner~
+William the tanner~
+William the tanner is tanning somethings hide.
+~
+This man's skin is almost as dark as the hides he works on for a living. 
+All that working on curing the hides has roughened William up to the point
+where it looks as if he could definitely hold his own in a fight.
+~
+10251 40 750 W3
+44 30 -8 11d70+1300 10d5+15
+30000 75000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+-80 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12826
+gleep dragon~
+Gleep the dragon~
+Gleep is here, eyeing you warily.
+~
+This dragon is large compared to you, but rather small compared to most 
+other dragons you have run in to. He doesn't seem to be particularly hostile
+as he isn't attacking you yet. Do you feel like pressing your luck and 
+seeing if he gets meaner when he gets hungry?
+~
+301071 196776 1000 W3
+150 80 -40 70d11+14000 15d9+55
+27500 50000
+8 8 1
+18 99 18 18 18 18 0
+13 5 4
+-400 2 8 500 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#12827
+bunny moll hottie~
+Bunny the moll~
+Bunny the moll is here, playing the mob lord's woman.
+~
+This woman is definitely a hottie. She has all the right curves and all the
+right looks. Whoever she is playing the moll for is a VERY lucky man.
+~
+2059 168 250 W3
+130 75 -17 70d11+5000 8d6+35
+5000 20000
+8 8 2
+18 0 13 13 18 13 0
+20 2 2
+-170 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12828
+massha fat~
+Massha the apprentice of magik~
+Massha the apprentice of magik is here, wearing her gaudy makeup.
+~
+OUCH! It hurts your eyes to even look at this woman. She is incredibly ugly,
+she is incredibly overweight, and her makeup is so gaudy that it could draw
+a good sized crowd at a circus.
+~
+2059 168 1000 W3
+130 80 -17 30d10+6000 10d8+40
+50000 75000
+8 8 2
+13 0 13 13 18 13 0
+8 2 2
+-170 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12829
+tanada trollop~
+Tanada the trollop~
+Tanada the trollop is here, gazing at you.
+~
+This woman is very beautiful. What really strikes you as odd is that you
+don't even seem to mind her green skin. Aside from that she is a vision
+straight out of any model magazine.
+~
+2059 168 1000 W3
+130 82 -18 30d10+9000 9d8+45
+75000 125000
+8 8 2
+18 99 13 13 18 13 0
+18 2 2
+-180 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#12830
+chumley troll~
+Chumley the troll~
+Chumley the troll is here, looking rather tough.
+~
+This is one mean looking troll. He looks as if he could destroy you in about
+a million different ways without even working up a sweat. You should probably
+ask yourself, "Do you feel lucky?"
+~
+2059 168 1000 W3
+130 84 -19 70d11+10000 18d8+50
+2500 30000
+8 8 1
+18 99 13 13 25 13 0
+18 3 2
+-190 0 8 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12831
+aahz pervect~
+Aahz the pervect~
+Aahz the pervect is here, screaming at you.
+~
+This is most likely the first time you have ever laid eyes on a pervect 
+before. This particular pervect looks rather unpleasant. Unpleasant for you
+that is. You are positively sure you would rather be doing a million other
+things that standing right now, facing Aahz the pervect.
+~
+2059 168 1000 W3
+150 90 -30 30d15+12000 20d6+60
+5000 30000
+8 8 1
+18 99 13 13 20 13 0
+18 3 2
+-300 0 8 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#12832
+great skeeve~
+the Great Skeeve~
+The great Skeeve is here, practicing his magik.
+~
+HMMM. You are kinda disappointed. This is the GREAT SKEEVE?? He just looks
+like some ordinary Joe Schmoe. Obviously his reputation must be highly
+overrated. Still, he does seem to have a rather nice house. Maybe he used
+his riches to buy his reputation? Yeah that must be it...
+~
+2398219 553648296 1000 W3
+140 90 -35 11d30+15000 30d4+65
+40000 200000
+8 8 1
+25 100 18 18 18 18 0
+8 2 2
+-350 13 9 750 20 25
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12833
+statue~
+the statue of Garkin~
+The statue of Garkin the magician is here.
+~
+This statue depicts a man who looks both old and kind. It also seems to 
+exude an aura of power. Some of the runes on the base of the statue lead you
+to believe that it's contruction was mystic in nature.
+~
+2059 524456 1000 W3
+51 40 0 10d10+2400 4d5+30
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+8 3 0
+0 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#12834
+vampire~
+a dancing vampire~
+A vampire is here, dancing like a maniac.
+~
+This vampire looks as if he is having a good time. He seems to be dancing
+with such enthusiasm that his skin is even showing a little color. You
+ponder the notion of a vampire having a heart attack...
+~
+14412 65576 -1000 W3
+15 10 -6 20d6+400 2d4+0
+2000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 1
+-60 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#12835
+vampire~
+a buxom vampire beauty~
+A gorgeous female vampire is here.
+~
+WOW!! You never thought something undead could look so good. This female
+vampire has all the right stuff. Why she is sitting here in a booth, and not
+out on the dance floor is beyond you.
+~
+10252 40 -1000 W3
+20 20 -6 30d6+450 4d3+2
+2000 15000
+6 6 2
+13 0 13 13 13 13 0
+0 2 1
+-60 0 2 0 0 0
+50 50 50 50 50
+16 0 0
+6 0
+~
+#12836
+ghoul~
+a dancing ghoul~
+A ghoul is here, doing the boogie.
+~
+This ghoul is having a wonderful time. He is dancing the time away as if he
+has never had this much fun before in his life (actually this is his second
+life so that may very well be possible). Now and then his face almost even
+cracks a smile...
+~
+14412 196648 -1000 W3
+15 15 -2 20d5+400 4d2+0
+1000 10000
+8 8 1
+13 0 13 13 13 13 0
+0 2 1
+-20 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#12837
+dancing limbo mummy~
+mummy~
+A mummy is here, doing the limbo.
+~
+This mummy is bent over backwards almost to the point of falling. He seems
+to be trying to make it under an imaginary line, without falling over...
+~
+276552 262184 -1000 W3
+15 10 -3 20d8+400 2d3+2
+500 10000
+8 8 1
+13 0 13 13 13 13 0
+0 2 1
+-30 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#12838
+werewolf~
+a dancing werewolf~
+A werewolf is here, doing the twist.
+~
+Now here is a good dancer. This werewolf is so limber is seems like he could
+do just about any dance without a problem. Right now he is intent on doing
+the good old Twist.
+~
+14408 65576 -100 W3
+23 25 -10 20d5+550 2d3+2
+5000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 4 0 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#12839
+regular patron~
+a regular patron~
+A regular patron is here, drinking a bloody mary.
+~
+The word regular must describe how often this person comes to this club, 
+cause there is no other way it can be used to describe this monster. This
+monster is sitting here drinking a "local" version of a bloody mary. You
+shudder when you consider what the main ingredient must be.
+~
+2058 65576 -1000 W3
+11 10 -3 9d9+300 2d2+0
+1000 6000
+6 6 1
+13 0 13 13 13 13 0
+0 2 1
+-30 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#12840
+villager~
+a local villager~
+A local villager is here, looking VERY pale.
+~
+Something about this villager disturbs you. Maybe it is his pale skin. Maybe
+is is his red eyes. Maybe it is the widow's peak which crowns his head. Or
+perhaps it is the fact that he has VERY sharp teeth...
+~
+18506 196648 -1000 W3
+13 10 -4 6d5+300 1d9+1
+500 2500
+8 8 1
+13 0 13 13 13 13 0
+0 2 1
+-40 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#12841
+woof drahcir werewolf~
+Drahcir Woof~
+Drahcir Woof is here, playing the sane partner.
+~
+The Woof writers are an odd couple of werewolves. For some reason they tend
+to actually LIKE humans. They also like to play "crazy partner-sane parnter".
+Drahcir seems to be much better at playing the sane partner, maybe that 
+should tell you something about him.
+~
+268299 168 1000 W3
+75 35 -19 60d11+2000 5d6+25
+10000 100000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+-190 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#12842
+idnew woof werewolf~
+Idnew Woof~
+Idnew Woof is here, playing the crazy partner.
+~
+The Woof writers are rather eccentric for werewolves.The seem to actually
+LIKE humans. They also like playing "crazy partner-sane partner". Right now
+Idnew must be playing the crazy partner. At least you hope she is anyway.
+~
+268299 196776 1000 W3
+65 40 -19 60d11+2000 5d4+20
+20000 90000
+8 8 2
+13 0 13 13 13 13 0
+20 2 2
+-190 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#12843
+vilhelm dispatcher vampire ~
+Vilhelm the dispatcher~
+Vilhelm is here, dispatching nightmares.
+~
+Vilhelm looks like your typical vampire. He is very pale, he has very sharp
+teeth, and he has a dark red tint to his eyes. His job seems to be making
+sure that all the nightmares are evenly dispatched throughout all the
+different dimensions.
+~
+10250 196648 250 W3
+75 40 -20 60d11+7000 10d10+75
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+0 2 1
+-200 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#12844
+undead bartender~
+an undead bartender~
+An undead bartender is here, waiting to take your order.
+~
+This bartender is dead alright. Or rather he is UNdead. His hais is all
+matted, and his eyes cannot seem to focus on anything. He seems to be doing
+pretty well serving the drinks though.
+~
+10250 40 -1000 W3
+40 40 -70 10d10+600 5d2+5
+5000 20000
+8 8 0
+13 0 13 13 13 13 0
+0 2 1
+-700 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

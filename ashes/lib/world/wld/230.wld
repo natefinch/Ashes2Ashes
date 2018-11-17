@@ -1,0 +1,1154 @@
+#23000
+The castle gates.~
+The gates to the once proud palace, are now rusting, and falling off thier
+hinges. Inside the gates is the riuns of a royal palace. Some of the marble
+walls still stand, and alow you to make out what the castle must have looked
+like in its prime.~
+230 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 23001
+D2
+~
+~
+0 -1 6151
+S
+#23001
+Inside the gates of the palace.~
+You stand inside what was once a long hallway. Now the roof has fallen in,
+and the walls have crumbled to the ground. The floor is overrun with cracks,
+and large patches of grass, and other weeds infest the passage.
+~
+230 131072 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 23002
+D2
+~
+~
+0 -1 23000
+S
+#23002
+The courtyard.~
+As you walk into this open space you realize that it was once the public
+courtyard of the palace. In the center is the remains of a statue, now
+shatered and in ruins. However a plaque at the base of the statue still
+remains, and appears readable.
+~
+230 131072 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 23003
+D1
+~
+~
+0 -1 23004
+D2
+~
+~
+0 -1 23001
+D3
+~
+~
+0 -1 23005
+E
+plaque statue base~
+The plaque at the base of the statue reads:
+
+I am Ozymandias, greatest of all kings.
+Look on my works ye mighty, and dispair!
+~
+S
+#23003
+A hall in the ruins.~
+You stand inside what was once a long hallway. Now the roof has fallen in,
+and the walls have crumbled to the ground. The floor is overrun with cracks,
+and large patches of grass, and other weeds infest the passage.
+~
+230 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 23009
+D2
+~
+~
+0 -1 23002
+S
+#23004
+A hall in the ruins.~
+You stand inside what was once a long hallway. Now the roof has fallen in,
+and the walls have crumbled to the ground. The floor is overrun with cracks,
+and large patches of grass, and other weeds infest the passage.
+~
+230 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 23011
+D3
+~
+~
+0 -1 23002
+S
+#23005
+A hall in the ruins.~
+You stand inside what was once a long hallway. Now the roof has fallen in,
+and the walls have crumbled to the ground. The floor is overrun with cracks,
+and large patches of grass, and other weeds infest the passage.
+~
+230 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 23002
+D3
+~
+~
+0 -1 23010
+S
+#23006
+A hall in the ruins.~
+You stand inside what was once a long hallway. Now the roof has fallen in,
+and the walls have crumbled to the ground. The floor is overrun with cracks,
+and large patches of grass, and other weeds infest the passage.
+~
+230 0 1
+0d0+0 0 0
+S
+#23007
+A hall in the ruins.~
+You stand inside what was once a long hallway. Now the roof has fallen in,
+and the walls have crumbled to the ground. The floor is overrun with cracks,
+and large patches of grass, and other weeds infest the passage.
+~
+230 0 1
+0d0+0 0 0
+S
+#23008
+A hall in the ruins.~
+You stand inside what was once a long hallway. Now the roof has fallen in,
+and the walls have crumbled to the ground. The floor is overrun with cracks,
+and large patches of grass, and other weeds infest the passage.
+~
+230 0 1
+0d0+0 0 0
+S
+#23009
+The audience hall.~
+This was once the mighty audience chamber of the great King Ozymandias.
+The decrepit stone throne lays crumbling at one end of the recatngular hall
+. Before the throne are two long rectangular sone pits. At the bottom of the
+pitts are long jagged spikes.
+~
+230 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 23023
+D2
+~
+~
+0 -1 23003
+S
+#23010
+A small alcove.~
+This room is still mostly intact. The walls, and most of the ceiling are still
+in decent shape, and for the most part still standing. On the floor is a
+wooden trap door. It was once locked, but the lock has rusted off.
+~
+230 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23005
+D5
+~
+trapdoor~
+1 -1 23012
+S
+#23011
+A small alcove.~
+This room is still mostly intact. The walls, and most of the ceiling are still
+in decent shape, and for the most part still standing. On the floor is a
+wooden trap door. It was once locked, but the lock has rusted off.
+~
+230 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 23004
+D5
+~
+trapdoor~
+1 -1 23022
+S
+#23012
+The crypt.~
+This is a dank underground room used for burrying the dead. The walls are
+line with stone caskets. Most of them are decorated with jems, and gold.
+The remains of the deceased are mumified, and decorated with fine cloths,
+and jewelry.
+~
+230 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23015
+D1
+~
+~
+0 -1 23013
+D3
+~
+~
+0 -1 23014
+D4
+~
+trapdoor~
+0 -1 23010
+S
+#23013
+The crypt.~
+This is a dank underground room used for burrying the dead. The walls are
+line with stone caskets. Most of them are decorated with jems, and gold.
+The remains of the deceased are mumified, and decorated with fine cloths,
+and jewelry.
+~
+230 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 23012
+S
+#23014
+The crypt.~
+This is a dank underground room used for burrying the dead. The walls are
+line with stone caskets. Most of them are decorated with jems, and gold.
+The remains of the deceased are mumified, and decorated with fine cloths,
+and jewelry.
+~
+230 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23012
+S
+#23015
+The crypt.~
+This is a dank underground room used for burrying the dead. The walls are
+line with stone caskets. Most of them are decorated with jems, and gold.
+The remains of the deceased are mumified, and decorated with fine cloths,
+and jewelry.
+~
+230 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23018
+D1
+~
+~
+0 -1 23016
+D2
+~
+~
+0 -1 23012
+D3
+~
+~
+0 -1 23017
+S
+#23016
+The crypt.~
+This is a dank underground room used for burrying the dead. The walls are
+line with stone caskets. Most of them are decorated with jems, and gold.
+The remains of the deceased are mumified, and decorated with fine cloths,
+and jewelry.
+~
+230 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 23015
+S
+#23017
+The crypt.~
+This is a dank underground room used for burrying the dead. The walls are
+line with stone caskets. Most of them are decorated with jems, and gold.
+The remains of the deceased are mumified, and decorated with fine cloths,
+and jewelry.
+~
+230 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23015
+S
+#23018
+The crypt.~
+This is a dank underground room used for burrying the dead. The walls are
+line with stone caskets. Most of them are decorated with jems, and gold.
+The remains of the deceased are mumified, and decorated with fine cloths,
+and jewelry.
+~
+230 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23019
+D2
+~
+~
+0 -1 23015
+D3
+~
+~
+0 -1 23020
+S
+#23019
+The crypt.~
+This is a dank underground room used for burrying the dead. The walls are
+line with stone caskets. Most of them are decorated with jems, and gold.
+The remains of the deceased are mumified, and decorated with fine cloths,
+and jewelry.
+~
+230 8 0
+0d0+0 0 0
+D1
+~
+secret~
+1 -1 23021
+D3
+~
+~
+0 -1 23018
+S
+#23020
+The crypt.~
+This is a dank underground room used for burrying the dead. The walls are
+line with stone caskets. Most of them are decorated with jems, and gold.
+The remains of the deceased are mumified, and decorated with fine cloths,
+and jewelry.
+~
+230 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23018
+S
+#23021
+A secret room.~
+This dark unlit chamber was hidden from people to stash more valuable treasuers.
+The walls, and floor are made of neatly carved stone. There are spiderwebs in
+the corners, and on the ceilings.
+~
+230 0 0
+0d0+0 0 0
+D3
+~
+secret~
+1 -1 23019
+S
+#23022
+A hallway in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23025
+D4
+~
+trapdoor~
+1 -1 23011
+S
+#23023
+Standing before the wizards tower.~
+Towering before you is the sanctuary of the wizard of the palace. Surprisingly
+it is the only structure left standing. It appears to be immune to the wear and
+tear of time. There is a glowing door at the base of the tower leading north.
+~
+230 0 1
+0d0+0 0 0
+D0
+~
+door~
+2 23064 23065
+D2
+~
+~
+0 -1 23009
+S
+#23024
+A small room in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+S
+#23025
+A large round room.~
+There are shackles only along the north wall here. To the east the passage
+continues on. To the west is a stone door. A large iron padlock ensures that
+it is not opened.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23026
+D2
+~
+~
+0 -1 23022
+D3
+~
+door~
+2 23056 23034
+S
+#23026
+A hallway in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+secret~
+1 23099 23043
+D2
+~
+~
+0 -1 23044
+D3
+~
+~
+0 -1 23025
+S
+#23027
+A hallway in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23044
+D2
+~
+~
+0 -1 23028
+S
+#23028
+A hallway in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23027
+D5
+~
+door~
+2 23054 23029
+S
+#23029
+A dark passageway.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23030
+D3
+~
+~
+0 -1 23031
+D4
+~
+door~
+2 23054 23028
+S
+#23030
+A dark passageway.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+secret~
+1 23055 23046
+D2
+~
+~
+0 -1 23047
+D3
+~
+~
+0 -1 23029
+S
+#23031
+A dark passageway.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23029
+D2
+~
+~
+0 -1 23050
+D3
+~
+secret~
+1 23099 23051
+S
+#23032
+A dark passageway.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23047
+S
+#23033
+A dark passageway.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+door~
+2 23057 23050
+S
+#23034
+A crumbling passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+door~
+2 23056 23025
+D5
+~
+~
+0 -1 23035
+S
+#23035
+A crumbling passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23036
+D1
+~
+door~
+2 23059 23037
+D2
+~
+secret~
+1 23099 23052
+D3
+~
+secret~
+1 23099 23051
+D4
+~
+~
+0 -1 23034
+S
+#23036
+A crumbling passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23039
+D1
+~
+secret~
+1 23099 23053
+D2
+~
+~
+0 -1 23035
+D3
+~
+secret~
+1 23099 23054
+S
+#23037
+A crumbling passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+door~
+2 23060 23038
+D3
+~
+door~
+2 23059 23035
+S
+#23038
+A stone passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D3
+~
+door~
+2 23060 23037
+D5
+~
+~
+0 -1 23040
+S
+#23039
+A stone passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 23036
+S
+#23040
+A stone passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23041
+D1
+~
+~
+0 -1 23063
+D2
+~
+~
+0 -1 23042
+D3
+~
+~
+0 -1 23064
+D4
+~
+~
+0 -1 23038
+S
+#23041
+A stone passage.~
+This short passage way is dimly lit by a glow from underneath the door to the
+north. The door is made of stone, yet has a faint red glow. You can feel a
+powerfull heat emenating from the door.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+door~
+2 23061 23058
+D2
+~
+~
+0 -1 23040
+S
+#23042
+A stone passage.~
+The walls of the dungeon become more like the walls of a cave here. Despite
+this there is an oaken door to the south. Strange hissing noises come from
+the other side of the door.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23040
+D2
+~
+door~
+2 23063 23059
+S
+#23043
+A hidden room.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D2
+~
+secret~
+1 -1 23026
+S
+#23044
+A small room in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23026
+D1
+~
+secret~
+1 23099 23045
+D2
+~
+~
+0 -1 23027
+S
+#23045
+A hidden room.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D3
+~
+secret~
+1 23099 23044
+S
+#23046
+A hidden room.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D2
+~
+secret~
+1 23055 23030
+D3
+~
+secret~
+1 23099 23048
+S
+#23047
+A small room in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23030
+D2
+~
+~
+0 -1 23032
+S
+#23048
+A small room in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+secret~
+1 23099 23046
+D3
+~
+secret~
+1 23099 23049
+S
+#23049
+A small room in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+secret~
+1 23099 23048
+S
+#23050
+A narrow passage.~
+This small passageway is infested with spiderwebs. It is cold, and has a
+strange odor. The walls and floor are discolored, and damp. To the south
+is a large oak door. It is chained shut, and an erie glow emenates from
+underneath.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23031
+D2
+~
+door~
+2 23057 23033
+S
+#23051
+A secret passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+secret~
+1 23099 23035
+S
+#23052
+A secret passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+secret~
+1 23099 23035
+S
+#23053
+A secret passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D3
+~
+secret~
+1 23099 23036
+S
+#23054
+A secret passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+secret~
+1 23099 23036
+S
+#23055
+A secret passage.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+secret~
+1 23099 23063
+D1
+~
+secret~
+1 23099 23056
+S
+#23056
+A small room in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D3
+~
+secret~
+1 23099 23055
+S
+#23057
+The lair of the Drake.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+door~
+2 23062 23064
+S
+#23058
+The fiery lair.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D2
+~
+door~
+2 23061 23041
+S
+#23059
+The lair of the Wyrm.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D0
+~
+door~
+2 23063 23042
+S
+#23060
+A small room in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+S
+#23061
+A small room in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+S
+#23062
+A small room in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+S
+#23063
+A hallway in the dungeon.~
+This is where prisoners are tortured, and kill. The walls are lined with chains
+and shackles user to chain prisoners to the wall. Several partial human corpses,
+and skeletons line the walls of the room.
+~
+230 9 0
+0d0+0 0 0
+D2
+~
+secret~
+1 23099 23055
+D3
+~
+~
+0 -1 23040
+S
+#23064
+A cold passage.~
+The walls of the passage are covered with frost. The air is cold, and a rushing
+noise comes from underneath the door to the west. The crack between the door
+and the floor is covered by a sheet of ice.
+~
+230 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23040
+D3
+~
+door~
+2 23062 23057
+S
+#23065
+The first floor of the tower.~
+The inside of the tower is as well preserved as the outside. The walls are
+lined with intricate tapestries. The is a spiral staircase lead up the entire
+length of the tower.
+~
+230 0 0
+0d0+0 0 0
+D2
+~
+door~
+2 23064 23023
+D4
+~
+~
+0 -1 23066
+S
+#23066
+The second floor of the tower.~
+The inside of the tower is as well preserved as the outside. The walls are
+lined with intricate tapestries. The is a spiral staircase lead up the entire
+length of the tower.
+~
+230 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 23067
+D5
+~
+~
+0 -1 23065
+S
+#23067
+The third floor of the tower.~
+The inside of the tower is as well preserved as the outside. The walls are
+lined with intricate tapestries. The is a spiral staircase lead up the entire
+length of the tower.
+~
+230 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 23068
+D5
+~
+~
+0 -1 23066
+S
+#23068
+The fourth floor of the tower.~
+The inside of the tower is as well preserved as the outside. The walls are
+lined with intricate tapestries. The is a spiral staircase lead up the entire
+length of the tower.
+~
+230 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 23069
+D5
+~
+~
+0 -1 23067
+S
+#23069
+The lich's lair.~
+The inside of the tower is as well preserved as the outside. The walls are
+lined with intricate tapestries. The is a spiral staircase lead up the entire
+length of the tower.
+~
+230 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 23068
+S
+$

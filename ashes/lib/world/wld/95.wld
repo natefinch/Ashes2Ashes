@@ -1,0 +1,1894 @@
+#9500
+A Parking Lot~
+You are standing in a parking lot. You are amazed by what you see. You see a big
+blue portal. From it appears a naked man. This is very weird.
+~
+95 4 0
+0d0+0 0 0
+D0
+On a Road
+~
+~
+0 -1 9501
+D4
+A Big Blue Portal
+~
+~
+0 -1 9503
+S
+#9501
+On a Road~
+You are walking along a narrow road. To the north you can see a bar. It looks
+like a dump. You here a lot of strange and loud noises coming from there. You
+wouldn't want to ever go there.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9515
+D2
+~
+~
+0 -1 9500
+S
+#9502
+On a Road~
+You are walking along a narrow road. A bar is to the east. It looks like a dump.
+You here a lot of noises and weird sounds coming from in there. You don't feel
+the need to go there. You feel like going to a place without cockroaches.
+~
+95 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9532
+D1
+~
+~
+0 -1 9525
+D2
+~
+~
+0 -1 9528
+D3
+~
+~
+0 -1 9507
+S
+#9503
+A Big Blue Portal~
+You are surrounded by blue light. It is bright. You can see through the other
+side. You see destruction and chaos on the other side. It looks to you like 
+you are in a time warp.
+~
+95 4 0
+0d0+0 0 0
+D0
+~
+sphere~
+1 -1 13149
+D1
+~
+~
+0 -1 9504
+D5
+A Parking Lot
+~
+~
+0 -1 9500
+S
+#9504
+A Destoryed Parking Lot~
+You see the parking lot that you saw on the other side. But everythig here is
+destroyed. The blue portal is still here. Everything looks horrible. As a man
+runs by you ask him the date. He gives you an intresting answer. You find
+yourself to be in the future. You don't like the looks of it.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9505
+D1
+~
+~
+0 -1 9506
+D3
+~
+~
+0 -1 9503
+S
+#9505
+A Trashed and Destroyed Area~
+You see tons of robots here. You feel frightened. They are causing chaos. The
+area is toatally destroyed be these robots. You do not like the future at all.
+~
+95 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9504
+S
+#9506
+A Trashed and Destroyed Area~
+  You see a virtual army of robots here and they are destroyig everything in
+everything in sight.  The fear is creeping up into your heart. There is 
+such chaos that you almost miss the small door set into the floor.
+~
+95 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9504
+D5
+~
+door~
+1 -1 9534
+S
+#9507
+A Bar~
+You see pool tables here. But nobody is playing pool. Everyone is staring at the
+back. There are some people back there in the kitchen. It sounds like they are
+fighting. You can here once man screaming loudly. This is making you frightened.
+You aren't sure if you want to stay.
+~
+95 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9502
+D3
+~
+~
+0 -1 9508
+S
+#9508
+A Kitchen~
+You see a man who looks like he was burnt on the stove. He was stripped naked by
+another man here. The other man looks mechanical. He is wearing the naked mans
+clothes. The naked my is screaming very loud.
+~
+95 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9507
+S
+#9509
+Farther Down the Road~
+You are walking further down the narrow road. You see a bar to the south and a police officer to the north. He looks lost. He has no police car or bike. Maybe he is going to check stuff out at the bar.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9510
+D2
+~
+~
+0 -1 9516
+S
+#9510
+Along the Road~
+You see a police officer here. He asks you 'Have you seen this boy?' and shows you a picture of a young boy. You answer no and he walks away. To the south you can still see that disgusting bar.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9511
+D2
+~
+~
+0 -1 9509
+S
+#9511
+Further Down The Road~
+You are walkng further down the narrow road. It looks like it runs a lot 
+farther to the north. To the south you see a police officer. Further south
+you see that disgusting old bar. Far ahead to the north you see another 
+building.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9512
+D2
+~
+~
+0 -1 9510
+S
+#9512
+Further Down The Road~
+You are walkng further down the narrow road. It looks like it runs a lot 
+farther to the north. To the south you see a police officer. Further south
+you see that disgusting old bar. Far ahead to the north you see another 
+building.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9513
+D2
+~
+~
+0 -1 9511
+S
+#9513
+Further Down The Road~
+You are walkng further down the narrow road. It looks like it runs a lot 
+farther to the north. To the south you see a police officer. Further south
+you see that disgusting old bar. Far ahead to the north you see another 
+building.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9514
+D2
+~
+~
+0 -1 9512
+S
+#9514
+Still On The Road~
+The building looks a lot closer now, but you still can't make out what it is.
+To the south you can hardly see the police officer or the bar anymore. You
+think 'How long could this road be?'. But then you look to the north and look
+back to the south, it's not as big as you thought. Then a car drives by and mud
+splashes all over you. Doh!!!
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9517
+D2
+~
+~
+0 -1 9513
+S
+#9515
+On a Road~
+You are walking along a narrow road. To the north you can see a bar. It looks
+like a dump. You here a lot of strange and loud noises coming from there. You
+wouldn't want to ever go there.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9516
+D2
+~
+~
+0 -1 9501
+S
+#9516
+On a Road~
+You are walking along a narrow road. To the far north you can see a br. It
+looks like a dump. You hear a lot of strange and loud noises coming from ther.
+You wouldn't want to ever go there.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9509
+D2
+~
+~
+0 -1 9515
+S
+#9517
+Far Down The Road~
+You are pretty far down the road. To the east you see a tall building. To the
+south you can no longer see the bar or the police officer. Farther up the road
+to the north you see another building. You here lots of music down there,
+you think to yourself 'What can be going on down there?!?!?'.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9526
+D1
+~
+~
+0 -1 9518
+D2
+~
+~
+0 -1 9514
+S
+#9518
+In Front of a Tall Building~
+You are standing in front of a tall building. There is a sign right here. It
+says 'Cyberdine Systems'. You figure that must be the name of the company.
+By looking at the building and by the name of the place you figure it is a
+research lab.
+~
+95 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9519
+D3
+~
+~
+0 -1 9517
+S
+#9519
+Inside the Entrance to Cyberdine~
+You are standing in the entrance area of Cyberdine Systems.  They have a
+terrific security system here that requires the use of a key card to enter
+most doors and areas in this building.  IF you want to get in you will have 
+to find one.   But HOW??????
+~
+95 0 0
+0d0+0 0 0
+D0
+There is a Huge security door here and it is metal with a large box that has
+small slot in it for the security badges.
+~
+Door~
+2 9509 9520
+D3
+~
+~
+0 -1 9518
+S
+#9520
+A Hallway In Cyberdine~
+You are standing in a hallway at Cyberdine Systems. There is an elevator right
+here. The hallway ends here so it looks like the elevator is the only place to
+go.
+~
+95 4 0
+0d0+0 0 0
+D2
+~
+door~
+2 9509 9519
+D3
+~
+~
+0 -1 9521
+S
+#9521
+An Elevator~
+You are standing inside of an elevator. Geez, this elevator music is horrible!
+Why do people make this junky music? You want to get out of this elevator as
+soon as possible.
+~
+95 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9522
+S
+#9522
+The Upper Floor of Cyberdine Systems~
+You are standing in a dark hallway. To the west is an elevator. To the south
+is the Cyberdine Lab area.
+~
+95 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9524
+D3
+~
+~
+0 -1 9523
+S
+#9523
+An Elevator~
+You are standing inside of an elevator. Geez, this elevator music is horrible!
+Why do people make this junky music? You want to get out of this elevator as
+soon as possible.
+~
+95 4 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9520
+S
+#9524
+Cyberdine Lab Area~
+You are in a room full of computers and all kinds of high tech stuff you 
+have no idea how to use.  Maybe you should just move on before you are
+detected in this room.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9522
+D2
+~
+~
+0 -1 9529
+S
+#9525
+On a Road.~
+You are on what seems to be a long road.  There are alot of cars parked 
+here and there and the people seem to have just disappeared.  There are
+Business along the side of the road and to the north you can make out a
+hospital.  You wonder if you might find some people there.
+~
+95 143360 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9526
+D3
+~
+~
+0 -1 9502
+S
+#9526
+On a Road.~
+You are on what seems to be a long road.  There are alot of cars parked 
+here and there and the people seem to have just disappeared.  There are
+Business along the side of the road and to the north you can make out a
+hospital.  You wonder if you might find some people there.
+~
+95 143360 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 9527
+D2
+~
+~
+0 -1 9517
+D3
+~
+~
+0 -1 9525
+S
+#9527
+On a Road.~
+You are on what seems to be a long road.  There are alot of cars parked 
+here and there and the people seem to have just disappeared.  There are
+Business along the side of the road and to the north you can make out a
+hospital.  You wonder if you might find some people there.
+~
+95 143360 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 11600
+D2
+~
+~
+0 -1 9599
+D3
+~
+~
+0 -1 9526
+S
+#9528
+Entrance to a factory.~
+You are standing in an entrance to a large factory.  There is a small
+reception desk here.  There is a door to the east that leads to the 
+factory floor.  BE sure to wear your hard hat it is dangerous in there.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9502
+D1
+~
+~
+0 -1 11651
+S
+#9529
+Before A Large Metal Door~
+You are standing in front of a huge metal door. There has to be something VERY
+expensive to have a door like this. It looks like a rocket longer couldn't even
+blow it down. Well... you might be overdoing it a little. But not that much.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9524
+D2
+~
+steel door~
+2 9503 9530
+S
+#9530
+In a dark safe.~
+You are standing in a dark safe.  The only light is a deep blue light that 
+is eminating from a large glass display case placed in the middle of the 
+room.  The walls are made of a slick looking metallic material. There
+appear to be no exits.  Just how DO you plan to get out???
+~
+95 9 0
+0d0+0 0 0
+S
+#9531
+On a road.~
+ You are walking along a city street.  There are cars whizzinf past you and
+hundreds of people walking past you on their way to their lives. To the east
+is a small cheap motel.
+~
+95 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9541
+D3
+~
+~
+0 -1 9532
+S
+#9532
+On a road.~
+  You are walking along a city street.  There are cars whizzing past you
+and people walking past you on their way to their lives.  To the east
+you can just barely make out a small motel.
+~
+95 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9531
+D2
+~
+~
+0 -1 9502
+S
+#9533
+In the bathroom.~
+  You are in a tiny bathroom in a cheap motel.  Although everything
+is clean it appears to be several years old and in need of some repair. There
+are some small bottles of shampoo sitting here that look as though they
+have been here longer than the motel itself.
+~
+95 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9548
+S
+#9534
+Entrance to underground bunker.~
+You are standing in fron of the entrance to a large underground bunker. There
+is a door leading up that will take you back to the destroyed remains of
+the city.  This place seems safe but it is dirty and looks pretty 
+depressing.
+~
+95 137 0
+0d0+0 0 0
+D4
+~
+door~
+1 -1 9506
+D5
+~
+~
+0 -1 9535
+S
+#9535
+In an underground bunker.~
+  You are in an underground bunker.  There are people running around that 
+look as if they have been to hell and lived to tell the tale. There
+is a stench here that is burning your nostrils.  The smoke rising off
+of the many small fires here burning your eyes , making the water. 
+~
+95 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9536
+D4
+~
+~
+0 -1 9534
+S
+#9536
+In an underground bunker.~
+You are standing in an underground bunker.  The Rooms are small and 
+not ventilated very well.   The people seem to be crammed in here 
+like sardines.  The walls are a grey color probably due to the soot
+that has built up from the many fires that burn here and there. 
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9535
+D2
+~
+~
+0 -1 9537
+S
+#9537
+In an underground bunker.~
+  You are standing in an underground bunker. Everything down here looks 
+grey.  The walls, the ceiling, and the people all have a grey almost
+unnatural cast to them.  The fires burning for heat and cooking sources
+cast eerie shadows over that which is already freightening.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9536
+D1
+~
+~
+0 -1 9540
+S
+#9538
+In an underground bunker.~
+  You ar e standing in an underground bunker.  There are too many
+people in here for this small and area.  The act like scared rats
+hiding in a hole in the ground, going out only in the cloak of dark-
+ness.  There is little or ne space for these people to live
+but yet they do.
+~
+95 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9539
+S
+#9539
+In an underground bunker.~
+  You are in the underground bunker of the rebels. The rats are numerous and
+are scurring everywhere under the unhabitants of this small, dirty bunker.
+The people here look like they are barely hanging on by a tiny string.
+The destruction in the bunker makes you wonder if the outside world could
+really be as bad as all this then remember you came throught the destruction
+outside to get into this bunker.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9538
+D3
+~
+~
+0 -1 9540
+S
+#9540
+In an underground bunker.~
+You are standing in an underground bunker.  There is almost no 
+light here except for that which comes from the fires burning everywhere.
+The rats scurry under your feet and even they look scrawny.  The people
+here look as if the last decent meal they had and last bath had to be at
+least a month ago.
+~
+95 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9539
+D2
+~
+~
+0 -1 9559
+D3
+~
+~
+0 -1 9537
+S
+#9541
+The clerk's office at a small motel.~
+ You are standing in a small motel's clerk's office.  There is a 
+tall counter here with a person standing behind it.  The walls
+are of a wooden paneling and with the deer head on the wall, it 
+almost looks like a hunting lodge.
+~
+95 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9531
+D7
+~
+~
+0 -1 9542
+S
+#9542
+On the sidewalk.~
+  You are walking on a sidewalk outside the rooms outside of a cheap motel.
+If you go north from here you will be in room #1 and back to the South-
+east is the clerk's office.
+~
+95 128 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9553
+D3
+~
+~
+0 -1 9543
+D8
+~
+~
+0 -1 9541
+S
+#9543
+On the sidewalk.~
+You are on a sidewalk outside of the rooms of a cheap motel.  The rooms all
+branch off from this sidewalk to the north.  Directly to the north of 
+here is Room #2
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9552
+D1
+~
+~
+0 -1 9542
+D3
+~
+~
+0 -1 9544
+S
+#9544
+On the sidewalk.~
+  You are standing on a sidewalk outside of a cheap motel.  The roms 
+all lie north of this sidewalk. There are numbers on all of the doors
+to denote which room is which.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9551
+D1
+~
+~
+0 -1 9543
+D3
+~
+~
+0 -1 9545
+S
+#9545
+On a sidewalk.~
+  You are on a sidewalk outside of a cheap motel.  The rooms lie directly
+noeth of this sidewalk.  To the north is Room #4.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9550
+D1
+~
+~
+0 -1 9544
+D3
+~
+~
+0 -1 9546
+S
+#9546
+On a sidewalk.~
+  You are standing on a sidewalk outside of a cheap motel.  The rooms
+in this hotel all lie directly north of this sidewalk.  There are 
+numbers on each door denoting which room it is.
+~
+95 4096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9549
+D1
+~
+~
+0 -1 9545
+D3
+~
+~
+0 -1 9547
+S
+#9547
+On a sidewalk.~
+  You are standing on a sidewalk in front of the rooms of this cheap 
+motel.  The rooms all lie north of this sidewalk.  There are signs on
+all the doors that let you know what room you are going into.
+~
+95 4096 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 9548
+D1
+~
+~
+0 -1 9546
+S
+#9548
+In room #6 at a cheap motel.~
+   This is a small room in a cheap motel.  There is a double size bed in 
+the middle of the room and a small chair sits by the window, next to a 
+small table.  There is a wooden dresser here with several drawers in
+it and a bible sitting on top of it.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9533
+D2
+~
+~
+0 -1 9547
+S
+#9549
+In room #5 in a cheap motel.~
+You are in Room #5 of a cheap motel.  The bed linens look old and in
+need of some mending .  Although this room shows it's age in decor and
+state of disrepair it is clean, much to your suprise. There is a dresser
+along one wall and on that dresser isa bible.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9558
+D2
+~
+~
+0 -1 9546
+S
+#9550
+In room #4 of a cheap motel.~
+  This is a room in a cheap motel.  The bed is a double size bed but it 
+looks like Washington slept here cause it is so broken down. There is
+a bible on the dresser, are you sure you wouldn't like to pray before
+you sleep in that broken down bed.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9557
+D2
+~
+~
+0 -1 9545
+S
+#9551
+In room #3 of a cheap motel.~
+  This is a small room in a cheap motel.  The only furnishings are a 
+bed and a dresser.  There is a door leading to the bathroom to the 
+north. To get back to the sidewalk go back south.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9556
+D2
+~
+~
+0 -1 9544
+S
+#9552
+In room #2 of a cheap motel.~
+  You are in a small room in a cheap motel.  The room is sparsely furnished
+with only a bed and a small dresser.  To the north is a bathroom and to 
+the south is back out on the sidewalk.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9555
+D2
+~
+~
+0 -1 9543
+S
+#9553
+In Room #1 in a cheap motel.~
+  You are standing in a small room in a cheap motel.  The bed coverings
+look like they are older than you  The room, although cheap, is very 
+clean.  There is a batroom to the north. 
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9554
+D2
+~
+~
+0 -1 9542
+S
+#9554
+The bathroom of room #1.~
+  You are standing in the bathroom.  All the fixtures are white and 
+the bath tub looks old, it has big claw feet that sit on a white tiled
+floor. ~
+95 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9553
+S
+#9555
+In the bathroom.~
+ You are in a tiny bathroom in a cheap motel.  The bathroom is in a 
+state of disrepair.  The sink and tub are chippes and discolored.  The
+towels, once a pristine white, are now a dingy yellow color.
+~
+95 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9552
+S
+#9556
+In the bathroom.~
+  You are in a tiny bathroom in a cheap motel. The tub
+and sink are chipped and discolored.  The towels, Once white, are now yellow
+and dingy with age.
+~
+95 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9551
+S
+#9557
+In the bathroom.~
+  You are standing in a tiny bathroom of a cheap motel room.  The bathroom
+fixtures all look as though the need some repair.  The towels, although
+clean, look as though some new ones need to be purchased. There is a
+sign here that says this room was specially sanitized for you.  Are
+you wiling totake their word for it?
+~
+95 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9550
+S
+#9558
+In the bathroom.~
+  You are in a tiny bathroom just off of a room in a cheap motel. This 
+bathroon looks like it was built in the middle ages.  Most of the 
+fixtures are in a state of disrepair. If I were you I would get out 
+before something overflows or explodes.
+~
+95 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9549
+S
+#9559
+In an underground bunker.~
+You are standing in an underground bunker that is filled with people and rats.
+There are weapons in every adults hands as if they expect to be invaded 
+at any moment.  There are eerie shadows on the walls from the fires that 
+burn to light this dungeon like place.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9540
+D1
+~
+~
+0 -1 9560
+S
+#9560
+In an underground bunker.~
+You are standing in an underground bunker. There are small fires all
+around you and small children gather around the fires to stare into 
+them and dream of a better life for their children.  There are rats 
+running around your feet.  There are some dogs running around here too.
+The mix of humans and animals has caused a stench that is breath-taking
+. If you stay much longer you will probably be assigned a task better get 
+out.
+~
+95 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9561
+D3
+~
+~
+0 -1 9559
+S
+#9561
+In an underground bunker.~
+  You are standin in an underground bunker.  The smell in here is 
+so bad that you have to hold your hand over your nose just to be able to
+breathe.  There are small fires here and there.  The smoke from the fires
+is burning your eyes and nose.
+~
+95 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9565
+D3
+~
+~
+0 -1 9560
+S
+#9562
+In an underground bunker.~
+  You are in a underground bunker.  From the looks of things down here, 
+you wonder if there is actually anything left above ground.  There are
+small fires burning here and there.  There are women cooking on the small
+fires and some small children stare into them blankly.
+~
+95 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9563
+S
+#9563
+In an underground bunker.~
+  You are in an underground bunker.  The walls are very close here.  
+there is a stench here that comes from humans and animals living in 
+such close quarters.  There are small fires burning around that 
+are used for cooking and light.
+~
+95 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9562
+D2
+~
+~
+0 -1 9564
+S
+#9564
+In an underground bunker.~
+  You are standing in an underground bunker.  There is a stench in here that
+is breath-taking.  The smell of smoke is everywhere and it makes your eyes
+water.  There are small children here that are staring blankly into the 
+fires that burn here for light and cooking.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9563
+D2
+~
+~
+0 -1 9565
+S
+#9565
+In an underground bunker.~
+  You are in an undergroun bunker.  There are small children sitting around
+and not doing anything.  They seem almost like dolls lost in this hell on 
+earth.  The walls have an eerie cast from the fires that burn and you can
+see that they are covered in a thick coating of soot.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9564
+D2
+~
+~
+0 -1 9569
+D3
+~
+~
+0 -1 9561
+S
+#9566
+In an underground bunker.~
+This is the underground headquarters for the rebels. They are 
+fighting against the machines of the new world order.  The children here 
+look as though they have been through more than most adults.  They 
+look war-ready and as if the have lost their childish wonder.
+~
+95 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9568
+S
+#9567
+In an underground bunker.~
+  You are in an underground bunker.  The ceilings are low and covered 
+with black soot.  There are rats running all over the place.  The 
+children here chase the rats as a game it seem that is all the 
+entertainment they have. 
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9568
+S
+#9568
+In an underground bunker.~
+ You are standing deep underground in a bunker.  There is a stench that 
+has the unmistakable odor that results from animals and humans living in
+such close quarters.  There are dogs sleeping all around you.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9569
+D2
+~
+~
+0 -1 9567
+D3
+~
+~
+0 -1 9566
+S
+#9569
+In an underground bunker.~
+  You are standing in an underground bunker.  The walls seem to close 
+in around you the furthur you go.  There are small fires burning in each
+section and they cast eerie shadows around you.  There is the smell of 
+fire all around you.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9565
+D2
+~
+~
+0 -1 9568
+S
+#9570
+In an underground bunker.~
+  You are in an underground bunker.  There is very little light except
+for the fires that burn here and there.  The soot from the fires covers 
+the wall with a black film.  The people you see here look as though they
+have been beaten down before but wil not let it happen again.
+~
+95 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9571
+D3
+~
+~
+0 -1 9569
+S
+#9571
+In an underground bunker.~
+You are standing in an underground bunker.  This bunker is the result
+of the new machine age.  Those with the machines run the world and those 
+who have no machines hide in underground bunkers fighting for life and
+limb.
+~
+95 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9572
+D3
+~
+~
+0 -1 9570
+S
+#9572
+In an underground bunker.~
+You are standing in an underground bunker.  There is very little light here
+with the exception of the fires that cast eerie shadows on the soot-covered
+walls.  The weary faces of children stare blankly at you as if asking
+"what next ?"
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9571
+S
+#9573
+Men's bathroom.~
+  You are in the men's bathroom.  There are several urinals here.  
+On one wall is alarge mirror in which the more vain men might 
+spruce up their hair.  To the west you go back into the club
+~
+95 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9594
+S
+#9574
+Women's bathroom.~
+  You are in the women's bathroom.  There are several stalls here but all
+seem to be occupied. There are some women here looking in the mirror 
+reapplying their lipstick.  The smell in here is a mixture of bathroom
+cleaner and women's perfume.
+~
+95 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9590
+S
+#9575
+On the dance floor.~
+   You are standing on the dance floor of a hot new club.  There are 
+lights flashing all around you and there are people all around you.
+By the way.... WHY AREN'T YOU DANCING!  The people around you are 
+dancing with wild abandon.  There is the scent of a womans cologne
+mixed with the aftershave of man and the scent of fresh perspiration.
+Do you think you can keep up with this dance.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9580
+D1
+~
+~
+0 -1 9576
+D2
+~
+~
+0 -1 9593
+D3
+~
+~
+0 -1 9582
+S
+#9576
+On the dance floor.~
+  You are on the dance floor.  There are people all around you 
+dancing to the latest tune.  There is a thick cloud of smoke all
+around you and you can barely see through it. There are all sorts
+of flashing lights above you that change with the thump of the music
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9579
+D1
+~
+~
+0 -1 9590
+D2
+~
+~
+0 -1 9596
+D3
+~
+~
+0 -1 9575
+S
+#9577
+On the dance floor.~
+ You are on a dance floor with several club goers.  The people here
+seem to have had too much to drink,  they look like they can barely
+stand, much less dance.  
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9578
+D1
+~
+~
+0 -1 9591
+D2
+~
+~
+0 -1 9595
+D3
+~
+~
+0 -1 9576
+S
+#9578
+On the dance floor.~
+ You re standing on a huge dance floor. There are people everywhere
+and they are all dancing.  The sound of the music is so loud you 
+can barely hear yourself think.   The smell of smoke is so strong that 
+it burns your nose and eyes.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9588
+D1
+~
+~
+0 -1 9590
+D2
+~
+~
+0 -1 9577
+D3
+~
+~
+0 -1 9579
+S
+#9579
+On the stage.~
+  You are standing on the dance floor of the hottest new night club in town.
+There are people all around you dancing and smiling.  There is a smoke
+machine at the edge of the dance floor going full blast and it is making
+it so smoky you can barely see 2 feet in front of yourself.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9587
+D1
+~
+~
+0 -1 9578
+D2
+~
+~
+0 -1 9576
+D3
+~
+~
+0 -1 9580
+S
+#9580
+On the dance floor.~
+  This is the dance floor in the hottest new club in town.  The squares
+of wood look as though an army has danced through here.. and with this
+crowd anything is possible.  There are men and women here in all phases
+of dance some bump and grind while others just dance like they have
+been friends for years.  The thick smoke makes it hard to see past
+the flashing lights and beautiful people.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9586
+D1
+~
+~
+0 -1 9579
+D2
+~
+~
+0 -1 9575
+D3
+~
+~
+0 -1 9584
+S
+#9581
+At the bar.~
+You are standing at a bar.  It is a long wooden bar with many scuffs 
+in the finish.  Looks like a few boiler-makers have been spilled here
+and left to burn.  There are several empty glass sitting here where
+patrons have drained them and left them to be cleaned. There are
+astrays here overflowing with the remains of cigerettes.  The
+smell of alcohol and smoke is overwhelming.
+~
+95 24 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9582
+D1
+~
+~
+0 -1 9583
+D8
+~
+~
+0 -1 9592
+S
+#9582
+At the bar.~
+  You are standing at a long scuffed bar.  It look like many a drink have
+been created...and drunk here.  There are marks in the wood from mislaid
+cigerettes and from the sliding of drinks up and down the bar.  There are
+several people here waiting to get there next drink.  You wonder if most
+of the people waiting actually need another drink.
+~
+95 24 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9584
+D2
+~
+~
+0 -1 9581
+D6
+~
+~
+0 -1 9585
+S
+#9583
+At a table in the night club.~
+  You are standing at a much to crowded table at a night club.  The music
+is so loud you ca barely hear your self think, much less talk to those 
+with you. The smoke is so thick you can only see a few feet in front 
+of you.  The smoke is burning your eyes and making them water. 
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9584
+D1
+~
+~
+0 -1 9575
+D2
+~
+~
+0 -1 9592
+D3
+~
+~
+0 -1 9581
+S
+#9584
+At a table in the night club.~
+  You are standing at a crowded table in a night club.  There are 
+a lot of drunk people sitting here playing some odd drinking game.
+There are several shot glasses stacked in the center of the table
+that resemble a pyramid.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9585
+D1
+~
+~
+0 -1 9580
+D2
+~
+~
+0 -1 9583
+D3
+~
+~
+0 -1 9582
+S
+#9585
+A dark corner in the night club.~
+ You are standing in a dark corner of the night club.  You can barely 
+make out several couples making out. There is almost no light here
+due to the position of the stage.  This is where people come 
+to be alone in a crowded place but this is the most crowded spot
+in the whole place.
+~
+95 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9586
+D2
+~
+~
+0 -1 9584
+D9
+~
+~
+0 -1 9582
+S
+#9586
+On the Stage.~
+  You are standing on the stage of a night club.  There are some angry
+band members here that are wondering why you are stealing their spot
+light.  From this vantage point you should be able to see the whole
+bar but sure to the spot light and the lights flashing in time to the 
+music there is such a glare you can't see past the end of the stage.
+~
+95 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9587
+D2
+~
+~
+0 -1 9580
+D3
+~
+~
+0 -1 9585
+S
+#9587
+On the stage.~
+  You are on the satge of the hottest night club in town.  There is a 
+band here that is not happy that you are stealing their lime light.  The
+light here is so hot that beads of perspiration are running down your
+neck.  There is so much smoke up here that you are choking on it.
+~
+95 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9588
+D2
+~
+~
+0 -1 9579
+D3
+~
+~
+0 -1 9586
+S
+#9588
+On the stage.~
+You are standing on the stage of the hottest nght club in town.  There
+are people on that stage that appear to be a band.  There are several
+musical instruments  and amplifiers sitting here waiting for the band
+to finish their break.
+~
+95 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9589
+D2
+~
+~
+0 -1 9578
+D3
+~
+~
+0 -1 9587
+S
+#9589
+The D.J. booth.~
+  You are in the D.J. booth.  You better not let him catch you messing
+with his records or he will have a fit.  There are several thousand 
+records here with which he entertains people.  The turntable is 
+spinning now with the latest tune and the D.J. is out on the dance 
+floor flirting with the ladies.
+~
+95 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9590
+D3
+~
+~
+0 -1 9588
+S
+#9590
+At a table in the club.~
+  You are at a small over-crowded table in the night club.  There are 
+several drunk people here.. getting drunker you assume.  The table 
+is covered in glasses and cigerette butts.  The smoke is so thick
+here that you can barely see.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9589
+D1
+~
+~
+0 -1 9574
+D2
+~
+~
+0 -1 9591
+D3
+~
+~
+0 -1 9578
+S
+#9591
+At a table in the club.~
+ You are standing by a small table that is crowded with people.  The 
+club goers seem to be in a trance,  could it be the music or is it the
+liquor? There are several glasses that are sitting on the table, empty.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9590
+D2
+~
+~
+0 -1 9594
+D3
+~
+~
+0 -1 9577
+S
+#9592
+A table in the night club.~
+You are standing next to a crowded table in the hottest new night
+spot.  There are several drunk people sitting her trying to make a love
+connection.. Good Luck.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9583
+D1
+~
+~
+0 -1 9593
+D7
+~
+~
+0 -1 9581
+S
+#9593
+At a table in the night club.~
+You are standing by a table in the night club.  There are several 
+club goers here inebriated.  The table is a small round wooden one 
+that is meant for 4 people but had at least double that amount 
+sitting around it in any given night. 
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9575
+D1
+~
+~
+0 -1 9596
+D3
+~
+~
+0 -1 9592
+S
+#9594
+At a table in the club.~
+   You are standing by a small, wooden. over-crowded table in the hottest
+new night club in town.  There are twice as many people huddled 
+around this table as it was meant to have.  There is a stack of 
+empty shot glasses in the center of the table and the ashtray
+is over-flowing.
+~
+95 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9591
+D1
+~
+~
+0 -1 9573
+D3
+~
+~
+0 -1 9595
+S
+#9595
+At a table in the night club.~
+You are standing at a small, over-crowded, wooden table. The
+people here are all drinking and seem to be too drunk to know
+your there much less to drive. You wonder if they have a 
+designated driver.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9577
+D1
+~
+~
+0 -1 9594
+D3
+~
+~
+0 -1 9596
+S
+#9596
+In the Night club.~
+  You are standing in the hottest night club in town.  There will be
+hundreds of single men and women here seeking each other out.  There 
+are several mulit colored lights that flash and move with the thump
+of the latest music.  There are people huddles at all the tables 
+talking and drinking.
+~
+95 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9576
+D1
+~
+~
+0 -1 9595
+D2
+~
+~
+0 -1 9597
+D3
+~
+~
+0 -1 9593
+S
+#9597
+Entrance to the night club.~
+ You finally made it to the entance of this hot night spot.  There is 
+a woman here to take your money.  The woman is standing inside a cage. 
+By the looks of her you think that may be for the patrons protectios as
+much as her own.  There walls are painted all sorts of brilliant colors
+of day glo paint.  There is a bouncer here who looks like a mack truck
+, It is probably best you don't mess with him.
+~
+95 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9596
+D2
+~
+~
+0 -1 9598
+S
+#9598
+Standing in line to get into the club.~
+  You are closer to the front of the line but there are still several
+people ahead of you.......Wonder if you could bribe people for their 
+place in line?  There are some signs here advertising the bands that
+play here on a regular basis.  As you move forward you notice that 
+the line continues to grow behind you.  This place must be packed
+inside if there are this many people out here.
+~
+95 144 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 9597
+D3
+~
+~
+0 -1 9599
+S
+#9599
+Standing in line waiting to get into club.~
+ You are standing in a very long line to get into the newest hottest
+night club in town.  There is a huge sign glowing here with the name
+of the club on it.  There are people in front of you and behind you 
+waiting to get in as well.  Hope you brought are prepared for a long
+wait.
+~
+95 144 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 9527
+D1
+~
+~
+0 -1 9598
+S
+$

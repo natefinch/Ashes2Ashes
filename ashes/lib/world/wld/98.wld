@@ -1,0 +1,1273 @@
+#9800
+Entrance to the museum~
+Your ticket is taken as you walk into the museum. It has several different
+types of displays shown here. One wing begins with sculptures, another with
+paintings, and the last with statues. Not just ordinary statues, but almost
+a place of worship. These statues are dedicated to the Gods that rule this
+World.
+~
+98 12288 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9801
+S
+#9801
+Entrance to the museum~
+The main hall of the musuem is quite lofty. You find the painting
+of the walls quite lovely. It actually looks like you are walking
+in a field, with the sun shining down on you, the grass growing
+all around you. Heat comes from the sun, making you wonder what
+kind of magic is involved there. Off in the distance, you can
+hear the curator bragging about his museum.
+
+~
+98 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9803
+D2
+~
+~
+0 -1 9800
+S
+#9802
+Exhibit of Shifter~
+You are passing through the most interesting exhibit you've ever seen in any
+exhibit. Every display, every painting is utterly fascinating. You stare in
+wonder a few moments, taking it in. After quite a while you think you've 
+seen everything you wanted to here...
+...there's a strange tingling in the back of your head....
+You turn and look back at the exhibit and notice that it has changed
+completely! Anything you've ever wanted to see in a museum exhibit is
+displayed before you. Once more you stare at the wonders before you...
+and you forget all about that funny little tingling of magic in the back of
+your head...
+~
+98 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9814
+D2
+~
+~
+0 -1 9842
+S
+#9803
+Main Chamber ~
+This room seperates the different wings of the musuem. Each wing
+has a little sampling of each display. One wing has modern art,
+while another will have very old sculptures included with it. As
+the wing ends, there are statues of the Gods.
+~
+98 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9804
+D1
+~
+~
+0 -1 9805
+D2
+~
+~
+0 -1 9801
+D3
+~
+~
+0 -1 9806
+S
+#9804
+Main Hall~
+This main hall looks even larger than the first. The ceiling 
+shows the night sky, each star showing brilliantly. As you look,
+you can see the moon move across the sky, the constellations
+rotate in the blackness.
+
+~
+98 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9807
+D2
+~
+~
+0 -1 9803
+S
+#9805
+East Wing~
+The east wing of the museum beings with paintings of wilderness
+scenes. Some are peaceful, showing people on picnics, or children
+running through the forest. Others however, take a darker image.
+They show creatures fighting, trying to show dominance. Mothers
+hurry their children past these.
+~
+98 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9835
+D3
+~
+~
+0 -1 9803
+E
+good family picnic~
+This series of pictures shows a family going out for a picnic. The mother
+making the table, the father playing with the children, other families
+sitting down to enjoy their time together.
+~
+E
+evil animals bad~
+This picture shows a pack of wolves, slowly tracking their prey, a small dear.
+It shows them about to move in for the kill.
+~
+S
+#9806
+West Wing~
+The west wing begins with the picture of a warrior, suiting up
+in his armor. His squire prepares his horse and goes over his
+weapons, making sure everything is perfect. The knight mounts his
+horse, and heads to battle.
+
+~
+98 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9803
+D3
+~
+~
+0 -1 9839
+S
+#9807
+Center Room~
+This room is the splitting point of the furthest 3 wings. Each
+wing from here tells a story, some with statues moving or sounds
+helping describe the pictures. The head and cold of some of them
+is apparent from here, making you wonder how strong the magic
+is.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9821
+D1
+~
+~
+0 -1 9816
+D2
+~
+~
+0 -1 9804
+D3
+~
+~
+0 -1 9827
+D4
+~
+~
+0 -1 9852
+D5
+~
+~
+0 -1 9843
+S
+#9808
+Exhibit of Jahana~
+You enter this room and almost get scorched by a dragon! You pull out
+your sword only to find there's no dragon here. Well, no real dragon
+anyways. The fire came from a gigantic sculpture sitting in the middle
+of the room. The walls are lined with every type of dragon you could
+imagine there being. Red dragons, blue dragons, yellow dragons, even
+dragons with riders on them. Some are flying, some are in battle, each
+image captures the sheer beauty of the dragon.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9809
+D2
+~
+~
+0 -1 9834
+S
+#9809
+Exhibit of Jahana~
+This room is made to be an exact replica of Jahana's office. A large
+desk sits in the middle of the room. A large golden scale sits on one
+side of it, a gift from her associate BigH. The walls are filled with
+different computer screens, each showing a different scene. As you look
+around the room, you see on picture in particular that catches your eye...
+it's you! It's showing you looking at yourself. So that's how she keeps
+an eye on those mortals! She can watch them all at once to keep them
+out of trouble. Knowing that she's watching you makes you feel safer as
+you move to the next exhibit.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9810
+D2
+~
+~
+0 -1 9808
+S
+#9810
+Final Exhibit of Jahana~
+The final exhibit of Jahana combines the other two with a few added
+extras. It's a scene of Jahana's spot of relaxation. A comfortable 
+couch and chair look so inviting you almost sit there yourself. The room
+has all the necessities of relaxation, a stereo, tv, and of course, a 
+computer. A little warning light on the computer lets her know if anyone
+is misbehaving. All over the room are pictures of Jahana and her husband, 
+Daxx. Pictures of their wedding, trips, and even at home line the walls
+and desks of this room. The place almost seems to lull you into sleep.
+
+~
+98 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9809
+S
+#9811
+Exhibit of Daxx~
+You walk into this room and almost turn into an icecube. It's freezing in 
+here! Why on earth is the room so darn cold! You look around and figure out
+why. It's filled with nothign but computer equipment. You find yourself 
+actually standing next to a supercomputer. You can hear it whirring off
+billions of calculations a second. So this is what Daxx uses to help him
+run things around here.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9812
+D2
+~
+~
+0 -1 9823
+S
+#9812
+Exhibit of Daxx~
+Several terminals line the walls of this room. Each screen has a different
+picture on it. Some have pictures of cities crowded with poeple, some have 
+beautiful pictures of mountains and the wilderness. You see people watch
+the screen, then push a button and disappear. You look at the terminals,
+and there they are! Inside the terminal! You realize this is the most
+advanced display of virtual reality you have ever seen. Now, you have to
+make a choice. Do you live out your fantasies, or do you move on?
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9813
+D2
+~
+~
+0 -1 9811
+S
+#9813
+Final Exhibit of Daxx~
+As you enter this room you stop and stare in awe. You can feel the power
+radiate throughout the room. As you look around, you can see this is a place
+of peace and worship. An altar rests in the far end of the room, overshadowed
+by a large cross. Pictures of the worshipped gods reside on the walls, giving
+each person a God to worship. The entire room is underlaid by an enormous
+persian rug. Looking at the near part of the room, you see Daxx, paying close
+attention to many floating crystal balls. You look into the crystal balls and
+see the images of the other statues. Daxx has declared himself the
+protectorate of the others, so has taken it upon himself to watch over them.
+Watching each ball, he stands ready to defend them if necessary. If you dare
+to harm those whom he watches over, prepare to face the wrath of Daxx.
+
+~
+98 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9812
+E
+owner~
+Daxx
+~
+S
+#9814
+Exhibit of Shifter~
+Along both sides of this long hallway are statues depicting verious deities
+from various corners of the multiverse, as well as other powerful
+extraplanar minions. Every few seconds the statues change form to show
+another god or creature. You could watch for hours before ever seeing one
+of the statues repeated. The only one that remains constant is a sculpture
+of Mystra, Goddess of Magic, the source if Shifter's magical power.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9815
+D2
+~
+~
+0 -1 9802
+S
+#9815
+Final Exhibit of Shifter~
+This room is a nearly exact replica of Shifter's home in the planes:
+ The modern equivalent of the stereotypical wizard's tower, this place
+looks like the best place for the magi-technically oriented. While one
+wall is lined with ancient spellbooks, another contains rack upon rack of
+CD-ROM's, containing Gigabytes of digitally stored spells. A really
+powerful-looking enchanted laptop computer sits on a futuristic desk. The
+enspelled ethernet link allows lag-free internet access 24/7. You could
+spend weeks in here without ever getting bored. 
+
+~
+98 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9814
+S
+#9816
+North East Wing~
+A wedding is spread all around you. The guests sit and talk, the
+mother of the bride running here and there frantically. The groom
+stands near the altar, waiting for the ceremony to begin. He keeps
+looking up and ahead of him, hoping to catch a glimpse of his
+future wife.
+
+~
+98 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9817
+D3
+~
+~
+0 -1 9807
+S
+#9817
+North East Wing~
+The guests begin to sit as the music begins to play. The groom
+looks around anxiously, wanting just a glimpse of his bride, but
+he is denied. The door opens, and the bridesmaids being to walk
+out, followed by the bride herself. She is dressed in a shining
+white dress, flowing down to the ground.
+
+~
+98 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9818
+D3
+~
+~
+0 -1 9816
+S
+#9818
+North East Wing~
+The wind picks up around the wedding. Everyone looks to the sky, 
+and terror crosses their face: A dragon is swooping down towards
+them! He sprays the crowd with fire, burning many people. He
+dives straight towards the bride, scoops her in his claw, and
+flies into the air, out of sight.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9819
+D2
+~
+~
+0 -1 9817
+S
+#9819
+North East Wing~
+The dragon has flown the lovely bride to his dwelling on the 
+cliff of a large mountain. There is no direct way to climb up, the
+only entrance seems to be from flight. As the dragon flies in, a
+stone door clamps shut, leaving the screaming bride no where to
+run.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9820
+D2
+~
+~
+0 -1 9818
+S
+#9820
+North East Wing~
+A strange darnkess fills the air above the mountain. It is as if
+the very clouds have taken on a mind of their own. They begin to
+darken and swirl. The dragon, on alert, opens his cave to witness
+the phenomenon. An image forms on the clouds: the image of a mage.
+It warns the dragon to let the lady go. The last part shows the
+ensuing battle between the two.
+
+~
+98 14472 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9824
+D2
+~
+~
+0 -1 9819
+S
+#9821
+Northern Wing~
+A great battle is displayed here. It is the story of the Gods of
+this world, and how it came to be. It begins with the Head of the
+Gods, Daxx, and his battle. It shows him gain and lose ground, but
+never quite get ahead. He then recruits several strong warriors
+to help in his battle.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9822
+D2
+~
+~
+0 -1 9807
+S
+#9822
+Northern Wing~
+Daxx has begun battling back in this scene. He rules with his
+Queen and the land prospers for a short while. But yet again Daxx
+comes under attack. However, this time the enemy has grown in 
+strength, and Daxx cannot fight it himself. You see him begin to
+fall back and prepare for the final push.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9823
+D2
+~
+~
+0 -1 9821
+S
+#9823
+Northern Wing~
+A powerful wizard has joined Daxx, and together they were able
+to hold off the enemy. But thier spirit and powers were draining,
+so together they decided to create a new world. A world of peace
+and prosperity. They toiled long and hard, but finally came up
+with this new and wonderful world. Daxx and his Queen, along with
+the wizard, their Dragon warrior, and their Creator, ruled this
+new world as long as time shall last.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9811
+D2
+~
+~
+0 -1 9822
+S
+#9824
+Exhibit of Viper~
+You have entered into a room in such a hurry you worry about
+getting run over. Helpers of the great God scurry here and there,
+finding out information or doing the tasks they were set out to
+do. A small screen is used to communicate with their boss, Viper.
+He is able to manage them from one of his various quests he runs
+for the mortals of this land. You hurry through the room for
+fear of getting run over.
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9825
+D2
+~
+~
+0 -1 9820
+S
+#9825
+Exhibit of Viper~
+This is the metal working factory Viper is constantly using to
+make the prizes for his quests. The walls are lined with everything
+from swords to suits of armor. They vary in size and shape, and
+are separated by magnitude of magic. The most powerful ones are
+guarded by soldiers, to make those weak willed workers think 
+twice about trying to steal from the might Viper.
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9826
+D2
+~
+~
+0 -1 9824
+S
+#9826
+Final Exhibit of Viper~
+This room shows the true Viper, as the other Gods see him. Each
+wall shows a different side of him, yet they all combine to form
+his power. Along one wall are the weapons he has used, both to
+help those and need and dispatch those that opposed him. Along
+another wall are links to the temples that worship the mighty God.
+The last 2 walls are filled with various equipment and treasures
+he has gathered throughout the years. In the center of the room
+lies a large oak desk, with a computer terminal on it. From here
+he runs his great empire.
+~
+98 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9825
+S
+#9827
+North West Wing~
+They have begun their journey. A knight, a wizard, and a holy man.
+They are searching for the Horn of Athens. The treasure said to
+have the power to make the user invulnerable to magic, or even
+raise the dead. The excitement in their eyes washes away the 
+fear in their hearts.
+
+~
+98 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9807
+D3
+~
+~
+0 -1 9828
+S
+#9828
+North West Wing~
+The group encounters many small battles on their journey. Some of
+the more dangerous ones are shown here: the nest of the griffons,
+the home of the ogres, and the caves of the trolls. Although at
+times they were beaten and hurt, they continue on, the only thing
+they can concentrate on, the Horn.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9832
+D1
+~
+~
+0 -1 9827
+S
+#9829
+Exhibit of Sarnoth~
+Samples of physics from history to future fill this room. Such things as the
+steam engine to time travel. Sarnoth's theories and experiences are on display
+with each exhibit shown. With a push of a button, you can warp yourself back
+in time or into the future. Evidence of this discoveries, black holes
+and warping space, are shown in great detail. Even the great Sarnoth himself
+can give you a lecture, simply by activating the hologram image located in the
+back of the room.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9830
+D2
+~
+~
+0 -1 9838
+S
+#9830
+Exhibit of Sarnoth~
+The sheer force of magic in this room knocks you to the floor. You can almost
+feel it, as if it were alive. The walls almost seem to breathe the with force
+of such powerful magic. Weak minded magic users and clerics have gone mad upon
+simply entering the room. Paladins drop to their knees and pray to their gods.
+Antipaladins almost lose control of their powers and struggle to keep them
+in check. You realize that if you don't leave this room soon, you may never
+leave it at all.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9831
+D2
+~
+~
+0 -1 9829
+S
+#9831
+Final Exhibit of Sarnoth~
+Chaos rages all around you, but you can't quite tell what it is. A thick mist
+surrounds you, and everything seems invisible and opaque except for one small
+path leading through the mist. You can hear creatures hissing and snarling at
+you, but they don't dare tread near the path. As you come to the end of the
+path, the mist starts to clear. Sitting alone in a calm magical circle is the
+statue of Sarnoth. The choas cannot penetrate the circle that protects the
+statue. You step into the circle and feel glad you made it.
+
+~
+98 14344 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9830
+S
+#9832
+North West Wing~
+The adventuerers have finally found their goal: the castle of
+The Dark One. No human has ever seen him and lived to tell the
+tale, but the rumors are vicious. He is said to have glowing
+eyes, the strength of a dragon, and the speed unmatched in this
+world. After the holy man has prepared them, the group enters, 
+not sure if they will return or not.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9833
+D2
+~
+~
+0 -1 9828
+S
+#9833
+North West Wing~
+The knight leads the young group through the castle. His eyes and
+his cunning knowledge has already saved them from many of the
+traps set by the Dark One. The traps he missed, however, hurt
+him deeply. The holy man healed all he could of the knight, and
+the power of the wizard keeps him going.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9834
+D2
+~
+~
+0 -1 9832
+S
+#9834
+North West Wing~
+A terrible battle ensues upon entering the Dark One's chamber.
+The knight is repeatedly thrown to the floor, or slammed into a
+wall. Even the wizard struggles with the power of the Dark One.
+At points he cowers on the ground, unable to handle the mental
+strain. The holy man prays to his god, asking for divine help.
+In the end, the Dark One fell, as did his killer, the brave
+knight. The holy man, with the Horn, is able to revive the knight,
+and the three return to end their quest.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9808
+D2
+~
+~
+0 -1 9833
+S
+#9835
+East Wing~
+The wilderness scenes continue into this room. It shows a typical
+fairy tale view of the forest: birds singing, animals playing, 
+and adventurers traveling through. You can hear the sounds of
+nature as you walk through and find it very peaceful.
+~
+98 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9836
+D3
+~
+~
+0 -1 9805
+S
+#9836
+East Wing~
+The scenery takes a turn here. You see a river flowing along the
+ground, and sculptures have popped up here and there. Some are 
+of great warriors and kings, others of noble adventurers that
+discovered this great land.
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9837
+D3
+~
+~
+0 -1 9835
+E
+warrior adventurer~
+The statue of a great adventurer stands here, scanning the room as if
+to look out for the dangers of the forest.
+~
+S
+#9837
+East Wing~
+A boat seemingly floats along the river here, carrying fortune
+seakers towards new treasures and fame. The captain screams at 
+his crew as they scramble to keep the boat going. Lookouts watch
+the sky for the likes of dragons or rocs.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9838
+D2
+~
+~
+0 -1 9836
+E
+captain boat people~
+The boat has a mean looking captain. He has one arm missing, which has
+been replaced with a sword. You can see the dried blood on it, probably from the
+last crewman that disobeyed him.
+~
+S
+#9838
+East Wing~
+This room marks the end of the scenery. It shows the captain and
+his crew departing the boat and heading towards a town. The crew
+looks ready for their leave. The passengers head towards the 
+center of town, hoping to find an inland ride to fortune.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9829
+D2
+~
+~
+0 -1 9837
+S
+#9839
+West Wing~
+The knight has entered the heat of battle. His sword flashes in
+the bright sun. Many men fall at his feet. He has suffered cuts
+and bruises, but he still continues, loyal to the end. As the
+enemy retreats, he follows after, chasing the commander of the
+army.
+
+~
+98 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9806
+D3
+~
+~
+0 -1 9840
+S
+#9840
+West Wing~
+The knight and his company have caught up to the fleeing army and
+begin to cut them down. The commander stops fleeing and signals
+to people behind a hill. From the blue, arrows begin to shower
+the valiant knight and his company. They scream as the arrows
+pierce their heart.
+
+~
+98 14472 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9841
+D1
+~
+~
+0 -1 9839
+S
+#9841
+West Wing~
+The company of the knight has been badly beaten down, having
+their number cut to pieces. The valiant knight has continued
+fighting, an arrow sticking out from his chest, near his heart.
+He refuses to give up, fighting till every last piece of energy
+is expended.
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9842
+D2
+~
+~
+0 -1 9840
+S
+#9842
+West Wing~
+Our valiant knight has begun to fall. They enemy has incircled
+him. He slashes in every direction, trying to take out as many
+as he can. His energy fails, and he falls to the ground, near
+death. The scenery ends with the sound of stampeding horses 
+coming towards the knight.
+
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9802
+D2
+~
+~
+0 -1 9841
+S
+#9843
+Storehouse~
+This basement is used as the storehouse for the museum.
+All the works of art not being displaye are put here
+for future use. Some of the newer art works are kept under
+secrecy down here.
+~
+98 14344 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 9807
+D5
+~
+~
+0 -1 9854
+S
+#9844
+Chamber of the Gods~
+~
+98 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9845
+D1
+~
+~
+0 -1 9843
+S
+#9845
+Chamber of the Gods~
+~
+98 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9840
+D2
+~
+~
+0 -1 9844
+S
+#9850
+The dark and dreary Shadows~
+The room you have entered has a feel of death to it.  Your light source 
+seems almost unable to penetrate the darkness here.  You can feel the 
+presence ot the rooms keeper although he is not immeadiatly visible to you.
+Retreat is a wise move and would not be considered cowerdice.  Remember....
+to flee and live means you can fight another day.  You have been warned.
+~
+98 14345 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 9804
+E
+owner~
+Shadowlord
+~
+S
+#9851
+A dilapidated cardboard box~
+This cardboard box is The Maxx's only home in this plane, apart
+from occasional nights on Julie's sofa - or in the local Jail.
+The sound of rain pelting the box is soothing, but there is a
+definite melancholy air enveloping this place of brooding.
+~
+98 14345 0
+0d0+0 0 0
+D4
+~
+~
+1 -1 9804
+E
+owner~
+Maxx
+~
+S
+#9852
+A dark cave.~
+You enter a large cave that is dark and damp.  You here the low growling 
+of some beast near the back of the cave.  As you continue on the only 
+thing that you see is a large statue with a snarl for a smile.  The 
+cave walls have trails of water running down, forming small pools at the 
+base of the walls. All around you are the bones of adventurers who lost 
+their life, fighting the bear.
+~
+98 14344 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 9807
+S
+#9853
+The Vampiric Lairs~
+A huge, twin sized coffin resides in one corner.  Shadows dance around the
+room as huge candles cast an eerie light in the room.  This whole place
+seems to have just come out of the past.  An old piano fills one corner,
+while paintings depicting the horrors of the night line the wall.
+You notice horrible claw marks in the walls and faded blood stains on
+the floor.  You have entered the pit of evil and now must prepare yourself
+to battle the masters of darkness.
+~
+98 14360 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 9804
+S
+#9854
+Nigel's Temple of Worship~
+===========================================================================
+What a magnificent room you've just entered!  The walls are covered with
+colorful mosaic tiles and the stained glass windows are just stunning.  You're
+inside one of the world's most beautiful monuments, a temple which sole
+purpose is to honor one of the most powerful Gods...Nigel!  The statue
+of this almighty titan stands in front of the altar in a majestic pose.
+The towering monolith looks quite intimidating but in fact...it's harmless
+to those who worships and truly believe in the Great One.  Nigel, himself,
+has sculptured this statue into his image and he gave a part of his soul
+to animate it.  The Statue of Nigel was left here to guard this great
+temple so that the memories of the Great One will never be forgotten.
+===========================================================================
+
+~
+98 14360 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 9843
+E
+owner~
+Nigel
+~
+S
+#9855
+BigH's Lair~
+You enter this little room to discover its owner standing in the shadows,
+murmuring about 'wussboy' and telling you he will be the judge of that.
+It is the lair of the fabled God of Justice, how he got the title it has
+been to long for him to remember, but he still upholds the law of the mud.
+He is not, however, above playing with the morts' thoughts and desires.
+You sense a slight mean streak that appears every once in a while.  He
+gazes at you for the first time, 6'8" with eyes that stare right through
+you, maybe you should go before he takes his aggressions out on you!
+~
+98 14360 0
+0d0+0 0 0
+D1
+The hall of greater lords...
+~
+~
+0 -1 9804
+E
+owner~
+bigh
+~
+S
+#9856
+White~
+The room you have entered seems to stretch off into infinity in all
+directions save the way you entered.  It seems void of color, just a blinding
+white which appears to radiate over the entire area.  All sound seems to be
+absorbed by the vast openess and the silence is almost disorienting.
+~
+98 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 9815
+D1
+~
+~
+0 -1 9815
+D2
+~
+~
+0 -1 9815
+D3
+~
+~
+0 -1 9815
+D4
+~
+~
+0 -1 9815
+D5
+~
+~
+0 -1 9815
+D6
+~
+~
+0 -1 9803
+D7
+~
+~
+0 -1 9815
+D8
+~
+~
+0 -1 9815
+D9
+~
+~
+0 -1 9815
+S
+#9857
+Jahana's Room~
+As you enter this pleasing to the eye room, you see the statue of the one
+and only Jahana, no one else could have those glowing inviting eyes. They
+call to you and beckon you closer, you realize you could tell no lie. There
+is a desk with her paperwork and a small golden scale, a gift from BigH on
+her being his assistant and for her endless and ever appreciated help. The
+room is light and airy and calls you to kick back and relax!
+~
+98 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9803
+E
+owner~
+Jahana
+~
+S
+#9858
+Sheol's dirty apartment~
+You are standing in a cluttered one room apartment.  You see a futon that
+he has been using for years, his wife is nowhere to be found, you might
+want to check south of midgaard.
+~
+98 14353 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 9818
+E
+owner~
+Sheol
+~
+S
+#9859
+Daxx's Sanctum~
+As you enter this room you stop and stare in awe. You can feel the power
+radiate throughout the room. As you look around, you can see this is a place
+of peace and worship. An altar rests in the far end of the room, overshadowed
+by a large cross. Pictures of the worshipped gods reside on the walls, giving
+each person a God to worship. The entire room is underlaid by an enormous
+persian rug. Looking at the near part of the room, you see Daxx, paying close
+attention to many floating crystal balls. You look into the crystal balls and
+see the images of the other statues. Daxx has declared himself the
+protectorate of the others, so has taken it upon himself to watch over them.
+Watching each ball, he stands ready to defend them if necessary. If you dare
+to harm those whom he watches over, prepare to face the wrath of Daxx. 
+~
+98 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 9899
+D3
+~
+~
+0 -1 9817
+D5
+~
+sanctum~
+2 -1 9805
+E
+owner~
+Daxx
+~
+S
+#9860
+Azurel's Haven~
+Tis a peaceful place, this one...  located on a cloud, you can see for miles 
+in every direction. There are spectacular views of the ocean, the mountain 
+ranges and the forests and fields. Several comfortable looking tuffets of 
+cloud are here and there. Further away from the edge of the cloud, there is a 
+grassy area and a lovely clear pond. A small waterfall trickles down into the 
+pond from an unseen starting point. A graceful tree stands beside the pond.
+~
+98 14344 1
+0d0+0 0 0
+D5
+A Hallway that leads to the memorials of adventures who have past on to 
+an immortal state to adventure no longer......
+~
+~
+0 -1 9803
+E
+owner~
+Azurel
+~
+S
+#9861
+Center Ice in Harkin's House O Pain~
+You have entered the skating rink of hell. The protective glass has all been
+shattered to pieces. Bits and pieces of hockey gear lie everywhere. Some even
+have the hockey players that went in them still. Looking at the rink you gasp
+as you notice the lines aren't made of paint, but of blood! It must have taken
+a LOT of bodies to create that much. As you become aware of this, you hear a
+slow gutteral laugh coming from behind you. You whirl to face the noise, and
+already you regret walking into this room. Before you stands Harkin, a literal
+giant in a hockey uniform. He drinks his snapple and eats the bottle. He grins
+at you and says, "You're next!".
+~
+98 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 9818
+E
+owner~
+Harkin
+~
+S
+#9867
+~
+~
+98 0 0
+0d0+0 0 0
+S
+#9891
+~
+~
+98 0 0
+0d0+0 0 0
+S
+#9896
+~
+~
+98 0 0
+0d0+0 0 0
+S
+#9899
+~
+~
+98 0 0
+0d0+0 0 0
+S
+$

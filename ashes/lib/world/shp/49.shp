@@ -1,0 +1,52 @@
+CircleMUD v3.0 Shop File~
+#4900~
+4925
+4927
+4929
+-1
+1.0
+0.5
+-1
+%s What?..We don't have that.  The health department would shut us down.~
+%s Sorry, I don't buy things, I just sell food.~
+%s Sorry, I don't buy things, I just sell food.~
+%s Sorry, I don't buy things, I just sell food.~
+%s You don't have enough money sweetie.  Go ask mommy for more money.~
+%s Here you go!  It cost %d.  Have fun at Pizza Planet!~
+%s You should never see this - %d coins.~
+-1
+0
+4948
+0
+4955
+-1
+0
+25
+0
+0
+#4901~
+4926
+4928
+4930
+-1
+1.0
+0.5
+-1
+%s What?..We don't have that.  The health department would shut us down.~
+%s Sorry, I don't buy things, I just sell food.~
+%s Sorry, I don't buy things, I just sell food.~
+%s Sorry, I don't buy things, I just sell food.~
+%s You don't have enough money sweetie.  Go ask mommy for more money.~
+%s There ya go!  The total was %d.  Drive carefully!~
+%s You should never see this - %d coins.~
+-1
+0
+4947
+0
+4924
+-1
+0
+25
+0
+0
+$~

@@ -1,0 +1,986 @@
+#1200
+The Chat Room~
+A small and cozy chamber is light by a candles and a fire that burns warmly
+in the marble fireplace.  A statue of a cat stands upon the hearth, the light
+reflecting off of its glossy surface.  Two comfortable chairs stand in front
+of the fire, upholstered in a soft, dark green velvet.  A thick carpet of 
+midknight blue with a dark-green leaf pattern covers most of the floor and
+invites you to wiggle your toes in its softness. The floral bouquet which 
+stands on a long table fills the air wonderfully withs its fragrance.
+~
+12 520 0
+0d0+0 0 0
+S
+#1201
+The TIME OUT room.~
+You have been put in this room to take time out and figure out
+exactly why you were put in this room.  Please consider all the
+things you have been doing in the last few minutes.  In a
+few minutes, an Immortal will be with you.  Please treat this
+immortal with the respect due an immortal because remember, the
+ice box is only a step away.
+
+THIS is your warning.
+~
+12 15000 0
+0d0+0 0 0
+S
+#1202
+The Ice Box~
+Here lie the frozen remains of mud players who just couldn't learn to
+play nicely with the other kids in the sandbox.  Let this be a frigid
+reminder to you that the eyes above are watching, ready to cast you into
+the frozen wastelands without so much as a warning should you transgress.
+~
+12 14504 0
+0d0+0 0 0
+S
+#1203
+Reimbursement Room~
+You have been magically summoned here to the Ashes to Ashes
+Reimbursement Room. Please be patient and explain problems fully.
+The staff reserves the right to refuse any and all replacements for good
+reason. As well, items may change over time, so please understand that.
+~
+12 8 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3001
+S
+#1204
+The Board Room of the Immortals~
+You are standing in a spacious, airy room. It is brightly lit, but you fail
+to see any visible light sources. The floor is made of marble, with squares
+of black-streaked and pure white marble set in a complex pattern which you
+are constantly on the verge of grasping. The walls of this room are pure
+white, and are set with many large, floor-length windows which give a
+magnificent view of all the mortal realms. There are several sitting areas
+set up throughout the room, where sofas and chairs upholstered in shades of
+emerald and rose are clustered together to form comfortable nooks, seemingly
+isolated from the rest of the room. In the center of the room stands a large
+table, surrounded by innumerable chairs, where Immortals may meet to discuss
+their not doing anything about the MUD. Set in a place of honor on one of
+the walls is a large board, set within an intricately sculpted frame of pure
+gold. Perhaps you ought to take the time to read what is written upon it.
+
+~
+12 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1217
+D4
+~
+~
+0 -1 1207
+D5
+~
+You see the lower part of this room, and the normal board.
+~
+0 -1 1205
+D9
+A large, yet somehow obscure, door set in the southwestern corner of
+this room leads off to an airy, well lit lounge for off-duty crew.
+~
+door~
+2 -1 1210
+S
+#1205
+The Lower Board Room of the Immortals~
+This room is very similar to the room above.  It has the same patterned
+marble floor, the same emerald and rose color scheme, and it too
+has the large, floor-length windows.  However, this room comes
+across as being much more informal than the room above.  The furniture
+is arranged in casual groupings which look like they change quite 
+often.  Music is playing softly in the background, and there is a bar
+over in the corner where you can grab a glass of your favorite brew
+and kick back and relax.  In one corner of the room there is an elegant
+marble stairway which winds it's way down to the Temple of Midgaard.
+But why bother going down there when you can hang out up here?
+~
+12 12 0
+0d0+0 0 0
+D3
+A well screened inter-dimensional portal hangs quietly in the air here.  You
+have no idea where it could possibly lead...
+~
+portal fractal sex drugs rock'n'roll~
+0 -1 1206
+D4
+You see the main Immortal Board Room at the top of the spiral staircase
+~
+~
+0 -1 1204
+S
+#1206
+The Quest Chamber~
+With notepads, sheets of paper, and computer printouts going a mile a minute,
+you can see that the place is a disaster area.  Every now and then you see
+someone come by to read a printout, scratch his head, and grumble to himself.
+Looking around you see pictures from past quests and ideas of quests yet to
+come.  Perhaps yours will be done soon.
+~
+12 8 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 1205
+D4
+
+~
+~
+0 -1 1204
+E
+sign quest~
+The bulletin board is here for you to place your ideason. Be our guest and
+use it freely. Signed, The Questmasters of Ashes to Ashes.
+~
+S
+#1207
+The Upper Board Room of the Immortals~
+This room is quite large, but it is very dark and has a musty smell.
+The paint on the walls is cracked a bit, and there are spider webs
+festooned across the ceiling.  It looks as though this room has been
+abandoned for some time, and you get the feeling that even in it's
+prime, this room didn't see much action.  Perhaps this room serves
+best as a monument to a good idea taken a bit too far.
+~
+12 156 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 1204
+S
+#1208
+~
+
+~
+12 6156 0
+0d0+0 0 0
+S
+#1209
+~
+
+~
+12 6156 0
+0d0+0 0 0
+S
+#1210
+A quiet lounge for off-duty construction crew~
+Spare steel beams and transparent plate glass walls help to give this lounge
+an airy, open feel by letting in large quantities of bright, ambient light!
+A low iron railing frames a square window cut into the center of the floor,
+around which are clustered comfortable sofas and coffee tables. Looking over
+the railings gives one a breathtakingly beautiful view of the world below.
+~
+12 12 0
+0d0+0 0 0
+D6
+~
+door~
+2 -1 1204
+S
+#1211
+The River Phoenix~
+"HEY!! What are you doing in here? At least let me get my feathers
+on before you barge in like that.. (tum tee tum).  Okay, how do I
+look?  FABULOUS!! Have a seat!"
+
+You see a giant feather bed (few ashes on there never hurt anyone)
+in one corner and a fire extinguisher right beside it.  (When Phoenix
+rises.. you can bet that little darlin' will come in mighty handy!)
+
+"Thanks for stoping by.. and uh, call first next time, huh?
+Love ya Buh-Bye now!"
+
+Phoenix waves happily.
+~
+12 4104 0
+0d0+0 0 0
+S
+#1212
+Asita's Lair~
+Misty waters of the winedark sea thunder against the white stone plateaus
+that reach up through the clouds.  These plateaus are filled with warm sky
+blue water and line the entrance to a cave.  Inside this cave that is
+surrounded by pools of water are many elaborate rugs, and plush skins for
+lounging.  At night, when the sky grows dark, the lair walls illuminate with
+the galaxy beyond.
+~
+12 14344 0
+0d0+0 0 0
+S
+#1213
+The Cimp+ Hangout~
+You see a large mirror, reflecting your face with a toothy grin.
+Much prettier than ascii.
+~
+12 1044 0
+0d0+0 0 0
+S
+#1214
+Kaitlin's Hideaway~
+You have entered a quiet, secluded cottage in the forest.  A warm, inviting
+fire burns in the hearth to welcome home the occupants of this place. The
+drapes move softly as a fresh breeze blows in off the sparkling clear waters
+of the lake outside.  The comfiness of this place makes you want to stay and
+visit so make yourself at home.
+~
+12 4624 0
+0d0+0 0 0
+S
+#1215
+Gailen's room~
+~
+12 0 0
+0d0+0 0 0
+S
+#1216
+Morphine's room.~
+~
+12 4108 0
+0d0+0 0 0
+S
+#1217
+The coding announcement room~
+You find yourself in a vast room filled with all kinds of junk.  You
+see numerous computers, stacks of books on various programming languages,
+miles of printouts, and a lot of coffee machines, Mountain Dew bottles and 
+pizza boxes.
+There are several people bent over keyboards typing frantically,
+trying to improve the mud code.  Occasionally one of them curses and
+slams his or her fist on the keyboard in frustration.
+~
+12 24 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1204
+S
+#1218
+Backstage at the Alanis Morissette Concert~
+As you materialize, you suddenly come to the realization that you have not
+only been summoned, but that your soul has been plucked out of its mortal
+coil and has been deposited here, in what appears to be a dressing room
+backstage at a huge concert hall. You are slowly bathed in soothing white
+light. You shield your eyes from the glow, and can barely make out a mighty
+throne, engraved along the top with the words, "Smokin' HoT!" The smell of
+fresh oranges overwhelms you, and, if you listen closely, the sounds of
+Vivaldi wafting from this bright room reach out and touch your heart. All at
+once, the sense of despair you first felt is dispelled, and you feel as
+though you could stay forever. A bright yellow lava lamp glows silently in
+the corner. There is a huge mirror from end to end of the room. Out of
+nowhere, you recognize the haunting voice of the Immortal Goddess, Alanis,
+and a shiver runs up your spine...
+~
+12 22528 0
+0d0+0 0 0
+D5
+
+~
+~
+0 -1 3072
+S
+#1219
+MidKnight's Study~
+The first thing you notice as you arrive is the total darkness of
+this room.  Well, not total darkness, as your eyes adjust you can
+see a gentle light coming down from above.  You look up, expecting
+to see a skylight, and instead see the sky.  Stars stretch out in
+every direction for as far as the eye can see, and the moon shines
+down, keeping watch over all the sleeping world.  As you look around
+the walls and floor of this place appear out of the darkness, long
+shadows trailing behind them.  On the walls are rows and rows of
+well crafted, leather bound books, on all topics imaginable.  Comfy
+yet formal chairs sit around a small table off to one side of the
+room.  In the corner is MidKnight's computer desk, with a seven pointed
+star hanging in the air over it.  MidKnight walks around his domicile,
+not noticing the lack of light.
+~
+12 16 0
+0d0+0 0 0
+E
+star~
+Looking at the star, it seems to glow and hum before your very eyes.
+There is a snake coiled into the sign of infinity in the center, biting
+it's own tail like the great serpent Uroborus.  The star seems at first
+to be a normal six pointed star, but looking carefully you notice that
+there are actually seven points.  As you move closer, you think you notice
+movement out of the corner of your eye... did that snake move?
+~
+S
+#1220
+Azuth's Tower~
+This room is the zenith of the brilliant column of pure energy which is
+Azuth's Tower. Small arcs of electricity swirl from the walls to the floor
+and celing of the chamber, as well as about the furniture and various shelves
+which adorn the area. A faint but pleasant humming comes from all around, and
+there is a hint of ozone in the air here. Easily the most distinguishing
+feature of Azuth's abode is an immense sapphire table resting in the center
+of the room, behind which sits a chair of obsidian. A large tome is lying
+open on the table, collecting dust. The northeastern corner of the room
+contains a curious shimmering curtain, much like you'd expect to find in a
+bank vault...
+~
+12 6152 0
+0d0+0 0 0
+D6
+Ah, you'd probably just hit your head against the wall as you attempted that
+feat. Then again...
+~
+curtain~
+2 -1 3072
+E
+walls wall floor celing~
+Funny, they don't LOOK like pure energy.
+~
+E
+bank vault~
+Yes, but it ISN'T a bank vault.
+~
+E
+saphire~
+Sapphire has two p's in it, dolt.
+~
+E
+tome book~
+It appears to be a large spellbook. Right now it's open to a page entitled,
+"Tashia's Ludicrous And Rediculous, Foolishly Ineluctable, And Yet Actually
+Somewhat Useful And Amusing In A Few Random Situations Which Might Not
+Involve Penguins, Incantation (Enchantment/Charm)". Hmm, must be powerful.
+~
+E
+chair obsidian~
+The obsidian chair isn't much more than a big block of obsidian cut into a
+shape which is suitable to sit in.  It doesn't look very comfortable.
+~
+E
+sapphire table~
+There's nothing special about the immense sapphire table.
+~
+E
+ozone~
+You look very closely at the ozone. It looks like this:   + -
+                                                        O=O-O
+~
+E
+arcs arc electricity lightning~
+A small blue crackle of electricity appears momentarily, then vanishes.
+~
+E
+furniture shelves shelf~
+The shelves are neatly lined with books, and the furniture is placed in such
+a way to make it easy to reach almost any book without getting up.
+~
+E
+shimmering curtain~
+Ah, you'd probably just hit your head against the wall as you attempted that
+feat. Then again...
+~
+E
+zenith~
+You don't see a Zenith 27 inch television here.
+~
+S
+#1221
+Room of Pain~
+You are in a room filled with all types of mudder torture devices.  The
+most prevalant one is a rack.  It is lined with spikes and has some leather 
+wrist cuffs with more metal spikes lining the inside.  These are attached
+to four cranks which look like they have been engineered to turn easily.
+Among the other items in this room are various whips, hot pokers glowing in
+the fire, and various enlongated knifes.  Truly a place no mudder wants to
+be.
+~
+12 6211 0
+1d0+0 0 1
+E
+rack table spikes~
+You see a beautifully crafted mahogony rack.  It's your standard rack
+but it looks like the person who made it put loving time and effort
+into each of the gold embossed carvings of bludgeoned mudders, 
+pierced mudders, and just being plain tortured mudders into the varn-
+ished unsanded rack.
+~
+S
+#1222
+Frosty's Winter Wonderland~
+This place seems to be an endless expanse of snow-covered land. One could not
+tell for sure however, because of the raging blizzard that eternally
+encompasses these lands known as Snowville. The snow here is up to your
+knees, and is beginning to numb out the lower portion of your legs from the
+intense cold. Amidst all the snow however, stands a magnificent throne,
+seemingly created, and elegantly fashioned of solid ice. This throne,
+belonging to the god of winter, Frosty himself, is said to be so cold, that
+if anyone beside he were to sit upon it, they would instantly be frozen into
+a solid statue of ice, of which would be placed among the others in Frosty's
+trophy room within his great Ice Palace.
+~
+12 14408 0
+0d0+0 0 0
+S
+#1223
+Starfall's sanctum~
+A small comfortable room. A warm bed in the corner, a scarred wooden desk and
+comfortable chairs make this his home. Papers and books give this a well
+lived in look. Only his closest friends are allowed here Here, he begins his
+adventures into the world beyond
+~
+12 28 0
+0d0+0 0 0
+E
+desk~
+Scarred and worn, Starfall treasures this desk once used by his father
+~
+E
+bed~
+Warm and cozy covered with a quilt given to him with love by his grandmother.
+~
+S
+#1224
+The Studio~
+This is Sargon's favorite place, his space at the craft center.  Two large
+tables define the north and south boundries.  On these tables are several
+clay vessels in various stages of completion.  The concrete wall to the east
+is covered with posters.  Against the wall is a desk full of clay tools and
+ceramics books.  Next to the desk is a large garbage can of aging clay and
+several recycle buckets.  The western border is a heavy shelving unit full
+of completed ceramic wares.  In the center of the floor is a crappy Shimpo
+throwing wheel.
+~
+12 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1204
+S
+#1225
+Howitzer's Room~
+~
+12 0 0
+0d0+0 0 0
+S
+#1226
+Sarnoth's Grove~
+  All around you is a thick mist, but a warm fire keeps it away. Within it's
+light it is warm and dry despite the weather. There are a few log benches
+near the fire, and a bag of marshmallows and several perfect toasting sticks
+rest near one of the benches. A little farther away, just close enough to
+keep you comfortably warm all night, are several sleeping bags. A small
+stream at the edge of the mist sparkles under the light of a crescent moon
+and stars, which also shine on this place in any weather. The gurgling of the
+stream, the crackle of the fire, and the rustle of the wind in the trees all
+combine to lull you into total relaxation.
+~
+12 4108 0
+0d0+0 0 0
+S
+#1227
+Tindalos' Groove~
+The corners of time must, at one point, collide with one another.
+This is the area where time is most vulnerable to the hounds... Yes, the
+hounds that can smell your future and hunt your past, the hounds that
+may destroy your mortality before you were mortal.
+The hounds that control the past, the future, and the present all at once.
+
+This is the room.  Built of obtuse angles that defy the laws of physics.
+This is where the master of the corners of time will sit, will wait,
+and will remember when the hounds shall come.  This is the empty
+room of the present.  This is the convergence of the corners of time.
+~
+12 8 0
+0d0+0 0 0
+S
+#1228
+Meribah's Bedroom Office.~
+His room appears well used, and some might say broken.  A large oak computer
+desk rests in the center, and a matching book shelf is supported by the
+southern wall.  A suit of lamellar with a barbute helmet peers at you from
+the northeastern corner.  From the ceiling a Storvik tabard and Blackspear
+household cross hang proudly. Armor and sewing materials litter the floor.
+~
+12 24 0
+0d0+0 0 0
+E
+cross~
+It appears to be a celtic cross, and the silvery has blackened with tarnish.
+~
+E
+tabard~
+The blue and white tabard is scarred with rips and bood stains.
+~
+E
+desk~
+You see a small label entitled "Bush."
+~
+E
+lamellar~
+It has been built well, and the blackened leather plates are very tight, with
+white lacing holding them together.
+~
+E
+shelf~
+Many military strategy, forensic science, and army books dominate the shelf.
+~
+E
+barbute~
+The helmet has been made by the master armorer Johan Bleah.
+~
+S
+#1229
+The Shattered Remains of Neo-Tokyo~
+You find yourself standing amongst piles of rubble and charred
+corpses. You look all around only to see death, destruction and chaos.
+There appears to have been some sort of holocaust, but god only knows
+what could cause this much damage this quickly. You don't feel very
+safe here..
+~
+12 16385 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3062
+D3
+~
+~
+0 -1 3000
+D4
+~
+~
+0 -1 1204
+D5
+~
+~
+0 -1 3072
+S
+#1230
+Eomer's Exotic Expanse~
+   Imagine yourself in space  when suddenly you see a bright point of light.
+That bright point then rushes outward forming a brilliant line in the vast
+darkness of nothingness before you. The line grows thicker untill it
+separates and forms a square floating about you, which in its turn grows
+larger and separates into two, no, 6 squares, all forming a cube. This cube
+then starts phasing in either time, or with another dimension, forming a
+hypercube. This hypercube is where Eomer is, if you can concentrate enough,
+you may see him.
+~
+12 16 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 1204
+S
+#1231
+Seekers room..~
+He will change this as soona s he get's time
+~
+12 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 3062
+E
+window~
+Looking out the big picture window, you see a beautiful view.  Maeve's
+window looks down a large, rolling hill.  The grass is green and snooth
+yet, though it is obviously autumn.  The hill rolls down to a large
+lake, sparkling and glistening in the afternoon sun.  There are many trees,
+all of them covered with spectacular foliage of red and orange and yellow.
+In the field beside the lake, you spy two deer.  Straining your eyes,
+you can see that one sports a maginifcent rack, while the other, smaller
+one, does not.  The deer stoop to drink from the lake, then turn and
+wander together into the woods.  There is a slight breeze, which ruffles
+the colored leaves and makes ripples on the water.  All in all, it is
+a perfect day.
+~
+E
+poem~
+Listen, will you learn to hear me from afar?
+It's a question of inclining the heart more than
+the ear.
+You'll find bridges in yourself, and roads
+To reach all the way to me who waits and stares.
+
+What does it matter, the Atlantic's width.
+The fields, woods, mountains between us two?
+One by one they'll have to give up on that day
+You turn your eyes this way.
+
+Jules Superville
+~
+E
+kiss~
+I saw you take his kiss! "'Tis true."
+O, modesty! "'Twas strictly kept:
+He thought me asleep, at least I knew
+He thought I thought he thought I slept."
+~
+E
+storm~
+Hanging on the wall you see a beautiful painting.  Titled 'The Storm'
+and painted by French artist Pierre Auguste Cot, the painting shows two
+figures, a young man and a young woman.  She is clad in a long, totally
+transparent dress of pure white.  He is barechested, with short pants
+clinging to his waist and a hunting horn hung at his side.  Both are
+barefoot, and they hold his shirt above their heads to shield them
+from the first droplets of rain.  They are running along a narrow path,
+both peering behind them, over their shoulders, to get a glimpse at 
+the storm which has runied their clandestine meeting.
+~
+S
+#1232
+Mighty's Office~
+~
+12 0 0
+0d0+0 0 0
+S
+#1233
+The graveyard of Lost Souls~
+This is a large graveyard with many different headstones. Each headstone
+represents a different friend that kasmiur has left behind in the past. Some
+many people so many different ideas and dreams along with them. Hopefully
+there will be no more in the future and you will definatly not be one left in
+the past but one that travels along in the future.
+~
+12 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 -1
+D5
+~
+~
+0 -1 1204
+D9
+~
+~
+0 -1 3072
+E
+Kerstin Bartolo~
+Kerstin and bartolo were the favorite clan bots that helped newbies along the
+way.
+~
+E
+ripclaw~
+This was the old leader of CYBERFORCE now long gone and no more. hopefully he
+will be proud of what kas has done with the clan with kasmiur as the head
+runner.
+~
+S
+#1234
+Drazzst's Cave~
+This cave is rather neat.  There are a bunch of books sitting on a makeshift
+bookshelf, carved into the stone of the cave wall by some industrious fellow.
+There are two sets of cushions, arranged in such a way so that something
+might sleep on them.  One o f them is a beautiful deep maroon.  The other is
+a majestic purple.  There is a sign over the purple cushions.
+~
+12 153624 0
+0d0+0 0 0
+D6
+There is a dark hole here.
+~
+hole~
+1 -1 1208
+E
+Sign~
+The Sign reads: This is Gwyn's cushion.  DON'T EVEN THINK OF SLEEPING HERE OR
+SHE'LL MESS YOU UP!!!
+~
+S
+#1235
+Sonya's room~
+This is Sonya's room.. she will change this once she has done olc.
+~
+12 0 0
+0d0+0 0 0
+S
+#1236
+Shifter's Tower~
+   The modern equivalent of the stereotypical wizard's tower, this place looks
+like the best place for the magi-technically oriented. While one wall is lined
+with ancient spellbooks, another contains rack upon rack of CD-ROM's,
+containing Gigabytes of digitally stored spells. A really powerful-looking
+enchanted laptop computer sits on a futuristic desk. The enspelled ethernet
+link allows lag-free internet access 24/7. You could spend weeks in here
+without ever getting bored. 
+~
+12 6216 9
+0d0+0 0 0
+S
+#1237
+South-Eastern tower of Castle Zykos~
+A pleasant and well kept room at the top of the tower.  It overlooks the
+grasslands to the south and west, and mountains to the east and north.
+~
+12 24 0
+0d0+0 0 0
+E
+north east mountains~
+You see the purple-gray mountains of the planet Terraron.  No mortal has
+ever gazed upon such a sight.
+~
+E
+west south grasslands ~
+You see the grasslands of the planet Terraron.  A place no mortal has 
+ever walked.
+~
+S
+#1238
+Billybob's Room~
+~
+12 6152 0
+0d0+0 0 0
+S
+#1239
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1240
+Althor's Ancient Aes Sedai Platform~
+Fire bursts from every pore of your body, burning through your meak armor.
+Even as you open your mouth to scream, a gateway opens right where you stood.
+Bloody halves of your burning body fall to the ground.  Althor stands here
+staring not into the blackness, but at a great columned hall with lion-carved
+stone panels, where his eternal enemy sits upon a guiled throne.  Sending
+fire and lightning ahead of him, Althor steps from his platform through the
+gateway as it closes behind him.  He WAS death.
+~
+12 24 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1204
+D5
+~
+~
+0 -1 3072
+S
+#1241
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1242
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1249
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1250
+Hysteria's Grid~
+There's nearly a foot of water on the floor in this room and the walls are
+lined with antique air-break high-voltage switches.  In the corner stands a
+huge transformer, which is humming at a teeth-rattling volume. CAUTION signs
+are stuck on nearly everything in here.  The walls, ceiling, and floor are
+constructed entirely of metal, as a grounding grid, due to the high levels of
+static electricity.
+~
+12 14344 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 3090
+D1
+~
+door~
+1 -1 3050
+D2
+~
+door~
+1 -1 3048
+D3
+~
+door~
+1 -1 3051
+D4
+~
+door~
+1 -1 3056
+D5
+~
+backtomortlandyouphreak~
+6 -1 3072
+S
+#1251
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1254
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1255
+CC's Cave~
+You enter a large room carved from an underground cave that is filled with
+computer screens. In the center of the room, you see a HUGE screen in the
+center that has all sorts of operations. To the right you see a large car
+thats all black... Wait a minute! Isnt that the Batmobile!
+~
+12 6152 0
+0d0+0 0 0
+S
+#1260
+HigherAnarchy's Castle of Chaos~
+As you step into the castle, all hell breaks loose. You feel your body
+mutating into a state unlike anything you have ever experianced. After a few
+moments of this chaotic state, you feel much better however, and owe it to
+the tequila you drank last night.   Finally, after a long maze, you arrive at
+the meeting room of HigherAnarchy. Taking up most of the room is a huge
+marble table with big friendly letters on it saying, DON'T PANIC.  Huge
+leather executive chairs cover all edges of the table.
+~
+12 14344 0
+0d0+0 0 0
+S
+#1265
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1269
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1277
+Wybaar's sanctuary~
+This room is a comfortable library.  You feel a little cool in here, but
+that's how Wybaar wants it. There is a computer on the desk, it hums with
+power.  Most of the titles on the shelves are mathematics texts. One in
+particular catches your eye.  It is entitled "The Solution to Every
+Mathematical Problem You Will Ever Encounter." You try to sneak a peek at the
+book, but you can't read any of the writing inside.  Sorry :)
+~
+12 8 0
+0d0+0 0 0
+D0
+This is a door to the Ice Box.
+~
+~
+0 -1 1202
+D1
+This is a door to the Lower Board Room of the Immortals.
+~
+~
+0 -1 1205
+D2
+This is a door to the Quest chamber.
+~
+~
+0 -1 1206
+D3
+This is a door to a quiet lounge for off-duty construction crew.
+~
+~
+0 -1 1210
+D4
+This door leads to the area near the Temple altar.
+~
+~
+0 -1 3054
+D5
+This door leads to the Temple of Midgaard.
+~
+~
+0 -1 3072
+S
+#1280
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1281
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1290
+Rigbyd's Habitat~
+You stand in the middle of a gross looking apartment room. Clothes are strewn
+about the floor, and you can see empty pizza boxes cluttering what isnt
+covered by the clothes. In the background a stereo is blaring Korn at full
+volume. In the middle of the room is a TV set which looks unused, in front of
+it a beat up couch. The whole highlight of the room is the corner where an
+awsome looking computer sits. It almost looks like who ever got this thing
+must have stole it from NASA or a military agency. CD's and disks are lying
+about all over in that corner and the one desk is covered with manuals and
+help books. Through the dim light, in front of the computer so see someone
+bent over pounding away at the keys furiously. You wonder who it is.....
+~
+12 14336 0
+0d0+0 0 0
+S
+#1292
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1295
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1296
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1297
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1298
+~
+~
+12 0 0
+0d0+0 0 0
+S
+#1299
+~
+
+~
+12 8 0
+0d0+0 0 0
+S
+$

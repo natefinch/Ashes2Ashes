@@ -1,0 +1,190 @@
+#25600
+The Beginning of the Light Woods~
+You blink quickly and realize the woods are now somehow differant. You feel
+as if you are no longer where you were a moment ago. You decide to shrug this
+feeling off and continue your exploration of the forest.
+~
+256 68 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 25601
+S
+#25601
+Among the Trees of the Light Forest~
+You are here among the many trees of the lighter portion of Blackstone
+Forest. Everything seems so peaceful and serene. You see animals scurry about
+the ground in search of food. Leaves rustle here and there as a soft breeze
+blows thorugh the trees. You like this place, but something doesn't feel
+quite right, kind of like you're not the only intelligent being in the woods.
+~
+256 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 25602
+D2
+~
+~
+0 -1 25600
+S
+#25602
+Among the Trees of the Light Forest~
+You are here among the many trees of the lighter portion of Blackstone
+Forest. Everything seems so peaceful and serene. You see animals scurry about
+the ground in search of food. Leaves rustle here and there as a soft breeze
+blows thorugh the trees. You like this place, but something doesn't feel
+quite right, kind of like you're not the only intelligent being in the woods.
+You appear to be standing at a junction of paths in the woods.
+~
+256 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 25605
+D2
+~
+~
+0 -1 25601
+D3
+~
+~
+0 -1 25603
+D5
+~
+door trap secret~
+6 25608 25609
+S
+#25603
+Among the Trees of the Light Forest~
+You are here among the many trees of the lighter portion of Blackstone
+Forest. Everything seems so peaceful and serene. You see animals scurry about
+the ground in search of food. Leaves rustle here and there as a soft breeze
+blows thorugh the trees. You like this place, but something doesn't feel
+quite right, kind of like you're not the only intelligent being in the woods.
+The path turns south here.
+~
+256 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 25602
+D2
+~
+~
+0 -1 25604
+S
+#25604
+Among the Trees of the Light Forest~
+You are here among the many trees of the lighter portion of Blackstone
+Forest. Everything seems so peaceful and serene. You see animals scurry about
+the ground in search of food. Leaves rustle here and there as a soft breeze
+blows thorugh the trees. You like this place, but something doesn't feel
+quite right, kind of like you're not the only intelligent being in the woods.
+It appears that the path you were following dead ends here. Oh well, better
+turn around!
+~
+256 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 25603
+S
+#25605
+Among the Trees of the Light Forest~
+You are here among the many trees of the lighter portion of Blackstone
+Forest. Everything seems so peaceful and serene. You see animals scurry about
+the ground in search of food. Leaves rustle here and there as a soft breeze
+blows thorugh the trees. You like this place, but something doesn't feel
+quite right, kind of like you're not the only intelligent being in the woods.
+~
+256 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 25606
+D3
+~
+~
+0 -1 25602
+S
+#25606
+Among the Trees of the Light Forest~
+You are here among the many trees of the lighter portion of Blackstone
+Forest. Everything seems so peaceful and serene. You see animals scurry about
+the ground in search of food. Leaves rustle here and there as a soft breeze
+blows thorugh the trees. You like this place, but something doesn't feel
+quite right, kind of like you're not the only intelligent being in the woods.
+The path turns south here.
+~
+256 0 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 25607
+D3
+~
+~
+0 -1 25605
+S
+#25607
+Among the Trees of the Light Forest~
+You are here among the many trees of the lighter portion of Blackstone
+Forest. Everything seems so peaceful and serene. You see animals scurry about
+the ground in search of food. Leaves rustle here and there as a soft breeze
+blows thorugh the trees. You like this place, but something doesn't feel
+quite right, kind of like you're not the only intelligent being in the woods.
+The path turns to the west here.
+~
+256 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 25606
+D3
+~
+~
+0 -1 25608
+S
+#25608
+Next to a Pond in the Light Woods~
+You are here among the many trees of the lighter portion of Blackstone
+Forest. Everything seems so peaceful and serene. You see animals scurry about
+the ground in search of food. Leaves rustle here and there as a soft breeze
+blows thorugh the trees. You like this place, but something doesn't feel
+quite right, kind of like you're not the only intelligent being in the woods.
+Directly next to you, you see a small clear pond. The occasional fish jumps
+out of the water disturbing it's glasslike surface. You kind of wish you
+could take a swim, but considering you know nothing about this place, you opt
+not to risk it.
+~
+256 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 25607
+S
+#25609
+The Woodlander's Secret Keep~
+You are standing in a musty underground room. All around you you see various
+tools and objects that the people of the woods use in their daily lives. You
+see swords, gloves, torches, and other things. In the flickering light, you
+can just barely make out some rats scurrying about on the floor.
+~
+256 8 0
+0d0+0 0 0
+D4
+~
+door trap secet~
+6 25608 25602
+S
+$

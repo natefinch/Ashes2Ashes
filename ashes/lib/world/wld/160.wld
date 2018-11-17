@@ -1,0 +1,1198 @@
+#16000
+~
+~
+160 0 0
+0d0+0 0 0
+S
+#16001
+Lost at sea~
+  You have run into the biggest storm you have ever seen! Waves crash against
+your boat and soak you to the bone. You look around for any signs of shore
+and see nothing but the darkness of the storm.
+  But you feel you must go on, and quickly decide which way to go from here.
+~
+160 1 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 16002
+D1
+~
+~
+0 -1 16002
+D2
+~
+~
+0 -1 2320
+D3
+~
+~
+0 -1 16003
+D6
+~
+~
+0 -1 16002
+D7
+~
+~
+0 -1 16002
+D8
+~
+~
+0 -1 16001
+D9
+~
+~
+0 -1 16001
+S
+#16002
+Lost at sea~
+Boy it's raining! The term 'in buckets' seems to reflect this storm
+perfectly. The sea itself is really getting rough, and waves are crashing
+into your boat and soaking you to the bone. (And you just showered too!)
+  Looking about, the only thing you can see is darkness, and of course the
+rain. You start to wonder if venturing out to the sea was such a good idea
+in the first place...
+~
+160 1 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 16002
+D1
+~
+~
+0 -1 16001
+D2
+~
+~
+0 -1 16002
+D3
+~
+~
+0 -1 16002
+D6
+~
+~
+0 -1 16051
+D7
+~
+~
+0 -1 16002
+D8
+~
+~
+0 -1 16001
+D9
+~
+~
+0 -1 16002
+S
+#16003
+Lost at sea~
+  You still can't see anything, and the storm seems to be getting worse.
+You start to wonder if you'll ever make it to shore again as all you 
+can see is the storm with no light in sight. You then see a 15 foot wave
+about to crash into your boat, and think "I was safer at home!"
+~
+160 1 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 16004
+D1
+~
+~
+0 -1 16001
+D2
+~
+~
+0 -1 16002
+D3
+~
+~
+0 -1 16003
+D6
+~
+~
+0 -1 16003
+D7
+~
+~
+0 -1 16003
+D8
+~
+~
+0 -1 16002
+D9
+~
+~
+0 -1 16002
+S
+#16004
+Lost at sea~
+  Your stomach is queezy, you face is green, and right now the term 'wet'
+does not begin to describe how wet you really are. As you feel a cold 
+comming on, you figure that you'd better stick this storm out, as you
+think hope may come soon. (Unless that light you're seeing now is not the exit
+of the storm, but the light at the end of the tunnel...)
+~
+160 1 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 16001
+D1
+~
+~
+0 -1 16003
+D2
+~
+~
+0 -1 16004
+D3
+~
+~
+0 -1 16002
+D6
+~
+~
+0 -1 16001
+D7
+~
+~
+0 -1 16005
+D8
+~
+~
+0 -1 16002
+D9
+~
+~
+0 -1 16002
+S
+#16005
+Lost at sea~
+  Your strength is failing, your vision is weak, and you're getting really
+ticked off at this storm! It's not like most tropical storms where you
+get tossed about while on a 3 hour tour, no, but for some reason you beleve
+this is no natural storm. (Or mabey thats just you imagination playing
+tricks on you...) 
+  Time seems to stand still as you do feel the storm easing a bit, but still
+feel like a tossed salad. Mabey land is close by?
+~
+160 1 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 16002
+D1
+~
+~
+0 -1 16002
+D2
+~
+~
+0 -1 16002
+D3
+~
+~
+0 -1 16004
+D6
+~
+~
+0 -1 16006
+D7
+~
+~
+0 -1 16002
+D8
+~
+~
+0 -1 16001
+D9
+~
+~
+0 -1 16003
+S
+#16006
+Lost at sea~
+  The rain has tapered off to a heavy shower, but the clouds still hide the
+horizon. Still you press on, hoping that somewhere out here in this land of
+water, there is a small spot of land to find, and castaway (hint, hint)
+all the problems of the real world of adventuring.
+~
+160 1 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 16007
+D1
+~
+~
+0 -1 16001
+D2
+~
+~
+0 -1 16002
+D3
+~
+~
+0 -1 16005
+D6
+~
+~
+0 -1 16003
+D7
+~
+~
+0 -1 16002
+D8
+~
+~
+0 -1 16001
+D9
+~
+~
+0 -1 16002
+S
+#16007
+The beach~
+ You made it! You have reached dry land! You kneel down and kiss the sand
+you stand on. (Choking out sand a few moments later...) You then look
+about at the beach you're on. Well, its sandy, and to your east is the 
+wreck of another boat with large gaping holes in the side. You make out
+the words SS MINNOW on its side and try to remember where you've heard
+that name before.
+  The beach continues to the west and to the northeast as far as you can
+see. But you can't help but wonder what's in the wrecked boat...
+~
+160 5 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 16008
+D2
+~
+~
+0 -1 16001
+D3
+~
+~
+0 -1 16009
+D6
+~
+~
+0 -1 16010
+S
+#16008
+Inside the SS MINNOW~
+  You stand inside the wreck of the SS MINNOW and looking around, you would 
+have to say it really is a wreck! Junk lays scattered about this area, 
+including pieces of splintered wood, chunks of glass and metal, and shreds
+of some sort of material which you believe to be sail.
+  However, you hear a silent silthering sound behind you and turn to see
+5 very large snakes creaping towards you, eyeing you as their next meal...
+~
+160 1 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 16007
+E
+examine wood~
+Its wood alright, yep....wood, no questions there....plain old wood.
+~
+S
+#16009
+On the Beach~
+  You are on a seemingly never ending stretch of beach, which runs from west
+to east.
+~
+160 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 16007
+D3
+~
+~
+0 -1 16013
+S
+#16010
+Along the beach~
+  Its hot, damn hot!, Real hot! Hot enough to cook eggs on cement! (If
+you knew what cement was...but that wont be invented for a while yet.)
+You get the picture, and to make matters worse, the beach looks like it
+has no end to it. It just keeps going, and going, and going...
+~
+160 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 16011
+D9
+~
+~
+0 -1 16007
+S
+#16011
+Along the beach~
+  Well, its a beach, its a very LONG beach, and you wonder when the forest
+which seems immpenatrable will show a weak point, or prehaps a trail of
+somesort..
+~
+160 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 16010
+D6
+~
+~
+0 -1 16012
+S
+#16012
+Along the beach~
+ You are on a stretch of beach which seems to never end...
+~
+160 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 16020
+D9
+~
+~
+0 -1 16011
+S
+#16013
+Along the beach~
+  You knew you should have brought some sun block with you, cause this sun
+is REALLY hot! Your face and any other exposed part of your body is a bright
+red colour and hurts like hell! But still you press on, wondering if there 
+is any life on this island.
+~
+160 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 16014
+D1
+~
+~
+0 -1 16009
+S
+#16014
+Along the beach~
+  The sun is at its peek now, and it must be about 40 degrees out here!
+(110 degrees in the states..;) But BOY is it hot...it's so hot you'd love
+to take off all your armor, and jump in the ocean, but your curiosity wants
+to know if there is any life on this island.
+~
+160 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 16013
+D7
+~
+~
+0 -1 16015
+S
+#16015
+Along the beach~
+  You are still traveling along a VERY long beach which seems to go on 
+forever. There is very few signs of life besides the obvious vegitation
+of the forest which is immpassable even by the finest trained rangers.
+~
+160 0 2
+0d0+0 0 0
+D7
+~
+~
+0 -1 16016
+D8
+~
+~
+0 -1 16014
+S
+#16016
+Further along the beach~
+  You now have made the decision that you will never cook another thing in
+an oven again, because now you know how it feels to be under the broiler!
+But still, you've gone this far, you might as well keep on going till you
+find whatever it is you expect to find...
+~
+160 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 16017
+D8
+~
+~
+0 -1 16015
+S
+#16017
+Further along the beach~
+  You feel you are getting closer to you destination, where ever that place
+is, and you REALLY hope it was worth this long, painful walk along the beach.
+~
+160 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 16018
+D9
+~
+~
+0 -1 16016
+S
+#16018
+Further along the beach~
+  Why are you here? Why are you baking you brains out in the sun for so
+long? Why are you talking to yourself? You don't really know!!! Right now
+the only thing pushing you on is the hope you'll find food, water, and 
+living people. So you push on...
+~
+160 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 16019
+D9
+~
+~
+0 -1 16017
+S
+#16019
+Further along the beach~
+  Its been a long walk but you finally see an inlet up ahead. Just a few
+more moments, and you'll be in what looks to be a lagoon.
+~
+160 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 16024
+D9
+~
+~
+0 -1 16018
+S
+#16020
+Further along the beach~
+  You are in the HOT sun without sunscreen, this is not a very good idea
+you have chousen by going to this place, as you are literally baking inside
+your armor. But, you feel you must press on...
+~
+160 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 16021
+D9
+~
+~
+0 -1 16012
+S
+#16021
+Further along the beach~
+  It's really starting to get hot out here, probably right now about 40
+degrees out in the shade. Good thing you brought a full canteen with you,
+isn't it? Oh, you forgot to? Oh...Thats not a good thing...
+~
+160 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 16022
+D3
+~
+~
+0 -1 16020
+S
+#16022
+Further along the beach~
+  You've almost made it! Up ahead you can see where the inlet starts of some
+sort of lagoon! Mabey there's life there somewhere? Anywhere is better then
+in this sun!
+~
+160 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 16023
+D2
+~
+~
+0 -1 16021
+S
+#16023
+Towards the lagoon~
+  Well, you've travelled through tropical storms, blistering heat, and
+dehydration to make it this far, a mear 10 feet away is the beginning of
+the lagoon! However, one small (or large) obstacle still stands
+before you, for 5 feet in front of you stands a large ape-like man
+who does not look too happy about seeing you here. In fact you don't really
+like the way he's slowly taking aim at your face...
+~
+160 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 16022
+D3
+~
+~
+0 -1 16026
+S
+#16024
+Towards the lagoon~
+  Well through a tropical storm, a baking sun, and general fatigue you've made
+it. You can see the beginning of the lagoon no more than 10 feet from you.
+  But, standing a mear 5 feet in from of you is a large ape-like man thing.
+And he dosn't look too friendly to me, in fact you dont really enjoy the 
+way he's taking aim with his spear at your face...
+~
+160 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 16019
+D8
+~
+~
+0 -1 16025
+S
+#16025
+On the western edge of the lagoon~
+  You now find youself in the shade of the lagoon's trees which surround
+and block out the sun. It's still hot here but not like it was on the beach.
+As you look towards the south, you notice a large bamboo gate. Mabey thats
+where the survivors of the ill-fated boat are!
+~
+160 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 16028
+D7
+~
+~
+0 -1 16024
+S
+#16026
+Southeastern bank of the lagoon~
+  Well, you're almost there, looking down to the south you see a bamboo
+door shrowded in shadows. This comfirms your idea that there is life on this island!
+  Will the natives be friendly though?
+~
+160 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 16023
+D9
+~
+~
+0 -1 16027
+S
+#16027
+Southeastern bank of the lagoon~
+  The trees suround you here as you walk along the beach on the lagoon.
+Shadows seem to come alive, and the noises from the jungle are unfriendly
+at best! Hungry, wet, and tired, you stumble towards the bamboo door
+to the west.
+~
+160 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 16031
+D6
+~
+~
+0 -1 16026
+S
+#16028
+On the western edge of the lagoon~
+  As you walk along this beach, you keep hearing unnerving sounds from
+the forest. A movment here, a snapping twig there, you start to wonder
+if you're beeing stalked by some creature in the forest. 
+  Suddenly, a large black cat leaps out at you from the bush, and you
+find yourself in another battle for your life!
+~
+160 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 16025
+D2
+~
+~
+0 -1 16029
+S
+#16029
+On the western edge of the lagoon~
+  The lagoon is dark and black here, and you wonder what foul creatures
+might reside in such a place. You are curious at first, but somthing
+large and snake-like seems to move through the water, so you decide
+to proceed to the bamboo gate. (Prehaps a tad quicker now...)
+~
+160 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 16028
+D2
+~
+~
+0 -1 16030
+S
+#16030
+Entrance to the castaway's huts~
+  You've made it! You stand at a large bamboo gate which stands 3 metres
+high, and hides what ever is in side this wall. A large key hole is set
+at about 4 feet up on the gate. You start to wonder "Where is the key?".
+  You look to your left and right, but see only rocks, some large, some 
+small, but all movable. Hmmm.
+~
+160 4 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 16029
+D1
+~
+~
+0 -1 16031
+D3
+~
+gate~
+2 16024 16052
+S
+#16031
+Southeastern bank of the lagoon~
+  The jungle here is a bit quieter then it was, but the lagoon is just filled 
+with life! In fact, looking down into the lagoon's black water, you see somthing stir, and suddenly jump back as a HUGE creature almost grabs you with one of its tentacles! You suddenly find yourself in a battle with an evil lagoon creature!
+~
+160 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 16027
+D3
+~
+~
+0 -1 16030
+S
+#16032
+Inside the food hut~
+  You look around this small little hut and see three chests, each clearly
+labled as to what's inside each of them. The hut itself is dark and again
+like most of the stuff in this village, is made of bamboo.
+~
+160 1 0
+0d0+0 0 0
+D3
+~
+door~
+1 16027 16036
+S
+#16033
+Among the huts~
+  This is a basic intersection in the village. You look to the north and 
+smell an awful smell....ugh! Wonder what it is?
+~
+160 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 16034
+D1
+~
+~
+0 -1 16052
+D2
+~
+~
+0 -1 16036
+S
+#16034
+Among the huts~
+  You are at a junction in the village which is as bamboo filled as the rest 
+of it. To the north is a door clearly labled "OUTHOUSE", and a great stench
+emits from this place...you wonder if they actually have plumbing here on
+the island.
+~
+160 0 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 16046
+D2
+~
+~
+0 -1 16033
+D3
+~
+~
+0 -1 16050
+S
+#16035
+Inside the Howell's money hut~
+  You are inside the Howell's treasure hut, where they keep all their stash.
+Mountains of gold and jewels lay scattered about here, and you cant help
+but wonder why would the Howell's keep their money locked away on an island
+without anything to buy...
+~
+160 0 0
+0d0+0 0 0
+D0
+~
+door~
+2 16029 16050
+S
+#16036
+Around the fire pit~
+  You are standing around the castaway's fire pit where they sing dance and 
+play. As well as eat all the fruit on this island. There is a large pile o
+wood on the ground here, and an axe to cut it with. Also here is the door to a small hut to the east
+~
+160 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 16033
+D1
+~
+door~
+1 16027 16032
+D2
+~
+~
+0 -1 16040
+D3
+~
+~
+0 -1 16037
+S
+#16037
+Among the huts~
+  You are outside two huts doors. One to the west and one to the south.
+You can hear giggling and laughing from the western hut and you read two
+names on the door: Ginger and Mary Anne. Should you invade their privacy? You've always wanted to
+meet Ginger in person so....
+~
+160 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 16036
+D2
+~
+door~
+2 16028 16041
+D3
+~
+door~
+1 -1 16049
+S
+#16038
+Gilligan and The Skipper's hut~
+  You have entered a hut with alot of sailing paraphenalia laying about.
+In the centre of the hut, you see two hammocks hung between two poles,
+and then you see thier users. Two men stand here, one quite large, and the
+other quite skinny. But both annoyed with your presents here.
+~
+160 0 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 16039
+D6
+secret door~
+secret door~
+2 16025 16044
+D8
+~
+trapdoor~
+2 16026 16047
+E
+look ne~
+It looks nasty....very VERY black there....you might get hurt...~
+S
+#16039
+Among the huts~
+  You are outside a hut (to the east), and all you can hear from within
+are sleeping noises made from two people. You then see two names on the
+door: Gilligan and The Skipper's hut.
+Do you dare enter?
+~
+160 0 1
+0d0+0 0 0
+D1
+~
+door~
+1 -1 16038
+D2
+~
+~
+0 -1 16043
+D3
+~
+~
+0 -1 16040
+S
+#16040
+Among the huts~
+  You are at another intersection in the village where you can go north, 
+east, or south. Looking around you see a hut to the east and another to the
+south. Which should you investigate first?
+~
+160 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 16036
+D1
+~
+~
+0 -1 16039
+D2
+~
+~
+0 -1 16042
+S
+#16041
+Inside a small hut~
+  You are in an empty hut. There is nothing here but dust and sand.
+~
+160 0 0
+0d0+0 0 0
+D0
+~
+door ~
+2 16028 16037
+S
+#16042
+Among the huts~
+  You are outside a hut to the south where you can hear bubbling noises
+emiting from within. Around this area is all types of scientific equipment
+Both crude and original, mostly made of bamboo.
+   You then hear a shout come from within: "I've finally created the potion
+to get us off this island!!!!!"
+Hmmmmm.....
+~
+160 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 16040
+D1
+~
+~
+0 -1 16043
+D2
+~
+door~
+1 -1 16048
+S
+#16043
+Among the huts~
+  You are at a junction in the village where you can go north or west. 
+Looking to the west you see some scientific equipment about a hut.
+I wonder whos hut that could be?
+~
+160 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 16039
+D3
+~
+~
+0 -1 16042
+S
+#16044
+Gilligan's hold~
+you're fallllllllllling!!!!!!!!
+OUCH! THAT HURT!
+You're at the bottom on a large hole and realize thiers nothing here!
+Nothing at all! Oh well, at least theres a ladder here to exit the hole...
+~
+160 18563 0
+1d1+199 90 0
+D9
+~
+secret~
+2 16025 16038
+S
+#16045
+The Howell's hut~
+  You have entered what appeared to be a bamboo hut on the outside, but 
+turns out to be looking like a billionare's mansion on the inside. The hut
+is much bigger then it looks, and it would appear that you may have annoyed
+the Howell's who live here.
+  Candles and lamps adorn this room, as do what ever decorations the two
+could create to make their hut look a little like home.
+~
+160 0 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 16050
+S
+#16046
+The outhouse~
+You are in the outhouse of the castaways, and you almost puke from the
+stench in here! There are a few leafs here to be used as toilet paper, and
+the closest thing to describe this place is 'a hole in the ground'.
+One thing is for certain, no plumbing exists here!
+~
+160 0 1
+0d0+0 0 0
+D2
+~
+door~
+1 -1 16034
+S
+#16047
+The Skipper's hold~
+You have entered into the Skipper's private hold, it is VERY dark!  You
+can barely see your hand in front of your face, even with your light blazing.
+You see some relics here from the MINNOW, and also the Skipper's treasure
+pile.  Perhaps the Skipper's been scamming some money off the Howell's....
+~
+160 0 0
+0d0+0 0 0
+D7
+~
+trapdoor~
+2 16026 16038
+S
+#16048
+The Professor's hut~
+  You look around and notice you have walked into a laboratory of some sort
+Makeshift beakers and stills are set up creating potions of unknown kinds.
+In the corner of the room a tall man in a white overcoat stands up at
+your entrance, and bids you welcome to his laboratory.
+As with the rest of the village 90% of all the equipment is made out of
+bamboo, and you suspect this man created most of it.
+~
+160 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 16042
+S
+#16049
+Mary Anne and Ginger's hut~
+  You have entered an all girl hut! You should be ashamed of yourself!
+This is where Ginger the movie star and Mary-Anne the shy girl next door
+type person live. Ginger of course has 'glamorized' her section of the
+room with whatever style she percieves to be this next 'fad'.
+Mary-Anne's area is clean, tidy, and well-kept.
+  This whole room smells of perfume and sweet essence.
+Both Mary-Anne and Ginger are startled by your appearance here.
+~
+160 0 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 16037
+S
+#16050
+Among the huts~
+  You find yourself at another intersection in the bamboo village, as there
+is a door to the west and south. To the west you hear rather snooty voices of upper-class persuation.
+~
+160 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 16034
+D2
+~
+door~
+2 16029 16035
+D3
+~
+door~
+1 -1 16045
+S
+#16051
+Spinning in the whirlpool~
+  You start to notice that the water moves around in a circle here.
+You then figure out that this is not a good sign...as you have heard that
+whirlpools can suck you right underwater without mercy, so you make one last
+chance to dive out of the whirlpool! You must decide quickly, be sucked
+under, or flee!
+~
+160 6277 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 16001
+D1
+~
+~
+0 -1 16001
+D2
+~
+~
+0 -1 16002
+D3
+~
+~
+0 -1 16002
+D5
+~
+~
+0 -1 16053
+D6
+~
+~
+0 -1 16001
+D7
+~
+~
+0 -1 16001
+D8
+~
+~
+0 -1 16002
+D9
+~
+~
+0 -1 16003
+S
+#16052
+Among the huts~
+  You've just entered into the village of the famous castaways from what
+you now know as Gilligan's Island. Why do you know this? There is a BIG sign
+here saying so... No activity can be seen around the village, and all you
+are wondering now is where are all the members of the boat?
+There is a BIG sign here.
+~
+160 0 1
+0d0+0 0 0
+D1
+~
+gate~
+2 16024 16030
+D3
+~
+~
+0 -1 16033
+E
+examine sign~
+Printed in LARGE letters is this:
+
+           WELCOME TO GILLIGAN'S ISLAND
+           HOPE YOU HAVE FUN HERE!
+
+                              SIGNED,
+                                     RAPEAD, AND GILLIGAN
+~
+S
+#16053
+Down into the whirlpool~
+  Hold yer breath! You're going under! Well, what can you say, here you are
+underwater, holding your breath, hoping to find a way back up to the surface
+before your air runs out. Looking around, you see a slight glow come from
+an underwater cave below, you figure its a good idea to check it out, as
+your air is running out.
+~
+160 1 6
+0d0+0 0 0
+D5
+~
+~
+0 -1 16054
+S
+#16054
+Nessy's lair~
+  OWCH! THAT HURT!.....sike.... ;)
+
+  You find yourself in an underwater air pocket, which glows magically.
+The cave which surrounds you is huge! And shadows dance around fooling
+your eye. Then you wonder...What or who lives in this place?
+  You shutter to think about it, and slowly look for a way out.
+~
+160 8192 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 16055
+D4
+~
+~
+0 -1 16053
+S
+#16055
+The back of the lair~
+  You find yourself in the back of the cave, shadows are more pronounced
+here and you think you see things in the darkness move....but thats just
+your imagination running away from you...isint it?
+But mabey that tall shadow in the background there doesn't like you looking
+in his locker....
+~
+160 1 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 16054
+D4
+~
+~
+0 -1 16001
+S
+$

@@ -1,0 +1,2229 @@
+#15800
+The gates to the Newbie Forest~
+You've arrived at the entrance to the Newbie Forest.  There's a
+forest ranger here warning tourists and campers about the safety
+hazards while visiting the forest grounds.  The ranger is also
+checking to see if you have the qualifications to enter this
+forest-land because of the level restrictions to enter this
+area.  You can see the grand forest from outside the gates.  The
+lush, green plants and trees from the distance is just splendid
+and the smell of fresh pine is everywhere.  There are animals
+there running and pouncing happily as though they have nothing to
+fear.  This beautiful forest lights up as the sun begins to rise
+from a distance.
+~
+158 28 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15801
+D2
+~
+~
+0 -1 3053
+S
+#15801
+Welcome to the Newbie Forest!~
+You have arrived at the entrance of the Newbie Forest where
+animals here roam free in the wild.  Everywhere you look, there
+are various kinds of plants and trees covering the forest
+grounds.  The howls of animal cries and the chirping of birds are
+all parts of what make this forest so lively and beautiful.  
+There are no paths to take here because the Newbie Forest has an
+enviroment that's intolerant to even the slightest changes by
+deforestation.  The forest here is not vast nor is it borderless.
+It's merely a place where the newbie-kinds "participate" in the
+population control of animals which would help to stabilize the
+forest's enviroment.  The Newbie Forest continues north.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15803
+D2
+~
+~
+0 -1 15800
+S
+#15802
+Southeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15806
+D3
+~
+~
+0 -1 15803
+S
+#15803
+Southern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15807
+D1
+~
+~
+0 -1 15802
+D2
+~
+~
+0 -1 15801
+D3
+~
+~
+0 -1 15804
+S
+#15804
+Southwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15808
+D1
+~
+~
+0 -1 15803
+S
+#15805
+Southeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15811
+D3
+~
+~
+0 -1 15806
+S
+#15806
+Southeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15812
+D1
+~
+~
+0 -1 15805
+D2
+~
+~
+0 -1 15802
+D3
+~
+~
+0 -1 15807
+S
+#15807
+Southern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15813
+D1
+~
+~
+0 -1 15806
+D2
+~
+~
+0 -1 15803
+D3
+~
+~
+0 -1 15808
+S
+#15808
+Southwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15814
+D1
+~
+~
+0 -1 15807
+D2
+~
+~
+0 -1 15804
+D3
+~
+~
+0 -1 15809
+S
+#15809
+Southwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15815
+D1
+~
+~
+0 -1 15808
+S
+#15810
+Southeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15818
+D3
+~
+~
+0 -1 15811
+S
+#15811
+Southeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15819
+D1
+~
+~
+0 -1 15810
+D2
+~
+~
+0 -1 15805
+D3
+~
+~
+0 -1 15812
+S
+#15812
+Southeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15820
+D1
+~
+~
+0 -1 15811
+D2
+~
+~
+0 -1 15806
+D3
+~
+~
+0 -1 15813
+S
+#15813
+Southern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15821
+D1
+~
+~
+0 -1 15812
+D2
+~
+~
+0 -1 15807
+D3
+~
+~
+0 -1 15814
+S
+#15814
+Southwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15822
+D1
+~
+~
+0 -1 15813
+D2
+~
+~
+0 -1 15808
+D3
+~
+~
+0 -1 15815
+S
+#15815
+Southwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15823
+D1
+~
+~
+0 -1 15814
+D2
+~
+~
+0 -1 15809
+D3
+~
+~
+0 -1 15816
+S
+#15816
+Southwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15824
+D1
+~
+~
+0 -1 15815
+S
+#15817
+Southeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15834
+D3
+~
+~
+0 -1 15818
+S
+#15818
+Southeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15833
+D1
+~
+~
+0 -1 15817
+D2
+~
+~
+0 -1 15810
+D3
+~
+~
+0 -1 15819
+S
+#15819
+Southeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15832
+D1
+~
+~
+0 -1 15818
+D2
+~
+~
+0 -1 15811
+D3
+~
+~
+0 -1 15820
+S
+#15820
+Southeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15831
+D1
+~
+~
+0 -1 15819
+D2
+~
+~
+0 -1 15812
+D3
+~
+~
+0 -1 15821
+S
+#15821
+Southern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15830
+D1
+~
+~
+0 -1 15820
+D2
+~
+~
+0 -1 15813
+D3
+~
+~
+0 -1 15822
+S
+#15822
+Southwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15829
+D1
+~
+~
+0 -1 15821
+D2
+~
+~
+0 -1 15814
+D3
+~
+~
+0 -1 15823
+S
+#15823
+Southwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15828
+D1
+~
+~
+0 -1 15822
+D2
+~
+~
+0 -1 15815
+D3
+~
+~
+0 -1 15824
+S
+#15824
+Southwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15827
+D1
+~
+~
+0 -1 15823
+D2
+~
+~
+0 -1 15816
+D3
+~
+~
+0 -1 15825
+S
+#15825
+Southwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15826
+D1
+~
+~
+0 -1 15824
+S
+#15826
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 15827
+D2
+~
+~
+0 -1 15825
+S
+#15827
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15835
+D1
+~
+~
+0 -1 15828
+D2
+~
+~
+0 -1 15824
+D3
+~
+~
+0 -1 15826
+S
+#15828
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15836
+D1
+~
+~
+0 -1 15829
+D2
+~
+~
+0 -1 15823
+D3
+~
+~
+0 -1 15827
+S
+#15829
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15837
+D1
+~
+~
+0 -1 15830
+D2
+~
+~
+0 -1 15822
+D3
+~
+~
+0 -1 15828
+S
+#15830
+Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15838
+D1
+~
+~
+0 -1 15831
+D2
+~
+~
+0 -1 15821
+D3
+~
+~
+0 -1 15829
+S
+#15831
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15839
+D1
+~
+~
+0 -1 15832
+D2
+~
+~
+0 -1 15820
+D3
+~
+~
+0 -1 15830
+S
+#15832
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15840
+D1
+~
+~
+0 -1 15833
+D2
+~
+~
+0 -1 15819
+D3
+~
+~
+0 -1 15831
+S
+#15833
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15841
+D1
+~
+~
+0 -1 15834
+D2
+~
+~
+0 -1 15818
+D3
+~
+~
+0 -1 15832
+S
+#15834
+Northeastern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 15817
+D3
+~
+~
+0 -1 15833
+S
+#15835
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15842
+D1
+~
+~
+0 -1 15836
+D2
+~
+~
+0 -1 15827
+S
+#15836
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15843
+D1
+~
+~
+0 -1 15837
+D2
+~
+~
+0 -1 15828
+D3
+~
+~
+0 -1 15835
+S
+#15837
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15844
+D1
+~
+~
+0 -1 15838
+D2
+~
+~
+0 -1 15829
+D3
+~
+~
+0 -1 15836
+S
+#15838
+Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15845
+D1
+~
+~
+0 -1 15839
+D2
+~
+~
+0 -1 15830
+D3
+~
+~
+0 -1 15837
+S
+#15839
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15846
+D1
+~
+~
+0 -1 15840
+D2
+~
+~
+0 -1 15831
+D3
+~
+~
+0 -1 15838
+S
+#15840
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15847
+D1
+~
+~
+0 -1 15841
+D2
+~
+~
+0 -1 15832
+D3
+~
+~
+0 -1 15839
+S
+#15841
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 15833
+D3
+~
+~
+0 -1 15840
+S
+#15842
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15851
+D1
+~
+~
+0 -1 15843
+D2
+~
+~
+0 -1 15835
+S
+#15843
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 15844
+D2
+~
+~
+0 -1 15836
+D3
+~
+~
+0 -1 15842
+S
+#15844
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15848
+D1
+~
+~
+0 -1 15845
+D2
+~
+~
+0 -1 15837
+D3
+~
+~
+0 -1 15843
+S
+#15845
+Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15849
+D1
+~
+~
+0 -1 15846
+D2
+~
+~
+0 -1 15838
+D3
+~
+~
+0 -1 15844
+S
+#15846
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15850
+D1
+~
+~
+0 -1 15847
+D2
+~
+~
+0 -1 15839
+D3
+~
+~
+0 -1 15845
+S
+#15847
+Northwestern part of Newbie Forest~
+As you walk along this section of the forest, you notice a narrow
+fresh-water stream to your north.  The water is sparkling fresh
+and you can see the pink salmons swimming upstream to spawn.  The
+small stream seems to lead southeast of here, maybe all the way
+to the waterfall.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15867
+D2
+~
+~
+0 -1 15840
+D3
+~
+~
+0 -1 15846
+S
+#15848
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 15849
+D2
+~
+~
+0 -1 15844
+S
+#15849
+Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 15850
+D2
+~
+~
+0 -1 15845
+D3
+~
+~
+0 -1 15848
+S
+#15850
+Northwestern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 15846
+D3
+~
+~
+0 -1 15849
+S
+#15851
+Far Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15852
+D2
+~
+~
+0 -1 15842
+S
+#15852
+Far Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15854
+D2
+~
+~
+0 -1 15851
+D3
+~
+~
+0 -1 15853
+S
+#15853
+Far Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15855
+D1
+~
+~
+0 -1 15852
+S
+#15854
+Far Northern part of Newbie Forest~
+It's strange that when you enter deeper into this forest the
+sunlight seems to get dimmer and dimmer.  Maybe it's the tall,
+ancient trees that provide an enormous canopy.  As you walk
+further north of here, you would notice a murky swamp just ahead
+of you...it doesn't look safe in there...
+~
+158 4108 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15856
+D2
+~
+~
+0 -1 15852
+D3
+~
+~
+0 -1 15855
+S
+#15855
+Far Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 15854
+D2
+~
+~
+0 -1 15853
+S
+#15856
+The Swamp~
+The dirty, mosquito-infested swamp water covers you from the
+waist down.  You've entered into the area of the forest where
+it's not safe nor is it beautiful.  As you walk through this 
+thick and mucky water, you sense something is staring right at
+you.  There's also something moving in the water...something that
+looks big, and it's headed to your direction!
+~
+158 4104 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 15854
+D3
+~
+~
+0 -1 15857
+S
+#15857
+The Swamp~
+You are becoming nauseated by the putrid smell of the swamp
+water.  As you try making your way through this obstacle, you
+can feel the mosquitoes biting at your exposed skin and the
+bloodsucking leeches trying to make a supper on your legs.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15859
+D1
+~
+~
+0 -1 15856
+S
+#15858
+The Swamp~
+This section of the Newbie Forest is indeed dangerous...  You can
+see the hungry alligators here swimming closer and closer to you.
+There are large anacondas dangling on the trees waiting to spring
+on an unsuspecting victim.  Everywhere you look, all the 
+creatures here look threatening unlike the other beasts in the
+Newbie Forest.
+~
+158 4104 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 15862
+D3
+~
+~
+0 -1 15859
+S
+#15859
+The Swamp~
+You are getting tired and desparate to get back to land.  The
+alligators are still stalking you...they're coming closer and
+closer...  The staring eyes of predatory beasts surround you 
+everywhere you go.  As you move through this thick swamp water,
+you sense that land is nowhere close to your location.
+~
+158 4104 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 15858
+D2
+~
+~
+0 -1 15857
+S
+#15860
+Far Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15862
+D1
+~
+~
+0 -1 15861
+S
+#15861
+Far Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15863
+D3
+~
+~
+0 -1 15860
+S
+#15862
+Far Northern part of Newbie Forest~
+Trees and shrubberies are lying all over the forest grounds.  The
+scenic path you're taking is more like an obstacle.  You are
+constantly leaping over thorny bushes and small puddles of muddy
+water.  The gentle animals here are abundant and they pass you by
+as though you are of no threat to them.
+~
+158 4108 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 15863
+D2
+~
+~
+0 -1 15860
+D3
+~
+~
+0 -1 15858
+S
+#15863
+Far Northern part of Newbie Forest~
+As you struggle to make your way around this forest, you come
+across a very narrow path.  You wonder to yourself, who could
+live inside this wild forest area?  The path looks like it will
+take you further north of here.
+~
+158 4104 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 15864
+D2
+~
+~
+0 -1 15861
+D3
+~
+~
+0 -1 15862
+S
+#15864
+Along a narrow path~
+This road is in fact, man-made.  You can see the marble stones
+lying on both sides of the road as though they were put there for
+a decorative purpose.  This narrow path seems to lead to that
+small cabin just north of here.  The cabin from a distance looks
+new, and you can see the smoke coming out of its chimney.
+~
+158 4104 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 15866
+D2
+~
+~
+0 -1 15863
+S
+#15865
+Hunter Bob's Cabin~
+This place is absolutely fit for a king to live in.  You feel the
+warmth of the burning logs in the fireplace as soon as you step
+into this small cabin.  There's a large bearskin rug on the floor
+and the animal-head trophies are stapled to the walls.  Stuffed
+animals are left everywhere as a decoration to this crowded room 
+and prized hunter rifles are displayed on wooden racks.  In the
+center of the room, you see a man dressed in a hunter's vest
+cleaning a long rifle.  He looks like he's about to get ready to
+do some hunting. 
+~
+158 4104 0
+0d0+0 0 0
+D2
+~
+door doors walnut cabin oak~
+1 -1 15866
+S
+#15866
+Along a narrow path~
+The narrow path is becoming broader and broader.  You finally
+arrived at your destination!  The walnut-oak door is north of
+you and it looks unlocked.  Everywhere you look, you sense that
+the person who built this grand cabin must be a skilled carpenter.
+~
+158 4104 11
+0d0+0 0 0
+D0
+~
+door doors walnut-oak walnut oak~
+1 -1 15865
+D2
+~
+~
+0 -1 15864
+S
+#15867
+A narrow stream~
+Though this stream looks narrow, it still has a powerful current.
+You feel the force of the stream is pushing you southeast of
+here.  The fresh-water fishes pass you by very quickly as they
+struggle to fight the current and make it upstream.
+~
+158 4108 6
+0d0+0 0 0
+D2
+~
+~
+0 -1 15847
+D8
+~
+~
+0 -1 15868
+S
+#15868
+Along a narrow stream~
+The powerful stream current has forced you to move southeast
+of here.  The water is now looking deeper...the stream is 
+becoming more like a wild river.  You're struggling to keep
+yourself under control and not to be swept right onto a hard
+rock.  The powerful stream continues southeast of here.
+~
+158 4104 6
+0d0+0 0 0
+D7
+~
+~
+0 -1 15867
+D8
+~
+~
+0 -1 15869
+S
+#15869
+Along a narrow stream~
+The powerful currents seem to be dying slowly...  There must be
+something up ahead that is blocking the narrow stream.  You don't
+feel anything pushing against you nor resticting your movement.
+The stream continues southeast.
+~
+158 4104 6
+0d0+0 0 0
+D7
+~
+~
+0 -1 15868
+D8
+~
+~
+0 -1 15870
+S
+#15870
+Along a narrow stream~
+This stream seems to be continuous.  You're beginning to get sea-
+sick from the swaying and rocking.  Suddenly, you spot something
+southeast of here...it looks like some sort of a beaver dam is
+built there.
+~
+158 4104 6
+0d0+0 0 0
+D7
+~
+~
+0 -1 15869
+D8
+~
+~
+0 -1 15871
+S
+#15871
+A beaver dam~
+You are amazed by this dam structure.  It doesn't look like
+anything a beaver could built.  The structural plans of this
+large dam looked more like the work of a man rather than a beast.
+The stones and wood used to build this dam is stacked nicely
+together which makes you suspicious that this is the work only an
+intelligent being could do.  The dam is about ten feet tall and
+is quite thick.  There seems to be no way of getting pass
+it...hmmm, wait a sec, there's a path that'll take you out of the
+stream and out of the bank.  The path is east of here.
+~
+158 4108 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 15872
+D7
+~
+~
+0 -1 15870
+S
+#15872
+A narrow, rocky path~
+This path is much more narrow than the stream you came from.
+There are rocks that seem to be laid evenly on the road as though
+someone arranged them that way.  Ouch!  The small rocks are 
+hurting your poor feet...  The path continues east of here.
+~
+158 4104 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 15873
+D3
+~
+~
+0 -1 15871
+S
+#15873
+A narrow, rocky path~
+Your feet are bloodied by the small, hard rocks that you have
+stepped on.  You cursed at the prankster responsible for laying
+out all these rocks on the path.  But what reason would anyone do
+such a trick...unless of course, that person was trying to stop 
+you from reaching a certain place...  The path continues east.
+~
+158 4104 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 15874
+D3
+~
+~
+0 -1 15872
+S
+#15874
+End of the narrow, rocky path~
+*Whew*  Finally, you can rest those poor feet of yours.  The path
+stops here and there's no more small rocks on the ground that'll
+hurt you.  As you rest yourself, something from a distance 
+catches your eye.  It's a strange patch of mushrooms that's
+bunched up together to look like a city.  The mushrooms are
+unusually large and...what's this...there seems to be little blue
+bugs moving around in that mushroom patch...hmmm, curious...
+The path to the mushroom patch is south of here.
+~
+158 4104 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 15875
+D3
+~
+~
+0 -1 15873
+S
+#15875
+A very, VERY narrow path~
+Egads, whoever made this path must be a dwarf.  The clearing for
+this road is a bit too narrow for any man to move around.  You
+are headed towards the mushroom patch and as you begin moving
+closer to the patch, you can see a beggar and a cat there
+stomping on some blue bugs.
+~
+158 4108 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 15874
+D2
+~
+~
+0 -1 15877
+S
+#15876
+The Smurf Village~
+The little blue creatures are scattering everywhere.  The wide
+spread panic is forcing them to secure themselves in their
+mushroom houses.  As you walk through this mushroom village you
+would notice that some of these creatures are throwing rocks at
+you to prevent you from going any further into the village.
+~
+158 4104 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 15879
+D3
+~
+~
+0 -1 15877
+S
+#15877
+The Smurf Village~
+As you entered this mushroom patch, you are astonish to find out
+that those "blue bugs" are actually small intelligent creatures.
+These little creatures seem to inhabit those funny-looking 
+mushrooms.  All the blue creatures look fearful from some
+disturbance in their village...maybe, it's because that old,
+disgusting beggar and his mangy cat are trying to catch them.
+~
+158 4104 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 15875
+D1
+~
+~
+0 -1 15876
+D3
+~
+~
+0 -1 15878
+S
+#15878
+The Smurf Village~
+You can hear the creatures yell out, 'Run for your lives!'  As
+you walk further through the village, the creatures begin
+throwing weightless pebbles at you.  You are fascinated by how
+these creatures are trying to stop you from advancing towards 
+the center of the village.  The small, harmless rocks that they
+throw at you barely even sting you.
+~
+158 4104 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 15877
+D2
+~
+~
+0 -1 15880
+S
+#15879
+The Smurf Village~
+As you slowly and carefully walk inside this strange village.
+You notice a strange-looking mushroom house east of here.
+There's a windmill outside of it.  There door looks too small for
+you to open and go in...so why not just open up the roof and see
+what's inside...
+~
+158 4104 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 15876
+D1
+~
+roof rooftop top door doors~
+1 -1 15882
+D2
+~
+~
+0 -1 15884
+S
+#15880
+The Smurf Village~
+You feel powerful as you walk inside this small village.  There's
+nothing here that can hurt you, not even those intelligent little
+creatures.  As you walk along this village, you notice a small
+blue creature tripping and falling on his face before making his
+way inside a mushroom house.  His house is west of where you're
+standing and it looks way too small for you to make an entrance
+through the door.
+~
+158 4104 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 15878
+D2
+~
+~
+0 -1 15885
+D3
+~
+roof rooftop door door mushroom~
+1 -1 15881
+S
+#15881
+Clumsy Smurf's House~
+You ripped open the roof and quickly looked around this place
+with curiosity.  There's really nothing special about this
+place...it looks like your pad back home, only that it's much
+smaller.  A clumsy-looking creature is here tripping and falling
+from panic.  He wasn't expecting any company today.
+~
+158 4104 0
+0d0+0 0 0
+D1
+~
+roof rooftop door doors mushroom~
+1 -1 15880
+S
+#15882
+Handy Smurf's Workshop~
+As soon as you opened up the roof and put your big, fat foot
+inside this little mushroom, a blue creature living inside
+screams out in fear.  This strange-looking mushroom house is
+filled with gadgetries and machines.  Everywhere you look, tools
+are spread out on the floor and on the tables.  The frighten
+little smurf that lives in here don't seem to be too frighten
+anymore.  In fact, he's pulling out a strange gadget from his
+toolbox and pointing that thing right at you!
+~
+158 4104 0
+0d0+0 0 0
+D3
+~
+roof rooftop door doors~
+1 -1 15879
+S
+#15883
+Hefty's Gym~
+Crack!  You open the roof and quickly stare at the brave creature
+as though you're about to pound him to smithereens.  But the
+creature here looks undaunted by you.  He stands with his chest
+thrusted and fists closed.  As you begin to laugh at this silly
+little creature, you looked around his house.  It seems to
+resemble more like a gyn than a place you would live in.  There
+are weights and dumbells all over the floor.  You see wooden
+benches and assort weightlifting equipments all over the place,
+from wall to wall.  This little creature must be the local   
+strong man in the village.
+~
+158 4104 0
+0d0+0 0 0
+D3
+~
+roof rooftop door doors mushroom~
+1 -1 15884
+S
+#15884
+The Smurf Village~
+Your thunderous stomps are creating an earthquake for these little
+creatures.  You see them lose their footing and fall to their
+face.  The sounds of your wicked laugh is beginning to bring fear
+to the poor helpless creatures.  As you move along through the
+village, you see one of the creatures standing in your way.  He
+kicked you on the left foot and boy, did that give you a sting.
+The little pugnacious creature quickly ran inside his house since
+he figger he may not be your match, and slam the door.  His
+little mushroom house is to the east of you.
+~
+158 4104 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 15879
+D1
+~
+roof rooftop door doors mushroom~
+1 -1 15883
+D2
+~
+~
+0 -1 15890
+S
+#15885
+The Smurf Village~
+Wide spread panic is everywhere...  Everyone of these little
+creatures are running for cover!  As you walk through this
+section of the village, one of the small little creatures threw a
+minature banana cream pie right at your face!  He quickly ran to
+his mushroom house...laughing out loud!
+~
+158 4104 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 15880
+D2
+~
+~
+0 -1 15888
+D3
+~
+roof rooftop door doors mushroom~
+1 -1 15886
+S
+#15886
+Jokey Smurf's Funhouse~
+The little prankster jumps in fear as you open the rooftop.  The
+creature gives you a smile and asks you if you like his little
+joke.  As you reach inside to grab him you notice his little
+shop is filled with gift-wrapped presents.  Hmmm, maybe you might
+want to open one up to see what's inside...oh well, maybe later.
+The little creature must be a local giftshop owner or something 
+like that.
+~
+158 4104 0
+0d0+0 0 0
+D1
+~
+roof rooftop door doors mushroom~
+1 -1 15885
+S
+#15887
+Vanity's Powder Room~
+You opened the roof as quickly as possible to see what's inside.
+This place is totally immaculate.  The bed is made and the floor  
+looks spotless and the furniture is also dust-free.  There are 
+mirrors everywhere you look.  The walls are just full of nothing
+but mirrors...
+~
+158 4104 0
+0d0+0 0 0
+D1
+~
+roof rooftop door doors mushroom~
+1 -1 15888
+S
+#15888
+The Smurf Village~
+The creatures living in this village is becoming more and more
+tense.  They are throwing more rocks at you and also at the
+disgusting-looking beggar and his cat.  The beggar seems to be
+laughing as though he's mad. 
+As you walk along this village, you notice an extremely clean
+mushroom house west of here.
+~
+158 4104 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 15885
+D1
+~
+~
+0 -1 15889
+D3
+~
+roof rooftop door doors mushroom~
+1 -1 15887
+S
+#15889
+The Smurf Village~
+The little mushroom village continues north of here and all the
+tiny creatures seem to be headed to that direction.  Someone of
+great importance may be living down that way.  Maybe it's the
+creature's leader.
+~
+158 4104 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 15890
+D2
+~
+~
+0 -1 15891
+D3
+~
+~
+0 -1 15888
+S
+#15890
+The Smurf Village~
+You easily made your way across to the other end of the village.
+The creatures are still running back and forth as though they
+don't know where to go or what to do.  Everyone of them is
+screaming for someone...someone named "Papa Smurf."
+There's an odd-looking blue creature running towards a mushroom
+house to the east.  He's wearing some goofy spectacles.
+~
+158 4104 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 15884
+D1
+~
+roof rooftop door doors mushroom~
+1 -1 15899
+D3
+~
+~
+0 -1 15889
+S
+#15891
+The Smurf Village~
+You are coming closer to the end of the village.  There are more
+village areas to the southwest of here.  All of these creatures
+seem to be pushing their way towards that direction.  Everyone of
+them are yelling for help from a certain creature named "Papa Smurf."
+~
+158 4104 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 15889
+D2
+~
+~
+0 -1 15893
+S
+#15892
+Farmer Smurf's vegetable patch~
+As you walk on the patch, you notice one of the small creature is
+yelling at you to get off his field.  He's planting something
+here on this small plot of land and it seems you just ruin a
+season's worth of crop.  The little creature is dressed in an
+overall and a plaid shirt.  He's wearing a straw hat and wielding
+a hoe.  This creature must be some sort of a farmer for the village.
+~
+158 4104 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 15893
+S
+#15893
+The Smurf Village~
+You are coming closer to the end of the village.  The little
+creatures are still running in fear and are throwing more little
+rocks at you.  There's a small vegetable patch to the east of
+here and the rest of the village continues west of here.
+~
+158 4104 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 15891
+D1
+~
+~
+0 -1 15892
+D3
+~
+~
+0 -1 15894
+S
+#15894
+The Smurf Village~
+Boom!  Boom!  Boom!  Your loud footsteps are rocking the village.
+Houses are collapsing because of your every movement.  The little
+creatures here are running back and forth, crying for help.  Your
+little visit here on the village is worst than if an earthquake
+would to hit this city.
+~
+158 4104 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 15893
+D3
+~
+~
+0 -1 15895
+S
+#15895
+The Smurf Village~
+The mushroom village is coming to an end.  As you walk along this
+section of the village, you notice more mushroom houses south of
+here.  Those houses seem to be hidden from the rest, maybe the
+leader of these creatures lives in one of those mushrooms.
+~
+158 4104 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 15894
+D2
+~
+~
+0 -1 15897
+S
+#15896
+Smurfette's Dreamhouse~
+This used to be a great dreamhouse but now it has been crushed by
+the earthquake that you've created with your devastating footsteps.
+You peek inside this pink mushroom house to see what's inside.
+The pace is almost entirely pink.  The walls are pink, the floor is
+pink, the furnitures are pink...etc.  There's a strange-looking
+creature living here.  Unlike the other creatures, this one has long
+blonde hair and it's wearing a white skirt-dress.  It's also 
+carrying a tiny blue baby!
+~
+158 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 15897
+S
+#15897
+The Smurf Village~
+All of the strange blue creatures seem to be headed here.  The
+leader of these critters must live in one of the two houses here.
+One of the houses already has a roof collapse on it but the
+other seems to be stronger and stays intact.  There seems to be
+some sort of magic aura that surrounds that mushroom house to
+your east...
+~
+158 4104 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 15895
+D1
+~
+roof rooftop door doors mushroom~
+1 -1 15898
+D3
+~
+~
+0 -1 15896
+S
+#15898
+Papa Smurf's Laboratory~
+You ripped open the roof and inside you see a lot of tubes and
+beakers everywhere.  This must be a laboratory of some sort and
+the creature that lives here is still experimenting with various
+kinds of liquids.  This creature living here looks wise and much
+older than the rest of the others.  He has a white beard and he
+wears a red spandex pants and a red cap.  The creature seems to
+be planning on something...maybe he's trying to make a powerful
+potion that would force all the invaders out of this once-quiet
+and peaceful village.
+~
+158 4104 0
+0d0+0 0 0
+D3
+~
+roof rooftop door doors mushroom~
+1 -1 15897
+S
+#15899
+Brainy's Library~
+All of the books that used to be on the shelf is now lying all
+over the floor.  A nerdy-looking creature is here quickly trying
+to pick up the books and reshelf them.  This place is filled with
+a variety of different books on all kinds of subjects.  It's like
+a library in here.  The nerdy creature must be some sort of a 
+librarian or a book collector.
+~
+158 4104 0
+0d0+0 0 0
+D3
+~
+roof rooftop door doors mushroom~
+1 -1 15890
+S
+$

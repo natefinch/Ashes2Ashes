@@ -1,0 +1,1273 @@
+#10800
+Entrance into MMPR Area~
+This is your starting point into the Final area of Bigh's quest:  to face the
+Power Ranger Zeo Zords.  There are No Dt's here.  This is where you can only
+return and recall and the place where you receive your corpse.  The rest of this
+zone will be made so that you cannot recall and cannot teleport so beware.~
+108 8192 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 3001
+D5
+~
+~
+0 -1 10808
+S
+#10801
+One O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.
+~
+108 47112 0
+0d0+0 0 0
+D4
+~
+time~
+1 -1 10813
+D8
+~
+one~
+1 10840 10802
+S
+#10802
+Two O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.
+~
+108 47112 0
+0d0+0 0 0
+D7
+~
+one~
+1 10840 10801
+D8
+~
+three~
+1 -1 10803
+S
+#10803
+Three O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.
+~
+108 47112 0
+0d0+0 0 0
+D7
+~
+two~
+1 -1 10802
+D9
+~
+four~
+1 -1 10804
+S
+#10804
+Four O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.
+~
+108 47112 0
+0d0+0 0 0
+D6
+~
+three~
+1 -1 10803
+D9
+~
+five~
+1 -1 10805
+S
+#10805
+Five O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.
+~
+108 47112 0
+0d0+0 0 0
+D6
+~
+four~
+1 -1 10804
+D9
+~
+six~
+1 -1 10806
+S
+#10806
+Six O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.
+~
+108 47112 0
+0d0+0 0 0
+D6
+~
+five~
+1 -1 10805
+D7
+~
+seven~
+1 -1 10807
+S
+#10807
+Seven O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.
+~
+108 47112 0
+0d0+0 0 0
+D7
+~
+eight~
+1 -1 10808
+D8
+~
+six~
+1 -1 10806
+S
+#10808
+Eight O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.
+~
+108 63496 0
+0d0+0 0 0
+D7
+~
+nine~
+1 -1 10809
+D8
+~
+seven~
+1 -1 10807
+S
+#10809
+Nine O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.
+~
+108 30728 0
+0d0+0 0 0
+D6
+~
+ten~
+1 -1 10810
+D8
+~
+eight~
+1 -1 10808
+S
+#10810
+Ten O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.
+~
+108 30728 0
+0d0+0 0 0
+D6
+~
+eleven~
+1 -1 10811
+D9
+~
+nine~
+1 -1 10809
+S
+#10811
+Eleven O'Clock~
+You find yourself standing on the face of a clock.  The time seems to slow.
+There is a loud ticking sound pounds inside your chest as seconds slip away
+from the hour.  The anticipation of the midnight hour sets in.
+~
+108 30728 0
+0d0+0 0 0
+D6
+~
+twelve~
+1 -1 10812
+D9
+~
+ten~
+1 -1 10810
+S
+#10812
+Twelve O'Clock Midnight~
+The time has come to put away the century old Father Time and bring in the
+newborn Millenium.  Happy New Year!!
+~
+108 30728 0
+0d0+0 0 0
+D9
+~
+eleven~
+1 -1 10811
+S
+#10813
+New Years Day Quest Staging Area~
+This is the room where you get yer group together to enter into time.  If
+(when) you die.. tell MotherTime "transme" and she will bring you back to
+this room.  This is the only room that you can recall, relocate or quit from.
+Once the quest begins, there will not be anyone else allowed to join.. unless
+the group that is present votes to allow them to join.  If you leave early
+for what ever reason you will not get "your share" of the quest points.
+~
+108 32792 0
+0d0+0 0 0
+D5
+~
+time~
+3 -1 10801
+S
+#10814
+~
+~
+108 14360 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 10808
+S
+#10815
+~
+~
+108 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10814
+D1
+~
+~
+0 -1 10820
+D3
+~
+~
+0 -1 10810
+D6
+~
+~
+0 -1 10819
+D7
+~
+~
+0 -1 10809
+S
+#10816
+~
+~
+108 14360 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10821
+D2
+~
+~
+0 -1 10817
+D3
+~
+~
+0 -1 10811
+D8
+~
+~
+0 -1 10822
+D9
+~
+~
+0 -1 10812
+S
+#10817
+~
+~
+108 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10816
+D1
+~
+~
+0 -1 10822
+D2
+~
+~
+0 -1 10818
+D3
+~
+~
+0 -1 10812
+D6
+~
+~
+0 -1 10821
+D7
+~
+~
+0 -1 10812
+D8
+~
+~
+0 -1 10823
+D9
+~
+~
+0 -1 10814
+S
+#10818
+~
+~
+108 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10817
+D1
+~
+~
+0 -1 10822
+D2
+~
+~
+0 -1 10819
+D3
+~
+~
+0 -1 10812
+D6
+~
+~
+0 -1 10822
+D7
+~
+~
+0 -1 10812
+D8
+~
+~
+0 -1 10824
+D9
+~
+~
+0 -1 10814
+S
+#10819
+~
+~
+108 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10818
+D1
+~
+~
+0 -1 10824
+D2
+~
+~
+0 -1 10820
+D3
+~
+~
+0 -1 10814
+D6
+~
+~
+0 -1 10823
+D7
+~
+~
+0 -1 10813
+D8
+~
+~
+0 -1 10825
+D9
+~
+~
+0 -1 10815
+S
+#10820
+~
+~
+108 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10819
+D1
+~
+~
+0 -1 10825
+D3
+~
+~
+0 -1 10815
+D6
+~
+~
+0 -1 10824
+D7
+~
+~
+0 -1 10814
+S
+#10821
+~
+~
+108 14360 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10822
+D3
+~
+~
+0 -1 10816
+D9
+~
+~
+0 -1 10817
+S
+#10822
+~
+~
+108 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10821
+D2
+~
+~
+0 -1 10823
+D3
+~
+~
+0 -1 10817
+D7
+~
+~
+0 -1 10816
+D9
+~
+~
+0 -1 10818
+S
+#10823
+~
+~
+108 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10822
+D2
+~
+~
+0 -1 10824
+D7
+~
+~
+0 -1 10817
+D9
+~
+~
+0 -1 10819
+S
+#10824
+~
+~
+108 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10823
+D2
+~
+~
+0 -1 10825
+D3
+~
+~
+0 -1 10819
+D7
+~
+~
+0 -1 10818
+D9
+~
+~
+0 -1 10820
+S
+#10825
+~
+~
+108 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10824
+D3
+~
+~
+0 -1 10820
+D7
+~
+~
+0 -1 10819
+S
+#10826
+~
+~
+108 14360 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 10825
+S
+#10827
+~
+~
+108 14360 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 10823
+S
+#10828
+~
+~
+108 14360 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 10821
+S
+#10829
+~
+~
+108 14360 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 10813
+S
+#10830
+Zeo Ranger Holding place~
+This Area holds all the rangers (morphed and unmorphed) until the quest begins.
+~
+108 14360 0
+0d0+0 0 0
+S
+#10831
+Turkey Jerky A1~
+A1~
+108 6144 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10836
+D1
+~
+~
+0 -1 10832
+D6
+~
+~
+0 -1 10837
+S
+#10832
+Turkey Jerky A2~
+A2~
+108 6144 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10837
+D1
+~
+~
+0 -1 10833
+D3
+~
+~
+0 -1 10831
+D6
+~
+~
+0 -1 10838
+D7
+~
+~
+0 -1 10836
+S
+#10833
+Turkey Jerky A3~
+A3~
+108 6144 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10838
+D1
+~
+~
+0 -1 10834
+D3
+~
+~
+0 -1 10832
+D6
+~
+~
+0 -1 10839
+D7
+~
+~
+0 -1 10837
+S
+#10834
+Turkey jerky A4~
+A4~
+108 6144 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10839
+D1
+~
+~
+0 -1 10834
+D3
+~
+~
+0 -1 10833
+D6
+~
+~
+0 -1 10840
+D7
+~
+~
+0 -1 10838
+S
+#10835
+Turkey Jerky A5~
+A5~
+108 6144 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10840
+D3
+~
+~
+0 -1 10834
+D6
+~
+~
+0 -1 10841
+D7
+~
+~
+0 -1 10839
+S
+#10836
+Turkey Jerky B1~
+B1~
+108 6144 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10842
+D1
+~
+~
+0 -1 10837
+D2
+~
+~
+0 -1 10831
+D6
+~
+~
+0 -1 10843
+S
+#10837
+Turkey Jerky B2~
+B2~
+108 6144 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10843
+D1
+~
+~
+0 -1 10838
+D3
+~
+~
+0 -1 10837
+D6
+~
+~
+0 -1 10844
+D7
+~
+~
+0 -1 10842
+S
+#10838
+Turkey Jerky B3~
+B3~
+108 6144 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10839
+D3
+~
+~
+0 -1 10837
+S
+#10839
+Turkey jerky B4~
+B4~
+108 6144 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10840
+D3
+~
+~
+0 -1 10838
+S
+#10840
+Turkey Jerky B5~
+B5~
+108 6144 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10841
+D3
+~
+~
+0 -1 10839
+S
+#10841
+Turkey Jerky B6~
+B6~
+108 6144 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 10840
+S
+#10842
+Turkey Jerky C1~
+C1
+~
+108 6144 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10843
+D2
+~
+~
+0 -1 10836
+S
+#10843
+Turkey Jerkey C2~
+C2~
+108 6144 0
+0d0+0 0 0
+S
+#10844
+Turkey Jerky C3~
+C3~
+108 6144 0
+0d0+0 0 0
+S
+#10845
+Turkey Jerky C4~
+C4~
+108 6144 0
+0d0+0 0 0
+S
+#10846
+Turkey Jerky C5~
+C5~
+108 6144 0
+0d0+0 0 0
+S
+#10847
+Turkey Jerky C6~
+C6~
+108 6144 0
+0d0+0 0 0
+S
+#10848
+Turkey Jerkey C7~
+C7~
+108 6144 0
+0d0+0 0 0
+S
+#10849
+Turkey Jerky D1~
+D1~
+108 6144 0
+0d0+0 0 0
+S
+#10850
+Turkey Jerky D2~
+D2~
+108 0 0
+0d0+0 0 0
+S
+#10851
+Turkey Jerky D3~
+D3~
+108 6144 0
+0d0+0 0 0
+S
+#10852
+Turkey Jerky D4~
+D4~
+108 6144 0
+0d0+0 0 0
+S
+#10853
+Turkey jerky D5~
+D5~
+108 6144 0
+0d0+0 0 0
+S
+#10854
+Turkey Jerky D6~
+D6
+~
+108 6144 0
+0d0+0 0 0
+S
+#10855
+Turkey Jerky D7~
+D7~
+108 6144 0
+0d0+0 0 0
+S
+#10856
+Turkey Jerky D8~
+D8~
+108 6144 0
+0d0+0 0 0
+S
+#10882
+At the top of the tower.~
+You stand at the top of the tower. There are windows to the north and south.
+Through them you can see miles of forrest in both directions.
+~
+108 1 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 10883
+S
+#10883
+Beneath the tower.~
+You stand beneath the wizards tower. You can hear loud booms, and the clanking
+of metal far above you head.
+~
+108 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10884
+D4
+~
+~
+0 -1 10882
+S
+#10884
+In the main hall of the castle.~
+You stand in the main hall of the ancient castle. The stone walls tower above
+your head. You notice several blood stains on th floor.
+~
+108 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10890
+D2
+~
+~
+0 -1 10883
+D5
+~
+secret~
+1 -1 10885
+S
+#10885
+In a secret tunnel.~
+You have found a secret passage leading under the ancient castle.
+~
+108 257 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10886
+D4
+~
+secret~
+1 -1 10884
+S
+#10886
+In a secret tunnel.~
+You have found a secret passage leading under the ancient castle.
+~
+108 257 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10885
+D4
+~
+secret~
+1 -1 10894
+S
+#10887
+The moat.~
+This is a moat surrounding an ancient forbidden castle. Strange noises come
+from the water. Perhaps this is not a safe place.
+~
+108 0 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 10892
+D7
+~
+~
+0 -1 10890
+D9
+~
+~
+0 -1 10888
+S
+#10888
+The moat.~
+This is a moat surrounding an ancient forbidden castle. Strange noises come
+from the water. Perhaps this is not a safe place.
+~
+108 0 6
+0d0+0 0 0
+D2
+~
+~
+0 -1 10894
+D6
+~
+~
+0 -1 10887
+D7
+~
+~
+0 -1 10889
+S
+#10889
+The moat.~
+This is a moat surrounding an ancient forbidden castle. Strange noises come
+from the water. Perhaps this is not a safe place.
+~
+108 0 6
+0d0+0 0 0
+D3
+~
+~
+0 -1 10896
+D6
+~
+~
+0 -1 10890
+D8
+~
+~
+0 -1 10888
+S
+#10890
+Among the sunflowers~
+You come upon an area of the field that is completely dominated by large
+sunflowers.  Bunblebees and other insects dart about looking for the days
+food supply, while small animals scurry about in the underbrush.
+~
+108 6144 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 10892
+D1
+~
+~
+0 -1 10891
+S
+#10891
+Flowers in the field.~
+As you come upon this drastically different part of the field,
+you notice a sweetness hovering in the air.  The birds and other
+animals roaming throughout this flowery field seem to be engulfed
+in a sort of jovial atmosphere.
+~
+108 6144 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 10893
+D1
+~
+~
+0 -1 10892
+D3
+~
+~
+0 -1 10890
+E
+flower flowers~
+The flowers here dance brilliantly and almost force you to
+think of happier times.
+~
+S
+#10892
+An open field.~
+A field stretches out before you and meets the sky at a great distance.  The
+land here is quite flat and the underbrush is populated by various prairie
+creatures.  You notice that someone has camped here recently as there are
+signs of a campfire.
+~
+108 6144 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 10893
+D2
+~
+~
+0 -1 10890
+D3
+~
+~
+0 -1 10891
+E
+camp campfire fire~
+A circle of stones surrounds a blackened area where a
+fire recently roared.
+~
+E
+horizon~
+In the distance, the ground and sky meet at the horizon.
+~
+S
+#10893
+In the field~
+The wind dies completely here and you are left with a feeling of peace and
+tranquility.  Butterflies and bumblebees dance mystically in and about the
+wide variety of plantlife growning in this field.
+~
+108 6144 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 10895
+D2
+~
+~
+0 -1 10891
+D3
+~
+~
+0 -1 10892
+E
+flowers~
+There is a wide variety of plants stretching out as far as you
+can see, most of which are flowers.
+~
+S
+#10894
+Before the spring~
+The overall beauty of the scenery surrounding you is nearly breathtaking.
+Tall, ageless trees tower above you as the soft soothing sound of
+gurgling water can be heard from the crystal clear pool of water.  
+The sparkling water pool reflects your image vividly as you contemplate
+taking a drink from it.
+~
+108 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 10895
+E
+tree trees~
+Huge, ageless trees that have withstanded the test of time
+shade you from the heat of the day, and protect you from the cold
+of the night.
+~
+S
+#10895
+The edge of a field~
+The trail widens here into a pleasant grassy field that is covered with lush
+green grass swaying gently in the breeze. You hear birds chirping and the
+tranquil sound of water gugling in the near distance.
+~
+108 6144 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 10896
+D1
+~
+~
+0 -1 10894
+D2
+~
+~
+0 -1 10893
+D3
+~
+~
+0 -1 10892
+S
+#10896
+End of the trail~
+The trail is gradually getting wider and apparently more widely used, as
+the grass and weeds that grow within it are becoming more sparse.  In
+the distance, you can see the dark outline of a cliff face looming
+over the treetops.
+~
+108 6144 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 10897
+D1
+~
+~
+0 -1 10895
+D2
+~
+~
+0 -1 10895
+D3
+~
+~
+0 -1 10897
+S
+#10897
+On a trail~
+The path widens here into something that more closely resembles a trail.
+The breeze that meanders through the trees is refreshing, however it
+cannot hide the evidence of recent travellers that have also journeyed
+upon this trail.  The air surrounding you is crisp and clean.
+~
+108 6144 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 10896
+D2
+~
+~
+0 -1 10896
+D3
+~
+~
+0 -1 10898
+S
+#10898
+A path in the woods~
+You find yourself on a small dirt trail that leads off into towards a high
+cliff.  The peaceful sounds of squirrels chittering and birds chirping is all
+that can be heard.
+~
+108 6144 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 10897
+S
+#10899
+Floating in a portal~
+Welcome to the Pokemon Death Quest!  You have been transported to this room
+in final preparations for this quest.  If (when) you die... you will be
+brought back to this room and allowed to attempt to get your corpse.
+~
+108 540 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3072
+D5
+~
+~
+0 -1 10898
+S
+$

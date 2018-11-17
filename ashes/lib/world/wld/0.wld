@@ -1,0 +1,178 @@
+#0
+~
+~
+0 6148 0
+0d0+0 0 0
+S
+#1
+Limbo~
+~
+0 14336 0
+0d0+0 0 0
+S
+#2
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#3
+A totally empty room~
+  The walls are completely bare...no nothing at all in the room.
+....weird
+~
+0 8 0
+0d0+0 0 0
+D4
+You do not see that here.
+~
+~
+0 -1 3048
+S
+#4
+Newbie Indoctrination Room~
+This is the new character indoctrination center.  If you have never been
+in any MUD before, I would suggest that you type HELP.  To the north
+of here is the newbie equipment room.  You will be provided with a few
+essential pieces of equipment and then transported to the Temple of
+Midgaard.  If you are ready to begin your adventure please type NORTH.
+~
+0 12300 0
+0d0+0 0 0
+D0
+You see a room filled with brand new equipment.
+~
+~
+0 -1 5
+S
+#5
+Newbie Equipment Room~
+This is the new character's equipment room.  The equipment manager will
+attend to your needs.
+~
+0 12300 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3001
+S
+#6
+Skye's Quest room created by Sheol~
+Powerful beings come here to be in Skye's quest.
+~
+0 15360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1139
+D2
+~
+~
+0 -1 1128
+D4
+~
+~
+0 -1 1135
+D5
+~
+~
+0 -1 1111
+S
+#10
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#17
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#21
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#32
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#33
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#34
+~
+
+~
+0 0 0
+0d0+0 0 0
+S
+#35
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#36
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#37
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#38
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#39
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#40
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#41
+~
+~
+0 0 0
+0d0+0 0 0
+S
+#50
+~
+~
+0 6148 0
+0d0+0 0 0
+S
+#51
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 6280 1
+0d0+0 0 0
+S
+$

@@ -1,0 +1,427 @@
+#4200
+Step one - Olc basics~
+HI everyone.  Welcome to your olc training.  If you have built with a
+menu based olc before there are not many changes...But the changes that 
+exist are important ones.  So.. first thing we need to do is to make
+sure that you have olc to the practice zones.  Type the following and
+see what responce you get : Type olc <your name> <Return>.  What you 
+should see is a line that looks like the following:
+    <Your name> has OLC privileges to zones 265-265 and 265-265
+Your numbers may be different but they should always be 255+ when you 
+are building your newbie zone.  Now.. if you have privileges then you can 
+begin learning how to build rooms by going to step two.. if not then ask 
+one of the admin's to give you olc privileges to your practice zone..
+You will get your practice numbers in step two.
+Thanks Teddy
+~
+42 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4201
+S
+#4201
+Step two - Building rooms~
+Ok.. now you know what zone you have privileges to.. So let's show you 
+how to build a room.. First type help redit, read through that so you get  
+an idea of how the menu works.  To begin editting rooms you must use a 
+command called redit.  The correct command useage is redit <rm#> <return>.
+So.. for example say your room numbers are in zone 255 and your room number
+range is 25500-25509.. to begin editting your first room you would type
+redit 25500.  There is an example room to the north of here so you can 
+see what a finished room should look like.
+
+OTHER HELP FILES OF INTEREST WHEN BUILDING ROOMS: help redit, help xdesc,
+help sectors, help deathtraps, help rflags, help doors.
+~
+42 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4202
+D2
+~
+~
+0 -1 4200
+E
+poster~
+Zone #            Rm #'s          obj #'s           Mob #'s
+256            25600-25609      25600-25609      25600-25609
+257            25610-25619      25610-25619      25610-25619
+258            25620-25629      25620-25629      25620-25629
+~
+S
+#4202
+Example room ~
+You are strolling through a lovely park.  As you look around you notice
+all the families that are in the park.  Everyone must have thought of the
+same thing.. cause everyone is having a picnic at the picnic tables 
+scattered through out the park.  There is a large pond nearby that is home
+to lots of ducks.  There are children standing around the pond offering 
+the ducks lots of tasty snacks.  The sun is shining high in the sky and 
+when you look up you can feel it beaming down on your face.  As you move
+futher into the park you notice the flowers.. everywhere.  They are in
+lots of brilliant colors and the smell is overwhelming.  The sounds
+of children playing makes you smile just a little as you continue on
+your walk.
+
+Notice that I meantioned ducks and flowers in my desc. If you type look
+ducks or flowers.. you will see that I put in extra descs in on both 
+of these.. That's how extra descs work.
+~
+42 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4203
+D2
+~
+~
+0 -1 4201
+E
+flower flowers~
+These flowers are all colors.  They look almost like a rainbow.. but with
+more colors.  The smell coming off the flowers is terrific.. it's almost
+intoxicating.
+~
+E
+duck ducks~
+Awww... aren't they cute.. They have white feathers and they are just as 
+fluffy as they can be.  They waddle up to the short of the pond and get 
+food from the kids.
+~
+S
+#4203
+Step three - building mobs.~
+OK.. so how you know how to make a room.. now lets show you how to make
+a mob to put in that room.  The mob numbers you will use are the same as
+the room numbers you use.. but you use a different command to start
+editting them.  Medit is the command.  Type help medit and look over
+the menu so that you know what each slot is for.  So.. if you have numbers
+25500-25509 and you want to edit the first one.. you would type
+medit 25500.
+
+OTHER HELP FILES OF INTEREST WHEN BUILDING MOBS:  Help medit, help mflag,
+help aflag, help specproc.
+~
+42 0 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 4204
+D2
+
+~
+~
+0 -1 4202
+S
+#4204
+Step four - building items~
+This is where you will learn to make items for your mobs.  Just like with 
+rooms and mobs there is a special command for objects too.  The command
+to start editting objects is oedit.  Ok so now.. before you start building
+type help oedit and take a look at the menu and see what each slot will do.
+Just as with mobs and rooms, the numbers will be the same, but you will
+use oedit (instead of medit or redit).
+
+OTHER FILES OF INTEREST WHEN BUILDING ITEMS: help oedit, help otype, 
+help oaff, help oflags.
+~
+42 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4205
+D2
+~
+~
+0 -1 4203
+S
+#4205
+Step Five - Locking the zone.~
+With the mobs, items and rooms done you will need to learn to load items. The
+first thing you must do before loading mobs and items is to lock the zone.  I
+have made extra descs out of those so that you can see all the info that
+wouldn't fit here.. so type look lock and look unlock.  Also one thing to
+remember.. NEVER LOCK A ZONE THAT HAS BEEN THROUGH THE ZEDIT PROCESS>
+~
+42 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4206
+D2
+~
+~
+0 -1 4204
+E
+lock~
+Ok.. after you have all the rooms done and you want to load the mobs and
+items then you need to lock the zone.  The command to lock the zone is zlock.
+The correct command usage is zlock <zone#>.  REMEMBER NEVER LOCK A ZONE THAT
+HAS BEEN THROUGH THE ZEDIT PROCESS.
+~
+E
+unlock~
+Ok.. So all the rooms mobs and objects are done.. and you have them all
+loaded in the right rooms..and all items on the right mobs... You want all
+the mobs to save so that everything remains the way that you put it. Now..
+when you lock a zone and unlock and save it.. it all saves to a zedit file so
+that when the zone resets it has a script to follow as to what goes where.
+To save all the changes in the zone you will have to do zunlock.. you have
+two options when unlocking a zone.. either to save all the changes or if you
+made a mistake then you can unlock and not save any changes.  IF you wish to
+save the changes then type zunlock save <zone#>, if however you made some
+mistakes ( OR IF YOU LOCKED A ZONE THAT ALREADY WENT THROUGH THE ZEDIT
+PROCESS)  then you type zunlock nosave <zone#>.
+~
+S
+#4206
+Step six - loading mobs~
+Loading mobs is a fairly simple process.  You have already done all the work.
+and now you have the rooms done and the zone locked.  So what you need to do
+is to be in the room you want to load the mob in and type load m(for mob)
+<vnum of the mob>.  So if you wanted to load mob #25600..You would type load
+m 25600.
+~
+42 0 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 4207
+D2
+
+~
+~
+0 -1 4205
+S
+#4207
+Step seven - Loading items and making mobs use them.~
+Loading items is just as easy as loading mobs.   Instead of M (for mobs) we
+use o for objects.  So load o <vnum of object>  .  For example if you wanted
+to load item #25600 then you would type load o 25600.  The item will load in
+your hands and if you want to have the mob wear/wield/hold the items you will
+need to use force commands. Since I didn't have space to explain force
+commands please type look force and it will give you a list of the commands
+and how to use them.
+~
+42 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4208
+D2
+~
+~
+0 -1 4206
+E
+force~
+Ok.. now you have your mob loaded and you have loaded the item and you have
+it in your inventory.. How can you make the mob wear/wield/hold the item..
+Well we use force commands to do this and there are seperate force commands
+for wear wield and hold. For our examples we will use a mob named Fido. Say
+that we have fido a weapon to use.. we will load it.. and hand it to fido (
+we will use dagger as our example object) and then type forcewield fido
+dagger. Now.. Fido needs some eq to wear.. so we will use cloak for this
+example.. we load the cloak, give the cloak to fido and type the following
+forcewear fido cloak. And if we are giving mobs lights or holdables we will
+need to use the forcehold command ( we will use torch for this example).. We
+would load the torch hand the torch to fido and type forcehold fido torch.
+Remember when making items for mobs be sure not to put restrictions on the
+items that will keep mobs from using the item.  For example  making a !evil
+object for an evil mob.
+~
+S
+#4208
+Step Eight - Just a couple of reminders.~
+Ok.. you have learned several things up to this point.  But I need to remind
+you of a few things before you go on to the last and probably the most
+involved and complicated step.  Remember that since now you have loaded mobs
+and items to zunlock your zone.. saving all the changes. Remember that after
+the next step you will not be able to lock the zone. So.. review all that you
+have learned.. and then make the next step. If you feel like you'd rather
+finish all the rooms mob and items before handling zedit.. then do so.. but
+remember that zedit is more complicated and thus will take a little more time
+to explain and understand.
+~
+42 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4209
+D2
+~
+~
+0 -1 4207
+S
+#4209
+Step nine - Zedit~
+Zedit helps us with our areas by giving us greater versatility.  We can set a
+certain mob to load only when another mob loads.. Or only sometimes we can
+set alternate loads and we can set load probabilities.  If you have loaded
+things with the zone locked and have saved the changes then your zedit will
+already be mostly completed.  The zedit is essentially a script that the mud
+will use when it resets the zone.  The correct command useage will be zedit
+<Zone #>.  Once you do this you will be given a list of commands.  To get a
+more detailed description of the commands type help zedit and it will give
+you a better understanding of zedit.  So.. once the zone is ready you can
+zedit it.   When you are ready to zedit you will need to get Either Sarnoth
+or Me (Teddy) and we will help you with each step so that you can get a
+better idea of how it works and what exactly it can do.
+~
+42 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4210
+D2
+~
+~
+0 -1 4208
+S
+#4210
+Step ten - The end.~
+Ok.. this should give you a basic knowledge of how to build.  I will from
+time to time check in on you while you are building and if you have any
+questions please just mail me and I will answer any questions you have or
+give you any help I can.  If you type look tips, I have left a couple of
+little helps you might find you can use. I want to thank you for taking the
+time to go through this school and making this a much easier job to do.. but
+if you need anything please let me know and if you have any suggestions on
+how I can make this school better.. just mail me and let me know. Thanks
+Teddy
+~
+42 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4211
+D2
+~
+~
+0 -1 4209
+E
+tips~
+Sometimes as a new builder it's hard to remember to hit return at the end of
+each line.. So in responce to that Sarnoth has coded in something called
+format.  If you just type format it will make all the lines the correct
+length regardless of if you hit return at the end of the line or not.
+Sometimes when I am building I can't seem to get my desc to come out right
+cause of all the syslog messages and gossips that come through so.. If you
+just type nodis it will keep that from happening.
+To turn off either of these things just type it again and it will turn it off
+for you. Teddy
+~
+S
+#4211
+Practice zones... starting point.~
+We have done something a little differently than we have normally done in the
+past.. rather than have everyone working in the same zone we have made
+"mini-zones".  They start at zone 256 and go from there. The problem is
+this.. Usually the zone number is the first two or three numbers of all your
+rooms.. But in this case.. we took one zone and made it 10.. so.. You will
+lock your zone number and your room numbers won't match up. So... I have put
+a list in here with all the room numbers and what zone they are.. you should
+get your zone number in step two.. so just look at this list.. match up your
+zone number and that gives you your room numbers.. Please write those down.
+~
+42 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 4210
+E
+list~
+256           25600-25609
+257           25610-25619
+258           25620-25629
+259           25630-25639
+260           25640-25649
+261           25650-25659
+262           25660-25669
+263           25670-225679
+264           25680-25689
+265           25690-25699
+~
+S
+#4289
+~
+~
+42 0 0
+0d0+0 0 0
+S
+#4290
+~
+~
+42 0 0
+0d0+0 0 0
+S
+#4291
+~
+~
+42 0 0
+0d0+0 0 0
+S
+#4292
+~
+~
+42 0 0
+0d0+0 0 0
+S
+#4293
+~
+~
+42 0 0
+0d0+0 0 0
+S
+#4294
+~
+~
+42 0 0
+0d0+0 0 0
+S
+#4295
+~
+~
+42 0 0
+0d0+0 0 0
+S
+#4296
+~
+~
+42 0 0
+0d0+0 0 0
+S
+#4297
+~
+~
+42 0 0
+0d0+0 0 0
+S
+#4298
+~
+~
+42 0 0
+0d0+0 0 0
+S
+#4299
+~
+~
+42 0 0
+0d0+0 0 0
+S
+$

@@ -1,0 +1,1530 @@
+#3800
+fountain~
+a large fountain~
+A large fountain sits here, gurgling happily within it's marble confines.~
+~
+23 0 1 0
+0 0 0
+30000 30000 15 0
+30005 0 0
+#3801
+fountain dry~
+a dry fountain~
+Sitting in the middle of the road is a fountain which has run dry.~
+~
+15 0 0 0
+0 0 0
+100 15 3854 0
+0 0 0
+E
+fountain dry~
+You see a dry fountain here.  It looks as if it has run dry years ago.  It
+is carved in the shape of 7 heroes, a warrior, a magic-user, a cleric,
+a thief, a paladin, an anti-paladin, and a ranger.  It looks very old and
+has an indentation in the base of the fountain.  The indentation resembles
+symbols representing the elements of nature.  It looks very beautiful.
+~
+#3802
+spring water pure ~
+a spring~
+A small spring gurgles here silently.~
+~
+23 64 0 0
+0 0 0
+30000 30000 15 0
+30005 0 0
+E
+water lake~
+This lake looks surprisingly clean for a water source that doesn't have a
+river flowing into it. Upon drinking the water you taste that it is pure
+and sweet.~
+#3803
+fountain wine~
+a fountain of wine~
+A fountain of wine runs here, sweetening the air with its aroma.~
+~
+23 0 0 0
+0 0 0
+10000 10000 2 0
+10005 0 0
+E
+fountain wine~
+You see a fountain of wine with disbelief.  It must take an awful amount
+of wine to have this fountain flow continuously, but you suppose that the
+soverign of this land is rich enough to have something like this here.
+You wonder secretly how everyone can remain sober in this kingdom.
+~
+#3804
+machine juice~
+a juice machine~
+A strange machine rests against the wall.~
+~
+23 32 0 0
+0 0 0
+30000 30000 6 0
+30005 0 0
+E
+machine juice~
+You see a strange looking device at the far end of the wall here.  It looks
+as if it is invisible to the eye because it is in an indentation in the
+wall. It says the words, "Fresh Lemonade" written on it and it hums with
+a strange power.  There is a small hole in a holed-out space in the front
+of the machine, and a button above it says, "Push here".  You wonder what
+this machine could do.
+~
+#3805
+container milk cow object strange canteen~
+a cow-shaped canteen~
+A strange object in the shape of a cow lies here.~
+~
+23 0 1 0
+0 0 0
+100 100 10 0
+105 2000 2
+E
+container milk cow object strange~
+You see a cow shaped vessel.  It is shaped like a cow, and is made out of
+marble, with white and black spots, just like a real cow.  You uncork the
+top and look into the mouth of the vessel, and see a lot of milk.  You 
+think that this will be awfully useful in your travels.
+~
+#3806
+stream coffee~
+a stream of hot coffee~
+A hot stream runs through some dark beans here.~
+~
+23 0 0 0
+0 0 0
+30000 30000 12 0
+30005 1000 1
+E
+stream coffee~
+You see a stream of hot water, running through some dark beans which lay
+in the riverbed.  The mixture looks quite dark, and smells heavenly.  You
+think you'll try some of this all-natural blend of coffee.
+~
+#3807
+spring tea hot~
+a spring of hot tea~
+A hot spring trickles here, through leaves of sweet chrysanthemum.~
+~
+23 0 0 0
+0 0 0
+30000 30000 11 0
+30005 0 0
+E
+spring hot tea~
+You see a beautiful spring trickle through here.  Feeling the heat, you know
+that the waters are hot and clear, and yet there is a discoloration within
+the waters.  You smell the sweet smell of crysanthemum and realize that the
+hot spring runs into a small pool in which a large cluster of crysanthemum
+grow. You think that it would be nice to have this tea to drink.
+~
+#3808
+ring assault~
+an Assault Ring~
+A steel ring sits here, gleaming in the dim light.~
+~
+9 8512 3 0
+0 0 0
+1 30000 4 0
+0 10000 100
+A
+18 1
+E
+ring assault~
+You see an ordinary steel ring here.  It gleams slightly in the dim light
+and you look at it with disinterest.  Taking a closer look, you see that it
+looks quite old.  Picking it up you feel a sharp pain as you find a small
+knife sticking in your finger....
+~
+#3809
+shield assault~
+an Assault Shield~
+A steel shield sits here, gleaming in the dim light.~
+~
+9 9457984 513 0
+0 0 0
+20 30000 4 0
+5 10000 100
+A
+21 -1
+E
+shield assault~
+You see a sturdy shield here, which is decorated with many runes and 
+consecrated with many holy symbols.  It looks very beautiful, and
+gleams uncannily in the dim light.  It would make a good companion
+in your travels and you admire the keen workmanship of this shield.
+~
+#3810
+assault breast plate armor~
+a breastplate of Assault Mail~
+A plate mail breast plate lies here.~
+~
+9 8679744 16393 0
+0 0 0
+10 0 0 0
+15 5000000 50000
+A
+18 2
+E
+assault breast plate armor~
+You see a simple plate mail breast plate.  It seems like a run-of-the-mill
+breast plate and doesn't seem particularly unique in any way.  You bring
+your finger closer to the plate mail and find your digit bleeding, pierced
+by a sudden dagger which appeared out of the armor...
+~
+#3811
+assault cloak~
+an Assault Cloak~
+A long, flowing cloak lies here, sparkling and gleaming in the dim light.~
+~
+9 320 1025 0
+0 0 0
+5 0 0 0
+0 200000 20000
+A
+23 -1
+E
+cloak assault~
+You see a beautiful flowing, silk cloak here.  It shines brilliantly in 
+white splendor and contains magickal runes and holy symbols.  You admire
+the find craftsmanship that must have been put into this cloak, and the
+fine silk feels incredibly protective, for some reason.
+~
+#3812
+epaulets assault~
+a pair of Assault Epaulets~
+A pair of epaulets lie here, just waiting to be worn.~
+~
+9 1052992 5 0
+0 0 0
+3 0 0 0
+3 200000 2000
+A
+5 1
+E
+epaulets assault~
+You see a sturdy pair of epaulets made of pure steel.  They are filled
+with holy symbols and magickal runes.  They look like they would fit
+relatively comfortably on your shoulders and would protect that area
+incredibly well.  Feeling the smooth steel, you can practically feel
+the healthy protectiveness shine through the strong metal.
+~
+#3813
+helm assault~
+an Assault Helm~
+You see a shiny, steel helm sitting in the dim light.~
+~
+9 9457984 17 0
+0 0 0
+10 0 0 0
+5 200000 2000
+A
+22 -1
+E
+helm assault~
+You see a sturdy steel helm, decorated with many different runes and
+consecrated with many holy symbols.  It looks very beautiful and very
+effective in protecting your head.  The visor lowers so that there is
+a very small slit which you can see out of.  It feels like something a
+hero would wear.
+~
+#3814
+belt assault~
+an Assault Belt~
+You see a shiny, steel belt sitting in the dim light.~
+~
+9 9457984 2049 0
+0 0 0
+5 0 0 0
+5 200000 2000
+A
+20 -1
+E
+belt assault~
+You see a beautiful belt made of steel here.  It is embroidered with many
+holy symbols and magical runes.  It looks very beautiful in the dim light,
+and shines with a brightness on its own.  It looks like it would
+be a good protective belt for your waist area.
+~
+#3815
+vambraces assault~
+a pair of Assault Vambraces~
+You see in the dim light, a pair of shining vambraces.~
+~
+9 9457984 257 0
+0 0 0
+10 0 0 0
+10 20000 2000
+A
+1 1
+E
+vambraces assault~
+You see a pair of sturdy vambraces, made of pure steel.  They are embroidered
+with many holy symbols and magickal runes.  It looks very protective and
+you think that it would be a very helpful tool in your journeys.  Touching
+them, you can practically feel the protective strength radiate from them.
+~
+#3816
+assault bracer~
+an Assault Bracer~
+A bracer of purest steel rests in the dim light.~
+~
+9 8417600 4097 0
+0 0 0
+5 0 0 0
+5 200000 2000
+A
+18 1
+#3817
+gauntlets assault~
+a pair of Assault Gauntlets~
+A pair of gauntlets plated with steel sit in the dim light.~
+~
+9 9457984 129 0
+0 0 0
+5 0 0 0
+3 200000 2000
+A
+17 1
+E
+gauntlets assault~
+You see a pair of metal gauntlets here made of the purest steel.  Feeling
+the strong metal of the gauntlets, you feel a strange power resonating 
+from the beautifully decorated steel, filled with holy symbols and
+magical runes.
+~
+#3818
+greaves assault~
+a pair of Assault Greaves~
+A pair of greaves of pure steel rest in the dim light.~
+~
+9 8417600 33 0
+0 0 0
+10 0 0 0
+10 200000 2000
+A
+18 1
+E
+greaves assault~
+You see a powerful pair of greaves made of pure steel.  It is decorated
+with many magical runes and holy symbols.  It looks very beautiful and
+gleams brightly in the dim light.  You think that the greaves would be
+very useful in your journey and as you brush your hand gently on the 
+smooth metal, you find yourself bleeding, your finger cut by a blade
+which appears out of no where.
+~
+#3819
+boots assault~
+a pair of Assault Boots~
+A pair of boots lined with pure steel lie here in dim light.~
+~
+9 9457984 65 0
+0 0 0
+5 0 0 0
+4 200000 2000
+A
+2 1
+E
+boots assault~
+You see a pair of steel boots here.  It is laced with magical runes and
+holy symbols.  You look at it closely and appreciate the workmanship
+involved in such a piece of art, and yet, it is not just decorative, and
+feels strong enough to protect you in battle.  Putting them on, you feel
+very comfortable in them, very light on your feet.
+~
+#3820
+collar assault~
+an Assault Collar~
+You see a collar here, glinting in the dim light.~
+~
+9 9457984 5 0
+0 0 0
+3 0 0 0
+3 200000 2000
+A
+19 -1
+E
+collar assault~
+You see a collar here made of strong steel.  It is decorated with many 
+beautiful magical runes and holy symbols.  It looks like it could be
+very useful in your travels and seems like it could protect your neck
+very well, from all sorts of damaging attacks.
+~
+#3821
+flamberge steel sword~
+a steel flamberge~
+A flamberge of the finest steel rests here.~
+~
+5 8400896 8193 0
+0 0 0
+0 2 9 3
+16 10000 100
+#3822
+dagger punch steel~
+a steel punch dagger~
+A punch dagger made of the finest steel rests here.~
+~
+5 8192 28673 0
+0 0 0
+3 2 6 11
+5 1000 0
+A
+16 -1
+#3823
+pikestaff pike staff steel~
+a steel pikestaff~
+A pikestaff of the finest steel lies here.~
+~
+5 8400896 24577 0
+0 0 0
+0 2 8 11
+12 5000 50
+#3824
+morningstar morning star steel~
+a steel morningstar~
+A morningstar made of the finest steel lays here.~
+~
+5 4096 8193 0
+0 0 0
+0 2 7 6
+12 2000 0
+#3825
+crossbow bow cross~
+a crossbow~
+A crossbow and a quiver of steel-tipped arrows lie here.~
+~
+5 8417280 8193 0
+0 0 0
+6 2 8 11
+7 5000 0
+#3826
+plate mail breast~
+a plate mail breastplate~
+A breastplate made of plate mail lies here.~
+~
+9 9457664 9 0
+0 0 0
+7 0 0 0
+12 20000 200
+#3827
+helm steel~
+a steel helm~
+A steel helm lies here.~
+~
+9 9457664 17 0
+0 0 0
+5 1 0 0
+5 2000 0
+E
+helm steel~
+You see a helm made of very fine steel here.  It looks as if it could
+protect your helm against anything.
+~
+#3828
+bracer steel~
+a steel bracer~
+You see a bracer made of the finest steel lying here.~
+~
+9 0 4097 0
+0 0 0
+4 0 0 0
+3 1000 0
+E
+bracer steel~
+You see a steel bracer lying here.  It looks as if it could protect very
+well against blows to you forearms and also be light enough not to encumber
+you significantly.
+~
+#3829
+belt steel~
+a steel belt~
+You see a belt made of the finest steel here.~
+~
+9 9457664 2049 0
+0 0 0
+3 0 0 0
+3 100 0
+E
+belt steel~
+You see a strong belt made of steel.
+~
+#3830
+assault mail breast plate breastplate armor~
+the Assault mail breastplate~
+A shiny suit of armor lies here, gleaming in the light.~
+~
+9 8679424 9 0
+0 0 0
+8 0 0 0
+10 100000 1000
+A
+18 1
+E
+assault mail breast breastplate plate armor~
+You see a intricately designed armor which looks very protective.  It is
+said that this legendary armor, called "Assault Armor" could protect it's
+wearer, as well as inflict damage to an attacker.  You wonder how armor
+can do this, as you run your finger over the metal of the armor.  You find
+your finger stained with blood, as you see a sharp dagger has appeared from
+a joint in the armor...
+~
+#3831
+potion vial cure light blue~
+a potion of cure light~
+You see a vial containing a light-blue potion of some kind.~
+~
+10 260 1 0
+0 0 0
+10 16 0 0
+2 5000 0
+E
+potion vial cure light blue~
+You see a vial of a light blue substance.  Upon the vial, there is a label
+which reads, "Cure Light".  ~
+#3832
+potion vial cure critical sky blue~
+a potion of cure critcal~
+You see a vial filled with a sky-blue potion here.~
+~
+10 260 1 0
+0 0 0
+20 15 0 0
+1 45000 0
+E
+potion vial cure critical sky blue~
+You see a potion which has a sky blue color.  It has a label on it which
+reads, "Potion of Cure Critical".
+~
+#3833
+potion vial true blue healing heal~
+a potion of healing~
+A vial filled with a true-blue potion lies here.~
+~
+10 260 1 0
+0 0 0
+30 28 0 0
+1 50000 0
+E
+potion vial true blue healing heal~
+A potion lies here, filled with a liquid that looks like a pure blue color.
+Upon the vial is a label which reads, "Potion of Healing".
+~
+#3834
+potion vial golden gold sanctuary sanc~
+a potion of sanctuary~
+A vial filled with a gleaming, golden potion lies here.~
+~
+10 260 1 0
+0 0 0
+50 36 0 0
+1 350000 0
+E
+potion vial golden gold sanctuary sanc~
+You see a vial filled with a golden liquid.  Upon the vial is a label 
+which reads, "Potion of Sanctuary".  You think this potion will be VERY
+useful in your dangerous journeys.
+~
+#3835
+vial clear water holy~
+a vial filled with holy water~
+You see a vial filled with a clear liquid and labeled with a cross.~
+~
+10 260 1 0
+0 0 0
+25 34 0 0
+1 100 0
+#3836
+scroll recall~
+a scroll of recall~
+A scroll lies here.~
+~
+2 64 1 0
+0 0 0
+10 42 0 0
+0 1000 0
+E
+statue Linna goddess~
+A statue of the goddess Linna, a member of the Knight Sabers, poses here
+as a sign of protection for weary adventurers who happen to lose their way.
+She holds up two gloved fingers in a "V" for victory.
+~
+#3837
+scroll identify~
+a scroll of identify~
+A scroll lies here, collecting dust.~
+~
+2 64 1 0
+0 0 0
+15 52 0 0
+0 1000 0
+#3838
+scroll see invisible~
+a scroll of see invisible~
+A scroll lies here, nearly escaping your attention.~
+~
+2 64 1 0
+0 0 0
+10 19 0 0
+0 5000 0
+#3839
+scroll minor enchant enchantment~
+a scroll of minor enchantment~
+A scroll lies here, emitting a faint aura of power.~
+~
+2 64 1 0
+0 0 0
+15 24 0 0
+0 500000 0
+E
+scroll minor enchant enchantment~
+A scroll lies here, emitting a slight aura of power.  It looks like
+gobbledegook on the paper, but you know that the enchantment that this
+scroll could provide could mean the difference between life and death, 
+despite it's low power.
+~
+#3840
+scroll major enchantment enchant~
+a scroll of major enchantment~
+You see a scroll here, pulsing with powerful magic.~
+~
+2 64 1 0
+0 0 0
+30 24 0 0
+0 1000000 10000
+E
+scroll major enchantment enchant~
+You see a scroll here, pulsing with power.  You sense that the magic on the
+scroll will come in VERY useful in your journeys.
+~
+#3841
+rations iron ~
+iron rations~
+Aptly named, you must have an iron stomach to eat these rations.~
+~
+19 0 1 0
+0 0 0
+10 0 0 0
+1 10 0
+E
+iron rations ration~
+You look at this disgusting mixture of dried meat and fruits.  This stuff
+is nearly tasteless, but it will keep you from starving when you're stuck
+in the wilderness.  It'll also keep you from getting hungry every time you
+look at this stuff.
+~
+#3842
+backpack back pack~
+a backpack~
+You see a backpack that no adventurer should be without.~
+~
+15 0 1025 0
+0 0 0
+200 0 0 0
+1 100 10
+A
+16 -1
+E
+backpack back pack~
+This is a large backpack, suitable for all your needs.  It looks like
+it can hold a lot, as well as protect your rear a bit.
+~
+#3843
+waterskin skin water~
+a waterskin~
+A waterskin rests here, waiting to quench your thirst.~
+~
+17 0 2049 0
+0 0 0
+10 10 0 0
+15 10 0
+E
+waterskin skin water~
+This looks like a fairly large waterskin, and it will get you through
+about three days.  Remember to refill it frequently.
+~
+#3844
+lantern~
+a lantern~
+A lantern lies here, waiting to light your way.~
+~
+1 0 16385 0
+0 0 0
+0 0 24 0
+2 50 0
+E
+lantern~
+It is a simple lantern.  It looks as if it would serve you well in your
+travels.
+~
+#3845
+wineskin wine skin~
+a wineskin~
+A wineskin lies here.~
+~
+17 0 1 0
+0 0 0
+10 10 2 0
+15 100 0
+#3846
+ring regeneration iron clear crystal~
+a ring of regeneration~
+A ring made of simple iron lies here, adorned with a clear crystal.~
+~
+9 64 3 0
+0 0 0
+1 0 0 0
+0 50000 500
+A
+14 1
+E
+ring regeneration~
+You see before you a simple steel ring, with a quartz crystal sitting 
+within the runed band.
+~
+#3847
+ring protection~
+a ring of protection~
+A ring made of steel lies here, shining in the light.~
+~
+9 64 3 0
+0 0 0
+1 0 0 0
+0 10000 100
+A
+16 -4
+E
+ring protection~
+This is a simple iron ring, with many runes etched into the band.  It
+resonates an aura of safety, and glints slightly in the sunlight.
+~
+#3848
+ring magi ornate silver~
+a ring of the magi~
+An ornate silver ring lies here.~
+~
+9 311360 3 0
+0 0 0
+1 0 0 0
+0 50000 50
+A
+13 1
+E
+helm chain mail~
+This is a helm made of chain mail links.  It looks like pretty good
+protection against blows to the head, although it won't protect that
+well against blades.
+~
+#3849
+ring striding shiny~
+a ring of striding~
+You see a shiny ring here, rolling along the floor.~
+~
+9 64 3 0
+0 0 0
+1 0 0 0
+0 30000 30
+A
+15 1
+E
+ring striding~
+You see a shiny ring which rolls upon the floor.  Holding it, you feel
+a bit more energetic, and able to move more freely.  You wonder if you
+should wear this ring.
+~
+#3850
+ring health steel~
+a ring of health~
+You see a steel ring lying here, waiting to be worn.~
+~
+9 64 3 0
+0 0 0
+1 0 0 0
+0 20000 20
+A
+11 5
+E
+ring health steel~
+You see a strong, steel ring which lies on the floor.  Upon picking it up,
+you feel stronger and healthier than ever before.  You enjoy the feelings
+of life which course through you before putting the ring back on the
+ground.
+~
+#3851
+mace sanctuary simple pommel cross~
+the Mace of Sanctuary~
+A simple, steel mace with a cross engraved pommel lies here.~
+~
+5 9231680 24577 0
+0 0 0
+5 3 8 6
+12 100000 100
+A
+18 2
+A
+11 10
+E
+mace sanctuary simple pommel cross~
+You see a plain, steel mace.  Looking closer, you find it has a pommel with
+engravings of a cross.  You wonder what kind of person would use a weapon
+such as this.  You feel a sense of power, as well as a sense of goodness
+resonating within this piece of simple steel.
+~
+#3852
+robes sanctuary white~
+the Robes of Sanctuary~
+Some white robes lay here, glowing brilliantly in the light.~
+~
+9 970048 9 0
+0 0 0
+10 0 0 0
+3 100000 100
+A
+11 10
+A
+13 2
+E
+robes sanctuary white~
+You see a set of white robes on the floor here.  They almost glow in the
+light and you feel at peace as you hold the robes near.  As you look at
+the robes, you find a golden emblem in the shape of a cross on the front
+of the robes.  You wonder who owned the robes previously.
+~
+#3853
+cloth beautiful designs gold golden~
+a beautifully decorated cloth~
+You see a beautiful, golden cloth here, with intricate designs.~
+~
+15 324 16385 0
+0 0 0
+200 15 3854 0
+1 10000 0
+E
+cloth beautiful designs gold golden~
+You see a beautiful, golden cloth lying on the ground.  It looks very 
+expensive, and has a seal which keeps it closed, and the objects safe within.
+Looking at the designs, you can see representations of the 4 elements,
+as well as othering things, such as the sun, moon, and mountains.  You 
+wonder what could be kept hidden in the cloth, but as you try to open
+it, you find it sealed shut... magically locked from the outside world.
+~
+#3854
+seal beautifully decorated~
+a beautifully decorated seal~
+A beautifully decorated seal lies here.~
+~
+18 324 16385 0
+0 0 0
+0 0 0 0
+0 100 0
+E
+seal beautifully decorated~
+You see a beautifully decorated seal here, with symbols representing the 4
+elements, as well as the sun, moon, mountains, and other forces of nature.
+You wonder what this seal could be the key to.  There is a tag on the back
+of the seal which reads, "This seal is for emergencies only."
+~
+#3855
+sword broad broadsword steel~
+a steel broadsword~
+A broadsword made of the finest steel lies here.~
+~
+5 8400896 24577 0
+0 0 0
+2 1 10 3
+12 500 0
+E
+sword broad steel broadsword~
+You find a rather large sword on the floor here.  It's broad blade and long
+handle suggest that you would need a lot of strength to wield it.  It looks
+like it is in very good condition and could be a valuable companion in your
+quest.
+~
+#3856
+shield red cross white strength~
+the shield of strength~
+A large, red shield with a white cross lies here.~
+~
+9 9457984 513 0
+0 0 0
+5 0 0 0
+5 10000 10
+A
+1 1
+E
+shield red cross white strength~
+You see a beautiful red shield, which has a white cross whose lengths
+reach to the all ends of the shield.  It is quite heavy, and you think
+that it is in almost perfect condition.  Lifting it up to test it's
+weight, you find that it is lighter than you had thought... or is it
+because of something else...?
+~
+#3857
+shield blue cross white wisdom~
+the shield of wisdom~
+A large, blue shield with a white cross lies here.~
+~
+9 9457984 513 0
+0 0 0
+5 0 0 0
+5 10000 10
+A
+4 1
+E
+shield blue cross white wisdom~
+You see a large, blue shield here.  It has a white cross whose lengths reach
+the very ends of the shield.  It looks like a sturdy shield, and you think
+it would be very useful in your quest.  Lifting it to test it's weight, you
+find that it is relatively heavy, but it feels very right to have its weight
+on your arm...
+~
+#3858
+shield white blue cross dexterity~
+the shield of dexterity~
+A large, white shield with a blue-trim cross lies here.~
+~
+9 9457984 513 0
+0 0 0
+5 0 0 0
+5 10000 10
+A
+2 1
+E
+shield white blue cross dexterity~
+You see a white shield lying here.  It has a white cross on it which is
+outlined by a blue trim.  The cross reaches the very edges of the shield
+in its length.  Looking at it, you think that it is quite heavy, but its
+protection would prove useful in your journey.  Lifting it up to test its
+weight, you find that it is quite heavy, but for some reason, you think
+that it won't impede you very much...
+~
+#3859
+shield green cross white constitution~
+the shield of constitution~
+A large, green shield with a white cross lies here.~
+~
+9 9457984 513 0
+0 0 0
+5 0 0 0
+5 10000 10
+A
+5 1
+E
+shield green cross white constitution~
+You see a green shield here.  It has a white cross which runs the length
+of the entire shield.  Looking at it, you judge it to be quite heavy and
+probably it will weigh you down in your travel, but it's protection could
+be invaluable.  Picking it up to test its weight, you find that it is 
+quite heavy, but its presence gives you a renewed sense of vigor...
+~
+#3860
+halberd steel~
+a steel halberd~
+You see a large halberd of the finest steel here.~
+~
+5 8417344 8193 0
+0 0 0
+10 7 3 3
+20 10000 0
+E
+halberd steel~
+You see a large, steel halberd on the floor.  It looks pretty heavy and you
+think that it would be difficult to wield.
+~
+#3861
+key blue water~
+the water key~
+You see a clear blue key here.~
+~
+3 68 16389 0
+0 0 0
+50 1 1 54
+0 0 0
+E
+key blue water~
+You see a clear blue key here.  It is cool to the touch and you sense a 
+strange power from it.  You wonder what you could possibly use a key such
+as this for.
+~
+#3862
+key red fire~
+the fire key~
+You see a deep, red key here.~
+~
+3 68 16389 0
+0 0 0
+50 1 1 26
+0 0 0
+E
+key red fire~
+You see a deep, red key here.  It is warm to the touch and you sense a
+strange power from it.  You wonder what a key such as this could possibly
+be used for.
+~
+#3863
+key white wind~
+the wind key~
+You see a transparent, white key here.~
+~
+3 68 16389 0
+0 0 0
+50 1 1 38
+0 0 0
+E
+key white wind~
+You see a white key, which you can see right through, lie here.  You sense
+a strange power eminating from this strange key, and wonder what this key
+unlocks.
+~
+#3864
+key black earth~
+the earth key~
+You see a large, black key here.~
+~
+3 64 16389 0
+0 0 0
+50 1 1 3
+0 0 0
+E
+key black earth~
+You see a large, black key here.  Upon picking it up, you find that it is
+made out of heavy iron.  You look at it curiously and wonder what kind of
+lock would need such a big key.
+~
+#3865
+key yellow sun~
+the sun key~
+You see a bright, yellow key here.~
+~
+3 68 16389 0
+0 0 0
+50 1 1 10
+0 0 0
+E
+key yellow sun~
+You see a bright, yellow key here.  It glows in the sunlight, and you wonder
+what kind of lock such a key could open.  You look around and see no obvious
+places to use this key at...
+~
+#3866
+key blue pale moon~
+the moon key~
+You see a pale, blue key here.~
+~
+3 68 16389 0
+0 0 0
+50 1 1 29
+0 0 0
+E
+key blue pale moon~
+You see a pale, blue key here.  It shines in the cold moonlight and you 
+wonder what door this key could possibly unlock.  Looking around, you see
+no evidence of anything remotely looking like a door or chest.
+~
+#3867
+key earthy brown rock~
+the rock key~
+You see an earthy, brown key here.~
+~
+3 68 16389 0
+0 0 0
+50 1 1 25
+0 0 0
+E
+key earthy brown rock~
+You see an earthy, brown key here.  It lays softly on the ground and you 
+wonder what such a key could possibly open.  Looking at it carefully, you
+find that it is not made out of metal, but more out of some kind of stone,
+some strange, metallic rock...
+~
+#3868
+key earthy silver mountain~
+the mountain key~
+You see a earthy, silver key here.~
+~
+3 68 16389 0
+0 0 0
+50 1 1 1
+0 0 0
+E
+key earthy silver mountain~
+You see an earthy, silver key here.  Upon closer inspection, it seems to be
+made from some sort of stone.  Holding it in your hands, you are reminded of
+a certain feeling... the coolness of the stone key in your hand reminds
+you of the snowy mountaintops...
+~
+#3869
+key bright gold thunder~
+the thunder key~
+You see a bright, gold key here.~
+~
+3 68 16389 0
+0 0 0
+50 1 1 30
+0 0 0
+E
+key bright gold thunder~
+You see a bright, gold key.   Upon closer inpection, you find it resembles
+an ordinary key of gold, although it is quite warm.  Suddenly, it becomes
+unbearably hot, and you drop it on the ground.  Upon hitting the ground, 
+a large thunderclap assaults your ears, striking you half deaf.  You 
+wonder what this thunderous key could possibly unlock...
+~
+#3870
+key wondrous white blue heavens~
+the key of the heavens~
+You see a wondrous, white and blue key here.~
+~
+3 68 16389 0
+0 0 0
+50 1 1 58
+0 0 0
+E
+key wondrous white blue heavens~
+You see a wondrous white and blue key here.  It looks spectacular to the
+eye, with its intricate designs and swirling bits of blue and white ivory.
+Looking at it, you wonder what this heavenly key could possibly open, and
+picking it up, you feel an immense sort power within it... immense power of
+destruction...
+~
+#3871
+belt water blue~
+the Water belt~
+You see a beautiful blue belt here.~
+~
+11 64 2049 0
+0 0 0
+0 0 0 0
+1 1000 1
+A
+17 1
+A
+16 -1
+E
+collar water blue~
+You see a beautiful blue collar here.  It glows with a dim intensity and
+you can see the shades of blue shift and swirl in an ever changing pattern.
+You wonder what kind of object this thing is, and touching it, you feel a
+sense of fluidity and freeness that you've never felt before.
+~
+#3872
+belt red fire~
+the Fire belt~
+You see a beautiful red belt here.~
+~
+11 64 2049 0
+0 0 0
+0 0 0 0
+1 1000 1
+A
+18 1
+A
+16 -1
+E
+collar fire red~
+You see a beautiful blue collar here.  It flickers in the dim light with
+a surprising light, which fills the air with a reddish color, like flames
+licking the air.  Touching it, you feel a warm sensation which fills you
+with battle lust.
+~
+#3873
+belt wind white~
+the Wind belt~
+You see a beautiful white belt here.~
+~
+11 64 2049 0
+0 0 0
+0 0 0 0
+1 1000 1
+A
+12 5
+A
+16 -1
+E
+collar wind white~
+You see a beautiful white chest here, whose white color shifts and changes
+slightly as the cool wind blows through the air.  Looking at it closely,
+you see bits of colors swirling about in gleeful play.  Touching it, you
+feel an energy which you've never felt before, urging you onward.
+~
+#3874
+belt earth black~
+the Earth belt~
+You see a beautiful black belt here.~
+~
+11 64 2049 0
+0 0 0
+0 0 0 0
+1 1000 1
+A
+11 5
+A
+16 -1
+E
+collar earth black~
+You see a beautiful black collar here, made of stiff black leather and
+embedded with several obsidian stones.  It gives a very earthy luster and
+you admire the very plain beauty of it.  Touching it, you feel more robust
+and healthier.
+~
+#3875
+belt sun gold~
+the Sun belt~
+You see a beautiful gold-colored belt here.~
+~
+11 64 2049 0
+0 0 0
+0 0 0 0
+1 1000 1
+A
+10 5
+A
+16 -1
+E
+collar sun gold~
+You see a beautiful golden collar here, plated with gold and encrusted with
+marcasite crystals.  It looks very beautiful in the light, and shines with a
+light all its own.  Touching it, you feel more powerful, as if something
+were increasing your own mental might.
+~
+#3876
+belt moon silver~
+the Moon belt~
+You see a beautiful silver belt here.~
+~
+11 64 2049 0
+0 0 0
+0 0 0 0
+1 1000 1
+A
+13 1
+A
+16 -1
+E
+collar moon silver~
+You see a beautiful silver collar here, encrusted with diamond crystals.
+It looks quite beautiful and shines with a haunting light.  Looking closer
+you find that there is a strange pattern on it, in a darker silver color.
+Touching it, you feel a certain sense of magic about it, something special.
+~
+#3877
+belt brown rock~
+the Rock belt~
+You see a beautiful brown belt here.~
+~
+11 64 2049 0
+0 0 0
+0 0 0 0
+1 1000 1
+A
+14 1
+A
+16 -1
+E
+collar brown rock~
+You see a beautiful brown collar here, made of plain brown leather, untanned,
+and encrusted with various stones, of no particular value.  However, the
+inconspicuous plainness of this collar makes it quite attractive, in a very
+strange sort of way, and touching it, you feel a sense of health coming from
+within the leather confines, something to do with the minerals perhaps?
+~
+#3878
+belt mountain grey~
+the Mountain belt~
+You see a beautiful grey belt here.~
+~
+11 64 2049 0
+0 0 0
+0 0 0 0
+1 1000 1
+A
+15 1
+A
+16 -1
+E
+collar mountain grey~
+You see a beautiful grey collar here, shining with an earthy luster from
+it's rocky crystals.  Looking at it closely, you find it is rather pretty, 
+in a very natural sort of way, and the feeling you get from touching it
+is not unlike taking a drink of clear water, making you refreshed and able
+to move on.
+~
+#3879
+belt thunder yellow~
+the Thunder belt~
+You see a beautiful yellow belt here.~
+~
+11 64 2049 0
+0 0 0
+0 0 0 0
+1 1000 1
+A
+17 1
+A
+18 1
+A
+16 -1
+E
+collar thunder yellow~
+You see a beautiful yellow collar here, made of pure copper and filled
+with stones of apatite.  It looks quite beautiful, despite its composition,
+and it sparkles with an almost electric intensity.  Touching it, you 
+receive a bit of a shock, but feel quite invigorated, for some reason.
+~
+#3880
+chest heavens blue white~
+the chest of the heavens~
+You see a beautiful blue and white chest here.~
+~
+15 64 16385 0
+0 0 0
+450 15 3870 0
+1 1000 1
+E
+chest heavens blue white~
+You see a beautiful chest made of some light-weight metal, and decorated
+with blue and white symbols, which seem to swirl around the chest like
+clouds in the sky.  Looking into the chest, you find that it is just as
+vast as the sky itself, and looks like it could hold many objects at once.
+~
+#3881
+boat~
+a boat~
+You see a boat here.~
+~
+22 0 1 0
+0 0 0
+0 0 0 0
+20 500 0
+E
+boat~
+You see a boat here.  It is made with metal on the outside, and wood on the
+inside.  Quite a strange design for such a boat.  For some reason, it has
+a number painted on the outside.
+~
+#3882
+cape half white~
+a white half cape~
+You see a white half cape here.~
+~
+9 0 1025 0
+0 0 0
+5 0 0 0
+1 10000 10
+A
+5 1
+A
+11 10
+E
+cape half white~
+You see a half white cape, which looks as if should be warn about the body, 
+so that it is swept across your right shoulder.  There is a clasp on it that
+will tie it to that point, and allow a bit of cape to still hang heroically
+from your chest.  It looks like something a hero would wear.
+~
+#3883
+tunic green~
+a green tunic~
+A green tunic lies here, blending into the grass.~
+~
+9 0 9 0
+0 0 0
+5 0 0 0
+1 10000 10
+A
+2 2
+E
+tunic green~
+You see a green tunic here, which blends into the green grass.  It looks
+very tight fitting, and comes with not only a tunic, but a tan undergarment
+to wear, as well as black bracers and tights.  It looks like it would allow
+you to move very freely, something that one would wear if they wished good
+protection with loss of little mobility.
+~
+#3884
+shield assault~
+an Assault Shield~
+A steel shield sits here, gleaming in the dim light.~
+~
+9 9457984 513 0
+0 0 0
+15 30000 4 0
+5 10000 100
+A
+21 -1
+E
+shield assault~
+You see a sturdy shield here, which is decorated with many runes and 
+consecrated with many holy symbols.  It looks very beautiful, and
+gleams uncannily in the dim light.  It would make a good companion
+in your travels and you admire the keen workmanship of this shield.
+~
+#3885
+assault breast plate armor~
+a breastplate of Assault Mail~
+A plate mail breast plate lies here.~
+~
+9 8679744 16393 0
+0 0 0
+9 0 0 0
+15 5000000 50000
+A
+18 1
+A
+17 1
+E
+assault breast plate armor~
+You see a simple plate mail breast plate.  It seems like a run-of-the-mill
+breast plate and doesn't seem particularly unique in any way.  You bring
+your finger closer to the plate mail and find your digit bleeding, pierced
+by a sudden dagger which appeared out of the armor...
+~
+#3891
+prince baby~
+the baby prince~
+A baby cries here, disturbed by the noise.~
+~
+8 320 1 0
+0 0 0
+0 0 500 0
+5 0 0
+E
+prince baby~
+You see a baby crying here.  Obviously, this baby must be the King's son which
+you have heard so much about.  The King will reward you handsomely for his
+rescue, assuming you get out of this alive.
+~
+#3892
+motorcycle motor cycle bike~
+a finely tuned motorcycle~
+A large motorcycle with red, white, and blue trimmings lies here.~
+~
+5 0 24577 0
+0 0 0
+0 12 1 6
+28 10000 10
+#3893
+chain bike~
+a bike chain~
+A chain made of strange links lies here.~
+~
+5 64 24577 0
+0 0 0
+30000 4 4 2
+1 1000 1
+A
+17 1
+E
+water lake~
+This lake looks surprisingly clean for a water source that doesn't have a
+river flowing into it. Upon drinking the water you taste that it is pure
+and sweet.~
+#3894
+Ru Paul Poster~
+a Ru Paul poster~
+A Ru Paul poster remains here, undetectable to the naked eye.~
+~
+12 32 1 0
+0 0 0
+0 0 0 0
+12 5 0
+E
+thing poster painting~
+A picture of Ru Paul (everyone's fave crossdresser) sits here on a stool
+with his legs spread apart. In high heels, sequins, and feathers he looks
+a Las Vegas showgirl. Pouting his ruby red painted lips in your direction
+he mimicks a kiss from where he is. He makes a pretty good girl with those
+smooth legs of his and his thin body. :D
+~
+#3895
+headpiece head piece demon lord~
+a demon lord's headpiece~
+You see a strange looking headpiece here.~
+~
+9 966720 17 0
+0 0 0
+5 0 0 0
+3 10000 100
+A
+13 1
+A
+10 5
+E
+headpiece head piece demon lord~
+You see a beautifully carved headpiece here.  It seems to be made out of
+a strange, shiny substance, yet it seems light and protective.  It is carved
+in the shape of some sort of sinister creature, and you can sense a strange
+power eminating from it.
+~
+#3896
+pendant seashell sea shell siren~
+a Siren's pendant~
+A small seashell pendant lies here, echoing the songs of the sea.~
+~
+9 64 16389 0
+0 0 0
+5 0 0 0
+0 1000 1
+A
+3 1
+E
+pendant seashell sea shell siren~
+You see a beautiful seashell, perfect in every way.  Someone has punched a
+hole at the narrow end of the shell and turned it into a lovely pendant.
+Despite its size, you can still hear the echoes of the sea from it, and
+occasionally you can hear the melody of a soft, lulling, song.  The shape
+of the shell is a little unusual, and it looks as if it is the key to 
+something greater.
+~
+#3897
+magazine~
+a Muscleman magazine~
+A Muscleman magazine remains well-hidden from prying eyes.~
+~
+12 32 1 0
+0 0 0
+0 0 0 0
+12 230 0
+E
+magazine~
+You are surprised to see this in the office of Dr. Hasukawa! Men of various
+muscular development parade their wet, gleaming bodies in each page. Some
+are in suggestive positions, smiling sensually from out of the pages while
+flexing their rock hard biceps. Other pages contain naked men showing off
+more then just their muscles on their body. ^_^ You notice many drool
+marks and crumpled up pages as you finger through the magazine. You begin
+to wonder if this doctor fellow is into guys...
+~
+#3898
+statue Linna goddess~
+a statue of the goddess Linna~
+A statue of the goddess Linna poses here in her hardsuit.~
+~
+12 66 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+statue Linna goddess~
+A statue of the goddess Linna, a member of the Knight Sabers, poses here
+as a sign of protection for weary adventurers who happen to lose their way.
+She holds up two gloved fingers in a "V" for victory.
+~
+#3899
+scroll musty old cross seal Herb~
+Herb's scroll~
+You see a musty, old scroll here, with a cross-shaped seal.~
+~
+2 64 1 0
+0 0 0
+20 1 39 3
+0 10000 0
+E
+scroll musty old cross seal~
+You pick up the scroll and read it:
+Hi, all you adventurers!  I've already taken the treasure here and I felt
+bad for anyone who came across it again, so here's a consolation prize.
+-- Herb
+~
+$

@@ -1,0 +1,33 @@
+CircleMUD v3.0 Shop File~
+#0~
+3050
+3051
+3052
+3053
+3054
+-1
+1.05 
+0.15 
+2
+3
+4
+10
+-1
+%s Sorry, but it seems that I have just recently ran out of stock on that.~
+%s What do you take me for, blind? You don't even have one of those!~
+%s Sorry, but that's just not something i need right now.~
+%s It's really a nice item, but I just can't afford it today!~
+%s Sorry friend, but since you can't pay for it, you can't have it!~
+%s That'll be %d coins, please. Thanks for the business.~
+%s You'll get %d coins for it. Thank you for your business.~
+0 
+0 
+10412 
+0 
+10499 
+-1
+0 
+28 
+0 
+0 
+$~

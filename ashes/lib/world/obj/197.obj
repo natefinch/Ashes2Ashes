@@ -1,0 +1,21 @@
+#19700
+corpse~
+the corpse of Azuth~
+The corpse of Azuth is lying here.~
+This is a magical torch.  It has been blessed to always burn, yet never
+consume itself.~
+15 0 513 0
+0 0 0
+1000 0 0 0
+150 100000 100000
+#19701
+Azuth~
+Azuth~
+Azuth is lying here.~
+This torch seems to be burning more dimly than the others.  It really makes
+you wonder why.  This may be cause for closer examination.~
+1 0 1 1
+0 0 0
+0 0 -1 0
+150 100000 100000
+$

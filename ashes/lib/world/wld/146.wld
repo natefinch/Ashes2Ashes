@@ -1,0 +1,2141 @@
+#14601
+The front porch~
+The front porch of this massive gothic mansion is made of heavy
+black marble and has huge pillars that rise up the entire height
+of the house to an arched overhang.  There is a large mat beneath
+your feet and the front door looks unlocked.  The front yard is
+very dark and eerie to either side of you.
+~
+146 1 1
+0d0+0 0 0
+D0
+The front door of the mansion looms before you.  ~
+~
+0 -1 14602
+D1
+The yard continues to the east.  ~
+~
+0 -1 14646
+D2
+A short drive leads back towards the main gate.  ~
+~
+0 -1 14594
+D3
+The yard continues to the west.  ~
+~
+0 -1 14648
+E
+mat~
+The floor mat beneath your feet reads "EMOCLEW".  ~
+S
+#14602
+The entranceway~
+The entryway of the mansion places the dark, menacing interior of
+the house before you and the safety of the outside world behind
+you.  The air is cold, damp, and filled with odd, disturbing odors.
+Do you really want to enter?
+~
+146 12 0
+0d0+0 0 0
+D0
+A large hallway is to the north.  ~
+~
+0 -1 14603
+D1
+A heavy oak door hangs on polished brass hinges.  ~
+door~
+1 -1 14608
+D2
+The front door of the mansion is to your south.  ~
+~
+0 -1 14601
+D3
+A heavy oak door hangs on polished brass hinges.  ~
+door~
+1 -1 14607
+S
+#14603
+The main hall - center~
+This huge entryhall has a ceiling that towers far overhead,
+covered with chandeliers that are draped heavily with cobwebs
+and dust.  Two curving stairways rise from the east and west
+and converge above you at a doorway.  There are doors to the
+east and west and a hallway to the north.  The front door of
+the mansion is directly to the south.  
+~
+146 12 0
+0d0+0 0 0
+D0
+A hallway leads to the north.  ~
+~
+0 -1 14606
+D1
+The main hall continues to the east.  ~
+~
+0 -1 14605
+D2
+This passage leads back to the front door.  ~
+~
+0 -1 14602
+D3
+The main hall continues to the west.  ~
+~
+0 -1 14604
+S
+#14604
+The main hall - west side~
+Here on the west side of the main hall of the mansion, there
+is a curved stairway leading up and to the east.  The dirty
+chandeliers high above you cast an uncertain light on the room,
+causing you to constantly glance at the shadows.  The odor of
+rotting vegetation and damp earth assails your nostrils.
+~
+146 12 0
+0d0+0 0 0
+D1
+The center of the main hall is to the east.  ~
+~
+0 -1 14603
+D3
+A room filled with plants is visible to the west.  ~
+~
+0 -1 14609
+D4
+Some curving stairs lead up to a room with music coming from it.  ~
+stairs~
+0 -1 14611
+S
+#14605
+The main hall - east side~
+Here on the east side of the main hall there is a sweeping
+marble staircase that leads up and to the west towards a
+landing on the second floor.  The flickering light cast by the
+chandeliers high above you causes the shadows to move in a
+manner that makes you uneasy.  The smell of must and dust and
+ancient leather assails you from the room to the east.
+~
+146 8 0
+0d0+0 0 0
+D1
+The library is visible through a doorway to the east.  ~
+~
+0 -1 14617
+D3
+The center of the main hall is to the west.  ~
+~
+0 -1 14603
+D4
+Some stairs curve up towards a room with music coming from it.  ~
+~
+0 -1 14612
+S
+#14606
+Hallway~
+This hallway is extremely wide with a very high ceiling.  It
+connects the large entry hall with a large room to the north that
+appears to be some sort of museum for armor.  A fountain is
+gurgling noisily in the center of the room to the north.
+~
+146 8 0
+0d0+0 0 0
+D0
+A dimly lit room with a fountain is to the north.  ~
+~
+0 -1 14622
+D2
+A huge hall is visible to the south.  ~
+~
+0 -1 14603
+S
+#14607
+The cloakroom~
+Rusty coathangers and rotting, moldy garments are crammed into 
+this dingy closet.  The air reeks of mothballs and mold, and the
+garments you see before you fall apart at the touch.
+~
+146 9 0
+0d0+0 0 0
+D1
+A door leads back out of the cloakroom.  ~
+door~
+1 -1 14602
+S
+#14608
+The top of a dark staircase~
+Frigid, stale air flows unevenly from the bottom of the stairs
+which descend into the darkness to the east and end at a door
+to the west.  The stairs here are heavily worn and you can hear
+odd sounds echoing quietly from the depths below.  The stairs
+are rather rickety, you should be careful on them.
+~
+146 269 0
+0d0+0 0 0
+D3
+A faint light shines from beneath this door.  ~
+door~
+1 -1 14602
+D5
+The steps continue down into the darkness.  ~
+~
+0 -1 14695
+S
+#14609
+The Arboretum~
+This high-ceilinged room has many large windows which are all
+covered with heavy black crepe.  In this dingy area there are
+dozens of potted plants, shrugs, and small trees.  A thick
+damp odor permeates the room which continues to the north or
+exits to a hallway to the east.
+~
+146 9 0
+0d0+0 0 0
+D0
+The aboretum continues to the north.  ~
+~
+0 -1 14610
+D1
+This entrance leads back to the main hallway.  ~
+~
+0 -1 14604
+S
+#14610
+The Arboretum~
+The northern end of the arboretum is full of strangely dead 
+shrubs and trees.  As you inspect some of these potted plants,
+you realize that the leaves have all been snipped off carefully,
+without almost surgical precision.  Someone must take their
+pruning very seriously.
+~
+146 0 0
+0d0+0 0 0
+D0
+You can see a hallway to the north.  ~
+~
+0 -1 14634
+D2
+The aboretum continues to the south.  ~
+~
+0 -1 14609
+D3
+A lush greenhouse is just to the west.  ~
+~
+0 -1 14614
+S
+#14611
+On the curving stairs~
+The massive marble stairs are dark and discolored.  They lead
+up towards the second floor where a doorway leads to the
+north.  Below, the main entryway is clearly visible.  Perhaps
+it is a good time to leave while you can still see the door?
+~
+146 12 0
+0d0+0 0 0
+D1
+A noisy party is going on just beyond the top of the stairs.  ~
+~
+0 -1 14613
+D5
+The stairs lead down to a large hallway.  ~
+~
+0 -1 14604
+S
+#14612
+On the curving stairs~
+The wide marble stairs are dark and discolored beneath your
+feet.  They curve up to a second floor landing where a door
+can be seen, leading to the north.  Below you the stairs lead
+back down to the main entryhall.  The sputtering light given
+off by the chandeliers does not illuminate the stairs well
+so you tightly grip the bannister as you use the stairs.
+~
+146 12 0
+0d0+0 0 0
+D3
+The stairs lead to a doorway from which loud music is blasting.  ~
+~
+0 -1 14613
+D5
+The stairs lead down to a large hallway.  ~
+~
+0 -1 14605
+S
+#14613
+At the top of the stairs~
+You are standing on a marble landing high above the entryway
+hall below.  Dark marble stairways curve down from both sides
+of the landing, leading back to the hall below.  The doorway
+to the north is open and you can clearly hear the sounds of
+voices and music coming from the brightly lit room within.
+~
+146 12 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 14658
+D1
+~
+~
+0 -1 14612
+D3
+~
+~
+0 -1 14611
+S
+#14614
+The Greenhouse~
+Just west of the arborium, you are standing at the eastern
+end of a long, narrow greenhouse that is filled with the most
+unusual and disgusting-looking plants that you have ever seen.
+Odd and unsettling smells permeate the room which stretches
+far to the west.  The green glass makes the entire room look
+unearthly and you feel uncomfortable with the thought of
+exploring this place.
+~
+146 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14610
+D3
+~
+~
+0 -1 14615
+S
+#14615
+The Greenhouse~
+The huge greenhouse that is attached to the west side of the
+mansion is indeed made of green glass.  The weird light that
+illuminates the room only makes the strange and unfamiliar
+flora look even more exotic and bizarre.  The air is filled
+with the pungent and almost overpowering scent of the various
+plants that appear to be growing wild.  You hear an occasional
+rustling sound that really doesn't sound like an animal.
+~
+146 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 14614
+S
+#14616
+Into the cauldron~
+What are you, a total idiot?  Burning pitch sears into your flesh
+as you scream in agony, thrashing about in the boiling fluid.  You
+can feel the flesh curling away from your bones as you try not to
+succumb to the blistering heat.
+~
+146 28678 0
+1d1+199 90 0
+D4
+The outside of the cauldron looks MUCH more comfortable.  ~
+~
+0 -1 14694
+S
+#14617
+The library~
+The library is a long, narrow room with floor to ceiling shelving
+built into the walls.  These shelves are densely packed with old,
+dusty books, manuscripts, and papers of all sorts.  Spider webs
+cover most of the books and the dust obscures most of the titles.
+There is a comfortable-looking easy chair here and the room smells
+of rancid tobacco smoke.
+~
+146 8 0
+0d0+0 0 0
+D0
+The doorway leads to another room.  ~
+~
+0 -1 14620
+D1
+A bookcase full of dusty books stands here.  ~
+bookcase~
+1 -1 14618
+D3
+The doorway leads back to the main hallway.  ~
+~
+0 -1 14605
+S
+#14618
+Hidden room~
+This small room is dusty and smells of moldy paper and leather.
+The walls are unpainted and there is some sort of hinged panel
+on the western wall that seems to be the only exit.  You sneeze
+a few times and feel the urge to get some fresh air.
+~
+146 9 0
+0d0+0 0 0
+D3
+A hidden panel leads back into an adjacent room.  ~
+panel~
+1 -1 14617
+D5
+A heavy wooden trapdoor lies beneath your feet.  ~
+trapdoor~
+1 -1 14579
+S
+#14619
+Inside the iron maiden~
+You are standing within the incredibly cramped confines of this
+large iron maiden.  Nasty spikes are pressing uncomfortably
+against you as you look carefully within the cast iron horror.
+You keep looking over your shoulder to make sure that the iron
+maiden doesn't close on your while you are in it.
+~
+146 9 0
+0d0+0 0 0
+D2
+The door of the iron maiden is lined with spikes.  ~
+device~
+1 -1 14688
+S
+#14620
+The study~
+This room is panelled in dark wood and has numerous shelves full
+of dusty books lined along the walls.  Various medieval-looking
+shields and weapons are mounted to the walls, and somehow they
+all look like they are in beautiful working condition.  The large
+desk here has the usual blotter, paper, and writing instruments.
+~
+146 8 0
+0d0+0 0 0
+D0
+A hallway is visible to the north.  ~
+~
+0 -1 14631
+D2
+A library is visible to the south.  ~
+~
+0 -1 14617
+S
+#14621
+The Hall of Armor~
+This large hall is adorned with numerous shields and weapons
+mounted on the walls as well as various displays of medieval
+armor.  A dark fountain appears to be broken in the center of
+the room which smells strongly of oil and leather.
+~
+146 8 0
+0d0+0 0 0
+D0
+The Hall of Armor continues north.  ~
+~
+0 -1 14624
+D1
+The Hall of Armor continues east.  ~
+~
+0 -1 14622
+S
+#14622
+The Hall of Armor~
+You are standing inside the south entrance of a large hall that
+appears to be a museum of some sort.  Dozens of shields, weapons,
+and other instruments of war are mounted on the walls around the
+room.  Various suits of armor are displayed here throughout the
+hall which must explain the strong odor of oil and leather.  
+There is a black fountain to the north and an exit to the south.
+~
+146 8 0
+0d0+0 0 0
+D0
+The Hall of Armor continues north towards a fountain.  ~
+~
+0 -1 14625
+D1
+The Hall of Armor continues east.  ~
+~
+0 -1 14623
+D2
+The Hall of Armor exits south onto a hallway.  ~
+~
+0 -1 14606
+D3
+The Hall of Armor continues west.  ~
+~
+0 -1 14621
+S
+#14623
+The Hall of Armor~
+Here in the southeast corner of this large hall, you have an
+excellent view of the scores of weapons, shields, and battle
+flags that cover the walls of this large room.  There are several
+suits of armor displayed here and in the center of the room is
+a strangely silent fountain.  There are exits on all four sides
+of the room.
+~
+146 8 0
+0d0+0 0 0
+D0
+The Hall of Armor continues north.  ~
+~
+0 -1 14626
+D3
+The Hall of Armor continues west.  ~
+~
+0 -1 14622
+S
+#14624
+The Hall of Armor~
+At the western side of the Hall of Armor your nostrils detect
+the smell of oil and leather from the hall and a somewhat
+earthen smell coming from the hall to the west.  The hall itself
+is decorated like a war museum with shields, spears, swords, and
+suits of armor displayed throughout the large room.  A dark
+fountain sits quietly in the center of the room.
+~
+146 8 0
+0d0+0 0 0
+D0
+The Hall of Armor continues north.  ~
+~
+0 -1 14627
+D1
+The Hall of Armor continues east towards a fountain.  ~
+~
+0 -1 14625
+D2
+The Hall of Armor continues south.  ~
+~
+0 -1 14621
+D3
+The Hall of Armor exits west onto a hallway.  ~
+~
+0 -1 14632
+S
+#14625
+The Hall of Armor~
+Here in the center of the Hall of Armor you can truly take in
+the grandeur of this museum-like room.  Carefully mounted on
+the walls of this room are scores of weapons, shields, banners,
+and other tools of the warrior including some complete suits
+of armor.  There are four exits to the room radiating out to
+the four points of the compass.
+~
+146 8 0
+0d0+0 0 0
+D0
+The Hall of Armor continues north.  ~
+~
+0 -1 14628
+D1
+The Hall of Armor continues east.  ~
+~
+0 -1 14626
+D2
+The Hall of Armor continues south.  ~
+~
+0 -1 14622
+D3
+The Hall of Armor continues west.  ~
+~
+0 -1 14624
+S
+#14626
+The Hall of Armor~
+Here in the Hall of Armor the walls are covered with scores of
+war banners, shields, weapons, and various other tools of war.
+There is a large fountain in the center of the room and various
+suits of armor are displayed here.  There is a hallway to the
+east and exits from the hall on the other three sides of the hall.
+~
+146 8 0
+0d0+0 0 0
+D0
+The Hall of Armor continues north.  ~
+~
+0 -1 14629
+D1
+The Hall of Armor exits east onto a hallway.  ~
+~
+0 -1 14630
+D2
+The Hall of Armor continues south.  ~
+~
+0 -1 14623
+D3
+The Hall of Armor continues west towards a fountain.  ~
+~
+0 -1 14625
+S
+#14627
+The Hall of Armor~
+The walls and floor of this northwest corner of the Hall of
+Armor has an odd red tint.  All around you, the walls are covered
+with various implements of war that the Addams have collected
+over the centuries.  A large black fountain is in the center
+of the room and hallways exit the room from all four sides.
+~
+146 8 0
+0d0+0 0 0
+D1
+The Hall of Armor continues east.  ~
+~
+0 -1 14628
+D2
+The Hall of Armor continues south.  ~
+~
+0 -1 14624
+S
+#14628
+The Hall of Armor~
+Standing here at the north end of this hall, you detect some
+rather disagreeable odors coming from the hall to the north.
+There are suits of armor, swords, spears, and battle flags
+displayed throughout the hall like a museum.  There are exits on
+all four sides of the hall and a black fountain sits right in
+the center of the room.
+~
+146 8 0
+0d0+0 0 0
+D0
+The Hall of Armor exits north into a hallway.  ~
+~
+0 -1 14633
+D1
+The Hall of Armor continues east.  ~
+~
+0 -1 14629
+D2
+The Hall of Armor continues south towards a fountain.  ~
+~
+0 -1 14625
+D3
+The Hall of Armor continues west.  ~
+~
+0 -1 14627
+S
+#14629
+The Hall of Armor~
+This corner of the hall seems to have an odd greenish tinge to
+the walls and floor.  Above your head there are dozens of shields,
+swords, spears, and other instruments of war displayed throughout
+the hall.  A large black fountain rests in the center of the room
+and four hallways radiate away from the hall in all four
+directions.
+~
+146 8 0
+0d0+0 0 0
+D2
+The Hall of Armor continues south.  ~
+~
+0 -1 14626
+D3
+The Hall of Armor continues west.  ~
+~
+0 -1 14628
+S
+#14630
+East hallway~
+You are standing at the end of a fairly long hallway that ends
+to the east and continues to the west.  There is a door to the
+north and several more doors are visible to the west.  You detect
+the faint odor of turpentine here.
+~
+146 8 0
+0d0+0 0 0
+D0
+A dark room is just to the north.  ~
+~
+0 -1 14672
+D1
+The hall continues east.  ~
+~
+0 -1 14631
+D3
+A large hall is just to the west.  ~
+~
+0 -1 14626
+S
+#14631
+East hallway~
+You are standing at the end of a long hallway that stretches
+off to the west.  There is a massive stained glass window
+to the east but it is too dark to make out the design.  You
+can see a door immediately to the south and a door on the
+north side of the hallway a few feet to the west.
+~
+146 8 0
+0d0+0 0 0
+D2
+A room is to the south.  ~
+~
+0 -1 14620
+D3
+The hall continues west.  ~
+~
+0 -1 14630
+S
+#14632
+West hallway~
+You are standing south of a doorway in a hallway that leads both
+east and west.  A large hall is visible to the east and there
+appear to be some shadowy figures lurking in the corners.  Some
+doors are visible to the west and you notice the smell of wet earth.
+~
+146 8 0
+0d0+0 0 0
+D0
+A heavy door made of ebony is to the north.  ~
+door~
+2 14602 14673
+D1
+The hall leads to a large room.  ~
+~
+0 -1 14624
+D3
+The hall continues west.  ~
+~
+0 -1 14634
+S
+#14633
+North hallway~
+The hallway here is rather wide and is panelled in dark wood that
+has been draped with black crepe.  Dusty and covered with spider
+webs, the hallway leads south to a large room and continues to
+the north.  Your nose detects a faint odor of something that you
+can't quite put your finger on.
+~
+146 8 0
+0d0+0 0 0
+D0
+The hall continues north towards the odd odor.  ~
+~
+0 -1 14635
+D2
+The Hall of Armor is just to the south.  ~
+~
+0 -1 14628
+S
+#14634
+West hallway~
+You are standing in an east-west hallway that opens onto a room
+to the south and continues east.  A lavish arboreum lies to the
+south and several doors can be seen farther east down the hall.
+The smell of wet earth and vegetation is overwhelming here.
+~
+146 12 0
+0d0+0 0 0
+D1
+The hall continues east.  ~
+~
+0 -1 14632
+D2
+The Aboretum is just to the south.  ~
+~
+0 -1 14610
+S
+#14635
+North hallway~
+This wide hallway is panelled in dark mahogany and has black crepe
+draped along the walls.  The moldly smell of rotting cloth and
+old wood is very strong here but you notice some even more
+unpleasant odors coming from the north.
+~
+146 8 0
+0d0+0 0 0
+D0
+A large dining room is just to the north.  ~
+~
+0 -1 14636
+D1
+The next room seems to be a portrait gallery.  ~
+~
+0 -1 14670
+D2
+The hall continues south.  ~
+~
+0 -1 14633
+S
+#14636
+The dining room~
+This elegant dining room has a huge table that could easily seat
+twenty guests.  High-backed chairs surround the table which is
+covered with an incredibly thick layer of dust.  Cobwebs trail
+from the chandelier overhead.  Some odd objects clutter the top of
+the table.  Some look suspiciously like bones.
+~
+146 8 0
+0d0+0 0 0
+D0
+An elaborate french door leads out to the terrace.  ~
+door~
+1 -1 14644
+D2
+The room exits onto a hallway leading south.  ~
+~
+0 -1 14635
+D3
+The kitchen is just to the west.  ~
+~
+0 -1 14637
+S
+#14637
+The kitchen~
+This large kitchen is filled with huge, commercial ovens and
+cooking equipment.  Filthy and swarming with vermin, these gaping
+ovens and encrusted stove tops have cooking utensils scattered 
+about and all sorts of unpleasant things crunch underfoot.  For
+some reason, this kitchen does NOT make you feel hungry.  There is
+a small sign hanging above the stove.
+~
+146 8 0
+0d0+0 0 0
+D1
+A large dining room is just to the east.  ~
+~
+0 -1 14636
+D2
+The kitchen continues south.  ~
+~
+0 -1 14639
+D3
+A heavy wooden door appears to lead back outside.  ~
+door~
+1 -1 14651
+E
+sign~
+The sign reads, "If it moves, eat it!"
+~
+S
+#14638
+The pantry~
+This tiny room is filled with sagging wooden shelves filled with
+hundreds of rusting cans with illegible labels.  Bags of some
+sort of grain have spilled out onto the floor and the copious
+amount of rat droppings indicate that it is a popular spot to eat.
+~
+146 9 0
+0d0+0 0 0
+D0
+A door leads back out of the pantry.  ~
+door~
+1 -1 14639
+S
+#14639
+The kitchen~
+This side of the kitchen appears to be the food preparation area
+as there are numerous tables and preparation tools spread about.
+There is a freezer to the east and some stairs leading down to
+the south.  A dumbwaiter is built into the west walls where it
+gapes like some sort of screaming creature.
+~
+146 8 0
+0d0+0 0 0
+D0
+The kitchen continues north.  ~
+~
+0 -1 14637
+D1
+The freezer door is cold to the touch.  ~
+door~
+1 -1 14528
+D2
+A worn wooden door is to the south.  ~
+door~
+1 -1 14638
+D3
+A dumbwaiter is built into the wall to the west.  ~
+dumbwaiter~
+0 -1 14640
+D5
+Some narrow stairs lead down into the darkness.  ~
+~
+0 -1 14515
+S
+#14640
+Dumb waiter~
+Braced here in the dumbwaiter shaft, cold air is blowing from 
+below causing you to shiver, almost loosing your grip.  The glint
+of jagged pieces of metal can be seen both above and below you.
+Your arms are tiring.  You had better decide on which way you 
+want to go before you fall.  ~
+146 0 0
+0d0+0 0 0
+D1
+The kitchen looks almost homey as you struggle not to fall.  ~
+~
+0 -1 14639
+D4
+The dusty shaft above looks dark and slippery.
+~
+~
+0 -1 14641
+D5
+The dusty shaft below looks dark and slippery.
+~
+~
+0 -1 14641
+S
+#14641
+Dumb waiter~
+You foolishly attempt to climb in the dumb waiter shaft and slip,
+plummeting into the darkness and hitting the bottom with bone-crushing
+force.  All you can see is red as agony flares through your body
+with mind-shattering intensity.  You feel your life begin to slip
+away as you valiantly struggle to hold on . . .
+~
+146 18447 0
+1d1+199 90 0
+D1
+A room with padded walls looks like the only way out.
+~
+~
+0 -1 14643
+S
+#14642
+Dumb waiter~
+You are squeezed into the very bottom of the dumb waiter shaft.
+Odd sounds echo from above you as cobwebs and dust make you want to
+sneeze.  As you look up into the darkness, you realize that you will
+not be able to climb back up the shaft.
+~
+146 13 0
+0d0+0 0 0
+D1
+The dingy padded cell may be the only way out.
+~
+~
+0 -1 14643
+S
+#14643
+A padded cell~
+You are in an extremely small padded call which appears to have
+only a single exit.  The dumbwaiter set deep into the wall from
+which a warm breeze is blowing.  You search the room, poking
+at the rotting padding that is tacked to the walls.  A sense of
+despair overcomes you as you realize there may be no exit.
+~
+146 2057 0
+0d0+0 0 0
+D3
+The opening of a dumb waiter gapes darkly in the wall to the west.
+Odd sounds echo from it and are quickly swallowed up by the padded
+walls of this cell.
+~
+~
+0 -1 14642
+S
+#14644
+The terrace~
+You are on one side of a long terrace that is built behind the
+Addams family mansion.  Low walls run around the edge with small
+openings where stairs lead down to the lawn.  Colorful Japanese
+lanterns swing here in the chilly wind, casting odd shadows
+in the somewhat unsettling back yard.  French doors to the south
+lead back into the house.
+~
+146 0 2
+0d0+0 0 0
+D0
+The backyard continues to the north.  You see a shed in the distance.  ~
+~
+0 -1 14536
+D1
+The backyard continues to the east.  ~
+~
+0 -1 14657
+D2
+An elaborate french door leads back to the dining room.  ~
+door~
+1 -1 14636
+D3
+The terrace continues to the west.  ~
+~
+0 -1 14645
+S
+#14645
+The terrace~
+You are standing at the western end of a long terrace that looks
+out over the backyard of the mansion.  There are some door visible
+to the east that lead back into the house.  Stairs lead down to
+the yard and the oddly dead grass.  Bright paper lanterns are
+strung here.  When you look closely, you realize that the 
+lanterns resemble skulls.
+~
+146 0 2
+0d0+0 0 0
+D0
+The backyard continues to the north.  ~
+~
+0 -1 14536
+D1
+The backyard terrace continues to the east.  ~
+~
+0 -1 14644
+D3
+The backyard continues to the west.  ~
+~
+0 -1 14656
+S
+#14646
+In the front yard~
+You are standing in half-shadows in the front yard of the Addams
+Family mansion, just east of the front porch.  It is extremely
+dark to the east and you can barely make out a dark shape on
+the ground.  You seem to hear the sound of wind whistling to
+the east.
+~
+146 1 2
+0d0+0 0 0
+D1
+The yard continues.  ~
+~
+0 -1 14647
+D3
+The entrance is just to the west.  ~
+~
+0 -1 14601
+D5
+A narrow trench here looks rather deep.  ~
+~
+0 -1 14541
+S
+#14647
+In the front yard~
+Here at the southeast corner of the mansion, you have an excellent
+view of both the mansion and the steep gorge to the east.  You
+seem to detect music coming from somewhere above you, perhaps 
+there is a party going on?  You step carefully as the steep cliff
+to the east looks dangerous and the ground looks oddly dark to
+the west.
+~
+146 1 2
+0d0+0 0 0
+D0
+The side yard extends to the north.  ~
+~
+0 -1 14653
+D3
+The front yard continues west.  ~
+~
+0 -1 14646
+S
+#14648
+In the front yard~
+You are standing in half-shadows, just west of the dimly
+illuminated front porch of the Addams Family mansion.  It is
+inky black to the west although you can make out the shadowy
+outline of the house.  The front porch to the east doesn't look
+very welcoming but it looks better than the darkness to the west.
+~
+146 1 2
+0d0+0 0 0
+D1
+The entrance is just to the east.  ~
+~
+0 -1 14601
+D3
+The front yard continues to the west.  ~
+~
+0 -1 14691
+S
+#14649
+In the front yard~
+Here at the southwest corner of the Addams Family mansion, it
+is still very dark and eerie in the dense shadow cast by the
+monstrous building.  It is too dark to see much of anything
+besides the dense black stone walls of the mansion.
+~
+146 1 2
+0d0+0 0 0
+D0
+The side yard extends to the north.  ~
+~
+0 -1 14650
+D1
+The front yard continues to the east.  ~
+~
+0 -1 14691
+S
+#14650
+In the side yard~
+Here outside of the Addams family mansion it is oppressively
+dark as the sprawling mansion easily blocks all the light from
+the sun.  The grass here is stunted and oddly colored.  You can
+see a door in the side of the house to the north and you can
+barely see a dim path leading down the hill to the north that
+leads to what appears to be a cemetary.
+~
+146 1 2
+0d0+0 0 0
+D0
+The side yard continues to the north.  ~
+~
+0 -1 14651
+D2
+The side yard continues to the south.  ~
+~
+0 -1 14649
+S
+#14651
+In the side yard~
+You are on the Addams family mansion grounds, on the west side
+of the house.  There is a doorway here from which some truly
+disgusting smells are emanating.  The ground is sloping gently
+down to the north and you can clearly hear the wind whistling
+through the rafters above your head.
+~
+146 5 2
+0d0+0 0 0
+D0
+The side yard continues to the north.  ~
+~
+0 -1 14652
+D1
+A thick wooden door leads into the house.  ~
+door~
+1 -1 14637
+D2
+The side yard continues to the south.  ~
+~
+0 -1 14650
+S
+#14652
+In the side yard~
+You are standing in the yard just outside the northwest corner of
+a large, hulking mansion.  A steep gravel walk winds down the hill
+to the west and you can see an overgrown terrace a bit to the east.
+The wind is blowing sharply around the corner chilling you to the
+bone.
+~
+146 0 2
+0d0+0 0 0
+D0
+The back yard extends to the north.  ~
+~
+0 -1 14534
+D1
+The backyard continues to the east.  ~
+~
+0 -1 14656
+D2
+The side yard extends to the south.  ~
+~
+0 -1 14651
+D3
+A gravel path leads down the hill towards a cemetary.  ~
+~
+0 -1 14500
+S
+#14653
+In the side yard~
+You are moving across the dead grass here in the side yard of
+the Addams family mansion.  The side of the mansion is featureless
+here and you have little choice but to go north or south.  To 
+the east the lawn drops off precipitously into a steep gorge.
+Best not go that way.
+~
+146 1 2
+0d0+0 0 0
+D0
+The side yard continues north.  ~
+~
+0 -1 14654
+D2
+The side yard continues south.  ~
+~
+0 -1 14647
+D5
+A very steep slope leads down to a rocky gorge.  ~
+~
+0 -1 14577
+S
+#14654
+In the side yard~
+Here outside the east side of the mansion, a narrow expanse of
+lawn terminates abruptly against a steep cliff that leads down
+to a rocky gorge.  You feel oddly claustrophobic as you make 
+you way along this narrow and somewhat perilous area.  You look
+for a door to enter the house but see nothing here.
+~
+146 1 2
+0d0+0 0 0
+D0
+The side yard continues north.  ~
+~
+0 -1 14655
+D2
+The side yard continues south.  ~
+~
+0 -1 14653
+D5
+A steep slope leads down to some jagged rocks.  ~
+~
+0 -1 14577
+S
+#14655
+In the side yard~
+Here on the eastern side of the mansion, the ground slopes steeply
+down to a rocky crevice.  Falling would surely be fatal so you
+walk very carefully.  You are near the back yard and you can see
+the glow of tiny lights to the west.  All of the mansion windows
+appear to be unlit.  Perhaps nobody is home?
+~
+146 1 2
+0d0+0 0 0
+D0
+The back yard is to the north.  ~
+~
+0 -1 14539
+D2
+The side yard extends to the south. ~
+~
+0 -1 14654
+D3
+The backyard is to the west.  ~
+~
+0 -1 14657
+D5
+A steep precipice leads down to some jagged rocks.  ~
+~
+0 -1 14577
+S
+#14656
+In the backyard~
+You are standing in the backyard of a large mansion that looms
+darkly to the south.  There is a large terrace to the east and
+some sort of structure farther to the north.  You can make out a
+path snaking its way down the hill to the west towards what may
+be a cemetery.
+~
+146 0 2
+0d0+0 0 0
+D0
+The backyard continues to the north.  ~
+~
+0 -1 14535
+D1
+A large terrace is just to the east.  ~
+~
+0 -1 14645
+D3
+The backyard continues to the west.  ~
+~
+0 -1 14652
+S
+#14657
+In the back yard~
+Here at the northeast corner of the mansion, the wind is blowing
+sharply and you are instantly chilled to the bone.  There is a
+large wooden structure of some sort to the north and a brightly
+lit terrace to the east.  You can't shake the impression that
+you are being watched.
+~
+146 0 2
+0d0+0 0 0
+D0
+The backyard continues north towards some kind of wooden structure.  ~
+~
+0 -1 14513
+D1
+The backyard continues to the east.  ~
+~
+0 -1 14655
+D3
+A large terrace is to the west.  ~
+~
+0 -1 14644
+S
+#14658
+The ballroom~
+Just inside the ballroom, you feel yourself being pulled into
+the party.  Loud music is blasting from a bandstand somewhere
+at the other end of the room.  Through the hazy cigarette smoke
+you catch glimpses of some shimmering lights up on the ceiling.
+~
+146 8 0
+0d0+0 0 0
+D0
+The ballroom continues north towards a noisy band.  ~
+~
+0 -1 14662
+D1
+The ballroom continues east.  ~
+~
+0 -1 14659
+D2
+The ballroom exits to the south.  ~
+~
+0 -1 14613
+D3
+The ballroom continues west.  ~
+~
+0 -1 14660
+S
+#14659
+The ballroom~
+In this corner of the ballroom you have a fairly good view of
+the entire party.  There is a door to the north from which a cool
+breeze is blowing.  The bandstand is across the room past the
+disco ball and the bar is towards the west.
+~
+146 8 0
+0d0+0 0 0
+D0
+The ballroom continues north.  ~
+~
+0 -1 14663
+D3
+The ballroom continues west.  ~
+~
+0 -1 14658
+S
+#14660
+The ballroom~
+Just to the west of the entrance to the ballroom, you have a great
+view of the room although almost everything is hard to make out
+in the thick swirls of smoke that fill the room.  There is a door
+just to the north that leads into a room where you can hear
+the clink of glassware.  Perhaps you can get something to drink?
+~
+146 8 0
+0d0+0 0 0
+D0
+The ballroom continues north.  ~
+~
+0 -1 14661
+D1
+The ballroom continues east.  ~
+~
+0 -1 14658
+S
+#14661
+The ballroom~
+This is probably the best spot in the entire ballroom.  Still on
+the dancefloor but close to the bar!  What a great place to 
+hang out and enjoy the party.  You can barely hear the clink
+of glassware from the bar over the loud music that echoes 
+through the ballroom.  You look at the crowd and wonder if you
+might get lucky!
+~
+146 8 0
+0d0+0 0 0
+D0
+The ballroom continues north.  ~
+~
+0 -1 14664
+D1
+The ballroom continues east.  ~
+~
+0 -1 14662
+D2
+The ballroom continues south.  ~
+~
+0 -1 14660
+D3
+A french door leads to the bar.  ~
+door~
+1 -1 14668
+S
+#14662
+The ballroom~
+The ballroom is a huge, domed room with stained glass windows
+surrounding the ceiling that is at least thirty feet above your
+head.  The room is set up for a huge party with decorations,
+streamers, refreshments and loud music blasting.  The air is
+clammy and a faint scent of death is barely detectable over the
+reek of cheap perfumes and stale beer.  You feel an almost
+uncontrollable urge to shotgun a couple Miller Lites.
+~
+146 8 0
+0d0+0 0 0
+D0
+The ballroom continues north.  ~
+~
+0 -1 14665
+D1
+The ballroom continues east.  ~
+~
+0 -1 14663
+D2
+The ballroom continues south.  ~
+~
+0 -1 14658
+D3
+The ballroom continues west.  ~
+~
+0 -1 14661
+S
+#14663
+The ballroom~
+A breath of fresh air is coming from the balcony to the east,
+making it a bit easier to breath in this smoky ballroom.  The
+loud music and the spinning lights are a little subdued here
+near the doorway.  The crowd may be thinning out a bit and you
+wonder if you should step out for a breath of real fresh air.
+~
+146 8 0
+0d0+0 0 0
+D0
+The ballroom continues north.  ~
+~
+0 -1 14666
+D1
+A french door leads out onto the east balcony.  ~
+door~
+1 -1 14667
+D2
+The ballroom continues south.  ~
+~
+0 -1 14659
+D3
+The ballroom continues east.  ~
+~
+0 -1 14662
+S
+#14664
+The ballroom~
+The party is in full swing around you as you hover around just
+outside of the ladies lounge trying to get lucky.  The music is
+pounding in your ears and the room is hot and steamy with the
+crowd dancing feverishly all around you.
+~
+146 8 0
+0d0+0 0 0
+D0
+The door to the ladies lounge is to the north.  ~
+door~
+1 -1 14522
+D1
+The ballroom continues east.  ~
+~
+0 -1 14665
+D2
+The ballroom continues south.  ~
+~
+0 -1 14661
+S
+#14665
+The ballroom~
+The loud music and the spinning lights really make you a little
+overwhelmed.  Through a haze of cigarette smoke you can see
+the bandstand to the north flanked by two doors and the bar is
+just visible through a doorway far to the west.
+~
+146 8 0
+0d0+0 0 0
+D0
+The bandstand is to the north.  ~
+~
+0 -1 14526
+D1
+The ballroom continues east.  ~
+~
+0 -1 14666
+D2
+The ballroom continues south.  ~
+~
+0 -1 14662
+D3
+The ballroom continues west.  ~
+~
+0 -1 14664
+S
+#14666
+The ballroom~
+At this end of the ballroom you are standing just outside of
+the men's lounge to the north.  The bandstand is to the west and
+the party still seems like its in full swing.  The music is
+particularly loud here and through the haze of cigarette smoke
+you wonder where the nearest exit is.
+~
+146 8 0
+0d0+0 0 0
+D0
+The door to the men's lounge is to the north.  ~
+door~
+1 -1 14524
+D2
+The ballroom continues south.  ~
+~
+0 -1 14663
+D3
+The ballroom continues west.  ~
+~
+0 -1 14665
+S
+#14667
+The east balcony~
+You are standing just outside of the ballroom enjoying the cool
+breeze and the fresh air.  You can see a house dimly in the
+distance and a deep gorge running along the side of the yard
+below.  The balcony continues to the north but it sure looks
+dark.  You consider whether you should go back into the ballroom.
+~
+146 1 0
+0d0+0 0 0
+D0
+The east balcony continues north.  ~
+~
+0 -1 14527
+D3
+A french door leads back into the ballroom.  ~
+door~
+1 -1 14663
+S
+#14668
+The bar~
+Here at the bar you gaze at the odd bottles and containers that
+line the back of the bar in front of a mirror.  You look at your
+reflection.  Yechh!  You wonder if there is anything to drink
+that is half normal here.  The party is blasting behind you
+while you consider whether to stay and get wasted or continue
+on your search through the Addams Family mansion.
+~
+146 8 0
+0d0+0 0 0
+D1
+A french door leads back to the ballroom.  ~
+door~
+1 -1 14661
+D2
+A dumbwaiter is right next to the bar.  ~
+dumbwaiter~
+0 -1 14669
+D3
+A large mirror runs along the length of the bar.  ~
+mirror~
+1 -1 14578
+S
+#14669
+Dumb waiter~
+Here clutching at the opening and hanging in midair, you wonder
+if it would be a good idea to just climb back out before trying
+to climb up and down.  Cold, fetid air is flowing from below and
+jagged metal edges glint in the darkness.  The bar to the north
+sure looks a lot more hospitable.
+~
+146 13 0
+0d0+0 0 0
+D1
+A well-stocked bar is a few steps away to the north.  ~
+~
+0 -1 14668
+D5
+The dumbwaiter shaft plunges into darkness.  ~
+~
+0 -1 14641
+S
+#14670
+The gallery~
+This large room is set up like an art gallery, with numerous
+objects d'art displayed throughout the room.  There is an
+odd statue of a large human hand, a huge mobile which seems to
+be made of bones, a black tapestry that seems to be woven
+from spider silk, and a large Grecian Urn.  Whats a grecian
+urn you ask yourself?  
+~
+146 8 0
+0d0+0 0 0
+D2
+More, um, art is visible in the room to the south.  ~
+~
+0 -1 14671
+D3
+The room exits onto a hallway.  ~
+~
+0 -1 14635
+S
+#14671
+The portrait room~
+This room has numerous portraits of some truly horrific creatures
+hanging on the walls.  They are painted on black velvet (yech) and
+are mounted on grotesquely ornate frames.  They seem to glow with
+an unearthly, sickly green glow.  The nameplates at the base of
+each painting read, "Morticia", "Gomez", "Fester", "Wednesday",
+Pugsley", "Granny", and "It.
+~
+146 8 0
+0d0+0 0 0
+D0
+More artwork is visible in the room to the north.  ~
+~
+0 -1 14670
+D2
+A dark room is to the south.  ~
+~
+0 -1 14672
+S
+#14672
+The night gallery~
+This room is the darkest room you have ever seen.  There is a
+complete absence of light and the moment after you step into
+the room, you are totally disoriented.  Odd sounds echo around
+you as you feel your way around carefully.  You have the odd
+sensation that large objects may be around you and that they
+may be moving.
+~
+146 10249 0
+0d0+0 0 0
+D0
+The next room seems brightly lit.  ~
+~
+0 -1 14671
+D2
+This dark room exits onto a hallway.  ~
+~
+0 -1 14630
+S
+#14673
+A narrow corridor~
+This narrow corridor is lined with dark wallpaper with shadowy
+images of strange creatures badly faded and hidden under a heavy
+coat of dust.  There are some stairs to the north, and door to the
+south, west, and east.
+~
+146 8 0
+0d0+0 0 0
+D0
+Some stairs are visible to the north.  ~
+~
+0 -1 14674
+D1
+Some sort of billiards room is to the east.  ~
+~
+0 -1 14529
+D2
+A heavy ebony door leads to the south.  ~
+door~
+1 14602 14632
+D3
+A door marked 'OFFICE' is to the west.  ~
+door~
+1 -1 14517
+S
+#14674
+Circular stairs~
+You are standing at the base of some circular stairs that spiral
+upwards out of sight.  There is a corridor to the south and some
+doorways are visible from here.  There is a draft here and a chill
+breeze blows up your back.
+~
+146 8 0
+0d0+0 0 0
+D2
+A hallway is visible to the south.  ~
+~
+0 -1 14673
+D4
+The circular stairs continue up.  ~
+~
+0 -1 14675
+S
+#14675
+Circular stairs~
+These circular stairs are fashioned of ornate, wrought iron and
+echo hollowly as you walk.  They end here at a hallway that runs
+to the west and coil down into darkness.
+~
+146 8 0
+0d0+0 0 0
+D3
+A hallway extends to the west.  ~
+~
+0 -1 14676
+D5
+The circular stairs continue down.  ~
+~
+0 -1 14674
+S
+#14676
+A private hallway~
+Here in the family wing, numerous doors are visible that lead
+to various rooms and chambers.  The floor is gritty underfoot
+but the dust has been freshly disturbed.  You can hear a faint
+whirring sound from the door to the south.
+~
+146 8 0
+0d0+0 0 0
+D0
+The door has a sign on it that says NURSERY.  ~
+door~
+1 -1 14689
+D1
+Some stairs are visible to the east.  ~
+~
+0 -1 14675
+D2
+A whirring sound comes from the other side of the door.  ~
+door~
+1 -1 14678
+D3
+The hallway continues west.  ~
+~
+0 -1 14677
+S
+#14677
+A private hallway~
+This hallway has doors to both the north and south with more
+visible to the east.  To the west you can see a stairway which
+heads up and out of sight.  The door to the south has a sign
+on it.
+~
+146 0 0
+0d0+0 0 0
+D0
+A door leads to a room.  ~
+door~
+1 -1 14681
+D1
+The hallway continues east.  ~
+~
+0 -1 14676
+D2
+This door has a DO NOT DISTURB sign on it.  ~
+door~
+1 -1 14679
+D3
+A staircase is just to the west.  ~
+~
+0 -1 14682
+S
+#14678
+The train room~
+This room is crammed full of the most spectacular model train
+layout you have ever seen.  Crowded with Lionel steam and diesel
+locomotives pulling boxcars, tankers, and flatcars, the highly
+details layout includes numerous bridges, road crossings, and
+illuminated accessories.  You notice some odd, dark discolorations
+on various areas on the layout and the air has the unmistakable
+odor of cordite.
+~
+146 8 0
+0d0+0 0 0
+D0
+A door leads back to the hallway.  ~
+door~
+1 -1 14676
+D3
+A narrow door leads to the next room.  ~
+door~
+1 -1 14679
+D5
+A firemen's pole leads down into the room below.  ~
+~
+0 -1 14517
+S
+#14679
+The master bedroom~
+This large bedroom is dominated by a huge, round bed with black
+satin sheets.  You notice some heavy steel rings have been set
+into the four heavy oaken posts at each corner of the bed.  There
+is a mirror on the ceiling and some pink champagne on ice.  You
+wonder if you can check out and leave?
+~
+146 8 0
+0d0+0 0 0
+D0
+A door leads out of the bedroom.  ~
+door~
+1 -1 14677
+D1
+A narrow door leads to the next room.  ~
+door~
+1 -1 14678
+D3
+A door leads to the next room.  ~
+door~
+1 -1 14680
+S
+#14680
+The master bath~
+A spectacular bathroom constructed of black tile and gold-plated
+hardware, the room has an art deco look that seems rather out
+of place in this house.  Perhaps the owners of the house like
+to spend lots of time here.  In any case, there is a bidet, a
+Japanese tub, several sinks, and the usual porcelain convenience.
+~
+146 9 0
+0d0+0 0 0
+D1
+A door leads back to the bedroom.  ~
+door~
+1 -1 14679
+S
+#14681
+The sewing room~
+This rather small room has a simple stainless steel cart with a
+small stool next to it.  On the cart you notice a suture tray
+with a wide assortment of needles and cat gut.  You wonder what
+the hell is being sewn around here?  The room smells strongly
+of alcohol and antiseptics.
+~
+146 8 0
+0d0+0 0 0
+D2
+A door leads back to the hallway.  ~
+door~
+1 -1 14677
+S
+#14682
+A narrow staircase~
+Standing here at the bottom of a narrow staircase that winds
+up and out of sight, you wonder if you should go up or go down
+the hall to the east.  The stairs look heavily worn and the dust
+has been recently disturbed.
+~
+146 8 0
+0d0+0 0 0
+D1
+A hallway is to the east.  ~
+~
+0 -1 14677
+D4
+The stairs continue up.  ~
+~
+0 -1 14683
+S
+#14683
+A narrow staircase~
+On this narrow stairway, there is a door to the east through
+which you can several other rooms.  The stairs and hallway here
+are badly worn as if they have seen a lot of traffic.  The stairs
+continue up and you can see the bottom of the stairs from where
+you stand.
+~
+146 12 0
+0d0+0 0 0
+D1
+A short hallway with several doors is visible to the east.  ~
+~
+0 -1 14685
+D4
+The stairs continue up.  ~
+~
+0 -1 14684
+D5
+The stairs continue down.  ~
+~
+0 -1 14682
+S
+#14684
+A narrow staircase~
+This winding staircase is very narrow.  The stairs are dusty
+and worn and you have to step carefully to keep from slipping.
+The plaster walls are peeling and cracked.  High overhead, there
+appears to be a trapdoor barely visible in the shadows.
+~
+146 4 0
+0d0+0 0 0
+D4
+The stairs continue up.  ~
+~
+0 -1 14692
+D5
+The stairs continue down.  ~
+~
+0 -1 14683
+S
+#14685
+A hallway~
+This short hallway leads from the stairs to three doors to the
+north, south and east.  You notice that all three doors have some
+heavy steel bars that can be used to bar the doors from the
+outside.  Now why would anyone want to do that?
+~
+146 12 0
+0d0+0 0 0
+D0
+The badly scarred door has a large P written on it in red.  ~
+door~
+1 -1 14686
+D1
+A badly worn door leads into the next room.  ~
+door~
+1 -1 14688
+D2
+This door is oddly cold to the touch.  ~
+door~
+1 -1 14687
+D3
+Some stairs are visible to the west.  ~
+~
+0 -1 14683
+S
+#14686
+Pugsley's room~
+This boy's room is filled with the normal belongings of any
+twelve year old child.  Well, a twelve year old from the Twilight
+Zone anyways.  Between the black light posters, rotting food, the
+guillotine, the headless stuffed animals, and the numerous sharp
+and pointy instruments, you get the feeling that this kid needs
+a few visits to the local shrink.
+~
+146 8 0
+0d0+0 0 0
+D2
+A door leads back to the hall.  ~
+door~
+1 -1 14685
+D5
+A trapdoor is barely visible beneath your feet.  ~
+trapdoor~
+1 -1 14690
+S
+#14687
+Wednesday's room~
+This oddly cold room looks almost sterile compared to the rest
+of the house.  Everything is black including the walls and the
+floor and the bed that sits menacingly in one corner.  While your
+breath steams in the frigid air, you get the odd feeling that
+someone is watching you.
+~
+146 9 0
+0d0+0 0 0
+D0
+A door leads back to the hall.  ~
+door~
+1 -1 14685
+D5
+A trapdoor is cleverly concealed beneath your feet.  ~
+trapdoor~
+2 -1 14690
+S
+#14688
+The playroom~
+The children's playroom resembles some sort of medieval torture
+chamber (why doesn't this surprise you?).  There are beautifully
+made, scaled down versions of all of the common devices including
+a rack, an iron maiden, and a pillory.  Numerous iron instruments
+hang neatly on a Barney the Dinosaur coat rack next to a brazier
+whose coals glow dimly.
+~
+146 8 0
+0d0+0 0 0
+D0
+A large iron maiden leans against the wall.  ~
+device~
+1 -1 14619
+D3
+A door leads back to the hall.  ~
+door~
+1 -1 14685
+S
+#14689
+The nursery~
+The nursery has been painted a rather vile blue color that
+looks unsettling next to the black floor and ceiling.  There is
+a crib in the middle of the room which has several candles burning
+around it.  A mobile spins lazily overhead and there are several
+stuffed animals that smell faintly of rotting meat scattered about
+the nursery floor.
+~
+146 8 0
+0d0+0 0 0
+D2
+A door leads back to the hallway.  ~
+door~
+1 -1 14676
+E
+mobile~
+When you look closer at this odd mobile, you realize that shards
+of bone and cartilage are hanging from it.
+~
+S
+#14690
+Sliding down in the darkness~
+Its black as pitch, you are spinning out of control hurtling down
+some sort of steep pipe or chute.  Do you really expect to be
+able to see anything?
+~
+146 14349 0
+0d0+0 0 0
+D5
+You can see nothing as you hurtle down in the darkness.  ~
+~
+0 -1 14691
+S
+#14691
+In the front yard~
+Here in the front yard it is rather dark but you can still see
+three odd hinged metal doors set into the wall just slightly
+out of reach above your head.  These round doors are hinged at
+the top and you look down to notice that the grass is badly
+worn beneath your feet.
+~
+146 1 2
+0d0+0 0 0
+D1
+The front yard continues to the east.  ~
+~
+0 -1 14648
+D3
+The front yard continues west.  ~
+~
+0 -1 14649
+S
+#14692
+A narrow staircase~
+This narrow, dusty staircase is steep and badly worn.  The walls
+are badly in need of some paint and you can hear the wind
+whistling above you.  There appears to be a trapdoor at the
+top of the stairs above you.
+~
+146 8 0
+0d0+0 0 0
+D4
+A trapdoor with a pullstring leads up to the attic.  ~
+trapdoor~
+1 -1 14693
+D5
+The stairs continue down.  ~
+~
+0 -1 14684
+S
+#14693
+The attic~
+Oddly enough, this attic is completely empty, except for some
+huge spiderwebs and some moldy blown-in insulation.  It appears to
+have been unused for some time although some footprints are
+clearly visible leading from the trapdoor to the east door.  A
+gable fan sputters noisily in the eaves and the floorboards creak
+ominously beneath you.
+~
+146 8 0
+0d0+0 0 0
+D1
+A door leads onto the rooftop.  ~
+door~
+1 -1 14694
+D5
+A trapdoor is clearly visible at your feet.  ~
+trapdoor~
+1 -1 14692
+S
+#14694
+On the roof~
+High on the roof you have a beautiful view of the surrounding
+countryside.  At the south side of the roof is a huge cauldron
+with a blazing fire burning beneath it.  It appears to be on some
+sort of hinged arrangement that will allow the cauldron to be
+tilted towards the edge of the roof.  How odd!  There is a door
+to the west leading back into the house.
+~
+146 0 1
+0d0+0 0 0
+D3
+A weatherbeaten door leads back into the house.  ~
+door~
+1 -1 14693
+D5
+A cauldron full of boiling pitch does NOT look inviting.  ~
+~
+0 -1 14616
+S
+#14695
+On a dark staircase~
+You feel strangely disoriented as you stop for a moment on the
+stairs and realize that you cannot see the top or the bottom.
+The stairs creak ominously with every step and the cold, stale
+air that flows from the darkness below makes you sweat and
+shiver at the same time.  Perhaps it would be better to head up
+the stairs from here.
+~
+146 9 0
+0d0+0 0 0
+D4
+The stairs continue up.  ~
+~
+0 -1 14608
+D5
+The stairs continue down.  ~
+~
+0 -1 14696
+S
+#14696
+At the bottom of a dark staircase~
+You are standing at the southern end of a long, narrow hallway
+where a steep, rickety staircase ascends to the west.  The air
+is cold and stale down here, and odd odors and sounds make the
+hairs on the back of your neck stand up.  The floor here looks
+like packed earth and you hear an occasional rumbling sound
+from the north.
+~
+146 9 0
+0d0+0 0 0
+D0
+A dark, wet corridor extends to the north.  ~
+~
+0 -1 14697
+D4
+Some stairs lead up.  ~
+~
+0 -1 14695
+S
+#14697
+A damp passageway~
+Here in a cramped, damp passageway far under the Mansion you
+have to stoop slightly to keep from hitting your head on the
+rough, rock ceiling.  The floor underneath is slippery and wet
+and some foul, fetid odor makes you pause for a moment.  There is
+a door to the east.
+~
+146 9 0
+0d0+0 0 0
+D0
+The passageway continues north.  ~
+~
+0 -1 14698
+D1
+A heavy door leads into another room.  ~
+door~
+1 -1 14532
+D2
+The passageway continues south towards some stairs.  ~
+~
+0 -1 14696
+S
+#14698
+A damp passageway~
+The ceiling is very low here and you have to move carefully to
+avoid banging your head on the rough stone ceiling.  There is
+a door on either side of the corridor which continues into the
+darkness to the north and south.  You feel a warm gust of air
+coming from the east which makes the corridor feel that much
+colder and damper.
+~
+146 9 0
+0d0+0 0 0
+D0
+The passageway continues north.  ~
+~
+0 -1 14699
+D1
+A heavy door is to the east.  ~
+door~
+1 -1 14530
+D2
+The passageway continues south.  ~
+~
+0 -1 14697
+D3
+A rotting door leads into another room.  ~
+door~
+1 -1 14531
+S
+#14699
+A damp passageway~
+You are at the northern end of a long, narrow passageway that
+disappears into blackness to the south.  There is a heavy wooden
+door to the north and to the west.  The floor is especially wet
+here and the occasional rumbles that you have been hearing down
+here seem closer than ever.
+~
+146 9 0
+0d0+0 0 0
+D0
+A heavy wooden door leads to the north.  ~
+door~
+1 -1 14514
+D2
+The passageway continues south.  ~
+~
+0 -1 14698
+D3
+A heavy wooden door is to the west.  ~
+door~
+1 -1 14516
+S
+$

@@ -1,0 +1,610 @@
+#18300
+commoner man~
+the man~
+This man walks by you, barely acknowledging you existence.
+~
+This man is a commoner here in the Vale. He is going about his business
+as usual. ~
+201 0 0 W2
+12 3 4 3d100+100 2d2+0
+300 1200
+8 8 1
+13 0 13 13 13 13 0
+19 2 3
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#18301
+commoner woman lady~
+the lady~
+A lady stand nearby, and takes a long, studied, even charming look at you.
+~
+This commoner dresses quite ornately. She must have been born into
+a wealthy family, which isn't uncommon here. ~
+200 0 0 W2
+12 3 4 3d100+100 2d2+0
+700 1200
+8 8 2
+13 0 13 13 13 13 0
+0 2 3
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#18302
+young girl child~
+the girl~
+A young girl rests here holding a doll, while she looks at you with intrest.
+~
+This little girl can't be a day older than eight. With big green eyes
+she peers at you without care. ~
+136 0 600 W2
+8 3 7 2d100+50 1d2+2
+5 500
+5 5 2
+13 0 13 13 13 13 0
+0 2 3
+70 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#18303
+small boy child~
+the boy~
+A small boy sits here, scrawling in the dirt with a stick.
+~
+This small child seems to be extremely bored. ~
+137 0 600 W2
+8 3 7 2d100+50 1d2+2
+5 500
+6 6 1
+13 0 13 13 13 13 0
+19 2 2
+70 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#18304
+little boy child~
+the boy~
+A little boy runs by you, playing with an iron hoop and stick.
+~
+This boy, about the age of six, is playing an age old game called
+ringnal. He seems to be having quite a good time. ~
+136 0 600 W2
+8 3 7 2d100+50 1d2+2
+5 500
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+70 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#18305
+woman old~
+an old woman~
+An old woman
+~
+An old woman is resting here, her face lined with age and the weight of years
+of sorrow and poverty.  She looks down to her hands, now withered and usless
+for the one skill she once had, that of knitting.  You wonder if the quilt
+on the chair will remain unfinished, or if some grandchild will take up the
+work of this aged women.
+~
+32778 0 300 W2
+10 7 8 10d20+10 2d3+2
+1000 1000
+5 5 2
+12 0 13 13 10 13 0
+0 2 2
+80 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#18306
+marc baker man~
+Marc~
+Marc the Baker is taking a fresh pan of bread from his hearth.
+~
+This young man seem quite content with himself. He seems to always
+wear a smile. Despite his relative youth, he is quite a businessman,
+owning the only bakery in tha Vale. 
+~
+2059 0 600 W2
+35 13 -5 1d1+1499 2d2+14
+25000 17000
+8 8 1
+13 0 13 13 13 13 0
+19 2 2
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18307
+maiden servant lady~
+the servant maiden~
+The young maiden servant awaits duties from the Royal family.
+~
+This young lady is quite a charm to behold. Though not extravagantly
+beautiful, she does have an.... air about her.
+~
+139 0 500 W2
+20 11 -5 5d100+0 1d15+0
+100 2000
+8 8 2
+13 0 13 13 13 13 0
+5 2 2
+-50 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18308
+cook ~
+a cook~
+The cook for the royal family is here, contemplating what to cook for dinner.
+~
+This man looks as if he's cooked all of his life. He is small, yet has
+something in his eye that makes you respect him. He has a sly grin
+upon his face. Is ti that he knows whats in the pot, and you're not sure?
+~
+139 0 500 W2
+20 11 -5 5d100+0 1d15+0
+100 2000
+8 8 1
+13 0 13 13 13 13 0
+5 2 2
+-50 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18309
+servant man~
+a man servant~
+This young man is shirking his duties, talking to the ladies.
+~
+This man's job is to perform the daily duties of the household. With
+much of the same responsibilities of the ladies, he tends to perform
+the harder functions such as wood for the hearth and drawing water.
+~
+139 0 500 W2
+20 11 -5 5d100+0 1d15+0
+100 3500
+8 8 2
+13 0 13 13 13 13 0
+5 2 2
+-50 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18310
+guard hired man killer~
+a guard~
+A hired guard is standing at his post.
+~
+The guard is almost gaudy for his all of his ornamental armor, but under the
+armor is the body of a trained killer.  You think it might be best to leave
+him alone.
+~
+28683 0 500 W2
+40 27 -15 25d100+100 2d2+19
+9000 40000
+8 8 1
+13 0 13 13 13 13 0
+20 2 2
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18311
+chirurgeon healer man~
+the chirurgeon~
+This man is a healer, called a chirurgeon.
+~
+The healer smiles and recites the blessing of Sung on you as he passes.
+~
+274443 0 500 W2
+30 30 -18 32d100+0 2d4+8
+500 20000
+8 8 1
+13 0 13 13 13 13 0
+10 2 2
+-180 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18312
+tall white gelding horse~
+a horse~
+A tall, white gelding munches contently on his meal of oats.
+~
+A spectacular looking creature, he must be owned by someone important.
+Upon his bridle, you see a small red crest pressed into the leather.
+This horse has been trained by an expert, you think.
+~
+11 0 0 W2
+18 10 -4 100d10+0 2d10+0
+0 1000
+8 8 0
+13 0 13 13 13 13 0
+19 3 3
+-40 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#18313
+huge draft horse~
+a horse~
+A huge draft horse stands in his stall looking at the boys grooming horses.
+~
+This animal must have the strength of a giant. To pull a huge plow
+through the earth is no small task to be sure.
+~
+11 0 0 W2
+18 10 -4 100d10+0 2d10+0
+0 1000
+8 0 0
+18 0 13 13 13 13 0
+19 3 3
+-40 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#18314
+man smith black blacksmith~
+the blacksmith~
+A man is standing over an anvil, hammering away at a plow.
+~
+This man is the smith. He has exceptional strength due to his trade.
+~
+4218891 0 300 W2
+48 35 -25 52d100+100 2d3+50
+1000 28000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+-250 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18315
+cook woman lady~
+the cook~
+A young woman stands here, cutting meat for a stew.
+~
+This young woman is the daughter is Jacob, a friend of Dabury. Since
+their family is having a hard time financially due to the trade
+route being cut off, she has taken employment here.
+~
+202 0 0 W2
+10 3 4 3d100+100 2d2+0
+700 9000
+8 8 2
+13 0 13 13 13 13 0
+0 2 3
+40 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#18316
+cook woman lady~
+the cook~
+A woman in her middle years is washing fresh vegetables.
+~
+This lady has worked for Dabury for years. Her husband died a few years
+back and is raising her daughter alone. She seems to have done a pretty good
+job. ~
+202 0 0 W2
+12 3 4 3d100+100 2d2+0
+700 1200
+8 8 2
+13 0 13 13 13 13 0
+0 2 3
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#18317
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18318
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18319
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18320
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18329
+traveller man~
+the traveller~
+A traveller sits here quietly, intent on Dabury's story.
+~
+This man is so enthralled by the story told by Uric, that he doesn't
+seem to notice that his ale i getting warm. 
+~
+10 0 0 W2
+20 10 0 1d1+500 1d4+5
+15000 25000
+6 6 1
+13 0 13 13 13 13 0
+0 2 2
+0 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18330
+commoner man~
+the man~
+This man has taken time from his busy day to refresh himself.
+~
+This commoner has stopped by to hear the latest tale and have a drink.
+~
+202 0 0 W2
+12 3 4 3d100+100 2d2+0
+300 1200
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#18331
+young girl child~
+the girl~
+This little girl stares intently at Dabury, as if she hangs on every word.
+~
+This little girl can't be a day older than eight. With big green eyes
+she peers at you without care. ~
+136 0 600 W2
+8 3 7 2d100+50 1d2+2
+5 500
+8 8 2
+13 0 13 13 13 13 0
+0 2 3
+70 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#18332
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18336
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18370
+lord durrany lorddurrany~
+Lord Durrany~
+Lord Durrany looks up from his son's bed and waves you away.
+~
+Lord Durrany is all that you would expect a noble to be.  He is strong, proud,
+and obviously a loving father.  He is bent over Jason's bed and looks as if 
+the weight of the world rests on his sholders.
+~
+45387 1028 900 W2
+70 40 -25 100d1+4700 1d5+60
+70000 100000
+8 8 1
+18 20 13 13 13 13 0
+20 2 2
+-250 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18371
+jason boy~
+Jason Lee Durrany~
+Jason is resting upon his bed, eager to find Natt.
+~
+His skin shows signs of the illness that has swept the town, but he seems
+fine otherwise.  As the cleric finishes looking at him, he leaps up to 
+find his friend Natt.
+~
+202 1024 1000 W2
+10 5 2 20d1+200 1d4+7
+1000 1000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#18372
+natt boy~
+Natt~
+Natt is waiting here for Jason
+~
+Natt is Jason's best friend.  He is a small boy, with blond hair and a sparkle
+in his eyes
+~
+202 1024 1000 W2
+10 5 2 20d1+200 1d4+7
+1000 1000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#18373
+sara lady woman~
+Lady Sara~
+Lady Sara reclines here.
+~
+This beautiful creature can only be the wife of the lord of this estate,
+Lady Sara.  Her long blond hard flows down her back and you wonder in
+passing how long it takes her maids to braid all of that hair.
+~
+10 0 0 W2
+30 20 -5 20d100+0 1d4+10
+30000 30000
+8 8 2
+13 0 13 13 13 13 0
+0 2 2
+-50 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18381
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18382
+Dabury~
+Dabury~
+Dabury is here, as usual, telling another colorful story to his patrons.
+~
+This large, powerful man has fought his way through a hard life. He fought
+the morhedel in the war for the Lifestone, a war that he knew not why
+he was fighting, but to save his land. He now owns this establishment,
+which is a popular place for those of the Vale to relax. He still
+carries his sword from the war, although the Vale is quite peaceful.
+He can be seen polishing it through most all of his stories.
+~
+2059 0 1000 W2
+70 55 -15 20d100+5000 2d4+40
+50000 100000
+8 8 1
+18 0 13 13 13 13 0
+1 2 2
+-150 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18391
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+$

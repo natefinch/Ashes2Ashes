@@ -1,0 +1,104 @@
+#!/bin/sh
+#
+
+PORT=3210
+FLAGS='-dbuilder -r'
+
+if [ -r .building ]; then
+  echo "WARNING:  Buildrun may already be running! rm .building to override."
+  ps -x
+  echo "EXTREMELY IMPORTANT NOT TO RUN MORE THAN ONE INSTANCE :)"
+  exit
+fi
+
+ while ( : ) do
+
+  DATE=`date`;
+  echo "autoscript starting game $DATE" >> buildlog
+  echo "Starting builder mud..."
+  touch .building
+  chmod g+w .building
+  chmod o+w .building
+
+  if [ -r .bautomaint ]; then
+    cd builder/etc
+    echo `date` >> DELETED
+    ../../bin/purgeplay players >> DELETED
+    if [ ! -z players.new ]; then
+      rm -f players.old
+      mv players players.old
+      mv players.new players
+    fi
+    cd ..
+    ./purgeobjs
+    cd ..
+  fi
+
+  if [ -r bin/builder.new ]; then
+    rm -f bin/builder.old
+    mv bin/builder bin/builder.old
+    mv bin/builder.new bin/builder
+  fi
+
+  if [ -r builder/core ]; then
+    rm -f builder/core.old
+    mv builder/core builder/core.old
+    mail asita@home.net < crash.msg
+  fi
+
+  if [ -r builder_tasks ]; then
+    ./builder_tasks > task.msg
+    rm -f builder_tasks.old
+    mv builder_tasks builder_tasks.old
+  fi
+
+
+  ./bin/builder $FLAGS $PORT >> buildlog 2>&1
+
+
+  fgrep "SYSERR" buildlog >> log/builderrs
+  fgrep "(GC)" buildlog >> log/buildcmds
+
+  mail asita@home.net < reboot.msg
+
+  rm log/buildlog.1
+  mv log/buildlog.2 log/buildlog.1
+  mv log/buildlog.3 log/buildlog.2
+  mv log/buildlog.4 log/buildlog.3
+  mv log/buildlog.5 log/buildlog.4
+  mv log/buildlog.6 log/buildlog.5
+  mv buildlog       log/buildlog.6
+  touch buildlog
+
+  if [ -r .killbuild ]; then
+    DATE=`date`;
+    echo "autoscript killed $DATE"  >> buildlog
+    rm .killbuild
+    rm .building
+    if [ -r .fastboot ]; then
+      rm .fastboot
+    fi
+    exit
+  fi 
+
+  if [ ! -r .fastboot ]; then
+    sleep 40
+  else
+    rm .fastboot
+    sleep 5
+  fi
+
+  if [ -r .bupdate ]; then
+    DATE='date';
+    echo "switching to new autoscript $DATE" >> buildlog
+    rm .bupdate
+    rm .building
+    ./buildrun &
+    exit
+  fi
+
+  while [ -r bpause ]; do
+    sleep 60
+  done
+
+done

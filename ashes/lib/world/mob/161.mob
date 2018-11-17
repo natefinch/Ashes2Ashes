@@ -1,0 +1,1384 @@
+#16100
+Tam al'Thor~
+Tam al'Thor~
+A kind old man named Tam al'Thor.
+~
+Father of Rand, Tam is known mainly in Emond's Field for the brandy and cider
+he takes every year to   Bel Tine.  He is a strong, kind man.  It is known
+that his wife was an outlander and that he traveled widely early in his life.
+~
+1114202 1056 600 W3
+40 50 4 4d10+400 2d4+2
+3000 30000
+8 8 1
+25 0 15 18 16 14 18
+0 2 2
+40 13 2 0 12 15
+100 100 100 100 100
+0 0 0
+1 1
+
+~
+#16101
+Vicious Wolf wolf~
+a vicious wolf~
+A vicious wolf stares hungrily at you.
+~
+You see your average every day hungry wolf. Better hide your sheep.  His fur
+is long and black.
+~
+16812168 0 -100 W3
+14 33 4 50d2+50 2d4+3
+15 9000
+8 8 1
+15 0 8 5 19 17 13
+0 1 3
+40 4 5 10 1 0
+40 100 60 100 90
+0 0 0
+6 1
+~
+#16102
+coplin~
+a annoying Coplin~
+A Coplin is here trying to annoy you.
+~
+Known for being troublemakers and complainers the Congars and Coplins are a
+general nuisance in the Two river's area.  He looks untrustworthy.
+~
+2185 66560 100 W3
+50 25 4 25d7+600 5d4+2
+6000 40000
+8 8 1
+13 0 5 0 13 13 5
+7 2 2
+40 13 2 10 0 0
+100 100 100 100 100
+0 0 2
+6 1
+
+~
+#16103
+coplin child kid~
+a Coplin child~
+A hyperactive kid is bouncing around here, saying something.
+~
+Just like his daddy, this kid takes after his parents.  You wouldn't give
+this munchkin the time of day.  He mumbles something about a ghost dog that
+can breathe fire.
+~
+1048632 0 100 W3
+18 40 8 100d4+75 3d5+3
+0 10000
+8 8 1
+11 0 4 10 20 15 3
+0 1 2
+80 0 4 0 0 0
+100 100 100 100 100
+0 0 0
+4 1
+~
+#16104
+silver wolf black~
+a female wolf~
+A black wolf with silver streaks stares at you hungrily.
+~
+You see a large hungry wolf. She looks back at you with murder in her eyes.
+Her fur is black with streaks of silver.
+~
+16779400 0 -200 W3
+35 25 4 100d2+300 4d4+5
+1000 25000
+8 8 2
+18 17 14 10 19 17 13
+0 1 3
+40 4 4 10 0 0
+40 100 60 100 90
+0 0 0
+6 7
+~
+#16105
+congar girl~
+a little girl~
+A little girl is here trying to find the one she loves.
+~
+This little nymph is bound to create the next Coplin kid sometime in her
+lifetime.  Her affection for the Coplin child is self-evident.
+~
+5242904 0 100 W3
+18 45 5 100d5+70 3d5+6
+200 16000
+8 8 2
+10 0 4 10 15 15 10
+0 1 2
+50 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+5 1
+~
+#16106
+mav mavra mallen wisdom mall mal~
+Mavra Mallen~
+Mavra Mallen the wisdom who is subbing for Nynaeve.
+~
+A wise woman, she is really just a step down from Aes Sadai. She uses her
+magic to predict the way of the seasons, and heal the wounded and dying. From
+the look of her you can tell this is not her normal village. She says to you,
+"I'm subbing for Nynaeve while she chases Rand and the Children across the
+world."  She looks like she might have something to sell you.
+~
+4481050 1064 1000 W3
+200 35 10 1d4+30000 3d6+5
+400000 1
+8 8 2
+16 0 20 20 18 20 13
+0 2 2
+100 10 4 50 0 0
+30 30 30 30 30
+0 0 0
+6 1
+~
+#16107
+Narg Trolloc corpse dark~
+Narg the Trolloc~
+The corpse of a Trolloc is lying here.
+~
+Horribly disfigured, Trollocs embody the corruption of the dark lord in their
+form. While normally dumb, this Trolloc is intelligent. He lays here waiting
+to capture you for the dark one.
+~
+52747 1024 -500 W3
+70 21 10 18d8+1400 3d5+3
+20000 90000
+5 5 1
+18 10 16 9 10 13 13
+17 4 5
+100 10 4 -4 0 0
+100 100 100 100 100
+0 1 2
+4 1
+~
+#16108
+Daisy Congar~
+Daisy Congar~
+Daisy waves a rolling pin at you and says get out of my kitchen!
+~
+Known for being troublemakers and complainers, the Congars and Coplins are a
+general nuisance in the Two river's area. Daisy is looking for her husband,
+because he wants to interfere with the Woman's Council.  She looks fairly
+strong.
+~
+10266 1024 200 W3
+35 15 10 25d12+600 2d6+2
+10000 40000
+8 8 2
+16 0 16 12 13 13 13
+0 3 2
+100 5 2 4 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#16109
+wit congar~
+Wit Congar~
+Wit Congar is here trying to get Mavra thrown out.
+~
+Known for being troublemakers and complainers, the Congars and Coplins are a
+general nuisance in the Two River's area. This Congar wants the new Wisdom
+ousted. He practically runs you over as he heads toward the Woman's Council
+to achieve his goal.  He looks weak and has puny muscles.
+~
+34952 263168 -10 W3
+40 50 10 50d10+700 1d9+6
+15000 55000
+8 8 1
+9 0 13 13 14 17 5
+0 1 2
+100 13 2 4 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#16110
+raven black~
+a black raven~
+A black raven is perched nearby, spying for the Dark One.
+~
+You see a black bird with glowing red eyes.  It is said that the dark one
+uses these birds as spies for his troops.  It looks weak.
+~
+3780621 0 -400 W3
+44 29 10 10d20+375 3d3+4
+0 45000
+8 8 0
+6 0 18 16 13 13 13
+6 0 0
+100 8 2 0 50 50
+100 100 100 100 100
+0 0 0
+6 3
+~
+#16111
+Marin al'vere~
+Marin al'vere~
+Marin al'vere works here, filling the Inn with a delightful smell.
+~
+A jolly expression is on the face of this woman.   She is as well known for
+her delightful honey cakes, and fabulous cooking as Bran is known for being
+mayor. She gives off an aura of kindness you have not seen matched in a long
+time.
+~
+264202 536872064 990 W3
+34 35 -6 20d5+1000 1d10+15
+5000 85000
+6 6 2
+17 0 13 13 13 13 0
+0 2 0
+-60 0 4 0 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#16112
+Mayor Bran al'vere~
+Mayor Bran al'vere~
+Mayor Bran al'vere is here managing the affairs of Emond's Field.
+~
+You see a kindly man of middle years. By the way he holds himself, and the
+kindly looks of those around him you can tell he is a friend to all in the
+Two Rivers. He owns the Winespring Inn, and is mayor of the town of Emond's
+Field.  He looks like he has quite a bit of fight left in him, despite his
+age.
+~
+4466718 16777272 750 W3
+95 35 -10 10d10+2500 5d6+6
+30000 90000
+8 8 1
+18 75 18 15 18 16 25
+0 2 2
+-100 0 2 4 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#16113
+horse~
+a old horse~
+A faithful horse stands here, eating from a feedbag.
+~
+You see a faithful horse standing here. It looks like it has traveled a
+extremely long distance.  You see the mark of Tar Valon branded on its side.
+~
+2059 5152 50 W3
+55 15 -2 25d10+800 2d10+30
+0 45000
+8 8 0
+19 0 3 4 20 15 5
+19 3 3
+-20 7 4 2 10 0
+100 100 100 100 100
+0 0 0
+6 1
+delay say neh neh delay
+~
+#16114
+trolloc~
+a trolloc~
+A huge Trolloc with red fur is about to attack you.
+~
+Horribly disfigured, Trollocs embody the corruption of the dark lord in their
+form.  This Trolloc is particularly ugly.  Its half-human head has the muzzle
+of a wolf, and its scalp is adorned with horns like an adult ram. The legs of
+the beast are well muscled, yet somehow terribly wrong. Huge hands and arms
+like those of a werewolf complete the abomination.  The trolloc has thick red
+fur to protect it from the elements. It towers over you.
+~
+16853017 1080 -750 W3
+95 29 -12 20d100+2100 6d9+33
+7600 190000
+8 8 0
+18 75 15 15 18 16 0
+6 2 5
+-120 8 4 0 40 70
+10 10 10 10 10
+0 0 11
+6 8
+~
+#16115
+trolloc~
+a trolloc~
+A huge stoney looking Trolloc is ready to eat you for lunch!
+~
+Horribly disfigured, Trollocs embody the corruption of the dark lord in their
+form. This Trolloc is terribly ugly and disfigured. Its grotesque half-human
+head looks like it was ripped from an adult bull.  The legs of the beast are
+well muscled, and end in dangerous looking hooves. Huge four fingered hands
+complete the abomination, attached to puny looking arms. A bug like
+exo-skeleton helps protect this Trolloc from physical harm. It towers over
+you.
+~
+16853017 1080 -750 W3
+95 29 -12 20d100+2000 6d9+33
+7600 190000
+8 8 0
+18 75 15 15 18 16 0
+6 2 5
+-120 8 4 0 50 80
+10 10 10 10 10
+0 0 56
+6 8
+~
+#16116
+black rider fade~
+a black rider~
+Cloaked in midnight, a black rider hides in the shadows.
+~
+Like a shadow in a graveyard, a tall man sits atop a horse of the darkest
+hue. His face is almost impossible to make out, and if you didn't know better
+you'd swear he didn't have one. An aura of pure hatred flows from him like
+water from a river. Could he be a Myrddaal? You feel sick just looking at
+him.  He looks extremely tough.
+~
+272393 538707082 -1000 W3
+127 57 -10 25d36+4000 2d6+40
+0 400000
+8 8 1
+18 0 17 17 16 15 13
+9 2 2
+-100 12 4 0 20 50
+25 25 25 25 25
+0 0 63
+6 1
+~
+#16117
+Master Hightower~
+Master Hightower~
+Greedy old Hightower stands here pushing around the haulers, and taking your
+money.
+~
+You see a man with a narrow face, and pointed features. Prone to fits of
+rage, and extremely greedy Hightower's only job in life has been to run the
+Ferry across the Taren.
+~
+59483 1024 0 W3
+50 26 -10 100d100+30000 2d3+15
+200000 1000000
+8 8 1
+14 0 15 12 13 12 5
+18 2 2
+-100 7 2 10 0 0
+100 100 100 100 100
+0 0 0
+6 1
+delay delay emote smiles as he thinks about all the money he is making. delay
+delay
+~
+#16118
+hauler~
+a well muscled Hauler~
+A well muscled Hauler stands here, running the ferry.
+~
+The hauler looks well muscled from years of doing the manual labor required
+for pulling the ferry across the Taren.
+~
+1083675 5120 400 W3
+35 27 0 100d10+250 2d7+18
+0 50000
+8 8 1
+25 0 13 13 18 13 13
+19 3 2
+0 13 3 0 0 0
+75 75 75 75 75
+0 48 15
+6 3
+~
+#16119
+Moiraine Damodred~
+Moiraine Damodred~
+Moiraine Damodred cackles with an aura of power as she concentrates on a
+angreal.
+~
+Her face has a kind of agelessness to it, which all Aes Sedai seem to have.
+She has large dark eyes and hair hanging in dark ringlets. She is short and
+slender, about 5'2".  She looks extremely powerful.
+~
+57355 588251272 1000 W3
+130 55 -25 100d25+8000 2d10+45
+30000 840000
+8 8 2
+18 0 17 18 20 15 15
+10 2 2
+-250 12 2 3 45 25
+15 15 15 15 15
+4 0 11
+6 1
+delay delay delay cast 'cure serious' lan cast 'cure serious' lan cast 'aid'
+lan delay delay
+~
+#16120
+guard watchman cityguard~
+Watchman of Baerlon~
+A Watchman of Baerlon is here, guarding the South Gate.
+~
+Set to guard the south gate, this watchman is a seasoned warrior.  He looks
+like he is ready to jump in at the first sign of trouble.
+~
+33556491 1024 600 W3
+60 10 1 6d8+900 2d8+15
+5000 50000
+8 8 1
+19 0 13 13 16 15 0
+1 2 2
+10 0 2 0 45 40
+55 55 55 55 55
+0 0 0
+6 0
+~
+#16121
+~
+~
+A judge is standing here, reading a case.
+~
+~
+264202 0 990 W3
+34 20 -1 20d5+310 1d10+15
+5000 66000
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#16122
+~
+~
+A demonic cavewight is coiled here, ready to attack.
+~
+ With long scrawny limbs, hands as huge as shovels, a thin, hunched torso
+and a head like a battering ram, these creature almost looks comical.  As it
+crouches, it's knees come up to the level of it's ears.  But as it senses
+you, it unfolds itself, like a spider awakening from a long sleep, and what
+you once thought comical now looks completely different, in fact... Deadly!
+~
+10254 56 -750 W3
+95 29 -12 10d10+2249 6d9+4
+7600 76000
+8 8 0
+18 75 15 15 18 16 0
+0 2 2
+-120 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#16123
+al'Lan Mandragoran lan al mand~
+al'Lan Mandragoran~
+al'Lan Mandragoran is here, practicing his sword forms.
+~
+al'Lan is about nine feet tall with tufted pointed ears, long shaggy black
+hair,and a goat-like nose almost as broad as his face.  His thick eyebrows
+hang almost to his cheeks,with pale eyes glowing as big as teacups. Broad
+blunt fingers work death from hands as big as hams to those who would harm
+Moiraine.  His wide mouth with white teeth broad as chisels casts curses at
+offenders. He is Moiraine's Warder and has a link with her granting him
+special powers.  He will defend her at any cost.
+~
+24907 1073743080 1000 W3
+127 65 -19 60d25+15000 5d5+50
+400000 700000
+8 8 1
+25 100 12 18 22 22 14
+20 4 5
+-190 13 4 10 0 10
+50 50 50 50 50
+1 0 38
+6 13
+~
+#16124
+Questioner white cloak~
+a Questioner~
+A White Cloak Questioner is here, holding his own version of the Inquisition.
+~
+This Child of Light is a Questioner, which have been known and feared as the
+torturers of the order.  They are known for their brutality and their hidden
+manipulations.  Even the other White Cloaks fear the questioners.
+~
+4196361 33554432 700 W3
+65 26 -2 4d127+2800 6d9+30
+4000 120000
+8 8 1
+18 0 18 15 17 18 5
+19 2 2
+-25 13 4 5 20 50
+15 15 15 15 15
+0 0 0
+6 12
+~
+#16125
+Officer white cloak child~
+a officer of the Children of Light~
+A officer of the Children of Light is here giving orders.
+~
+As an officer of the Children of Light he works closely with the lord
+captain.  In his leisure he  enjoys hunting, fishing, and the occasional
+torture of a darkfriend. His turn-ons are: no wait a sec
+~
+20973579 1107427328 600 W3
+75 28 -5 7d127+3000 6d9+40
+10000 150000
+8 8 1
+18 50 18 18 17 18 3
+10 2 2
+-50 13 4 5 50 40
+15 15 15 15 15
+0 0 41
+6 15
+delay delay delay cast 'bless'
+~
+#16126
+cloak dumb white~
+a dumb White Cloak~
+A dumb White Cloak stands here saying, "Walk in the light."
+~
+This dim-witted one is an obviously less intelligent member of the Children
+of the Light.  "Walk in the Light," he commands as you walk near this odd
+one.  The brain cells of this "badly lit" one apparently blew out long ago.
+He can barely hold his sword.
+~
+16779529 37748736 400 W3
+65 26 -2 4d157+1400 6d9+30
+2000 80000
+8 8 1
+12 0 9 15 16 18 7
+19 2 2
+-25 13 4 5 0 0
+15 15 15 15 15
+0 0 1
+6 12
+~
+#16127
+Darkfriend White Cloak~
+a Darkfriend spy~
+A Darkfriend is here, pretending to be a White Cloak.
+~
+At first glance this guy appears to be your average, every day Child of the
+Light.  When you look at him closely you see his true nature, while crusading
+for the children, he is really a spy for the Dark One.
+~
+51383833 407634952 -600 W3
+80 42 -6 50d25+1900 5d6+25
+4000 120000
+8 8 1
+18 0 18 18 18 18 18
+6 2 2
+-60 0 3 0 0 60
+5 5 5 5 5
+0 0 56
+6 10
+~
+#16128
+trolloc~
+a terrified trolloc~
+A trolloc is here, and he looks like he's about to run for the hills.
+~
+Terrified Trolloc Horribly disfigured, Trollocs embody the corruption of the
+dark lord in their form.  Pushed hard by the Fades this Trolloc has been
+forced into Shadar Logoth against his will.  Terror and fear is evident in
+his completely disfigured face.  He looks like at any moment he may run
+screaming from the room.
+~
+20527257 1080 -750 W3
+110 30 -12 10d10+7000 6d9+30
+7600 250000
+8 8 0
+20 75 15 15 25 16 0
+20 2 5
+-120 8 4 0 140 60
+1 1 1 1 1
+0 0 58
+6 8
+delay delay delay delay flee
+~
+#16129
+Human Darkfriend~
+a Human Darkfriend~
+A ordinary looking Human is here.
+~
+This person looks much like any other person.  For some reason you feel like
+you cant trust this person.
+~
+33820171 4882464 -1000 W3
+200 24 0 5d2+600 20d3+10
+1200 25000
+8 8 0
+25 0 13 13 13 13 13
+19 2 0
+0 10 2 0 60 100
+4 4 4 4 4
+0 0 0
+6 15
+delay delay cackle
+~
+#16130
+Elmindreda~
+Elmindreda~
+Elmindreda leans against a doorframe, having a vision.
+~
+She is a slender, 5'3 woman with black hair cut short and appears to be about
+24. She has dark brown eyes, good-size breasts, long lashes.  She is somewhat
+of an "in-the-closet" Aes Sadai. She says, "I see visions of the future."
+~
+34758667 1090520192 400 W3
+70 17 0 50d4+2000 6d4+15
+9000 160000
+8 8 2
+14 0 17 18 14 18 25
+8 1 2
+0 13 2 0 110 50
+100 100 100 100 50
+0 0 0
+6 1
+
+~
+#16131
+Bornhald lord captin~
+Bornhald~
+Bornhald, Lord Captin of the White Cloaks stands here in a muddy cloak.
+~
+You see an average looking man that seems to be full of him self. He says,
+"The sins of the mother are visited to the; fifth generation, and the sins of
+the father to the tenth" to you as you get near. The knot beneath the
+sunburst on his cloak tells you he is a Lord Captain of the White Cloaks.
+~
+4210827 5248 650 W3
+100 65 -10 50d15+4000 1d4+15
+10000 350000
+8 8 1
+18 55 6 14 14 17 2
+10 2 2
+-100 13 6 -60 0 70
+10 10 10 10 10
+0 0 0
+6 1
+delay say The sins of the mother are visited to the fifth generation, and the
+sins of the father to the tenth delay delay say Walk in the light! delay say
+Who ever stained my cloak will pay dearly!
+~
+#16132
+Rand al'thor~
+Rand al'Thor~
+Rand al'Thor stands here, contemplating his role in this world.
+~
+Rand is a tall, strong, handsome young man with broad shoulders, dark reddish
+hair, bluish-gray eyes, and a sun-darkened face. He is approximately 17 years
+old and about 6'6". He is right-minded and always tries to do his best. He
+was a simple shepherd before Moiraine came to take him away.  He is thinking
+of Ba'alzamon.
+~
+286811 268436608 600 W3
+140 40 -9 4d100+8000 6d8+45
+15000 500000
+8 8 1
+17 0 20 20 20 20 13
+11 3 2
+-90 0 3 -70 0 0
+25 25 25 25 25
+1 0 0
+6 1
+~
+#16133
+Perrin Aybara~
+Perrin Aybara~
+Perrin Aybara's eyes gleam through the fog.
+~
+Looks to be about Half-head shorter than Rand, with long shaggy curly hair,
+stocky, thick arms and shoulders, thick slabs of muscles at his sides, and
+yellow eyes. A young blacksmiths apprentice, Perrin is a friend and companion
+of Rand. His eyes glow with a strange light that is neither good nor evil.
+He looks back at you suspiciously and clutches his deadly looking axe
+tighter.
+~
+4472843 1077941416 500 W3
+140 70 -60 25d25+30000 9d10+40
+10000 1000000
+8 8 1
+25 0 14 15 25 12 17
+20 3 2
+-600 7 5 -60 40 80
+5 5 5 5 50
+0 1 14
+6 1
+~
+#16134
+Mathrim Cauthon~
+Mathrim Cauthon~
+Mathrim Cauthon is pondering his place in the world.
+~
+Mat is a trickster at heart. He is always joking around, playing jokes on
+people and getting in trouble. He cries wolf often, so people do not always
+believe him when he says something. Originally he was a farmer in Emonds
+Field.  He is wiry, long-limbed, well-muscled and rumpled-looking with deep
+brown eyes about 511".
+~
+288907 268435624 200 W3
+140 38 -11 40d10+5000 5d7+22
+25000 400000
+8 8 1
+16 0 15 13 25 13 25
+4 2 2
+-110 13 6 -100 0 0
+50 50 50 50 50
+0 0 0
+6 6
+~
+#16135
+shadow evil~
+an evil looking shadow~
+An evil looking shadow gets ready to place a knife in your back.
+~
+Maybe your mind is playing tricks on you, but you think you see a shadow over
+there that isnt yours.  It looks big and foreboding. Maybe Shadar Logoth is
+just playing tricks on you.
+~
+35651625 1311874 -800 W3
+100 35 -5 10d10+1400 5d8+35
+100 100000
+8 8 0
+18 0 12 13 17 13 13
+6 4 1
+-50 11 4 100 0 100
+5 5 5 5 5
+0 0 63
+5 10
+cackle
+~
+#16136
+Mashadar~
+Mashadar~
+The heart of Mashadar is all around you, and it looks like it's hungry.
+~
+You see a massive cloud of pure evil.  The sheer presence of him makes you
+want to run in fear. It is said that it would take the combined magic of the
+entire white tower just to harm him.  You don't think your weapon could even
+harm him at all.
+~
+59419 1119272 -1000 W3
+200 50 -12 50d100+15000 9d3+15
+100000 900000
+8 8 0
+18 100 18 13 16 18 13
+9 5 1
+-120 2 8 0 0 30
+5 5 5 5 5
+56 0 0
+6 1
+delay delay say you will be my slave for eternity!
+~
+#16138
+Mordeth~
+Mordeth~
+Mordeth is here, asking you to help carry away the treasure.
+~
+You see a sleek, somewhat overfed man with drooping eyelids that make him
+look like hes hiding something. He is bald, and walks like he is a person of
+nobility. He seems strange.  Something tells you he isnt what he appears to
+be.
+~
+321563 268567552 -1000 W3
+150 60 -12 25d25+10000 5d7+30
+50000 400000
+8 8 1
+20 0 19 19 18 18 0
+11 2 1
+-120 13 2 -80 0 50
+1 1 1 1 1
+0 0 32
+6 1
+delay delay delay Come help me carry off the treasure! You can take whatever
+you want.
+~
+#16139
+fade~
+a Fade~
+A Fade sets your nerves on edge.
+~
+Twisted off-spring of the Trollocs, Fades are throw backs to the original
+humans in the Trolloc gene pool.  Unlike their trolloc brothers, they are
+much more powerful.  Their soul is closely entwined with the dark one
+granting them special powers.  Their gaze inspires all but the heartiest of
+people to run in sheer terror.  The only ones not affected by this power are
+the Trollocs, which they command. They have black voids where their eyes
+should be.
+~
+50571338 1077937160 0 W3
+150 37 -16 25d25+4000 4d6+39
+10000 200000
+8 8 0
+25 0 25 13 25 20 13
+0 2 1
+-160 0 2 -70 0 0
+10 10 10 10 10
+0 36 19
+6 1
+~
+#16140
+curse reanimate~
+the curse of shadar logoth~
+The curse of shadar logoth is here, making the dead come back to life.
+~
+~
+8388616 0 0 W3
+0 0 10 0d0+30000 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#16141
+wolf friendly~
+a friendly wolf~
+A friendly wolf is here, defending against the Trollocs.
+~
+Bloody and battered, this wolf fights on against evil even though it is
+hopelessly out matched by the hordes of Trollocs.
+~
+16812168 0 -100 W3
+14 33 4 50d2+50 2d4+3
+15 9000
+8 8 1
+15 0 8 5 19 17 13
+0 1 3
+40 4 5 10 1 0
+40 100 60 100 90
+0 0 0
+6 1
+~
+#16142
+wolf friendly perrin~
+a wolf~
+A friendly looking wolf is here, defending Perrin.
+~
+The wolf looks like it will defend Perrin no matter what the cost.
+~
+33556521 1024 600 W3
+20 45 5 5d5+100 5d6+10
+0 1000
+8 8 0
+25 0 13 13 13 13 13
+4 4 1
+50 4 4 0 0 0
+100 100 100 100 100
+0 0 0
+6 15
+~
+#16143
+guard watchman cityguard~
+Watchman of Baerlon~
+A Watchman of Baerlon is here, guarding the East Gate.
+~
+Set to guard the east gate, this watchman is a seasoned warrior.  He looks
+like he is ready to jump at the first sign of trouble.
+~
+33556491 0 600 W3
+60 10 -3 6d8+1300 2d8+15
+5000 50000
+8 8 1
+17 0 13 13 16 15 0
+1 2 2
+-30 0 2 0 45 40
+55 55 55 55 55
+0 0 0
+6 0
+~
+#16144
+cloak smart white~
+a smart White Cloak~
+A smart White Cloak stands here saying, "Walk in the light."
+~
+Unlike his dumber companions, this White Cloak has had alot less brain
+washing.   Now and then he grips his sword and looks at you with reproach.
+~
+16779289 37748736 400 W3
+80 35 -8 4d157+2200 6d9+30
+2000 81000
+8 8 1
+20 0 25 15 16 18 7
+5 2 2
+-80 13 2 5 0 0
+15 15 15 15 15
+0 0 7
+6 12
+~
+#16145
+cook plump happy~
+a plump cook~
+A plump cook looks happy doing her job.
+~
+Its alot of work cooking for a entire inn, especially one the size of the
+Stag and Lion, but this woman does it with great skill.  Second only to Marin
+at the Winespring Inn, this woman is a friend to friend to anyone that is
+hungry.
+~
+7800843 17826816 0 W3
+50 0 4 2d3+500 5d4+45
+5000 20000
+8 8 2
+25 0 20 20 25 13 25
+5 3 2
+40 0 2 0 200 100
+1 1 1 1 1
+0 0 0
+6 1
+~
+#16146
+chambermaid maid~
+a chambermaid~
+A chambermaid is here, cleaning the rooms.
+~
+Underpaid, and overworked, this maid none the less does her job with a smile.
+You cannot help but wonder what makes her so happy.
+~
+33556505 0 0 W3
+35 16 0 0d0+200 1d1+70
+1000 10000
+8 8 2
+20 0 13 13 13 13 13
+5 1 2
+0 9 2 0 200 99
+100 100 100 100 100
+7 0 56
+6 1
+delay delay emote babbles insanely.
+~
+#16147
+ant~
+a mutated ant~
+A ant has been mutated by the vile secretions of the trollocs.
+~
+Somehow, some ants have survived the foul soil of the Trolloc's latrine.
+They have become mutated, and diseased.
+~
+33558543 268436480 -1000 W3
+20 50 10 1d20+150 2d4+20
+150 5000
+8 8 0
+13 0 13 13 13 13 13
+6 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#16148
+trolloc~
+a trolloc~
+A huge Trolloc drinks from the vile well with glee.
+~
+Horribly disfigured, Trollocs embody the corruption of the dark lord in their
+form.  This Trolloc is particularly ugly.  Its half-human head has the muzzle
+of a wolf, and its scalp is adorned with horns like an adult ram. The legs of
+the beast are well muscled, yet somehow terribly wrong. A strange silk like
+web of ice coats the Trolloc providing some protection to it.
+~
+16853019 1080 -750 W3
+95 29 -12 20d100+2100 6d9+33
+7600 190000
+8 8 0
+18 75 15 15 18 16 0
+6 2 5
+-120 8 4 0 50 70
+10 10 10 10 10
+0 0 38
+6 8
+~
+#16149
+fade~
+a Fade~
+A Fade is communicating with the Dark One.
+~
+Twisted off-spring of the Trollocs, Fades are throw backs to the original
+humans in the Trolloc gene pool.  Unlike their trolloc brothers, they are
+much more powerful.  Their soul is closely entwined with the dark one
+granting them special powers.  Their gaze inspires all but the heartiest of
+people to run in sheer terror.  The only ones not affected by this power are
+the Trollocs, which they command. They have black voids where their eyes
+should be.
+~
+50571339 1077937160 -500 W3
+150 37 -16 25d25+4000 4d6+39
+10000 200000
+8 8 0
+25 0 25 13 25 20 13
+9 2 1
+-160 0 2 -70 0 0
+10 10 10 10 10
+0 16 11
+6 1
+~
+#16150
+fade~
+a Fade~
+A Fade is using evil magic here.
+~
+Twisted off-spring of the Trollocs, Fades are throw backs to the original
+humans in the Trolloc gene pool.  Unlike their trolloc brothers, they are
+much more powerful.  Their soul is closely entwined with the dark one
+granting them special powers.  Their gaze inspires all but the heartiest of
+people to run in sheer terror.  The only ones not affected by this power are
+the Trollocs, which they command. They have black voids where their eyes
+should be.
+~
+237643 1077937160 -700 W3
+150 37 -16 25d25+4000 4d6+39
+10000 200000
+8 8 0
+25 0 25 13 25 20 13
+8 2 1
+-160 0 2 -70 0 0
+10 10 10 10 10
+0 0 11
+6 1
+~
+#16151
+bunny dust dustbunny~
+a dustbunny~
+A dustbunny is here, hiding from the chambermaid.
+~
+Awww... he looks so cute.
+~
+8 524288 0 W3
+10 127 10 1d1+200 3d1+3
+200 4000
+5 5 0
+13 0 13 13 13 13 25
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#16152
+a determined Fade~
+a Fade~
+A determined Fade is here, pushing the Trollocs.
+~
+Twisted off-spring of the Trollocs, Fades are throw backs to the original
+humans in the Trolloc gene pool.  Unlike their trolloc brothers, they are
+much more powerful.  Their soul is closely entwined with the dark one
+granting them special powers.  Their gaze inspires all but the heartiest of
+people to run in sheer terror.  The only ones not affected by this power are
+the Trollocs, which they command. They have black voids where their eyes
+should be.
+~
+237643 1346372616 -700 W3
+150 37 -16 25d25+9000 4d6+39
+10000 400000
+8 8 0
+25 0 25 13 25 20 13
+10 2 1
+-160 0 2 -70 0 0
+10 10 10 10 10
+0 0 11
+6 1
+~
+#16153
+tendril mashadar~
+a tendril of Mashadar~
+A tendril of Mashadar floats near you, offering a quick death.
+~
+It is said that if you touch a tendril of Mashadar you will die almost
+instantly.  Because of Mashadar's enormus size, it never truely exists in one
+place.  The best you can ever hope to do is kill the heart of Mashadar. The
+tendril is utterly mindless, but if attacked it will quickly try to consume
+you.
+~
+9 0 0 W3
+100 20 -10 10d20+1000 5d6+100
+0 45000
+8 8 0
+25 0 1 13 13 13 13
+4 4 1
+-100 0 2 100 0 100
+1 1 1 1 1
+8 0 7
+6 1
+~
+#16154
+trolloc~
+a doomed Trolloc~
+A huge, well armored Trolloc is being pushed by a group of Fades.
+~
+Horribly disfigured, Trollocs embody the corruption of the dark lord in their
+form.  This Trolloc is particularly ugly.  Its half-human head has the muzzle
+of a wolf, and its scalp is adorned with horns like an adult ram. The legs of
+the beast are well muscled, yet somehow terribly wrong. A light coating of
+brimestone coats the Trolloc, providing him partial resistance to almost
+everything.  It towers over you.
+~
+75803 268436536 -750 W3
+95 29 -12 20d100+2100 6d9+33
+7600 190000
+8 8 0
+18 75 15 15 18 16 0
+6 2 5
+-120 8 3 0 0 70
+10 10 10 10 10
+0 0 63
+6 8
+delay delay delay cry
+~
+#16155
+fade doomed~
+a doomed Fade~
+A determined Fade is here, pushing the Trollocs.
+~
+Twisted off-spring of the Trollocs, Fades are throw backs to the original
+humans in the Trolloc gene pool.  Unlike their trolloc brothers, they are
+much more powerful.  Their soul is closely entwined with the dark one
+granting them special powers.  Their gaze inspires all but the heartiest of
+people to run in sheer terror.  The only ones not affected by this power are
+the Trollocs, which they command. They have black voids where their eyes
+should be.
+~
+237643 272630792 -700 W3
+150 37 -8 25d25+7000 4d6+39
+10000 290000
+8 8 0
+25 0 25 13 21 20 13
+14 2 1
+-80 12 2 -70 0 0
+10 10 10 10 10
+0 0 51
+6 1
+~
+#16156
+rabbit bony~
+a bony rabbit~
+A bony rabbit leaps through the underbrush.
+~
+~
+15 0 0 W3
+10 10 0 10d10+100 2d3+5
+0 100
+8 8 0
+13 0 13 13 25 13 13
+5 0 0
+0 4 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#16157
+tree burning~
+a burning tree~
+A tree is burning here, obviously someone didn't help prevent forest fires.
+~
+Egwene's camp fire has set this huge tree on fire.  Something needs to be
+done about this tree or the whole forest will catch fire.
+~
+1138779 1024 0 W3
+70 0 10 25d25+30000 3d6+10
+0 300000
+8 8 0
+25 0 10 10 8 25 13
+12 5 5
+100 5 6 40 0 0
+100 100 100 100 100
+8 1 0
+6 1
+~
+#16158
+fish~
+a fish~
+A fish is swiming in the icy water.
+~
+It looks just like your average, everyday fish exept that its evil and has
+nasty looking fangs.
+~
+8 0 -1000 W3
+40 30 10 1d1+600 3d3+40
+1 2000
+8 8 0
+13 0 13 13 25 13 13
+0 1 3
+100 4 4 0 200 100
+100 100 100 100 100
+3 4 0
+6 1
+~
+#16159
+sheep~
+a sheep~
+A sheep is here.
+~
+The sheep looks like a sheep.
+~
+2075 1024 0 W3
+20 30 10 3d3+600 1d1+25
+0 12000
+8 8 0
+13 0 13 13 13 13 13
+19 3 3
+100 5 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#16160
+Ba'alzamon dark one~
+Ba'alzamon~
+Ba'alzamon the lord of darkness stands here.
+~
+The sorcerer, antithesis of the Creator, Baalzamon is the god of all evil.
+Here in his spectral form, he torments your dreams, and tries to bend you to
+his will.  His goal: Making YOU a servant of darkness! Although his body is
+trapped in Shayol Ghul, the essence of his power can affect you even in this
+form.  This lord of the grave looks almost unstoppable, as he offers you his
+golden chalice of blood.
+~
+9 0 -1000 W3
+0 45 -10 35d35+30000 5d6+50
+0 1000000
+8 8 0
+18 0 18 8 18 18 18
+8 5 0
+-100 0 2 0 150 70
+1 1 1 1 1
+5 0 56
+6 1
+~
+#16161
+fade~
+a Fade~
+A Fade is communicating with the Dark One.
+~
+Twisted off-spring of the Trollocs, Fades are throw backs to the original
+humans in the Trolloc gene pool.  Unlike their trolloc brothers, they are
+much more powerful.  Their soul is closely entwined with the dark one
+granting them special powers.  Their gaze inspires all but the heartiest of
+people to run in sheer terror.  The only ones not affected by this power are
+the Trollocs, which they command. They have black voids where their eyes
+should be.
+~
+50571339 1077937160 -500 W3
+150 37 -16 25d25+4000 4d6+39
+10000 200000
+8 8 0
+25 0 25 13 25 20 13
+9 2 1
+-160 0 2 -70 0 0
+10 10 10 10 10
+0 16 11
+6 1
+~
+#16162
+fade~
+a Fade~
+A Fade is communicating with the Dark One.
+~
+Twisted off-spring of the Trollocs, Fades are throw backs to the original
+humans in the Trolloc gene pool.  Unlike their trolloc brothers, they are
+much more powerful.  Their soul is closely entwined with the dark one
+granting them special powers.  Their gaze inspires all but the heartiest of
+people to run in sheer terror.  The only ones not affected by this power are
+the Trollocs, which they command. They have black voids where their eyes
+should be.
+~
+50571339 1077937160 -500 W3
+150 37 -16 25d25+4000 4d6+39
+10000 200000
+8 8 0
+25 0 25 13 25 20 13
+9 2 1
+-160 0 2 -70 0 0
+10 10 10 10 10
+0 16 11
+6 1
+~
+#16163
+fade~
+a Fade~
+A Fade is communicating with the Dark One.
+~
+Twisted off-spring of the Trollocs, Fades are throw backs to the original
+humans in the Trolloc gene pool.  Unlike their trolloc brothers, they are
+much more powerful.  Their soul is closely entwined with the dark one
+granting them special powers.  Their gaze inspires all but the heartiest of
+people to run in sheer terror.  The only ones not affected by this power are
+the Trollocs, which they command. They have black voids where their eyes
+should be.
+~
+50571339 1077937160 -500 W3
+150 37 -16 25d25+4000 4d6+39
+10000 200000
+8 8 0
+25 0 25 13 25 20 13
+9 2 1
+-160 0 2 -70 0 0
+10 10 10 10 10
+0 16 11
+6 1
+~
+#16165
+~
+~
+~
+~
+8 0 0 W3
+0 0 10 0d0+1 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#16175
+~
+~
+Rand al'Thor stands here, contemplating his role in this world.
+~
+Rand is a tall, strong, handsome young man with broad shoulders, dark reddish
+hair, bluish-gray eyes, and a sun-darkened face. He is approximately 17 years
+old and about 6'6". He is right-minded and always tries to do his best. He
+was a simple shepherd before Moiraine came to take him away.  He is thinking
+of Ba'alzamon.
+~
+8 0 600 W3
+140 40 10 4d100+7000 0d0+0
+15000 400000
+8 8 1
+20 0 20 20 20 20 13
+0 3 2
+100 0 3 -70 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#16181
+~
+~
+~
+~
+8 0 0 W3
+0 0 10 0d0+1 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+$

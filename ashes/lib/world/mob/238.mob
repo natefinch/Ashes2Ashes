@@ -1,0 +1,138 @@
+#23801
+Skeleton T-Rex Dinosaur Lich~
+a HUGE skeletal T-Rex~
+An ENOURMOUS skeletal T-Rex stands here waiting for lunch.
+~
+As you look at what appears to be a huge pile of bones it begins to move.
+You cant help wondering how something this huge and intimidating was slain. 
+As you sit there and ponder the skeletal figure comes to life and attacks.
+With quicksilver speed, your life flashes in front of your eyes as you 
+realize you are going to die!
+~
+304731 22021288 -990 W3
+200 90 -34 10d10+10000 18d9+60
+20000 100000
+8 8 0
+18 0 13 13 25 13 0
+18 5 1
+-340 4 8 300 0 0
+10 10 10 10 10
+1 0 52
+6 10
+~
+#23802
+lizard small mean~
+lizard damage nuff said~
+A Spitting Lizard stands here ready to ruin your new clothes.
+~
+~
+36904 0 0 W3
+51 50 -1 5d5+1150 3d5+10
+100 100000
+8 8 0
+13 0 13 13 18 13 0
+0 0 0
+-10 0 4 0 0 100
+35 35 35 35 35
+0 0 0
+6 10
+~
+#23803
+pter pteradactyl dinosaur skeleton lich~
+Pteradactyl~
+A Skeletal Pteradactyl stands here.
+~
+A skeletal pteradactyl swoops down from the ceiling to attack you!  You 
+wonder if the terrible creaking of those leathery wings is the last thing
+You'll ever hear.  Probably!
+~
+299035 136 -500 W3
+120 80 -30 20d10+14000 10d10+55
+25000 100000
+8 8 0
+25 100 13 13 18 13 0
+12 5 1
+-300 8 8 255 25 25
+10 10 10 10 10
+1 2 60
+6 10
+~
+#23804
+Stegosaurus skeleton lich steg~
+Stegosaurus~
+The Skeletal Stegosaurus lashes its tail at you with full force!
+~
+This large beast has spikes all over its body.  From the looks of them
+you would think he doesnt have many enemies.
+~
+297019 16777344 50 W3
+200 90 -36 20d10+14000 18d9+75
+100000 150000
+8 8 0
+25 100 13 13 18 13 0
+12 5 1
+-360 10 8 250 50 25
+10 10 10 10 10
+1 2 60
+6 10
+~
+#23805
+Raptor lich skeleton~
+a Raptor~
+The Skeletal Raptor lays here in ambush for someone.
+~
+Even the mere skeleton of this fearsome hunter is impressive.  You 
+can't help staring at it.  What was that?  Did you just hear something
+behind you?  TOO LATE BUDDY, your gunna die!
+~
+36891 136 0 W3
+120 60 -8 10d10+10000 8d7+38
+50000 90000
+8 8 0
+13 0 13 13 13 13 0
+14 5 1
+-80 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#23806
+Raptor dino dinosaur~
+the sneaky one~
+A Raptor hides behind the bushes here, WATCH OUT!
+~
+This is the one that'll get ya.  While you stare at his counterpart
+this little fella is sneaking up to attack from behind!
+~
+299067 524416 -700 W3
+135 87 -30 20d10+7000 10d10+70
+35000 50000
+8 8 0
+18 100 13 13 20 13 0
+15 5 0
+-300 8 8 250 0 0
+10 10 10 10 10
+1 2 60
+6 10
+~
+#23807
+lich skeleton triceratops dinosaur dino~
+Triceratops~
+The Skeletal Triceratops stands here encased in its calcium armor.
+~
+This looks like one beast you would not want to mess with.  The Triceratops
+does not need offensive claws or teeth, this relatively docile beast is so
+encased in bone armor that it would be nearly impossible to hurt it.
+~
+31 128 0 W3
+127 76 -28 10d7+7500 12d10+25
+90000 150000
+8 8 0
+25 0 13 13 25 25 0
+14 5 1
+-280 0 10 400 75 0
+10 10 10 10 10
+1 2 60
+6 10
+~
+$

@@ -1,0 +1,590 @@
+#25500
+Emperor Palpatine~
+Emperor Palpatine~
+The Emperor sits here glaring at you.
+~
+This is Emperor Palpatine. He appears to be old and weak, but this
+act is only used to fool the ones that are truly weak.  You can sense a
+dark power emanating from him and you realize maybe he's not the frail
+old man he seems to be.  His dark and heavy robes hide most of his face
+except for that evil grin of his.  He sits stooped over waiting for you t
+make your move.
+~
+321547 65704 -1000 W3
+140 87 -34 0d0+16643 20d10+55
+25000 80000
+8 8 1
+18 100 18 18 20 13 4
+16 2 3
+-340 8 9 500 15 35
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25501
+security laser cannon~
+Security Laser Cannon~
+A security laser cannon is here turning towards you.
+~
+This huge laser cannon and others like it are used to keep unwanted vistitors
+out of restricted areas.  The Empire uses them to reduce the amount of 
+manpower used.  It is large and quite powerful.  It is state-of-the-art and
+is a very useful weapon.  This one has seen some action, and is about to see
+some more as it attacks you!
+~
+2254954 1032 0 W3
+56 21 -11 0d0+1200 10d5+10
+0 25000
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+-110 12 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 15
+~
+#25502
+Darth Vader dude sith lord~
+Darth Vader~
+The Lord of the Sith is standing here.
+~
+Darth Vader, Lord of the Sith, is encased in an all black armored suit.
+He is one of the tallest men you have ever seen.  The dark power he
+emenates causes even the bravest to cringe and look away.  He breathes
+through a respirator adding to the already fearsome visage.  He looks at
+you with penetrating eyes and you know he can see more then whats on the
+surface.  As you start pondering whether or not you ought to fight him,
+he attacks.
+~
+2943017 197768 -800 W3
+127 78 -20 0d0+7500 10d10+75
+5 85000
+8 8 1
+18 100 15 15 18 18 5
+8 3 2
+-200 13 4 0 0 0
+10 10 10 10 10
+0 4 0
+6 10
+~
+#25503
+Princess Leia's Stunt Double~
+Princess Leia~
+An abnormally hairy Princress Leia is here
+~
+This is the ugliest looking princess you've ever laid eyes on.  Then you
+realize that this is only Princess Leia's stunt double.  She is abnormaly
+hairy and appears to be wearing fake hair buns.  She is also smoking a
+big fat Cuban cigar.
+~
+49231 131200 100 W3
+60 62 -9 10d10+2250 10d4+23
+2500 49624
+8 8 2
+14 0 13 13 18 13 0
+19 2 3
+-90 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25504
+mechanic man~
+a mechanic~
+A mechanic is standing here trying to look busy.
+~
+This mechanic and others like him are the backbone of the Imperial Navy.
+He is covered with grease and other lubricants from head to toe.  He is
+a bit tired looking.  No doubt from the long hard hours of repairing
+damage caused by the Rebels.
+~
+2056 0 0 W3
+21 30 -5 0d0+200 5d5+10
+1000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+-50 0 2 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#25505
+tie pilot guy man person~
+a Tie Pilot~
+A bored Tie pilot is standing here.
+~
+It's hard being a Tie pilot.  The hours of endless formation and patrol flying
+wear on one's morale.  The pay and insurance doesn't compensate the knowledge
+that a fatal laser blast could happen at any time.  Stress and battle fatigue
+has aged this man past his years.
+~
+2058 0 -100 W3
+20 35 -5 0d0+234 6d5+10
+1234 16000
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+-50 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#25506
+moff grand tarkin~
+Grand Moff Tarkin~
+Grand Moff Tarkin stands here trying to find the Rebel base.
+~
+Grand Moff Tarkin has a very stern face.  When he stares at you his stare
+can make even the bravest man cringe.  He is dressed in his grey Moff
+uniform.  His hair is beyond greying and is starting to fall out.
+He is not the biggest man you've ever seen.  Of course he didn't earn
+his rank by being a brute.  He is a cruel man that got to where he was
+by scheming his way to the top.
+~
+59403 196736 -400 W3
+80 59 -15 0d0+2000 10d7+40
+50000 60000
+8 8 1
+13 0 13 13 13 13 0
+20 2 3
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25507
+assassin droid robot~
+an assassin droid~
+An assassin droid is here looking for another kill.
+~
+This droid is one of the deadliest foes you have ever crossed.  It is a 
+slick black droid thats only purpose is to kill.  It does this with deadly
+accuracy.  Even though illegal in both the Rebellion and the Empire, this
+one is the Emperor's personnal assassin.  With it's weapons drawn it looks
+for more prey.  It seems as if it delights in killing.  It looks around and
+decides you should be next.  FLEE it's attacking you!
+~
+32814 983208 0 W3
+90 40 -10 0d0+1800 10d6+30
+25000 50000
+8 8 0
+18 0 18 18 18 13 0
+0 2 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#25508
+imperial stormtrooper man badguy~
+an Imperial Stormtrooper~
+An Imperial Stormtrooper is standing here.
+~
+The Imperial Stormtrooper's are the elite soldiers of the emperor's army.
+They are trained for any situation.  They can be on the Star Destroyers or
+in land based operations.  They are always wearing there white metallic suit
+and carrying there hand blasters.  Always ready to defend the Empire from
+the increasing Rebel threat.
+~
+4168 0 -400 W3
+20 12 0 10d10+250 5d9+15
+5500 12500
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+0 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25509
+imperial stormtrooper man badguy~
+an Imperial Stormtrooper~
+An Imperial Stormtrooper is standing here.
+~
+The Imperial Stormtrooper is an elite soldier.  He does the dirty work the
+basic Imperial soldiers can't do.  He kills in the name of the Emperor.  This
+is all the reason he needs.  If you get in his way or in the way of the Empire
+then you will be this Stormtroopers next target.
+~
+72 0 0 W3
+20 10 0 10d10+250 2d9+10
+5100 13000
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+0 0 6 0 0 0
+20 20 20 20 20
+0 0 0
+6 0
+~
+#25510
+naval trooper man guy person~
+an Imperial Naval Trooper~
+A naval trooper is standing here.
+~
+This is the grunt of the Imperial Navy.  He does what he does very good.
+He is wearing a black uniform with an abnormally large helmet.  He is the
+most common soldier in the navy and he is considered expendable by his
+superiors.
+~
+136 0 -100 W3
+24 10 2 0d0+150 5d5+10
+2000 30000
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+20 0 4 0 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#25511
+trash monster trashmonster~
+a trashmonster~
+A monster that feeds on trash is here munchin on garbage.
+~
+This is one of the wierdest creatures you have ever seen.  It looks like a 
+large octopus with one large eye on a stalk.  ~
+10 0 0 W3
+12 10 2 0d0+100 3d5+4
+1000 2000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+20 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#25512
+naval officer imperial~
+a Naval Officer~
+An Imperial Naval Officer is standing here givin orders.
+~
+This officer is very nervous.  To rise in rank in Vader's navy is to have
+a superior die.  One screw up and your inferiors rise in rank.  He is dressed
+in an all black uniform.  He has wrinkles and grey hair.
+~
+12 0 -100 W3
+36 15 0 0d0+250 2d9+30
+3000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+0 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25513
+red royal guard~
+a Royal Guard~
+A guard in red uniform is standing here.
+~
+This is the Emperor's personal bodyguard.  He can use the force to a slight 
+degree but mainly relies upon his strength.  Dressed in his all red uniform,
+you can't tell much about him.  The red helmet he wears has a small black
+view area in the front.  These guards are very dangerous with there force-
+pikes.  Beware they always travel in twos.
+~
+45067 40 -500 W3
+100 50 -7 0d0+1000 4d5+45
+10000 100000
+8 8 1
+18 100 18 18 18 18 0
+20 2 3
+-70 0 2 0 0 100
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25514
+captain guy rhien~
+Captain Rhien~
+The captain of the Corvette Mescue is here.
+~
+This is the captain of the Corvette Mescue.  He is a tall man in his early
+forties.  His hair is just starting to grey.  He hardly ever smiles.  It
+looks like his face was made for a permenant frown.  He looks at you as if
+you are below his need for attention.  He needs a lesson tought to him
+and you are the person(or people) to do it.
+~
+8331 0 -400 W3
+68 60 -10 10d10+2000 10d5+30
+25000 40000
+8 8 1
+13 0 13 13 13 13 0
+10 2 3
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25515
+Han Solo man clone~
+Han Solo's Clone~
+Han Solo's clone is standing here.
+~
+While the real Han Solo is away his clone fills in to keep up appearances.
+This clone is the one you pay to take you to the Death Star.  He is very 
+strong and attacking him would not be recommended.  He is not as nice as the 
+real Han and won't take crap from anybody.  So him your money and get on
+board.
+~
+286731 128 0 W3
+91 30 -8 0d0+10000 6d5+30
+0 60000
+8 8 1
+13 0 13 13 13 13 0
+18 2 3
+-80 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#25516
+mouse droid thing box~
+a mouse droid~
+A small mouse droid gets in your way and beeps at you.
+~
+Of all the annoying mobs you had to run into you had to get this one.  All
+it is is a small black box on wheels.  How it can attack is beyond anybody
+Kill it, step on it growl at it, who cares, but for the Gods' sake stop
+staring at it.  All it craves is that attention.
+~
+8 0 0 W3
+9 10 4 0d0+100 2d4+5
+100 500
+8 8 0
+13 0 13 13 18 13 5
+0 0 0
+40 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#25517
+laser super death cannon~
+the Super Laser~
+A very long very powerful laser beam is here.
+~
+Hiding until called upon to destroy, the super laser looks for something to
+blow up in the future.  You are the closest thing it's seen in a while.  This
+very thin, very long, and very powerful laser only waits for the command to
+destroy you.  It is a big green light basicly, but it does have the power to 
+kill.  Be wary it will attack if provoked.  Good luck if you decide to
+provoke.
+~
+319498 983208 0 W3
+106 59 -15 0d0+3000 15d15+100
+0 60000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+-150 12 4 0 0 0
+10 10 10 10 10
+16 0 7
+6 0
+~
+#25518
+dignitary tall healer~
+a tall dignitary~
+A very tall and regal dignitary stands here.
+~
+She is the leader of a clan of healers.  She doesn't really trust the other
+dignitaries, but she has learned to accept and offer her help.  She is very
+tall, and has long flowing red hair.  She wears a combat medic bodice and
+loose fitting dark colored breeches.  If you attack her the others will 
+surely help.  Be careful.
+~
+30731 128 0 W3
+67 55 -18 0d0+3000 5d5+25
+30000 62000
+8 8 2
+13 0 13 13 13 13 0
+10 2 2
+-180 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25519
+short dignitary mage~
+a short dignitary~
+A short dignitary is standing here.
+~
+He is short, but so what.  With his magic he can fry you pretty quick.  He
+helps the others grudgingly becasue they help him.  Fortunately for you
+he is weak by himself.  He is very short and has a bald head.  He wears
+his yellow mage robes with pride.  Attack him if you must, just watch your
+back because the other dignitaries are watching his.
+~
+28687 196736 0 W3
+55 42 -2 0d0+2000 5d5+20
+20000 52000
+8 8 1
+13 0 13 13 13 13 0
+8 2 2
+-20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25520
+dignitary stocky fighter~
+a stocky dignitary~
+A stocky dignitary is here waitng for a meal.
+~
+She is very well built.  Her stockiness is hidden behind her ceremonial army.
+She likes the help of others and likes to help them.  She knows that she is
+the strongest of the three of them.  She full well knows that she can you
+take you on by herself.  Enjoy taking her on because she'll love killing you.
+~
+30731 1184 0 W3
+104 64 -4 0d0+4000 4d5+48
+40000 70000
+8 8 2
+13 0 13 13 13 13 0
+19 2 2
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25589
+Gypsy robot~
+Gypsy~
+Gypsy drools over her Richard Bashart picture.
+~
+Gypsy is a strange looking robot.  Her head is purple and she has a
+flashlight as an eye.  Her body is long and snake-like.  She was built to
+run the higher functions of the satellite, so she can't join Mike and the
+other bots in the theatre.
+~
+4759563 1152 800 W3
+70 50 -10 5d5+1050 10d6+60
+150000 30000
+8 8 2
+18 100 18 13 18 13 13
+13 2 0
+-100 4 2 0 0 0
+100 100 100 100 100
+3 0 56
+1 1
+~
+#25590
+tom servo robot~
+Tom Servo~
+Tom Servo hovers about singing.
+~
+Tom is a squat, fire hydrant of a guy.  Actually, he looks more like a little
+red bubble-gum machine.  He floats in the air, thanks to his hoverskirt.  He
+is happy and optimistic, but has been known to get into trouble with Crow.
+His arms look like Slinkys and are totally useless.  Thank goodness he has a
+good singing voice because he really likes to use it.
+~
+688137 1049768 750 W3
+127 72 -30 8d8+13000 10d10+60
+1000 10000
+8 8 0
+13 0 18 18 13 13 16
+17 1 0
+-300 4 4 25 50 0
+50 50 1 25 10
+48 5 10
+6 1
+~
+#25591
+mike nelson man~
+Mike Nelson~
+Mike Nelson is having his Mind monitored.
+~
+Mike was a Temp hired by Dr. Forrester to help with an inventory.  When Joel
+escaped, Dr. F and TV's Frank needed a new test case, so they conked him on
+the noggen and shot him into space.  Mike has to watch cheesy movies so Dr. F.
+can monitor his mind.  Mike is an average looking guy, with
+a buzz cut and a goofy looking grin.  Crow and Tom keep Mike from
+going insane.
+~
+2785289 66728 0 W3
+127 50 -27 10d10+5000 10d5+80
+25000 100000
+8 8 1
+18 100 16 16 16 18 15
+18 2 2
+-275 13 4 23 50 0
+1 25 1 1 25
+60 0 0
+3 1
+~
+#25592
+crow t. robot golden~
+Crow T. Robot~
+Crow T. Robot sits here crackin at the movie.
+~
+Crow T. Robot is the prankster of the group, always getting into some kind of
+trouble.  He reminds you of your little brother.  Crow is golden in color.
+He looks like he was put together from a yard sale.  His "hair" is a lacross
+face mask, his mouth a bowling pin, his eyes are yellow ping-pong balls, and
+his shoulders look like two lids from Tupperware dishes.
+~
+690185 1192 750 W3
+75 30 -26 8d8+900 5d5+30
+1000 10000
+6 6 0
+16 0 16 16 18 13 16
+20 1 0
+-260 8 4 25 50 0
+25 50 50 25 10
+48 5 10
+6 1
+~
+#25593
+tv's frank man~
+TV's Frank~
+TV's Frank is pigging out on chinese food.
+~
+TV's Frank is Dr. Forrester's assistant.  He is a short, stocky fella with
+bleach-blond hair that curls in front.  Frank has the personality of a game
+show host but the confidence of a lab rat.  Speaking of which, Dr. F. has
+performed scores of scientific experiments on Frank such as, draining all his
+blood, hooking up a generator to his heart, and removing his liver.  Torgo is
+probably the only sidekick to have a worse boss.
+~
+569353 1192 -351 W3
+100 30 -25 5d10+3000 9d3+30
+3000 10000
+8 8 1
+13 0 13 13 13 18 18
+10 2 2
+-250 5 4 0 100 0
+100 100 100 100 100
+0 0 15
+5 1
+~
+#25594
+dr. clayton forrester man~
+Dr. Clayton Forrester~
+Dr. Forrester yells, 'I WILL KILL YOU!'
+~
+Dr. Clayton Forrester is the epitome of mad scientists.  He even looks the
+part, hair unkept, red glasses borrowed from his talk show counterpart (Sally
+Jesse Raphael), lab coat, and that weird look in his eyes.  The Gizmonic Inst.
+put him down here to keep the world safe.  He truly enjoys causing Mike, Frank
+and the bots to suffer.
+
+~
+2785289 66728 -1000 W3
+127 80 -35 10d10+10000 6d8+80
+25000 100000
+8 8 1
+18 100 18 18 16 18 13
+11 2 2
+-350 9 8 23 50 0
+1 1 1 1 1
+28 0 3
+3 1
+~
+$

@@ -1,0 +1,2046 @@
+#18400
+A Shining Green Portal~
+You have entered a glistening green portal. All around you see distorted
+shapes of the place you were, and the place you are now going. Trees and
+rocks form and dissolve around you making you feel nauseous. You begin
+to drop to your knees to keep from falling into the unknown.
+~
+184 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18401
+D2
+~
+~
+0 -1 18998
+S
+#18401
+A Strange New Forest~
+You do not recognize this area. It is lushly grown with firs, pine, and
+oak. It is quite beautiful, but has a strange air about it. You wonder
+where to go from here.
+~
+184 0 3
+0d0+0 0 0
+D0
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18420
+D1
+More forest...
+~
+~
+0 -1 18402
+D2
+You see the portal from which you just came. You are not sure whether you
+want that sensation again.
+~
+~
+0 -1 18400
+S
+#18402
+In the Green Reaches~
+You are wandering through this forest with no sense of direction or purpose.
+The trees all around dwarf you, and you are unable to get a bearing on
+which way you are facing.
+~
+184 0 3
+0d0+0 0 0
+D2
+More forest...
+~
+~
+0 -1 18403
+D3
+More forest.....
+~
+~
+0 -1 18401
+D8
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18409
+S
+#18403
+In the Green Reaches~
+You are wandering through this forest with no sense of direction or purpose.
+The trees all around dwarf you, and you are unable to get a bearing on 
+which way you are facing.
+~
+184 0 3
+0d0+0 0 0
+D0
+More forest...
+~
+~
+0 -1 18402
+D1
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18409
+S
+#18404
+In the Green Reaches~
+You are wandering through this forest with no sense of direction or purpose.
+The trees all around dwarf you, and you are unable to get a bearing on 
+which way you are facing.
+~
+184 0 3
+0d0+0 0 0
+D0
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18419
+D2
+More forest...
+~
+~
+0 -1 18408
+S
+#18405
+In the Green Reaches~
+You are wandering through this forest with no sense of direction or purpose.
+The trees all around dwarf you, and you are unable to get a bearing on
+which way you are facing.
+~
+184 0 3
+0d0+0 0 0
+D1
+More forest...
+~
+~
+0 -1 18406
+D7
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18415
+S
+#18406
+In the Green Reaches~
+You are wandering through this forest with no sense of direction or purpose.
+The trees all around dwarf you, and you are unable to get a bearing on
+which way you are facing.
+~
+184 0 3
+0d0+0 0 0
+D0
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18412
+D1
+More forest...
+~
+~
+0 -1 18407
+D3
+More forest.....
+~
+~
+0 -1 18405
+S
+#18407
+In the Green Reaches~
+You are wandering through this forest with no sense of direction or purpose.
+The trees all around dwarf you, and you are unable to get a bearing on
+which way you are facing.
+~
+184 0 3
+0d0+0 0 0
+D1
+More forest...
+~
+~
+0 -1 18408
+D3
+More forest.....
+~
+~
+0 -1 18406
+S
+#18408
+In the Green Reaches~
+You are wandering through this forest with no sense of direction or purpose.
+The trees all around dwarf you, and you are unable to get a bearing on 
+which way you are facing.
+~
+184 0 3
+0d0+0 0 0
+D0
+More forest...
+~
+~
+0 -1 18404
+D3
+More forest.....
+~
+~
+0 -1 18407
+D7
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18411
+S
+#18409
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there as a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D0
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18410
+D3
+More forest...
+~
+~
+0 -1 18403
+D7
+More forest...
+~
+~
+0 -1 18402
+S
+#18410
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance 
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D2
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18409
+S
+#18411
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D0
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18418
+D3
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18412
+D8
+More forest...
+~
+~
+0 -1 18408
+S
+#18412
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D1
+Looks like a clearing... What a relief...
+~
+~
+0 -1 18411
+D2
+More forest...
+~
+~
+0 -1 18406
+S
+#18413
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D0
+Looks like a clearing...
+~
+~
+0 -1 18417
+D3
+Looks like a clearing...
+~
+~
+0 -1 18415
+S
+#18414
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D0
+Back the way you came...
+~
+~
+0 -1 18415
+S
+#18415
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D0
+Looks like a clearing...
+~
+~
+0 -1 18416
+D1
+Looks like a clearing...
+~
+~
+0 -1 18413
+D2
+Looks like a clearing...
+~
+~
+0 -1 18414
+D8
+More forest...
+~
+~
+0 -1 18405
+S
+#18416
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D0
+Looks like a clearing...
+~
+~
+0 -1 18422
+D2
+Looks like a clearing...
+~
+~
+0 -1 18415
+S
+#18417
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D0
+Looks like a clearing...
+~
+~
+0 -1 18423
+D2
+Looks like a clearing...
+~
+~
+0 -1 18413
+D6
+Looks like a clearing...
+~
+~
+0 -1 18424
+D7
+Looks like a clearing...
+~
+~
+0 -1 18422
+S
+#18418
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance 
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D1
+Looks like a clearing...
+~
+~
+0 -1 18419
+D2
+Looks like a clearing...
+~
+~
+0 -1 18411
+S
+#18419
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D1
+Looks like a clearing..
+~
+~
+0 -1 18420
+D2
+More forest...
+~
+~
+0 -1 18404
+D3
+Looks like a clearing...
+~
+~
+0 -1 18418
+S
+#18420
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D1
+Looks like a clearing...
+~
+~
+0 -1 18421
+D2
+More forest...
+~
+~
+0 -1 18401
+D3
+Looks like a clearing...
+~
+~
+0 -1 18419
+S
+#18421
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D0
+You see a crack in the face of the mountain...
+~
+~
+0 -1 18425
+D3
+Looks like a clearing...
+~
+~
+0 -1 18420
+S
+#18422
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D2
+Looks like a clearing...
+~
+~
+0 -1 18416
+D6
+Looks like a clearing...
+~
+~
+0 -1 18427
+D8
+Looks like a clearing...
+~
+~
+0 -1 18417
+S
+#18423
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance 
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't look like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D1
+Looks like a clearing...
+~
+~
+0 -1 18424
+D2
+Looks like a clearing...
+~
+~
+0 -1 18417
+S
+#18424
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D0
+Looks like a clearing...
+~
+~
+0 -1 18428
+D3
+Looks like a clearing...
+~
+~
+0 -1 18423
+D9
+Looks like a clearing...
+~
+~
+0 -1 18417
+S
+#18425
+A Dimly Lit Cavern~
+This cavern is oft-used by something. In the corner you see a matted pile
+of fur. Scattered about the room are bones of animals, some long since
+dead and others recently unlucky. Strange sounds eminate from the darkness.
+In the corner of your eye you see something stir...
+~
+184 9 0
+0d0+0 0 0
+D2
+The way out of here...
+~
+~
+0 -1 18421
+D4
+A small crevice in the cieling
+~
+crevice~
+2 -1 18588
+S
+#18426
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D0
+A lightly marked path leading into the mountains.
+~
+~
+0 -1 18432
+D1
+Looks like a clearing...
+~
+~
+0 -1 18427
+S
+#18427
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 0 3
+0d0+0 0 0
+D3
+Looks like a clearing...
+~
+~
+0 -1 18426
+D9
+Looks like a clearing...
+~
+~
+0 -1 18422
+S
+#18428
+The Edge of the Green Reaches~
+You have worked your way to a clearing in the forest. In the distance
+you can see mountain spires towering above the land. Dark clouds hover
+above the spires as if there is a curse upon them. It doesn't seem like
+a very pleasant place to take a stroll.
+~
+184 4 3
+0d0+0 0 0
+D2
+Looks like a clearing...
+~
+~
+0 -1 18424
+D4
+Looks like a tough climb!
+~
+~
+0 -1 18433
+S
+#18429
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 18430
+D7
+~
+~
+0 -1 18434
+D8
+~
+~
+0 -1 18432
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18430
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 18431
+D3
+~
+~
+0 -1 18429
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18431
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 18437
+D3
+~
+~
+0 -1 18430
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18432
+A Mountain Pass~
+A small pass allows you to enter the mountains. The wind whips quickly
+through the pass in the stone cut in the face of the mountain. You aren't
+sure if this is where you want to be... You are entering the Grey Range.
+~
+184 0 4
+0d0+0 0 0
+D2
+~
+~
+0 -1 18426
+D7
+~
+~
+0 -1 18429
+S
+#18433
+An Arial Cavern~
+After your long and strenuous climb, you feel relieved to see that you have
+found a safe place to rest. This cave is fairly well lit and you see no 
+sign of inhabitants. Other than a couple of melted suits of chainmail, it
+looks pretty deserted. .....chainmail?..... .....MELTED?.....
+~
+184 8201 0
+0d0+0 0 0
+D5
+It's a long climb down... Watch for falling rocks...
+~
+~
+0 -1 18428
+S
+#18434
+Travelling in the Grey Rnge~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 18441
+D1
+~
+~
+0 -1 18435
+D6
+~
+~
+0 -1 18442
+D7
+~
+~
+0 -1 18440
+D8
+~
+~
+0 -1 18429
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18435
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 18436
+D3
+~
+~
+0 -1 18434
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18436
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 18435
+D6
+~
+~
+0 -1 18444
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18437
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 18444
+D2
+~
+~
+0 -1 18431
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18438
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 18445
+D1
+~
+~
+0 -1 18439
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18439
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D0
+That really looks dangerous. I, personally, wouldn't try that...
+~
+~
+0 -1 18446
+D1
+~
+~
+0 -1 18440
+D3
+~
+~
+0 -1 18438
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18440
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D0
+That just looks dangerous.... Better think twice about that one....
+~
+~
+0 -1 18446
+D3
+~
+~
+0 -1 18439
+D8
+~
+~
+0 -1 18434
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18441
+A Dead End in the Mountains~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 18434
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18442
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 18443
+D9
+~
+~
+0 -1 18434
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18443
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 18442
+D6
+~
+~
+0 -1 18450
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18444
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 18437
+D9
+~
+~
+0 -1 18436
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18445
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 18451
+D1
+It's a long way down to that lake. You don't believe you can keep a foothold
+while climbing down, and falling would really hurt....
+~
+~
+0 -1 18446
+D2
+The mountains.....
+~
+~
+0 -1 18438
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18446
+A Steep Hill to a Lake Filled Valley~
+Do you always do things without looking? Or do you do things against your
+better judgement? That REALLY HURT you, I'll bet. If you're still alive
+you may be able to appreciate the beauty of this lake. That is, if you
+aren't screaming in agony. The water is glistening in the sun...
+Sun? That's strange, everywhere else in the mountains is cloudy.
+There is a large dark spot underneath the water. This is getting wierd.
+~
+184 16386 6
+1d1+199 90 0
+D4
+That's the best way to try to climb out of this basin.
+~
+~
+0 -1 18445
+S
+#18447
+Travelling in the Grey Ranges~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 18448
+D7
+~
+~
+0 -1 18453
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18448
+Travelling in the Grey Ranges~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 18447
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18449
+Travelling in the Grey Range~
+The clouds seem to be getting darker. You begin to feel rain on your face.
+This dead end doesn't seem too appealing, either. To the north, you hear
+hoofsteps.
+~
+184 0 5
+0d0+0 0 0
+D0
+A brushpile... Is that a trail?
+~
+brush~
+1 -1 18455
+D1
+~
+~
+0 -1 18450
+E
+bushes north~
+You see a large amount of brush, you could possibly drag it out of the
+way if you really needed to...
+~
+S
+#18450
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 18449
+D9
+~
+~
+0 -1 18443
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18451
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 18452
+D2
+~
+~
+0 -1 18445
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18452
+A Cross in the Path~
+You run upon a split in the path here. There is a sign posted in the ground.
+A path leads off to the north where you can see a vale, or meadow, and
+what seems to be a town. The path also continues east, circling the
+valley lake where the skies are darkening over the mountains.
+~
+184 4 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 18392
+D1
+~
+~
+0 -1 18453
+D2
+Haven't you figured out that it's a DT yet?
+~
+~
+0 -1 18446
+D3
+~
+~
+0 -1 18451
+E
+sign~
+The sign reads:
+
+                    "Durrany's Vale is to the north
+                     and will makes a quaint respite
+                     from these weary mountains. To 
+                     east, few return.
+                              
+                        -Marcus, Merchant of Wonders"~
+S
+#18453
+Travelling in the Grey Range~
+You are travelling in high mountains. Large rocks hamper your ease of travel.
+Dark clouds are rushing into the area with the smell of rain. You should
+think about finding shelter soon. It is getting very cold.
+~
+184 0 5
+0d0+0 0 0
+D2
+IT'S A DAMN D.T.!!! DON'T GO THERE!!!
+~
+~
+0 -1 18446
+D3
+~
+~
+0 -1 18452
+D8
+~
+~
+0 -1 18447
+E
+storm clouds~
+A thunderhead is forming nearby, looks like nasty weather ahead.
+~
+S
+#18454
+A Mountain Peak~
+You stand upon one of the highest peaks in Midkemia. To the west you see
+the mountains and a small village. To the northeast you see a large city.
+Due north you see a vast plain and rising above it, another peak, higher
+than the one you stand upon.
+~
+184 0 5
+0d0+0 0 0
+D5
+~
+~
+0 -1 18459
+E
+city large~
+That is the great city of Krondor. Almost an empire in itself.
+~
+E
+village~
+It is the plagued village of Shamata.
+~
+S
+#18455
+A Road Through the Mountains~
+Ahh, now you know why there is a road here. Traders such as the ones you see
+travel this area constantly, making a living for thier families, and
+taking necessary items to those who will purchase them.
+~
+184 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18460
+D1
+~
+~
+0 -1 18456
+D2
+A brushpile... Is that a trail?
+~
+brush~
+1 -1 18449
+S
+#18456
+A Road Through the Mountains~
+Dorgin was a nice enough town, but you grow tired of the clouds and
+wind. You wish you were back home where you could take a nice long
+nap in front of a cozy fireplace. maybe there is a nice inn in
+Ravensburg where you could share a story with a stranger?
+~
+184 0 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 18455
+D8
+~
+~
+0 -1 18457
+S
+#18457
+A Road Through the Mountains~
+Finally, you are coming to the last hill that will take you into the valley.
+This is quite a relief, you think. You are looking forward to that nap.
+You feel a warm breeze coming up the hill from the valley below.
+~
+184 0 3
+0d0+0 0 0
+D1
+Heading down the mountain...
+~
+~
+0 -1 18458
+D7
+~
+~
+0 -1 18456
+S
+#18458
+A Path Down the Mountain~
+FINALLY! You are leaving the mountains. Down the hill you run to the plain
+below. It's actually getting warm! The road looks more travelled here, you
+must be getting close to something...
+~
+184 0 4
+0d0+0 0 0
+D3
+~
+~
+0 -1 18457
+D6
+~
+~
+0 -1 18464
+S
+#18459
+A Road Through the Mountains~
+On your way down this slope, you notice a tall peak above you. There seems
+to be a small path following a ledge that could take you up there. It
+is covered in rockfall and may be difficult to navigate. It looks like
+you could see where you're going from there.
+~
+184 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 18460
+D4
+A large amount of rockfall blocks your movement up the ledge.
+~
+rockfall rock fall~
+1 -1 18454
+D7
+~
+~
+0 -1 18463
+S
+#18460
+A Road Through the Mountains~
+You are glad to see that there is no one here to bother you as you
+travel on your way out of the mountains. The skies look brighter to the
+northeast, and you smile, for that is where you are heading.
+~
+184 0 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 18455
+D3
+~
+~
+0 -1 18459
+S
+#18461
+A Road Through the Grey Ranges~
+This road will lead you out of the Grey Range. It Takes you to a
+nearby Barony called Darkmoor. The closest town is called Ravensburg.
+This is the largest road from here to the north, and still is not
+safe from thieves and murderers. Take care on your journey, so that
+it won't be your last.
+~
+184 4 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 18462
+D2
+~
+~
+0 -1 18399
+S
+#18462
+A Road Through the Grey Range~
+These mountains were named the Grey Ranges due to the ever present
+storm clouds that forever loom overhead. Soon you will be out of these
+dreary maountains and in the sweet smelling valley of Darkmoor.
+~
+184 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 18463
+D3
+~
+~
+0 -1 18461
+S
+#18463
+A Road Through the Mountains~
+As you walk you begin to think that there should be no one to bother
+you on your journey to Darkmoor. People just over-react. You begin to head
+down a hill and off of the mountains.
+~
+184 0 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 18462
+D8
+~
+~
+0 -1 18459
+S
+#18464
+A Road Through the Plain~
+A beautiful grassy plain... The clouds are leaving... The birds are singing..
+The sun is shining... The thieves have taken your money... Yes, it IS a 
+beautiful day... For someone with your money...
+~
+184 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 18466
+D9
+~
+~
+0 -1 18497
+S
+#18465
+A Road Through the Plain~
+A beautiful grassy plain... The clouds are leaving... The birds are singing..
+The sun is shining... The thieves have taken your money... Yes, it IS a 
+beautiful day... For someone with your money...
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18466
+D6
+~
+~
+0 -1 18468
+S
+#18466
+A Three-Way Crossroad~
+You have come to a Tee in the road. The east and south look more travelled
+than does the west, but take your pick...
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18467
+D2
+~
+~
+0 -1 18464
+D3
+~
+~
+0 -1 18465
+S
+#18467
+A Road Through the Plain~
+A beautiful grassy plain... The clouds are leaving... The birds are singing..
+The sun is shining... The thieves have taken your money... Yes, it IS a 
+beautiful day... For someone with your money...
+~
+184 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 18466
+D6
+~
+~
+0 -1 18469
+S
+#18468
+Another Dead End~
+Well, this didn't go anywhere... Looks like an old logging road. Is that 
+something rattling around in the bushes?
+~
+184 0 2
+0d0+0 0 0
+D9
+~
+~
+0 -1 18465
+S
+#18469
+A Road Through the Plain~
+A beautiful grassy plain... The clouds are leaving... The birds are singing..
+The sun is shining... The thieves have taken your money... Yes, it IS a 
+beautiful day... For someone with your money...
+~
+184 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 18470
+D9
+~
+~
+0 -1 18467
+S
+#18470
+A Road Through the Plain~
+You have travelled a long journey. You hope that rest comes soon. It is 
+beautiful out here, though. The road seems to be heavily travelled here.
+There is a sign next to the road.
+~
+184 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 18472
+D2
+~
+~
+0 -1 18469
+E
+sign~
+             =================================
+             |      ENTERING THE BARONY      |
+             |               OF              |
+             |            DARKMOOR           |
+             =================================
+~
+S
+#18472
+Another Fork in the Road~
+Looks like a marketplace to the northwest... But the road is more travelled
+to the northeast.
+~
+184 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 18470
+D6
+~
+~
+0 -1 18473
+D7
+~
+~
+0 -1 18475
+S
+#18473
+A Road Through the Plain~
+A beautiful grassy plain... The clouds are leaving... The birds are singing..
+The sun is shining... The thieves have taken your money... Yes, it IS a 
+beautiful day... For someone with your money...
+~
+184 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 18474
+D9
+~
+~
+0 -1 18472
+S
+#18474
+A Road Through the Plain~
+A beautiful grassy plain... The clouds are leaving... The birds are singing..
+The sun is shining... The thieves have taken your money... Yes, it IS a 
+beautiful day... For someone with your money...
+~
+184 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 18529
+D2
+~
+~
+0 -1 18473
+S
+#18475
+The Crossroads Marketplace~
+You are at the Crossroads Marketplace... Here you'll find food, drink, and
+possibly some fun.
+~
+184 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 18478
+D6
+~
+~
+0 -1 18476
+D8
+~
+~
+0 -1 18472
+S
+#18476
+A Road Through the Plain~
+A beautiful grassy plain... The clouds are leaving... The birds are singing..
+The sun is shining... The thieves have taken your money... Yes, it IS a 
+beautiful day... For someone with your money...
+~
+184 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 18477
+D9
+~
+~
+0 -1 18475
+S
+#18477
+Entering Ravensburg~
+You are almost in the town of Ravensburg, in the Barony of Darkmoor. The 
+town lies to the east. To the north, you see a small apple orchard. It
+lies on the other side of a white picket fence.
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18536
+D2
+~
+~
+0 -1 18476
+S
+#18478
+The King's Highway~
+You are now on the largest road yet. Many wagons and teams of horses
+have travelled this stretch. You see sign here.
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18475
+D3
+~
+~
+0 -1 18479
+E
+sign~
+              =======================================
+              |         BARONY OF DARKMOOR          |
+              =======================================
+~
+S
+#18479
+The King's Highway~
+All around you see a beautiful grassy plain, with trees growing heavier
+to the west. This road is quite easily travelled, and you see quite a few
+people doing just that... travelling.
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18478
+D3
+~
+~
+0 -1 18480
+S
+#18480
+The King's Highway~
+The trees get pretty dense in this section of the plains. it seems you
+will run into forest before too long. You see a mountain range to the
+northwest and the sky is beautiful and clear.
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18479
+D3
+~
+~
+0 -1 18481
+S
+#18481
+The King's Highway~
+You have left the plains now and have entered a forest. The road is
+well travelled and you feel pretty safe, for guard occasionally pass
+you.
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18480
+D3
+~
+~
+0 -1 18482
+S
+#18482
+The King's Highway~
+A huge tower of rock climbs up to the north. It is an impressive piece of
+nature. It must be three hundred feet high! Only the most brave could
+climb that spire!
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18481
+D3
+~
+~
+0 -1 18483
+S
+#18483
+The King's Highway~
+As you look to the north you see a mountain range, and around you is a 
+beautiful forest. Guards occasionally pass you, and pay you no heed.
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18482
+D3
+~
+~
+0 -1 18484
+S
+#18484
+The King's Highway~
+As you continue, you begin the smell a salty breeze from the west.
+You realize that you must be getting close to Krondor and the Bitter Sea.
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18483
+D9
+~
+~
+0 -1 18485
+S
+#18485
+Entering Krondor~
+The great city of Krondor lies before you. The river drifts lazily into
+the city from the north. You can tell that this is a place of great
+importance, power, and influence in this world. This is an empire for
+you to conquer....or perhaps save....
+~
+184 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 18484
+S
+#18486
+Entering Krondor~
+Krondor lies before you. A great city to visit. Lots of people to see, 
+talk to, or destroy. An empire for you to conquer....or perhaps save....
+~
+184 0 2
+0d0+0 0 0
+D9
+~
+~
+0 -1 18487
+S
+#18487
+A Road Through the Plain~
+A beautiful grassy plain... The clouds are leaving... The birds are singing..
+The sun is shining... The thieves have taken your money... Yes, it IS a 
+beautiful day... For someone with your money...
+~
+184 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 18488
+D6
+~
+~
+0 -1 18486
+S
+#18488
+A Turn in the Road~
+There is a sharp bend in the road here. The path seems much less worn as
+it continues west. You notice a small trail, possibly made by animals,
+leading into some brush.
+~
+184 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 18487
+D3
+~
+~
+0 -1 18489
+D9
+A small trail leads under the brush...
+~
+brush~
+1 -1 18493
+S
+#18489
+A Path Leading Toward the Ocean~
+You smell the salty ocean air pass by you while you walk. To the west
+you can see a world of blue....Quite beautiful....Quite deadly....
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18488
+D3
+~
+~
+0 -1 18490
+S
+#18490
+A Path Leading Toward the Ocean~
+You smell the salty ocean air pass by you while you walk. To the west 
+you can see a world of blue....Quite beautiful....Quite deadly....
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18489
+D3
+~
+~
+0 -1 18491
+S
+#18491
+A Path Leading Toward the Ocean~
+You smell the salty ocean air pass by you while you walk. To the west
+you can see a world of blue....Quite beautiful....Quite deadly....
+~
+184 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 18490
+D2
+A trail leads under the brush here...
+~
+brush~
+1 -1 18495
+D7
+~
+~
+0 -1 18492
+S
+#18492
+A Secluded Beach~
+The white sand reflects the sun so well that it almost blinds you. You
+stand in awe of this great body of water as you watch the waves roll
+in and out to sea. 
+~
+184 0 2
+0d0+0 0 0
+D8
+~
+~
+0 -1 18491
+S
+#18493
+A Small Trail in the Forest~
+The trail almost disappears.... Maybe you can make it out if you look around
+hard enough.
+~
+184 0 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 18494
+D6
+A small trail leads under the brush here...
+~
+brush~
+1 -1 18488
+D9
+A path seems to emerge from the forest...
+~
+path~
+1 -1 18496
+S
+#18494
+A Small Trail in the Forest~
+The trail almost disappears.... Maybe you can make it out if you look around
+hard enough.
+~
+184 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 18493
+D3
+~
+~
+0 -1 18495
+S
+#18495
+A Small Trail in the Forest~
+The trail almost disappears.... Maybe you can make it out if you look around
+hard enough.
+~
+184 0 3
+0d0+0 0 0
+D0
+The trail leads under the brush again...
+~
+brush~
+1 -1 18491
+D1
+~
+~
+0 -1 18494
+S
+#18496
+The Path to the Secret Training Grounds~
+So, you have found the trail. The training grounds are southwest from here.
+Go see what you can find out there.
+~
+184 0 2
+0d0+0 0 0
+D6
+You see a winding path that wasn't very obvious before.
+~
+path~
+1 -1 18493
+S
+#18497
+The Road Going Up the Mountain~
+GREAT! A big, steep hill to climb! The road twists and winds it's way up
+into the mountains. It still looks like it's going to storm up there. You
+think this mountain sucks...
+~
+184 0 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 18457
+D6
+~
+~
+0 -1 18464
+S
+#18498
+The Forest~
+Load 14 gnolls, seven Petty thieves here.
+~
+184 14729 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18499
+D1
+~
+~
+0 -1 18420
+D2
+~
+~
+0 -1 18499
+D3
+~
+~
+0 -1 18412
+D4
+~
+~
+0 -1 18415
+D5
+~
+~
+0 -1 18436
+D6
+~
+~
+0 -1 18427
+D7
+~
+~
+0 -1 18423
+D8
+~
+~
+0 -1 18409
+D9
+~
+~
+0 -1 18431
+S
+#18499
+The Forest~
+Load 14 Thiefs and two Petty thiefs here.
+~
+184 6281 0
+0d0+0 0 0
+D0
+~
+Slimy Tunnel~
+0 -1 18498
+D1
+~
+~
+0 -1 18487
+D2
+~
+~
+0 -1 18498
+D3
+~
+~
+0 -1 18494
+D4
+~
+~
+0 -1 18483
+D5
+~
+~
+0 -1 18479
+D6
+~
+~
+0 -1 18468
+D7
+~
+~
+0 -1 18497
+D8
+~
+~
+0 -1 18457
+D9
+~
+~
+0 -1 18463
+S
+$

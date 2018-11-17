@@ -1,0 +1,524 @@
+#9301
+tail comet~
+a comet's tail~
+A brilliantly glowing comet's tail lies here, sending off fuzzy sparks.~
+~
+5 0 8193 0
+0 0 0
+0 3 5 2
+9 1000 1000
+#9302
+armplates titanic hercules plates~
+titanic armplates of Hercules~
+A huge set of glowing armplates is floating just above your head here.~
+~
+9 525312 257 0
+0 0 0
+5 0 0 0
+12 50000 2500
+A
+1 2
+A
+18 2
+#9304
+belt titanic orion leather~
+titanic belt of Orion~
+The thick leather belt of Orion the Hunter lies abandoned here.~
+~
+9 525377 2049 0
+0 0 0
+9 0 0 0
+7 10000 5000
+A
+5 3
+E
+belt~
+You can immediately see that it belongs to Orion, from the three stars
+engraved on it.
+~
+#9305
+skull draco~
+an ugly skull of Draco~
+A massive skull of a dead Draco lies here.~
+~
+4 8839362 16385 0
+0 0 0
+15 5 5 6
+20 10000 3000
+#9306
+fleece titanic aries golden~
+the titanic fleece of Aries~
+The golden fleece of Aries the Ram lies here.~
+~
+9 525377 1029 0
+0 0 0
+9 0 0 0
+9 10000 5000
+A
+16 -2
+E
+fleece~
+From a look it resembles the Golden Fleece that exists in the Greek myths.
+~
+#9307
+hoof titanic taurus~
+the titanic hoof of Taurus~
+The titanic Hoof of Taurus lies here.~
+~
+11 525377 65 0
+0 0 0
+0 0 0 0
+10 10000 5000
+A
+12 20
+A
+18 2
+A
+16 -3
+E
+hoof~
+It is with these hooves that Taurus can stand against Orion's attacks.
+~
+#9308
+mask titanic gemini zodiac~
+the titanic mask of Gemini~
+A mask of the Zodiac lies here.~
+(null)~
+9 525505 17 0
+0 0 0
+2 0 0 0
+7 10000 5000
+A
+1 1
+A
+2 3
+E
+mask~
+You notice the mask has got two faces, one smiling and the other crying.
+You don't know which way you should wear it.
+~
+#9309
+shell titanic cancer~
+the titanic shell of Cancer~
+A shell of the Zodiac lies here.~
+~
+9 65 9 0
+0 0 0
+12 0 0 0
+15 10000 5000
+A
+16 -6
+E
+shell~
+A shell which is dented in the middle, resulting from the Hercules' mighty
+pound when the Crab was still an enemy of Hercules in ancient times.
+~
+#9310
+skin titanic leo~
+the titanic skin of Leo~
+The skin of Leo lies here.~
+~
+11 525377 1025 0
+0 0 0
+0 0 0 0
+15 10000 5000
+A
+14 1
+A
+18 2
+A
+16 -4
+E
+skin~
+A skin made of metal, which was worn by Hercules during his Ten Labours.
+~
+#9311
+bracelet titanic virgo~
+the titanic bracelet of Virgo~
+A bracelet of the Zodiac lies here.~
+~
+11 525377 4097 0
+0 0 0
+0 0 0 0
+4 10000 5000
+A
+4 2
+A
+16 -4
+E
+bracelet~
+A bracelet of purity and youth, only worn by selected virgins.
+~
+#9312
+scale titanic shield libra~
+the titanic scale of Libra~
+A shield of the Zodiac lies here.~
+~
+9 525377 513 0
+0 0 0
+8 0 0 0
+15 10000 5000
+A
+16 -3
+A
+11 5
+E
+scale~
+It is a shield of justice, used in the ancient battle against injustice.
+~
+#9313
+scale titanic shield libra~
+the titanic scale of Libra~
+A shield of the Zodiac lies here.~
+~
+9 194 513 0
+0 0 0
+0 0 0 0
+15 10000 5000
+A
+16 20
+A
+11 -10
+E
+scale~
+It is a shield of injustice, it picks on the innocent.
+~
+#9314
+sting titanic scorpio~
+the titanic sting of Scorpio~
+A sting of the Zodiac lies here.~
+~
+5 9351745 24577 0
+0 0 0
+0 6 3 11
+7 10000 5000
+A
+17 3
+A
+18 3
+E
+sting~
+This dreadful weapon put a lot of mortals to death before Scorpio was banished.
+~
+#9315
+arrow sagittarius~
+the arrow of Sagittarius~
+The Arrow of Sagittarius lies here.~
+~
+3 525377 16385 0
+0 0 0
+20 10 10 30
+7 5000 5000
+E
+arrow~
+It's an arrow of lightning; it will never miss any target.
+~
+#9316
+bow titanic sagittarius~
+the titanic bow of Sagittarius~
+The Titanic Bow of Sagittarius lies here.~
+~
+5 525377 8193 0
+0 0 0
+0 8 2 6
+20 10000 5000
+A
+17 1
+A
+18 3
+E
+bow~
+The gigantic bow used by the Archer; it is a very powerful weapon.
+~
+#9317
+horns titanic capricorn~
+the titanic horns of Capricorn~
+A pair of horns of the Zodiac lies here.~
+~
+9 787521 17 0
+0 0 0
+4 0 0 0
+6 10000 15000
+A
+17 2
+A
+18 1
+E
+horn~
+These strange horns are the work of gods, shaped to fit on hands.
+They look powerful indeed.
+~
+#9318
+vessel aquarius~
+the ancient vessel of Aquarius~
+An ancient vessel of the water-bearer, Aquarius, sits here.~
+~
+23 525377 1 0
+0 0 0
+1000 1000 15 0
+30 10000 5000
+E
+vessel~
+This vessel has been carried by the Water Bearer ever since she came to the
+Zodiac.
+~
+#9319
+tail titanic pisces~
+the titanic tail of Pisces~
+A fish tail of the Zodiac lies here.~
+~
+9 525377 33 0
+0 0 0
+10 0 0 0
+10 10000 5000
+A
+16 -2
+A
+2 1
+E
+tail~
+This tail can actually be worn by mortals somehow as leggings ... another
+work of the gods.
+~
+#9320
+ring dignity dring~
+the ring of dignity~
+A ring of specialty lies here.~
+~
+11 541795 3 0
+0 0 0
+0 0 0 0
+3 20000 10000
+A
+10 15
+A
+3 2
+E
+ring~
+This ring belongs to Cassiopeia, queen of the Universe.
+Mortals, do not touch!
+~
+#9321
+might sceptre~
+the sceptre of might~
+A massive sceptre lies here, evoking your interest.~
+~
+8 525411 16385 0
+0 0 0
+0 0 -1 0
+4 20000 10000
+A
+17 4
+A
+18 4
+E
+sceptre~
+You'd better give it back, or the king of the Universe will punish you.
+~
+#9322
+ring universe power uring~
+the ring of the Universe~
+Here lies a fortune ... a small ring of power.~
+(null)~
+9 355 3 0
+0 0 0
+5 0 0 0
+3 40000 20000
+A
+10 25
+A
+11 25
+E
+ring~
+It conceals the power of the universe.
+~
+#9323
+great dipper~
+the great dipper of the skies~
+A gigantic dipper lies here, showers of sparkles gushing outwards.~
+~
+5 8547 8193 0
+0 0 0
+0 4 6 6
+20 30000 20000
+A
+16 -15
+A
+18 2
+#9324
+spring shoot~
+a spring shoot~
+A shoot grows here, covered with dew.~
+~
+18 3 1 0
+0 0 0
+0 0 0 0
+2 0 100000
+#9325
+summer flower~
+a summer flower~
+A flower grows here, waiting to be picked up.~
+~
+18 3 1 0
+0 0 0
+0 0 0 0
+2 0 100000
+#9326
+autumn leaf~
+an autumn leaf~
+A leaf lies here, as if just fallen from a tree.~
+~
+18 3 1 0
+0 0 0
+0 0 0 0
+2 0 100000
+#9327
+winter branch~
+a winter branch~
+A branch lies here, still covered with snow.~
+(null)~
+18 3 1 0
+0 0 0
+0 0 0 0
+2 0 100000
+#9328
+chains andromeda~
+chains of Andromeda~
+Some chains lie on the floor.~
+~
+13 33 1 0
+0 0 0
+0 0 0 0
+50 0 0
+E
+chains~
+They certainly look important!
+~
+#9330
+pegasus wings~
+Pegasus's wings~
+Pegasus' Wings float here just about the ground.~
+~
+11 527360 17409 1048576
+0 0 0
+0 0 0 0
+1 25000 2500
+A
+12 50
+A
+15 10
+A
+16 -3
+#9331
+ice pirate tshirt~
+Ice Pirate T-Shirt~
+You see a tshirt lying here.~
+~
+11 0 9 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+17 3
+#9332
+helmet~
+Helmet's Helmet~
+You see a HUGE helmet lying here.~
+~
+9 75804674 17 0
+0 0 0
+16 0 0 0
+5 10000 10000
+#9333
+da ring of da schwartz schvarts shwartz~
+Da ring of the Schwartz~
+You see a ring lying here.~
+~
+3 8942592 16387 0
+0 0 0
+50 5 5 64
+0 0 0
+A
+18 2
+A
+16 -5
+#9334
+can air~
+Can of Air~
+You see a Can lying here.~
+~
+17 64 16385 0
+0 0 0
+500 0 15 0
+3 0 0
+#9388
+barf tail~
+Barf's tail~
+Barf's tail lies here.~
+~
+5 9319440 8193 0
+0 0 0
+0 6 4 2
+0 0 0
+A
+17 4
+A
+15 4
+#9389
+schwartz~
+the schwartz~
+The schwarts lies here.~
+~
+10 4 16385 0
+0 0 0
+50 36 64 62
+27 1000000 10
+A
+12 -100
+#9390
+schwartz~
+the schwartz~
+The schwarts lies here.~
+~
+10 4 16385 0
+0 0 0
+50 36 64 62
+27 1000000 10
+A
+12 -100
+#9391
+da ring of da schwartz schvarts shwartz~
+Da ring of the Schwartz~
+You see a ring lying here.~
+~
+3 8942592 16387 0
+0 0 0
+50 5 5 68
+0 0 0
+A
+18 2
+A
+16 -5
+#9392
+da ring of da schwartz schvarts shwartz~
+Da ring of the Schwartz~
+You see a ring lying here.~
+~
+3 8942592 16387 0
+0 0 0
+50 5 5 54
+0 0 0
+A
+18 2
+A
+16 -5
+#9399
+druish spirit~
+a Druish Spirit~
+You see a glowing orb thing lying here.~
+~
+3 10244164 16385 0
+0 0 0
+50 30 30 17
+0 0 0
+$

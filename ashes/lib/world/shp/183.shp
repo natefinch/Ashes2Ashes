@@ -1,0 +1,112 @@
+CircleMUD v3.0 Shop File~
+#0~
+18312
+18313
+81311
+81308
+18314
+-1
+1.1 
+1.0 
+-1
+%s Sorry, nothing like that on todays menu, perhaps something else?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You don't seem to be able to cover your tab. Please leave at once.~
+%s Very nice choice, that'll be %d coins and enjoy your meal.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+0 
+18306 
+0 
+18385 
+-1
+0 
+27 
+0 
+0 
+#1~
+18315
+18316
+18317
+18318
+-1
+1.1 
+1.0 
+-1
+%s We don't serve nothing like that, how about a beer?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s Can't cover your tab?! Get me the bouncer now! Out with you!~
+%s Tasty choice, I'll just need %d coins, and leave something for a tip.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+1 
+18382 
+0 
+18382 
+-1
+0 
+24 
+0 
+0 
+#2~
+18545
+18526
+18554
+18555
+18544
+-1
+1.1 
+0.5 
+1
+8
+22
+12
+13
+-1
+%s Nothing like that in the store today, perhaps something else?~
+%s You don't have one of those. You think I'm blind?~
+%s I don't buy that kind of merchandise, try some place else.~
+%s I'd love to have that, but I just can't afford it this week.~
+%s I'd love to deal with you, but until you get more money, take a hike.~
+%s That'll be %d coins. Enjoy your trip.~
+%s Here, you'll get %ds coins for that thing.~
+0 
+0 
+18518 
+0 
+18545 
+-1
+0 
+20 
+0 
+0 
+#3~
+18556
+18557
+19558
+-1
+1.1 
+1.0 
+-1
+%s We don't serve nothing like that, how about some alcohol?~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s You must be mistaken, because I don't actually buy anything.~
+%s Don't even tell me you want something for free. Beat it!~
+%s Here ya go, that'll be %d coins.~
+%s BUG - %d coins - please report to the nearest immortal!~
+0 
+0 
+18512 
+0 
+18531 
+-1
+0 
+28 
+0 
+0 
+$~

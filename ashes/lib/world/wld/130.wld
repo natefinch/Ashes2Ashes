@@ -1,0 +1,2263 @@
+#13000
+Building HQ~
+   This room is filled with building supplies of every sort, ranging from 2 by
+4's and nails, to construction paper and Elmer's Glue. Power tools,
+screwdrivers, and blueprints are strewn about in what appears to be
+contructive disarray.
+   A small notepad rests on a sofa, keeping track of building projects. 
+~
+130 0 2
+0d0+0 0 0
+S
+#13001
+Player One's Library~
+   You are standing amid a huge pile if giant game cards. All the cards are
+face-down, as if waiting for someone to draw one. Out of curiosity, you lift
+the edge of one, and look at it. On the face of the card, there is a depiction
+of a spell, and it's cost in mana, but it's unlike any mana you've ever heard
+of. The mana is divided into different colors, and it takes a lot less of it
+to cast spells than it does in the "real" world. Whoever is playing this game
+seems to be some sort of deluded, wanna-be wizard. 
+~
+130 4096 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13002
+S
+#13002
+In Player One's Hand~
+   You are standing in mid-aid, behind a wall of giant cards, each depicting a
+different spell. On the face of each card is a fanciful depiction of the
+spell's effect, and some information about how the spell is used in the game.
+You wonder what's behind the wall of cards, and decide to peek around it.
+   You gasp in awe of the scene spread out beneath you. The landscape below is
+twisted and mottled with terrains from every part of the multiverse, brought
+here by the titanic magic of the players' spells. The boundaries of the lands
+are quite distinct, as the landscape changes abruptly where one spell's effect
+ends and another begins.
+   Creatures of every description wander this surreal landscape, some
+magnificent, others horrible. You are fascinated by the scene, and are
+severely tempted to go down and explore.
+   Far off in the distance, you notice another wall of cards hanging in the
+air, with the reverse sides facing you. 
+~
+130 4096 2
+0d0+0 0 0
+D5
+~
+~
+0 -1 13007
+S
+#13003
+Player One's Graveyard~
+   You are standing in what in game terms could be considered a discard pile.
+From your point of view, it's a combination graveyard, junkyard.
+   All around you are the twisted and mutilated remains of conjured creatures,
+the shards of shattered artifacts, and the burnt out husks of used-up
+enchanments (don't ask what the husk of an enchantment looks like).
+   As you watch, one of the creatures begins to glow with a pale white light,
+and begin to reform. In moments, it it whole again, and journeys off to heed
+its master's call and live again. 
+~
+130 4096 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 13002
+S
+#13004
+Necropolis~
+   You are standing in a ghost town, or, to be more precise, a city of the
+dead. All the buildings are in a state of disrepair and decay, and the streets
+are nearly deserted. You wish they were completely deserted, as the only
+residents appear to be the shades of the dead. While they don't seem to be
+hostile toward you, it's still unnerving to see ghost going about their daily
+routines as if they didn't know they were dead. 
+~
+130 4096 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 13011
+D1
+~
+~
+0 -1 13005
+S
+#13005
+Tundra~
+   This cold and barren plain could have been summoned from the northlands of
+any one of a thousand worlds. The tundra is a harsh climate, but a common
+enough one. Normally you would expect to see tunra wolves, or elk, but it
+seems that in summoning the land, the wizard did not summon the inhabitants. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13012
+D1
+~
+~
+0 -1 13006
+D3
+~
+~
+0 -1 13004
+S
+#13006
+Underground River~
+   You duck your head as you enter this tunnel that the swift flowing river has
+carved in the underground caverns. You are careful to stay on the banks of the
+river, as stepping into it would cause you to be washed downstream to
+who-knows-where (especially in this insane world).
+   Off to the east you tink you can make out the sounds of a waterfall over
+the rush of the running water. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13013
+D1
+~
+~
+0 -1 13007
+D3
+~
+~
+0 -1 13005
+S
+#13007
+Underground Sea~
+   You're on the shore of a vast underground sea, which is being fed by a
+waterfall, crashing down from the west. Oddly, you can still see, though it is
+dim. The ceiling of this cavern is covered in phosphorescent moss. The sea
+stretches on to the south for farther than you can see in the gloom, but
+tunnels lead out in other directions. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13014
+D1
+~
+~
+0 -1 13008
+D3
+~
+~
+0 -1 13006
+S
+#13008
+City of Brass~
+   Will wonders never cease?! This entire city is made out of brass! Styled in
+ancient Arabian fashion, with bulbous spires that taper to a delicate point,
+and merchant stalls filled with exotic fruits, every building is made of
+brass. The streets are paved in brass, and nearly every object you see has
+been crafted from brass. Once you get over the overzealous devotion to a
+single theme, you notice how beautiful this place actually is. 
+~
+130 4096 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 13015
+D1
+~
+~
+0 -1 13009
+D3
+~
+~
+0 -1 13007
+D5
+The gateway to the forgotten. 
+~
+secret oubliette~
+2 -1 13042
+S
+#13009
+Scrubland~
+   This place is pathetic. The land is flat, and rocky, and almost nothing is
+growing here. What does grow consists mostly of hardy weeds, and scrub
+grasses. You can't be certain if this land was ruined by the wizards' spells,
+or if it was brought here in this condition to serve some purpose that is
+beyond your understanding. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13016
+D1
+~
+~
+0 -1 13010
+D3
+~
+~
+0 -1 13008
+S
+#13010
+The Tabernacle at Pendrel Vale~
+   Before you is some sort of holy citadel. While the entrance is barred and
+warded against intruders, you can still see the tabernacle, and remark at its
+magnificence. The place seems to give off some sort of aura that makes you
+feel a bit weak. The aura seems to have a more pronounced effect on the
+summoned creatures around you, as they shun this place. You should be safe
+from them as long as you remain in this haven. 
+~
+130 4100 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13017
+D3
+~
+~
+0 -1 13009
+S
+#13011
+The Abyss~
+   This is the most evil of all planes. whatever wizard conjured up this small
+part of the Abyss must be powerful indeed! As you watch, some poor creature
+wanders too close to this place, and gets sucked into oblivion. This
+demi-plane must have been created to get rid of the excess creatures wandering
+around. It's unlikely that the wizards consider you any different from their
+minions...better leave before one of them decides you've grown to be too much
+trouble. 
+~
+130 20483 2
+1d1+199 90 0
+D0
+~
+~
+0 -1 13018
+D1
+~
+~
+0 -1 13012
+D2
+~
+~
+0 -1 13004
+S
+#13012
+Sunken City~
+   Plunging underwater, you see a vast city, submerged, and hidden from the
+eyes of surface-dwellers. Buildings and columns are in perfect condition,
+aside from being a bit wet and covered in kelp. You have to wonder whether
+this city was built here by some aquatic race of beings, or sank beneath the
+waves when some catastrophe ended a surface civilization. 
+~
+130 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 13019
+D1
+~
+~
+0 -1 13013
+D2
+~
+~
+0 -1 13005
+D3
+~
+~
+0 -1 13011
+S
+#13013
+Circle of Protection~
+   Drawn on the ground here, is a large, ornate circle, decorated with runes,
+and powders, precious metals. While you can't be certain, you suspect that the
+circle is meant to protect casters from beings that they have summoned. If
+that's true, that means that this is some sort of summoning area. 
+~
+130 4 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13020
+D1
+~
+~
+0 -1 13014
+D2
+~
+~
+0 -1 13006
+D3
+~
+~
+0 -1 13012
+S
+#13014
+Nether Void~
+   This is a place of magic far greater than any you could ever hope to
+control. The very wind of this blackened void seems to strip you of power. The
+thought of staying in this place for any length of time seems unwise, as you
+cannot defend yourself here, and who knows what powerful beings may still hold
+their powers here. 
+~
+130 6273 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13021
+D1
+~
+~
+0 -1 13015
+D2
+~
+~
+0 -1 13007
+D3
+~
+~
+0 -1 13013
+S
+#13015
+Heaven's Gate~
+   You are standing before a set of huge, golden gates, set into a wall of
+puffy white clouds. The gates have swung partly open, and radiant golden light
+is pouring out, too blinding in its glory for you to see beyond the gates. If
+you had your geuss, this would be the entrance to heaven, from where a good
+wizard might summon angels and the like. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13022
+D1
+~
+~
+0 -1 13016
+D2
+~
+~
+0 -1 13008
+D3
+~
+~
+0 -1 13014
+D4
+Above you, the heavens unfold. 
+~
+secret heavens gate~
+2 -1 13043
+S
+#13016
+Field of Dreams~
+   You are standing in a pleasant field. All around you, you see the faces of
+people you know, and dreams you thought you had forgotten. You begin to relax,
+but then realize that that's probably why this place was created, to put you
+off your guard. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13023
+D1
+~
+~
+0 -1 13017
+D2
+~
+~
+0 -1 13009
+D3
+~
+~
+0 -1 13015
+S
+#13017
+Spiritual Sanctuary~
+   Marble columns support a high ceiling in this chamber. In the center of the
+room is a pool of soothing, warm water, where one could relax, with steps
+leading down into it. The air is fresh and sweet-smelling, and a sense of
+calmness pervades the atmosphere. This would seem the perfect place to
+meditate and heal. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13024
+D2
+~
+~
+0 -1 13010
+D3
+~
+~
+0 -1 13016
+S
+#13018
+Gate to Phyrexia~
+   Stepping through a rusted iron gate, you instantly feel a light rain falling
+on you. Sighing at your miserable luck at being caught in the middle of a
+storm, you look up at the murky brown, polluted clouds, and get a drop of
+grease in your eye for your trouble. It's raining grease! As you wonder what
+sort of twisted world you've wandered into, you notice that this place is some
+sort of industrial nightmare. Broken machines litter the ground as gremlins
+tear them apart. Thick smoke pours out of buildings that you can only assume
+of be factories. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13025
+D1
+~
+~
+0 -1 13019
+D2
+~
+~
+0 -1 13011
+S
+#13019
+Mirror Universe~
+   You are standing in a bare chamber now, with the only feature being a
+full-length wall mirror. As you regard your reflection in the mirror, you
+notice that the reflection shows a different landscape than the one sprawled
+out behind you. Comparing the views behind you and in the mirror, you notice
+that the creatures in both are the same, but the mirror seems to be showing a
+scene from a parellel universe. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13026
+D1
+~
+~
+0 -1 13020
+D2
+~
+~
+0 -1 13012
+D3
+~
+~
+0 -1 13018
+S
+#13020
+Arena of the Ancients~
+   You are standing in what must once have been a gladitoial arena...thousands
+of years ago. Though the staggered rings of stone seats for the spectators
+still remain, the columns that no doubt once supported grans architectural
+works are now crumbling. The arena floor is just dirt, but is remarkably
+cleared of debris. Perhaps this place is still used for its ancient purpose. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13027
+D1
+~
+~
+0 -1 13021
+D2
+~
+~
+0 -1 13013
+D3
+~
+~
+0 -1 13019
+D6
+~
+~
+0 -1 13028
+S
+#13021
+Sorrow's Path~
+   You are walking the bleakest path you have ever passed. Decorating the road
+are clay statues of people wailing in despair and agony, and there is no
+vegetation around. You want to leave this place as soon as you can, before the
+effects start to rub off on you. 
+~
+130 20482 10
+1d1+199 90 0
+D0
+~
+~
+0 -1 13028
+D1
+~
+~
+0 -1 13022
+D2
+~
+~
+0 -1 13014
+D3
+~
+~
+0 -1 13020
+D5
+You can see a pathway into darkness below. 
+~
+secret~
+2 -1 13044
+S
+#13022
+Mishra's Workshop~
+   You are outside some sort of twisted factory. You can't tell if it is made
+of iron, or the flesh of some foul beast, but it seems to be almost alive.
+There is a reddish glow coming from the eye-like windows, and the smoke from
+the chimneys comes at regular intervals, like breathing. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13029
+D1
+~
+~
+0 -1 13023
+D2
+~
+~
+0 -1 13015
+D3
+~
+~
+0 -1 13021
+D7
+~
+~
+0 -1 13028
+S
+#13023
+Obelisk of Undoing~
+   The ground here is sharp and rocky, and completely devoid of life.
+Strangely, you don't get the feeling that this place is deserted. The huge,
+ornate, stone obelisk seems to be the only thing that should be here, and you
+wonder why... 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13030
+D1
+~
+~
+0 -1 13024
+D2
+~
+~
+0 -1 13016
+D3
+~
+~
+0 -1 13022
+S
+#13024
+Land's Edge~
+   You've never gone in for the theory that the world is flat, but this place
+seems to confirm it. You have reached the land's edge, and can look out over
+into the vast oblivion beyond. You watch as bits of the edge shimmer, then
+crumble, and the wizards harness the power of the land here. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13031
+D2
+~
+~
+0 -1 13017
+D3
+~
+~
+0 -1 13023
+S
+#13025
+Caverns of Despair~
+   Entering the caverns, you are overcome by despair. No matter how many
+companions you have, you feel utterly alone. The only hope you still have is
+to make your way to the other end of the caverns. But what does it matter if
+you make it out. Nothing matters...really... 
+~
+130 4097 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13032
+D1
+~
+~
+0 -1 13026
+D2
+~
+~
+0 -1 13018
+S
+#13026
+Ashnod's Altar~
+   You are in a kind of pagan temple, complete with sacrificial altar. The
+altar itself is made of wood, with a stone head-rest, and a metal bar to hold
+down victims. You notice the two decent-sized holes in the altar, and the
+permanent bloodstains around them attest to the grizzly means of execution. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13033
+D1
+~
+~
+0 -1 13027
+D2
+~
+~
+0 -1 13019
+D3
+~
+~
+0 -1 13025
+S
+#13027
+Planar Gate~
+   You are standing at the bottom of a set of golden staris, leading up to the
+biggest gate you've ever seen. The gate is carved of stone, and must be at
+least 60 feet high. The gate is glowing, and you hope that doesn't mean that
+something is about to come through. You truly fear what could fit through THAT
+monstrous construction. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13034
+D1
+~
+~
+0 -1 13028
+D2
+~
+~
+0 -1 13020
+D3
+~
+~
+0 -1 13026
+S
+#13028
+Concordant Crossroads~
+   You are now in what would appear to be a tropical paradise. Lush foliage and
+brilliantly colored birds are all around you, and you feel just great! While
+most jungle-like areas are nearly impassable, this one seems to clear a path
+for you wherever you decide to go, making travel through here easier than
+through even most open terrain. 
+~
+130 4096 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 13035
+D1
+~
+~
+0 -1 13029
+D2
+~
+~
+0 -1 13021
+D3
+~
+~
+0 -1 13027
+D6
+~
+~
+0 -1 13036
+D7
+~
+~
+0 -1 13034
+D8
+~
+~
+0 -1 13022
+D9
+~
+~
+0 -1 13020
+S
+#13029
+Raging River~
+  You are standing on one of two cliffs that border on an out-of control river.
+A tiny rope bridge spans the river, and you're certain you could make it
+across, but crossing it during a battle would be suicide. You'd best decide
+which side you want to be on before any combat starts. You'd hate to think of
+what would happen to anything that fell into those surging waters. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13036
+D1
+~
+~
+0 -1 13030
+D2
+~
+~
+0 -1 13022
+D3
+~
+~
+0 -1 13028
+S
+#13030
+Tormod's Crypt~
+   You enter the crypt through a dark entrance, and breath in the cold, damp
+air that fills the crypt. In the gloom, you can make out a burial mound
+(presumably containing the remains of Tormod), topped by a cross intersecting
+a circle. Though there appears to be nothing alive in here, the place seems to
+pulsate with the force of undeath. 
+~
+130 6145 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13037
+D1
+~
+~
+0 -1 13031
+D2
+~
+~
+0 -1 13023
+D3
+~
+~
+0 -1 13029
+S
+#13031
+Arboria~
+   You are in a jungle of living plants. Venus fly-traps that could swallow a
+man whole loom all around, as well as many other, less-than-sedentary plants.
+You notice that the plants are more hostile toward those who carry more magic,
+and think that the safest course might be to remove your magical items. Then
+you realize that the plants aren't trying to harm you, just block your way, as
+if they were protecting someone. 
+~
+130 4096 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 13038
+D2
+~
+~
+0 -1 13024
+D3
+~
+~
+0 -1 13030
+S
+#13032
+Timberline Ridge~
+   You are in a mountainous area, at high altitude. Amid snow-covered pines and
+other trees, you notice animal tracks. Higher up in the mountains, the trees
+stop, as well as the animal tracks. You seem to be at the highest point of the
+local ecosystem. 
+~
+130 4096 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 13033
+D2
+~
+~
+0 -1 13025
+S
+#13033
+Strip Mine~
+   The ultimate in industrial destruction of the environment, all the natural
+resources have been stripped from this land. The land has been removed in
+tiers, to facilitate the removal of metal ores and coal, and whatever else
+might once have been here. If there is anything left, someone will be back to
+mine it. 
+~
+130 4096 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13034
+D2
+~
+~
+0 -1 13026
+D3
+~
+~
+0 -1 13032
+S
+#13034
+Safe Haven~
+   At first glance this seems to just be a small hill like any other. Then,
+hidden behind a bush, you see a little door, which you think you could crawl
+through if you had to. Peeking inside, you see a comfortable little home,
+seemingly unoccupied, but ready for any visitor who wants to stay here.
+Whoever arranged for this place obviously meant for it to be a safe place to
+stay for short periods of time. 
+~
+130 4096 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13035
+D2
+~
+~
+0 -1 13027
+D3
+~
+~
+0 -1 13033
+D8
+~
+~
+0 -1 13028
+S
+#13035
+Taiga~
+   This is a rather uninteresting terrain. It seems to be a coniferous forest
+at the base of a mountain range. You catch the occasional glimpse of a moose
+or bear, but it seems fairly quiet here, as if the battling wizards have seen
+fit to leave this place alone. 
+~
+130 4096 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 13036
+D2
+~
+~
+0 -1 13028
+D3
+~
+~
+0 -1 13034
+S
+#13036
+Library of Alexandria~
+   Walking into this library you expect to see a traditional dusty old
+collection of books. What you find is more akin to a palace. While there are
+still books everywhere, the shelves are spread ccomfortably far apart, and
+there are luxurious furnishings for the readers to enjoy. While the average
+library caters to the academic, this one encourages learning by all, by making
+it an all around enjoyable experience. 
+~
+130 4096 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13037
+D2
+~
+~
+0 -1 13029
+D3
+~
+~
+0 -1 13035
+D9
+~
+~
+0 -1 13028
+S
+#13037
+Desert~
+   Sand, sand, sand. The standard desert setup...the very model of a
+traditional wasteland. The heat is just right to drain your strength and
+dehydrate you, but not so high as to kill you outright. You wish you had a
+camel, and you don't even like camels. Anything would be preferable to walking
+across this whole place. 
+~
+130 4096 10
+0d0+0 0 0
+D1
+~
+~
+0 -1 13038
+D2
+~
+~
+0 -1 13030
+D3
+~
+~
+0 -1 13036
+S
+#13038
+Maze of Ith~
+   What the?! Whoever built this maze seems to have neglected to build a way
+out...Well, then again, that's what mazes are supposed to be like. Best be
+running along and finding the way back out of here. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13038
+D1
+~
+~
+0 -1 13038
+D2
+~
+~
+0 -1 13038
+D3
+~
+~
+0 -1 13038
+D4
+~
+~
+0 -1 13038
+D5
+~
+~
+0 -1 13038
+D6
+~
+~
+0 -1 13038
+D7
+~
+~
+0 -1 13045
+D8
+~
+~
+0 -1 13038
+D9
+~
+~
+0 -1 13038
+S
+#13039
+Player Two's Graveyard~
+   You are standing in what in game terms could be considered a discard pile.
+From your point of view, it's a combination graveyard, junkyard.
+   All around you are the twisted and mutilated remains of conjured creatures,
+the shards of shattered artifacts, and the burnt out husks of used-up
+enchanments (don't ask what the husk of an enchantment looks like).
+   As you watch, one of the creatures begins to glow with a pale white light,
+and begin to reform. In moments, it it whole again, and journeys off to heed
+its master's call and live again. 
+~
+130 4096 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13040
+S
+#13040
+In Player Two's Hand~
+   You are standing in mid-aid, behind a wall of giant cards, each depicting a
+different spell. On the face of each card is a fanciful depiction of the
+spell's effect, and some information about how the spell is used in the game.
+You wonder what's behind the wall of cards, and decide to peek around it.
+   You gasp in awe of the scene spread out beneath you. The landscape below is
+twisted and mottled with terrains from every part of the multiverse, brought
+here by the titanic magic of the players' spells. The boundaries of the lands
+are quite distinct, as the landscape changes abruptly where one spell's effect
+ends and another begins.
+   Creatures of every description wander this surreal landscape, some
+magnificent, others horrible. You are fascinated by the scene, and are
+severely tempted to go down and explore. 
+~
+130 4096 2
+0d0+0 0 0
+D5
+~
+~
+0 -1 13035
+S
+#13041
+Player Two's Library~
+   You are standing amid a huge pile if giant game cards. All the cards are
+face-down, as if waiting for someone to draw one. Out of curiosity, you lift
+the edge of one, and look at it. On the face of the card, there is a depiction
+of a spell, and it's cost in mana, but it's unlike any mana you've ever heard
+of. The mana is divided into different colors, and it takes a lot less of it
+to cast spells than it does in the "real" world. Whoever is playing this game
+seems to be some sort of deluded, wanna-be wizard. 
+~
+130 4096 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 13040
+S
+#13042
+Oubliette~
+   An oubliette is a place to put people to forget about them. Unlike a
+dungeon, prisoners in an oubliette are never fed, never tortured...never
+released. The rats here feast on the flesh of those who finally succumb to
+mortality. Only the rats are here by choice. 
+~
+130 6144 2
+0d0+0 0 0
+S
+#13043
+Greater Realm of Preservation~
+   This is truly a greater realm. You are in a beautiful land, of green
+grasses, and bright sunshine. You feels safe, and happy, and just plain great.
+All around you are the angelic inhabitants of this realm. All of them greet
+you warmly and offer their hospitality. 
+~
+130 4096 2
+0d0+0 0 0
+D5
+~
+~
+0 -1 13015
+S
+#13044
+On the Way To the Graveyard~
+   Your mind boggles at this peek into the workings of the Celestial
+Bureaucracy. The mutilated corpses of the dead are standing in line, waiting
+to be sorted out into their respective afterlives. An unlucky few, under the
+control of wizards at the time of their death, are doomed to return to their
+master's graveyard, and await ressurection--or worse. 
+~
+130 4096 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13039
+D2
+~
+~
+0 -1 13003
+S
+#13045
+Maze of Ith~
+   Finally!!! This seems to be the way out of the infamous Maze of Ith. You
+mentally make a note to never get yourself stuck in there again. 
+~
+130 4096 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 13031
+D3
+~
+~
+0 -1 13037
+S
+#13046
+Inside the Belly of the Leviathan~
+   You cough and gasp for breath after being swallowed whole by the Leviathan.
+Seawater and digestive juices cover you in a wet slime.
+Speaking of digestive juices, you start to feel them eating away
+at your skin, and seeping into your open wounds. If you don't
+escape from here soon, you're going to die.
+~
+130 14365 7
+0d0+0 0 0
+S
+#13047
+The Entrance to a "Magic: the Gathering" Tournament~
+   It seems that there is some sort of card game tournament going on at the
+convention. All around you there are people rushing to sign up to enter and to
+get to their first match. You see a sign-up table, where several officials
+help people enter themselves in the tournament. Posted on the wall behind the
+officials is a huge sign stating all the tournament rules. (Hint folks: READ
+the SIGN). 
+~
+130 136 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 21119
+E
+rules sign huge~
+Official Tournament Rules:
+1) All players level 35 and under play in the junior division.
+2) All players above level 35 play in the advanced division.
+3) Summoning of creatures is permitted in designated areas.
+4) Equipment lost to Atogs will not be refunded by tournament officials.
+5) The decisio of the head judge is final.
+
+To enter the tournament,type: "sign up"
+~
+S
+#13048
+~
+~
+130 0 2
+0d0+0 0 0
+S
+#13049
+~
+~
+130 0 2
+0d0+0 0 0
+S
+#13050
+0~
+~
+130 0 2
+0d0+0 0 0
+S
+#13051
+Player One's Library~
+   You are standing amid a huge pile if giant game cards. All the cards are
+face-down, as if waiting for someone to draw one. Out of curiosity, you lift
+the edge of one, and look at it. On the face of the card, there is a depiction
+of a spell, and it's cost in mana, but it's unlike any mana you've ever heard
+of. The mana is divided into different colors, and it takes a lot less of it
+to cast spells than it does in the "real" world. Whoever is playing this game
+seems to be some sort of deluded, wanna-be wizard. 
+~
+130 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13052
+S
+#13052
+In Player One's Hand~
+   You are standing in mid-aid, behind a wall of giant cards, each depicting a
+different spell. On the face of each card is a fanciful depiction of the
+spell's effect, and some information about how the spell is used in the game.
+You wonder what's behind the wall of cards, and decide to peek around it.
+   You gasp in awe of the scene spread out beneath you. The landscape below is
+twisted and mottled with terrains from every part of the multiverse, brought
+here by the titanic magic of the players' spells. The boundaries of the lands
+are quite distinct, as the landscape changes abruptly where one spell's effect
+ends and another begins.
+   Creatures of every description wander this surreal landscape, some
+magnificent, others horrible. You are fascinated by the scene, and are
+severely tempted to go down and explore.
+   Far off in the distance, you notice another wall of cards hanging in the
+air, with the reverse sides facing you. 
+~
+130 0 2
+0d0+0 0 0
+D5
+~
+~
+0 -1 13057
+S
+#13053
+Player One's Graveyard~
+   You are standing in what in game terms could be considered a discard pile.
+From your point of view, it's a combination graveyard, junkyard.
+   All around you are the twisted and mutilated remains of conjured creatures,
+the shards of shattered artifacts, and the burnt out husks of used-up
+enchanments (don't ask what the husk of an enchantment looks like).
+   As you watch, one of the creatures begins to glow with a pale white light,
+and begin to reform. In moments, it it whole again, and journeys off to heed
+its master's call and live again. 
+~
+130 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 13052
+S
+#13054
+Seafarer's Quay~
+   You are standing in what appears to be a stop-over for seamen. A little
+inlet provides deep enough water for most merchant ships to dock at the piers
+that dominate the waterfront. The place seems to be deserted, though it just
+might be that the inhabitants aren't in the habit of conversing with every
+armed adventurer who happens by. 
+~
+130 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 13061
+D1
+~
+~
+0 -1 13055
+S
+#13055
+Mountain~
+   From the heights of this majestic peak you can see the surrounding
+countryside. Glaciers and Iceberg, Forests and Swamps, the variety of terrains
+never ceases to amaze you. You notice many tracks along the mountain, trails,
+and conclude that there must be some kind ofcivilization around...goblin
+tracks don't just up and make themselves. 
+~
+130 0 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 13062
+D1
+~
+~
+0 -1 13056
+D3
+~
+~
+0 -1 13054
+D5
+~
+~
+0 -1 13093
+S
+#13056
+Plateau~
+   The plateau is like a mountain with the top flattened out. It makes for much
+easier walking, but not nearly as good a view. No creatures seem to be native
+to this area though, so you might be able to relax for a while. 
+~
+130 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 13063
+D1
+~
+~
+0 -1 13057
+D3
+~
+~
+0 -1 13055
+S
+#13057
+Plains~
+   The plains are flat and empty. Home to cattle and small farmers, the plains
+dry grasses are ideal for grazing. There is a wholesome quality to a place
+like this...something not quite tangible. As you stare off into the distance,
+you can't help but feel good about yourself. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13064
+D1
+~
+~
+0 -1 13058
+D3
+~
+~
+0 -1 13056
+S
+#13058
+Island of Wak Wak~
+   You are on a most curious island. The winged inhabitants seems to accept
+your presence, hardly paying you any notice. You see orchards of trees that
+bear the most curious fruit. The fruits are shaped like a woman's head. As you
+wonder how they ever got the fruits to grow like that, you hear someone say
+"Wak." When you turn to see who said it, there is no one there. You hear it
+again, and realize that the fruits TALK! 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13065
+D1
+~
+~
+0 -1 13059
+D3
+~
+~
+0 -1 13057
+S
+#13059
+Island~
+   The rythmic rush of the waves against the shore and the briny smell in the
+air soothes your nerves. Looking out at the horizon, you see where this little
+section of ocean ends, and the other lands conjured by the wizards begin. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13066
+D1
+~
+~
+0 -1 13060
+D3
+~
+~
+0 -1 13058
+S
+#13060
+Elephant Graveyard~
+   Shards of ivory that were once the tusks of mighty elephants mark this
+gravesite as a holy place among those who revere and respect elephants. The
+shamans tell tale that if the magic of this place is harnessed by a wizard, he
+can heal even the most seriously wounded elephant from the brink of death. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13067
+D3
+~
+~
+0 -1 13059
+S
+#13061
+Tidal Flats~
+   Your feet sink partway into the mud as you walk along land that spends half
+its time beneath the waves. A ways off, you can hear the waves on the shore.
+In a few hours, the tides will return,and cover the footprints that you are
+leaving...and the land will forget you were ever here. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13068
+D1
+~
+~
+0 -1 13062
+D2
+~
+~
+0 -1 13054
+S
+#13062
+Glaciers~
+   You stand atop a mile-high block of ice. Cracks wide enough to swallow up
+entire armies criss-cross this vast glacier. A cold wind blows across your
+face, and you shiver at the bitter cold. What a bleak, inhospitable place. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13069
+D1
+~
+~
+0 -1 13063
+D2
+~
+~
+0 -1 13055
+D3
+~
+~
+0 -1 13061
+S
+#13063
+Icatian Town~
+   What a quaint little town. This is the kind of place you read about in
+storybooks. There are small wooden houses with thatched roofs, and barrels
+outside to catch rainwater. A little stone bridge spans a stream that runs
+through the town. 
+~
+130 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 13070
+D1
+~
+~
+0 -1 13064
+D2
+~
+~
+0 -1 13056
+D3
+~
+~
+0 -1 13062
+S
+#13064
+Caribou Range~
+   The land here ressembles an arctic tundra. The ground is white with frost,
+but patches of hardy grasses poke through in places. That grass is the main
+food supply for a vast herd of Caribou. Many arctic tribes follow the caribou
+for food, and there is most likely a tribe nearby, unless they were separated
+from the herd by the wizard's conjuring. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13071
+D1
+~
+~
+0 -1 13065
+D2
+~
+~
+0 -1 13057
+D3
+~
+~
+0 -1 13063
+S
+#13065
+Fortified Area~
+   You're standing ouside a small fortress set on the tip of a penninsula.
+There is a rocky hill around which the walls of the fortress are built, and
+the walls themselves are arranged in three curtains, such that anyone invading
+would have to pass all three walls to reach the tiny keep inside. In your
+opinion, someone went a bit overboard in defending this place. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13072
+D1
+~
+~
+0 -1 13066
+D2
+~
+~
+0 -1 13058
+D3
+~
+~
+0 -1 13064
+S
+#13066
+Iceberg~
+   You are standing on an Iceberg (well, at least on the tip of the iceberg).
+It's chilly here, but not as cold as you might expect. You notice a part of
+the iceberg glow red, and begin to melt, warming you a bit. What's why this
+place it so warm! Some wizard is using it as a source of mana, drawing power
+right out of the iceberg itself. This probably isn't even a real iceberg, but
+a floating block of frozen mana. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13073
+D1
+~
+~
+0 -1 13067
+D2
+~
+~
+0 -1 13059
+D3
+~
+~
+0 -1 13065
+S
+#13067
+Hallowed Ground~
+   You are standing in a snow forest, under an overcast sky. You see a humble
+little house, with smoke coming out of the chimney. As you watch, the clouds
+part slightly, and holy radiance bathes the house in its light. This must be
+some kind of sanctified area. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13074
+D2
+~
+~
+0 -1 13060
+D3
+~
+~
+0 -1 13066
+S
+#13068
+Snow Fortress~
+   This "fortress" seems to be a gigantic mound of snow, with a huge wooden
+door being the only entrance. At first this seems to be a ridiculous way to
+defend a place, but then again, you can't really picture an invading army
+breaking out snow-shovels to tear the place down, either. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13075
+D1
+~
+~
+0 -1 13069
+D2
+~
+~
+0 -1 13061
+S
+#13069
+Runed Arch~
+   This stone archway is carved with myriad runes, whose meaning you can't even
+begin to discern. Through the arch you can see the huge eye of some creature
+on the other side. Peeking around the arch, you can see that there isn't any
+creature there. This arch must be some kind of interdimensional phase shift,
+allowing parallel multiverses to...super...impose...you don't have a clue. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13076
+D1
+~
+~
+0 -1 13070
+D2
+~
+~
+0 -1 13062
+D3
+~
+~
+0 -1 13068
+S
+#13070
+Barl's Cage~
+   You see a crude iron cage is suspended over a chasm by four heavy chains
+attached to a framework. There is a small door to the cage, with a lock that's
+rusted with age. You don't know what the cage is for, or why the mages decided
+to bring it here. It doesn't look like it's sturdy enough to hold a dangerous
+prisoner, though once it would have stood up to a great deal of punishment. It
+must have some other use that is beyond you comprehension. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13077
+D1
+~
+~
+0 -1 13071
+D2
+~
+~
+0 -1 13063
+D3
+~
+~
+0 -1 13069
+S
+#13071
+Storm World~
+   Entering this area isa truly like stepping into another world. You are
+instantly struck by a gale force wind that nearly knocks you down. Storm
+clouds whirl about you, even at ground level. You are occasionally zapped by
+small jolts of lightning, but it seems that the magicks you carry offer some
+protection, and you take no damage. You shudder to think what would happen if
+you were unguarded. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13078
+D1
+~
+~
+0 -1 13072
+D2
+~
+~
+0 -1 13064
+D3
+~
+~
+0 -1 13070
+S
+#13072
+Skeleton Ship~
+   You are on the deck of a skeleton ship that is sailing on a tiny patch of
+water, smaller than most lakes. The hull of the ship is rotted out, but even
+the holes in the hull don't sink the ship. The sails are in fair condition,
+but tattered, their once bright red color faded with age. The crew of the ship
+appear as skeletons, dressed in traditional seafarers' garb, but quite dead.
+They seem to be content to ignore you as long as you let them run their ship. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13079
+D1
+~
+~
+0 -1 13073
+D2
+~
+~
+0 -1 13065
+D3
+~
+~
+0 -1 13071
+S
+#13073
+Serpent Generator~
+   Before you is some weird sort of machine. It looks like a big sausage
+grinder, except that instead of putting in meat...molten metal is pouring into
+the top. You can't see where the molten metal is coming from, but you're
+certain it's magical in origin. At the other end of the machine, the metal is
+squeezed out into long cords of metal, that ressemble snakes. In fact, they
+move like snakes, and hiss like snakes, too!! 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13080
+D1
+~
+~
+0 -1 13074
+D2
+~
+~
+0 -1 13066
+D3
+~
+~
+0 -1 13072
+S
+#13074
+Drift of the Dead~
+   You're once again in the icy cold. You climb a snowdrift to get a look
+around at yoursurroundings, and you nearly retch. You notice that the
+"snowdrift" you've been climbing is in fact a pile of frozen corpses and
+skeletons that the storms have blow into a snowdrift. You can only hope that
+you don't meet a similar fate in this harsh climate. 
+~
+130 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 13081
+D2
+~
+~
+0 -1 13067
+D3
+~
+~
+0 -1 13073
+S
+#13075
+Mudslide~
+   At least you noticed it before it was too late. Due to heavy rains recently,
+the hillsides here have become one huge mudslide. You see hapless cattle, and
+the occasional goblin get sucked along down the hill with the mud. You don't
+know what will become of them, but you doubt that without magical help they'll
+ever get unstuck. If one of the wizards takes the trouble, a small amount of
+his mana could most likely free them. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13082
+D1
+~
+~
+0 -1 13076
+D2
+~
+~
+0 -1 13068
+S
+#13076
+Tourach's Gate~
+   Nice spider. Someone with a taste for arachnids obviously built this gate.
+The spider that stands over the gateway seems to be completely decorative.
+Through the gate come a variety of disgusting creatures, obviously the result
+of some kind of twisted magic (probably perpetrated the the spider-loving gate
+builder). 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13083
+D1
+~
+~
+0 -1 13077
+D2
+~
+~
+0 -1 13069
+D3
+~
+~
+0 -1 13075
+D5
+~
+~
+0 -1 13095
+S
+#13077
+Glacial Crevasses~
+   You see what must once have been a might glacier centuries ago. The ice now
+has more cracks in it that most fields have blades of grass. Looking down into
+out, you can see a pair of eyes staring back at you, the creature's body
+obscured in the shadows of the crevasse. It appears that not everyone views
+the glacier's sorry state as a tragedy. Some seem to think of it as a home. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13084
+D1
+~
+~
+0 -1 13078
+D2
+~
+~
+0 -1 13070
+D3
+~
+~
+0 -1 13076
+S
+#13078
+Elven Fortress~
+   Walking through the forest, you remark at the size of the trees around you.
+This is an old-growth forest in the extreme. Hearing a bird singing above you,
+you look up and gape in amazement. There is a fortress built into the trees
+over your head. You probably never would have noticed it if you weren't right
+underneath it, so cleverly does it blend into the trees. This must be of elven
+make, for no other civilized race has such rapport with the wilderness. 
+~
+130 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 13085
+D1
+~
+~
+0 -1 13079
+D2
+~
+~
+0 -1 13071
+D3
+~
+~
+0 -1 13077
+S
+#13079
+Hot Springs~
+   What a welcome relief. The blackened, rocky terrain gives way here to a pool
+of steaming water. Despite the slightly sulferous smell, you're sorely tempted
+to climb right in for a soothing bath. When was the last time you bathed,
+anyway? 
+~
+130 4 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13086
+D1
+~
+~
+0 -1 13080
+D2
+~
+~
+0 -1 13072
+D3
+~
+~
+0 -1 13078
+S
+#13080
+Fountain of Youth~
+   The enscription on the fountain reads: Fountain of Youth. Having heard the
+legends of the Fountain of Youth, you'd have expected something a bit more
+grand for the bringer of eternal life. There's no golden cup from which to
+drink the blessed waters, no elaborate temple built around its grandeur. It's
+just a stone fountain, with an ugly statue spouting water from its mouth.
+Whoever found the way to grant eternal life through drinking water either had
+no imagination, or a sick sense of humor. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13087
+D1
+~
+~
+0 -1 13081
+D2
+~
+~
+0 -1 13073
+D3
+~
+~
+0 -1 13079
+S
+#13081
+Avalanche~
+   Be glad you weren't here when this happened. Too much snow must have built
+up, and it all came tumbling down, destroying the land in the process. If
+there is anything of any value under all that snow, you'll have to wait for a
+melting to find it. It would take an army of dwarves with shovels to dig
+through any decent amount of that snow. 
+~
+130 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13088
+D2
+~
+~
+0 -1 13074
+D3
+~
+~
+0 -1 13080
+S
+#13082
+Bottomless Vault~
+   You enter the vault through the massive steel door that someone
+inadvertantly left open. Inside is a small stone ledge, and what looks to be a
+bottomless pit (you have a keen eye for noticing things like that). Idly
+kicking some gravel over the edge, you listen for it to hit the bottom.
+Several times you hear the gravel scrape along the walls of the pit, but you
+run out of patience before you hear anyting that sounds like it hitting the
+bottom. 
+~
+130 1 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13083
+D2
+~
+~
+0 -1 13075
+S
+#13083
+Adventurers' Guildhouse~
+   Judging by what you know of guilds, adventurers must be a hard-luck bunch.
+While any respectable merchants' guild or theives' guild is a place of luxury,
+built in the middle of a bustling town, the Adventurers' Guildhouse is a small
+home along a trade way. Looking in through the window, the place looks
+comfortable, but not opulent in any way. You get the feeling that this
+"guildhouse" is more of a waystation for wandering adventurers than any kind
+of meeting hall. 
+~
+130 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 13084
+D2
+~
+~
+0 -1 13076
+D3
+~
+~
+0 -1 13082
+S
+#13084
+Swamp~
+   As you wade chest-deep through the murky, snake-invested watersof this
+swamp, you wonder why any wizard would have wanted to bring this place here.
+The answer: Swamps are one of the basic land types used for producing the mana
+they draw upon for their powers. Swamps provide black mana, used for dark,
+often self-destructive mana that many wizards shun. 
+~
+130 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13085
+D2
+~
+~
+0 -1 13077
+D3
+~
+~
+0 -1 13083
+S
+#13085
+Bayou~
+   A cross between a swamp and a forest, a bayou combines the murky waters of a
+swamp with the healthy trees of a forest. Such mixed land-types are invaluable
+to the wizards who conjure them. They give the wizard the ability to call upon
+the powers of more than one type of mana, while only requiring them to conjure
+up one land. Personally, you'd rather they favor tropical paradises when
+deciding what lands they want around. 
+~
+130 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 13086
+D2
+~
+~
+0 -1 13078
+D3
+~
+~
+0 -1 13084
+S
+#13086
+Forest~
+   Ahh...the sweet smell of the woods. Birds sing in the trees, and you
+occasionally see a deer prancing through the forest. The forest is easy to
+walk through, without a lot of undergrowth. You aren't bothered by any
+mosquitoes, and don't notice any woodland predators about. Whichever wizard
+brought this forest here only bothered to bring the pleasant parts. 
+~
+130 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 13087
+D2
+~
+~
+0 -1 13079
+D3
+~
+~
+0 -1 13085
+S
+#13087
+Diamond Valley~
+   You're a millionaire!! Billionnaire!!! Trillionnaire!!! There are diamonds
+everywhere in this valley. The ground is littered with them. You eagerly set
+about trying to stuff all your containers full of them. You begin to get
+annoyed, then frustrated, then exasperated by the fact that the diamonds won't
+budge! Collapsing after a furious attempt to dislodge a particularly large
+specimen, you notice that you can begin to see through the diamonds to the
+barren ground beneath them. You also see a ghostly apparition of death that
+does not approach you. It becomes clear to you that the illusion of the
+diamonds was a lure to bring creatures heere for sacrifice...and that you were
+spared...this time. 
+~
+130 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13088
+D2
+~
+~
+0 -1 13080
+D3
+~
+~
+0 -1 13086
+S
+#13088
+Mountain Stronghold~
+   You are at the base of a rocky mountain that is completely devoid of
+vegetation, animals, and even snow. Atop the mountain is perched a fortress
+with tall spires, and a stone wall around it. You don't see any path or easy
+place to climb up the mountain, and for a moment you wonder how the tower got
+built up there. You feel silly, thinking about all the weird places you've
+been recently, and answer your own question: magic. 
+~
+130 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 13081
+D3
+~
+~
+0 -1 13087
+S
+#13089
+Player Two's Graveyard~
+  You are standing in what in game terms could be considered a discard pile.
+From your point of view, it's a combination graveyard, junkyard.
+   All around you are the twisted and mutilated remains of conjured creatures,
+the shards of shattered artifacts, and the burnt out husks of used-up
+enchanments (don't ask what the husk of an enchantment looks like).
+   As you watch, one of the creatures begins to glow with a pale white light,
+and begin to reform. In moments, it it whole again, and journeys off to heed
+its master's call and live again. 
+~
+130 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13090
+S
+#13090
+In Player Two's Hand~
+  You are standing in mid-aid, behind a wall of giant cards, each depicting a
+different spell. On the face of each card is a fanciful depiction of the
+spell's effect, and some information about how the spell is used in the game.
+You wonder what's behind the wall of cards, and decide to peek around it.
+   You gasp in awe of the scene spread out beneath you. The landscape below is
+twisted and mottled with terrains from every part of the multiverse, brought
+here by the titanic magic of the players' spells. The boundaries of the lands
+are quite distinct, as the landscape changes abruptly where one spell's effect
+ends and another begins.
+  Creatures of every description wander this surreal landscape, some
+magnificent, others horrible. You are fascinated by the scene, and are
+severely tempted to go down and explore.
+   Far off in the distance, you notice another wall of cards hanging in the
+air, with the reverse sides facing you. 
+~
+130 0 2
+0d0+0 0 0
+D5
+~
+~
+0 -1 13085
+S
+#13091
+Player Two's Library~
+   You are standing in what in game terms could be considered a discard pile.
+From your point of view, it's a combination graveyard, junkyard.
+   All around you are the twisted and mutilated remains of conjured creatures,
+the shards of shattered artifacts, and the burnt out husks of used-up
+enchanments (don't ask what the husk of an enchantment looks like).
+   As you watch, one of the creatures begins to glow with a pale white light,
+and begin to reform. In moments, it it whole again, and journeys off to heed
+its master's call and live again. 
+~
+130 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 13090
+S
+#13092
+Goblin Shrine~
+   Only goblins would be stupid enough to light a bonfire underground. It looks
+like they are holding some sort of pagan ceremony here. Goblins are dancing
+around the fire (and occasionally stumbling into it) and screaming like
+lunatics. It would be quite a fearsome sight to behold if the goblins weren't
+two feet shorter than you. 
+~
+130 1 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 13093
+S
+#13093
+Goblin Caves~
+   You have to hunch over to walk through these caves. The stench of countless
+generations of goblin inhabitation make the area almost intolerable. You pass
+by unidentifiable piles of offal, and the occasional corpse of a former
+goblin. All in all, the trip would be much more pleasant if you'd thought to
+bring a garden hose and a gas mask. 
+~
+130 1 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 13092
+D3
+~
+~
+0 -1 13094
+D4
+~
+~
+0 -1 13055
+S
+#13094
+Goblin Warrens~
+   This seems to be the goblins main living area. You get the clue from the
+incredible number or tiny goblin children running around everywhere. Support
+beams reinforce tunnels that branch off in all directions to the goblins'
+individual quarters, but goblin engineering prowess doesn't give you any
+confidence in their stability. In all the chaos of the children running
+around, and the female goblins trying to round them up, the goblins hardly
+notice you. 
+~
+130 1 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 13093
+S
+#13095
+Breeding Pit~
+   Ewww!! Whatever that pool of slop in the middle of the room is, you don't
+want to know. You can see through the murky fluid that there is something
+under there, moving around. Alot of somethings, in fact. On the shores of this
+disgusting pond are hideous creatures, no doubt the result of the swill in
+that pool. From the looks of these monstrosities, killing them would be a
+favor. 
+~
+130 0 2
+0d0+0 0 0
+D4
+~
+~
+0 -1 13076
+S
+#13096
+On the Beach~
+On these sands shoes are a must during the day and just perfect at night.
+Volley ball net has been setup for recreation as well as a B-ball court
+to the west. To the east you see hammoc set between two trees in the 
+shade. ~
+130 0 2
+0d0+0 0 0
+S
+#13097
+0~
+Before you stand a two tone grey and red brick dream. A solid redwood door
+blocks the entrance way, with purple hazed colored roses going on each side
+This dream sits on 2 and a half mile of private beeach,and about 80 feet
+from the crystal blue waters.  ~
+130 0 2
+0d0+0 0 0
+S
+#13098
+Inside Lord Therons' Beach House~
+As you look about you , you cant help but to notice the Old Japaneese Art
+about the room. To your left you see a vase from the Ming dynasty. Upon
+the wall are painting of great battles fouhgt,and of course the loved cla
+DOGs Shooting Pool. theres a 56inch console television with cables att
+placed aginst the far wall. You also can see the beach from the living room
+window.~
+130 0 0
+0d0+0 0 0
+S
+#13099
+Patio~
+From this window you can see Ocean for mile out. Golden tan beach hazes the 
+sight with the reflection of the sun gleaming off it. Lounge and lawn chairs
+are setting about under the canopy with a warm breeze flowing on you~
+130 0 2
+0d0+0 0 0
+S
+$

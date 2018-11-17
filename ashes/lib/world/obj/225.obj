@@ -1,0 +1,805 @@
+#22513
+waybread~
+a waybread~
+A waybread has been dropped on the ground here.~
+~
+19 0 1 0
+0 0 0
+24 0 0 0
+1 50 0
+#22514
+pastry~
+a pastry~
+A yummy-looking pastry is lying here.~
+~
+19 0 1 0
+0 0 0
+6 0 0 0
+0 5 0
+#22515
+bread~
+a loaf of bread~
+A loaf of bread has been dropped here.~
+~
+19 0 1 0
+0 0 0
+12 0 0 0
+0 20 0
+#22516
+apple~
+an apple~
+A delicious looking apple is lying here.~
+~
+19 0 1 0
+0 0 0
+4 0 0 0
+1 5 5
+#22517
+mace small~
+the small mace~
+A small mace has been left here.~
+crush~
+5 64 8193 0
+0 0 0
+0 1 6 7
+6 600 200
+A
+18 1
+E
+small mace~
+This weapon does look like it does a lot of damage, but then you never know.
+It consists of a black handle and a purple head.
+~
+#22519
+club wooden~
+a wooden club~
+A simple looking wooden club is here.~
+pound~
+5 4096 8193 0
+0 0 0
+0 1 4 7
+3 12 10
+#22520
+shirt~
+a silk shirt~
+A silk shirt has been left here.~
+~
+9 0 9 0
+0 0 0
+2 0 0 0
+4 600 50
+#22521
+pants silk~
+a pair of silk pants~
+A pair of silk pants is lying on the ground.~
+~
+9 0 33 0
+0 0 0
+2 0 0 0
+6 400 10
+#22523
+sash~
+a fine silk sash~
+A fine silk sash is lying here.~
+~
+11 0 2049 0
+0 0 0
+0 0 0 0
+1 150 0
+A
+16 -1
+#22524
+turban~
+a silk turban~
+A silk turban has been dropped here.~
+~
+11 0 17 0
+0 0 0
+0 0 0 0
+4 500 100
+A
+16 -1
+#22526
+waterskin water skin~
+a waterskin~
+A waterskin has been left on the ground here.~
+~
+17 0 1 0
+0 0 0
+20 20 0 0
+25 25 1
+#22527
+water canteen~
+a canteen~
+A canteen has been set on the ground here.~
+~
+17 0 1 0
+0 0 0
+80 80 15 0
+85 45 15
+E
+canteen~
+It's a fairly big canteen.  Looks like it can hold a lot of liquid.
+~
+#22528
+water barrel~
+a barrel~
+A water barrel has been left here.~
+~
+17 0 1 0
+0 0 0
+50 50 15 0
+55 150 20
+#22529
+nuts fresh pistachios~
+a handful of fresh pistachios~
+A handful of fresh pistachios is lying here.~
+~
+19 0 1 0
+0 0 0
+5 0 0 0
+1 5 5
+#22530
+nuts red pistachios~
+a handful of red pistachios~
+A handful of red pistachios is lying here.~
+~
+19 0 1 0
+0 0 0
+5 0 0 0
+1 5 5
+#22531
+figs fresh fig~
+some fresh figs~
+Some fresh figs are lying here.~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+1 10 5
+#22532
+figs dried fig~
+some dried figs~
+Some dried figs have been dropped here.~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+1 10 5
+#22533
+fig figs cookie cookies~
+a fig cookie~
+A soft cookie stuffed with a fig-filled center is lying here.~
+~
+19 0 1 0
+0 0 0
+10 0 0 0
+1 20 5
+#22534
+date fresh~
+a fresh date~
+A freshly picked date is lying here.~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+1 15 5
+#22535
+date dried~
+a dried date~
+A sun-dried date has been dropped here.~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+1 15 5
+#22536
+melon watermelon~
+a juicy watermelon~
+A large, juicy watermelon is lying here.~
+~
+19 0 1 0
+0 0 0
+8 0 0 0
+1 15 5
+#22537
+banana~
+a ripe banana~
+A ripe banana has been left here.~
+~
+19 0 1 0
+0 0 0
+4 0 0 0
+1 6 5
+#22538
+passion fruit~
+a ripe passion fruit~
+A ripe passion fruit has been left lying here.~
+~
+19 0 1 0
+0 0 0
+10 0 0 0
+1 20 5
+#22539
+meat dogmeat~
+a piece of dogmeat~
+A piece of dogmeat is on the ground here.~
+~
+19 0 1 0
+0 0 0
+14 0 0 0
+5 24 10
+E
+meat~
+It's not so much that the meat looks poisoned or anything, but that you
+just are not sure of it's origins.  You doubt that a hunter would drop a
+side of venison or rabbit meat... what in the world could this meat have
+come from, you wonder...
+~
+#22553
+thongs~
+a pair of leather thongs~
+A pair of leather thongs are lying here.~
+~
+11 0 65 0
+0 0 0
+0 0 0 0
+1 25 0
+A
+16 -1
+#22554
+sash~
+a soft leather sash~
+A finely crafted soft leather sash is lying here.~
+~
+11 0 2049 0
+0 0 0
+0 0 0 0
+1 50 0
+A
+16 -2
+#22555
+backpack pack back leather~
+a leather backpack~
+A finely crafted leather backpack has been dropped here.~
+~
+15 0 17409 0
+0 0 0
+750 0 -1 0
+9 750 50
+#22556
+gloves leather~
+a pair of leather gloves~
+A pair of leather gloves is lying on the ground.~
+~
+9 0 129 0
+0 0 0
+3 0 0 0
+3 75 10
+#22557
+lamp~
+a small brass lamp~
+A small brass lamp lies here half buried in the ground.~
+~
+12 0 16385 0
+0 0 0
+0 0 0 0
+2 4000 0
+A
+4 1
+#22558
+scarab~
+a black metal scarab~
+A black metal scarab is lying here.~
+~
+9 0 16385 0
+0 0 0
+0 0 0 0
+1 250 0
+A
+23 -1
+A
+16 -5
+#22559
+sphinx ring~
+a sphinx ring~
+A large wooden ring with the head of a Sphinx carved in it is lying here.~
+~
+9 0 3 0
+0 0 0
+1 0 0 0
+1 75 0
+#22560
+joint pot marijuana~
+a Joint~
+An unsmoked Joint is lying here, ready to be enjoyed.~
+~
+1 0 16385 0
+0 0 0
+0 0 5 0
+1 10 1
+#22561
+ring arabian knight~
+the ring of the arabian knight~
+A gold ring with the emblem of an arabian knight is lying here.~
+~
+11 0 3 0
+0 0 0
+0 0 0 0
+1 4000 0
+A
+16 -4
+E
+ring~
+The ring is finely crafted of 24 carat gold, and bears the emblem of an
+Arabian Knight.
+~
+#22562
+ring~
+a golden snake ring~
+A gold ring in the form of a snake has been dropped here.~
+~
+9 0 3 0
+0 0 0
+3 0 0 0
+1 350 0
+E
+ring~
+The ring is finely crafted and in the shape of a cobra.
+~
+#22563
+necklace charm sphinx~
+a charm necklace~
+A golden necklace with a small sphinx charm is lying here.~
+~
+9 0 5 0
+0 0 0
+5 0 0 0
+2 8000 0
+#22564
+mug coffee~
+a clay mug of coffee~
+A large clay mug of coffee has been dropped here.~
+~
+17 0 1 0
+0 0 0
+25 25 12 0
+30 25 1
+E
+mug cup~
+The mug is nicely made, painted and fired right here in Agrabah.
+~
+#22565
+scarab amulet~
+a scarab amulet~
+A scarab amulet has been dropped here.~
+~
+9 0 5 0
+0 0 0
+6 0 0 0
+3 12000 0
+#22566
+pot coffee~
+a pot of coffee~
+A pot of coffee has been left here on the ground.~
+~
+17 0 1 0
+0 0 0
+50 50 12 0
+55 75 0
+#22567
+pot expresso coffee~
+a pot of expresso~
+A large pot of expresso has been left here.~
+~
+17 0 1 0
+0 0 0
+100 100 12 0
+105 150 0
+#22568
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 64 16385 0
+0 0 0
+12 42 0 0
+12 42 0
+E
+scroll~
+The scroll has written a formulae of 'Word of Recall' upon it.
+~
+#22569
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 64 16385 0
+0 0 0
+12 52 0 0
+1 10000 10
+E
+scroll identify~
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+~
+#22570
+wand invis~
+a wand of invisibility~
+A wand has carelessly been left here.~
+~
+3 64 16385 0
+0 0 0
+12 2 2 29
+2 4000 100
+E
+wand~
+The wand is an old dark stick.  You notice a small symbol etched at the
+base of the wand.  It looks like this:
+
+     \ /
+    - O -
+     / \
+~
+#22571
+staff sleep~
+a staff of sleep~
+A staff has carelessly been left here.~
+~
+4 64 16385 0
+0 0 0
+12 1 1 38
+17 7000 5000
+E
+staff~
+The staff is made of old oak, and is around five feet long. It fits
+perfectly into your hand. You notice a small symbol etched at the
+base of the staff, it looks like:
+
+  ZZZZZ
+     Z
+    Z
+   Z
+  ZZZZZ  z   z
+~
+#22572
+camel meat coldcuts cold cuts~
+some camel cold cuts~
+Some camel meat has been left on the ground here.~
+~
+19 0 1 0
+0 0 0
+14 0 0 0
+5 24 10
+E
+meat~
+It's not so much that the meat looks poisoned or anything, but that you
+just are not sure of it's origins.  You doubt that a hunter would drop a
+side of venison or rabbit meat... what in the world could this meat have
+come from, you wonder...
+~
+#22573
+meat leg lamb~
+a leg of lamb~
+A leg of lamb is lying here on the ground.~
+~
+19 0 1 0
+0 0 0
+20 0 0 0
+5 35 10
+E
+meat~
+It's not so much that the meat looks poisoned or anything, but that you
+just are not sure of it's origins.  You doubt that a hunter would drop a
+side of venison or rabbit meat... what in the world could this meat have
+come from, you wonder...
+~
+#22574
+meat dogmeat~
+some smoked dogmeat~
+A large piece of smoked dogmeat is lying here.~
+~
+19 0 1 0
+0 0 0
+10 0 0 0
+5 20 10
+E
+meat~
+It's not so much that the meat looks poisoned or anything, but that you
+just are not sure of it's origins.  You doubt that a hunter would drop a
+side of venison or rabbit meat... what in the world could this meat have
+come from, you wonder...
+~
+#22575
+meat beef roast~
+a beef roast~
+A delicious-looking beef roast is lying here.~
+~
+19 0 1 0
+0 0 0
+36 0 0 0
+5 50 10
+E
+meat~
+It's not so much that the meat looks poisoned or anything, but that you
+just are not sure of it's origins.  You doubt that a hunter would drop a
+side of venison or rabbit meat... what in the world could this meat have
+come from, you wonder...
+~
+#22576
+potion white~
+a white potion of sanctuary~
+A white potion of sanctuary sits upright waiting to be taken.~
+~
+10 64 1 0
+0 0 0
+30 3 36 39
+5 200000 1000
+#22577
+potion yellow seeinvis~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+~
+10 64 16385 0
+0 0 0
+12 19 0 0
+1 400 10
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#22578
+blue potion~
+a blue potion of healing~
+A bright blue potion sits upright here waiting to be taken.~
+~
+10 64 1 0
+0 0 0
+25 28 0 0
+3 100000 100
+#22579
+fork pitchfork~
+a pitchfork~
+A nasty-looking pitchfork has been dropped here.~
+~
+5 8400896 8193 0
+0 0 0
+0 2 6 11
+6 1000 400
+A
+2 -1
+A
+18 1
+E
+pitchfork~
+It has a sturdy wooden handle, and the tines are very sharp.
+~
+#22580
+red potion~
+a bright red potion~
+A bright red potion is lying on the ground here.~
+~
+10 64 1 0
+0 0 0
+20 44 0 0
+2 8000 0
+#22581
+turban~
+a white turban~
+A white turban is lying here.~
+~
+9 0 17 0
+0 0 0
+5 0 0 0
+4 2500 500
+#22582
+sash~
+a white silk sash~
+A white silk sash has been dropped here.~
+~
+9 0 2049 0
+0 0 0
+5 3 0 0
+4 1000 200
+#22583
+sandals~
+a pair of leather sandals~
+A pair of leather sandals has been dropped here.~
+~
+9 0 65 0
+0 0 0
+3 0 0 0
+2 350 41
+#22584
+shirt~
+an arabian shirt~
+An arabian shirt has been left here.~
+~
+9 0 9 0
+0 0 0
+3 0 0 0
+4 1000 50
+#22585
+pants~
+a pair of arabian pants~
+A pair of arabian pants is lying on the ground.~
+~
+9 0 33 0
+0 0 0
+3 0 0 0
+8 150 10
+#22586
+leather sleeves~
+a pair of leather sleeves~
+A pair of leather sleeves is lying on the ground.~
+~
+9 0 257 0
+0 0 0
+2 0 0 0
+3 75 10
+#22587
+leather leggings~
+a pair of leather leggings~
+A pair of leather leggings is lying on the ground.~
+~
+9 0 33 0
+0 0 0
+4 0 0 0
+6 800 100
+#22588
+shield~
+a shield~
+A small wooden shield is lying on the ground.~
+~
+9 0 513 0
+0 0 0
+2 0 0 0
+3 100 10
+#22589
+lamp~
+an oil lamp~
+An oil lamp has been left here.~
+~
+1 0 16385 0
+0 0 0
+0 0 100 0
+4 60 10
+E
+lantern~
+It is a large and robust but somewhat battered oil lantern made from brass,
+and it is equipped with a handle to make it handy and a hood to protect its
+flame.  Some letters have been scratched on its bottom.
+~
+E
+letters~
+They say, "Use 'hold lantern' to activate."
+~
+#22590
+sack~
+a large sack~
+A large sack has been dropped here.~
+~
+15 0 16385 0
+0 0 0
+90 1 0 0
+1 50 1
+E
+canvas sack~
+This is a rather large and sturdy white canvas sack. It has tough drawstrings
+that are for cinching up the open end to prevent things falling out.
+~
+#22591
+candle~
+a candle~
+A large candle has been dropped here.~
+~
+1 0 16385 0
+0 0 0
+0 0 24 0
+1 10 10
+#22592
+bag~
+a bag~
+A small bag is lying here.~
+~
+15 0 16385 0
+0 0 0
+50 0 0 0
+2 20 10
+#22593
+qussaba flute instrument~
+a Qussaba~
+A large flute is lying here, forgotten by its owner.~
+~
+3 64 16385 0
+0 0 0
+10 3 3 7
+3 3000 0
+#22594
+ud lute instrument~
+an Ud~
+A finely crafted Ud has been left here.~
+~
+22 12 1 0
+0 0 0
+0 0 0 0
+5 1275 0
+E
+ud lute instrument~
+The Ud is a short, pear-shaped lute, native to Arabia.  This particular one
+has four pairs of strings, a wooden soundboard, and is of the finest quality.
+It seems to be crafted of a hard, buoyant wood.
+~
+#22595
+qanum instrument~
+a Qanum~
+A Qanum has been left here by its owner.~
+~
+12 64 16385 0
+0 0 0
+0 0 0 0
+5 4000 0
+A
+2 1
+E
+qanum instrument~
+Native to Arabia, the Qanum is a zither with 72 strings in 3-string courses,
+stretched over a trapezoidall box.  Its sound is full and rich.
+~
+#22596
+duff tambourine instrument~
+a Duff~
+A Duff has been dropped here.~
+~
+12 0 16385 0
+0 0 0
+0 0 0 0
+1 1700 0
+A
+17 2
+E
+duff tambourine instrument~
+The Duff is a small tambourine native to Arabia.~
+#22597
+long sword~
+a long sword~
+A long sword has been left here.~
+~
+5 8400896 8193 0
+0 0 0
+0 1 8 3
+8 10000 1000
+A
+17 1
+A
+18 2
+#22598
+sabre~
+a long, curved sabre~
+A long, curved sabre stands upright in the ground.~
+slash~
+5 8402944 8193 0
+0 0 0
+0 1 8 3
+7 1050 200
+A
+17 2
+#22599
+whip snakeskin~
+a snakeskin whip~
+A whip made completely of snakeskin is lying here.~
+~
+5 512 8193 0
+0 0 0
+0 3 3 4
+14 25000 10000
+A
+17 2
+A
+18 1
+$

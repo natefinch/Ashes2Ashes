@@ -1,0 +1,121 @@
+CircleMUD v3.0 Shop File~
+#17900~
+17922
+17923
+17924
+17925
+17926
+-1
+2.0
+0.8
+LIGHT
+TREASURE
+OTHER
+-1
+%s I thought I had that... but I guess I don't.~
+%s What are you talking about? You don't have anything like that.~
+%s Sorry, I'm not interested in that.~
+%s That's a nice looking item, but I unfortunatly can't afford it.~
+%s You can't afford that!~
+%s That will be %d coins, enjoy.~
+%s I could use that. Here are %d coins for it. Thanks.~
+-1
+2
+17934
+0
+17942
+-1
+0
+25
+0
+0
+#17901~
+17944
+17945
+17946
+17947
+17948
+-1
+2.0
+0.8
+WEAPON
+-1
+%s Sorry, I don't have anything around like that.~
+%s What are you talking about? You don't have anything like that.~
+%s Sorry, I'm not interested in that.~
+%s That's a mighty fine weapon, but I can't afford it.~
+%s You can't afford that!~
+%s That will be %d coins, enjoy.~
+%s That looks well made. Here are %d coins for it. Thanks.~
+-1
+2
+17933
+0
+17940
+-1
+0
+25
+0
+0
+#17902~
+17938
+17939
+17940
+17941
+17942
+17943
+-1
+2.0
+0.8
+ARMOR
+-1
+%s Sorry, I don't have anything around like that.~
+%s What are you talking about? You don't have anything like that.~
+%s Sorry, I'm not interested in that.~
+%s That's a mighty fine piece of armor, but I can't afford it.~
+%s You can't afford that!~
+%s That will be %d coins, enjoy.~
+%s That looks well made. Here are %d coins for it. Thanks.~
+-1
+2
+17932
+0
+17947
+-1
+0
+25
+0
+0
+#17903~
+17933
+17934
+17935
+17936
+17937
+-1
+10.0
+0.8
+SCROLL
+WAND
+STAFF
+TREASURE
+POTION
+-1
+%s Sorry, I don't have anything around like that.~
+%s What are you talking about? You don't have anything like that.~
+%s Sorry, I'm not interested in that.~
+%s That's an interesting item, but I can't afford it.~
+%s You can't afford that!~
+%s That will be %d coins, enjoy.~
+%s That's an interesting item. Here are %d coins for it. Thanks.~
+-1
+2
+17931
+0
+17945
+-1
+0
+25
+0
+0
+$~

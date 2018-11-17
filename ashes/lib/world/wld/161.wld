@@ -1,0 +1,2062 @@
+#16100
+Entrance to Turnings of the Wheel~
+The Wheel of Time turns, and Ages come and pass, leaving memories that become
+legend. Legend fades to myth, and even myth is long forgotten when the Age
+that gave it birth comes again. In one Age, called the third Age by some, an
+Age yet to come, an Age long past, a wind rose in the Mountains of Mist. The
+wind was not the beginning.  There are neither beginnings nor ending to the
+turning of the Wheel of Time. The wind was not the beginning.  There are
+neither beginnings nor ending to the turning of the Wheel of Time.
+~
+161 32788 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 16101
+D9
+~
+~
+0 -1 3061
+S
+#16101
+Quarry Road, by Tam's House~
+You are standing on a well kept road beside an average looking farm house.
+It looks like a major battle was once held here judging by the hacked off
+branches and brown stains on the stony ground. A cold wind blows off the
+Mountains of Mist far to the west. To your west you see Tam's house and to
+the east the road continues into the West Wood.
+~
+161 32772 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 16109
+D2
+~
+~
+0 -1 16100
+D3
+~
+~
+0 -1 16106
+E
+ladder~
+The ladder looks like its of simple downhome contruction. Unfortunately it
+also looks very unsafe.
+~
+E
+house farm Tam's~
+Made of a combination of boards and split logs this house looks quite rustic.
+The thatched roof of the home looks well repaired and maintained. A ladder
+attached to the side of the house makes you think the house has been recently
+repaired.
+~
+S
+#16102
+Tam's Barn~
+You walk carefully through Tam's Barn.  The Trollocs took a savage toll on
+Tam's cattle when they went to seize Rand.  Brown stains mark the place where
+Tam's cattle used to be milked in the morning.  The horse stalls look like
+they have been repaired well and are in good condition.  Near the center Tam
+has constructed a storage bin to store food for the winter.
+~
+161 32776 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 16106
+E
+stall horse~
+Although empty, the stall has been repaired well and is waiting for Bela's
+return.
+~
+S
+#16103
+Tam's Kitchen~
+Tam and Rand have used this kitchen ever since the building of the house long
+ago.  Much like any other farm's kitchen, pots and pans lie slightly concealed
+in a row of cabinet near the kitchen fire and dishes lay in a wash basin to
+be cleaned later.  The room has been carefully repaired by Tam's loving hand.
+It looks like Tam is making dinner here as things are left out on the
+counter.
+~
+161 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 16106
+S
+#16104
+Tam's Room~
+You stand in a simple room with few adornments.  A closet stands in the
+southwest corner, but contains nothing useful.  A large king size bed with a
+bump on one side lies in the center of the room.  A fairly well painted
+picture lies on the far west wall depicting Tam's long dead wife.  She was
+certainly beautiful even for being a foreigner.
+~
+161 32776 0
+0d0+0 0 0
+D0
+~
+~
+1 -1 16106
+S
+#16105
+Rand's old room~
+Abandoned for over a month now, this room shows signs of the vicious attack
+inflicted by the Trollocs.  Shelves lie fallen and snapped on the west end,
+and a bed cleanly broken in three places sits in the center.  The only thing
+of interest that the room contains is a small table in one corner of the room
+with a note on it reading, "Rand's stuff I mean to fix sometime."
+~
+161 32780 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 16107
+D5
+~
+~
+0 -1 16106
+E
+note~
+The note reads, "Rand's stuff I mean to fix sometime." and is signed Tam.
+~
+S
+#16106
+Tam's Front Room~
+After the cold wind of the Quarry Road, Tam's house is a welcome relief.  A
+warm fire burns on the hearth, and makes you feel very much at home.  A scant
+amount of furniture adorns the room, all bearing signs of repair from much
+use.  Wonderful smells waft at you from the kitchen to the west and it looks
+like there's a bedroom to the south.  There's a small staircase here.
+~
+161 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 16101
+D2
+~
+door~
+1 16101 16104
+D3
+~
+~
+0 -1 16103
+D4
+~
+~
+0 -1 16105
+D6
+~
+~
+0 -1 16108
+D8
+~
+~
+0 -1 16102
+E
+staircase stair stairs~
+It looks sturdy. It lead's up to Rand's room and then the attic.
+~
+S
+#16107
+Tam's Attic~
+Dust covers everything here.  Chest and wooden crates line the walls here
+containing old wool and broken fragments of furniture cleared out from the
+rest of the house after the attack. A table on one side of the room holds
+what looks like old clothing from Tam's wife. You can see light coming from
+below.
+~
+161 32777 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 16105
+S
+#16108
+Tam's Sheep pin~
+The winter and Trolloc attacks have been hard on all the farms of the West
+Wood.  Hungry wolves and bears descend from the mountains and forest to
+ravage the sheep pens.  Never the less, Tam has managed to keep a dozen sheep
+or so safe from the attacks so far.  The grass is very low here.
+~
+161 32768 2
+0d0+0 0 0
+D9
+~
+~
+0 -1 16106
+S
+#16109
+Quarry Road, a path through West Wood~
+Winter has been hard on the land.  Although it is late into spring the only
+sign of green around you is from the hearty evergreen and fur trees.  Brown,
+crisp thorn bushes cloak the outskirts of the road and nettles are the only
+things in the undergrowth that has survived.  No birds or squirrels stir in
+the trees except those fouled by the dark one.   To your north and south you
+see glowing eyes through the darkness of the trees. In the distance you can
+see Emond's Field to your west.
+~
+161 32772 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 16111
+D1
+~
+~
+0 -1 16112
+D2
+~
+~
+1 -1 16110
+D3
+~
+~
+0 -1 16101
+E
+Emond's Field~
+It looks like a quaint little farm village.
+~
+S
+#16110
+West Wood, Knot of Trees~
+The icy wind plays strong here as it howls though leafless trees of various
+types.  As you pick your way carefully through the nettles and thorn bushes
+dotting the undergrowth you feel the presence of the strange eyes on you. The
+paw prints of wolves betray their presence in the area.  To your north you
+see the relative safety of Quarry Rode through the trees.
+~
+161 32769 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 16109
+S
+#16111
+West Wood, Bloody clearing~
+As you walk into the clearing you are immediately repulsed by the image of a
+traveler half torn apart by wolves.  Even though the corpse has been dead for
+several hours the wolves are still fighting for bits of meat and bone. Blood,
+gore, and tattered shards of clothing dot the vegetation.  To your south you
+see the much safer confines of Quarry Road.
+~
+161 32769 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 16109
+E
+blood gore traveler~
+The traveler has been completely torn apart, organs, blood and bone marrow
+coat the area.  If you didn't know better you'd swear it was old Bili.
+~
+S
+#16112
+Emond's Field, Near Nynaeve's House~
+After the harshness of the West Wood Emond's Field is a welcome relief.  An
+air of festival delights the air as the citizens prepare for a long awaited
+Bel Tine. Small children and dogs play together in the street, and even the
+adults wear smiles.  In every yard rugs hang from clothes lines, as young and
+old alike prepare to start the traditional spring-cleaning.  To the north you
+see the home of the Village Wisdom, Nynaeve, and to the south you see an
+average looking house.  The road continues east, leading deeper into Emond's
+Field.
+~
+161 32768 11
+0d0+0 0 0
+D0
+~
+~
+1 -1 16114
+D1
+~
+~
+0 -1 16115
+D2
+~
+~
+0 -1 16113
+D3
+
+~
+~
+0 -1 16109
+E
+home~
+It looks cozy and well kept.
+~
+S
+#16113
+Emond's Field, Average Looking House~
+This house, like most others in Emond's Field, has a thatched roof and a warm
+fireplace. Despite being clean the home seems to emit a strange unpleasant
+odor. A piece of parchment adorns the wall which reads, "Welcome to the
+Coplin home".  After reading the parchment that funny smell finally makes
+sense. The Coplins are known throughout the Two Rivers for their total lack
+of wisdom and the extra portion of BS that the creator endowed them with. To
+the north you can see the street.
+~
+161 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 16112
+S
+#16114
+Emond's Field, Nynaeve's House~
+Books, scrolls, and packets of herbs cram the many shelves of this larger
+then normal house.  Four beds used to lay the wounded are on the far west
+end, and a desk lies near the door to assist the Wisdom in her duties.
+Nynaeve's ever-famous "stick she likes to thump people with" lies in a
+display case at one end of the room.
+~
+161 32776 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 16112
+E
+case display~
+You see a hard wooden cane.  Many a village council member has felt the cane
+on their heads.
+~
+S
+#16115
+Emond's Field, By the Spring Pole~
+A huge firtree towers over you.  Stripped of all its bark and branches the
+tree is set in a deep hole, and will be used during Bel Tine. The unmarried
+women of the village will dance around the pole and tie colored ribbons to it
+while the unmarried men sing.  After the ribbons are tied to the pole the men
+and women that wish to become engaged dance together around the bonfires that
+will soon surround the green.  The dance seals the commitment. To the north
+you see the charred ruins of a house, and to the south you see the Congar
+House.  The street continues to the east towards the green.
+~
+161 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 16117
+D1
+~
+~
+0 -1 16118
+D2
+~
+~
+1 -1 16116
+D3
+~
+~
+0 -1 16112
+S
+#16116
+Emond's Field, Congar House~
+As you enter the Congar home the smell of freshly baked apple pie wafts up at
+you from the kitchen.  Although the Congars are as well known as the Coplins
+for their negative traits, Daisy Congar does a better then average job in the
+kitchen.  The house is spotless, and looks like it has been completely
+repaired despite its near destruction after the Trolloc attack nearly a month
+ago.  There are few furnishings despite the cleanliness, Wit must not be
+doing his job.
+~
+161 32776 0
+0d0+0 0 0
+D0
+~
+~
+1 -1 16115
+E
+furniture furnishings furnish~
+The furniture looks badly made and uncomfortable.
+~
+E
+apple pie~
+The apple pie looks like it has been made with loving care.  It smells
+delicious!
+~
+S
+#16117
+Emond's Field, Charred Ruin~
+You pick your way carefully as you step through the ashes and charred wooden
+fragments of a once beautiful home.  Originally the home of the Village
+Blacksmith, this home has been scavenged as much as possible for any item of
+value.  It is said that the blacksmith is building a new house despite
+Perrin's departure from the Two Rivers.
+~
+161 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 16115
+E
+ashes wood fragments value~
+There is nothing left that has any value.
+~
+S
+#16118
+Emond's Field, Green~
+Despite the long winter this small patch of ground has been carefully kept
+clear and nurtured by the Winespring of which the local Inn is famous for.
+Children play at the edges of the field as the town's adults prepare contests
+of various types to be held during Bel Tine.  The atmosphere is light and
+full of joy despite the coolness of the temperature. To the north you see the
+outskirts of the green, and to the south you see a bonfire.
+~
+161 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 16120
+D2
+~
+~
+0 -1 16119
+D3
+~
+~
+0 -1 16115
+D6
+~
+~
+0 -1 16121
+S
+#16119
+Emond's Field, Bel Tine Bonfire~
+A huge mound of wood sits here just begging to be set ablaze as the couples
+of Bel Tine join up and begin the dance that will eventually lead to
+marriage. Young boys and girls dance and play together here as others
+practice songs of Bel Tine.  The sounds of a quarterstaff contest emanate
+from the north.
+~
+161 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 16118
+E
+wood bonfire~
+Wow. There's a lot of wood here.  Too bad you can't pick it up.
+~
+S
+#16120
+Emond's Field, Outskirts of the Green~
+Half grass and half cleared dirt, this section of the town is a common area
+for all those that wish to run and play games.  From here you can see the
+famous Winespring Inn, and have a clear view nearly to the Waterwood in the
+far east.  Although the men, of the village do not know it, the Women's
+Council often meets here when the weather isn't bad.  Lately their talk has
+been about the best way to skin Wit alive for meddling with them.
+~
+161 32768 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 16118
+S
+#16121
+Emond's Field, Wagon Bridge~
+Large enough for a wagon, the Wagon Bridge is aptly named.  As the bridge
+crosses the Winespring so changes the road to your north from the North Road
+to the Old Road as one goes southward.  No one ever questions it though, as
+it's been that way since the days of Manetherin. Far to the east you can see
+the Winespring gurgle away from its spring here in Emond's Field and become
+the Winespring Water as it makes its way to flood the marshes of the
+Waterwood.  To the southeast you see the glittering tile roof of the
+Winespring Inn, and to the north you see the North Road as its makes its way
+to Watch Hill. Sounds of contest ring from southwest.
+~
+161 32772 11
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 16127
+D8
+
+~
+~
+0 -1 16122
+D9
+
+~
+~
+0 -1 16118
+S
+#16122
+Winespring Inn, Common Room~
+The focal point of the village and the seat of power for the local
+government, the Winespring Inn's Common Room is the place of discussion.
+Here the Village Council meets, and sits by the fire. In the western corners
+sit tables near the kitchen where guests of the Inn can sit and be served
+meals cooked by the best cook in all of the Two Rivers. A staircase in the
+north end of the room leads to the guestroom upstairs. A small door leads
+southward into the stables, and a doorway to the east appears to lead to a
+small office.
+~
+161 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 16123
+D2
+It looks like it leads to the stable
+~
+small wooden door~
+1 -1 16124
+D3
+~
+~
+0 -1 16125
+D4
+~
+~
+0 -1 16126
+D7
+~
+~
+0 -1 16121
+S
+#16123
+Winespring Inn, Mayor's Office~
+Cramped, and somewhat over burdened by classy furniture this small office
+never the less serves its purpose very well.   Used more often as a place to
+change money from foreigners then to deal with local politics it also serves
+as a sort of bank for the community.  A full scale sits atop Bran's Favorite
+desk.
+~
+161 32776 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 16122
+E
+scale~
+The mayor uses this scale to weigh the currency from other countries.
+~
+S
+#16124
+Winespring Inn, Stable~
+No traveler could ever doubt that his or her horse would get royal treatment
+at the Winespring Inn.  Stable boys check the horses every hour to insure
+they are comfortable and well fed.  Currently the stable is devoid of horses.
+~
+161 32776 0
+0d0+0 0 0
+D0
+It looks like it leads to the Inn.
+~
+small wooden door~
+1 -1 16122
+S
+#16125
+Winespring Inn, Kitchen~
+Sweet delicious smells pour from this room like water pours from the
+Winespring.  Extremely well stocked even in this long winter season, the
+Winespring's kitchen is no exeption. The head cook, Mrs. Al'Vere is known to
+be the nicest woman in all of the Two Rivers. With honey cakes baking in a
+stone oven, you are tempted to give her a big hug.
+~
+161 32776 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 16122
+E
+oven stone~
+The smell coming from the oven is delicious as the honey cakes bake.
+~
+S
+#16126
+Winespring Inn, Guest Room~
+All that you'd expect from a guestroom is here. A comfortable looking bed
+with a carved wooden headboard dominates about half of the room. The rest of
+the room is take up mainly by a metal wash basin, various cabinets, and
+closets.  The room is spotlessly clean. You can hear the sounds of the common
+room from down below.
+~
+161 294920 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 16122
+S
+#16127
+North Road, Half-way to Watch Hill~
+After traveling for what seems forever, you finally reach the halfway mark to
+Watch Hill As you travel north the road gets more and more hilly. Maybe
+your mind is just playing tricks on you but you think you hear the sound of a
+Draghkar.  The Road Continues to the north towards Watch Hill.
+~
+161 32768 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 16128
+D2
+~
+~
+0 -1 16121
+E
+Draghkar~
+Fast and deadly, the Draghkar are horrible winged demons.  The Draghkar serve
+as both spies and shock troops for Fades and the Dark One himself.
+~
+S
+#16128
+North Road, By Watch Hill~
+As you walk north you notice the great Watch Hill. Towering over the other
+landscape nearby, the Watch Hill serves as a resting-place to those weary of
+travel.  Atop the hill is a small village.  To the north the road continues
+to Taren Ferry.  You have the ever-present feeling you are being watched.
+~
+161 32769 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 16129
+D2
+~
+~
+0 -1 16127
+E
+village~
+The village twinkles with lights in the darkness.  From here it looks small,
+and insignificant.
+~
+S
+#16129
+North Road, Half-Way to Taren Ferry~
+A knot of trees share space along this road with a huge tangle of brambles.
+Dark shapes move in the undergrowth made more sinister by a decaying body
+lying in the road. The sound of hoofs stamping on the hard dirt of the North
+Road makes you jump.  You can't seem to make any connection with the sound.
+The road continues north to Taren Ferry.
+~
+161 32769 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 16130
+D2
+~
+~
+0 -1 16128
+E
+body corpse~
+It looks freshly killed.
+~
+S
+#16130
+Village of Taren Ferry~
+Finally after much traveling you have reached the Village of Taren Ferry.
+Strange houses loom above you on all sides.  Built high to avoid floodwaters
+during the summer rain, the Village of Taren is mainly a merchant town.
+Citizens look down from their houses and stick their noses up at you for
+being from the Two Rivers.  To the north you can see the Taren Ferry.
+~
+161 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 16131
+D2
+~
+~
+0 -1 16129
+S
+#16131
+Taren Ferry~
+Fog surrounds you on all sides as you step towards the Taren Ferry.  A small
+line sits waiting on the dock for the ferry to come in.  A portly man stands
+here taking the money, and ushering the people onto the ferry.
+~
+161 32773 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 16130
+D6
+~
+~
+0 -1 16176
+E
+ferry~
+Hmm, it looks like Master Hightower has yet to fix that damage that Moiraine
+did to the ferry. It looks like you'll have to swim if you want to get to the
+other side of the river.
+~
+S
+#16132
+On to Baerlon, bank of the Taren~
+After leaving the Taren you find yourself standing on a gently sloping bank.
+Here the land is shrouded in a carpet of salty fog that stretches along the
+Taren for miles in both directions.  Through the mist you see a forest to the
+north.
+~
+161 49173 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 16133
+D9
+~
+~
+0 -1 16176
+E
+forest~
+The forest looks dark, yet comforting.
+~
+S
+#16133
+On to Baerlon, Woods~
+Often flooded by the Taren, the soil of this area is very rich. Depite the
+long hard winter, a few new trees have started to grow here among towering
+pine trees.  Branches thicken the shadows here and the sky is almost
+completely blocked out. To the west you see a cave made by many fallen trees
+and to the north the forest turns to road.  The sound of flowing water fills
+your ears from the south.
+~
+161 32769 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 16135
+D2
+~
+~
+0 -1 16132
+D3
+~
+~
+0 -1 16134
+S
+#16134
+Lan's encampment~
+Secluded from the forest, this cave is serving as a camp for Lan and
+Moiraine.  A campfire blazes merrily in a circle of stone near the center of
+the cave, carefully guarded to prevent light from reaching outside. Leather
+leaf trees encircle the fallen trees that comprise the cave, casting strange
+shadows in the moonlight.  Stony Runes of power encircle the camp, acting as
+magical sentinels. A path leads west, back into the forest.
+~
+161 32768 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 16133
+E
+campfire~
+The campfire adds light to the room.
+~
+E
+runes~
+Made by Aes Sedai, these runes prevent Trollocs and Fades from entering.
+~
+S
+#16135
+On to Baerlon, hill overlooking Baerlon~
+After many days of travel you finally stop to get your bearings. The ground
+here is hilly, and in the distance you can see hundreds of roofs.
+Silhouetted in the setting sun, the City of Baerlon is easily three times the
+size of Emond's Field. A huge wall surrounds the town, ending in gates on the
+south and east sides.  To your north you see the great south gate of Baerlon.
+~
+161 32768 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 16136
+D2
+~
+~
+0 -1 16133
+S
+#16136
+Baerlon, South gate~
+Towering above you the south gate lies open here.  Guarded carefully, this
+busy gate admits people at almost any time of day. A drawbridge crosses a
+moat here, providing a first line of defense before the gate. The city of
+Baerlon stretches before you to the north.
+~
+161 32772 11
+0d0+0 0 0
+D0
+~
+gate south south_gate~
+1 -1 16137
+D2
+~
+~
+0 -1 16135
+E
+moat~
+It looks like the moat is filled with ravenous gators.  Better not fall in!
+~
+S
+#16137
+Baerlon, Narrow Street~
+Barely the width of two wagons this dirty street is bordered by high fences
+on both sides. Empty warehouses and run down shops flank the corners of the
+street.  The fence to the west looks like it might have a hole in it big
+enough for you to squeeze through.  You think you hear, "Walk in the Light"
+coming from the alley to the northwest.   Before you the street continues.
+~
+161 32768 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 16138
+D1
+~
+fence hole~
+1 -1 16147
+D2
+~
+gate south south_gate~
+1 -1 16136
+D7
+~
+~
+0 -1 16141
+S
+#16138
+Baerlon, Center of Town~
+Spanning in all directions, the heart of town is much better off than the
+entrance.  Among the crowd on the streets you see members of almost every
+nation of the world.  Foreign merchants in strange clothing try to hawk
+strange clothing and foodstuffs to weary citizens. As you walk through the
+crowd you hear snatches of conversation about the Stag & Lion Inn, a local
+inn famous for its hospitality.  The road splits north and east here.
+~
+161 32768 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 16139
+D1
+~
+~
+0 -1 16143
+D2
+~
+~
+0 -1 16137
+S
+#16139
+Baerlon, North center~
+A cold wind blows here from the rooftops from the mountains to the far West.
+Weaving in and out of human traffic travelers pull hats and cloaks tighter
+over their heads to avoid the chill as if blown along like leaves in fall.
+Here and there a man dressed in a long white cloak assaults a citizen only to
+be quickly subdued by the city guards. In the distance you can see the east
+bridge to the east.
+~
+161 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 16142
+D2
+~
+~
+0 -1 16138
+D3
+~
+~
+0 -1 16140
+S
+#16140
+Baerlon, North West corner~
+Sheltered by the strong walls to the west and north, the wind is much lighter
+here.  A strange mix of sweet, sour, and sharp smells all mixed together
+pervades the area from the strange inns surrounding you.  The smells make you
+long for the Winespring Inn back in Emond's Field.  A few barrels have fallen
+here, splattering mud on a couple of the Children of Light.  A dark alley
+stretches to the south.
+~
+161 32768 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 16139
+D2
+~
+~
+0 -1 16141
+S
+#16141
+Baerlon, Dark Alley~
+In the shadow of two tall buildings this alley seems to pervade a sense of
+evil.  Strange men in white cloaks talk to a figure cloaked completely in
+black with a fearsome appearance.  You feel uneasy here. To the southeast you
+see Narrow street, and to the north you see the north west corner of town.
+~
+161 32769 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 16140
+D8
+~
+~
+0 -1 16137
+S
+#16142
+Baerlon, Before east gate~
+Bleak and empty, this simple street is only populated by the ever present
+Whitecloaks.  As you walk by an officer accuses an old woman of being a
+darkfriend. To the east you see the east gate, and to the south you see the
+Stag & Lion.
+~
+161 32768 1
+0d0+0 0 0
+D1
+It looks like the east gate
+~
+gate iron east~
+1 -1 16155
+D2
+~
+~
+0 -1 16143
+D3
+~
+~
+0 -1 16139
+S
+#16143
+Baerlon, In front of the Stag & Lion~
+Directly to the south you see the massive Stag & Lion Inn.  Famous for its
+hospitality, the Stag & Lion caters to people of all nations.  To the west
+you see the center of town, and to the south you see the inn.
+~
+161 32768 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 16142
+D2
+~
+door~
+1 -1 16144
+D3
+~
+~
+0 -1 16138
+S
+#16144
+Stag & Lion, Common room~
+Much like the common room of the Winespring Inn, this common room is a place
+where weary travelers can sit and get a bite to eat.  A cheery gleeman stands
+here chanting tales from the Age of Legends, and songs of the hunt for the
+horn.  A staircase leads up to the guestrooms, and to the west you see the
+kitchen.  A door leads out to the north.
+~
+161 12 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 16143
+D3
+~
+~
+0 -1 16145
+D4
+~
+~
+0 -1 16150
+E
+gleeman~
+He seems to be less lively when the white cloaks are in the room.
+~
+S
+#16145
+Stag & Lion, Kitchen~
+A cheery, plump looking woman stands here making delightful smelling foods.
+Pots and pans sit on hooks, and look well used.  To the southwest you see a
+door to the stable, and to the northwest you see a backyard.
+~
+161 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 16144
+D7
+~
+~
+0 -1 16147
+D9
+~
+door~
+1 -1 16146
+S
+#16146
+Stag & Lion, Stable~
+As you walk in you admire the large, well-stocked stalls.  A large rack lies
+against the wall containing various harnesses, riding crops, and other items.
+To the northeast you can see and smell the kitchen.
+~
+161 32777 0
+0d0+0 0 0
+D6
+~
+door~
+1 -1 16145
+S
+#16147
+Stag & Lion, Backyard~
+Whoever did the landscaping here knew what they were doing.  Despite the
+winter, flowers grow here among soft green grasses.  An innocent looking
+woman stands beside a doorframe here looking back at you.  To the southeast
+you can see and smell the kitchen.
+~
+161 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 16148
+D8
+~
+~
+0 -1 16145
+S
+#16148
+Stag & Lion, By doorframe~
+Standing beside a doorframe, the girl makes strange gestures and convulsions.
+After a moment or two she acts more normally and looks at you as if you were
+a thousand miles away.  To the south you see the backyard. A strange haze
+covers the east.
+~
+161 32768 2
+0d0+0 0 0
+D1
+It looks like it is of magical origin.
+~
+strange haze~
+2 16171 16149
+D2
+~
+~
+0 -1 16147
+S
+#16149
+Min's Vision~
+Swirling mist surrounds you as you step into Min's Vision. Strange auras and
+a haze of neon colors cloak everything you see.  Three strange people stand
+here. To the west you can get out of the vision.
+~
+161 55309 0
+0d0+0 0 0
+D3
+It looks like it's of magical origin.
+~
+strange haze~
+2 16171 16148
+S
+#16150
+Stag & Lion, Hallway~
+After climbing the stairs you stand in a small hallway with rooms to the
+south and north.  A small staircase leads to the roof of the inn.
+~
+161 32776 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 16152
+D2
+~
+~
+0 -1 16151
+D4
+~
+~
+0 -1 16153
+D5
+~
+~
+0 -1 16144
+S
+#16151
+Stag & Lion, Empty Room~
+All that you'd expect from a guestroom is here. A comfortable looking bed
+with a carved wooden headboard dominates about half of the room. The rest of
+the room is take up mainly by a metal wash basin and various cabinets, and
+closets.  The room is spotlessly clean. You can hear the sounds of the common
+room from down below.
+~
+161 32769 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 16150
+S
+#16152
+Stag & Lion, Rand's Room~
+At first glance you notice something strange, the room is covered in dead
+rats with broken backs.  Something strange has happened here. A comfortable
+looking bed with a carved wooden headboard dominates about half of the room.
+The rest of the room is take up mainly by a metal wash basin and various
+cabinets, and closets. You can hear the sounds of the common room from down
+below. For some odd reason a mirror is mounted on the ceiling.
+~
+161 32773 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 16150
+D4
+The mirror has a strange unearthly glow to it.  It looks like it leads to
+some far corner of hell.
+~
+mirror~
+2 16172 16154
+E
+mirror~
+The mirror has a strange unearthly glow to it.  It looks like it leads to
+some far corner of hell.
+~
+S
+#16153
+Stag & Lion, Roof~
+From your point at the top of the Inn you can see the surrounding area around
+Baerolon.  In the east you see huge dark shapes moving in the forest.  A
+large gale of cold wind blows violently off the mountains to the west.  A
+carpet of clouds obscures the north. There is a stairway down to the guest
+area.
+~
+161 32768 1
+0d0+0 0 0
+D5
+~
+~
+0 -1 16150
+S
+#16154
+Rand's Hell~
+Like something out of a nightmare you stand in a room cloaked in black
+colored flames.  A shape sits behind a table of carved marble offering you a
+chalice of blood.  You feel like running for your life.
+~
+161 32768 0
+0d0+0 0 0
+D5
+~
+mirror~
+2 16172 16152
+S
+#16155
+Baerlon, East Gate~
+You are standing in the east gate of the City of Baerlon. Due to many
+problems with the drawbridge here, a board has been laid across the moat
+leading slightly south of the normal route the bridge took. (The guards can
+now more easily destroy the bridge should the need arise.) On the otherside
+of the moat dark shapes give you a sense of danger.  You feel the city guards
+may soon block travel out of the city because of the danger.  To the west you
+can enter the city through a large iron gate.
+~
+161 32772 1
+0d0+0 0 0
+D3
+It looks like the East Gate.
+~
+gate iron~
+1 -1 16142
+D8
+It looks somewhat unstable.
+~
+board~
+1 -1 16156
+S
+#16156
+Trolloc Ambush, Dark trail~
+The huge limbs of many Trollocs cleave brambles and trees asunder here.  A
+dark trail leads to the east, and into greater danger. Baerlon lies to the
+Northwest.
+~
+161 40963 3
+1d6+2 3 0
+D1
+~
+~
+0 -1 16157
+D7
+You see the East Gate.
+~
+Gate East~
+1 -1 16155
+S
+#16157
+Trolloc Ambush, Nexus~
+You stand at the nexus of a massive fist of Trollocs.  There must be hundreds of
+them here.  A few of the more brave ones step forward to confront you.  To
+the south you think you can see the leaders. A foot-trail leads to the north,
+and the trail continues to the west.
+~
+161 40961 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 16158
+D1
+~
+~
+0 -1 16161
+D2
+~
+~
+0 -1 16159
+D3
+~
+~
+0 -1 16156
+S
+#16158
+Trolloc Ambush, Foot-trail~
+Here some smarter Trollocs have erected a foot trail leading to a vile
+latrine.  The stench of decay and unwashed bodies is unbearable here.  To the
+south you see the nexus.
+~
+161 40961 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 16157
+S
+#16159
+Trolloc Ambush, Command Post~
+A huge circle of stones has been made here by the Fades to facilitate
+communications with the dark one.  Blood, gore, and bone fragments cover the
+entire area.  Several Fades stare at you with a dark gleam in their eyes.  To
+the north you see the nexus and to the southwest you see a group of Fades.
+~
+161 40961 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 16157
+D9
+~
+~
+0 -1 16160
+S
+#16160
+Trolloc Ambush, Group of Fades~
+A person would have to be crazy or a dark friend to willing come up to these
+vile abominations.  You think you see the merchant that comes to Emond's
+Field every year talking to the fades.   The aura of evil in this room nearly
+chokes you.
+~
+161 40961 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 16159
+S
+#16161
+Trollocs Ambush, Along the trail~
+Here the Trollocs stand in lines waiting to be commanded by the Fades.  Most
+look bored but a few are having fun torturing a small deer towards the
+southern end of the line.  A vile well stands to the north surrounded by
+Trollocs. Dark eyes are shining in the darkness to the northeast and
+southeast.
+~
+161 8197 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 16162
+D3
+~
+~
+0 -1 16157
+D6
+~
+~
+0 -1 16163
+D8
+~
+~
+0 -1 16164
+S
+#16162
+Trolloc Ambush, Vile Well~
+Although the Trollocs have nearly destroyed the forest in this area, some
+wolves have banded together here to try and stop them from the wiping
+everything out.  Several dead Trollocs lie here. Dark shapes move to the
+southwest.
+~
+161 40961 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 16161
+E
+well vile~
+Bones and pieces of flesh float atop a thick pool of blood.  It looks like
+the well is almost completely full of blood.
+~
+S
+#16163
+Trolloc Ambush, Wolf Den~
+Although the Trollocs have nearly destroyed the forest in this area, some
+wolves have banded together here to try and stop them from the wiping
+everything out.  Several dead Trollocs lie here. Dark shapes move to the
+southwest.  You feel it is safe to rest here, provided you arn't evil like
+the Trollocs.
+~
+161 8 4
+0d0+0 0 0
+D9
+~
+~
+0 -1 16161
+S
+#16164
+Trollocs Ambush, Start of a crumbled city~
+You stand at the outskirts of a ruined forest, demolished by the Trollocs.
+To the southeast you see the ruins of Shadar Logoth, A place so evil even the
+Trollocs shun it.  It has to be safer there then here among the Trollocs.
+~
+161 57345 11
+0d0+0 0 0
+D7
+~
+~
+0 -1 16161
+D8
+~
+~
+0 -1 16165
+S
+#16165
+Shadar Logoth, Entrance~
+Once the proud city of Aridhol, Shadar Logoth is now a festering ruin. A
+force known as Mashadar swept through the kingdom and destroyed or enslaved
+everyone. Although it has been empty for many hundreds of years, no treasure
+seekers have yet to escape alive with any of the treasure of the lost
+kingdom. It is said that the proud king of Aridhol still lives here, as a
+puppet for Mashdar. You see more streets to the south and east.
+~
+161 40965 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 16169
+D2
+~
+~
+0 -1 16166
+D7
+~
+~
+0 -1 16164
+S
+#16166
+Shadar Logoth, By a tall tower~
+A crumbling tower stands here, long worn smooth by the erosion of many
+seasons.  A staircase down to below the street lies beside it.  You swear you
+hear, "Come help me carry away my treasure" coming from below the earth.
+There are more streets to the west and north.
+~
+161 40961 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 16165
+D1
+~
+~
+0 -1 16170
+D5
+~
+~
+0 -1 16167
+S
+#16167
+Shadar Logoth, Dungeon~
+Lit by smoky torches this strange place looks more like a disuse treasury
+then a Dungeon. A strange man in royal clothing commands your attention here.
+A iron bound door stands here leading to the south.  A spiral staircase
+leads back to the street.
+~
+161 47117 0
+0d0+0 0 0
+D2
+It looks sturdy despite it's age.
+~
+door iron bound~
+2 16173 16168
+D4
+~
+~
+0 -1 16166
+S
+#16168
+Shadar Logoth, Treasure Room~
+Guarded by the fallen king Mordeth, this treasure room contains the lost
+treasure of Shadar Logoth. Gold, jewels and many other valuable items
+brighten the room by making your light dance on the walls. A iron bound
+door leads back to the dungeon.
+~
+161 14409 0
+0d0+0 0 0
+D0
+It looks very sturdy despite it's age.
+~
+door iron bound~
+2 16173 16167
+S
+#16169
+Shadar Logoth, Empty street~
+With no citizens the streets of Shadar Logoth are very bare.  Crumbling stone
+buildings, and rotted wood lays all around you.  The street continues to the
+west and south.
+~
+161 40961 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 16172
+D2
+~
+~
+0 -1 16170
+D3
+~
+~
+0 -1 16165
+S
+#16170
+Shadar Logoth, Old town center~
+Once a grand market place, the town center is now empty.  The only sign that
+anyone ever lived here is the rotten scraps of wood that were once used to
+support various shop keepers awnings. Dark shadows filter around you in all
+directions.  To the south you see someone's house. A road continues to the
+west.
+~
+161 40961 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 16169
+D1
+~
+~
+0 -1 16174
+D2
+~
+~
+0 -1 16171
+D3
+~
+~
+0 -1 16166
+S
+#16171
+Shadar Logoth, someone's house~
+Decaying clothes and a macabre scene of disarray is the only furnishing
+adorning this house.  Set for a meal the rotted away several centuries ago a
+table sits near the kitchen.  It looks like the family members died and
+disintegrated before they could even put down their forks.
+~
+161 40973 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 16170
+S
+#16172
+Shadar Logoth, by a Collapsed palace~
+This street is mainly acting as a small headquarters for a very small band of
+Trollocs that have been pushed in here by a determined Fade.  A collapsed
+palace sits to the north, and a strange fog obscures the south.
+~
+161 40961 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 16173
+D2
+~
+~
+0 -1 16174
+D3
+~
+~
+0 -1 16169
+S
+#16173
+Shadar Logoth, Collapsed palace~
+Shards of golden tile, and rich carpet litter the floors of a now collapsed
+palace. As you pick your way carefully through the ruble you notice that a
+group of fades has set up a small base here to help them command the
+Trollocs.
+~
+161 8269 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 16172
+S
+#16174
+Shadar Logoth, Cloaked in fog~
+Here the road is cloaked in a vile, evil smelling fog.  A million eyes seem
+to peer out at you from the obscured ruins.  The road seems to continue to
+the Southeast.
+~
+161 40961 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 16172
+D3
+~
+~
+0 -1 16170
+D8
+~
+~
+0 -1 16175
+S
+#16175
+Shadar Logoth, Darker Fog~
+The fog here has become a dark whirlwind threating to suck you to the
+southeast.  To the northeast the path is split by tendrils of Mashadar.  You
+feel like almost certain death awaits you to the southeast.
+~
+161 40961 1
+0d0+0 0 0
+D6
+~
+~
+0 -1 16178
+D7
+~
+~
+0 -1 16174
+D8
+~
+~
+0 -1 16177
+S
+#16176
+The river Taren~
+Finally, you've made it to the center of the river Taren.  Your arms and legs
+hurt from the strain it took just to get here.  As your legs give a second
+twinge of pain you think how plesant it would be to just stop, and slip
+quietly into the abyss.  To the northeast you can see the far bank.
+~
+161 38912 6
+0d0+0 0 0
+D6
+~
+~
+0 -1 16132
+D9
+~
+~
+0 -1 16131
+S
+#16177
+Shadar Logoth, Almost Certain Death~
+You finally understand what killed the people of Shadar Logoth. Too bad it's
+ready to kill you.  Here the fog is solid and ready to try and make you one
+with Shadar Logoth forever.
+~
+161 40965 2
+0d0+0 0 0
+D7
+~
+~
+0 -1 16175
+S
+#16178
+Shadar Logoth, Split by Mashadar~
+Thick, opaque fog surrounds you here on three sides.  As you walk through the
+ruined streets your path back is completely blocked by the tendrils of
+Mashadar. It is said that a single touch of one of the tendrils can kill a
+man instantly. Far away in the distance you hear the horns of Trollocs as a
+group of Myrddraal push them further into Shadar Logoth.
+~
+161 32768 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 16179
+S
+#16179
+Shadar Logoth, Doomed Ambush~
+As you walk down the road a group of Trollocs appear from beside a near by
+building.  With a demonic sounding noise tendrils of Mashadar snake towards
+both you and the Trollocs. It looks like you can flee southeast between a
+group of buildings. If you are really dumb, you could also go east and be
+killed and eaten alive by tendrils of Mashadar.
+~
+161 40961 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 16180
+D3
+~
+~
+0 -1 16178
+D8
+~
+~
+0 -1 16181
+S
+#16180
+Shadar Logoth, Eaten Alive~
+Gee, that was stupid wasnt it. Mashadar surrounds you completely here.  Many
+tendrils surround you, eager to take the last remaining bits of your life
+away. For some odd reason, a skeleton in one corner of the room bares a red
+Star-fleet uniform. After a quick examination of the corpse you find a small
+device that might just get you the heck out of here.
+~
+161 49155 1
+3d25+10 10 1
+E
+skeleton~
+Oh! Its just that stupid guy that gets killed in every episode.
+~
+S
+#16181
+Shadar Logoth, Between two buildings~
+Several Trollocs chase you as you enter the alley, pushed hard by a
+Myrddraal. Above you, tendrils of Mashadar steam forth from the windows of
+the buildings, licking eagerly at the on coming Trollocs.  From the northwest
+you can hear the sounds of dying Trollocs and Fades as they are completely
+consumed by Mashadar.  You can continue to the east, onto a street.  Looks
+like there's no turning back.
+~
+161 40965 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 16182
+D7
+~
+~
+0 -1 16180
+S
+#16182
+Shadar Logoth, Mashadars Feast~
+You run quickly to avoid the on rushing tide of Trollocs and deadly fog.
+Closing your eyes you rush across the street and smile as you hear the
+screams of Trollocs and Myddraal both dying as they are eaten alive by
+Mashadar. Steams of blood, black with corruption flow into the gutter.  To
+the east, the fog appears to be much lighter.  Traveling west back into
+Mashadar isnt advisable.
+~
+161 40965 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 16183
+D3
+~
+~
+0 -1 16180
+S
+#16183
+Shadar Logoth, Empty Street~
+The fog is much less heavy here.  Collapsed buildings on both sides help echo
+the screams of the dead and dying legions of the Dark One that so recently
+followed you only to be eaten by something far more sinister.  In the
+distance you think you hear the sound of running water. The road curves a
+little north as it continues east.
+~
+161 40961 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 16182
+D6
+~
+~
+0 -1 16184
+S
+#16184
+Shadar Logoth, Vine Covered Wall~
+It is clear that at some point this was a grand entrance to the kingdom.  A
+huge hole about the size of a small house has been created by the collapse of
+the city's once proud gate.  A crumbling marble fountain stands here in the
+center of the street, but it appears to have stopped working many years ago.
+You may go through the hole to the east.
+~
+161 32789 1
+0d0+0 0 0
+D1
+~
+hole~
+1 -1 16185
+D9
+~
+~
+0 -1 16183
+E
+hole~
+It is huge.
+~
+S
+#16185
+Dense Forest, Near Arinelle~
+Whew! You finally made it out of Shadar Logoth alive. Here trees have grown
+thick, as a sort of natural defense against the evil of Shadar Logoth. Nearby
+you hear the sound of rushing water. To your west you see Shadar Logoth, and
+to the east the forest continues.
+~
+161 40961 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 16186
+D3
+The hole looks huge.
+~
+hole~
+1 -1 16184
+S
+#16186
+Dense Forest, by the Arinelle river~
+The sound of rushing water overwhelms you here as you stand atop a tall bluff
+above the Arinelle River.  The bluff looks like it is climbable if you would
+like to go down and swim across the icy cold waters or you can jump off the
+bluff to the east. I hope you can fly.
+~
+161 40960 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 16191
+D3
+~
+~
+0 -1 16185
+D5
+~
+~
+0 -1 16187
+S
+#16187
+West side of the Arinelle~
+As you fall from the bluff icy cold water hits you with brutal force.  Strong
+currents rip across against you as you begin the long and dangerous swim.
+Branches cover the bluff above you. You think they could be used to climb up,
+should you not wish to continue the swim to the east.
+~
+161 32770 6
+5d3+5 1 1
+D1
+~
+~
+0 -1 16188
+D4
+~
+~
+0 -1 16186
+S
+#16188
+Middle of the Arinelle~
+It is really, really cold here.  Frigid water attacks you on all sides as you
+desperately attempt to continue your journey.  To the east you think you see
+the bank in the distance.
+~
+161 40962 6
+5d5+10 4 1
+D1
+~
+~
+0 -1 16189
+D3
+~
+~
+0 -1 16187
+S
+#16189
+East side of the Arinelle~
+After traveling the width of the Arinelle you are now in the water below the
+East bank.  Small trees and shrubs provide safe hand holds and foot holds to
+climb to the top of the bank.  Better get out of the water quickly, the water
+is still as cold as ever.
+~
+161 40962 6
+5d5+10 5 1
+D3
+~
+~
+0 -1 16188
+D4
+~
+~
+0 -1 16190
+S
+#16190
+Bare Forest, East Bank of Arinelle~
+This side of the Arinelle is more of a field then a forest.  Hearty knee high
+grass grows here, sheltering many rabbits and other small mammals. The grass
+is only broken occasionally by small clumps of trees. You can climb down the
+bank here to swim the Arinelle or you may jump off the bank to the west.  The
+forest continues to the east, and a small path leads along the bank to the
+south.
+~
+161 40960 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 16193
+D2
+~
+~
+0 -1 16194
+D3
+~
+~
+0 -1 16192
+D5
+~
+~
+0 -1 16189
+S
+#16191
+Flying over the Arinelle, Above West side~
+Far below you, the frigid water of the Arinelle flows by.  Stretching for
+many miles, the Arinelle is a great source of merchant traffic and a
+deterrent to any of the Dark Ones troops that wish to cross. You can continue
+flying to the east if you wish to cross the river, or if you made a mistake
+you are probably about to crash into the icy water below.
+~
+161 565248 9
+0d0+0 0 0
+D1
+~
+~
+0 -1 16192
+D3
+~
+~
+0 -1 16186
+D5
+~
+~
+0 -1 16187
+S
+#16192
+Flying over the Arinelle, Middle~
+Far below you, the frigid water of the Arinelle flows by.  You can continue
+flying to the east if you wish to cross the river, or if you made a mistake
+you are probably about to crash into the icy water below.
+~
+161 565248 9
+0d0+0 0 0
+D1
+~
+~
+0 -1 16190
+D3
+~
+~
+0 -1 16191
+D5
+~
+~
+0 -1 16188
+S
+#16193
+Bare Forest, Pile of Cedar Branches~
+Recently a storm hit this area, ripping branches and needles from many of the
+non-deciduous trees nearby.  A small strand of evergreens provides a small
+amount of cover from the river.  It looks safe here. You can hear the roar of
+the Arinelle to the west.
+~
+161 32788 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 16190
+S
+#16194
+Bare Forest, Along the bank~
+Small strands of hardwood trees comprise what little cover there is here.
+Fear creeps into your heart as you hear the sound of Trolloc horns from the
+other side of the bank.  A few must have survived Shadar Logoth.  A trail
+leads to the southeast.
+~
+161 40960 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 16190
+D8
+~
+~
+0 -1 16195
+S
+#16195
+Bare Forest, A small encampment.~
+The trees are much denser here.  Leather leafs and cedars make a woven
+curtain blocking any view from the river.  Recently someone camped here.  A
+campfire has nearly destroyed a tree here because Egwene forgot to put it
+out. Gee that was stupid.  To the east the forest continues.
+~
+161 40972 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 16196
+D7
+~
+~
+0 -1 16194
+S
+#16196
+Caemlyn Bound, Forest travel part one~
+It's a really long walk to Caemlyn, but it looks like your stuck doing it.
+Trees surround you on all sides. Broken tree limbs and the occasional rabbit
+run are all that make this part of the forest indistinguishable from any
+other part of it. The forest continues to the east.
+~
+161 40961 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 16197
+D3
+~
+~
+0 -1 16195
+S
+#16197
+Caemlyn Bound, Forest travel part two~
+It seems like trees are the only things around you.  The forest is a little
+darker here, as the trees block out the sun. To the north you see some older
+looking trees, and to the east you can continue your journey.
+~
+161 40961 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 16198
+D1
+~
+~
+0 -1 16199
+D3
+~
+~
+0 -1 16196
+S
+#16198
+Caemlyn Bound, A mushroom patch in the forest~
+Old, tall trees make the forest almost dark as night here.  Sheltered by the
+trees, and dampened by the air, various molds and mushrooms grow here in
+abundance.  Among the riff-raff of in-edible mushrooms you think you even see
+some of the much sought after Queens Crowns.
+~
+161 40969 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 16197
+S
+#16199
+Caemlyn Bound, A ruin on a forested hill~
+Here the forest turns to hills covered in trees. After traveling up and down
+a couple of these, you come to a hill with the ruins of stone buildings on
+it.  Long reclaimed by the forest, the ruins show no signs that they are of
+extreme age.  On the side of one large stone tower you see some writing in
+bright red spray paint. The message reads, "Sorry folks, but this is the end
+of the zone, for now.  Commit this room to memory, because in the not so
+distant future it will be the start of the second half of, The Wheel Turns. "
+The doors of a closet are below you, and you think they might just lead to
+the dressing room in Midgaard.
+~
+161 32772 4
+0d0+0 0 0
+D3
+~
+~
+0 -1 16197
+D5
+~
+door closet~
+1 -1 3001
+S
+$

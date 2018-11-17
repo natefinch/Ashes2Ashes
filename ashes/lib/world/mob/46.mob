@@ -1,0 +1,215 @@
+#4600
+wolfos canine animal~
+Wolfos~
+A large drooling canine animal is roaming around here.
+~
+  A large, canine looking animal, this Wolfos is covered in a gray fur. It's
+silver mane gives it an ominous feeling, making you wonder if it is safe to
+be around. It's large, sharp, claws assure you that it means business...
+~
+49194 1032 -250 W3
+30 30 10 100d15+1 4d5+2
+50 20000
+8 8 0
+15 0 15 15 18 15 12
+0 2 3
+100 8 4 -15 0 0
+100 100 100 100 100
+0 0 0
+6 5
+
+~
+#4601
+phantom ganon dark~
+Phantom Ganon~
+A dark, ominous, phantom creature stands here, awaiting a challenger.
+~
+Nothing but a mere emulated mockery of the real Gannondorf, this Phantom has
+all the hatred stored up inside him about his master, and you. He doesn't
+take kindly to visitors, and I don't think he takes kindly to you. He seems
+to glide about the room paying no attention to the laws of gravity and motion
+as you know it. He is quite a hard target to keep track of, but maybe if you
+can hold him still for a while...
+~
+59403 1049736 -1000 W3
+40 15 -2 100d7+200 5d12+6
+6000 70000
+8 8 1
+15 0 15 18 15 14 8
+8 3 1
+-20 12 6 0 0 0
+40 40 40 40 40
+0 0 0
+6 1
+~
+#4602
+skull~
+a Green Bubble~
+A skull floats around here, emitting a strange green aura.
+~
+Nothing but an old skull, Bubbles float about the rooms as though they were
+floating within a large ping-pong ball, or some type of childs bouncing ball.
+They have small, batwing like ears replacing what normal ears they should
+have had, and their eyeballs seem to hover within the sockets because there
+is no muscle to hold them in.
+~
+2334728 1049608 -500 W3
+25 7 1 10d10+100 4d15+10
+50 3000
+8 8 0
+10 0 10 9 10 10 10
+0 1 0
+10 4 2 -20 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#4603
+skull~
+a Blue Bubble~
+A skull floats around here, emitting a strange blue aura.
+~
+Nothing but an old skull, Bubbles float about the rooms as though they were
+floating within a large ping-pong ball, or some type of childs bouncing ball.
+They have small, batwing like ears replacing what normal ears they should
+have had, and their eyeballs seem to hover within the sockets because there
+is no muscle to hold them in.
+~
+2334728 1049608 -500 W3
+25 7 1 10d10+100 4d15+10
+50 3000
+8 8 0
+10 0 10 9 10 10 10
+0 1 0
+10 4 2 -20 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+#4604
+hand wall master~
+Wallmaster~
+A large, severed hand dances about, waiting to lunge at its next victim.
+~
+Looking like nothing more than a large hand, this monster is known to hover
+along walls and hide among the shadows, waiting for someone to throw itself
+at, and to eventually squeeze the life out of them.
+~
+16489 787466 0 W3
+18 20 10 15d10+10 4d8+2
+10000 10000
+8 8 0
+13 0 13 13 13 13 13
+17 2 0
+100 6 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 7
+~
+#4605
+plant deku baba bulb~
+a Deku Baba~
+A strange flower-bulb looking plant grows here.
+~
+These overgrown plants look like flower buds that haven't bloomed. These Deku
+Babas however...have sharp teeth. Too bad they won't let you near enough
+their stem to get a good whack at it, guess you'll just have to hit 'em the
+hard way.
+~
+42 1032 0 W3
+15 0 0 10d6+15 4d10+2
+50 5000
+8 8 0
+13 0 13 13 13 13 13
+0 2 0
+0 4 2 0 0 0
+100 100 100 100 100
+0 17 8
+1 5
+~
+#4606
+poe ghost meg~
+Meg the Poe~
+A ghost wearing a tattered dress spins wildy through the air.
+~
+Meg is one of the four Poe Sisters. She was turned into a ghost, like her
+sisters, by a dark, evil, scary man. She looks to be the girl/ghost in all of
+the pictures around this room. Its almost a shame to have to kill her. But
+then again, she IS already dead...
+~
+49240 1034 -500 W3
+30 20 0 40d6+25 8d4+2
+5000 25000
+8 8 2
+13 0 13 13 13 13 13
+0 1 0
+0 7 2 0 0 0
+100 100 100 100 100
+0 0 0
+7 1
+~
+#4607
+poe ghost beth~
+Beth the Poe~
+A ghost wearing a tattered dress spins wildy through the air.
+~
+Beth is one of the four Poe sisters. Like Meg, Joelle, and Amy, she was
+turned into this ghastly form by a male Gerudo theif, out to take over the
+world. Now she and her sisters spend most of their time in this temple,
+waiting to be sent out of this earthly domain, and go to a place of final
+resting.
+~
+49240 1034 -500 W3
+30 20 0 40d6+25 8d4+2
+5000 25000
+8 8 2
+13 0 13 13 13 13 13
+0 1 0
+0 7 2 0 0 0
+100 100 100 100 100
+0 0 0
+7 1
+~
+#4608
+poe ghost joelle~
+Joelle the Poe~
+A ghost wearing a tattered dress spins wildy through the air.
+~
+Joelle, another of the Poe sisters, is the most daring. Loving to taunt
+people before she attacks them, she would appear in her own portraits and
+move around, just to play tricks on people. Once they were thoroughly
+confused, she would strike, while they were too dazed to fight back.
+~
+49240 1034 -500 W3
+30 20 0 40d6+25 8d4+2
+5000 25000
+8 8 2
+13 0 13 13 13 13 13
+0 1 0
+0 7 2 0 0 0
+100 100 100 100 100
+0 0 0
+7 1
+~
+#4609
+poe ghost amy~
+Amy the Poe~
+A ghost wearing a tattered dress spins wildy through the air.
+~
+Amy is the puzzlemaster of the Poe sisters. She would set huge block puzzles
+and give her victims a chance to fight for their freedom. If they solved her
+puzzle in the time allotted, she would fight them face to face. If they
+failed to solve the puzzle, well.....
+~
+49240 1034 -500 W3
+30 20 0 40d6+25 8d4+2
+5000 25000
+8 8 2
+13 0 13 13 13 13 13
+0 1 0
+0 7 2 0 0 0
+100 100 100 100 100
+0 0 0
+7 1
+~
+$

@@ -1,0 +1,505 @@
+#6400
+parent~
+a parent~
+A parent is looking for its child.
+~
+You see a generic parent.
+~
+8 0 0 W3
+5 2 8 2d20+20 2d5+1
+2000 1000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#6401
+brat~
+a brat~
+A little brat is here, having lots of fun.
+~
+You see an annoying little bratty child.  She seems like she is lost.
+~
+8 0 0 W3
+1 1 9 1d15+2 1d1+1
+1000 100
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#6402
+kid~
+a kid~
+A kid is here, bothering you.
+~
+You see a young kid.
+~
+8 0 0 W3
+1 1 9 2d8+5 1d1+1
+1000 90
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#6403
+mother~
+a mother~
+A mother is here.
+~
+You see a mother.
+~
+8 0 0 W3
+4 2 8 2d10+10 4d2+0
+2000 500
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#6404
+janitor~
+a janitor~
+A janitor is taking his break.
+~
+You see a dirty teenager smoking a cigarette.
+~
+136 0 0 W3
+2 2 8 2d5+2 2d3+0
+2000 300
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#6405
+father~
+a father~
+A father is here counting his cash.
+~
+You see an average father.
+~
+8 0 0 W3
+3 2 8 5d2+15 1d6+1
+100 560
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#6406
+monster big matterhorn white~
+the Matterhorn Monster~
+A big, horrible white monster is here growling at you!
+~
+You are scared shitless of this horrifying white beast.
+~
+10 0 -500 W3
+11 10 5 10d10+100 1d5+10
+750 8500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 10
+~
+#6407
+c3p0~
+C3P0~
+C3P0 is here guiding you on your tour of the stars.
+~
+You see a golden robot.
+~
+6154 0 200 W3
+8 6 5 6d6+30 4d4+1
+129 4500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#6408
+child~
+a child~
+A child is here.
+~
+You see a young child that seems to be lost.
+~
+8 0 20 W3
+1 1 9 2d4+1 1d1+1
+15 200
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#6409
+r2d2~
+R2D2~
+R2D2 is rolling around making chirping noises.
+~
+You see a small, white robot about the size of a trashcan.
+~
+6154 0 0 W3
+8 6 5 6d6+30 4d4+1
+150 4500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#6410
+drug pusher~
+the drug pusher~
+A drug pusher is here dealing with the kids.
+~
+You see a nappy stoner dude.
+~
+8 0 -200 W3
+2 2 8 4d2+2 1d1+1
+25 275
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#6413
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#6414
+captain eo~
+Captain EO~
+Captain EO is here entertaining the youngsters.
+~
+You see a pathetic excuse for a human being molesting some young children.
+~
+2058 0 -100 W3
+24 13 4 5d200+50 20d2+1
+21000 41000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#6415
+spook ghost~
+a spook~
+A ghostly spook is floating about.
+~
+You should run!
+~
+1544 2 -200 W3
+7 10 7 3d25+25 2d3+0
+0 3000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#6416
+dumb pirate~
+the dumb pirate~
+The dumb pirate is here drink ale and pillaging.
+~
+You see a moronic one-eyed man.
+~
+2058 0 -300 W3
+13 18 7 2d75+50 4d6+0
+350 14000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#6417
+snow white~
+Snow White~
+Snow White is looking for her dwarves.
+~
+You see a pale woman wearing a cheap costume.
+~
+26632 0 0 W3
+42 20 0 8d100+200 20d2+5
+16425 91000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#6418
+pluto~
+Pluto~
+Pluto is looking for a beastly fido.
+~
+Pluto licks you up and down.
+~
+8 0 200 W3
+16 12 8 4d100+100 4d5+10
+100 21000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#6419
+goofy~
+Goofy~
+Goofy is here being goofy.
+~
+You see a funny looking thing... What the hell is it?
+~
+2056 0 200 W3
+21 12 6 5d200+300 3d5+10
+30000 33500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#6420
+chip~
+Chip~
+Chip the chipmunk is here.
+~
+You see a funny chipmunk.
+~
+2056 0 200 W3
+15 15 5 8d50+30 5d5+2
+0 18500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#6421
+dale~
+Dale~
+Dale the chipmunk is here, hugging little children.
+~
+You see a funky chipmunk smoking crack.
+~
+2056 0 200 W3
+15 16 7 8d50+30 5d5+0
+0 18500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#6422
+big al~
+Big Al~
+Big Al is playing banjo for all the kids.
+~
+You see a fat brown bear playing banjo.
+~
+10 0 10 W3
+15 19 8 8d40+100 5d2+8
+0 18500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#6423
+indian~
+an indian~
+An indian is here trying to scalp people.
+~
+You see the classic all-american indian brave.
+~
+8 0 0 W3
+7 19 10 3d10+20 3d2+1
+120 3000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 10
+~
+#6424
+zulu warrior~
+Zulu warrior~
+A Zulu warrior is running around naked.
+~
+You see an African Zulu tribal warrior.
+~
+2056 0 -50 W3
+19 15 9 10d100+50 5d4+5
+200 28500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 10
+~
+#6425
+mad hatter~
+the Mad Hatter~
+The Mad Hatter is here grinning away.
+~
+You see a silly old man with a huge hat.
+~
+2250 128 0 W3
+78 40 -5 10d10+1000 5d5+10
+25000 271000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#6426
+axe murderer~
+the Axe Murderer~
+The Axe Murderer is here killing everyone in sight!
+~
+You see what could happen to you with all this silly chanting!
+~
+2090 0 -999 W3
+13 19 8 3d85+20 2d4+2
+350 13500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+80 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 10
+~
+#6427
+donald duck~
+Donald Duck~
+Donald Duck is here cursing madly.
+~
+You see a large, white duck.  He appears to be quaking and saying profane
+things to you.
+~
+2056 0 200 W3
+18 12 5 3d100+150 3d10+5
+725 26000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#6436
+mickey mouse~
+Mickey Mouse~
+Mickey Mouse is standing before you.
+~
+You see Mickey Mouse.
+~
+26638 1192 1000 W3
+90 47 -10 10d5+1000 7d7+11
+25000 75000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#6440
+red redferne shopkeeper junior~
+Redferne Jr.~
+Redferne Jr. is here, selling gifts to children.
+~
+Apparently, Lord Redferne didn't like what his son was doing..so here he
+is
+~
+2058 65544 900 W3
+127 18 -25 1d1+30000 4d4+40
+200000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-250 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

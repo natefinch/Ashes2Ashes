@@ -1,0 +1,39 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:606: gcc -E conftest.c
+configure:720: gcc -o conftest -g -O   conftest.c -lnsl   1>&5
+/usr/i486-unknown-linux-gnulibc1/bin/ld: cannot open -lnsl: No such file or directory
+configure:762: gcc -o conftest -g -O   conftest.c -lsocket   1>&5
+/usr/i486-unknown-linux-gnulibc1/bin/ld: cannot open -lsocket: No such file or directory
+configure:804: gcc -o conftest -g -O   conftest.c -lmalloc   1>&5
+/usr/i486-unknown-linux-gnulibc1/bin/ld: cannot open -lmalloc: No such file or directory
+configure:846: gcc -o conftest -g -O   conftest.c -lcrypt   1>&5
+/usr/i486-unknown-linux-gnulibc1/bin/ld: cannot open -lcrypt: No such file or directory
+configure:892: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:940: gcc -o conftest -g -O   conftest.c  1>&5
+configure:966: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1031: gcc -o conftest -g -O   conftest.c  1>&5
+configure:1072: gcc -c -g -O  conftest.c 1>&5
+configure:1104: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1104: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1104: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1104: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1100: net/errno.h: No such file or directory
+configure:1104: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1141: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1141: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1141: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1137: sys/select.h: No such file or directory
+configure:1141: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1141: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1178: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1178: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1174: crypt.h: No such file or directory
+configure:1178: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1178: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1258: gcc -c -g -O  conftest.c 1>&5
+configure:1354: gcc -c -g -O  conftest.c 1>&5
+configure:1397: gcc -c -g -O  conftest.c 1>&5
+configure:1443: gcc -o conftest -g -O   conftest.c  1>&5
+configure:1494: gcc -o conftest -g -O   conftest.c  1>&5

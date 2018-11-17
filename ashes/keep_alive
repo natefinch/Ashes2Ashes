@@ -1,0 +1,15 @@
+#!/bin/sh
+#
+
+cd $HOME/ashes
+ps x >> ps_output
+./bin/autocheck
+# ./bin/autocheck.b
+rm ps_output
+if [ ! -r .autorunning ]; then
+  ./autorun &
+fi
+# if [ ! -r .building ]; then
+#   ./buildrun &
+# fi
+exit

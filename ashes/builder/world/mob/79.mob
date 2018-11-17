@@ -1,0 +1,89 @@
+#7900
+aggressive test monster~
+an aggressive~
+An aggressive monster is here, he ATTACKS!.
+~
+You see a mob of blank look, he just attacks cause that is how he is
+programmed.
+~
+26793 786560 -1000 W
+55 40 -15 10d10+1000 7d7+50
+100 100000
+8 8 0
+13 0 13 13 18 13 0
+20 5 0
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#7909
+grand knight paladin~
+the Grand Knight of Paladins~
+The Grand Knight is standing here, waiting for someone to help.
+~
+The Knight is standing here, smiling at you.  He is dressed all in white, blue
+and silver.  He looks VERY strong, as he stands here, ready to help the
+innocent.
+~
+6447 136 1000 W
+51 20 -2 16d8+2916 2d9+35
+31570 100000
+8 8 1
+13 0 13 13 13 13 0
+10 5 0
+-20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#7911
+statue~
+a small statue of Odin~
+A statue of Odin is here.  It seems to be focussing some energy from the sun.
+~
+You see a small statue, worn by pollution and acid rain.
+~
+2063 128 1000 W
+55 40 -15 1d100+1000 20d2+100
+0 10000
+8 8 1
+18 100 18 18 13 13 0
+10 5 0
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#7912
+lady redferne~
+Lady Redferne~
+Lady Redferne, follower of her Lord, is sleeping here.
+~
+You see a young woman, with sun in her eyes, and love in her heart.
+~
+2063 128 1000 W
+100 40 -15 100d100+2000 20d2+40
+250000 100000
+5 8 2
+18 100 18 18 13 13 0
+8 2 0
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#7913
+lord redferne lordredferne~
+Lord Redferne~
+Lord Redferne, follower of Odin, is here.
+~
+You see an old wise man who is thinking of eternity.
+~
+262415 16842920 1000 W
+100 60 -27 1d100+10000 20d2+100
+250000 1000000
+8 8 1
+18 100 18 18 13 13 0
+8 2 0
+-270 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+$

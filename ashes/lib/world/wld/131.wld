@@ -1,0 +1,2464 @@
+#13100
+The old reading room~
+ This room was once the room where players and immortals posted notices to
+one another.  Now there is only dust and decay.  Broken wood that used to
+be desks and benches now lies in heaps upon the floor, and in the center of
+the room is a length of sawdust that used to be a bulletin board.  The
+remains of the temple lie to the east, and a small glowing chamber lies
+to the west.
+~
+131 6156 0
+0d0+0 0 0
+D1
+~
+You see the Temple of Midgaard.
+~
+0 -1 13101
+D3
+Looks like another room with a very important board in it.
+~
+~
+0 -1 13135
+S
+#13101
+The Shattered Temple~
+ This shattered marble pile is all that remains of the once-mighty Temple
+of Midgaard.  Before the Immortal's Holocaust, this was the central meeting
+place for the Rhovanian community.  Only two walls can be seen partially
+standing, as well as one doorway.
+ Through that doorway, to the north, is where the temple altar was. To the
+east was located the donation room, the west was the temple reading room,
+below lay the entrance to the mud school, and south leads to the remains
+of the city of Midgaard.  All is quiet and still.
+~
+131 8 0
+0d0+0 0 0
+D0
+At the northern end of the temple hall is a statue and a huge altar.
+~
+~
+0 -1 13154
+D1
+In the east, you see a small alcove with a rickety wooden sign which
+reads "Midgaard Donation Room."
+~
+~
+0 -1 13163
+D2
+You look down the huge stone steps at the temple square below.
+~
+~
+0 -1 13105
+D3
+You see the Reading Room.
+~
+~
+0 -1 13100
+D5
+You see the entrance to the old mud school below you.~
+~
+0 -1 13136
+S
+#13102
+Cleric's Inner Sanctum~
+This is the inner sanctum.  You are surprised to see that it doesn't appear 
+to have been affected by the war at all.  The picture of Thor still hangs on
+the wall, and the altar is still set against the western wall.  You are even
+more surprised to see the guildmaster still here looking much as he always
+has.  You realize that it must have been the power of his magic that protected
+this room from the same fate of the city.  You look at him in awe and realize
+that he will never again share his knowledge.
+~
+131 6156 0
+0d0+0 0 0
+D1
+~
+You see your favorite place, the bar of divination.
+~
+0 -1 13103
+S
+#13103
+Old Cleric's Bar~
+ This used to be one of the finest members only bars in the city.  Clerics
+from all over the land would come here and share tales of their victories and
+defeats, while enjoying their favourite drink.  But now all you see is more
+of the destruction that has ravaged the rest of the city.  Plunderers have
+carried off anything that was not nailed down, and even some that was.  You 
+feel sad that you were never able to experience the joys of sitting around
+the fire listening to tales of heroics, and feeling safe from the evils of
+the land.  To the west you see the clerics inner sanctum, and to the south is
+the old entrance hall to the guild.
+~
+131 8 0
+0d0+0 0 0
+D2
+~
+You see the entrance.
+~
+0 -1 13104
+D3
+~
+You see the inner sanctum.
+~
+0 -1 13102
+E
+sign~
+The sign reads:
+Free instructions provided by the waiter:
+
+   Buy  - Buy something (drinkable) from the waiter.
+   List - The waiter will show you all the different drinks and
+          specialties, and tell the price of each.
+~
+S
+#13104
+The entrance to the old Clerics Guild~
+This used to be the entrance hall to the Clerics Guild, small and modest as 
+was the nature of the clerics of yore.  The Knight Templar who once protected
+this holy place has long since failed his task.  Judging by the huge pile of
+skeletons surrounding his corpse he did not fall easily.  You realize that 
+this is the first corpse you have seen in all this desolation that is not
+rotted beyond all recognition.  You can only assume that the magic of this
+place has protected him from the same fate as his foes.  To the north you see
+the old clerics bar, and to the west is the ruined temple square.
+~
+131 8 0
+0d0+0 0 0
+D0
+~
+You see the bar, richly decorated with really stylish furniture.
+~
+0 -1 13103
+D1
+~
+You see the Temple Square.
+~
+0 -1 13105
+S
+#13105
+The ruined Temple Square~
+ You are standing in the ruins of the temple square.  This close to the
+temple, it's a wonder the square remains intact at all.  As you gaze upon
+the devastation caused by the immortal's negligence, you catch faint
+glimpses of skeletal remains of both humans and animals.  The only thing that
+looks familiar is the trusty well, still standing in the center of the
+square.  Perhaps the water is still safe to drink, but perhaps it isn't...
+The old cleric guild lies to the west and the entrance to the remains of the
+Grunting Boar Inn is to the east.  What's left of Market Square is south.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the temple.
+~
+0 -1 13101
+D1
+~
+You see the good old Grunting Boar Inn.
+~
+0 -1 13106
+D2
+~
+You see the Market Square.
+~
+0 -1 13114
+D3
+~
+You see the entrance to the Clerics Guild.
+~
+0 -1 13104
+S
+#13106
+A ragged Entrance Hall~
+You are standing in the open space that once used to be the simple, yet 
+functional entrance hall to the Grunting Boar Inn.  The ceiling and most of 
+the walls were destroyed during the initial confrontation, and the rest has
+slowly deteriorated over the years.  To the north you see some old undelivered
+letters and parcels, to the east you see a crookedly leaning bar.
+~
+131 8 0
+0d0+0 0 0
+D0
+~
+You see the Midgaard Post Office.
+~
+0 -1 13162
+D1
+~
+Surprise!  You see the bar.
+~
+0 -1 13107
+D3
+~
+You see the temple square.
+~
+0 -1 13105
+D4
+~
+1009~
+0 -1 13108
+S
+#13107
+The old Grunting Boar Inn~
+ Ah, what a wonderful place this must hav been.  As you let your gaze wander
+about the remains of this tavern, you can almost hear the bawdy laughter and
+wonderful music that once must have been heard here.  Unfortunately, all
+that now remains is in pieces.  Splintered remains of tables, chairs and
+benches lie scattered about the room, as if a brawl had just taken place.
+The only piece of intact furniture, standing in front of a broken mirror
+and a faded sign is the bar, which leans unsteadily, looking like any
+shock would reduce it to the same state as the tables and chairs here.
+~
+131 8 0
+0d0+0 0 0
+D3
+~
+1006~
+0 -1 13106
+E
+sign~
+The sign reads:
+Free instructions provided by the Grunting Boar Inn.
+
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+          specialties, and tell the price of each.
+~
+E
+writing carving carvings symbols symbol~
+Although it is very hard to understand, you think it looks a lot like beer,
+poems about beer, and small beer-mugs.
+~
+S
+#13108
+The Reception~
+You are standing in the remains of the Cryogenic Centre Reception area.  All
+signs of life have long since disapeared from this once busy place.  An exit
+to the north looks cold and uninviting.  The stairs to the south look like 
+they can barely hold themselves up, let alone carry your weight.
+~
+131 8 0
+0d0+0 0 0
+D0
+~
+1010~
+0 -1 13164
+D5
+~
+You see the entrance hall.
+~
+0 -1 13106
+E
+sign~
+Rooms are expensive but good!  You may:
+
+   Offer - get an offer on a room - Time is in real life days.
+   Rent  - Rent a room (saves your stuff, and quits the game),
+           minimum charge is one day.
+
+
+                          MY WAY OR THE HIGHWAY
+                             PAY YOUR RENT!
+                WE WON'T THINK TWICE BEFORE KICKING YOU OUT.
+~
+S
+#13109
+A desolate bakery~
+ This room once smelled of fresh bread and pastries, tempting the nostrils
+and stomachs of anyone who passed by.  Now only dust fills your senses, and
+nothing that will help sustain life is available here.  The remains of
+a person you can only assume was the Baker lie here, picked clean by some
+animals (you can only assume Fidos).  Sadly, this shoppe is permanently
+closed to the public, forever.
+~
+131 8 0
+0d0+0 0 0
+D2
+~
+You see the main street.
+~
+0 -1 13113
+E
+sign~
+Free instructions provided by the store:
+
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+          his bakery.
+~
+E
+danish pastry~
+You see that this is truly delicious pastry.  Must be made by a Dane from
+Denmark (which surely is not the capital of Sweden!).  Former ruler of
+Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
+Iceland, Estonia etc.  etc.
+   The sight of those large, wholesome chokoladeboller makes your mouth water
+and your soul sing.
+
+~
+S
+#13110
+The old Grocers Shoppe~
+ This was once the general store for Midgaard.  Now, the shelves stand filled
+only with dust and cobwebs.  The counter leans crazily as if about to fall,
+and a lone skeleton can be seen peeking out from behind the end of the
+counter.  There is a faded sign here that looks almost readable...
+~
+131 8 0
+0d0+0 0 0
+D2
+~
+You see the main street.
+~
+0 -1 13115
+E
+note sign~
+The sign reads:
+
+  Li t  -  how w ich var ou ite s  r  in  he st r .
+  Buy   - B y a  i em.
+  V  ue - Th  s opk eper  ill (f ee  f cha ge) te l ho  uch he w ll
+          pa  f r y ur it m.
+  Sel   - Se l an i em.
+~
+S
+#13111
+An old Weapons Shoppe~
+ This is the remains of the old weapons shoppe.  In addition to the remnants
+of the counter and the shelves, several broken blades lie scattered about
+here.  You remember how the Shoppe-keeper used to scowl about how some of the
+weapons adventurers brought in weren't worth anything.  Here is the proof of
+the truth of his statements.  To the south, eastern Main Street can be seen.
+~
+131 8 0
+0d0+0 0 0
+D2
+~
+You see the main street.
+~
+0 -1 13116
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#13112
+The old West Main Street~
+ This is the old West Main Street.  Once, the flow of magi that entered both
+the now deserted Mage Guild to the south and the ruins to north that used to
+be the Magic Shoppe would have interrupted your movement down this street.
+Now, however, there is no one here, and no sound except the whistling of the
+wind and the occasional barking of a lone fido.  Main Street leads west to
+Wall Road and east towards the old Market Square.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the magic shop.
+~
+0 -1 13133
+D1
+~
+You see the main street.
+~
+0 -1 13113
+D2
+~
+You see the entrance to the Guild of Magic Users.
+~
+0 -1 13117
+D3
+~
+You see the city gate.
+~
+0 -1 13140
+S
+#13113
+The old West Main Street~
+ This is beginning of what was once the western half of the main street
+through Midgaard.  To the west the street continues, and to the east the
+old market square stands, filled with memories of death.  North is the
+old Bakery, and south is the fortified remains of the Armoury.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the bakery.
+~
+0 -1 13109
+D1
+~
+You see the market square.
+~
+0 -1 13114
+D2
+~
+You see the armory.
+~
+0 -1 13120
+D3
+~
+You see the main street.
+~
+0 -1 13112
+S
+#13114
+A corpse-filled square~
+ This square is a scene out of a gothic horror story!  It appear that when
+the holocaust hit, most of the citizens of Midgaard were here, hoping to
+be saved by their gods, but from the looks of it, none were.  You can
+barely crawl through this incidental graveyard, so thick are the skeletons
+draped over each other.  This is the most macabre scene you've ever
+witnessed.  The remains of the Temple Square lie to the north.  Main street
+runs, as ever, east and west and the old Common Square lies to the south.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the temple square.
+~
+0 -1 13105
+D1
+~
+You see the main street.
+~
+0 -1 13115
+D2
+~
+You see the common square.
+~
+0 -1 13125
+D3
+~
+You see the main street.
+~
+0 -1 13113
+E
+statue~
+What you see is the Midgaard Worm, stretching around the Palace of Midgaard.
+~
+S
+#13115
+The old East Main Street~
+ You are on the old main street.  It was down this street that one would
+travel to get to such places as the Portal to the Comic Realms, the hills
+and caves of Moria, the entrance to The Land, the Dwarven Mines, and the
+Castle of King Welmar, with his giant chessboard.  Now, however, you doubt
+if those places still exits.  The street is lines with various skeletons,
+lying in grotesque positions, and you can see doors to the north and south.
+Main street continues it's sad journey east, and the old common square is
+to the west.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the general store.
+~
+0 -1 13110
+D1
+~
+You see the main street.
+~
+0 -1 13116
+D2
+~
+You see the Pet Shop.
+~
+0 -1 13131
+D3
+~
+You see the market square.
+~
+0 -1 13114
+S
+#13116
+The old East Main Street~
+ This was once the main drag through town for anyone wishing to visit one
+of the myriad places east of Midgaard, but now the dust lies heavy and
+visable on the street, broken up by only the footprings of Fidos and an
+occasional bipedal life form.  The street continues both east and west,
+the old Weapons Shoppe lies to the north and the remains of the Warriors
+Guild lies to the south.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the weapon shop.
+~
+0 -1 13111
+D1
+~
+You see the city gate.
+~
+0 -1 13141
+D2
+~
+You see the swordsmen's guild.
+~
+0 -1 13121
+D3
+~
+You see the main street leading to the market square.
+~
+0 -1 13115
+S
+#13117
+The entrance to the old Mage's Guild~
+ This entrance hall was dim even before the war, but now it is simply a dark
+and broody place.  The walls are scarred with marks of what could only have
+been magical fire.  You look at the marks and realize that they are different
+from those all over the rest of the city.  Among a huge mound of rotten 
+skeletons you find the intact corpse of the sorcerer that once guarded this
+guild.  You assume that he fought a great battle defending his guild from
+intruders and slew a great many of his foes.  The magic of the guild must have
+kept his corpse intact through all these years.  To the north you see the ruins
+of the old main street, and to the south you see the old mage's bar.
+~
+131 8 0
+0d0+0 0 0
+D0
+~
+You see the main street.
+~
+0 -1 13112
+D2
+~
+You see your favorite place, the Mage's Bar.
+~
+0 -1 13118
+S
+#13118
+A deserted bar~
+The magic that once made this bar a place where mages from all over the land
+came to share tales of victory and defeat has faded long ago.  The only thing
+that remains is an empty barrel and a few broken chairs.  You think about the
+talse of heroics that were once told here by the light of magical fires and
+lights and feel suddenly sad.  To the east you see the mage's inner sanctum,
+and to the north lies the old entrance to the guild.
+~
+131 8 0
+0d0+0 0 0
+D0
+You see the lobby.
+~
+~
+0 -1 13117
+D1
+You see the laboratory.
+~
+~
+0 -1 13119
+S
+#13119
+Mage's Laboratory~
+ To you surprise this room is much the same as it was in the days before the 
+war.  It may be a bit messier, but it doesn't appear to have been affected by
+the war the same way the rest of the city was.  It still looks very much like
+a place where mages slaved over potions, or created formulas for new, more
+powerful spells.  You look around the mess and see lab benches covered with
+various beakers, potions, wands and other tools of the mage trade.  There are
+still magical symbols covering the floor and some of the walls.  Suddenly you
+realize that you are not alone here.  The Master of the Mage's Guild looks at
+you with cold eyes, and you think it wise not to bother him by requesting
+his teachings.  You realize that his awsome power alone could have kept this
+sanctum of mages save throughout the destruction of the city.  To the west is
+the old mage's bar.
+~
+131 6156 0
+0d0+0 0 0
+D3
+You see the bar.
+~
+~
+0 -1 13118
+S
+#13120
+A fortified Armoury~
+ From the looks of this building, the Master Armorer obviously tried to defend
+his shop from the mobs who formed as people started dying.  Unfortunately
+for him, it doesn't appear as though he was successful.  The building is
+still structurally intact, but the interior has been razed.  What little is
+left of the counter and shelves is in splinters, and no sign of the Armorer
+of any of his steel and bronze wares can be seen.
+~
+131 8 0
+0d0+0 0 0
+D0
+~
+You see the main street.
+~
+0 -1 13113
+E
+note~
+  You can use these commands for trading:
+
+  value <item>     To get the price of an item in your possession.
+  sell <item>      To sell something.
+  buy <item>       To buy something (provided that the shop has it in store).
+  list             Gives you a listing of the shop's inventory.
+
+        WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+                             NO HAGGLING
+~
+S
+#13121
+The remains of the entrance to the Warriors Guild~
+ This used to be the entrance hall to the Guild of Swordsmen.  The roof and
+three of the walls were destroyed, but you can see that even before the war
+this room was built for funtionality, not comfort.  Looking through the
+rotting skeletons in this room you find the corpse of a great knight.  His
+body is torn with wounds beyond count.  He must have been a great warrior
+indeed to have slain so many of his foes before he himself was overwhelmed by
+the sheer numbers of them.  To the north lies the old main street, and to the
+east is the bar of swordsmen.
+~
+131 8 0
+0d0+0 0 0
+D0
+~
+You see the main street.
+~
+0 -1 13116
+D1
+~
+You see the swordsmen's bar, many noises comes from there.
+~
+0 -1 13122
+S
+#13122
+The old Bar of Swordsmen~
+ This once used to be a beautiful bar where all sorts of fighting men came
+from all over the land to share tales of heroic deeds and fair maidens in 
+distress.   Now the only thing that remains is some broken furniture and a
+lot of rubble.  You look at the huge stone fireplace and your heart fills
+with despair, knowing that the great warriors who once travelled many miles
+to share tales and news of distant lands are no more to protect this once
+beautiful city.  To the west is the entrance hall to the guild, and to the
+south is the practice yard.
+~
+131 8 0
+0d0+0 0 0
+D2
+You see the practice yard.
+~
+~
+0 -1 13123
+D3
+You see the entrance hall to the thieves guild.
+~
+~
+0 -1 13121
+S
+#13123
+The Tournament and Practice Yard~
+ As you walk into this room your senses are assulted by an overpowering air of
+death.  The room is practically covered with dried blood and other unnamable
+substances.  Hundreds upon hundreds of rotting skeletons cover the floor.  In
+the middle of this mayhem, you see a knight more tall and powerful than any
+you have ever seen before.  He is wearing a magnificent suit of armor which is
+now dented and scarred in many places and thoroughly covered with blood.  His
+hands rest on the hilt of an enormous broadsword covered with intricate
+tracery.  He must love the sword more than himself, for it is as spotless as
+he is filthy.  You realize that he must have kept this place safe only through
+brute force and skill the likes of which only he posesses now.  The only exit
+leads back to the bar in the north.
+~
+131 6156 0
+0d0+0 0 0
+D0
+You see the bar.
+~
+~
+0 -1 13122
+S
+#13124
+Eastern End of Poor Alley~
+ This is the western side of the old Common Square, which lies directly to
+the east.  South of here is the first building you've seen with a door still
+on it, a place known as the Grubby Inn, and to the north, smelling faintly
+of decay, is where the Paladin Guild used to be.  Poor Alley continues west.
+~
+131 0 1
+0d0+0 0 0
+D0
+You see the entrance to the Paladins Guild.
+~
+~
+0 -1 13157
+D1
+~
+You see the common square.
+~
+0 -1 13125
+D2
+South, a door leads into the Grubby Inn.
+~
+door~
+1 -1 13148
+D3
+~
+You see the poor alley.
+~
+0 -1 13144
+E
+circle gate~
+The sparkling circle seems to be some sort of rift. Trough it you see a 
+swirling haze, occasionally parting to reveal a strange and alien landscape 
+under a hostile grey sky.  The loud crackling noise that the circle's spark
+cause convinces you that trying to squeeze through it could be perilous.
+~
+S
+#13125
+A dirty square~
+ This used to be the common square, where the normal folk of Midgaard would
+meet to talk and thieves lay in wait for the unsuspecting.  Now all that
+remains are a few skeletons that have spilled over from the north and an
+acrid stench wafting from the south where the old city dump used to be.
+Poor Alley still extends east and west from here, but what lies down these
+once thriving avenues is a mystery.  Whatever it is, it's not human.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the market square.
+~
+0 -1 13114
+D1
+~
+You see the dark alley.
+~
+0 -1 13126
+D2
+~
+You see the city dump.
+~
+0 -1 13130
+D3
+~
+You see the poor alley.
+~
+0 -1 13124
+S
+#13126
+The Dark Alley~
+ This is the beginning of what was once known as the Dark Alley.  The rubble
+strewn common square is to your west, and the alley continues eastwards.  The
+entrance to the old Thieve's Guild is in the south.
+~
+131 0 1
+0d0+0 0 0
+D1
+~
+The alley continues east.
+~
+0 -1 13145
+D2
+~
+You see the entrance to the thieves guild.
+~
+0 -1 13127
+D3
+~
+You see the common square.
+~
+0 -1 13125
+E
+guild~
+It is the thieves guild, don't enter if you care about your health or money.
+~
+S
+#13127
+The ruined entrance hall of the Thieves Guild~
+ This used to be a dangerous place for people to come since it was a favourite
+hangout of thieves and other people of low morals.  You look around and notice
+the corpse of the assassin that once protected his guild from intruders.  The 
+huge pile of rotten skeletons surrounding him prove that he at least was loyal
+to his guild til the bitter end.  To the north lies the dark alley, and to the
+east is the old Thieve's Bar.
+~
+131 8 0
+0d0+0 0 0
+D0
+~
+You see the alley.
+~
+0 -1 13126
+D1
+~
+You see the thieves bar, where everything disappears.
+~
+0 -1 13128
+S
+#13128
+A shattered bar~
+ This is the bar where thieves from all over the land once came to brag to 
+each other about their latest exploits of theft, deceit and murder while
+enjoying a potent firebreather.  You are glad that you were not there to hear
+those tales, but at the same time you are saddened that even this part of the
+city fell to the war, dismal as it might have been.  To the west you see the
+entrance hall to the old guild, and to the south is the yard.
+~
+131 8 0
+0d0+0 0 0
+D2
+~
+You see the secret yard.
+~
+0 -1 13129
+D3
+~
+You see the entrance hall to the thieves guild.
+~
+0 -1 13127
+E
+furniture~
+As you look at the furniture, the chair you sit on disappears.
+~
+S
+#13129
+The Secret Yard~
+ This is the yard where members of the Thieves Guild came to practice their
+skills.  You look around and notice that it looks exactly the same as it did
+before the war.  Looking at the guildmaster you figure that the mere sight of
+the Thieves Master must have struck terror into any would be scavengers.  The
+only exit leads north to the old thieves bar.
+~
+131 6156 0
+0d0+0 0 0
+D0
+~
+You see the bar.
+~
+0 -1 13128
+S
+#13130
+The radioactive waste dump~
+ This place was once the dump for the city.  Now, thanks to the ravages of
+the immortals and their nuking of anything and everything, it has become a
+glowing deathtrap.  Standing here on the edge, the acrid stench has already
+begun to burn your nose and throat, and the thought of attempting any
+further progress south makes the bile in your throat rise in protest.  The
+old common square, and the rest of the ruins of Midgaard lie to the north.
+~
+131 0 0
+0d0+0 0 0
+D0
+To the north is the old common square.
+~
+~
+0 -1 13125
+S
+#13131
+A crumbling Pet Shoppe~
+ Once upon a time, this was the Midgaard Pet Shop, where people of all ranks
+and levels could aquire a companion.  Now, it just a burnt-out shell of a
+building, part of the ruin that is now Midgaard.  There is a peculiar smell
+here, though, as if some creature was using this space as a lair....
+East Main Street is to the north.
+~
+131 8 0
+0d0+0 0 0
+D0
+~
+You see the main street.
+~
+0 -1 13115
+E
+sign~
+The sign reads:
+
+  Use 'List' to see the available pets.
+  Use 'Buy <pet>' to buy yourself a pet.
+
+  Instructions for having pets:
+
+  You can use 'order <pet> <instructions>' to order your pets around.
+  If you abuse your pet, it will no longer regard you as its master.
+  If you have several pets you may use 'order followers <instructions>'
+
+  You can name the pet you buy as : "buy <pet> <name>"
+
+ Regards,
+.
+ The Shopkeeper
+~
+S
+#13132
+Pet Shop Store~
+   This  is the small dark room in which the Pet shop keeps his pets.
+It is vital that this room's virtual number is exactly one larger
+than the Pet Shop number.
+~
+131 8 0
+0d0+0 0 0
+S
+#13133
+The ruins of the old Magic Shoppe~
+ Once this room held magiks galore, powers unimaginable and hopes yet
+undreamt of.  Now it holds only death, decay, dust and memories of days
+long gone and peoples now extinct.  The shelves which once held potions
+and wands are now bare and mostly shattered, and the Arch-Magi who once ran
+this store is no where to be seen.  Perhaps he escaped the destruciton of
+the city, or perhaps his bones have long since vanished.  No one knows.
+~
+131 8 0
+0d0+0 0 0
+D2
+~
+You see the main street.
+~
+0 -1 13112
+S
+#13134
+The Bitch and Moan room for the Morts and Immorts.~
+You are standing in the infamous Bitch and Whine room for all those
+disgruntled players and immortals.  Every wall is covered with really
+sick artwork and colorful phrases about the people on this site.  You
+could literally take years trying to read all of the notes that people
+have left over the years, but you will have to satisfy yourself with
+reading the most current posts (seeing as we hope to have fixed most of
+the old prooblems).  Have fun and file a complaint to end your day of
+murder and mayhem.
+~
+131 156 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 3000
+S
+#13135
+The old notice room~
+ This room is the one place where the radiation seems to have failed to
+penetrate.  This room seems clear of dust, and safe from monsters.  There
+is a brightly glowing bulletin board here, the only one you've seen yet.
+This is the last place that still bears Odin's blessing in this whole
+gods-forsaken graveyard of a city.
+~
+131 6292 0
+0d0+0 0 0
+D1
+To the east lies the ruins of the temple reading room.
+~
+~
+0 -1 13100
+S
+#13136
+The collapse entrance to the Mud School~
+This used to be the entrance to the newbie school.  Unfortunately, the area
+was not strong enough to survive the holocaus brought about by immortal war.
+From what you see here, the entire complex must have collapsed in total ruin.
+The only exit is back up the way you came.
+~
+131 0 0
+0d0+0 0 0
+D4
+Above you lies the remains of the temple.
+~
+~
+0 -1 13101
+S
+#13137
+~
+~
+131 0 0
+0d0+0 0 0
+S
+#13138
+~
+~
+131 0 0
+0d0+0 0 0
+S
+#13139
+~
+~
+131 0 0
+0d0+0 0 0
+S
+#13140
+Inside the destroyed West Gate of Midgaard~
+ This is the western edge of Midgaard.  The gate is missing from the two
+gate-towers, and the footbridge that once connected them is gone.  Looking
+west, you see an awe-inspiring, terrifying sight:  The entire forest is gone,
+and all that can be seen to the west is a glowing, radioactive plain.  The
+rocks glow, even in daylight, with a sick, dull reddish light, leaving no
+doubt in your mind that to attempt to travel upon them would be lethal.  To
+the north is where the old Assassins arena once stood, but that was closed
+down even before the holocaust.  Main Street goes east from here, and Wall
+Road leads south to the western end of Poor Alley.
+~
+131 0 1
+0d0+0 0 0
+D1
+~
+You see Main Street.
+~
+0 -1 13112
+D2
+~
+You see the road running along the inner side of the city wall.  You notice
+that it is called Wall Road.
+~
+0 -1 13142
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#13141
+Inside the East Gate of Midgaard~
+ You stand before the remains of the east gate.  The two towers what once
+supported the gate are in ruins, and the rubble from them, the footbridge
+and the gate itself have effectively sealed the city on this side.  To the
+south is where Wally's Waterworld once stood, and the ruin to the north
+once housed the Midgaard Statistician.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 13167
+D2
+You see the water shop.
+~
+~
+0 -1 13158
+D3
+You see Main Street.~
+~
+0 -1 13116
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+S
+#13142
+Wall Road~
+ As you look around you think about the irony that this road should be called
+Wall Road.  Where the wall should have been is now nothing but broken stones
+and rubble.  To the north was the west gate of Midgaard, and to the south lies
+the beginnings of the old Poor Alley.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the city gate.
+~
+0 -1 13140
+D2
+~
+The road continues further south.
+~
+0 -1 13143
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#13143
+The southern end of Wall Road~
+ This is now the southern end of Wall Road, as well as the western end of
+Poor Alley.  South, where the promenade used to be is now nothing but ash.
+As you look upon this gray wasteland, a small lizard dashes by you into the
+desolation, and immediately sinks out of sight.  You realize that this area
+is now a vast wastelands that nothing can survive in...
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+The road continues further north.
+~
+0 -1 13142
+D1
+~
+The alley leads east.
+~
+0 -1 13144
+D2
+You spy a secret door leading out into the wastelands...
+~
+secret~
+1 -1 13196
+E
+wall writing letters~
+It says 'Who watches the watchmen?'
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#13144
+Poor Alley~
+This section of Poor Alley has changed a bit from what you remember.  It
+now not only connects the west end with the edge of poor alley, but there
+are two houses, north and south, that looks new to you.  They must have
+been built before the holocaust, but after you left.
+~
+131 0 1
+0d0+0 0 0
+D0
+North lies a shattered home.
+~
+~
+0 -1 13152
+D1
+~
+The alley leads east.
+~
+0 -1 13124
+D2
+South lies a ruined homestead.
+~
+~
+0 -1 13153
+D3
+~
+The alley leads west.
+~
+0 -1 13143
+S
+#13145
+Alley at Levee~
+ This alley used to be the bad part of town.  Now the entire town is.  West
+the alley continues, running past the old Thieves Guild, east is the end
+of the alley in the warehouse district, and south of here is the old levee
+access pier where mortals sailed to parts unknown.
+~
+131 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 13146
+D2
+~
+~
+0 -1 13149
+D3
+~
+~
+0 -1 13126
+S
+#13146
+Eastern end of Dark Alley~
+ This is the eastern end of the old Dark Alley.  The smell of mold is faint 
+but noticable from the remains of Uncle Juan's to the north, and to the south
+stands the remains of a harbour warehouse.  The Dark Alley continues west.
+~
+131 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 13156
+D2
+~
+~
+0 -1 13150
+D3
+~
+~
+0 -1 13145
+S
+#13147
+Wall Road~
+   You are standing on the road next to the western city wall, which
+continues north.  South of here is a bridge across the river.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the road.
+~
+0 -1 3043
+D2
+~
+You see the bridge.
+~
+0 -1 3051
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#13148
+Grubby Inn~
+ This inn, the old Grubby Inn, was filthy before the holocaust.  Now, after
+unknown years of neglect, it is just this side of hell.  There are smells
+here that defy description, and the decor is as awful as ever it was, made
+even more so by the half-decayed remains of several fidos that lie scattered
+about the area.  This must be home to someone, but you're not sure you
+really want to meet whoever this might be.
+~
+131 6152 0
+0d0+0 0 0
+D0
+To the north is a door, leading to Poor Alley.
+~
+door~
+1 -1 13124
+S
+#13149
+The destroyed Levee pier~
+  You stand on the remains of what was once the Levee pier.  The river
+beyond once carried adventurous mortals to far distant places with it's clear
+waters.  But not anymore.  The water, if you can still call it that, is now
+black and brackish, moving more like sludge than water, and as you stand
+looking out over it you notice a huge blue sphere shimmering in front
+of you.  It seems to be charged with electricity.  For a minute you
+think you can make out the form of a naked man crouching inside of
+it, but then the vision fades.
+~
+131 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 13145
+D2
+~
+sphere~
+1 -1 9503
+S
+#13150
+A burnt-out warehouse~
+ This was once Midgaard's most popular warehouse, and home to a magical
+sailor who, according to legend, had the power to give people a chance to
+redeem themselves, to start over and try a different path to fulfillment
+and enlightenment.  Alas, such magiks were sumamrily destroyed in the
+cataclysm that befell Midgaard, and now this warehouse is desolate.
+The eastern end of Poor Alley is to the north.
+~
+131 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 13146
+S
+#13151
+On the Bridge~
+   You are standing on the stone bridge crosses the river.  The bridge is
+built out from the western city wall and the river flows west through an
+opening in the wall ten feet below the bridge.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the road.
+~
+0 -1 3047
+D2
+~
+You see the Concourse.
+~
+0 -1 3100
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+opening~
+You cannot really see it from here as it is somewhere beneath your feet.
+~
+E
+bridge~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar, just like the wall.
+~
+S
+#13152
+A shattered private home~
+ This was once a private home to a Midgaard-ian family, but is now only a
+hovel for fidos and death.  The remains of the family are here, huddled in
+the corner, clutching each other in death as they must have in their last
+moments of life.  You notice that one skeleton is much smaller than the
+others, and you realize, finally, the true extent of the damage the
+careless lower immortals wrought upon this city.  There is no excuse.
+~
+131 0 0
+0d0+0 0 0
+D2
+South is the old Poor Alley.
+~
+~
+0 -1 13144
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+S
+#13153
+A ruined homestead~
+ This former residence of a Midgaard family has been picked clean by the
+various scavengers and by the passage of time.  Nothing is left here save
+a vew bits of broken wooden furniture and and occasional bone.  Everywhere
+you look is desolation and death.  It is not a pretty sight.
+~
+131 0 0
+0d0+0 0 0
+D0
+North lies the old Poor Alley.
+~
+~
+0 -1 13144
+D2
+~
+~
+0 -1 13168
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#13154
+The remains of the Temple Altar~
+ This was once the main Altar to Odin in the Temple of Midgaard.  Now all
+that remains is a heap of slagged stone, a sign of Odin's disfavor upon
+the foolish Immortals who brought this destruction down on the helpless
+inhabitants of this once proud city.  The only feeling you can sense in
+this room is one of profound sadness, as though Odin were weeping.
+~
+131 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25000
+D2
+To the south, the remains of the temple can be seen.
+~
+~
+0 -1 13101
+S
+#13155
+Odin's Store~
+   This is the small dark room in which Odin keeps the player items that he
+takes care of.  It is vital that this room's virtual number is exactly one
+larger than the room by the temple altar.
+~
+131 8 0
+0d0+0 0 0
+S
+#13156
+The remains of Uncle Juan's~
+ As you cross the threshold of this tattered building, the smell of mold
+assaults your senses.  It appears that Uncle Juan's food out-lasted him, 
+from the moldy tacos and nachos sitting around the skeleton you can only
+*assume* is what's left of Uncle Juan.  Seems his food lasts a really
+long time...  The end of Poor Alley is to the south.
+~
+131 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 13146
+S
+#13157
+A dirty marble entrancehall~
+ This room, which was once a beautiful marble entranceway to the noble
+Paladins Guild, now appears to be a private garbage dump.  Piles of corpses,
+all fidos, sit here, and most have been picked clean.  Above you, a
+trap door leads to the inner sanctum of the Paladins.  There is no
+discernable scent or sound coming from up there, so you have no idea what
+to expect should you venture upward.
+~
+131 8 0
+0d0+0 0 0
+D2
+You see the eastern end of Poor Alley.
+~
+~
+0 -1 13124
+D4
+You see the Paladins Bar.
+~
+~
+0 -1 13165
+S
+#13158
+The remains of Ye Olde Water Shoppe~
+ Once upon a time, Wally the Watermaster sold canteens of fresh, clear water
+to young adventurers setting off into the world.  Now, all that remains of
+his liquid vision is the emblem of a shining canteen that can still be seen
+on the front of the delapidated counter.  Everything else has been looted.
+~
+131 8 0
+0d0+0 0 0
+D0
+~
+You see the East Gate.
+~
+0 -1 13141
+S
+#13159
+Behind the Temple Altar~
+   You are on a dirt path leading away from the Temple Altar which is south
+of here.  To the north, the path continues through the lush contryside of
+Midgaard.
+~
+131 0 1
+0d0+0 0 0
+D0
+~
+You see the lush, green countryside of Midgaard.
+~
+0 -1 3060
+D2
+~
+You see the Temple Altar.
+~
+0 -1 3054
+S
+#13160
+The Great Field of Midgaard~
+You are walking on a wide dirt path through the lush, green, fresh
+Midgaard countryside.  You can see the horizon to the north, east, and
+west. The busy city of Midgaard lies to the south.  All around you
+is healthy green grass and an occasional large oak tree.  The sun feels
+wonderful on your face and a pleasant wind blows through your hair.
+Birds chirp quietly to themselves and you can smell the faint scent of
+flowers and freshly cut grass.  You feel like you could lie down in the
+grass and stay here forever, surrounded by powerful beauty in all
+directions.
+The path you are on continues north through the field and south
+back to Midgaard, to the east lies a plateau.
+~
+131 0 1
+0d0+0 0 0
+D0
+You see more of the path through the Great Field.
+~
+~
+0 -1 3061
+D1
+You spot a small path that leads off into the woods.
+~
+~
+0 -1 15699
+D2
+You see the path which goes back to Midgaard.
+~
+~
+0 -1 3059
+S
+#13161
+The Great Field of Midgaard~
+   You are walking on a wide dirt path through the lush, green, fresh
+Midgaard countryside.  You can see to the horizon to the north, east, and
+west; to busy city of Midgaard lies to the south.  All around you is healthy
+green grass and an occasional large oak tree.  The sun feels wonderful on
+your face and a pleasant wind blows through your hair.  Birds chirp quietly
+to themselves and you can smell the faint scent of flowers and freshly cut
+grass.  You feel like you could lie down in the grass and stay here forever,
+surrounded by powerful beauty in all directions.
+   The path you are on continues north through to a clay road and south
+through the Field.
+~
+131 0 1
+0d0+0 0 0
+D0
+You see a small clay path.
+~
+~
+0 -1 12066
+D2
+You see more of the Field.
+~
+~
+0 -1 3060
+S
+#13162
+A ruined Post Office~
+ Smelling of moldy, burnt paper and canvas, the remains of the old Midgaard
+Post Office sit in silent effegy to the thousands of mortals who died here.
+Appearently, in the final hours, literally hundreds of mail messages were
+sent off to other, darker dieties like Charon and Cthulhu.  From the looks
+of the remains and decomposed bodies here, it doesn't seem like those
+messages were received or, if they were, they weren't acted upon in time.
+~
+131 0 0
+0d0+0 0 0
+D2
+South is the where the entrance used to be.  Now it's just rubble.
+~
+~
+0 -1 13106
+S
+#13163
+The old donation room~
+ This was once a place of hope, a place of happiness, a place where those
+new to the city could come and receive free gear to help them survive. But
+with the irradiation of the city, whatever magics allowed items to be sent
+here were destroyed.  Now, the only thing that appears here is dust and
+an occasional animal...
+~
+131 0 0
+0d0+0 0 0
+D3
+To the west you see the remains of the temple.
+~
+1001~
+0 -1 13101
+S
+#13164
+A cold room~
+ As you push through a thick curtain, the temperature drops by about 100
+degrees!  This room used to the Midgaard Cryo Chamber, but after the attack,
+the cryogenic substances leaked out.  Unfortunately for you, the magic that
+allowed the chamber to function also seems to have trapped the coldness
+here as well.  You wonder what the combination of the cold and the
+radiation would do to an animal...
+~
+131 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 13108
+S
+#13165
+A run-down bar~
+ This, you can only assume, used to be the Paladin's private pub, a place
+where the good of spirit and noble of heart could come to relax and share
+tales of valor with each other.  From the looks of things, no one has actually
+drunk here in quite some time, but someone has been trying deperately to
+keep the place clean.  Unfortunately, they haven't been very successful.
+Dust sits in piles near the walls, and the carpets bulge suspisciously
+around the edges.  The sound of scraping metal is coming from the north.
+~
+131 8 0
+0d0+0 0 0
+D0
+You see the Paladins Inner Sanctum.
+~
+~
+0 -1 13166
+D5
+You see the entrance to the Paladins Guild.
+~
+~
+0 -1 13157
+S
+#13166
+The Paladins Inner Sanctum~
+ This is a small, moderately lit room with very few furnishings.  The walls
+are adorned with faded paintings and a huge, pitted holy shield with a large
+cross engraved upon it takes up the majority of one wall.  This room is the
+cleanest you have encountered yet, but the smell of death is still within it.
+~
+131 6156 0
+0d0+0 0 0
+D2
+You see the Paladins Bar.
+~
+~
+0 -1 13165
+S
+#13167
+Old Statistic Shoppe~
+ This room is bare, with only a pedastal in the center.  Once this was the
+home of the Magikal Statistician, a person was reputed to have the ability
+to increase a persons body and mental functions....for a price.  It appears
+the sometime after the owner fled, someone tried to turn this into some kind
+of temple, but with little success.  It is obvious that no one has been here
+for quite some time, according to the dust and lack of footprints.
+~
+131 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 13141
+S
+#13168
+The Time Portal~
+ As you step through the portal you feel your very essence being torn apart.
+You see visions of swirling colors the likes of which are not known to mortal
+man.  You slowly feel yourself start to pass out.  You fight the feeling, 
+and eventually it passes.  You find yourself back in the time machine where
+you started this crazy adventure.  You can't help but wonder if you really
+took this journey or if it was all just a crazy dream.  To the north you
+see the small inventors shop.
+~
+131 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 13169
+S
+#13169
+Inventors Shop~
+ You find yourself in a dimly lit room with countless little gadgets and
+doohickeys strewn all over shelves, table tops, even the floor.  You try
+to make out what some of them are but give up after a short while.  In a back
+room you see part of a huge machine that hums quietly.  You look at it and
+are suddenly a bit nervous.  Rumor has it that the owner of this shop will
+allow people to tour his machine....for a small fee that is.
+~
+131 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3044
+S
+#13170
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The fould
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+As you look north, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13187
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13172
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13172
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13171
+S
+#13171
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+As you look north, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13188
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13173
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13196
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13174
+S
+#13172
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13174
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13180
+D2
+As you look south, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13189
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13177
+S
+#13173
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13185
+D1
+As you look east, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13193
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13173
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13183
+S
+#13174
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+As you look north, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13186
+D1
+As you look east, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13195
+D2
+As you look south, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13179
+D3
+As you look west, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13189
+S
+#13175
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13181
+D1
+~
+~
+0 -1 13184
+D2
+As you look south, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13193
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13184
+S
+#13176
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13176
+D1
+As you look east, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13186
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13182
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13175
+S
+#13177
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13176
+D1
+As you look east, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13190
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13179
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13178
+S
+#13178
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+As you look north, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13191
+D1
+As you look east, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13183
+D2
+As you look south, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13191
+D3
+As you look west, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13194
+S
+#13179
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13176
+D1
+As you look east, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13186
+D2
+As you look south, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13191
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13170
+S
+#13180
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+As you look north, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13188
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13175
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13196
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13177
+S
+#13181
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+As you look north, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13188
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13176
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13181
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13177
+S
+#13182
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13181
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13182
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13182
+D3
+As you look west, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13186
+S
+#13183
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13176
+D1
+As you look east, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13190
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13181
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13179
+S
+#13184
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+As you look north, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13195
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13170
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13179
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13174
+S
+#13185
+The nuclear wastelands~
+  All around you there is nothing but desolation.  Rock twisted and
+molten into wierd shapes, pools of glass that used to be mountains,
+and mountains of slag thrown up by the titanic struggles.  The foul 
+stench of death hangs in the air.
+~
+131 0 10
+0d0+0 0 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13173
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13179
+D2
+As you look south, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13188
+D3
+As you look west, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13188
+S
+#13186
+The nuclear wastelands~
+  You step onto a pool of glass and realize that it hasn't quit
+solidified yet.  You start sinking as the heat of the liquid glass
+quickly burns your body to cinders.
+~
+131 16386 10
+1d1+199 90 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13196
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13170
+D2
+As you look south, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13186
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13171
+S
+#13187
+The nuclear wastelands~
+  You step onto a pool of glass and realize that it hasn't quit
+solidified yet.  You start sinking as the heat of the liquid glass
+quickly burns your body to cinders.
+~
+131 16386 10
+1d1+199 90 0
+D0
+As you look north, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13188
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13171
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13179
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13183
+S
+#13188
+The nuclear wastelands~
+  You step onto a pool of glass and realize that it hasn't quit
+solidified yet.  You start sinking as the heat of the liquid glass
+quickly burns your body to cinders.
+~
+131 16386 10
+1d1+199 90 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13185
+D1
+~
+~
+0 -1 13176
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13179
+D3
+As you look west, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13188
+S
+#13189
+The nuclear wastelands~
+  You step onto a pool of glass and realize that it hasn't quit
+solidified yet.  You start sinking as the heat of the liquid glass
+quickly burns your body to cinders.
+~
+131 16386 10
+1d1+199 90 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13175
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13180
+D2
+As you look south, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13190
+D3
+As you look west, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13189
+S
+#13190
+The nuclear wastelands~
+  You step onto a pool of glass and realize that it hasn't quit
+solidified yet.  You start sinking as the heat of the liquid glass
+quickly burns your body to cinders.
+~
+131 16386 10
+1d1+199 90 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13170
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13178
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13185
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13180
+S
+#13191
+The nuclear wastelands~
+  You step onto a pool of glass and realize that it hasn't quit
+solidified yet.  You start sinking as the heat of the liquid glass
+quickly burns your body to cinders.
+~
+131 16386 10
+1d1+199 90 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13185
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13184
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13179
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13177
+S
+#13192
+The nuclear wastelands~
+  You step onto a pool of glass and realize that it hasn't quit
+solidified yet.  You start sinking as the heat of the liquid glass
+quickly burns your body to cinders.
+~
+131 16386 10
+1d1+199 90 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13174
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13179
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13172
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13183
+S
+#13193
+The nuclear wastelands~
+  You step onto a pool of glass and realize that it hasn't quit
+solidified yet.  You start sinking as the heat of the liquid glass
+quickly burns your body to cinders.
+~
+131 16386 10
+1d1+199 90 0
+D0
+As you look north, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13188
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13179
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13176
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13184
+S
+#13194
+The nuclear wastelands~
+  You step onto a pool of glass and realize that it hasn't quit
+solidified yet.  You start sinking as the heat of the liquid glass
+quickly burns your body to cinders.
+~
+131 16386 10
+1d1+199 90 0
+D0
+You see more of the nuclear wastelands.~
+~
+0 -1 13176
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13181
+D2
+As you look south, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13186
+D3
+You see more of the nuclear wastelands.~
+~
+0 -1 13171
+S
+#13195
+The nuclear wastelands~
+  You step onto a pool of glass and realize that it hasn't quit
+solidified yet.  You start sinking as the heat of the liquid glass
+quickly burns your body to cinders.
+~
+131 16386 10
+1d1+199 90 0
+D0
+As you look north, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13189
+D1
+You see more of the nuclear wastelands.~
+~
+0 -1 13171
+D2
+You see more of the nuclear wastelands.~
+~
+0 -1 13178
+D3
+As you look west, you catch a glimpse of the future.  You see
+your rotten corpse, forever frozen in glass.~
+~
+0 -1 13193
+S
+#13196
+The nuclear wastelands~
+  You venture out onto the molten rock and begin to have very
+serious doubts as to whether or not you should be here.  You look
+around and realize that there will be no one to help you if you
+should venture into what is surely a DEATHTRAP.
+Then you notice a corpse here, holding a sign for all to see, and
+READ!
+~
+131 4 10
+0d0+0 0 0
+D0
+~
+secret~
+1 -1 13143
+D2
+As you look south, you catch a glimpse of the future.  You see 
+your rotten corpse, forever frozen in glass.
+~
+~
+0 -1 13186
+E
+sign corpse~
+To the south is a very obvious DEATHTRAP!  If you do not have more
+than 400 hitpoints, you WILL die.
+~
+S
+#13198
+Mouseglove's Lounge~
+ Thick with smoke, the smell of beer, and topless waitresses, this place
+is the epidome of a "sleazy immort hangout".  There are thick, padded
+couches littering the room and several large stuffed chairs as well.  Rumor
+has it that the waitresses can be talked into becoming dancers very easily
+and for very little money.  They are pretty, the beer is free, all is well!
+~
+131 6144 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 13199
+S
+#13199
+Vicious's Bar and Grill~
+  You are in the living room of a huge log house.  You inhale the scent
+of wood with every breath you take.  The fireplace is roaring, the
+lights are dim and there is some wine set in an ice bucket at the side
+of a grizzly skin in front of the fire.  You look out of one of the
+huge picture windows and see a sight so beautiful it makes your heart
+tremble.  For the sun is just setting over a lake, sending a last ray
+of light between the mountains, coloring the surface of the lake and
+the mountain sides a fiery red.  A solitary loon calls out its 
+mournful song.
+~
+131 1544 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 13198
+D4
+~
+~
+0 -1 1255
+S
+$

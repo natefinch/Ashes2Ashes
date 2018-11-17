@@ -1,0 +1,656 @@
+#3100
+maid~
+the Maid~
+The Maid is waiting for your order.
+~
+She is very beautiful with golden hair, and deep blue eyes.  A good reason
+for coming here more often, you think to yourself.
+~
+2058 8 1000 W
+127 20 -10 1d1+30000 1d8+22
+2000 200000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3101
+psionicist guildguard~
+the Psionic~
+A burly looking psionicist is here guarding the back door.
+~
+This man is wearing simple robes, yet you feel an aura of power coming from
+him.  You feel your memories and thoughts stripped away by his power, your
+very deepest and darkest secrets revealed.  You stand stock still as his
+power takes a hold of your body while he probes your mind for psionics.  His
+eyes are dark and you can see his muscles tense as he rips the answers from
+your mind.  Only the most powerful of people would even think of messing with
+this man.
+~
+4204554 136 900 W
+57 20 -20 16d10+2950 5d8+22
+2000 312200
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-200 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3102
+waiter~
+the Waiter~
+A man sits behind the counter directing glasses and bottles with his mind.
+~
+This man used to be a wandering adventurer, and now having gained power and
+fortune, lives his life as a waiter, using his abilities to serve rather than
+destroy.  He seems content, surrounded by friends who understand him.
+~
+4194314 0 600 W
+35 19 2 16d10+1083 1d8+20
+2000 36000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3120
+sexton~
+the Sexton~
+A Sexton is sitting here, drinking hot tea.
+~
+The Sexton looks like he is relaxing after another gravedigging job.
+~
+10 0 800 W
+3 2 7 3d6+58 1d7+0
+13 500
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#3121
+swan~
+the swan~
+A swan is swimming around in the pond.
+~
+The white swan is very elegant.
+~
+10 0 1000 W
+1 0 9 3d6+16 1d5+0
+0 250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#3122
+duckling~
+the duckling~
+A duckling is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+10 0 1000 W
+0 0 10 1d1+0 1d1+0
+0 2
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#3123
+sparrow~
+the sparrow~
+A sparrow is flapping around on the ground.
+~
+The sparrow looks like it is enjoying life.
+~
+200 0 1000 W
+0 0 10 3d6+0 1d3+0
+0 62
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#3124
+duck~
+the duck~
+A duck is here, quacking happily.
+~
+The duck is quite fat.  It looks like it is enjoying life.
+~
+72 0 1000 W
+1 0 10 3d6+8 1d4+0
+0 187
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#3130
+statue~
+the statue of Brian 'Wes' Wesley~
+The statue of Brian 'Wes' Wesley, former IMP, stands here.
+~
+You see before you the statue of Wesley.  He was known in real life
+as Brian...and you know he helped rebuild and repair a failed
+mud known as RealityBites....
+~
+30734 16777344 1000 W
+127 40 -15 100d100+10000 10d10+40
+250000 100000
+8 8 1
+18 100 13 13 13 13 0
+0 5 0
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3131
+statue~
+the statue of Toby 'Corwin' Johnston~
+The statue of Toby 'Corwin' Johnston, former CIMP, stands here.
+~
+You see before you Toby, he was a good guy in life and I personally 
+hope he is happy where he is now.  He was my friend and will not
+be forgotten on this mud. 
+
+Sincerly, Matt (Sheol)
+~
+30734 16777344 1000 W
+127 40 -15 100d100+10000 10d10+40
+250000 100000
+8 8 1
+18 100 13 13 13 13 0
+0 5 0
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3140
+chief~
+the Chief Guard~
+The Chief Guard is looking very upset.
+~
+A very angry chief.
+~
+46 8 800 W
+22 17 1 1d12+350 1d8+18
+0 36000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 10
+#3141
+cityguard guard~
+the upset cityguard~
+A cityguard stands here, looking very upset.
+~
+A big, strong, angry guard.
+~
+46 0 1000 W
+16 10 2 1d12+205 1d8+3
+0 22500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+#3142
+secretary~
+the Secretary~
+A secretary is sitting at the desk, typing away on the typewriter.
+~
+She looks very busy.
+
+>
+The Secretary says 'Sorry, but the Mayor is extremely busy today.'
+The Secretary says 'Please sit down and have a seat in the meantime.'
+~
+10 0 900 W
+10 11 2 1d12+246 2d7+1
+100 6000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#3143
+mayor~
+the Mayor~
+The Mayor is sitting in his huge chair, snoring loudly.
+~
+He is a stocky, middle-aged man with thin, grey hair.
+~
+26635 8 1000 W
+72 35 -4 1d1+2499 1d8+18
+1000 226000
+4 4 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3144
+crier~
+the Town Crier~
+The Town Crier is here, weeping quietly.
+~
+He is very good at his job - completely dissolved in tears.
+~
+136 0 900 W
+1 0 9 3d6+16 1d5+0
+34 250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#3150
+lynx~
+a Lynx~
+A Lynx is here, sharpening it's claws on a treestump.
+~
+  You see a small cat-like animal, not much bigger than your 
+average housecat.  You reach out to pet it, but quickly change
+your mind when it hisses at you and swings a pawful of freshly
+sharpend claws at your hand.
+~
+8 1064 0 W
+15 10 0 1d1+350 5d3+7
+0 0
+8 8 1
+11 0 13 13 13 13 0
+0 1 3
+0 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#3151
+Coyote~
+a Coyote~
+A coyote is here, chewing on an old bone.
+~
+  The coyote looks up from her bone and glances at you with mild
+interest.  She decides that you're no threat to her and goes back
+to work getting the last scraps of meat off of the bone.
+~
+8 1064 0 W
+18 12 0 1d1+400 5d4+8
+0 0
+8 8 2
+12 0 13 13 13 13 0
+0 1 3
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#3152
+wolf~
+a Wolf~
+A wolf sits here, looking at you quietly.
+~
+  The wolf looks at you with dark brown eyes, making sure you don't
+come to close to his pack.  His thick grey fur is ruffled by the
+breeze.
+~
+8 1064 0 W
+25 15 -1 1d1+750 5d5+8
+0 0
+8 8 1
+14 0 13 13 13 13 0
+0 1 3
+-10 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#3153
+cougar~
+a Cougar~
+A cougar is here, relaxing the bright sunshine.
+~
+  The cougar looks rather content, almost purring in the sunshine.
+His light brown fur doesn't hide the powerful muscules that turn
+this cat into a powerful hunter.
+~
+8 1064 0 W
+27 17 -2 1d1+800 5d5+10
+0 0
+8 8 1
+17 0 13 13 13 13 0
+0 2 3
+-20 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#3154
+wolverine~
+a Wolverine~
+A wolverine is here, snarling viciously at you.
+~
+  You look at the wolverine and decide that this has got to be one
+of the most vicious creatures you have ever seen.  It's not much
+bigger than a small dog, but it is all teeth and claws.
+~
+8 1064 0 W
+36 20 -3 1d1+1050 8d3+12
+0 0
+8 8 1
+15 0 13 13 13 13 0
+0 1 3
+-30 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3155
+wild boar~
+a Wild Boar~
+A wild boar is here, rooting trough the undergrowth.
+~
+  The wild boar looks like it would make an excellent meal.  It
+noticese you and snorts at you.  You notice it's rather nasty
+tusks, and decide you'd better make other plans for lunch.
+~
+8 1064 0 W
+38 22 -4 1d1+1100 8d3+14
+0 0
+8 8 1
+18 20 13 13 13 13 0
+0 1 3
+-40 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3156
+mountain lion~
+a Mountain Lion~
+A mountain lion is here, basking in the sun.
+~
+  You look at this magnificent animal and watch it for a while as
+it cleans itself.  It glances up at you and swishes it's tail
+annoyedly for a second, looking like it might leap at you to tear
+you limb from limb, and then goes back to it's task.
+~
+8 1064 0 W
+47 25 -8 1d1+1450 9d3+16
+0 0
+8 8 2
+18 70 13 13 13 13 0
+0 2 3
+-80 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3157
+grizzly bear~
+a Grizzly Bear~
+A massive grizzly bear is here, looking for his next meal.
+~
+  You look at the bear and are awed by the sheer size of it.  You
+wisely decide to leave him alone, just in case he decides to make
+you his next meal.
+~
+8 1064 0 W
+50 28 -10 1d1+1500 10d4+18
+0 0
+8 8 1
+18 100 13 13 13 13 0
+0 3 3
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3160
+pixie~
+a Pixie~
+A Pixie is here, flying around your face.
+~
+  The pixie is very small, maybe six inches tall, with little 
+transparent wings.  She is wearing a little green dress, and you 
+find yourself wishing she was bigger.
+~
+8 1064 0 W
+15 10 0 1d1+350 5d3+7
+0 0
+8 8 2
+11 0 13 13 13 13 0
+0 0 2
+0 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#3161
+Fairy~
+a Fairy~
+A fairy is here, sitting on a branch.
+~
+  The fairy is a small creature, about half a foot tall with little
+wings.  He looks bored.  Maybe he's waiting for his next job.
+~
+8 1064 0 W
+18 12 0 1d1+400 5d4+8
+0 0
+8 8 1
+12 0 13 13 13 13 0
+0 0 2
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#3162
+pheonix~
+a Pheonix~
+A pheonix is here, rising from the ashes.
+~
+  You look at this mystical creature and wonder about it's origins.
+A bird like this you have never seen before.  It looks very majestic
+with it's bright red feathers.
+~
+8 1064 0 W
+25 15 -1 1d1+750 5d5+8
+0 0
+8 8 0
+14 0 13 13 13 13 0
+0 2 3
+-10 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#3163
+unicorn~
+a Unicorn~
+A unicorn is here, eating some clover.
+~
+  You look at the magical unicorn and wonder what it would be like
+riding this magnificent animal.  It looks at you and shakes it's
+mane, pointing it's horn at you, as if it's daring you to try.
+~
+8 1064 0 W
+27 17 -2 1d1+800 5d5+10
+0 0
+8 8 1
+17 0 13 13 13 13 0
+0 3 3
+-20 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#3164
+griffen~
+a griffen~
+A griffen is here, sharpening it's beak on a rock.
+~
+  This griffon is definately one of the stranger creatures you have
+ever seen.  It has the body of a lion, and the head and wings of an
+eagle.
+~
+8 1064 0 W
+36 20 -3 1d1+1050 8d3+12
+0 0
+8 8 0
+15 0 13 13 13 13 0
+0 3 3
+-30 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3165
+golem~
+a Golem~
+A golem is here, awaiting it's creators orders.
+~
+  The golem appears to have been made from pure magic.  It stands
+there, unthinking, unmoving, fearing nothing.  It's purpose in life
+is to serve it's master.
+~
+8 1064 0 W
+38 22 -4 1d1+1100 8d3+14
+0 0
+8 8 0
+18 20 13 13 13 13 0
+0 3 0
+-40 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3166
+dragon~
+a Dragon~
+A dragon is here, looking for more treasure.
+~
+  The dragon is looking at you with intelligent eyes.  You find
+yourself strangely drawn into those eyes, as if you are coming 
+under a spell.  The dragon blinks it's eyes and the spell is broken.
+~
+8 1064 0 W
+47 25 -8 1d1+1450 9d3+16
+0 0
+8 8 2
+18 70 13 13 13 13 0
+0 4 4
+-80 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3167
+genie~
+a Genie~
+A genie is here, waiting to fulfill your wishes.
+~
+  The genie looks like it is made of nothing but smoke.  But yet it
+is still one of the most powerful magical beings know.  It has the
+power to grant everyman's deepest and darkest wishes.
+~
+8200 1064 0 W
+50 28 -10 1d1+1500 10d4+18
+0 0
+8 8 0
+18 100 13 13 13 13 0
+0 5 0
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#3170
+shadow~
+a Shadow~
+A shadow is here, hugging the wall.
+~
+  The shadow doesn't really appear to be there.  You can practically
+look right through it, and it seems to have no substance at all.
+You look around for what could be casting the shadow, and see
+nothing.  You suddenly get very nervous.
+~
+8 1064 0 W
+18 12 0 1d1+400 5d4+8
+0 0
+8 8 0
+12 0 13 13 13 13 0
+0 3 0
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#3171
+water demon~
+a Water Demon~
+A water demon is here, shimmering quietly.
+~
+  The water demon looks very much like water.  It doesn't seem to
+have any real substance, it just kind of flows through space and
+time.
+~
+8 1064 0 W
+25 15 -1 1d1+750 5d5+8
+0 0
+8 8 0
+14 0 13 13 13 13 0
+0 4 0
+-10 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#3172
+fire demon~
+a Fire Demon~
+A fire demon is here, flickering in the breeze.
+~
+  The fire demon looks like it is made from fire, it has no real
+substance.  It just flickers it's way through space and time.
+~
+8 1064 0 W
+27 17 -2 1d1+800 5d5+10
+0 0
+8 8 0
+17 0 13 13 13 13 0
+0 4 0
+-20 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#3173
+demon lord demonlord~
+a Demon Lord~
+A demon lord is here, filling your heart with fear.
+~
+  The demon lord is one of the most powerful demons.  It has no
+shape you can readily define or recognize.  You cannot tell
+where it starts or where it ends.  It just is.  And it scares you.
+~
+8200 1064 0 W
+50 32 -12 1d1+1750 11d5+20
+0 0
+8 8 0
+18 100 13 13 13 13 0
+0 5 0
+-120 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+$

@@ -1,0 +1,207 @@
+#6100
+warg vicious~
+the vicious warg~
+A vicious warg is here, snarling angrily at you.
+~
+It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
+quickly from its long, white fangs.  It looks quite dangerous and very angry.
+~
+104 0 -350 W
+5 4 5 1d12+100 2d4+0
+0 2500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 10
+#6101
+warg ferocious~
+the ferocious warg~
+A ferocious warg is here, snarling angrily at you.
+~
+It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
+quickly from its long, white fangs.  It looks quite dangerous and very angry.
+~
+8296 0 -350 W
+5 4 5 1d12+100 2d4+0
+0 2500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 10
+#6102
+wolf grey~
+the large, grey wolf~
+A large, grey wolf is here, glaring hungrily at you.
+~
+The large, grey wolf eyes you with interest while licking its lips.
+~
+8296 0 -150 W
+4 2 7 1d12+58 1d7+0
+0 1125
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 10
+#6103
+wolf black~
+the large, black wolf~
+A large, black wolf is here, glaring hungrily at you.
+~
+The large, black wolf eyes you with interest while licking its lips.
+~
+8296 0 -150 W
+4 2 7 1d12+58 1d7+0
+0 1125
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 10
+#6110
+tree ancient~
+the ancient tree~
+A huge, ancient tree towers above you.
+~
+Its roots are extremely big and large parts of them are above ground. Something
+about it makes you think that this is not a normal oak tree.
+
+>
+The enormous grey trunk shivers slightly, as if sighing deeply.
+~
+10312 589832 0 W
+81 50 -15 10d10+2000 10d10+25
+0 154125
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6111
+tree ancient~
+the ancient tree~
+A huge, ancient tree towers above you.
+~
+Its roots are extremely big and large parts of them are above ground. Something
+about it makes you think that this is not a normal oak tree.
+
+>
+The enormous grey trunk emits a deep, moaning sound.
+~
+10312 589832 0 W
+81 50 -15 10d10+2000 10d10+25
+0 154125
+8 8 0
+18 100 13 13 13 13 0
+0 2 0
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6112
+dragon green~
+the green dragon~
+A large green dragon sits here, her narrowed amber eyes regarding you calmly.
+~
+Dark green scales cover much of the body of this formidable-looking dragon.
+Numerous holes scored into her leathery wings and large nicks gouged into
+the surfaces of her horns tell of the many fights she has survived.
+~
+2155 1064 -500 W
+62 25 0 2d10+2000 2d6+9
+30000 100000
+8 8 2
+13 0 13 13 13 13 0
+15 4 4
+0 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#6113
+spider poisonous~
+the huge, poisonous spider~
+A huge, poisonous spider is here.
+~
+This disgusting creature is at the size of a human crawling on all four.  It
+has eight hairy legs that gives it a tremendous speed on almost any surface
+and sharp poisonous fangs to paralyze or kill its prey.
+~
+75 0 -350 W
+9 7 2 1d12+163 2d5+1
+0 10000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#6114
+queen spider queenspider~
+the Queen Spider~
+The huge, bulky Queen Spider is here.
+~
+This disgusting creature is at the size of a small elephant.  It has eight
+huge, hairy legs that would give it a tremendous speed on almost any surface
+if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.
+~
+10827 40 -1000 W
+21 14 1 1d12+308 2d8+13
+0 77500
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#6115
+shargugh brownie~
+Shargugh~
+Shargugh the Forest Brownie is here, grinning broadly at you.
+~
+This little fellow is only three foot tall with wild matted brown hair and long
+tangled brown beard.  He wears ragged brown and green clothing and looks as if
+he is having great fun.
+~
+2185 524298 1000 W
+12 19 -6 1d10+90 2d5+0
+1234 27500
+8 8 1
+12 0 15 16 18 15 0
+0 1 2
+-60 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#6116
+elder druid~
+the Elder Druid~
+The elder druid is here.  He looks very upset about your presence in his home.
+~
+The druid looks quite old.  You would think of him as venerable but yet you
+know he would be a tough foe.
+~
+47 8 0 W
+23 18 0 1d12+393 3d6+4
+5000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 10
+$

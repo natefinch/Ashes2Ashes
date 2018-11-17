@@ -1,0 +1,4374 @@
+#22700
+A previously unnoticed tunnel~
+As you enter this area, you are surprised. As many times as you have been
+here before, you don't seem to remember the tunnel you now see here. The
+tunnel seems to go down into the very heart of the earth. It has a very
+dark and sinister feeling exuding from it.
+~
+227 32773 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22701
+D7
+~
+~
+0 -1 7054
+S
+#22701
+A long winding tunnel~
+This tunnel is very long. At various intervals it twists, or branches off 
+into several smaller tunnels. The same sense of foreboding which you felt
+before only seems to get stronger the further you go down this tunnel.
+~
+227 32769 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22703
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22702
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22700
+S
+#22702
+A branch in the tunnel~
+There are the charred remains of what appear to be dwarves here. Whatever it
+is that charred them seems to have done a rather complete job of it. There is
+barely enough of their bones left to even tell that they used to be dwarves.
+~
+227 32769 0
+0d0+0 0 0
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22701
+E
+bones~
+
+These bones are charred and still smoking. They are short and thick, just
+like a dwarf. Whatever it was that burned these dwarves, it sure did a very
+thorough job.~
+S
+#22703
+A long winding tunnel~
+You hear a chittering in the distance, like the sound of small rodents. There
+is something about the sound through...something odd. As hard as you listen,
+you cannot put your finger on whatever seems to be tuging at the back of 
+your mind.
+~
+227 32769 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22704
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22701
+S
+#22704
+A long winding tunnel~
+As the chittering gets louder, a sort of understanding dawns on you. This is
+not the random chittering of mice, nor the savage noises of rats. What you
+are hearing is a language, dark and sinister, but a language nontheless.
+Images fill your mind of the creatures who could make such noises.
+~
+227 32769 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22705
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22703
+S
+#22705
+A long winding tunnel~
+Just around the bend you see some furtive movements. Whatever these creatures
+are, they seem to be rather quick and sneaky. The volume of the chittering
+tells you that you are just about to get your first glimps of these elusive
+creatures.
+~
+227 32769 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22706
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22704
+S
+#22706
+A long winding tunnel~
+As you round the corner of this tunnel you are suddenly confronted by several
+rat-like creatures. They are both rat-like, and man-like at the same time. In
+fact, you cannot decide if they are degenerated men, or mutated rats. They
+do not seem to have noticed you yet.
+~
+227 32769 0
+0d0+0 0 0
+D1
+You see a very dark tunnel
+~
+east~
+0 -1 22707
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22705
+D6
+You see a filthy tunnel.
+~
+northeast~
+0 -1 22713
+S
+#22707
+A cavern littered with bones~
+This section of the cavern is littered with bones of all sorts. They all
+look as if they have had the flesh gnawed right off of them. From the way
+that some of them are more than half eaten through, whatever or whoever, did
+the gnawing wasn't too gentle either.
+~
+227 32769 0
+0d0+0 0 0
+D1
+You see a very dark tunnel
+~
+east~
+0 -1 22708
+D3
+You see a very dark tunnel
+~
+west~
+0 -1 22706
+S
+#22708
+A dark passageway~
+Down this tunnel you hear a whip cracking. Everytime you hear it crack, there
+is a squeal in response. The squeal is a darker sound than you would hear 
+from any rodent you can remember. Whoever is using the whip seems to be
+enjoying this his job immensely, as you can tell by the high pitched cackle
+you hear after every squeal.
+~
+227 32769 0
+0d0+0 0 0
+D1
+You see the entrance to some underground pens.
+~
+east~
+0 -1 22709
+D3
+You see a very dark tunnel
+~
+west~
+0 -1 22707
+S
+#22709
+The entrance to some underground pens~
+This cavern looks as if it has been renovated slightly. There are huge pens
+here, which look like they could hold anything from a small rodent, to a 
+huge hulking monster. There are several mannequin's here, hanging from poles.
+Each mannequin is mostly in tatters. They look as if they have been chewed
+to bits by a lot of sharp teeth.
+~
+227 32769 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 22711
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22708
+D6
+~
+door~
+1 -1 22712
+D7
+~
+door~
+1 -1 22710
+E
+mannequin~
+
+This mannequin is just like all the others. Torn and tattered.
+~
+S
+#22710
+Inside a smaller pen~
+This is the smallest of the pens here. There is rodent feces all over the 
+floor, and you see quite a few smaller rats running around here. They all 
+seem to be fighting over the food which has been left for them in a trough
+in the corner. These rats are quite vicious for their size.
+~
+227 32769 0
+0d0+0 0 0
+D8
+~
+door~
+1 -1 22709
+S
+#22711
+Inside a slightly larger pen~
+This pen is a little larger than the one to the left. There is a lot of feces
+here as well. Rather than the smaller rats which occupy the pen to the left,
+these rats are quite large, abnormally so. These rats are at least four feet
+long, and stand around two and a half feet high. They do not appear friendly
+either.
+~
+227 32769 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 22709
+S
+#22712
+Inside a very larg pen~
+This pen is huge. There is no feces on the ground here like the other two
+pens. However there are quite a few bones on the ground. Bones such as,
+skulls (you aren't sure if they are human or not), ribcages, vertebrae. The
+sight is almost enough to make you retch. There are several rat-like ogres
+here. They appear to be adolescent. Standing at a little over six feet, you
+shiver to imagine what a full grown rat ogre would look like.
+~
+227 32769 0
+0d0+0 0 0
+D9
+~
+door~
+1 -1 22709
+S
+#22713
+A filthy tunnel~
+This tunnel is alot dirtier than the other sections you have seen. It seems
+that, for some reason, there is less desire to keep this section clean. 
+Everywhere you look you see feces, rotting food, and discarded rags covering
+the floor of this tunnel. You are glad you do not live here.
+~
+227 32769 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22715
+D1
+You see a filthy tunnel.
+~
+east~
+0 -1 22714
+D9
+You see a very dark tunnel.
+~
+southwest~
+0 -1 22706
+S
+#22714
+A filthy tunnel~
+There are several run down dwellings here. They all seem to match the rest 
+of this current section of tunnels. They are filthy, they stink, and it seems
+as if noone really cares about anything here.
+~
+227 32769 0
+0d0+0 0 0
+D0
+You see a run down shack.
+~
+north~
+0 -1 22726
+D1
+You see a run down shack.
+~
+east~
+0 -1 22727
+D2
+You see a filthy looking shack.
+~
+south~
+0 -1 22728
+D3
+You see a filthy tunnel.
+~
+west~
+0 -1 22713
+S
+#22715
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22716
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22715
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22713
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22715
+S
+#22716
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22715
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22716
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22715
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22715
+D6
+You see a very dark tunnel.
+~
+northeast~
+0 -1 22717
+D7
+You see a very dark tunnel.
+~
+northwest~
+0 -1 22715
+D8
+You see a very dark tunnel.
+~
+southeast~
+0 -1 22716
+D9
+You see a very dark tunnel.
+~
+southwest~
+0 -1 22715
+S
+#22717
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22715
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22717
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22716
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22715
+D4
+You see a very dark tunnel.
+~
+up~
+0 -1 22718
+D5
+You see a very dark tunnel.
+~
+down~
+0 -1 22717
+D6
+You see a very dark tunnel.
+~
+northeast~
+0 -1 22715
+D8
+You see a very dark tunnel.
+~
+southeast~
+0 -1 22716
+D9
+You see a very dark tunnel.
+~
+southwest~
+0 -1 22716
+S
+#22718
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22718
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22717
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22715
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22716
+D4
+You see a very dark tunnel.
+~
+up~
+0 -1 22718
+D5
+You see a very dark tunnel.
+~
+down~
+0 -1 22717
+D6
+You see a very dark tunnel.
+~
+northeast~
+0 -1 22715
+D7
+You see a very dark tunnel.
+~
+northwest~
+0 -1 22719
+D8
+You see a very dark tunnel.
+~
+southeast~
+0 -1 22717
+D9
+You see a very dark tunnel
+~
+southwest~
+0 -1 22715
+S
+#22719
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22715
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22717
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22716
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22715
+D4
+You see a very dark tunnel.
+~
+up~
+0 -1 22720
+D6
+You see a very dark tunnel.
+~
+northeast~
+0 -1 22716
+D7
+You see a very dark tunnel.
+~
+northwest~
+0 -1 22718
+D8
+You see a very dark tunnel.
+~
+southeast~
+0 -1 22718
+D9
+You see a very dark tunnel.
+~
+southwest~
+0 -1 22715
+S
+#22720
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22719
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22715
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22721
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22717
+D4
+You see a very dark tunnel.
+~
+up~
+0 -1 22719
+D5
+You see a very dark tunnel.
+~
+down~
+0 -1 22719
+D6
+You see a very dark tunnel.
+~
+northeast~
+0 -1 22718
+D7
+You see a very dark tunnel.
+~
+northwest~
+0 -1 22716
+D8
+You see a very dark tunnel.
+~
+southeast~
+0 -1 22716
+D9
+You see a very dark tunnel.
+~
+southwest~
+0 -1 22715
+S
+#22721
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22720
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22720
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22716
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22723
+D6
+You see a very dark tunnel.
+~
+northeast~
+0 -1 22715
+D7
+You see a very dark tunnel.
+~
+northwest~
+0 -1 22719
+D8
+You see a very dark tunnel.
+~
+southeast~
+0 -1 22716
+D9
+You see a very dark tunnel.
+~
+southwest~
+0 -1 22715
+S
+#22722
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D1
+You see the guarded entrance to Clan Eshin's training grounds.
+~
+east~
+0 -1 22761
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22723
+S
+#22723
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22722
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22721
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22718
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22717
+D6
+You see a very dark tunnel.
+~
+northeast~
+0 -1 22724
+D7
+You see a very dark tunnel.
+~
+northwest~
+0 -1 22717
+D8
+You see a very dark tunnel.
+~
+southeast~
+0 -1 22715
+D9
+You see a very dark tunnel.
+~
+southwest~
+0 -1 22719
+S
+#22724
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22725
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22720
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22721
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22716
+D6
+You see a very dark tunnel.
+~
+northeast~
+0 -1 22719
+D7
+You see a very dark tunnel.
+~
+northwest~
+0 -1 22716
+D8
+You see a very dark tunnel.
+~
+southeast~
+0 -1 22715
+D9
+You see a very dark tunnel.
+~
+southwest~
+0 -1 22723
+S
+#22725
+A very confusing looking tunnel~
+This tunnel looks alot like the tunnel you were just in. Maybe you are going
+in circles...As you move, the light and shadows play tricks on you. You think
+you see movement out of the corner of your eyes. But every time you look in 
+the direction of the suspected movement, you see nothing but shadows. Maybe
+your sanity is slipping...?
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22729
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22715
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22724
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22718
+D6
+You see a very dark tunnel.
+~
+northeast~
+0 -1 22717
+D7
+You see a very dark tunnel.
+~
+northwest~
+0 -1 22720
+D8
+You see a very dark tunnel.
+~
+southeast~
+0 -1 22718
+D9
+You see a very dark tunnel.
+~
+southwest~
+0 -1 22715
+S
+#22726
+A run down shack~
+This shack is very run down. It looks as if it hasn't had a day of cleaning
+in it's life. The door is no longer on the hinges (it was probably used for
+firewood). There is a smell of decadance to this place that is overpowering.
+You shudder to imagine the depths to which ones pride must plunge before
+living in a place such as this.
+~
+227 32776 0
+0d0+0 0 0
+D2
+You see a filthy looking tunnel.
+~
+south~
+0 -1 22714
+S
+#22727
+A run down shack~
+This shack is very run down. It looks as if it hasn't had a day of cleaning
+in it's life. The door is no longer on the hinges (it was probably used for
+firewood). There is a smell of decadance to this place that is overpowering.
+You shudder to imagine the depths to which ones pride must plunge before
+living in a place such as this.
+~
+227 32776 0
+0d0+0 0 0
+D3
+You see a filthy looking tunnel.
+~
+west~
+0 -1 22714
+S
+#22728
+A run down shack~
+This shack is very run down. It looks as if it hasn't had a day of cleaning
+in it's life. The door is no longer on the hinges (it was probably used for
+firewood). There is a smell of decadance to this place that is overpowering.
+You shudder to imagine the depths to which ones pride must plunge before
+living in a place such as this.
+~
+227 32776 0
+0d0+0 0 0
+D0
+You see a filthy looking tunnel.
+~
+north~
+0 -1 22714
+S
+#22729
+A very dark tunnel~
+This tunnel is very dark. Nothing here seems to reflect light very well. For
+one reason or another you feel as if the darkness is alive, breathing, living,
+surrounding you.
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22730
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22731
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22725
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22732
+S
+#22730
+A very dark tunnel~
+This tunnel is very dark. Nothing here seems to reflect light very well. For
+one reason or another you feel as if the darkness is alive, breathing, living,
+surrounding you.
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see a very dark tunnel.
+~
+north~
+0 -1 22735
+D2
+You see a very dark room.
+~
+south~
+0 -1 22729
+S
+#22731
+A very dark tunnel~
+This tunnel is very dark. Nothing here seems to reflect light very well. For
+one reason or another you feel as if the darkness is alive, breathing, living,
+surrounding you.
+~
+227 38913 0
+0d0+0 0 0
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22734
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22729
+S
+#22732
+A very dark tunnel~
+This tunnel is very dark. Nothing here seems to reflect light very well. For
+one reason or another you feel as if the darkness is alive, breathing, living,
+surrounding you.
+~
+227 38913 0
+0d0+0 0 0
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22729
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22733
+S
+#22733
+A very dark tunnel~
+This tunnel is very dark. Nothing here seems to reflect light very well. For
+one reason or another you feel as if the darkness is alive, breathing, living,
+surrounding you.
+~
+227 38913 0
+0d0+0 0 0
+D1
+You see a very dark tunnel.
+~
+east~
+0 -1 22732
+D7
+You see a tunnel leading down.
+~
+northwest~
+0 -1 22739
+S
+#22734
+A very dark tunnel~
+This tunnel is very dark. Nothing here seems to reflect light very well. For
+one reason or another you feel as if the darkness is alive, breathing, living,
+surrounding you.
+~
+227 38913 0
+0d0+0 0 0
+D3
+You see a very dark tunnel.
+~
+west~
+0 -1 22731
+D6
+You see a slightly sloping tunnel.
+~
+northeast~
+0 -1 22737
+S
+#22735
+A very dark tunnel~
+This tunnel is very dark. Nothing here seems to reflect light very well. For
+one reason or another you feel as if the darkness is alive, breathing, living,
+surrounding you.
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see the main gate.
+~
+north~
+0 -1 22736
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22730
+S
+#22736
+The main gate~
+This gate is huge. It towers above the floor of this tunnel like a huge
+monolith. Whoever built it obviously built it to last. You get the feeling
+that whoever did build it is no longer in charge of it. There are marks and
+scars on the gate that are the obvious side effect of a huge underground
+battle.
+~
+227 38913 0
+0d0+0 0 0
+D0
+~
+gate~
+2 22722 22785
+D2
+You see a very dark tunnel.
+~
+south~
+0 -1 22735
+S
+#22737
+A sloping tunnel~
+This tunnel slopes up to the northeast. You have the feeling that you are
+about to emerge somewhere very different than you have even been before.
+There is a tight knot in your stomache. Hopefully, wherever you emerge, 
+there is something there worth finding.
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see the eastern gate.
+~
+north~
+0 -1 22738
+D9
+You see a very dark tunnel.
+~
+southwest~
+0 -1 22734
+S
+#22738
+The eastern gate~
+This gate is rather large, It stands over ten feet tall, and spans a good
+six feet across it's width. The gate itself is made of solid oak, and the
+hinges and handle are made of a gold alloy which you have never seen before.
+~
+227 38913 0
+0d0+0 0 0
+D0
+~
+gate~
+2 22723 22786
+D2
+You see a slightly sloping tunnel.
+~
+south~
+0 -1 22737
+S
+#22739
+A tunnel leading down~
+This tunnel seems to lead down further into the heart of the earth. The
+walls of the tunnel seem to have been crafted of the finest workmanship, 
+dwarven by the look of them. You know for certain they are no longer occupied
+bye dwarves, there is no way dwarves would ever let their tunnels fall into
+such a ruined state. This tunnel is littered with feces of unknown origin.
+~
+227 38913 0
+0d0+0 0 0
+D0
+You see the gates to Clan Skryre's laboratories.
+~
+north~
+0 -1 22740
+D8
+You see a very dark tunnel.
+~
+southeast~
+0 -1 22733
+S
+#22740
+The gates to Clan Skryre's laboratories~
+Clan Skryre is the engineering Clan of the Skaven society. Their engineers
+have been responsible for such diabolical devices as the jezzail, the warpfire
+throwers, the screaming bell tower, and Ikit Claw's most recent success, the
+Doomwheel. These tunnels are where they conduct their experiments, and plan
+their schemes of destruction through technological advances.
+~
+227 38912 0
+0d0+0 0 0
+D0
+~
+gates~
+2 22720 22741
+D2
+You see a tunnel leading up.
+~
+south~
+0 -1 22739
+S
+#22741
+Between two large machines~
+As you enter this laboratory, you smell the fetid smell of swamp gas. There
+is also the lingering smell of burning hair and flesh. Smells like maybe 
+some experiments have gone awry (unless you look at it from a Skaven point
+of view that is). You are standing between two large machines. It is not
+very clear what their purpose is.
+~
+227 38920 0
+0d0+0 0 0
+D0
+You see a huge stack of barrels.
+~
+north~
+0 -1 22749
+D1
+You see the stairs leading up to the observation platform.
+~
+east~
+0 -1 22742
+D2
+~
+gates~
+2 22720 22740
+S
+#22742
+Stairs to the observation platform~
+You are standing on some metal stairs which lead up to the observation
+platforms. From your vantage point on the stairs, you can see numerous Skaven
+performing menial tasks in various locations. You can also see several small
+groups of human slaves, being forced to motor a huge wheel, which turns the
+gears on some of the machinery surrounding you.
+~
+227 38920 0
+0d0+0 0 0
+D1
+You see the observation platform.
+~
+east~
+0 -1 22743
+D3
+You see two large machines.
+~
+west~
+0 -1 22741
+S
+#22743
+The southern end of the observation platform~
+This is where the Warlock Masters stand and observe their underlings on
+the main floor below. From this vantage point you can see almost everywhere
+in the room. You notice that there are quite a few more vents up here than
+there is on the main floor. Obviously the elite of Clan Skryre would not
+prefer to be gassed with the poisonous gasses which sometimes occur 
+from an experiment gone wrong.
+~
+227 38920 0
+0d0+0 0 0
+D0
+You see the observation platform.
+~
+north~
+0 -1 22744
+D3
+You see the stairs to the main floor.
+~
+west~
+0 -1 22742
+S
+#22744
+The observation platform~
+You are standing right where the Warlock Masters and Engineers stand when
+observing the processes which occur below. In fact, you are probably standing
+among the Warlocks of Clan Skryre. It is a very good possibility, that they
+think you are nothing more than human slaves newly arrived from the battle.
+You may want to do your best to convinve them that you are not a new test
+subject, otherwise you may find yourself on the hot end of an experimental
+warpfire thrower.
+~
+227 38920 0
+0d0+0 0 0
+D0
+You see the observation platform.
+~
+north~
+0 -1 22745
+D2
+You see the southern end of the observation platform.
+~
+south~
+0 -1 22743
+S
+#22745
+The observation platform~
+You are standing right where the Warlock Masters and Engineers stand when
+observing the processes which occur below. In fact, you are probably standing
+among the Warlocks of Clan Skryre. It is a very good possibility, that they
+think you are nothing more than human slaves newly arrived from the battle.
+You may want to do your best to convinve them that you are not a new test
+subject, otherwise you may find yourself on the hot end of an experimental
+warpfire thrower.
+~
+227 38920 0
+0d0+0 0 0
+D0
+You see the northern end of the observation platform.
+~
+north~
+0 -1 22746
+D2
+You see the observation platform.
+~
+south~
+0 -1 22744
+S
+#22746
+The northern end of the observation platform~
+Here the platform runs smoothly up against the cavern wall. From this place
+on the observation platform you cannot see as much of the floor as you can
+from the rest, as your vision is obscured by the huge vats which line the
+northern end of the main floor. The vapors rising up from the vats make it
+nearly impossible to see anything beyond the vats themselves.
+~
+227 38920 0
+0d0+0 0 0
+D1
+~
+secret~
+1 -1 22758
+D2
+You see the observation platform.
+~
+south~
+0 -1 22745
+D3
+The chemicals in this vat bubble and swirl in a rainbow of colors.
+~
+west~
+0 -1 22747
+S
+#22747
+Into a huge vat~
+falling
+.......falling
+..............falling
+.....................falling
+............................falling
+...................................falling
+..........................................falling
+.................................................falling
+........................................................falling
+...............................................................falling
+..........................SPLASH!!!...................................
+
+That did not feel good!!!! The chemicals burn your eyes and sear your flesh
+as they swirl over your head and begin to fill your lungs. Next time, maybe
+you should think twice about diving head first into a vat full of chemicals
+whose origin is unknown...
+~
+227 55306 0
+1d1+199 90 0
+D5
+You see solid, chemical free (well relatively chemical free anyways), ground.
+~
+down~
+0 -1 22748
+S
+#22748
+Before a huge vat~
+To the north there is a huge vat. It stands so tall that you cannot see what
+is inside of it, although you can hear some kind of liquid bubbling and
+swirling high above you.
+~
+227 38920 0
+0d0+0 0 0
+D2
+You see a huge stack of barrels.
+~
+south~
+0 -1 22749
+D3
+You see an aisle between a testing range and some rather odd machinery.
+~
+west~
+0 -1 22750
+S
+#22749
+A large stack of barrels~
+You are standing next to a rather large stack of barrels. They seem full,
+because when you try to lift one it is rather heavy. There doesn't seem to
+be any way to get these barrels open. I guess you will never know what is
+in them...
+~
+227 38920 0
+0d0+0 0 0
+D0
+You see a huge vat.
+~
+north~
+0 -1 22748
+D2
+You see two large machines.
+~
+south~
+0 -1 22741
+E
+barrels~
+These barrels appear to be full of some kind of liquid. But since you seem
+to be unable to get them open, you may never know what the liquid is.
+
+~
+S
+#22750
+An aisle between the testing range and some rather odd machinery~
+You are standing in an aisle. To the south of you, there appears to be some
+sort of testing range, you are not sure what exactly they test there, but
+you are sure you would not like to find out. To the north of you there is
+a huge wheel, which human slaves are goaded, by whipping, into turning. It
+seems that the faster the humans run to get away from the deadly lashings,
+the faster the wheel turns. This must be the objective of the Skaven warlocks
+because they seem intent on making the humans run faster than you would have
+ever thought.
+~
+227 38920 0
+0d0+0 0 0
+D0
+You see a huge wheel.
+~
+north~
+0 -1 22751
+D1
+You see a huge vat.
+~
+east~
+0 -1 22748
+D2
+You see the testing range.
+~
+south~
+0 -1 22755
+D3
+You see an aisle between the testing range and some odd machinery.
+~
+west~
+0 -1 22752
+S
+#22751
+Inside a huge wheel~
+You are standing inside a huge wheel. There are quite a few human slaves 
+here, being constantly whipped by a Skaven to make the wheel turn faster. 
+The Skaven himself is suspended in a device which allows him to whip the
+humans without haveing to endure the effort of running along with the human
+slaves inside the wheel. He obviously thinks you are one of the replacement
+slaves sent in from the battle, to releive the human who just had a heart
+attack from running to hard.
+~
+227 38920 0
+0d0+0 0 0
+D2
+You see the aisle between the testing range and some odd machinery.
+~
+south~
+0 -1 22750
+S
+#22752
+An aisle between the testing range and some rather odd machinery~
+To the south is still the testing range, while to the north is a huge table
+like platform. The platform has manacles on it, the kind you would imagine
+were used on Frakenstein's monster while he was being stiched together. The
+platform looks as if it was made to be raised or lowered depending on what
+setting the Skaven had the lever on. When raised, you can see that the 
+platform is about three feet below a huge device which looks as if it is
+used to emit some sort of energy.
+~
+227 38920 0
+0d0+0 0 0
+D0
+As you look north, you see the Skaven anxiously desiring for you to step
+onto the platform...
+~
+north~
+0 -1 22753
+D1
+You see an aisle between the testing range and some odd machinery.
+~
+east~
+0 -1 22750
+D2
+You see the testing range.
+~
+south~
+0 -1 22754
+S
+#22753
+On the platform~
+As you step onto the platform the Skaven gleefully throws the lever. The
+platform raises very quickly and when it reaches the top, you are infused
+with warp lightning. You realize that the Clan Skryre laboratories are not
+the safest place to go wandering around for the fun of it...
+~
+227 55306 0
+1d1+199 90 0
+D2
+You see an aisle free of warp lightning...it looks inviting!
+~
+south~
+0 -1 22752
+S
+#22754
+The testing range~
+This is a large field set aside for various testing procedures. The whole
+field seems to be coated with asbestos and other flame retardant chemicals.
+There are various scorched objects here, but for the most part there is
+only ash laying on the ground.
+~
+227 38920 0
+0d0+0 0 0
+D0
+You see an aisle between the testing range and some odd machinery.
+~
+north~
+0 -1 22752
+D1
+You see the testing range.
+~
+east~
+0 -1 22755
+D2
+You see huge flames engulfing this section of the testing area.
+~
+south~
+0 -1 22757
+S
+#22755
+The testing range~
+This is a large field set aside for various testing procedures. The whole
+field seems to be coated with asbestos and other flame retardant chemicals.
+There are various scorched objects here, but for the most part there is
+only ash laying on the ground.
+~
+227 38920 0
+0d0+0 0 0
+D0
+You see an aisle between the testing range and some odd machinery.
+~
+north~
+0 -1 22750
+D2
+You see the testing range.
+~
+south~
+0 -1 22756
+D3
+You see the testing range.
+~
+west~
+0 -1 22754
+S
+#22756
+The testing range~
+This is a large field set aside for various testing procedures. The whole
+field seems to be coated with asbestos and other flame retardant chemicals.
+There are various scorched objects here, but for the most part there is
+only ash laying on the ground.
+~
+227 38920 0
+0d0+0 0 0
+D0
+You see the testing range.
+~
+north~
+0 -1 22755
+D3
+You see huge flames ungulfing this section of the testing range.
+~
+west~
+0 -1 22757
+S
+#22757
+A portion of the testing range currently in use~
+As you step onto this part of the testing range you are ungulfed in warpflame!
+The flame engulfs your body and begins to sear your very bones to the core.
+You have never felt such a hot flame. As the flames begin to burn your very
+soul, you wonder if you are gonna end up just another pile of ashes on the
+Clan Skryre testing range...
+~
+227 55306 0
+1d1+199 90 0
+D0
+You see an area free of warp fire.
+~
+north~
+0 -1 22754
+D1
+You see an area free of warp fire.
+~
+east~
+0 -1 22756
+S
+#22758
+A secret tunnel~
+This tunnel is what the Warlock Masters use to make a quick getaway when
+an experiment goes terrible wrong. The lower Warlocks have no knowledge of
+this tunnels existence, but that doesn't matter anyways because when things
+go wrong, they are usually not around afterwards to be upset about not knowing
+about the escape route.
+~
+227 38912 0
+0d0+0 0 0
+D3
+~
+secret~
+1 -1 22746
+D6
+You see a tunnel.
+~
+northeast~
+0 -1 22759
+S
+#22759
+A secret tunnel~
+The escape tunnel spirals up here. It seems to be leading toward the surface.
+This would make alot of sense, because where else would the Warlock Masters
+escape to besides Skavenblight.
+~
+227 38912 0
+0d0+0 0 0
+D7
+You see a tunnel.
+~
+northwest~
+0 -1 22760
+D9
+You see a tunnel.
+~
+southwest~
+0 -1 22758
+S
+#22760
+A secret tunnel~
+The tunnel seems to be directly below the streets of Skavenblight right now.
+You can hear the busy Skaven above going about their busy days work, scheming
+and plotting about how they can either get in favor with, or overthrow the
+Council of Thirteen.
+~
+227 38912 0
+0d0+0 0 0
+D6
+~
+secret~
+2 -1 22818
+D8
+You see a tunnel.
+~
+southeast~
+0 -1 22759
+S
+#22761
+The guarded entrance to Clan Eshin's training grounds~
+This entrance is heavily guarded. Clan Eshin has no desire to have their
+secrets and methods studied by just anybody. The Skaven assassins here are
+ordered not to attack anyone, but not to let any but the highest levels
+past.
+~
+227 34945 0
+0d0+0 0 0
+D1
+~
+gates~
+1 -1 22762
+D3
+You see a very confusing looking tunnel.
+~
+west~
+0 -1 22722
+S
+#22762
+A tunnel leading to the Circle of Assassins~
+This path leads to the legendary Circle of Assassins. The Circle of Assassins
+is where Clan Eshin decides (by way of elimination) who does, and who doesn't
+become a Clan Eshin Assassin.
+~
+227 34817 0
+0d0+0 0 0
+D1
+You see a tunnel leading to the Circle of Assassins.
+~
+east~
+0 -1 22763
+D3
+~
+gates~
+1 -1 22761
+S
+#22763
+A tunnel leading to the Circle of Assassins~
+This path leads to the legendary Circle of Assassins. The Circle of Assassins
+is where Clan Eshin decides (by way of elimination) who does, and who doesn't
+become a Clan Eshin Assassin.
+~
+227 34817 0
+0d0+0 0 0
+D0
+You see a tunnel leading to the Circle of Assassins.
+~
+north~
+0 -1 22764
+D3
+You see a tunnel leading to the Circle of Assassins.
+~
+west~
+0 -1 22762
+S
+#22764
+A tunnel leading to the Circle of Assassins~
+This path leads to the legendary Circle of Assassins. The Circle of Assassins
+is where Clan Eshin decides (by way of elimination) who does, and who doesn't
+become a Clan Eshin Assassin.
+~
+227 34817 0
+0d0+0 0 0
+D0
+You see a tunnel leading to the Circle of Assassins.
+~
+north~
+0 -1 22765
+D2
+You see a tunnel leading to the Circle of Assassins.
+~
+south~
+0 -1 22763
+S
+#22765
+A tunnel leading to the Circle of Assassins~
+This path leads to the legendary Circle of Assassins. The Circle of Assassins
+is where Clan Eshin decides (by way of elimination) who does, and who doesn't
+become a Clan Eshin Assassin.
+~
+227 34817 0
+0d0+0 0 0
+D2
+You see a tunnel leading to the Circle of Assassins.
+~
+south~
+0 -1 22764
+D3
+You see a tunnel leading to the Circle of Assassins.
+~
+west~
+0 -1 22766
+S
+#22766
+A tunnel leading to the Circle of Assassins~
+This path leads to the legendary Circle of Assassins. The Circle of Assassins
+is where Clan Eshin decides (by way of elimination) who does, and who doesn't
+become a Clan Eshin Assassin.
+~
+227 34817 0
+0d0+0 0 0
+D1
+You see a tunnel leading to the Circle of Assassins.
+~
+east~
+0 -1 22765
+D3
+You see a tunnel leading to the Circle of Assassins.
+~
+west~
+0 -1 22767
+S
+#22767
+A tunnel leading to the Circle of Assassins~
+This path leads to the legendary Circle of Assassins. The Circle of Assassins
+is where Clan Eshin decides (by way of elimination) who does, and who doesn't
+become a Clan Eshin Assassin.
+~
+227 34817 0
+0d0+0 0 0
+D0
+You see a tunnel leading to the Circle of Assassins.
+~
+north~
+0 -1 22768
+D1
+You see a tunnel leading to the Circle of Assassins.
+~
+east~
+0 -1 22766
+S
+#22768
+Standing before the Circle of Assassins~
+You wonder if you should be here. The rumors of what has happened to all
+who have crossed Clan Eshin haunt your memory like a shadowy wraith. You
+recall the stories of High Mages being found slain inside their studies, with
+the doors locked from within. Clan Eshin may not be the safest group of
+Skaven to be messing with.
+~
+227 34817 0
+0d0+0 0 0
+D0
+~
+circle~
+1 22724 22769
+D2
+You see a tunnel leading to the Circle of Assassins.
+~
+south~
+0 -1 22767
+S
+#22769
+The Circle of Assassins~
+This is the legendary training grounds of the Skaven Clan Eshin. Clan Eshin
+is notorious the whole world over for their efficiency in the art of murder.
+Whenever a whole family is found murdered, while the guards who sleep at
+the foot of their beds lay undisturbed, you can bet it was the work of Clan
+Eshin assassins.
+~
+227 33537 0
+0d0+0 0 0
+D2
+~
+circle~
+1 -1 22768
+D6
+You see the Circle of Assassins.
+~
+northeast~
+0 -1 22775
+S
+#22770
+The Circle of Assassins~
+This is the legendary training grounds of the Skaven Clan Eshin. Clan Eshin
+is notorious the whole world over for their efficiency in the art of murder.
+Whenever a whole family is found murdered, while the guards who sleep at
+the foot of their beds lay undisturbed, you can bet it was the work of Clan
+Eshin assassins.
+~
+227 33281 0
+0d0+0 0 0
+D7
+You see the Circle of Assassins.
+~
+northwest~
+0 -1 22781
+D8
+You see the Circle of Assassins.
+~
+southeast~
+0 -1 22776
+S
+#22771
+The Circle of Assassins~
+This is the legendary training grounds of the Skaven Clan Eshin. Clan Eshin
+is notorious the whole world over for their efficiency in the art of murder.
+Whenever a whole family is found murdered, while the guards who sleep at
+the foot of their beds lay undisturbed, you can bet it was the work of Clan
+Eshin assassins.
+~
+227 33281 0
+0d0+0 0 0
+D8
+You see the Circle of Assassins.
+~
+southeast~
+0 -1 22781
+D9
+You see the Circle of Assassins.
+~
+southwest~
+0 -1 22772
+S
+#22772
+The Circle of Assassins~
+This is the legendary training grounds of the Skaven Clan Eshin. Clan Eshin
+is notorious the whole world over for their efficiency in the art of murder.
+Whenever a whole family is found murdered, while the guards who sleep at
+the foot of their beds lay undisturbed, you can bet it was the work of Clan
+Eshin assassins.
+~
+227 33281 0
+0d0+0 0 0
+D6
+You see the Circle of Assassins.
+~
+northeast~
+0 -1 22771
+D9
+You see the Circle of Assassins.
+~
+southwest~
+0 -1 22777
+S
+#22773
+The Circle of Assassins~
+This is the legendary training grounds of the Skaven Clan Eshin. Clan Eshin
+is notorious the whole world over for their efficiency in the art of murder.
+Whenever a whole family is found murdered, while the guards who sleep at
+the foot of their beds lay undisturbed, you can bet it was the work of Clan
+Eshin assassins.
+~
+227 33281 0
+0d0+0 0 0
+D8
+You see the Circle of Assassins.
+~
+southeast~
+0 -1 22779
+D9
+You see the Circle of Assassins.
+~
+southwest~
+0 -1 22774
+S
+#22774
+The Circle of Assassins~
+This is the legendary training grounds of the Skaven Clan Eshin. Clan Eshin
+is notorious the whole world over for their efficiency in the art of murder.
+Whenever a whole family is found murdered, while the guards who sleep at
+the foot of their beds lay undisturbed, you can bet it was the work of Clan
+Eshin assassins.
+~
+227 33281 0
+0d0+0 0 0
+D6
+You see the Circle of Assassins.
+~
+northeast~
+0 -1 22773
+S
+#22775
+The Circle of Assassins~
+As you look around you, you get the feeling that you may not be alone in
+this room. The presence of unseen adversaries weights heavily on your sub-
+consience. Clan Eshin assassins are the epitomy of stealth. It has been said
+that a Clan Eshin assassin can sneak in and out of a dragon's nest without so
+much as leaving a scent behind for the dragon to smell.
+~
+227 33281 0
+0d0+0 0 0
+D6
+You see the Circle of Assassins.
+~
+northeast~
+0 -1 22780
+D9
+You see the Circle of Assassins.
+~
+southwest~
+0 -1 22769
+S
+#22776
+The Circle of Assassins~
+As you look around you, you get the feeling that you may not be alone in
+this room. The presence of unseen adversaries weights heavily on your sub-
+consience. Clan Eshin assassins are the epitomy of stealth. It has been said
+that a Clan Eshin assassin can sneak in and out of a dragon's nest without so
+much as leaving a scent behind for the dragon to smell.
+~
+227 33281 0
+0d0+0 0 0
+D7
+You see the Circle of Assassins.
+~
+northwest~
+0 -1 22770
+D9
+You see the Circle of Assassins.
+~
+southwest~
+0 -1 22780
+S
+#22777
+The Circle of Assassins~
+As you look around you, you get the feeling that you may not be alone in
+this room. The presence of unseen adversaries weights heavily on your sub-
+consience. Clan Eshin assassins are the epitomy of stealth. It has been said
+that a Clan Eshin assassin can sneak in and out of a dragon's nest without so
+much as leaving a scent behind for the dragon to smell.
+~
+227 33281 0
+0d0+0 0 0
+D6
+You see the Circle of Assassins.
+~
+northeast~
+0 -1 22772
+D9
+You see the Circle of Assassins.
+~
+southwest~
+0 -1 22782
+S
+#22778
+The Circle of Assassins~
+As you look around you, you get the feeling that you may not be alone in
+this room. The presence of unseen adversaries weights heavily on your sub-
+consience. Clan Eshin assassins are the epitomy of stealth. It has been said
+that a Clan Eshin assassin can sneak in and out of a dragon's nest without so
+much as leaving a scent behind for the dragon to smell.
+~
+227 33281 0
+0d0+0 0 0
+D6
+You see the Circle of Assassins.
+~
+northeast~
+0 -1 22784
+D7
+You see the Circle of Assassins.
+~
+northwest~
+0 -1 22783
+S
+#22779
+The Circle of Assassins~
+As you look around you, you get the feeling that you may not be alone in
+this room. The presence of unseen adversaries weights heavily on your sub-
+consience. Clan Eshin assassins are the epitomy of stealth. It has been said
+that a Clan Eshin assassin can sneak in and out of a dragon's nest without so
+much as leaving a scent behind for the dragon to smell.
+~
+227 33281 0
+0d0+0 0 0
+D7
+You see the Circle of Assassins.
+~
+northwest~
+0 -1 22773
+D9
+You see the Circle of Assassins.
+~
+southwest~
+0 -1 22784
+S
+#22780
+The Circle of Assassins~
+These tunnels are heavy with the scent of death. The Skaven who wish to be
+Clan Eshin Assassins are first trained as gutter runners, then, when they
+feel they are worthy to become an Eshin Assassin, they are sent down here,
+to the Circle of Assassins. Here they either triumph and become one of the
+legendary Eshin Assassins, or they become practice for the new and improved
+methods of the already elite assassins who roam these tunnels.
+~
+227 33281 0
+0d0+0 0 0
+D6
+You see the Circle of Assassins.
+~
+northeast~
+0 -1 22776
+D9
+You see the Circle of Assassins.
+~
+southwest~
+0 -1 22775
+S
+#22781
+The Circle of Assassins~
+These tunnels are heavy with the scent of death. The Skaven who wish to be
+Clan Eshin Assassins are first trained as gutter runners, then, when they
+feel they are worthy to become an Eshin Assassin, they are sent down here,
+to the Circle of Assassins. Here they either triumph and become one of the
+legendary Eshin Assassins, or they become practice for the new and improved
+methods of the already elite assassins who roam these tunnels.
+~
+227 33281 0
+0d0+0 0 0
+D7
+You see the Circle of Assassins.
+~
+northwest~
+0 -1 22771
+D8
+You see the Circle of Assassins.
+~
+southeast~
+0 -1 22770
+S
+#22782
+The Circle of Assassins~
+These tunnels are heavy with the scent of death. The Skaven who wish to be
+Clan Eshin Assassins are first trained as gutter runners, then, when they
+feel they are worthy to become an Eshin Assassin, they are sent down here,
+to the Circle of Assassins. Here they either triumph and become one of the
+legendary Eshin Assassins, or they become practice for the new and improved
+methods of the already elite assassins who roam these tunnels.
+~
+227 33281 0
+0d0+0 0 0
+D6
+You see the Circle of Assassins.
+~
+northeast~
+0 -1 22777
+D8
+You see the Circle of Assassins.
+~
+southeast~
+0 -1 22783
+S
+#22783
+The Circle of Assassins~
+These tunnels are heavy with the scent of death. The Skaven who wish to be
+Clan Eshin Assassins are first trained as gutter runners, then, when they
+feel they are worthy to become an Eshin Assassin, they are sent down here,
+to the Circle of Assassins. Here they either triumph and become one of the
+legendary Eshin Assassins, or they become practice for the new and improved
+methods of the already elite assassins who roam these tunnels.
+~
+227 33281 0
+0d0+0 0 0
+D7
+You see the Circle of Assassins.
+~
+northwest~
+0 -1 22782
+D8
+You see the Circle of Assassins.
+~
+southeast~
+0 -1 22778
+S
+#22784
+The Circle of Assassins~
+These tunnels are heavy with the scent of death. The Skaven who wish to be
+Clan Eshin Assassins are first trained as gutter runners, then, when they
+feel they are worthy to become an Eshin Assassin, they are sent down here,
+to the Circle of Assassins. Here they either triumph and become one of the
+legendary Eshin Assassins, or they become practice for the new and improved
+methods of the already elite assassins who roam these tunnels.
+~
+227 33281 0
+0d0+0 0 0
+D6
+You see the Circle of Assassins.
+~
+northeast~
+0 -1 22779
+D9
+You see the Circle of Assassins.
+~
+southwest~
+0 -1 22778
+S
+#22785
+On the streets of Skaveblight~
+Your first glimpse of Skavenblight tells you right away that this is not a 
+nice city. You see hundreds of Skaven running around, trying to get ahead in
+their little Skaven plots and schemes. Noone seems to have the time to stop
+and consider anyone else. Not that any Skaven ever considers someone else
+anyways.
+~
+227 33280 1
+0d0+0 0 0
+D0
+You see the Streets of Skavenblight.
+~
+north~
+0 -1 22787
+D2
+~
+gate~
+2 22722 22736
+S
+#22786
+On the streets of Skaveblight~
+Your first glimpse of Skavenblight tells you right away that this is not a 
+nice city. You see hundreds of Skaven running around, trying to get ahead in
+their little Skaven plots and schemes. Noone seems to have the time to stop
+and consider anyone else. Not that any Skaven ever considers someone else
+anyways.
+~
+227 33280 1
+0d0+0 0 0
+D0
+You see the streets of Skavenblight.
+~
+north~
+0 -1 22789
+D2
+~
+gate~
+2 22723 22738
+S
+#22787
+On the streets of Skaveblight~
+These streets are filthy. There are bones just laying around (you shudder to
+consider what kind of bones they may be), there is trash and decaying waste
+strewn about the city, and the aura of pestilens is overpowering.
+~
+227 33280 1
+0d0+0 0 0
+D0
+You see the streets of Skavenblight.
+~
+north~
+0 -1 22788
+D2
+You see the streets of Skavenblight.
+~
+south~
+0 -1 22785
+S
+#22788
+On the streets of Skaveblight~
+These streets are filthy. There are bones just laying around (you shudder to
+consider what kind of bones they may be), there is trash and decaying waste
+strewn about the city, and the aura of pestilence is overpowering.
+~
+227 33280 1
+0d0+0 0 0
+D0
+You see a guarded intersection.
+~
+north~
+0 -1 22794
+D1
+You see the streets of Skavenblight.
+~
+east~
+0 -1 22790
+D2
+You see the streets of Skavenblight.
+~
+south~
+0 -1 22787
+S
+#22789
+On the streets of Skaveblight~
+These streets are filthy. There are bones just laying around (you shudder to
+consider what kind of bones they may be), there is trash and decaying waste
+strewn about the city, and the aura of pestilens is overpowering.
+~
+227 33280 1
+0d0+0 0 0
+D0
+You see the shadow of the Clan Mors arena.
+~
+north~
+0 -1 22792
+D2
+You see the streets of Skavenblight.
+~
+south~
+0 -1 22786
+S
+#22790
+A street leading to the Clan Mors training arena~
+This road veers off to the east. In the distance you see a huge arena. It 
+looks as if there is a huge crowd waiting outside to get into the arena.
+This street seems to be a little better maintained than the few other ones
+you have seen so far.
+~
+227 33280 0
+0d0+0 0 0
+D1
+You see the streets of Skavenblight.
+~
+east~
+0 -1 22791
+D3
+You see the streets of Skavenblight.
+~
+west~
+0 -1 22788
+S
+#22791
+A street leading to the Clan Mors training arena~
+This road veers off to the east. In the distance you see a huge arena. It 
+looks as if there is a huge crowd waiting outside to get into the arena.
+This street seems to be a little better maintained than the few other ones
+you have seen so far.
+~
+227 33280 0
+0d0+0 0 0
+D1
+You see the streets of Skavenblight.
+~
+east~
+0 -1 22792
+D3
+You see the streets of Skavenblight.
+~
+west~
+0 -1 22790
+S
+#22792
+A street leading to the Clan Mors training arena~
+This road veers off to the east. In the distance you see a huge arena. It 
+looks as if there is a huge crowd waiting outside to get into the arena.
+This street seems to be a little better maintained than the few other ones
+you have seen so far.
+~
+227 33280 0
+0d0+0 0 0
+D1
+You see the shadow of the Clan Mors arena.
+~
+east~
+0 -1 22793
+D2
+You see the streets of Skavenblight.
+~
+south~
+0 -1 22789
+D3
+You see the streets of Skavenblight.
+~
+west~
+0 -1 22791
+S
+#22793
+In the shadow of the Clan Mors Arena~
+You are standing just behind the crowds of Skaven waiting to get into the
+Clan Mors arena. Obviously the Skaven love to watch their warriors train.
+Perhaps they love the thrill of seeing a Skaven truimph over their opponent,
+or perhaps they just love the thrill of seeing bloodshed, you are unsure
+which one is the reason.
+~
+227 33280 0
+0d0+0 0 0
+D1
+You see the entrance to the Clan Mors arena.~
+east~
+0 -1 22853
+D3
+You see the treets of Skavenblight,
+~
+west~
+0 -1 22792
+S
+#22794
+A guarded intersection~
+Here the road splits up into two different paths. You see wagons being drawn
+by Skaven slaves heading to the northeast, and large cages being hauled off
+to the west. You don't really have time to get a good look at anything though
+because the second you are spotted by the Skaven guards, they attack!
+~
+227 33280 0
+0d0+0 0 0
+D2
+You see the streets of Skavenblight.
+~
+south~
+0 -1 22788
+D3
+You see a dirt road.
+~
+west~
+0 -1 22800
+D6
+You see the streets of Skavenblight.
+~
+northeast~
+0 -1 22795
+S
+#22795
+A road leading to the Shattered tower~
+As you look up you notice a VERY tall bell tower. In fact the bell tower is
+so high that you cannot even see the bell at the top. The only way you even
+know that it is a bell tower is the incessant chiming of the bell high above
+your head.
+~
+227 33280 1
+0d0+0 0 0
+D1
+You see the streets of Skavenblight.
+~
+east~
+0 -1 22796
+D9
+You see the streets of Skavenblight.
+~
+southwest~
+0 -1 22794
+S
+#22796
+A road leading to the Shattered tower~
+As you look up you notice a VERY tall bell tower. In fact the bell tower is
+so high that you cannot even see the bell at the top. The only way you even
+know that it is a bell tower is the incessant chiming of the bell high above
+your head.
+~
+227 33280 1
+0d0+0 0 0
+D0
+You see the streets of Skavenblight.
+~
+north~
+0 -1 22797
+D3
+You see the streets of Skavenblight.
+~
+west~
+0 -1 22795
+S
+#22797
+A road leading to the Shattered tower~
+As you look up you notice a VERY tall bell tower. In fact the bell tower is
+so high that you cannot even see the bell at the top. The only way you even
+know that it is a bell tower is the incessant chiming of the bell high above
+your head.
+~
+227 33280 1
+0d0+0 0 0
+D1
+You see the streets of Skavenblight.
+~
+east~
+0 -1 22798
+D2
+You see the streets of Skavenblight.
+~
+south~
+0 -1 22796
+S
+#22798
+Standing before the Shattered Tower~
+Here the shadow of the bell tower is so large and dark that you need a light
+to be able to see. The very presence of the bell tower creates an ominous
+aura about this whole city. You wonder about the origins of this immense and
+mysterious tower.
+~
+227 33281 1
+0d0+0 0 0
+D0
+You see the gates to the Shattered Tower.
+~
+north~
+0 -1 22799
+D3
+You see the streets of Skavenblight.
+~
+west~
+0 -1 22797
+S
+#22799
+The gates of the Shattered Tower~
+These gates are huge. From their appearance, it would seem they were erected
+after the tower was completed. Maybe they were added as an afterthought, or
+perhaps the original builders did not think they needed to be able to keep
+anyone out...
+~
+227 33281 1
+0d0+0 0 0
+D0
+~
+gates~
+2 22719 22816
+D2
+You see the streets of Skavenblight.
+~
+south~
+0 -1 22798
+S
+#22800
+A dirt side street~
+This street is not paved like the other streets here in Skavenblight. There
+are numerous Skaven heading west, bearing either backpacks full of some
+unknown material, or hauling HUGE cages with them.
+~
+227 33280 1
+0d0+0 0 0
+D1
+You see a guarded intersection.
+~
+east~
+0 -1 22794
+D3
+You see a dirt road.
+~
+west~
+0 -1 22801
+S
+#22801
+A dirt road~
+As you wander along this road, you can hear very strange sounds coming from
+the northwest. Sounds which you have never heard before. They are loud and
+very distinct. They almost sound like the sound a VERY large creature would
+make. They make you rather uneasy.
+~
+227 33280 1
+0d0+0 0 0
+D0
+You see the entrance to the Clan Moulder breeding pits.
+~
+north~
+0 -1 22802
+D1
+You see a dirt road.
+~
+east~
+0 -1 22800
+S
+#22802
+The entrance to the Clan Moulder breeding pits~
+This is the entrance to a rather long building. This is where all the Skaven
+with heavy packs and huge cages seem to be headed. As you near the entrance
+to this building, you catch a whiff of a VERY nasty odor wafting out of the
+building itself. It does not seem like the denizens of this building care
+overly much about personal hygien.
+~
+227 33280 1
+0d0+0 0 0
+D2
+You see a dirt road.
+~
+south~
+0 -1 22801
+D3
+~
+gates~
+2 22725 22803
+S
+#22803
+Inside the Clan Moulder building~
+You have just set foot in the Clan Moulder building. Clan Moulder is the clan
+dedicated to breeding war beasts using the mutating effects of warpstone.
+Their biggest success to date are the terrifying rat ogres. This building
+is where they conduct their experiments and cross-breedings to achieve there
+monsters of war. There is no telling what kind of horrors you will encounter
+here.
+~
+227 33288 0
+0d0+0 0 0
+D1
+~
+gates~
+2 22725 22802
+D3
+You see the edge of a pit.
+~
+west~
+0 -1 22804
+S
+#22804
+The edge of a pit~
+You are standing at the edge of a pit. Down below you lay the beasts which
+can only exist through the combined mutating effects of warpstone and the
+devious cross-breeding efforts of the Clan Moulder packmasters.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see the inside of the Clan Moulder building.
+~
+east~
+0 -1 22803
+D3
+You see a walkway between the breeding pits.
+~
+west~
+0 -1 22808
+D5
+You see a Clan Moulder breeding pit.
+~
+down~
+0 -1 22815
+S
+#22805
+The edge of a pit~
+You are standing at the edge of a pit. Down below you lay the beasts which
+can only exist through the combined mutating effects of warpstone and the
+devious cross-breeding efforts of the Clan Moulder packmasters.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see a walkway between the breeding pits.
+~
+east~
+0 -1 22808
+D3
+You see w walkway between the breeding pits.
+~
+west~
+0 -1 22809
+D5
+You see a Clan Moulder breeding pit.
+~
+down~
+0 -1 22814
+S
+#22806
+The edge of a pit~
+You are standing at the edge of a pit. Down below you lay the beasts which
+can only exist through the combined mutating effects of warpstone and the
+devious cross-breeding efforts of the Clan Moulder packmasters.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see a walkway between the breeding pits.
+~
+east~
+0 -1 22809
+D3
+You see a walkway between the breeding pits.
+~
+west~
+0 -1 22810
+D5
+You see a Clan Moulder breeding pit.
+~
+down~
+0 -1 22813
+S
+#22807
+The edge of a pit~
+You are standing at the edge of a pit. Down below you lay the beasts which
+can only exist through the combined mutating effects of warpstone and the
+devious cross-breeding efforts of the Clan Moulder packmasters.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see a walkway between the breeding pits.
+~
+east~
+0 -1 22810
+D3
+You see the food storage room.
+~
+west~
+0 -1 22811
+D5
+You see a Clan Moulder breeding pit.
+~
+down~
+0 -1 22812
+S
+#22808
+A walkway between the breeding pits~
+You are standing on a plank board walkway that connects the breeding pits.
+This is where the packmasters stand where feeding the mutated creatures below. 
+This is probably a good idea, because most of the beasts below do not care
+who is friend or foe when they get hungry.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see the edge of a pit.
+~
+east~
+0 -1 22804
+D3
+You see the edge of a pit.
+~
+west~
+0 -1 22805
+S
+#22809
+A walkway between the breeding pits~
+You are standing on a plank board walkway that connects the breeding pits.
+This is where the packmasters stand where feeding the mutated creatures below. 
+This is probably a good idea, because most of the beasts below do not care
+who is friend or foe when they get hungry.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see the edge of a pit.
+~
+east~
+0 -1 22805
+D3
+You see the edge of a pit.
+~
+west~
+0 -1 22806
+S
+#22810
+A walkway between the breeding pits~
+You are standing on a plank board walkway that connects the breeding pits.
+This is where the packmasters stand where feeding the mutated creatures below. 
+This is probably a good idea, because most of the beasts below do not care
+who is friend or foe when they get hungry.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see the edge of a pit.
+~
+east~
+0 -1 22806
+D3
+You see the egde of a pit.
+~
+west~
+0 -1 22807
+S
+#22811
+The food storage room~
+This room is full of crates of all types of meat. From what you have seen of
+the Skaven so far, you hate to speculate on what kinds of meats are in the
+crates. The meat must be the food supply for the mutated creatures.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see the edge of a pit.
+~
+east~
+0 -1 22807
+S
+#22812
+A Clan Moulder breeding pit~
+There really isn't much to this pit. It is actually nothing more than just
+a huge hole in the ground. There is a rope ladder which is too small for the
+mutated creatures to use. The rope ladder leads up to the edge of the pit.
+~
+227 33288 0
+0d0+0 0 0
+D4
+You see the edge of a pit.
+~
+up~
+0 -1 22807
+S
+#22813
+A Clan Moulder breeding pit~
+There really isn't much to this pit. It is actually nothing more than just
+a huge hole in the ground. There is a rope ladder which is too small for the
+mutated creatures to use. The rope ladder leads up to the edge of the pit.
+~
+227 33288 0
+0d0+0 0 0
+D4
+You see the edge of a pit.
+~
+up~
+0 -1 22806
+S
+#22814
+A Clan Moulder breeding pit~
+There really isn't much to this pit. It is actually nothing more than just
+a huge hole in the ground. There is a rope ladder which is too small for the
+mutated creatures to use. The rope ladder leads up to the edge of the pit.
+~
+227 33288 0
+0d0+0 0 0
+D4
+You see the edge of a pit.
+~
+up~
+0 -1 22805
+S
+#22815
+A Clan Moulder breeding pit~
+There really isn't much to this pit. It is actually nothing more than just
+a huge hole in the ground. There is a rope ladder which is too small for the
+mutated creatures to use. The rope ladder leads up to the edge of the pit.
+~
+227 33288 0
+0d0+0 0 0
+D4
+You see the edge of a pit.
+~
+up~
+0 -1 22804
+S
+#22816
+The entrance to the Shattered Tower~
+This tower looks more like a temple than a tower. The walls are all carved of
+pure marble. The floors are also made of marble, with ivory and gold inlays.
+Despite the beauty of the temple, you sense an aura of doom lingering in the
+air.
+~
+227 33288 0
+0d0+0 0 0
+D0
+You see the sacred halls of the Shattered Tower.
+~
+north~
+0 -1 22817
+D2
+~
+gates~
+2 22719 22799
+S
+#22817
+The sacred halls of the Shattered Tower~
+The marble which is so noticeable at the entrance to this tower abounds here
+as well. There are several pillars supporting the upper levels of this tower
+here. On the pillars you notice the straight-charactered runic symbols which
+seem to be so prevalent in Skaven society. To the north you see a huge pillar
+which seems so be glowing with a black-green aura.
+~
+227 33288 0
+0d0+0 0 0
+D0
+You see a huge black-green pillar.
+~
+north~
+0 -1 22822
+D1
+You see the sacred halls of the Shattered Tower.
+~
+east~
+0 -1 22819
+D2
+You see the entrance to the Shattered Tower.
+~
+south~
+0 -1 22816
+D3
+You see the sacred halls of the Shattered Tower.
+~
+west~
+0 -1 22818
+S
+#22818
+The southwest corner of the Shattered Tower.~
+You are standing in the southwestern corner of the Shattered Tower. All
+around you you see the mark of the Skaven. What was once a beautiful temple,
+now has an immense feeling of dread and fear.
+~
+227 33288 0
+0d0+0 0 0
+D0
+You see the sacred halls of the Shattered Tower.
+~
+north~
+0 -1 22821
+D1
+You see the sacred halls of the Shattered Tower.
+~
+east~
+0 -1 22817
+D9
+~
+secret~
+1 -1 22760
+S
+#22819
+The southeast corner of the Shattered Tower~
+You are standing in the southeast corner of the Shattered Tower. The floors
+here are so shiny that you can see your reflection in the marble. There
+appears to be something abnormal about the wall in this corner.
+~
+227 33288 0
+0d0+0 0 0
+D0
+You see the sacred halls of the Shattered Tower.
+~
+north~
+0 -1 22820
+D3
+You see the sacred halls of the Shattered Tower.
+~
+west~
+0 -1 22817
+D8
+~
+wall~
+1 22828 22877
+S
+#22820
+The northeast corner of the Shattered Tower~
+You are standing in the northeast corner of the Shattered Tower. There are
+Skaven symbol carved into both walls which meet at this corner. To the west
+you see a huge pillar which seems to be glowing with a black-green aura.
+~
+227 33288 0
+0d0+0 0 0
+D2
+You see the sacred halls of the Shattered Tower.
+~
+south~
+0 -1 22819
+D3
+You see a huge black-green pillar.
+~
+west~
+0 -1 22822
+S
+#22821
+The northwest corner of the Shattered Tower~
+You are standing in the northwest corner of the Shattered Tower. Considering
+that the Shattered Tower is the dwelling place of the Council of Thirteen,
+also known as The Lords Of Decay, you find it rather odd that there are no
+guards in sight. It cannot be possible that the gate guards are all that
+stand between the Council of Thirteen and any would be challangers. To the
+east you see a huge pillar which glows with a black-green aura.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see a huge black-green pillar.
+~
+east~
+0 -1 22822
+D2
+You see the sacred halls of the Shattered Tower.
+~
+south~
+0 -1 22818
+S
+#22822
+Touching the thirteen sided pillar~
+You have just touched the thirteen sided pillar. This pillar was created by
+the Horned Rat himself, to judge who was worthy to have a position on the
+Council of Thirteen. Any one who touches the pillar and survives, is allowed
+to challenge any of the twelve mortal members of the Council of Thirteen in
+combat to the death. The winner of such a combat retains the position among
+the Lord of Decay.
+~
+227 49674 0
+1d1+199 90 0
+D0
+You see the winding stairs of the Shattered Tower.
+~
+north~
+0 -1 22823
+D1
+You see the northeast corner of the Shattered Tower.
+~
+east~
+0 -1 22820
+D2
+You see the sacred halls of the Shattered Tower.
+~
+south~
+0 -1 22817
+D3
+You see the northwest corner of the Shattered Tower.
+~
+west~
+0 -1 22821
+S
+#22823
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+secret~
+1 -1 22887
+D2
+You see a huge black-green pillar.
+~
+south~
+0 -1 22822
+D4
+You see the winding stairs of the Shattered Tower.
+~
+up~
+0 -1 22824
+S
+#22824
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D3
+You see a guarded hall in the Shattered Tower.
+~
+west~
+0 -1 22835
+D5
+You see the winding stairs of the Shattered Tower.
+~
+down~
+0 -1 22823
+S
+#22825
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see a guarded hall in the Shattered Tower.
+~
+east~
+0 -1 22835
+D4
+You see the winding stairs of the Shattered Tower.
+~
+up~
+0 -1 22826
+S
+#22826
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see a guarded hall in the Shattered Tower.
+~
+east~
+0 -1 22836
+D5
+You see the winding stairs of the Shattered Tower.
+~
+down~
+0 -1 22825
+S
+#22827
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D3
+You see a guarded hall in the Shattered Tower.
+~
+west~
+0 -1 22836
+D4
+You see the winding stairs of the Shattered Tower.
+~
+up~
+0 -1 22828
+S
+#22828
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D3
+You see a guarded hall in the Shattered Tower.
+~
+west~
+0 -1 22837
+D5
+You see the winding stairs of the Shattered Tower.
+~
+down~
+0 -1 22827
+S
+#22829
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see a guarded hall in the Shattered Tower.
+~
+east~
+0 -1 22837
+D4
+You see the winding stairs of the Shattered Tower.
+~
+up~
+0 -1 22830
+S
+#22830
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see a guarded hall in the Shattered Tower.
+~
+east~
+0 -1 22838
+D5
+You see the winding stairs of the Shattered Tower.
+~
+down~
+0 -1 22829
+S
+#22831
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D3
+You see a guarded hall in the Shattered Tower.
+~
+west~
+0 -1 22838
+D4
+You see the winding stairs of the Shattered Tower.
+~
+up~
+0 -1 22832
+S
+#22832
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D3
+You see a guarded hall in the Shattered Tower.
+~
+west~
+0 -1 22839
+D5
+You see the winding stairs of the Shattered Tower.
+~
+down~
+0 -1 22831
+S
+#22833
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see a guarded hall in the Shattered Tower.
+~
+east~
+0 -1 22839
+D4
+You see the winding stairs of the Shattered Tower.
+~
+up~
+0 -1 22834
+S
+#22834
+The winding stairs of the Shattered Tower~
+These stairs are made of obsidian. There is no hand rail, and the stone which
+they are made up of is a little slick. Hopefully you have a good sense of
+balance.
+~
+227 33288 0
+0d0+0 0 0
+D1
+You see a guarded hall in the Shattered Tower.
+~
+east~
+0 -1 22840
+D5
+You see the winding stairs of the Shattered Tower.
+~
+down~
+0 -1 22833
+S
+#22835
+A guarded hallway in the Shattered Tower~
+You now know why there were no guards in the temple below. The albino guards
+of the Council of Thirteen have been trained to carefully guard the keys 
+which give access to the Lords of Decay's personal chambers. There are two
+albino guards here, each with a key to the Council of Thirteen's quarters.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22705 22841
+D1
+You see the winding stairs of the Shattered Tower.
+~
+east~
+0 -1 22824
+D2
+~
+door~
+2 22706 22842
+D3
+You see the winding stairs of the Shattered Tower.
+~
+west~
+0 -1 22825
+S
+#22836
+A guarded hallway in the Shattered Tower~
+You now know why there were no guards in the temple below. The albino guards
+of the Council of Thirteen have been trained to carefully guard the keys 
+which give access to the Lords of Decay's personal chambers. There are two
+albino guards here, each with a key to the Council of Thirteen's quarters.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22707 22843
+D1
+You see the winding stairs of the Shattered Tower.
+~
+east~
+0 -1 22827
+D2
+~
+door~
+2 22708 22844
+D3
+You see the winding stairs of the Shattered Tower.
+~
+west~
+0 -1 22826
+S
+#22837
+A guarded hallway in the Shattered Tower~
+You now know why there were no guards in the temple below. The albino guards
+of the Council of Thirteen have been trained to carefully guard the keys 
+which give access to the Lords of Decay's personal chambers. There are two
+albino guards here, each with a key to the Council of Thirteen's quarters.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22709 22845
+D1
+You see the winding stairs of the Shattered Tower.
+~
+east~
+0 -1 22828
+D2
+~
+door~
+2 22710 22846
+D3
+You see the winding stairs of the Shattered Tower.
+~
+west~
+0 -1 22829
+S
+#22838
+A guarded hallway in the Shattered Tower~
+You now know why there were no guards in the temple below. The albino guards
+of the Council of Thirteen have been trained to carefully guard the keys 
+which give access to the Lords of Decay's personal chambers. There are two
+albino guards here, each with a key to the Council of Thirteen's quarters.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22711 22847
+D1
+You see the winding stairs of the Shattered Tower.
+~
+east~
+0 -1 22831
+D2
+~
+door~
+2 22712 22848
+D3
+You see the winding stairs of the Shattered Tower.
+~
+west~
+0 -1 22830
+S
+#22839
+A guarded hallway in the Shattered Tower~
+You now know why there were no guards in the temple below. The albino guards
+of the Council of Thirteen have been trained to carefully guard the keys 
+which give access to the Lords of Decay's personal chambers. There are two
+albino guards here, each with a key to the Council of Thirteen's quarters.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22713 22849
+D1
+You see the winding stairs of the Shattered Tower.
+~
+east~
+0 -1 22832
+D2
+~
+door~
+2 22714 22850
+D3
+You see the winding stairs of the Shattered Tower.
+~
+west~
+0 -1 22833
+S
+#22840
+A guarded hallway in the Shattered Tower~
+You now know why there were no guards in the temple below. The albino guards
+of the Council of Thirteen have been trained to carefully guard the keys 
+which give access to the Lords of Decay's personal chambers. There are two
+albino guards here, each with a key to the Council of Thirteen's quarters.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22715 22851
+D2
+~
+door~
+2 22716 22852
+D3
+You see the winding stairs of the Shattered Tower.
+~
+west~
+0 -1 22834
+S
+#22841
+Nurglitch's Room of Decay~
+This is where Nurglitch, the Arch-Plaguelord of Clan Pestilens resides. Here
+he decides which plague to unleash on which enemy (or even friend if it so
+pleases him, as it does sometimes). The room has the same feel as that of a 
+morgue, or perhaps a mental ward. You do not feel as if this is a place you
+could stay for very long.
+~
+227 33288 0
+0d0+0 0 0
+D2
+~
+door~
+2 22705 22835
+S
+#22842
+Morskittar's Laboratory~
+This room is filled with all sorts of odd devices. There is a table on which
+rest all the tubes, potions, magical stones, and other odds and ends which
+would suit the fancy of the Clan Skryre Lord of Decay.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22706 22835
+S
+#22843
+Lord Verminkin's Dwelling~
+This is the dwelling place of Lord Verminkin, the leader of Clan Moulder.
+Clan Moulder is dedicated to the developement of new fighting creatures, via
+the carefully coltrolled mutations cause by pure warpstone. There are several
+huge tomes laying around the room, cataloging the different types of mutations
+achieved by the efforts of Clan Moulder.
+~
+227 33288 0
+0d0+0 0 0
+D2
+~
+door~
+2 22707 22836
+S
+#22844
+Sneek's Shadows~
+This room is very dark. The shadows are so thick here that even though your
+lights allow you to move about without stumbling, you still cannot make out
+anything about the room itself. Lord Sneek, Lord of Decay and Nightlord of
+Clan Eshin obviously likes the darkness.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22708 22836
+S
+#22845
+Lord Gnawdwell's Training Room~
+This room is filled with weaponry. There are numerous weapons hanging from
+the walls, weapons encased in glass in the corners, and a huge glass cabinet
+filled with weapons. There are also several man sized mannequins here. Some
+are nearly decimated, while others appear to be rather fresh. Lord Gnawdwell
+the ruler of Clan Mors and the City of Pillars uses this room to keep his
+fighting skills honed to a razors edge.
+~
+227 33288 0
+0d0+0 0 0
+D2
+~
+door~
+2 22709 22837
+S
+#22846
+Sleekit's Study~
+Lord Sleekit is the highest Grey Seer in all of Skaven society. He occupies
+him the luxury of this study here in the Shattered Tower. This room is full of
+magical tomes of all sorts.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22710 22837
+S
+#22847
+Velasque's Council Chambers~
+From here on up in the Shattered Tower reside the members of the Council of
+Thriteen who preclude all clans. They have maintained their position as 
+Lord's of Decay ever since the Horned Rat ordained that all members must
+first touch the Thirteen Sided Pillar. This room is Velasque's personal
+quarters. Velasque is one of the few Skaven who have dedicated their studies
+to the arts of healing and protection.
+~
+227 33288 0
+0d0+0 0 0
+D2
+~
+door~
+2 22711 22838
+S
+#22848
+Paskrit's Observatory~
+This room has a huge telescope which extends out the side of the Shattered
+Tower. There are star charts all over the wall, and many mobiles, depicting
+the stars and planets of numerous galaxies hanging from the ceiling.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22712 22838
+S
+#22849
+Skritisqueel's Meditation Chamber~
+Skritisqueel is possibly the most intelligent of all Skaven. He spends his
+days here mostly just thinking on the different puzzles of life. The room is
+very simple and seems to be decorated for the sole effect of implementing a
+deeper train of thinking. Your head is starting to hurt.
+~
+227 33288 0
+0d0+0 0 0
+D2
+~
+door~
+2 22713 22839
+S
+#22850
+Vasque's Library~
+This room is probably the most ordinary room you have seen in the whole
+Shattered Tower. It looks exactly like a library. There are shelves lining
+all the walls, and even rows of shelves standing out from the walls. You
+feel as if it would be inappropriate to make any noise in here.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22714 22839
+S
+#22851
+Rakscree's Chambers~
+Rakscree is one of the most feared Skaven ever. He is known to be reclusive
+and thus hardly ever leaves these chambers. Most Skaven have never seen his
+face, and those that have usually regret it (if they live).
+~
+227 33288 0
+0d0+0 0 0
+D2
+~
+door~
+2 22715 22840
+S
+#22852
+Thraskin's Hold~
+This chamber is very well kept. You can assume that Thraskin does none of the
+upkeep himself, that is what Skavenslaves are for. It almost appears as if
+not even dust settles to the ground here. Perhaps he uses some sort of magical
+means to keep it so neat...
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+door~
+2 22716 22840
+S
+#22853
+The Entrance to the Clan Mors Arena~
+There are tons of Skaven here, crowding to get into the arena. There are a 
+few guards posted here by Clan Mors, to keep the cwords from getting ugly,
+but other than that it appears to be almost a free-for-all.
+~
+227 33280 1
+0d0+0 0 0
+D1
+~
+east~
+0 -1 22855
+D3
+~
+west~
+0 -1 22793
+S
+#22854
+The northwest corner of the Clan Mors Arena~
+This is where the Skaven sit and watch their warriors battle for fame, warp-
+tokens, and glory. There are quite a few Skaven sitting around here, eagerly
+watching the proceedings in the arena.
+~
+227 33280 1
+0d0+0 0 0
+D1
+~
+east~
+0 -1 22861
+D2
+~
+south~
+0 -1 22855
+S
+#22855
+An intersection in the Clan Mors Arena~
+You have entered the stadium in which the Arena is located. Here you have the
+choice of wither going north or south and staying in the seating area, where
+you may observe the fighting taking place below, or you may go east. If you
+choose to go east, then prepare to fight, it is a madhouse in the actual
+arena.
+~
+227 33280 1
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22854
+D1
+~
+east~
+0 -1 22865
+D2
+~
+south~
+0 -1 22856
+D3
+~
+west~
+0 -1 22853
+S
+#22856
+The seating area of the Clan Mors Arena~
+Here the Skaven eagerly observe the killing below. They seem to even delight
+in it. You notice some Skaven holding odds tickets. Apparently they love to
+bet on their favorite Clanrats.
+~
+227 33280 1
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22855
+D2
+~
+south~
+0 -1 22862
+S
+#22857
+The seating area of the Clan Mors Arena~
+Here the Skaven eagerly observe the killing below. They seem to even delight
+in it. You notice some Skaven holding odds tickets. Apparently they love to
+bet on their favorite Clanrats.
+~
+227 33280 1
+0d0+0 0 0
+D1
+~
+east~
+0 -1 22858
+D3
+~
+west~
+0 -1 22862
+S
+#22858
+The seating area of the Clan Mors Arena~
+Here the Skaven eagerly observe the killing below. They seem to even delight
+in it. You notice some Skaven holding odds tickets. Apparently they love to
+bet on their favorite Clanrats.
+~
+227 33280 1
+0d0+0 0 0
+D1
+~
+east~
+0 -1 22863
+D3
+~
+west~
+0 -1 22857
+S
+#22859
+The seating area of the Clan Mors Arena~
+Here the Skaven eagerly observe the killing below. They seem to even delight
+in it. You notice some Skaven holding odds tickets. Apparently they love to
+bet on their favorite Clanrats.
+~
+227 33280 1
+0d0+0 0 0
+D2
+~
+south~
+0 -1 22863
+S
+#22860
+The seating area of the Clan Mors Arena~
+Here the Skaven eagerly observe the killing below. They seem to even delight
+in it. You notice some Skaven holding odds tickets. Apparently they love to
+bet on their favorite Clanrats.
+~
+227 33280 1
+0d0+0 0 0
+D1
+~
+east~
+0 -1 22864
+D3
+~
+west~
+0 -1 22861
+S
+#22861
+The seating area of the Clan Mors Arena~
+Here the Skaven eagerly observe the killing below. They seem to even delight
+in it. You notice some Skaven holding odds tickets. Apparently they love to
+bet on their favorite Clanrats.
+~
+227 33280 1
+0d0+0 0 0
+D1
+~
+east~
+0 -1 22860
+D3
+~
+west~
+0 -1 22854
+S
+#22862
+The southwest corner of the Clan Mors Arena~
+This is where the Skaven sit and watch their warriors battle for fame, warp-
+tokens, and glory. There are quite a few Skaven sitting around here, eagerly
+watching the proceedings in the arena.
+~
+227 33280 1
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22856
+D1
+~
+east~
+0 -1 22857
+S
+#22863
+The southeast corner of the Clan Mors Arena~
+This is where the Skaven sit and watch their warriors battle for fame, warp-
+tokens, and glory. There are quite a few Skaven sitting around here, eagerly
+watching the proceedings in the arena.
+~
+227 33280 1
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22859
+D3
+~
+west~
+0 -1 22858
+S
+#22864
+The northeast corner of the Clan Mors Arena~
+This is where the Skaven sit and watch their warriors battle for fame, warp-
+tokens, and glory. There are quite a few Skaven sitting around here, eagerly
+watching the proceedings in the arena.
+~
+227 33280 1
+0d0+0 0 0
+D3
+~
+west~
+0 -1 22860
+S
+#22865
+The Clan Mors Fighting Grounds~
+The ground here is slick with the blood of all that have died here. There are
+bits of broken weapons, tattered remains of shredded clothing, and the various
+body parts strewn around the grounds here. Just by setting foot here you have
+challenged all others here. Expect to be attacked...
+~
+227 33280 1
+0d0+0 0 0
+D1
+~
+east~
+0 -1 22866
+D2
+~
+south~
+0 -1 22867
+D3
+~
+west~
+0 -1 22855
+S
+#22866
+The Clan Mors Fighting Grounds~
+The ground here is slick with the blood of all that have died here. There are
+bits of broken weapons, tattered remains of shredded clothing, and the various
+body parts strewn around the grounds here. Just by setting foot here you have
+challenged all others here. Expect to be attacked...
+~
+227 33280 1
+0d0+0 0 0
+D1
+~
+east~
+0 -1 22869
+D2
+~
+south~
+0 -1 22868
+D3
+~
+west~
+0 -1 22865
+S
+#22867
+The Clan Mors Fighting Grounds~
+The ground here is slick with the blood of all that have died here. There are
+bits of broken weapons, tattered remains of shredded clothing, and the various
+body parts strewn around the grounds here. Just by setting foot here you have
+challenged all others here. Expect to be attacked...
+~
+227 33280 1
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22865
+D1
+~
+east~
+0 -1 22868
+S
+#22868
+The Clan Mors Fighting Grounds~
+The ground here is slick with the blood of all that have died here. There are
+bits of broken weapons, tattered remains of shredded clothing, and the various
+body parts strewn around the grounds here. Just by setting foot here you have
+challenged all others here. Expect to be attacked...
+~
+227 33280 1
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22866
+D3
+~
+west~
+0 -1 22867
+S
+#22869
+The gates to the holding rooms~
+Here is where the new non-Skaven combatants enter the Arena. There are some
+large gates here which lead down into the holding rooms. There is a huge albino
+Skaven here, guarding the gate.
+~
+227 33280 1
+0d0+0 0 0
+D1
+~
+gates~
+2 22718 22870
+D3
+~
+west~
+0 -1 22866
+S
+#22870
+A tunnel to the holding rooms~
+This is a dark tunnel leading down into the earth. The smells which waft up 
+from wherever this tunnel leads to are unbearable. You have to control your
+gag reflex to even keep the contents of your stomach intact.
+~
+227 33280 0
+0d0+0 0 0
+D1
+~
+east~
+0 -1 22871
+D3
+~
+gates~
+2 22718 22869
+S
+#22871
+The holding rooms~
+This is where the captured are kept until they are ready for combat in the 
+arena. There are representatives of every race known here. There are slits 
+in the ceiling which are opened up daily and through which the scarce food
+made available to the fighters is dropped.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+south~
+0 -1 22872
+D1
+~
+east~
+0 -1 22874
+D2
+~
+south~
+0 -1 22876
+D3
+~
+west~
+0 -1 22870
+S
+#22872
+The holding rooms~
+This is where the captured are kept until they are ready for combat in the 
+arena. There are representatives of every race known here. There are slits 
+in the ceiling which are opened up daily and through which the scarce food
+made available to the fighters is dropped.
+~
+227 33288 0
+0d0+0 0 0
+D1
+~
+east~
+0 -1 22873
+D2
+~
+south~
+0 -1 22871
+S
+#22873
+The holding rooms~
+This is where the captured are kept until they are ready for combat in the 
+arena. There are representatives of every race known here. There are slits 
+in the ceiling which are opened up daily and through which the scarce food
+made available to the fighters is dropped.
+~
+227 33288 0
+0d0+0 0 0
+D2
+~
+south~
+0 -1 22874
+D3
+~
+west~
+0 -1 22872
+S
+#22874
+The holding rooms~
+This is where the captured are kept until they are ready for combat in the 
+arena. There are representatives of every race known here. There are slits 
+in the ceiling which are opened up daily and through which the scarce food
+made available to the fighters is dropped.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+west~
+0 -1 22873
+D2
+~
+south~
+0 -1 22875
+D3
+~
+west~
+0 -1 22871
+S
+#22875
+The holding rooms~
+This is where the captured are kept until they are ready for combat in the 
+arena. There are representatives of every race known here. There are slits 
+in the ceiling which are opened up daily and through which the scarce food
+made available to the fighters is dropped.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22874
+D3
+~
+west~
+0 -1 22876
+S
+#22876
+The holding rooms~
+This is where the captured are kept until they are ready for combat in the 
+arena. There are representatives of every race known here. There are slits 
+in the ceiling which are opened up daily and through which the scarce food
+made available to the fighters is dropped.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22871
+D1
+~
+east~
+0 -1 22875
+S
+#22877
+A tunnel leading to the Clan Pestilens Scourge Maze~
+This is a dark tunnel leading down into the bowels of the earth. The hair 
+on the back of your arms rises as you consider going any further down this
+tunnel. You might want to consider turning back...
+~
+227 33536 0
+0d0+0 0 0
+D7
+~
+wall~
+1 -1 22819
+D8
+~
+southeast~
+0 -1 22878
+S
+#22878
+The Clan Pestilens Scourge Maze~
+Here is where Skaven are either accepted into the Clan Pestilens or they die
+trying. You do not fail to navigate this maze if you want to live. There are
+numerous plagues in the air here. To become a member of Clan Pestilens, you
+must be immune to plagues of all sorts, otherwise they have no need of you.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22878
+D1
+~
+east~
+0 -1 22879
+D2
+~
+south~
+0 -1 22878
+D3
+~
+west~
+0 -1 22878
+D7
+~
+northwest~
+0 -1 22877
+S
+#22879
+The Clan Pestilens Scourge Maze~
+Here is where Skaven are either accepted into the Clan Pestilens or they die
+trying. You do not fail to navigate this maze if you want to live. There are
+numerous plagues in the air here. To become a member of Clan Pestilens, you
+must be immune to plagues of all sorts, otherwise they have no need of you.
+~
+227 49674 0
+1d1+199 90 0
+D0
+~
+north~
+0 -1 22878
+D1
+~
+east~
+0 -1 22880
+D2
+~
+south~
+0 -1 22879
+D3
+~
+west~
+0 -1 22878
+S
+#22880
+The Clan Pestilens Scourge Maze~
+Here is where Skaven are either accepted into the Clan Pestilens or they die
+trying. You do not fail to navigate this maze if you want to live. There are
+numerous plagues in the air here. To become a member of Clan Pestilens, you
+must be immune to plagues of all sorts, otherwise they have no need of you.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22880
+D1
+~
+east~
+0 -1 22879
+D2
+~
+south~
+0 -1 22883
+D3
+~
+west~
+0 -1 22879
+S
+#22881
+The Clan Pestilens Scourge Maze~
+Here is where Skaven are either accepted into the Clan Pestilens or they die
+trying. You do not fail to navigate this maze if you want to live. There are
+numerous plagues in the air here. To become a member of Clan Pestilens, you
+must be immune to plagues of all sorts, otherwise they have no need of you.
+~
+227 49674 0
+1d1+199 90 0
+D0
+~
+north~
+0 -1 22883
+D1
+~
+east~
+0 -1 22882
+D2
+~
+south~
+0 -1 22884
+D3
+~
+west~
+0 -1 22881
+S
+#22882
+The Clan Pestilens Scourge Maze~
+Here is where Skaven are either accepted into the Clan Pestilens or they die
+trying. You do not fail to navigate this maze if you want to live. There are
+numerous plagues in the air here. To become a member of Clan Pestilens, you
+must be immune to plagues of all sorts, otherwise they have no need of you.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22882
+D1
+~
+east~
+0 -1 22883
+D2
+~
+south~
+0 -1 22879
+D3
+~
+west~
+0 -1 22881
+S
+#22883
+The Clan Pestilens Scourge Maze~
+Here is where Skaven are either accepted into the Clan Pestilens or they die
+trying. You do not fail to navigate this maze if you want to live. There are
+numerous plagues in the air here. To become a member of Clan Pestilens, you
+must be immune to plagues of all sorts, otherwise they have no need of you.
+~
+227 49674 0
+1d1+199 90 0
+D0
+~
+north~
+0 -1 22880
+D1
+~
+east~
+0 -1 22880
+D2
+~
+south~
+0 -1 22879
+D3
+~
+west~
+0 -1 22882
+S
+#22884
+The Clan Pestilens Scourge Maze~
+Here is where Skaven are either accepted into the Clan Pestilens or they die
+trying. You do not fail to navigate this maze if you want to live. There are
+numerous plagues in the air here. To become a member of Clan Pestilens, you
+must be immune to plagues of all sorts, otherwise they have no need of you.
+~
+227 33288 0
+0d0+0 0 0
+D0
+~
+north~
+0 -1 22881
+D1
+~
+east~
+0 -1 22885
+D2
+~
+south~
+0 -1 22880
+D3
+~
+west~
+0 -1 22878
+S
+#22885
+The Clan Pestilens Scourge Maze~
+Here is where Skaven are either accepted into the Clan Pestilens or they die
+trying. You do not fail to navigate this maze if you want to live. There are
+numerous plagues in the air here. To become a member of Clan Pestilens, you
+must be immune to plagues of all sorts, otherwise they have no need of you.
+~
+227 49674 0
+1d1+199 90 0
+D0
+~
+north~
+0 -1 22879
+D1
+~
+east~
+0 -1 22886
+D2
+~
+south~
+0 -1 22885
+D3
+~
+west~
+0 -1 22884
+S
+#22886
+The Clan Pestilens Scourge Maze~
+Here is where Skaven are either accepted into the Clan Pestilens or they die
+trying. You do not fail to navigate this maze if you want to live. There are
+numerous plagues in the air here. To become a member of Clan Pestilens, you
+must be immune to plagues of all sorts, otherwise they have no need of you.
+~
+227 33288 0
+0d0+0 0 0
+D3
+~
+west~
+0 -1 22885
+S
+#22887
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22888
+D2
+~
+secret~
+1 -1 22823
+S
+#22888
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22889
+D2
+~
+glass~
+2 22721 22887
+S
+#22889
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22890
+D2
+~
+glass~
+2 22721 22888
+S
+#22890
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22891
+D2
+~
+glass~
+2 22721 22889
+S
+#22891
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22892
+D2
+~
+glass~
+2 22721 22890
+S
+#22892
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22893
+D2
+~
+glass~
+2 22721 22891
+S
+#22893
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22894
+D2
+~
+glass~
+2 22721 22892
+S
+#22894
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22895
+D2
+~
+glass~
+2 22721 22893
+S
+#22895
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22896
+D2
+~
+glass~
+2 22721 22894
+S
+#22896
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22897
+D2
+~
+glass~
+2 22721 22895
+S
+#22897
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22898
+D2
+~
+glass~
+2 22721 22896
+S
+#22898
+A secret corridor~
+This corridor looks as if it rarely gets used. The halls are hewn of obsidian
+and the ceiling is low. There is a thick layer of dust on the floors, which
+is most likely the reason you think this corridor rarely gets used. There 
+are glass doors every five feet. At the end of the corridor, through all
+twelve glass doors you can see a lone figure. 
+~
+227 38920 0
+0d0+0 0 0
+D0
+~
+glass~
+2 22721 22899
+D2
+~
+glass~
+2 22721 22897
+S
+#22899
+The Sanctum of the Horned Rat~
+Here is the earthly dwelling place of the Horned Rat. The Horned Rat is the
+Chaos god whom the Skaven worship. He stands over twenty feet tall, has the
+head of a rat, and the horns and hoofs of a goat. He is the single most
+powerful being in Skaven society, and it is not reccomended that you upset
+him. It is the goal of all Skaven to obtain the blessing of the Horned Rat,
+and this is the most likely place to obtain it.
+~
+227 33288 0
+0d0+0 0 0
+D2
+~
+glass~
+2 22721 22898
+S
+$

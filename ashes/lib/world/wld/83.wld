@@ -1,0 +1,2134 @@
+#8300
+The top of the stairs~
+You are at the top of the stairs on the second floor of the Good Magician's
+castle. This part of the castle looks a lot nicer, and more lived-in, than
+the first floor. The walls are paneled in mahogany, and a rich red carpet
+is on the floor. Various tasteful art forms are displayed here and there
+in the hallway, which leads west from here. You may also descend the stairs
+and go back to the first floor, if you so desire.
+~
+83 14344 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8301
+D5
+~
+~
+0 -1 8279
+S
+#8301
+The second-floor hallway~
+You are walking down a narrow hallway on the second floor of the castle. The
+mahogany-paneled walls are spotless, as is the rich red carpet on the floor.
+A beautiful mural depicting a landscape of Xanth is on the north wall, and
+a door lies to the south. To the west the hall continues, and a staircase
+leading down is to the east.
+~
+83 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8300
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8311
+D3
+~
+~
+0 -1 8302
+S
+#8302
+The second-floor hallway~
+Continuing down the hallway, you notice a funny smell coming from somewhere
+further to the west, where the hallway takes a bend to the north. It smells
+a little like smoke, but no smoke you have ever smelled before. The hallway
+continues east and west, and a door lies to the south.
+~
+83 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8301
+D2
+A stout pine door leads south from here.
+~
+door~
+1 -1 8310
+D3
+~
+~
+0 -1 8303
+S
+#8303
+A bend in the hallway~
+The hallway turns here, continuing to the north and east. That smell is still
+in evidence, in fact it's getting stronger. You wonder what could be causing
+it, and if it's dangerous. Hmmmm. There is also a door to the south you can
+investigate, if you like.
+~
+83 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8304
+D1
+~
+~
+0 -1 8302
+D2
+A stout pine door leads south from here.
+~
+door~
+1 -1 8309
+S
+#8304
+The second-floor hallway~
+You are in a tastefully decorated hallway on the second floor of Good Magician
+Humfrey's castle. The walls are paneled in mahogany, and a plush red carpet
+is on the floor. The carpet is so thick that your footsteps make no noise as
+you walk on it. You feel a sudden urge to take your footwear off and continue
+barefoot, but restrain yourself. There is a very strange, smoke-like smell
+coming from further down the hallway, which continues to the north and south.
+~
+83 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8305
+D2
+~
+~
+0 -1 8303
+S
+#8305
+A bend in the hallway~
+The hallway bends here, turning to the east. It goes past three doors on the
+south wall, and dead-ends at a metal door. That smoky smell is getting even
+stronger, and begins to bother your nose. You pinch your nose shut to avoid
+uncontrollable sneezing. The hallway also continues south from here.
+~
+83 14336 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8306
+D2
+~
+~
+0 -1 8304
+S
+#8306
+The second-floor hallway~
+Continuing down the hallway, you notice that the smoke-smell is getting even
+more prevalent. In fact, if you squint, you can see a thin wisp of smoke
+emerging from underneath the metal door at the end of this hallway. Burning
+with curiousity, you decide you'd better find out what it is. There is also
+a door to the south, if you change your mind.
+~
+83 14336 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8307
+D2
+A wooden door painted bright green leads south from here.
+~
+door~
+1 -1 8314
+D3
+~
+~
+0 -1 8305
+S
+#8307
+The second-floor hallway~
+The smoke smell is almost overpowering now. Your eyes are beginning to water,
+and soon you can barely make out the hallway ahead of you. Wiping the tears
+away, you squint and see that the hallway continues east and west, and there
+is a door to the south. To the east, the hallway dead-ends into a metal door,
+and it looks like that is where the smoke is coming from.
+~
+83 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8308
+D2
+A wooden door with brass hinges leads south from here.
+~
+door~
+1 -1 8315
+D3
+~
+~
+0 -1 8306
+S
+#8308
+The second-floor hallway~
+The smell is really getting awful. Your eyes are filled with tears, and no
+sooner do you wipe them away then more appear. Smoke appears to be flowing
+out from underneath the metal door to the east. There is also a door to
+the south, and the hallway continues back to the west if you cannot stand
+the smell anymore, for which no-one would blame you.
+~
+83 8 0
+0d0+0 0 0
+D1
+A metal-covered door leads into a smoky room here.
+~
+door~
+1 -1 8313
+D2
+A large oaken door leads south from here.
+~
+door~
+1 -1 8316
+D3
+~
+~
+0 -1 8307
+S
+#8309
+A guest bedroom~
+This room looks like it's used for any important guests the Magician might
+have that need to stay the night. It is furnished in a similar fashion to
+the guest chambers downstairs, but the furniture is a bit nicer, and there
+seems to be more space. A window on the south wall give you a good view of
+the surroundings. The door is to the north.
+~
+83 14344 0
+0d0+0 0 0
+D0
+A stout pine door leads out of the bedroom.
+~
+door~
+1 -1 8303
+S
+#8310
+A guest bedroom~
+This room bears some similarities to the guest chambers downstairs, but a
+cut above them, perhaps. It looks like this room is for important guests of
+the Magician to stay the night in. You notice in particular a nice, soft,
+blue rug, probably comfortable enough to sleep on. The bed, desk, chair,
+and chest of drawers are in evidence, but they appear to be of better
+quality than the standardized stuff downstairs. A door leads north.
+~
+83 14344 0
+0d0+0 0 0
+D0
+A stout pine door leads back into the hallway.
+~
+door~
+1 -1 8302
+S
+#8311
+The kitchen~
+This kitchen is a lot smaller than you'd expect, but then Humfrey probably
+doesn't get very many casual visitors. It is well-equipped, and it looks as
+if whoever does the cooking knows their stuff. The room is quiet now, but
+probably becomes a bustle of activity around meal-times. A door to the
+north leads back into the hallway, and there is a swinging door to the
+east as well, where you hear running water.
+~
+83 14344 0
+0d0+0 0 0
+D0
+A wooden door leads out of the kitchen.
+~
+door~
+1 -1 8301
+D1
+A swinging door leads east from here.
+~
+door~
+1 -1 8312
+S
+#8312
+The cleaning room~
+This is where all the cleaning supplies are kept. There sure are a lot of
+them! Then again, the castle is pretty spotless, so you imagine a lot of
+time and energy goes into keeping that way, especially with Humfrey's
+habits. There isn't much of interest here. A swinging door to the west
+takes you back into the kitchens.
+~
+83 14344 0
+0d0+0 0 0
+D3
+A swinging door leads back into the kitchens.
+~
+door~
+1 -1 8311
+S
+#8313
+Humfrey's Study~
+Pulling open the door, you are suddenly enveloped in a thick white cloud of
+strange-smelling smoke. Coughing, you stumble into the room, when you hear
+a wizened old voice call out: "Stop right there! This is holy smoke! Let me
+give you the counterspell, or you might end up anywhere!" You feel a brief
+sprinkling of liquid on your head, and the voice says, "All right, come on
+in." You step forward, and before you you see a short, wrinkled, slightly
+pudgy little man with a large nose. He says, "My name is Good Magician
+Humfrey. I gather you are here to ask me a Question?" When you hesitate,
+he says, "If not, I suggest you leave...I'm a very busy man. The holy
+smoke will take you out of the castle, or you can use the door, but please
+don't muss the carpets...my wife will have a fit." Having said that, he
+turns away and goes back to his work.
+~
+83 14344 0
+0d0+0 0 0
+D3
+A metal-covered door leads back into the hallway.
+~
+door~
+1 -1 8308
+D5
+A hole in the holy smoke leads out of the castle.
+~
+~
+0 -1 1637
+S
+#8314
+Hugo's bedroom~
+This room looks like the bedroom of a teenaged boy, which in fact it is.
+Oddly, it smells like rotting fruit. In front of you, a tall youth is
+frowning in deep concentration and clenching his fist. Suddenly, a pile of
+rotten fruit appears in mid-air, and lands with a squish. The youth sighs,
+and turns to face you. "It's so easy when Ivy is around...oh, hi!" He smiles,
+brightening a little. "I'm the Magician's son, Hugo," he says slowly. "Are
+you here to see my dad?"
+~
+83 14344 0
+0d0+0 0 0
+D0
+A door painted green leads out of this room.
+~
+door~
+1 -1 8306
+S
+#8315
+Humfrey and the Gorgon's bedroom~
+This room is absolutely beautiful. Whoever decorated it knew the meaning of
+the word "tasteful". Lace curtains conceal a very large window that is open
+to the sun and provides a great view of the courtyard, but dominating the
+room is a huge, comfortable-looking bed, an old-four-poster with gargoyles
+on the posts and a canopy. A couple of closets hold some sexy female clothing
+and some rather dumpy-looking male clothing, for a very small man. A number
+of stone statues also dot the room. You are struck by how lifelike they
+appear, in fact...
+~
+83 14344 0
+0d0+0 0 0
+D0
+A stout wooden door with brass hinges leads back into the hallway.
+~
+door~
+1 -1 8307
+S
+#8316
+Another storage room~
+This room looks a lot bigger than it should be, if your map of this floor is
+right. The walls are lined with shelves with an absolutely phenomenal number
+of little vials on them. There must be thousands of them here! Unfortunately,
+none of them are labeled. Someone apprently tried to put small tags on the
+shelves where the vials are supposed to go, but there are a number of elves
+in here frowning and shuffling through them, so apparently the system has
+its faults. There is a door to the north.
+~
+83 14344 0
+0d0+0 0 0
+D0
+A large oaken door leads back into the hallway.
+~
+door~
+1 -1 8308
+S
+#8317
+Path to the North Village~
+You are walking along a well-kept up dirt road, leading into Xanth's North
+Village. Up ahead, you can hear business as usual going on: people talking,
+children at play, and the other happy, sundry human signs of life. The
+North Village is Xanth's largest human population, but in absolute terms,
+it is still a small country village. The path leads north and south.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8318
+D1
+~
+~
+0 -1 8340
+D2
+~
+~
+0 -1 1618
+S
+#8318
+Path to the North Village~
+Continuing up the dirt road, you are able to catch a glimpse of the village
+square from here, up to the north. There is a very large willow tree in the
+center of the square, and a group of young men and women are gathered
+together underneath its shelter. The tree seems to be moving slightly, but
+there is no wind. However, the youths do not seem alarmed, so you release
+your grip on your weapon. The path continues north and south.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8319
+D2
+~
+~
+0 -1 8317
+S
+#8319
+Path to the North Village~
+You are walking along a dirt road leading into Xanth's North Village. Up 
+ahead, to the north, you see a couple of nice cottages facing east and west,
+with their doors sociably facing the path. Looks like you are about to head
+into the Village proper. The path continues north and south.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8320
+D2
+~
+~
+0 -1 8318
+S
+#8320
+The outskirts of the North Village~
+You are standing on a dirt road at the outskirts of the North Village. There
+are two cottages along the side of the road, to the east and west. They both
+look very homey and comfortable, and look like they've been lived in for
+quite awhile. The path continues to the north and south, and just a little
+ways to the north is the village square.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8323
+D1
+A sturdy ironwood door leads into a cottage.
+~
+door~
+1 -1 8322
+D2
+~
+~
+0 -1 8319
+D3
+A strong ironwood door leads into a small cottage.
+~
+door~
+1 -1 8321
+S
+#8321
+A cottage~
+You are inside a small but comfortable cottage at the outskirts of the North
+Village. It is simply but beautifully decorated, with many pretty flowers in
+pots by the windows, and some homespun tapestries and crochet hanging from
+the walls. Apparently the life of these villagers is a peaceful one, for you
+see no weapons or armor anywhere in the cottage. Then again, perhaps they
+have other ways of defending themselves. A door to the east leads out.
+~
+83 8 0
+0d0+0 0 0
+D1
+An ironwood door leads out of the cottage.
+~
+door~
+1 -1 8320
+S
+#8322
+A cottage~
+You are inside a small cottage on the outskirts of the North Village. It looks
+like the same simple (but very clean) type of cottage you might find in any
+village in the world. The furniture looks homemade, but designed to be both
+sturdy and comfortable, and the number of toys in evidence seems to indicate
+that there are a few children in this household. There isn't too much of
+interest here, and you are starting to get homesick, so perhaps you should
+leave through the door to the west, and go elsewhere.
+~
+83 8 0
+0d0+0 0 0
+D3
+A sturdy ironwood door leads out of the cottage.
+~
+door~
+1 -1 8320
+S
+#8323
+Southern part of the North Village~
+You are walking up a dirt road leading into Xanth's North Village. To the
+east and west of you are small, quaint-looking cottages, and just to the
+north of you is the village square. The happy sounds of village life fill
+the air around you, and you begin to relax unconsciously.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8327
+D1
+A sturdy door leads into a small cottage.
+~
+door~
+1 -1 8325
+D2
+~
+~
+0 -1 8320
+D3
+A sturdy door leads into a small cottage.
+~
+door~
+1 -1 8324
+S
+#8324
+A cottage~
+You are inside a small, comfortable cottage in the southern part of the North
+Village. This cottage might be owned by an older couple, for there are an
+incredible amount of knick-knacks piled all over the place, yet none of them
+seem to hold any interest or value. For some reason, you are reminded of your
+grandparents' houses back at home. The door is to the east.
+~
+83 8 0
+0d0+0 0 0
+D1
+A sturdy door leads out of the cottage.
+~
+door~
+1 -1 8323
+S
+#8325
+A cottage~
+You have entered a quaint little cottage on the south side of the North
+Village. This looks like the domain of newlyweds, since there is little by
+the way of furniture present inside as of yet. Also, you see a number of
+gifts addressed to "Tad and Lyndi on their Special Day!" sitting unopened
+on the small table in the center of the room. Some odd yet familiar noises
+can be heard from inside the bedroom, and you feel you had best not disturb
+the happy couple in their efforts to increase their family.
+~
+83 8 0
+0d0+0 0 0
+D3
+A sturdy door leads out of the cottage.
+~
+door~
+1 -1 8323
+S
+#8326
+Southwest corner of the square~
+You are in the southwest corner of the village square. A few little girls are
+weaving daisy chains by themselves over here, away from the other children,
+and singing a sweet, childish song. They giggle as they see you approach,
+then one shyly offers you the fruits of their labors. You are almost brought
+to tears as you contemplate your own violent lifestyle in comparison with the
+peace and happiness of the villagers. Still, everyone has a road to walk down,
+and yours leads to the north or east, where the square continues.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8329
+D1
+~
+~
+0 -1 8327
+S
+#8327
+Southern end of the square~
+You are in the southern end of the North Village's small village square. You
+are surrounded by children at play, running around and experimenting with
+their magic talents. One boy apparently has the talent of making a small
+patch of mud appear anywhere he wants for a few seconds, and is using it to
+trip up his playmates who are wildly in pursuit of him. To the north, you see
+a large willow tree whose branches appear to be moving even though there is
+no wind evident. The square also extends to the east and west, and to the
+south a dirt road leads through the village.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8330
+D1
+~
+~
+0 -1 8328
+D2
+~
+~
+0 -1 8323
+D3
+~
+~
+0 -1 8326
+S
+#8328
+Southeast corner of the square~
+You are strolling leisurely through the central square of the North Village.
+Here, in the southeast corner, you see an old soldier instructing a few
+wide-eyed youths in the art of swordplay, in between relating some rather
+graphic war stories about the Mundane Waves. As you catch his eye, he smiles
+and winks at you, then turns back to his rapt audience. The village square
+continues to the north and west.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8331
+D3
+~
+~
+0 -1 8327
+S
+#8329
+Western end of the square~
+You are strolling through the village square. The western side appears to be
+devoted to middle-aged women and the inevitable gossip that follows them.
+They each spare a brief minute from their consultation to smile at you as
+you pass them, then return to their sordid little world. The square extends
+to the north, south, and east, and to the west is a dirt road leading through
+the village proper.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8332
+D1
+~
+~
+0 -1 8330
+D2
+~
+~
+0 -1 8326
+D3
+~
+~
+0 -1 8356
+S
+#8330
+The center of the square~
+You are in the center of the North Village's small village square. There is
+a small hillock here, atop which is an enormous willow tree. Underneath the
+tree, you see several young couples relaxing in ths shade and talking to
+each other. The branches of the tree seem to be moving slightly, although
+there is no wind, and suddenly you hear a voice that appears to come from
+nowhere: "Friends, be welcome. Come relax underneath my spreading branches.
+I am Justin Tree, once human, but transformed to this state by the former
+King of Xanth, Trent, before his redemption. I am happy as a tree, and wish
+you to be happy as well. So be at peace." The square extends in all four
+cardinal directions from here.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8333
+D1
+~
+~
+0 -1 8331
+D2
+~
+~
+0 -1 8327
+D3
+~
+~
+0 -1 8329
+S
+#8331
+Eastern end of the square~
+The eastern end of the North Village's square appears to be devoted to a very
+beautiful garden, full of some of Xanth's most beautiful flowering plants.
+A small plaque near the entrance reads, "To the people of the North Village,
+in gratitude and friendship from Queen Irene." The square extends to the
+north, south, and west, and to the east a dirt road leads through the village
+proper. You catch a whiff of fresh-baked bread from down the street, and your
+stomach growls hungrily.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8334
+D1
+~
+~
+0 -1 8343
+D2
+~
+~
+0 -1 8328
+D3
+~
+~
+0 -1 8330
+S
+#8332
+Northwest corner of the square~
+In the northwest corner of the village square, you see a bunch of smallish
+children, the oldest of perhaps ten years, crowded around a small pen. You
+stroll over in a curious fashion and peer over the children's heads, and see
+that a very small dragon is penned up here, one of the land-roaming sort.
+It must be a smoke-breather, and fairly tame, for it is entertaining the
+fascinated moppets by blowing smoke rings. Occassionally one of the kids
+will toss the dragon a hunk of dried meat, which it devours with feverish
+intensity. The square extends to the south and east.
+~
+83 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8333
+D2
+~
+~
+0 -1 8329
+S
+#8333
+Northern end of the square~
+Here, at the north end of the village square, is where the men gather at the
+end of the day, to talk about men-related stuff (i.e. women). A few of the
+younger men are here already, relaxing with cool drinks and shooting the
+breeze. They nod and smile at you in a friendly fashion as you pass by. The
+square extends to the south, east, and west, and to the north is a dirt road
+leading through the village proper. You catch the fresh smell of woodchips
+from somewhere along the northern road.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8335
+D1
+~
+~
+0 -1 8334
+D2
+~
+~
+0 -1 8330
+D3
+~
+~
+0 -1 8332
+S
+#8334
+Northeast corner of the square~
+This part of the square seems to be where the old folks hang out, those that
+aren't at home or playing with their grandchildren. There is a great view of
+the entire square here, perfect for people who have done just about all they
+care to do and would rather watch other people do things for a change. The
+oldsters give you friendly smiles as you pass, and comment on what a nice
+day it is. The square continues to the south and west.
+~
+83 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8331
+D3
+~
+~
+0 -1 8333
+S
+#8335
+On the dirt road~
+You are strolling lesiurely along a dirt road in the northern part of the
+North Village. The road continues north, to the south you see the village
+square. To the west, you smell the pleasant smell of wood shavings, and
+to the east you smell raw meat. The two don't mix well.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8336
+D1
+A sturdy wooden door leads into the butcher shop.
+~
+door~
+1 -1 8367
+D2
+~
+~
+0 -1 8333
+D3
+A sturdy wooden door leads into the woodworker's shop.
+~
+door~
+1 -1 8366
+S
+#8336
+On the dirt road~
+You are walking along a dirt road leading north and south through the northern
+part of Xanth's North Village. A couple of small, well-tended gardens lie to
+the east and west of you, and you prudently decide not to tread in them. That
+leaves south, toward the square, and north, toward a pair of cottages.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8337
+D2
+~
+~
+0 -1 8335
+S
+#8337
+On the dirt road~
+You are still walking down this dusty dirt road through the North Village.
+The road continues north and south, and to both the east and west of you,
+you see two small, homey-looking cottages.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8338
+D1
+A sturdy door leads into a small cottage.
+~
+door~
+1 -1 8379
+D2
+~
+~
+0 -1 8336
+D3
+A sturdy wooden door leads into a small cottage.
+~
+door~
+1 -1 8378
+S
+#8338
+A bend in the road~
+You have come to a bend in the dirt road. The road proceeds south and east
+from here, and there is also a small cottage to the north. Things are getting
+quieter around here -- you must be approaching the edge of the village.
+~
+83 0 0
+0d0+0 0 0
+D0
+A sturdy wooden door leads into a small cottage.
+~
+door~
+1 -1 8380
+D1
+~
+~
+0 -1 8339
+D2
+~
+~
+0 -1 8337
+S
+#8339
+On the dirt road~
+You are walking along the dirt road in the northern part of the North Village.
+The road continues to the east, and to the west it comes to a bend. To the
+east the road appears to open up into farmland, with nary a house in sight.
+~
+83 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8338
+S
+#8340
+A small shack off the path to the North Village~
+You are in a strange looking building.  There is a huge hole in
+the roof and a water trough the size of tanker truck off to the
+side of the room.  The floors and walls are carpeted and seem to
+have been ripped up by something with huge claws.  There is a
+doorway to the outside to the west.
+A sign demands your attention.
+~
+83 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8317
+E
+sign~
+This is the great catapult.  It is used to hurl you from place to
+place quickly and safely.  Simply state where you want to go and
+the catapult will launch you in the right direction.  The possible
+destinations are below:
+Entrance to Xanth
+North Village
+Humfrey's Castle
+Castle Roogna
+Centaur Village
+~
+S
+#8341
+A guard tower by Castle Roogna~
+This is a large stone tower that seems to be very old yet well
+kept up.  There is a large pool of milk set into the floor in the
+southeast corner of the building.  As you look up you notice a
+big hole in the ceiling.  The walls and floor are covered in stone
+dust and you notice gouges in the rocks that make up the building.
+A sign demands your attention.
+~
+83 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 1632
+E
+sign~
+This is the great catapult.  It is used to hurl you from place to
+place quickly and safely.  Simply state where you want to go and
+the catapult will launch you in the right direction.  The possible
+destinations are below:
+Entrance to Xanth
+North Village
+Humfrey's Castle
+Castle Roogna
+Centaur Village
+~
+S
+#8342
+A guard tower by Humfrey's Castle~
+This is a large stone tower that seems to be very old yet well
+kept up.  There is a large pool of milk set into the floor in the
+southeast corner of the building.  As you look up you notice a
+big hole in the ceiling.  The walls and floor are covered in stone
+dust and you notice gouges in the rocks that make up the building.
+A sign demands your attention.
+~
+83 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1637
+E
+sign~
+This is the great catapult.  It is used to hurl you from place to
+place quickly and safely.  Simply say where you want to go and
+the catapult will launch you in the right direction.
+For example to go to the North Village type say north village.
+The possible destinations are below:
+Entrance to Xanth
+North Village
+Humfrey's Castle
+Castle Roogna
+Centaur Village
+~
+S
+#8343
+On the dirt road~
+You are walking along a dirt road leading through the eastern part of Xanth's
+North Village. The road continues east, and the village square is to the
+west. From the north, you smell hot iron, and you hear the buzz of a loom to
+the south. You notice a couple of cottage-cum-shops in those directions.
+~
+83 0 0
+0d0+0 0 0
+D0
+A sturdy wooden door leads into a small, hot, loud cottage.
+~
+door~
+1 -1 8368
+D1
+~
+~
+0 -1 8344
+D2
+A sturdy wooden door leads into a small cottage.
+~
+door~
+1 -1 8369
+D3
+~
+~
+0 -1 8331
+S
+#8344
+A bend in the dirt road~
+The dirt road bends here, continuing to the south and west. A small cottage
+lies to the east, but that wonderful bread smell is coming from further south,
+and your stomach suggests you investigate that first.
+~
+83 0 0
+0d0+0 0 0
+D1
+A sturdy wooden door leads into a small cottage from here.
+~
+door~
+1 -1 8375
+D2
+~
+~
+0 -1 8345
+D3
+~
+~
+0 -1 8343
+S
+#8345
+On the dirt road~
+You are strolling leisurely down a dirt road leading through the eastern part
+of Xanth's North Village. The road bends again here, continuing north and
+east. The heavenly smell of fresh bread wafts strongly in your direction from
+the east. Your mouth waters in anticipation.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8344
+D1
+~
+~
+0 -1 8346
+S
+#8346
+On the dirt road~
+You have come to yet another bend in the dirt road, which now heads south and
+west. To the east you see a small cottage that has been turned into a shop,
+and you smell some delicious fresh bread within, and can barely restrain
+your legs from carrying you inside of their own volition.
+~
+83 0 0
+0d0+0 0 0
+D1
+A sturdy wooden door leads into a wonderful-smelling shop.
+~
+door~
+1 -1 8374
+D2
+~
+~
+0 -1 8347
+D3
+~
+~
+0 -1 8345
+S
+#8347
+On the dirt road~
+You are heading down a dirt road in the southeast part of Xanth's famous North
+Village. The road continues to the north and south, and to the west of you is
+a small cottage rather like the others in the village.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8346
+D2
+~
+~
+0 -1 8348
+D3
+A sturdy wooden door leads into a small cottage.
+~
+door~
+1 -1 8370
+S
+#8348
+A bend in the dirt road~
+The windy dirt road bends again here, leading north and east now. To the south
+you see another cottage, but they look to be getting farther apart now. You
+must be almost at the edge of the village.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8347
+D1
+~
+~
+0 -1 8349
+D2
+A sturdy wooden door leads south into a small cottage.
+~
+door~
+1 -1 8371
+S
+#8349
+On the dirt road~
+You are strolling down a dirt road leading through the eastern portion of the
+North Village. There are no cottages nearby, but someone has planted a lovely
+garden along the road here, and it looks well-cared for. Apparently the people
+around here enjoy their privacy, but appreciate beauty as well. The road
+continues to the east and west.
+~
+83 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8350
+D3
+~
+~
+0 -1 8348
+S
+#8350
+On the dirt road~
+You are still walking along the dirt road leading through the North Village.
+Up ahead, to the south, you see another cottage. The road continues to the
+east and west from where you are right now.
+~
+83 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8351
+D3
+~
+~
+0 -1 8349
+S
+#8351
+A bend in the dirt road~
+You have reached another bend in the dirt road. The road continues to the
+north and west from here, and another small cottage lies to the south.
+Peeking around the bend, you notice that the next cottage is quite a ways
+away. You must be in the outskirts of the village by now.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8352
+D2
+A sturdy wooden door leads into a small cottage.
+~
+door~
+1 -1 8372
+D3
+~
+~
+0 -1 8350
+S
+#8352
+On the dirt road~
+You are walking up a dirt road through the eastern part of the North Village.
+The road leads north and south from here, and a small cottage lies to the
+east. All is quiet and peaceful, so far.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8353
+D1
+A sturdy wooden door leads into a small cottage.
+~
+door~
+1 -1 8373
+D2
+~
+~
+0 -1 8351
+S
+#8353
+On the dirt road~
+You are walking up a dirt road through the eastern part of Xanth's North
+Village. This part of the road seems to run through a small field, where some
+cultivated plants are growing. You smell raw meat, and turn to see a healthy
+patch of beefsteak tomatoes, probably ripe enough to be harvested. The dirt road
+continues to the north and south.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8354
+D2
+~
+~
+0 -1 8352
+S
+#8354
+On the dirt road~
+The dirt road continues here, leading to the north and south. To the south, it
+seems to extend for quite aways, but it quickly dead-ends to the north. A small
+cottage lies ahead, near the dead end.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8355
+D2
+~
+~
+0 -1 8353
+S
+#8355
+End of the dirt road~
+You have come to a dead end in the dirt road. The road continues back the way
+you came, towards the south, or you can enter a small cottage to the west.
+The way north is obscured by particularly large and prickly bushes, so you
+decide it would be prudent to choose one of the other two directions.
+~
+83 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8354
+D3
+A sturdy wooden door leads into a small cottage.
+~
+door~
+1 -1 8376
+S
+#8356
+On the dirt road~
+You are on a dirt road leading through the western part of the North Village.
+To the east of you is the village square, the road continues to the west, and
+a sign proclaims that "Manwil -- Village Transporter" lies to the north, in
+a small cottage-turned-shop.
+~
+83 0 0
+0d0+0 0 0
+D0
+A sturdy wooden door leads into a small cottage-turned-shop here.
+~
+door~
+1 -1 8364
+D1
+~
+~
+0 -1 8329
+D3
+~
+~
+0 -1 8357
+S
+#8357
+On the dirt road~
+You are strolling along a dirt road leading through the western portion of
+the North Village. The road continues east toward the village square, and
+west, where you see a bend in the road not too far away. To the south, you
+see a sign that says "Jani the Tailor" over a small cottage that apparently
+doubles as a shop.
+~
+83 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8356
+D2
+A sturdy wooden door leads into the tailor's shop.
+~
+door~
+1 -1 8365
+D3
+~
+~
+0 -1 8358
+S
+#8358
+A bend in the dirt road~
+The dirt road bends here, continuing to the east and the south. Directly to
+the north of you is another small cottage, looking much like the others you
+have noticed in the village so far.
+~
+83 0 0
+0d0+0 0 0
+D0
+A sturdy wooden door leads into a small cottage here.
+~
+door~
+1 -1 8363
+D1
+~
+~
+0 -1 8357
+D2
+~
+~
+0 -1 8359
+S
+#8359
+On the dirt road~
+You are strolling leisurely down a dirt road leading through the western part
+of Xanth's famous North Village. The road leads north and south from here,
+and you see a bend in the road in each direction. To the west lies another
+small cottage with a sturdy wooden door.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8358
+D2
+~
+~
+0 -1 8360
+D3
+A sturdy wooden door leads into a small cottage here.
+~
+door~
+1 -1 8362
+S
+#8360
+A bend in the dirt road~
+You are at another bend in the dirt road leading through the North Village.
+The road continues to the north and west. Further to the west, you see a
+large sign, and a little ways further the dirt road turns into a clean, well-
+kept path, much like the magic path you traversed earlier.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8359
+D3
+~
+~
+0 -1 8361
+S
+#8361
+End of the dirt road~
+You have come to the end of the dirt road. It leads back east, towards the
+North Village, and to the west it becomes a firmer, cleaner path much like
+the magic path near the entrance to Xanth. A large sign sits wedged into
+the ground near you. Perhaps you should read it.
+~
+83 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8360
+D3
+~
+~
+0 -1 1638
+E
+sign~
+In large, friendly block letters, the sign reads:
+
+"Path between North Village and Centaur Village.
+
+"By order of King Dor, this path has been enchanted to keep harmful monsters
+ from molesting travelers. It is absolutely safe as long as you stay on it.
+ Be warned! The wildlands of Xanth are EXTREMELY dangerous to the uninitiate.
+ If you value your life, stay on the enchanted paths, which are safe.
+
+"Please report any malfunctions in the magic paths to King Dor. Thank you."
+
+~
+S
+#8362
+A small cottage~
+You have entered a small cottage near the western end of the North Village.
+Apparently a brewer lives here, for the place smells strongly of good beer.
+However, all you see are a few thick trees growing right in the middle of
+the living area, rather than a still. Then you notice the trees have taps
+in the middle of their trunks...beerbarrel trees?
+~
+83 0 0
+0d0+0 0 0
+D1
+A sturdy wooden door leads back onto the dirt road.
+~
+door~
+1 -1 8359
+S
+#8363
+A small cottage~
+This small cottage is much like the others in the village. Apparently the
+owner of this domicile likes plants, though, because you see a large number
+of pots crowding the small windows in search of light. As your glance falls
+on them, a potted snapdragon hisses at you and belches a small cloud of flame
+in your direction. Hmmm...botany in Xanth can be dangerous!
+~
+83 0 0
+0d0+0 0 0
+D2
+A sturdy wooden door leads back out onto the dirt road here.
+~
+door~
+1 -1 8358
+S
+#8364
+Manwil -- Village Transporter~
+This cottage does not appear to have been altered much, but as you enter,
+you hear a bell ring. A tall, businesslike man with a mustache and a smiling
+face walk over to you and shakes your hand. "Hello there!" he says. "I'm
+called Manwil, and I'm the transporter for the North Village. Please read
+the sign over the door, and I'll take you where you need to be."
+~
+83 8 0
+0d0+0 0 0
+D2
+A sturdy wooden door leads back out to the dirt road.
+~
+door~
+1 -1 8356
+E
+sign~
+A small sign over the door reads:
+
+"Welcome to Manwil's abode. Manwil's talent is transportation. He can only
+ transport one person at a time, and only to someplace he has been before.
+ However, Manwil takes pride in his memory, and was quite the traveler in
+ his youth. He will gladly use his talent to help you in exchange for a few
+ of your gold coins. SImply GIVE him the appropriate amount of money, and he
+ will transport you there instantly and painlessly. Thank you!
+
+                       Central Xanth -- 50 gp.
+                       North Village -- 100 gp.
+                       Castle Roogna -- 150 gp.
+                       Humfrey's Castle -- 300 gp.
+                       Mundania -- 500 gp.
+                            Tips are welcome!"
+
+~
+S
+#8365
+Jani's Tailor Shop~
+This place looks like a cottage that has been converted to serve as a shop.
+As you enter, a pretty young woman in impeccably tailored clothes steps
+forward and smiles at you. "Hi, I'm Jani," she says. "My talent is making
+clothes fit perfectly, and I am a pretty good hand at sewing, too. Would
+you like to sample my wares?" She continues smiling sweetly at you, perhaps
+aware of the double entendre. You notice a small handwritten sign nearby.
+~
+83 8 0
+0d0+0 0 0
+D0
+A sturdy wooden door leads back out to the dirt road.
+~
+door~
+1 -1 8357
+E
+sign~
+In neatly printed letters, the sign reads:
+
+"Welcome to Jani's Tailor Shop. Please feel free to ask for any clothes you
+ like. I ask for only a few of your shiny gold coins in trade. Use the BUY
+ command to make a transaction, and let me know if I can do anything else
+ for you. Thank you!"
+
+~
+S
+#8366
+Cortha's Woodworkings~
+This cottage-turned-shop smells pleasantly of fresh wood shavings, and is
+decorated with many fine carvings and engravings. A tall, skinny, bookish-
+looking man stands before you, smiling, and points up at a sign carved above
+the door when he sees that you've noticed him.
+~
+83 8 0
+0d0+0 0 0
+D1
+A sturdy wooden door leads out of the woodworker's shop.
+~
+door~
+1 -1 8335
+E
+sign~
+The sign, carved in square block letters above the door, reads:
+
+"Hello, my name is Cortha. Though I am very shy and have trouble speaking,
+ I also have the talent of working wood into any shape I desire without tools.
+ I will be happy to trade you some of my works for a few of your beautiful
+ golden coins. Use the BUY command to swap with me. And have a nice day."
+
+~
+S
+#8367
+Angril's Butcher Shop~
+You've stepped into a cottage that smells rather strongly of raw meat, but is
+nevertheless very clean and tidy. A large wooden counter has been placed near
+the door, and some cuts of meat are prominently placed thereon. As you look
+at them, a large, sturdy woman wearing thick leather gloves appears and smiles
+at you, pointing to a large sign above the counter for you to read.
+~
+83 8 0
+0d0+0 0 0
+D3
+A sturdy wooden door leads out of the butcher shop.
+~
+door~
+1 -1 8335
+E
+sign~
+The sign reads:
+
+Welcome to Angril's Butcher Shop! We have the finest cuts of meat in all of
+Xanth, and we even have some Mundane meats for you to sample. Angril's talent
+is to kill any diseases or parasites that might infest dead matter, so you
+can rest assured that all of her meats are safe for consumption. And tasty!
+
+Though there is no real money economy in the Land of Xanth, Angril will be
+happy to accept a few of your gold coins in trade for her goods. Use the BUY
+command to make a transaction, and enjoy your meal!
+
+~
+S
+#8368
+Gron's Metalwork and Blacksmithy~
+You enter a dimly lit, very hot cottage, where a tall, muscle-bound man with
+soot-blackened skin grins at you. "Name's Gron!" he shouts at you. "My talent
+is to shape hot metal with my bare hands! I make some of the finest metalwork
+in Xanth! I'll trade you some for that shiny gold stuff in your pouch, if you
+like." He then rocks back on his heels, still grinning, and awaits your reply.
+~
+83 8 0
+0d0+0 0 0
+D2
+A sturdy wooden door leads out of this hot place, back to the dirt road.
+~
+door~
+1 -1 8343
+S
+#8369
+Eilyna's Cloth Works~
+As you enter this small cottage, the first thing you notice is a huge loom
+that take up most of the central room. Seated at the loom is a rather fetching
+young lady, who smiles demurely and says to you in a shy voice, "Hello. My
+name is Eilyna, and my talent is changing the color of cloth." She waves her
+hand vaguely around the room, and you notice a number of quite stunning
+tapestries, curtains, and carpets. The young lass then points above her head
+to where a small, handcrafted sign gathers dust.
+~
+83 0 0
+0d0+0 0 0
+D0
+A sturdy wooden door leads out of the cottage.
+~
+door~
+1 -1 8343
+E
+sign~
+Carved in intricate calligraphy, the sign reads:
+
+"Welcome to Eilyna's Cloth Works. Money does not mean much in Xanth, but I
+ will be happy to trade some of my work to a new customer in exchange for
+ some shiny gold pieces. Use the BUY command to make a transaction."
+
+~
+S
+#8370
+A small cottage~
+Yet another small cottage. This one looks a bit peculiar, however, and has a
+rather peculiar smell, rather...cheesy. Then you see a wall with a large hunk
+bitten out of it and realize that this is in fact a cottage cheese, and not a
+real cottage at all. However, someone appears to be living happily here, so
+perhaps the distinction is moot. The door is to the east.
+~
+83 0 0
+0d0+0 0 0
+D1
+A sturdy wooden door leads out onto the dirt road.
+~
+door~
+1 -1 8347
+S
+#8371
+A small cottage~
+This cottage looks like it belongs to someone in service to King Dor. Hung
+carefully on the walls is a fine suit of armor and a long sword, and a guard's
+uniform sits beneath it, neatly pressed. Looks like the villagers take pride
+in their king, which is always nice to see. The door is to the north.
+~
+83 8 0
+0d0+0 0 0
+D0
+A sturdy wooden door leads back to the dirt road here.
+~
+door~
+1 -1 8348
+S
+#8372
+A small cottage~
+Another typical small cottage for the North Village. This resident either
+enjoys caring for plants quite a bit, or is a good friend of Queen Irene.
+The place is practically a jungle, and you grow fairly nervous as you wander
+around aimlessly. You'd probably be better off leaving through the door to
+the north...they might not have been fed yet.
+~
+83 8 0
+0d0+0 0 0
+D0
+A sturdy wooden door leads back out onto the dirt road.
+~
+door~
+1 -1 8351
+S
+#8373
+A small cottage~
+This small cottage looks to be the property of some farmers. Everything is
+very tidy and well-organized, and the furniture looks to have been crafted
+by hand. Nothing very artistic, but quite functional and comfortable enough
+for people to whom every day is a busy one. The door is to the west.
+~
+83 8 0
+0d0+0 0 0
+D3
+A sturdy wooden door leads back out to the dirt road.
+~
+door~
+1 -1 8352
+S
+#8374
+Nena's Breadstand~
+As you enter this place, you are immediately overwhelmed by the most divine
+aroma you have ever smelled...fresh bread! Looking around, you see a rather
+comfortable little cottage with trees all over the place. Growing on the
+ends of the branches are small loaves of bread, steaming slightly. These
+must be breadfruit trees, you think sourly. A small, ruddy-faced old woman
+smiles at you as you enter and points to a small sign over her head.
+~
+83 8 0
+0d0+0 0 0
+D3
+A sturdy wooden door leads back out onto the dirt road.
+~
+door~
+1 -1 8346
+E
+sign~
+Handcarved into the wood is the following inscription:
+
+Welcome to Nena's Breadstand! The finest breadfruit in Xanth!
+
+Although money doesn't mean much in Xanth, I will be happy to trade you a
+nice fresh loaf for a few of those shiny gold coins. Simply type "buy bread"
+to make the transaction. And remember...enjoy!
+
+~
+S
+#8375
+A small cottage~
+You have entered a small cottage, probably the domain of an artist, judging
+by the amount of paint and canvas spread all over the place. It looks like
+the domicile was chosen specifically because it is upwind of the bread stand,
+because the wonderful smell is still clearly evident through the closed
+windows. Truly inspirational, it seems!
+~
+83 8 0
+0d0+0 0 0
+D3
+A sturdy wooden door leads back onto the dirt road.
+~
+door~
+1 -1 8344
+S
+#8376
+A small cottage~
+This small cottage looks much like all others of its type, with clean, sturdy-
+looking furniture, and the kind of crocheted decorations owned by people with
+a lot of time on their hands. There isn't too much of interest here, so you
+might as well leave this place through the door to the east.
+~
+83 8 0
+0d0+0 0 0
+D1
+A sturdy wooden door leads back to the dirt road.
+~
+door~
+1 -1 8355
+S
+#8378
+A small cottage~
+Entering this small cottage, you decide that this is the home of the village
+midwife. Kept right near the door is a big wooden pail for hot water, and a
+number of fresh, soft, comfy blankets for very small people. Not much else
+of interest here, though, so it's probably time to leave.
+~
+83 8 0
+0d0+0 0 0
+D1
+A sturdy wooden door leads back out to the dirt road.
+~
+door~
+1 -1 8337
+S
+#8379
+A small cottage~
+Another small cottage, much like the others. It has all of the basic creature
+comforts one would expect, including comfortable furniture and many toys for
+the young'uns. Rather boring, all things considered, but the residents are
+probably happy here, so you take care not to damage anything. A door to the
+east leads back out onto the dirt road.
+~
+83 8 0
+0d0+0 0 0
+D3
+A sturdy door leads out onto the dirt road.
+~
+door~
+1 -1 8337
+S
+#8380
+A small cottage~
+You have entered a small cottage in the northern part of the North Village.
+It looks much like all the other cottages, being clean, well-kept, and cozy.
+The people of Xanth seem to have a happy and comfortable life, all things
+considered. Maybe you should stay here for awhile.
+~
+83 8 0
+0d0+0 0 0
+D2
+A sturdy wooden door leads out to the dirt road.
+~
+door~
+1 -1 8338
+S
+#8381
+End of the path through Centaur Village~
+The path dead-ends here in front of a very large and sturdy wooden fence,
+that looks like it would be far too much trouble to climb over. The path
+goes back in a northerly direction, the way you came, though. There is also
+another large building to the west, whose function is unclear to you.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8382
+D3
+A sturdy wooden door with brass hinges leads into the building.
+~
+door~
+1 -1 8399
+S
+#8382
+Path through Centaur Village~
+Continuing down the path, you notice another large building to the east. It
+has a large belltower on top of it, and has been painted red. You think it
+might be a school, in fact. The path continues north and south from here.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8383
+D1
+A sturdy wooden door painted red leads into the schoolhouse.
+~
+door~
+1 -1 8398
+D2
+~
+~
+0 -1 8381
+S
+#8383
+Path through Centaur Village~
+You are walking down the wide dirt path that leads through the southern part
+of Centaur Village. All around you are centaurs, going about their business
+in their usual fashion, and taking little heed of your presence. It doesn't
+seem that they object to you: they just have other things to think about. The
+path continues to the south, and to the north is the village square.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8385
+D2
+~
+~
+0 -1 8382
+S
+#8384
+Southwestern corner of the square~
+You're in the southwestern corner of Centaur Village's village square. There
+looks to be a whole lot of plants here, in a semi-organized garden. Dominating
+the patch is a fearsome needle cactus, from which you keep your distance, but
+the centaurs seem unfazed by it. Indeed, one of them walks over to it and
+relieves himself in the soil near it! You decide that you are never going to
+understand centaurs. The square extends to the north and east from here.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8387
+D1
+~
+~
+0 -1 8385
+S
+#8385
+Southern end of the square~
+You are in the southern part of Centaur Village's village square. Here you see
+a couple of lady centaurs chatting idly while washing clothes with water from
+a nearby well. You are not sure whose clothes they are, however, since these
+two ladies seem quite comfortable topless. You manage to stop staring at them
+long enough to ascertain that the square extends to the north, east, and west
+from here, and a wide dirt path leads south.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8388
+D1
+~
+~
+0 -1 8386
+D2
+~
+~
+0 -1 8383
+D3
+~
+~
+0 -1 8384
+S
+#8386
+Southeast corner of the square~
+You are walking around the village square. Here, you notice a few middle-aged
+centaurs talking seriously about something important and complicated. Xanth's
+centaur population are almost obscenely intelligent and educated, and the two
+centaurs here barely seem to notice you in the depths of their conversation.
+The square continues north and west from here.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8389
+D3
+~
+~
+0 -1 8385
+S
+#8387
+Northwest corner of the square~
+This is the northwestern corner of the village square. Over here you see some
+cute young centaurs (which nevertheless are as tall as you are) watching in
+amazement as some human children do handstands. No centaur could do that!
+You smile at the sight, and consider your next move: the square continues to
+the south and east, and a wide dirt road leads west.
+~
+83 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8388
+D2
+~
+~
+0 -1 8384
+D3
+~
+~
+0 -1 8392
+S
+#8388
+Northern end of the square~
+You are standing at the northern end of the village square. A large building
+lies directly north of you, and you see a large wooden sign with a stylized
+representation of a strung bow over the door. Looks like the bowyer works
+there, or just someone who likes bows. The square continues to the south,
+east, and west from your current location.
+~
+83 0 0
+0d0+0 0 0
+D0
+An ironwood door leads into the bowyer's shop here.
+~
+door~
+1 -1 8396
+D1
+~
+~
+0 -1 8389
+D2
+~
+~
+0 -1 8385
+D3
+~
+~
+0 -1 8387
+S
+#8389
+Northeast corner of the square~
+You are in the northeast corner of Centaur Village's village square. You note
+that the square is quite a bit smaller than the one in the North Village,
+but then again, there don't seem to be as many people living here, either.
+The square continues west and south, and a path leads east towards the edge
+of the village.
+~
+83 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8390
+D2
+~
+~
+0 -1 8386
+D3
+~
+~
+0 -1 8388
+S
+#8390
+Path through Centaur Village~
+You are strolling along a well-trampled path through the Centaur Village. All
+around you you see male and female centaurs trotting casually along, not
+appearing to notice your presence. Apparently the centaurs live in peace with
+the human folk of Xanth, so you don't have much to worry about unless you
+annoy them. The path continues east toward the edge of the village and west
+toward the village square.
+~
+83 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8391
+D3
+~
+~
+0 -1 8389
+S
+#8391
+Edge of Centaur Village~
+You are standing on a well-trampled path at the edge of Centaur Village. To
+the north is the Watchman's house, to the south a magic path takes you out of
+the village, and the path continues into the village square to the west.
+~
+83 0 0
+0d0+0 0 0
+D0
+An ironwood door leads into the Watchman's house.
+~
+door~
+1 -1 8397
+D2
+~
+~
+0 -1 1642
+D3
+~
+~
+0 -1 8390
+S
+#8392
+Path through Centaur Village~
+You are walking along a very wide, very flat path through Centaur Village.
+To the north, the path continues, and to the east is the beginning of the
+village square. South of you is a large building with a sign carved with
+either a coiled snake or a braided rope over the door.
+~
+83 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8393
+D1
+~
+~
+0 -1 8387
+D2
+A sturdy ironwood door leads into the rope shop.
+~
+door~
+1 -1 8395
+S
+#8393
+End of the path through Centaur Village~
+The path you are walking on comes to a dead end here, right next to a big,
+solid wooden fence to the north. Looks like too much trouble to climb over.
+However, you can still go back south, and to the west of you is another of
+those big buildings. This one has a wooden sign with a stylized representation
+of a sword on it, so it's probably the smithy or the weapon shop.
+~
+83 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8392
+D3
+A sturdy ironwood door leads into Castor Centaur's shop.
+~
+door~
+1 -1 8394
+S
+#8394
+Castor Centaur's Swords for Sale~
+This place is where Castor Centaur, one of the finest swordsmen in Xanth, has
+his place of business. He smiles with pride when he sees you eyeing his work,
+and offers to exchange "a fine hunk of steel" for a few gold coins. You are
+seriously considering taking him up on it.
+~
+83 8 0
+0d0+0 0 0
+D1
+A sturdy ironwood door leads back out onto the path.
+~
+door~
+1 -1 8393
+S
+#8395
+Catherine Centaur's Rope Shop~
+As you enter this place, you notice almost immediately that it is chock full
+of coils of rope, neatly labeled and hanging from the walls. A stunningly
+beautiful and bare-breasted centaur filly smiles at you and offers to
+explain the many uses of each type to you. Hmmm...might be worth a listen.
+~
+83 8 0
+0d0+0 0 0
+D0
+A sturdy ironwood door leads back onto the path.
+~
+door~
+1 -1 8392
+S
+#8396
+Cecilia the Bowyer and Fletcher~
+This strong and well-built edifice houses Cecilia Centaur, the village bowyer
+and fletcher. She smiles politely at you as you enter, and offers to display
+some of the items she has on display. There is a sign over the door that would
+probably make very interesting reading.
+~
+83 8 0
+0d0+0 0 0
+D2
+A sturdy ironwood door leads back out into the square.
+~
+door~
+1 -1 8388
+E
+sign~
+
+The neatly printed sign reads as follows:
+
+"Welcome to Cecilia's Bows and Arrows. As you may know, centaurs are the
+ finest archers in Xanth, and as such, we know how to make a good bow.
+ We will be happy to accept a few of your gold coins in exchange for the
+ missile weapon of your choice. Use the BUY command to make a transaction.
+ The centaurs of the village wish you good hunting."
+
+~
+S
+#8397
+Home of Chad, the Village Watchman~
+You are in the home of Chad Centaur, who serves as the village Watchman. His
+home is furnished in a very Spartan fashion, but you notice that a well-made
+bow, quiver of arrows, and a sheathed sword sit ready by the door. An armor
+rack nearby holds a sturdy steel helmet with a blue plume and a breastplate
+with a blue circle in the center of it. Apparently Chad takes his job very
+seriously, and it wouldn't be a good idea to mess with him.
+~
+83 8 0
+0d0+0 0 0
+D2
+A sturdy ironwood door leads out to the dirt road.
+~
+door~
+1 -1 8391
+S
+#8398
+Cherie Centaur's schoolhouse~
+This is the schoolhouse for the village. Apparently it's the best education
+to be found for quite a ways, because you also notice some human children,
+seated quietly in desks arranged in neat rows. An attractive middle-aged
+centaur filly is teaching the class, and like all the best teachers, she
+completely disregards her presence. A few of the students turn around and
+gaze quizzically at you, but the teacher raises her voice and they quickly
+return to the task at hand.
+~
+83 8 0
+0d0+0 0 0
+D3
+A sturdy wooden door painted red leads out onto the path.
+~
+door~
+1 -1 8382
+S
+#8399
+Village council chambers~
+Entering this quiet, oppressively majestic place, you immediately conclude
+that these are the council chambers for the village, where all of the serious
+governing goes on. While the centaurs are not subject to King Dor, they have
+very friendly relations, due to an oath sworn by their distant ancestors.
+There are a few older centaurs in here, discussing some aspect of taxation,
+or something similarly boring and techincal. The door is to the east.
+~
+83 8 0
+0d0+0 0 0
+D1
+A sturdy wooden door with brass hinges leads back onto the path.
+~
+door~
+1 -1 8381
+S
+$

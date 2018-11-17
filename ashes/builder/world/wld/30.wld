@@ -1,0 +1,2365 @@
+#2996
+Grove of Redwood Trees~
+You walk deeper into the small expanse of brush and young redwood
+trees. The light chittering of small animals, buzzing of insects, and songs
+from birds start to fill your ears.  You are not afraid that the animals will
+attack you, for you feel at ease and comforted by their activity.  A rustling
+of leaves makes you turn your head to allow you to focus on a man dressed as
+an outdoorsman.  If he did not make any noise to allow you to see where he
+was, you would never have seen him there.  He is obviously trained in using
+the elements for survival.  Perhaps he may be able to help you.
+~
+30 16 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 3045
+D2
+~
+~
+0 -1 2997
+S
+#2997
+Grove Clearing~
+You are in a small clearing, surrounded buy aging redwood trees.  The further
+that you travel through the clearing, the older the trees become.  The forest
+life has blossomed into activity, as if the city were days away.  You catch
+a brief wiff of a cooking fire, but cannot immediately determine from which
+direction it came.  After scanning the wooded area, you notice a humble abode
+made from logs, mud, and roofed with pine cuttings.
+~
+30 16 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 2996
+D2
+~
+~
+0 -1 2998
+S
+#2998
+A small hut~
+You crouch to get in through the door of the hut.  The inside walls
+of the hut contain various animal skins and hunting equipment.
+The smoke from a small fire at the center of the hut drifts out a
+hole in the roof.  More skins cover the ground and are obviously
+used for sitting and sleeping.
+~
+30 24 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2997
+S
+#2999
+The Shrine of the Psionicists~
+  This room is empty except for a few abstract paintings and sculptures.
+There are several objects laying on a table in the corner of the room, a
+torch, a small weight, and a solid stone block.  This is where the master
+psionicists instructs his pupils on the rudiments of psionic powers.  In
+order to become one of the mental elite, you must be able to lift the weight,
+light the torch and detonate the block, all with only the power of your mind.
+Mental discipline is the mantra of the psionicist, and you must learn this
+before you may become one of them.  Though a reclusive lot, psionicists are
+social among their own, and if you pass the tests you will be admitted as if
+you were always one of them.
+~
+30 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3036
+S
+#3000
+Cinderloft's Well of Knowledge~
+You are in a musty smelling room that is filled with the haze and smoke from
+burning torches that line the wall.  Beams of sunlight shine lazily through
+the windows providing some additional light.  Monks and apprentaces are
+scurrying about with shifts of paper, books, or copying some manuscript as
+you scan the surroundings.  The Royal Herald is talking and handing sealed
+parchments to the monks that contain valuable information.  These parchments
+would contain the latest news, announcements, and proclaimations of their
+Excellencies to which the loyal subjects of their realm must value, learn,
+and follow to remain lawful subjects of the realm.  There are rows of modest
+looking benches with writing implements provided so that you may relay any
+message to any person within the realm.
+~
+30 156 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3001
+S
+#3001
+The Path of Higher Learning~
+You are on a stone road heading west away from the Town Square. Many citizens
+are coming from the north and travelling in different directions from there.
+From the west, you begin to hear the faint murmurs of chanting, practice
+staves being hit together, and an occasional explosion.  Your curiousity
+begins to mount, and you are eager to start on your way to attaining greater
+knowledge.
+~
+30 28 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3000
+D1
+~
+~
+0 -1 3072
+D3
+~
+~
+0 -1 3012
+S
+#3002
+The Inner Sanctum~
+  In the darkness of the inner santum, incense hangs heavily on the
+air burning in bowls on the altar wich stands against the west wall.
+A large statue stands upon the altar, the representation of Khel'daar,
+the god of the healing arts.  He looks down upon you with an almost
+smug expression, arms spread wide in blessing.  At the foot of the
+altar, sacrifices of food, armor, weapons, jewels, gold and other
+valuables have been left by those who would cultivate his favor.
+~
+30 28 0
+0d0+0 0 0
+D1
+The cleric's bar is here.
+~
+~
+0 -1 3003
+S
+#3003
+Devotion and Prayer Room~
+A quiet and refined atmosphere prevails in the Cleric's bar.  The room is
+panelled in a dark, reddish colored wood which has been polished to a dull
+shine.  The stone floor is mostly covered by a fine, burgundy oriental 
+carpet woven with a floral design in gold.  Comfortably padded chairs
+are here and there about the room arranged near small tables. A large,
+stone fireplace stands upon one wall, flames flickering brightly inside.
+~
+30 156 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3004
+D3
+You see the inner sanctum.
+~
+~
+0 -1 3002
+E
+sign~
+The sign reads:
+Free instructions provided by the waiter:
+
+   Buy  - Buy something (drinkable) from the waiter.
+   List - The waiter will show you all the different drinks and
+          specialties, and tell the price of each.
+~
+S
+#3004
+A Refreshing Wind~
+A cool refreshing breeze flows through your armor and gear cooling your
+overheated body.  You tilt your head back, close your eyes and inhale deeply
+the slightly flowery, wooden scented air filling your lungs to capacity. A
+kindly gentleman enjoys the rejuvenating breeze close by.  Perhaps if you
+are not feeling entirely healthy, this man could direct you to someone who
+may aid you completely.
+~
+30 24 0
+0d0+0 0 0
+D0
+The path which you just left is there.
+~
+~
+0 -1 3014
+D2
+~
+~
+0 -1 3003
+S
+#3005
+Cinderloft's Sparkling Spring~
+The first thing that you notice along the road is a refreshing Sparkling
+Spring from which crystal clear water flows.  No one knows where the source
+of this deep mineral water spring originates.  Many of the citizens of
+Cinderloft are waiting in line for the opportunity to fill their water
+containers.  Some adventurers are recognizable within the line. They must
+have heard the stories of the great replentishing abilities of this cold and
+crisp water.
+~
+30 144 1
+0d0+0 0 0
+D0
+You see a small alcove where an occasional passer-by donates some of their
+possessions.
+~
+~
+0 -1 3063
+D1
+~
+~
+0 -1 3008
+D2
+You see open doors to the local Scribe's Hall.
+~
+~
+0 -1 3062
+D3
+You see the Town Square off in the distance.
+~
+~
+0 -1 3072
+D6
+~
+~
+0 -1 3058
+S
+#3006
+Path to Brimstone Keep~
+~
+30 24 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3016
+D1
+~
+~
+0 -1 3048
+D2
+~
+~
+0 -1 3059
+D3
+~
+~
+0 -1 3044
+S
+#3007
+The Grunting Boar~
+The bar room is wide and spacious and its flagstone floor has been recently 
+swept clean and covered with sweet-smelling rushes.  Long trestle tables with
+wooden benches are here and there about the room, arranged in a fashion to 
+take most advantage of the heat from the large fireplace on the north wall.
+Oo the east side of the room, a large bar stands, crafted from a fine, dark
+wood. All over its top are various carvings and symbols which draw the eye.
+Lanterns flicker softly and add to a comfortable and peaceful feeling here.
+~
+30 152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3026
+E
+sign~
+The sign reads:
+Free instructions provided by the Grunting Boar Inn.
+
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+          specialties, and tell the price of each.
+~
+E
+writing carving carvings symbols symbol~
+Although it is very hard to understand, you think it looks a lot like beer,
+poems about beer, and small beer-mugs.
+~
+S
+#3008
+Crossroads~
+A paved road has intersected your path as you roam throught the relative
+safety of Cinderloft.  You think you hear faint moans and screams to your
+north, and you remember hearing distant fables of Cinderloft being built upon
+the castle of a once evil lord.  Some peasants are making their way to the
+south as they return from spending their day in the town square.  It is time
+to descide on where your adventure is to begin.
+~
+30 24 0
+0d0+0 0 0
+D0
+A dank, dark path lies before you.
+~
+~
+0 -1 3089
+D1
+~
+~
+0 -1 3053
+D2
+~
+~
+0 -1 3088
+D3
+~
+~
+0 -1 3005
+E
+sign~
+Rooms are expensive but good!  You may:
+
+   Offer - get an offer on a room - Time is in real life days.
+   Rent  - Rent a room (saves your stuff, and quits the game),
+           minimum charge is one day.
+
+
+                          MY WAY OR THE HIGHWAY
+                             PAY YOUR RENT!
+                WE WON'T THINK TWICE BEFORE KICKING YOU OUT.
+~
+S
+#3009
+The Bakery~
+The sweet scents of fresh danish and baking breads fill the bakery pleasantly.
+The baked goods are arranged appealingly in spotlessly clean glass cases.  The
+wide wooden planks of the floor have been recently swept and white-washed walls
+show signs that someone has taken great care to keep them clean.  The windows
+on either side of the door to the south are curtained and have wooden benches
+set beneath them.  Through them, you can see the traffic on the street outside.
+~
+30 152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3085
+E
+sign~
+Free instructions provided by the store:
+
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+          his bakery.
+~
+E
+danish pastry~
+You see that this is truly delicious pastry.  Must be made by a Dane from
+Denmark (which surely is not the capital of Sweden!).  Former ruler of
+Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
+Iceland, Estonia etc.  etc.
+   The sight of those large, wholesome chokoladeboller makes your mouth water
+and your soul sing.
+
+~
+S
+#3010
+The General Store~
+Inside the general store, the shelves and cases are piled high with a variety
+of useful merchandise.  Everything is clean and well organized and the freshly
+white-washed walls fairly shine.  A globe hovers near the ceiling, shedding a
+warm light over the room.  The wide wooden boards of the floor are coverd by a
+handmade rug and the dark wooden counter has been polished until it fairly
+gleams. A large sign stands prominently upon the counter.
+~
+30 152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3086
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#3011
+The Weapon Shop~
+Inside the weapon shop, armaments are hung upon the walls on heavy pegs, some
+gleaming with polish and others are neglected looking.  Some finer pieces of
+craftsmanship are displayed in glass cases which are set about the room. The
+sounds of metal being hammered come from a closed door to the back of the room.
+~
+30 152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3086
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#3012
+The Path of Higher Learning~
+The stone street has been well maintained by the many apprentaces who are
+scurrying about for their masters.  As you travel along the path, the ringing
+of practice swords, explosions, and chanting grow louder.  A burning in your
+stomach tells you that something has drawn you to this path.  A quest for
+knowledge or the need for self reflection awaits you.  Your destiny will
+drive you toward your master.
+~
+30 16 1
+0d0+0 0 0
+D0
+Men in robes try to walk lightly down this fragile path.
+~
+~
+0 -1 3096
+D1
+The beginning of your journey started from that direction.
+~
+~
+0 -1 3001
+D2
+The sound of practice staves clashing seems louder in that direction.
+~
+~
+0 -1 3021
+D3
+You calling will drive you forward.
+~
+~
+0 -1 3013
+S
+#3013
+The Path of Higher Learning~
+The stone street has been well maintained by the many apprentaces who are
+scurrying about for their masters.  As you travel along the path, the ringing
+of practice swords, explosions, and chanting grow louder.  A burning in your
+stomach tells you that something has drawn you to this path.  A quest for
+knowledge or the need for self reflection awaits you.  Your destiny will
+drive you toward your master.
+~
+30 24 0
+0d0+0 0 0
+D0
+~
+You see the main street.
+~
+0 -1 3147
+D1
+The beginning of your journey started from that path.
+~
+~
+0 -1 3012
+D2
+~
+You see your favorite place, the Mage's Bar.
+~
+0 -1 3017
+D3
+Continue on for the search of your master.
+~
+~
+0 -1 3014
+S
+#3014
+The Path of Higher Learning~
+The stone street has been well maintained by the many apprentaces who are
+scurrying about for their masters.  As you travel along the path, the ringing
+of practice swords, explosions, and chanting grow louder.  A burning in your
+stomach tells you that something has drawn you to this path.  A quest for
+knowledge or the need for self reflection awaits you.  Your destiny will
+drive you toward your master.
+~
+30 16 1
+0d0+0 0 0
+D0
+You see a safe sanctuary off the side of the path.
+~
+~
+0 -1 3057
+D1
+This will take you to the beginning of your journey.
+~
+~
+0 -1 3013
+D2
+~
+You see the common square.
+~
+0 -1 3004
+D3
+Perhaps your quest will end in this direction.
+~
+~
+0 -1 3015
+E
+statue~
+What you see is the Midgaard Worm, stretching around the Palace of Midgaard.
+~
+S
+#3015
+The Path of Higher Learning~
+The road is not as well kept as you notice further down toward the east, but
+it is better travel than the brush that lies to your west.  The light here
+seems to be dimmer than before, but you get the sneaky suspition that it is
+from unnatural causes.  If your quest for knowledge has not begun, then it
+would be beneficial for your to seek the guidance of your master from one of
+the guilds that line the pathway to the Town Square.  You still hear the
+faint echoes of voices and the clapping of practice swords, but from behind
+that noise you hear the slight shifting of feet that do not keep the exact
+timing of your footfalls.  You have best be on your guard and keep a sharp
+mind and eye as you travel in your ways.
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3068
+D1
+The road grows fainter as you travel further away from the town square.
+~
+~
+0 -1 3014
+D2
+~
+~
+0 -1 3027
+D3
+Perhaps your quest will end here.
+~
+~
+0 -1 3045
+S
+#3016
+A path to Brimstone keep~
+~
+30 80 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3030
+D2
+~
+~
+0 -1 3006
+D3
+~
+~
+0 -1 12065
+S
+#3017
+A Gathering of Alchemists~
+A gathering of alchemists, mages, and those interested in practicing the
+mystical arts of spell and wizardry chat together compairing their latest
+discoveries. They will not share their secrets openly, but are all willing to
+guide you to one who is taking apprentaces.  Off in the distance, you can
+determing that this is one of the sources that is producing some of the
+explosions.
+~
+30 24 0
+0d0+0 0 0
+D0
+The stone path lies in the distance.
+~
+~
+0 -1 3013
+D2
+~
+~
+0 -1 3018
+S
+#3018
+Mages Study~
+The room seems quiet enough to hear others breathe.  Books line oak paneled
+shelves that contain may volumes of past magicians studies.  It is a wealth
+of knowledge that has been passed down throughout the centuries.  Take
+advantage of the predicissors of your guild and study what they have written
+down in the volumes. Once you feel that your have absorbed this knowledge, it
+ould be beneficial for you to seek the fabled magician, Methos.
+~
+30 140 0
+0d0+0 0 0
+D0
+You see the lobby.
+~
+~
+0 -1 3017
+D1
+You see the laboratory.
+~
+~
+0 -1 3019
+S
+#3019
+Methos' Quarters~
+You enter a dim smoke filled room that is cluttered with books, papers, and
+glass fixtures used in ongoing experiments.  You are not sure that it is
+entirely safe to remain in these close quarters for too long. Perhaps, it
+would be best for you to get done with your questions of Methos and be about
+your way.
+~
+30 12 0
+0d0+0 0 0
+D3
+You see the bar.
+~
+~
+0 -1 3018
+S
+#3020
+Fine Leathers and Armor~
+   The armory with all kinds of armors on the walls and in the window.  You
+see helmets, shields and chain mails.  To the south is the main street.
+On the wall is a small note.
+~
+30 152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3085
+E
+note~
+  You can use these commands for trading:
+
+  value <item>     To get the price of an item in your possession.
+  sell <item>      To sell something.
+  buy <item>       To buy something (provided that the shop has it in store).
+  list             Gives you a listing of the shop's inventory.
+
+        WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+                             NO HAGGLING
+~
+S
+#3021
+The List~
+You enter an open field commonly refered to as the 'list' where you may try
+to pick up a sparring session to enhance your fighting ability.  A
+respectable knight awaits to aid you in your training along with many newbie
+fighters and squires.
+~
+30 16 0
+0d0+0 0 0
+D0
+The paved path is just a little ways off in the distance.
+~
+~
+0 -1 3012
+D1
+~
+~
+0 -1 3022
+S
+#3022
+Chirurgeon's Tent~
+The Chirurgeon offers a refreshing drink to those who are getting dehydrated
+from their hard sparring matches from within the list. Feel free to get
+yourself a drink and rest for your upcoming training or next sparring match.
+~
+30 140 0
+0d0+0 0 0
+D2
+A small list lies in the distance.
+~
+~
+0 -1 3023
+D3
+The dust from sparring matches whirls around the List.
+~
+~
+0 -1 3021
+S
+#3023
+Marshall's Authorization List~
+The Kingdom Earl Marshall awaits to instruct you in the various abilities
+needed to become the best possible knight you can be.  His training may be
+vigorous, but his reputation throughout the kingdom has brought you to his
+service.  There is ample room within this small list that will allow for the
+use of all weapons necessary in your training.
+~
+30 12 0
+0d0+0 0 0
+D0
+The Chirurgeon's Tent is nearby if you need attention.
+~
+~
+0 -1 3022
+S
+#3024
+Merchant's Row~
+~
+30 16 1
+0d0+0 0 0
+D0
+You see the entrance to the Paladins Guild.
+~
+~
+0 -1 3087
+D1
+~
+You see the common square.
+~
+0 -1 3033
+D2
+~
+You see the Inn.
+~
+0 -1 3025
+D3
+~
+You see the poor alley.
+~
+0 -1 3050
+E
+circle gate~
+The sparkling circle seems to be some sort of rift. Trough it you see a 
+swirling haze, occasionally parting to reveal a strange and alien landscape 
+under a hostile grey sky.  The loud crackling noise that the circle's spark
+cause convinces you that trying to squeeze through it could be perilous.
+~
+S
+#3025
+The End of the Row~
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+You see the market square.
+~
+0 -1 3024
+D1
+~
+You see the dark alley.
+~
+0 -1 3049
+D2
+~
+~
+0 -1 3051
+D3
+~
+You see the poor alley.
+~
+0 -1 3055
+D8
+~
+~
+0 -1 3201
+S
+#3026
+Merchant's Row~
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3086
+D1
+~
+The alley continues east.
+~
+0 -1 3007
+D2
+~
+You see the entrance to the thieves guild.
+~
+0 -1 3087
+E
+guild~
+It is the thieves guild, don't enter if you care about your health or money.
+~
+S
+#3027
+A Shadow Filled Alley~
+This is a place where you could lose both life and riches if care is not
+taken. You seem to notice footpads following your steps and shapes moving in
+the shadows. Hurry along before you leave with nothing but your shirt, if you
+are lucky.
+~
+30 24 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3015
+D1
+~
+~
+0 -1 3028
+S
+#3028
+Dice Room~
+Yes Dice.  This allows you to sort out your plunder for the day, and to test
+your skills of cheating with others of your craft.  A nice little common room
+with chairs, tables, and drinks to hone your skills.
+~
+30 156 0
+0d0+0 0 0
+D2
+I Dare YOU!
+~
+~
+0 -1 3029
+D3
+The alley is there.
+~
+~
+0 -1 3027
+E
+furniture~
+The chairs and tables are solid oak that perhaps belonged to a wealthy
+merchant or nobleman.
+~
+S
+#3029
+The Back Room~
+Shady deals for shady characters.  This is the place to learn the true
+secrets of the arts from the legends spoken only under breath for select ears
+only.
+~
+30 28 0
+0d0+0 0 0
+D0
+A game of dice is going on back there.
+~
+~
+0 -1 3028
+S
+#3030
+A Path to Brimstone Keep~
+~
+30 20 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 3016
+S
+#3031
+The Pet Shop~
+   The Pet Shop is a small crowded store, full of cages and animals of
+various sizes.  There is a sign on the wall.
+~
+30 4248 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3087
+E
+sign~
+The sign reads:
+
+  Use 'List' to see the available pets.
+  Use 'Buy <pet>' to buy yourself a pet.
+
+  Instructions for having pets:
+
+  You can use 'order <pet> <instructions>' to order your pets around.
+  If you abuse your pet, it will no longer regard you as its master.
+  If you have several pets you may use 'order followers <instructions>'
+
+  You can name the pet you buy as : "buy <pet> <name>"
+
+ Regards,
+.
+ The Shopkeeper
+~
+S
+#3032
+Pet Shop Store~
+   This  is the small dark room in which the Pet shop keeps his pets.
+It is vital that this room's virtual number is exactly one larger
+than the Pet Shop number.
+~
+30 8 0
+0d0+0 0 0
+S
+#3033
+The Magic Shop~
+   Behind the counter you see various items, neatly placed in racks,
+presumably most of them are magic.
+~
+30 152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3024
+S
+#3034
+A Player owned shop - THIS PLACE FOR RENT!!!~
+~
+30 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3054
+S
+#3035
+A Player owned shop - THIS SPACE FOR RENT!!!~
+~
+30 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3059
+S
+#3036
+The Shrine of the Elders~
+  This shrine is dedicated to the elders of the various classes,
+those whose deeds are legendary, and whose skills are unmatched.
+The elders who still live, and wait to take their places among
+the honored dead may be prevailed upon to teach their art to the
+uninitiated. You have but to seek out the master of the class
+you wish to become, and train with him.
+~
+30 24 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3037
+D1
+~
+~
+0 -1 3093
+D2
+~
+~
+0 -1 3091
+D3
+~
+~
+0 -1 3094
+D4
+~
+~
+0 -1 2999
+D5
+~
+~
+0 -1 3055
+D6
+~
+~
+0 -1 3038
+D7
+~
+~
+0 -1 3039
+D8
+~
+~
+0 -1 3092
+D9
+~
+~
+0 -1 3095
+S
+#3037
+The Shrine of the Monks~
+  This sparsely decorated room seems to encourage meditation and
+contemplation, for such is the way of the monk. If you chose to
+train with their master, you will learn to control you mind and
+body, being able to accomplish feats of unarmed combat that many
+would be hard pressed to match even with weapons and armor. But
+you will learn discipline as well. You will learn the ways of stealth
+and of self control, as well as those of combat.
+~
+30 48 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3036
+S
+#3038
+The Shrine of the Warriors~
+  A tribute to the art of warfare over the centuries, this is the
+kind of place a warrior can be proud to retire to. Well-used
+weapons rest in racks, some still chipped of bloodied, reminders
+to the great services they provided to their wielders. If you
+choose the path of the warrior, such glories may be yours as well.
+But do not delude yourself, for the reputations of legendary
+warriors are built upon the deaths of those warriors less worthy
+than themselves. If you decide to become a warrior, may glory be
+yours!
+~
+30 48 0
+0d0+0 0 0
+D9
+~
+~
+0 -1 3036
+S
+#3039
+The Shrine of the Clerics~
+  You gape in awe of this most holy of places. You feel as if the
+gods themselves are with you...they may well be. For if you choose
+the life of a cleric, you will be a holy emissary. In return for
+your service, you will be given the gift of healing, and the power
+to protect yourself and others. People will turn to you for aid
+in their quests, counting on you for their safety. If you wish to
+follow this path of divinity, may the gods smile upon you.
+~
+30 48 0
+0d0+0 0 0
+D8
+~
+~
+0 -1 3036
+S
+#3040
+Inside the West Gate of Midgaard~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  Main Street leads
+east and West Wall Road leads south from here.
+~
+30 16 1
+0d0+0 0 0
+D1
+~
+You see Main Street.
+~
+0 -1 3012
+D2
+~
+You see the road running along the inner side of the city wall.  You notice
+that it is called Wall Road.
+~
+0 -1 3042
+D3
+The city gate is to the west.
+~
+gate~
+0 -1 3052
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3041
+EXTRA ROOM~
+~
+30 16 1
+0d0+0 0 0
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+S
+#3042
+West Wall Road~
+   You are walking next to the western city wall.  The road continues further
+south and the city gate is just north of here.  To the east is Carnival
+Lane, and even from here you can see and hear strang things.
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+You see the city gate.
+~
+0 -1 3088
+D2
+~
+The road continues further south.
+~
+0 -1 3043
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3043
+West Wall Road~
+   You are walking next to the western city wall.  West Wall Road continues
+further north and south.  A small, poor alley leads east.
+Some letters have been written on the wall here.
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+The road continues further north.
+~
+0 -1 3042
+D2
+~
+The road continues further south.
+~
+0 -1 3047
+E
+wall writing letters~
+It says 'Who watches the watchmen?'
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3044
+A Player owned shop _ This SPACE FOR RENT!!!~
+~
+30 16 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3006
+S
+#3045
+The End of the Path of Higher Learning~
+The paved path from town has disappeared and a light brush has blossomed
+in its place.  An expanse of beautiful trees is in the distance toward
+the south. The crowds from town have disappeared, and the beginnings of
+forest life begin to show signs of increased activity.  This would seem the
+perfect place for the true outdoorsman to develop thier skills.  The open
+feilds are further to the west, as the town fades from your memory to the
+east.
+~
+30 16 1
+0d0+0 0 0
+D1
+The end of the path is yet the beginning.
+~
+~
+0 -1 3015
+D2
+~
+~
+0 -1 2996
+D3
+~
+~
+0 -1 6092
+S
+#3046
+Eastern end of Alley~
+   You are standing at the eastern end of the alley.  The city wall is to
+your east, and curves around blocking you way south as well.  Once a
+building stood to the north, but it has collapsed and been trampled over,
+creating a path to East Wall Road.  At your feet is an entrance to the
+city's sewer system is just below you.
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+You see the taco stand.
+~
+0 -1 3088
+D2
+~
+~
+0 -1 3050
+D3
+~
+You see the alley.
+~
+0 -1 3045
+D5
+A manhole leads down to the smelly Midgaard Sewer System.
+~
+~
+0 -1 -1
+S
+#3047
+West Wall Road~
+   You are standing on the road next to the western city wall, which
+continues north.  South of here is a bridge across the river.
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+You see the road.
+~
+0 -1 3043
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3048
+A Player owned Shop-  This SPACE FOR RENT!!!~
+~
+30 24 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3006
+S
+#3049
+Cappy's boat shop~
+This is gonna be the new place to buy boats.. give it some 
+edieval sounding name
+~
+30 144 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 3025
+S
+#3050
+Warehouse~
+   You are inside the warehouse.  The room is decorated with various old
+items from ships.
+~
+30 152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3024
+S
+#3051
+On the Bridge~
+   You are standing on the stone bridge crosses the river.  The bridge is
+built out from the western city wall and the river flows west through an
+opening in the wall ten feet below the bridge.
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+You see the road.
+~
+0 -1 3025
+D2
+~
+~
+0 -1 3102
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+opening~
+You cannot really see it from here as it is somewhere beneath your feet.
+~
+E
+bridge~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar, just like the wall.
+~
+S
+#3052
+Outside the West Gate of Midgaard~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the west you
+can see the edge of a big forest.
+~
+30 0 1
+0d0+0 0 0
+D1
+gate~
+The city gate is to the east.
+~
+0 -1 3040
+D3
+~
+The forest edge is to the west.
+~
+0 -1 6092
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3053
+Beginning of the Path to Adventure~
+A beaten path looms off to the east as you leave the relative safety of the
+Cinderloft behind.  May you fair well in the search for adventure and good
+fortune.
+~
+30 4 1
+0d0+0 0 0
+D1
+You see the plains.~
+~
+0 -1 3199
+D3
+You see the city gate.
+~
+gate~
+0 3133 3008
+S
+#3054
+Along a path to Brimstone keep.~
+You are walking along a path to Brimstone keep.  The road beneath you is made
+of stones that have been carefully cut to fit tightly together. As you walk
+along the road, you see many different people pass you.  The people vary in
+their dress.. Some dressing in velvet and satin, while still others dress in
+burlap. Far off in the distance you see an enormous castle which must be
+Brimstone keep.
+~
+30 24 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3059
+D1
+~
+~
+0 -1 3083
+D2
+~
+You see the southern end of the temple.
+~
+0 -1 3072
+D3
+~
+~
+0 -1 3034
+S
+#3055
+Path of Elders~
+  This room is a perfect circle made completely of wood. It is seven feet
+tall, and ten feet in diameter. It is dimly lit with golden light from an
+unseen source. A simple yellow curtain closes off the entry to the street
+to the south. There is a sign near the curtain, but besides that, the room
+is featureless.
+A sign demands your attention!
+~
+30 28 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3025
+D4
+~
+~
+0 -1 3036
+E
+sign~
+This is where you buy quest items with your quest points.
+
+To see the items for sale and their cost, type "LIST".
+You can view only part of the list with "LIST PROTECTION", "LIST HITTER",
+and "LIST MANA".
+
+BEFORE YOU BUY AN ITEM be sure to check out its stats. To view the
+stats on an item, type "IDENTIFY ##", where ## is the number of the
+item as shown in "LIST".
+ITEMS ARE SUBJECT TO CHANGE AT ANY TIME. Always identify an item before
+you buy it. This will also let you know that you have the right number
+so you don't accidentally buy the wrong thing.
+
+To buy an item, type "BUY ##", where ## is the number of the item as shown
+in "LIST". This will buy the item, so be sure it's what you want.
+THERE ARE NO REFUNDS, ALL SALES ARE FINAL.
+
+To sell an item, type "SELL NAME", where NAME is the name of an item you
+have in inventory. You can only sell quest items, and you will only
+get back HALF THE POINTS YOU PAID FOR IT, EVEN IF THE PRICE HAS CHANGED.
+~
+S
+#3056
+Greasy Fire Pit~
+~
+30 24 0
+0d0+0 0 0
+D3
+That is where you came from silly.
+~
+~
+0 -1 3084
+E
+sign~
+The recipes for these fine meals have been learned from passing Crusaders
+during thier conquests.
+~
+S
+#3057
+A Quiet Sanctuary~
+You leave the stone path and enter the a peaceful, quiet atmosphere that
+releases the tension from your muscles and evaporates you weariness.  There
+is an armoured gentleman willing to escort those who have dedicated
+themselves to the honorable cause of goodness and vanquishing the realm of
+all evil that lurks therein.  You get a general feeling of goodness and clam
+from the gentleman, but you can determing that he would be a worthy adversary
+should you confront him. Should you need rest or relaxation from your quest,
+this might be a place to which you may find some comfort.
+~
+30 12 0
+0d0+0 0 0
+D2
+You see the eastern end of Poor Alley.
+~
+~
+0 -1 3014
+D4
+You see the Paladins Bar.
+~
+~
+0 -1 3065
+S
+#3058
+Springwater Vendor~
+An enterprising waife has taken the fabled springwater and bottled it in
+different containers for easy transport while travelling.
+~
+30 24 0
+0d0+0 0 0
+D9
+You see the bubbling spring.
+~
+~
+0 -1 3005
+S
+#3059
+The path to Brimstone keep~
+The path to Brimstone keep appears to be in better condition than any other
+road in Cinderloft.  Here, the streets are clean and free of rubbish. As you
+walk down the long road, you notice that there are beggars here that seem to
+be starving to death.  To either side of you there are trees that seem to
+hang ever so slightly over the road. You are a bit farther from the city now,
+still you see people, but it is much quieter than the rest of the town.
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+You see the lush, green countryside of Midgaard.
+~
+0 -1 3006
+D1
+~
+~
+0 -1 3082
+D2
+~
+You see the Temple Altar.
+~
+0 -1 3054
+D3
+~
+~
+0 -1 3035
+S
+#3060
+An overgrown trail~
+The weeds have consumed the path beneath your feet as you trek through the
+softening soil.  So much so, that your movement is hampered from having to
+pull your feet from the mud.  A slight mist hangs in the air, but you notice
+a dense fog approaching from the north.  Your mouth starts to get dry and
+heart beat faster from the ever increasing fear that arises from your gut.
+You begin to wonder if traveling through this trail would be a wise endevour.
+~
+30 32784 12
+0d0+0 0 0
+D0
+Your vision cannot pierce through the fog.
+~
+~
+0 -1 3061
+D2
+The mist is gathering behind you hindering your vision.
+~
+~
+0 -1 3089
+S
+#3061
+Dense fog~
+The thickening mist forms into a dense fog that brings your visibility
+practically to zero.  The chilled air seems to suck the heat right from your
+body.  Slight wisps glide over your body, but you feel as if someone or
+something brushes past you. A tingle creeps through your spine, up the back of
+your neck, and puts your hair on end.  Brief whispers of some long lost soul
+begin to filter into your ears as you continue through the fog.
+~
+30 32788 12
+0d0+0 0 0
+D0
+~
+~
+0 -1 11592
+D1
+~
+~
+0 -1 10502
+D2
+You are not sure that this was the direction that you came from.
+~
+~
+0 -1 3060
+S
+#3062
+Local Scribe's Hall~
+As you enter the hall, a page holding a newly sealed document rushes by you
+heading toward his destination.  You see a few people around dictating
+messages to scribes sitting individual desks.  An available scribe indicatess
+that he is ready to take down your dictation.  Before doing so, he
+advises you to read the sign posted over his shoulder.
+~
+30 24 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3005
+E
+sign~
+type help mail
+~
+S
+#3063
+Cinderloft's Charity Coffer~
+You are in a small alcove off the main road.  You notice some wooden benches
+for you to rest from your long travels or to prepare for an upcoming
+adventure. The citizens of Cinderloft have told you that this is the place
+where they drop off any unwanted items, and where adventurers cast away
+things that they deem unworthy of keeping. What one person finds little value
+in, you may find it of great worth....so feel free to await any such arrivals
+or possibly relieve yourself of any unwanted items.
+~
+30 20 1
+0d0+0 0 0
+D2
+You see the infamous Sparkling Spring from which you just came.
+~
+~
+0 -1 3005
+S
+#3064
+The Cryogenic Center~
+    You are standing in an impossible white sterile room with cylindrical
+body-length canisters lined up against the walls.  The Reception is to the
+south.
+~
+30 24 1
+0d0+0 0 0
+D2
+~
+The Reception is to the south.
+~
+0 -1 3008
+S
+#3065
+The Paladin Contemplation Chamber~
+The first thing that you see when you enter into the room is an ancient
+plaque that is mounted on the far wall.  The letters are large enough for you
+to read. It says 'Meditate, Reflect, Examine, and Confess.  Only by
+acknowledging the fallibilty of humankind and by remaining pure in heart and
+deed can you be one step closer to Salvation.'
+~
+30 136 0
+0d0+0 0 0
+D0
+You see the Paladins Inner Sanctum.
+~
+~
+0 -1 3066
+D5
+You see the entrance to the Paladins Guild.
+~
+~
+0 -1 3057
+S
+#3066
+The Confessional~
+You are in a small well-lit room, with very few furnishings.  The walls are
+adorned with ornate paintings, and a huge holy shield with a huge cross
+engraved on it that takes up the best part of one whole wall.
+~
+30 12 0
+0d0+0 0 0
+D2
+You see the Paladins Bar.
+~
+~
+0 -1 3065
+S
+#3067
+The statistics shop~
+You are standing a most unusual shop.  Numbers swirl through the air
+forming a thin mist.  A long counter cluttered with bizarre items of
+immense magic stands before you.  Behind the counter is a thin and pale
+man. You sense that even though he does look very tough, it would be a
+VERY bad idea to get into a fight with him.  On the wall is a large sign.
+READ THE SIGN BEFORE YOU DO ANYTHING HERE!
+~
+30 152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3084
+E
+sign~
+Buying stats uses practices. Type list to see what you can
+buy and how many practices it will take.
+Buying stats will not change how many practices it takes to
+multiclass, so if you wish to do so, find out how many you
+need before you buy stats.
+~
+S
+#3068
+A Dark, Opaque Pathway Emminating Pure Evil~
+As you enter the pathway, a chill sinks deep into your bones as you realize
+that you are not alone.  An essance of evil radiates from the Desecrator that
+protects this path for his master.  With clenched fists and eyes that glow
+red in the darkness, his presence begins to overwhelm you. A bubble of fear
+forms in your stomach as you contemplate whether or not you should continue
+down the path.
+~
+30 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3015
+D5
+The Anti-Paladin Bar
+~
+~
+0 -1 3069
+S
+#3069
+Room of Blasphemy~
+This is where those who have dedicated their souls to the Great Lord come to
+receive instruction on how he wants to spread his presence around the known
+world.  Come and bath in his glory.
+~
+30 8 0
+0d0+0 0 0
+D1
+You see complete blackness.
+~
+~
+0 -1 3070
+D4
+A wave of overwhelming evil washes over you.
+~
+~
+0 -1 3068
+S
+#3070
+Well of Souls~
+Evil washes over you with a force that makes you stagger quivering with
+extacy.  Instruments of torture lie about bathed in blood from their most
+recent use.  Tomes and scrolls seem to crackle with energy while some pulsate
+with red light and lightning eminating from them.  Surely, if you do not want
+to have your mind burned and soul consumed by the master.....perhaps you
+should leave before it happens anyway.
+~
+30 8 0
+0d0+0 0 0
+D3
+Anti-Paladin's Bar
+~
+~
+0 -1 3069
+S
+#3071
+A paved road~
+You are on a paved road leading east and west. A street diverges from the
+road, leading south. You catch the whiff of dead bodies from that direction.
+The gates of the fair city of Midgaard lie to the west.
+~
+30 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 3073
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 3199
+S
+#3072
+Cinderloft's Cross~
+You are in the center of Cinderloft.  Cinderloft is a large stone walled
+city.   You take a look around and you notice the palace guards roaming
+about, the citizens on their way and merchants trying to sell you something.
+There is a sign here that explains the history of Cinderloft and the castle
+which lies far to the north, Brimstone keep. The town square is a meeting
+place for the citizens of Cinderloft. There are stone buildings all around
+you.  The street is made of stones that have been painstakingly pieced
+together.  The sounds of the city are all around you, the clip-clopping of
+the horses and the metallic clank of the guards armor and weapons. To the
+west is the town's library, where you might find out all of the latest news.
+To the north is the path to Brimstone keep.  To the south takes you to
+Merchant Way.
+~
+30 28 0
+0d0+0 0 0
+D0
+At the northern end of the temple hall is a statue and a huge altar.
+~
+~
+0 -1 3054
+D1
+In the east, you see a gathering of people waiting patiently in line at a
+flowing spring.
+~
+~
+0 -1 3005
+D2
+A well trodden path looms before you.
+~
+~
+0 -1 3084
+D3
+You see a well travelled path that leads to attaining essential knowledge and
+greater skill.
+~
+~
+0 -1 3001
+S
+#3073
+End of a paved road~
+You are at the end of the paved road.  There are side streets leading
+everywhere. The sky is slightly cloudy, and there is a cool breeze coming out
+of the west.  There are trees all around you.  As you glance around, the
+hair on the back of your neck stands up.  You look up and you see a fuzzy portal...as you
+put your hands up, you begin to float upwards...you can't stop yourself from
+going up.  As you think how you can STOP going up...you begin to float
+down...There is a voice...it seems to say something like reading a sign.
+~
+30 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3074
+D2
+A misty road stretches to the south.  ~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 3071
+D4
+~
+~
+0 -1 -1
+E
+sign~
+This is the portal to the Comic and Cartoon Land.  Enjoy. :)
+~
+S
+#3074
+A dirt road~
+The pavement has ended and there is a dirt road that leads into a
+forest type area.  There seems to be eyes looking at you from every
+point.
+~
+30 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 3075
+D3
+~
+~
+0 -1 3073
+S
+#3075
+A dirt road~
+The pavement has ended and there is a dirt road that leads into a
+forest type area.  There seems to be eyes looking at you from every
+point.
+~
+30 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 3076
+D3
+~
+~
+0 -1 3074
+S
+#3076
+A dirt road~
+The pavement has ended and there is a dirt road that leads into a
+forest type area.  There seems to be eyes looking at you from every
+point.
+~
+30 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3077
+D3
+~
+~
+0 -1 3075
+S
+#3077
+A dirt road~
+You see a slope forming along the east...you are going to have to
+climb down there...since you here singing...sounds like that song
+from Snow White and the 7 DWARVES...but it isnt' a toon song.
+~
+30 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 3078
+D3
+~
+~
+0 -1 3076
+S
+#3078
+A dirt road, with a slope along the path.~
+As you look east, you realize that the ground has fallen away...there
+is a slight footing where you can climb down.
+~
+30 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3080
+D1
+~
+~
+0 -1 3079
+D3
+~
+~
+0 -1 3077
+D5
+~
+~
+0 -1 -1
+S
+#3079
+A pearl gate~
+The dirt road comes to an end here.  There is a pearl gate here and there
+is a wall running perpendicular to the road.  The wall is quite high, and
+is not climbable.  The gate is open, or can be opened easily.
+A sign is embedded in the ground here.
+~
+30 0 0
+0d0+0 0 0
+D1
+~
+pearl gate~
+2 -1 -1
+D3
+~
+~
+0 -1 3078
+E
+sign~
+Welcome to the King's Castle!! Come in and set up an appointment with
+the Royal Herald to meet with his majesty.
+Arthur Welmar III, King of all lands, seas and skies.
+~
+S
+#3080
+A small dirt path~
+A small path leads away from the dirt road
+~
+30 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 3078
+S
+#3081
+Odin Square~
+   You are standing in luxurious Odin square.  To the north lies the Market
+area with shops to sell you what you need.  To the south lies the poorer
+parts of town.  You notice many thieves and evil aura'd men head south,
+while clerical and battle hardened people head north.  Carnival Lane runs
+east and west, home to all manner of strange sights.
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3014
+D1
+~
+~
+0 -1 3086
+D2
+~
+~
+0 -1 3025
+D3
+~
+~
+0 -1 3084
+S
+#3082
+A Player owned shop -THIS SPACE FOR RENT!!!!~
+~
+30 6664 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3059
+S
+#3083
+A player owned shop - THIS SPACE FOR RENT!!!~
+~
+30 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3054
+S
+#3084
+Merchant's Row~
+You're travelling on a well packed dirt pathway that has been compressed from many
+years of passage. You can smell different types of foods being prepared as you
+continue down the path.  The ringing of hammers on anvils announce smyths
+performing their trade.  The innkeepers and shopkeepers seem willing to trade
+their wares, if the price is right.
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3072
+D1
+~
+~
+0 -1 3056
+D2
+The path continues on.
+~
+~
+0 -1 3085
+D3
+~
+~
+0 -1 3090
+S
+#3085
+Merchant's Row~
+The chatter of passers by and of haggling between shopkeepers and perspective
+clients fill the air.  Along with the noise is the pleasant aroma of freshly
+baked bread and of tanned leather.  Perhaps you would like to try the shops
+near by to see if there is some coin to be made.
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3084
+D1
+~
+~
+0 -1 3009
+D2
+~
+~
+0 -1 3086
+D3
+~
+~
+0 -1 3020
+S
+#3086
+Merchant's Row~
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3085
+D1
+~
+~
+0 -1 3010
+D2
+~
+~
+0 -1 3026
+D3
+~
+~
+0 -1 3011
+S
+#3087
+Merchant's Row~
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3026
+D1
+~
+~
+0 -1 3031
+D2
+~
+~
+0 -1 3024
+D3
+~
+~
+0 -1 3099
+S
+#3088
+road to slums~
+This road will lead to slums eventually..
+~
+30 16 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3008
+D2
+~
+~
+0 -1 3042
+S
+#3089
+A dank, dark path.~
+As you walk along this path, you begin to notice that the weeds have grown up
+here and there, nearly covering the path.  There are trees on either side
+order followers the road that have grown over the path and now drop their
+leaves on the path.  The further you go on the path, the more it seems like
+the path gets darker.  Off to  one side of the path you notice a sign that is
+nearly hidden in the overgrowth of trees, weeds, and bushes.
+~
+30 156 0
+0d0+0 0 0
+D0
+You cannot see too far through the dimming light.
+~
+~
+0 -1 3060
+D2
+You see the Crossroads from which you have chosen your path.
+~
+~
+0 -1 3008
+E
+sign~
+Hello traveler, The path you are traveling leads to an old castle that is
+haunted.  Many years ago an evil lord lived in this castle and treated his
+subjects with cruelty.  One day there was a rebellion as the peasants fought
+to put their own people in charge of the lands.    During this battle, there
+were many lives lost in the bloodshed.. but it is said that the spirits of
+the dead still haunt this castle.  It is also said that the dragon that fell
+during that same fight still sits before the castle in a stony petrified
+state, it is said that if you listen closely at his mouth, you will hear the
+noises of the beasts that live within.
+~
+S
+#3090
+Master Shone's Smythe~
+   It's very warm in here, and a red glow comes from the back of the shop
+where a small forge burns.  Soot and grime covers everything, and it
+smells repulsive.  Iron working tools lie near an anvil, and leather
+working tools hang on the wall above a counter.  Spare materials are piled
+throughout the shop.
+A sign hangs on the wall.
+~
+30 152 0
+0d0+0 0 0
+D1
+Do you know where you are going yet?
+~
+~
+0 -1 3084
+E
+sign~
+Welcome to the shop. Here I can repair armor that has been damaged
+by corrosion, or acid. This is not an easy task, so it will not be
+cheap. To get a price for fixing a piece of armor, type
+Appraise <item name>. To have it repaired type Repair <item name>.
+
+Thank you for your business.
+~
+S
+#3091
+The Shrine of the Magic-Users~
+You head spins as you encounter the arcane energies that swirl
+around this shrine to the wielders of mystical powers. The walls
+and floors are adorned with runes and glyphs that you can only
+begin to understand. If you truly wish to aquire such esoteric
+knowledge, then you should follow the path of the magic-user. To
+learn the ways of wizards requires great dedications and study,
+but the rewards are powers that most beings can only imagine. If
+you are willing to earn the rewards of these intellectual powers,
+then apprentice yourself to the master.
+~
+30 48 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3036
+S
+#3092
+The Shrine of the Thieves~
+  This room is stacked with riches enough to fill your every dream
+of wealth. Piles of gold, gems, and artwork line the walls and
+cover the floor. You're worldly enough to realize that nobody earned
+this booty. This is the work of extraordinary thievery. You know
+that there are risks inherent to the stealing of other people's
+property, but the rewards are prominantly displayed around you. If
+you decide to follow the way of the thief, such riches could be 
+yours someday. But beware, if you become a thief, you'll always
+have to watch your back, for your colleagues are not above putting
+a dagger in somone's back.
+~
+30 48 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 3036
+S
+#3093
+The Shrine of the Paladins~
+  You look to be in some kind of royal art museum. All along the
+walls are arrayed shields, bearing the crests of various noble
+heroes. Suits of armor stand silent watch in corners of the room,
+polished and looking most impressive. If you are one who feels the
+need to be heroic and are willing to sacrifice yourself for the
+good of others, then perhaps you should become a paladin. The old
+order of paladins accepts commoners and nobles alike these days,
+so you needn't worry about your social position. Anyone who wishes
+to follow the path of honor and nobility may join the ranks of the
+paladins.
+~
+30 48 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 3036
+S
+#3094
+The Shrine of the AntiPaladins~
+  You are standing in a room out of some sort of gothic horror
+story. Ornate carvings of gargoyles and other fell beasts seem to
+have just a bit too much malice in their lifeless eyes. These
+inanimate guardians watch over this site of unholy practices. On
+a small table are arrayed a set of nasty-looking weapons, designed
+as much to inflict pain as to defeat an adversary in combat. A
+shelf of books, bound in leather the color of dried blood details
+ceremonies and spells that will give the caster much unholy might.
+If your soul means nothing to you, venture forth...read from the
+books, and take up these fell weapons. Your reward for taking the
+path of the antipaladin will be untold power.
+~
+30 48 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3036
+S
+#3095
+The Shrine of the Rangers~
+  This rustic old place is a retirement home for great hunters.
+The walls are decorated with the heads of various mobs from around
+the mud, trophies from successful tracking expeditions. Trained in
+woodland lore, the ranger may apply his skills as a simple guide,
+aiding others who have lost their way, or as a deadly predator,
+hunting creatures unaccustomed to being preyed upon. If you want to
+learn the ways of the forest, for whichever reason, take up the
+way of the ranger.
+~
+30 48 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 3036
+S
+#3096
+Rice Paper Covered Pathway~
+You tear the rice paper as you proceed down the pathway.  Obviously you have
+not mastered the skills necessary to walk the path without leaving a mark.
+Many men with shaved heads and robes walk about chanting, meditation, or
+practicing their martial ways.  If you wish to pay your respects to the
+venerable masters that oversee the instruction of these lowly acolytes, then
+it would be wise to proceed humbly.
+~
+30 16 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 3012
+D3
+~
+~
+0 -1 3097
+S
+#3097
+Solemn Chamber~
+This chamber is filled with candles that provide the only light available to
+see by.  A few of the monks care for the candles by removing those that have
+burned completely replacing it with a fresh candle.  Other monks and acolytes
+are seated around the room or pace form place to place chanting or meditating
+peacefully.  The hum of their voices seem to make the air thicker and candles
+burn brighter.  There must be a way to reach this harmony between self and
+nature.  Perhaps the masters will explain how you may achieve this.
+~
+30 24 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3096
+D2
+~
+~
+0 -1 3098
+S
+#3098
+The Master's Inner Sanctum~
+A tribute to the practice of martial arts is displayed buy the weapons that
+each form uses in their style.  The master monk is versed in each of the
+forms and weapons.  He stands ready to instruct you, if you are ready to try
+and master each of the skills necessary to become a fully trained monk.  The
+lessons will not be easy, but once completed you will be one with yourself
+and your surroundings.
+~
+30 24 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3097
+S
+#3099
+Well of Mystery~
+You feel dizzy when you enter this room. There is power flowing all
+around. On the north wall is a structure that looks like a forge, except
+there are no coals and no smoke. This is the Well of Mystery. It is filled
+with purple light that is almost tangible. In the center of the well is a
+small point that looks like a star, but is as bright as the sun. The walls
+of the room are made of gray bricks, but they are lit a sickly lavender by
+the well. On the east wall is a wooden shelf containing small bags of
+powder and strange tools that look magical. To the south is an open
+doorway leading to the street. Although the outside world is only a few
+steps away, it looks like it is on the other side of a vast purple desert.
+~
+30 6172 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3087
+S
+$

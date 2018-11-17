@@ -1,0 +1,1924 @@
+#20300
+~
+~
+203 0 0
+0d0+0 0 0
+S
+#20301
+Entrance to the Caverns~
+Descending down the long walkway, you enter into a small dank corridor.  
+On both sides of the way there is a putrid scum growing on the walls and
+torches line the corridor.  The only direction you can go is north.
+~
+203 33036 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20302
+D4
+~
+~
+0 -1 20631
+S
+#20302
+Inner Cavern~
+This part of the walkway is slighly brighter and wider than the place
+you just came from.  There seem to be more torches here and less scum
+growing on the walls.  Halls continue to the north and to the east.
+~
+203 33032 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20315
+D1
+~
+~
+0 -1 20303
+D2
+~
+~
+0 -1 20301
+S
+#20303
+Eastern Corridor~
+The hallway narrows here, and you have to walk sideways to get through.
+It smells sort of musty in here, and you feel a chill go up your spine.
+The hall continues to the east and west.
+~
+203 33032 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20305
+D3
+~
+~
+0 -1 20302
+S
+#20304
+a Small Alcove~
+This small alcove seems to be carved out of the stone the forms the rest
+of the walkway.  There is a putrid puddle on the ground, and it's very dank
+in this place.  It's quite eerie, and you do not feel at all safe here.
+~
+203 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20305
+S
+#20305
+The Intersection~
+Three hallways come together here, and to the north there is a small alcove
+which seems to be carved out of solid rock.  There are torches on all four
+corners, and you can see the hall extending quite a way in the other three
+directions.  Choices, choices, choices...
+~
+203 33032 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20304
+D1
+~
+~
+0 -1 20308
+D2
+~
+~
+0 -1 20306
+D3
+~
+~
+0 -1 20303
+S
+#20306
+Southern Hallway~
+This hallway is altogether unremarkable.  It's small, narrow, and dank just like
+all of the other ones in the cavern.  The only decision you need to make
+is if you want to go north or south.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20305
+D2
+~
+~
+0 -1 20307
+S
+#20307
+a Small Crawlway~
+This is the end of the hall.  The ceiling slopes down here and you're
+scraping your head on it.  If you want to continue any farther, you're
+going to have to get down on your hands and knees.  There don't seem to
+be any torches lighting the way to the east either.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20306
+D1
+~
+~
+0 -1 20309
+S
+#20308
+The Hallway~
+This part of the corridor is brightly illuminated by several torches on 
+the wall.  The stone seems to be of a slightly higher quality here as well.
+Oh well, it probably doesn't mean much, but hey, it's interesting at least.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20311
+D3
+~
+~
+0 -1 20305
+S
+#20309
+a Small Tunnel~
+The ceiling continues to slope down here until it is no more than four 
+feet from the ground to the ceiling.  You're already down on your hands
+and knees...to continue to the east you'll have to crawl on your stomach.
+~
+203 265 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20310
+D3
+~
+~
+0 -1 20307
+S
+#20310
+The Slime Pit~
+It looks like you've crawled head-first into a pool of slime.  The trick
+is going to be getting out of here, since there's little to no room to turn
+around.  If you want to get out, you'll have to scurry backwards as fast as
+you possibly can!
+~
+203 264 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20309
+S
+#20311
+Eastern Terminus of the Hall~
+The hallway comes to an abrupt end here.  A small passage is cut in the
+wall to the north however.  You wonder what could have cut such a narrow
+passageway, since no human could fit through there...or could they?
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20312
+D3
+~
+~
+0 -1 20308
+S
+#20312
+The Squeezeway~
+You try with all your might, and you're finally able to wedge your body
+through the narrow crevice after taking all of your armour off.  It's a 
+good thing there weren't any monsters to block your way!
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20313
+D2
+~
+~
+0 -1 20311
+S
+#20313
+A Dank Cavern~
+After coming through the crevice, you find yourself in this dank dark
+cavern which is illuminated only by a little light seeping through the
+crack.  It looks as if the cavern continues to the north, but you can't
+be sure in such dim light.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20314
+D3
+~
+~
+0 -1 20312
+S
+#20314
+The Darkened Chamber~
+This seems to be the dankest and darkest part of the caverns.  Even with
+your torch, the air is so heavy here you can't see more than a foot or
+two in front of your face.  You might want to run away while you still can!
+~
+203 265 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20313
+S
+#20315
+50 Metres Into the Cavern~
+The farther you go into the caverns the darker it gets.  The torches on
+the walls seem to be spaced farther and farther apart, as if the creatures
+who inhabit this place have grown used to the darkness.
+~
+203 33032 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20316
+D2
+~
+~
+0 -1 20302
+S
+#20316
+100 Metres Into the Cavern~
+Light is practically nonexistent here.  There are a few torches placed on
+the walls, but hardly enough to see clearly by.  You can make out the hall
+heading to the west and to the south, but you can't see more than a few
+metres in either direction.
+~
+203 33032 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20315
+D3
+~
+~
+0 -1 20317
+S
+#20317
+The Dark Corridor~
+This dark corridor is just like all of the rest...cold, clammy, and eerie.
+You're not sure it's such a good idea venturing down into these caverns.  
+Of course, you're bored, so it's just as good as anything else...
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20318
+D1
+~
+~
+0 -1 20316
+D3
+~
+~
+0 -1 20323
+S
+#20318
+Entrance to the Crypt~
+This room is much brighter than the corridor to the south.  You see a 
+cross-shaped room to the north which seems to be almost brightly lit.  You
+wonder what sets this place apart from the others.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20320
+D2
+~
+~
+0 -1 20317
+S
+#20319
+Western Alcove~
+This alcove is filled with candles on high stands and the floor is totally
+covered with some of the nastiest crud and slime you've ever seen.  It 
+almost seems to be moving beneath your feet!
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20320
+S
+#20320
+The Crypt~
+This is the centre of the minor crypt of the caverns.  Strange carvings
+adorn all of the walls and there are several candles making this room the
+brightest place you've seen yet.  That doesn't mean it's not eerie though...
+not to mention very dangerous!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20322
+D1
+~
+~
+0 -1 20321
+D2
+~
+~
+0 -1 20318
+D3
+~
+~
+0 -1 20319
+S
+#20321
+The Eastern Alcove~
+This alcove used to be very well lit, but it seems several of the candles have
+either burned out or been put out by some unknown force.  Maybe it would
+be best if you were to leave before you have to find out the hard way!
+~
+203 264 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20320
+S
+#20322
+The Tomb of the Unknown~
+A large stone sarcophagus lies here on the floor, covered in all sorts of
+mold and slimes.  You'll never get it open, since it seems to be very well
+protected by all these creatures of misery.
+~
+203 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20320
+S
+#20323
+A Twist in the Stone~
+The rock is very jagged here, and it jogs to the south.  You almost feel
+sick crawling through all this slime.  It's really not worth all of this
+to try and get killed, is it?
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20317
+D2
+~
+~
+0 -1 20324
+S
+#20324
+A Hallway~
+The cavern seems to open up a bit here, and the hallway is actually wide
+enough to walk through single file in this place.  What a relief after
+trying to crawl through tiny spaces for so long!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20323
+D3
+~
+~
+0 -1 20325
+S
+#20325
+A Small Room~
+Not only is it wide enough to walk here, it's actually wide enough that
+you could almost call this a small room!  To the west, it actually looks
+as if the cavern opens up into a large chamber.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20324
+D3
+~
+~
+0 -1 20327
+S
+#20326
+Northeast Corner of the Chamber~
+The chamber curves around and forms a nice corner here.  The walls are 
+almost smooth, and there's not quite as much crud on the floor here.  It's
+almost warm too.  Kind of odd...
+~
+203 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20327
+D3
+~
+~
+0 -1 20329
+D9
+~
+~
+0 -1 20330
+S
+#20327
+The Chambers~
+The hallway opens up here into a huge chamber.  The ceiling looks to be
+almost 3 or 4 metres high here, and there's plenty of room to walk around.
+Of course, with all this slime on the floor walking ANYWHERE would be very
+difficult!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20326
+D1
+~
+~
+0 -1 20325
+D2
+~
+~
+0 -1 20328
+D3
+~
+~
+0 -1 20330
+D7
+~
+~
+0 -1 20329
+D9
+~
+~
+0 -1 20331
+S
+#20328
+Southeast Corner of the Chamber~
+There's an odd draft in this part of the chamber.  Since you don't see any
+vents you wonder where in the world it could be coming from.  Oh well, just
+chalk it up to another strange feature of this strange place.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20327
+D3
+~
+~
+0 -1 20331
+D7
+~
+~
+0 -1 20330
+S
+#20329
+Northern Chamber~
+It must be hundreds of degrees here.  It's strange how temperature and
+climate seem to change every 1-2 metres in here.  What an odd and eerie
+place!  Get out now!
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20326
+D2
+~
+~
+0 -1 20330
+D3
+~
+~
+0 -1 20332
+D8
+~
+~
+0 -1 20327
+D9
+~
+~
+0 -1 20333
+S
+#20330
+Centre of the Chamber~
+Stepping into the centre of the chamber you are sucked into a thick mist
+which seems to surround you and choke you.  Your feet seem to be sucked 
+into a pile of slime from whick they are unable to escape.  How are you 
+going to get out of THIS one?
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20329
+D1
+~
+~
+0 -1 20327
+D2
+~
+~
+0 -1 20331
+D3
+~
+~
+0 -1 20333
+D6
+~
+~
+0 -1 20326
+D7
+~
+~
+0 -1 20332
+D8
+~
+~
+0 -1 20328
+D9
+~
+~
+0 -1 20334
+S
+#20331
+The Southern Chamber~
+This part of the chamber seems to be filled with ice and smoke which is
+rising from the floor.  You'd better get out of here quickly, or you're
+going to freeze to death!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20330
+D1
+~
+~
+0 -1 20328
+D3
+~
+~
+0 -1 20334
+D6
+~
+~
+0 -1 20327
+D7
+~
+~
+0 -1 20333
+S
+#20332
+Northwestern Chamber~
+This part of the chamber is particularly odd.  It seems to be completely
+devoid of any cliamte at all.  You feel very comfortable, no matter how
+much or how little effort you exert.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20329
+D2
+~
+~
+0 -1 20333
+D8
+~
+~
+0 -1 20330
+S
+#20333
+The Curved Wall~
+The wall of the chamber is curved here, and seems to descend down a narrow
+staircase near the wall.  You realize that you really should get out of 
+this creepy place before descending any deeper.  The deeper you go, the 
+more dangerous the fiends that must live there.  After all, they must be
+pretty cold and heartless to live with no light.
+~
+203 268 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20332
+D1
+~
+~
+0 -1 20330
+D2
+~
+~
+0 -1 20334
+D5
+~
+~
+0 -1 20335
+D6
+~
+~
+0 -1 20329
+D8
+~
+~
+0 -1 20331
+S
+#20334
+Southwestern Chamber~
+It feels like a jungle here.  The stone walls of the chamber here are
+completely covered with vines and moss which seem to leap off the wall and
+attack you.  If you weren't scared before, you sure are now!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20333
+D1
+~
+~
+0 -1 20331
+D6
+~
+~
+0 -1 20330
+S
+#20335
+The Vat~
+Climbing down the stairs, you see yourself in a long metallic grey corridor.
+After looking around, you realize that you have descended into the plumbing
+system of a large brewery!  You wonder how long this could have been buried
+under the caverns.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20336
+D4
+~
+~
+0 -1 20333
+S
+#20336
+a Split in the Pipe~
+The plumbing splits here, turning to the north, south, and west.  All you
+can see to the north and south are small alcoves, while the plumbing seems
+to stretch forever to the west.  You think you may be able to make out a
+ladder to the south as well.
+~
+203 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20337
+D2
+~
+~
+0 -1 20335
+D3
+~
+~
+0 -1 20338
+S
+#20337
+a Bulge in the Pipe~
+The pipe ends abruptly here, terminating in a large bulge.  There is lots
+of rancid pub scum on the floor, and the walls are a little less grey due
+to the mold growing on them.  Looks like a dead end.
+~
+203 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20336
+S
+#20338
+In the Pipe~
+You are in the middle of a pretty darn nondescript pipe.  It goes east and
+west, and other than that there is really nothing at all exciting about
+it.  You should probably just move along...
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20336
+D3
+~
+~
+0 -1 20339
+S
+#20339
+a Bend in the Pipe~
+The pipe turns here, heading to the north and the east.  There are lots of
+small dings in the walls...probably evidence of some drunken fool careening
+through the pipe at insane speeds.  Don't drink and drive!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20340
+D1
+~
+~
+0 -1 20338
+S
+#20340
+a Slight Incline~
+The pipe is at a pretty steep slope here, and you have trouble climbing it
+due to all the slippery scum on the floor.  You eventually make it though, 
+and are faced with the choice of heading north or south.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20341
+D2
+~
+~
+0 -1 20339
+S
+#20341
+The Nook~
+There are several bright lights mounted on the wall here, which probably
+would not hurt your head so badly if you weren't so drunk!  Maybe it wasn't
+a good idea to drink and mud after all!
+~
+203 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20340
+D3
+~
+~
+0 -1 20342
+S
+#20342
+The Three-Way Intersection~
+The pipe is much larger here, splitting into three directions.  It is well
+lit, and seems better maintained than the rest of the piping in this area.
+This is probably due to heavy traffic...
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20348
+D1
+~
+~
+0 -1 20341
+D3
+~
+~
+0 -1 20343
+S
+#20343
+The Hallway~
+The piping is much narrower here, and there seems to be lots of decays on
+the walls and the floor.  It's definitely seen its share of traffic...but
+by whom?  This place looks like it hasn't seen the light of day in years!
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20342
+D3
+~
+~
+0 -1 20344
+S
+#20344
+The Northeast Corner~
+You stand in a huge round vat...the beer here is up to your ankles, and
+quietly gurgles around your feet.  You could probably spend all day in
+here and be quite happy...so why not?
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20343
+D2
+~
+~
+0 -1 20346
+D3
+~
+~
+0 -1 20345
+D9
+~
+~
+0 -1 20347
+S
+#20345
+The Northwest Corner~
+You're much deeper into the vat now.  The beer here is at waist level and
+the fumes are simply delightful.  You feel like bending over and taking
+a huge swig of the holy nectar.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20344
+D2
+~
+~
+0 -1 20347
+D8
+~
+~
+0 -1 20346
+S
+#20346
+The Southeast Corner~
+This part of the vat is very shallow, and there's a small broken ladder
+on the wall.  At one time, it probably led to the top of the vat where
+you could escape.  Of course, why anyone would want to leave a vat full of
+beer is totally beyond your comprehension.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20344
+D3
+~
+~
+0 -1 20347
+D7
+~
+~
+0 -1 20345
+S
+#20347
+The Southwest Corner~
+The vat is at its deepest point here, and the beer is almost up to your
+neck.  If you can swim, now would probably be a very good time to start,
+since you're going to go under any time now!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20345
+D1
+~
+~
+0 -1 20346
+D6
+~
+~
+0 -1 20344
+S
+#20348
+The Corridor~
+The pipe is very narrow here, and you have a very difficult time crawling
+through it.  The areas to the north and south are brightly illuminated, but
+this narrow passage is almost dark.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20350
+D2
+~
+~
+0 -1 20342
+S
+#20349
+The Shut-Off Valve~
+You have reached the end of the pipe.  There's a large steel door here, but
+it's so corroded that you could never get it open.  It must have been here
+a very long time, because it doesn't look all that solid.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20350
+S
+#20350
+The Passageway~
+This passageway is very normal, and there's really nothing very special about
+it.  The walls are grey and metallic, and still give off a hint of a shine
+under all the grime.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20352
+D2
+~
+~
+0 -1 20348
+D3
+~
+~
+0 -1 20349
+S
+#20351
+The Nook~
+This little recess seems to be more of a defect in the piping than anything
+else.  It's a big bulge in the side of the pipe, and judging by all the
+garbage laying around it's been very popular with the inhabitants...
+whatever they may be!
+~
+203 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20352
+S
+#20352
+a Fork in the Pipe~
+The pipe forks off here, heading to the north, east, and west.  Any way
+you go, there's sure to be beer there.  So is there really any wrong
+choice in this situation?  I thought not...
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20351
+D1
+~
+~
+0 -1 20353
+D3
+~
+~
+0 -1 20350
+S
+#20353
+a Backwards Fork in the Pipe~
+The pipe forks here as well, but this time it forks to the south, east, 
+and west.  Again, there's beer in all directions so don't fret.  Just take
+your pick and have a tall cold one.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20354
+D2
+~
+~
+0 -1 20355
+D3
+~
+~
+0 -1 20352
+S
+#20354
+a Large Pool of Beer~
+There's a big leak in the ceiling here, and beer is pouring out from above.
+If the hole isn't plugged quickly, the cloud of vapor will surround you.
+Hey wait a second...that's not necessarily a bad thing!
+~
+203 264 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20353
+S
+#20355
+a Grime-Filled Corridor~
+The pipe here is really nasty.  The floor is covered with a huge variety
+of pub scum...you really don't want to know how it got here.  You think 
+that you also see some puke on the floor.  Now isn't that nice?
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20353
+D2
+~
+~
+0 -1 20356
+S
+#20356
+a Very Long Pipe~
+The pipe bends here, and seems to continue on forever to the east.  There's
+a soft light coming from the end of the hall, and your beergoggles make you
+want to go and check it out!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20355
+D1
+~
+~
+0 -1 20357
+S
+#20357
+In the Middle of the Pipe~
+This is the middle of the long pipe.  You still see the soft light to the
+east, and you are really drawn to it.  Maybe that's because you're wearing
+your beergoggles, or maybe it's just because it's really neat.
+~
+203 268 0
+0d0+0 0 0
+D1
+~
+door~
+2 20324 20358
+D3
+~
+~
+0 -1 20356
+S
+#20358
+The Bar~
+You have finally reached the end of the pipe.  The soft light is emitted
+here, but you can't tell what from.  It's a very calming place, and you feel
+strangely at ease.  You might want to sit down and relax for a while.
+~
+203 2312 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20357
+D5
+~
+~
+0 -1 20370
+S
+#20359
+a Very Hot Coil~
+The coils running up and down the wall here are red hot, and if you touch
+them you'll definitely burn your finger.  So, the best idea is not to touch
+them you idiot!
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20360
+S
+#20360
+The First Slot~
+You're standing in the first toasting slot.  It's very long, and stretchs on
+for a very long way to the north.  There are lots of hot coils on the walls,
+so be very careful!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20361
+D3
+~
+~
+0 -1 20359
+S
+#20361
+The Middle of the Slot~
+You are now standing in the middle of the first toasting slot.  The hot
+coils are all around you, and you feel it heating up in here.  You should
+probably get out while you still can!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20362
+D2
+~
+~
+0 -1 20360
+S
+#20362
+The Middle of the First Slot~
+You're much deeper in the first slot now, and it's very hot here.  It might
+even be hot enough to melt the frosting on a pop tart, but I doubt it.  Those
+things are almost impossible to destroy!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20363
+D2
+~
+~
+0 -1 20361
+S
+#20363
+The End of the Coil~
+You're standing at the northern end of the long toasting slot.  The coils
+on the walls are VERY hot, so be sure not to touch them.  There are lots of
+crumbs on the floor, which may not be so tasty after all of these years.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20364
+D2
+~
+~
+0 -1 20362
+S
+#20364
+The Heating Coil~
+You're standing on the top of the red-hot heating coil!  Get off of it
+while you can!  This thing is red hot and will burn you to death if you
+don't leave soon!  Get out while there's still time!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20367
+D1
+~
+~
+0 -1 20365
+D3
+~
+~
+0 -1 20363
+S
+#20365
+The Right-Side Slot~
+You're standing at the north end of the right-side toasting slot.  This
+slot is not quite as big as the other one, but it gets plenty hot!  It's
+a bit wider as well...good for bagels!
+~
+203 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20366
+D3
+~
+~
+0 -1 20364
+S
+#20366
+The Middle of the Right-Side Slot~
+You're standing in the middle of the right-side toasting slot.  There's
+lots of crumbs on the floor here, and there are even a few broken-off pop
+tart corners around.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20365
+D2
+~
+~
+0 -1 20370
+S
+#20367
+Along the Cord~
+You're walking a very fine line along the heating cord.  To the north, the
+cord continues towards the wall, while to the south the toaster itself
+begins.  Which is worse?
+~
+203 10504 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20368
+D2
+~
+~
+0 -1 20364
+S
+#20368
+The Power Cord~
+You're standing on the middle of the power cord.  Standing here gives you
+a tingle in your feet.  Not enough to hurt, but enough to give you a slight
+shock.  Kind of a neat feeling.
+~
+203 14604 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20369
+D2
+~
+~
+0 -1 20367
+S
+#20369
+The Plug~
+This is the plug.  You can follow it down into the wall if you really want
+to, but that might not be such a good idea.  You might just be better off
+forgetting this place ever existed.
+~
+203 8456 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20368
+D5
+~
+~
+0 -1 20371
+S
+#20370
+The South Side of the Right-Side Heating Coil~
+You're on the southern end of the right side toaster slot.  There's a ladder
+here which leads up to another unknock world.  Do you want to risk messing 
+with it, or do you dare face the dangers here?
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20366
+D4
+~
+~
+0 -1 20358
+S
+#20371
+The Drive-Thru Window~
+You've just climbed down the stairs and stand in front of a small drive-thru
+window at McDonalds!  There's a barely understandable voice coming over the
+intercom, and you *think* it's asking what you'd like to order.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20372
+D4
+~
+~
+0 -1 20369
+S
+#20372
+The Front Door~
+This is the front door to the restauraunt.  The patrons are busy streaming
+through to get their fill of cholesterol and sugar.  After all, at these
+prices it can't be bad for you....can it?
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20373
+D1
+~
+~
+0 -1 20374
+D3
+~
+~
+0 -1 20371
+S
+#20373
+The Mens Room~
+This is the mens room.  There are several urinals against the wall, and a
+few sit-down units in the corner.  It's spotless, like all McDonalds 
+restrooms.  Wonder how they manage to keep it like that...
+~
+203 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20372
+S
+#20374
+The Counter~
+You're standing at the counter now, ready to order.  Hmmm....what to have.
+Well, you could try the two quarter pounders with cheese for two dollars. Or,
+maybe you'd like to try the Big Mac.  Either way, I'm sure you won't be
+satisfied.  Type "list" to get a menu.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20376
+D3
+~
+~
+0 -1 20372
+S
+#20375
+The Ladies Room~
+The Ladies restroom is just as spotless as you would expect it to be at
+McDonalds.  There are no urinals here, but there are indeed several sit-down
+units against the wall.  There's also a tampon machine on the wall, in case
+it's that time of the month.
+~
+203 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20376
+S
+#20376
+The Food-Prep Area~
+This area is spotless, except for all the food that's laying around.  There
+are several minimum-wage employees scurrying to and fro preparing the food.
+Hey...did that guy just spit on a burger???
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20375
+D2
+~
+~
+0 -1 20377
+D3
+~
+~
+0 -1 20374
+S
+#20377
+The Manager's Office~
+This is the manager's office.  He's really lucky, because he probably makes
+an extra 50 cents every hour.  It really shows, because he gets to wear a
+striped shirt instead of the plain one!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20376
+D1
+~
+~
+0 -1 20378
+S
+#20378
+The Dumpster~
+This dumpster is nasty!  This is where they throw all the leftover food that
+they can't sell.  No wonder it smells so bad...the garbage probably hasn't 
+been picked up for several weeks!
+~
+203 268 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20377
+D5
+~
+~
+0 -1 20379
+S
+#20379
+The Pasta Bowl~
+You have climbed down into a huge L-Shaped bowl of pasta.  There are all
+kinds of noodles here, but they look pretty darn mean.  I wouldn't want to
+take a chance messing with them if I was you.
+~
+203 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20380
+D4
+~
+~
+0 -1 20378
+S
+#20380
+South end of the Bowl~
+This is the south end of the pasta bowl.  There are lots of noodles stacked
+here, and it's very hard to move about.  Maybe you should just consider
+eating your way through it.
+~
+203 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20381
+D2
+~
+~
+0 -1 20379
+S
+#20381
+Middle of the Bowl~
+You have entered the middle of the pasta bowl.  The noodles are at their
+thickest point here, and there are more than you could possibly ever think
+about eating.  Don't give up though!
+~
+203 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20382
+D2
+~
+~
+0 -1 20380
+S
+#20382
+A Curve in the Bowl~
+This bowl is indeed L-Shaped, and here it bends to the east and to the 
+south.  Those are your two choices.  Both ways are filled with noodles
+though, so it won't be an easy task.
+~
+203 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20383
+D2
+~
+~
+0 -1 20381
+S
+#20383
+The Short Side~
+This is the middle of the short side of the bowl.  There's nothing really
+all that special about it, except for all of the noodles and sauce lying
+about.  Just eat it!
+~
+203 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20384
+D3
+~
+~
+0 -1 20382
+S
+#20384
+End of the Bowl~
+This is the end of the bowl.  There aren't quite as many noodles here, and
+the sauce is sticking to the side of the bowl.  Ahhh....there's also a 
+ladder leading down here.
+~
+203 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20383
+D5
+~
+~
+0 -1 20386
+S
+#20385
+Southwest Corner~
+This is the southwest corner of the fridge.  There are lots of old packages
+wrapped in tin foil here.  No idea what they are.....and you're not sure
+you really want to know anyways!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20388
+D1
+~
+~
+0 -1 20386
+D6
+~
+~
+0 -1 20389
+S
+#20386
+The Fridge~
+You have descended into a very cold area...it looks like you're in a very
+large refridgerator.  It's so cold that if you stay here too long you could
+freeze to death!
+~
+203 268 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20389
+D1
+~
+~
+0 -1 20387
+D3
+~
+~
+0 -1 20385
+D4
+~
+~
+0 -1 20384
+D6
+~
+~
+0 -1 20390
+D7
+~
+~
+0 -1 20388
+S
+#20387
+The Southeast Corner~
+This is the southeast corner of the fridge.  There are several boxes of
+frozen waffles here, and they look like they have been here for quite a
+few years.  You know you don't want to eat these!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20390
+D3
+~
+~
+0 -1 20386
+D7
+~
+~
+0 -1 20389
+S
+#20388
+The West Side of the Freezer~
+This is the west side of the freezer.  There are several pieces of old
+meat here, but they have such bad freezer burn that they don't look like
+they're even CLOSE to tasty!
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20391
+D1
+~
+~
+0 -1 20389
+D2
+~
+~
+0 -1 20385
+D6
+~
+~
+0 -1 20392
+D8
+~
+~
+0 -1 20386
+S
+#20389
+The Centre of the Freezer~
+This is the centre of the freezer.  There is all kinds of crap piled here,
+and most of it predates the dinosaurs.  Actually, there probably is some
+frozen dinosaur if you look carefully.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20392
+D1
+~
+~
+0 -1 20390
+D2
+~
+~
+0 -1 20386
+D3
+~
+~
+0 -1 20388
+D6
+~
+~
+0 -1 20393
+D7
+~
+~
+0 -1 20393
+D8
+~
+~
+0 -1 20387
+D9
+~
+~
+0 -1 20385
+S
+#20390
+The East Side of the Freezer~
+You're standing on the east side of the freezer now.  This may be the part
+where Jeffrey Dahmer keeps his prized possessions.  However, you don't want
+to know if this is truth or rumour.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20393
+D2
+~
+~
+0 -1 20387
+D3
+~
+~
+0 -1 20389
+D7
+~
+~
+0 -1 20392
+D9
+~
+~
+0 -1 20386
+S
+#20391
+The Northwest Corner~
+Here in the northwest corner of the freezer there are several microwave
+dinners stacked.  There is some Healthy Choice, some Lean Cuisine, a few
+Swanson Hungry Man dinners, and of course, couple of frozen burritos.
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20392
+D2
+~
+~
+0 -1 20388
+D8
+~
+~
+0 -1 20389
+S
+#20392
+The North Side of the Freezer~
+This is the north side of the freezer.  To your north is the small little
+door to the ice cream compartment.  To your south is the vastness of the
+rest of the freezer.
+~
+203 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 20394
+D1
+~
+~
+0 -1 20393
+D2
+~
+~
+0 -1 20389
+D3
+~
+~
+0 -1 20391
+D8
+~
+~
+0 -1 20390
+D9
+~
+~
+0 -1 20388
+S
+#20393
+The Northeast Corner~
+You're in the extreme northeastern corner of the freezer now.  There are
+leftovers from decades ago here...things your roommates never bothered to
+warn you about!
+~
+203 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20390
+D3
+~
+~
+0 -1 20392
+D9
+~
+~
+0 -1 20389
+S
+#20394
+The Ice Cream Department~
+You are in the small compartment of the freezer where you put the ice cream.
+It's a very small compartment, only able to hold two or three pints of ice
+cream at once.  Far too small...
+~
+203 268 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20392
+D5
+~
+~
+0 -1 20395
+S
+#20395
+a Small and Dark Hallway~
+This hallway is very dark and narrow.  You wonder what kind of dangers could
+be waiting for you to the east.  Whatever it is, it's garding your way to the
+eigth floor, so you'll have to face it.
+~
+203 265 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20396
+D4
+~
+~
+0 -1 20394
+S
+#20396
+Boiling Water~
+Coming out of the darkness, you find yourself in hot water...literally.  This
+place is filled with steaming water and lots of boiling noodles.  This can
+only be home to that most vicious of orange monsters....Kraft Dinner!
+~
+203 265 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20397
+D3
+~
+~
+0 -1 20395
+S
+#20397
+The End of the Dark Hall~
+You have reached the end of the dark hall.  There is a spiral staircase here,
+leading down to the depths of level eight.  How much longer must you search
+in your quest for the lost fridge?
+~
+203 265 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20396
+D5
+~
+~
+0 -1 20398
+S
+#20398
+A Spiral Staircase~
+This spiral staircase leads up to the seventh level.  You are standing on 
+the eighth and deepest level of the fridge now.  You have almost completed
+your quest for the lost fridge.  What lies to the east only the creator of
+this zone knows...
+~
+203 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 20399
+D4
+~
+~
+0 -1 20397
+S
+#20399
+The Lost Fridge~
+You have finally found the lost fridge.  There is a large black hole leading
+down into the ground which appears to be the only escape from this area.  
+There is an invisible force here which seems very powerful, and you have a
+desire to flee it as soon as possible.
+~
+203 264 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 20398
+D5
+~
+~
+0 -1 3001
+S
+$

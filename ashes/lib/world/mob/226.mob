@@ -1,0 +1,281 @@
+#22609
+royal guard~
+a Royal Guard~
+A Royal Guard is standing here.
+~
+The guard wears a uniform, watches your every move, and cracks not the
+smallest sign of emotion as you enter the room.  He looks tough, and very
+much like he will protect the Sultan with his life.
+~
+14408 1064 1000 W
+40 35 -9 6d7+2450 3d8+10
+8000 80000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-90 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22610
+royal guard~
+a Royal Guard~
+A Royal Guard stands on guard here to the right.
+~
+The guard wears a uniform, watches your every move, and cracks not the
+smallest sign of emotion as you enter the room.  He looks tough, and very
+much like he will protect the Sultan with his life.
+~
+14410 1064 1000 W
+40 35 -9 6d7+2450 3d8+10
+8000 80000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-90 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22611
+royal guard~
+a Royal Guard~
+A Royal Guard stands on guard here to the left.
+~
+The guard wears a uniform, watches your every move, and cracks not the
+smallest sign of emotion as you enter the room.  He looks tough, and very
+much like he will protect the Sultan with his life.
+~
+14410 1064 1000 W
+40 35 -9 6d7+2450 3d8+10
+8000 80000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-90 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22612
+sultan~
+the Sultan~
+The Sultan sits on his throne looking over an old parchment.
+~
+The Sultan is a rather short, rotund man with a ruddy complexion and a
+twinkle in his eye.  He's friendly, outgoing, and a wise man indeed.  It is
+because of his level head that Agrabah thrives.  Looking ahead to the future,
+he has been desperately searching for a suitor for Jasmine, so that he may
+have a successor in the event of his untimely death.  Jasmine, however, still
+has not chosen one, and he worries constantly that he will not find one.
+~
+26698 1160 1000 W
+60 45 -8 9d9+4200 4d7+30
+10000 150000
+8 8 1
+14 0 13 13 13 13 0
+0 2 0
+-80 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22620
+chef~
+a Royal Chef~
+The Sultans Royal Chef is standing here.
+~
+The Chef is short and very fat.  His apron is covered with various types
+of food, and he is missing one finger on his right hand due to a mishap
+with a very sharp knife here in the kitchen.  He has a tendency to oversample
+the meals before they are served, and has a particular soft spot for sweets.
+~
+8266 1064 500 W
+35 30 -6 5d8+1500 3d4+15
+5000 70000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-60 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22621
+cook~
+a Royal Cook~
+A Royal Cook is standing here.
+~
+The cook is short, rotund, and jovial.  He obviously enjoys sampling the
+food before it reaches the banquet table also.  He carries out the Royal
+Chef's orders and keeps the kitchen help on their toes.
+~
+4170 1064 500 W
+30 35 -5 5d8+1100 3d4+15
+3000 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#22622
+servant~
+a humble servant~
+A humble servant of the palace is standing here.
+~
+The servant looks a bit timid - and for good reason, as Jafar keeps a very
+close eye on the hired help.  The palace servants perform all of the menial
+chores around the palace, such as cleaning and serving meals.
+~
+200 1064 300 W
+15 33 -2 5d6+300 1d6+4
+500 12000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#22639
+princess jasmine~
+Princess Jasmine~
+Princess Jasmine is standing here.
+~
+Jasmine has long black hair, dark brown eyes, and a perfect figure.  Her
+beauty far surpasses any other woman's in Agrabah.  She is also quick-witted
+and highly intelligent, and not easily fooled.  She has a love for the beauty
+of nature and animals, and has many pets around the palace.  Rajah, her most
+loyal and most loved pet, is a very large Bengal Tiger, and serves as her
+bodyguard around the palace.
+~
+26825 1160 1000 W
+50 42 -7 7d9+4200 4d7+30
+9000 130000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-70 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22647
+aladdin~
+Aladdin~
+Aladdin stands here looking up at Jasmine's balcony.
+~
+A handsome lad indeed is Aladdin.  He is dark-skinned, has medium-length
+dark brown hair, dark brown eyes, and is of slender build.  The twinkle in
+his eyes tells of mischief, yet the gentle voice tells of kindness and solid
+character. He is dressed in all the finery of a true Prince, and hopes to
+gain the hand of the beautiful Princess Jasmine in marriage.
+~
+26701 263304 1000 W
+90 69 -8 9d9+4300 7d5+36
+10000 140000
+8 8 1
+15 0 13 13 13 13 0
+0 2 0
+-80 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22648
+monkey abu~
+Abu~
+A small schizophrenic monkey named Abu is skittering about here.
+~
+Abu is a small, skinny monkey with huge dark eyes and a tendency to chatter
+and scold constantly.  He wears a tiny blue hat on his head, and is the friend
+and constant companion of Aladdin.  Better watch him though - he has a certain
+knack for thievery, and he's hard to catch.
+~
+4303 263208 500 W
+10 48 -2 7d6+150 1d6+0
+0 2000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#22650
+bird songbird~
+a small white songbird~
+A snow-white songbird with large, soft eyes is singing here.
+~
+The bird is a pure, snowy white, and has very large eyes.  It sings a melody
+from time to time, and seems to be very tame and unafraid of humans, as it
+does not fly from your approach.  You can tell it is one of Jasmine's pets.
+~
+4194504 40 1000 W
+3 29 -1 2d4+50 1d6+0
+0 500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#22652
+rajah tiger~
+Rajah~
+Rajah stands here eyeing you intently.
+~
+This extremely large Bengal Tiger is the Princess Jasmine's pet and loyal
+bodyguard. He is the perfect specimen, with a sleek orange coat, and perfect
+coal-black tiger markings.  He is also in excellent condition, and viciously
+protective of Jasmine.  His sharp eyes catch your slightest movements.
+~
+28751 1028 1000 W
+38 39 -6 6d8+2375 4d5+5
+0 75000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-60 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22661
+jafar~
+Jafar~
+Jafar, the evil Royal Vizier stands here.
+~
+Jafar is the epitomy of evilness.  He is a tall, bony man of nasty disposition
+and evil intent.  His face is by far the ugliest you have ever encountered.
+He secretly plans to do away with the Sultan and claim the throne for his own.
+He is a master of thievery, deceit, trickery, and sorcery - not a man to be
+trifled with.  His scraggly parrot, Iago, is his spy, and he knows all that
+goes on in the palace.  Leave while you can, or suffer the consequences.
+~
+26735 1160 -1000 W
+54 57 -7 9d9+4900 4d7+30
+10000 180000
+8 8 1
+16 0 13 13 13 13 0
+0 2 0
+-70 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#22662
+iago Iago bird parrot~
+Iago~
+Iago is perched here, spitting out a cracker and sputtering angrily.
+~
+A scraggly looking parrot looks at you and says, "Hey, get outta here bud!".
+He might have been colorful at one time, but now he's dingy and dirty.  He
+seems to be gagging on cracker crumbs, but you don't feel inclined to help.
+~
+6351 263208 -1000 W
+5 36 -2 2d4+100 1d8+0
+0 1300
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+$

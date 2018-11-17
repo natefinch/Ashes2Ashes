@@ -1,0 +1,1316 @@
+#6601
+skeleton key~
+the skeleton key~
+This key used in blade runner zone to lock doors that do not lead anywhere
+(deadends in other words).  See room 6620.
+~
+~
+18 1 1 0
+0 0 0
+0 0 0 0
+1 0 0
+#6602
+key aluminum~
+an aluminum key~
+A small aluminum key glints dully in the light.~
+~
+18 8 1 0
+0 0 0
+0 0 0 0
+1 5 0
+#6603
+desk drawer~
+a heavy oak desk~
+There is a heavy oak desk here covered with papers.  ~
+~
+15 0 0 0
+0 0 0
+99 1 6604 0
+21 0 0
+E
+drawer~
+You can see a keyhole on the front of the drawer.
+~
+E
+blotter~
+The blotter is covered with writing but coffee and donut stains obscure
+it all.
+~
+E
+desk~
+This old oak desk is badly worn and splintered and must weigh a ton.
+A tattered green blotter can be seen beneath the piles of folders and
+papers that are stacked high on top of the desk.  A single drawer is
+visible on the far side.
+~
+#6604
+key brass~
+a bent brass key~
+The brass key lying by your feet is slightly bent.  ~
+~
+18 8 1 0
+0 0 0
+0 0 0 0
+1 5 0
+#6605
+whiskey bottle booze~
+a bottle of whiskey~
+A half empty bottle of whiskey sits here.  ~
+~
+17 0 1 0
+0 0 0
+6 5 5 0
+10 12 0
+E
+bottle~
+The label on the bottle reads "Outworld Reserve."  ~
+#6606
+shotglass shot glass~
+a shotglass~
+A greasy shotglass sits here on its side.  ~
+~
+17 0 1 0
+0 0 0
+1 0 5 0
+1 5 0
+#6607
+keycard key card transparent~
+a transparent keycard~
+A transparent keycard is lying here in the dust.  ~
+~
+18 8 1 0
+0 0 0
+0 0 0 0
+1 2 0
+E
+card~
+This keycard is made of a clear plastic material.  ~
+E
+key~
+This keycard is made of a clear plastic material.  ~
+E
+keycard~
+This keycard is made of a clear plastic material.  ~
+#6608
+key stubby~
+a stubby little key~
+A stubby little key must have been dropped here by someone.  ~
+~
+18 8 1 0
+0 0 0
+0 0 0 0
+1 4 0
+#6609
+key card keycard blue~
+a blue keycard~
+A blue keycard lies here on the floor unnoticed.  ~
+~
+18 8 1 0
+0 0 0
+0 0 0 0
+1 5 0
+E
+keycard~
+This blue keycard has the number 201 on it.  ~
+E
+key~
+This blue keycard has the number 201 on it.  ~
+E
+card~
+This blue keycard has the number 201 on it.  ~
+#6610
+key card red keycard~
+a red keycard~
+A glowing red keycard lies here forgotten.  ~
+~
+18 9 1 0
+0 0 0
+0 0 0 0
+1 5 0
+E
+keycard~
+The red keycard has the number 1 stamped on it.  ~
+E
+card~
+The red keycard has the number 1 stamped on it.  ~
+E
+key~
+The red keycard has the number 1 stamped on it.  ~
+#6611
+key card red keycard~
+a red keycard~
+A glowing red keycard lies here forgotten.  ~
+~
+18 9 1 0
+0 0 0
+0 0 0 0
+1 5 0
+E
+keycard~
+The red keycard has the number 2 stamped on it.  ~
+E
+card~
+The red keycard has the number 2 stamped on it.  ~
+E
+key~
+The red keycard has the number 2 stamped on it.  ~
+#6612
+key card keycard red~
+a red keycard~
+A glowing red keycard lies here forgotten.  ~
+~
+18 9 1 0
+0 0 0
+0 0 0 0
+1 5 0
+E
+key~
+The red keycard has the number 3 stamped on it.  ~
+E
+card~
+The red keycard has the number 3 stamped on it.  ~
+E
+keycard~
+The red keycard has the number 3 stamped on it.  ~
+#6613
+key card keycard red~
+a red keycard~
+A glowing red keycard lies here forgotten.  ~
+~
+18 9 1 0
+0 0 0
+0 0 0 0
+1 5 0
+E
+keycard~
+The red keycard has the number 4 stamped on it.  ~
+E
+card~
+The red keycard has the number 4 stamped on it.  ~
+E
+key~
+The red keycard has the number 4 stamped on it.  ~
+#6614
+keycard key card~
+a yellow keycard~
+Someone has dropped a yellow keycard here.  ~
+~
+18 8 1 0
+0 0 0
+0 0 0 0
+1 5 0
+E
+card~
+This yellow keycard has the Tyrell Corporation logo on it.  ~
+E
+key~
+This yellow keycard has the Tyrell Corporation logo on it.  ~
+E
+keycard~
+This yellow keycard has the Tyrell Corporation logo on it.  ~
+#6615
+keycard key card bronze~
+a bronze keycard~
+Someone has dropped a bronze keycard here.  ~
+~
+18 8 1 0
+0 0 0
+0 0 0 0
+1 5 0
+E
+card~
+This bronze keycard has the Tyrell corporation logo on it.  ~
+E
+key~
+This bronze keycard has the Tyrell Corporation logo on it.  ~
+E
+keycard~
+This bronze keycard has the Tyrell Corporation logo on it.  ~
+#6616
+keycard key card gold~
+a gold keycard~
+Someone has dropped a gold keycard here.  ~
+~
+18 8 1 0
+0 0 0
+0 0 0 0
+1 5 0
+E
+keycard~
+This gold keycard has the Tyrell Corporation logo on it.  ~
+E
+key~
+This gold keycard has the Tyrell Corporation logo on it.  ~
+E
+card~
+This gold keycard has the Tyrell Corporation logo on it.  ~
+#6617
+keycard key card silver~
+a silver keycard~
+Someone has dropped a silver keycard here.  ~
+~
+18 8 1 0
+0 0 0
+0 0 0 0
+1 5 0
+E
+card~
+This silver keycard has the Tyrell Corporation logo on it.  ~
+E
+key~
+This silver keycard has the Tyrell Corporation logo on it.  ~
+E
+keycard~
+This silver keycard has the Tyrell Corporation logo on it.  ~
+#6618
+fountain~
+a massive marble fountain~
+A massive marble fountain shoots water high into the air.  ~
+~
+23 0 0 0
+0 0 0
+999 999 0 0
+1004 1000 0
+E
+fountain~
+This fountain is carved from what appears to be a single block of black
+marble.  Hieroglyphs are carved around the bowl-shaped basin where a
+golden scarab at the bottom shoots sparkling water high into the air.
+~
+#6619
+computer Esper~
+an ESPER computer~
+A massive ESPER super computer sits in the middle of the room.  ~
+~
+15 2 0 0
+0 0 0
+99 5 0 0
+80 0 0
+#6620
+cabinet~
+a food cabinet~
+A tall food cabinet dominates the back of the pantry.~
+~
+15 0 0 0
+0 0 0
+40 13 6621 0
+30 0 0
+#6621
+key~
+a small nickle-plated key~
+A small nickle-plated key has been dropped here.  ~
+~
+18 8 1 0
+0 0 0
+0 0 0 0
+1 5 0
+E
+key~
+The key has the word "FOOD" scrawled on it.  ~
+#6622
+solution nutrient~
+a nutrient solution~
+An odd, unlabelled nutrient solution lies here.  ~
+~
+10 64 1 0
+0 0 0
+30 36 57 33
+3 12000 0
+#6623
+drawer~
+a drawer~
+A refrigerated drawer appears unlocked.  ~
+~
+15 0 0 0
+0 0 0
+10 1 0 0
+2 0 0
+#6624
+freezer~
+a cryogenic freezer~
+A heavy cryogenic freezer stands here covered with frost.  ~
+~
+15 2 0 0
+0 0 0
+20 5 6625 0
+5 1000 0
+#6625
+key nickel~
+a nickel-plated key~
+A nickel-plated key has been dropped by your feet here.~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+1 5 0
+#6626
+key red~
+a worn red key~
+A well-worn red key is lying here in the dust.
+~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+1 5 0
+#6627
+keycard key card~
+a black keycard~
+A black keycard has been left lying here near your foot.  ~
+~
+18 9 1 0
+0 0 0
+0 0 0 0
+1 5 0
+#6628
+mason jar money~
+a mason jar full of money~
+A dusty mason jar lying here looks like it is full of money.  ~
+~
+20 0 1 0
+0 0 0
+25000 0 0 0
+16 25000 0
+#6629
+trash can trashcan~
+a large trashcan~
+There is a large plastic trashcan in the corner of the room.  ~
+~
+15 0 0 0
+0 0 0
+18 5 0 0
+4 10 0
+#6630
+severed human hand~
+a severed human hand~
+A severed human hand lies here lifelessly.  ~
+~
+19 0 1 0
+0 0 0
+20 0 0 0
+1 1 0
+#6631
+liver organ diseased~
+a diseased liver~
+A disease-ridden human liver lies here wetly giving off a foul odor.  ~
+~
+19 0 1 0
+0 0 0
+5 0 0 1
+2 1 0
+#6632
+headphones phones senheiser~
+Senheiser headphones~
+An expensive pair of Senheiser headphones lie here.  ~
+~
+11 411658 17 0
+0 0 0
+0 0 0 0
+3 7000 0
+A
+11 20
+A
+14 4
+#6633
+shotgun gun ruger assault~
+a Ruger assault shotgun~
+A heavy Ruger assault auto shotgun looks loaded and deadly.  ~
+~
+5 9336832 8193 0
+0 0 0
+0 5 4 7
+16 4000 0
+A
+17 1
+A
+18 1
+#6634
+shorts biker pearl izumi~
+some Pearl Izumi biker shorts~
+A pair of black Pearl Izumi biker shorts have been left here.  ~
+~
+11 174592 33 0
+0 0 0
+0 0 0 0
+5 30000 0
+A
+11 10
+A
+18 2
+#6635
+trenchcoat black coat~
+a black trenchcoat with a rubberized collar~
+A black trenchcoat lies in a heap by your foot.  ~
+~
+11 8534528 1025 0
+0 0 0
+0 0 0 0
+3 25000 0
+A
+16 -4
+A
+14 5
+#6636
+belt snakeskin~
+a snakeskin belt~
+A shiny snakeskin belt lies coiled here on the floor.  ~
+~
+11 262664 2049 0
+0 0 0
+0 0 0 0
+4 1000 0
+A
+5 1
+A
+23 2
+#6637
+red fez hat~
+a red fez~
+A bright red fez has been left on the floor.  ~
+~
+11 8704000 17 0
+0 0 0
+0 0 0 0
+2 5000 0
+A
+3 2
+A
+13 1
+#6638
+taser ~
+a hotwired taser~
+An illegally hotwired taser lies here sparking occasionally.  ~
+~
+3 426498 16385 0
+0 0 0
+35 4 4 30
+2 6500 0
+#6639
+neural enhancer implant~
+a fragile neural implant~
+The crumpled wires at your feet might be a neural implant.  ~
+~
+11 9 17 0
+0 0 0
+0 0 0 0
+1 8000 0
+A
+3 2
+A
+13 2
+#6640
+eye eyeball~
+an eyeball~
+An eyeball lies blindly in a pool of nutrient solution.  ~
+~
+1 401409 16385 0
+0 0 0
+0 0 99 0
+2 4500 0
+A
+13 3
+A
+10 25
+#6641
+fur coat~
+a heavy fur coat~
+A heavy fur coat lies in a heap by your foot.  ~
+~
+11 2048 1025 0
+0 0 0
+0 0 0 0
+14 2000 0
+A
+5 2
+A
+22 3
+#6642
+blaster magnum gun~
+a Sig-Sauer magnum pulse blaster~
+Someone has dropped a Sig-Sauer magnum pulse blaster here.  ~
+~
+5 8696322 8193 0
+0 0 0
+0 4 6 12
+15 35000 0
+A
+17 4
+A
+18 2
+#6643
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#6653
+sig-sauer pulse blaster~
+a Sig-Sauer pulse blaster~
+Someone has dropped a Sig-Sauer pulse blaster here.  ~
+~
+5 294914 8193 0
+0 0 0
+0 4 5 9
+13 2000 0
+A
+17 4
+#6654
+vchip v chip~
+an old V chip~
+A strange microchip lies in the dust at your feet.  ~
+~
+11 573440 5 0
+0 0 0
+0 0 0 0
+2 500 0
+A
+3 -2
+A
+16 -6
+#6655
+watch timex indiglo~
+an antique Indiglo Timex watch~
+An old Timex Indiglo watch is still ticking here.  ~
+~
+11 278529 4097 0
+0 0 0
+0 0 0 0
+5 600 0
+A
+1 2
+A
+17 2
+#6656
+gloves latex lab~
+a pair of latex gloves~
+A pair of latex lab gloves lie here crumpled in a pile.  ~
+~
+11 425984 129 0
+0 0 0
+0 0 0 0
+1 6000 0
+A
+13 2
+A
+3 2
+#6657
+docimeter~
+a tiny docimeter~
+A tiny black docimeter hangs from a thin metal chain.  ~
+~
+11 8534529 5 0
+0 0 0
+0 0 0 0
+2 800 0
+A
+14 4
+A
+5 2
+#6658
+needle tatoo~
+an electric tatoo needle~
+An electric tatoo needle looks in need of some cleaning.  ~
+~
+5 434178 8193 0
+0 0 0
+0 4 6 11
+14 350 0
+A
+11 0
+A
+2 2
+#6659
+implant memory neural~
+a memory implant~
+An experimental memory implant.  ~
+~
+11 967682 17 0
+0 0 0
+0 0 0 0
+2 25000 0
+A
+10 20
+A
+13 3
+#6660
+belt weight leather~
+a leather weight belt~
+A heavy leather weight belt is coiled on the floor.  ~
+~
+11 2048 2049 0
+0 0 0
+0 0 0 0
+8 8000 0
+A
+16 -4
+A
+18 2
+#6661
+iridium bar club~
+a heavy iridium bar~
+There is a heavy metal bar lying on the floor.  ~
+~
+5 8417280 8193 0
+0 0 0
+0 5 4 7
+18 200 0
+A
+11 5
+A
+1 2
+#6662
+umbrella light~
+an umbrella light~
+An umbrella with an illuminated handle flickers slightly.  ~
+~
+1 1 16385 0
+0 0 0
+0 0 50 0
+6 300 0
+A
+16 10
+#6663
+chess piece rook castle~
+a small chesspiece~
+A small white rook from a chess set lies here.  ~
+~
+11 428032 16385 0
+0 0 0
+0 0 0 0
+2 10000 0
+A
+10 20
+A
+13 3
+#6664
+book guide~
+a small book~
+A small, well-thumbed book is upside down, covering up the title.  ~
+~
+16 0 16897 0
+0 0 0
+0 0 0 0
+5 50 0
+A
+3 1
+A
+17 -2
+E
+guide~
+The book is titled, "The Idiot's Guide To Making Replicants.'
+~
+E
+book~
+The book is titled, "The Idiot's Guide To Making Replicants.'
+~
+#6665
+pair glasses spectacles~
+a pair of thick glasses~
+A pair of eye glasses with extremely thick lenses have been left here.  ~
+~
+11 311808 17 0
+0 0 0
+0 0 0 0
+5 12000 0
+A
+3 3
+A
+4 2
+#6666
+rollerblades blades skates titanium alloy~
+some titanium alloy roller blades~
+An expensive pair of titanium alloy roller blades are here.  ~
+~
+11 8546304 65 0
+0 0 0
+0 0 0 0
+12 5000 0
+A
+12 30
+A
+2 2
+#6667
+clear raincoat coat~
+a clear raincoat~
+The transparent garment at your feet looks like a raincoat.  ~
+~
+11 401920 1025 0
+0 0 0
+0 0 0 0
+7 9000 0
+A
+18 2
+A
+14 4
+#6668
+breastplate breast plate aluminum~
+an aluminum breastplate~
+An aluminum breastplate that hooks over the shoulders lies here.  ~
+~
+9 8417280 9 0
+0 0 0
+12 0 0 0
+17 5000 0
+A
+17 2
+#6669
+boots leather high~
+a pair of high leather boots~
+A pair of high leather boots lie gleaming here.  ~
+~
+11 6656 65 0
+0 0 0
+0 0 0 0
+12 7500 0
+A
+15 5
+A
+18 1
+#6670
+optic headpiece~
+an optic headpiece~
+A high magnification optic headpiece has been left here.  ~
+~
+11 279554 17 0
+0 0 0
+0 0 0 0
+9 6000 0
+A
+2 -2
+A
+4 3
+#6671
+flashlight maglite MagLite light~
+a four cell MagLite~
+A large, four cell MagLite is shining brightly on the floor.  ~
+~
+1 1 24577 0
+0 0 0
+0 0 20 0
+5 75 0
+A
+1 1
+#6672
+breathalizer~
+a breathalizer~
+An odd contraption that you breath into lies here.  ~
+~
+11 139264 16385 0
+0 0 0
+0 0 0 0
+12 800 0
+A
+22 -3
+A
+16 -6
+#6673
+gloves razor isotoner~
+Isotoner razor gloves~
+A nasty pair of Isotoner razor gloves lie here.(BLINKING)  ~
+~
+11 311808 129 0
+0 0 0
+0 0 0 0
+16 15000 0
+A
+7 10
+A
+10 20
+#6674
+cloak chameleon electro electro-chameleon~
+an electro-chameleon cloak~
+This is a pile of cloth on the ground that seems to shimmer in and out
+of phase.  It appears to be made out of spun, translucent filaments which
+occasionally flicker and blend into the ground.  It is almost as if the
+cloak is changing to disguise itself and disappear against the ground.
+~
+~
+11 172553 1025 0
+0 0 0
+0 0 0 0
+12 35000 0
+A
+18 2
+A
+14 3
+#6675
+plastisteel body armor~
+plastisteel body armor~
+A set of plastisteel body armor has been left here.  ~
+~
+9 8681504 9 0
+0 0 0
+14 0 0 0
+18 45000 0
+A
+18 2
+A
+11 8
+#6676
+cleaver chopper~
+a meat cleaver~
+A rusty, stained meat cleaver is stuck in the ground by your foot.  ~
+~
+5 139264 8193 0
+0 0 0
+0 6 4 3
+17 75 0
+A
+18 1
+A
+17 1
+#6677
+ring skull silver~
+a silver skull ring~
+A silver band is glinting dully on the floor.  ~
+~
+11 401921 3 0
+0 0 0
+0 0 0 0
+6 12000 0
+A
+18 2
+#6678
+sunglasses glasses rayban raybans~
+a pair of RayBan sunglasses~
+An expensive pair of sunglasses have been left behind.  ~
+~
+11 403456 17 0
+0 0 0
+0 0 0 0
+9 200 0
+A
+5 1
+A
+11 5
+#6679
+body pouch~
+a nylon body pouch~
+A nylon pouch that fits around the body has been dropped here.  ~
+~
+15 64 2049 0
+0 0 0
+200 5 0 0
+15 4000 0
+#6680
+steroids bottle steroid liquid~
+a bottle of liquid steroids~
+A bottle of liquid steroids still looks full.  ~
+~
+10 139776 1 0
+0 0 0
+25 39 0 0
+6 2000 0
+#6681
+bracelet elephant hair~
+an elephant hair bracelet~
+A bracelet made of dark woven fibers is lying here.  ~
+~
+11 2048 4097 0
+0 0 0
+0 0 0 0
+7 3000 0
+A
+18 2
+A
+17 -2
+#6682
+saffron robe~
+a saffron robe~
+A saffron-colored robe lies here in a jumbled pile.  ~
+~
+11 278536 9 0
+0 0 0
+0 0 0 0
+10 150 0
+A
+3 -1
+A
+16 -5
+#6683
+whip lash~
+a nasty-looking whip~
+A nasty-looking whip is coiled on the floor.(OOZING)  ~
+~
+5 837632 8193 0
+0 0 0
+0 7 4 2
+10 25000 0
+A
+13 3
+A
+17 2
+#6684
+throw rug~
+a small throw rug~
+A small throw rug looks like it could use a good cleaning.  ~
+~
+11 404000 1025 0
+0 0 0
+0 0 0 0
+12 3000 0
+A
+14 2
+A
+16 -4
+#6685
+black leather jacket~
+a black leather jacket~
+A heavy black leather jacket with gang colors lies here.  ~
+~
+9 139776 1025 0
+0 0 0
+4 0 0 0
+15 600 0
+A
+1 2
+#6686
+kimono silk~
+a beautiful silk kimono~
+A beautiful green silk kimono lies forgotten here.  ~
+~
+11 163841 9 0
+0 0 0
+0 0 0 0
+15 2500 0
+A
+5 1
+A
+4 1
+#6687
+belt neural accelerator~
+a neural accelerator belt~
+A neural accelerator belt lies here heavily.(THROWING SPARKS)  ~
+~
+11 689152 2049 0
+0 0 0
+0 0 0 0
+16 6000 0
+A
+2 3
+A
+17 3
+#6688
+navel ring bell button~
+a gold belly button ring~
+A gold belly button ring waits here for a belly button.(SHIMMERING)~
+~
+11 395776 2049 0
+0 0 0
+0 0 0 0
+6 3000 0
+A
+13 4
+A
+10 25
+#6689
+lighter Bic bic red~
+a red Bic lighter~
+A red Bic lighter has been forgotten here.  ~
+~
+1 1 16385 0
+0 0 0
+0 0 99 0
+5 10 0
+A
+3 1
+A
+4 1
+#6690
+bic Bic white lighter~
+a white Bic lighter~
+A white Bic lighter has been forgotten here.  ~
+~
+1 1 16385 0
+0 0 0
+0 0 99 0
+5 10 0
+A
+3 2
+A
+4 2
+#6691
+black lighter bic Bic~
+a black Bic lighter~
+A black Bic lighter has been forgotten here.  ~
+~
+1 1 16385 0
+0 0 0
+0 0 99 0
+5 10 0
+A
+3 3
+A
+4 3
+#6692
+nicotine patch patches pair~
+a pair of nicotine patches~
+A pair of sticky nicotine patches have been discarded here.  ~
+~
+11 8827904 257 0
+0 0 0
+0 0 0 0
+10 2000 0
+A
+18 2
+A
+1 2
+#6693
+spiked helmet prussian~
+a spiked Prussian helmet~
+An old Prussian Helmet with a sharp spike on top lies here on its side.  ~
+~
+11 139776 17 0
+0 0 0
+0 0 0 0
+12 1000 0
+A
+4 2
+A
+17 -1
+#6694
+badge medal medalle honour honor legionne legion~
+a Medalle du Legionne du Honour~
+An ornate badge on a red velvet ribbon lies here.(GLITTERING)  ~
+~
+11 8665088 5 0
+0 0 0
+0 0 0 0
+10 6000 0
+A
+5 2
+A
+16 -5
+#6695
+bowtie bow tie silver~
+a silver bow tie~
+A garish silver bow tie waits here to be worn by someone.  ~
+~
+11 2048 5 0
+0 0 0
+0 0 0 0
+8 1000 0
+A
+2 2
+#6696
+bloody apron~
+a bloody apron~
+A bloody pile of white cloth lies by your feet.  ~
+~
+11 0 2049 0
+0 0 0
+0 0 0 0
+10 300 0
+A
+18 -2
+A
+16 -10
+#6697
+shroom juice bottle~
+a bottle of shroom juice~
+A bottle full of a strange liquid lies here.(BUBBLING)  ~
+~
+10 401408 1 0
+0 0 0
+30 38 36 0
+5 2000 0
+#6698
+boots~
+a pair of shiny black boots~
+A pair of shiny black boots are in need of some polish.  ~
+~
+11 8417280 65 0
+0 0 0
+0 0 0 0
+10 500 0
+A
+15 5
+A
+12 20
+#6699
+box condoms~
+a box of condoms~
+Someone has dropped a box of industrial strength condoms here.  ~
+~
+9 139776 513 0
+0 0 0
+4 0 0 0
+16 500 0
+A
+17 1
+#6700
+magazine rack~
+a magazine rack~
+There is a magazine rack sitting next to the toilet.  ~
+~
+15 0 0 0
+0 0 0
+20 0 0 0
+9 10 0
+#6701
+book~
+a well-read book~
+A well-read copy of "Do Androids Dream of Electric Sheep" is here.  ~
+~
+16 0 16385 0
+0 0 0
+0 0 0 0
+8 10 0
+#6702
+pen~
+a pen~
+A ballpoint pen lies here.  ~
+~
+21 1 16385 0
+0 0 0
+0 0 0 0
+20 5 0
+#6703
+purse handbag bag armani~
+an Armani handbag~
+An expensive-looking hangbag has been dropped here.  ~
+~
+15 8967168 16385 0
+0 0 0
+100 5 0 0
+17 500 0
+#6704
+cheap armored armor vest~
+a cheap armored vest~
+A tattered armored vest looks in need of some repair.  ~
+~
+9 0 9 0
+0 0 0
+7 0 0 0
+15 250 0
+A
+23 -2
+#6705
+racoon mask raccoon~
+a racoon-like mask~
+A thin black mask that is racoon-like lies here.  ~
+~
+11 9089024 17 0
+0 0 0
+0 0 0 0
+15 5000 0
+A
+18 2
+A
+17 1
+#6706
+latex body suit white~
+a white latex body suit~
+A white latex body suit looks like a tight fit.  ~
+~
+11 950272 9 0
+0 0 0
+0 0 0 0
+15 3500 0
+A
+2 2
+A
+16 -8
+#6707
+overcoat heavy black~
+a heavy black overcoat~
+A heavy black overcoat has been dropped here.  ~
+~
+11 8705026 1025 0
+0 0 0
+0 0 0 0
+17 2500 0
+A
+17 3
+A
+16 -4
+#6708
+wok iron large~
+a large iron wok~
+An unusually large iron wok lies here greasily.  ~
+~
+9 0 529 0
+0 0 0
+6 0 0 0
+18 75 0
+#6709
+margarita glass drink~
+a margarita~
+A cold margarita in a heavy glass waits here for you.  ~
+~
+17 64 1 0
+0 0 0
+4 3 8 0
+9 8 0
+#6710
+belly chain silver~
+a silver belly chain~
+A delicate silver chain that might fit around your waist is here.  ~
+~
+11 8794625 2049 0
+0 0 0
+0 0 0 0
+10 8000 0
+A
+10 25
+A
+13 5
+#6711
+rubber rubber-soled shoes shoe soled~
+some heavy rubber-soled shoes~
+A pair of heavy rubber-soled shoes lie here side by side.  ~
+~
+11 0 65 0
+0 0 0
+0 0 0 0
+16 200 0
+A
+12 -10
+A
+1 2
+#6712
+amulet hydra mark~
+the mark of the hydra~
+An odd amulet lies here that resembles a creature with many heads.  ~
+~
+11 1 5 0
+0 0 0
+0 0 0 0
+12 6000 0
+A
+5 2
+#6713
+toilet john potty~
+a crumbling toilet~
+A crumbling white toilet looks uninviting here.  ~
+~
+23 0 0 0
+0 0 0
+99 98 0 0
+99 5 0
+#6714
+smith wesson stun club~
+a Smith & Wesson stun club~
+A metal club with a S&W marking on it lies here.  ~
+~
+5 704514 8193 0
+0 0 0
+0 6 3 6
+17 1400 0
+A
+17 2
+#6715
+yellow jacket coat cheesey~
+a cheesey yellow jacket~
+A cheesey yellow jacket lies here.  What an awful yellow color!  ~
+~
+11 2688 1033 0
+0 0 0
+0 0 0 0
+12 50 0
+A
+16 4
+$

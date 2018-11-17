@@ -1,0 +1,464 @@
+#9601
+deadly piranha~
+deadly piranha~
+A deadly piranha darts around you in a frenzy.
+~
+This is the fiercest and most dangerous fish in the world for its
+size.  It is less then a foot long.  Its body is slender
+and has a row of saw-toothed plates along the narrow underside.
+Its teeth are razor-sharp which it uses to tear its pray to pieses.
+~
+24616 17039520 0 W
+60 10 1 4d6+1000 8d10+0
+63425 200000
+8 8 0
+10 0 13 13 13 13 0
+0 0 0
+10 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#9604
+feathered serpent~
+feathered serpent~
+A huge feathered serpent soars high above you.
+~
+The monstrous feathered serpent is 20feet in length from head
+to tail, with a wing span of 15 feet.  This long bodied dracoform
+had a pair of wings and a pair of limbs.  Its contoured feathers
+and prominent feathered ruff are a dazzle of rainbow colors.
+Membranes stretch between the extended finger bones of its large
+wings.  Its feet have five digits, one of which is like an opposable
+thumb, giving it sufficent flexibility to manipulate objects.
+~
+57352 16777344 0 W
+80 10 0 4d6+1500 10d5+30
+123425 190000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#9607
+rat~
+rat~
+A rat scurries accross the floor.
+~
+You see a scragly furball with sharp teeth.
+~
+136 263168 -100 W
+18 3 -2 4d6+370 4d5+5
+800 24500
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+-20 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#9608
+bear~
+bear cub~
+A bear cub is playing nearby.
+~
+This cuddly cute looking bear has beautiful brown fur.  When
+it walks it steps down on the entire sole of its foot.  It
+has large stong claws even at this young age.
+~
+10 1024 0 W
+25 9 0 4d6+1395 6d3+5
+1725 43500
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+0 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#9609
+mother bear~
+mother bear~
+The mother bear is sleeping here.
+~
+This large fur-bearing animal is related to the dog, but is
+much more dangerous.  It has large, strong claws.  It uses
+these for digging, catching fish, and climbing trees.  Bears
+eat almost anything maybe even you.
+~
+18442 1152 0 W
+36 10 0 4d5+520 7d7+0
+9425 71000
+4 8 2
+16 0 13 13 13 13 0
+0 3 3
+0 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#9611
+rautym~
+a rautym~
+The rautym stands there watching you.
+~
+The rautym resembles a small hairless, freckle-backed monkey.
+This creature staring back at you had no eyes and its eye
+sockets glow red.
+~
+20488 1024 0 W
+22 3 2 4d6+430 4d6+0
+1275 36500
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+20 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#9615
+elder rautym~
+the Elder rautym~
+The elder rautym stands here watching you closely.
+~
+The rautym resembles a small hairless, freckle-backed monkey.
+This creature staring back at you had no eyes and its sockets
+glow red.  This is the elder of all the rautym.  His pack will
+protect him.
+~
+24584 1152 1000 W
+30 3 0 4d6+520 6d5+0
+5000 56000
+8 8 0
+13 0 13 13 13 13 0
+0 2 3
+0 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#9617
+crayfish~
+a crayfish~
+A crayfish is hiding here under a rock.
+~
+The crayfish had a hard shell and five pairs of legs like a
+lobster.  The two front legs have large claws on them like a
+crab's claws.  Crayfish like to lurk under stones and come out
+of hiding at find food.
+~
+16394 262144 0 W
+14 6 0 4d6+260 3d4+2
+300 18000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+0 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#9619
+minnow~
+a minnow~
+A tiny minnow darts around in the water.
+~
+The minnow is a silvery, greenish gray in color.  It has a
+special network of tiny bones that connect the ear with the 
+air bladder.  They do not have teeth in its jaw as most fish 
+do.  Instead, the minnow has a few large teeth in its throat.
+~
+16520 0 0 W
+14 6 1 4d6+240 3d4+1
+300 18000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+10 0 4 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#9621
+rainbow trout~
+a rainbow trout~
+A rainbow trout swims past you.
+~
+This fish looks like a beautiful rainbow as it swims past you.
+~
+8 0 0 W
+21 6 1 4d5+520 5d4+0
+1175 34000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+10 0 4 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#9622
+striped bass~
+a striped bass~
+A striped bass swims around you.
+~
+You see a beautifly colored fish about 2 feet in length.
+~
+8 0 0 W
+18 8 0 4d5+400 5d4+5
+725 26000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#9628
+deer~
+a deer~
+A deer has come to drink from the lake.
+~
+You see a graceful, swift amimal with long, slender legs.
+~
+16394 16777216 0 W
+25 10 1 4d6+520 3d5+5
+2000 43500
+8 8 2
+13 0 13 13 13 13 0
+0 2 3
+10 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#9630
+black annis~
+Black Annis~
+Black Annis lunges towards you.
+~
+This giantess that charges toward you is 8'tall.  Annis' skin is
+a deep blue color.  Her hair, teeth and nails are glossy black.
+Her eyes are dull yellow in color.  Her body is thin, muscular and
+wiry.  Her legs and arms are long and quick.  Annis is wearing a
+filthy, blood stained, tattered peasent dress.
+~
+59433 17564800 -1000 W
+60 25 0 4d6+780 9d5+0
+90000 186000
+8 8 2
+18 0 13 13 18 13 0
+18 5 5
+0 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#9632
+bumble bee~
+a bumble bee~
+A bumble bee buzzez around looking for flowers.
+~
+This black and yellow bumble bee at first looks like any other bumble
+bee.  Its wings beeting fast creating a buzzing sound.  As you look
+closer you see this bee has been busy collecting pollen.
+~
+18440 0 0 W
+18 9 0 3d3+370 3d5+0
+675 26000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+0 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#9635
+pine tree~
+a pine tree~
+A pine tree stands here guarding you.
+~
+This pine tree is the guardian of time and space.  It is the key to
+life producing and life giving oxygen.  Without it the ozone would
+colapse and end life as we know it.  All hail the mighty pine.
+~
+26888 132 1000 W
+60 40 -14 4d4+1020 10d7+2
+90000 131000
+8 8 0
+16 0 13 13 10 13 0
+0 5 0
+-140 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#9639
+Owl~
+an owl~
+There is an owl sitting in a pine tree.
+~
+The owl has a round face and large, saucerlike eyes that give it
+a solemn, thoughtful appearance.  It has a weird hooting call that
+sounds very ghostly.  The owl's soft, downy feathers make no sound
+as it swoops down on its victim.
+~
+10 16777216 0 W
+26 8 1 4d6+510 4d5+5
+3425 46000
+8 8 0
+13 0 15 17 13 13 0
+0 1 3
+10 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#9640
+pixie~
+a pixie~
+A pixie hovers around, spreading its magic.
+~
+This tiny creature flits around you trying to stay out of your
+reach.  She has transparent wings with silvery veins running
+through them.  Her skin is milky white, and dust shimmers from
+her body.
+~
+136 0 25 W
+14 8 1 3d6+220 3d5+5
+625 16000
+8 8 2
+13 0 13 13 13 13 0
+0 0 2
+10 0 4 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#9644
+moon dog~
+a moon dog~
+There is a moon dog here howling at the moon.
+~
+The moon dog is similar in from to a canine, and resembles a great
+wolf hound.  Its head, however, is vaguely human, and the forpaws 
+are prehensile;  the moon dog is quite capable of employing small
+items.  Its color is mottled dark gray with deeepest black predominating.
+Its eyes are amber in color.
+~
+18697 36 1000 W
+35 10 0 4d5+1320 4d5+1
+7000 68700
+6 8 1
+13 0 13 13 13 13 0
+10 2 0
+0 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#9649
+woodpecker~
+a woodpecker~
+There is a woodpecker pecking at a tree.
+~
+You see a bird with an exceptionally strong, chisel-like bill, well-suited
+for boring holes into trees.  Its neck muscles are also strong.  The pecking
+sound seems like a continuous drumming rumble.  You can see by its feet that
+it is also a climbing bird.  There are two toes in the front, and two in the
+back, to help it grasp the bark of the tree.
+~
+8 0 0 W
+20 8 1 4d5+340 5d4+5
+925 31000
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+10 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#9651
+ferret~
+a ferret~
+A ferret sits here peaking out from the brush.
+~
+You see a fierce, red-eyed, golden brown animal.  It is fourteen
+inches in length, very storng, with a powerful neck and long body.
+~
+8 32 0 W
+28 8 1 4d5+370 8d5+0
+2000 51500
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+10 0 6 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#9652
+stwinger~
+the Stwinger~
+The tiny stwinger stands nearby ready to charm you.
+~
+This tiny humanoid is only two inches tall.  The stwinger has only
+four didgets on each hand wich are very long and slender.  It has
+very long pointy ears and long pointy feet wich are pale blue in color.
+~
+264329 262184 0 W
+16 7 0 4d5+340 2d6+0
+1000 21000
+8 8 0
+13 0 13 18 13 13 0
+8 0 2
+0 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#9654
+sunfish~
+a sunfish~
+A sunfish floats lazily in the water.
+~
+You see a small flat bodied fish floating lazily in the water.
+It is egg shaped and red with an orange belly.  It has a small
+black dot by each of its gills.
+~
+16396 0 0 W
+15 5 1 4d5+330 2d6+4
+425 18500
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#9660
+catfish~
+a catfish~
+A catfish rests here on the bottom of the lake.
+~
+You see a curious-looking fish with soft whiskers around its
+mouth.  It uses its whiskers as feelers, and feeds off the 
+bottom of the lake.  This catfish looks to weight about 150
+pounds.  Its skin is soft and slimy instead of scaly.
+~
+16398 0 0 W
+28 5 1 4d5+400 5d8+0
+3675 52000
+8 8 0
+13 0 13 13 14 13 0
+0 1 0
+10 0 6 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#9661
+mouse~
+a tiny mouse~
+Scurring into the grass is a tiny mouse.
+~
+A tiny gray field mouse stares back at you.
+~
+136 262144 0 W
+13 6 1 4d5+240 3d4+0
+300 15500
+8 8 0
+11 0 13 13 13 13 0
+0 0 3
+10 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+$

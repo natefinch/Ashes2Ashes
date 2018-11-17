@@ -1,0 +1,2510 @@
+#7500
+the VIP suite~
+Wow, and you thought the deluxe suite was a room palace...this
+suite is twice that size and more.  The bed here looks like a
+triple king-size and the holo-screen television has a life-size
+projection!  The window view is great -- even though it's only a
+pseudo-holographic image of Neptune's atmosphere.  The carpet
+looks very clean and there's not even a speck of dirt on it.  As
+you look across the room, there's a man here working at a desk.
+He must be the VIP inthis room and judging by the clothes he's
+wearing, he must be a high-ranking official.
+~
+75 4104 0
+0d0+0 0 0
+D0
+~
+door doors vip suite~
+2 7569 7544
+S
+#7501
+a rocky path~
+This road is more of an obstacle than something you would walk
+on.  The large rocks block your path and the small ones trip you as
+you walk.  You are annoyed by the heat in this Martian atmosphere.
+There's nothing here but mountains, rocks, and sand.  No sign of
+life anywhere.  Heck, this place is boring as hell.  The path
+continues east.
+~
+75 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 7502
+D3
+~
+~
+0 -1 7598
+S
+#7502
+along the rocky path~
+Rocks and a lot of sand -- that's the only thing you can say to
+describe Mars.  The place is virtually a desert area.  No water, no 
+plant life...  You wonder how life could have started on a planet
+filled with inorganic matter.  The path continues east.
+~
+75 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 7503
+D3
+~
+~
+0 -1 7501
+S
+#7503
+end of the rocky path~
+*Phew*  The heat is merciless.  Luckily for you, the rocky path
+ends here.  Your feet are sore from having to step on rocks and
+tripping over them.  You are sweating profusely and was about to
+faint if you had to go any further.  There's a sign here, posted
+on a large wooden stake.
+A large sign is posted here...(GLOWING)
+~
+75 4 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 7504
+D3
+~
+~
+0 -1 7502
+D6
+~
+~
+0 -1 7509
+E
+sign post stake ~
+*  Hello Outworlder, please go SOUTH of here to visit our mineral
+   mines.  The Overseers will tend to your needs.
+
+*  WARNING!  PLEASE DO NOT GO NORTHEAST OF HERE!  THOSE MINES
+   ARE UNEXPLORED AREAS.  WE WILL NOT BE HELD ACCOUNTABLE IF
+   YOU CHOSE TO GO THERE.
+~
+S
+#7504
+the Martian mining camp~
+The camp here is nicely set up.  This place looks more like a
+small town than a mining camp.  The Overseers greet you with open
+arms as you walk into their campsite.  They are here to show you
+how they mine their precious minerals.  You are amazed by the light
+that's being emitted from those caves.  There must be tons of raw
+minerals that have not been mined.  You wonder to yourself, who's
+mining these precious gems and stones.  And to your surprise, the
+"civilize" Martians actually uses slave labor to mine their
+minerals.  However, they don't seem to care what the people from
+the other worlds think of their "employment" system.  You can go
+back from where you came if you don't like to see people 
+suffering.  The mining camps are directly south of here if you
+want to continue your "pleasure" tour.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7503
+D2
+~
+~
+0 -1 7505
+S
+#7505
+the Martian slave mines~
+Slaves are everywhere in this cramped mine.  You can see the Overseers
+whipping these poor workers.  You are disgusted by the bloody whips
+that the Overseers are wielding.  This is no pleasure tour at all.
+the workers here will die very soon from exhaustion and the constant
+beating.  There are more mine areas to the east.
+~
+75 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7504
+D1
+~
+~
+0 -1 7506
+S
+#7506
+more Martian slave mines~
+You can sense more pain, more suffering as the slaves here are
+being forced to work day and night for their masters.  The
+Overseers would not allow any slave to stop their labor unless
+he/she dies.  The large precious stones are being hauled by
+the truckload.  It's beginning to get harder to breath because of
+this cramped space.  There are more mines south and west of here.
+~
+75 264 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 7508
+D3
+~
+~
+0 -1 7505
+S
+#7507
+the slave quarters~
+It smells very bad in here.  No, it's not the smell you expect
+from not taking a shower in a week.  It's more like the smell of
+rotting corpses and fecal matter combined.  Most of the slaves 
+here are either dead or half-dead.  There's a slave doctor here
+that can only give minimal care for each worker. 
+~
+75 264 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 7508
+S
+#7508
+more Martian slave mines~
+The slaves are working hard just to stay alive for another day.
+The Overseers are relentless in their efforts to push the
+slaves to mine more minerals.  You can hear the moaning and the
+cries of endless pain from the slaves.  
+~
+75 264 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7506
+D3
+~
+~
+0 -1 7507
+S
+#7509
+an unexplored Martian area~
+You're walking on a path where no Martian has gone before.  What
+the heck do you think you're doing, you ask yourself.  There's
+nothing different about this path from the rocky path that you
+came from.  But there's darkness ahead of you if you want to go
+any further Northeast of here.  Are you willing to risk your life
+for foolish curiosity?
+~
+75 0 11
+0d0+0 0 0
+D6
+~
+~
+0 -1 7510
+D9
+~
+~
+0 -1 7503
+S
+#7510
+along a dark, unexplored path~
+Where's the light?  The tall mountains here have just covered any
+light that will help you see your way around.  It's total 
+darkness everywhere.  Even if you had a light-source with you,
+there's no way you can see what's ahead of you!
+~
+75 1 11
+0d0+0 0 0
+D6
+~
+~
+0 -1 7511
+D9
+~
+~
+0 -1 7509
+S
+#7511
+further along a dark, unexplored path~
+You sense danger everywhere!  Something is moving in the
+darkness.  It sounds like an animal of some sort...  But here, on
+Mars, no way...right?  Something horrible is definitely hiding
+in the darkness and it sounds like it's about to attack!  You
+wish you knew what you are up against but this beast is nowhere
+to be seen.  Even your artificial light can't sense it's presence.
+Time to RUN!!!
+~
+75 1 11
+0d0+0 0 0
+D6
+~
+~
+0 -1 7512
+D9
+~
+~
+0 -1 7510
+S
+#7512
+an underground Martian cave~
+You're in a dark, dark cave.  It's darker than the path outside.
+You can sense something is moving in this darkness.  There's life
+in this cave...  Glowing eyes are everywhere as you walk inside this
+large, unexplored cave.  You can see a path that's slanted 
+downwards -- it'll take you deeper and deeper into the unknown.
+~
+75 265 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 7513
+D9
+~
+~
+0 -1 7511
+S
+#7513
+further into the Martian cave~
+Egads!  Something just passed by your legs.  It feels like a
+large furry rodent and sounds like an angry lion.  This doesn't
+look good...  You sense you will be attacked before you can go
+any further into the cave.  If you're smart, it would be wise to
+go back.  The dark and dangerous path continues downward sloping.
+~
+75 265 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 7512
+D5
+~
+~
+0 -1 7514
+S
+#7514
+deeper into the Martian cave~
+You're beginning to get cramps on your legs from all that walking.
+You can feel your bruises bleeding from tripping on rocks.  The
+hostile lifeforms in this cave is constantly trying to kill you
+for food.  You sense that your journey will come to an end very
+soon.  The path continues downwards.
+~
+75 265 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 7513
+D5
+~
+~
+0 -1 7515
+S
+#7515
+the deepest region of the Martian Cave~
+The path doesn't seem to slope downwards any more.  There's no
+turning back now...  Your entrance from whence you came is too
+far away and you would have to fight off those hungry creatures.
+Suddenly, you hear a very loud sound coming from the north.  It
+sounds like dynamite exploding.  There's a lot of activities 
+going on in the northern section of this cave.  It doesn't sound
+like any primitive animals.  It sounds more like people mining
+down here...how could that be?  This mine is suppose to be 
+unexplored?  The Martian cave continues north.
+~
+75 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7516
+D4
+~
+~
+0 -1 7514
+S
+#7516
+an underground mining camp~
+Still there is darkness but your eyes are beginning to get
+adjusted to it.  You can see the sparks coming from mining
+equipments but you can't see who's operating them.  Then
+suddenly, one of the miners detect your presence!  He turns his
+head and removes his mask...ackkk!!!  He is no Martian, he
+doesn't have green skin.  They must be the subterranean 
+ancestors of the Martians -- the Dalaxians.  Watch Out!  They're
+dangerous!  Unlike the surface Martians, the Dalaxians are
+borned evil.  Go back before they attack!  There's a large
+tent to the north of here.
+~
+75 265 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7517
+D2
+~
+~
+0 -1 7515
+S
+#7517
+inside a large tent~
+Unlike the surface Martians, the Dalaxians do not require light
+to accomplish their tasks.  As you walk into this large tent, you
+can hear the Dalaxians talking.  They're planning on some kind of
+project.  This must be the plan room for their operations.  Hmmm,
+what could they be planning? -- you think to yourself -- too bad
+you don't understand Dalaxian...
+The Dalaxians that surround the table look important.  One of 
+them is really BIG and the other wears some nice, fancy clothes.
+~
+75 265 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 7516
+S
+#7518
+the RESTRICTED area of Mars~
+There are two reasons why you would enter this area -- because 
+you're stupid or you have a deathwish.  THis is the path to the
+royal palace.  No one is allowed to walk on this road and now,
+you would be treated as an assassin trying to harm the emperor.
+You can see the Martian guards surround you, blocking you from 
+going any further.  They don't look nice.  They're pointing their
+rayguns right at you.  You're in BIG trouble, sport.  The Restricted
+path continues south.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7598
+D2
+~
+~
+0 -1 7519
+S
+#7519
+along the Restricted path~
+This path is unlike all the other roads on Mars.  It's more paved
+and even.  There are no large rocks that'll block your path and
+no stones that you can trip on.  This road was made for a king.
+Guards are on your tail.  You may be able to kill one or two but
+what can you do against an entire Martian army?  Every guard you
+pass, they will try to attack you.  They only way to escape them
+is to run.  Run to your destination where ever that may be.
+This path continues south.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7518
+D2
+~
+~
+0 -1 7520
+S
+#7520
+an intersection of two roads~
+You've survived the onslaught of the Martian army but they're 
+still coming.  There's no sanctuary here that'll protect you.
+There are two roads that you can take.  The road to your west
+will take you to a military base and the one to your south will
+lead you towards the fortified royal palace.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7519
+D2
+~
+~
+0 -1 7527
+D3
+~
+~
+0 -1 7521
+S
+#7521
+a path leading to the grand Martian military base~
+The path is paved and even just like the rest of the roads here
+in the southern part of the Martian City.  You're headed towards
+a military base where there are soldiers everywhere.  To protect
+their military secrets they will do anything to stop you.  If you
+make it to the base, the military attack force will find you and
+execute you immediately.  The path to the military base continues
+west of here.
+~
+75 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 7520
+D3
+~
+~
+0 -1 7522
+S
+#7522
+a path to the Martian military base~
+You're getting closer to the large military base.  You can see
+hundreds of green-skin Martians training their butts off.  You
+can see strange aerial crafts flying high above you.  There are
+large strange-looking terrain vehicles moving in and out of the 
+base.  To your west, you can see several guards at a distance.  
+They're obviously guarding the entrance to the top-secret military
+base.  Watch out!  They look hostile.
+~
+75 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 7521
+D3
+~
+~
+0 -1 7524
+S
+#7523
+inside the top-secret Martian military base~
+This base is HUGE!  Everywhere you look, there are strange
+armored vehicles moving around the base.  Saucer-like attack jets
+zoom pass you in an amazing speed.  This is like nothing you have
+seen before.  The Martian technology is centuries beyond our own.
+You can hear the alarms go off as you walk across this vast
+military base.  "Shoot to Kill!  Shoot to Kill!"  were the only
+words you can make out from the alarm.  To the south, there's a
+military training field.
+~
+75 2048 1
+0d0+0 0 0
+D1
+~
+gate gates door doors wall walls~
+2 7527 7524
+D2
+~
+~
+0 -1 7525
+S
+#7524
+the entrance to the Martian military base~
+There are five guards here...pointing their rayguns right at you!
+They're about to shoot you down if you don't run away quickly
+enough.  The guards look highly trained similar to the royal guards
+of Emporer Lars.  All of the soldiers here on Mars have been
+trained here on this top-secret base.  The base is surrounded by
+an invisible force field that nothing can penetrate.  The entire
+camp is packed with new and old recruits.  They are all armed and
+geared up for some reason...
+There's an invisible gate to the west that only the guards can
+open...and they don't seem to want to open it for you.
+~
+75 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 7522
+D3
+~
+gate gates door doors wall walls~
+2 7527 7523
+S
+#7525
+the military training field~
+You're on a large training field.  There are Martian cadets here
+on extensive training.  You can see the shooting range where 
+soldiers practice their aim with a raygun.  There's a big, ugly
+Martian standing in the middle of the field.  He looks like 
+someone of high ranking because of all that brass he's wearing.
+He's screaming and shouting at the poor cadets for making 
+mistakes.  To your east, you see a Martian holding cell.
+~
+75 2048 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 7523
+D1
+~
+~
+0 -1 7526
+S
+#7526
+the Martian holding cell~
+So this is the place where the Martians keep their war prisoners.
+Some of these prisoners are their own soldiers who went AWOL. 
+There are cell blocks everywhere you look.  This fortress is much
+larger than Folsom Prison.  You can see the high-tech security 
+cameras zooming back and forth, making sure that no prisoners is
+trying to escape.  To your south, there's a large holding cell...eh,
+those people inside don't look like any Martians to you...  
+~
+75 2056 0
+0d0+0 0 0
+D2
+~
+jail gate gates door doors~
+2 7536 7542
+D3
+~
+~
+0 -1 7525
+S
+#7527
+further along the Restricted path~
+You can hear the footsteps of soldiers hunting you down.  You're 
+now a fugitive trying to find a safe hiding place.  There's 
+really nowhere to run unless you go back to the city which is
+south of here.  You have already been shot several times and 
+luckily your armor has saved you.  This restricted path continues
+north.  You can see a large, grand castle at a distance.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7520
+D2
+~
+~
+0 -1 7528
+S
+#7528
+End of the Restricted path~
+The castle to your east is unlike what you've seen on Earth.  It's
+like a comic book dream...the castle isn't made of stone, clay,
+cement, or steel girders.  This castle looks like it's entirely
+covered in a red-metallic paint.  You can't describe the shape
+of this massive structure -- it doesn't look like any castle made
+on Earth.  To your east, uh-oh, more guards.  Oh well, you didn't
+think you can just waltz into the castle without some resistance, no?
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7527
+D1
+~
+~
+0 -1 7529
+S
+#7529
+Fortification -- security wall lvl.1~
+You come to a complete halt.  There's a security wall that blocks
+you from going any further east of here.  Trained guards are
+read to take you down if you try anything funny.  Scaling the 
+wall will do you no good.  There's no other way to get pass the 
+guards and enter the castle undetected.  Remember this is only the
+1st level security wall...who knows how many walls lies beyond
+this one?
+~
+75 0 1
+0d0+0 0 0
+D1
+~
+wall door 1st doors walls~
+2 7530 7530
+D3
+~
+~
+0 -1 7528
+S
+#7530
+Fortification -- security wall lvl.2~
+The level 2 security wall looks much taller and stronger than the
+previous wall.  There are more guards here...  You feel you're
+getting closer and closer to the Martian emperor.  The guards here
+are beginning to get hostile.  They have orders to kill any strangers
+who has passed the first wall.
+~
+75 12288 1
+0d0+0 0 0
+D1
+~
+wall door doors walls gate gates~
+2 7505 7531
+D3
+~
+wall~
+1 7530 7529
+S
+#7531
+Fortification -- security wall lvl.3~
+You're about to faint from the loss of blood during all that 
+fighting.  The Martians have inflicted some serious wounds on
+you.  Their powerful rayguns have proved effective against
+even the strongest of armored battle-gear.  Too bad, they're
+not going to give you time to rest...the guardians of this
+passageway have just sense your presence and are about to attack.
+~
+75 12288 1
+0d0+0 0 0
+D1
+~
+wall walls gates gate door doors~
+2 7510 7532
+D3
+~
+wall~
+1 7505 7530
+S
+#7532
+Fortification -- security wall lvl.4~
+Is this the last wall of defense?  Are there more to come?  Who
+knows -- maybe the wealth in that castle is worth all this 
+trouble and MORE.  There doesn't seem to be as many guards here
+as the previous walls.  However, there's a guard here that's
+twice the size of an average Martian.  He looks at you and smirks.
+He pulls out his blaster and points it at you.  Then a voice
+comes out from the giant's mouth, 'Do you feel lucky or do you,
+punk?'
+~
+75 12288 1
+0d0+0 0 0
+D1
+~
+wall walls gates gate door doors~
+2 7515 7533
+D3
+~
+wall~
+1 7510 7531
+S
+#7533
+the entrance to the Martian Castle~
+Look at the size of those doors!  They're made from some kind of
+precious metal.  Those engraved sculptures on the door must have
+took years to finish.  The large sapphire jewels that are studded
+to these doors must cost millions of dollars.  The door looks
+unlocked -- heh, those Martians must have thought that no one could
+penetrate their defense walls.
+~
+75 12288 1
+0d0+0 0 0
+D1
+~
+door doors ~
+1 -1 7534
+D3
+~
+wall~
+1 7515 7532
+S
+#7534
+inside the Martian Castle~
+Wow!  This place is more glamourous than the Hilton Hotel.  The
+floor is made of blue marble stones and the walls are covered
+with murals.  This room is just huge and very well lit.  Those
+stained glass windows down the halls are just magnificent.  This
+place looks more like a museum than just a palace for a king.
+There is a hallway that stretches north and south of here.
+~
+75 12296 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7535
+D2
+~
+~
+0 -1 7538
+D3
+~
+door doors~
+1 -1 7533
+S
+#7535
+a hallway to the northern section~
+As you walk further north of this grand castle, your eyes stayed
+with the long mural on the wall.  It depicts a glorious battle
+between the royal Martian army and the Saturnian invaders.  The
+painting is absolutely exquisite.  The hallway continues further
+north of here.
+~
+75 12296 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7536
+D2
+~
+~
+0 -1 7534
+S
+#7536
+end of the northern section~
+Finally, the hallway ends here.  There's a large soldier here 
+blocking a door that'll take you east of here.  He's drinking a
+bottle of vintage Martian sauce and seems unaware of your 
+presence.  He looks armed and ready to shoot if there's any
+trouble.  Maybe it will be wise for you to turn back now before
+he senses you and sounds the alarm.
+~
+75 12296 0
+0d0+0 0 0
+D1
+~
+door doors treasure treasures room~
+2 7519 7537
+D2
+~
+~
+0 -1 7535
+S
+#7537
+the Emperor's treasure room~
+Oh my God!  The wealth in this room is unimaginable.  So much
+gold everywhere!  It's a shame you don't have a truck here to
+haul all the gold back to Earth.  Might as well just leave it
+here and take the lighter stuff...remember, you might still have
+to fight your way out of here!  Look inside that chest in the 
+center of the room.  It looks like it contains something that's
+quite important...
+~
+75 12296 0
+0d0+0 0 0
+D3
+~
+door doors treasure treasures room~
+2 7519 7536
+S
+#7538
+the hallway to the southern section~
+The entire castle is just amazing.  The engineer who designed
+this castle must have been proud of himself.  The mural on the
+wall is painted all the way down this hallway.  The southern
+section continues south of here.
+~
+75 12296 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7534
+D2
+~
+~
+0 -1 7539
+S
+#7539
+end of the southern section~
+The southern section of the Martian Castle ends here.  You feel
+like you're just completed a tour in a grand museum.  The
+artifact showcase and the murals are all reminders of the
+Martian's glorious history.  There's a large spiral staircase
+that'll take you to the second floor.
+~
+75 12296 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7538
+D4
+~
+~
+0 -1 7540
+S
+#7540
+the hallway to the Throne Room~
+You feel you're getting closer and closer to the Emperor.  You
+can sense something is looking at you...it could be a security
+camera or maybe it's a Martian hound.  You begin to sweat 
+prefusely as you continue your journey to find the King.  The
+hallway continues west of here.
+~
+75 12296 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 7541
+D5
+~
+~
+0 -1 7539
+S
+#7541
+futher along the hallway~
+You are walking closer to the throne room and so far, you have 
+not been stopped by any guards -- yet.  Is this some sort of 
+a deathtrap?  Maybe you should just turn back now before it's
+too late...dying here is not a good idea...
+~
+75 12296 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 7540
+D3
+~
+~
+0 -1 7543
+S
+#7542
+a detainment cell~
+What's this??!!  American in a Martian holding cell?  Didn't we
+have a treaty accord with Mars?  The American prisoners here 
+have all been detained for petty crimes and the suspicion of
+trying to spy on Martian military secrets.  You can see the  
+bruises and the whip marks from the torture and beating they
+sustain from the bloodthirsty Martians.  There are no exits out
+of here except the one you came in from.
+~
+75 2056 0
+0d0+0 0 0
+D0
+~
+jail door doors gate gates~
+2 7536 7526
+S
+#7543
+further along the hallway~
+Man, will this hallway ever end?  So far, there are still no
+guards here to stop you.  What are those devious Martians
+planning?  They must be setting up a trap, you think to yourself,
+better get out those recall scrolls just in case.  The hallway
+continues west of here.
+~
+75 12296 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 7541
+D3
+~
+~
+0 -1 7546
+S
+#7544
+A Martian Motel 6~
+This motel looks well-maintained and quite suitable for your
+taste.  There's a little fat Martian fellow here that looks to  
+be in charge of this motel.  He smiles at you and quickly offers
+you a great deal on their deluxe suites.  The rates aren't that
+bad, in fact, they're only 1/6 of what you would expect to pay on
+Earth.  There's also free cable channels from Earth as well as
+the channels from three other planets.  The room service is 
+twenty-four hours and the bedding is changed daily.  Maybe you
+ought to stay for a while to rest yourself.
+~
+75 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7575
+D2
+~
+door doors vip suite ~
+2 7569 7500
+S
+#7545
+the Martian Throne Room of Emperor Lars~
+Oh No!  You made a big mistake!  This is not the throne room of
+Lars...it's one of his many traps that he has set upon you.  The
+four walls are beginning to close in on you.  As you wait for
+your inevitable demise you hear a loud laughing sound.  Someone's
+laughing at you from above another staircase.  You're too slow
+to reach there because the walls have already begin to crush you.
+Maybe, just maybe, with your superb armor and your will to
+survive...you may be able to live through this and get to that
+staircase to confront the man who's trying to kill you.
+~
+75 28682 0
+1d1+199 90 0
+D4
+~
+~
+0 -1 7548
+S
+#7546
+the hallway ends here!~
+AAACCCKKK!!!  There is a door in all directions.  What kind of
+trick is this?  What's Lars planning to do here?  Hmmm, is this
+some sort of a trap?  Emperor Lars is well-knowned for his shrewd  
+tactics against his enemies...  The other doors look plain compare
+to the WEST door -- but the NORTH door has Martian words on it
+that makes it look important.  If you don't want to make a choice
+you can always turn back now.
+~
+75 12296 0
+0d0+0 0 0
+D0
+You sense there's danger through this door!
+~
+north ndoor northdoor n~
+1 -1 7547
+D1
+~
+~
+0 -1 7543
+D2
+You sense there's danger through this door!
+~
+south sdoor southdoor s~
+1 -1 7547
+D3
+You sense there's danger through this door!
+~
+west westdoor wdoor w~
+1 -1 7547
+D4
+You sense there's danger through this door!
+~
+up udoor updoor u~
+1 -1 7547
+D5
+You sense there's danger through this door!
+~
+down ddoor downdoor d~
+1 -1 7547
+D6
+You sense there's danger through this door!
+~
+northeast northeastdoor nedoor ne~
+1 -1 7547
+D7
+You sense there's danger through this door!
+~
+northwest northwestdoor nwdoor nw~
+1 -1 7547
+D8
+You sense there's danger through this door but something tells
+you this room could lead you to the One you are looking for...
+~
+southeast southeastdoor sedoor se~
+1 -1 7545
+D9
+You sense there's danger through this door!
+~
+southwest southwestdoor swdoor sw~
+1 -1 7547
+S
+#7547
+the Martian Throne Room of Emperor Lars~
+Yikes!!!  As you walk into this room the door slams shut from
+behind.  You're trapped and the four walls are closing in on you.
+There's nowhere to run...you will die in a matter of seconds...
+say your prayers, fool!
+** If you are lucky to have survive this clever deathtrap then
+you are worthy to live according to Emperor Lars.  The Emperor
+admires a strong, powerful adversary.  You must go back to your
+own planet and never ever set foot on Mars again!
+~
+75 24590 0
+1d1+199 90 0
+D5
+~
+~
+0 -1 3001
+S
+#7548
+the Martian Throne Room of Emperor Lars~
+You're tire, hurt, and confuse.  Emperor Lars' clever trap has 
+worked perfectly.  You are lucky to reach into the actual throne
+room of the Martian Emperor...but so what?  Do you actually 
+believe you can hurt the Emperor?  Lars has fought countless 
+battles against tougher oppositions.  He has single-handedly 
+defeated a small army with his powerful weapon -- the atomic
+deathray.  No one, no man has ever defeated this conqueror-lord
+and not even you, with your superb armor and weapon, can't hurt
+him.
+The Emperor's wife is sitting next to him.  She's Empress Shalla
+and boy, she's quite attractive! 
+~
+75 12296 0
+0d0+0 0 0
+D3
+~
+door doors treasure room~
+2 7571 7549
+D5
+~
+~
+0 -1 7545
+S
+#7549
+the Secret Treasure Room of Emperor Lars~
+Gold, silver, rare metals, precious emeralds and jewels --
+everywhere in this room!  The wealth in this room is incredible.
+There's enough wealth in this boom to buy Canada and all of South
+America.  Lars must have made a substantial profit from this 
+tourist deal with the Outworlders.  There's a treasure chest in
+the corner of this room that's locked.  Hmmm, you think to 
+yourself, who's got the key?
+~
+75 12296 0
+0d0+0 0 0
+D1
+~
+door doors treasure room~
+2 7571 7548
+S
+#7550
+the Martian dune~
+A lot of sand, rock, and mountains -- those are the only things
+you'll find out here in the Martian dune.  What else do you expect
+to find here, you fool?  This area of Mars is an unexplored territory
+-- who knows what could be lurking around the desertland.  Plus there
+are countless sandtraps in this area and many explorers have been
+known to be lost here.  You might want to think twice before going
+any further.  There's a path in all directions.  Good luck on finding
+something, whatever that may be.
+~
+75 4 10
+0d0+0 0 0
+D0
+~
+~
+0 -1 7597
+D1
+~
+~
+0 -1 7598
+D2
+~
+~
+0 -1 7597
+D3
+~
+~
+0 -1 7551
+D6
+~
+~
+0 -1 7597
+D7
+~
+~
+0 -1 7597
+D8
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D9
+There's a sandtrap there that'll swallow you up!
+~
+~
+0 -1 7560
+S
+#7551
+the Martian dune~
+There's nothing here, no wind blowing sand at your face and no
+little critters crawling on your feet.  There's no sign of life
+anywhere on this area of Mars.
+~
+75 0 10
+0d0+0 0 0
+D0
+There's a sandtrap that'll swallow you up!
+~
+north n~
+0 -1 7560
+D1
+~
+~
+0 -1 7550
+D2
+~
+~
+0 -1 7597
+D3
+~
+~
+0 -1 7552
+D6
+~
+~
+0 -1 7597
+D7
+There's a sandtrap that'll swallow you up! 
+~
+~
+0 -1 7560
+D8
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D9
+~
+~
+0 -1 7597
+E
+north n~
+There's a sandtrap there ready to swallow you up!
+~
+S
+#7552
+the Martian dune~
+There's nothing here, no wind blowing sand at your face and no
+little critters crawling on your feet.  There's no sign of life
+anywhere on this area of Mars.
+~
+75 0 10
+0d0+0 0 0
+D0
+~
+~
+0 -1 7556
+D1
+~
+~
+0 -1 7551
+D2
+~
+~
+0 -1 7553
+D3
+There's a sandtrap that'll swallow you up!
+~
+west w~
+0 -1 7560
+D6
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D7
+~
+~
+0 -1 7597
+D8
+~
+~
+0 -1 7597
+D9
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+E
+west w~
+There's a sandtrap there that'll swall you up!
+~
+S
+#7553
+the Martian dune~
+There's nothing here, no wind blowing sand at your face and no
+little critters crawling on your feet.  There's no sign of life
+anywhere on this area of Mars.
+~
+75 0 10
+0d0+0 0 0
+D0
+~
+~
+0 -1 7552
+D1
+There's a sandtrap that'll swallow you up!
+~
+east e~
+0 -1 7560
+D2
+~
+~
+0 -1 7597
+D3
+~
+~
+0 -1 7597
+D6
+~
+~
+0 -1 7597
+D7
+~
+~
+0 -1 7597
+D8
+~
+~
+0 -1 7555
+D9
+~
+~
+0 -1 7585
+E
+east e~
+There's a sandtrap that'll swallow you up!
+~
+S
+#7554
+the Martian dune~
+Uh-oh!  A large creature has just block your path and it doesn't
+look friendly.  It has razor-sharp tentacles and a skin that
+looks pretty tough to penetrate.  It has sharp metal plates on
+its back and a tail that's protected by long spikes.  The beast
+is huge, about 10' tall and he looks as though he hasn't eaten in
+months.  You can sense the creature is looking right at you --
+there's a small puddle of drool from where it's standing.  It
+looks like it's dinner time for the creature.
+~
+75 0 10
+0d0+0 0 0
+D0
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D1
+~
+~
+0 -1 7596
+D2
+There's a sandtrap that'll swallow you up!
+~
+south s~
+0 -1 7560
+D3
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D6
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D7
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D8
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D9
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+E
+south s~
+There's a sandtrap there that'll swallow you up!
+~
+S
+#7555
+the Martian dune~
+There's nothing here, no wind blowing sand at your face and no 
+little critters crawling on your feet. There's no sign of life 
+anywhere on this area of Mars.
+Suddenly, you feel vibrations beneath you.  There's something
+living underground...but what?
+~
+75 0 10
+0d0+0 0 0
+D0
+There's a sandtrap that'll swallow you up!
+~
+north n~
+0 -1 7560
+D1
+~
+~
+0 -1 7597
+D2
+There's a sandtrap that'll swallow you up!
+~
+south s~
+0 -1 7560
+D3
+~
+~
+0 -1 7597
+D6
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D7
+~
+~
+0 -1 7553
+D8
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D9
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+E
+south s~
+There's a sandtrap there that'll swallow you up!
+~
+E
+north n~
+There's a sandtrap there that'll swallow you up!
+~
+S
+#7556
+the Martian dune~
+There's nothing here, no wind blowing sand at your face and no
+little critters crawling on your feet.  There's no sign of life
+anywhere on this area of Mars.
+~
+75 0 10
+0d0+0 0 0
+D0
+There's a sandtrap that'll swallow you up!
+~
+north n~
+0 -1 7560
+D1
+~
+~
+0 -1 7597
+D2
+~
+~
+0 -1 7552
+D3
+~
+~
+0 -1 7597
+D6
+~
+~
+0 -1 7557
+D7
+~
+~
+0 -1 7558
+D8
+~
+~
+0 -1 7597
+D9
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+S
+#7557
+the Martian dune~
+You're tire and thirsty from all that walk across the dune.  You
+feel like you're about to faint from the fatigue.  As you walk
+further into this desertland, you notice a traveler from a
+distance.  Could this be a mirage?
+~
+75 0 10
+0d0+0 0 0
+D0
+~
+~
+0 -1 7597
+D1
+~
+~
+0 -1 7597
+D2
+There's a sandtrap that'll swallow you up!
+~
+south s~
+0 -1 7560
+D3
+~
+~
+0 -1 7597
+D6
+There's a sandtrap there that'll swallow you up!
+~
+~
+0 -1 7560
+D7
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D8
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D9
+~
+~
+0 -1 7556
+E
+south s~
+There's a sandtrap that'll swallow you up!
+~
+S
+#7558
+the Martian dune~
+There's nothing here, no wind blowing sand to your face and no
+little critters crawling on your feet.  There's no sign of life
+anywhere on this area of Mars.  However, at a distance, you can
+see a small hut northwest of here.  Maybe there's someone living
+in there.
+~
+75 0 10
+0d0+0 0 0
+D0
+~
+~
+0 -1 7597
+D1
+~
+~
+0 -1 7551
+D2
+~
+~
+0 -1 7551
+D3
+There's a sandtrap that'll swallow you up!
+~
+west w~
+0 -1 7560
+D6
+There's a sandtrap that'll swallow you up!
+~
+~
+0 -1 7560
+D7
+~
+~
+0 -1 7559
+D8
+~
+~
+0 -1 7556
+D9
+~
+~
+0 -1 7597
+S
+#7559
+a small hut~
+As you walk into this hut, a dark, husky Martian places his
+sword at your neck.  He asks you, 'Who are you?  What's your
+business here?'  As you begin answering his questions, you notice
+how this room is stocked with food and water that could last for
+years.  This Martian is probably some hermit hiding away from
+civilization.  He must be an expert fighter because he carries a
+sword rather than a phaser or a disruptor.  The Martian is 
+wearing a lot of armor as though he's planning a war of some 
+sort.  You can feel the blood trickling down your hands as he
+presses his sword closer and closer to your throat.  This would
+be a great time to break away and flee!
+~
+75 14344 0
+0d0+0 0 0
+D8
+~
+~
+0 -1 7558
+S
+#7560
+the Martian dune~
+Your journey seems endless...everywhere you look there are sand,
+rocks and mountains.  Egads!  Suddenly you feel something is 
+pulling you underground.  You're being swallow up by a sandtrap!
+You can't run or move.  You scream for help but there's no one
+here that can save you.  The sandtrap is quickly engulfing you...
+you begin to faint into unconsciousness...
+
+Sorry, Outworlder, your journey ends here.
+
+~
+75 16390 10
+1d1+199 90 0
+D5
+~
+~
+0 -1 3001
+S
+#7561
+the road to the Martian City~
+The road to the Martian City stretches all the way north.  You
+can see travelers and merchants bringing their precious cargoes
+to the city to sell and trade.  Everyone here looks happy and 
+busy with their activities.  As you walk towards the city you can
+hear from a distance, the busy merchants and traders dealing with
+their customers.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7562
+D2
+~
+~
+0 -1 7598
+S
+#7562
+along the road to the Martian City~
+There are a lot of activities going on in the city.  Even on the
+path to the city, there are traders here trying to sell you some 
+of their goods.  You can hear the float-carts passing you by as
+they haul a new shipment of goods.  The Martian police are here
+constantly waving and saying, 'Good day, sir, shop well.'
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7563
+D2
+~
+~
+0 -1 7561
+S
+#7563
+not far from the Martian City~
+The Martians are really an amazing race.  They seem to have a
+solution for all problems like world hunger, overpopulation, the
+distribution of wealth, prejudice, and the many other problems
+that have plagued our planet Earth.  Emperor Lars of Mars is 
+really the man responsible for all this prosperity -- he should
+be given TEN noble peace prizes for his contributions to Mars.
+The Martian City is not far from the point where you are standing.
+You can see the tall buildings and the monuments cluster together
+like a patch of weed on hard soil.  The entire city is protected
+by a strong steel-thick wall.  There's no way for invaders such
+as the Saturnians or the Dalaxians to break through the city walls.
+The Martian City is also well guarded by trained soldiers and
+policemen so even if the invaders manage to break through the
+tough barrier, they would have to face these Martian defenders.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7564
+D2
+~
+~
+0 -1 7562
+S
+#7564
+the gates to the Martian City~
+You've arrived at the main gates to the city.  There are two large
+sentinel guards here frisking anyone who wants to pass through
+the gates.  One of guards tells you, 'Good day, Outworlder, mind
+if I search you?  It'll only take a minute.'  You were smart to
+have hidden your weapon before you've reached the city gates...
+the guards would've incarcerated you and thrown you into a Martian
+prison.  Finally the guard has finish his search.  He says, 'Enjoy
+your stay here, shop well.'  The marketplace is north of where 
+you are standing.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7567
+D2
+~
+~
+0 -1 7563
+S
+#7565
+the marketplace in the Martian City~
+There is a lot of activities going on in this market.  You can
+see merchants and traders scampering back and forth trying to
+make a deal with customers.  There are little Martian children
+here running down the streets playing tag.  The city always seems
+to be so lively everywhere you go.  The marketplace continues
+north and east of here.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7580
+D1
+~
+~
+0 -1 7566
+S
+#7566
+the marketplace in the Martian City~
+As you walk around this marketplace trying to figure out where
+you are, you notice a Martian bar to your north.  Hmmm,  this
+would be a good time for a brewsky, you think to yourself.
+You've been walking in the city for hours, you must feel a little
+tire and thirsty.  The marketplace continues east and west.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7587
+D1
+~
+~
+0 -1 7567
+D3
+~
+~
+0 -1 7565
+S
+#7567
+Welcome to the Martian City!~
+So this is the Martian City, it's everything you've expected and 
+more.  The streets are crowded with merchants and traders.  You
+can hear the loud auctioning of goods between customers and 
+sellers.  There are hovering passenger buses flying over your
+head and Martian policeman with jet-packs patrolling the city
+from the sky.  You can see buildings and shops everywhere in the
+city.  Aggressive merchants constantly pull you toward their 
+shops to solicit their goods.  The busy marketplace continues 
+east and west of here.  There's a nice Martian restaurant to your
+north -- go there and try their exotic cuisine.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7588
+D1
+~
+~
+0 -1 7568
+D2
+~
+~
+0 -1 7564
+D3
+~
+~
+0 -1 7566
+S
+#7568
+the marketplace in the Martian City~
+The streets are much too crowded.  The merchants are trying to 
+solicit you and the rest are just bumping and pushing at you.
+There's a convience store to the north of here.  Maybe going in
+there will get you away from all this pushing and shoving.  The
+marketplace continues east and west of here.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7581
+D1
+~
+~
+0 -1 7569
+D3
+~
+~
+0 -1 7567
+S
+#7569
+the marketplace in the Martian City~
+There are dealers and merchants here setting up their shops on
+the both sides of the road.  You can see the other tourists
+looking around this city with fascination.  It seems all the
+tourists here have a camera and a lot of cash to spend.  The
+marketplace continues north and west of here.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7570
+D3
+~
+~
+0 -1 7568
+S
+#7570
+the marketplace in the Martian City~
+As you walk along the streets of the Martian City you notice that
+everyone here seems happy.  And why shouldn't they be happy?
+There are rarely any crimes in the city and the tax rate here is
+nil.  That means the items sold here are not taxed and the 
+citizens of Mars do not have to pay a dime to the government.
+Don't you wish you could live here on Mars?
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7571
+D2
+~
+~
+0 -1 7569
+S
+#7571
+the marketplace in the Martian City~
+You're walking towards the northern area of this large city and
+so far, you find Mars to be everything you dreamed of.  The 
+buildings are so well constructed and it's nothing like anything
+you seen on Earth.  As you walk further north, you notice an
+antique shop to your west.  It would be a great place to go if
+you want to buy a souvenir.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7572
+D2
+~
+~
+0 -1 7570
+D3
+~
+~
+0 -1 7582
+S
+#7572
+the marketplace in the Martian City~
+You're on the northwestern section of the Martian City.  The
+streets are still crowded with merchants, traders, tourist, etc.
+Everywhere you look there's a business transaction of some sort
+happening.  The marketplace continues north and south of here.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7573
+D2
+~
+~
+0 -1 7571
+S
+#7573
+the marketplace in the Martian City~
+The streets of this city are well-paved for walking but still
+you're getting tired from the long walk.  There's a hotel close
+to your location, maybe you should check-in there and head back
+home in the morning.  The marketplace continues west and south.
+~
+75 0 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 7572
+D3
+~
+~
+0 -1 7574
+S
+#7574
+the marketplace in the Martian City~
+As you walk towards this area of the city, you notice a shop
+south of here.  It looks like an appliance store which sells
+state-of-the-art home appliances.  The items displayed at the
+shop's window look like a good deal and plus you can't find 
+anything like those on Earth.  The marketplace continues east 
+and west of here.
+~
+75 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 7573
+D2
+~
+~
+0 -1 7583
+D3
+~
+~
+0 -1 7575
+S
+#7575
+the marketplace in the Martian City~
+There are so many places to go in the Martian City that you may
+not be able to visit them all in a day.  As you walk along this
+section of the city, you notice to your north a path that'll take
+you to the Universal Church of the Creator.  If you want to be a
+new convert, please go there.  To your south, there's a motel 
+where you can rest those tired legs of yours.  The marketplace
+continues east and west of here.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7589
+D1
+~
+~
+0 -1 7574
+D2
+~
+~
+0 -1 7544
+D3
+~
+~
+0 -1 7576
+S
+#7576
+the marketplace in the Martian City~
+As you walk into this area of the city, you notice a bookstore to
+your south.  It seems the only books they have for sale are books
+in the Martian language and being illiterate in that language,
+you might as well not visit there.  The bookstore looks packed 
+with Martians...hmmm, there must be a book signing.  The marketplace
+continues east and west.
+~
+75 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 7575
+D2
+~
+~
+0 -1 7584
+D3
+~
+~
+0 -1 7577
+S
+#7577
+the marketplace in the Martian City~
+You've arrived at the northwestern part of the city.  There are
+more merchants and dealers here trying to sell you their goods,
+and their shops are all bunched up on the roadside.  The 
+marketplace continues south and east of here.
+~
+75 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 7576
+D2
+~
+~
+0 -1 7578
+S
+#7578
+the marketplace in the Martian City~
+You're headed towards the northwestern section of the city and
+your feet are beginning to get tired.  Maybe you should have
+taken the hover-bus instead of having to walk around this vast
+city.  The marketplace continues north and south of here.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7577
+D2
+~
+~
+0 -1 7579
+S
+#7579
+the marketplace in the Martian City~
+As you walk along the marketplace, you notice there's a Martian
+police station to the east and there are hover police vehicles
+parked all around it.  The Martian sentinels must be bored by the
+lack of criminal activities here on Mars.  If you need to report
+a crime, you ought to go there.  The marketplace continues north
+and south of here.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7578
+D1
+~
+~
+0 -1 7586
+D2
+~
+~
+0 -1 7580
+S
+#7580
+the marketplace in the Martian City~
+The merchants and dealers have set up their stands at both sides
+of the street.  They're shouting out the good deals that they have
+to every passing person and offering them a bargain discount.  The
+marketplace continues north and south.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7579
+D2
+~
+~
+0 -1 7565
+S
+#7581
+a K-Mart on Mars~
+This store has become the most popular place on the planet.    
+K-Mart is a great place to buy exotic items that are not found on
+Mars.  The Puma shoes are the most popular footwear here and the    
+Jaclyn Smith collection is popular with the ladies.  They also
+have a special on the submarine sandwich and the Icee combo.  The
+blue-light special is also something to look out for...items
+could be up to 1/3 off *gasp*.  Yup, K-Mart has everything you
+will ever need and soon they'll expand to Saturn and heck, maybe
+Pluto as well.
+~
+75 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 7568
+S
+#7582
+Sym's Antique Shop~
+Just as you step into this room a little green-skinned Martian
+welcomes you to his shop.  He shows you around his little antique
+shop and offers you some suggestions about buying rare Martian
+antiques.  Then he begins helping you select the items that (in
+his opinion) was what you needed.  You are now carrying an
+armload of worthless junk and you can't drop them without 
+disappointing this friendly shopkeeper.  Oh well, you might as
+well buy them, you haven't spent any money so far during this trip.
+~
+75 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 7571
+S
+#7583
+K'Cus Sn'amuh -- a Martian appliance store~
+Holy Mackeral!  This store has everything you will ever need back
+home.  Look at those holo-screen televisions and the universal-
+channel radios.  The place is packed with tourists trying to buy
+the items they can never get on Earth.  Everything here's on sale
+and plus there's no tax included in any purchase.  The items are
+a steal and it's a shame you can't carry any of these back home.
+There's a Martian salesman here trying to process everyone's
+order and he looks very, very busy. 
+~
+75 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7574
+S
+#7584
+Soto's Martian Bookstore~
+The place is packed with Martians!  What's the deal?  Is there a
+poetry reading or maybe a book signing by some famous author?  As
+you push your way forward through the crowd, you finally found
+your way to the guest tables.  Oh my God!  That's George Takai
+and he's autographing his new book (which was translated in 
+Martian!).  No wonder this place is packed, everyone here is a
+trekker...err trekkie, whichever.  The line looks pretty long,
+maybe you can get his autograph some other day.
+~
+75 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7576
+S
+#7585
+the Martian dune~
+There's nothing here, no wind blowing sand at your face and no
+little critters crawling on your feet.  There's no sign of life
+anywhere on this area of Mars.
+~
+75 0 10
+0d0+0 0 0
+D0
+There's a sandtrap that'll swallow you up!
+~
+north n ~
+0 -1 7560
+D1
+There's a santrap that'll swallow you up!
+~
+east eastern e~
+0 -1 7560
+D2
+~
+~
+0 -1 7597
+D3
+~
+~
+0 -1 7596
+D6
+~
+~
+0 -1 7553
+D7
+~
+~
+0 -1 7597
+D8
+~
+~
+0 -1 7597
+D9
+There's a sandtrap that'll swallow you up!
+~
+southwest sw~
+0 -1 7560
+E
+southwest sw~
+There's a sandtrap that'll swallow you up!
+~
+E
+east e~
+There's a sandtrap that'll swallow you up!
+~
+E
+north n~
+There's a sandtrap that'll swallow you up!
+~
+S
+#7586
+Martian Police Department~
+Wow!  There's more pigs here than the slaughter house down the
+block.  The policemen here are just looking through files and
+giving safety tips to people over the telecom.  The jail cell
+looks empty and you don't see any thugs or punks being brought
+in for questioning.  This PD is unlike the ones we have back on 
+Earth.  Everything here looks orderly and clean.  No one here is
+sleeping on the job and every officer looks fit to serve this 
+department.  There's a tall Martian police chief here sitting
+by the counter.  He asks you, 'May I help you, m'ucs ht'rae?'
+~
+75 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 7579
+S
+#7587
+Taan's Cocktail and Pleasure Palace~
+Oops!  You had no idea this is a strip bar.  You can see the
+half-naked showgirls dancing on a platform and asking patrons if
+they wanted a lap-dance.  This place looks quite sleazy and you 
+wonder why the Martian counsel would allow such a place to exist.
+There are off-duty cops here sitting down on the tables, drinking a
+few brews and enjoying the show.  Everyone who are close to the 
+platform are clipping money to the dancer's thong.  Oh well, might
+as well enjoy yourself a brew if you're not going to watch the
+show.  There's a bartender here to service your every need.
+~
+75 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 7566
+S
+#7588
+Ravik's Martian Smorgasbord~
+As you walk into this restaurant the first thing you notice is
+the awful stench in this room.  Egads!  That 'stench' comes from
+the food they're serving here.  You want to vomit from just
+watching the line of foods they have at the self-serve tables.  
+You had no idea the Martian enjoys eating raw flesh and entrails.
+
+     "G'nilthrae dipu'ts, how do you do?  Welcome to my
+      restaurant, how may I serve you?'
+
+The restaurant owner, Ravik, is here to serve you.  He looks  
+friendly and sincere.
+~
+75 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 7567
+S
+#7589
+a path to the Universal Church of the Creator~
+You decided you wanted to check out this new Martian church.  The
+path you're standing on is made of soft clay and it's a comfort to
+walk on unlike the harder concrete roads.  At a distance, north
+of here, you can see the grand church.  You're dazzled by the
+large metallic structure and it's unexplainable, unique design.
+This church is definitely unlike any you'd find on Earth.  The
+entrance to the church is just north of here.
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7590
+D2
+~
+~
+0 -1 7575
+S
+#7590
+the entrance to the Universal Church of the Creator~
+The doors to the church are just massive and they're studded with
+the rarest of jewels.  You can see large monuments of conquerors
+and kings lined up side by side towards the two large doors.  As
+you try walking towards the entrance, there's a guard here 
+blocking your path.  He says, 'Sorry Outworlder, this is no place
+for a tourist, please turn back immediately.'  The big Martian
+guard sounded serious.  Maybe you should heed his warning and just
+leave -- you don't want to make any trouble here, do you?
+~
+75 0 11
+0d0+0 0 0
+D0
+~
+door doors gate gates~
+2 7522 7591
+D2
+~
+~
+0 -1 7589
+S
+#7591
+inside the Universal Church of the Creator~
+You are now inside the Martian's holy grounds and you gasp as you
+look around this mammoth complex.  The church is huge and you can
+hear strange music being played all around.  The hand-crafted, 
+stained glass windows are just magnificent.  The pillars that 
+support the painted ceiling are made of fine, blue marble.  The
+floor is plastered with mosaic tiles -- perhaps constructing an
+image of the all-powerful Creator.  There are more than a hundred 
+row of seats in this section alone.  The broad aisle in the center
+will take you further towards the front rows.
+~
+75 12296 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7592
+D2
+~
+door doors gates gate~
+2 7522 7590
+S
+#7592
+inside the Universal Church of the Creator~
+You're walking down the aisle and passing by the worshippers here
+who are praying to the one known as the Creator.  The preists are
+here as well, to worship their god.  As you walk along the aisle
+you notice ahead of you is a large holy symbol that stands for
+'God'.  The lights are quite dim and the smell of incense is 
+becoming nauseating.  You're getting closer to the holy water
+fountain at the altar which if north of you.
+~
+75 12296 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7593
+D2
+~
+~
+0 -1 7591
+S
+#7593
+the altar at the Universal Church of the Creator~
+There's a large fountain here and it's bubbling with fresh holy
+water.  You're standing in front of several hundred worshippers
+praying at your direction, and you're just standing there 
+enjoying it.  The worshippers are half-asleep in their prayers
+and they don't even know you're up there.
+To your east there's a prayer room -- a bright light coming from
+that direction.  And to the west there's a wooden door that'll
+take you inside a sacred room.
+~
+75 12296 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 7595
+D2
+~
+~
+0 -1 7592
+D3
+~
+door doors~
+1 -1 7594
+S
+#7594
+the room of the Divine One~
+This room is pretty small and it's poorly furnished.  The chairs
+and tables look like they're about to break apart.  The mattress
+and bedding look pretty soiled.  The room is dusty and there's
+not a lot of fresh air in here.  There's no ventilating shafts
+anywhere located in this room.  The restroom is obviously that
+smelly tin bucket next to the bed.  As you look at the far corner
+of this room you'll notice a priest is here reciting a bible.  He
+looks like he's really into his studies that he didn't notice you
+entered his room.
+~
+75 12296 0
+0d0+0 0 0
+D1
+~
+doors door~
+1 -1 7593
+S
+#7595
+the room of penance~
+You've walked into the room of penance where you must be punish
+by the Creator for past wrong-doings.  This large statue of the
+Creator was givin life by the holy Creator to punish those who
+had sinned in the mortal world.  You have admitted to your sins
+by just coming into this room and now you will die.  The statue
+is merciless when it comes to punishment.  No Martians has ever
+survived the physical pain that the statue inflicts.
+~
+75 12296 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 7593
+S
+#7596
+the Martian dune~
+There's nothing here, no wind blowing sand at your face and no
+little critters crawling on your feet.  There's no sign of life
+anywhere on this area of Mars.
+~
+75 0 10
+0d0+0 0 0
+D0
+~
+~
+0 -1 7597
+D1
+~
+~
+0 -1 7597
+D2
+There's a sandtrap that'll swallow you up!
+~
+south s~
+0 -1 7560
+D3
+~
+~
+0 -1 7554
+D6
+~
+~
+0 -1 7597
+D7
+There's a sandtrap that'll swallow you up!
+~
+northwest nw~
+0 -1 7560
+D8
+~
+~
+0 -1 7597
+D9
+~
+~
+0 -1 7597
+E
+northwest nw~
+There's a sandtrap that'll swallow you up!
+~
+E
+south s~
+There's a sandtrap that'll swallow you up!
+~
+S
+#7597
+the Martian dune~
+There's nothing here, no wind blowing sand at your face and no
+little critters crawling on your feet.  There's no sign of life
+anywhere on this area of Mars.
+~
+75 4 10
+0d0+0 0 0
+D0
+~
+~
+0 -1 7551
+D1
+~
+~
+0 -1 7551
+D2
+There's a sandtrap that'll swallow you up!
+~
+south s~
+0 -1 7560
+D3
+~
+~
+0 -1 7551
+D6
+~
+~
+0 -1 7551
+D7
+There's a sandtrap that'll swallow you up!
+~
+northwest nw~
+0 -1 7560
+D8
+There's a sandtrap that'll swallow you up!
+~
+southeast se~
+0 -1 7560
+D9
+~
+~
+0 -1 7597
+E
+northwest nw~
+There's a sandtrap that'll swallow you up!
+~
+E
+southeast se~
+There's a sandtrap that'll swallow you up!
+~
+E
+s south~
+There's a sandtrap there ready to swallow you up!
+~
+S
+#7598
+On the Red Planet -- Mars!~
+Holy Cow!  When the Traveler said 'afar' he really meant it!
+You've landed on the planet Mars and surprisely you're still
+alive.  The atmosphere here cannot possibly sustain human life
+and yet something must be keeping your head from exploding.  Maybe
+it's the Traveler's great power that's keeping you alive...
+You're standing on a surface much like the clay courts at the 
+French Open.  Everywhere you look there are mountains, rocks, and
+sand dunes.  The sky is unlike anything on Earth -- it's dark and
+frightening!  This place looks more like Hell than a planet.
+Where will you go from here, you wonder to yourself.  There are
+four directions that you can take.  Read the sign post if you
+aren't sure where you'd want to go.
+There's an old sign post here...(GLOWING)
+~
+75 4100 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 7561
+D1
+~
+~
+0 -1 7501
+D2
+~
+~
+0 -1 7518
+D3
+~
+~
+0 -1 7550
+E
+sign post board~
+*  Visit our friendly shopkeepers, restaurant owners, and hotel
+   managers.  Go NORTH and you will find our beautiful Martian City.
+*  To the WEST, there is nothing...just a lot of sand dunes and
+   desert lands.  For centuries, we have not explore this area on
+   Mars.  It is highly unrecommended that you go there.  There 
+   are sandtraps that are hidden everywhere...
+*  If you like to go sight seeing, we suggest you go EAST and
+   visit the Martian mines.  You can witness how we mine our 
+   precious mineral resources.  Warning to all tourists:  Please
+   do not wander into any unexplore caves in that area.
+*  It is forbidden for anyone to go SOUTH of here unless of
+   course, you are an official of the Martian Counsel or a
+   military officer of our prestigious army.  Trespassers will
+   be sentenced to IMMEDIATE DEATH!  We will protect our emperor
+   with extreme measures, so be warned.
+~
+S
+#7599
+a NASA station~
+What the heck do you think you're doing walking in here?  This
+place is restricted to civilians.  You can hear the security 
+cameras turning to your direction.  The alarms begin to sound and
+the NASA security guards are headed your way.  You got nowhere
+to go, nowhere to run.  The main door from where you enter has
+been automatically closed and cannot be reopened.  You think
+to yourself -- hmmm, mind as well just look around, the guards
+wouldn't catch up to me that quickly.  As you walk along the
+halls, you notice a strange-looking man standing next to a large
+window.  He doesn't look like he works here and his outfit...it
+seems to glow as though it has been bombarded with lethal 
+radiation.  Suddenly...the stranger looks at you.  He smiles and 
+then asks you, 'Want to go where no man has gone before?  Give
+me some money and I'll send you afar!'
+~
+75 14472 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 20570
+S
+$

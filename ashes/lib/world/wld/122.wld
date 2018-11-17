@@ -1,0 +1,3370 @@
+#12200
+Atop a tall rock outcropping~
+You stand before a shimmering rainbow, upon a rock outcropping
+that overlooks the desert trail to Agrabah. Even now, just gazing at
+this rainbow, you are overcome with a feeling of awe, and the sense
+that what you see before you is not fully natural...
+Around and below you are cacti, stones, and a few desert flowers.
+~
+122 12292 1
+0d0+0 0 0
+D4
+The rainbow extends above you, fading out of existence only meters away.
+~
+~
+0 -1 12201
+D5
+A beautiful desert scene is before you, with flowers and small
+recent rain puddles all around. There is also a trail you can
+go down to. It leads to Agrabah.
+~
+~
+0 -1 22504
+E
+rainbow~
+The rainbow softly glows with beams of light, in colours that defie 
+description.
+~
+E
+rainbow~
+
+The rainbow before you glows softly with ambient light, in colours
+that defy description now that you are so close to it. It shimmers
+and pulses, and tiny motes of light orbit and swirl around it and
+you, like miniature constellations drifting upon an unfelt wind...
+~
+E
+stones~
+
+You see a small inscription carved upon one of the yellowish stones.
+The chiseled in area has been rubbed in with black soot to give it
+definition. It says, 'Revamp by Raul'.
+~
+S
+#12201
+Upon the rainbow~
+You are standing upon the rainbow, surrounded by many shifting beams
+of multicoloured light. Through the bottom of the rainbow you can make out
+the desert trail, and you have a glimpse of the distant city of
+Agrabah.
+
+~
+122 12292 5
+0d0+0 0 0
+D4
+The rainbow extends far above you, slowly fading into darkness.
+~
+~
+0 -1 12202
+D5
+Below you, at the base of the rainbow, is a rock promontory.
+~
+~
+0 -1 12200
+E
+rainbow~
+The rainbow softly glows with beams of light, in colours that defie 
+description.
+~
+S
+#12202
+On the rainbow~
+You are standing high up on the rainbow, surrounded by many shifting
+beams of multicoloured light. Through the bottom of the rainbow you
+see laid out below, the Great Desert, and also a smaller, yet more
+aerial view of the whitewashed walls and palace domes of Agrabah. The
+view is breathtaking!
+~
+122 12288 5
+0d0+0 0 0
+D4
+The rainbow extends far above you, slowly fading into darkness.
+~
+~
+0 -1 12203
+D5
+The rainbow extends below you towards the land you once knew as home.
+~
+~
+0 -1 12201
+E
+rainbow~
+The rainbow softly glows with beams of light, in colours that
+defie description.
+~
+S
+#12203
+On the rainbow~
+   You are standing on the rainbow, surrounded by many beams of multicoloured
+light.  The rainbow extends above and below you as far as you can see.
+~
+122 12288 5
+0d0+0 0 0
+D4
+The rainbow extends far above you.  You see a glowing white light at the 
+rainbow's end.
+~
+~
+0 -1 12204
+D5
+The rainbow extends far below you, slowly fading into darkness.
+~
+~
+0 -1 12202
+E
+rainbow~
+The rainbow brightly glows with beams of light, in colours that defie any
+description.
+~
+S
+#12204
+On the rainbow~
+You are nearing the end of the rainbow. The beams of multicoloured light
+have begun to merge and solidify. All around you are glowing starlike
+motes of dust. Ahead is a bridge.
+~
+122 12288 5
+0d0+0 0 0
+D4
+The rainbow extends above you, merging into a brilliant glowing
+bridge.
+~
+~
+0 -1 12205
+D5
+The rainbow extends far below you, slowly fading into darkness.
+~
+~
+0 -1 12203
+E
+rainbow~
+The rainbow brilliantly glows with beams of blinding light, in colours that 
+sweep together and merge before your eyes.
+~
+E
+motes star stars dust~
+The star-like motes dance before your eyes.  They are incredibly beautiful yet
+intangible -- your hand passes right through them.
+~
+E
+bridge~
+The colors of the rainbow seem to converge into a glowing bridge that leads
+to a massive white gate.
+~
+S
+#12205
+The Glowing Bridge at the Rainbow's End~
+   After a long climb you have reached the end of the rainbow.  The brilliant
+colours have twisted and merged into a beautiful glowing bridge that leads
+toward a massive white gate to the north.  All around you is a soft, peaceful 
+glow interrupted only by the passing of starlike dust motes before your eyes.
+~
+122 12296 1
+0d0+0 0 0
+D0
+The bridge leads on to a massive white gate.  You see a large grey figure
+standing there.
+~
+~
+0 -1 12206
+D5
+The bridge disassociates into a beautiful spectrum of colours that
+drop out of sight below you.
+~
+~
+0 -1 12204
+E
+gate~
+The gate towers tens of feet above your heads.  Beyond it is a field of utter
+blackness, from which the motes of light seem to issue forth.
+~
+E
+bridge~
+The bridge glows with an unearthly light.
+~
+E
+motes star stars dust~
+The star-like motes dance before your eyes.  They are incredibly beautiful yet
+intangible -- your hand passes right through them.
+~
+E
+rainbow~
+The rainbow seems to be forming directly from the light of the bridge.  It
+drops out of sight below you.
+~
+S
+#12206
+The Astral Gate~
+Here the bridge ends before a massive, pearly-coloured gate beyond
+which you can see a field of blackness filled with silvery snake-like
+tendrils, stars, and occasional flashes of light.
+~
+122 12300 1
+0d0+0 0 0
+D0
+Through the gate you see a massive field of blackness that extends as far
+as you can see.
+~
+gate~
+1 -1 12207
+D2
+The bridge extends towards the rainbow, which drops out of sight
+below you.
+~
+~
+0 -1 12205
+E
+plaque~
+The plaque reads: 
+
+Let this gate stand to protect mortal man for all time against the perils of 
+the outer planes of existence and the creatures fair and foul that dwell within.
+
+(This zone, the Astral Plane and accompanying githyanki keep, was written by
+ Andersen for any standard Merc 2.0 mud.)
+~
+E
+gate~
+You see a huge, glowing gate wrought from an incredibly hard translucent 
+material.  Each of the intricately carved bars of this mighty gate are about 
+as thick as a man's wrist, rising from the floor to a height of forty feet.  
+A plaque is inset into the wall next to one side of the gate.
+~
+S
+#12207
+Travelling the Astral Plane~
+   You step through the gate, and into another reality...
+
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is very disorienting, although it is not too late to return
+through the gate to the south.
+~
+122 12300 0
+0d0+0 0 0
+D0
+The astral field stretches out in that direction.
+~
+~
+0 -1 12242
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12244
+D2
+The astral gate leads back to your world.
+~
+gate~
+1 -1 12206
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12210
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12211
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12212
+D7
+The astral field stretches off into infinity.
+~
+~
+0 -1 12208
+D9
+The astral field stretches out into infinity.
+~
+~
+0 -1 12231
+E
+gate~
+From here the pearly-coloured gate seems very small and insubstantial.  Through
+its bars you can see the Astral Guardian, protecting your world from the perils
+of this plane of existence.
+~
+S
+#12208
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is very disorienting, and it is difficult to maintain your 
+bearings and sense of direction.
+~
+122 12297 2
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12213
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12210
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12207
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12212
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12214
+S
+#12209
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is very disorienting, and it is difficult to maintain your 
+bearings and sense of direction.
+~
+122 12296 5
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12214
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12216
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12207
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12210
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12211
+S
+#12210
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is very disorienting, and it is difficult to maintain your 
+bearings and sense of direction.
+~
+122 12297 1
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12215
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12207
+D2
+~
+~
+0 -1 12282
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12208
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12213
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12209
+S
+#12211
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is very disorienting, and it is difficult to maintain your 
+bearings and sense of direction.
+~
+122 12297 2
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12216
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12212
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12217
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12209
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12207
+S
+#12212
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is very disorienting, and it is difficult to maintain your 
+bearings and sense of direction.
+~
+122 12300 1
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12217
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12208
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12212
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12211
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12207
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12215
+D6
+The astral field leads off into infinity.
+~
+~
+0 -1 12212
+D7
+The astral field leads off into infinity.
+~
+~
+0 -1 12212
+S
+#12213
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is somewhat disorienting.
+   All exits lead off into the astral field.
+~
+122 12289 2
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12218
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12215
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12208
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12220
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12210
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12210
+D6
+The astral field stretches off into infinity.
+~
+~
+0 -1 12211
+D7
+The astral plane leads off into infinity.
+~
+~
+0 -1 12214
+D9
+The astral field leads off into infinity.
+~
+~
+0 -1 12221
+S
+#12214
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is somewhat disorienting.
+   All exits lead off into the astral field.
+~
+122 12297 2
+0d0+0 0 0
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D2
+Strange disturbances in that direction lead you to wonder if there
+is any danger...
+Careful now!
+~
+~
+0 -1 12215
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12233
+D5
+It might be dangerous, it might not...
+Be careful, as always.
+~
+~
+0 -1 12245
+D6
+You see some strange glowing phenomena. It might be dangerous
+to head in that direction.
+~
+~
+0 -1 12249
+D7
+~
+~
+0 -1 12224
+D8
+There might be danger, or there might not.
+~
+~
+0 -1 12214
+S
+#12215
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is somewhat disorienting, though your instincts say you are 
+close to home.
+   All exits lead off into the astral field.
+~
+122 12297 1
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12220
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12222
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12210
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12212
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12216
+D6
+~
+~
+0 -1 12218
+D7
+The astral plane stretches out into infinity.
+~
+~
+0 -1 12216
+D8
+Tendrils of light and fields of darkness.
+~
+~
+0 -1 12231
+D9
+The astral field stretches off into infinity.
+~
+~
+0 -1 12213
+S
+#12216
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is somewhat disorenting, though your instincts say you are 
+close to home.
+   All exits lead off into the astral field.
+~
+122 12296 2
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12221
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12219
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12211
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12209
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12215
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12217
+S
+#12217
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is somewhat disorienting, though your instincts say you are 
+close to home.
+   All exits lead off into the astral field.
+~
+122 12297 1
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12222
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12211
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12212
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12214
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12216
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12221
+S
+#12218
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is highly disorienting.  Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the astral field.
+~
+122 12296 0
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12209
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12214
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12213
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12219
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12233
+D5
+You see a tangible strand of silvery light.
+~
+~
+0 -1 12236
+D9
+The astral field stretches out in that direction.
+~
+~
+0 -1 12210
+S
+#12219
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is highly disorienting.  Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the astral field.
+~
+122 12297 0
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12210
+D1
+A strange glowing phenomena that you can detect in that direction
+makes the back of your neck feel tingly.
+~
+~
+0 -1 12249
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12214
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12216
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12234
+D5
+You see a tangible strand of silvery light.
+~
+~
+0 -1 12227
+D7
+The astral field leads off into infinity.
+~
+~
+0 -1 12238
+D9
+It appears to be a swirling of clouds...
+~
+~
+0 -1 12218
+S
+#12220
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is highly disorienting.  Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the astral field.
+~
+122 12296 2
+0d0+0 0 0
+D0
+Strange glowing phenomena in that direction lead you to question the
+safety of that route...
+~
+~
+0 -1 12211
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12213
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12215
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12221
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12235
+D5
+You see a tangible strand of silvery light.
+~
+~
+0 -1 12240
+D6
+Is that your own back that you see, off in the distance?
+Hmm.. maybe you need to lose some weight. Your behind looks
+saggy.
+~
+~
+0 -1 12220
+D7
+More astral. You are getting somewhat dizzy by all this.
+~
+~
+0 -1 12240
+D8
+Is that your own behind that you see off into the murky depths?
+Hmm... I would suggest a weight los regimen. Else the gith will
+surely run you down as you gasp for breath.
+~
+~
+0 -1 12221
+S
+#12221
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is highly disorienting.  Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the astral field.
+~
+122 12289 4
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12212
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12220
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12216
+D3
+You see a tangible strand of silvery light.
+~
+~
+0 -1 12242
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12217
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12233
+S
+#12222
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is highly disorienting.  Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the astral field.
+~
+122 12297 3
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12212
+D1
+Something odd is in the distance.
+~
+~
+0 -1 12236
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12217
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12215
+D4
+You see a tangible strand of silvery light.
+~
+~
+0 -1 12244
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12234
+S
+#12223
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting.  Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the astral field.
+~
+122 12297 2
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12224
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12228
+D2
+You see a tangible strand of silvery light.
+~
+~
+0 -1 12237
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12232
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12235
+D7
+The astral field leads off into infinity.
+~
+~
+0 -1 12226
+S
+#12224
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting.  Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the astral field.
+~
+122 12296 1
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12225
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12229
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12223
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12233
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12224
+D5
+You see a tangible strand of silvery light.
+~
+~
+0 -1 12239
+D6
+You see tendrils of light and dark space.
+~
+~
+0 -1 12239
+D7
+~
+~
+0 -1 12214
+D8
+The astral plane goes on into infinity.
+~
+~
+0 -1 12225
+D9
+The astral field leads off into infinity.
+~
+~
+0 -1 12230
+S
+#12225
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting.  Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the astral field.
+~
+122 12297 5
+0d0+0 0 0
+D0
+You see a tangible strand of silvery light.
+~
+~
+0 -1 12241
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12227
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12224
+D3
+You see that the astral field leads on and on, and round?
+~
+~
+0 -1 12225
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12228
+D7
+Bits of rubble block certain passage. A path is sometimes visible,
+sometimes requiring clearance. ~
+path~
+2 -1 12230
+D8
+Tendrils of light and motes of dust...
+~
+~
+0 -1 12234
+S
+#12226
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting.  Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the astral field.
+~
+122 12289 2
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D1
+The path in that direction is strewn with clogging astral dust.
+Navigation may be difficult. ~
+pathway~
+0 -1 12223
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12227
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12226
+D4
+You see a tangible strand of silvery light.
+~
+~
+0 -1 12243
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12229
+D6
+The astral field stretches out into infinity.
+~
+~
+0 -1 12230
+D8
+The astral field goes further and further and round and round.
+~
+~
+0 -1 12226
+D9
+The stral field stretches out in that direction.
+~
+~
+0 -1 12235
+S
+#12227
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting.  Nearby you see a large silvery
+strand of light.
+   Most exits lead off into the astral field.
+~
+122 12296 1
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12226
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12232
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12233
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12225
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D5
+You see a tangible strand of silvery light.
+~
+~
+0 -1 12244
+S
+#12228
+Travelling the Astral Plane~
+   You find yourself deep within in a dark field filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting, and you are having trouble 
+keeping your sense of direction.
+   All exits lead off into the astral field.
+~
+122 12300 2
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12209
+D1
+The astral field leads off into the depths.
+~
+~
+0 -1 12247
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12234
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12223
+D4
+The astral field leads off into the depths.
+~
+~
+0 -1 12245
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12225
+S
+#12229
+Travelling the Astral Plane~
+   You find yourself deep within in a dark field filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting, and you are having trouble 
+keeping your sense of direction.
+   All exits lead off into the astral field.
+~
+122 12296 4
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12230
+D1
+The astral field leads off into the depths.
+~
+~
+0 -1 12249
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12235
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12224
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12226
+D5
+A bare rock seems to be in that direction.
+~
+~
+0 -1 12282
+D6
+The astral field stretches out into infinity.
+~
+~
+0 -1 12229
+D8
+The astral field stretches out into infinity.
+~
+~
+0 -1 12246
+S
+#12230
+Travelling the Astral Plane~
+   You find yourself deep within in a dark field filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting, and you are having trouble 
+keeping your sense of direction.
+   All exits lead off into the astral field.
+~
+122 12297 0
+0d0+0 0 0
+D0
+The astral field leads off into the depths.
+~
+~
+0 -1 12247
+D1
+Strange sudden glows that pulse erratically seem to be warning of
+danger...
+~
+~
+0 -1 12233
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12229
+D3
+The astral field seems to lead off into the depths. But you grow
+wary. Perhaps it is your jitters. Perhaps it is not...
+~
+~
+0 -1 12245
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12225
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12224
+D7
+The astral field leads off into infinity.
+~
+~
+0 -1 12211
+S
+#12231
+Travelling the Astral Plane~
+   You find yourself deep within in a dark field filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting, and you are having trouble 
+keeping your sense of direction.
+   All exits lead off into the astral field.
+~
+122 12289 0
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12232
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12234
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12226
+D3
+The astral field leads off into the depths.
+~
+~
+0 -1 12248
+D4
+The astral field leads off into the depths.
+~
+~
+0 -1 12246
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12227
+D7
+More astral plane. Sigh. You're really lost, aren't you?
+~
+~
+0 -1 12227
+S
+#12232
+Travelling the Astral Plane~
+   You find yourself deep within in a dark field filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is extremely disorienting, and you are having trouble 
+keeping your sense of direction.
+   All exits lead off into the astral field.
+~
+122 12297 2
+0d0+0 0 0
+D0
+Be careful where you step...
+~
+~
+0 -1 12249
+D1
+Be careful where you step...
+~
+~
+0 -1 12235
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12227
+D4
+The astral field leads off into the depths.
+~
+~
+0 -1 12248
+D5
+Be careful where you step...
+~
+~
+0 -1 12223
+S
+#12233
+Travelling the Astral Plane~
+   You find yourself in in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is incredibly disorienting, and you are having trouble 
+keeping your senses straight.
+   All exits lead off into the astral field.
+~
+122 12297 0
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12227
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12224
+D2
+~
+~
+0 -1 12250
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12230
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12221
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12218
+D8
+The astral field stretches off into infinity.
+~
+~
+0 -1 12233
+D9
+The astral field stretches off into infinity.
+~
+~
+0 -1 12208
+S
+#12234
+Lost in the Astral Plane~
+   You find yourself in in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is incredibly disorienting, and you are having trouble 
+keeping your senses straight.
+   All exits lead off into the astral field.
+~
+122 12288 2
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12228
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12225
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12222
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12219
+S
+#12235
+Lost in the Astral Plane~
+   You find yourself in in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is incredibly disorienting, and you are having trouble 
+keeping your senses straight.
+   All exits lead off into the astral field.
+~
+122 12297 4
+0d0+0 0 0
+D0
+The astral field leads off into infinity.
+~
+~
+0 -1 12229
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12226
+D2
+~
+~
+0 -1 12233
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12232
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12223
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12220
+D6
+~
+~
+0 -1 12229
+D7
+You are lost. Or not? Perhaps your mind is playing tricks with you?
+~
+~
+0 -1 12235
+D8
+~
+~
+0 -1 12232
+D9
+~
+~
+0 -1 12240
+S
+#12236
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the astral field.
+~
+122 12300 2
+0d0+0 0 0
+D0
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 12237
+D4
+You see the infinite expanse of the astral field.
+~
+~
+0 -1 12218
+D8
+The astral plane's warping of distance is very disorienting.
+~
+~
+0 -1 12222
+S
+#12237
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the astral field.
+~
+122 12292 2
+0d0+0 0 0
+D0
+You see the infinite expanse of the astral field.
+~
+~
+0 -1 12223
+D2
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 12236
+D7
+The infinite plane that is the astral field stretches out in that
+direction. It beckons to you with promises of riches.
+~
+~
+0 -1 12233
+S
+#12238
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the astral field.
+~
+122 12300 2
+0d0+0 0 0
+D1
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 12239
+D4
+You see the infinite expanse of the astral field.
+~
+~
+0 -1 12219
+S
+#12239
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the astral field.
+~
+122 12300 2
+0d0+0 0 0
+D3
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 12238
+D4
+You see the infinite expanse of the astral field.
+~
+~
+0 -1 12224
+S
+#12240
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the astral field.
+~
+122 12300 2
+0d0+0 0 0
+D1
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 12241
+D4
+You see the infinite expanse of the astral field.
+~
+~
+0 -1 12220
+S
+#12241
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the astral field.
+~
+122 12300 2
+0d0+0 0 0
+D2
+You see the infinite expanse of the astral field.
+~
+~
+0 -1 12225
+D3
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 12240
+S
+#12242
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the astral field.
+~
+122 12300 2
+0d0+0 0 0
+D0
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 12243
+D1
+You see the infinite expanse of the astral field.
+~
+~
+0 -1 12221
+S
+#12243
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the astral field.
+~
+122 12300 2
+0d0+0 0 0
+D2
+The strand of light twists and turns out of sight.
+~
+~
+0 -1 12242
+D5
+You see the infinite expanse of the astral field.
+~
+~
+0 -1 12226
+S
+#12244
+Walking the Silvery Strand~
+   You are standing atop a silvery strand of light that twists and turns
+through the astral field.
+~
+122 12300 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 12800
+D4
+You see the endless expanse of the astral field.
+~
+~
+0 -1 12227
+D5
+You see the infinite expanse of the astral field.
+~
+~
+0 -1 12222
+D7
+The astral field continues in that direction.
+~
+~
+0 -1 12249
+S
+#12245
+Far Within the Astral Plane~
+Fierce firestorms rage here, you wonder if you continue, that it
+will get worse! Here the fabric of the field has become twisted and
+warped due to the proximity of another plane of existence. But far
+more so... Choose your path with care...
+~
+122 28683 1
+1d1+199 90 0
+D0
+The astral field leads on into the depths.
+~
+~
+0 -1 12246
+D1
+The astral field leads on into infinity.
+~
+~
+0 -1 12230
+D2
+You notice a warped strand leading somewhere else.
+~
+~
+0 -1 12223
+D3
+The astral field leads on into the depths.
+~
+~
+0 -1 12249
+D5
+The astral field leads on into infinity.
+~
+~
+0 -1 12228
+D7
+The astral field stretches out in that direction.
+~
+~
+0 -1 12244
+D8
+~
+~
+0 -1 12250
+S
+#12246
+Deep Within the Astral Plane~
+   You have travelled deep inside the astral field.  Here the fabric of the
+field has become twisted and warped due to the proximity of another plane of
+existence.  Some of the tendrils of light that line the astral field have been
+warped and twisted into portals to other worlds.
+   Take care before you step through one -- you might never return.
+~
+122 12297 2
+0d0+0 0 0
+D0
+The astral field leads on into infinity.
+~
+~
+0 -1 12233
+D2
+The astral field leads on into the depths.
+~
+~
+0 -1 12245
+D3
+The astral field leads on into the depths.
+~
+~
+0 -1 12247
+D4
+The astral field leads on into infinity.
+~
+~
+0 -1 12229
+D5
+The astral field leads on into infinity.
+~
+~
+0 -1 12231
+S
+#12247
+Travelling the Astral Plane~
+   You have travelled deep inside the astral field.  Here the fabric of the
+field has become twisted and warped due to the proximity of another plane of
+existence.  Some of the tendrils of light that line the astral field have been
+warped and twisted into portals to other worlds.
+   Take care before you step through one -- you might never return.
+~
+122 12296 1
+0d0+0 0 0
+D0
+The astral field leads on into infinity.
+~
+~
+0 -1 12234
+D1
+The astral field leads on into the depths.
+~
+~
+0 -1 12246
+D2
+The astral field leads on into infinity.
+~
+~
+0 -1 12230
+D3
+The astral field leads on into infinity.
+~
+~
+0 -1 12228
+D4
+~
+~
+0 -1 12248
+D7
+The astral field stretches out into infinity.
+~
+~
+0 -1 12292
+S
+#12248
+Deep Within the Astral Plane~
+   You have travelled deep inside the astral field.  Here the fabric of the
+field has become twisted and warped due to the proximity of another plane of
+existence.  Some of the tendrils of light that line the astral field have been
+warped and twisted into portals to other worlds.
+   Take care before you step through one -- you might never return.
+~
+122 12300 2
+0d0+0 0 0
+D0
+The astral field leads on into infinity.
+~
+~
+0 -1 12235
+D1
+The astral field leads on into infinity.
+~
+~
+0 -1 12231
+D2
+The astral field leads on into the depths.
+~
+~
+0 -1 12249
+D3
+An unfamiliar place looms ahead, you think...
+~
+~
+0 -1 12237
+D4
+The astral field leads on into the depths.
+~
+~
+0 -1 12247
+D5
+The astral field leads on into infinity.
+~
+~
+0 -1 12232
+D9
+You see more astral material in the distance.
+~
+~
+0 -1 12208
+S
+#12249
+Travelling the Astral Plane~
+   You have travelled deep inside the astral field.  Here the fabric of the
+field has become twisted and warped due to the proximity of another plane of
+existence.  Some of the tendrils of light that line the astral field have been
+warped and twisted into portals to other worlds.
+   Take care before you step through one -- you might never return.
+~
+122 28683 0
+1d1+199 90 0
+D0
+The astral field leads on into the depths.
+~
+~
+0 -1 12248
+D1
+The astral field leads on into the depths.
+~
+~
+0 -1 12245
+D2
+The astral field leads on into the depths.
+~
+~
+0 -1 12232
+D3
+The astral field leads on into infinity.
+~
+~
+0 -1 12229
+D4
+You see yourself.
+~
+~
+0 -1 12249
+D5
+There is a way, and past it, there seems to be more astral field.
+~
+way~
+2 -1 12250
+S
+#12250
+Travelling the Astral Plane~
+You are standing upon a massive rock floating within the astral plane.
+In all directions except at your feet, the field of darkness and
+tendrils of light beckon to you. You feel this might be a safe place
+to rest... Perhaps.
+
+~
+122 12301 0
+0d0+0 0 0
+D0
+You see a glowing portal before you. Perhaps it is too DANGEROUS!
+~
+portal~
+2 -1 12245
+D1
+The astral field stretches out in that direction.
+~
+~
+0 -1 12209
+D2
+A mystic gateway looms before you.
+~
+gateway~
+2 -1 12249
+D3
+Astral material can been seen in that direction.
+~
+~
+0 -1 12214
+D4
+The astral field stretches out in that direction.
+~
+~
+0 -1 12236
+D6
+The astral field leads off into infinity.
+~
+~
+0 -1 12285
+D7
+There is a clear passage in that direction.
+~
+~
+0 -1 12221
+E
+steel~
+The door is made from a set of rusting steel plates set deep into the stone.
+~
+S
+#12251
+A guard station~
+   This is a small building just inside the keep.  Doors lead out to the east
+and west.  Some small weapons hang on hooks on the walls, for use in defense
+of the keep.
+   Doors stand in all directions save north.
+~
+122 12296 0
+0d0+0 0 0
+D1
+You see an iron door which leads out onto a grey stone road.
+~
+door iron~
+1 -1 12261
+D3
+You see an iron door which leads out onto a grey stone road.
+~
+door iron~
+1 -1 12252
+E
+steel~
+The door is made from a set of rusting steel plates set deep into the stone.
+~
+E
+door iron~
+The door is made from a set of iron plates set deep into the stone.
+~
+S
+#12252
+The cobblestone road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road turns to the north, ending to the east at an iron door.
+~
+122 12288 1
+0d0+0 0 0
+D0
+The grey cobblestones continue.
+~
+~
+0 -1 12253
+D1
+You see an iron door which leads into a small stone building set into the wall
+of the keep.
+~
+door iron~
+1 -1 12251
+E
+door iron~
+The door is made from a set of iron plates set deep into the stone.
+~
+S
+#12253
+The cobblestone road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road continues to the north and south.  Doors to the east
+and west lead into stone buildings.
+~
+122 12288 1
+0d0+0 0 0
+D0
+The grey cobblestones continue.
+~
+~
+0 -1 12254
+D1
+You see a small stone building with a wooden door.
+~
+door wooden~
+1 -1 12262
+D2
+The grey cobblestones continue.
+~
+~
+0 -1 12252
+D3
+An iron door blocks your entrance into a large stone building.
+~
+door iron~
+1 12231 12269
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+E
+door iron~
+The door is fashioned from many iron plates and set deep into the stone wall.
+~
+S
+#12254
+The cobblestone road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+  The cobblestone road turns to the south and continues on to the east.
+~
+122 12288 1
+0d0+0 0 0
+D1
+The grey cobblestones continue.
+~
+~
+0 -1 12255
+D2
+The grey cobblestones continue.
+~
+~
+0 -1 12253
+S
+#12255
+The cobblestone road~
+The ground beneath your feet is uniformly grey cobblestone. A dull red
+sun hangs in an orange sky above your head. You hear none of the sounds
+you would normally associate with a typical city.
+The cobblestone road continues east and west. To the north is a massive
+stone building, entered through a pair of large silver doors.
+~
+122 12288 1
+0d0+0 0 0
+D0
+Looming before you is a forbidding pair of metal doors.
+~
+doors metal silver~
+2 -1 12274
+D1
+The grey cobblestones continue.
+~
+~
+0 -1 12256
+D3
+The grey cobblestones continue.
+~
+~
+0 -1 12254
+E
+doors metal~
+The doors are formed from a silvery substance that feels very hard yet almost
+slippery to the touch.  They are covered in images in bas-relief, depicting
+scenes of combat between humans and strange tentacle-mouthed humanoids.
+~
+S
+#12256
+The cobblestone road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+  The cobblestone road continues to the east and west.  A door to the south
+leads into a tall stone building.
+~
+122 12288 1
+0d0+0 0 0
+D1
+The grey cobblestones continue.
+~
+~
+0 -1 12257
+D2
+You see a tall stone building with a wooden door.
+~
+door wooden~
+1 12231 12264
+D3
+The grey cobblestones continue.
+~
+~
+0 -1 12255
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#12257
+The cobblestone road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road turns to the west and continues to the south.  A door
+to the north leads into a tall stone building.
+~
+122 12292 1
+0d0+0 0 0
+D0
+You see a tall stone building with a wooden door.
+~
+door wooden~
+1 12231 12273
+D1
+A small alley leads east.
+~
+~
+0 -1 12280
+D2
+The grey cobblestones continue.
+~
+~
+0 -1 12258
+D3
+The grey cobblestones continue.
+~
+~
+0 -1 12256
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#12258
+The cobblestone road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road continues to the north and south.  To the east is a
+door in a large stone building.
+~
+122 12288 1
+0d0+0 0 0
+D0
+The grey cobblestones continue.
+~
+~
+0 -1 12257
+D1
+An iron door blocks your entrance into a large stone building.
+~
+door iron~
+1 -1 12267
+D2
+The grey cobblestones continue.
+~
+~
+0 -1 12259
+E
+door iron~
+The door is made from many hammered iron plates, set deep into the stone wall.
+~
+S
+#12259
+The cobblestone road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road continues to the north and south.
+~
+122 12288 1
+0d0+0 0 0
+D0
+The grey cobblestones continue.
+~
+~
+0 -1 12258
+D2
+The grey cobblestones continue.
+~
+~
+0 -1 12260
+S
+#12260
+The cobblestone road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road turns to the north and continues on to the west.  To
+the east is a door in a large stone building.
+~
+122 12288 1
+0d0+0 0 0
+D0
+The grey cobblestones continue.
+~
+~
+0 -1 12259
+D1
+An iron door blocks your entrance into a large stone building.
+~
+door iron~
+1 -1 12265
+D3
+The grey cobblestones continue.
+~
+~
+0 -1 12261
+E
+door iron~
+The door is made from many hammered iron plates, set deep into the stone wall.
+~
+S
+#12261
+Upon a cobblestone road~
+   The ground beneath your feet is a uniformly grey cobblestone.  A dull red
+sun hangs in an orange sky above your head; you hear none of the sounds you
+would commonly associate with a normal city.
+   The cobblestone road goes on to the east, ending to the west at an iron door.
+A door to the north leads into a small stone building.
+~
+122 12288 1
+0d0+0 0 0
+D0
+You see a small stone building with a wooden door.
+~
+door wooden~
+1 -1 12263
+D1
+The grey cobblestones continue.
+~
+~
+0 -1 12260
+D3
+You see an iron door which leads into a small stone building set into the wall
+of the keep.
+~
+door iron~
+1 -1 12251
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+E
+door iron~
+The door is made from a set of iron plates set deep into the stone.
+~
+S
+#12262
+A small building~
+   You have stepped inside a dimly lit building, which apparently serves as
+living quarters for several githyanki gish.  The walls are heavy stone blocks, 
+covered with panels of strangely knotted and twisted wood.  A couple of candles
+burn dimly in sconces here and there.
+~
+122 12296 0
+0d0+0 0 0
+D3
+The wooden door leads back out onto the grey cobblestone road.
+~
+door wooden~
+1 -1 12253
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#12263
+A simple domicile~
+   You have stepped inside a dimly lit building, which apparently serves as
+living quarters for several githyanki gish.  The walls are heavy stone blocks, 
+covered with panels of strangely knotted and twisted wood.  A couple of candles
+burn dimly in sconces here and there.
+~
+122 12296 0
+0d0+0 0 0
+D2
+The wooden door leads back out onto the grey cobblestone road.
+~
+door wooden~
+1 -1 12261
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#12264
+A private domicile~
+   You have stepped inside a dimly lit building with vaulted ceilings and high
+windows.  The walls are heavy stone blocks that rise tens of feet above your
+head, covered with panels of strangely knotted and twisted wood.  On the floor
+are charcoal stencils of pentagrams and various other ominous sigils.
+~
+122 12296 0
+0d0+0 0 0
+D0
+The wooden door leads back out onto the grey cobblestone road.
+~
+door wooden~
+1 12231 12256
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#12265
+The Githyanki Weaponry~
+   A large chamber, full of weapons in various states of completion.  Strange
+glowing blocks of silvery metal are being pounded and rolled out into deadly 
+razor-sharp knives, daggers, and swords.
+   Sounds of hammering and blasts of heat and strange smells come from the open
+doorway to the north.  An iron door stands to the west.
+~
+122 12296 0
+0d0+0 0 0
+D0
+You see a massive forgeroom, lit by a white-hot furnace.
+~
+~
+0 -1 12266
+D3
+The iron door leads back out onto the grey cobblestone road.
+~
+door iron~
+1 -1 12260
+E
+door iron~
+The door is made from many hammered iron plates, set deep into the stone wall.
+~
+S
+#12266
+The Forge~
+   In the center of the room is a massive furnace which emits great gouts of
+heat and a strange smell which comes from the melting of the silvery metal used
+by the githyanki.  A large trough of icy water stands to the west, used for 
+quenching hot metal.
+   Doorways stand to the north and south.  The furnace door lies to the east.
+~
+122 12300 0
+0d0+0 0 0
+D0
+You see the armoury.
+~
+~
+0 -1 12267
+D1
+Through the grille in the furnace door you see only flames.
+~
+grill door furnace~
+1 -1 12268
+D2
+You see the weaponry.
+~
+~
+0 -1 12265
+E
+door furnace~
+The entire furnace is glowing white-hot to the touch.
+The furnace door looks too hot to even attempt to open.
+~
+S
+#12267
+The Githyanki Armoury~
+   A large chamber, full of suits of armor in various states of completion.  In
+this chamber the hard steels of the githyanki are shaped into ornately fashioned
+suits of mail.
+   Sounds of hammering and blasts of heat and strange smells come from the open
+doorway to the south.  An iron door stands to the west.
+~
+122 12296 0
+0d0+0 0 0
+D2
+You see a massive forgeroom, lit by a white-hot furnace.
+~
+~
+0 -1 12266
+D3
+The iron door leads back out onto the grey cobblestone road.
+~
+door iron~
+1 -1 12258
+E
+door iron~
+The door is made from many hammered iron plates, set deep into the stone wall.
+~
+S
+#12268
+Inside the furnace~
+   You gasp for breath and choke on toxic sulphur and brimstone.  The sweat
+on your forehead is instantly vaporized by the flames that surround you.  You
+begin to feel faint and dizzy from the heat...
+
+... you'd better leave before you pass out and burn to a cinder!
+~
+122 12296 0
+0d0+0 0 0
+D0
+The flames blind you and obscure your vision.
+~
+~
+0 -1 12268
+D2
+The flames blind you and obscure your vision.
+~
+~
+0 -1 12268
+D3
+The flames blind you and obscure your vision.
+~
+door furnace~
+1 -1 12266
+S
+#12269
+The prison guard station~
+   You are standing in a small, fairly empty building that serves as the prison
+for the keep.  The building is small because the githyanki do not make a habit 
+of taking prisoners, and those that they do capture do not last long.
+   The cellblock lies to the west and the grey stone road is to the east.
+~
+122 12296 0
+0d0+0 0 0
+D1
+You see an iron door which leads back out onto the grey cobblestone road.
+~
+door iron~
+1 12231 12253
+D3
+You see the cellblock.
+~
+~
+0 -1 12270
+E
+door iron~
+The door is fashioned from many iron plates and set deep into the stone wall.
+~
+S
+#12270
+The cellblock~
+   A torch flickers in the western wall, providing some illumination for this
+dim corridor.  Some whips, manacles, and chains hang on the walls -- they seem
+to have been used recently.
+   Cell doors stand to the north and south.  The guard station is to the east.
+~
+122 12296 0
+0d0+0 0 0
+D0
+You see a small cell.
+~
+door cell~
+1 -1 12271
+D1
+You see the guard station.
+~
+~
+0 -1 12269
+D2
+You see a small cell.
+~
+door cell~
+1 -1 12272
+E
+door cell~
+The cell door is wooden and about 4' high, with a slot in the bottom to pass
+food underneath to the prisoner.
+~
+S
+#12271
+A cramped cell~
+  You are in a tiny, cold, dank cell.
+  The only exit is back through the door to the south.
+~
+122 12296 0
+0d0+0 0 0
+D2
+You see the cellblock.
+~
+door cell~
+1 -1 12270
+E
+door cell~
+The cell door is wooden and about 4' high, with a slot in the bottom to pass
+food underneath to the prisoner.
+~
+S
+#12272
+A tiny cell~
+   You are in a cold, dank, cramped cell.
+   The only exit is back throught the door to the north.
+~
+122 12296 0
+0d0+0 0 0
+D0
+You see the cellblock.
+~
+door cell~
+1 -1 12270
+E
+door cell~
+The cell door is wooden and about 4' high, with a slot in the bottom to pass
+food underneath to the prisoner.
+~
+S
+#12273
+An expansive domicile~
+   You have stepped inside a dimly lit building with vaulted ceilings and high
+windows.  The walls are heavy stone blocks that rise tens of feet above your
+head, covered with panels of strangely knotted and twisted wood.  On the floor
+are charcoal stencils of pentagrams and various other ominous sigils.
+~
+122 12296 0
+0d0+0 0 0
+D2
+The wooden door leads back out onto the grey cobblestone road.
+~
+door wooden~
+1 12231 12257
+E
+door wooden~
+The door is thick, made from a knotted and twisted greyish wood.
+~
+S
+#12274
+South End of the Hall~
+   This is a massive stone hall, lit by flaming blue stones set into the walls.
+Massive suits of armor line the walls, holding weapons fashioned from a strange
+silvery metal.
+   The great hall continues to the north and ends in a pair of huge metal doors
+to the south.
+~
+122 12296 0
+0d0+0 0 0
+D0
+The great hall continues to the north.
+~
+~
+0 -1 12275
+D2
+The metal doors lead out onto the grey cobblestone road.
+~
+doors metal~
+1 -1 12255
+E
+doors metal~
+The doors are formed from a silvery substance that feels very hard yet almost
+slippery to the touch.  They are covered in images in bas-relief, depicting
+scenes of combat between humans and strange tentacle-mouthed humanoids.
+~
+E
+weapons~
+Massive pole arms, spears, mighty swords, all kinds of death-dealing devices.
+~
+E
+armor suits~
+The suits of armor are very intricately and ornately fashioned splint mail.
+~
+S
+#12275
+North End of the Hall~
+   This is a massive stone hall, lit by flaming blue stones set into the walls.
+Massive suits of armor line the walls, holding weapons fashioned from a strange
+silvery metal.
+   The great hall continues to the south.  An archway leads into a dimly lit
+room to the north.
+~
+122 12296 0
+0d0+0 0 0
+D0
+You think you can see some steps leading up to an altar...
+~
+mist door~
+1 -1 12276
+D2
+The great hall continues to the south.
+~
+~
+0 -1 12274
+E
+arch archway door~
+The archway is shrouded in a strange black mist that obscures your vision.
+~
+E
+weapons~
+Massive pole arms, spears, mighty swords, all kinds of death-dealing devices.
+~
+E
+armor suits~
+The suits of armor are very intricately and ornately fashioned splint mail.
+~
+S
+#12276
+The Altar Chamber~
+  Your eyes have trouble adjusting to the dim lighting.  All around you are
+columnar statues of githyanki turned towards the altar standing at the top
+of a series of steps.
+~
+122 12297 0
+0d0+0 0 0
+D0
+The steps lead north and up to a massive sacrificial altar.
+~
+~
+0 -1 12277
+D2
+You think you can see the hall.
+~
+mist door~
+1 -1 12275
+E
+arch archway door~
+The archway is shrouded in a strange black mist that obscures your vision.
+~
+S
+#12277
+Before the Altar~
+You have climbed the mighty steps of the alter chamber, and now stand
+before the stone alter used to offer tribute to Lord Gish, long-dead
+ruler of the githyanki. The altar is covered in blood that drips into
+dark holes... You feel an incredible nausea as evil washes over you.
+~
+122 12297 0
+0d0+0 0 0
+D2
+The steps lie to the south, leading back down to the altar chamber floor.
+~
+~
+0 -1 12276
+D5
+The floor of the altar is pockmarked with small holes, draining blood.
+~
+hole~
+1 -1 12278
+E
+altar~
+The altar is a huge sacrificial altar covered in bloodstains.
+~
+E
+blood bloodstains stains~
+The stains of blood run down off the altar towards your feet, oozing quietly.
+~
+E
+hole holes~
+The holes have passed countless amounts of blood down below the altar.
+~
+S
+#12278
+A Gateway to the Underworld~
+   You step through the tiny hole in the altar, and stand before a swirling
+field of blackness.  Through the field you can hear the howls of lost souls
+and long-dead beings.
+~
+122 12297 1
+0d0+0 0 0
+D4
+You see the altar chamber.
+~
+hole~
+1 -1 12277
+D5
+You look down into the field of blackness, and feel a tangible wave of evil wash
+over you.  Stepping into the field would be a bad idea.
+~
+gateway~
+2 12224 12279
+E
+blood~
+The blood drips from above your head and falls through the field...
+~
+E
+field gateway~
+The field pulses and feeds on the blood dripping from above.
+
+A tangible wave of hatred washes over you, striking fear into your very soul.
+~
+S
+#12279
+Utter darkness and despair~
+  It is pitch black...
+
+  You are overwhelmed by the sensation of death and horrible pain as a shape
+begins to coalesce before you.
+~
+122 12297 0
+0d0+0 0 0
+S
+#12280
+A deserted alley~
+This alleyway looks abandoned, and might just be a safe place to rest,
+away from all those evil giths. Long shadows conceal everything in
+darkness.
+  You notice a small grate hidden under a pile of rubbish.
+~
+122 12292 0
+0d0+0 0 0
+D3
+The cobblestoned road is to the west.
+~
+~
+0 -1 12257
+D5
+Managing to clear some of the rubbish, you've discovered a secret
+grate! ~
+grate~
+1 12231 12281
+S
+#12281
+A secret hideout~
+Down beneath the alley, you are in a large stone cellar that has
+been fitted with a crude teleportational portal. The floor of this
+room is wet, and the air smells dank and musty. Aside from the portal
+to the east, the room is empty and bare.
+~
+122 12425 0
+0d0+0 0 0
+D1
+The portal is of stone, you will have to work hard to work the
+levers. ~
+portal levers~
+2 -1 3
+D4
+Up past the secret grate is the deserted alley.
+~
+grate~
+1 12231 12280
+S
+#12282
+Travelling the Astral Plane~
+Floating in the depths of the astral field is this massive rock that
+you have managed to discover and land upon. It measures only a few
+hundred paces across. The surface is grey, strewn with small craters.
+~
+122 12425 0
+0d0+0 0 0
+D0
+The astral field stretches out into infinity.
+~
+~
+0 -1 12230
+D1
+The astral field stretches out into infinity.
+~
+~
+0 -1 12228
+D2
+The astral field stretches out into infinity.
+~
+~
+0 -1 12228
+D3
+The astrail field stretches out into infinity.
+~
+~
+0 -1 12230
+D4
+The astral field stretches out into infinity.
+~
+~
+0 -1 12282
+D6
+The astral plane stretches out into infinity.
+~
+~
+0 -1 12228
+D7
+More of the rock.
+~
+~
+0 -1 12282
+D8
+That direction is blocked by rubble.
+~
+blockage~
+2 -1 12283
+D9
+The astral plane stretches out into infinity.
+~
+~
+0 -1 12229
+S
+#12283
+Still in the Astral Plane~
+You have ventured further from where you once landed, and now approach
+a cavern mouth. The ground before you is strewn heavily with rubble.
+The cavern mouth is dark. You know not what is before you.
+~
+122 12425 0
+0d0+0 0 0
+D0
+The Astral Plane stretches off into infinity.
+~
+~
+0 -1 12230
+D1
+More rock.
+~
+~
+0 -1 12283
+D2
+A cavemouth looms before you to the south. It looks dark.
+~
+~
+0 -1 12284
+D3
+The rock disappears over the horizon.
+~
+~
+0 -1 12283
+D4
+The astral field stretches out into infinity.
+~
+~
+0 -1 12230
+D7
+More of the rock.
+~
+blockage~
+0 -1 12282
+D8
+The astral field stretches out into infinity.
+~
+~
+0 -1 12228
+S
+#12284
+Within the cavern~
+It is dark in here, but as there is no real air in the astral plane,
+so also is there no real smell. Good thing too, for there appears
+to be all manner of rubbish lying about. North leads outside.
+~
+122 12425 0
+0d0+0 0 0
+D0
+Outside the cavemouth is more of the rock, and also the rest of the
+astral field.
+~
+~
+0 -1 12283
+S
+#12285
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is somewhat disorienting.
+   All exits lead off into the astral field.
+~
+122 12297 2
+0d0+0 0 0
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D2
+Strange disturbances in that direction lead you to wonder if there
+is any danger...
+Careful now!
+~
+~
+0 -1 12215
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12233
+D5
+It might be dangerous, it might not...
+Be careful, as always.
+~
+~
+0 -1 12245
+D6
+The astral field leads off into infinity.
+~
+~
+0 -1 12232
+D7
+~
+~
+0 -1 12224
+D8
+There might be danger, or there might not.
+~
+~
+0 -1 12214
+D9
+The astral field leads off into infinity.
+~
+~
+0 -1 12286
+S
+#12286
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is somewhat disorienting.
+   All exits lead off into the astral field.
+~
+122 12297 2
+0d0+0 0 0
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D2
+Strange disturbances in that direction lead you to wonder if there
+is any danger...
+Careful now!
+~
+~
+0 -1 12215
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12233
+D5
+It might be dangerous, it might not...
+Be careful, as always.
+~
+~
+0 -1 12245
+D6
+It looks mighty dangerous there... But then, there is no reward with
+out a risk...
+~
+~
+0 -1 12287
+D7
+~
+~
+0 -1 12224
+D8
+There might be danger, or there might not.
+~
+~
+0 -1 12214
+D9
+The astral field leads off into infinity.
+~
+~
+0 -1 12286
+S
+#12287
+Travelling the Astral Plane~
+Fierce astral storms rage here, tendrils of light lashing out at you
+with virulent intensity! You find yourself floating within a morass
+of swirling light and darkness that challenges your senses to the
+limits. The weightlessness of this environment is very disorienting.
+~
+122 28687 0
+1d1+199 90 0
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D2
+Strange disturbances in that direction lead you to wonder if there
+is any danger...
+Careful now!
+~
+~
+0 -1 12215
+D4
+There might be danger, or there might not.
+~
+~
+0 -1 12287
+D5
+It might be dangerous, it might not...
+Be careful, as always.
+~
+~
+0 -1 12245
+D6
+The astral field leads off into infinity.
+~
+~
+0 -1 12288
+D7
+~
+~
+0 -1 12224
+D8
+There might be danger, or there might not.
+~
+~
+0 -1 12214
+D9
+It looks mighty dangerous there... But then, there is no reward with
+out a risk.
+~
+~
+0 -1 12287
+S
+#12288
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is somewhat disorienting.
+   All exits lead off into the astral field.
+~
+122 12297 2
+0d0+0 0 0
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D2
+Strange disturbances in that direction lead you to wonder if there
+is any danger...
+Careful now!
+~
+~
+0 -1 12215
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12289
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12233
+D5
+It might be dangerous, it might not...
+Be careful, as always.
+~
+~
+0 -1 12245
+D6
+The astral field leads off into infinity.
+~
+~
+0 -1 12220
+D7
+~
+~
+0 -1 12224
+D8
+There might be danger, or there might not.
+~
+~
+0 -1 12214
+D9
+The astral field leads off into infinity.
+~
+~
+0 -1 12286
+S
+#12289
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is somewhat disorienting.
+   All exits lead off into the astral field.
+~
+122 12417 0
+0d0+0 0 0
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D2
+The astral field stretches out into infinity.
+~
+~
+0 -1 12290
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12289
+D5
+It might be dangerous, it might not...
+Be careful, as always.
+~
+~
+0 -1 12245
+D6
+There is a silvery strand...
+~
+~
+0 -1 12239
+D7
+~
+~
+0 -1 12224
+D8
+There might be danger, or there might not.
+~
+~
+0 -1 12214
+D9
+It might be dangerous, it might not.
+Be careful!
+~
+~
+0 -1 12290
+S
+#12290
+Travelling the Astral Plane~
+   You find yourself floating in a field of blackness, filled with tiny tendrils
+of silvery light and insubstantial shining motes of dust.  The weightlessness
+of this environment is somewhat disorienting.
+   All exits lead off into the astral field.
+~
+122 12300 2
+0d0+0 0 0
+D1
+The astral field leads off into infinity.
+~
+~
+0 -1 12231
+D2
+Strange disturbances in that direction lead you to wonder if there
+is any danger...
+Careful now!
+~
+~
+0 -1 12215
+D3
+The astral field leads off into infinity.
+~
+~
+0 -1 12289
+D4
+The astral field leads off into infinity.
+~
+~
+0 -1 12233
+D5
+It might be dangerous, it might not...
+Be careful, as always.
+~
+~
+0 -1 12245
+D6
+A room looms up ahead. That is Very odd in this realm...
+Careful now...
+~
+~
+0 -1 12251
+D7
+~
+~
+0 -1 12224
+D8
+There might be danger, or there might not.
+~
+~
+0 -1 12214
+S
+#12291
+Travelling the Astral Plane~
+You find yourself floating in a field of blackness, filled with tiny
+tendrils of silvery light and insubstantial shining motes of dust. The
+weightlessness of this environment is somewhat disorienting, and you
+don't know why, but you have a headache, and with being in the astral
+for so long, you experience a sensation of deja vu...
+~
+122 12297 0
+0d0+0 0 0
+D2
+The astral field leads off into infinity.
+~
+~
+0 -1 12291
+D5
+The astral field leads off into infinity.
+~
+~
+0 -1 12291
+D6
+The astral field leads off into infinity.
+~
+~
+0 -1 12223
+D7
+The astral field leads off into infinity.
+~
+~
+0 -1 12291
+D8
+The astral field leads off into infinity.
+~
+~
+0 -1 12291
+D9
+The astral field leads off into infinity.
+~
+~
+0 -1 12291
+S
+#12292
+Travelling the Astral Plane~
+You have come upon a seemingly calm area of the astral field. You don't
+know how long this may last, but will gladly take advantage of any rest
+you can find during your travels. A few floating rocks provide excellent
+places to sit. All about you the astral field stretches out.
+~
+122 12300 0
+0d0+0 0 0
+D1
+The astral field stretches out in that direction.
+~
+~
+0 -1 12226
+D2
+The astral plane stretches out into infinity.
+~
+~
+0 -1 12230
+D3
+The astral field continues into infinity.
+~
+~
+0 -1 12232
+D4
+You see more of this astral plane.
+~
+~
+0 -1 12235
+D8
+The astral field stretches out in that direction.
+~
+~
+0 -1 12247
+S
+#12293
+~
+~
+122 12288 0
+0d0+0 0 0
+S
+#12294
+~
+~
+122 12288 0
+0d0+0 0 0
+S
+#12295
+~
+~
+122 12288 0
+0d0+0 0 0
+S
+#12296
+~
+~
+122 12288 0
+0d0+0 0 0
+S
+#12297
+~
+~
+122 12288 0
+0d0+0 0 0
+S
+#12298
+~
+~
+122 12288 0
+0d0+0 0 0
+S
+#12299
+~
+~
+122 12288 0
+0d0+0 0 0
+S
+$

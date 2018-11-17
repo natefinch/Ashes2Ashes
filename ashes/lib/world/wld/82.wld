@@ -1,0 +1,2120 @@
+#8200
+The drawbridge~
+You are standing on an old wooden drawbridge. Below you is the castle moat,
+and you see a couple of fearsome-looking moat monsters lurking down below.
+You do a double-take as you realize that one of them has a bright red bow tied
+around its head. You smile and lean closer, and the beast almost snaps your
+head off! Must be magic involved, you surmise. You can go into the castle to
+the west, or back along the magic path to the east.
+~
+82 4 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1632
+D3
+~
+~
+0 -1 8206
+S
+#8201
+Northwestern Corner of the Great Hall~
+This is the northwestern corner of the Great Hall of mighty Castle Roogna.
+A number of shining gems, jewelry, and objets d'art are stored behind a
+glass case here. The amount of dust on the glass seems to display that gold
+and gems are not particularly prized here in Xanth, and you wonder again at
+the strangeness of this land and its people. The Hall extends to the south
+and to the east.
+~
+82 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8202
+D2
+~
+~
+0 -1 8204
+S
+#8202
+North End of the Great Hall~
+You are at the north end of the Great Hall. The Great Hall continues to the
+south, east, and west, and to the north you see a long hallway with doors
+on the east and west sides. At the end of the hallway seems to be a small
+staircase leading down, but it is hard to tell from this distance.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8214
+D1
+~
+~
+0 -1 8203
+D2
+~
+~
+0 -1 8205
+D3
+~
+~
+0 -1 8201
+S
+#8203
+Northeastern Corner of the Great Hall~
+You are in the northeastern corner of Castle Roogna's Great Hall. A number of
+beautiful paintings and tapestries are hung from the wall here. You notice
+one in particular of a huge barbarian riding the back of a centaur and waving
+a thin hoop made of gold at a swarm of harpies. It is entitled "The Building
+of Castle Roogna", strangely enough. The Hall extends to the south and west.
+~
+82 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8206
+D3
+~
+~
+0 -1 8202
+S
+#8204
+West End of the Great Hall~
+You are at the western end of Castle Roogna's Great Hall. Before you is a
+smallish throne, sheathed in gold, but not to the point of gaudiness. Xanth
+is a simple kingdom, and feels no need to drape its rulers in garish finery.
+Occupying the seat of power is a fairly handsome young man who does not look
+entirely comfortable with his situation, for he sits there frowning and lost
+in thought. Perhaps you should await His Majesty's pleasure instead of making
+a nuisance of yourself. The Hall extends to the north, south, and east, and
+to the west lies a narrow hallway that passes two doors and ends at a small
+stone staircase leading up to another part of the castle.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8201
+D1
+~
+~
+0 -1 8205
+D2
+~
+~
+0 -1 8207
+D3
+~
+~
+0 -1 8218
+S
+#8205
+The Center of the Great Hall~
+You are in the center of the castle's Great Hall. It is plushly carpeted, but
+rather bare. Evidently there are only a few people living at the castle, so
+the center of the hall is only used for dining when a lot of visitors show up.
+This gives you a strangely homey feeling, and you look upon the place in a
+new light. The Great Hall extends in all four cardinal directions.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8202
+D1
+~
+~
+0 -1 8206
+D2
+~
+~
+0 -1 8208
+D3
+~
+~
+0 -1 8204
+S
+#8206
+East End of the Great Hall~
+You are in the Great Hall of mighty Castle Roogna. The castle was named for
+the king who ordered it constructed, many many years ago. It has survived
+invasions, curses, dragon attacks, and wiggles, and it can certainly survive
+you. The Great Hall extends to the north, east, and west, the drawbridge lies
+to the south. You see a simple golden throne at the western end of the hall.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8203
+D1
+~
+~
+0 -1 8200
+D2
+~
+~
+0 -1 8209
+D3
+~
+~
+0 -1 8205
+S
+#8207
+Southwest Corner of the Great Hall~
+You are in the southwestern corner of Castle Roogna's Great Hall. There are
+a few books on a shelving unit over here, and a dumbwaiter leading up to the
+top floor of the castle. A comfortable chair sits near the shelves, and a
+glowing ball is suspended from a chain hanging over the chair. You scan a
+few of the titles, but nothing looks particularly interesting. The Hall
+extends to the north and east from here.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8204
+D1
+~
+~
+0 -1 8208
+S
+#8208
+South End of the Great Hall~
+You are at the southern end of the Great Hall of Castle Roogna. A set of
+beautiful mahogany shelves holds a number of crystalline figurines, each of
+which is priceless. You step cautiously around them to avoid breakage. The
+Hall continues to the north, east, and west, and a long hallway leads south
+from here, with door on the east and west walls. It appears as though there
+is a stairwell leading down at the end of the hallways, but you are too far
+away to tell for sure.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8205
+D1
+~
+~
+0 -1 8209
+D2
+~
+~
+0 -1 8210
+D3
+~
+~
+0 -1 8207
+S
+#8209
+Southeastern Corner of the Great Hall~
+You are in the southeastern corner of mighty Castle Roogna's splendid great
+hall. A large number of beautifully crafted statues are here. You see one
+of midnight black, depicting a beautiful mare, entitled "Mare Imbrium, once
+King of Xanth". What? These people once had a horse as ruling monarch? On
+the side opposite this statue is a silver one of the same size, which looks
+strangely familiar...it is the Gap Dragon! At the bottom of the statue is
+the legend "HERO DRAGON". Well, that dragon didn't seem heroic to you...
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8206
+D3
+~
+~
+0 -1 8208
+S
+#8210
+The southern wing~
+You are in a narrow hallway at the southern end of Castle Roogna. To the east
+and west are the doors to some guest chambers, the Great Hall lies to the
+north, and the hallway continues to the south. At the southern end of the
+hallway you spy a staircase leading down.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8208
+D1
+A wooden door sheathed in gold leads into the chamber.
+~
+door~
+1 -1 8227
+D2
+~
+~
+0 -1 8211
+S
+#8211
+The southern wing~
+You are walking down a narrow hallway in the southern portion of Castle Roogna.
+The hallway continues north and south and ends in a small stone staircase
+leading down, further to the south.  There are some guest chambers here
+for visiting VIP's and their families.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8210
+D2
+~
+~
+0 -1 8212
+S
+#8212
+The southern wing~
+Continuing down this narrow hallway in the southern part of Castle Roogna, you
+stop for a moment to consider your options. Two large, heavy wooden doors on
+the east and west sides of the hallway bar passage into a couple of guest
+chambers, for use by friends and relations of the Royal Family, the hallway
+continues to the north, and to the south, you see a small stone staircase that
+leads down into another part of the castle.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8211
+D1
+A large, heavy door leads into the chamber.
+~
+door~
+1 -1 8231
+D2
+~
+~
+0 -1 8213
+D3
+A large, heavy wooden door leads into the chamber.
+~
+door~
+1 -1 8230
+S
+#8213
+The staircase to the cellars~
+You are standing at a small cul-de-sac in the southern portion of the castle.
+To the north lies a long hallway lined with doors on the east and west sides,
+or you may descend the small stone staircase and enter the cellars.
+~
+82 12 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8212
+D5
+~
+~
+0 -1 8240
+S
+#8214
+The northern wing~
+You are in a small hallway in the northern part of Castle Roogna. The floor is
+made of heavy stone, but a thick, soft carpet absorbs the shock of your
+footsteps. The hallway continues north, to the south lies the Great Hall, and
+heavy doors made of oak lie to the east and west. At the end of the hallway,
+you see a small staircase leading down.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8215
+D1
+A heavy oaken door leads into a chamber here.
+~
+door~
+1 -1 8225
+D2
+~
+~
+0 -1 8202
+S
+#8215
+The northern wing~
+You are walking down a narrow hallway in the northern part of Castle Roogna.
+To the east and west, stout oaken doors stand before the entrances to some
+of the castle's guest chambers, and the hall continues north and south. At
+the northern end of the hall you see a staircase going down.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8216
+D1
+A sturdy oaken door leads into the chamber.
+~
+door~
+1 -1 8223
+D2
+~
+~
+0 -1 8214
+S
+#8216
+The northern wing~
+You are walking down a hallway in the northern part of Castle Roogna. Directly
+to the north of you is a small staircase, leading down to another part of the
+castle, and to the east and west lie heavy oaken doors, leading into some
+guest chambers. To the south, the hallway continues.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8217
+D2
+~
+~
+0 -1 8215
+D3
+A stout wooden door leads into the chamber.
+~
+door~
+1 -1 8220
+S
+#8217
+The staircase to the cellars~
+You are standing in a small cul-de-sac in the northern wing of Castle Roogna.
+The hallway extends back to the south, or you can descend the small stone
+staircase that leads into the dark and creepy cellars of the ancient castle.
+~
+82 12 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8216
+D5
+~
+~
+0 -1 8257
+S
+#8218
+The western hallway~
+You are in a small hallway leading west, just west of the Great Hall, right
+behind the throne in fact. A pair of thin wooden doors lie on the north
+and south sides of the hallway, and you detect the bustling sounds and the
+mouth-watering smells of the castle kitchens to the south. The northern door
+is quiet, but does not seem to be locked if you care to look around. To the
+west lies a large wooden staircase that leads up to the top floor of the
+castle, where you might find the rest of the Royal Family.
+~
+82 8 0
+0d0+0 0 0
+D0
+A thin wooden door takes you into the room.
+~
+door~
+1 -1 8235
+D1
+~
+~
+0 -1 8204
+D2
+A thin wooden door leads you into the kitchens.
+~
+door~
+1 -1 8237
+D3
+~
+~
+0 -1 8219
+S
+#8219
+The staircase to the second floor~
+You are standing before a large staircase made of rich, dark wood. It leads
+up to the second floor of the castle. To the east, you see a hallway that
+leads past the castle kitchens into the Great Hall of Castle Roogna.
+~
+82 12 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8218
+D4
+~
+~
+0 -1 1691
+S
+#8220
+Humfrey and the Gorgon's chamber~
+This chamber is used by Good Magician Humfrey and his stunning wife, the
+Gorgon, when they need a break from their hectic life at their own castle.
+This room appears to be waging a constant war between chaos and order, with
+an uneasy truce keeping the peace. Several pairs of socks are scattered across
+the bed, not yet sorted to Humfrey's satisfaction, and a bunch of vials sit
+haphazardly on the small table in the center of the room, having yet to be
+examined and classified. However, there are some pretty curtains on the clean
+glass windows, and the whole room is remarkably free of dust. It looks like
+Humfrey has a good woman in the Gorgon; let's hope he appreciates it!
+~
+82 8 0
+0d0+0 0 0
+D1
+A stout wooden door leads out of the chamber.
+~
+door~
+1 -1 8216
+S
+#8221
+The second challenge~
+Ok, you've made it past the first challenge, now what?  Somehow you
+have to get by this HUGE ogre.  Perhaps fighting him isn't the best
+idea.  Besides, brains always overcomes brawn, doesn't it?  This roo,
+is a large cage, no doubt to keep the ogre from wrecking the rest of
+the castle and generally wreaking havoc.  There is a huge pile of food
+in one corner and you can see a small (compared to to the ogre) trapdoor
+in the cage where the tray is slid through.
+The floor is solid stone, and the bars look think enough that the ogre
+can't bend them... of course this means you'll have no chance to bend them
+either.  Maybe there is another way...
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+drawbridge~
+1 -1 1637
+D2
+~
+bars~
+2 8276 8226
+D8
+~
+secret~
+1 -1 8226
+S
+#8222
+Jordan and Threnody's chamber~
+This room is used by Jordan the barbarian and his main squeeze Threnody, the
+half-demon songstress once cursed to remain outside the castle or see it fall
+to pieces. King Dor eventually located a counterspell, and now the happy 
+couple are free to stay in the castle whenever their adventures bring them by.
+This room is furnished with a large, comfortable double bed, a small table
+with a large bowl of fresh fruit on it, a sturdy weapons rack with various
+polished devices of doom on it, and some pretty curtains on the window. Looks
+like these two are very skilled at reaching a compromise.
+~
+82 8 0
+0d0+0 0 0
+S
+#8223
+Grundy and Rapunzel's chamber~
+This chamber belongs to Grundy the Golem and his wife Rapunzel. The furniture
+here is very small, and bespeaks a woman's touch. On one side is a vanity
+with a lot of fine-toothed combs neatly arranged on it, and on the other is
+a small bed, obviously designed for two people despite being no bigger than
+a pillow. There is a chair of normal size over by the door, with a set of
+knitting needles and some yarn by it. Wonder who uses it?
+~
+82 8 0
+0d0+0 0 0
+D3
+A sturdy oaken door leads out of the chamber.
+~
+door~
+1 -1 8215
+S
+#8224
+Into the Night~
+You are floating among the stars, above the atmosphere, Earth layed
+out beneath you in a beautiful panorama.  You can see forever in all
+directions, except below you where the browns and blues and greens
+of the earth fill your vision.  It is perfectly quiet and serene up
+here, for no sound may pass through this vacuum.  The moon shines
+brightly off to one side, it's soft light bathing your body in a wan
+yellow glow.  This is where MidKnight goes to be alone, or just to
+rest and think, for nothing is quite so serene or peaceful as his
+night sky.
+~
+82 513 2
+0d0+0 0 0
+D5
+~
+~
+0 -1 1218
+S
+#8225
+Chester Centaur's chamber~
+This is the chamber used by Chester Centaur when he is visiting the castle
+overnight, away from his lovely filly Cherie in Centaur Village. It is very
+sparsely furnished, for otherwise there wouldn't be enough room for both
+Chester and the furniture. You see a hammock tied up next to the wall, and
+a few coils of rope, quivers of arrows, and a sharp sword sit ready to be
+used in a small rack near the window. Chester is getting old, but he has
+obviously not lost his taste for adventure.
+~
+82 8 0
+0d0+0 0 0
+D3
+A heavy oaken door leads back into the hallway.
+~
+door~
+1 -1 8214
+S
+#8226
+The third and final challenge~
+Two down, one to go.  Third time's a charm, right?  Onward and upward.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+bars~
+1 8276 8221
+D2
+~
+~
+0 -1 8258
+S
+#8227
+Iris and Trent's chamber~
+This chamber is perhaps a bit more lavish than the others, being reserved for
+King Emeritus Trent and Queen Emeritus Iris, the former rulers of the Land of
+Xanth. A big four-poster sits in the center of the room, and lovely tapestries
+cover the walls. In the corner is a small desk with writing materials on it,
+and a huge closet on the other side of the room holds many magnificent clothes.
+You are almost awestruck by the splendor here, but then you recall that Iris's
+talent is said to be illusion, so can you really trust what you see?
+~
+82 8 0
+0d0+0 0 0
+D3
+A wooden door sheathed in gold leads out of the chamber.
+~
+door~
+1 -1 8210
+S
+#8228
+Xavier and Zora's chamber~
+This chamber is used by Xavier and Zora, two friends of Dor and Irene's who
+live in central Xanth and occassionally stop by to say hi. You notice that
+most of the furniture here follows a yellow motif, yellow being Xavier's
+favorite color. You see a dartboard on the wall, imported from Mundania, that
+has a number of scorch marks on it, mostly clustered around the center. The
+room seems fairly quiet and ordinary, all things considered.
+~
+82 8 0
+0d0+0 0 0
+S
+#8229
+Murphy and Vadne's chamber~
+Murphy, a former contender for kingship of Xanth, resides here with his wife,
+the Sorceress Vadne. Murphy, a powerful Magician who was exiled into Mundania
+for abusing his talent of making things go wrong, appears to have repented his
+acts and now leads a quiet life in Castle Roogna, waiting for the day when his
+talent may be needed again. Vadne, exiled for a similar reason, has similarly
+"gone straight", and their son Grey is in fact engaged to Princess Ivy. This
+room is a bit more Mundane than the others, perhaps because of the occupants'
+long imprisonment there.
+~
+82 8 0
+0d0+0 0 0
+S
+#8230
+Chem Centaur's chamber~
+This chamber has a well-worn floor, as if a very heavy person uses it. You
+notice that this chamber is pretty sparsely furnished, and that all of the
+tables are much higher off the ground than a human would want to use. This
+looks like a centaur's chamber, come to think of it. Several drafting tables
+with mapping gear stand ready at strategic places about the room. This must
+be Chem Centaur's chamber, since Chem is the Official Royal Mapmaker for the
+Land of Xanth. She spends a lot fo time at Castle Roogna, both because of her
+job and because centaurs with magic talents are shunned by their people. Chem
+is a nice young lady for all of that, though.
+~
+82 8 0
+0d0+0 0 0
+D1
+A large, heavy wooden door leads out of the chamber.
+~
+door~
+1 -1 8212
+S
+#8231
+Chet Centaur's chamber~
+This chamber is where Chet Centaur, one of King Dor's closest friends, stays
+when he is around Castle Roogna. Chet is a very intelligent guy, with a gift
+for mathematics, and he also has a magic talent like his sister Chem, which
+is turning boulders into pebbles. He calls this calculus, and uses it to
+help him calculate, but not many people understand what he means by that. He
+is also a very resourceful individual, and a good asset to the kingdom. His
+room is furnished in a Spartan fashion, but is comfortable enough.
+~
+82 8 0
+0d0+0 0 0
+D3
+A large, heavy door leads out of the chamber.
+~
+door~
+1 -1 8212
+S
+#8232
+The castle dining area~
+You are in the northwest corner of the dining area, right where the L-shaped
+table bends. The center position appears to have been reserved for King Dor,
+for the place setting there is gold instead of silver. But at least he is
+friendly enough to eat at the same table as the rest of the castle, unlike
+other kings you have heard of. The dining area extends to the south and east
+from here, but it looks like more of the same.
+~
+82 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8233
+D2
+~
+~
+0 -1 8234
+S
+#8233
+The castle dining area~
+You are standing in front of the northern portion of the L-shaped table. It
+seems to be made of ironwood, for it gives off a dull metallica noise as you
+tap it with your fingernail. A number of places are already set here, and the
+plates look to be made of fine porcelain, while the tablware appears to be
+real sterling silver. This looks like a very relaxing place to have a meal.
+The dining area extends to the south and west.
+~
+82 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8235
+D3
+~
+~
+0 -1 8232
+S
+#8234
+The castle dining area~
+You are standing at the western portion of the L-shaped table, admiring the
+intricate carvings on the sides. It's amazing that anyone was able to carve
+the table, for usually it takes the strength of an ogre to even scratch it,
+but in Xanth, anything is possible, with magic. At any rate, the carvings
+are nice, and you feel you have about exhausted the amusement value of the
+castle dining area. It extends to the north and east from here.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8232
+D1
+~
+~
+0 -1 8235
+S
+#8235
+The castle dining area~
+This is where the residents of Castle Roogna usually take their meals, unless
+there is an important function or a lot of guests, in which case the Great
+Hall is used. A very large L-shaped table covers the whole northwest corner
+of this room, and fifteen or twenty places have been set. A few knick-knacks
+are littered about the place, probably to aid digestion. The dining area
+extends to the north and west from here.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8233
+D2
+A thin wooden door takes you back into the hallway.
+~
+door~
+1 -1 8218
+D3
+~
+~
+0 -1 8234
+S
+#8236
+The castle kitchens~
+Ummmmm, this place is really making your stomach growl. A busy group of cooks
+are making pastry over here. They look like buns, but you notice that the
+cooks keep burning their fingers on them and speaking sharply to each other.
+These must be the famous hot cross puns you have heard about. The kitchens
+extend to the south and east.
+~
+82 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8237
+D2
+~
+~
+0 -1 8238
+S
+#8237
+The castle kitchens~
+You have entered the kitchens of Castle Roogna, and boy does it smell good in
+here! All around you, talented cooks are using magic and good old elbow grease
+to prepare delightful concoctions guaranteed to make your mouth water. The 
+cooks seem a little preoccupied right now, so maybe you can grab yourself a
+taste without anybody noticing. The kitchens extend to the south and west, or
+you can go back into the hallway through the door to the north.
+~
+82 8 0
+0d0+0 0 0
+D0
+A thin wooden door takes you back into the hallway.
+~
+door~
+1 -1 8218
+D2
+~
+~
+0 -1 8239
+D3
+~
+~
+0 -1 8236
+S
+#8238
+The castle kitchens~
+A few sinks are over here, and several young lads are washing dishes. Some of
+them appear to be using the soap and water method, but a few brave souls are
+using some magic cleaning powder, which is forever running out. There are few
+things more humiliating than running around the castle chasing running powder.
+They appear engrossed in their task and pay you no mind. The kitchens extend
+to the north and east from here.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8236
+D1
+~
+~
+0 -1 8239
+S
+#8239
+The castle kitchens~
+You are over by the big firepit, and it is pretty darned hot over here. It
+looks like the cooks here are preparing tonight's main course, dragon steak
+with hot sauce. It isn't often available, because far more men are eaten by
+dragons than dragons eaten by men, but it is a dish well worth waiting for.
+The kitchens extend to the north and west from here.
+~
+82 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8237
+D3
+~
+~
+0 -1 8238
+S
+#8240
+The cellars of Castle Roogna~
+You have descended the staircase, and entered the dark and musty cellars of
+Castle Roogna. These look to have been abandoned for years, at least by
+humans. But since so much of Xanth is illusion, there really is no way to
+be sure what is down here. The cellars continue to the north, or you can go
+back up the staircase and into the castle proper.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8241
+D4
+~
+~
+0 -1 8213
+S
+#8241
+The cellars of Castle Roogna~
+Pushing aside some thick and sticky cobwebs, you continue your exploration of
+the cellars. There doesn't appear to be too much of interest in this portion,
+but you hear some odd noises from the north that lead you to believe you are
+not alone down here. You can continue north or south through the cellars.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8242
+D2
+~
+~
+0 -1 8240
+S
+#8242
+The cellars of Castle Roogna~
+You are in the dark and dirty cellars below Castle Roogna. They continue north
+and south from here, and there is a small alcove to the east, but it is too
+dark to tell what might lie there. You'll have to check it out, if you want
+to know. Hopefully it isn't anything dangerous.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8246
+D1
+~
+~
+0 -1 8243
+D2
+~
+~
+0 -1 8241
+S
+#8243
+The cellars of Castle Roogna~
+You are in a small offshoot of the cellars. It appears that some kegs of beer
+have been left here, but the foul smell of rotting wood informs you that there
+is nothing of value left. In fact, it'd be a good idea to get out of here
+before you get sick. The cellars continue to the west.
+~
+82 9 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8242
+S
+#8244
+The cellars of Castle Roogna~
+Yuck! This part of the cellar looks like a breeding ground for diseases. A
+bunch of big rats scurry around a pile of rotting meat, nearly two weeks old
+by the smell of it. You hear a muffled crowing, and you realize that a nest
+of cockroaches must be nearby. You feel sick to your stomach, and decide
+that a hasty retreat is definitely in order. The cellars extend to the north
+and east from here.
+~
+82 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8245
+D1
+~
+~
+0 -1 8246
+S
+#8245
+The cellars of Castle Roogna~
+The dust is really stirred up over here. It looks like something roams around
+this area a lot, something about man-sized from the shape of the tracks. The
+trail is kind of indistinct, so you are not positive what made the tracks,
+but you are convinced that you are definitely not alone down here...the
+cellars extend to the south and east.
+~
+82 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8247
+D2
+~
+~
+0 -1 8244
+S
+#8246
+The cellars of Castle Roogna~
+The cellars widen out quite a bit here, and you notice that the dust on the
+floor has been stirred by something. Examining more closely, you determine
+that it looks like the floor of the cellar has been scraped by bones. You
+feel a sudden chill...is this how the King disposes of his enemies? He
+seemed like such a nice guy! Then you hear the sound of bone clicking on the
+floor from somewhere in the darkness, and you break into a sweat as your hand 
+grips the handle of your weapon tightly. The cellars continue to the north,
+south, and west.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8247
+D2
+~
+~
+0 -1 8242
+D3
+~
+~
+0 -1 8244
+S
+#8247
+The cellars of Castle Roogna~
+You are walking through the dark, dingy cellars of Castle Roogna when suddenly
+your light source reflects off of something blindingly white. It's a human
+skeleton, and it's headed straight for you! You choke back a scream and ready
+your weapon, but it does not appear interested in tearing you to shreds. It
+speaks (?) in a cultured, stoic voice: "My name is Marrow Bones. Can I help
+you with something?" You feel heartily confused. The cellars extend to the
+south, west and east.
+~
+82 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8248
+D2
+~
+~
+0 -1 8246
+D3
+~
+~
+0 -1 8245
+S
+#8248
+The cellars of Castle Roogna~
+You are in the cramped and dusty cellars of mighty Castle Roogna. As you step
+on the floor, something goes *crunch* under your foot, and an absolutely
+sickening smell wafts up to your nose. As you mop the tears away from your
+eyes and desperately pray to lose your sense of smell, you realize that you
+must have stepped on a stink bug. Yuck! The cellars extend north and west
+from where you are now.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8249
+D3
+~
+~
+0 -1 8247
+S
+#8249
+The cellars of Castle Roogna~
+The cellars appear to be getting damper here. You must be right above the
+water table. In fact, there's a small pool right in front of you, with a
+small leather shoe sitting right in the middle. Must be a water moccassin.
+The cellars extend north and south from here.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8250
+D2
+~
+~
+0 -1 8248
+S
+#8250
+The cellars of Castle Roogna~
+You are just before another area where the cellar widens out. You seem to hear
+some clicking noises from the north, but the acoustics down here are pretty
+strange. At any rate, the cellars extend north and south from here.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8251
+D2
+~
+~
+0 -1 8249
+S
+#8251
+The cellars of Castle Roogna~
+Not only have the cellars gotten wider here, they also appear darker than
+before. Also colder. The whole effect is giving you the chills, and you
+begin to yearn for the open countryside again. And then there are those
+nasty clicking noises, from up ahead...the cellars continue north, south,
+and west from here.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8252
+D2
+~
+~
+0 -1 8250
+D3
+~
+~
+0 -1 8253
+S
+#8252
+The cellars of Castle Roogna~
+Trying to keep your feet out of the rat droppings, you almost step on what
+your light source reveals as a shapely female human skeleton. You let out
+an involuntary yelp of fear and jump back, but the skeleton does not seem
+interested in ripping you apart. Instead, she says in a sweet voice (?):
+"Hi, I'm Grace'l Ossein. Have you seen my husband Marrow?" You shake your
+head in wonder. What a weird place! The cellar continues south and west.
+~
+82 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8251
+D3
+~
+~
+0 -1 8254
+S
+#8253
+The cellars of Castle Roogna~
+As you enter this portion of the cellars, a whining little voice down at your
+feet starts piping something about the Middle East Crisis, the Generation X
+Crisis, the arms race, the environmental situation, and on and on. You yawn,
+and look down. A small reddish-brown beetle is speaking in a very serious
+voice about all the troubles of the world today. You yawn again, and push
+it over with your foot. It must be a boring beetle. The cellars extend north
+and east from here.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8254
+D1
+~
+~
+0 -1 8251
+S
+#8254
+The cellars of Castle Roogna~
+You are walking along in the spooky cellars of the castle, when suddenly a
+nameless feeling of dread fills you. You are just about to wet your pants in
+fright, when you decide to name the dread "Irving". Suddenly, the fear
+subsides, for that is the only way to deal with a Nameless Dread. Who could
+be scared of something called "Irving"? The cellars continue to the north,
+south, and east from where you are now.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8255
+D1
+~
+~
+0 -1 8252
+D2
+~
+~
+0 -1 8253
+S
+#8255
+The cellars of Castle Roogna~
+You are walking around in the dingy, dusty cellars of Castle Roogna. To the
+south, the cellar gets much wider, but it also continues to the west from
+here. You seem to hear a clicking noise coming from the south.
+~
+82 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8254
+D3
+~
+~
+0 -1 8256
+S
+#8256
+The cellars of Castle Roogna~
+You are walking through the cellars of Castle Roogna, where it appears no
+humans have been for quite a long time. The dust is thick, nearly choking,
+here, and cobwebs are everywhere. The cellars continue to the east, and to
+the north you see a small stone stairwell leading up.
+~
+82 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8257
+D1
+~
+~
+0 -1 8255
+S
+#8257
+The cellars of Castle Roogna~
+You are standing in front of a small stone stairwell that leads back up into
+the castle proper. The cellars of the castle continue to the south, and you
+get the distinct feeling that you are not alone down here...
+~
+82 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8256
+D4
+~
+~
+0 -1 8217
+S
+#8258
+Inside the Good Magician's Castle~
+Congratulations! You have successfully defeated the three challenges required
+to gain entrance to the Good Magician's Castle. Now all you have to do is
+find him, and ask him your Question. And looking around this castle, that
+might be pretty hard to do. Directly to the south of you is an intersection
+between two wide hallways, one leading north and south, and the other leading
+east and west. The whole castle has a cluttered look to it, though the walls
+and floors are spotlessly clean.
+~
+82 14364 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8226
+D2
+~
+~
+0 -1 8262
+S
+#8259
+The northwest corner~
+You are standing at the northwest corner of the Good Magician's Castle. To the
+north is a wooden door, identical to the others you have seen, and the hallway
+proceeds east and south from here.
+~
+82 14344 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8260
+D2
+~
+~
+0 -1 8266
+S
+#8260
+The northwestern hallway~
+You are walking through a wide, clean hallway in the Good Magician's castle.
+The hallway continues east and west, and to the north and south you see two
+spotlessly clean and unmarked wooden doors.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads north from here.
+~
+door~
+1 -1 8281
+D1
+~
+~
+0 -1 8261
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8286
+D3
+~
+~
+0 -1 8259
+S
+#8261
+The northwestern hallway~
+You are walking around a wide, clean hallway leading east and west that
+nevertheless gives the impression of being cluttered. The hallway continues
+west, to the east is an intersection, and unmarked wooden doors lie to the
+north and south from here.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads north from here.
+~
+door~
+1 -1 8282
+D1
+~
+~
+0 -1 8262
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8287
+D3
+~
+~
+0 -1 8260
+S
+#8262
+An intersection~
+You are at an intersection between two wide hallways in the Good Magician's
+castle. To the east and west, the hallway is lined with doors on both the
+north and south sides, all identical, spotlessly clean, and unmarked. To the
+north, you see the entrance to the castle and the sunny fields of Xanth
+beyond, and to the south, the hallway continues, leading past two doors on
+both the east and west sides, until finally reaching a stone staircase going
+up, at the end of the hallway.
+~
+82 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8258
+D1
+~
+~
+0 -1 8263
+D2
+~
+~
+0 -1 8267
+D3
+~
+~
+0 -1 8261
+S
+#8263
+The northeastern hallway~
+You are walking through a wide, clean hallway in the northeastern portion of
+Good Magician Humfrey's castle. The hallway continues east, an intersection
+lies to the west, and to the north and south are two unmarked wooden doors,
+identical to all the others you have seen in the castle.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads north from here.
+~
+door~
+1 -1 8283
+D1
+~
+~
+0 -1 8264
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8288
+D3
+~
+~
+0 -1 8262
+S
+#8264
+The northeastern hallway~
+You are in the northeastern hallway of the Good Magician's castle. The hall
+extends to the east and west, and to the north and south stand two identical
+wooden doors. The monotony of the place is beginning to get to you.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads north from here.
+~
+door~
+1 -1 8284
+D1
+~
+~
+0 -1 8265
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8289
+D3
+~
+~
+0 -1 8263
+S
+#8265
+The northeast corner~
+You have reached the northeast corner of the castle. Hallways run to the west
+and south, and to the north you see a wooden door exactly the same as all the
+others in the castle. Whoever designed this place sure didn't have much time,
+or much imagination...
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads north from here.
+~
+door~
+1 -1 8285
+D2
+~
+~
+0 -1 8268
+D3
+~
+~
+0 -1 8264
+S
+#8266
+The western hallway~
+You are walking down a hallway in the western portion of Good Magician
+Humfrey's Castle. The hallway is wide and spotlessly clean, and leads north
+and south. To the east, you see a stout-looking wooden door.
+~
+82 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8259
+D1
+A wooden door leads east from here.
+~
+door~
+1 -1 8286
+D2
+~
+~
+0 -1 8269
+S
+#8267
+The central hallway~
+You are traversing the central hallway through the Good Magician's castle.
+Even though the walls and floor are spotlessly clean, the place still manages
+to give off an ambience of cluttered-ness. Wise old magicians tend to pick
+up a lot of mystical trash, you assume. The hallway continues south, to the
+north you see an intersection, and there are identical, unmarked wooden doors
+to the east and west of you.
+~
+82 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8262
+D1
+A wooden door leads east from here.
+~
+door~
+1 -1 8288
+D2
+~
+~
+0 -1 8270
+D3
+A wooden door leads west from here.
+~
+door~
+1 -1 8287
+S
+#8268
+The eastern hallway~
+You are in the eastern hallway of the castle, which runs north and south from
+here. To the west, you see another of the now-familiar wooden doors.
+~
+82 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8265
+D2
+~
+~
+0 -1 8271
+D3
+A wooden door leads west from here.
+~
+door~
+1 -1 8289
+S
+#8269
+The western hallway~
+You are in a wide, clean hallway in the western portion of the castle. The
+hallway continues north and south, and to the east lies a stout wooden door,
+that is completely unmarked and looks identical to all the others you have
+seen in the castle so far. Apparently Humfrey is an efficient man.
+~
+82 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8266
+D1
+A wooden door leads east from here.
+~
+door~
+1 -1 8290
+D2
+~
+~
+0 -1 8272
+S
+#8270
+The central hallway~
+You are walking down a hallway leading north and south, through the center of
+Good Magician Humfrey's castle. The hallway continues north and south, and at
+the northern end you see the drawbridge to the castle, while at the southern
+end you see a flight of stone stairs leading up to the second floor. There
+are also two unmarked wooden doors to the east and west of you.
+~
+82 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8267
+D1
+A wooden door leads east from here.
+~
+door~
+1 -1 8292
+D2
+~
+~
+0 -1 8275
+D3
+A wooden door leads west from here.
+~
+door~
+1 -1 8291
+S
+#8271
+The eastern hallway~
+Continuing through the eastern hallway, you see that it leads north and south
+from here, and that another of those tiresome wooden doors lies to the west.
+You are getting pretty bored with this whole endeavor.
+~
+82 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8268
+D2
+~
+~
+0 -1 8278
+D3
+A wooden door leads west from here.
+~
+door~
+1 -1 8293
+S
+#8272
+The southwest corner~
+You are in the southwest corner of Good Magician Humfrey's Castle, where the
+western and southern hallways meet. You can proceed north or east from here,
+or you can investigate a sturdy wooden door to the south.
+~
+82 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8269
+D1
+~
+~
+0 -1 8273
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8294
+S
+#8273
+The southwestern hallway~
+You are in a hallway in the southern portion of the castle. It is, of course,
+completely spotless. Either this castle is very new, or the cleaning staff is
+very efficient. The hallway proceeds east and west, and there are doors to
+the north and south from your present location.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads north from here.
+~
+door~
+1 -1 8290
+D1
+~
+~
+0 -1 8274
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8295
+D3
+~
+~
+0 -1 8272
+S
+#8274
+The southwestern hallway~
+This portion of the hallway looks identical to all the others you have
+encountered so far. It is as if this whole castle was made from prefabricated
+pieces, or something. The Good Magician must be a man of great knowledge and
+formidable resources! The hallway continues to the west, to the east lies an
+intersection, and there are unmarked wooden doors to the north and south.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads north from here.
+~
+door~
+1 -1 8291
+D1
+~
+~
+0 -1 8275
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8296
+D3
+~
+~
+0 -1 8273
+S
+#8275
+An intersection~
+You are at an intersection between the north-south and east-west hallways of
+Good Magician Humfrey's Castle. To the north, a wide, clean hallway leads to
+the drawbridge and the sunny plains of Xanth beyond, to the east and west, a
+similar hallway leads through the castle, and to the south you see a stone
+staircase leading up to the second floor of the castle.
+~
+82 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8270
+D1
+~
+~
+0 -1 8276
+D2
+~
+~
+0 -1 8279
+D3
+~
+~
+0 -1 8274
+S
+#8276
+The southeastern hallway~
+You are standing in a hallway in the southeastern part of Good Magician
+Humfrey's castle. To the east, the hallway continues, an intersection lies
+to the west, and to the north and south you see two more unmarked wooden
+doors, identical to all the others in the castle.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads north from here.
+~
+door~
+1 -1 8292
+D1
+~
+~
+0 -1 8277
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8297
+D3
+~
+~
+0 -1 8275
+S
+#8277
+The southeastern hallway~
+You are walking down another wide, clean hallway, in the southeastern portion
+of the Good Magician's castle. The hallway extends to the east and west, and
+to the north and south lie unmarked wooden doors.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads north from here.
+~
+door~
+1 -1 8293
+D1
+~
+~
+0 -1 8278
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8298
+D3
+~
+~
+0 -1 8276
+S
+#8278
+The southeast corner~
+You are in the southeast corner of Good Magician Humfrey's castle. Wide, clean
+hallways run to the north and west from here, and to the south is yet another
+wooden door, looking the same as all the others.
+~
+82 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8271
+D2
+A wooden door leads south from here.
+~
+door~
+1 -1 8299
+D3
+~
+~
+0 -1 8277
+S
+#8279
+The staircase~
+This large stone staircase leads straight up to the second floor. There are
+some funny smells coming from up there, but the Good Magician doesn't seem
+to be anywhere on the first floor, so you might as well go on up. To the
+north is an intersection between two hallways, if you change your mind.
+~
+82 14348 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8275
+D4
+~
+~
+0 -1 8300
+S
+#8280
+Inside a nice little cottage~
+You are in a small cottage way off in the wilderness, this looks to be the
+inhabited at the moment.  This is the home of Tandy and Smash, a half
+nymph and a half ogre.  They seem very friendly and invite you in, but
+becareful, Smash looks like he could be very mean if you try to do anything
+violent.  He loves Tandy and would give up his own soul to save her.
+~
+82 14348 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 1796
+S
+#8281
+A guest chamber~
+You are in a small chamber that appears to be used for housing "guests" of the
+Good Magician, those serving out the required year in exchange for their
+Answer. The chamber appears fairly comfortable, with a nice bed, desk, chair,
+and a small but adequate chest of drawers furnishing it. A door to the south
+leads back into the hallway.
+~
+82 14344 0
+0d0+0 0 0
+D2
+A wooden door leads out of the chamber.
+~
+door~
+1 -1 8260
+S
+#8282
+A storage room~
+This room is rather stark and bare of furnishings. It seems to be a storage
+room, for boxes, crates, bags, barrels, and other containers litter the
+floor. A caretaker is walking around here, absently rearranging things into
+more neatly ordered piles, and grumbling about how disorganized his master
+is. Apparently even powerful Magicians have some faults.
+~
+82 14344 0
+0d0+0 0 0
+D2
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8261
+S
+#8283
+A storage room~
+This room looks like it is being used to store coils of rope. You see a small
+elf running rope through his hands in an exasperated fashion, trying to make
+it back into nice neat coils. Someone has apparently been rummaging through
+here at random and messing everything up.
+~
+82 14344 0
+0d0+0 0 0
+D2
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8263
+S
+#8284
+A guest chamber~
+This chamber looks like it is used to house the Good Magician's "guests",
+those serving out the required year in order to obtain their Answer. It is
+apparently set up to accomodate a variety of different races, for there is
+a large tree growing right in the center of it, with a small pool close by.
+It is very big and spacious, and there is little by way of furnishings.
+Apparently some of the Magician's petitioners are not humanoids.
+~
+82 14344 0
+0d0+0 0 0
+D2
+A wooden door leads out of the chamber.
+~
+door~
+1 -1 8264
+S
+#8285
+A guest chamber~
+This looks like another guest chamber, though it looks more like a cave than
+a chamber. It is dark and gloomy, but warm and dry. There isn't much by the
+way of furniture, but some authentic human skulls give the place ambience.
+You feel a chill in your blood as you look around. Wonder if Humfrey has
+rules against molestation of Questioners?
+~
+82 9 0
+0d0+0 0 0
+D2
+A wooden door leads out of the chamber.
+~
+door~
+1 -1 8265
+S
+#8286
+A small library~
+To call this room a library is to use the term rather loosely. What is really
+looks like is what happens to a library after an explosion. A number of elves
+are crawling around on the heaped masses of reading material, trying to get
+it into some semblance of order, but the task looks hopeless from what you
+can see. You feel kinda sorry for the little guys, but they are probably
+working off their year of service, and so have been well-paid for their
+efforts. There are doors to the north and west to take you out of here.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8260
+D3
+A wooden door leads out of the "library".
+~
+door~
+1 -1 8266
+S
+#8287
+A storage room~
+This room is simply FULL of little vials of every shape and size. Lots of 
+them are scattered across the floor with their caps off, so those are most
+likely safe to pick up, but there are a bunch tossed randomly all over every
+flat surface in the room, tightly corked, and you shy away from those. You
+never can tell what will come out of one of the Good Magician's vials...
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door takes you back into the hallway.
+~
+door~
+1 -1 8261
+D1
+A wooden door takes you out of the storage room.
+~
+door~
+1 -1 8267
+S
+#8288
+The distillation room~
+This room looks quite a bit more organized than the others in the central
+part of the castle. In fact, it fairly gleams with shining metal. A large,
+beautifully polished and maintained distillation device sits on a low stone
+table in the middle of the room. A number of texts are neatly piled near the
+device, and sheafs of notes are stuck haphazardly into the texts. A few vials
+of chemicals are neatly stored and labeled on shelves at about chest height.
+Humfrey may be disorganized, but he is not a fool, you decide. You may exit
+this room to the north or west.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads out of the distillation room.
+~
+door~
+1 -1 8263
+D3
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8267
+S
+#8289
+The summoning room~
+As soon as you enter this room, you screech to a halt. There's a big huge
+pentagram right in the middle of the floor! A couple of braziers are pouring
+out acrid-smelling smoke, and magical sigils have been drawn all over the
+floor. Looks like some demonology goes on in here, and you probably don't
+want to stick around too long...
+~
+82 14345 0
+0d0+0 0 0
+D0
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8264
+D1
+A wooden door leads out of the summoning room.
+~
+door~
+1 -1 8268
+S
+#8290
+Another storage room~
+This room looks like it is used for "general storage" (i.e. "junk"). Lots of
+boxes, barrels, scroll cases, small statues, rodents, bones, bottles, bags,
+soap, ropes, and antelopes are here, and that only begins the list. A few of
+the Magician's servants are trying to sort all of this stuff, but the more
+they get classified, the more junk seems to be around. Poor guys. You can
+leave this room to the south or the west.
+~
+82 14344 0
+0d0+0 0 0
+D2
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8273
+D3
+A wooden door leads out of the storage room.
+~
+door~
+1 -1 8269
+S
+#8291
+The vivarium~
+There is definitely some heavy magic involved in this place, for as you open
+the door here, you find yourself in a garden filling many times the space
+that the room within could conceivably have held. A large variety of Xanth's
+flowering pants are here, including yellow buttercups (which are turning 
+slightly brown and rancid because of the hot sun), blue and green irises
+that blink their large eyes at you, and even a patch of skunk cabbages,
+with their broad white stripe and their putrid smell. Each of these is
+thoughtfully labeled with a small placard near its respective plant. This
+looks like a nice place to relax for awhile. There are doors to the south
+and east when (and if) you decide to leave.
+~
+82 14336 0
+0d0+0 0 0
+D1
+A wooden door leads out into the hallway.
+~
+door~
+1 -1 8270
+D2
+A wooden door leads out of the vivarium here.
+~
+door~
+1 -1 8274
+S
+#8292
+The copy room~
+Every good magician needs a way to copy his material, and this Good Magician
+is no exception. However, instead of the room full of scribes you expected,
+there is only a small cat sitting on a large wooden table. Fascinated, you
+watch as a bunch of elves lift up the disinterested beast, plant a scroll
+under its behind, and wait. After a moment, the cat begins purring, and a
+long white piece of paper comes out of its mouth. Must be a copy-cat...
+~
+82 14344 0
+0d0+0 0 0
+D2
+A wooden door leads south into the hallway.
+~
+door~
+1 -1 8276
+D3
+A wooden door leads out of the copy room.
+~
+door~
+1 -1 8270
+S
+#8293
+Humfrey's Private Menagerie~
+This room looks like it's much bigger than it should be. Inside you see a
+number of cages with some of Xanth's most prominent animal species. The
+animals look comfortable enough, and well-exercised. Apparently Humfrey
+is interested in biology as well as everything else. You decide to stay
+away from the cages...some of these beasts look dangerous! There are
+doors to the south and east, when you decide to leave.
+~
+82 14336 0
+0d0+0 0 0
+D1
+A wooden door leads out of the Menagerie.
+~
+door~
+1 -1 8271
+D2
+A wooden door leads out into the hallway.
+~
+door~
+1 -1 8277
+S
+#8294
+A guest chamber~
+This room is obviosuly used to house the Magician's "guests", those that are
+fulfilling their obligatory year of service in exchange for their Answer. It
+looks as if the Magician is a kindly master, for the room is clean and well-
+ordered, and looks like a simple but comfortable place to sleep. You notice
+a cozy bed, chair, desk, and chest of drawers furnishing the place. A door
+to the north takes you back into the hallway.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8272
+S
+#8295
+A guest chamber~
+This looks like another of those guest chambers. It looks basically the same
+as all the others, comfortable, functional, and realtively bare of decor.
+With all the people who come to the Magician for Answers, it's probably hard
+to please everybody, anyway. There is a door to the north.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8273
+S
+#8296
+A guest chamber~
+The word "chamber" is used rather loosely here. The door opens into a foul-
+smelling swamp, and a rather large one at that. Bunches of peat moss and some
+lilypads dot the blackish water, and the smell of wet mud is powerfully in
+evidence. Apparently not all of the Magician's supplicants have the same
+taste in domiciles. There is a door to the north.
+~
+82 14336 0
+0d0+0 0 0
+D0
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8274
+S
+#8297
+A guest chamber~
+Woah!! This door opens into a big cave, right at the edge of a humungous
+cliff! It must be six or seven hundred feet down! You see a nest piled up in
+the rear of the cave, but no eggs. This place is getting stranger and
+stranger! The door to the north takes you back to the hallway.
+~
+82 14336 0
+0d0+0 0 0
+D0
+A wooden door leads back to the hallway.
+~
+door~
+1 -1 8276
+S
+#8298
+A guest chamber~
+This looks like just another guest chamber the same as all the...well, the
+same as ALMOST all the others. Bed, chair, desk, chest of drawers. Yawn.
+Door to the north, too.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8277
+S
+#8299
+A guest chamber~
+This looks like yet another guest chamber, with the same setup as all of the
+other guest chambers (those constructed for humanoids, anyway) in the castle.
+A cozy bed, comfortable chair, wide desk, and small chest of drawers serve
+as furnishings to the otherwise spartan room. It looks comfortable enough,
+but not particularly homey. A door to the north leads back into the hallway.
+~
+82 14344 0
+0d0+0 0 0
+D0
+A wooden door leads back into the hallway.
+~
+door~
+1 -1 8278
+S
+$

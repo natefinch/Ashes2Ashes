@@ -1,0 +1,545 @@
+#15001
+king welmar kingwelmar~
+King Welmar~
+The wise King Welmar sits here in his throne.
+~
+In his later middle-age, with his beard starting to grey, King Welmar
+is still very powerfully built, and wouldn't take kindly to an attack.
+Despite that, you know he is well-loved throughout the land, and has
+a reputation as a wise and just ruler.
+~
+262218 136 1000 W
+69 48 -7 5d4+2800 4d8+16
+35000 150000
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+-70 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#15002
+ghost horrible~
+the horrible ghost~
+You hear a frightening wail, and see a horrible Ghost approaching.
+~
+The Ghost is almost translucent, and looks really SCARY!
+~
+44 524296 -700 W
+22 14 -6 25d6+416 2d8+2
+3000 137500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-60 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 10
+#15003
+jim guard royal~
+Jim the Royal guard~
+Jim the Royal guard is here on duty.
+~
+As all members of the Guard, Jim wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+72 0 800 W
+19 11 2 8d6+360 1d8+4
+400 68750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#15004
+brian guard royal~
+Brian~
+Brian the Royal guard is here, training with the Master.
+~
+As all members of the Guard, Brian wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+75 0 800 W
+19 11 2 8d6+360 1d8+4
+400 60000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#15005
+mick guard royal~
+Mick~
+Mick the Royal guard is here, training with the Master.
+~
+As all members of the Guard, Mick wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+75 0 800 W
+19 11 2 8d6+360 1d8+4
+400 60000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#15006
+matt guard royal~
+Matt the Royal guard~
+Matt the Royal guard is here on duty.
+~
+As all members of the Guard, Matt wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+73 0 800 W
+19 11 2 8d6+360 1d8+4
+400 68750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#15007
+jochem guard royal~
+Jochem the Royal guard~
+Jochem the Royal guard sits here, off duty.
+~
+As all members of the Guard, Jochem wears the chain mail required of
+them as uniform. He seems very well trained, and moves like a fighter
+who has seen more than one battle, and longs to see the next!
+~
+73 0 900 W
+18 13 2 8d6+416 1d8+5
+400 70000
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#15008
+anne guard royal~
+Anne the Royal guard~
+Anne the Royal guard is here on duty.
+~
+As all members of the Guard, Anne wears the chain mail required of
+them as uniform. She seems very well trained, and moves like a fighter
+who has seen more than one battle, and longs to see the next!
+~
+73 0 900 W
+19 13 2 8d6+416 1d8+5
+400 70000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#15009
+andrew guard royal~
+Andrew the Royal guard~
+Andrew the Royal guard is here on duty.
+~
+As all members of the Guard, Andrew wears the chain mail required of
+them as uniform. He seems very well trained, and moves like a fighter
+who has seen more than one battle, and longs to see the next!
+~
+73 0 900 W
+19 13 2 8d6+416 1d8+5
+400 70000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#15010
+bertram bert guard royal~
+Bertram the Royal guard~
+Bertram the Royal guard is here on duty.
+~
+As all members of the Guard, Bertram wears the chain mail required of
+them as uniform. He seems very well trained, and carries his scars
+with pride. This guy seems tough...
+~
+73 0 900 W
+19 15 1 8d6+485 1d8+7
+400 76000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#15011
+jeanette guard royal~
+Jeanette the Royal guard~
+Jeanette the Royal guard is here on duty.
+~
+As all members of the Guard, Jeanette wears the chain mail required of
+them as uniform. She seems very well trained, and carries her scars
+with pride. This girl could be nasty if she wanted to...
+~
+73 0 900 W
+19 15 1 8d6+485 1d8+7
+400 76000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#15012
+peter captain guard royal~
+Peter, the Captain of the Royal guard~
+Peter, the Captain of the Royal guard, walks around inspecting.
+~
+As all members of the Guard, Peter wears the chain mail required of
+them as uniform. Even though all the other guards seem well trained,
+you realise none of them would stand a chance against this man in a
+fight. He stands at least two metres tall, but still moves with an
+almost feline grace. He actually radiates strength and confidence,
+and you have to fight a sudden urge to come to attention as you see
+him.
+~
+73 0 900 W
+23 19 -1 8d6+666 2d6+8
+1000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#15013
+master trainingmaster~
+the Training Master~
+The Training Master is here, supervising.
+~
+Aged, but experienced, the Training Master is skilled in the use
+of virtually every weapon type invented by Man.
+~
+75 0 950 W
+21 19 1 5d6+610 1d8+8
+1000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#15014
+herald royal~
+the Royal Herald~
+The Royal Herald is standing here.
+~
+This is a young, powerfully built man, whose primary function
+is to make Royal Announcements.
+~
+8 0 800 W
+26 19 -1 8d6+610 3d9+12
+500 187500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#15015
+ergan murderer~
+Ergan the Murderer~
+Slumped in a corner you see Ergan, aka the Murderer of Townsbridge.
+~
+You remember a time almost a decade ago, when the news of the day
+was how this man had slaughtered the entire population of the little
+village of Townsbridge. He was imprisoned, and here he is: a shadow
+of the undoubtedly great warrior he once was, but still to be reckoned
+with.
+~
+174 0 -1000 W
+21 12 2 8d6+430 2d8+2
+0 112500
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 10
+#15016
+butler james~
+James the Butler~
+James the Butler is standing here, looking pompous.
+~
+The typical perfect butler: upper middle age, a bit bald and with 
+an impressive belly.
+~
+9 0 500 W
+11 7 3 1d6+276 1d9+2
+200 23437
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#15017
+woman cleaning~
+the Cleaning Woman~
+There is a Cleaning Woman here, trying not be noticed.
+~
+Although she has a menial job, she seems to like it.
+~
+9 0 800 W
+2 0 9 10d6+1 1d5+0
+10 625
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#15018
+cockroach roach~
+the Cockroach~
+A large Cockroach is crawling by the wall.
+~
+Very large indeed, and they say cockroaches are hard to kill...
+~
+8 0 -250 W
+15 0 3 5d6+333 2d5+5
+5 4687
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#15019
+astrologer~
+the Astrologer~
+The Astrologer is sitting here, studying a book.
+~
+He is old and white-haired, with a long beard. As you see him, you
+can almost believe the rumours about stars deciding Fate, and
+that astrology is capable of seeing the future.
+~
+10 128 900 W
+127 40 -35 100d100+25000 10d10+50
+2000 200000
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-350 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#15020
+tim guard lifeguard~
+Tim, the King's Lifeguard~
+Tim, the King's Lifeguard, is standing here.
+~
+This guy looks just like his twin, Tom. There seems to be no
+doubt that he is completely prepared to give his life
+for the King, if necessary.
+~
+11 8 900 W
+21 16 1 8d6+568 1d8+8
+1000 80000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#15021
+tom guard lifeguard~
+Tom, the King's Lifeguard~
+Tom, the King's Lifeguard, is standing here.
+~
+This guy looks just like his twin, Tim. There seems to be no
+doubt that he is completely prepared to give his life
+for the King, if necessary.
+~
+11 8 900 W
+21 16 1 8d6+568 1d8+8
+1000 80000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#15022
+chef cook~
+the Chef~
+The Chef is here, shouting orders to the other cooks.
+~
+It seems he has been tasting his own food a bit too enthusiastically.
+He is, in other words, a bit fat.
+~
+138 0 500 W
+24 16 -1 5d6+785 4d4+4
+1000 110000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#15023
+cook~
+the Cook~
+There is a Cook here, making himself busy with a pot.
+~
+A junior cook, eager to do the Chef's bidding.
+~
+138 0 300 W
+7 3 6 5d7+126 1d8+0
+50 3750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#15024
+david guard~
+David~
+David, a big, mean-looking man, stands here, guarding the door.
+~
+He really is big, and you get the feeling he wouldn't take kindly
+to an attempt to get past him.
+~
+11 8 250 W
+22 18 0 5d6+651 1d7+10
+2000 110000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#15025
+dick guard~
+Dick~
+Dick, a big, mean-looking man, stands here, guarding the door.
+~
+He really is big, and you get the feeling he wouldn't take kindly
+to an attempt to get past him.
+~
+11 8 250 W
+22 18 0 5d6+651 1d7+10
+2000 110000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#15026
+jerry guard royal~
+Jerry the Royal guard~
+Jerry the Royal guard is here off duty, playing dice.
+~
+As all members of the Guard, Jerry wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+73 0 800 W
+15 11 2 8d6+360 1d8+4
+400 62000
+5 5 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#15027
+michael guard royal~
+Michael the Royal guard~
+Michael the Royal guard is here off duty, playing dice.
+~
+As all members of the Guard, Michael wears the chain mail required of
+them as uniform. He seems very well trained, and moves like an
+experienced fighter.
+~
+73 0 800 W
+15 11 2 8d6+360 1d8+4
+400 60000
+5 5 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#15028
+hans guard royal~
+Hans the Royal guard~
+Hans the Royal guard is here on duty.
+~
+As all members of the Guard, Hans wears the chain mail required of
+them as uniform. He seems very well trained, and moves like a fighter
+who has seen more than one battle, and longs to see the next!
+~
+73 0 900 W
+21 13 2 8d6+416 1d8+5
+400 70000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+#15029
+boris guard royal~
+Boris the Royal guard~
+Boris the Royal guard is here on duty.
+~
+As all members of the Guard, Boris wears the chain mail required of
+them as uniform. He seems very well trained, and carries his scars
+with pride. This guy seems tough...
+~
+73 0 900 W
+22 15 1 8d6+485 3d8+7
+400 60000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+$

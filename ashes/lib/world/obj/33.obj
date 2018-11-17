@@ -1,0 +1,399 @@
+#3300
+amulet Bronze maiming~
+Bronze amulet of maiming~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 2000 2000
+A
+17 1
+#3301
+amulet Gold maiming~
+Gold amulet of maiming~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 4000 4000
+A
+18 1
+#3302
+amulet Bronze gore~
+Bronze amulet of gore~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 4000 4000
+A
+17 1
+A
+18 1
+#3303
+amulet Bronze slaughter~
+Bronze amulet of slaughter~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 50000 50000
+A
+17 1
+A
+18 3
+#3304
+amulet Gold gore~
+Gold amulet of gore~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 50000 50000
+A
+17 2
+A
+18 1
+#3305
+amulet Strange gore~
+Strange amulet of gore~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 150000 150000
+A
+17 3
+A
+18 2
+#3306
+amulet Gold slaughter~
+Gold amulet of slaughter~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 150000 150000
+A
+17 2
+A
+18 3
+#3307
+amulet Strange slaughter~
+Strange amulet of slaughter~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 300000 300000
+A
+17 3
+A
+18 3
+#3308
+amulet Strange maiming~
+Strange amulet of maiming~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 50000 50000
+A
+17 3
+A
+18 1
+#3309
+amulet Spider's magic~
+Spider's amulet of magic~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 200 200
+A
+10 5
+A
+13 1
+#3310
+amulet Spider's magic~
+Spider's amulet of magic~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 400 400
+A
+10 5
+A
+13 2
+#3311
+amulet Spider's magic~
+Spider's amulet of magic~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 400 400
+A
+10 10
+A
+13 2
+#3312
+amulet Raven's brilliance~
+Raven's amulet of brilliance~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 1000 1000
+A
+10 10
+A
+13 3
+#3313
+amulet Serpent's brilliance~
+Serpent's amulet of brilliance~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 25000 25000
+A
+10 15
+A
+13 3
+#3314
+amulet Dragon's brilliance~
+Dragon's amulet of brilliance~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 40000 40000
+A
+10 20
+A
+13 3
+#3315
+amulet Serpent's sorcery~
+Serpent's amulet of sorcery~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 40000 40000
+A
+10 15
+A
+13 4
+#3316
+amulet Dragon's sorcery~
+Dragon's amulet of sorcery~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 100000 100000
+A
+10 20
+A
+13 4
+#3317
+amulet Wyrm's sorcery~
+Wyrm's amulet of sorcery~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 200000 200000
+A
+10 25
+A
+13 4
+#3318
+amulet Azure balance~
+Azure amulet of balance~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 4
+0 0 0 0
+1 400 400
+A
+16 -5
+A
+2 1
+#3319
+amulet Cobalt accuracy~
+Cobalt amulet of accuracy~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 4
+0 0 0 0
+1 40000 40000
+A
+16 -10
+A
+2 2
+#3320
+amulet Sapphire perfection~
+Sapphire amulet of perfection~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 4
+0 0 0 0
+1 100000 100000
+A
+16 -15
+A
+2 4
+#3321
+amulet Crimson balance~
+Crimson amulet of balance~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 1
+0 0 0 0
+1 400 400
+A
+16 -5
+A
+2 1
+#3322
+amulet Garnet accuracy~
+Garnet amulet of accuracy~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 1
+0 0 0 0
+1 40000 40000
+A
+16 -10
+A
+2 2
+#3323
+amulet Ruby perfection~
+Ruby amulet of perfection~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 1
+0 0 0 0
+1 100000 100000
+A
+16 -15
+A
+2 4
+#3324
+amulet Pearl balance~
+Pearl amulet of balance~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 400 400
+A
+16 -5
+A
+2 1
+A
+24 2
+#3325
+amulet Crystal accuracy~
+Crystal amulet of accuracy~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 40000 40000
+A
+16 -10
+A
+2 2
+A
+24 4
+#3326
+amulet Diamond perfection~
+Diamond amulet of perfection~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 0
+0 0 0 0
+1 100000 100000
+A
+16 -15
+A
+2 4
+A
+24 6
+#3327
+amulet Topaz balance~
+Topaz amulet of balance~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 5
+0 0 0 0
+1 2500 2500
+A
+16 -5
+A
+2 1
+A
+24 2
+#3328
+amulet amber accuracy~
+Amber amulet of accuracy~
+An amulet lies on the ground.~
+~
+11 64 5 0
+0 0 5
+0 0 0 0
+1 50000 50000
+A
+16 -10
+A
+2 2
+A
+24 4
+#3329
+shortsword diablo hell~
+Diablo's shortsword of hell~
+You see an evil looking shortsword lying on the ground.~
+~
+5 1060864 8193 8192
+0 0 0
+0 13 2 11
+1 1000000 1000000
+A
+18 4
+A
+17 4
+A
+1 4
+$

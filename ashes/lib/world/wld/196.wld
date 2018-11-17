@@ -1,0 +1,1599 @@
+#19600
+The seashore south of Mysidia~
+Here, next to the Mysidian sea, a robust sea breeze blows your hair about and
+gives you a slight chill. The sea lies to your south, and the smooth shoreline
+continues east and west of here. Further east, you can see that the shorline
+eventually dips south, forming the famous Mysidian bay - the subject of many
+legends. A small, weathered path leads north, where it eventually enters
+Mysidia itself. It is also possible to travel east along the shoreline,
+however there is no road leading in this direction. The soil here is moist
+from its proximity to the sea, and the smell of the ocean is ever-present. 
+~
+196 4 2
+0d0+0 0 0
+D0
+Looking north, you can see the small village of Mysidia, world-renowned town of
+mages. The dirt path leading there is well travelled, and wagon tracks are
+visible in the wet soil.
+~
+~
+0 -1 19601
+E
+sea bay ocean water s so sou sout south~
+The Mysidian Bay is the subject of many fanciful wives' tales as well as many
+legends which may be valid. Most of these stories include waves and currents
+of epic proportions. Right now, however the bay seems quite placid. 
+~
+E
+soil dirt ground~
+The ground here is cold and damp, and some sparse grass grows here. 
+~
+E
+Mysidia town village trail path~
+Looking north, you can see the small village of Mysidia, world-renowned town of
+mages. The dirt path leading there is well travelled, and wagon tracks are
+visible in the wet soil. 
+~
+E
+shore shoreline beach~
+The sand on the beach is soft, but very cold. 
+~
+S
+#19601
+Mysidia, village of mages~
+Mysidia is a very rural village. The small town is surrounded by trees, and
+most of the buildings are built right on the grass. The buildings are all made
+of some sort of white stone, made into bricks. Right now, you stand in some
+sort of village square. One of the few places with pavement in this village,
+the square is actually a circle of road convieniently located between all the
+buildings. Mages and wizards hustle about here, running errands or simply
+enjoying a walk. The air here is clean and fresh, probably something enspelled
+by the mages here. The circle turns into a single paved path leading north up
+some steps to a very large building. The large building is easily the most
+prominent building in the whole village. South of here, a small path leads out
+of the town down to the seashore. Other exits lead to various other parts of
+the city, including shops, an inn and cafe, and the famous Serpent Road. 
+~
+196 0 1
+0d0+0 0 0
+D0
+To the north, and up a small flight of steps is a rather impressive building.
+It is the largest and probably most important building in Mysidia.
+~
+~
+0 -1 19614
+D1
+To the east you see Mysidia's inn and cafe, and also the general store.
+~
+~
+0 -1 19607
+D2
+A short dirt trail leads out of the village to the south. You hear the sound of
+gulls from this direction.
+~
+~
+0 -1 19600
+D3
+To the west is Mysidia's equipment shop and also the training room.
+~
+~
+0 -1 19602
+D6
+Northeast of here lies Mysidia's end of the Serpent Road - the mysterious
+underwater route from here to the nation of Baron. 
+~
+~
+0 -1 19612
+D7
+There is a small pond to the northwest behind the equipment shops. 
+~
+~
+0 -1 19611
+E
+house wishes paved pavement road steps~
+To the north, and up a small flight of steps is a rather impressive building.
+It is the largest and probably most important building in Mysidia.
+~
+E
+building buildings stone brick bricks~
+The buildings are made of a very clean white stone which has been cut into
+bricks. 
+~
+E
+pond water pool~
+There is a small pond to the northwest behind the equipment shops. 
+~
+E
+serpent~
+Northeast of here lies Mysidia's end of the Serpent Road - the mysterious
+underwater route from here to the nation of Baron. 
+~
+E
+grass~
+The grass is cut all to the same length, and looks a lush green. 
+~
+E
+tree trees~
+The trees are green with life, and are kept neatly trimmed. 
+~
+E
+equipment shops shop weapon armor training room~
+To the west is Mysidia's equipment shop and also the training room.
+~
+E
+path trail~
+A short dirt trail leads out of the village to the south. You hear the sound of
+gulls from this direction.
+~
+E
+inn cafe general store~
+To the east you see Mysidia's inn and cafe, and also the general store.
+~
+E
+Mysidia town village~
+Mysidia is a beautiful village; everywhere you look it seems clean and
+flourishing.
+~
+S
+#19602
+Outside Mysidia's equipment shops~
+You stand in the grassy area in the southwestern area of Mysidia. To the north
+is a large building with two doors facing you. Above the northwestern door is
+a huge wooden sign with a large sword carved on it. A similar sign, this one
+with a shield on it is above the northeastern door. To the west is a two-story
+building with no markings on it. The town square lies to the east of here.
+~
+196 0 1
+0d0+0 0 0
+D1
+To the east lies the town square, from whence you can get to all other areas in
+town.
+~
+~
+0 -1 19601
+D3
+The two-story building to the west appears to be some sort of training hall.
+~
+door training~
+2 -1 19605
+D6
+The sign with the large shield obviously signifies that the door beneath it
+leads to the armor shop.
+~
+door armor shield~
+2 -1 19604
+D7
+The sign with the large sword obviously signifies that the door beneath it
+leads to the weapon shop.
+~
+door weapon sword~
+2 -1 19603
+E
+Mysidia town village~
+Mysidia is a beautiful village; everywhere you look it seems clean and
+flourishing.
+~
+E
+grass~
+The grass is cut all to the same length, and looks a lush green.
+~
+E
+tree trees~
+The trees are green with life, and are kept neatly trimmed.
+~
+E
+building buildings stone brick bricks shop shops store~
+The buildings are made of a very clean white stone which has been cut into
+bricks.
+~
+E
+square center~
+To the east lies the town square, from whence you can get to all other areas in
+town.
+~
+E
+sign signs wooden wood~
+The signs are nearly as big as the doors, and have been carved out of some kind
+of hardwood.
+~
+E
+training room two-story~
+The two-story building to the west appears to be some sort of training hall.
+~
+E
+armor shield~
+The sign with the large shield obviously signifies that the door beneath it
+leads to the armor shop.
+~
+E
+weapon sword~
+The sign with the large sword obviously signifies that the door beneath it
+leads to the weapon shop.
+~
+E
+door doors~
+Remarkably, it looks just like a door.
+~
+S
+#19603
+Weapon shop in Mysidia~
+The weapon shop is a small building with a counter at the north end, behind
+which the shopkeeper can sit and sell his wares. There are various signs
+adorning the walls, and there is a carpet at the entrance, presumably to wipe
+your feet. The exit back outside lies southeast.
+~
+196 28 0
+0d0+0 0 0
+D8
+The exit back outside is to the southeast.
+~
+door~
+2 -1 19602
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+carpet rug~
+The carpet is navy blue, with white floral designs woven into it.
+~
+E
+sign signs~
+The signs all indicate that this is definitely the weapon shop.
+~
+E
+door~
+Remarkably, it looks just like a door.
+~
+S
+#19604
+Armor shop in Mysidia~
+The armor shop is small, but still comfortable. There is a counter at the north
+end for the shopkeeper to utilize to sell his wares, as well as a table and
+chairs in the corner of the room for tired customers. The exit back outside
+lies southwest.
+~
+196 28 0
+0d0+0 0 0
+D9
+The exit back outside is to the southwest.
+~
+door~
+2 -1 19602
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+chair chairs table tables~
+The furniture is made of a softwood material and crafted assembly-line style so
+that each piece appears almost identical to others of its type.
+~
+E
+door~
+Remarkably, it looks just like a door.
+~
+S
+#19605
+Mysidia's training room~
+The training room meets the standard requirements for a place of learning set
+long ago. Most training rooms the world over look identical on the inside.
+This floor is set up in a lecture hall format; the teacher stands behind a
+long desk instructing the students, who each have a small desk of their own.
+There are various chairs and tables here, as well as some desks which are
+still free. The floor is carpeted in some places, where students can sit and
+read books from the shelves which adorn the room. In the back of the room
+there is a stairway leading up, and to the east is the doorway back outside.
+~
+196 12 0
+0d0+0 0 0
+D1
+To the east is the exit from the training room to the outdoors.
+~
+door~
+2 -1 19602
+D4
+Stairs lead up to the second floor of the training room.
+~
+~
+0 -1 19606
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+desk desks chair chairs table tables~
+The furniture is made of a softwood material and crafted assembly-line style so
+that each piece appears almost identical to others of its type.
+~
+E
+carpet rug~
+The carpet is navy blue, with white floral designs woven into it.
+~
+E
+shelf shelves book books~
+The books on the shelves are all to big and the words in them are all too
+small. You decide it's not worth reading any of them.
+~
+E
+door~
+Remarkably, it looks just like a door.
+~
+E
+stair stairs stairway upstairs~
+Stairs lead up to the second floor of the training room.
+~
+S
+#19606
+The upper floor of Mysidia's training room~
+The training room meets the standard requirements for a place of learning set
+long ago. Most training rooms the world over look identical on the inside.
+This floor is set up similar to the floor below. The teacher stands behind an
+L-shaped desk in the north end of the room, instructing the class. The
+students all have small desks of their own; some are still empty. There are
+various chairs and tables here, but unlike downstairs, there are no carpets or
+shelves. In the back of the room there is a stairway leading down.
+~
+196 12 0
+0d0+0 0 0
+D5
+Stairs lead down to the first floor of the training room.
+~
+~
+0 -1 19605
+E
+desk desks chair chairs table tables~
+The furniture is made of a softwood material and crafted assembly-line style so
+that each piece appears almost identical to others of its type.
+~
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+stair stairs stairway downstairs~
+Stairs lead down to the first floor of the training room.
+~
+S
+#19607
+Outside Mysidia's inn~
+The southeastern area of the town contains two buildings. Mysidia's inn is a
+few feet north of here, and to the east lies the local general store. The sign
+on the inn indicates that one of its two floors also contains a cafe, where
+locals meet and have a bite to eat. The town square lies to the west of here.
+~
+196 0 1
+0d0+0 0 0
+D0
+The building to the north houses Mysidia's inn and cafe.
+~
+door inn cafe~
+2 -1 19608
+D1
+The sign above the eastern door indicates that it is Mysidia's general store.
+~
+door general store~
+2 -1 19610
+D3
+To the west lies the town square, from whence you can get to all other areas in
+town.
+~
+~
+0 -1 19601
+E
+tree trees~
+The trees are green with life, and are kept neatly trimmed.
+~
+E
+grass~
+The grass is cut all to the same length, and looks a lush green.
+~
+E
+square center~
+To the west lies the town square, from whence you can get to all other areas in
+town.
+~
+E
+inn cafe~
+The building to the north houses Mysidia's inn and cafe.
+~
+E
+general store~
+The sign above the eastern door indicates that it is Mysidia's general store.
+~
+E
+building buildings stone brick bricks shop shops~
+The buildings are made of a very clean white stone which has been cut into
+bricks.
+~
+E
+Mysidia town village~
+Mysidia is a beautiful village; everywhere you look it seems clean and
+flourishing.
+~
+E
+door doors~
+Remarkably, it looks just like a door.
+~
+S
+#19608
+Mysidia's cafe~
+The pleasant smell of herbal drinks permeates the environment here, and the
+sound of peoples' conversations all mixed together gives the room a friendly
+air. There is a bar here serving drinks, as well as tables surrounded by
+chairs to relax and have a drink or a bite to eat. Near the bar there is a
+sign on the wall. There is a stairway near the exit outdoors which leads up.
+The exit back outside leads south. 
+~
+196 12 0
+0d0+0 0 0
+D2
+The exit from the cafe is to the south. 
+~
+door~
+2 -1 19607
+D4
+The stairway leads up to Mysidia's local inn.
+~
+~
+0 -1 19609
+E
+drink drinks food~
+It doesn't look like anything you would like.
+~
+E
+stair stairs stairway~
+The stairway leads up to Mysidia's local inn.
+~
+E
+bar table tables chair chairs~
+The furniture is moderately clean, although here and there is a spill which
+hasn't been cleaned up yet.
+~
+E
+sign~
+The sign says: Neither forgive, nor forget the Baronian pillage and
+destruction!
+~
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+door doors~
+Remarkably, it looks just like a door.
+~
+S
+#19609
+Mysidia's inn~
+This simple room contains a small desk for the innkeeper, and farther west, six
+beds. You can hear the buzz of conversation from the cafe, which is down a
+short flight of stairs.
+~
+196 12 0
+0d0+0 0 0
+D5
+Mysidia's cafe is downstairs.
+~
+~
+0 -1 19608
+E
+desk~
+It's just a small desk for the inkeeper.
+~
+E
+bed beds~
+The beds look very clean and comfortable.
+~
+E
+stair stairs stairway~
+Mysidia's cafe is downstairs.
+~
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+S
+#19610
+General store in Mysidia~
+The general store is a small building, with a counter at the north end, closing
+in the shopkeeper, who stands behind it, selling a multitude of items. The
+rest of the store is quite cluttered with shelves and chairs, making it a
+little hard to walk around in here. The exit back outside lies to the west.
+~
+196 28 0
+0d0+0 0 0
+D3
+The exit back outside is to the west.
+~
+door~
+2 -1 19607
+E
+chair chairs shelf shelves~
+The furniture is made of a softwood material and crafted assembly-line style so
+that each piece appears almost identical to others of its type.
+~
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+door~
+Remarkably, it looks just like a door.
+~
+S
+#19611
+A small pond in Mysidia~
+A beautiful cascade of fresh clear water pours out of a large hole in a wall to
+the north here into a small pond of clear water. There is a lot less activity
+here than the rest of the town, and it is a very pleasant surroundings. The
+grass and trees here are even more beautiful than the rest of the city, and
+the air is almost sweet-smelling. The town square lies to the southeast of
+here.
+~
+196 4 1
+0d0+0 0 0
+D8
+To the southeast lies the town square, from whence you can get to all other
+areas in town.
+~
+~
+0 -1 19601
+E
+building buildings stone brick bricks shop shops store~
+The buildings are made of a very clean white stone which has been cut into
+bricks.
+~
+E
+tree trees~
+The trees are green with life, and are kept neatly trimmed.
+~
+E
+grass~
+The grass is cut all to the same length, and looks a lush green.
+~
+E
+Mysidia town village~
+Mysidia is a beautiful village; everywhere you look it seems clean and
+flourishing.
+~
+E
+square center~
+To the southeast lies the town square, from whence you can get to all other
+areas in town.
+~
+E
+cascade waterfall hole wall n no nor nort north~
+The clear water pours through long but not high hole in the wall about 10 feet
+off the ground, presumably from some source behind the wall.
+~
+S
+#19612
+Outside the Serpent Road of Mysidia~
+This part of Mysidia contains the building wherein lies Mysidia's end of the
+famous Serpent Road. The other end lies in the nation of Baron, miles across
+the sea to the northwest. Little is known about the mysterious road, save that
+it is said to drain the stamina of the traveller. The passage takes only a few
+seconds. The building containing the road is just north of here. The town
+square lies to the southwest of here. 
+~
+196 0 1
+0d0+0 0 0
+D0
+From the outside, the building in which the Serpent Road begins looks just like
+any other.
+~
+door serpent road~
+2 -1 19613
+D9
+To the west lies the town square, from whence you can get to all other areas in
+town.
+~
+~
+0 -1 19601
+E
+Mysidia town village~
+Mysidia is a beautiful village; everywhere you look it seems clean and
+flourishing.
+~
+E
+grass~
+The grass is cut all to the same length, and looks a lush green.
+~
+E
+tree trees~
+The trees are green with life, and are kept neatly trimmed.
+~
+E
+building buildings stone brick bricks shop shops store~
+The buildings are made of a very clean white stone which has been cut into
+bricks.
+~
+E
+square center~
+To the west lies the town square, from whence you can get to all other areas in
+town.
+~
+E
+serpent road~
+From the outside, the building in which the Serpent Road begins looks just like
+any other.
+~
+E
+door~
+Interestingly enough, THIS door doesn't look like a door. This strikes you as
+odd - I mean, all the rest of them did.
+~
+S
+#19613
+The Serpent Road of Mysidia~
+The inside of the Serpent Road building is relatively unremarkable; there is
+no furniture, and the walls are bare. There is a walled off area in the back
+of the room which houses the entrance to the Serpent Road. It is a shimmering
+circular pearl disk embedded into the floor. It seems to draw you towards it,
+as if to pull you inside...
+~
+196 12 0
+0d0+0 0 0
+D2
+The door back outside is to the south.
+~
+door~
+2 -1 19612
+D5
+The entrance to the Serpent Road has about a five foot diameter, and it is
+impossible to tell how deep into the floor it is. It gives off its own pale
+prismic light.
+~
+~
+0 -1 19621
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+door~
+Remarkably, it looks just like the other side of an interestingly undoor-like
+door.
+~
+E
+serpent road entrance shimmering circular pearl disk floor~
+The entrance to the Serpent Road has about a five foot diameter, and it is
+impossible to tell how deep into the floor it is. It gives off its own pale
+prismic light.
+~
+E
+furniture~
+There isn't any.  Told you so.
+~
+S
+#19614
+Outside the House of Wishes~
+The House of Wishes is made from the same white stone as most of the
+buildings in Mysidia. The impressive building sits on top of what was once a
+hill, but now has been turned into a small plateau by the use of a
+surrounding wall. Steps lead through a break in the wall to the south, where
+they eventually become a paved road, leading to the town square of Mysidia.
+Pools of sparkling clear water pour through the wall to other parts of the
+village, filling the air with the beautiful sound of rushing water. A single
+door to the north leads into the magnificent House of Wishes.
+~
+196 0 1
+0d0+0 0 0
+D0
+The House of Wishes is still there.
+~
+door~
+2 -1 19615
+D2
+To the south lies the town square, from whence you can get to all other areas
+in town.
+~
+~
+0 -1 19601
+E
+door~
+Remarkably, it looks just like a door.
+~
+E
+paved pavement road steps center square~
+To the south lies the town square, from whence you can get to all other areas
+in town.
+~
+E
+wall plateau hill~
+A wall surrounds the plateau which the House of Wishes is built upon.
+~
+E
+tree trees~
+There aren't any trees near the House of Wishes.
+~
+E
+grass~
+The grass is cut all to the same length, and looks a lush green.
+~
+E
+house wishes building buildings stone brick bricks~
+The House of Wishes is made of a very clean white stone which has been cut
+into bricks.
+~
+E
+Mysidia town village~
+Mysidia is a beautiful village; everywhere you look it seems clean and
+flourishing.
+~
+S
+#19615
+The House of Wishes~
+This is the entrance hall to the House of Wishes. An impressive blue carpet
+spans the length of floor between the door south and a stairway which leads
+north. The furnishings in the entrance are rather sparse, just a desk or two
+and a few torches shining off the white stone walls, the same white stone of
+which most of the buildings in Mysidia are made.
+~
+196 12 0
+0d0+0 0 0
+D0
+A mysterious glow emanates from the top of the stairs.
+~
+~
+0 -1 19616
+D2
+The exit back outside is to the south.
+~
+door~
+2 -1 19614
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+carpet rug~
+The carpet is navy blue, with white floral designs woven into it.
+~
+E
+door~
+Remarkably, it looks just like a door.
+~
+E
+torch torches~
+Upon closer examination of a torch, you notice a small label attached to it.
+It reads: R-66Y series fusion-powered torch - DO NOT REMOVE.
+~
+E
+desk desks furnishings furniture~
+The furniture is made of a softwood material and crafted assembly-line style
+so that each piece appears almost identical to others of its type.
+~
+E
+stair stairs~
+A mysterious glow emanates from the top of the stairs.
+~
+S
+#19616
+The Crystal Room of Mysidia~
+The famous Crystal Room of Mysidia is unlike any other part of the antiquated
+House of Wishes. The floors are made of a strange, clear glassy substance
+which despite its fragile look, cannot be broken or scratched. The walls here
+are made of some kind of reflective metal, which reflects the Crystal's glow.
+By far the most distinguishing feature though is the shaft in the center of
+the room wherein floats the Crystal of Mysidia. The crystal hangs motionless
+in midair in the center of the shaft. Four tall pillars surround the shaft,
+and presumably support the crystalline celing of the chamber. A stairway
+leads down to the south, and the north wall of the chamber has a single door
+in it.
+~
+196 6300 0
+0d0+0 0 0
+D0
+If you've guessed correctly, this door should lead to the Tower of Wishes.
+~
+door~
+2 -1 19617
+D2
+The southern stairway leads to the main area of the House of Wishes.
+~
+~
+0 -1 19615
+E
+stair stairs stairway~
+The southern stairway leads to the main area of the House of Wishes.
+~
+E
+door~
+Remarkably, it looks just like a door. (Well, it's close enough to fool YOU
+anyway.)
+~
+E
+pillar pillars~
+The four pillars are very tall, and seem to be made out of the same material
+as the walls are.
+~
+E
+celing~
+The celing is quite high, and from down here appears to be made of a
+quartz-like crystal.
+~
+E
+wall walls~
+Any metallurgist, with only a quick scan of the walls, that they appear to be
+made of platinum. However, after a more thorough examination, it becomes
+obvious that this is not the case.
+~
+E
+floor floors~
+The strange clear material is cut into cubes, and some mysterious force holds
+them together. Below them you see only darkness...
+~
+E
+crystal mysidia shaft~
+The Crystal hangs ominously in the air in the center of the shaft, emitting a
+faint light which is caught and reflected by the strange walls, floor, and
+celing here, creating a magnificent effect.
+~
+S
+#19617
+The Tower of Wishes~
+The bottom of the famous Tower of Wishes is actually not very impressive,
+consisting of a hard stone floor and brick walls.  A door leads south out of
+here, and a stairway leads up, presumably to the summit of the tower.
+~
+196 6156 0
+0d0+0 0 0
+D2
+A sign over the south door reads, "Crystal Room".  I wonder where it goes?
+~
+door~
+2 -1 19616
+D4
+The stairs lead up to the top of the Tower of Wishes.
+~
+~
+0 -1 19618
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into
+bricks.
+~
+E
+door~
+Remarkably, it looks just like a door. (Well, it's close enough to fool YOU
+anyway.)
+~
+E
+stair stairs stairway~
+The stairs lead up to the top of the Tower of Wishes.
+~
+E
+floor~
+The floor is made of a smooth dark gray stone.
+~
+S
+#19618
+The top of the Tower of Wishes~
+The summit of the Tower of Wishes is incredibly beautiful. A large part of
+the southern wall is open, and to the south is a lovely view of not only the
+entire village of mages, but also the breathtaking Mysidian Bay. The last
+wisps of the breeze off the ocean arrive here; feelings of deep spirituality
+well up within you.
+~
+196 6156 0
+0d0+0 0 0
+D5
+The stairway leads down to the bottom of the Tower of Wishes.
+~
+~
+0 -1 19617
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into
+bricks.
+~
+E
+stair stairs stairway~
+The stairway leads down to the bottom of the Tower of Wishes.
+~
+E
+south southern bay mysidia mysidian view ocean~
+The view from up here completely takes your breath away.  Wow.
+~
+E
+wisp wisps breeze~
+You can't actually SEE the comfortable breeze.
+~
+S
+#19619
+The Town of Baron~
+~
+196 0 1
+0d0+0 0 0
+D0
+~
+door~
+2 -1 19626
+D1
+~
+door~
+2 -1 19628
+D2
+~
+~
+0 -1 19639
+D3
+~
+~
+0 -1 19620
+D6
+~
+~
+0 -1 19629
+D7
+~
+~
+0 -1 19623
+E
+building buildings stone brick bricks~
+The buildings are made of a very clean white stone which has been cut into bricks.
+~
+E
+door~
+Remarkably, it looks just like a door.
+~
+S
+#19620
+Southwest Baron~
+~
+196 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 19623
+D1
+~
+~
+0 -1 19619
+D6
+~
+door~
+2 -1 19622
+D7
+~
+door~
+2 -1 19621
+E
+building buildings stone brick bricks~
+The buildings are made of a very clean white stone which has been cut into bricks.
+~
+E
+door~
+Remarkably, it looks just like a door.
+~
+S
+#19621
+The Serpent Road of Baron~
+The inside of the Serpent Road building is relatively unremarkable; there is
+no furniture, and the walls are bare. There is a walled off area in the back
+of the room which houses the entrance to the Serpent Road. It is a shimmering
+circular pearl disk embedded into the floor. It seems to draw you towards it,
+as if to pull you inside...
+~
+196 12 0
+0d0+0 0 0
+D5
+The entrance to the Serpent Road has about a five foot diameter, and it is
+impossible to tell how deep into the floor it is. It gives off its own pale
+prismic light.
+~
+~
+0 -1 19613
+D8
+The door back outside is to the southeast.
+~
+door~
+2 -1 19620
+E
+door~
+Remarkably, it looks just like a door.
+~
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+serpent road entrance shimmering circular pearl disk floor~
+The entrance to the Serpent Road has about a five foot diameter, and it is
+impossible to tell how deep into the floor it is. It gives off its own pale
+prismic light.
+~
+E
+furniture~
+There isn't any.  Told you so.
+~
+S
+#19622
+General store in Baron~
+~
+196 28 0
+0d0+0 0 0
+D9
+~
+door~
+2 -1 19620
+S
+#19623
+By the old water-way in Baron~
+~
+196 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 19620
+D4
+~
+~
+0 -1 19624
+D6
+~
+~
+0 -1 19630
+D8
+~
+~
+0 -1 19619
+S
+#19624
+Outside Cid's house~
+~
+196 0 1
+0d0+0 0 0
+D0
+~
+door~
+2 -1 19625
+D5
+~
+~
+0 -1 19623
+S
+#19625
+Cid's house~
+~
+196 12 0
+0d0+0 0 0
+D2
+~
+door~
+2 -1 19624
+S
+#19626
+Baron's training room~
+The training room meets the standard requirements for a place of learning set
+long ago. Most training rooms the world over look identical on the inside.
+This floor is set up in a lecture hall format; the teacher stands behind a
+long desk instructing the students, who each have a small desk of their own.
+There are various chairs and tables here, as well as some desks which are
+still free. The floor is carpeted in some places, where students can sit and
+read books from the shelves which adorn the room. In the back of the room
+there is a stairway leading up, and to the south is the doorway back outside.
+~
+196 12 0
+0d0+0 0 0
+D2
+To the south is the exit from the training room to the outdoors.
+~
+door~
+2 -1 19619
+D4
+Stairs lead up to the second floor of the training room.
+~
+~
+0 -1 19627
+E
+shelf shelves book books~
+The books on the shelves are all to big and the words in them are all too
+small. You decide it's not worth reading any of them.
+~
+E
+carpet rug~
+The carpet is navy blue, with white floral designs woven into it.
+~
+E
+desk desks chair chairs table tables~
+The furniture is made of a softwood material and crafted assembly-line style so
+that each piece appears almost identical to others of its type.
+~
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+door~
+Remarkably, it looks just like a door.
+~
+E
+stair stairs stairway upstairs~
+Stairs lead up to the second floor of the training room.
+~
+S
+#19627
+The upper floor of Baron's training room~
+The training room meets the standard requirements for a place of learning set
+long ago. Most training rooms the world over look identical on the inside.
+This floor is set up similar to the floor below. The teacher stands behind an
+L-shaped desk in the north end of the room, instructing the class. The
+students all have small desks of their own; some are still empty. There are
+various chairs and tables here, but unlike downstairs, there are no carpets or
+shelves. In the back of the room there is a stairway leading down.
+~
+196 12 0
+0d0+0 0 0
+D5
+Stairs lead down to the first floor of the training room.
+~
+~
+0 -1 19626
+E
+wall walls brick bricks stone~
+The walls are made of a very clean white stone which has been cut into bricks.
+~
+E
+desk desks chair chairs table tables~
+The furniture is made of a softwood material and crafted assembly-line style so
+that each piece appears almost identical to others of its type.
+~
+E
+stair stairs stairway downstairs~
+Stairs lead down to the first floor of the training room.
+~
+S
+#19628
+Baron's inn~
+~
+196 12 0
+0d0+0 0 0
+D3
+~
+door~
+2 -1 19619
+S
+#19629
+Outside Rosa's house~
+~
+196 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 19631
+D1
+~
+~
+0 -1 19632
+D7
+~
+~
+0 -1 19630
+D9
+~
+~
+0 -1 19619
+S
+#19630
+Outside Baron's equipment shops~
+~
+196 0 1
+0d0+0 0 0
+D6
+~
+~
+0 -1 19633
+D8
+~
+~
+0 -1 19629
+D9
+~
+~
+0 -1 19623
+S
+#19631
+Rosa's house~
+~
+196 12 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19629
+S
+#19632
+A small stream in Baron~
+~
+196 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 19637
+D3
+~
+~
+0 -1 19629
+D7
+~
+~
+0 -1 19633
+S
+#19633
+By a waterfall in Baron~
+~
+196 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 19634
+D8
+~
+~
+0 -1 19632
+D9
+~
+~
+0 -1 19630
+S
+#19634
+Atop a waterfall in Baron~
+~
+196 4 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 19633
+D5
+~
+~
+0 -1 19635
+S
+#19635
+A small stream in Baron (in the stream)~
+~
+196 4 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 19636
+D4
+~
+~
+0 -1 19634
+S
+#19636
+A small pond in Baron (in the pond)~
+~
+196 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 19635
+S
+#19637
+Behind the walls of Baron~
+~
+196 4 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 19639
+D2
+~
+~
+0 -1 19632
+D3
+~
+~
+0 -1 19638
+S
+#19638
+The hidden field in Baron~
+~
+196 4 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 19639
+D1
+~
+~
+0 -1 19637
+S
+#19639
+Outside Castle Baron~
+~
+196 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19642
+D1
+~
+~
+0 -1 19619
+D3
+~
+~
+0 -1 19640
+S
+#19640
+The wilderness around Baron~
+~
+196 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19639
+D9
+~
+~
+0 -1 19641
+S
+#19641
+The Chocobo Forest~
+~
+196 0 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 19640
+S
+#19642
+Castle Baron, upon the battlements~
+~
+196 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19643
+D2
+~
+~
+0 -1 19639
+S
+#19643
+Castle Baron, first floor~
+~
+196 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19644
+D1
+~
+~
+0 -1 19647
+D2
+~
+~
+0 -1 19642
+D3
+~
+~
+0 -1 19656
+S
+#19644
+Castle Baron, second floor~
+~
+196 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19645
+D2
+~
+~
+0 -1 19643
+S
+#19645
+A small room in Castle Baron~
+~
+196 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19646
+D2
+~
+~
+0 -1 19644
+S
+#19646
+Castle Baron's throne room~
+~
+196 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19645
+S
+#19647
+Castle Baron, east wall~
+~
+196 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19648
+D3
+~
+~
+0 -1 19643
+S
+#19648
+Castle Baron, east tower~
+~
+196 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 19647
+D5
+~
+~
+0 -1 19650
+D7
+~
+~
+0 -1 19649
+S
+#19649
+A secret treasure room in Castle Baron~
+~
+196 0 0
+0d0+0 0 0
+D8
+~
+~
+0 -1 19648
+S
+#19650
+Castle Baron, beneath the east wall~
+~
+196 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19651
+D4
+~
+~
+0 -1 19648
+S
+#19651
+Northeast tower of Castle Baron, first floor~
+~
+196 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19650
+D4
+~
+~
+0 -1 19652
+D5
+~
+~
+0 -1 19654
+S
+#19652
+Northeast tower of Castle Baron, second floor~
+~
+196 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 19653
+D5
+~
+~
+0 -1 19651
+S
+#19653
+Northeast tower of Castle Baron, third floor~
+~
+196 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 19652
+S
+#19654
+Beneath the northeast tower of Castle Baron~
+~
+196 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 19651
+D5
+~
+~
+0 -1 19655
+S
+#19655
+Throne of Odin~
+~
+196 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 19654
+S
+#19656
+Castle Baron, west wall~
+~
+196 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19643
+D5
+~
+~
+0 -1 19657
+S
+#19657
+Castle Baron, inside the west wall~
+~
+196 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19658
+D4
+~
+~
+0 -1 19656
+S
+#19658
+Castle Baron, beneath the west wall  ~
+~
+196 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19657
+S
+#19693
+~
+~
+196 0 0
+0d0+0 0 0
+S
+$

@@ -1,0 +1,305 @@
+#900
+key~
+the key to your cell~
+You see a grey rusted key lying here.~
+~
+18 68 16385 0
+0 0 0
+0 0 0 0
+1 100 100
+#901
+nazi hard hat ~
+a standard nazi hard hat~
+You see a hat with a nazi emblem on the side, lying here being spit on.~
+~
+11 133632 17 0
+0 0 0
+0 0 0 0
+2 100 100
+A
+16 -5
+#902
+standard nazi uniform~
+a standard nazi uniform~
+You see a pile of grey cloth here.~
+~
+11 133632 9 0
+0 0 0
+0 0 0 0
+3 3 3
+#903
+standard nazi issue machine gun~
+a standard nazi issue machine gun~
+You see a blood covered machine gun here.~
+~
+5 133632 8193 0
+0 0 0
+0 6 3 12
+3 3 3
+A
+18 3
+A
+17 -1
+#904
+key 2nd level~
+a key with a "2"~
+This is a key with a "2" on it.
+~
+~
+18 516 4097 0
+0 0 0
+0 0 0 0
+1 100 1000
+#905
+annihilator chain gun~
+an [ANNIHILATOR] Chain Gun~
+You see a gun with a lot of bullets lying here.~
+~
+5 8813056 8193 0
+0 0 0
+0 8 3 12
+26 1000 1000
+A
+18 4
+A
+17 4
+#906
+blue nazi ss SS cyber uniform ~
+an SS Nazi Cyber-uniform(BLUE)~
+You see a blue uniform lying here.~
+~
+9 393728 9 0
+0 0 0
+8 0 0 0
+0 0 0
+A
+10 10
+A
+13 3
+#907
+key 3 ~
+a key with a large "3" on it~
+You see a key with a large "3" on it lying here.~
+~
+18 516 5 0
+0 0 0
+0 0 0 0
+10 5 5
+#908
+black ss nazi cyber suit uniform~
+an SS Nazi Cyber-uniform(BLACK)~
+You see a black crumpled pile of cloth.~
+~
+9 133632 9 0
+0 0 0
+8 0 0 0
+1 1 1
+A
+14 3
+A
+18 1
+#909
+vektor cyborg attachment laser pistol~
+a Vektor Co. cyborg attachment laser pistol~
+You see a medium sized weapon, yet, it seems to have an arm attachment.~
+~
+5 8534528 8193 0
+0 0 0
+0 8 3 8
+3 3 3
+A
+18 2
+A
+17 2
+#916
+groebels series damage DAMAGE shotgun~
+Groebels INC. "DAMAGE" series shotgun~
+You see a double barrelled shotgun lying here.~
+~
+5 8548864 8193 0
+0 0 0
+0 5 5 8
+18 5 0
+A
+18 5
+A
+17 -5
+#917
+groebels series targetting rifle~
+Groebels INC. "TARGETTING" series rifle~
+You see a long barrelled rifle lying here.
+It is oozing something.~
+~
+5 8548864 8193 0
+0 0 0
+0 5 5 8
+5 5 0
+A
+18 -5
+A
+17 5
+#972
+nazi armband red band~
+a nazi armband~
+You see a red band lying here.~
+~
+11 8794632 257 0
+0 0 0
+0 0 0 0
+1 10000 10000
+A
+18 2
+A
+17 3
+#973
+brown uniform~
+a brown uniform~
+You see a brown uniform lying here.~
+~
+11 395776 9 0
+0 0 0
+0 0 0 0
+2 10000 1000
+A
+13 4
+#974
+shield swastika~
+a shield with a swastika upon it(DRIPPING BLOOD)~
+You see a smaller shield with a swastika on it.  It is oozing with blood.~
+~
+9 133632 513 0
+0 0 0
+5 0 0 0
+20 0 0
+A
+10 5
+A
+13 3
+#975
+shield swastika~
+a shield with a swastika upon it(DRIPPING BLOOD)~
+You see a large red shield lying here.  It is oozing with blood.~
+~
+9 8534528 513 0
+0 0 0
+11 0 0 0
+25 0 0
+A
+2 -4
+A
+18 3
+#976
+panther cyber battle suit~
+a 'Panther' series battle suit~
+You see a largge, thick, bulky suit lying here.~
+~
+9 8813056 9 0
+0 0 0
+20 0 0 0
+27 100000 100000
+A
+17 -4
+A
+12 -40
+#991
+whoops~
+whoops~
+Whoops.~
+~
+15 4 0 0
+0 0 0
+500 0 0 0
+0 0 0
+#992
+black titanium panther blast armor~
+a 'Panther' series titanium blast armor~
+You see some large black armor lying here.~
+~
+9 8813056 9 0
+0 0 0
+6 0 0 0
+27 1 1
+A
+23 -5
+A
+12 -10
+#993
+cyber enhancement chip~
+a cyber enhancement chip~
+You see a chip that could be insterted in your head, lying here.~
+~
+11 133632 17 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+18 1
+A
+17 3
+#994
+rogers roger's plain clothes suit tie~
+Roger's plain clothes~
+You see a suit and tie lying here.~
+~
+11 0 9 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+7 10
+#995
+orders~
+Your orders~
+Your orders are laying here.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+1 8 8
+E
+orders~
+Your job, should you not be a wussboy, is that you have to kill
+Adolph Hitler.  If you fail, Sheol will claim that he knew nothing!
+These orders will disintegrate when you  quit out (You can't rent this)
+~
+#996
+cyber enhancement chip~
+a cyber enhancement chip~
+You see a chip that could be insterted in your head, lying here.~
+~
+11 133632 17 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+14 3
+A
+13 3
+#997
+key~
+a cyber chip key~
+You see a shiny key lying here.~
+~
+18 516 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#998
+blood key~
+a key covered in the blood of millions~
+You see a bloody evil key lying here.~
+~
+18 516 16385 0
+0 0 0
+0 0 0 0
+1 1 1
+#999
+key~
+a key~
+Would you believe it, a key!~
+~
+18 516 16385 0
+0 0 0
+0 0 0 0
+1 1 1
+$

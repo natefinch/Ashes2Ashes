@@ -1,0 +1,246 @@
+#22600
+heavy golden key~
+a heavy golden key~
+A heavy golden key lies here.~
+~
+18 12 1 0
+0 0 0
+22600 0 0 0
+1 0 0
+#22608
+statue~
+the Sultans statue~
+A statue of the Sultan stands atop a pedestal here.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+999 0 0
+E
+statue~
+The statue is life-sized, and great care was taken to capture even the most
+minute details - right down to the Sultans eyelashes.  You could almost swear
+it was the Sultan himself looking down at you.  It stands on a white marble
+pedestal, about two feet off the palace floor.
+~
+#22611
+mystic diamond ring~
+a Mystic Blue Diamond Ring~
+A solid gold ring with a huge blue diamond is lying here.~
+~
+9 1088 3 0
+0 0 0
+10 0 0 0
+1 30000 2500
+A
+3 2
+A
+4 3
+E
+ring~
+This is by far the largest diamond you will ever see in your lifetime.  It
+dazzles your eyes as it catches even the tiniest of light, and reflects them
+all around you.  The stone itself is a pale sky blue, perfectly cut, and
+slightly smaller than a chestnut.  The band is a highly polished solid gold.
+~
+#22618
+sculpture statue~
+a sculpture of Jasmine~
+A sculpture of Jasmine stands atop a pedestal here.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+999 0 0
+E
+sculpture statue~
+The beauty of the Princess Jasmine was captured by the sculptor in this
+life-sized piece of art.  No finer piece of work have you ever seen.  It
+stands atop a small pedestal that looks to be made of solid gold.
+~
+#22639
+tiara~
+a Blue Tiara~
+A blue Tiara with a huge blue gemstone lies here.~
+~
+9 0 17 0
+0 0 0
+6 0 0 0
+1 11225 3000
+A
+3 2
+A
+4 2
+E
+tiara~
+It is made of fine silk.  Set in its center is a precious blue gemstone.
+~
+#22640
+necklace~
+a solid gold necklace~
+A wide gold necklace has been dropped here.~
+~
+9 1024 5 0
+0 0 0
+8 0 0 0
+1 9250 1300
+A
+2 3
+A
+5 2
+E
+necklace~
+The necklace is solid gold and beautifully crafted.
+~
+#22647
+dagger diamond-edged~
+a diamond-edged dagger~
+A long slender dagger with a diamond edge lies here.~
+~
+5 9352192 24577 0
+0 0 0
+0 6 4 11
+3 2000 1500
+A
+17 4
+A
+18 4
+E
+dagger~
+It is a beautifully engineered killing weapon with a diamond edge.
+~
+#22650
+cage~
+a golden cage~
+A beautiful Golden Cage sits here atop a white marble pedestal.~
+~
+15 0 0 0
+0 0 0
+1000 5 0 0
+990 200000 0
+E
+cage~
+The cage is completely gold plated and has a set of small doors in the
+front. It is where Jasmine keeps her pet songbirds, and she visits them
+every day to feed them and listen to them sing their beautiful songs.
+~
+#22651
+bird~
+a tiny white songbird~
+A tiny white songbird with large, soft eyes is here.~
+~
+12 0 16385 0
+0 0 0
+0 0 0 0
+1 200 100
+A
+4 1
+A
+3 1
+#22652
+fountain~
+a tulip-shaped fountain~
+A huge white fountain in the shape of a tulip stands here.~
+~
+23 0 0 0
+0 0 0
+30000 30000 15 0
+500 0 0
+E
+fountain tulip~
+The fountain must be twenty feet in diameter and filled with crystal clear
+water. Tiny goldfish swim in the pool beneath it, and there is a ledge around
+the pool where Jasmine likes to sit and feed the fish.  The top of the fountain
+is a majestic golden peacock, whose tail plumes in a fan of water down to the
+tulip-shaped base.  The sky reflects in the pool making it appear sky blue.
+~
+#22654
+bench~
+a garden bench~
+A pretty garden bench stands here.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+900 100000 0
+E
+bench~
+The bench is of an ornate design with a low back, is gold plated, and has
+a soft, comfortable cushion over the wooden seat.
+~
+#22660
+key ornate iron~
+a wrought-iron key~
+An ornate wrought-iron key has been dropped here.~
+~
+18 4 1 0
+0 0 0
+22660 0 0 0
+1 0 0
+#22661
+scarab key~
+a golden Scarab~
+A golden object shaped like an insect is lying here.~
+~
+18 12 1 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+scarab key~
+The key is of solid gold, and in the shape of a Scarab.
+~
+#22662
+turban~
+a black Jeweled Turban~
+A black turban with a blood-red stone is lying here.~
+~
+9 180736 17 0
+0 0 0
+5 0 0 0
+1 9000 2300
+A
+5 2
+A
+10 15
+E
+The turban is black, has a black plume, and a blood-red stone.~
+~
+#22663
+staff~
+a Staff of Evil~
+A wicked staff with a cobra's head is lying here.~
+~
+5 9888258 24577 0
+0 0 0
+0 5 4 0
+6 8075 2200
+A
+1 2
+A
+18 3
+E
+staff~
+The staff is around six feet long.  At the top is a large cobra's head.
+The cobra's eyes are large red rubies.  You feel strange when you look into
+its eyes.  It must have some kind of magickal power.
+~
+#22664
+cloak~
+a black Cloak of Power~
+A black cloak with a blood-red lining lies here in a heap.~
+~
+9 180736 9 0
+0 0 0
+6 0 0 0
+3 10000 2500
+A
+14 5
+A
+13 5
+E
+cloak~
+The cloak reaches to the floor, has a high, spiky collar, and is lined
+with blood-red silk.  It has a rather musty smell to it.
+~
+$

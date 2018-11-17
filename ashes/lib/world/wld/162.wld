@@ -1,0 +1,289 @@
+#16200
+On to Caemlyn, Perrins Camp~
+Hunger, fear, and weariness plague every movement in your body.  Will you
+ever get to Caemlyn?  There hasnt even been a farmhouse in the distance for
+days.  Every day wolves follow you, and every night they circle you like
+vultures waiting for you to drop dead.  Here, Perrin and Egwene made a small
+encampment to rest in during their journey.  The ashes look pretty fresh.
+~
+162 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 16201
+D3
+~
+~
+0 -1 16199
+S
+#16201
+On to Caemlyn, Elyass Encampment~
+After several more days of walking you come upon the heavenly smell of
+roasting rabbit and wood smoke.  As you get nearer to the smell you see that
+a strange man has erected a encampment here.  Slowly, and cautiously you walk
+towards then encampment, only to hear, "Are you going to stand there drooling
+in the underbrush or are you going to come introduce yourself and eat some
+rabbit meat."  Thus you have your first meeting with Elyas Machera.
+~
+162 4 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 16200
+D8
+~
+~
+0 -1 16202
+S
+#16202
+On to Caemlyn, Running with the wolves~
+After a long, friendly talk with Elyas you are now back on track for Caemlyn.
+Armed with newfound understanding, you welcome the company of Dapple and his
+pack mates. With the aid of Elyas and the wolves you make excellent time.
+After 5 days of traveling you can see a group of the Traveling people in the
+distance.
+~
+162 0 3
+0d0+0 0 0
+D7
+~
+~
+0 -1 16201
+D8
+~
+~
+0 -1 16203
+S
+#16203
+On to Caemlyn, The Traveling People~
+With the guide of Dapple, Hopper and Wind you have made the hard trek through
+the Forest in good time. After days of walking you come upon a long train of
+wagons. On close inspection you see that the wagons are little more then
+houses on wheels.  The color of the houses are only slightly dulled by the
+brightly colored clothes of the occupants. Smells of cooking food, and the
+sound of merry fiddle music overcome your senses and you long for home.
+~
+162 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 16204
+D7
+~
+~
+0 -1 16202
+S
+#16204
+Traveling People, Middle of Camp~
+Laughter, good food, and happy people surround you.  As you stroll about the
+center of the Mahdi camp you can't help but pick up the lengend of the
+people. It is said that the Mahdi shall travel the world, looking for a
+special song.  When the Mahdi find the song the paradise of the Age of
+Legends will return. The Mahdi are a cheery and non-violent people.  To the
+north you see the Seeker's wagon.
+~
+162 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 16205
+D1
+~
+~
+0 -1 16206
+D3
+~
+~
+0 -1 16203
+S
+#16205
+Traveling People, Seekers Wagon~
+Bright colors cover the wagon like much of the rest of the camp.  This wagon
+is home to the leader Raen, and his wife Ila.  It is obvious that no warrior
+has ever inhabited this place. A small table holds a loot, that looks well
+played.
+~
+162 8 0
+0d0+0 0 0
+D2
+~
+~
+1 -1 16204
+E
+loot table~
+It looks like even the leader of the Mahdi is a bard at heart.
+~
+S
+#16206
+Traveling People, Around the cook fire~
+Here Mahdi and visitors have formed a circle, and are passing out the daily
+meal.  The dinner looks to be a tasty stew with bread on the side.  As people
+finish their meal some pick up instruments and play a merry tune, which the
+younger people dance to. Slightly to your north, a group of the Mahdi dances.
+A trail here forks away from the camp to the east, into the wilderness.
+~
+162 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 16207
+D1
+~
+~
+0 -1 16208
+D3
+~
+~
+0 -1 16204
+S
+#16207
+Traveling People, Dancing~
+Groups of Mahdi dance in joyful circles around a medium sized group of
+musicians.  You hear many popular songs being played on a wide assortment of
+instruments.   Among the tunes being played you hear, "Pretty Maids Dancing",
+"Toss the Feathers", and "Hard Rain falling."  As you sit and listen to the
+music you can almost swear you hear a bit of electric guitar music very odd,
+as there is no electricity.
+~
+162 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 16206
+S
+#16208
+On to Camelyn, just past the Mahdi Camp~
+As you journey away from the camp you hear the words of the seeker saying,
+"As you came in peace, Depart now in peace.  Always will out fires welcome
+you, in peace. The Way of the Leaf is peace." You return the reply with,
+"Peace be on you always, and all the People.  I will find the song, or
+another will find the song, but the song will be sung, this year or the year
+to come.  As it once was, so shall it be again, world without end. "  As you
+finally leave the camp, you journey into a dry grassland.  The grassland
+continues to the south.
+~
+162 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 16206
+D8
+~
+~
+0 -1 16209
+S
+#16209
+On to Camelyn, before a ridge~
+After days of travel the grassland becomes more hilly.  Here and there very
+small thickets of hardy trees and thorn bushes cover the land providing the
+only vegitation, aside from sparse patches of brown winter grass. As you
+finally take a moment to rest you come to a large ridge, too big to circle
+around.  Luckily, the ridge looks climbable, and you can continue up and
+climb it.
+~
+162 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 16210
+D7
+~
+~
+0 -1 16208
+S
+#16210
+On to Camelyn, top of the ridge~
+You creep slowly up the ridge, and rightly too, because in the distance you
+see a huge flock of jet-black ravens roosting in a large tree.  While
+normally the easiest of the dark ones troops to kill, a huge flock or ravens
+can pick a human clean in a matter of seconds.   It looks like you should be
+able to pick your way boulder to boulder, to the south.
+~
+162 0 4
+0d0+0 0 0
+D5
+~
+~
+0 -1 16209
+D9
+~
+~
+0 -1 16211
+S
+#16211
+On to Caemlyn, Dangerous Area #1~
+As you pick your way from boulder to boulder you can't help but shiver in
+terror at the ravens.  Evidence of their passing is clear, as you walk
+through piles of bloody animal fragmants at every other step. To the north a
+huge flock of ravens is tearing apart an animal, and to the northwest you see
+a stedding.
+~
+162 4 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 16213
+D7
+~
+~
+0 -1 16212
+S
+#16212
+On to Caemlyn, A stedding~
+Description: As you enter the stedding, a ripple of coldness sweeps through
+your body as if you had jumped into a river in mid-winter.  Built by the
+Ogier, the stedding provides the one thing you need right now, safety.
+Steddings are sort of a safety area that the Ogier used for their homes.  No
+evil, and no magic may exist inside of a stedding.  This stedding seems to
+have served some grand purpose in some ancient time. A huge piece of
+stonework is to the north.
+~
+162 156 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 16214
+D8
+~
+~
+0 -1 16211
+S
+#16213
+Surrounded by Ravens~
+Here the sky is thick and black with ravens.  Blood red beady eyes gaze at
+you with violence.  I hope your flesh is made of stone, because if not you
+are about to have it ripped from your bones. Good luck, you'll need it.
+~
+162 1 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 16211
+S
+#16214
+Arthur Hawking's Hand~
+In times long past, a huge statue of Arthur Hawking was built here, but it
+has long been torn to pieces.   It looks like a fight was fought here very
+recently. The bodies of several White Cloaks, and a wolf lie here in a pool
+of blood.  One of the White Cloaks has huge gashes from an axe, maybe Perrin
+was here? Far to the east you see a camp of the Children of the Light.
+~
+162 1 4
+0d0+0 0 0
+D2
+~
+~
+0 -1 16212
+S
+$

@@ -1,0 +1,362 @@
+#16000
+dust muncher creature~
+the Dust Muncher~
+There is a little dust-like creature here.
+~
+He looks very dusty...
+~
+24649 128 1000 W
+100 0 -21 0d0+15000 100d100+50
+0 0
+6 6 0
+13 0 13 13 13 13 0
+0 0 0
+-210 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#16001
+nessy loch ness~
+the Loch Ness Monster~
+A VERY large dinosaur type looking creature eyes you carefully.
+~
+You look into the eyes of a legend, for the Loch Ness Monster has eluded the
+careful watch of many a sharp eye. She is greyish green in colour, with a 
+slimy film covering her body. She then looks down at you, smirks, and decides she could change her diet
+just this once from small fish and plaiction to human flesh...
+~
+26703 524426 1000 W
+100 60 -10 20d5+9000 12d3+30
+200000 150000
+8 8 2
+18 100 18 18 13 13 0
+12 5 3
+-100 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#16002
+gilligan man~
+Gilligan~
+A tall wirey man stands here with a goofy looking first mate's cap on his head.
+~
+  You look at this man a notice right off the bat that he is goofy looking.
+From his red shirt, to the stupid looking cap of his, you cant help but
+laugh at him. 
+~
+30861 128 1000 W
+65 42 -5 0d0+3000 5d4+15
+50000 50000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#16003
+skipper~
+the Skipper~
+A man in a captain's suit stands here.
+~
+  Here stands the skipper, a large oldish man wearing a captain's hat,
+kahati shorts (which haven't been changed in eons), and polo shirt.
+He stands, looks about and suddenly yells out "Gilligan!!!" for no
+apparent reason.
+~
+30729 128 1000 W
+73 35 -2 0d0+2000 4d5+13
+456 29000
+6 6 1
+18 0 13 13 13 13 0
+19 2 2
+-20 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#16004
+mr howell~
+Thurston Howell the III~
+A fairly old man looks over at you and says "Pennyless Boobie".
+~
+ You look at Mr. Howell and decide that he is either one of two things:
+Stuck up or just plain snooty to everyone. His nose is held high in the 
+air like many rich people, and seems disgusted to be in the room with you.
+~
+24585 128 0 W
+51 25 -2 0d0+1200 4d7+13
+100000 30000
+8 8 1
+18 100 13 13 13 13 0
+20 2 2
+-20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#16005
+Mrs howell~
+Mrs. Howell~
+Here stands a woman with gold and diamonds everywhere.
+~
+Mrs. Howell is just like her husband, and even shares the same attitudes
+about you. She is oldish-middle aged and is on the back end of her
+mid-life crisis.
+~
+18888 0 1000 W
+30 20 -6 0d0+1000 4d4+10
+30000 20000
+6 6 0
+13 0 13 13 13 13 0
+0 2 2
+-60 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 0
+#16006
+professor~
+the Professor~
+A tall man stands here in a white shirt and white pants.
+~
+You look at the Professor and see he is quite smart, he stands here with 
+two beakers in his hands carfully measuring out some liquids.
+~
+26633 16908424 500 W
+75 38 -3 0d0+2000 3d7+18
+30000 50000
+8 8 1
+18 0 13 13 13 13 0
+8 2 2
+-30 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#16007
+mary anne~
+Mary Anne~
+A girl stands here, with pig-tails, looking innocent.
+~
+You see a girl, looking quite innocent. She has that 'girl-next-door' look
+about her, but you see something in her eyes that makes her not so nice-
+looking. Hmmm...maybe she's not as innocent as she looks...
+~
+10249 1 -500 W
+45 34 -3 0d0+1000 4d5+14
+23000 20000
+6 6 2
+13 0 13 13 18 13 0
+7 2 2
+-30 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#16008
+ginger~
+Ginger~
+Ginger is here.
+~
+You see a glamourous movie star with diamonds all over her body. She is one
+of those pin-up girls you've always dreamed about!
+~
+28683 160 1000 W
+47 32 -2 0d0+1500 5d6+4
+10000 30000
+8 8 2
+13 0 13 13 13 13 0
+10 2 2
+-20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#16009
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#16010
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#16011
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#16012
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#16013
+island native~
+an island native~
+An island native is here.
+~
+~
+2189 0 0 W
+10 1 8 0d0+50 3d3+0
+43 200
+8 8 0
+13 0 13 13 13 13 0
+5 2 2
+80 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#16014
+native headhunter head hunter~
+a native headhunter~
+A native headhunter is here.
+~
+He jabbers somthing in some crude language, and doesn't look to friendly.
+~
+10315 128 -1000 W
+34 12 -2 3d3+1000 4d5+10
+300 4000
+8 8 1
+18 0 13 13 13 13 0
+17 2 2
+-20 0 4 0 0
+15 15 15 15 15
+0 0 0
+6 0
+#16015
+panther~
+an island panther~
+A black panther is here
+~
+The panther is large, black and ready to eat you.
+~
+2152 0 -300 W
+23 10 1 0d0+300 6d5+0
+10 5000
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+10 0 6 0 0
+40 40 40 40 40
+0 0 0
+6 10
+#16016
+gorilla~
+a gorilla~
+A large gorilla jumps up and down here.
+~
+Its a gorrila all right... right down to the smelly fur.
+~
+2057 0 0 W
+15 10 4 0d0+100 5d5+12
+200 2000
+8 8 0
+18 0 13 13 13 13 0
+5 2 3
+40 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#16017
+annaconda snake~
+Annaconda snake~
+A long fat snake looks at you like you're its next meal.
+~
+The snake is long and fat and looks like it could swallow you whole.
+~
+2089 2048 -100 W
+23 9 2 0d0+500 2d6+1
+400 3000
+8 8 0
+13 0 13 13 13 13 0
+6 3 3
+20 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 10
+#16018
+davie jones~
+Davie Jones~
+
+~
+You cant see him perfectly, but you can make out the silowet of a pirate.
+~
+26697 524416 0 W
+71 24 -10 0d0+1689 7d6+0
+10000 16000
+8 8 1
+13 0 13 13 13 13 0
+18 2 2
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#16019
+lagoon creature~
+the Lagoon creature~
+A long snake like creature is here.
+~
+Its long and snakey.~
+2123 128 0 W
+44 10 -2 0d0+1000 4d4+3
+2000 20000
+8 8 0
+13 0 13 13 13 13 0
+11 5 0
+-20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#16054
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+$

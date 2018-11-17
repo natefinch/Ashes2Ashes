@@ -1,0 +1,507 @@
+#5100
+longsword long sword commoner~
+a commoner's longsword~
+A commoner's longsword made of adamantite has been left here.~
+slash
+~
+5 8400896 8193 0
+0 0 0
+0 1 8 3
+12 100 500
+A
+17 1
+A
+18 1
+#5101
+longsword noble long sword~
+a noble's longsword~
+A drow noble's longsword, made of adamantite, lies here.~
+slash~
+5 8400896 8193 0
+0 0 0
+0 1 8 3
+12 700 800
+A
+17 2
+A
+18 2
+#5102
+whip snake two twoheaded snakes~
+a snake headed whip~
+A whip with two snakes heads lies here.~
+whip
+~
+5 4161 8193 0
+0 0 0
+0 3 6 2
+12 1750 1500
+A
+17 2
+A
+18 2
+#5103
+whip snake threeheaded~
+a snake headed whip~
+A whip with three snake heads has been left here.~
+slash~
+5 4161 8193 0
+0 0 0
+0 2 7 3
+12 5000 2300
+A
+17 2
+A
+18 2
+#5104
+whip snake fourheaded~
+a snake headed whip~
+A whip with four snake heads has been carelessly left here.~
+slash~
+5 4161 8193 0
+0 0 0
+0 2 8 3
+12 10250 4000
+A
+17 -1
+A
+18 2
+#5105
+longsword long sword black~
+a black longsword~
+A black longsword has been carelessly left here.~
+slash~
+5 8400961 8193 0
+0 0 0
+0 2 8 3
+12 1200 4000
+A
+17 2
+A
+18 2
+#5106
+whip snake fiveheaded~
+a snake headed whip~
+A whip with 5 snake heads has been carelessly dropped here.~
+slash~
+5 135745 8193 0
+0 0 0
+0 3 6 3
+12 12000 4500
+A
+1 -1
+A
+3 -1
+#5107
+whip snake sixheaded~
+a snake headed whip~
+A whip with six snake heads has been dropped here very carelessly.~
+slash~
+5 135745 8193 0
+0 0 0
+0 4 5 3
+14 15000 8000
+A
+1 -2
+A
+3 -2
+#5108
+bracers bracer pair~
+a pair of bracers~
+A pair of bracers has been dropped here.~
+~
+9 135233 257 0
+0 0 0
+7 0 0 0
+3 2000 1000
+A
+11 20
+A
+18 1
+#5109
+gauntlets pair gauntlet~
+Shimmering Green Gauntlets~
+A pair of gauntlets is lying on the ground.~
+~
+11 10014721 129 0
+0 0 0
+0 0 0 0
+15 10000 3000
+A
+18 2
+A
+17 2
+#5110
+wand lightning blue silver~
+a silvery blue wand~
+A silvery blue wand has been dropped in the dirt.~
+~
+3 8256 16385 0
+0 0 0
+50 20 20 35
+1 600 3000
+#5111
+helmet helm~
+a small helmet~
+A small helmet lies up against a rock.~
+~
+9 64 17 0
+0 0 0
+1 0 0 0
+5 6000 3000
+A
+3 2
+A
+10 15
+#5112
+ring midnight blue~
+a midnight blue ring~
+A small midnight blue colored ring lies before you.
+~
+~
+11 8400960 3 0
+0 0 0
+0 0 0 0
+1 20000 8000
+A
+17 2
+A
+11 15
+#5113
+Yochlol eye light~
+the eye of Yochlol~
+A big black eye of a might spider lies here.
+~
+~
+1 8812609 16385 0
+0 0 0
+0 7 -1 11
+12 12000 15000
+A
+17 1
+A
+18 3
+#5114
+cap knit finely~
+a finely knit cap~
+A finely knit cap lies in the dirt.
+~
+~
+9 9887776 17 0
+0 0 0
+10 0 0 0
+1 2000 600
+A
+10 20
+A
+13 4
+#5115
+Triel's whip~
+Triel's Whip~
+A long black whip, the cat-o-nine-tails, lies here.~
+~
+5 8419395 8193 0
+0 0 0
+0 7 3 8
+15 2 0
+A
+16 -17
+A
+11 -50
+#5116
+A Baenre bracer~
+a Baenre bracer~
+A bracer made of tough leather and enchanted by dark magic glows in the dirt before you.~
+~
+9 8581185 4097 0
+0 0 0
+6 0 0 0
+2 10000 0
+A
+17 3
+A
+18 1
+#5117
+jarlaxle armor midnight~
+Jarlaxle's armor~
+A set of midnight armor, glowing from dark magic, lies here.~
+~
+9 8802881 9 0
+0 0 0
+10 0 0 0
+25 60000 0
+A
+18 2
+A
+17 2
+#5118
+jarlaxle armor midnight~
+Jarlaxle's armor~
+A set of midnight armor, glowing from dark magic, lies here.
+~
+~
+9 1446401 1025 0
+0 0 0
+2 0 0 0
+10 0 0
+A
+18 2
+A
+17 3
+#5119
+darkness blade~
+the blade of Darkness~
+A blade lies here, absorbing light.~
+~
+5 8827457 8193 0
+0 0 0
+0 6 5 11
+20 50000 0
+A
+18 3
+A
+17 4
+#5120
+ring gold onyx black~
+a black onyx ring~
+A small gold ring set with onyx rests in the corner.~
+~
+9 8810499 3 0
+0 0 0
+5 0 0 0
+4 50000 0
+A
+18 2
+A
+17 3
+#5121
+A Spider Shaped Key~
+a Spider Shaped Key~
+YIKES! A Spider!!  No, wait.~
+~
+18 0 16385 0
+0 0 0
+-1 0 0 0
+0 0 0
+#5125
+A Baenre bracer~
+a Baenre bracer~
+A bracer made from dark metal lies here
+~
+~
+11 8581121 4097 0
+0 0 0
+0 0 0 0
+2 50000 0
+A
+18 2
+A
+17 1
+#5126
+toast slice burnt~
+a slice of burnt toast~
+A somewhat charred piece of bread lies here on the ground.
+~
+~
+19 0 1 0
+0 0 0
+1 0 0 0
+1 2 2
+#5127
+roll cinnamon~
+a cinnamon roll~
+Boy that looks good! Bet it tastes good too.
+~
+A cinnamon roll lies here on the ground.
+~
+19 0 1 0
+0 0 0
+24 0 0 0
+1 40 0
+#5128
+tortilla~
+a tortilla~
+Lightly toasted, the tortilla looks mighty delicious.
+~
+~
+19 0 1 0
+0 0 0
+12 0 0 0
+1 20 0
+#5129
+cake birthday~
+a piece of birthday cake~
+Covered in frosting, a small piece of cake looks very appealing to you.
+~
+~
+19 0 1 0
+0 0 0
+16 0 0 0
+0 26 0
+#5130
+potion puke green~
+a puke green potion~
+Hmm it doesnt look too good.
+~
+~
+10 0 1 0
+0 0 0
+50 0 33 0
+1 15000 0
+#5131
+potion cardinal red~
+a cardinal red potion~
+~
+~
+10 0 1 0
+0 0 0
+50 43 28 0
+1 100000 0
+#5132
+scroll scrap paper~
+a scrap of paper~
+You sure this isn't junk?
+~
+~
+2 0 1 0
+0 0 0
+50 3 57 59
+1 20000 0
+#5133
+fountain bubbling~
+a bubbling fountain sits here in all its magnificence.~
+A bubbling fountain sits here in all its magnificence.
+~
+A bubbling fountain sits here in all its magnificence.
+~
+23 0 0 0
+0 0 0
+10000 10000 0 0
+10005 0 0
+#5140
+Cleric cape knowledge~
+Cleric's cape of knowledge~
+This cape radiates with a bright black aura.  Made of an unknown fabric, the
+cape of knowledge brings great wit to its bearer.
+~
+~
+9 10407937 1025 0
+0 0 0
+5 0 0 0
+0 0 0
+A
+10 25
+A
+3 3
+#5141
+Water bottle~
+a large water bottle~
+Filled with thirst quenching water, this water container can satisfy your 
+thirst only for a short time.
+~
+~
+17 0 16385 0
+0 0 0
+1000 1000 0 0
+1005 200 0
+#5142
+Gatorade cooler~
+a gatorade cooler~
+Filled with tasty lemonade flavored gatorade, this container can satisfy many
+thirst filled adventures.
+~
+~
+17 0 129 0
+0 0 0
+800 800 6 0
+805 2000 0
+#5145
+drow breast plate breastplate~
+a drow breastplate~
+This piece of work was obviously made for a shorter person but it appears you may be able to squeeze your way into it. Made of some common metal materials, this breastplate looks like it could server as some decent protection.
+~
+~
+9 8400896 9 0
+0 0 0
+6 0 0 0
+4 145000 0
+A
+17 1
+A
+18 1
+#5155
+pen light lantern~
+a small pen light~
+Although small in size, this maglite pen ligiht, can aluminate even the 
+darkest of rooms.
+~
+~
+1 0 16385 0
+0 0 0
+0 0 24 0
+1 500 0
+#5156
+grocery bag brown paper sack~
+a brown grocery bag~
+Not large in size, but this bag could help you carry some of the knick knacks
+you find throughout your journeys.
+~
+~
+15 0 16385 0
+0 0 0
+50 0 0 0
+1 50 0
+#5160
+key~
+a key~
+A key is on the ground.~
+~
+18 0 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#5190
+Yochlol's Mighty Foot~
+Yochlol's Mighty Foot~
+Cut from the leg of the mighty yochlol, this foot glows of an evil power.
+~
+~
+9 9353219 65 0
+0 0 0
+5 3 1 5
+5 100000 0
+A
+18 3
+A
+17 1
+E
+~
+
+~
+#5191
+Shield of Supremacy~
+Shield of Supremacy~
+Forged of an unknown dark metal, this shield will one day save your life.
+~
+~
+9 8682498 513 0
+0 0 0
+10 0 0 0
+0 0 0
+A
+18 3
+A
+17 1
+#5192
+corpse paladin~
+a corpse of a mighty paladin~
+Once a mighty paladin roamed into the path of the infamous Yochlol.  Blessed
+with great strength and a will to protect the land a fierce fight insued.  
+Overpowered by the mighty Yochlol, the paladin was quickly overwhelmed and this
+corpse is all that remains.
+~
+~
+15 0 16385 0
+0 0 0
+500 0 0 0
+40 0 0
+$

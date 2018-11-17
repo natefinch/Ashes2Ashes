@@ -1,0 +1,1684 @@
+#19000
+The begining of Jepoardy Lane.~
+You are standing on a street running east to west in a small suburb. The
+houses on the street are neetly designed clones of each other. Each lawn is
+carefully manicured. There are dogs barking, and kids playing. Middle aged
+suburbanites are washing thier yuppie-mobiles, and tending to their gardens.
+~
+190 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 19001
+D2
+A narrow alleyway heads back to Monroe Street in downtown Chicago.
+~
+~
+0 -1 659
+E
+sign~
+"Married with Cildren" The Zone.
+Created by Xorin on Sept 1, 1996.
+
+This zone is an incomplete replica of the show. I tried to recreate
+as much of the show as I could, but that is always impossible. Look carefully
+at the descriptions. There are hidden jokes everywhere. There are also over
+30 hidden mobs in this zone. Look high, look low.
+-Xorin. :)
+~
+S
+#19001
+On Jepoardy Lane.~
+You are standing on a street running east to west in a small suburb. The
+houses on the street are neetly designed clones of each other. Each lawn is
+carefully manicured. There are dogs barking, and kids playing. Middle aged
+suburbanites are washing thier yuppie-mobiles, and tending to their gardens.
+~
+190 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 19002
+D2
+~
+~
+0 -1 19005
+D3
+~
+~
+0 -1 19000
+S
+#19002
+On Jepoardy Lane.~
+You are standing on a street running east to west in a small suburb. The
+houses on the street are neetly designed clones of each other. Each lawn is
+carefully manicured. There are dogs barking, and kids playing. Middle aged
+suburbanites are washing thier yuppie-mobiles, and tending to their gardens.
+~
+190 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 19009
+D1
+~
+~
+0 -1 19003
+D3
+~
+~
+0 -1 19001
+S
+#19003
+On Jepoardy Lane.~
+You are standing on a street running east to west in a small suburb. The
+houses on the street are neetly designed clones of each other. Each lawn is
+carefully manicured. There are dogs barking, and kids playing. Middle aged
+suburbanites are washing thier yuppie-mobiles, and tending to their gardens.
+~
+190 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 19004
+D2
+~
+~
+0 -1 19007
+D3
+~
+~
+0 -1 19002
+S
+#19004
+On Jepoardy Lane.~
+You are standing on a street running east to west in a small suburb. The
+houses on the street are neetly designed clones of each other. Each lawn is
+carefully manicured. There are dogs barking, and kids playing. Middle aged
+suburbanites are washing thier yuppie-mobiles, and tending to their gardens.
+~
+190 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 19010
+D1
+~
+~
+0 -1 19027
+D3
+~
+~
+0 -1 19003
+S
+#19005
+On the front lawn of a suburban residence.~
+You stand on the neatly manicured lawn of a suburban resident. As you gaze
+around you realize that these people have _way_ too much time. Every blade
+of grass is exactly four inches high. The walkway is line by a perfectly
+by a single row of flowers. The house is a stndard red brick with an off
+white vynil siding, and a black roof. A gleeming blue sedan sits in the
+driveway.~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19001
+D2
+~
+~
+0 -1 19006
+S
+#19006
+In side a suburban residence.~
+You stant in the livingroom of a suburban home. There is a couch up against
+the far wall, sitting opposite a TV. The TV is tuned to Oprah, who is
+blabing about how men have destroyed the world. The audience cheers as she
+insults men, and all that they do.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19005
+S
+#19007
+On the front lawn of a suburban residence.~
+You stand on the neatly manicured lawn of a suburban resident. As you gaze
+around you realize that these people have _way_ too much time. Every blade
+of grass is exactly four inches high. The walkway is line by a perfectly
+by a single row of flowers. The house is a stndard red brick with an off
+white vynil siding, and a black roof. A gleeming blue sedan sits in the
+driveway.~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19003
+D2
+~
+~
+0 -1 19008
+S
+#19008
+In side a suburban residence.~
+You stant in the livingroom of a suburban home. There is a couch up against
+the far wall, sitting opposite a TV. The TV is tuned to Oprah, who is
+blabing about how men have destroyed the world. The audience cheers as she
+insults men, and all that they do.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19007
+S
+#19009
+9764 Jepoardy Lane.~
+As soon as you step off the street onto the lawn, you regret the move. Your
+foot lands in somthing squishy. Then there's that horrible stench. The lawn
+is not mowed. There is no flower bed. The color of the grass is mostly a pale
+brown with the occasional green patch.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 19011
+D2
+~
+~
+0 -1 19002
+D6
+~
+~
+0 -1 19012
+S
+#19010
+9766 Jepoardy Lane.~
+Yet another suburban house standt before you. The only difference is that
+you swear that you can smell fried chicken. *shrug* Oh well...
+There are no kids playing near this house either. There is a mercedes in
+the drive. The flower bed in front of the house appears to be frequented
+by one of the neighborhood dogs.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 19024
+D2
+~
+~
+0 -1 19004
+S
+#19011
+The livingroom of the Bundy residence.~
+You stand in the doorway of the shabby living room. In the middle of the
+room is a couch. The middle of the couch has a large round imprint in it.
+Around the base of the couch you spy bon-bon crumbs. In front of the couch
+is a TV. It is of course tuned to Oprah. Who is tyrading on about men. There
+is a stairway leading up stairs, and a kitchen to the north. A close door
+leads to the downstairs, and another southwest to the garage. A sliding
+glass door leads east to the backyard.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19013
+D1
+~
+glass~
+1 -1 19021
+D2
+~
+door~
+1 -1 19009
+D4
+~
+~
+0 -1 19014
+D5
+~
+door~
+1 -1 19022
+D8
+~
+door~
+1 -1 19012
+S
+#19012
+Al's garage.~
+A thin layer of motor oil covers the floor. There are black tire marks on the
+floor. The whole room smells of gassoline, and anti-freeze. Oil cans, and
+and rags hang on the wall. A door leads northwest to the livingroom, and
+another leads west. The garage door opens to the south.
+~
+190 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19009
+D3
+~
+door~
+1 -1 19023
+D7
+~
+door~
+1 -1 19011
+S
+#19013
+The Bundy kitchen.~
+This is the shabby kitchen of the Bundy residence. In the center of the room
+is a medium sized table. Along one wall is a cooking range covered in dust.
+Next to that, on the north wall is a large brown fridge. Partially dividing
+the kitchen and living room is a small counter attached to the east wall.
+There is an doorway leading east to the laundry room. Back to the south is
+the livingroom.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+fridge~
+1 -1 19084
+D2
+~
+~
+0 -1 19011
+S
+#19014
+Upstairs.~
+You stand in a drab looking hallway. At the north end is a grandfather
+clock. To the south is an open door, leading into a bedroom. To the
+northwest is a plain brown, closed door. From the other side you here
+a hurried scuffling niose. To the north is another closed door. It is
+decorated with a colorful AC/DC poster.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 19016
+D2
+~
+door~
+1 -1 19017
+D5
+~
+~
+0 -1 19011
+D7
+~
+door~
+1 -1 19015
+S
+#19015
+Kelly's room.~
+Pink... Everything is pink... Except of course the navy blue naval uniform on
+the floor. The window on the north side has a ladder leaned up against it.
+The walls are spotted by chip 'n dale's posters.
+~
+190 8 0
+0d0+0 0 0
+D8
+~
+~
+0 -1 19014
+S
+#19016
+Bud's room.~
+The room is pretty messy. The the floors are covered with clothes. As you
+gaze around the room, you notice a piece of flesh colored rubber under the
+bed. The walls are covered with several 'girly' posters with such titles as
+'Wags. Half girl, half pup'.
+~
+190 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 19014
+S
+#19017
+The master bedroom.~
+This is a typical bedroom. There is a large king sized bed in the center of
+the room. At the foot of the bed is a TV. On either side of the bed stands
+a nightstand. To the west is a door leading to the bedroom. To the east is
+an open window overlooking the backyard.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 19014
+D1
+~
+~
+0 -1 19019
+D3
+~
+~
+0 -1 19018
+S
+#19018
+The upstairs bathroom.~
+This is a small room. A toilet sits in one corner. In the other is a small
+shower. There is a sink and mirror along the wall. The sink is covered with
+mascara, make-up, and other women's personal items.
+~
+190 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19017
+S
+#19019
+Free falling, SCREAMING, headfirst to your bloody DEATH!~
+Well this sucks... You're falling head first from the window. Amazingly
+you still flap your arms and try to fly...
+
+*WHAM*
+
+When you open your eyes, you are floating through the clouds. Everywhere
+there are winged people playing harps.  You hear God calling your name from
+above. Above you is a bright light...
+~
+190 16386 2
+1d1+199 90 0
+D4
+~
+~
+0 -1 19020
+S
+#19020
+On cloud nine.~
+You stand on a cloud in heaven. Below you is the world that you left behind.
+You wonder where God gets his shoes. Perhaps you should ask. What kind of
+shoes would God wear you wonder...
+~
+190 4 2
+0d0+0 0 0
+D5
+~
+~
+0 -1 19021
+S
+#19021
+The backyard.~
+This is more like Buck's bathroom, than a backyard. The smell is quite  raunchy
+out here. Every step you take is into a squishy little pile. Why did you want
+to come here anyway?
+~
+190 0 0
+0d0+0 0 0
+D3
+~
+glass~
+1 -1 19011
+S
+#19022
+The basement.~
+This is a dark, dank, dungeon, of a room. You can hear scurying sounds in
+the darkness. The room smells of an old sock. As you walk around the room
+are constantly clearing spiderwebs from your path. There is a bed in the
+middle of the room. On the north wall is the water heater for the house.
+~
+190 8 0
+0d0+0 0 0
+D4
+~
+door~
+1 -1 19011
+S
+#19023
+Al's Bathroom.~
+This is a closet sized bathroom. The walls and the floor are cold, white,
+ceramic tile. The whole room says "Step up to the bowl Mister, and make it
+a double!"
+~
+190 8 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 19012
+S
+#19024
+Marcy Darcy's livingroom.~
+This is a very neat livingroom. There is a couch in the center of the room.
+In front of the couch is a small coffee table. On the coffee table are such
+magazines as "Femi-nazi Today" and "Short-Haired Women in Banking." There is
+a stairway leading upstairs.
+~
+190 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 19010
+D4
+~
+~
+0 -1 19025
+S
+#19025
+Upstairs.~
+You stand in a small hallway. To the west is a close door. From the other side
+you hear a man chanting "Hit me, beat me, make me bleed! Kinky sex is what I
+need!" You can also hear the sharp crack of a bull whip, and what sounds like
+scream of a deamon.
+~
+190 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 19026
+D5
+~
+~
+0 -1 19024
+S
+#19026
+Marcy's bedroom.~
+This is a standard bedroom decorated with many erotic forms of torture. On
+the bed are leather straps. The walls are adorned with whips, and scourges.
+A pair of shackles are chained to the ceiling. The floor is damp. You don't
+want to know why.
+~
+190 8 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 19025
+S
+#19027
+Under the Freeway.~
+You are under a freeway overpass. You peer around under the bridge, and
+notice the abode of a local transient. You might be able to climb up onto
+the bridge. That is if you really want to be n freeway traffic...
+~
+190 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19001
+D3
+~
+~
+0 -1 19004
+D4
+~
+~
+0 -1 19028
+S
+#19028
+In to oncoming traffic!!! >>WHAM<<~
+You are standing on the freeway. Looking at the oncomming traffic. OUCH!
+That HURT! Maybe you should move before you get hit again. Maybe you
+like getting hit by traffic. Either way, you won't last much longer.
+~
+190 16386 11
+1d1+199 90 0
+D0
+~
+~
+0 -1 19029
+D2
+~
+~
+0 -1 19032
+D5
+~
+~
+0 -1 19027
+S
+#19029
+On the freeway.~
+You are standing on a freeway durring rush hour. The cars are bumper to
+bumber. The drivers are screaming at each other, and honking their horns.
+You are glad that you didn't bring a car.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19030
+D2
+~
+~
+0 -1 19028
+S
+#19030
+On the freeway.~
+You are standing on a freeway durring rush hour. The cars are bumper to
+bumber. The drivers are screaming at each other, and honking their horns.
+You are glad that you didn't bring a car.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19031
+D2
+~
+~
+0 -1 19029
+S
+#19031
+On the freeway.~
+You are standing on a freeway durring rush hour. The cars are bumper to
+bumber. The drivers are screaming at each other, and honking their horns.
+You are glad that you didn't bring a car.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19032
+D2
+~
+~
+0 -1 19030
+S
+#19032
+On the freeway.~
+You are standing on a freeway durring rush hour. The cars are bumper to
+bumber. The drivers are screaming at each other, and honking their horns.
+You are glad that you didn't bring a car.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19033
+D2
+~
+~
+0 -1 19031
+S
+#19033
+On the freeway.~
+You are standing on a freeway durring rush hour. The cars are bumper to
+bumber. The drivers are screaming at each other, and honking their horns.
+You are glad that you didn't bring a car.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19034
+D2
+~
+~
+0 -1 19032
+S
+#19034
+On the freeway.~
+You are standing on a freeway durring rush hour. The cars are bumper to
+bumber. The drivers are screaming at each other, and honking their horns.
+You are glad that you didn't bring a car.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19030
+D2
+~
+~
+0 -1 19033
+D5
+~
+~
+0 -1 19035
+S
+#19035
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19036
+D1
+~
+~
+0 -1 19045
+D2
+~
+~
+0 -1 19038
+D3
+~
+~
+0 -1 19039
+D4
+~
+~
+0 -1 19034
+S
+#19036
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19037
+D2
+~
+~
+0 -1 19035
+S
+#19037
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19038
+D1
+~
+~
+0 -1 19046
+D2
+~
+~
+0 -1 19036
+D3
+~
+~
+0 -1 19040
+S
+#19038
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19035
+D1
+~
+~
+0 -1 19071
+D2
+~
+~
+0 -1 19037
+S
+#19039
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19048
+D1
+~
+~
+0 -1 19035
+D3
+~
+~
+0 -1 19041
+S
+#19040
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19059
+D1
+~
+~
+0 -1 19037
+D3
+~
+~
+0 -1 19043
+S
+#19041
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19042
+D1
+~
+~
+0 -1 19039
+D2
+~
+~
+0 -1 19044
+D3
+~
+~
+0 -1 19045
+S
+#19042
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19043
+D2
+~
+~
+0 -1 19041
+S
+#19043
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19044
+D1
+~
+~
+0 -1 19040
+D2
+~
+~
+0 -1 19042
+D3
+~
+~
+0 -1 19046
+S
+#19044
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19041
+D2
+~
+~
+0 -1 19043
+D3
+~
+~
+0 -1 19073
+S
+#19045
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19047
+D1
+~
+~
+0 -1 19041
+D2
+~
+~
+0 -1 19072
+D3
+~
+~
+0 -1 19035
+S
+#19046
+Chicago city street.~
+This is your typical downtown street. Trashy. There are bums sleeping every
+twenty feet along the sidewalk. There are cars moving up and down the street.
+There are bars, and strip joints on every corner. Trash lines the gutters of 
+the streets. The whole places smells of smog, and polution.
+~
+190 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19070
+D1
+~
+~
+0 -1 19043
+D3
+~
+~
+0 -1 19037
+S
+#19047
+In a DEAD END alley.~
+You are standing in a dead end alley. There is trash piled along the walls
+of the alley. The walls themselves are covered with profane graffity. As
+you stand here you smell the acrid scent of gun smoke. Perhaps you should
+leave.
+~
+190 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19045
+S
+#19048
+The Entrance to Troy's.~
+You stand in the entrance way of a male strip joint. There are middle aged
+over-weight women crowding the entrance. They push and shove you trying to
+catch a glimpse of Zoro. You push your way through the herd, trying to get
+inside.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19049
+D2
+~
+~
+0 -1 19039
+S
+#19049
+Before the stage.~
+You stand in a tight space watching the mayhem.There are fat women everywhere.
+They are screaming at a buff, male stripper on stage. They are scrambling
+up to the stage, fighting to put money in his pants. A smokey haze fills
+the room. The noise and thick smoke would drive the average adventurer away.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19054
+D1
+~
+~
+0 -1 19051
+D2
+~
+~
+0 -1 19048
+D3
+~
+~
+0 -1 19050
+S
+#19050
+Before the stage.~
+You stand in a tight space watching the mayhem.There are fat women everywhere.
+They are screaming at a buff, male stripper on stage. They are scrambling
+up to the stage, fighting to put money in his pants. A smokey haze fills
+the room. The noise and thick smoke would drive the average adventurer away.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19053
+D1
+~
+~
+0 -1 19049
+D3
+~
+~
+0 -1 19055
+S
+#19051
+Before the stage.~
+You stand in a tight space watching the mayhem.There are fat women everywhere.
+They are screaming at a buff, male stripper on stage. They are scrambling
+up to the stage, fighting to put money in his pants. A smokey haze fills
+the room. The noise and thick smoke would drive the average adventurer away.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19052
+D3
+~
+~
+0 -1 19049
+S
+#19052
+Before the stage.~
+You stand in a tight space watching the mayhem.There are fat women everywhere.
+They are screaming at a buff, male stripper on stage. They are scrambling
+up to the stage, fighting to put money in his pants. A smokey haze fills
+the room. The noise and thick smoke would drive the average adventurer away.
+~
+190 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19051
+D3
+~
+~
+0 -1 19054
+S
+#19053
+Before the stage.~
+You stand in a tight space watching the mayhem.There are fat women everywhere.
+They are screaming at a buff, male stripper on stage. They are scrambling
+up to the stage, fighting to put money in his pants. A smokey haze fills
+the room. The noise and thick smoke would drive the average adventurer away.
+~
+190 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19054
+D2
+~
+~
+0 -1 19050
+S
+#19054
+On stage.~
+You have managed to make it on stage. The women now begin to screem louder.
+Half of them think you are part of the act, and are trying to put money
+down your pants. The other half are trying to pull you off stage. The stage
+is a runway type stage. It is made of hard wood, and lined with lights, and
+small rails. There is a bright hot spotlight shining upon you from above.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19057
+D1
+~
+~
+0 -1 19052
+D2
+~
+~
+0 -1 19049
+D3
+~
+~
+0 -1 19053
+S
+#19055
+The hallway.~
+You escape the ruckas of the main room. You are standing in a small drab
+hallway. The walls are made of cinder blocks. The hall runs from north
+to south on the west side of the joint. At the north end of the hall
+is a door. On the door is a sign that reads "Troy's Office." You can
+hear a voice from the other side of the door.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 19056
+D1
+~
+~
+0 -1 19050
+S
+#19056
+Troy's Office~
+You stand in a small dimmly lit office. There is a desk in the middle of the
+room. The desk is covered by papers, a coffee mug, and a pencil holder. On the
+wall are pictures of all the dancers. As you peer into the corner of the room
+you catch a glimpse of movement, but fail to see anything.
+~
+190 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 19055
+S
+#19057
+Backstage.~
+You stand backstage of the runway. To the east and west are the dressing rooms
+of the dancers. The floor is made of cement, and there are cables hanging
+from the ceiling. Who knows what act would use those. You can still hear
+the noise of the crowd inside the main room. You can also hear the scurry
+of dancers getting ready for an act.
+~
+190 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19058
+D2
+~
+~
+0 -1 19054
+S
+#19058
+The dressing room.~
+This is the dressing room for the dancers. SHAME ON YOU! Close your eyes!
+There are naked dancers struting around the room. Some are rehersing, others
+are primping and doing thier make-up. A few of the dancers glare at you
+upon entering the room. But after seeing your weapon, the quickly look away.
+~
+190 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 19057
+S
+#19059
+The entrance to the Nudie Bar.~
+You stand in the entrance way of a strip joint. There are middle aged
+over-weight men crowding the entrance. They push and shove you trying to
+catch a glimpse of hooters. You push your way through the herd, trying to get
+inside.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19060
+D2
+~
+~
+0 -1 19040
+S
+#19060
+Before the stage.~
+You stand in a tight space watching the mayhem.There are fat men everywhere.
+They are screaming at a busty stripper on stage. They are scrambling
+up to the stage, fighting to put money in her pants. A smokey haze fills
+the room. The noise and thick smoke would drive the average adventurer away.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19065
+D1
+~
+~
+0 -1 19061
+D2
+~
+~
+0 -1 19059
+D3
+~
+~
+0 -1 19062
+S
+#19061
+Before the stage.~
+You stand in a tight space watching the mayhem.There are fat men everywhere.
+They are screaming at a busty stripper on stage. They are scrambling
+up to the stage, fighting to put money in her pants. A smokey haze fills
+the room. The noise and thick smoke would drive the average adventurer away.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19063
+D3
+~
+~
+0 -1 19060
+S
+#19062
+Before the stage.~
+You stand in a tight space watching the mayhem.There are fat men everywhere.
+They are screaming at a busty stripper on stage. They are scrambling
+up to the stage, fighting to put money in her pants. A smokey haze fills
+the room. The noise and thick smoke would drive the average adventurer away.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19064
+D1
+~
+~
+0 -1 19060
+D3
+~
+~
+0 -1 19066
+S
+#19063
+Before the stage.~
+You stand in a tight space watching the mayhem.There are fat men everywhere.
+They are screaming at a busty stripper on stage. They are scrambling
+up to the stage, fighting to put money in her pants. A smokey haze fills
+the room. The noise and thick smoke would drive the average adventurer away.
+~
+190 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19061
+D3
+~
+~
+0 -1 19065
+S
+#19064
+Before the stage.~
+You stand in a tight space watching the mayhem.There are fat men everywhere.
+They are screaming at a busty stripper on stage. They are scrambling
+up to the stage, fighting to put money in her pants. A smokey haze fills
+the room. The noise and thick smoke would drive the average adventurer away.
+~
+190 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19065
+D2
+~
+~
+0 -1 19062
+S
+#19065
+On stage.~
+You have managed to fight your way on stage. The Well endowed dancer shakes
+her money maker in front of your face. The rest of the patrons cheer you on
+Some of the patrons try to lure the dancer over to them using wads of money.
+A spotlight shines down from above on to you and the dancer.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19068
+D1
+~
+~
+0 -1 19063
+D2
+~
+~
+0 -1 19060
+D3
+~
+~
+0 -1 19064
+S
+#19066
+The hallway.~
+You escape the ruckas of the main room. You are standing in a small drab
+hallway. The walls are made of cinder blocks. The hall runs from north
+to south on the west side of the joint. At the north end of the hall
+is a door. On the door is a sign that reads "Mangment Office." You can
+hear a voice from the other side of the door.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 19067
+D1
+~
+~
+0 -1 19062
+S
+#19067
+Managment Office~
+You stand in a small dimmly lit office. There is a desk in the middle of the
+room. The desk is covered by papers, a coffee mug, and a pencil holder. On the
+wall are pictures of all the dancers. As you peer into the corner of the room
+you catch a glimpse of movement, but fail to see anything.
+~
+190 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 19066
+S
+#19068
+Backstage.~
+You stand backstage of the runway. To the east and west are the dressing rooms
+of the dancers. The floor is made of cement, and there are cables hanging
+from the ceiling. Who knows what act would use those. You can still hear
+the noise of the crowd inside the main room. You can also hear the scurry
+of dancers getting ready for an act.
+~
+190 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19069
+D2
+~
+~
+0 -1 19065
+S
+#19069
+The dressing room.~
+This is the dressing room for the dancers. SHAME ON YOU! Close your eyes!
+There are naked dancers struting around the room. Some are rehersing, others
+are primping and doing thier make-up. A few of the dancers glare at you
+upon entering the room. But after seeing your weapon, the quickly look away.
+~
+190 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 19068
+S
+#19070
+New Market Mall (South entrance)~
+You stand in an endless see of cars. Here in the mall parking lot, they 
+stretch as far as the eye can see. Off in the distance to the north you can 
+see the mall. People are swarming all around you, going to and from the mall.
+The hot sun beats down upon you. You long for a drin of water.
+~
+190 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19074
+D2
+~
+~
+0 -1 19046
+S
+#19071
+New Market Mall (West entrance)~
+You stand in an endless see of cars. Here in the mall parking lot, they 
+stretch as far as the eye can see. Off in the distance to the north you can 
+see the mall. People are swarming all around you, going to and from the mall.
+The hot sun beats down upon you. You long for a drin of water.
+~
+190 4 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19077
+D3
+~
+~
+0 -1 19038
+S
+#19072
+New Market Mall (North entrance)~
+You stand in an endless see of cars. Here in the mall parking lot, they 
+stretch as far as the eye can see. Off in the distance to the north you can 
+see the mall. People are swarming all around you, going to and from the mall.
+The hot sun beats down upon you. You long for a drin of water.
+~
+190 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19045
+D2
+~
+~
+0 -1 19075
+S
+#19073
+New Market Mall (East Entrance)~
+You stand in an endless see of cars. Here in the mall parking lot, they 
+stretch as far as the eye can see. Off in the distance to the north you can 
+see the mall. People are swarming all around you, going to and from the mall.
+The hot sun beats down upon you. You long for a drin of water.
+~
+190 4 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19044
+D3
+~
+~
+0 -1 19076
+S
+#19074
+Inside the mall.~
+You walk through the endless crowds of people. All around you are shops, and
+high prices. The Shoppers ooh, and aww at varius windows along the never
+ending row of shops. Every now and again, a trolly passes by, carrying out of
+breath shoppers to the exit.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19075
+D1
+~
+~
+0 -1 19076
+D2
+~
+~
+0 -1 19070
+D3
+~
+~
+0 -1 19077
+S
+#19075
+Inside the mall.~
+You walk through the endless crowds of people. All around you are shops, and
+high prices. The Shoppers ooh, and aww at varius windows along the never
+ending row of shops. Every now and again, a trolly passes by, carrying out of
+breath shoppers to the exit.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19072
+D1
+~
+~
+0 -1 19082
+D2
+~
+~
+0 -1 19074
+D3
+~
+~
+0 -1 19083
+S
+#19076
+Inside the mall.~
+You walk through the endless crowds of people. All around you are shops, and
+high prices. The Shoppers ooh, and aww at varius windows along the never
+ending row of shops. Every now and again, a trolly passes by, carrying out of
+breath shoppers to the exit.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19080
+D1
+~
+~
+0 -1 19073
+D2
+~
+~
+0 -1 19081
+D3
+~
+~
+0 -1 19074
+S
+#19077
+Inside the mall.~
+You walk through the endless crowds of people. All around you are shops, and
+high prices. The Shoppers ooh, and aww at varius windows along the never
+ending row of shops. Every now and again, a trolly passes by, carrying out of
+breath shoppers to the exit.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19078
+D1
+~
+~
+0 -1 19074
+D2
+~
+~
+0 -1 19079
+D3
+~
+~
+0 -1 19071
+S
+#19078
+Gary's Shoes, and Accessories.~
+As soon as you walk into this deserted shoe store you regret it. The stench
+in horrible. Only a true looser would work in a place like this. There are
+gaudy shoes, and purses displayed around the room. There is a dusty register
+lying on a counter in one corner.
+~
+190 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19077
+D3
+~
+secret~
+1 -1 19085
+S
+#19079
+A store in the mall.~
+You manage to squeeze into one of the many stores in the mall. All around
+you fat women ooh, at the tiny clothes that you know they can't wear. Many
+of the women hold them up as if to say "I can wear this." "Not unless
+those are steel threads!" you think.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19077
+S
+#19080
+A store in the mall.~
+You manage to squeeze into one of the many stores in the mall. All around
+you fat women ooh, at the tiny clothes that you know they can't wear. Many
+of the women hold them up as if to say "I can wear this." "Not unless
+those are steel threads!" you think.
+~
+190 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 19076
+S
+#19081
+A store in the mall.~
+You manage to squeeze into one of the many stores in the mall. All around
+you fat women ooh, at the tiny clothes that you know they can't wear. Many
+of the women hold them up as if to say "I can wear this." "Not unless
+those are steel threads!" you think.
+~
+190 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 19076
+S
+#19082
+A store in the mall.~
+You manage to squeeze into one of the many stores in the mall. All around
+you fat women ooh, at the tiny clothes that you know they can't wear. Many
+of the women hold them up as if to say "I can wear this." "Not unless
+those are steel threads!" you think.
+~
+190 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 19075
+S
+#19083
+A store in the mall.~
+You manage to squeeze into one of the many stores in the mall. All around
+you fat women ooh, at the tiny clothes that you know they can't wear. Many
+of the women hold them up as if to say "I can wear this." "Not unless
+those are steel threads!" you think.
+~
+190 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 19075
+S
+#19084
+Inside the fridge~
+It's barren and cold inside the fridge. You see only a beer, an empty milk
+carton, and a piece of tin foil. Mmmm... Mystery Pack.... Mmmm... Boy it
+could get boring in here. Maybe you should leave.
+~
+190 8 0
+0d0+0 0 0
+D2
+~
+fridge~
+1 -1 19013
+S
+#19085
+The backroom~
+The whole room is filled with rows and rows of shoe boxes. All of them are
+amaxingly size nines. Boggle. The room has a musty odor. As if it is not
+oftem used. Perhaps no one knows it is here.
+~
+190 8 0
+0d0+0 0 0
+D1
+~
+secret~
+1 -1 19078
+S
+#19092
+~
+~
+190 0 0
+0d0+0 0 0
+S
+#19099
+~
+~
+190 0 0
+0d0+0 0 0
+S
+$

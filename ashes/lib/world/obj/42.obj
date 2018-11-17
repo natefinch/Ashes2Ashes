@@ -1,0 +1,222 @@
+#4200
+sign~
+requirements sign~
+A sign is sitting here .. READ IT!~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+sign~
+The requirements for the practice zones are simple.  You must have 10 rooms,
+mobs and objects. The rooms must have 3 1/2 - 4 line descs.  There must be at
+least one locking door in the zone.  The items must range in type.. a weapon
+or two.. a key or two.. a liquid container.. a container, and a light.  The
+rest is up to you.  The mobs must vary in level... and must follow the
+guidelines that have been set.  If you don't follow these requirements you
+will not pass. Tonya
+~
+#4201
+still~
+the still~
+The still is sitting here, gushing forth it's share of bad alcohol.
+~
+The still is sitting here gushing forth it's share of bad alcohol.
+~
+23 0 0 0
+0 0 0
+100 100 5 0
+9999 0 0
+#4202
+whipped cream~
+a can of luscious whipped cream~
+ this is a can of the most luscious and fluffy whipped cream
+you have ever seen
+~
+~
+11 0 8 0
+0 0 0
+0 0 0 0
+0 0 0
+#4203
+Black leather bowtie~
+a black leather bowtie.~
+A black leather bowtie lays here on the floor.
+~
+~
+11 0 5 0
+0 0 0
+0 0 0 0
+0 0 0
+#4204
+Skin Tight leather pants crotchless~
+a pair of Skintight crotchless leather pants.~
+A pair of Skintight pants lie here.~
+~
+11 0 1065 0
+0 0 0
+0 0 0 0
+0 0 0
+#4205
+silver snake wedding ring~
+a wicked silver snake wedding ring.~
+A wicked Silver snake wedding ring lies here on the floor.
+~
+~
+11 0 3 0
+0 0 0
+0 0 0 0
+0 0 0
+#4206
+leather garter belt~
+a Black leather garter belt with spikes.~
+A black leather garter belt lies here unattended.
+~
+~
+11 0 4201 0
+0 0 0
+0 0 0 0
+0 0 0
+#4207
+dozen bouquet roses black rose~
+a dozen Black roses tied together with a black silk ribbon.~
+A dozen black roses lie here on the ground.
+~
+~
+12 0 16385 0
+0 0 0
+0 0 0 0
+0 0 0
+#4210
+bunch equipment awesome~
+a bunch of awesome equipment~
+A bunch of awesome equipment lies here.~
+You see some thunderbolts, demonic amulets, quest lights, etc etc.
+~
+5 4 1 0
+0 0 0
+0 100 100 3
+1 0 0
+A
+18 100
+A
+17 100
+#4211
+gun glue lag monster~
+Lag Monster's glue gun~
+A glue gun lies here on the ground.~
+~
+5 8548864 8193 0
+0 0 0
+0 6 5 5
+30 10000 0
+A
+18 3
+A
+17 3
+#4212
+key cage~
+a cage key~
+Someone has dropped a small key here.~
+~
+18 4 18433 0
+0 0 0
+0 0 0 0
+1 0 0
+#4214
+wand lag~
+wand of Lag~
+A powerful wand lies here waiting for someone to pick it up.~
+~
+3 65 16385 0
+0 0 0
+47 5 5 65
+2 10000 0
+#4215
+wand lag~
+wand of Lag~
+A powerful wand lies here waiting for someone to pick it up.~
+~
+3 66 16385 0
+0 0 0
+47 5 5 64
+2 10000 0
+#4216
+footwear foot shoe shoes cool~
+a cool footwear~
+Someone dropped their shoes here.~
+~
+9 8402945 65 0
+0 0 0
+8 0 0 0
+3 10000 0
+A
+18 2
+A
+17 1
+#4217
+bracelet cool~
+a cool bracelet~
+Someone left a cool looking bracelet here.~
+~
+9 8403969 4097 0
+0 0 0
+4 0 0 0
+3 12000 0
+A
+18 2
+A
+17 2
+#4218
+cup lemonade~
+a cup of lemonade~
+~
+~
+17 0 16385 0
+0 0 0
+40 40 6 0
+45 5 0
+#4219
+staff cold~
+a cold staff~
+A staff partially covered in frost lies here.~
+~
+4 32 16385 0
+0 0 0
+15 10 10 8
+3 4000 0
+#4220
+char storage container bag~
+a storage char~
+A pile of cloth lies here deserted on the ground.~
+You see a huge container in the shape of a human.
+~
+15 0 16385 0
+0 0 0
+450 0 0 0
+5 100 0
+#4298
+Steeler's jersey~
+# 17 Steelers Jersey~
+#17 Steelers Jersey
+~
+This is a home jersey of the NFL's Pittsburgh Steelers.  It has the number
+17 on it and has "STRETCH" across the shoulders.
+~
+11 65 9 0
+0 0 0
+10 0 0 0
+1 0 0
+#4299
+Full Can of Spam~
+a full can of Spam~
+A can of spam is lying here unused.
+~
+Greasy and nasty to the touch, this meat by-product makes you sick.
+~
+17 0 1 0
+0 0 0
+0 0 0 0
+0 0 0
+$

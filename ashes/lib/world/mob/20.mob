@@ -1,0 +1,595 @@
+#2000
+king arthur kingarthur~
+King Arthur~
+King Arthur, ruler of England and lord of all Paladins, stands here!
+~
+You see before you a tall, strong, noble-looking man who radiates goodness 
+and justice. He stands proudly and will fight any evil-doer who dares to
+soil his lands.
+~
+8203 16777348 1000 W2
+127 55 -15 10d10+6205 30d5+40
+30000 751200
+8 8 1
+18 100 18 18 18 18 0
+19 2 2
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2001
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#2002
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#2004
+knight green bernlad de hautdessert sir~
+the Green Knight~
+Sir Bernlad De Hautdessert, the Green Knight, stands here tall and proud.
+~
+Sir Bernlad De Hautdessert is tall and muscular, he exudes confidence that he
+can best you in any contest. He stand ready to prove his manhood through
+a test of arms. You may wish to reconsider this, he once had his head cut
+off and came back to life!
+~
+11 131240 400 W2
+75 66 -15 10d10+1675 5d3+55
+12000 35000
+8 8 1
+18 100 18 18 16 17 0
+1 2 2
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2005
+guard~
+a guard~
+A guard stands here watching your every movement.
+~
+A proud guard of Camelot watches you with suspicion.
+~
+2121 4 0 W2
+25 25 0 20d20+25 2d12+0
+100 20000
+8 8 1
+18 0 10 10 15 17 0
+1 2 2
+0 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#2006
+Watchman~
+a watchman~
+The watchman is watching you.
+~
+This is a man with eyes like an eagle. He watches for enemy armies who would
+lay siege upon the realm of Camelot. He is wary and suspicious of any 
+strangers who might distract him from his duties.
+~
+11 0 500 W2
+20 25 1 20d15+20 5d3+2
+75 20000
+8 8 1
+17 0 16 16 18 18 0
+1 2 2
+10 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#2007
+thief~
+a thief~
+A sneaky little thief sits here hiding in wait...
+~
+This thief preys on unsuspecting travelers, he's NOT your friend!
+~
+2121 256 -1000 W2
+30 10 -2 10d30+100 4d6+2
+1000 5000
+8 8 1
+17 0 18 17 18 17 0
+5 2 2
+-20 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 10
+~
+#2008
+crystal monster~
+crystal monster~
+crystal monster
+~
+You are facing a monster from your worst nightmares. It is made of razor
+sharp crystal, but moves fluidly. It does not look friendly.
+~
+10255 589824 0 W2
+35 30 -12 25d20+500 6d4+6
+5 7500
+8 8 0
+18 0 15 13 18 18 0
+15 3 2
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2009
+Royal Guard~
+a royal guard~
+A member if the Royal guard stands here stoically.
+~
+These are special guards who are intrusted to protect the King and the Royal 
+family. They have the appearance of experience and toughness.
+~
+8265 256 1000 W2
+40 25 1 20d35+500 2d5+14
+1000 10000
+8 8 1
+18 50 17 16 18 18 0
+17 2 2
+10 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2010
+captain~
+Captain of the Guard~
+The captain of the guard eyes you carefully.
+~
+You find yourself in front of a neat, stern, and wary man who carries himself
+like a leader of an elite force. He eyes you with suspicion.
+~
+270347 0 1000 W2
+52 45 -1 5d20+450 3d5+10
+2500 50000
+8 8 1
+18 100 18 18 16 16 0
+17 2 2
+-10 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2011
+Jeramiah~
+Jeramiah~
+Jeramiah the blacksmith works the forge with rippling muscles.
+~
+You see a sweaty, very muscular man making music as he hammers out armors and
+implements of destruction. You get the feeling he could crush you with his
+bare hands.
+~
+10251 0 800 W2
+46 40 -12 20d20+1000 6d2+25
+10000 15000
+8 8 1
+18 100 15 18 16 18 0
+18 3 2
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2017
+the black knight~
+the Black Knight~
+You have found the legendary Black Knight, prepare for battle!
+~
+The black knight stands tall and forboding, you cannot make out his features
+save that he is cut and rippled with muscles. You feel a chill go through you
+as he awaits your charge.
+~
+10313 8 -1000 W2
+65 40 -7 10d12+1000 3d5+30
+15000 40000
+8 8 1
+18 100 17 17 17 18 0
+17 2 2
+-70 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2018
+merlin~
+Merlin the Magnificent~
+Merlin
+~
+You stand before the greatest wizard of legend, Merlin is said to have more
+tricks up his sleeve than a professional gambler. He looks to be an old man
+but don't let appearances fool you, his father was a demon and his mother was
+human!
+~
+270351 8389784 0 W2
+61 55 -15 100d10+1000 10d5+10
+20000 40000
+8 8 1
+14 0 18 18 16 18 0
+11 2 2
+-150 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#2019
+Morgan Le Fay~
+Morgan Le Fay~
+Morgan Le Fay
+~
+You see a beautiful woman with long, dark hair before you. When she looks
+into your eyes you are held entranced by her bewitching stares. You doubt you
+can survive the powers of this witch. She means to have you...for dinner!
+~
+288873 16851096 -1000 W2
+65 55 -12 10d10+1570 5d10+20
+15000 25000
+8 8 2
+13 0 18 18 18 18 0
+8 2 2
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#2020
+Killer bat~
+a killer bat!~
+A killer bat is ready to attack you!
+~
+A killer bat is huge, mean, and poisonous!
+~
+12331 1320 0 W2
+27 30 -1 10d40+100 3d6+10
+0 15000
+8 8 0
+18 0 5 5 18 18 0
+6 4 3
+-10 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 10
+~
+#2021
+man modred~
+Modred~
+An angry looking young man stands here scowling at you.
+~
+You see before you a good looking young man who is tall and strong. Modred's
+ice blue eyes cut through you like lasers. He seems angry at the world and
+ready to smite you where you stand.
+~
+2123 327680 -1000 W2
+63 60 -10 50d8+1000 2d3+20
+10000 25000
+8 8 1
+17 0 16 10 18 17 0
+18 2 2
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2022
+Lancelot~
+Sir Lancelot~
+Sir Lancelot du Lake stands before you looking proud.
+~
+Before you stands the best knight in the realm. Sir Lancelot du Lake is not
+a man to be trifled with. He stands tall and proud, his muscles bulge with
+readiness to pound you into the ground. This expedition is beginning to seem
+way more dangerous than you first anticipated!
+~
+10315 16777344 900 W2
+118 55 -10 10d10+4000 6d5+40
+10000 35000
+8 8 1
+18 100 17 18 18 18 0
+17 2 2
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2023
+a page~
+a noble page~
+a noble page ready's his master's armor
+~
+Here you find a noble page, a knight's best servant.
+~
+2063 0 500 W2
+16 20 1 50d4+12 4d4+10
+500 1500
+8 8 1
+17 0 12 10 18 16 0
+19 2 2
+10 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#2024
+a knight~
+a knight~
+A knight is here practicing his moves.
+~
+This is a young knight who is working hard so that someday King Arthur may
+notice his brave deeds and invite him to sit at the ledgendary Round Table.
+~
+4362 4 1000 W2
+25 30 0 100d6+15 2d3+7
+10000 10000
+8 8 1
+18 0 10 10 16 18 0
+0 2 2
+0 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#2025
+Lady of the lake~
+the Lady of the Lake~
+A hand rises out of the water, holding a sword.
+~
+You stand before the most beautiful woman you have ever seen, she is the
+legendary keeper of King Arthur's sword Excalibur, and said to be the most
+powerful force for good in the region. Many men have lost their lives trying to
+wrest the secrets of the lady of the lake...will you be the next?
+~
+8202 65688 1000 W2
+127 50 -15 1d100+3000 8d8+40
+15000 300000
+8 8 2
+18 100 18 18 18 18 0
+0 2 2
+-150 0 4 0 20
+20 20 20 20 20
+0 0 0
+6 0
+~
+#2026
+a squire~
+a knight's squire~
+A knight's squire stands here, ready to tend to his sire's needs.
+~
+This is a knight's squire, he fancies himself a good warrior.
+~
+6345 0 500 W2
+20 20 -1 100d6+10 4d5+10
+1000 5000
+8 8 1
+17 0 17 17 17 17 0
+20 2 2
+-10 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#2027
+cook~
+a cook~
+A cook is here, not wanting to be disturbed.
+~
+This is one of King Arthur's cooks, they don't like to have rabble rousers in
+their kitchen.
+~
+11 0 0 W2
+15 15 0 100d6+15 4d5+5
+1000 12000
+8 8 1
+17 0 13 13 17 18 0
+18 2 2
+0 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#2028
+Sir Gawain~
+Gawain~
+Sir Gawain is here
+~
+You see a stocky looking man with red hair and blue eyes. Sir Gawain is known
+for his honesty and his honor, you feel uncomfortable in his presence.
+~
+272714 140 1000 W2
+63 60 -12 45d6+1000 5d5+35
+10000 25000
+8 8 1
+18 50 18 18 18 18 0
+0 2 2
+-120 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2029
+guard~
+a palace guard~
+This guard is wandering around looking for intruders
+~
+~
+6601 4 500 W2
+25 20 -1 100d10+3 5d5+5
+2500 7000
+8 8 1
+18 100 15 15 17 18 0
+1 2 2
+-10 0 4 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#2030
+queen guinevere queenguinevere~
+Queen Guinevere~
+Queen Guinevere will be very put out if you get blood on the carpet.
+~
+This is King Arthur's wife, the beautiful Queen Guinevere, she doesn't look
+amused by your intrusion.
+~
+270479 65536 1000 W2
+50 45 -12 10d10+1250 5d5+29
+5000 10000
+8 8 2
+16 0 17 17 17 17 0
+17 2 2
+-120 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2031
+lady~
+lady in waiting~
+One of the Queen's ladies in waiting
+~
+This is one of the Queen's ladies in waiting...or is she?
+~
+274440 0 500 W2
+28 1 0 25d5+1000 5d5+3
+1000 1500
+8 8 2
+17 0 16 18 17 18 0
+0 1 2
+0 0 4 0 0
+30 30 30 30 30
+16 0 0
+6 0
+~
+#2032
+A knight who goes NI!~
+the knights who say "NI!"~
+A huge two headed knight blocks your path.
+~
+This is the strangest knight you've ever seen.  He must be 15 feet
+tall and has two heads, who are always arguing.  He looks at you
+and says "NI!"  Pain wracks your body and you clutch at your ears
+trying to shut out the awful noise.  You can't take much more of
+this.. suddenly the knights stop and demand of you.....
+A SHRUBBERY!
+~
+272458 65664 0 W2
+82 60 -20 10d10+2450 4d4+50
+50000 100000
+8 8 1
+18 100 18 18 18 18 0
+0 3 2
+-200 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2082
+rabbit bunny cute~
+a cute little bunny rabbit~
+The cute little bunny looks at you, it's so adorable!
+~
+You look at this irresistably cute little furry white rabbit and wonder why
+anyone would call it vicious or man-eating. Boy are you in for a surprise!
+~
+24619 1024 0 W2
+50 20 0 1d100+400 1d8+0
+25000 100000
+8 8 1
+18 100 10 12 18 17 0
+18 1 3
+0 4 13 0 0
+50 50 50 50 50
+0 0 0
+6 10
+~
+#2099
+Cerberus~
+Cerberus~
+Cerberus doesn't like strangers
+~
+Lazarus has some strange pets, you have never seen a more hideous abberation
+than this vicious looking, three headed dog. He looks ready to tear your 
+throat out and eat the rest of you for dessert.
+~
+286795 66728 -1000 W2
+100 100 -100 100d100+3000 100d100+100
+100000 1000000
+8 8 1
+18 0 17 10 18 18 0
+11 4 3
+-1000 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#2100
+statue~
+Statue~
+A beautifully carved statue of Thyra, Goddess of Passion is here.
+~
+You look at this lovingly carved statue of the Goddess Thyra, she looks at
+you through marble eyes of desire that strikes deep into your body. You feel
+overwhelmed with desire and passion, the curves of her nude body are so 
+delicate and beautiful, you wonder who could have made mere marble look
+this good.
+~
+74 0 0 W2
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 2 2
+0 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#2102
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+$

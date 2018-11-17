@@ -1,0 +1,133 @@
+#4600
+tuft fur mane rugged silver~
+a Rugged Silver Mane~
+A dull, gray, tuft of fur lies on the ground here.~
+~
+11 1130504 5 0
+0 0 2
+0 0 0 0
+1 5000 5000
+A
+5 3
+A
+18 2
+E
+mane tuft silver fur~
+  The fur looks as though it used to be sleek and shine with a unique
+irridescence. Now it seems worn with time and covered with burrs and grass.
+~
+E
+~
+
+~
+#4601
+key iron~
+a small Iron Key~
+A small key lies rusting on the ground.~
+~
+18 65548 1 0
+0 0 0
+0 0 0 0
+1 0 0
+#4602
+staff phantom death~
+the Phantom Staff of Death~
+An evil looking staff lies here, phasing in and out of reality.~
+~
+5 1493571 8193 0
+0 0 0
+0 6 5 14
+11 20000 20000
+A
+10 5
+A
+13 5
+E
+staff death phantom~
+This staff was once held by the evil clone of Gannondorf, Phantom Gannon. One
+end ends in a sharp spike, while the other splits in to three seperate
+spikes, forming almost a 'W' out of the end. Each section of the 'W' is
+tipped with an ivory spike, ready to penetrate any and all who may oppose its
+holder.
+~
+#4603
+aura object~
+a Green Aura~
+A glowing object lies on the ground emitting a green light.~
+~
+1 11 17409 1048576
+0 0 0
+0 0 -1 0
+2 13000 13000
+#4604
+aura object~
+a Blue Aura~
+A glowing object lies on the ground here, giving off an eerie blue light.~
+~
+17 19 9 0
+0 0 0
+1500 12 0 0
+17 0 0
+#4605
+nut deku~
+a Deku Nut~
+A coconut sized nut lays here on the ground.~
+~
+19 0 16401 0
+0 0 0
+24 0 0 0
+1 0 0
+#4606
+torch blue flame~
+a blue flamed torch~
+Watch it! A flaming blue torch lies on the ground, burning the floor!~
+~
+18 65548 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4607
+torch yellow flame~
+a yellow flamed torch~
+Watch it! A flaming yellow torch lies on the ground, burning the floor!~
+~
+18 65548 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4608
+torch purple flame~
+a purple flamed torch~
+Watch it! A flaming purple torch lies on the ground, burning the floor!~
+~
+18 65548 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4609
+torch pink flame~
+a pink flamed torch~
+Watch it! A flaming pink torch lies on the ground, burning the floor!~
+~
+18 65548 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#4610
+sword bone~
+A Wickedly Carved Bone Blade~
+A sword seemingly carved of bone is stuck into the ground.~
+~
+5 67667 24577 0
+0 0 0
+0 4 8 3
+15 1000000 1000000
+A
+17 3
+A
+18 3
+A
+7 5
+A
+16 -3
+$

@@ -1,0 +1,631 @@
+#11301
+Guard of Redwall~
+Guard to Redwall~
+You see a strong Guard to Redwall here
+~
+Here stands a huge guard waiting for someone to take his life away so
+he can die in honor trying to protect Redwall.  Many have tried to kill him
+but many have failed.  So why shall you stand around twiddling your thumbs?
+He smirks at you and says "Take your best shot!"
+~
+59466 0 1000 W2
+47 10 -10 4d4+580 4d5+10
+5000 10000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11302
+Cluny~
+Cluny the Scourge~
+Here stands Cluny, eyeing you with his one eye
+~
+Cluny is the biggest of the rats, by the look of him you can see that he can
+whip you in two with his supreme tail.  This rat is going to need a knocking
+to take down.
+~
+264265 128 -1000 W2
+57 25 -15 9d6+800 7d5+28
+10000 100000
+8 8 1
+13 0 13 13 13 13 0
+17 5 0
+-150 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11303
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11304
+Fish~
+Fish~
+A fish is swimming in the pond here.
+~
+There is a bright, wonderful fish here swimming by you having fun with his
+fish friends.  This fish is an innocent fish, so why don't you leave him
+alone?  He didn't do anything to you!  Keep wandering around this marvelous
+place and be on your way out of this pond!
+~
+4218952 0 1000 W2
+4 5 -1 2d3+10 2d1+1
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-10 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#11305
+Guard~
+Guard of Great Hall~
+Here is a sturdy guard named Hugo.
+~
+Here stands another Guard, he doesn't look like a guard though.  He is
+not very good at fighting.  Oh my god!  He is the cook!  What is he doing
+trying to protect the Castle of Redwall?  Well be on your way with
+your business.
+~
+10315 0 1000 W2
+60 10 -10 10d6+600 5d4+15
+500 30000
+8 8 1
+13 0 13 13 13 13 0
+17 5 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11306
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11307
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11308
+Statue~
+Statue of Martin~
+A huge statue blocks your way north, beat him to get past.
+~
+Here stands the great likeness of Martin the Warrior.  Matthias is a descen-
+dant of Martin the Warrior.  You start to wonder where to go and what to do
+in this huge room of Martin the warrior.  There is something perculiar
+about this room but you can't quite put your finger on it!
+~
+24649 128 1000 W2
+75 30 -10 10d10+6500 7d5+25
+60000 75000
+8 8 0
+18 0 13 13 13 13 0
+17 5 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11309
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11310
+Guard~
+Guard to Dungeon~
+A mighty guard of the dungeons attacks you!
+~
+This is the guard to the Dungeon to the west, fear him for right now
+he is killing you,  you better think quick and counter attack.
+~
+72 10 0 W2
+61 10 -10 7d6+700 6d3+15
+1000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#11311
+Skeleton~
+a big-boned skeleton~
+A huge skeleton stands here and waves goodbye to you
+~
+A Skeleton is staring into your eyes and at the same time you are staring
+into his nothingness.  His rotted corpse is decaying around you and
+his bones are thick so it will take a while for him to decay into 
+nothing. But that is not the question, the question is "Can you kill
+him before he kills you?".
+~
+59496 8 -1000 W2
+16 12 -3 5d5+180 5d4+6
+1000 2000
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+-30 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+~
+#11312
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11313
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11314
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11315
+Mouse~
+Mouse~
+A mouse is here, mortally wounded.
+~
+This is a Mouse who obviously didn't make it through the operation.
+You see battle wounds all over his body.
+~
+24648 0 10 W2
+3 0 0 0d0+0 0d0+0
+500 1000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#11316
+Nurse~
+Nurse~
+A nurse is here attending to the wounded.
+~
+This nurse is rushing about trying to maintain everyone's lives.  She is getting
+a lot accomplished.
+~
+26696 0 100 W2
+21 15 -1 5d5+400 4d3+13
+10000 2000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#11317
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11318
+Mouse~
+Mouse~
+A mouse is lying here.
+~
+This is a mouse that is not moving and is just lying in bed here, you wonder 
+what could be wrong wth him?  You don't want to catch any diseas so you might
+as well dispose of him.
+~
+72 0 1000 W2
+6 3 0 5d5+100 2d2+1
+0 0
+6 6 1
+13 0 13 13 13 13 0
+0 0 0
+0 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#11319
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11320
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11321
+Mouse~
+Mouse~
+A Mouse is standing here.
+~
+This Mouse is standing here, ready to fight...he doesn't have any cuts or 
+bruises so he must be here for a checkup of some sort.  Well, whatever it
+is it is none of your Business.
+~
+72 0 100 W2
+16 10 -2 5d5+500 2d3+4
+1000 1000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#11322
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11323
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11324
+Mouse~
+Mouse~
+This Mouse is standing here in perfect condition.
+~
+This mouse is sitting on a bench and is in perfect condition, you guess
+that he is here just for a check-up.  Maybe he is sick without any symptons
+so kill him just in case.  Get rid of the nurse too.  No witnesses.
+~
+24648 0 1000 W2
+46 25 -10 10d7+2000 5d5+15
+25000 25000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11325
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#11326
+Receptionist~
+Receptionist~
+Here stands the Receptionist and Secretary of the Doctor.
+~
+This is the woman who takes calls for the Doctor and is also his secretary.
+She has two phones by her and is taking calls as fast as she can while
+the Doctor is yelling for her.  She looks as if she wants to quit because
+there is no way she can get all this work done when the Doctor calls for
+her every two seconds!
+~
+51272 128 0 W2
+40 20 -3 6d5+600 5d4+17
+5000 10000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11327
+Doctor~
+Doctor~
+A Doctor is here taking his break.
+~
+This doctor looks like he needs a few hours of sleep, his eyelids are drooping and
+he is getting ready to preform surgery.  You think 'ha!  What kind of
+hospital is this where they don't even let their Doctors get enough sleep
+to preform operations?'  Well, he is on double shifts and only has five more
+minutes left on his break.
+~
+24648 128 1000 W2
+53 38 -5 6d5+2000 5d4+20
+50000 0
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11328
+Nurse~
+Nurse~
+A Nurse is here looking at you expectantly.
+~
+Here stands a nurse in her little nurse uniform.  You think 'You have got to
+be kidding me?' She is going to stop you on your journey?  nah!  Keep on 
+going and see whats up ahead.
+~
+24648 128 8 W2
+44 20 -2 5d5+1000 7d3+16
+35000 50000
+8 8 2
+13 0 13 13 13 13 0
+0 5 0
+-20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11338
+mouse~
+Mouse~
+A Mouse is here sitting in his favorite chair.
+~
+Here is a mouse resting in his favorite chair, he rests here doing nothing
+but watching MTV.  Just leave this one alone.
+~
+8264 0 0 W2
+37 25 -10 10d7+2000 5d5+15
+15000 30000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+-100 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11347
+Matt~
+Matt~
+Matt is standing in front of you, staring in your eyes.
+~
+You have reached Matthias.  Here is where your journey ends, if you try 
+to kill him you shall surely die.  He is bigger and stronger then the rest.
+He is one nasty mouse, Why not just take a chance on killing him?  hehe,
+I thought not.  Because you cannot kill him.  This is your warning beware!
+~
+286793 16777344 1000 W2
+100 55 50 20d20+9000 10d10+100
+381000 1000000
+8 8 1
+18 0 13 13 13 13 0
+8 5 5
+500 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11348
+Cornflower~
+Cornflower~
+Cornflower stands here smiling at you.
+~
+Cornflower is the most beautiful thing you have ever seen, don't get too
+close or you'll have to answer to Matthias!
+~
+24648 128 1000 W2
+68 49 -7 6d5+3500 5d5+20
+50000 50000
+8 8 2
+13 0 13 13 13 13 0
+0 0 0
+-70 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11349
+Mattimeo~
+Mattimeo~
+Mattimeo stands before you looking up at you.
+~
+Mattimeo is here, Matthias' son, he has a fine looking Tunic on his body and
+you look at it and decide you want it.  What are you going to do about it?
+~
+57416 128 1000 W2
+96 50 -10 10d5+7500 6d5+38
+75000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 3 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11350
+Abbot~
+Father Abbot~
+Father Abbot is sitting in his chair here.
+~
+This is Father abbot.  He is very old and wise, he is short and walks with a 
+hunch in his back.  He is supported by a walking stick.  Even though he is very
+old he is also very skilled.  Be careful.
+~
+32843 0 1000 W2
+77 54 -10 20d20+6000 5d5+40
+100000 350000
+8 8 1
+13 0 13 13 13 13 0
+8 1 2
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#11399
+TEST MOB~
+TEST MOB~
+TEST MOB
+~
+~
+8200 16777216 1000 W2
+47 20 -20 10d10+10000 6d5+47
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+$

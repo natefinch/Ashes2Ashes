@@ -1,0 +1,1634 @@
+#10600
+Entrance to the Great Chessboard~
+You find yourself looking up at a huge archway that looks like an entrance
+to what appears to be a gigantic chessboard.  Beyond the archway you see a
+checkerboard of black and white squares.
+~
+106 0 2
+0d0+0 0 0
+D1
+~
+A black square.
+~
+0 -1 10601
+D3
+~
+~
+0 -1 15003
+S
+#10601
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10602
+D1
+A white square.
+~
+~
+0 -1 10626
+D2
+A white square.
+~
+~
+0 -1 10633
+D3
+Entrance to the Great Chessboard.
+~
+~
+0 -1 10600
+S
+#10602
+A white square.~
+You are standing on a white square.
+~
+106 8 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10603
+D1
+A black square.
+~
+~
+0 -1 10619
+D2
+A black square.
+~
+~
+0 -1 10601
+S
+#10603
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10604
+D1
+A white square.
+~
+~
+0 -1 10612
+D2
+A white square.
+~
+~
+0 -1 10602
+S
+#10604
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D1
+A black square.
+~
+~
+0 -1 10605
+D2
+A black square.
+~
+~
+0 -1 10603
+S
+#10605
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D1
+A white square.
+~
+~
+0 -1 10606
+D2
+A white square.
+~
+~
+0 -1 10612
+D3
+A white square.
+~
+~
+0 -1 10604
+S
+#10606
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D1
+A black square.
+~
+~
+0 -1 10607
+D2
+A black square.
+~
+~
+0 -1 10613
+D3
+A black square.
+~
+~
+0 -1 10605
+S
+#10607
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D1
+~
+A white square.
+~
+0 -1 10608
+D2
+~
+A white square.
+~
+0 -1 10614
+D3
+~
+A white square.
+~
+0 -1 10606
+D5
+The door to the Black Treasury.
+~
+door~
+2 10600 10665
+S
+#10608
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D1
+A black square.
+~
+~
+0 -1 10609
+D2
+A black square.
+~
+~
+0 -1 10615
+D3
+A black square.
+~
+~
+0 -1 10607
+S
+#10609
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D1
+A white square.
+~
+~
+0 -1 10610
+D2
+A white square.
+~
+~
+0 -1 10616
+D3
+A white square.
+~
+~
+0 -1 10608
+S
+#10610
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D1
+A black square.
+~
+~
+0 -1 10611
+D2
+A black square.
+~
+~
+0 -1 10617
+D3
+A black square.
+~
+~
+0 -1 10609
+S
+#10611
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D2
+A white square.
+~
+~
+0 -1 10618
+D3
+A white square.
+~
+~
+0 -1 10610
+S
+#10612
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10605
+D1
+A black square.
+~
+~
+0 -1 10613
+D2
+A black square.
+~
+~
+0 -1 10619
+D3
+A black square.
+~
+~
+0 -1 10603
+S
+#10613
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10606
+D1
+A white square.
+~
+~
+0 -1 10614
+D2
+A white square.
+~
+~
+0 -1 10620
+D3
+A white square.
+~
+~
+0 -1 10612
+S
+#10614
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10607
+D1
+A black square.
+~
+~
+0 -1 10615
+D2
+A black square.
+~
+~
+0 -1 10621
+D3
+A black square.
+~
+~
+0 -1 10613
+S
+#10615
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10608
+D1
+A white square.
+~
+~
+0 -1 10616
+D2
+A white square.
+~
+~
+0 -1 10622
+D3
+A white square.
+~
+~
+0 -1 10614
+S
+#10616
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10609
+D1
+A black square.
+~
+~
+0 -1 10617
+D2
+A black square.
+~
+~
+0 -1 10623
+D3
+A black square.
+~
+~
+0 -1 10615
+S
+#10617
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10610
+D1
+A white square.
+~
+~
+0 -1 10618
+D2
+A white square.
+~
+~
+0 -1 10624
+D3
+A white square.
+~
+~
+0 -1 10616
+S
+#10618
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10611
+D2
+A black square.
+~
+~
+0 -1 10625
+D3
+A black square.
+~
+~
+0 -1 10617
+S
+#10619
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10612
+D1
+A white square.
+~
+~
+0 -1 10620
+D2
+A white square.
+~
+~
+0 -1 10626
+D3
+A white square.
+~
+~
+0 -1 10602
+S
+#10620
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10613
+D1
+A black square.
+~
+~
+0 -1 10621
+D2
+A black square.
+~
+~
+0 -1 10627
+D3
+A black square.
+~
+~
+0 -1 10619
+S
+#10621
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10614
+D1
+A white square.
+~
+~
+0 -1 10622
+D2
+A white square.
+~
+~
+0 -1 10628
+D3
+A white square.
+~
+~
+0 -1 10620
+S
+#10622
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10615
+D1
+A black square.
+~
+~
+0 -1 10623
+D2
+A black square.
+~
+~
+0 -1 10629
+D3
+A black square.
+~
+~
+0 -1 10621
+S
+#10623
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10616
+D1
+A white square.
+~
+~
+0 -1 10624
+D2
+A white square.
+~
+~
+0 -1 10630
+D3
+A white square.
+~
+~
+0 -1 10622
+S
+#10624
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10617
+D1
+A black square.
+~
+~
+0 -1 10625
+D2
+A black square.
+~
+~
+0 -1 10631
+D3
+A black square.
+~
+~
+0 -1 10623
+S
+#10625
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10618
+D2
+A white square.
+~
+~
+0 -1 10632
+D3
+A white square.
+~
+~
+0 -1 10624
+S
+#10626
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10619
+D1
+A black square.
+~
+~
+0 -1 10627
+D2
+A black square.
+~
+~
+0 -1 10634
+D3
+A black square.
+~
+~
+0 -1 10601
+S
+#10627
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10620
+D1
+A white square.
+~
+~
+0 -1 10628
+D2
+A white square.
+~
+~
+0 -1 10635
+D3
+A white square.
+~
+~
+0 -1 10626
+S
+#10628
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10621
+D1
+A black square.
+~
+~
+0 -1 10629
+D2
+A black square.
+~
+~
+0 -1 10636
+D3
+A black square.
+~
+~
+0 -1 10627
+S
+#10629
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10622
+D1
+A white square.
+~
+~
+0 -1 10630
+D2
+A white square.
+~
+~
+0 -1 10637
+D3
+A white square.
+~
+~
+0 -1 10628
+S
+#10630
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10623
+D1
+A black square.
+~
+~
+0 -1 10631
+D2
+A black square.
+~
+~
+0 -1 10638
+D3
+A black room.
+~
+~
+0 -1 10629
+S
+#10631
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10624
+D1
+A white square.
+~
+~
+0 -1 10632
+D2
+A white square.
+~
+~
+0 -1 10639
+D3
+A white square.
+~
+~
+0 -1 10630
+S
+#10632
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10625
+D2
+A black square.
+~
+~
+0 -1 10640
+D3
+A black square.
+~
+~
+0 -1 10631
+S
+#10633
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10601
+D1
+A black square.
+~
+~
+0 -1 10634
+D2
+A black square.
+~
+~
+0 -1 10641
+S
+#10634
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10626
+D1
+A white square.
+~
+~
+0 -1 10635
+D2
+A white square.
+~
+~
+0 -1 10642
+D3
+A white square.
+~
+~
+0 -1 10633
+S
+#10635
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10627
+D1
+A black square.
+~
+~
+0 -1 10636
+D2
+A black square.
+~
+~
+0 -1 10643
+D3
+A black square.
+~
+~
+0 -1 10634
+S
+#10636
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10628
+D1
+A white square.
+~
+~
+0 -1 10637
+D2
+A white square.
+~
+~
+0 -1 10644
+D3
+A white square.
+~
+~
+0 -1 10635
+S
+#10637
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10629
+D1
+A black square.
+~
+~
+0 -1 10638
+D2
+A black square.
+~
+~
+0 -1 10645
+D3
+A black square.
+~
+~
+0 -1 10636
+S
+#10638
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10630
+D1
+A white square.
+~
+~
+0 -1 10639
+D2
+A white square.
+~
+~
+0 -1 10646
+D3
+A white square.
+~
+~
+0 -1 10637
+S
+#10639
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10631
+D1
+A black square.
+~
+~
+0 -1 10640
+D2
+A black square.
+~
+~
+0 -1 10647
+D3
+A black square.
+~
+~
+0 -1 10638
+S
+#10640
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10632
+D2
+A white square.
+~
+~
+0 -1 10648
+D3
+A white square.
+~
+~
+0 -1 10639
+S
+#10641
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10633
+D1
+A white square.
+~
+~
+0 -1 10642
+D2
+A white square.
+~
+~
+0 -1 10649
+S
+#10642
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10634
+D1
+A black square.
+~
+~
+0 -1 10643
+D2
+A black square.
+~
+~
+0 -1 10650
+D3
+A black square.
+~
+~
+0 -1 10641
+S
+#10643
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10635
+D1
+A white square.
+~
+~
+0 -1 10644
+D2
+A white square.
+~
+~
+0 -1 10651
+D3
+A white square.
+~
+~
+0 -1 10642
+S
+#10644
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10636
+D1
+A black square.
+~
+~
+0 -1 10645
+D2
+A black square.
+~
+~
+0 -1 10652
+D3
+A black square.
+~
+~
+0 -1 10643
+S
+#10645
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10637
+D1
+A white square.
+~
+~
+0 -1 10646
+D2
+A white square.
+~
+~
+0 -1 10653
+D3
+A white square.
+~
+~
+0 -1 10644
+S
+#10646
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10638
+D1
+A black square.
+~
+~
+0 -1 10647
+D2
+A black square.
+~
+~
+0 -1 10654
+D3
+A black room.
+~
+~
+0 -1 10645
+S
+#10647
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10639
+D1
+A white square.
+~
+~
+0 -1 10648
+D2
+A white square.
+~
+~
+0 -1 10655
+D3
+A white square.
+~
+~
+0 -1 10646
+S
+#10648
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10640
+D2
+A black square.
+~
+~
+0 -1 10656
+D3
+A black square.
+~
+~
+0 -1 10647
+S
+#10649
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10641
+D1
+A black square.
+~
+~
+0 -1 10650
+D2
+A black square.
+~
+~
+0 -1 10657
+S
+#10650
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10642
+D1
+A white square.
+~
+~
+0 -1 10651
+D2
+A white square.
+~
+~
+0 -1 10658
+D3
+A white square.
+~
+~
+0 -1 10649
+S
+#10651
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10643
+D1
+A black square.
+~
+~
+0 -1 10652
+D2
+A black square.
+~
+~
+0 -1 10659
+D3
+A black square.
+~
+~
+0 -1 10650
+S
+#10652
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10644
+D1
+A white square.
+~
+~
+0 -1 10653
+D2
+A white square.
+~
+~
+0 -1 10660
+D3
+A white square.
+~
+~
+0 -1 10651
+S
+#10653
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10645
+D1
+A black square.
+~
+~
+0 -1 10654
+D2
+A black square.
+~
+~
+0 -1 10661
+D3
+A black square.
+~
+~
+0 -1 10652
+S
+#10654
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10646
+D1
+A white square.
+~
+~
+0 -1 10655
+D2
+A white square.
+~
+~
+0 -1 10662
+D3
+A white square.
+~
+~
+0 -1 10653
+S
+#10655
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10647
+D1
+A black square.
+~
+~
+0 -1 10656
+D2
+A black square.
+~
+~
+0 -1 10663
+D3
+A black square.
+~
+~
+0 -1 10654
+S
+#10656
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10648
+D2
+A white square.
+~
+~
+0 -1 10664
+D3
+A white square.
+~
+~
+0 -1 10655
+S
+#10657
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10649
+D1
+A white square.
+~
+~
+0 -1 10658
+S
+#10658
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10650
+D1
+A black square.
+~
+~
+0 -1 10659
+D3
+A black square.
+~
+~
+0 -1 10657
+S
+#10659
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10651
+D1
+A white square.
+~
+~
+0 -1 10660
+D3
+A white square.
+~
+~
+0 -1 10658
+S
+#10660
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10652
+D1
+A black square.
+~
+~
+0 -1 10661
+D3
+A black square.
+~
+~
+0 -1 10659
+D5
+The door to the White Treasury.
+~
+door~
+2 10601 10666
+S
+#10661
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10653
+D1
+A white square.
+~
+~
+0 -1 10662
+D3
+A white square.
+~
+~
+0 -1 10660
+S
+#10662
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10654
+D1
+A black square.
+~
+~
+0 -1 10663
+D3
+A black square.
+~
+~
+0 -1 10661
+S
+#10663
+A black square.~
+You are standing on a black square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A white square.
+~
+~
+0 -1 10655
+D1
+A white square.
+~
+~
+0 -1 10664
+D3
+A white square.
+~
+~
+0 -1 10662
+S
+#10664
+A white square.~
+You are standing on a white square.
+~
+106 0 2
+0d0+0 0 0
+D0
+A black square.
+~
+~
+0 -1 10656
+D3
+A black square.
+~
+~
+0 -1 10663
+S
+#10665
+The Black Treasury~
+You are in a dark room that appears to have only one exit - the way you came
+in.  You can barely see your hand in front of your face, and as you shuffle
+slowly across the floor, you trip over something that sounds metallic on the
+floor.  Picking it up, you discover you have found a priceless item.  You
+wonder if there may be more.
+~
+106 9 2
+0d0+0 0 0
+D4
+The door goes up to a black square.
+~
+door~
+2 10600 10607
+S
+#10666
+The White Treasury~
+You are in a dark room that appears to have only one exit - the way you came
+in.  You can barely see your hand in front of your face, and as you shuffle
+slowly across the floor, you trip over something that sounds metallic on the
+floor.  Picking it up, you discover you have found a priceless item.  You
+wonder if there may be more.
+~
+106 9 0
+0d0+0 0 0
+D4
+The door goes up to a white square.
+~
+door~
+2 10601 10660
+S
+$

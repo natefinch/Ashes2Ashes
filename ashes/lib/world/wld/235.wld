@@ -1,0 +1,2003 @@
+#23500
+A room of spikes and sharp protrusions~
+You are in pain as the blades and spikes from all sides of this room cut
+into your soft flesh.  Your eyes are pierced by the sharp spikes when you
+try to avoid some of the more sharper blades next to you.  The pain is
+excruciating as you feel your bowels are about to spill from your exposed
+stomach.  You choke in your own blood as one of the jagged blades rip open
+your throat.
+Sorry, young traveler, your long journey ends here and now.
+~
+235 22538 0
+1d1+199 90 0
+D2
+Behind this secret entrance is a hallway to somewhere...
+~
+secret~
+2 23570 23507
+D4
+~
+~
+0 -1 23503
+D5
+~
+~
+0 -1 3001
+S
+#23501
+Inside a dark hallway~
+It's dark and you're afraid.  You're afraid of what's inside this dark
+corridor which will take you to the bloodthirsty warlord named Dragomir.
+As you walk along this passageway, you can smell the fresh blood dripping
+from the walls and ceiling.  The hallway seems to be sloping downwards and
+it's too bad you can't see where it leads to...probably a deathtrap!
+~
+235 6153 0
+0d0+0 0 0
+D3
+This exit will take you back to the corridor outside.
+~
+door~
+2 23565 23508
+D5
+~
+~
+0 -1 23502
+S
+#23502
+Inside a dark hallway~
+It's still dark and there's no way you can see where you're going.  You
+sense Lord Dragomir is watching your every movement as you try finding your
+way around this darkness maze.  Only one with the strong sense or (skill)
+may find the location he is searching for.
+~
+235 6153 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23502
+D1
+~
+~
+0 -1 23501
+D2
+~
+~
+0 -1 23501
+D3
+~
+~
+0 -1 23502
+D4
+~
+~
+0 -1 23501
+D5
+There's a strange trapdoor on the ground...hmmm, wonder if that's the door
+to Dragomir's domain?
+~
+secret trapdoor~
+2 23565 23503
+D6
+~
+~
+0 -1 23502
+D7
+~
+~
+0 -1 23501
+D8
+~
+~
+0 -1 23502
+D9
+~
+~
+0 -1 23502
+S
+#23503
+Lord Dragomir's Bedroom~
+This room is unlike all the other rooms you've been in.  The decorations
+here are simply incredible even though they are simple and unpretentious.
+Though you can't see this entire room from a giant's view, you can sense it
+belongs to someone of great importance.  That someone is here, and he's
+towering over you with closed fists.  He looks angry and at the same time
+surprised that you would dare come inside his royal bedroom.  You sense
+Lord Dragomir is about to DEMOLISH you from where you stand and there
+doesn't see to be anywhere to you...you are trapped!
+~
+235 6152 0
+0d0+0 0 0
+D0
+This is your way out of here without having to go into a DT...but as you
+try pulling the handle of this massive door, you find out that it's been
+locked tight!  You are stuck in this room with Lord Dragomir unless you
+can find the key to open this darn door!
+~
+secret~
+2 23565 23502
+D5
+Only a fool will go into this DT!
+~
+~
+0 -1 23500
+S
+#23504
+Ragnarok's enchanted prison cell~
+Standing before you is the tallest giant you have ever seen.  He stands
+next to a lovely giantess in a mammoth fur cloak.  The male giant is bulky
+and strong.  The armors that cover his entire body make him look regal as
+well as fearsome.  His long white beard suggests that he has been here for
+hundreds of years, maybe even centuries.  But even though, he may look old
+and tired, he's still bigger and stronger than most giants inside this 
+great fortress.
+~
+235 6153 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 23505
+S
+#23505
+An enchanted prison cell~
+You feel a strange wave of energy passing through you as you walk inside
+this dark cell.  This looks to be a prison cell of some sort and it seems
+someone went through a lot of trouble trying to keep whatever's in here
+inside this confined room.
+~
+235 6153 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23504
+D3
+This cell door will take you back to the hallway which you came.
+~
+cell door~
+2 23575 23506
+S
+#23506
+Inside a secret passageway~
+As you walk into this section of the tunnel, your feet is trapped by the
+sticky cobwebs on the floor!  You can't move at all!  As you struggle to
+free yourself from this trap, you notice a giant spider is coming towards
+you.  It's drooling green acid and it looks hungry for blood...your blood!
+There's nowhere you can run, this spider will be fed tonight no matter how
+hard you try to fight it.
+~
+235 6153 0
+0d0+0 0 0
+D1
+Behind this door is a secret kept for a thousand years!
+~
+cell door~
+2 23575 23505
+D4
+~
+~
+0 -1 23507
+S
+#23507
+Inside a secret passageway~
+Only a giant would think that this passageway is too narrow to pass
+through, but for a human, there's enough room to move a truck inside.  This
+tunnel looks dark and creepy.  You wonder what could be hiding inside this
+hallway...could there be a large treasure somewhere around here?
+~
+235 6153 0
+0d0+0 0 0
+D0
+This exit will take you back to the DT!!!!
+~
+secret~
+2 23570 23500
+D5
+~
+~
+0 -1 23506
+S
+#23508
+The end of the corridor inside the Fortress~
+Finally, you reach the end of the hallway.  This section of the corridor
+looks to lead you towards a room, east of here.  The door is made of a
+strange polished metal and it's locked tight.  There are some inscriptions
+on the door that looks like a warning of some kind.
+~
+235 6152 0
+0d0+0 0 0
+D1
+This door is impossible to break into...the room behind it must belong to
+a great king or a leader.
+~
+door~
+2 23565 23501
+D2
+~
+~
+0 -1 23509
+E
+inscriptions inscription sign door warning~
+Please Do Not Disturb!  This is the room of our sire, Lord Dragomir,
+leader and warrior supreme of the Frost Giants.  Whoever dares to disturb
+his lordship will be severely punished!
+~
+S
+#23509
+The corridor inside the Fortress~
+There seems to be no end to this hallway as you struggle to reach your
+destination point.  As you continue your long journey in this fortress, the
+tremors caused by the footsteps are still around you.  The giant walking
+along this hallway must be somewhere near you...
+~
+235 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23508
+D2
+~
+~
+0 -1 23510
+S
+#23510
+The corridor inside the Fortress~
+The long journey of this mile long stretch of hallway is torturous.  You
+can still feel the footsteps of a giant coming closer and closer to you,
+but you're not sure where he is right at this moment.  To the west, there's
+a massive door that'll take you inside a room.
+~
+235 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23509
+D2
+~
+~
+0 -1 23519
+D3
+A sign in front of the door reads, 'Brachio's Trophy Room.'
+~
+door~
+2 23560 23511
+S
+#23511
+Brachio's Trophy Room~
+This room is a taxidermist's dream.  There are hundreds and maybe thousands
+of animal heads mounted on the walls.  Skins and bones of these rare
+animals are placed on shelves as decorative pieces in this room.  A giant
+is here, sitting on his elk-horned, bear skin chair.  He's sharpening his
+arrowheads so he could prepare himself for another hunting trip.
+~
+235 6152 0
+0d0+0 0 0
+D1
+This exit will take you back to the corridor outside.
+~
+door~
+2 23560 23510
+S
+#23512
+Kronos' Arsenal Chamber~
+This room is just filled with weapons of all different types.  From wall to
+wall and from display cases to trophy stands, there are ancient weapons
+sitting there for exhibition.  Standing in the middle of the room, is a
+giant, wielding a powerful weapon of destruction and practicing his
+fighting technique.  This giant is so big and so powerful, he looks like he
+could solo an entire viking army.
+~
+235 6152 0
+0d0+0 0 0
+D1
+This exit will take you back to the corridor outside of here.
+~
+door~
+2 23560 23519
+S
+#23513
+Lykos' Kitchen~
+The first thing you notice upon entering this room, are the cooking utensils
+and the oversized kitchen appliances.  This must be where the giants cook
+their daily meals.  As you turn your head to a kitchen counter, you notice
+a giant is there skinning a catch from the day's hunt.  It looks like a 
+large chicken that he's butchering, but upon a closer inspection, you can
+see he's cutting up a human carcass!
+~
+235 6152 0
+0d0+0 0 0
+D3
+This exit will take you back to the Fortress' corridor.
+~
+door~
+2 23560 23514
+S
+#23514
+The east corridor inside the Fortress~
+You are tired of running from the monsters that live inside this mammoth
+fortress.  The corridors are miles long and you short legs are no help to
+you in your struggle to reach your destination point.  To the east, there's
+a door that'll take you inside a private room.
+~
+235 6153 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23516
+D1
+A sign in of the door reads, 'Lyko's Kitchen.'
+~
+door~
+2 23560 23513
+S
+#23515
+Zbysko's Library~
+You are in awe to see so many books on the shelves and the floor.  This
+room is just packed with leather-bound books and ancient scrolls.  As you
+look around this crowded room, you notice a giant is sitting on the corner
+table.  He looks very busy, studying a brittle scroll.  You probably don't
+want to disturb this studious giant...for he could squash you like a bug
+if he so wishes to.
+~
+235 6152 0
+0d0+0 0 0
+D2
+This exit will take you back to the corridor of this Fortress.
+~
+door~
+2 23560 23516
+S
+#23516
+The east corridor inside the Fortress~
+As soon as you enter this section of the hallway, you sense someone or
+something is watching you.  Suddenly, you feel you're in danger as the
+sounds come closer to you.  There's a large door to the north of where
+you're standing and the corridor continues to the south of here.
+~
+235 6153 0
+0d0+0 0 0
+D0
+A sign in front of this door reads, 'Zbysko's Library.'
+~
+door~
+2 23560 23515
+D2
+~
+~
+0 -1 23514
+D3
+~
+~
+0 -1 23517
+S
+#23517
+The east corridor inside the Fortress~
+Darkness begins to surround you as the hallway torches slowly burn out.  
+As you walk along this long corridor, you can hear an odd sound...  It
+sounds like an animal of some sort, with claws and a blood-curdling squeak.
+You are afraid even to find out what it is but if you're curious to know,
+the animal is just east of here.
+~
+235 6153 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23516
+D3
+~
+~
+0 -1 23518
+S
+#23518
+The east corridor inside the Fortress~
+This hallway is much more dimmer than the other sections of this continuous
+corridor.  In fact, it's so dark, you could barely see the direction you're
+headed.  The hallway torches look as though they're about to burn out any
+moment and there's no one here to replace them.
+~
+235 6153 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23517
+D3
+~
+~
+0 -1 23519
+S
+#23519
+The corridor inside the Fortress~
+Is there no end to this corridor, you think to yourself.  The further you
+walk along this hallway, the more it seems to get longer and longer.  To
+the west of here, there's a large door that'll take you inside a room and
+to the east, you see another intersecting corridor that'll take you to the
+east wing of this mammoth fortress.
+~
+235 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23510
+D1
+~
+~
+0 -1 23518
+D2
+~
+~
+0 -1 23520
+D3
+The sign in front of this door reads, 'Kronos' Arsenal Chamber.'
+~
+door~
+2 23560 23512
+S
+#23520
+The corridor inside the Fortress~
+It's impossible to see where this long hallway will end unless you're about
+sixty feet tall.  You sense there's someone headed to your direction and
+they should be here any moment.  There's nowhere to hid in this corridor
+so your only option is to run!
+~
+235 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23519
+D8
+~
+~
+0 -1 23522
+D9
+~
+~
+0 -1 23524
+S
+#23521
+Titano's Torture Chamber~
+From wall to wall, you can see blood splattered all over this place.  This
+is where the bloodthirsty inhabitants of this fortress bring their defeated
+enemies.  As you walk inside this room, you can smell the putrid odor of
+decaying flesh and it's almost impossible to bear.  In the corner of the
+room, there's a giant there adjusting the stretcher on one of his many
+victims.  He doesn't seem to know your presence so make sure you don't let
+him know you're here...
+~
+235 6152 0
+0d0+0 0 0
+D7
+This exit will take you back to the Fortress' corridor.
+~
+door~
+2 23560 23522
+S
+#23522
+The corridor inside the Fortress~
+This is not an earthquake you're feeling on the ground, it's more like
+footsteps of a giant creature!  It seems to be heading to your direction
+and unless you make yourself scarce, who knows what the inhabitants of this
+fortress will do to intruders.  To the southeast of here, you see a very
+large door that'll take you into a room.
+~
+235 6152 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 23520
+D8
+A sign in front of this door reads, 'Titano's Torture Chamber.'
+~
+door~
+2 23560 23521
+D9
+~
+~
+0 -1 23525
+S
+#23523
+Nuklo's Combat Room~
+This entire room is decorated with ancient weapons and battle armors of all
+kinds.  In a center of this room, there's a large padded mat and standing
+on top of it, is a large muscle-bound giant.  You cringe in fear as this
+monster towers over you with his arms raised.  He seems to be gesturing you
+to do battle with him...
+~
+235 6152 0
+0d0+0 0 0
+D6
+This exit will take you back to the Fortress' corridor.
+~
+door~
+2 23560 23524
+S
+#23524
+The corridor inside the Fortress~
+The floors are shaking very hard but it doesn't feel like any earthquake
+you experienced.  It feels more like footsteps...giant footsteps...heading
+towards your direction!  You are in trouble now and you have no idea where
+to go and hide.  To the southwest, there's a large door that'll take you
+into a room of some sort.
+~
+235 6152 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 23520
+D8
+~
+~
+0 -1 23525
+D9
+A sign in front of this door reads, 'Nuklo's Combat Room.'
+~
+door ~
+2 23560 23523
+S
+#23525
+The corridor inside the Fortress~
+You wish you were about fifty feet taller so that you can move around this
+place more quickly.  This hallway seems to be splitting into two sections,
+one heading northwest and the other, northeast.  As you continue walking
+along this corridor, you could feel the floor moving as though an earthquake
+was happening right at this moment.
+~
+235 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 23526
+D6
+~
+~
+0 -1 23522
+D7
+~
+~
+0 -1 23524
+S
+#23526
+Inside the Fortress of the Frost Giants~
+There are no words to describe the interior of this oversized building.
+From corner to corner, everything here seems to be ten times the size of
+normal.  You can't imagine who could be living inside this fortress...
+maybe it could be a family of giants like the one guarding the outside
+entrance.  You are tempted to explore this area further, and there's a
+corridor to your north which will take you all around this place.
+~
+235 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23525
+D2
+This exit will take you back outside of this Fortress!
+~
+door doors~
+2 23555 23527
+S
+#23527
+The doorway to the Frost Giants' Fortress~
+This massive door to the north of you is one of the things that block you
+from going inside this building.  The other thing is the giant that stands
+in your way.  Armed with spiked battle gear, a bladed shield, and a bone-
+crushing mace, the monster looks ready to mutilate anyone trying to pass
+through this doorway.  He stares at you with a taunting expression and you
+hesitate to even try to attack this juggernaut.
+~
+235 6152 0
+0d0+0 0 0
+D0
+This door will take you inside the Fortress of the Frost Giants!
+~
+door doors~
+2 23555 23526
+D2
+~
+~
+0 -1 23528
+S
+#23528
+On a snowy trail~
+You are in awe to see this large building that's built in the middle of
+nowhere.  You didn't expect to find anything around this entire region
+except for small creatures and some vegetation.  As you look around this
+colossal building, you'll notice it's shaped like an ancient cabin except
+that it's the size of a grand castle.  As you focus your eyes to the
+doorway of this fortress, you are astonished to see a giant is standing 
+there and guarding the entrance.
+~
+235 6152 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23527
+D9
+~
+~
+0 -1 23529
+S
+#23529
+On a snowy trail~
+The weather in this region is cold and dry.  Your constant shivering and
+your teeth chattering is a distraction to your concentration as you try to
+focus on reaching your destination.  As you continue your journey 
+northward, you'll notice a large construct is built to that direction.
+~
+235 6152 5
+0d0+0 0 0
+D6
+~
+~
+0 -1 23528
+D9
+~
+~
+0 -1 23530
+S
+#23530
+On a snowy trail~
+You are tired and in need of a rest but there's nowhere you can lie down
+on.  Almost everything you see is covered in a thick bed of snow except for
+the tall trees around you.  If you continue your journey, you feel you
+might die of exhaustion before you reach your destination point.
+~
+235 6152 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 23531
+D6
+~
+~
+0 -1 23529
+S
+#23531
+On a snowy trail~
+The thick bed of snow beneath your waist is numbing your legs quickly.  You
+hardly feel your legs as you struggle to concentrate on the journey.  The
+climate of this region looks pretty fair and there doesn't seem to be any
+signs of a blizzard storm coming.
+~
+235 6152 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23530
+D4
+~
+~
+0 -1 23532
+S
+#23532
+The Great Mountain of Norn~
+The loose rocks on the sides of this mountain make it almost impossible to
+get a firm gripping.  You feel you're about to slip off this mountain and
+fall to your death.  Also the horrible windy conditions of this altitude
+isn't helping your predicament.
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23533
+D5
+~
+~
+0 -1 23531
+S
+#23533
+The Great Mountain of Norn~
+There's nothing living around this area except for some small vegetation
+growing inside the crevices.  There are also tiny mushrooms sprouting out
+of the loose stones and you wonder if they're edible or not.  There is
+still a long climb ahead of you and you notice the windy weather up here 
+is getting worse.
+~
+235 6152 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 23534
+D5
+~
+~
+0 -1 23532
+S
+#23534
+The Great Mountain of Norn~
+You finally find a ledge that you can rest on, but it's only a small ledge
+and you can't lie down on it.  As you sit down to rest your tired body, you
+look around this amazing landscape with fascination and awe.  You didn't
+know how beautiful the surroundings are on this side of the mountain because
+you were too busy concentrating on climbing this mammoth rock.
+~
+235 6152 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23533
+D4
+~
+~
+0 -1 23535
+S
+#23535
+The Great Mountain of Norn~
+The altitude of this great mountain is making it hard to breathe.  You
+gasp for every ounce of air as you concentrate on scaling this danger
+mountain.  You can't rest now, the sooner you get to your destination the
+better, for who knows what kind of unpredicatable weather could occur up on
+this part of the region.
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23536
+D5
+~
+~
+0 -1 23534
+S
+#23536
+The Great Mountain of Norn~
+The windy conditions up on this mountain is unbearable.  It's cold and dry
+up in this altitude and there doesn't seem to be a ledge in sight that you
+can rest on.  You must rely on your strength in order to reach your goal
+and that's asking a lot from your ailing body.
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23537
+D5
+~
+~
+0 -1 23535
+S
+#23537
+The Great Mountain of Norn~
+There are not many who came back from scaling this mammoth mountain, at
+least not the live ones.  Only a fool would climb a mountain with rough
+edges and loose crevices.  This entire mountain is so unstable that it
+looks as though it would collapse in a heavy storm.
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23538
+D5
+~
+~
+0 -1 23536
+S
+#23538
+On top of the Great Mountain of Norn~
+The cold winds up on this mountain is as strong as a mini-hurricane, but
+that doesn't seem to affect the old man sitting on the rock.  He's just
+sitting there, singing his song and at the same time drinking from a large
+barrel.  He looks too drunk to acknowledge your presence but that doesn't
+mean he's vulnerable to attacks.  This old man is the size of three men and
+from his armored gear and his oversized bloodaxe, he looks like he could
+fight an entire army!
+~
+235 6152 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 23539
+D5
+~
+~
+0 -1 23537
+S
+#23539
+On top of the Great Mountain of Norn~
+You are dismay to see that there's nothing on top of this great mountain,
+except for an old man sitting on a rock.  He seems to be singing a tune in
+a foreign language that you're not familiar with.  It might not be wise to
+get closer to him for he looks pretty big and strong even for a man of his
+age.  There's nowhere else to go except back down from where you came.
+~
+235 6152 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23538
+D5
+~
+~
+0 -1 23540
+S
+#23540
+The Great Mountain of Norn~
+The frigid wind from the east is just unrelenting and you're about to pass
+out from this extreme condition.  But as you start drifting towards
+unconsciousness, you notice the cliff is right above you.  Now if you could
+summon just an ounce of strength, you might be able to finish your climb.
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23539
+D5
+~
+~
+0 -1 23541
+S
+#23541
+The Great Mountain of Norn~
+You're at the half-way point of this mountain and you still have several
+miles to scale before you could get to the top.  The cold frosty wind
+blowing from the east is beginning to numb your rough hands.  You feel
+you're about to fall soon if you don't find a small ledge to rest on.
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23540
+D5
+~
+~
+0 -1 23548
+S
+#23542
+Into the bottomless pit of darkness...~
+You scream for help but there's no one here that can save you from this
+horrible fate.  Where will this pit end, you wonder to yourself.  As you
+continue your descent to wherever this hell hole takes you, you can feel
+the cold draft of this tunnel brush against you.  If you don't fall anytime
+soon, the sub-zero conditions will surely take your life before then.
+Sorry, young adventurer, your time has come...see you in the next life.
+~
+235 22539 5
+1d1+199 90 0
+D5
+This exit will take you back home if you actually survived this DT.
+~
+~
+0 -1 3001
+S
+#23543
+On the ledge inside the Mountain of Norn~
+As you reach this ledge on the side of the cliff, the first thing you
+notice is the man that's sleeping on the ground.  He must be under a spell,
+for why else would a man sleep inside a mountain, on a ledge next to a pit
+of eternal darkness?  As you observe this husky bearded man, you can see
+that he's wearing armor all around his massive body and a thick fur cloak
+that shields him from the cold winds.  His hands seem to be keeping a firm
+grip of a large broadsword.  Though this man is sleeping, he doesn't look
+peaceful and in fact, he looks quite angry and disturbed even in slumber.
+~
+235 6153 5
+0d0+0 0 0
+D0
+You wonder where this bottomless pit will take you...
+~
+~
+0 -1 23542
+D1
+You wonder where this bottomless pit will take you...
+~
+~
+0 -1 23542
+D3
+You wonder where this bottomless pit will take you...
+~
+~
+0 -1 23542
+D4
+~
+~
+0 -1 23544
+S
+#23544
+Climbing precariously on the side of a cliff...~
+Sweat is flowing down your brow like a dripping faucet.  Your foolish
+curiosity might be the death of you.  You are just barely gripping the
+small crevices on the edge of this cliff and the rocks aren't stable enough
+to ensure that you'll get a firm hold of your position.  The pit of 
+darkness is just waiting patiently to engulf you...
+~
+235 6153 5
+0d0+0 0 0
+D0
+You wonder where this bottomless pit will take you...
+~
+~
+0 -1 23542
+D1
+You wonder where this bottomless pit will take you...
+~
+~
+0 -1 23542
+D3
+You wonder where this bottomless pit will take you...
+~
+~
+0 -1 23542
+D4
+~
+~
+0 -1 23545
+D5
+~
+~
+0 -1 23543
+S
+#23545
+The end of the tunnel inside the Mountain of Norn~
+Luckily the cold wind from the north kept you from stepping over the cliff.
+You could've fallen into that dark bottomless pit where no one would have
+ever find your body.  As you look over the cliff, you'll notice a man
+dressed in viking gears is sleeping on a small ledge.
+~
+235 6153 5
+0d0+0 0 0
+D0
+You wonder where this bottomless pit will take you...
+~
+~
+0 -1 23542
+D2
+~
+~
+0 -1 23546
+D5
+~
+~
+0 -1 23544
+S
+#23546
+A tunnel inside the Mountain of Norn~
+This dark and dank passageway is taking you deeper into the heart of this
+mountain.  Who knows what might lurk inside this secret tunnel, it has been
+untouched for a millenium.  As you continue your journey northward, you 
+notice a cold wind is blowing at you from that direction.
+~
+235 6153 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23545
+D2
+~
+~
+0 -1 23547
+S
+#23547
+A tunnel inside the Mountain of Norn~
+You can't imagine who could had cut through this steel-hard rock and built
+an entire tunnel.  It's dark in here and you can barely see where you're
+headed.  You can't even hear a sound coming from anywhere, not even the
+bats that are sleeping atop of you.
+~
+235 6153 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23546
+D2
+This exit will take you back to the outside of this great mountain.
+~
+rock~
+1 -1 23548
+S
+#23548
+The Great Mountain of Norn~
+The strong winds of the east is blowing hard at your face.  You're cold and
+unshielded from this harsh condition.  As you struggle to climb every inch
+of this cold stone mountain, you notice a round-shaped rock located north of
+you and there seems to be some inscriptions carved onto it.
+~
+235 6152 5
+0d0+0 0 0
+D0
+~
+rock~
+1 -1 23547
+D4
+~
+~
+0 -1 23541
+D5
+~
+~
+0 -1 23549
+E
+rock inscription inscriptions round-shaped north n~
+"...the Mightiest of vikings is kept here and only a fool would disturb his
+ one-thousand year sleep..."
+~
+S
+#23549
+The Great Mountain of Norn~
+There doesn't seem to be anything intelligent living on this mountain.
+Only mountain goats and snow leopards would dare live in this precarious
+enviroment.  The climb continues upwards and you're not even close to the
+half-way point of this colossal mountain.
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23548
+D5
+~
+~
+0 -1 23550
+S
+#23550
+The Great Mountain of Norn~
+This is not good.  You are already tired from all this climbing.  The long
+and tiresome journey from the snowy trail has finally taken its toll.
+There's about several miles of this mountain to scale before you can reach
+the top of it.  You'll be lucky if you even reach the half-way point.
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23549
+D5
+~
+~
+0 -1 23551
+S
+#23551
+On a snowy trail~
+You can see that you're getting closer to one of the great mountains of the
+north.  That mountain stands much taller than Mt. Everest and looks as
+beautiful as the picturesque Mt. Fuji.  The snowy trail ends here and
+there's nowhere you can go except back to where you came...or climb up this
+mammoth rock!
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23550
+D9
+~
+~
+0 -1 23552
+S
+#23552
+On a snowy trail~
+This path seems to be turning towards the north again, to the great 
+mountains of that region.  The snow is still thick as ever and it's getting
+impossible to move along this trail.  With only your strength and
+determination to survive, you hope that's enough to get you to your
+destination point...wherever that may be.
+~
+235 8 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 23562
+D6
+~
+~
+0 -1 23551
+S
+#23553
+On top of Mountain Nobul~
+The statue that stands before you is truly the ugliest statue you have ever
+seen.  Its face could scare away even the bravest of warriors and its 
+freakish stare is enough to send chills down your spine.  There's something
+mystical about this statue and as you get closer to observe it, you notice
+the statue figure seems to be drooling...
+~
+235 6152 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 23554
+S
+#23554
+On top of Mountain Nobul~
+There doesn't seem to be anyone on top of this mountain except for you but
+as you look towards to a large boulder, you notice an ugly gargoyle-like 
+statue standing there.  It looks almost alive...but you hesitate to walk
+towards it because of the fear that it might not be a statue after all.
+~
+235 6152 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23553
+D2
+~
+~
+0 -1 23555
+S
+#23555
+On top of Mountain Nobul~
+You are relieved to know that you've made it to the top of this mountain.
+As you struggle to climb off the side of the cliff, you are in awe to see
+the beauty of the landscape that surrounds this island.  The weather from
+the stormy waters that you came from is nowhere in sight and you breathe a
+sigh of relief as you lay down to rest your tired body.
+~
+235 6152 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23554
+D5
+~
+~
+0 -1 23556
+S
+#23556
+Climbing up the Mountain Nobul~
+Your fingers and hands are bloodied from all this climbing and you dare not
+stop now, for a fall at this altitude will certainly kill you.  There are
+still a lot of mountain to scale but you sense you're getting closer and
+closer to the top.
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23555
+D5
+~
+~
+0 -1 23557
+S
+#23557
+Climbing up the Mountain Nobul~
+This mountain is made of the strongest and thickest granite.  As you
+continue your climbing upwards, you'll notice the powdery sand from the
+crevices is causing you to lose grip.  You feel like you're about to fall
+off this mountain if you don't hang on with both your hands.
+~
+235 6152 5
+0d0+0 0 0
+D4
+~
+~
+0 -1 23556
+D5
+~
+~
+0 -1 23558
+S
+#23558
+On a small remote island~
+You've landed on a strange island where a tall mountain covers its entire
+surface.  There doesn't seem to be a path that'll take you up there so
+scaling this mountain is your only option to get anywhere.  This mountain is
+more than two hundred feet tall and it'll take a day before you can reach
+the summit.
+~
+235 6156 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 23559
+D4
+~
+~
+0 -1 23557
+S
+#23559
+The stormy waters of Lake Elric~
+The deadly storm doesn't seem to be dying out anytime soon, and you feel
+your arms are beginning to tire from all this paddling.  Fortunately for
+you, there's a small island to the west of here.  It's the only land that
+you can see anywhere around this god-forsaken place.
+~
+235 22542 6
+1d1+199 90 0
+D1
+~
+~
+0 -1 23560
+D3
+There's something mystical about that small island in the middle of this
+lake. 
+~
+~
+0 -1 23558
+S
+#23560
+The stormy waters of Lake Elric~
+You're choking in sea water as you struggle to stay about the surface.
+There's no one here that can help you and even if they were here, there's
+no way they can save you.  The hellish waters of Lake Elric is just too
+brutal and it'll be a matter of minutes before you get thrashed by the
+waves and into unconsciousness.
+~
+235 22542 6
+1d1+199 90 0
+D1
+~
+~
+0 -1 23561
+D3
+~
+~
+0 -1 23559
+S
+#23561
+The stormy waters of Lake Elric~
+Your boat is pushed back and forth and there's no way you can make it out
+of this lake alive!  The frce of the storm is just too awesome and not
+even your great strength could endure the conditions of this magnitude.
+You struggle but you know only the greatest of warriors can make it to the
+other side of this lake.
+~
+235 22542 6
+1d1+199 90 0
+D3
+~
+~
+0 -1 23560
+D6
+This exit will take you back to the snowy trail which you came from.
+~
+~
+0 -1 23562
+S
+#23562
+On a snowy trail~
+As you reach this section of the snowy trail, you'll notice a lake of
+darkness to the southwest of here.  The strange dark clouds that cover
+this lake looks very threatening and if you're smart, you would not try
+to swim or take you boat in there.
+~
+235 8 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23552
+D1
+~
+~
+0 -1 23563
+D9
+This is the port to Lake Elric which is just southwest of here.  The stormy
+waters of that Lake looks awfully intimidating....
+~
+~
+0 -1 23561
+S
+#23563
+On a snowy trail~
+This long path is taking you west and east of here and you have no idea
+where it will lead you to.  You are tired and your legs are about to
+collapse but you know you must endure at least till you see the end of this
+endless snow trail.
+~
+235 8 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 23564
+D3
+~
+~
+0 -1 23562
+S
+#23564
+On a snowy trail~
+Your legs are just in terrible shape as you struggle in this thick snow bed.
+There seems to be no sign of intelligent life anywhere on this region
+except for small harmless mammals and some birds flying in the sky.  There
+are a few vegetations around this area but nothing edible.
+~
+235 8 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 23565
+D3
+~
+~
+0 -1 23563
+S
+#23565
+On a snowy trail~
+You wonder to yourself where exactly does this long trail will take you.
+It seems to be leading you towards the northern mountains but then it
+takes you elsewhere.  You wonder if this path will even lead you anywhere,
+or maybe there's a cleverly concealed deathtrap at its end!
+~
+235 8 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 23564
+D8
+~
+~
+0 -1 23566
+S
+#23566
+On a snowy trail~
+If not for the shade of those great northern mountains, your skin would be
+blistered by the sun.  The snow from your waist-down is thick as ever 
+forcing you to move at a very slow pace.  The northern mountains are still
+too far away, it'll probably be nightfall before you can reach there.
+~
+235 8 5
+0d0+0 0 0
+D7
+~
+~
+0 -1 23565
+D9
+~
+~
+0 -1 23567
+S
+#23567
+On a snowy trail~
+As you move further along this path, you'll notice it gets harder and 
+harder to breathe.  As you go further northwards, you can see this entire
+area is shifted upwards toward those snowy mountains.  So as you advance
+closer to the mountainous region, be prepare to gasp for air.
+~
+235 8 5
+0d0+0 0 0
+D6
+~
+~
+0 -1 23566
+D8
+~
+~
+0 -1 23568
+S
+#23568
+On a snowy trail~
+This long path seems to be leading you to nowhere.  But you know you have
+to keep moving until you find something that could get you out of this icy-
+cold weather.  If the small hare and the white-tailed deer could survive
+this harsh condition then so can you.
+~
+235 8 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 23582
+D7
+~
+~
+0 -1 23567
+S
+#23569
+The altar of the Golden Temple~
+As you reach the altar of this temple, you'll notice a man is standing here
+reciting chants from a book.  He's cloaked in a dark ragged cloth and his
+face is concealed by a hood.  The old man does not sense your presence, or
+probably he just doesn't care.  You sense this stranger is someone of great
+power and if he gets aggravated, you can't imagine what he will do to you.
+The book on his table looks like a spell book of some sort and it seems to
+emit an illuminating aura around it.
+~
+235 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 23570
+S
+#23570
+Inside the Golden Temple of Nemesis~
+You gasp as you look at everything that are around you.  The walls, the
+furnishings, and the floors are all covered in solid gold.  The size of this
+temple is almost that of the Roman Cathedral and possibly much bigger.  You
+wonder who lives in this temple and what purpose is it used for.  This 
+temple looks like an abbey or a grand museum.
+~
+235 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23569
+D2
+This gates will take you back outside of this Golden Temple!
+~
+doors door gates gate gold~
+2 23580 23571
+S
+#23571
+In front of a golden temple~
+You are in awe to see such an incredible monument.  This entire structure
+is covered in solid gold as well as the floor that surrounds it.  You are
+curious to know what's inside this temple but a guard stands in your way.
+He doesn't look at you nor does he acknowledges your presence.  You are
+only a pesky bug that could be easily squashed if you annoy him too much.
+~
+235 8 5
+0d0+0 0 0
+D0
+These doors will take you inside the Golden Temple of Nemesis!
+~
+doors door gates gate gold~
+2 23580 23570
+D9
+~
+~
+0 -1 23572
+S
+#23572
+On a snowy trail~
+The surroundings of this section of the trail is very relaxing to the eyes
+because the shade of the northern snowy mountains.  The snow is not as
+blinding as it was when you came into this parts of the trail.  As you walk
+further along this path, you'll notice a large golden temple is built
+northeast of here.
+~
+235 8 5
+0d0+0 0 0
+D6
+~
+~
+0 -1 23571
+D9
+~
+~
+0 -1 23575
+S
+#23573
+On a snowy trail~
+As soon as you walk into this section of the trail, a loud roar nearly
+breaks your eardrums.  Before you, stands the biggest, the ugliest, and the
+hungriest monster of this snowy region.  This beast looks as though it came
+from hell because of its devilish-looking horns and its two evil red eyes.
+He moves on two elongated limbs and an extended spiked tail.  This creature
+is about to attack you with his long flexible tentacles and there's nowhere
+you can escape!
+~
+235 6156 5
+0d0+0 0 0
+D7
+~
+~
+0 -1 23574
+S
+#23574
+On a snowy trail~
+Walking through a snow bed is next to impossible especially when it's four
+feet deep.  You struggle as you try to move at a faster pace.  The quicker
+you find shelter now, there's a good chance you might survive the next
+blizzard storm.
+~
+235 8 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23575
+D8
+~
+~
+0 -1 23573
+S
+#23575
+On a snowy trail~
+There is not one place here that's not covered in snow and you wonder how
+you will find shelter if a blizzard comes suddenly.  This snowy trail seems
+to be divided into two paths, the northeast and the south direction.  Both
+trails look harmless but who knows where they will take you...
+~
+235 8 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 23574
+D3
+~
+~
+0 -1 23576
+D6
+~
+~
+0 -1 23572
+S
+#23576
+On a snowy trail~
+You are tired and hungry from this long journey but there's no way you can
+catch a hare in this thick snow bed.  You'll have to depend on your food
+sources that you brought to here.  There's nothing unusual about this
+section of the trail as it continues east and southwest of here.
+~
+235 8 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 23575
+D9
+~
+~
+0 -1 23581
+S
+#23577
+On top of the rock formation~
+As you reach the top of this large rock, the first thing you notice is a
+bearded man sitting down with his legs crossed.  He looks pretty big and
+mean.  With a large double-edged broadsword by his side and a shield spiked
+with razor-edged shards, this man must be a warrior of some sort.  The
+horned helm that he wears on top of his head makes him look fierce and 
+intimidating.  He doesn't sense your presence for now so just carefully
+climb back down this rock before it's too late.
+~
+235 6152 5
+0d0+0 0 0
+D5
+~
+~
+0 -1 23578
+S
+#23578
+A large natural rock formation~
+This tall cold slab of rock was recently formed by a shift in the earth's
+crust.  Its dark slippery surface looks as though it was cut apart by a
+sharp butter knife.  As you try scaling this colossal formation, you find
+it hard to keep your footing.  The surface is so smooth, it's as though the
+entire rock was covered in oil.
+~
+235 8 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 23579
+D4
+~
+~
+0 -1 23577
+S
+#23579
+On a snowy trail~
+This path seems to stop here but to the east of here, there's a strange
+rock formation that'll take you up to the top of the surface cliff.  It
+looks pretty dangerous to climb up there but who cares, it would be much
+drier up there and you can rest on the top surface.
+~
+235 8 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23580
+D1
+~
+~
+0 -1 23578
+S
+#23580
+On a snowy trail~
+The snow is beginning to thicken on this section of the trail.  You are now
+chest-high in snow and you wonder if you should walk back to the other
+direction.  You struggle as you try to make your way through this snowy
+obstacle but it seems almost impossible to move in this bed of thick snow.
+~
+235 8 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 23579
+D6
+~
+~
+0 -1 23581
+S
+#23581
+On a snowy trail~
+There's nothing special about this section of the snowy trail.  Everything
+here is quiet, still, and untouched.  The only living things you see here
+are a snow bunny hopping around in search of plants and some birds circling
+in the skies above.
+~
+235 8 5
+0d0+0 0 0
+D6
+~
+~
+0 -1 23576
+D7
+~
+~
+0 -1 23582
+D9
+~
+~
+0 -1 23580
+S
+#23582
+On a snowy trail~
+As you wander along this trail, you'll notice it splits into two
+directions.  The path to the southeast looks tranquil and deserted much
+like the rest of this trail.  The passage north of here seems to lead
+towards the snowy mountains.
+~
+235 8 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23568
+D3
+~
+~
+0 -1 23583
+D8
+~
+~
+0 -1 23581
+S
+#23583
+On a snowy trail~
+The mountains here are just magnificent and you can't help but to admire
+its natural beauty.  You wonder where is this strange land located on the
+map but it doesn't seem to be anywhere on the charts.  You're probably
+somewhere in northern Europe, a place where nomadic settlers keep away from
+because of extreme temperatures.
+~
+235 8 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 23582
+D9
+~
+~
+0 -1 23584
+S
+#23584
+On a snowy trail~
+The temperature in this strange land is way below zero degrees.  You wonder
+who could live in such horrid conditions.  Only animals and savage sub-
+human barbarians coul endure this hellish weather.  The waist-high snow
+covered trail continues northeast of here.
+~
+235 8 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 23585
+D6
+~
+~
+0 -1 23583
+S
+#23585
+On a snowy trail~
+The snow is about waist-deep and it's getting deeper as you walk further
+along this trail.  Everywhere you look, there are mountains and small
+bushes covered in snow.  It's not exactly a place you would want to live
+but the landscapes here would make a great tourist attraction.
+~
+235 8 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 23584
+D9
+~
+~
+0 -1 23589
+S
+#23586
+The abode of Gorg, Last of the Cavemen~
+The smell in this section of the cavern is just unbearable.  As you adjust
+your eyes in this darkness, you can see a figure of a man/ape entity
+standing in front of you.  You can hear his heavy breathing and his knuckles
+crackling as though he's about to smash someone's face in...probably 
+yours...  You have invaded his home and now you must face the consequences
+of your curiosity.  Prepare to die, evolved human scum.
+~
+235 6153 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 23587
+S
+#23587
+Inside a dark bear cave~
+Darkness surrounds you as quickly as a sudden blizzard storm.  You wonder
+who (or what) could live inside this dark, smelly cavern so you begin
+looking around here.  On the walls of this cavern, there are primitive
+paintings that are drawn by prehistoric men, hundreds of thousands of years
+old.  On the ground, there are stone utensils lying there...but these tools
+seem to be made just recently.  This indicates that there's someone living
+inside this cave...
+~
+235 6153 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 23588
+D2
+~
+~
+0 -1 23586
+S
+#23588
+On a snowy trail~
+You are in awe to see the beautiful landscapes of this countryside.  The
+snowy mountains are just magnificent and the air, though it's harder to
+breathe in this altitude, is so fresh and clean.  To the west of here, 
+there's a dark bear cave...
+~
+235 8 5
+0d0+0 0 0
+D1
+~
+~
+0 -1 23589
+D3
+~
+~
+0 -1 23587
+S
+#23589
+On a snowy trail~
+The blizzard storm from the southeast is absent from this part of the
+trail.  However, this area is still covered in blinding white snow and the
+path that took you to this place is almost completely buried in snow.  The
+snowy trail seems to split in two, one path leading to the west and the
+other to the southeast.
+~
+235 8 5
+0d0+0 0 0
+D3
+~
+~
+0 -1 23588
+D6
+~
+~
+0 -1 23585
+D8
+~
+~
+0 -1 23590
+S
+#23590
+On a snowy trail, in a blizzard storm~
+The storm seems to be dying down but it's still very strong.  You're
+shivering and in dire need of a warn fire and shelter.  There's no one
+around this area that can help you.  The only way you can get out of here
+is to depend on your own determination to survive.
+~
+235 8 5
+0d0+0 0 0
+D7
+~
+~
+0 -1 23589
+D8
+~
+~
+0 -1 23591
+S
+#23591
+On a snowy trail, in a blizzard storm~
+You can feel the powerful wind and the heavy snow hitting at your face so
+hard that you squeal in pain.  There's no way anyone can survive another
+hour in this turbulence, only a fool would continue this futile journey
+into nothingness.
+~
+235 8 5
+0d0+0 0 0
+D2
+~
+~
+0 -1 23592
+D7
+~
+~
+0 -1 23590
+S
+#23592
+On a snowy trail, in a blizzard storm~
+The weather conditions on this snowy trail is just plain harsh.  Your
+fingers are beginning to numb and your toes feel as though they're about to
+snap right off.  The blizzard storm is so blinding that not even an expert
+ranger could find his way around here.
+~
+235 8 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 23591
+D9
+~
+~
+0 -1 23593
+S
+#23593
+A narrow path inside the forest~
+This forest is more than just any forest, it's a deathtrap for any
+journeyman who dare enter this wooded area.  However, this forest seems
+to end here as you see a new trail that'll take you to a strange world.
+To the northeast of here, you can see a snowy trail...there seem to be a
+blizzard storm happening there...  How odd, you wonder to yourself.  In
+this forest it's hot and humid and to the northeast, the conditions there
+are the complete opposite.
+~
+235 0 3
+0d0+0 0 0
+D3
+~
+~
+0 -1 23594
+D6
+~
+~
+0 -1 23592
+S
+#23594
+A narrow path inside the forest~
+The humid conditions of this forest is unbearable but you know you cannot
+stop now...the creatures are ready to attack once you slow down.  You are
+weary of the stinging bites of the bloodthirsty mosquitoes and leeches.
+Your head is spinning and you're about to black out from exhaustion.  This
+dark forest looks to end somewhere...you just hope it better be soon...
+~
+235 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23593
+D9
+~
+~
+0 -1 23595
+S
+#23595
+A narrow path inside the forest~
+You are getting tired from this journey but you know that if you stop now,
+the meat-eating creatures of this forest would find you and eat you alive.
+Your tired legs are bloodied by the thorny bushes and the deep gashes from
+tripping on above-ground roots.  You are thirsty, tired, and hurt, but
+there's nothing you can do about that now except to try and pass through
+this humid jungle.
+~
+235 1 3
+0d0+0 0 0
+D6
+~
+~
+0 -1 23594
+D9
+~
+~
+0 -1 23596
+S
+#23596
+A narrow path inside the forest~
+There are glowing eyes and strange noises following wherever you go.
+Your heart is beginning to pound faster as you sense heavy breathing behind
+you.  Something is following you and it sounds vicious.  It's ready to
+attack you at any moment, so watch out!
+~
+235 1 3
+0d0+0 0 0
+D6
+~
+~
+0 -1 23595
+D8
+~
+~
+0 -1 23597
+S
+#23597
+A narrow path inside the forest~
+How dar can darkness get, you wonder to yourself.  It's so dark that not
+even your light-source could show you the right direction to head.  The
+forest is beginning to thicken and this path gets more narrower as you walk
+further into the heart of the forest.
+~
+235 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23598
+D7
+~
+~
+0 -1 23596
+S
+#23598
+A narrow path inside the forest~
+The darkness is forcing you to move at a slow pace as you try to pass
+through this forest trail.  Bugs are still swarming around your hot and
+sweaty body and they're becoming so annoying that you scream in
+frustration.  The forest trail continues west of here.
+~
+235 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 23599
+D3
+~
+~
+0 -1 23597
+S
+#23599
+A narrow path inside the forest~
+The canopy of the tall redwood trees covers this entire forest ground
+making it hard to even see where you're heading.  Trees and bushes are all
+around you, and the mosquitoes and all sorts of bugs are flying everywhere
+feasting on your exposed flesh.
+~
+235 1 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 18744
+D3
+~
+~
+0 -1 23598
+S
+$

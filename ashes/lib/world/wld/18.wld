@@ -1,0 +1,1826 @@
+#1800
+Arthur's Pad of Pondering~
+Arthur's chosen room of relaxtion. Books sit on the floor. Spread around
+the room. For whenever Arthur choses to read them. Arthur's 486 sits on the
+floor. Next to some cds that have been left here. Among them a couple Beatles
+cds and a Hendrix cd. Computer game boxes sit next to Arthur's 'Puter. Next
+to his cases of disks. A small fridge sits on the floor here. Its open.
+Revealing its contents. Several Mountain Dews and some snacks.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1834
+S
+#1801
+Before the Heart of Gold Starship~
+As you walk up the path, you come upon a ship. As you look around at
+it you notice how much it seems to be shaped like a shoe. A sleek, 
+white running shoe. The ship looks rather large but not very tall. It
+seems to be almost perfectly white, like its brand new and has never at
+all been flown before. But then you think to yourself 'How did it get 
+here?'.
+~
+18 32768 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 1802
+D1
+~
+~
+0 -1 1835
+S
+#1802
+Below the Starship~
+As you stand on the Heart of Golds entrance ramp your eyes begin to
+wander around. Above you the inside of the starship is visible, however,
+you will have to climb up to see more. To the south, behind you, the 
+small ramp ends.
+~
+18 32768 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 1801
+D4
+~
+~
+0 -1 1803
+S
+#1803
+Entrance Hall~
+This is the entrance hall and first room of the Starship. Now, that 
+you stand in it, you can see it better. The room, much like the
+whole hallway your eye can see, is perfectly white and like the outside
+of the ship looks very new.
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1804
+D3
+~
+~
+0 -1 1814
+D5
+~
+~
+0 -1 1802
+S
+#1804
+East Of The Entrance Hall~
+You are standing in the room directly east of the entrance hall. This
+room like looks like all the others youve seen in the ship. To the 
+north you can see a short hall. The hallway here runs east and west.
+~
+18 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1806
+D1
+~
+~
+0 -1 1805
+D3
+~
+~
+0 -1 1803
+S
+#1805
+A East-West Hallway~
+This is a normal, perfectly white, hallway that runs through the starship
+in a east and west direction. To the east you think you can see a door 
+that looks very large and very tall.
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1808
+D3
+~
+~
+0 -1 1804
+S
+#1806
+A Hallway~
+This is another hallway. This one runs north and south. To the 
+east you can see a door. The hallway runs west as well as south.
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1807
+D2
+~
+~
+0 -1 1804
+D3
+~
+~
+0 -1 1811
+S
+#1807
+A Empty Room~
+As you enter this room, the door quirks 'Have a nice day'. Looking around,
+you can tell that whoevers room this is has not been here long. For there
+are no real items in this room. Only the bed and the small window. Looking
+outside the window, you see the stars and what must have once been earth..
+~
+18 32776 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1806
+S
+#1808
+A East-West Hallway~
+This is a normal, perfectly white hallways that runs thru the
+ship in a east-west direction. On down the hallway a bit to the 
+east a door is visible.
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1809
+D3
+~
+~
+0 -1 1805
+S
+#1809
+The Eastern End Of The Hallway~
+This is the eastern of the hallway. A large door that looks 
+like it could be made out of steel looms to the east of you. You
+wonder what could be behind a door that looks so large...
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+door~
+2 1801 1810
+D3
+~
+~
+0 -1 1808
+S
+#1810
+The Engine Room~
+The improbabilty drive, being the remarkable device its designers
+claim it to be, requires a whole room to itself. However, anyone
+who knows the galatic goverments policy on how they pay thier 
+designers doesnt buy that. For you see, they pay them by the room.
+When asked about this, the designers smirked and looked down at
+thier shoes. (The goverment also gives great shoes as birthday gifts)
+~
+18 8 0
+0d0+0 0 0
+D3
+~
+door~
+2 1801 1809
+S
+#1811
+Center Room~
+This is the center room of the ship. To the east and west you notice two
+doors. The door to the west looks closed while the door to the east looks
+ajar. A long hallway leads to the north. It runs all the way north to what
+looks like the bridge.
+~
+18 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1820
+D1
+~
+~
+0 -1 1806
+D3
+~
+~
+0 -1 1812
+S
+#1812
+A Hallway~
+This is the corner room of the Hallway. To the south is a hallway 
+and to the east is the center room. A door is to the west. Above
+you, a hatch is visible.
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1811
+D2
+~
+~
+0 -1 1814
+D3
+~
+~
+0 -1 1819
+S
+#1813
+Standing in the Smoke~
+You have entered a small door. Smoke billows from another door to the
+south of you. More like a large hole then a door. But a entry none the 
+less. Through the smoke,standing in front of the door, stands a man.
+His tall figure looming ahead of you. Patches of black through 
+the white. Moving forward, your feet get lost. You trip forward onto the
+shoes of a figure. Above you,a mask slowly leans his head towards you. A
+pale,deep voice calling through the nothingness. 'Stand'. Something in
+you MAKES you obey it. Quite a moving voice. 
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1832
+S
+#1814
+West Of The Entrance Hall~
+This is the room directly west of the entrance to this starship. A 
+small hallway runs through the starship here in a east-west 
+direction. To the east you think you can see a door down the hall a
+bit.
+~
+18 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1812
+D1
+~
+~
+0 -1 1803
+D3
+~
+~
+0 -1 1815
+S
+#1815
+A East-West Hallway~
+This is a normal, perfectly white, hallway that runs through the
+ship in a east-west direction. To the west, a large door looms
+above you. 
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1814
+D3
+~
+~
+0 -1 1816
+S
+#1816
+A East-West Hallway~
+This is a normal perfectly white hallway that runs through the
+ship in a east-west direction. To the west a door is clearly
+visible. The hallway runs on down the hall to the east.
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1815
+D3
+~
+~
+0 -1 1817
+S
+#1817
+Before The Improbabilty Room~
+You now stand before the door of the improbabilty room. A room
+thats so improbale, you dont know whats inside. Its a large 
+door that calls for your you to open it. In the other direction,
+to the east, the hallway runs as far as your eye can see.
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1816
+D3
+~
+~
+0 -1 1818
+S
+#1818
+The Improbabilty Room~
+As you look around you dont believe your eyes. A infinite number of
+monkeys are trying to convince a infinite number of monkeys that 
+writing Hamlet is stupid becuase it was so boring to begin with and
+will only bring homework and stupid projects to kids in school.
+~
+18 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1817
+S
+#1819
+A Empty Room~
+As you enter this room you notice how colorful it is. It seems to
+almost emulate a peppy nature with its flowers and British music 
+posters that are all around. Indeed, the room seems to smell a lot
+like the flowers. As you peer around, behind the flowers, you notice
+a cage that must have once contained mice..
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1812
+S
+#1820
+A Hallway~
+You are standing in the middle of a long hallway. The hallway runs
+north and south. You cant quite make out whats to the north but it
+looks like the front of this starship.
+~
+18 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1821
+D2
+~
+~
+0 -1 1811
+S
+#1821
+A Hallway~
+You are standing in the middle of a hallway. To the west you can see 
+a door. You assume it must be someones room but from here you cant
+quite tell who it belongs to. From here, to the north, you can see the
+bridge. A small hatch below your feet catches your eye.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1829
+D2
+~
+~
+0 -1 1820
+D3
+~
+~
+0 -1 1822
+D5
+~
+hatch~
+2 1802 1823
+S
+#1822
+A Empty Room~
+As you enter this room, you notice how boring it is to the eye. The walls
+are white and the only thing that catches your eye is the window that looks
+out into space. A bed lies here empty, much like the rest of this room and
+indeed the ship in general.
+~
+18 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1821
+S
+#1823
+On The Ladder~
+You are near the top of a ladder that leads into the darkness
+below you. The rungs under your hands are wet and you have to
+be careful you dont fall. You cant see the floor...
+~
+18 8 0
+0d0+0 0 0
+D4
+~
+hatch~
+2 1802 1821
+D5
+~
+~
+0 -1 1824
+S
+#1824
+On The Ladder~
+As you lower yourself on the ladder your hands almost slip off
+and you barely avoid falling into the void below you. The rungs
+are almost too wet to go on but you are not sure you can climb
+up either...
+~
+18 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 1823
+D5
+~
+~
+0 -1 1825
+S
+#1825
+On The Ladder~
+Biting your tongue you have chosen to climb down. From here
+you cant see below you and you cant see above you. However,
+you can see that the ladder ends about 2 feet below you...
+~
+18 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 1824
+D5
+~
+~
+0 -1 1826
+S
+#1826
+Off The Ladder~
+As you climb down the last rungs of the ladder and step off 
+you feel the water under your shoes. As you stand here several 
+drops of water hit your head and you look up to see where 
+they come from. Its way too dark here to tell however.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1827
+D4
+~
+~
+0 -1 1825
+S
+#1827
+A Dark Hallway~
+As you walk along the hallway you notice a light. The light
+seems to come from just ahead of you. You think you hear
+someone muttering something about having a brain the size
+of a planet..
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1828
+D2
+~
+~
+0 -1 1826
+S
+#1828
+The Coldest And Darkest Room In The Starship~
+As you enter the room you notice how cold it it. You also
+notice how wet it is.You dont understand this room until you 
+see a robot sitting in the corner, with his back to you.
+You slap yourself for not realizing that this is..MARVINS
+ROOM! Marvin mutters to himself some more..Not caring that
+you have come into his room.
+~
+18 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 1827
+S
+#1829
+The Bridge Of The Heart Of The Gold Starship~
+Ahh here you are. Standing on the bridge on the Heart Of Gold starship,
+you feel proud. The room fills the entire front of the ship you assume,
+as its all around you in every direction. A large viewscreen in front
+of you pumps in from a external camera..or it might just be a window.
+In front of you there is a control panel for doing various functions.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1830
+D2
+~
+~
+0 -1 1821
+D3
+~
+~
+0 -1 1831
+S
+#1830
+Control Area Of The Heart Of Gold~
+As you step forward onto the control area from the bridge you notice
+the panel before you. Its adorned with all kinds of blinking lights
+and flashing buttons. You wonder who the captain could be until you see
+a man sitting with his feet up, leaning back. Hes a very odd looking 
+man who seems to have two-heads. Every few seconds he sits up, leans
+forward, and pushes a few buttons. As he notices you he says 'Its very
+easy to fly..just never press any buttons that are red'.
+~
+18 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 1829
+S
+#1831
+West Of The Bridge~
+You are standing directly west of the bridge. Just ahead of 
+you, you can make out a control panel and a man relaxing with
+his feet up...But you cant see a entrance to the area..You
+can faintly hear some hummings,whirrings, and buzzings from
+the west..
+~
+18 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1829
+D3
+~
+~
+0 -1 1832
+S
+#1832
+The Western Corner Of The Bridge~
+This is the western corner of the bridge. As you look around
+you notice a small computer sitting on the floor. It keeps 
+muttering something about wanting to be your friend. You 
+realize this piece of machinery to be the happy and joyful
+onboard ship computer, Eddie..
+~
+18 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1831
+D2
+~
+~
+0 -1 1813
+S
+#1833
+Outside the Airlock~
+You stand in the middle of space. The stars around you glisten and shine.
+As you turn around you can see a starship in the distance behind you. It 
+looks perfectly white and is quite a sight against the blackness of space
+that surrounds it in all directions. A airlock is open in the side of it.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1813
+D3
+~
+~
+0 -1 1834
+S
+#1834
+Before a Large Book~
+You have come upon a large book in the middle of a path. Two words
+fill its cover. It reaches high above the tree and as such you cover
+your eyes to the sun above it. You find it very odd that a large 
+book would be in the middle of the path. Of course you have no idea
+what book it is. Perhaps if you had some idea what book it was it might
+make a little sense. One thing you have learned is not to open giant
+books in the middle of paths. Its a rule that your dear mother taught you.
+You always liked your mother. That is till she was killed in the Great
+collapsing Hrung disaster. Since noone survived, noone is quite sure what
+a Hrung is. Or why it should decide to collapse on your mother. You start 
+to panic. The words on the books cover seem to calm you however.
+~
+18 32772 3
+0d0+0 0 0
+D0
+A large book that towers high above your head. ~
+book~
+0 -1 1835
+D2
+~
+~
+0 -1 6078
+S
+#1835
+Inside the Book~
+This is a small hallway inside the interior of the large book you found
+on the path. To the east is a odd-looking airlock. To the west is what looks
+like a small path. The hallway continues to your north. 
+~
+18 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1889
+D1
+~
+~
+0 -1 1837
+D2
+~
+~
+0 -1 1834
+D3
+~
+~
+0 -1 1801
+S
+#1836
+Above a Dolphin Tank~
+You currently stand above a dolphin tank. Upon a large platform that 
+extends over the middle of that is. Below you in the murky blue water
+swim two dolphins. Swimming in circles as they prepare for a very
+complex move. A move quite like what dolphins do. Misunderstood by
+humans. But of course this is obvious. Consindering that dolphins
+are the second smartest form on life on the planet. While Humans are
+in a distant third. Above you hangs a small hoop. Swinging in midair.
+Ahead of you in the stands are people. All anxious to see to what they
+do. You on the other hand are not quite sure what you are doing above a 
+dolphin tank to begin with. You boggle at the concept.
+~
+18 32776 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1889
+D5
+~
+~
+0 -1 1865
+S
+#1837
+The Airlock of a Ship~
+The airlock of the Vogon ship. Its very dark and cramped here as you
+expected it might be. Being hospitable is not something the Vogons 
+are known for. The Hitchhikers Guide to the Galaxy has a few words on 
+Vogons. It mentions that as they crawled out of the slime of thier
+planet it was just as evoultion had given up on them. You see this as
+you look at a guard sitting here. Hes rather ugly and his body fat
+and bloated. As he sees you he stands up and stomps around. Seeing
+that your reaction is null he gives up and sits down. He gives out
+a large sigh as he slumps against the wall.
+~
+18 32776 0
+0d0+0 0 0
+D1
+A big yellow door sits here before you.
+~
+door~
+2 1802 1838
+D3
+~
+~
+0 -1 1835
+S
+#1838
+A East-West Hallway~
+This is a east-west hallway that runs through the ship. To the west you
+can see a big yellow door that matches the color of the ship. There appears
+to be a small window in the door that looks into the next room. The end 
+of the hallway to the east is visible from here.
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1839
+D3
+A big yellow door sits before you.
+~
+door~
+2 1802 1837
+S
+#1839
+A East-West Hallway~
+This is a hallway that runs through the ship in a east-west direction.
+Its dark,yellow, and smells VERY bad but other then that it is quite
+plesant to be standing in. You can see a door to the west and what looks
+like the end of the hallway to the east.
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1849
+D3
+~
+~
+0 -1 1838
+S
+#1840
+The Center of a North-South Hallway~
+You are standing in the middle of a hallway that appears to run in 
+a north-south direction. The lighting is good enough for you see
+that it runs quite a ways in both directions.
+~
+18 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1845
+D2
+~
+~
+0 -1 1841
+D3
+~
+~
+0 -1 1849
+S
+#1841
+A North-South Hallway~
+As you continue to walk along the hallway you look around. To the south
+a few doors are visible in different directions.
+~
+18 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1840
+D2
+~
+~
+0 -1 1842
+S
+#1842
+Before Some Rooms~
+You are standing in the middle of a hallway. Two doors that face each other 
+are to the east and west of you. The hallway that you stand in continues 
+to the north and to the south.
+~
+18 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1841
+D1
+~
+~
+0 -1 1850
+D2
+~
+~
+0 -1 1843
+D3
+A door.~
+door~
+2 -1 1851
+S
+#1843
+A North-South Hallway~
+You currently stand near the end of the hallway. You can see that it clearly
+ends just to the south of you. A couple of doors are visible north of you.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1842
+D2
+~
+~
+0 -1 1844
+S
+#1844
+End of the Hallway~
+As you continue to walk along you come to the end of the hallway and you
+realize you should turn around about now and walk in the other direction.
+The wall that sits before you is black and drips water in several places.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1843
+D5
+~
+~
+0 -1 1855
+S
+#1845
+A North-South Hallway~
+You are standing just north of the center of the hallway. The hallway that
+you are in continues to the north and south. Another hallway is visible to
+the southeast.
+~
+18 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1846
+D2
+~
+~
+0 -1 1840
+S
+#1846
+A North-South Hallway~
+This is the part of the hallway that is quite a bit north of the hallway
+that you came out of. It is not quite visible from here. The end of the 
+hallway is visble to the north of where you stand.
+~
+18 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1847
+D2
+~
+~
+0 -1 1845
+S
+#1847
+End of the Hallway~
+This is the end of the long north-south hallway. From here you can barely
+make out the end of the hallway far to the south of you. The hallway runs
+to the east.
+~
+18 8 0
+0d0+0 0 0
+D1
+A small door. ~
+door~
+2 -1 1852
+D2
+~
+~
+0 -1 1846
+D3
+~
+~
+0 -1 1848
+S
+#1848
+Before a Huge Locked Door~
+As you walk in this room you notice a door. It appears huge and looms
+above you to the north. It looks very tough and sturdy and quite a few
+strange symbols adorne it. They are arranged in rows and run the length
+of the door in several directions. The hallway continues to the east.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+door~
+2 1854 1853
+D1
+~
+~
+0 -1 1847
+S
+#1849
+A East-West Hallway~
+As you continue walking along the hallway the lighting seems to get better.
+You can now see clearly see the end of the hallway to the east but the
+door that you came out of is no longer visible. The smell is also worse
+here then it was before. 
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1840
+D3
+~
+~
+0 -1 1839
+S
+#1850
+A Empty Room~
+As you enter this room you notice a horrid smell. You assume it's coming
+from the large,fat,green creature that's sitting in the corner. He looks
+a tad bit taller then you and loads fatter. He removes a blaster from his
+side and draws a bead on your skull.
+~
+18 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1842
+S
+#1851
+A Empty Room~
+The first thing that you see when you walk into this room is a creature.
+Not any creature, mind you, but a green creature. He appears to be rather
+tall and wielding some kind of high powered weapon. You notice he has some
+armor draped across his chest,legs,and his arms.
+~
+18 8 0
+0d0+0 0 0
+D1
+A door.
+~
+door~
+2 -1 1842
+S
+#1852
+A Small Closet~
+You start to poke to around in the dark only to hear something moving
+and feel something unseen poke you back...
+~
+18 9 0
+0d0+0 0 0
+D3
+a small door. ~
+door~
+2 -1 1847
+S
+#1853
+Before a Green Door~
+You have opened the large door and come upon another door. This one
+appears to be green. A large skull adornes the door. Directly in the
+center of the large door. Unlike the door, the skull is not green.
+No the skull is blood red. Rubbing your fingers along the door you
+come to the conclusion of what the red is not. Its not paint...*Gulp*
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1875
+D2
+~
+door~
+0 1854 1848
+S
+#1854
+A Hallway~
+~
+18 8 0
+0d0+0 0 0
+S
+#1855
+Down a Ladder, Into a room~
+You climb down the ladder and look around. You are standing in a small 
+hallway that appears to run north and south. You see a small door to the 
+north. Two doors are to the east and west of your present location.
+~
+18 8 0
+0d0+0 0 0
+D0
+A small door. ~
+door~
+2 -1 1856
+D1
+~
+~
+0 -1 1857
+D2
+~
+~
+0 -1 1859
+D3
+~
+~
+0 -1 1858
+D4
+~
+~
+0 -1 1844
+S
+#1856
+A Large Office ~
+A large desk sits here. Behind the desk you can see a HUGE chair that
+only a very large creature would need. The desk is not wood but appears
+to be made out of some kind of metal. The only thing on top of the desk
+is a bowl of some vile looking soup. There is a rather large window
+in the back of the room. Behind the desk. As you look out into space,
+you catch sight of a long white ship. Hmmm..
+~
+18 8 0
+0d0+0 0 0
+D2
+A small door. ~
+door~
+2 -1 1855
+S
+#1857
+A Kitchen~
+The first thing you notice here is the pots. Quite a few pots are laying
+around here. It appears that someone has thrown them around without care.
+You stop and pick some off the floor. A sticky green substance is visible
+inside it. This room is rather large and many cabinets adorne the walls.
+Its dark here. The Stench is UNBEARABLE here and you assume its from the
+different types of Vogon food(food?) around. Quite a few bugs clamor in the
+food left on the floor. Perhaps getting a snack.
+~
+18 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1855
+S
+#1858
+A Small Room~
+This is a small room. It appears bare. The only thing you can see is
+some boxes that are labeled 'Food'.  Water drips from three places in
+the celing. One happens to be above your head. You step back. Its 
+rather lighted here and you are surprised. 
+~
+18 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1855
+E
+Box~
+They are simply marked 'Food'. ~
+S
+#1859
+A Hallway~
+You continue walking down the hall to the south. It continues to 
+the south and the north.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1855
+D2
+~
+~
+0 -1 1860
+S
+#1860
+A Hallway~
+You walk along the long hallway south some more. The end of the hallway is
+visible to the south. A door can be seen to the north.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1859
+D2
+~
+~
+0 -1 1861
+S
+#1861
+End of the Hallway~
+You have reached the end of the hallway. To the north a door can be seen.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1860
+D1
+~
+~
+0 -1 1862
+S
+#1862
+Hallway~
+This is a long hallway that runs in a east and west direction from where
+you stand. You can go east and west.
+~
+18 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1863
+D2
+~
+~
+0 -1 1866
+D3
+~
+~
+0 -1 1861
+S
+#1863
+A Hallway~
+This is a long hallway that runs east and west of where you stand. You can continue walking east or go back west.
+~
+18 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1862
+S
+#1864
+A Small Room~
+This is a small vent that continues up. It also continues down. The vent
+here is about 5 feet wide and looks very high. Light is visible however.
+~
+18 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 1865
+D5
+A small hatch. ~
+Hatch~
+2 1809 1812
+S
+#1865
+Inside a Dolphin Tank~
+A dolphin tank. Murky water all around you as you swim with the creatures.
+Blurred images follow you. Swimming in circles near you. Above you a round
+circle of light. Your watery friends leaping towards the circle. Above the
+circle and through the circle. Crashing back through it in a splash. And
+as you continue to swim you start to realize a few things. 1) Dolphins are
+quite smart. 2) They are quite great creatures and 3) You are choking.
+~
+18 49162 0
+1d1+199 90 0
+D4
+~
+~
+0 -1 1836
+S
+#1866
+A Small Hallway~
+You currently stand in the middle of a hallway. A hallway that runs 
+north and south of where you stand. It appears to go on for quite 
+some distance to the south.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1862
+D2
+~
+~
+0 -1 1867
+S
+#1867
+A Hallway~
+You are standing in the middle of a north-south hallway. You can continue
+walking south or go back north.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1866
+D2
+~
+~
+0 -1 1868
+S
+#1868
+A Hallway~
+You continue walking to the south. Down a long north-south hallway. 
+To the south the end of the hallway is visible.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1867
+D2
+~
+~
+0 -1 1869
+S
+#1869
+A Hallway~
+You are standing in a north-south hallway. To the south you can just make
+out the end of it. You can continue south or go back north.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1868
+D2
+~
+~
+0 -1 1870
+S
+#1870
+End of the Hallway~
+You seem to reached the end of the hallway. The hallway that ran north and 
+south. To the west is a small room. While to the east is another, rather 
+short hallway.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1869
+D1
+~
+~
+0 -1 1872
+D3
+~
+~
+0 -1 1871
+S
+#1871
+The Crew's Bunks~
+You have come upon a rather dark room. The bunks of the entire vogon 
+crew. Except that of the Captain. Who noone wanted to bunk with. Upon
+the far wall are quite a few bunks. They appear to be stacked upon the 
+wall. Even more bunks are stacked upon the other two walls. Upon the 
+floor are some spare clothes. Or what you assume to be clothes. Getting
+close to them causes a nasty earache,a bloodly nose and your clothes
+to shrink 2 sizes. You back away. Upon one of the bunks sits a small radio.
+The news announcer comes on. 'And the big news tonight is the news that 
+Zaphod Beeblebrox has stolen the heart the gold starship. And the 
+question everyones asking. Has the big z flipped?' 
+~
+18 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1870
+S
+#1872
+A Hallway~
+You start walking down the short east-west hallway. To the east and west
+you can see both ends of the hallway. To the east there appears to be
+some sort of a door. 
+~
+18 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1873
+D3
+~
+~
+0 -1 1870
+S
+#1873
+Before a Door~
+You have reached the end of the hallway. To the direct east of you
+is a door. While to the south is another yet another room.
+~
+18 8 0
+0d0+0 0 0
+D1
+A small door.~
+door~
+2 1899 1874
+D2
+~
+~
+0 -1 1876
+D3
+~
+~
+0 -1 1872
+S
+#1874
+The Captains Quarters~
+Oh no..This appears to be the room of Prostentic Vogon Jeltz. And he
+does not look happy that you have disturbed him. He hears that you
+have entered and wakes up. Rising from his small cot against the wall he 
+stands and points at you. You sutter 'Umm..yea..umm..well..err..'. He 
+sighs loudly and goes back to sleep. Snoring loudly within seconds. 
+Against the wall you can see a small tv. It appears to be some sort of
+a tv that is. Nothing you have ever seen. 
+~
+18 8 0
+0d0+0 0 0
+D3
+A small door. ~
+door~
+2 1899 1873
+S
+#1875
+A Dining Hall~
+You have reached the area where the Vogons enjoy thier meals. Well, 
+its not much of a hall. No, its not a hall....You search for the words..
+Ahh...Well...Its a meat locker. Several corpses of odd and very 
+different things hang on the wall. While some lay half-eaten on the 
+floor.
+~
+18 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 1853
+S
+#1876
+Joebob's Domain of Pleasure~
+This room is very disturbing to you. All five senses. Perhaps more.
+Some posters line the walls. Depicting various odd devices. The 
+entire room is painted blood red. In the middle of this room is a 
+very odd-looking man. He appears to be stiring some sort of pot. A 
+odd smell arouses you from the pot. You black out. After coming to, 
+you notice something. The odd-looking man appears to be grining.
+A wide smile crossing his face. A very sinister smile.
+~
+18 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1873
+S
+#1877
+Large Cavern~
+A large cavern is worn into the rock here. Your light plays tricks on the 
+walls here.  You see movement out of the corner of your eye.
+~
+18 33024 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1894
+S
+#1878
+Lost in the Swirling Sands of a Odd Planet~
+You are lost. Lost in the wilderness. A stranger in a even stranger 
+land. All around the cold winds nip at you.
+~
+18 32768 10
+0d0+0 0 0
+D0
+~
+~
+0 -1 1893
+D1
+~
+~
+0 -1 1878
+D2
+~
+~
+0 -1 1878
+D3
+~
+~
+0 -1 1879
+S
+#1879
+Lost in the Swirling Sands of a Odd Planet~
+You stumble along the wilderness. Reaching through the sands. 
+Crawling along. Finding what you can find as you continue along.
+~
+18 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1878
+D1
+~
+~
+0 -1 1879
+D2
+~
+~
+0 -1 1878
+D3
+~
+~
+0 -1 1880
+S
+#1880
+Lost in the Swirling Sands of a Odd Planet~
+All around you the cold winds sear at your face. The dust and sand
+blowing in your face. You continue on walking. Searching for signs
+of life.
+~
+18 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1880
+D1
+~
+~
+0 -1 1880
+D2
+~
+~
+0 -1 1881
+D3
+~
+~
+0 -1 1879
+S
+#1881
+Lost in the Swirling Sands of a Odd Planet~
+You are lost in a land you do not know. A land very different from any
+that you have ever known. Indeed, it scares you even. Having no idea
+where to go or what to do. You trudge on through the sand. Fighting
+the cold winds as you walk against them.
+~
+18 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1879
+D1
+~
+~
+0 -1 1880
+D2
+~
+~
+0 -1 1880
+D3
+~
+~
+0 -1 1882
+S
+#1882
+Lost in the Swirling Sands of a Odd Planet~
+You are lost in the sands of a odd planet. You trudge along through
+the dust and wind. Above you the sun boars down on your back.
+~
+18 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1884
+D1
+~
+~
+0 -1 1883
+D2
+~
+~
+0 -1 1882
+D3
+~
+~
+0 -1 1881
+S
+#1883
+Lost in the Swirling Sands of a Odd Planet~
+Your tired legs continue to carry you. Carrying you across a wide Desert.
+Towards the horizon and what you might find there.
+~
+18 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1893
+D1
+~
+~
+0 -1 1879
+D2
+~
+~
+0 -1 1881
+D3
+~
+~
+0 -1 1878
+S
+#1884
+Lost in the Swirling Sands of a Odd Planet~
+You continue your voyage through a strange land. Walking towards
+a distant point. Anywhere decent to rest.
+~
+18 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1883
+D1
+~
+~
+0 -1 1884
+D2
+~
+~
+0 -1 1882
+D3
+~
+~
+0 -1 1885
+S
+#1885
+Lost in the Swirling Sands of a Odd Planet~
+Having long been lost, you are about ready to collapse. The vultures
+flying overhead will feed on you. Eating what remains of you. You had
+better find something quick...Or be thier food.
+~
+18 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1886
+D1
+~
+~
+0 -1 1885
+D2
+~
+~
+0 -1 1884
+D3
+~
+~
+0 -1 1878
+S
+#1886
+Lost in the Swirling Sands of a Odd Planet~
+You have found what looks like shelter. A small hut. Among all the 
+sand. A haven to rest in. You hope the residents are nice..
+~
+18 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1890
+D1
+~
+~
+0 -1 1883
+D2
+~
+~
+0 -1 1882
+D3
+~
+~
+0 -1 1887
+S
+#1887
+Lost in the Swirling Sands of a Odd Planet~
+You continue towards the horizon. Walking slowly. Up one dune and down 
+another. The cold wing searing against your body. You trudge along.
+~
+18 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1885
+D1
+~
+~
+0 -1 1891
+D2
+~
+~
+0 -1 1886
+D3
+~
+~
+0 -1 1884
+S
+#1888
+Before a Small Hut~
+You currently stand before a small hut. Barely taller then your head.
+It appears to be made of some sort of grass. You look around the hut.
+The only entrance is a small door in the front.
+~
+18 0 0
+0d0+0 0 0
+S
+#1889
+Down the Hallway~
+You continue walking down the hallway. To your east is what looks like
+a small dolphin tank. To the west you can see the swirling sands of some
+odd planet. Through the small door you can feel the cold winds. 
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1836
+D2
+~
+~
+0 -1 1835
+D3
+~
+~
+0 -1 1878
+S
+#1890
+Inside a Small Hut~
+You have entered into a small house. A quaint house filled with odd items
+and odd sights. Several odd paintings line the walls. Odd furniture
+sits on the floor. Being tacky and not doing much else. You notice
+that noone seems to be home. The walls have been painted a very light
+shade of green. Its very ugly. But it matches everything else.
+The rest of the house, all of it, is very ugly.
+~
+18 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 1886
+D5
+~
+trapdoor~
+1 1852 1896
+S
+#1891
+Lost in the Swirling Sands of a Odd Planet~
+You walk along through the sand. Dragging your feet against it. The sand
+below your toes tugging at your feet. You should seek shelter soon or
+seal your doom. Lost amongst the sands of the shifting winds.
+~
+18 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1885
+D1
+~
+~
+0 -1 1886
+D2
+~
+~
+0 -1 1892
+D3
+~
+~
+0 -1 1891
+S
+#1892
+Lost in the Swirling Sands of a Odd Planet~
+You have found yourself into..well nothing. All around you are what look
+like bones of some sorts of animals. Sand runs in every direction.
+~
+18 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 1885
+D1
+~
+~
+0 -1 1891
+D2
+~
+~
+0 -1 1885
+D3
+~
+~
+0 -1 1885
+S
+#1893
+Above a Large Hole~
+You have reached a small cliff. It overlooks a small hole in the middle
+of a wide open expanse of land and sand. In the middle of it is what
+looks like a corpse. A large whale corpse that appears to have been 
+splattered across the rocks lies below. Down the slope a bit.
+~
+18 32768 10
+0d0+0 0 0
+D2
+~
+~
+0 -1 1878
+D5
+~
+~
+0 -1 1894
+S
+#1894
+Inside a Large Hole~
+You slowly climb down the rocks and hop over a large boulder. You have 
+to watch your footing as you make your way across the rocks. In the
+center of the hole is a large corpse. Blood splattered in various places.
+To the east is a small hole wedged in the stone.
+~
+18 32776 0
+0d0+0 0 0
+D1
+~
+rock rocks~
+1 -1 1877
+D4
+~
+~
+0 -1 1893
+S
+#1895
+A Small Hallway~
+You have come across a small hallway in the interior of the Vogon Ship.
+Its a small hallway that runs north and south. You can continue walking
+north or go back south.
+~
+18 8 0
+0d0+0 0 0
+S
+#1896
+A Street Corner~
+THAT REALLY HURT!
+
+You took quite a spill falling throught that portal.  Where are you it appears
+to be a normal street corner but wait what is that... it can't be... it's the
+triple-breasted whore.
+~
+18 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3001
+S
+#1898
+~
+~
+18 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 1836
+S
+#1899
+The Killers Temple~
+This large room exists without regard to its environment.  This temple is
+dedicated to the clan of Killers.  It's founders statues are standing at the 
+front of the temple and a slate shows the Killers clan.
+~
+18 8 0
+0d0+0 0 0
+D4
+~
+deathseal~
+2 -1 1834
+S
+$

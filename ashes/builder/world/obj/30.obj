@@ -1,0 +1,772 @@
+#3000
+beer barrel~
+a barrel~
+A beer barrel has been left here.~
+~
+17 0 1 0
+0 0 0
+50 50 1 0
+65 300 100
+#3001
+beer bottle~
+a bottle~
+A beer bottle has been left here.~
+~
+17 0 1 0
+0 0 0
+8 8 1 0
+10 20 8
+#3002
+ale bottle dark~
+a bottle~
+A dark bottle of ale has been left here.~
+~
+17 0 1 0
+0 0 0
+8 8 3 0
+10 10 3
+#3003
+firebreather bottle~
+a firebreather~
+A firebreather has been left here.~
+~
+17 0 1 0
+0 0 0
+8 8 7 0
+10 50 17
+#3004
+local bottle~
+a bottle~
+A dark bottle has been left here.~
+~
+17 0 1 0
+0 0 0
+8 8 8 0
+10 20 7
+#3005
+sailor reroll sign~
+the REROLL sign~
+There is a REROLL SIGN here. Read it before you try anything.~
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+Rerolling was once a dangerous practice, but it is now quick and painless :)
+All you need to do is type list to find out how much it will cost, and
+get the cash together. Then type reroll. You go to a screen like the stat
+screen where you created your character. When you have the stats you want,
+just accept them, and you will apear back in the game with the new stats.
+There are a few catches. The first is, you start over at level 1 in your
+current class when you reroll. The second is, you don't gain practices
+until you are above the level you rerolled at. Finaly, each time you reroll,
+it gets more expensive.
+~
+#3006
+board equipment~
+an equipment board~
+A large equipment board is mounted on a wall here.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+#3010
+bread~
+a bread~
+A loaf of bread has been left here.~
+~
+19 8 1 0
+0 0 0
+12 0 0 0
+1 10 10
+#3011
+danish pastry~
+a danish pastry~
+A nice looking delicious danish pastry has been placed here.~
+~
+19 0 1 0
+0 0 0
+5 0 0 0
+1 5 5
+#3012
+taco mexican~
+a mexican taco~
+A tasty looking Mexican taco has been dropped here.~
+~
+19 0 1 0
+0 0 0
+15 0 0 0
+1 15 15
+#3013
+burrito hot~
+a spicy hot burrito~
+A spicy looking burrito has been set here.~
+~
+19 0 1 0
+0 0 0
+10 0 0 0
+1 10 10
+#3014
+nachos nacho~
+some nachos with cheese~
+Some nachos have been left here.~
+They have cheese on them.  Looks like one of Uncle Juan's specials.
+~
+19 0 1 0
+0 0 0
+5 0 0 0
+1 5 5
+#3015
+meat chunk~
+a piece of meat~
+A rather dubious looking piece of meat is on the ground here.~
+~
+19 0 1 0
+0 0 0
+14 0 0 0
+5 24 10
+E
+meat~
+It's not so much that the meat looks poisoned or anything, but that you
+just are not sure of it's origins.  You doubt that a hunter would drop a
+side of venison or rabbit meat... what in the world could this meat have
+come from, you wonder...
+~
+#3020
+dagger~
+a dagger~
+A dagger with a long thin blade is here.~
+Pierce~
+5 8192 24577 0
+0 0 0
+0 1 4 11
+1 10 10
+#3021
+axe hand~
+a hand axe~
+A small, sharp hand axe lies here.~
+slash~
+5 8400904 24577 0
+0 0 0
+0 1 6 11
+4 200 10
+#3022
+sword long~
+a long sword~
+A long sword has been left here.~
+slash~
+5 8400904 8193 0
+0 0 0
+0 1 8 3
+8 450 10
+#3023
+club wooden~
+a wooden club~
+A simple looking wooden club is here.~
+pound~
+5 4096 8193 0
+0 0 0
+0 1 4 7
+3 10 10
+#3024
+warhammer hammer~
+a warhammer~
+A medium sized warhammer is here.~
+pound~
+5 4096 8193 0
+0 0 0
+0 1 5 7
+6 50 10
+#3025
+flail large~
+a flail~
+A large flail is here.~
+pound~
+5 4096 8193 0
+0 0 0
+0 2 4 7
+6 500 10
+#3026
+sword short~
+a short sword~
+A short sword is lying here.~
+pierce~
+5 8400896 8193 0
+0 0 0
+0 2 3 11
+4 100 300
+E
+short sword~
+This is a very nice little weapon.
+~
+#3029
+hoagie italian sandwich~
+an Italian hoagie~
+An Italian hoagie is sitting here.~
+~
+19 0 1 0
+0 0 0
+11 0 0 0
+1 18 9
+#3030
+torch~
+a torch~
+A small torch lies here.~
+~
+1 0 16385 0
+0 0 0
+0 0 24 0
+1 10 10
+#3031
+lantern~
+a lantern~
+A brass lantern is here.~
+~
+1 0 16385 0
+0 0 0
+0 0 96 0
+1 50 10
+#3032
+bag~
+a bag~
+A small bag is here.~
+~
+15 0 16385 0
+0 0 0
+50 0 0 0
+2 20 10
+#3033
+box~
+a box~
+A small box is here.~
+~
+15 0 16385 0
+0 0 0
+10 0 0 0
+5 50 10
+#3034
+atm teller bank machine~
+an automatic teller machine~
+An automatic teller machine has been installed in the wall here.~
+~
+12 16 0 0
+0 0 0
+0 0 0 0
+5000 100 100
+E
+atm teller bank machine~
+There is a small note on the machine which says:
+
+To use, type "BALANCE", "WITHDRAW x", or "DEPOSIT x".  Please report any
+strange occurrences to the bank manager.
+~
+#3035
+fountain water~
+the large fountain~
+A large fountain carved from blue-streaked marble is here, bubbling merrily.~
+It is a well crafted fountain, carved from a single piece of marble.  It seems
+to be enchanted in some manner, as the water level seems to never lower.
+~
+23 32832 0 0
+0 0 0
+999999 999999 15 0
+1000004 0 0
+E
+marble blue streaked~
+It is very beautiful white marble, shot through with electric blue streaks
+that look almost like lightning dancing along the sides of the fountain.
+~
+#3040
+scale reinforced suit~
+a suit of reinforced scale mail~
+A suit of specially reinforced scale mail is lying on the ground.~
+~
+9 9457664 9 0
+0 0 0
+7 0 0 0
+100 5500 150
+#3041
+leather cuir bouli armor~
+a suit of cuir bouli~
+A suit of cuir bouli, specially treated leather armor, lies here forgotten.~
+~
+9 4096 9 0
+0 0 0
+5 0 0 0
+60 2500 50
+#3042
+shield small wooden~
+a small wooden shield~
+A small wooden shield is lying on the ground.~
+~
+9 9457664 513 0
+0 0 0
+5 0 0 0
+7 100 10
+#3043
+padded suit armor~
+a suit of padded armor~
+A suit of thickly padded cloth armor is lying on the ground.~
+~
+9 0 9 0
+0 0 0
+2 0 0 0
+10 200 10
+#3044
+leather studded armor suit~
+a suit of studded leather armor~
+A suit of studded leather armor is lying on the ground.~
+~
+9 4096 9 0
+0 0 0
+6 0 0 0
+20 1500 10
+#3045
+leather suit armor~
+a suit of leather armor~
+A suit of leather armor is lying on the ground.~
+~
+9 4096 9 0
+0 0 0
+4 0 0 0
+40 750 10
+#3046
+chain mail shirt~
+a chain mail shirt~
+A chain mail shirt is lying on the ground here.~
+~
+9 9457664 9 0
+0 0 0
+8 0 0 0
+80 7000 100
+#3047
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#3048
+mrtrash~
+mrtrash~
+Mrtash has been left here.~
+~
+2 4 1 0
+0 0 0
+50 0 0 0
+0 0 0
+#3050
+scroll identify id~
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 64 16385 0
+0 0 0
+12 52 0 0
+1 500 10
+E
+scroll identify~
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+~
+#3051
+potion yellow seeinvis~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+~
+10 64 16385 0
+0 0 0
+12 19 0 0
+1 400 10
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#3052
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 64 16385 0
+0 0 0
+12 42 0 0
+12 42 0
+E
+scroll~
+The scroll has written a formulae of 'Word of Recall' upon it.
+~
+#3053
+wand invis~
+a wand of invisibility~
+A wand has carelessly been left here.~
+~
+3 64 16385 0
+0 0 0
+12 2 2 29
+2 4000 100
+E
+wand~
+The wand is an old dark stick.  You notice a small symbol etched at the
+base of the wand.  It looks like this:
+
+     \ /
+    - O -
+     / \
+~
+#3054
+staff sleep~
+a staff of sleep~
+A staff has carelessly been left here.~
+~
+4 8577088 16385 0
+0 0 0
+12 1 1 38
+17 7000 5000
+E
+staff~
+The staff is made of old oak, and is around five feet long. It fits
+perfectly into your hand. You notice a small symbol etched at the
+base of the staff, it looks like:
+
+  ZZZZZ
+     Z
+    Z
+   Z
+  ZZZZZ  z   z
+~
+#3055
+staff~
+a staff of healing~
+A staff has carelessly been left here.~
+~
+4 8966208 16385 0
+0 0 0
+10 8 8 15
+7 8500 300
+E
+staff~
+The staff is made of metals unknown to you.
+~
+#3060
+raft~
+a raft~
+A raft has been left here.~
+(null)~
+22 0 1 0
+0 0 0
+0 0 0 0
+75 400 10
+E
+raft~
+The raft looks very primitive.
+~
+#3061
+canoe~
+a canoe~
+A canoe has been left here.~
+(null)~
+22 0 1 0
+0 0 0
+0 0 0 0
+32 1000 100
+E
+canoe~
+The canoe is fairly light.
+~
+#3070
+gloves scale mail~
+a pair of scale mail gloves~
+A pair of scale mail gloves is lying on the ground.~
+~
+9 9457664 129 0
+0 0 0
+3 0 0 0
+8 100 100
+#3071
+gloves leather~
+a pair of leather gloves~
+A pair of leather gloves is lying on the ground.~
+~
+9 0 129 0
+0 0 0
+2 0 0 0
+3 45 10
+#3072
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#3075
+coif scale mail~
+a scale mail coif~
+A scale mail coif gathers dust on the ground here.~
+~
+9 9457664 17 0
+0 0 0
+6 0 0 0
+12 200 100
+#3076
+cap leather~
+a leather cap~
+A leather cap is lying on the ground.~
+~
+9 0 17 0
+0 0 0
+3 0 0 0
+3 100 10
+#3077
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#3080
+leggings scale mail~
+a pair of scale mail leggings~
+A pair of scale mail leggings is lying on the ground.~
+~
+9 9457664 33 0
+0 0 0
+6 0 0 0
+15 250 100
+#3081
+pants leather~
+a pair of leather pants~
+A pair of leather pants is lying on the ground.~
+~
+9 0 33 0
+0 0 0
+4 0 0 0
+8 125 10
+#3082
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#3083
+sign~
+a sign~
+A sign demands your attention.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+5 1 1
+E
+sign~
+Here you can request all sorts of magical services.
+If there is a service you want that I don't offer right
+now, use IDEA to let me know.
+
+Current Services:                                               Cost:
+Remove invis from an item (UNINVIS) that is normally visible.     125,000
+Remove invis from a naturally invisible item (UNINVIS).         1,405,000
+RECHARGE a wand or staff.                      1,800 per charge per level
+
+Note: Recharging is a violent process and will weaken the item, reducing
+the maximum number of charges.
+
+     Thanks for your business,
+              Archmage Myrian
+~
+#3085
+sleeves scale mail~
+a pair of scale mail sleeves~
+A pair of scale mail sleeves is lying on the ground.~
+~
+9 9457664 257 0
+0 0 0
+6 0 0 0
+13 250 100
+#3086
+sleeves leather~
+a pair of leather sleeves~
+A pair of leather sleeves is lying on the ground.~
+~
+9 4096 257 0
+0 0 0
+4 0 0 0
+5 125 10
+#3087
+key~
+Golden Key~
+You see a golden shiny key with the inscriptions room #1 Fantasy Hotel.
+~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+0 5000 10000
+#3088
+a silver key~
+~
+~
+~
+18 0 1 0
+0 0 0
+0 0 0 0
+0 0 0
+#3089
+board bulletin~
+a bulletin board~
+A large bulletin board is mounted on a wall here.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+#3090
+board builder's~
+a builder's board~
+You notice an antique board of corkwood framed in deep-stained black walnut.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+1 10 10
+E
+board~
+This board has not been taken care of yet. I have to ask Homer to
+do a leetle bit o' coding. :)         -Raul Cervantes
+~
+#3091
+board glass coding display~
+a coding board~
+A huge glass display board shows current coding possibilities.~
+~
+12 0 0 0
+0 0 0
+0 0 0 0
+1 10 10
+#3092
+board cimp promotion demotion~
+a CIMP+ promotion/demotion discussion board~
+You see a board for CIMP+ to discuss promotions and demotions here.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#3093
+board bulletin annoucement~
+an AIMP+ announcement bulletin board~
+An AIMP+ announcement board is mounted on the wall here.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+#3094
+board bulletin annoucement~
+an announcement bulletin board~
+An announcement board is mounted on the wall here.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+#3095
+board bulletin~
+an immortal announcement board~
+An immortal announcement board floats in the air.
+~
+
+~
+13 1 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+#3096
+quest belletin board~
+a quest bulletin board~
+The quest bulletin board is mounted on a wall here.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+#3097
+board frozen bulletin~
+a frozen bulletin board~
+A large bulletin board is here, carved from a block of ice.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+#3098
+board holy bulletin~
+a holy bulletin board~
+A large bulletin board is mounted on a wall here.  It glows with a faint aura.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+#3099
+board bulletin~
+a bulletin board~
+A large bulletin board is mounted on a wall here.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+$

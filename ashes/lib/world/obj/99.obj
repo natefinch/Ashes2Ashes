@@ -1,0 +1,226 @@
+#9900
+foot duke nukem mighty shoes~
+Duke Nukem's Mighty foot~
+A powerful set of shoes is abandoned on the pavement.~
+~
+11 65548 65 72
+63 0 0
+0 0 0 0
+1 1 1
+A
+17 4
+A
+18 4
+A
+16 -4
+A
+11 40
+#9901
+shotgun duke nukem gun~
+Duke's Shotgun~
+A scratched, bloody shotgun is at your feet.~
+~
+5 65551 24577 20971520
+63 0 0
+0 18 2 12
+10 19 19
+A
+17 7
+A
+18 7
+A
+11 40
+A
+16 -4
+#9902
+machine-gun sub gun duke nukem~
+Duke's Sub-Machine gun~
+An awesome looking gun is propped against the wall.~
+~
+5 65551 24577 20971520
+63 0 0
+0 22 2 12
+10 19 19
+A
+17 7
+A
+18 7
+A
+11 40
+A
+16 -4
+#9903
+launcher grenade duke nukem gun~
+Duke's grenade launcher~
+An awesome looking gun is propped against the wall.~
+~
+5 65551 24577 20971520
+63 0 0
+0 26 2 12
+10 19 19
+A
+17 7
+A
+18 7
+A
+11 40
+A
+16 -4
+#9904
+medkit kit medic heal~
+a medkit~
+A white box with a red cross on it sits neatly upon the ground.~
+~
+10 65548 1 0
+0 0 0
+80 54 54 50
+1 1 1
+#9905
+armor duke nukem body~
+Duke's Body Armor~
+A strong, metallic armor is set conveniently upon the ground.~
+~
+11 65550 9 536870952
+63 0 0
+0 0 0 0
+1 1 1
+A
+17 5
+A
+18 4
+A
+11 40
+A
+16 -4
+A
+13 10
+A
+10 40
+#9906
+goggles night vision duke nukem~
+Duke's Night Vision goggles~
+A pair of useless goggles is on the ground in a puddle of glass.~
+~
+11 65549 17 1028
+63 0 0
+0 0 0 0
+1 1 1
+A
+17 5
+A
+18 4
+A
+11 40
+A
+24 15
+A
+16 -4
+A
+13 12
+#9907
+jetpack duke nukem pack flight~
+Duke's Jetpack~
+A futuristic looking jetpack attracts your attention.~
+~
+11 65551 1025 17825792
+63 0 0
+0 0 0 0
+1 1 1
+A
+11 50
+A
+17 6
+A
+18 4
+A
+10 40
+A
+13 9
+#9908
+belt ammunition ammo duke nukem~
+Duke's Ammo Belt~
+Luckily, someone left some unused ammunition on the ground.~
+~
+11 65549 2049 0
+63 0 0
+0 0 0 0
+1 1 1
+A
+17 5
+A
+18 5
+A
+11 50
+A
+13 10
+A
+10 35
+A
+24 12
+#9909
+holoduke device duke nukem~
+a Holoduke Device~
+It's Duke Nukem! Maybe you can get his autograph.~
+~
+11 65550 5 32768
+63 0 0
+0 0 0 0
+1 1 1
+A
+17 5
+A
+18 5
+A
+10 35
+A
+13 8
+A
+2 5
+A
+11 30
+#9990
+key card keycard~
+a yellow keycard~
+A key sits on the ground.~
+~
+18 65548 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#9991
+key card keycard~
+a blue keycard~
+A key sits on the ground.~
+~
+18 65548 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#9992
+key card keycard~
+a red keycard~
+A key sits on the ground.~
+~
+18 65548 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#9993
+key card keycard~
+a reactor key~
+A key sits on the ground.~
+~
+18 65548 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#9999
+flag~
+a little, paper American Flag attached to a thin, wooden stick.~
+An American Flag is planted in the ground flapping in the breeze.~
+~
+12 67174431 1 0
+0 0 0
+0 0 0 0
+28 1 1
+$

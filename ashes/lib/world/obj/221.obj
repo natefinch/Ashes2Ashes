@@ -1,0 +1,294 @@
+#22098
+arean quest sign~
+an arena quest sign~
+An arena quest sign is here for information about the realms.~
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+E
+sign arena quest~
+So I don't hear about any complaints about what realm you step into, here
+is a list of the realms and their abilities.
+North, South, East, West
+These are the standard areas of Arena Quest.  Each of them are 3 by 3 grids
+with a ring out circling them.
+Northwest
+This is also a 3 by 3 grid.  However there's more challenge as the rooms
+are all equipped with Dt's that will repeatedly drain your life.
+
+
+Northeast.
+This is a 5 by 5 grid.  This is for those who feel there isn't enough room to
+move around. ;)
+
+Up
+Nicknamed the Sky Stage, it's aptly named as it's only one room surrounded by
+ring outs.  This is not a place to have a wimpy on. ;)
+
+Down
+Last but not least, it's The Void.  This is a 3 by 3 by 3 wraparound gird of fun.
+There are no Ring Outs, and Honorable Deaths are not allowed.  It's a true fight
+to the finish.
+Have fun with these and if there are any problems, let me know.
+
+Viper
+~
+#22100
+hunter naginata spear~
+the Hunter's Naginata~
+Here lies the Hunter's Naginata.~
+~
+5 9334787 24577 0
+0 0 0
+0 5 6 3
+18 250000 0
+A
+17 5
+A
+18 4
+E
+naginata~
+The blade of this weapon is almost of diamond-edge sharpness.  Its shaft is
+made of some kind of flexible fiberglass, and is tipped with a point on the butt
+end of it.
+~
+#22101
+bartender earring~
+a bartender's earring~
+A bartender's earring has been discarded here.
+~
+~
+11 0 17 0
+0 0 0
+0 0 0 0
+1 5000 1000
+A
+18 1
+A
+1 1
+#22102
+assassin beamer~
+an assassin quest beamer~
+A small device covered in lights lies here.~
+~
+24 65689 16385 0
+0 0 0
+22099 0 0 0
+1 100000 100000
+E
+assassin beamer~
+This is a small device that fits over the hand.
+On the inside are buttons that will transport the user
+to the tournament arena. On the outside are flashing
+status lights. It seems to be in working order, but you
+really can't tell.
+~
+#22111
+poppy neck kerchief~
+Poppy's Neck Kerchief~
+Here is Poppy's Neck Kerchief on the ground.
+~
+~
+9 9206816 5 0
+0 0 0
+0 0 0 0
+1 100000 0
+A
+17 4
+A
+18 4
+E
+poppy neck kerchief~
+This kerchief has the same golden color as Galford's, with a miniature wolf's
+paw dead center.
+~
+#22112
+atm teller bank machine~
+an automatic teller machine~
+An automatic teller machine has been installed in the wall here.~
+~
+12 16 0 0
+0 0 0
+0 0 0 0
+5000 100 100
+E
+atm teller bank machine~
+There is a small note on the machine which says:
+
+To use, type "BALANCE", "WITHDRAW x", or "DEPOSIT x".  Please report any
+strange occurrences to the bank manager.
+~
+#22113
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22114
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22115
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22116
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22117
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22118
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22119
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22120
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22121
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22122
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22123
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22124
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22125
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22126
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#22150
+assassin sword~
+a deadly sword indeed!~
+There is an assassin sword lying on the ground here.
+~
+~
+5 8534528 24577 0
+0 0 0
+0 10 1 11
+3 25000 3500
+A
+17 7
+#22151
+protector sword~
+a gleaming holy sword.~
+A protector sword lies here on the ground.
+~
+~
+5 8928256 24577 0
+0 0 0
+0 10 1 11
+3 25000 3000
+A
+17 7
+#22152
+mercenary sword~
+a dark killing weapon.~
+An abandoned mercenary sword lies here.
+~
+~
+5 8400896 24577 0
+0 0 0
+0 10 1 0
+3 25000 3000
+A
+17 5
+#22199
+exon bill piece of shit~
+the Exon Bill~
+The Exon Bill is here, gathering dust and flies.~
+~
+0 131 1 0
+0 0 0
+0 0 0 0
+1 0 0
+$

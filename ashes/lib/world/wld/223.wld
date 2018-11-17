@@ -1,0 +1,1805 @@
+#22300
+Daxx and Jahana's nookie place.~
+Before you, in all it's splendor, is a room with everything a newlywed
+couple could want on their wedding night...a king sized bed, lots of 
+pillows, whipped cream, baby oil, a riding crop, etc...etc...etc...<G>
+Oh yeah, and don't forget the 6 dozen red rose petals scatted on the
+bed.  The room is lit low and there's some Luther Vandross playing on
+the stereo {did you expect Mortal Kombat, maybe?}.  The whole room just
+screams, "MAKE LOVE IN ME!!!!"
+~
+223 4616 0
+0d0+0 0 0
+S
+#22301
+Rich driveway~
+You are standing in the middle of a posh driveway lined with rich ferns
+and expensive flowers.  Beauty surrounds you as you gaze at the full, green
+grass and the rolling hills.  A pair of pillars beckon you inside and on one
+is written the word "Bushwood".  There is a plaque on the other pillar.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22302
+D2
+~
+~
+0 -1 3074
+E
+plaque~
+   +-----------------------+
+   |    Caddyshack Zone    |
+   | Completed May 3, 1996 |
+   | by Stretch and Teddy  |
+   +-----------------------+
+~
+S
+#22302
+Speed bump~
+The rich driveway continues to wind its way through the country club estate.
+The speedbump is here to keep hooligans from tearing through the parking lot
+like a bunch of maniacs.  Obviously, it doesn't work
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22303
+D2
+~
+~
+0 -1 22301
+S
+#22303
+Entrance to the Parking Lot~
+From here you can see the vast expanse of the parking lot.  Looking south,
+the driveway beckons you with its splendor.  The lot is filled with all kinds
+of insanely expensive cars; BMW's, Mercedes, Lexus, Yugos...You can only hope
+to someday own a vehicle as nice as these.
+~
+223 0 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 22302
+D3
+~
+~
+0 -1 22304
+S
+#22304
+Parking Lot~
+You are in the south-west corner of the parking lot.  From here you can either
+continue through the parking lot, or return to where you came from via the
+driveway.  A sign stares you in the face.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22307
+D1
+~
+~
+0 -1 22303
+D3
+~
+~
+0 -1 22305
+E
+sign~
+It reads, 
+  "Vandals will be caned!  No exceptions!"
+                   -The Management
+~
+S
+#22305
+Parking Lot~
+You now stand in the south-west corner of the parking lot.  It looks
+pretty much exactly like the rest of the parking lot.  
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22306
+D1
+~
+~
+0 -1 22304
+S
+#22306
+Parking Lot~
+This is the western side of the parking lot.  You look around you and see
+extravagant wealth oozing out of the very air itself.  Why, even the ground
+is...HEY LOOK!!!!!  YELLOW LINES ON THE PAVEMENT!!!  Wow, they really do
+have it all here.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22309
+D1
+~
+~
+0 -1 22307
+D2
+~
+~
+0 -1 22305
+S
+#22307
+Parking Lot~
+This is the eastern half of the parking lot.  There are cars here.  Ooooh, look
+a Porsche, a Ferrari and a Lamborghini all parked side by side.  You really
+feel like throwing up.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22308
+D2
+~
+~
+0 -1 22304
+D3
+~
+~
+0 -1 22306
+S
+#22308
+Parking Lot~
+Will this blasted parking lot never end?!  You now stand in the northeast
+corner of the lot.  You see Judge Smalls parking space but it has an ugly
+brown car parked in it.  It's okay though, because it's currently being 
+towed away.
+~
+223 0 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 22307
+D3
+~
+~
+0 -1 22309
+S
+#22309
+Parking Lot~
+Finally!  The parking lot ends here and a path for golf carts leads
+north to the clubhouse.  The parking lot is south and east from here.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22310
+D1
+~
+~
+0 -1 22308
+D2
+~
+~
+0 -1 22306
+S
+#22310
+Cart Path~
+The small paved pathway for the golf carts leads towards the counrty
+club.  The path is well taken care of and has beautiful green grass on
+either side of it.  Just beyond the grass are small flower beds with
+colorful patches of flowers.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22311
+D2
+~
+~
+0 -1 22309
+S
+#22311
+Cart Path~
+As the path continues you see the large clubhouse in front of you.  The
+birds sing as you make your way towards it.  The path widens slightly
+and trees now run along either side of the path.
+~
+223 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 22312
+D2
+~
+~
+0 -1 22310
+S
+#22312
+Cart Path~
+You stand before the door to the clubhouse.  Inside, you can hear men who
+are obviously drunk off their....well, they're a little tipsy...Anyway, 
+there's alcohol inside, so what are you doing out here?
+~
+223 0 11
+0d0+0 0 0
+D1
+~
+door~
+2 -1 22313
+D3
+~
+~
+0 -1 22311
+S
+#22313
+Inside the Clubhouse~
+You now walk where only the rich and snobby normally tread.  The 19th
+hole is north of here while the Pro Shop is south and east.
+~
+223 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22321
+D1
+~
+~
+0 -1 22318
+D2
+~
+~
+0 -1 22314
+D3
+~
+door~
+2 -1 22312
+S
+#22314
+Inside the Clubhouse~
+You walk down a hallway with pictures of the past presidents of the country
+club along the walls.  They don't seem very happy considering how much money
+they have.  To the north is the 19th hole and to the north and west is the bar.
+~
+223 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22313
+D1
+~
+~
+0 -1 22315
+S
+#22315
+Inside the Clubhouse~
+You are still west of the pro shop and south of the door that leads
+to the golf course.  Well, you can also get smashed north west of
+here but that's neither here nor there. :>
+~
+223 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22318
+D1
+~
+~
+0 -1 22316
+D3
+~
+~
+0 -1 22314
+S
+#22316
+The Pro Shop~
+This is the mysterious pro shop.  It is rumored that people in hideously
+ugly clothes come here to buy sticks to slap a little white ball around
+in the yard.  Oh yeah, there are naked lady tees here too.
+~
+223 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22317
+D3
+~
+~
+0 -1 22315
+S
+#22317
+Inside the Clubhouse~
+You are still inside the clubhouse.  This place is getting kinda dull.
+~
+223 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22319
+D2
+~
+~
+0 -1 22316
+D3
+~
+~
+0 -1 22318
+S
+#22318
+Inside the Clubhouse~
+You are now standing in the middle of the clubhouse so as far as you
+can tell, the world is currently revolving around you.  This place is
+really good for your ego.
+~
+223 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22320
+D1
+~
+~
+0 -1 22317
+D2
+~
+~
+0 -1 22315
+D3
+~
+~
+0 -1 22313
+S
+#22319
+Inside the Clubhouse~
+This is the north east corner of the clubhouse.  West of here is the door
+out of this place.
+~
+223 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 22317
+D3
+~
+~
+0 -1 22320
+S
+#22320
+Inside the Clubhouse~
+You now stand in front of the door leading out to the golf course.  
+Let's hit the links and kill some golfers.
+~
+223 0 0
+0d0+0 0 0
+D0
+~
+door~
+2 -1 22322
+D1
+~
+~
+0 -1 22319
+D2
+~
+~
+0 -1 22318
+D3
+~
+~
+0 -1 22321
+S
+#22321
+The 19th Hole~
+Welcome to the 19th Hole!  Belly up the bar and drink till you forget your
+name.  As you head for a stool, the bartender says, "MEMBERS ONLY!!!"
+Jeez, what a grouch.
+~
+223 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22320
+D2
+~
+~
+0 -1 22313
+S
+#22322
+Cart Path~
+This small paved pathway runs north to the first set of tees.  It has a
+small row of hedges running along the west side of the path and a pretty
+flower bed on the easter side of it.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22323
+D2
+~
+door~
+2 -1 22320
+S
+#22323
+Cart Path~
+Here you can follow the path north or take a different path to the east.
+There is a sign here.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22326
+D1
+~
+~
+0 -1 22324
+D2
+~
+~
+0 -1 22322
+D3
+~
+~
+0 -1 22398
+E
+sign~
+It reads:
+  North:  #1 Tee
+  East:   Golf Cart Parking Lot
+  West:   Pool Area
+Spray painted on the bottom is:
+"BEWARE OF THE GOPHER!!!"
+~
+S
+#22324
+Cart Path~
+The sound of golf balls being hit and flying through the air can be heard to
+the northwest of here.  The path heads west towards the pool and the first tee.
+~
+223 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 22325
+D3
+~
+~
+0 -1 22323
+S
+#22325
+Before the Golf Cart Parking Lot~
+The pathway ends here and brings you to the golf cart parking lot.  This is
+where people usually meet after their pre-game drinks.  The sun shines down on
+you as you continue.
+~
+223 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 22328
+D3
+~
+~
+0 -1 22324
+S
+#22326
+Cart Path~
+The path is now surrounded by a rows of trees in between the holes of the
+golf course.  The first tees are to the north and the path back to the
+clubhouse as well as the pool is to the south.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22327
+D2
+~
+~
+0 -1 22323
+S
+#22327
+Cart Path~
+Aaaah, what a BEAUTIFUL day!!  Birds are singing, the sun is shining,
+golfers are screaming and cussing at little white balls all around you.
+Life is good.  From here, you can travel into the front or back 9 of the
+course.  
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22389
+D1
+~
+~
+0 -1 22363
+D2
+~
+~
+0 -1 22326
+D3
+~
+~
+0 -1 22332
+D7
+~
+~
+0 -1 22362
+S
+#22328
+Golf Cart Parking Lot~
+You are now in the southwest corner of the golf cart parking lot.  A row of
+small trees runs along the western edge of the parking lot with a small break
+for a golf cart path.
+~
+223 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 22330
+D2
+~
+~
+0 -1 22329
+D3
+~
+~
+0 -1 22325
+S
+#22329
+Golf Cart Parking Lot~
+You are in the southwest corner of the golf cart parking lot.  A small wooden
+fence runs along the southern side of the parking lot.  Next to the fence is
+an old beat up golf cart waiting to be repaired.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22328
+D1
+~
+~
+0 -1 22331
+S
+#22330
+Golf Cart Parking Lot~
+There are a few carts here in the back part of the golf cart parking lot.
+To the north you can see the various holes of the golf course.  The path
+to the first tee is to the west.
+~
+223 0 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 22331
+D3
+~
+~
+0 -1 22328
+S
+#22331
+Golf Cart Parking Lot~
+The golf cart parking lot is almost empty because it is prime time for
+golf here at the country club.  The weather is clear and nice.  Perfect for
+a nice relaxing . . ., well a round of golf at least.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22330
+D3
+~
+~
+0 -1 22329
+S
+#22332
+#1 Tee~
+Par 5.  475 yds.
+This is a fairly easy opening hole to get golfers warmed up.  It sinks
+to a valley in the fairway and gently rises to the green.  No doglegs,
+no sand, no water.  Like I said, easy.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22327
+D3
+~
+~
+0 -1 22333
+S
+#22333
+#1 Fairway~
+The fairway sinks into a valley here.  The grass, still wet from this
+morning's watering, seems a little slippery.  The nearby trees also
+provide shade for this section of the fairway.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22332
+D3
+~
+~
+0 -1 22334
+S
+#22334
+#1 Fairway~
+Here the fairway slowly slopes up toward the green.  The sun shines
+through the trees creating all sorts of patterns.  You can not see the
+green very easily from this position so you better go check it out before
+you take your next shot.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22333
+D3
+~
+~
+0 -1 22335
+S
+#22335
+#1 Green~
+The grass on the green is darker than the grass of the fairway.  It is
+also cut much shorter to allow for easier putting.  The cup is in the
+western edge of the green so you better not hit the ball too hard.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22334
+D2
+~
+~
+0 -1 22336
+S
+#22336
+#2 Tee~
+Par 3.  225 yds.
+This is a long par 3 for the longer hitting golfers.  Good luck and try
+to miss the sandtrap guarding the right side of the green.
+~
+223 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 22335
+D3
+~
+~
+0 -1 22337
+S
+#22337
+#2 Fairway~
+This fairway looks like all the others except there are huge furrows cris-
+crossing it.  Hmmm...must be a BAD gopher problem around here.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22336
+D3
+~
+~
+0 -1 22338
+S
+#22338
+#2 Green~
+Yeek.  Even the green has been marked up by the little rodents.  It seems
+that they could pay some professional to take care of this little problem.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22337
+D2
+~
+~
+0 -1 22339
+S
+#22339
+#3 Tee~
+Par 5.  602 yds.
+This is a long par 5 that curves around a water hole.  The entire fairway
+is lined by a thick hedge to the south.  You can see the roof of the
+caddyshack above the hedge.  
+~
+223 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 22338
+D9
+~
+~
+0 -1 22340
+S
+#22340
+#3 Fairway~
+By the sound of music blaring and the screams of the partiers, it's
+pretty obvious that you are getting very close to the caddyshack.
+Kids these days have no respect for anything.  Just as that thought
+crosses your mind, a beer bottle flies over the hedge and smashes
+into a nearby tree.
+~
+223 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 22341
+D6
+~
+~
+0 -1 22339
+S
+#22341
+#3 Sand Trap~
+Well, here is where the comotion is loudest.  It looks like a path
+has been worn down to the south directly into the hedge.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22340
+D2
+~
+hedge~
+2 -1 22390
+D3
+~
+~
+0 -1 22342
+S
+#22342
+#3 Fairway~
+At this point the fairway heads up to the green.  The cup is fairly easy
+to spot and it looks like this will be an easy shot.  You line up your
+club and swing!
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22341
+D7
+~
+~
+0 -1 22343
+S
+#22343
+#3 Green~
+You come to the green of the third hole.  The green is sloped away from the
+cup on the northwestern side.  It would be wise to take your time on this
+shot because it might just roll all the way back to the sand trap.
+~
+223 0 2
+0d0+0 0 0
+D8
+~
+~
+0 -1 22342
+D9
+~
+~
+0 -1 22344
+S
+#22344
+#4 Tee~
+Par 4.  375 yds.
+This is a shorter par 4 to give you a break from the last hole.  The
+fairway is flat as a pane of glass, except for the gopher trails here 
+and there.
+~
+223 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 22345
+D6
+~
+~
+0 -1 22343
+S
+#22345
+#4 Fairway~
+The fairway extends for a few hundred yards toward the green.  The small
+bumps in the fairway from where a gopher has been working can be seen.  It
+looks like he has been busy.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22344
+D3
+~
+~
+0 -1 22346
+S
+#22346
+#4 Green~
+The green of the 4th hole is fairly small with the cup in the center of
+it.  Like the fairway there is almost no slope, but it seems as though the
+gopher decided to leave this section of the course alone.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22345
+D7
+~
+~
+0 -1 22347
+S
+#22347
+#5 Tee~
+Par 4.  365 yds.
+This hole is a little more difficult than the last one because it has
+a dogleg right just in front of the green.
+~
+223 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 22348
+D8
+~
+~
+0 -1 22346
+S
+#22348
+#5 Fairway~
+The fairway extends quite a distance before it makes a sharp turn right
+before the green.  The leaves blow in the light wind as you scout out
+your next shot.
+~
+223 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 22347
+D6
+~
+~
+0 -1 22349
+S
+#22349
+#5 Green~
+This small green is much longer than it is wide.  The green is almost
+impossible to hit because of the sharp bend in the fairway just before
+it.  The shot from the green is very easy, probably to make up for the
+difficult fairway.
+~
+223 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 22350
+D9
+~
+~
+0 -1 22348
+S
+#22350
+#6 Tee~
+Par 3.  155 yds.
+This is the shortest hole on the course.  It should be an easy 6-iron or
+lower club to the green.  Birdie this one and move on.
+~
+223 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 22351
+D9
+~
+~
+0 -1 22349
+S
+#22351
+#6 Green~
+This green is shaded by the many trees on either side of it.  Many people
+mistake this green for an easy shot, but be carefull.  The ball tends to
+hook to the left because of the slight slope to the green.
+~
+223 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 22352
+D9
+~
+~
+0 -1 22350
+S
+#22352
+#7 Tee~
+Par 4.  420 yds.
+This is one of the longer par 4's on the course.  It has a straight
+fairway before doglegging right just before the green.  If you get a 4
+on this hole...count your blessings.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22353
+D9
+~
+~
+0 -1 22351
+S
+#22353
+#7 Fairway~
+You travel down a long fairway.  You start to decend into a small
+valley which ends right before the green.  The grass is slightly taller here
+for some unknown reason.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22354
+D3
+~
+~
+0 -1 22352
+S
+#22354
+#7 Fairway~
+The fairway bottoms out here at a small stream.  The fairway makes a
+sharp climb to the southeast where the large green is.  It does not look
+too bad at first, but then you realize that the slope is a little larger
+than you thought.
+~
+223 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 22353
+D8
+~
+~
+0 -1 22355
+S
+#22355
+#7 Green~
+From the green of the 7th hole you get a nice view of the fairway behind
+you.  It was quite a hike to get here, but it was worth it as you get
+to put for one under par.
+~
+223 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 22356
+D7
+~
+~
+0 -1 22354
+S
+#22356
+#8 Tee~
+Par 4.  405 yds.
+This is another decent length par 4.  Just make it through because the 
+9th hole is what you've been waiting for.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22357
+D9
+~
+~
+0 -1 22355
+S
+#22357
+#8 Fairway~
+A long and fairly strait fairway lies in front of you.  It has a few hills,
+but you have a strait shot to the green which is not too far away.  You take
+aim and fire away!
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22358
+D3
+~
+~
+0 -1 22356
+S
+#22358
+#8 Fairway~
+The fairway continues toward the green with only one small hill between
+you and the cup.  It looks like a very easy shot so you just go for it.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22359
+D3
+~
+~
+0 -1 22357
+S
+#22359
+#8 Green~
+The long and narrow green of the 8th hols slopes slightly to the west.  Be
+careful not to let it hook on you!  You take your time and then slowly pull
+the club back.  You hit the ball. . . .it's going! . . .going! . . . .IN!!!
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22360
+D3
+~
+~
+0 -1 22358
+S
+#22360
+#9 Tee~
+Par 4.  315 yds.
+This is an extremely short par 4.  A birdie is very much a possibility on
+this hole.  Finish up so we can get drunk before hole 10.
+~
+223 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 22359
+D8
+~
+~
+0 -1 22361
+S
+#22361
+#9 Fairway~
+The fairway bends slightly here.  Unfortunately your ball lands in 
+between two gopher ruts.  Luckily you manage to hit it well enough
+for it to land on the green.
+~
+223 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 22362
+D7
+~
+~
+0 -1 22360
+S
+#22362
+#9 Green~
+You have almost finished the front nine.  If you make this shot you will go
+into the back nine under par.  This is a major accomplishment considering
+all the gopher ruts.
+~
+223 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 22361
+D8
+~
+~
+0 -1 22327
+S
+#22363
+#10 Tee~
+Par 4.  385 yds.
+This is a decent warm-up hole to get the blood flowing again.  Don't
+get caught up by the easy look of this hole.   It can bite you.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22364
+D3
+~
+~
+0 -1 22327
+S
+#22364
+#10 Fairway~
+See?  I told you it could bite you.  Oh well, hopefully you can
+make it up on the next few holes.
+~
+223 16386 2
+1d1+199 90 0
+D1
+~
+~
+0 -1 22365
+D3
+~
+~
+0 -1 22363
+S
+#22365
+#10 Green~
+Ack!  What is up with all of these gopher ruts?  You make a mental
+note to complain to the management about the ruts when you get back
+to the clubhouse.  You see the 11th tee to the northeast.
+~
+223 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 22364
+D6
+~
+~
+0 -1 22366
+S
+#22366
+#11 Tee~
+Par 3.  195 yds.
+How about something a little easier for your next hole?  This is a short
+par 3 hole with nothing special about it.  Go to it.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22367
+D9
+~
+~
+0 -1 22365
+S
+#22367
+#11 Green~
+Wow!  Wasn't that an easy hole?  Why can't all of them be uncomplicated
+like this hole was?  For some reason there aren't many gopher tracks
+on this hole. 
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22368
+D3
+~
+~
+0 -1 22366
+S
+#22368
+#12 Tee~
+Par 5.  515 yds.
+This long, nasty hole has a huge dogleg left right in the middle of it.
+This hole isn't very long but will challenge the best of golfers.  
+Just when you thought you'd seen the last of the gophers, this hole is
+marked up by their trails.  Hmmm...must be getting closer to their den.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22369
+D3
+~
+~
+0 -1 22367
+S
+#22369
+#12 Fairway~
+This hole looks like it is going to be very difficult.  Oh well,
+you are still playing one of the best games of your life.  You
+can see the fairway to the northeast.
+~
+223 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 22368
+D6
+~
+~
+0 -1 22370
+S
+#22370
+#12 Fairway~
+Isn't that just your luck?  Your ball has landed in a big gopher
+rut.  You peer around to make sure noone is looking, and then kick
+the ball out of the rut.  Hey, who will know?
+~
+223 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 22371
+D9
+~
+~
+0 -1 22369
+S
+#22371
+#12 Green~
+Ah, you finally made it to the green!  Unfortunately, there is a
+gopher track directly between your ball and the hole.  You are
+starting to wonder if the tracks will ever end.  As you are
+progressing through the course, the tracks seem to get worse.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22372
+D9
+~
+~
+0 -1 22370
+S
+#22372
+#13 Tee~
+Par 4.  328 yds.
+This goes back to the simpler holes of earlier in the course.  It's a 
+par 4 with no doglegs in it.  You also notice that the gopher tracks are
+getting worse.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22373
+D3
+~
+~
+0 -1 22371
+S
+#22373
+#13 Fairway~
+As you walk towards your ball, you fail to notice a gopher track
+and fall on your butt.  You get up, curse out the grounds keeper,
+and continue on your way.  The green is to the east.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22374
+D3
+~
+~
+0 -1 22372
+S
+#22374
+#13 Green~
+As you limp onto the green, you start to wish for an end to
+this course.  Feeling a little foolish, you pray for the end
+of the gopher tracks.
+~
+223 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 22375
+D3
+~
+~
+0 -1 22373
+S
+#22375
+#14 Tee~
+Par 5.  485 yds.
+This is a shorter par 5 but it curves around a small lake.  Don't get
+nervous or your ball will surely hit the water.  I wouldn't say the gopher
+tracks are getting worse or anything, but the fairway looks like a 
+motocross track.
+~
+223 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 22374
+D7
+~
+~
+0 -1 22376
+S
+#22376
+#14 Fairway~
+You avoided the lake so far.  Unfortunately you did not miss the
+shrubbery.  As you crawl into the bushes to find your ball, you
+notice even more gopher tracks.  AUGH!  How many gophers _are_
+there on this course?  The fairway continues to the west.
+~
+223 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 22377
+D8
+~
+~
+0 -1 22375
+S
+#22377
+#14 Fairway~
+You finally made it around the shrubbery and the lake.  You are
+starting to wish that you had brought some Valium along.  Where
+is a doctor when you really need him?
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22376
+D3
+~
+~
+0 -1 22378
+S
+#22378
+#14 Green~
+Wow!  Your ball landed just a few inches away from the hole.  You
+are apparently starting to calm down, because your game is getting
+better.  Thankfully there were not many gopher tracks on this hole.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22377
+D9
+~
+~
+0 -1 22379
+S
+#22379
+#15 Tee~
+Par 3.  200 yds.
+This is a very short, very flat hole.  Well, flat that is except for the
+dozens of gopher tracks marking up the fairway.
+~
+223 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 22380
+D6
+~
+~
+0 -1 22378
+S
+#22380
+#15 Green~
+Well, wasn't this an easy hole?  Unfortunately, the gopher tracks
+made the hole a little harder for you.  The gopher tracks seem to
+be getting worse as you progress through the course.  
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22379
+D3
+~
+~
+0 -1 22381
+S
+#22381
+#16 Tee~
+Par 4.  355 yds.
+This hole is the worst you've seen on the course so far.  It is streaked
+and marked and has holes in it all over the place.  Something REALLY needs
+to be done about these gophers.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22380
+D3
+~
+~
+0 -1 22382
+S
+#22382
+#16 Fairway~
+Here is where the gopher tracks all seem to converge.  All of the tracks
+seem to meet close to one spot here.  Maybe you'd better take a closer
+look.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22381
+D3
+~
+~
+0 -1 22383
+D5
+~
+hole~
+2 -1 22394
+S
+#22383
+#16 Green~
+There are quite a few gopher tracks on the green.  Thankfully the
+tracks seem to be going towards the 16th fairway.  Hopefully you 
+will not see any more tracks before you're done.  This hole looks
+somewhat easier that the last hole.  You can see the 17th tee to
+the west.  
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22382
+D3
+~
+~
+0 -1 22384
+S
+#22384
+#17 Tee~
+Par 4.  420 yds.
+There are fewer gopher tracks here than there were on previous holes but
+the hole is still pretty marked up.  Don't step in a hole and hurt yourself
+because they're all over the place.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22383
+D2
+~
+~
+0 -1 22385
+S
+#22385
+#17 Fairway~
+This is a fairway, same as the others, with one distinction:  there is a
+gaping hole in the middle of the fairway big enough to drop a semi through.
+Looking down into it, the bottom is out of sight.  Better not go down there.
+~
+223 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 22384
+D2
+~
+~
+0 -1 22386
+D5
+~
+~
+0 -1 22397
+S
+#22386
+#17 Green~
+Apparently the big hole on the fairway did not screw up your shot.
+Wow, there are even a few gopher tracks on the green.  You would
+think that the club would try to keep the course in a better shape
+than this!  You are almost finished with the course.  The 18th tee
+is to the west.  You can barely see the 19th hole.
+~
+223 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 22385
+D3
+~
+~
+0 -1 22387
+S
+#22387
+#18 Tee~
+Par 4.  335 yds.
+This is an easy hole to finish up the course.  Let's hurry and finish
+this hole so we can go get smashed at the 19th hole.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22386
+D3
+~
+~
+0 -1 22388
+S
+#22388
+#18 Fairway~
+It appears that Bishop Bickering didn't quite make it to the green
+with his first try; he sliced it a little to the left.  Oh well, he
+should have an easy time getting his ball onto the green since this
+is one of the easiest holes on the course.  You can see the 19th
+hole from here.  The 18th green is to the southwest.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22387
+D9
+~
+~
+0 -1 22389
+S
+#22389
+#18 Green~
+Yes!  You finally made it to the 18th green.  If you finish up quickly,
+you can go into the clubhouse and have a few beers to celebrate your
+game.  The cartpath can be seen to the southwest.
+~
+223 0 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 22388
+D9
+~
+~
+0 -1 22327
+S
+#22390
+Gravel Path~
+It's pretty obvious that this gravel path is used pretty often.  Many
+bikes and motorcycles have frequented it.  Cigarette butts and beer
+bottles lie scattered about.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+hedge~
+2 -1 22341
+D2
+~
+~
+0 -1 22391
+S
+#22391
+Before the Caddyshack~
+Here the path makes a sharp right and the true horror of the situation
+becomes apparent.  These caddies have absolutely wrecked the place.  It
+looks like a barbarian horde passed through here recently.
+~
+223 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 22390
+D3
+~
+~
+0 -1 22392
+S
+#22392
+Caddy Lounge Area~
+Never in your life have you seen such a waste of skin.  A dozen caddies
+are lying around doing absolutely nothing but drinking and smoking pot.
+It's pretty obvious that there was a fight here recently because the
+gumball machine has been knocked over and its contents scattered every-
+where.  The door to where Lou, the head Caddy, works is locked and no
+one can find the key.
+~
+223 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22391
+D3
+~
+door~
+2 1 22393
+S
+#22393
+Behind the Cage~
+The cage door is finally open and Lou is free to go.  Even in his weakened
+condition he thinks that you are here to steal his money.  You'd better
+leave before you piss him off.
+~
+223 128 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22392
+S
+#22394
+A Dark Hole~
+As you crawl down the hole, you realize that you are going to need
+some light.  Fumbling through your pockets, you find your little
+flashlight that is attached to your keychain.  After turning the
+flashlight on, you notice that the tracks lead to the north.  Are
+you sure you want to find out where these tracks lead?
+~
+223 257 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22395
+D4
+~
+hole~
+2 -1 22382
+S
+#22395
+The Tunnel Widens~
+Well, your knees stopped shaking long enough for you to follow the
+tracks into this room.  You hear some strange sounds coming from
+the east.  Could you be close to finding out where these tracks lead?
+~
+223 257 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22396
+D2
+~
+~
+0 -1 22394
+S
+#22396
+The Den~
+You found out where those tracks led... into a gopher's den!  As
+you look at the gopher, you get an eerie feeling.  This gopher
+does not look very friendly.  You better leave its den unless you
+want to find out how mean the gopher can get.
+~
+223 257 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 22395
+S
+#22397
+The Deep Hole~
+You have fallen down into a very very deep hole.  Also, you have stumbled
+into one of the most obvious death traps ever designed.  Just as you
+feel your face flush with embarrassment, 3 gophers poke their heads 
+through the dirt and laugh at you.  Don't you feel rotten? 
+~
+223 24707 0
+1d1+199 90 0
+S
+#22398
+The Pool~
+Well, this place WOULD be a great place to swim if there were any water.
+The pool was drained because there was a...well, something in the pool that
+we won't get into.
+~
+223 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 22323
+S
+#22399
+Quaint wedding chapel in the hills.~
+You now stand in a small wedding chapel nestled in between the rolling
+hills of a distant land.  The small chamber is lined with pews that are
+strewn with lace and white ribbons down the aisle.  A stained glass window
+allows the sun's rays into the chapel and makes the room dance with color
+so beautiful that your heart sings with joy.
+~
+223 131216 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3001
+S
+$

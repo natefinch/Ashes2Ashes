@@ -1,0 +1,303 @@
+#18900
+chirurgeon chir chi chirur chirurg chirurge chirurgeo~
+the garrison chirurgeon~
+The chirurgeon for the Garrison stands here, ready to treat the wounded.
+~
+~
+8202 196608 0 W2
+50 35 -30 100d1+2500 4d4+2
+0 20000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-300 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18901
+watchman watch man watchma watchm watc wat~
+a watchman~
+A watchman is standing here, keeping an eye out for trouble.
+~
+A watchman of the Garrison stands before you. He appears to be in peak
+physical condition from years of hard duty. The guard is engrossed in
+searching the distance for any signs of trouble.
+~
+14410 0 1000 W2
+30 15 -14 100d5+720 2d3+7
+750 32000
+8 8 1
+18 0 13 13 13 13 0
+0 2 2
+-140 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18902
+guard guar gua ~
+a guard~
+A Garrison guard stands here, ensuring all is well in the camp.
+~
+The guard looks like he has been well trained in all forms of warfare.
+Perhaps you should just pass by without causing any trouble.~
+4296 0 1000 W2
+15 7 -2 100d1+275 2d6+3
+350 1750
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#18903
+soldier soldie soldi sold sol~
+a soldier~
+A Garrison soldier is here, quietly going about his duties.
+~
+The soldier appears not to care whether or not you exist.
+~
+4296 0 1000 W2
+15 7 -2 100d1+275 2d6+3
+150 2200
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#18904
+soldier soldie soldi sold sol garrison garriso garris garri garr gar~
+a garrison soldier~
+A Garrison soldier stands here regarding you with a look of distaste.
+~
+A soldier of the Garrison stands before you. It looks as though he would
+quite enjoy a duel to the death with you.
+~
+30792 40 750 W2
+30 15 -10 100d5+720 1d21+0
+500 12000
+8 8 1
+18 0 13 13 13 13 0
+0 2 2
+-100 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18905
+guard guar gua garrison garriso garr garri gar~
+a garrison guard~
+A Garrison guard is here, keeping a suspicious eye on your every move.
+~
+The Garrison guard looks as though he'd be happy to catch you in an illegal
+act. He does not appear to be in the greatest of moods.
+~
+30792 40 750 W2
+30 15 -14 100d5+720 4d4+1
+850 12000
+8 8 1
+18 0 13 13 13 13 0
+0 2 2
+-140 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#18906
+gate guard gateguard~
+the gateguard~
+A gateguard halts you before the gate of the garrison.
+~
+This man looks TOUGH. He stands outside... alone... to keep intruders
+out of the garrison. He seems to be looking for something that you might
+have.  ~
+4491531 0 750 W2
+75 40 -15 1d1+5000 3d10+20
+350 50000
+0 0 0
+13 0 13 13 13 13 0
+20 3 2
+-150 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18907
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18908
+commander commande command comman comm com~
+the Garrison commander~
+The Garrison Commander is here ensuring all is secure.
+~
+This man looks as though he could rip you in half with his bare hands.
+It might be a wise move not to mess with him.
+~
+28682 0 1000 W2
+100 40 -24 1d1+8000 5d5+50
+50000 250000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-240 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18909
+soldier soldie soldi sold sol~
+a soldier~
+A soldier of the Garrison is here.
+~
+The soldier appears not to care whether or not you exist.
+~
+4296 0 1000 W2
+15 7 -2 1d100+5 2d6+3
+150 2200
+1 2 1
+13 0 13 13 13 13 0
+0 2 2
+-20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+#18910
+cook ~
+a cook~
+The garrison cook stands here, stirring a large pot of stew.
+~
+This man looks as if he's cooked all of his life. He is small, yet has
+something in his eye that makes you respect him. He has a sly grin
+upon his face. Is ti that he knows whats in the pot, and you're not sure?
+~
+139 0 500 W2
+20 11 -5 5d100+0 1d15+0
+100 2000
+8 8 1
+13 0 13 13 13 13 0
+5 2 2
+-50 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#18911
+master maste mast mas watch wat watc~
+the master of the watch~
+The master of the watch is here studying the skyline for signs of trouble.
+~
+The master of the watch has a weather beaten face from years of performing
+his look-out duties. He appears to be quite tough and has a spark to his
+eyes that makes you feel a little nervous.
+~
+4170 65592 1000 W2
+45 35 -19 100d1+1200 7d7+0
+7500 25000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-190 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#18927
+~
+~
+~
+~
+8 0 0 W2
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#18997
+~
+~
+
+~
+The Pitmaster has yet to be defeated in The Pit. He stands an incredible
+8 feet tall and looks like he could rip you in half with one hand. There
+is a strange grin spreading across his face...Looks like this could be the
+end of the line for you. Good Luck!
+~
+12137 17563816 0 W2
+55 35 -20 100d20+25 7d7+15
+165000 250000
+8 8 1
+18 0 18 18 18 18 0
+17 5 2
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#18998
+challenger, challeng, chal, cha, chall~
+the challenger~
+The Pitmaster glowers at you as he prepares to rip your head off.
+~
+The Pitmaster has yet to be defeated in The Pit. He stands an incredible
+8 feet tall and looks like he could rip you in half with one hand. There
+is a strange grin spreading across his face...Looks like this could be the
+end of the line for you. Good Luck!
+~
+12137 17563816 0 W2
+50 35 -20 100d20+25 9d9+19
+150000 250000
+8 8 1
+18 0 18 18 18 18 0
+17 5 2
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#18999
+dragon oracle aal golden~
+the Oracle of Aal~
+An enormous golden dragon lies within the shadows.
+~
+This once was the great dragon Ryath. After her battle with a demon dreadlord,
+great magic was used to bring the ancient Oracle of Aal to this world.
+Now in the form of the great dragon, the Oracle can continue to assist those
+trying to protect Midkemia.
+~
+10 1152 500 W2
+1 0 0 1d1+0 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+$

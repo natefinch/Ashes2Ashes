@@ -1,0 +1,2105 @@
+#18500
+The Mountain Village of Shamata~
+This is the north entrance to the village cursed with a plague. A road
+lies to the north, which you are truly grateful to see. Where it will
+take you, you don't know, but you are sure it will be better than the 
+misery lived by so many in this village. It stands to reason that you
+would much rather deal with any fate other than a deadly disease.
+~
+185 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18528
+S
+#18501
+Shamata's Central Square~
+This square used to be the site of a merry festival long ago. The proud
+people of this town used to celebrate the harvests of herbs and berries
+that grew so abundantly in these mountains. But that is now a long distant
+memory. The ghosts of those who lived happily in this village so long
+ago flood your thoughts. You can almost see the revelry of people dancing
+around the town well that stands here unkempt.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18525
+D1
+~
+~
+0 -1 18520
+D2
+~
+~
+0 -1 18513
+D3
+~
+~
+0 -1 18519
+S
+#18502
+A Foodstuffs Stand~
+As you approach the stand you see a small lady behind the counter. There
+are small fires burning with pots hanging above them. A wonderful odor
+eminates from the pots. Sacks of rice and flour are piled around the side
+of the stand. Fruits and vegetables have been placed on the counter for
+sale, although they look too old to eat.
+~
+185 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18520
+D3
+~
+~
+0 -1 18525
+S
+#18503
+Jandor's Shop~
+You have entered the shop of Jandor Cullen, the most unorganized person
+in the village. Jandor is a handyman around the village, for he never
+was smart enough to learn a trade. His tools lie about the small building
+scattered, and usually, he can be found sleeping on his desk.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18520
+D3
+~
+~
+0 -1 18513
+S
+#18504
+The Village Stables~
+Here is a small stable used by the entire village for thier beasts of
+burden and thier riding animals. There are seven stalls on both sides
+from where you stand in this horrid smelling structure. The baying of
+mules and the snorts of oxen fill your ears.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18519
+D1
+~
+~
+0 -1 18513
+S
+#18505
+The Dairyman's Shop~
+As you enter, your nose is filled with the strong smell of many varieties
+of cheeses. You see a short, stocky fellow sealing cheese in wax at a table
+toward the back. Rows of large milk cantainers line the walls. This 
+looks quiant enough...
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18514
+S
+#18506
+The Antique Shop~
+This shop has been closed for quite some time. You believe that it must
+have failed soon after it was opened. This is a small village and there
+is little demand for such luxuries. There are many beautiful things left
+here unkempt...
+~
+185 8 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 18514
+S
+#18507
+A Charred Building~
+You have entered a charred, smoldering building. Smoke rolls impatiently
+from cracks in the burned wood and cloth. It seems that no less than a
+day ago this was a shop of some kind. You see burned barrels and stores
+lying aroung the room, thier contents unrecognizable. The smoke begins
+to choke you and your eyes begin to burn.
+~
+185 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18525
+D2
+~
+~
+0 -1 18519
+S
+#18508
+The Home of a Healer~
+You have entered the home of Taelok Jaalon. For many years he has cured the
+sick, healed the injured, and eased the pain of suffering. His learning
+came from his father, who before him learned from his father. The Jaalon
+family saw most of the village inhabitants born in this very house.
+Now, he lies upon his bed dying, with a wealth of knowledge that cannot
+save him, and that will perish forever with him. You see numerous books
+on the wall. Flasks of liquids stand covered in dust from days of unuse.
+You see a fireplace on the wall, and Jaalon lying in his bed.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+door~
+1 -1 18528
+E
+herbs~
+There are sprigs of rosemary, jasmine, lilac, and dill lying in seperate
+piles. The other herbs are crushed together in a small stone bowl. They
+give off quite an aroma.~
+E
+fire fireplace hearth~
+In the fireplace there is a pot. It seems he was cooking something. The fire
+is smoldering now, for it hasn't been stoked for a long time.
+~
+E
+pot~
+In the pot seems to be a potion of some sort... maybe a first-try cure..
+~
+E
+books~
+=====       ===     ===       =====
+|===||=====||*||===||^||=====||---|
+| A ||{} {}||T|| M ||S||-----|| N |
+| L ||  M  ||R|| U ||H||  L  || O |
+| C ||  U  ||A|| S ||A||  E  || V |
+| H ||  S  ||D|| I ||M||  G  || I |
+| E ||  I  ||E|| C ||A||  E  || N |
+| M ||  C  || ||   ||T||  N  || D |
+| Y ||  A  ||A|| A ||A||  D  || U |
+|   ||  L  ||G|| N || ||  S  || S |
+|   ||  S  ||R|| D || ||     ||   |
+|   ||     ||E||   || ||     ||   |
+|   ||     ||E||   || ||     ||   |
+|   ||     ||M|| A || ||     ||   |
+|   ||     ||E|| R || ||     ||   |
+|   ||     ||N|| T || ||     ||   |
+|   ||     ||T||   || ||     ||   |
+|===||{} {}||*||   ||^||-----||---|
+|===||=====||=||===||=||=====||===|
+~
+E
+trade agreement~
+You open the book to a page where you find the following passage...
+
+     "The trade of such goods as stated above shall be items
+      of free trade between the said parties. Should this
+      agreement be violated, punishment will ensue as to
+      be devastating to Shamata. Through this agreement, both
+      parties will progress and prosper. The items the Shamata
+      will provide will be used in magical research, in which
+      we reserve the rights not to disclose to Shamata at any
+      point in time.
+      Other items that Shamata will provide for our services are
+      as follows...
+
+      Necrum Root, Bresit Vine, Zlis Leaf, Perat Buds, and Dark Root.
+
+      As to the Emerald Queen's services, you or noone else will see
+      the physical presence of it here. The village will be protected
+      from all manner of life forms with the intent of harm to the
+      Village of Shamata. As mentioned above, a break in this
+~
+E
+trade agreement~
+You find the following passage...
+
+ SUMMARY
+
+     " The Queen will provide Shamata with protection from
+       all harm as long as the village complies with this 
+       agreement. Her presence will neither be seen nor
+       heard, but you will see it's effects. If the 
+       agreement is breached for any reason, intentional or
+       unforseen, punishment will befall Shamata. All
+       inhabitants will be affected.
+
+       Items that must be sent immediately....
+
+       Dark Root, Martic Vine, Zlis Leaf, Ghem Root
+~
+E
+legends~
+You open the book to the following passage....
+
+      "Elvandar is the legendary city in the trees. The
+       Queen of the Elhedel, Algaranna, is said to reside
+       upon her throne there. Great elven weapons are said
+       to be produced there with the greastest of powers,
+       and made by the most skilled of hands. The city is 
+       said to glow with colored auras eminating from the 
+       trees, and the sound of work are as music."
+~
+S
+#18509
+A Corpse-Filled, Abandoned House~
+As you walk into this room, the stench of rotting flesh hits you
+square across the face. It is quite dark in here. As your eyes adjust to
+the dim light, you begin to notice details. You see the outlines of
+broken furniture, wasting away in a long since dead dwelling. You hear
+the sounds of flies buzzing about the room, and something scuffling
+across the floor. You see something piled agaist the far wall.
+~
+185 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 18528
+E
+something pile wall~
+Across the room the corpses are pile against the wall. There must be
+twenty dead people lying there. Rats and flies cover them in a living,
+crawling, pestulent sheet. Their faces are decayed beyond recognition.
+God, some of them are children...~
+S
+#18510
+In the Village of Shamata~
+Plagued, huh? Looks normal enough, poeple and animals everywhere...
+It doesn't matter that they are lying on the ground... maybe they are
+just tired. Yeah, that's it. Tired. You smell a hint of rotten flesh
+an smoke to the north. Heh, this could be cool.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18514
+D8
+~
+~
+0 -1 18346
+S
+#18511
+Before the Garrison~
+You are standing before a medium sized Garrison. It looks as though it
+could withstand a fairly sizable attack as it has been constructed from
+solid rock. You notice that a moat surrounds the entire Garrison and
+wooden spikes have been placed along the outside edge of the moat. 
+You get the strange feeling that you are being watched...
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18523
+D3
+A drawbridge is pulled up for protection. ~
+drawbridge draw bridge brid bri ~
+2 18599 18900
+S
+#18512
+A Common Villager's Home~
+You see the usual, a small hearth, a table, wooden bowls. You see a bag full
+of smelly herbs. In the corner are two beds, small, yet comfortable. These
+people weren't rich, but they were content.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+dooor~
+1 -1 18518
+S
+#18513
+On the Road through Shamata~
+You can feel the despair in the atmosphere as you wander about the town.
+You have never seen such misery in the eyes of small children, for
+thier loved ones have left them without hope. Is there anything you can 
+do to save this once-beautiful mountain city? It seems hopeless.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18501
+D1
+~
+~
+0 -1 18503
+D2
+~
+~
+0 -1 18514
+D3
+~
+~
+0 -1 18504
+S
+#18514
+On the Road through Shamata~
+You begin to wonder if you haven't made a mistake coming to this town.
+From the looks of things, you may never forget this place, and you
+really don't want to remember it. To the east is an antique shop, 
+maybe you can find some answers there, who knows, there may be something
+of use there also. A sign hangs on the fallen over door.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18513
+D1
+~
+~
+0 -1 18506
+D2
+~
+~
+0 -1 18510
+D3
+~
+~
+0 -1 18505
+E
+sign~
+                                          '
+                                        /   \
+                                       /  s  \
+                                      /  e  /
+                                     /  u  /
+                                    /  q  /
+                                   /  i  /
+                                  /  t  /
+                                 /  n  /
+                                /  A  /
+                                \    /
+                                 \  /
+                                  \/
+~
+S
+#18515
+A Common Villager's Home~
+You see the usual, a small hearth, a table, wooden bowls. You see a bag full
+of smelly herbs. In the corner are two beds, small, yet comfortable. These
+people weren't rich, but they were content.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18521
+S
+#18516
+A Common Villager's Home~
+You see the usual, a small hearth, a table, wooden bowls. You see a bag full
+of smelly herbs. In the corner are two beds, small, yet comfortable. These
+people weren't rich, but they were content.
+~
+185 8 1
+0d0+0 0 0
+D7
+~
+door~
+1 -1 18521
+S
+#18517
+The Street Leading to the Kingdom Garrison~
+This path has been well travelled. The Kingdom soldiers march through here
+every day to perform thier duties. The garrison being so close to the
+Vale of Dreams, a disupted border between the Kingdom and Kesh, it sees
+it's share of action. It has been peaceful here, despite the plague,
+due to the negotiations between the Kingdom and Kesh.
+~
+185 4 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18518
+D3
+~
+~
+0 -1 18523
+S
+#18518
+On a Street Surrounded by Homes~
+This was once a playground for young children, the common square between homes.
+Now the children are sick and lonely, horrified by the death surrounding them.
+Many have become orphans and will soon die from starvation, if the inevitable
+doesn't happen first. You are surrounded by homes.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18524
+D1
+~
+~
+0 -1 18519
+D2
+~
+door~
+1 -1 18512
+D3
+~
+~
+0 -1 18517
+S
+#18519
+A Street in Shamata~
+The celebrations used to continue throughout these streets. Now, only ghosts
+from the past celebrate here, in the hearts and minds of the few that are
+left. Noone could have foretold the horror that has visited this small
+mountain village. To the north the stench of smoke fills the air.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18507
+D1
+~
+~
+0 -1 18501
+D2
+~
+~
+0 -1 18504
+D3
+~
+~
+0 -1 18518
+S
+#18520
+On a Street in Shamata~
+You now stand on the east side street in Shamata. Things look pretty bleak 
+for the people in this village. To the north is a vegetable stand. You 
+wonder how good the produce can be with things the way they are here.
+You can see homes futher to the east.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18502
+D1
+~
+~
+0 -1 18521
+D2
+~
+~
+0 -1 18503
+D3
+~
+~
+0 -1 18501
+S
+#18521
+On a Street Surrounded by Homes~
+This is the easternmost part of the village. You are surrounded by homes of
+the people of this tragedy. Where there should be children playing, there
+are none. Where there should be people working, there are none. Where there
+should be peace and comfort, neither reside....
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18526
+D1
+~
+door~
+1 -1 18522
+D2
+~
+door~
+1 -1 18515
+D3
+~
+~
+0 -1 18520
+D6
+~
+home~
+1 -1 18527
+D8
+You see a wooden door. ~
+wooden~
+1 -1 18516
+S
+#18522
+The Head of the Village Council's Home~
+This home is not much larger than the rest. It seems that everyone was
+pretty much equal here. You see the same here as the other homes, with the
+exception of an extra bed, and a book on the table.
+~
+185 8 1
+0d0+0 0 0
+D3
+~
+door~
+1 -1 18521
+E
+book~
+You open the book to the last written page...
+
+     "The council has decided to end trade with Novindus.
+      I understand that this will bring dire consequences
+      upon us. Still, we have betrayed our lands unknowingly,
+      we have betrayed ourselves and our prosperity, as have we
+      been betrayed by the Emerald Queen. I know that soon 
+        death comes upon us. Still, I am comforted knowing that
+      the world will not suffer for our stupidity any longer.
+      May we have the strength to endure what we have brought
+      upon ourselves....
+~
+S
+#18523
+The Street Leading to the Kingdom Garrison~
+This path has been well travelled. The Kingdom soldiers march through here
+every day to perform thier duties. The garrison being so close to the
+Vale of Dreams, a disupted border between the Kingdom and Kesh, it sees
+it's share of action. It has been peaceful here, despite the plague,
+due to the negotiations between the Kingdom and Kesh.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18517
+D3
+~
+~
+0 -1 18511
+S
+#18524
+A Common Villager's Home~
+You see the usual, a small hearth, a table, wooden bowls. You see a bag full
+of smelly herbs. In the corner are two beds, small, yet comfortable. These
+people weren't rich, but they were content.
+~
+185 8 1
+0d0+0 0 0
+D2
+~
+door~
+1 -1 18518
+S
+#18525
+On the Road through Shamata~
+You have decided you really shouldn't be here. Plagues aren't your idea
+of a good time. Not to mention, these people aren't really in a "party"
+mood, what with dying and all...You notice a burned building to the
+west. It is still smoldering. It had to have been burned recently. You
+wonder about the fate of those who dwelt inside.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18528
+D1
+~
+~
+0 -1 18502
+D2
+~
+~
+0 -1 18501
+D3
+~
+~
+0 -1 18507
+S
+#18526
+A Common Villager's Home~
+You see the usual, a small hearth, a table, wooden bowls. You see a bag full
+of smelly herbs. In the corner are two beds, small, yet comfortable. These
+people weren't rich, but they were content.
+~
+185 8 1
+0d0+0 0 0
+D2
+~
+door~
+1 -1 18521
+S
+#18527
+A Common Villager's Home~
+You see the usual, a small hearth, a table, wooden bowls. You see a bag full
+of smelly herbs. In the corner are two beds, small, yet comfortable. These
+people weren't rich, but they were content.
+~
+185 8 1
+0d0+0 0 0
+D9
+~
+home door~
+1 -1 18521
+S
+#18528
+On the Road through Shamata~
+You stand in the street of Shamata. To the east is a home, it looks deserted
+for quite some time now. You smell the stench of death eminating from that
+direction. There is a small shop to the west. A sign hangs above the door
+and a note is posted upon it. It is a small one room building in which
+a healer resides. You wonder what went so wrong that he couldn't save these
+suffering people.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18500
+D1
+~
+~
+0 -1 18509
+D2
+~
+~
+0 -1 18525
+D3
+~
+door~
+1 -1 18508
+E
+sign~
+                |===========================|
+                |    T. Jaalon - Healer     |
+                |===========================|
+~
+E
+note~
+My people of Shamata, I regret to inform you that I can aid you no longer.
+I, too have contracted the disease of this cursed town. I am too weak
+too afford such activities. Our olny hope is that Lims-Kragma will have
+mercy upon our souls and that our children will be able to free them-
+selves from this curse. I now bis you farewell, for I fear these are
+the last words I will speak in this life.
+
+                                              Farewell Good People,
+                                              Taelok Jaalon~
+S
+#18529
+Ravensburg's Main Street~
+A charming little town, this Ravensburg. Calm, uiet, peaceful. You feel
+that something important began here, although you have no clue as to what
+it was. The buildings are small, yet livable. The shops are kept nicely.
+The people are friendly enough. You may grow to like this town.
+There is a small sign here.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18532
+D1
+~
+~
+0 -1 18530
+D2
+~
+~
+0 -1 18474
+E
+sign~
+                     --------------------------
+                     |  WELCOME TO RAVENSBURG |
+                     --------------------------
+                                |  |
+                                |  |
+                                |  |
+                                |  |
+~
+S
+#18530
+The Town Forge~
+As you enter this building, you notice that it looks somewhat like a barn.
+Hay covers the dust that makes up the floor. There are square posts supporting
+a high thatched roof. Articles of leather hang upon the posts. There is a 
+large metal forge to the right made from stone and covered with plaster.
+It burns inside with and intensity that you would find only in a dragon's
+breath. A large wooden table stands here with various tools lain upon it.
+Barding for horses and farm tools lie around insistently waiting to be
+repaired. Eric, the smith apprentice, doesn't seem to be anywhere around.
+~
+185 131080 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18531
+D1
+~
+~
+0 -1 18557
+D3
+~
+~
+0 -1 18529
+D4
+~
+loft~
+1 -1 18558
+S
+#18531
+The Pintail Inn~
+This is the Pintail Inn. Eric grew up here, living with his mother and
+the Innkeeper, who was the closest thing he had to a father while growing
+up. There is a large hearth and fireplace against the wall, with a huge
+kettle of stew simmering fragrantly. Bread dough has been placed in
+sealable cast iron containers and put under the hot coals to bake.
+Visitors are sitting about the six tables here, enjoying a meal,
+drinking, and talking amongst themselves.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18540
+D1
+~
+~
+0 -1 18585
+D2
+~
+door~
+1 -1 18530
+D3
+~
+~
+0 -1 18532
+S
+#18532
+Ravensburg's Main Street~
+A charming little town, this Ravensburg. Calm, quiet, peaceful. You feel
+that something important began here, although you have no clue as to what
+it was. The buildings are small, yet livable. The shops are kept nicely.
+The people seem friendly enough. You may grow to like this town.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18539
+D1
+~
+~
+0 -1 18531
+D2
+~
+~
+0 -1 18529
+S
+#18533
+A Commoner's Home~
+This is a usual home of a Krondorian. Just a small one room building, with the 
+necessary furnishings and a large hearth. You aren't sure how long you should
+stay, for this isn't your home, and you weren't invited inside.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18538
+S
+#18534
+A Commoner's Home~
+This is a usual home of a Krondorian. Just a small one room building, with the 
+necessary furnishings and a large hearth. You aren't sure how long you should
+stay, for this isn't your home, and you weren't invited inside.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18537
+S
+#18535
+A Commoner's Home~
+This is a usual home of a Krondorian. Just a small one room building, with the 
+necessary furnishings and a large hearth. You aren't sure how long you should
+stay, for this isn't your home, and you weren't invited inside.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18536
+S
+#18536
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18537
+D2
+~
+door home~
+1 -1 18535
+D3
+~
+~
+0 -1 18477
+S
+#18537
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18538
+D2
+~
+door home~
+1 -1 18534
+D3
+~
+~
+0 -1 18536
+S
+#18538
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18539
+D2
+~
+door home~
+1 -1 18533
+D3
+~
+~
+0 -1 18537
+S
+#18539
+The Crossroads~
+You have stepped into the middle of the crossroads that connect Darkmoor
+with other baronies near it. From here a road leads in each direction,
+taking you wherever you want to go, and to all the adventure you can
+handle.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18546
+D1
+~
+~
+0 -1 18540
+D2
+~
+~
+0 -1 18532
+D3
+~
+~
+0 -1 18538
+S
+#18540
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18545
+D1
+~
+~
+0 -1 18541
+D2
+~
+~
+0 -1 18531
+D3
+~
+~
+0 -1 18539
+S
+#18541
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18544
+D1
+~
+~
+0 -1 18542
+D3
+~
+~
+0 -1 18540
+S
+#18542
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 18541
+S
+#18543
+Roo's Room~
+This used to be Rupert's room. Everyone called him Roo for short. His
+father was wealthy by Ravensburg standards, a merchant by trade. Roo
+was a small boy, and they became extremely close after Eric began
+taking up for the boy, as Eric was a very muscular youth. Roo was
+known as quite a thief by his freinds, and this room is full of
+"aquired" trinkets.
+~
+185 0 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 18544
+S
+#18544
+Rupert Avery's Home~
+Rupert Avery lived here with his parents before he and his best friend
+Eric got into trouble for killing Stephan, the Baron's son and Eric's
+half brother. The two had been friends ever since they could remember.
+Now they are both gone, and noone knows what was done with them.
+~
+185 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18543
+D2
+~
+~
+0 -1 18541
+S
+#18545
+The General Store~
+This is where you can buy odds and ends of all kinds. Travellers need
+all manners of item while travelling. You can buy food to carry with
+you or some of the town's excellent wine. You look about, wondering if
+there is anything you would like...
+~
+185 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18540
+D3
+~
+~
+0 -1 18546
+S
+#18546
+Ravensburg's Main Street~
+As you continue walking, you notice a large building to the west. It is made
+of brick and is surrounded by a four foot iron fence. It has large windows
+on the front and seems to be very important. The grocer is to the east
+where you will find interesting products of this Barony, and some excellent
+wine.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18553
+D1
+~
+~
+0 -1 18545
+D2
+~
+~
+0 -1 18539
+S
+#18547
+The Parlor~
+This is where Otto's and Mathilda's courthship took place. Although they
+had been betrothed at a late age, courtship was still a custom. It was
+a weary task for Otto, for he never loved his wife. His true love for
+Freida, Eric's mother, was never publicly proclaimed, for fear of
+disgrace to the upcoming Baroness.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18552
+D3
+~
+~
+0 -1 18548
+S
+#18548
+The Bottom of a Flight of Stairs~
+You stand before a flight of stairs leading upward. It is made of walnut
+deeply stained and crafted by a skilled hand. The stairs spiral up to
+the second floor.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18547
+D4
+~
+~
+0 -1 18592
+S
+#18549
+The Pantry~
+You look about this small, dimly lit room and see that food is stacked
+upon shelves that line all four walls. Maybe you could find a snack to take
+along with you on your journey.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18550
+S
+#18550
+The Kitchen~
+Of course, this is the place where the Baron's family is prepared their
+meals. But is also more, for the gossip of the town that passes here is
+rivaled only by the youthful gossip at the town fountain.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18582
+D1
+~
+~
+0 -1 18551
+D2
+~
+~
+0 -1 18549
+S
+#18551
+The Dining Hall~
+In this room there is a candle chandalier hanging above a heavy, finely
+crafted dinner table. This is where the noble family recieves it's meals
+each night. Many a long stare has been passed about this table by it's
+owners.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18552
+D3
+~
+~
+0 -1 18550
+S
+#18552
+The Baron of Darkmoor's Home~
+You have entered the home of the Otto von Darkmoor. You stand in the
+entryway of this comparativly large home. This is where he resides along with
+his two legitimate sons, Stephan and Manfred, and his wife, the Baroness
+Mathilda. Despite the repeated attempts by Eric's mother by questioning
+Otto publicly to claim Eric, he never did. But he never denied it, and
+that has always been a thorn in the Baroness's side.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18580
+D1
+A set of large wooden double doors stand in your way.
+~
+large wooden double door doors~
+1 -1 18553
+D2
+~
+~
+0 -1 18547
+D3
+~
+~
+0 -1 18551
+S
+#18553
+Standing Before the Home of the Baron~
+Before you stands the home of the Baron of Darkmoor, Otto von Darkmoor.
+He and his wife, along with their two sons reside in this large home.
+The Baron's carriage awaits the command from the Baron to depart,
+while a team of draft horses is being hitched to it. The home is two
+stories tall, a rarity in the small town, and is made of red brick.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18579
+D1
+~
+~
+0 -1 18554
+D2
+~
+~
+0 -1 18546
+D3
+A pair of large wooden double doors stand in your way. ~
+doors large wooden double~
+1 -1 18552
+S
+#18554
+Darkmoor Guard's Headquarters~
+This is the headquarters of the Baron's guard. All dispatches are routed
+through this small building. All guards report here each day for assignments.
+Runners hustle and scamper around seeing that the Baron's orders are issued
+with precision and speed.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18555
+D3
+~
+~
+0 -1 18553
+S
+#18555
+The Guard's Bar~
+This is where seasoned soldiers tell of their great conquests and victories
+over impossible foes. The soldiers coming in from a hard day's duty are
+sitting around tables having a tankard of ale, unwinding from the rigors
+of military life. This is not a good place to start a fight.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18556
+D3
+~
+~
+0 -1 18554
+S
+#18556
+The Practice Yard~
+This is where inexperience soldiers get their first taste of battle, and
+experienced soldiers hone their skills with their comrades. Mock battles
+take form here each and every morning and afternoon. Blood does sometimes
+get spilled upon occasion, but is rarely intentional.
+~
+185 0 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 18555
+S
+#18557
+The Inn's Stables~
+This is where the horses and mules are kept for the guests of the Inn.
+Animals are lashed in stalls all around you. The smith's apprentice, Eric
+von Darkmoor is said to be the best caretaker of horses ever known. At
+the age of 15, it was said he could make a lame mule work again. But the
+bastard son of the Baron is nowhere to be found.
+~
+185 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18583
+D3
+~
+~
+0 -1 18530
+D4
+~
+crack~
+1 -1 18425
+S
+#18558
+The Loft of the Forge~
+As far back as he could remember, this had been Eric's room. You see
+a bed fashioned from hay covered by a large dining cloth. Eric used
+to lie here and dream of having his own forge one day, and being
+the master smith of Ravensburg, although his mother had her own ideas
+for his future. She would try to have the Baron recognize him as heir
+to Darkmoor until the day the Baron died. But the name von Darkmoor
+was never denied him by his father.
+~
+185 8 1
+0d0+0 0 0
+D5
+~
+loft~
+1 -1 18530
+S
+#18559
+The Winery's Grape Storage~
+The aroma in this room is incredible. Beautiful odors of the grapes for
+Darkmoor wine float about the room. The scent, you can see, comes from the
+great sealed crates lined upon the walls and stacked all over this large
+room. They are filled on wagons in the grape fields and carted here to
+await their transformation.
+~
+185 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18560
+D2
+~
+~
+0 -1 18562
+S
+#18560
+The Winery Vats~
+This is where the delicacy is transformed from crude fruit to a delicate,
+delicious drink. The vats are made of plates of wrought iron, and stand
+twelve feet tall. They are eight feet in diameter. There are seven
+vats standing in this room.
+~
+185 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 18561
+D3
+~
+~
+0 -1 18559
+S
+#18561
+The Wine Storehouse~
+This is where the wine is aged. Great casks of mohogany are rotated in
+and out according to their age. A metal pipe runs from the vats to a pump
+here in this room, from which the casks are filled. The casks are set
+into shelves cut to a round shape, to keep the barrels from shifting.
+There are twelve such shelves, each full of sweet wine
+~
+185 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18564
+D3
+~
+~
+0 -1 18560
+S
+#18562
+The Office of the Ravensburg Winery~
+This is where all of the wine is produced in Ravensburg. Darkmoor is
+famous for all of it's sweet wines. This is the office that governs
+the making of such a great pleasure. Maps of destinations for the red
+liquid are posted upon the walls, and orders are being processed by
+the few who can read.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18559
+D1
+~
+~
+0 -1 18563
+S
+#18563
+At the End of the Street~
+You have come to a dead end. You look around and see a huge building in
+front of you. It is the largest building in Ravensburg. It is the
+great winery. The economic backbone of this small town.
+~
+185 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18564
+D2
+~
+~
+0 -1 18568
+D3
+~
+~
+0 -1 18562
+S
+#18564
+The Winery's Sales and Shipping~
+This is where merchants from all around come to buy the wine of Darkmoor.
+Casks are put on carts from the storehouse and wheeled out to the
+merchant's awaiting carriage. The amount of wine that has left these
+is unimaginable, for wine has been made here as long as the bards have
+sung it's history.
+~
+185 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18561
+D3
+~
+~
+0 -1 18563
+S
+#18565
+A Commoner's Home~
+This is a usual home of a Krondorian. Just a small one room building, with the 
+necessary furnishings and a large hearth. You aren't sure how long you should
+stay, for this isn't your home, and you weren't invited inside.
+~
+185 8 1
+0d0+0 0 0
+D2
+~
+door~
+1 -1 18570
+S
+#18566
+A Commoner's Home~
+This is a usual home of a Krondorian. Just a small one room building, with the 
+necessary furnishings and a large hearth. You aren't sure how long you should
+stay, for this isn't your home, and you weren't invited inside.
+~
+185 8 1
+0d0+0 0 0
+D2
+~
+door~
+1 -1 18571
+S
+#18567
+A Commoner's Home~
+This is a usual home of a Krondorian. Just a small one room building, with the 
+necessary furnishings and a large hearth. You aren't sure how long you should
+stay, for this isn't your home, and you weren't invited inside.
+~
+185 8 1
+0d0+0 0 0
+D2
+~
+door~
+1 -1 18572
+S
+#18568
+Ravensburg's Main Street~
+A charming little town, this Ravensburg. Calm, quiet, peaceful. You feel
+that something important began here, although you have no clue as to what
+it was. The buildings are small, yet livable. The shops are kept nicely.
+The people seem friendly enough. You may grow to like this town.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18563
+D2
+~
+~
+0 -1 18573
+S
+#18569
+A Stockyard~
+This is where the citizens of Ravensburg buy and sell animals and beasts
+of burden. Pigs, goats, oxen, chickens, and horses are all separated in
+their pens, only a feather away from each other. Here you can buy a
+hard working animal or a life-long friend, and you had better hurry,
+because it stinks like something died here.
+~
+185 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18574
+S
+#18570
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+door home~
+1 -1 18565
+D1
+~
+~
+0 -1 18571
+S
+#18571
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+door home~
+1 -1 18566
+D1
+~
+~
+0 -1 18572
+D3
+~
+~
+0 -1 18570
+S
+#18572
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+door home~
+1 -1 18567
+D1
+~
+~
+0 -1 18573
+D3
+~
+~
+0 -1 18571
+S
+#18573
+The Fountain~
+This is the fountain at the crossroads. Here the younger generation come and
+gather socially. Most of the townsfolk found their mates at this very spot.
+The young men of this town gather here to court the young women that come
+to hear the latest gossip. Surely the young ladies have other things on their
+minds as well. The fountain is large, about twelve feet in diameter, with
+the fountain walls themselves carved into benches upon which no less
+than seven quite pretty young ladies rest.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18568
+D1
+~
+~
+0 -1 18574
+D2
+~
+~
+0 -1 18579
+D3
+~
+~
+0 -1 18572
+S
+#18574
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18569
+D1
+~
+~
+0 -1 18575
+D2
+~
+~
+0 -1 18578
+D3
+~
+~
+0 -1 18573
+S
+#18575
+A Street in Ravensburg~
+You are in Ravensburg, a nice, quiant little town with some nice people
+and dark secrets. This street leads through the southern portion of
+the town, mostly a residential area. The houses are small, but seem
+to utilize the space well, and the gardens outside of town give the 
+citizen ample room to cultivate the land.
+~
+185 0 1
+0d0+0 0 0
+D1
+~
+door~
+1 -1 18576
+D3
+~
+~
+0 -1 18574
+S
+#18576
+The Home of an Old Man~
+You enter the room and wait for your eyes to adjust to the dim light
+in the room. You hear a voice say softly "Close that door, youth, the
+light hurts my old eyes. Come, sit and talk with me, for there is much
+to tell." You begin to see the outline of an old man sitting on a 
+chair by a fire almost burned out.
+~
+185 8 1
+0d0+0 0 0
+D3
+~
+door~
+1 -1 18575
+S
+#18577
+Father Dugan's Study~
+This is where the leader of the faithful studies and practices his art.
+It is scattered with scrolls and books, for the Father isn't a tidy
+man. It is small and lit only by two candles, both on the table which
+contains his recorded work.
+~
+185 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 18578
+S
+#18578
+A Beautifully Fashioned Church~
+This is where the people of Ravensburg come to express thier devotions
+to thier gods. Many come to pray to Ruthia, goddess of luck, to bring
+happiness in some form or another. Many gods have visited these temples,
+shrines of thier existence. Long has it been known that to kill or
+enter into a sacred place with evil intention brings instant death to
+those who dare oppose the unwritten law. The Midkemian gods do not
+take kindly to insubordination, or the desecration of thier subject's
+place of worship. Be wary here, and pure of heart, or fate will suffer
+you no longer. A feeling of peace permeates the very structure here.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18574
+D1
+~
+~
+0 -1 18577
+D3
+~
+~
+0 -1 18579
+S
+#18579
+Ravensburg's Main Street~
+A charming little town, this Ravensburg. Calm, quiet, peaceful. You feel
+that something important began here, although you have no clue as to what
+it was. The buildings are small, yet livable. The shops are kept nicely.
+The people seem friendly enough. You may grow to like this town.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18573
+D1
+~
+~
+0 -1 18578
+D2
+~
+~
+0 -1 18553
+S
+#18580
+The Music Room~
+This is the room where the Baron will sit for hours on end as he is
+seranaded by musicians. His love of music was only matched by his agony
+over ghis true firstborn son. Music one the one respite from the storm
+of agony visited upon his from day to day. There sits a lyre and a 
+harpischord in this room, along with violas hung upon the wall.
+~
+185 8 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18552
+D3
+~
+~
+0 -1 18581
+S
+#18581
+The Bottom of a Flight of Stairs~
+You stand before a flight of stairs leading upward. It is made of walnut
+deeply stained and crafted by a skilled hand. The stairs spiral up to
+the second floor.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18580
+D3
+~
+~
+0 -1 18582
+D4
+~
+~
+0 -1 18598
+S
+#18582
+Servant's Area~
+This is the gathering place for the servants of the Baron's home.
+Servitude in a noble's hame has never been a disgrace. It is a calling
+often specifically from the noble himself. Servants await their master's
+bidding here.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18581
+D2
+~
+~
+0 -1 18550
+S
+#18583
+A Small Yard~
+You step out of the stalls to find that the stench of animals doesn't
+dominate your nostrils any longer. This yard is small, about 10 cubits
+square, past which vegetation grows rampantly, overtaking the surrounding
+land. There are clothes lines here, with tunics of visitors strung
+haphazardly on the lines to dry in the spring air. To the west you notice
+a small shed.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18557
+D3
+~
+shed~
+1 -1 18584
+S
+#18584
+A Small Shed~
+This has always been the quarters for the blacksmith. It is small, yet
+comfortable, but more importantly, close to the forge. Tyndal used to sit
+in this room and get extremely drunk. The rank odor of vomit used to
+pervade this building, until Tyndal died. Now a new master smith has
+taken his place. This is now Nathan's room.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+shed~
+1 -1 18583
+S
+#18585
+The Hall to the Rooms~
+This hall is small, only three feet wide, and quite dim. It is, however,
+clean and tidy. Eric's mother has always kept the Inn in perfect operation
+for years, and the state of the Inn is her upmost concern next to her
+son.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18590
+D1
+~
+~
+0 -1 18586
+D3
+~
+~
+0 -1 18531
+S
+#18586
+The Hall to the Rooms~
+This hall is small, only three feet wide, and quite dim. It is, however,
+clean and tidy. Eric's mother has always kept the Inn in perfect operation
+for years, and the state of the Inn is her upmost concern next to her
+son.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18589
+D1
+~
+~
+0 -1 18587
+D3
+~
+~
+0 -1 18585
+S
+#18587
+The End of the Hall~
+This hall is small, only three feet wide, and quite dim. It is, however,
+clean and tidy. Eric's mother has always kept the Inn in perfect operation
+for years, and the state of the Inn is her upmost concern next to her
+son.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+door~
+1 -1 18588
+D3
+~
+~
+0 -1 18586
+S
+#18588
+A Room in the Pintail Inn~
+This is just a regular sleeping quarter for the guests of the Inn.
+It is a small room with a straw stuffed mat, a small table with a lamp,
+and a large chest for the guests to keep their personal belongings in.
+Noone know how many visitors this room has been throughout the years.
+~
+185 0 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 18587
+D5
+Under a plank a passage leads down
+~
+plank~
+2 -1 18425
+S
+#18589
+A Room in the Pintail Inn~
+This is just a regular sleeping quarter for the guests of the Inn.
+It is a small room with a straw stuffed mat, a small table with a lamp,
+and a large chest for the guests to keep their personal belongings in.
+Noone know how many visitors this room has been throughout the years.
+~
+185 0 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 18586
+S
+#18590
+A Room in the Pintail Inn~
+This is just a regular sleeping quarter for the guests of the Inn.
+It is a small room with a straw stuffed mat, a small table with a lamp,
+and a large chest for the guests to keep their personal belongings in.
+Noone know how many visitors this room has been throughout the years.
+~
+185 0 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 18585
+S
+#18591
+Upon a Balcony~
+You stand upon a balcony on the second floor of the Baron's home. To the
+east, across the main street, you see the guard station. To the north
+you see the Grower's and Vintor's Guild, where the wine of the barony
+is made. A cool breeze is blowing from the west.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18596
+D3
+~
+~
+0 -1 18592
+S
+#18592
+The Top of the Stair~
+You have made it upstairs to the slepeing quarters of the nobility of Darkmoor.
+You have to wonder how many happy moments have passes here, for they couldn't
+number many.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18595
+D1
+~
+~
+0 -1 18591
+D5
+~
+~
+0 -1 18548
+S
+#18593
+Otto's and Mathilda's Bedroom~
+This is where the Baron has spent many lonely nights with a woman he
+has become accustomed to. Noone knows if there has ever been any 
+feelings between the two, and noone may ever find out, for Otto is
+here dying.
+~
+185 8 1
+0d0+0 0 0
+D6
+~
+door~
+1 -1 18595
+S
+#18594
+Manfred's Bedroom~
+This is Manfred's bedroom, the younger noble son of Otto. Manfred is
+more well tempered than his older brother, Stephan. He sees Eric as
+more of an enigma than any threat. What he doesn't know is that Eric
+will cause HIM to become Baron von Darkmoor.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+door~
+1 -1 18595
+S
+#18595
+The Common Hall~
+This is a circular room with three bedroom adjoining around the west side.
+There is a small chandalier hanging here, providing little light, save
+the windows.
+~
+185 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18598
+D2
+~
+~
+0 -1 18592
+D3
+A door with a carving of a falcon.
+~
+falcon~
+1 -1 18594
+D7
+A door with a carving of a lion.
+~
+lion~
+1 -1 18599
+D9
+A door with the engraving of a raven.
+~
+raven~
+1 -1 18593
+S
+#18596
+Upon a Balcony~
+You stand upon a balcony on the second floor of the Baron's home. To the
+east, across the main street, you see the guard station. To the north
+you see the Grower's and Vintor's Guild, where the wine of the barony
+is made. A cool breeze is blowing from the west.
+~
+185 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18597
+D2
+~
+~
+0 -1 18591
+S
+#18597
+Upon a Balcony~
+You stand upon a balcony on the second floor of the Baron's home. To the
+east, across the main street, you see the guard station. To the north
+you see the Grower's and Vintor's Guild, where the wine of the barony
+is made. A cool breeze is blowing from the west.
+~
+185 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18596
+D3
+~
+~
+0 -1 18598
+S
+#18598
+The Top of the Stair~
+You have made it upstairs to the slepeing quarters of the nobility of Darkmoor.
+You have to wonder how many happy moments have passes here, for they couldn't
+number many.
+~
+185 8 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 18597
+D2
+~
+~
+0 -1 18595
+D5
+~
+~
+0 -1 18581
+S
+#18599
+Stephan's Bedroom~
+Stephan is the older of the two noble sons. He is the heir-apparent of
+this barony. Stephan holds Eric in the greatest of contempt, for he sees
+him as a threat to his rise to power.
+~
+185 8 1
+0d0+0 0 0
+D8
+~
+door~
+1 -1 18595
+S
+$

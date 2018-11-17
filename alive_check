@@ -1,0 +1,1 @@
+2,11,19,28,35,45,55 * * * * $HOME/ashes/keep_alive >> /dev/null 2>&1

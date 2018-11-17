@@ -1,0 +1,549 @@
+#4550
+small elemental~
+small elemental~
+A small elemental is here.
+~
+A small little elemental is here.  You're not quite sure what kind it is, but
+it is cute.  Too bad you have to kill it.
+~
+9 8 0 W3
+5 0 10 3d3+40 1d6+5
+15 6500
+8 8 0
+13 0 13 13 13 13 0
+11 1 0
+100 0 2 0 0 0
+85 85 85 85 85
+0 0 7
+6 0
+~
+#4551
+fire tiny flame elemental~
+a tiny flame~
+A tiny flame flickers.
+~
+A tiny flame is running around, making things smolder.  It just doesn't have
+enough oomph to set things on fire yet.  But some day, he's gonna grow up big
+and strong...
+~
+9 8 0 W3
+5 0 10 3d3+40 1d6+5
+15 6500
+8 8 0
+13 0 13 13 13 13 0
+12 0 0
+100 0 2 0 0 0
+85 85 85 85 85
+1 2 36
+6 0
+
+~
+#4552
+spark elemental~
+a small spark~
+A small spark floats here.
+~
+A small spark seems to be floating on nothing.  It shimmers with electrical
+energy
+~
+9 1048584 0 W3
+5 0 10 3d3+40 1d6+5
+15 6500
+8 8 0
+13 0 13 13 13 13 0
+16 1 0
+100 1 2 0 0 0
+85 85 85 85 85
+4 0 3
+6 0
+~
+#4553
+mist elemental~
+a mist~
+A cloud of mist drifts by.
+~
+A damp, cool mist is floating in the breeze here.
+~
+9 8 0 W3
+5 0 10 3d3+40 1d6+5
+15 6500
+8 8 0
+13 0 13 13 13 13 0
+15 1 0
+100 6 2 0 0 0
+85 85 85 85 85
+0 2 13
+6 0
+~
+#4554
+dust elemental~
+a dust cloud~
+A cloud of dust is making you cough!
+~
+A small dust storm is gathering the surrounding loose dirt.  It's making you
+cough...better put an end to it.
+~
+9 196616 0 W3
+5 0 10 3d3+40 1d6+5
+15 6500
+8 8 0
+13 0 13 13 13 13 0
+17 1 0
+100 7 2 0 0 0
+85 85 85 85 85
+0 8 55
+6 0
+~
+#4555
+breeze elemental~
+a slight breeze~
+A slight breeze ruffles your hair (if you have any)
+~
+A slight breeze, invisible to the naked eye, is swirling around you.
+~
+9 1048586 0 W3
+5 0 10 3d3+40 1d6+5
+15 6500
+8 8 0
+13 0 13 13 13 13 0
+5 1 0
+100 6 2 0 0 0
+85 85 85 85 85
+56 0 0
+6 0
+~
+#4556
+medium elemental~
+a medium elemental~
+A medium elemental mopes around.
+~
+You see a slightly muscular blob of creation moving about with no direction.
+~
+2121 0 0 W3
+12 8 0 2d5+101 2d4+2
+1000 13000
+8 8 0
+13 0 13 13 13 13 0
+20 2 0
+0 7 2 0 0 0
+70 70 70 70 70
+0 0 7
+6 0
+~
+#4557
+medium fire camp~
+a campfire~
+A small controlled campfire is burning brightly.
+~
+A good sized campfire is here, controlled and burning brightly
+~
+33652809 536871936 0 W3
+12 8 0 2d5+101 2d4+2
+1000 15000
+8 8 0
+13 0 13 13 13 13 0
+12 2 0
+0 12 2 0 0 0
+70 70 70 70 70
+17 2 4
+6 0
+~
+#4558
+shock medium elec~
+a shock~
+A built-up electric discharge is here.
+~
+You see a shock just waiting to happen...there is just that kind of charged
+up atmosphere.
+~
+1048665 1108377608 0 W3
+12 8 0 2d5+101 2d4+2
+1000 15000
+8 8 0
+13 0 13 13 13 13 0
+16 2 0
+0 1 2 0 0 0
+70 70 70 70 70
+4 0 3
+6 0
+~
+#4559
+puddle medium water~
+a puddle~
+A puddle is lazing around your feet.
+~
+A small, shallow puddle is just slurping around minding its own business.
+~
+4325449 96 10 W3
+12 8 0 2d5+101 2d4+2
+1000 15000
+8 8 0
+13 0 13 13 13 13 0
+14 2 0
+0 12 2 0 0 0
+70 70 70 70 70
+33 2 0
+6 0
+~
+#4560
+rock medium~
+a rock~
+A rock is rolling here.
+~
+Well it's kind of round, actually it's kind of cute and happ...hey wait a
+second, it's a rock, dammit!
+~
+131289 1073774592 0 W3
+12 20 0 2d5+101 2d4+2
+1000 15000
+8 8 0
+13 0 13 13 13 13 0
+17 2 0
+0 6 2 0 0 0
+70 70 70 70 70
+16 12 3
+6 0
+~
+#4561
+cloud air medium~
+a cloud~
+A medium storm cloud is in the forecast.
+~
+You see a hmm, cumulo-nimbus cloud?  or perhaps it is a thunderhead, in any
+case it is threatening the area with rain.
+~
+2302024 1611661376 0 W3
+12 12 0 2d5+101 2d4+2
+1000 15000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+0 2 2 0 0 0
+70 70 70 70 70
+0 1 60
+6 0
+~
+#4562
+large elemental~
+a large elemental~
+A large elemental is beating on the smaller ones.
+~
+A large miasma of elemental material is here, kicking butt!
+~
+6291545 0 -200 W3
+20 16 -4 5d8+230 2d3+5
+10000 22000
+8 8 0
+13 0 13 13 13 13 0
+20 3 0
+-40 7 4 0 0 0
+50 50 50 50 50
+0 0 7
+6 0
+~
+#4563
+blaze fire large~
+a blaze~
+A blaze is burning brightly here!
+~
+A blaze is here setting your world on fire.  Boy is it HOT!
+~
+34832457 536871968 400 W3
+20 16 -4 5d8+230 2d3+5
+10000 26000
+8 8 0
+13 0 13 13 13 13 0
+12 3 0
+-40 12 4 0 0 0
+50 50 50 50 50
+1 2 4
+6 0
+~
+#4564
+bolt elec large bolt elec large~
+a bolt~
+A bolt of lightning sizzles the air.
+~
+A bolt of sheer power is eminating from everywhere!  The whole area is
+charged.
+~
+196681 1048608 400 W3
+20 16 -4 5d8+230 2d3+5
+10000 26000
+8 8 0
+13 0 13 13 13 13 0
+16 3 0
+-40 1 4 0 0 0
+50 50 50 50 50
+12 0 3
+6 0
+~
+#4565
+tsunami wave water large~
+a tsunami~
+A large wave is approaching.
+~
+A very large wave that brings massive destruction is heading toward you at
+incredible speed!
+~
+17868873 64 400 W3
+20 20 -4 5d8+230 2d3+5
+10000 26000
+8 8 0
+13 0 13 13 13 13 0
+18 3 0
+-40 6 4 0 0 0
+50 50 50 50 50
+41 2 16
+6 0
+~
+#4566
+boulder earth large~
+a boulder~
+A large boulder is blocking the path.
+~
+A large boulder, possibly granite or limestone, is rolling around looking for
+something to crush.
+~
+2261065 0 400 W3
+20 20 -4 5d8+230 2d3+5
+10000 22000
+8 8 0
+13 0 13 13 13 13 0
+17 3 0
+-40 6 4 0 0 0
+50 50 50 50 50
+18 0 1
+6 0
+~
+#4567
+baby dragon air large~
+a baby rainbow dragon~
+A baby dragon is floating in the air currents.
+~
+A beautiful, colored dragon is floating in the air.  She is small, so she
+must be a baby dragon.  Her wings are a beautiful rainbow color.
+~
+4448329 1052704 400 W3
+25 20 -10 5d8+230 2d3+5
+10000 30000
+8 8 2
+13 0 13 13 13 13 0
+11 3 0
+-100 4 4 0 0 0
+50 50 50 50 50
+0 0 7
+6 0
+~
+#4568
+lord fire~
+the Lord of Fire~
+The Lord of Fire is smoking up the realm.
+~
+The Lord of Fire sits on a throne of pure flame.  His body is made up of
+Fire. All the women say he's hot stuff...
+~
+16507 33555584 -1000 W3
+96 40 -7 7d42+1801 9d9+10
+40000 750000
+8 8 1
+13 0 13 13 13 13 0
+12 4 0
+-70 8 6 0 0 0
+10 10 10 10 10
+1 2 4
+6 1
+~
+#4569
+lord lightning~
+the Lord of Lightning~
+The Lord of Lightning is standing in front of you forbodingly.
+~
+A man, if he can be called a man, made entirely of electricity, is standing
+here. He commands the power of Lightning, and looks to be a most imposing
+enemy.
+~
+2121819 34735296 -1000 W3
+96 40 -7 7d42+1801 9d9+10
+40000 750000
+8 8 1
+13 0 13 13 13 13 0
+16 4 0
+-70 8 6 0 0 0
+10 10 10 10 10
+4 8 3
+6 0
+~
+#4570
+lord water~
+the Lord of Water~
+The Lord of Water is swimming around happily.
+~
+The Lord of Water swims around in her throne room.
+~
+2220107 194 -1000 W3
+96 40 -7 7d42+1801 9d9+10
+40000 400000
+8 8 2
+13 0 13 13 13 13 0
+10 4 0
+-70 8 6 0 0 0
+10 10 10 10 10
+17 6 8
+6 0
+~
+#4571
+earth lord~
+the Lord of Earth~
+The Lord of Earth is being annoyed by you!
+~
+~
+2252875 1179776 1000 W3
+96 40 -7 7d42+1801 9d9+10
+40000 400000
+8 8 1
+19 0 13 13 13 13 0
+17 4 0
+-70 8 6 0 0 0
+10 10 10 10 10
+16 8 7
+6 0
+~
+#4572
+air lord~
+the Lord of Air~
+The Lord of Air is sitting on his throne, looking angry!
+~
+The Lord of Air is sitting upon a tornado, as if it was a throne.  He doesn't
+like riff-raff like you running around his realm, and he really hates you
+using up his air.  Unfortunately for you, he has spotted you!
+~
+122955 68158632 -1000 W3
+96 40 -7 7d42+1801 9d9+10
+40000 500000
+8 8 1
+13 0 13 13 13 13 0
+8 4 0
+-70 8 6 0 0 0
+10 10 10 10 10
+8 0 7
+6 0
+~
+#4573
+elemental guardian~
+the Elemental Guardian~
+The Guardian of the Canyon is here blocking your way!
+~
+A large, no a HUGE creature is standing here blocking the path into the
+canyon. He doesn't appear to like you very much.  It's just too bad that
+you'll have to sneak by him to get into the canyon.  The Guardian is a rough
+and tough fellow.  You might want to think before fighting him.
+~
+2154571 1073807360 -1000 W3
+96 40 -7 7d42+1801 9d9+10
+40000 450000
+8 8 0
+13 0 13 13 13 13 0
+20 5 0
+-70 10 6 0 0 0
+10 10 10 10 10
+0 0 7
+6 0
+~
+#4574
+mobprog blocker~
+the invisible force~
+The invisible force prevents all level 51s and above from entering.
+~
+He's the Quicker Picker-upper
+~
+8388618 2 0 W3
+150 0 10 0d0+1 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+63 0 0
+6 1
+~
+#4575
+shark~
+a shark~
+A shark is swimming in the pool
+~
+Uh Oh...it's JAWS!
+~
+10 8 0 W3
+5 0 3 3d3+40 1d6+5
+15 3000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+30 4 2 0 0 0
+85 85 85 85 85
+1 6 7
+6 0
+~
+#4576
+school fish~
+a school of fish~
+A school of fish swims around your feet.
+~
+There is a school of fish swimming around.  They look harmless enough.
+~
+10 8 0 W3
+10 0 3 3d3+40 1d6+5
+15 10000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+30 4 9 0 0 0
+85 85 85 85 85
+1 6 7
+6 0
+~
+#4577
+sea horse~
+a sea horse~
+A sea horse is swimming here.
+~
+It looks and smells like a sea horse, therefore, it must be a sea horse.
+~
+10 8 0 W3
+5 0 3 3d3+40 1d6+5
+15 3000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+30 4 2 0 0 0
+85 85 85 85 85
+1 6 7
+6 0
+~
+#4578
+illusionist~
+an illusionist~
+An illusionist is here gathering spell components.
+~
+The illusionist is dressed in brilliantly colored clothing.  He appears to
+be in his early twenties, but the affects aren't really showing.  The
+illusionist looks frail and weak...but then again, looks can be deceiving...
+
+The illusionist is using:
+<wielded>                  an invisible sword
+
+~
+133193 786530 10 W3
+13 8 0 2d5+101 2d4+2
+1000 18000
+8 8 1
+13 0 13 13 13 13 0
+8 2 2
+0 11 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+$

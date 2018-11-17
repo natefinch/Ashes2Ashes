@@ -1,0 +1,706 @@
+#8600
+tarrasque~
+the Tarrasque~
+The Tarrasque is destroying everything in sight.
+~
+   The dreaded tarrasque is the most fearsome creature native to the
+Prime Marterial plane. It's a scaly biped two horns on it's head, a 
+lashing tail, and a reflective carapace. The tarrasque is a killing machine,
+active for only a small fraction of it's existance. When active, it destroys
+everything for miles around, both plants and animals (and stray armies).
+It is believed (and hoped) that the tarrasque is a unique creature, and
+that there will never be another. No one is sure where it originated, but
+it's rumored that it has destroyed one entire civilization. The records
+of those people's last days tell of "a great reptilian punisher sent by
+the gods to end the world."
+   Might I suggest fleeing for your life?
+~
+319593 16777224 0 W3
+127 68 -30 10d10+22000 10d10+80
+0 300000
+8 8 0
+18 100 3 13 13 13 0
+18 5 0
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8601
+mystra goddess lady mysteries magic~
+Mystra~
+A woman dressed in a glowing white gown of magic floats before you.
+~
+Mystra: Greater Power of Nirvana
+  Mystra is the most powerful of all the gods of Toril. She reigns as
+supreme ruler of all magic on a world that is dominated magic. She is
+also one of two gods that was granted immortality after the Time of 
+Troubles. In her mortal life she retrieved the Tablets of Fate, which then
+allowed the gods to regain their rightful positions in the heavens, after
+the overgod Ao had cast them out. She has knowledge of every spell
+ever cast by any mage or cleric throughout all of history, and can cast
+any of them at will. Her power is so great that she is not permitted to
+retain it all herself, and thus stores much of it in her Chosen. If not for
+this precaution, she would easily be a match for the overgod himself.
+~
+2418703 557843636 900 W3
+127 90 -36 10d10+25000 10d10+85
+0 500000
+8 8 2
+25 100 18 18 25 18 0
+8 2 0
+-360 0 8 200 25 25
+10 10 10 10 10
+1 0 0
+6 0
+~
+#8602
+Cyric madman demonic~
+Cyric~
+A demonic madman cackles at you gleefully.
+~
+Cyric: Greater Power of Hades
+  Cyric is one of two gods that had formerly been mortals. His role as
+the traitor who stole the Tablets of Fate to return them to Ao earned
+him a spot in the pantheon, replacing 3 evil gods, fallen during the Time
+of Troubles: Myrkul, Bane, and Bhaal. Having three gods' power has
+made Cyric one of the most powerful of the gods. His portfolio of powers
+includes being god of: death, murder, the dead, strife, tyranny, and
+lies. He is the mortal enemy of Mystra, and she in return has deprived
+him of magic. Without illusions to cover his hideousness, he appears
+with red, cracked skin, rippling muscles with veins showing through the
+skin, wild hair, and fingers that taper into claws. Cyric's everpresent
+companion is the sentient and powerful sword, Godsbane, which helped
+him survive the road to godhood, and will help kill other gods in the future.
+~
+319531 16777384 -1000 W3
+127 83 -29 5d5+24985 15d10+60
+0 500000
+8 8 1
+18 100 18 5 18 18 0
+18 2 0
+-290 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8603
+gond wonderbringer man hat fat~
+Gond~
+A fat man in a big hat is working on something mechanical.
+~
+Gond: Lesser Power of Concordant Opposition
+   Gond, the Wonderbringer, is the god of craft. He can do with gears
+and levers what some gods can't even accomplish with magic. His
+goal is to prove that with the right materials, and the right craftsman,
+anything can be accomplished without magical aid. He appears to be
+a middle-aged man, rather plump,and always wearing a wide-brimmed
+sun hat. He is always covered covered in oil, and seems not to mind
+getting right down to the dirty work.
+~
+319499 132264 1 W3
+127 81 -32 5d5+14985 10d10+70
+0 490000
+8 8 1
+18 0 18 18 18 18 0
+18 2 0
+-320 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8604
+azuth mage wizard robed~
+Azuth~
+The mage-robed god of wizards seems to ignore your intrusion.
+~
+Azuth: Demipower of Arcardia
+   Azuth, though a god in his own right, exists to serve Mystra. As God
+of Mages, his best interests are nearly identical to hers, and he acts
+as one of her Chosen, guarding a portion of his parton's power. He
+appears as any human mage would, dressed in splendid robes and
+having a studious demeanor.
+~
+321547 1208 200 W3
+127 75 -25 10d10+13050 10d10+30
+0 430000
+8 8 1
+18 0 18 18 18 18 0
+8 2 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8605
+helm guardian god man armor~
+Helm~
+An armored guardian blocks the celestial stairway.
+~
+Helm: Lesser Power of Nirvana
+   Helm is the God of Guardians. During the Time of Troubles, he was
+the only god allowed to retain his power. He was ordered by Ao not
+to allow anyone past him unless they carried both Tablets of Fate. In
+cvarrying out that duty, he was forced to kill his lover, Mystra, yet he
+did so hesitation...but much sadness. He is the epitome of the perfect
+guardian: strong, brave, and unfailingly follows orders.
+~
+321611 168 0 W3
+127 79 -29 5d5+14985 12d10+65
+0 390000
+8 8 1
+18 100 18 18 18 18 0
+20 2 0
+-290 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8606
+lathander dawn robes god~
+Lathander~
+A god dressed in robes the colors of dawn smiles at you.
+~
+Lathander: Greater Power of Elysium
+   Lathander is the god of renewal, dawn, and springtime. He seems to
+always be in a bright mood, and is hopeful about the future. His robes
+are the bright reds, yellows and oranges of the first light of dawn.
+~
+2418699 541066408 900 W3
+140 92 -39 5d5+24985 11d11+90
+0 40000
+8 8 1
+25 0 18 18 18 18 0
+8 2 0
+-390 5 8 700 10 20
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8607
+leira lady mists godess~
+Leira~
+If you can see Leira here, something is wrong.
+~
+Leira: Demipower of Limbo
+   Leira is the godess of deception and illusion. Her powers are so
+great that she can even hide herself from the considerable scyring
+power of Mystra and Oghma. On a whim, she may hide from the other
+gods for years at a time, just to prove that she still can. Any physical
+description ofher would be a guess at best, since she is always in
+disguise, and can alter her form at will. If she has a true form, she has
+kept it secret for aeons.
+~
+319498 524426 -100 W3
+127 78 -30 5d5+19985 8d8+60
+0 460000
+8 8 2
+18 0 18 18 18 18 0
+0 2 0
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8608
+mask god~
+Mask~
+Anyone BUT Mask is here.
+~
+Mask: Lesser Power of Hades
+   Mask is the God of Deception, and Patron of Thieves. His whole
+existance is based on falsification and obfuscation. He keeps his face
+hidden behind a loose-fitting black mask. The only features that remain
+constant on him are his glowing red eyes, and the small fangs, protruding
+from his upper jaw.
+~
+19196105 537670826 -500 W3
+140 89 -37 5d5+19950 15d12+50
+0 25000
+8 8 1
+18 0 18 18 21 18 0
+7 2 0
+-370 11 8 500 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8609
+oghma monk god robed robes~
+Oghma~
+A god wearing drab monk's-robes awaits your request for knowledge.
+~
+Oghma: Greater Power of Concordant
+   Oghma is the god of knowledge and bardcraft. His library in Concordant
+is the senter of knowledge throughout the multiverse. In their afterlife,
+his followers spend their time writing down the sum of their knowledge
+into the "Great Bard"'s library. Oghma makes all knowledge freely
+available to anyone, but asks that they trade any information they might
+have, if possible.
+~
+4515851 1208 1 W3
+127 63 -25 10d10+17000 6d6+20
+0 300000
+8 8 1
+18 0 18 18 18 18 0
+8 2 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8610
+sune firehair beautiful godess~
+Sune~
+The godess of beauty winks at you.
+~
+Sune: Greater Power of Arvandor
+   Sune is the godess of beauty, love, and passion. She is vain and
+conceited, and rather irresponsible. She promotes and practices the
+chaos of obeying whim over logic, and can cause much trouble. Her
+vanity isn't completely baseless however. Suiting the godess of beauty,
+she is the most beautiful of beings.
+~
+4515850 1192 650 W3
+107 59 -20 10d10+12500 5d5+28
+0 180000
+8 8 2
+18 0 18 18 18 18 0
+0 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8611
+talos destroyer man god lightning bolts~
+Talos~
+A man whose garb depicts bolts of lightning glares at you.
+~
+Talos: Greater Power of Pandemonium
+   Talos is the god of storms and  destruction. He lives to undo the work
+of his rival god, Lathander, who is constantly (and inexplicably, from 
+Talos's point of view) creating and renewing. Talos is single-minded in
+his wish for the destruction of all things.
+~
+319531 1192 -900 W3
+127 85 -29 10d10+20010 15d10+63
+0 500100
+8 8 1
+18 90 18 18 18 18 0
+16 2 0
+-290 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8612
+tempus warrior plate god~
+Tempus~
+A godly warrior in plate armor prepares for battle.
+~
+Tempus: Greater Power of Limbo
+   Tempus is the Lord of Battle. He loves war for the sheer joy of it. He
+is a master general, and his divine army is divided into two halves, so
+that even in times of peace in the outer planes, they can war with one
+another. Many warriors live their whole lives in hopes that when they
+die, they will earn a commission in Tempus' army. The God of War
+himself is always dressed for battle, in impressive armor, and wielding
+some sort of huge weapon.
+~
+2422827 1192 0 W3
+150 91 -30 10d10+22500 16d12+64
+0 40000
+8 8 1
+18 100 18 18 18 18 0
+20 2 0
+-300 9 10 300 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8613
+torm god guardian protector~
+Torm~
+Torm is here, protecting his divine patron, Tyr.
+~
+Torm: Demipower of the Prime Material
+   Torm is the god of duty, loyalty and obedience. He is call "the True"
+and "the Brave" by his followers. Torm is the ultimate protector of law
+and justice, due to his duty to his patron, Tyr, the god of justice. Torm
+feels he has a responsibility to each of the gods, though these "chains
+of duty" bind him more strongly to lawful and good dieties.
+  Torm appears in resplendant armor of a dusky purple hue, with gold
+trimmings.
+~
+325899 5292 1000 W3
+127 76 -30 5d5+19985 10d8+60
+0 390000
+8 8 1
+18 0 18 18 18 18 0
+20 2 0
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8614
+tymora lady luck godess gambler gambling woman~
+Tymora~
+Some lucky woman is here, gambling at dice...and winning.
+~
+Tymora: Lesser Power of Arvandor
+   Tymora is godess of skill and good fortune, and is the patron of
+adventurers. She is also known as "Lady Luck." Tymora is one fo the
+more popular dieties among adventurers who have to frequently rely on
+their wits and  pure luck to survive. Tymora favors those who take what
+fate gives them and make the best of it.
+   Tymora herself has a rather unremarkable appearance, but she can
+easily be picked out of a crowd of gamblers...she's the one who never
+loses.
+~
+321550 1192 750 W3
+127 60 -19 5d5+9985 10d5+40
+150000 89600
+8 8 2
+18 0 18 18 18 18 0
+0 2 0
+-190 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8615
+tyr god blind blindfold scale~
+Tyr~
+A blindfolded god stands here, holding a scale.
+~
+Tyr: Greater Power of the Seven Heavens
+   Tyr is the blind, one-handed god of justice. Don't let his infirmity fool
+you though, for he is fully capable of carrying out the cause of justice.
+He not only has his own divine might to call upon, but he has the power
+of his attendant diety, Torm, who will follow any order given to him by
+his most-just patron. Tyr is frequently called upon by other dieties to
+serve as a judge of a mediator. Even though he may often agree with
+the good aligned dieties in principal, he will rule in favor of even an evil
+god, if they are in the right, according to the evidence he is presented
+with.
+~
+321547 133 1000 W3
+127 80 -26 5d5+24985 12d12+48
+0 475000
+8 8 1
+18 0 18 18 18 18 0
+17 2 0
+-260 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8616
+auril woman goddess frost~
+Auril~
+A frost-covered woman is here, staring icily at you.
+~
+Auril: Demipower of Pandemonium
+  Auril is the goddess of cold. She is mostly connected with harsh
+winters, killing frosts, and blizzards. Few people worship her directly.
+Most who invoke her name use it as a curse or out of fear of her influence.
+~
+321547 168 -700 W3
+127 79 -23 5d5+19985 20d3+40
+0 800000
+8 8 2
+18 0 18 18 18 18 0
+14 2 0
+-230 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8617
+ao overgod~
+Ao~
+The overgod ignores you completely.
+~
+   Ao looks neither old nor young, yet he is infinitely old. He is the 
+power that created the gods themselves, and could destroy them on a
+whim. If ever you were to attack him, you would most surely die, though
+he seems to be rather distracted right now. You can hear him talking
+to some other power: "They have restored the Balance, Master. The
+Realms are once again secure."
+  You wonder what omnipotent power Ao could be calling "Master".
+~
+319498 16778408 0 W3
+127 100 -39 1d1+29999 100d5+100
+0 500000
+8 8 1
+18 0 18 18 18 18 0
+0 2 0
+-390 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8618
+dm dungeon master guy tired tired-looking~
+the DM~
+A tired-looking guys is sitting here, running some sort of game.
+~
+   This guy is the DM (Dungeon Master) of an AD&D campaign. He is
+in charge of everything except the player's characters decisions. If he
+decides that the laws of physics aren't working to suit his needs, he
+can just go ahead and change em. Now that you've entered his domain,
+you too will be subject to his whim. Fortunately he seems preoccupied
+with running his campaign. Acting as one on the non-player characters,
+you hear him say: "An how does your cosmos fare, Ao?"
+~
+4515850 536871976 -800 W3
+140 90 -34 100d100+9000 10d4+60
+5 20000
+8 8 1
+17 0 18 13 19 13 0
+0 2 0
+-340 0 6 0 0 0
+10 10 10 10 10
+0 0 63
+6 0
+~
+#8619
+player guy mage kid~
+the Mage's player~
+A guy is kneeling on the floor rolling HUGE handfuls of 6-sided dice.
+~
+   Some people have way too much fun playing mages. This is one of
+them. He just loves blowing things up with insanely large fireballs, and
+doesn't mind spending 15 minutes counting up the rolls on a few dozen
+6-sided dice to find out jsut how much damage his character is doing.
+~
+63499 131080 -400 W3
+36 35 10 10d20+1300 1d5+3
+15 16000
+8 8 1
+13 0 13 13 13 13 0
+8 2 0
+100 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8620
+fighter guy crazy player~
+the Fighter's player~
+Some crazy guy is screaming about how he's gonna kill everything. 
+~
+  Some guys just get way to into these "hack and slash" characters.
+Humor him and you'll be fine.
+~
+63498 0 -400 W3
+40 35 2 10d20+1300 10d2+25
+10 25000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8621
+cleric kid player~
+the Cleric's player~
+An annoying kid is bartering healing spells for magic items.
+~
+   Someone should make a rule against immature players who try to
+extort magic from their party members. This particular cleric has a very
+short life expectancy as it is, since he wants the fighter's plate mail +4.
+The fighter is prolly gonna smoosh him soon.
+~
+47115 0 -600 W3
+40 35 6 10d20+1300 1d1+12
+300 20000
+8 8 1
+13 0 13 13 13 13 0
+10 2 0
+60 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8622
+thief player guy~
+the Thief's player~
+A quite-looking guy is sitting at the table not doing much.
+~
+   Occasionally you get one like this. He just sits there and lets everyone
+else do everything. He's too quiet to be heard over the other rowdies
+playing, and doesn't seem very creative. Maybe he just doesn't like to
+play. Or maybe it's that he's scared to death of that psychotic fighter's
+player.
+~
+63498 0 600 W3
+40 35 1 10d20+1300 5d5+10
+5 19000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8623
+guard caravan lost~
+a lost caravan guard~
+a lost caravan guard is looking for help
+~
+  This man look really scared. You're not quite sure what he's seen,
+but you hope that you don't see it. He's too incoherent to be of any help
+telling you what is out there that has scared him so much.
+~
+4194504 0 200 W3
+22 15 -2 10d10+40 5d8+20
+2000 1500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 2 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#8624
+nomad desert~
+a desert nomad~
+A desert nomad looks at you fearfully.
+~
+  The nomads who make Anauroch their home area superstitious people
+who are wary of outsiders and magic. They would not kill someone 
+outright, though, but being left in the desert without their hospitality is
+almost assuredly a death sentence. This is not an environment where
+the wear survive.
+~
+4198667 0 400 W3
+35 15 3 15d15+600 10d5+20
+200 10000
+8 8 1
+13 0 13 13 13 13 0
+20 2 0
+30 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8625
+seneschal ultraloth cloaked figure~
+the Seneschal of Bone Castle~
+A cloaked figure with huge eyes and disembodied hands watches you.
+~
+  The seneschal of Bone Castle is an ultraloth who is completely loyal
+to whomever is the current resident of the Castle (i.e. the present God
+of Death). Presently, it is in the servitude of Cyric, and serves him
+by keeping order in the City of Strife, and recording the fates assigned
+to the damned.
+~
+321546 168 -800 W3
+127 46 -14 5d5+9985 10d3+50
+0 70000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8626
+alban onire shade knight ancient~
+the shade of Alban Onire~
+An ancient knight is here to guard the exit to the mortal realms.
+~
+  In life, Alban Onire was a paladin of Torm, and a great foe of the evil
+giants. In death, he guards the exit to the mortal world, so that the souls
+of the dead do not wreak havok among the living. The orders given to
+him by Torm were quite specific about letting people through this portal.
+Getting the key from him may not prove to be the easiest of tasks.
+~
+321546 168 990 W3
+127 52 -20 5d5+9985 10d3+49
+0 75000
+8 8 1
+18 0 18 18 18 18 0
+0 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8627
+marut huge golem construction~
+a Marut~
+A huge, golem-like construction stands here, impassively.
+~
+  Maruts are the servants of greater gods, and will do anything in their
+service. Unlike the golems that they ressemble, maruts are highly
+intelligent and thoughtful. However, their complete neutrality allows them
+to serve and god well, since they do not disagree with any order. A
+marut will perform its assigned task tirelessly and without distraction
+whenever possible, but will enter combat if absolutely necessary.
+~
+321546 168 0 W3
+127 51 -20 5d5+9985 10d5+40
+0 78000
+8 8 0
+18 0 18 18 18 18 0
+0 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8628
+testmob~
+TESTMOB~
+TEST MOB SHOULD NOT BE IN THE GAME
+~
+~
+8 0 0 W3
+50 100 -50 20d20+20000 100d100+100
+0 0
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-500 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8630
+mystra goddess lady mysteries magic~
+Mystra~
+A woman dressed in a glowing white gown of magic floats before you.
+~
+Mystra: Greater Power of Nirvana
+  Mystra is the most powerful of all the gods of Toril. She reigns as
+supreme ruler of all magic on a world that is dominated magic. She is
+also one of two gods that was granted immortality after the Time of 
+Troubles. In her mortal life she retrieved the Tablets of Fate, which then
+allowed the gods to regain their rightful positions in the heavens, after
+the overgod Ao had cast them out. She has knowledge of every spell
+ever cast by any mage or cleric throughout all of history, and can cast
+any of them at will. Her power is so great that she is not permitted to
+retain it all herself, and thus stores much of it in her Chosen. If not for
+this precaution, she would easily be a match for the overgod himself.
+~
+2418699 557843636 900 W3
+135 90 -36 10d10+25000 10d10+85
+0 500000
+8 8 2
+25 100 18 18 25 18 0
+8 2 0
+-360 0 8 200 25 66
+2 10 10 10 10
+1 0 0
+6 0
+~
+$

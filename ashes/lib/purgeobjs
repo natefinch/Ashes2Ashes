@@ -1,0 +1,14 @@
+#!/bin/sh
+#
+
+echo "Purging old files, please wait..."
+date >> plrobjs/deleted
+date >> plrtext/deleted
+./purgedir A-E
+./purgedir F-J
+./purgedir K-O
+./purgedir P-T
+./purgedir U-Z
+rm -f plrobjs/ZZZ/*
+rm -f plrtext/ZZZ/*
+echo "Done."

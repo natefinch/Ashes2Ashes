@@ -1,0 +1,294 @@
+#22099
+referee kuroko~
+Kuroko~
+Kuroko, the referee is here to see to the start of the match.
+~
+An older guy, Kuroko is a master of all martial arts and the choice by Viper
+to oversee the start of all matches.  Attacking him though will cause you
+to be disqualified.
+~
+286730 0 0 W
+150 127 -100 10d1000+5000 127d127+127
+0 0
+8 8 1
+25 0 18 18 25 18 13
+0 2 0
+-1000 0 25 1000 200
+1 1 1 1 1
+63 0 63
+1 1
+#22101
+bartender~
+a fat ugly bartender~
+A fat ugly bartender stand behind the counter.
+~
+He is quite a brute.  Better not mess with him.
+~
+10447 8389640 -500 W
+75 10 0 100d100+5000 5d5+25
+125000 150000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22111
+wolf wulf poppy galford~
+Poppy the Wolf~
+Poppy, Galford's pet wolf, is growling at you.
+~
+Poppy, the pet wolf of Galford, has been with him throughout his multiple
+battles against evil, and constantly does a number on those who would harm
+Galford.  You notice a kerchief the same golden color of Galford's identifying 
+neckwear around Poppy's neck, making no doubt who this wolf calls master.
+Anyone this beast considers to be his master must be powerful indeed.
+Swift and deadly, ~
+28747 160 1000 W
+51 40 -50 100d100+15000 10d10+15
+0 200000
+8 8 1
+18 100 18 18 18 18 0
+8 2 0
+-500 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22112
+statue galford~
+the Statue of Galford~
+Here is the statue of the mighty American Ninja Galford.
+~
+This statue, made of ivory, gold, and sapphire to gain the effect of Galford's
+chosen colors, is seemingly glowing with the power to hand out life and death.
+In earlier years, Galford fought to save the world from demonic rule.  In his
+first journey against evil, he earned the right to fight the Satan's Shogun,
+Seiji. In his second crusade to destroy evil, he fought through many powerful
+warriors so he could destroy the root of the problem, the Demon Sorceress
+Mizuki. Thanks to the victory he won in that battle, he became immortal.
+Now he watches over the world, viewing its problems from a distance.
+Crackling with deadly lightining, ~
+28683 136 1000 W
+53 40 -40 100d100+15000 10d20+50
+100000 500000
+8 8 1
+18 100 18 18 18 18 0
+8 5 0
+-400 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22113
+hans seiger~
+Hans Seiger~
+The heavily muscled Hans Seiger is flexing his muscles here.
+~
+Among those that Galford has bested in his second quest, Hans Seiger was
+one of the few that were actually a good fight.  Therefore, when Seiger
+came to the Arena, Hans Seiger was given the job of guarding the exit to
+the Arena.  He will allow people to leave, unless they mess with him.
+Stronger than Arnold, ~
+30731 136 500 W
+51 30 -20 100d100+10000 10d10+30
+50000 90000
+8 8 1
+18 100 13 13 13 13 0
+17 5 0
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22114
+nicotine~
+Nicotine~
+A short, old monk named Nicotine is meditating here.
+~
+This old monk who was defeated by Galford now works in the Arena as an
+apothecary, brewing potions that have both good and ill effects.  His
+heal potions are the favorite items sold here, but he has other potions
+and poisons here too.
+~
+30730 136 0 W
+51 20 -20 100d100+10000 10d8+30
+153000 90000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22115
+hattori hanzo~
+Hanzo~
+The ninja named Hattori Hanzo is here, practicing his ninja magic.
+~
+Hattori Hanzo was one of Galford's most difficult fights, due to his use of
+ninja magic.  Therefore, Hanzo was made the Magic Shop owner inside the 
+Arena. I would not try stealing anything though, as Hanzo has not lost his
+touch.
+~
+30730 136 0 W
+51 35 -30 100d100+10000 10d10+35
+50000 100000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-300 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22116
+cham-cham girl~
+Cham Cham~
+Cham Cham is here, acting as a guide to the Arena.
+~
+After the destruction of Mizuki, Cham Cham was given the possibility of 
+exploring the strange new arena that Galford had built.  In time, Cham Cham
+became the official tour guide of the arena, and the maps she sells are
+extremelly reliable.  That is, if you can decipher her writing.
+Cute but fatal, ~
+325643 160 0 W
+53 40 24 100d100+10000 10d10+35
+100000 250000
+8 8 2
+18 100 18 18 18 18 0
+8 1 2
+240 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22117
+charolette~
+Charolette~
+Charolette is selling light armor here.
+~
+Charolette was the swordsmaster who came closest to defeating Galford while
+he was still mortal.  Most of the blows that Galford handed out bounced off 
+of her armor.  Seeing the advantage her light but strong armor could deliver,
+Charolette decided to start selling duplicates of her armor
+while in Galford's arena.  I would not mess with her though, as she
+has started training with Galford.
+Playing with her rapier, ~
+325643 160 1000 W
+53 40 42 100d100+20000 10d15+50
+159000 400000
+8 8 2
+18 100 18 18 18 18 0
+17 2 2
+420 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22118
+Genjuro~
+Genjuro~
+Genjuro is forging more weapons here.
+~
+Genjuro, the strongest of Galford's foes, became the weaponsmith of the arena
+because of his great strength.  This strength also allows him to fight off
+would-be thieves (hint hint hint)
+Strong as rock, ~
+292875 160 500 W
+53 40 32 100d100+15000 10d20+50
+159000 250000
+8 8 1
+18 100 18 18 18 18 0
+19 3 2
+320 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22131
+protector guard~
+a Protector Guard~
+A Protector Guard stands here checking memberships.
+~
+Damn, you haven't seen a guard this tough looking for a long time.  It is
+obvious he won't be letting anyone who doesn't belong to the protector guild
+pass.
+~
+10315 8396936 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 2 0
+0 0 6 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#22150
+assassin guard~
+an Assassin Guard~
+An Assassin Guard stands here checking memberships.
+~
+Damn, you haven't seen a guard this tough looking for a long time.  It is
+obvious he won't be letting anyone who doesn't belong to the assassin guild
+pass.
+~
+10314 8397960 -1000 W
+60 40 -10 10d100+4500 5d5+5
+50000 200000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22151
+hunter guard~
+the Hunter~
+The Hunter is here looking to take some heads.
+~
+This guy looks like he might kick your ass.  Steer clear of him!!!
+(Or you might be next up on his trophy casing!!!)
+~
+8300 787592 -1000 W
+60 40 -10 10d100+4500 5d5+15
+50000 200000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#22152
+mercenary guard~
+a Mercenary Guard~
+A Mercenary Guard stands here looking for unfamiliar faces to bash.
+~
+This mercenary will surely render you unconscious if you mess with him.
+~
+10314 8397960 0 W
+60 40 -10 10d100+4500 5d5+5
+50000 200000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#22199
+senator exon exxon asshole from nebraska tightass~
+Senator Exon~
+The Nebraska Asshole, Senator Exon, is here playing with his dildos.
+~
+The senator is here playing with his dildos, popping his inflatable love
+toy (because he can not get any), and reading pornos depicting transsexual
+Nazi Eskimos.  Stupid as shit, ~
+8 512 -1000 W
+3 -20 100 3d3+3 1d2+0
+0 500
+8 8 1
+3 0 3 3 3 3 0
+0 5 2
+1000 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+$

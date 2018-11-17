@@ -1,0 +1,84 @@
+#3300
+Diablo devil demon~
+Diablo~
+Diablo grins at you evilly and walks slowly towards you.
+~
+Diablo is the essence of evil in this world.  He is about 10 feet tall,
+covered in red scales with a spikes protruding from his back and arms.  Ram's
+horns grow from his head, and his hands end in wicked looking claws.  His
+muscles bulge under the thick armor of his skin.  The room warms noticibly as
+he approaches, and you wonder how anyone could stand to be near him for long
+enough to kill him.
+~
+1412987 4227112 -1000 W3
+200 86 -39 100d20+30000 20d20+127
+1000000 1000000
+8 8 0
+25 0 13 13 25 25 0
+18 5 0
+-390 8 8 1000 50 50
+5 5 5 5 5
+1 0 62
+6 15
+~
+#3301
+knight blood~
+a Blood Knight~
+A Blood Knight charges you and attacks!
+~
+This knight is about 7 feet tall and wearing a complete set of armor.
+He has a huge sword which he wields in one hand, and advances on you
+menacingly.
+~
+8 0 0 W3
+127 73 -36 0d0+6000 12d12+80
+0 0
+8 8 0
+25 0 13 13 18 13 13
+0 3 2
+-360 3 4 0 100 50
+10 10 10 10 10
+0 0 0
+6 15
+~
+#3302
+advocate mage~
+an Advocate~
+An Advocate points it's staff at you and lets loose a ball of magic.
+~
+This mage is wearing grey robes and holds a long staff in his right
+hand.  His head looks like a skull with horns, and the evil grin never
+leaves it's face.  This thing fairly emanates evil.
+~
+8 0 0 W3
+127 35 -20 0d0+6000 8d8+40
+100000 100000
+8 8 0
+13 0 18 18 18 13 13
+0 3 2
+-200 7 4 0 100 50
+10 10 10 10 10
+0 0 0
+6 15
+~
+#3303
+drake azure snake~
+an Azure Drake~
+A huge snake-like being attacks you!
+~
+This thing seems to be a huge snake with four arms and horns growing
+out of its head.  It is about 10 feet tall, and towers above you as
+it rears back to attack you.
+~
+8 0 0 W3
+127 73 -35 0d0+6000 10d10+60
+0 0
+8 8 0
+25 0 13 13 18 13 13
+0 3 2
+-350 9 8 0 100 50
+10 10 10 10 10
+0 0 0
+6 15
+~
+$

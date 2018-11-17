@@ -1,0 +1,507 @@
+#2600
+cap thinking helm~
+Thinking Cap~
+A small non-descript helm sits in one corner.~
+~
+25 64 17 0
+0 0 0
+100 0 0 0
+1 1000000 1000000
+A
+13 5
+A
+10 30
+A
+24 3
+A
+16 -3
+#2601
+staff archangel apocalypse~
+Archangel's Staff of Apocalypse~
+A tall, ornate staff is planted in the ground here.~
+$n raises the $p and utters the word 'wkuoditrak'.~
+4 64 8193 0
+0 0 0
+100 20 20 41
+1 1000000 1000000
+A
+13 5
+A
+10 30
+A
+4 3
+A
+3 3
+#2602
+robe wisdom wrap~
+Wisdom's Wrap~
+A long ornate robe sits in a crumpled heap on the floor.~
+~
+11 64 9 0
+0 0 4
+0 0 0 0
+10 1000000 1000000
+A
+13 5
+A
+10 30
+#2603
+Dreamflange mace~
+Dreamflange~
+An ordinary looking mace has been left here.~
+~
+5 64 8193 33554432
+0 0 0
+0 6 5 6
+16 1000000 1000000
+A
+10 30
+A
+13 5
+A
+23 -5
+#2604
+Reaver Messerschmidt axe~
+Messerschmidt's Reaver~
+A HUGE axe is standing in the corner.~
+~
+5 64 8193 0
+0 0 0
+0 12 2 6
+28 1000000 1000000
+A
+18 4
+A
+17 4
+A
+11 -25
+A
+1 6
+#2605
+Needler crossbow~
+the Needler~
+A small crossbow lies on the ground.~
+~
+5 64 8193 16777216
+0 0 0
+0 9 2 14
+1 1000000 1000000
+A
+18 -6
+A
+17 4
+#2606
+shield Dragon Breach~
+Dragon's Breach~
+An ornate shield with the face of a dragon lies on the floor.~
+~
+9 64 513 0
+0 0 1
+20 0 0 0
+10 1000000 1000000
+A
+10 -20
+A
+1 5
+#2607
+helm Gotterdamerung~
+Gotterdamerung~
+A huge ornate helm decorated with four horns stares back at you.~
+~
+9 64 17 167772160
+0 0 13
+16 0 0 0
+18 1000000 1000000
+A
+1 2
+A
+2 2
+A
+3 2
+A
+4 2
+#2608
+helm Lightforge~
+Lightforge~
+A helm with a small human skull on the front grins at you.~
+~
+9 64 17 33554432
+0 0 0
+10 0 0 0
+3 1000000 1000000
+A
+17 2
+A
+18 3
+A
+1 1
+A
+2 1
+A
+3 1
+A
+4 1
+#2609
+carapace scavenger armor~
+Scavenger Carapace~
+A small carapace from a scavenging monster lies empty on the ground.~
+~
+11 64 0 33554432
+0 0 63
+0 0 0 0
+10 1000000 1000000
+A
+16 10
+#2610
+shield stormshield~
+Stormshield~
+A large kite shield with a picture of a lion on it sits on the floor.~
+~
+9 64 513 0
+0 63 0
+20 0 0 0
+10 1000000 1000000
+A
+1 10
+A
+2 10
+#2611
+flesh torn souls~
+Torn Flesh of Souls~
+A small piece of torn flesh sits rotting on the ground.~
+~
+12 64 9 0
+0 0 63
+0 0 0 0
+1 1000000 1000000
+A
+11 25
+A
+5 4
+A
+16 -24
+#2612
+club protector~
+the Protector~
+A large spiked club sits against the wall.~
+$n raises $p and utters the word 'msguuwtre'~
+3 64 16385 0
+0 0 13
+100 10 10 28
+1 0 0
+A
+16 -17
+A
+5 2
+#2613
+helm harlequin crest~
+Harlequin Crest~
+A gold helm set with 3 large gems sparkles from the ground.~
+~
+9 64 17 0
+0 0 0
+10 0 0 0
+5 1000000 1000000
+A
+10 30
+A
+11 30
+A
+1 1
+A
+2 1
+A
+3 1
+A
+4 1
+#2614
+armor plate light naj~
+Naj's Light Plate~
+A suit of gleaming light plate armor sits in a pile on the floor.~
+~
+9 64 9 0
+0 0 13
+10 0 0 0
+1 0 0
+A
+13 5
+A
+10 20
+#2615
+hatchet aguinara axe~
+Aguinara's Hatchet~
+A small hatchet sits in the corner waiting to be used.~
+~
+5 64 8193 0
+0 0 0
+0 5 5 6
+4 1000000 1000000
+A
+13 6
+A
+24 6
+#2616
+helm veil steel~
+Veil of Steel~
+A large steel helm ringed with horns stares at you from the corner.~
+~
+9 64 17 1
+0 0 13
+16 0 0 0
+10 1000000 1000000
+A
+11 20
+#2617
+ring constricting~
+Constricting Ring~
+A large gold ring with a red stone set in the top sits in the dust.~
+~
+9 64 3 0
+0 0 0
+12 0 0 0
+2 1000000 1000000
+A
+11 30
+#2618
+ring band empyrean~
+Empyrean Band~
+A small silver ring set with a blue stone rests on the ground.~
+~
+12 64 3 33554432
+0 0 0
+0 0 0 0
+1 0 0
+A
+1 3
+A
+2 3
+A
+3 3
+A
+4 3
+A
+5 3
+A
+6 3
+#2619
+ring regha~
+Ring of Regha~
+A small silver ring sits in the dust.~
+~
+12 64 3 33554432
+0 0 0
+0 0 0 0
+1 1000000 1000000
+A
+13 5
+A
+24 6
+A
+1 -3
+A
+2 -3
+#2620
+circlet royal~
+Royal Circlet~
+A gold circlet worn by some king of ages gone by sits on the ground.~
+~
+9 64 17 33554432
+0 0 0
+15 0 0 0
+1 0 0
+A
+10 30
+A
+1 1
+A
+2 1
+A
+4 1
+A
+3 1
+#2621
+armor coat demonspike~
+Demonspike Coat~
+A large suit of spiked armor sits on the ground looking dangerous.~
+~
+9 64 9 0
+0 0 0
+18 0 0 0
+30 1000000 1000000
+#2622
+staff thundercall~
+Thundercall~
+A large staff with blades at each end sits against the wall.~
+$n raises $p and utters the words 'cdertamow narp'~
+3 64 16385 33554432
+0 0 0
+107 15 15 30
+4 1000000 1000000
+A
+17 4
+#2623
+sword grandfather~
+the Grandfather~
+The grandfather of all swords is stuck point down in the ground.~
+~
+5 64 8193 0
+0 0 0
+0 6 5 3
+1 0 0
+A
+11 30
+A
+18 4
+A
+1 1
+A
+2 1
+A
+3 1
+A
+4 1
+#2624
+sword executioner blade~
+the Executioner's Blade~
+A large sword with a strangely serrated blade lies on the ground.~
+~
+5 64 0 1
+0 0 0
+0 13 2 3
+10 1000000 1000000
+A
+17 4
+#2625
+cleaver butcher~
+the Butcher's Cleaver~
+A large bloody cleaver lies on the ground where it was dropped.~
+~
+5 64 8193 0
+0 0 0
+0 1 35 6
+4 1000000 1000000
+A
+17 4
+A
+18 4
+A
+1 3
+#2626
+buckler strong balance~
+Strong buckler of balance~
+A buckler lies on the ground.~
+~
+9 0 513 0
+0 0 0
+3 0 0 0
+2 200 200
+A
+14 5
+#2627
+buckler balance grand~
+Grand buckler of balance~
+A buckler lies on the ground.~
+~
+9 64 513 0
+0 0 0
+5 0 0 0
+2 500 500
+A
+14 5
+#2628
+buckler glorious stability~
+Glorious buckler of stability~
+A buckler lies on the ground.~
+~
+9 64 513 0
+0 0 0
+7 0 0 0
+2 1000 1000
+A
+14 15
+#2629
+shield large grand balance~
+Grand large shield of balance~
+A large shield lies on the ground.~
+~
+9 64 513 0
+0 0 0
+7 0 0 0
+10 1500 1500
+A
+14 5
+#2630
+shield large glorious stability~
+Glorious large shield of stability~
+A large shield lies on the ground.~
+~
+9 64 513 0
+0 0 0
+9 0 0 0
+10 10000 10000
+A
+14 15
+#2631
+shield large awesome stability~
+Awesome large shield of stability~
+A large shield lies on the ground.~
+~
+9 64 513 0
+0 0 0
+11 0 0 0
+10 15000 15000
+A
+14 15
+#2632
+buckler spider magic~
+Spider's buckler of magic~
+A buckler lies on the ground.~
+~
+9 0 513 0
+0 0 0
+3 0 0 0
+2 300 300
+A
+10 5
+A
+13 1
+#2633
+buckler raven mind~
+Raven's buckler of the mind~
+A buckler lies on the ground.~
+~
+9 0 513 0
+0 0 0
+3 0 0 0
+2 600 600
+A
+10 10
+A
+13 2
+#2634
+buckler serpent brilliance~
+Serpent's buckler of brilliance~
+A buckler lies on the ground.~
+~
+9 0 513 0
+0 0 0
+3 0 0 0
+2 600 600
+A
+10 15
+A
+13 3
+#2635
+shield large raven mind~
+Raven's large shield of the mind~
+A large shield lies on the ground.~
+~
+9 64 513 0
+0 0 0
+5 0 0 0
+10 900 900
+A
+10 10
+A
+13 2
+$

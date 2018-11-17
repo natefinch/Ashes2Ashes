@@ -1,0 +1,1836 @@
+#200
+The Portal into the Outworld~
+Stepping through the portal, you find yourself in a lousy looking place.
+The path looks like a steam roller waltzed over it. The fields look like a war
+has been through the area.  The place finishes it's masterpiece by some
+dark sky above you.  Maybe you should leave now.
+~
+2 47104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 201
+D2
+~
+~
+0 -1 1309
+S
+#201
+On the path in the Outworld~
+As you continue on your path, you notice that the sky is getting blacker. You
+say to yourself, "Uh, let's go back." Suddenly you see a bunch of people in
+front of you. You rush forward, anxious to meet anyone in this area.
+~
+2 32788 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 202
+D2
+~
+~
+0 -1 200
+S
+#202
+On the path into the Outworld~
+As soon as you begin to walk toward these people, they begin to scream in fear
+and terror and begin to run as if the devil himself was on their heels.  You
+wonder what has happened here.  As you look around you notice a castle in
+the north.  You might find some answers there.
+~
+2 32788 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 203
+D2
+~
+~
+0 -1 201
+S
+#203
+Just Before the City in the Outworld~
+Just before the gates the air seems to get worse.  Your eyes are burning now
+and you are also coughing and wheezing trying to get this air (they call this
+air?) into your lungs.  Where's an oxygen mask when you need one?  With your
+last ounce of strength, you pull yourself toward the gates of the city.
+~
+2 32788 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 204
+D2
+~
+~
+0 -1 202
+S
+#204
+At the gates of the city in the Outworld.~
+Finally you reach the gates.  As you breathe oxygen into your lungs, you
+look around.  You hear a source of shouting and cheering, but you can't figure
+out where it's coming from.
+~
+2 32768 1
+0d0+0 0 0
+D0
+The gates to the city are in front of you.
+~
+gates~
+1 -1 205
+D2
+~
+~
+0 -1 203
+S
+#205
+Within the city of the Outworld~
+As you look around, you know you have seen disaster zones that look better than
+this.  Nothing but trash and filth as far as the eyes can see.  The cheering you
+heard earlier seems to be coming form the north.
+~
+2 32768 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 206
+D1
+~
+~
+0 -1 223
+D2
+~
+gates~
+1 -1 204
+D3
+~
+~
+0 -1 227
+S
+#206
+Main Street~
+People are all over the place doing everything from stealing to killing as
+well as other gruesome tasks.  Many notice you and begin whispering to others
+about you.  As you strain your ears, the only words you can here are "fight,"
+"Combat," and "Shao Kahn."  You have no idea what is meant by any of these
+words, but you have a bad feeling that you might find out soon.
+~
+2 32768 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 207
+D2
+~
+~
+0 -1 205
+S
+#207
+Fountain Square~
+This is the best place that you have been at since you arrived here, but it
+still looks terrible.  The fountain looks decent enough to drink from though.
+All the commotion you are hearing is still coming from the north.
+~
+2 32768 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 208
+D1
+~
+~
+0 -1 217
+D2
+~
+~
+0 -1 206
+D3
+~
+~
+0 -1 214
+S
+#208
+In Front of Shao Kahn's Castle~
+Here you finally find what all the commotion is about.  There are hundreds of
+people here eagerly trying to get into the castle.  And why you ask?  To
+either watch or take part in the goriest and perhaps deadliest battle
+of all time.  Are you prepared to walk in?  If so, come in and prepare
+yourself for Mortal Kombat.  If not, turn around and go back home.  But
+don't say I didn't warn you.
+~
+2 32768 1
+0d0+0 0 0
+D0
+The Castle Doors lead into the tournament grounds.
+~
+doors~
+1 -1 209
+D1
+~
+~
+0 -1 211
+D2
+~
+~
+0 -1 207
+D3
+~
+~
+0 -1 210
+S
+#209
+Preparation Room~
+You notice many people here checking their armor and equipment very carefully.
+You notice that it's very quiet, except for the occasional curse. Suddenly a
+charred corpse is tossed into the room.  You hear from the speakers "Will the
+next contestant please enter the arena?" There's still a chance to turn back
+so you better take it NOW!
+~
+2 32776 0
+0d0+0 0 0
+D0
+A set of double doors lead the way into the tournament.
+~
+doors~
+1 -1 236
+D2
+~
+doors~
+1 -1 208
+S
+#210
+A Ticket Booth~
+Here you find some ticket booths where hundreds of people are standing in line
+trying to get one of these tickets.  You wonder if your favorite band is in
+town or something like that.  You quit wondering as you look at a life size
+poster on the wall. It shows a well built person with what looks like a mask
+made out of bone.  He's pointing at you and the caption at the bottom says
+"Is that your best?"  You start to worry about what you have gotten yourself
+into.
+~
+2 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 208
+S
+#211
+Tv Cameras and Tons of Cords~
+This combat thing you have been hearing about must be bigger than you thought.
+There are televsion crews and reporters all over the place talking to 
+participants, and some faithful fans.  You notice a news van south of you.  
+You always wondered what's goes on behind the scenes and now here's your big
+chance.
+~
+2 32768 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 213
+D2
+2
+The doors of the newsvan are right behind you.
+~
+doors~
+1 -1 212
+D3
+~
+~
+0 -1 208
+S
+#212
+Inside the News Van~
+As you sneak inside the van, you notice all of the equipment used behind
+the scenes.  Everything from video screens to footage editing machines.
+Suddenly someone notices you and orders you out.  Looks like you better
+split before things really get ugly.
+~
+2 32776 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 211
+S
+#213
+Yelling and Screaming~
+Looks like a pier six brawl going on here.  After what you have seen though,
+it doesn't surprise you. You drill a couple of people who thought you were an
+easy target, but you feel you should probably leave before things really get
+out of hand.
+~
+2 32768 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 211
+S
+#214
+A Side Street~
+Flies are buzzing everywhere around here, thanks to all the garbage, and to your
+surprise some corpses that have half rotted here.  The stench is terrible.
+You hold your breath (and your lunch) and get outta here.
+~
+2 32768 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 215
+D1
+~
+~
+0 -1 207
+D3
+~
+~
+0 -1 231
+S
+#215
+Entrance to the Paladin's Guild~
+This area doesn't look like it belongs in this city.  The main reason is that
+it's clean.  I mean white glove test clean.  You see some flowers in a vase
+here.  It looks a lot better than the rest of the city does.
+~
+2 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 214
+D4
+~
+~
+0 -1 216
+S
+#216
+Into the Holy Light~
+Standing here you feel the power of your clan running through you.  You
+remember taking your oath as a Paladin.  Before you leave, as you know you
+must do, you bow your head in a silent prayer asking for strength to carry
+you on into doing right.
+~
+2 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 232
+D5
+~
+~
+0 -1 215
+S
+#217
+A Side Street~
+You hold your nose as you come into this area.  This place is definitely the
+worst you have ever seen.  Suddenly a throwing star blows by your head and
+sticks itself in the wall behind you.  You decide to leave while you still
+can.
+~
+2 32768 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 220
+D2
+~
+~
+0 -1 218
+D3
+~
+~
+0 -1 207
+S
+#218
+Entrance to Cleric's Guild~
+A few small crosses are all over the walls here.  Maybe they believe that
+religion helps in healing the soul and the body as well as the mind.  There
+are steps leading upstairs.
+~
+2 32776 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 217
+D4
+~
+~
+0 -1 219
+S
+#219
+Sanctuary~
+You feel a sense of safety as you stand here.  It feels kind of nice after
+everything you have been through in your life so far. Such peace, such
+tranquillity, such.... aww the heck with it.  You know you want to go fight
+some more, so get going.  Why waste your time here?
+~
+2 32776 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 234
+D5
+~
+~
+0 -1 218
+S
+#220
+Entrance to Anti-Paladin's Guild~
+This place has a creepy feel to it.  The ax that's in the wall that is about
+your height doesn't make you feel better.  This place is definitely bad for
+your health.  You might want to bail out while the bailing is good.
+~
+2 32768 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 217
+D5
+~
+~
+0 -1 221
+S
+#221
+A Dark and Secret Room~
+Thanks to your special Anti-Paladin abilities, you are the only one able to
+see in this total darkness.  Looks like some others were discussing plans
+until you showed up. Maybe you best be getting along.
+~
+2 32777 1
+0d0+0 0 0
+D4
+~
+~
+0 -1 220
+D5
+~
+~
+0 -1 222
+S
+#222
+Too Dark to See Anything~
+It's too dark to see anything. You better keep going.
+~
+2 32776 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 221
+D5
+~
+~
+0 -1 233
+S
+#223
+A Side Street~
+Some trashcans are barely seen with all the mounds of trash that is lying here.
+As you look around you see a poster on the wall.  It's a bounty poster.
+The picture is that of a male with some type of metal implant in his head.
+Unfortunately, the name of the character has been ripped off.  But for now
+you have your own mission (whatever that is.)
+~
+2 32768 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 224
+D3
+~
+~
+0 -1 205
+S
+#224
+Entrance To Warrior's Guild~
+You feel a sense of good friendship as you enter here.  You feel that whatever
+happens out there, all of it stops at the door.  Here you could relax and enjoy
+good company.
+~
+2 32776 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 223
+D4
+~
+~
+0 -1 225
+S
+#225
+Peace and Tranquility~
+You feel a sense of deep calm and peacefulness here.  You feel emotions that
+you could never explain to others.  Sadly you wipe a tear from your eye as you
+know you must leave the area.
+~
+2 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 226
+D5
+~
+~
+0 -1 224
+S
+#226
+The Practice Room~
+People are showing new attack skills to others here.  You notice that the
+swords are blunt, and that it is padded along the walls and floor.
+~
+2 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 225
+S
+#227
+A Side Street~
+There's enough garbage around here to make this place a dump.  Suddenly a wind
+blows some paper into your face.  As you look at it, you notice that it's a
+picture.  It shows 2 creatures with four arms and underneath the caption says
+"ARE YOU PREPARED?"  As you drop the photo back to the ground, you wonder
+what other surprises are here.
+~
+2 32768 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 205
+D3
+~
+~
+0 -1 228
+S
+#228
+Entrance to The Theives Guild~
+Not exactly the most cheeriest place you've been to.  Suddenly you notice
+that all around you there is an array of weapons and armor that is just
+laying here.  As you look closer at all this stuff,  it is either worseless
+junk or it is stamped "Property of Theives Guild."  Looks like though there
+isn't anything here that is worth taking.
+~
+2 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 227
+D4
+~
+~
+0 -1 229
+S
+#229
+A Smoky Area~
+Where is all that smoke coming from?  This question keeps popping up in your
+mind as you look (look? yeah right) around in here.  You think you see a way
+north but it might be easier to go back down the way you came.
+~
+2 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 230
+D5
+~
+~
+0 -1 228
+S
+#230
+The Room of Stealth and Darkness~
+Shadows move swiftly here in the gloom.  In the smoky dark you can barely see
+shapes standing rigid around the area.  You think you see somebody that is in
+the middle of the room.  Looks like the boss.
+~
+2 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 229
+S
+#231
+The Trading Store of The Chipmunks and The Chipettes~
+Of all the places to find, you would never think to find a place like this
+here.  Yet here it is in the middle of nowhere.  This is the only trading
+center for miles around so you hope there is something good here.  At least
+the place is clean.  You hope the goods here are as clean as the store.
+Knowing Alvin's reputation though you seriously doubt it.
+~
+2 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 214
+D3
+~
+~
+0 -1 287
+D4
+~
+~
+0 -1 235
+D5
+~
+secret special~
+2 278 291
+D7
+~
+~
+0 -1 286
+D9
+~
+~
+0 -1 288
+S
+#232
+A Small Church~
+A large cross is on the front wall here.  This doesn't look like a practice
+area but it is.  You notice other paladins looking at you.  They smile and go
+back to their prayers in silence.
+~
+2 32776 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 216
+S
+#233
+The Anti-Paladin's Training Center~
+With books of sinister spells on the shelves, a dark atmosphere, and plenty
+of weapons covered with a dry sticky stuff (probably blood), you feel there's
+no place like home.  In fact you could call this home.  But you have other
+things to do now, so you decide to practice now and come back and "play"
+with your "friends" later.
+~
+2 32777 1
+0d0+0 0 0
+D4
+~
+~
+0 -1 222
+S
+#234
+The Cleric's Room of Silence~
+You hear absolutely nothing in this room.  You notice rows and rows of jars
+with faded labels on them and many books of magic on the shelves and on the
+tables.  Definitely a place of knowledge.
+~
+2 32776 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 219
+S
+#235
+The Post Office~
+A small post office is set up here.  You may want to send a letter to someone
+but like anything else around here, it will probably be delayed quite a while.
+Still, it's the only one around.
+~
+2 32920 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 231
+S
+#236
+Your First Battle~
+Welcome to the Arena of Mortal Kombat.  Here you will find that there is no
+retreat, no surrender.  People from all over come here to fight (and die)
+to have a crack at winning the big one.  But it all starts here.
+~
+2 38920 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 237
+D1
+~
+~
+0 -1 242
+D2
+~
+doors~
+1 -1 209
+D3
+~
+~
+0 -1 242
+S
+#237
+The Courtyard~
+Congratulations on beating your first challenge, but it only gets worse the
+further you continue in the tournament. By now the crowds have gathered on the
+sides above you because of course they want to see death and destruction but
+they wouldn't want to sit on the spikes that have now suddenly appeared on
+your left and right.  There's no way out of here now. You have to go on.
+~
+2 38920 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 238
+D1
+~
+~
+0 -1 242
+D2
+~
+~
+0 -1 236
+D3
+~
+~
+0 -1 242
+S
+#238
+The Courtyard~
+You've done well to get this far in the tournament.  As you look on the spikes
+you see dried blood, a few destroyed pieces of equipment and a head or two on
+the spikes.  Suddenly you hear a scream from above and watch in horror as a
+body drops onto the spikes right beside you.  The blood splashes everywhere
+all over you.  You try to get your mind back onto the business at hand.
+~
+2 38920 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 239
+D1
+~
+~
+0 -1 242
+D2
+~
+~
+0 -1 237
+D3
+~
+~
+0 -1 242
+S
+#239
+Hall of Champions~
+You notice statues of people who first defeated Shang Tsung here.  You see the
+statues of Liu Kang, Sonya Blade, Kano, Sub-Zero, Johhny Cage, Rayden, and
+Scorpion.  You also see a statue of a four armed creature. Aren't you glad
+you don't have to face it?  Right now you better worry about your next
+opponent because it's time to get down to business.
+~
+2 38920 0
+0d0+0 0 0
+D0
+A stone door is in the wall here
+~
+door~
+2 293 240
+D1
+~
+~
+0 -1 242
+D2
+~
+~
+0 -1 238
+D3
+~
+~
+0 -1 242
+S
+#240
+First Leg Completed~
+Nice job in making it here.  As you look around you see that others have made
+it this far as well.  They notice you and smile, but you wonder how far they
+will go to actually win this tournament.  You can relax here but don't put
+your guard down too much.
+~
+2 32792 0
+0d0+0 0 0
+D2
+~
+door~
+1 293 239
+D4
+~
+~
+0 -1 241
+S
+#241
+Beginning the Second Leg of the Tournament~
+As you prepare yourself to continue on in the rankings of the tounament, you
+notice a sign.
+The sign says,
+
+BECAUSE YOU HAVE MADE IT THIS FAR IN THE TOUNRNAMENT, WE HAVE DECIDED TO RAISE
+THE STAKES HIGHER.  FOR YOUR NEXT BATTLES, YOU WILL BE FIGHTING OVER "THE PIT"
+WHERE THERE IS NO CHANCE TO FLEE.  IF YOU FLEE, WELL LET'S JUST SAY IT WON'T
+BE PLEASEANT. HAVE A NICE DAY.
+
+SIGNED,
+
+SHAO KAHN
+
+This might be a good time to bail out while you can.
+~
+2 32776 0
+0d0+0 0 0
+D2
+A door is here leading to the second part of the tournament.
+~
+door~
+1 -1 243
+D5
+~
+~
+0 -1 240
+S
+#242
+Onto The Spikes~
+This wasn't exactly the wisest move you've ever done.  Once you stepped
+onto the floor, hundreds upon hundreds of spikes rise up through the floor.
+You can only stare helplessly in agony as the spikes go thorugh your feet
+(EWW!), your legs (CRACK!), and through the rest of your body.....
+
+Fortunately, you are dead by the time the spikes have reached your brain.
+
+Sorry Mortal, but your Quest for Mortal Kombat Master is over.
+~
+2 45186 0
+1d1+199 90 0
+D3
+~
+~
+0 -1 209
+S
+#243
+A Stone Walkway Above The Pit~
+You step out upon a solid stone walkway.  As you look around, you see that you
+can fight and defend on it, but if you flee, well that's a different story.
+But you have no time to think about that now.  Because one screwup and you might
+find yourself on the "sharp" (not short) end of the stick.
+~
+2 32776 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 241
+D1
+~
+~
+0 -1 250
+D2
+~
+~
+0 -1 244
+D3
+~
+~
+0 -1 250
+S
+#244
+Further along the Stone Walkway~
+Now that you are used to fighting on such narrow grounds, you decide to take a 
+look around below you.  All you see around you are dozens and dozens of spikes
+with a few dead bodies sticking on some of them.  You get so engrossed in this
+grisly sight that you almost are hit by a kick that your latest opponent sends
+at you.  It's time that you concentrate on the task at hand.
+~
+2 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 243
+D1
+~
+~
+0 -1 250
+D2
+~
+~
+0 -1 245
+D3
+~
+~
+0 -1 251
+S
+#245
+Travelling the Stone Pathway~
+You notice that this place is kept pretty clean (except of course those blood
+spots you see everywhere).  Suddenly you notice somebody is just standing
+there ABOVE the spikes in The Pit!.  How the heck did they do that?  Maybe
+it's a clan secret cause you don't have a clue.  Either way, the road to
+become Master does not come by a few cheap parlour tricks (though they could
+help).
+~
+2 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 244
+D1
+~
+~
+0 -1 250
+D2
+~
+~
+0 -1 246
+D3
+~
+~
+0 -1 250
+S
+#246
+Near the End of the Stone Pathway over The Pit~
+You can see the end of this most deadly and dangerous path in sight.  But
+there is another opponent here waiting to take you on.  You look your opponent
+over and think "This one doesn't look so tough." You stick with that thought
+until your opponent unleashes one heck of an attack.  You better get going
+before your over confidence causes your downfall.
+~
+2 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 245
+D1
+~
+~
+0 -1 254
+D2
+There's a door leading outta here.
+~
+door~
+2 294 247
+D3
+~
+~
+0 -1 250
+S
+#247
+You Made It!~
+You made it this far which is impressive.  You notice that there are very 
+few others here with you.  Obviously they weren't prepared as you were.
+Good luck on the final leg!
+~
+2 45080 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 246
+D4
+~
+~
+0 -1 248
+S
+#248
+Begining of the Third Leg of the Tournament~
+The only thing of real importance here is another sign.
+This one says:
+
+CONGRATULATIONS MORTAL FOR ARRIVING THIS FAR IN THE TOURNAMENT.  WE NOW
+WILL INCREASE THE DIFFICULTY OF THE TOURNAMENT.  YOU WILL BE ENTERING WHAT
+IS CALLED THE PIT II AND THE WARRIOR SHRINE. NOT ONLY WILL YOU MEET A FATEFUL
+DEATH BELOW YOU BUT NOW YOU CAN DIE IF YOU JUMP TOO HIGH (ie. go up).  YOU
+HAVE SHOWN WISDOM, COURAGE, AND POWER TO GET THIS FAR. CONTINUE AND PERHAPS
+I WILL SEE YOU.
+
+You notice at the bottom of the sign it says in small letters:
+"so I can destroy you personally."
+~
+2 45080 0
+0d0+0 0 0
+D0
+The door leading to the final leg is to the north.
+~
+door~
+1 -1 249
+D5
+~
+~
+0 -1 247
+S
+#249
+Warrior Shrine/The Pit II~
+Wow!  Looks like Shao Kahn wasn't kidding about the spikes.  You notice them
+very quickly since you almost ran into one entering the area.  As you look
+down, you see some cement with what looks like cracks in it.  You wonder how
+they got there.  In fact you're wondering so much you almost forgot about
+your opponent.  Unfortunately, your opponent didn't.
+~
+2 45064 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 257
+D1
+~
+~
+0 -1 262
+D2
+~
+door~
+1 -1 248
+D3
+~
+~
+0 -1 262
+D4
+~
+~
+0 -1 263
+S
+#250
+The Pit~
+Remember those spikes you passed as you walked through the first leg of your
+journey?  Well now you are going to get a real up close and personal view of
+them because YOU'RE FALLING.....
+
+                                AND FALLING......
+
+                                                 AND FALLING......
+
+Until you SLAM onto the spikes below.
+
+Sorry Mortal, but your Quest to be Master of Mortal Kombat ends here.
+~
+2 45186 0
+1d1+199 90 0
+D2
+~
+~
+0 -1 209
+S
+#251
+The Pit~
+It looks like you made a big mistake because YOU'RE FALLING.........
+
+AND FALLING.....
+
+                  AND FALLING......
+                                 SLAM! You landed on a ledge about 15 feet
+above the spikes in the pit. (aren't you lucky).  To any other person you look
+like you are walking on air.  The path leads west or there is a ladder taking
+you back where you fell off.
+~
+2 45192 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 252
+D4
+~
+~
+0 -1 244
+S
+#252
+Hovering over the Spikes in The Pit~
+You follow the see through path to the wall on the far side of The Pit. Looks
+like there is no where else to go but back the way you came.
+~
+2 45192 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 251
+D3
+A door is in the wall here.
+~
+door~
+1 -1 253
+S
+#253
+Shao Kahn's Communication Center~
+You come into the Central Communications Center of the castle.  In the room
+you see various pieces of equipment. Some of this includes walkie-talkies, a
+telephone (in this era hmmm weird), a computer (even weirder), and a long
+range two way radio.  You notice you aren't the only one in here.
+~
+2 45064 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 252
+S
+#254
+The Pit~
+Did you screw up big time here. Whether it was a typo or whatever your taking
+a long drop. In other words YOU'RE FALLING......
+
+                                                AND FALLING
+
+                                                           AND FALLING......
+
+SLAM!  You land on a ledge about 15 feet down. Lucky you. You see that the
+ledge continues to the east. You also see a ladder going back up the way you
+fell. Take your choice.
+~
+2 32904 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 255
+D4
+~
+~
+0 -1 246
+S
+#255
+Along the Ledge Above The Pit~
+At the end of the ledge, you end up right beside the wall.  Looks like
+you won't find a shortcut to the top this way, so you might as well as go
+back the way you came.
+~
+2 32904 0
+0d0+0 0 0
+D1
+There is a well worn door here in the wall.
+~
+door~
+1 -1 256
+D3
+~
+~
+0 -1 254
+S
+#256
+Shao Kahn's Prision~
+As you enter here, you notice two cells. One of them is open and so you check out the door.  You notice that the door
+is freshly picked and you wonder who escaped from here.  Suddenly the door to
+the other cage opens up and out comes a well muscled guy with a metal plate
+that covers his right eye.  Looks like you're in trouble now.
+~
+2 32777 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 255
+S
+#257
+Warrior Shrine/The Pit II~
+You begin to wonder if all this effort is really worth it to get this far.
+Suddenly THREE fireballs come from out of nowhere and miss you by inches.
+Now while your trying to regroup from that, your opponent is trying to get
+an early advantage. You better get moving before your either dead meat or
+well done.
+~
+2 45064 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 258
+D1
+~
+~
+0 -1 267
+D2
+~
+~
+0 -1 249
+D3
+~
+~
+0 -1 262
+D4
+~
+~
+0 -1 263
+S
+#258
+Warrior Shrine/The Pit II~
+It's Practically raining fireballs here!!!! While whoever is shooting these
+has lousy aim, once in a while one of these gets too close for comfort.  You 
+better finish your opponent completely and get out of here while you are
+still in one piece.
+~
+2 45065 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 259
+D1
+~
+~
+0 -1 262
+D2
+~
+~
+0 -1 257
+D3
+~
+~
+0 -1 264
+D4
+~
+~
+0 -1 263
+S
+#259
+Sanctuary~
+Now that you got past the first eleven Kombatants, Shao Kahn decides to give
+you an early break.  You might as well take it because it will get worse
+from here.
+~
+2 32792 0
+0d0+0 0 0
+D0
+A door is here to take you to the final areas of the tournament.
+~
+door~
+2 295 260
+D1
+~
+~
+0 -1 262
+D2
+~
+~
+0 -1 258
+D3
+~
+~
+0 -1 262
+D4
+~
+~
+0 -1 263
+S
+#260
+Relief!!!!~
+You see another sign here.
+This one reads:
+
+MORTAL YOU HAVE EARNED THE RIGHT TO CONTINUE INTO THE HEART OF THE OUTWORLD
+WHERE YOU SHALL FACE THE GREATEST OPPONENTS IN THE TOURNAMENT.  IF YOU SHOW
+THAT YOU ARE POWERFUL ENOUGH, YOU MAY LIVE TO FACE ME, SHAO KAHN.
+
+By the looks of the dust in this room, it seems that no one has been here for
+quite some time (maybe never at all).  A portal suddenly opens up above you.
+There's no turning back now.  Check your armor and equipment, catch your
+breath and get going.
+~
+2 45080 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 259
+D4
+~
+~
+0 -1 261
+S
+#261
+Through the Portal~
+Stepping through the portal, you enter a dark forest.  Shadows wisp by you,
+moaning and groaning.  You realize that these shadows are the souls of the
+dead who have partaken in this tournament and failed.  As their punishment,
+they now have to spend eternity here.  With a shiver down your spine, you may
+think that you are now way over your head and that you should go no further.
+~
+2 12293 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 270
+D5
+~
+~
+0 -1 260
+S
+#262
+The Pit II~
+Here's a mathematical equation for you.  What do you get when you have your weight.....
+ 
+           plus all the weight of your equipment......
+ 
+                                                      dropping about thirty stories.....
+ 
+            multiplied by about 9.8 meters/sec which is the speed you are falling.....
+ 
+           and slam so hard into the concrete below that you actually bury
+yourself six feet under?
+ 
+The Answer is simple.  It equals YOUR DEATH!
+ 
+Sorry Mortal, The Quest ends here for you.
+~
+2 45186 0
+1d1+199 90 0
+D2
+~
+~
+0 -1 209
+S
+#263
+Warrior Shrine Spikes~
+Looks like your opponent must have nailed you a real good uppercut.  In fact
+it was so good that you were lifted straight up.  Too bad you forgot about the
+spiked ceiling.
+
+Look at the bright side.  You won't have to worry about remembering anything
+ever again.
+Sorry Mortal, this ends this Quest for you.
+~
+2 45186 0
+1d1+199 90 0
+D5
+~
+~
+0 -1 209
+S
+#264
+The Pit II~
+You know... taking drops off of very high ledges is not my idea of a good time.
+
+
+In other words YOU ARE DROPPING LIKE A ROCK!
+
+THUD!  Fortunately you found a ledge to be on. Aren't you a lucky person.
+Maybe the gods are smiling on you or whatever.  The ledge leads to the west
+and there's a ladder going back up to the other ledge.  Watch the spikes on 
+the way back up.
+~
+2 45200 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 265
+D4
+~
+~
+0 -1 258
+S
+#265
+Along the Ledge~
+Not much to look at here.  Just the spikes above you and the spikes and cement
+below you in the two Pits. Suddenly three fireballs land all around you! It's
+time to get moving and quickly!!!
+~
+2 45200 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 264
+D3
+A Green-Colored door is here in the wall.  Looks like a jade color.
+~
+jade~
+1 -1 266
+S
+#266
+Jade's Room~
+As you come in here, you notice everything is made up of colored jade
+glass.  From the light shades to even the jade-colored flooring.  You are so
+much in awe that not until the last second you notice the Occupant of this
+room.  Her name is Jade and she doesn't like trespassers.
+~
+2 45184 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 265
+S
+#267
+The Pit II~
+This is not what I would call a good career move.  Unfortuantely, you took a 
+wrong step and now YOUR ENTIRE LIFE IS FLASHING IN FRONT OF YOUR EYES!!!!!!!!!
+
+A
+ H
+  H
+   H
+    H
+     H
+      H
+       H
+          H.........
+
+                   THUD!!!!  But what is this?  You landed on a ledge about
+20 feet down from the other ledge.  You notice a ladder is going back up to
+the ledge that you dropped from, and that the ledge also goes to the east.
+Pick your pleasure.
+~
+2 45200 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 268
+D4
+~
+~
+0 -1 257
+S
+#268
+Along the ledge~
+With the spikes above and below you, you hope that the ground is firm below
+you or the spikes won't drop on you.  Suddenly, three fireballs scatter the
+ground around you. You better get out of here now cause right now you are a
+sitting duck!
+~
+2 45200 0
+0d0+0 0 0
+D1
+A smoking black door is in the wall here.
+~
+black~
+1 -1 269
+D3
+~
+~
+0 -1 267
+S
+#269
+Smoke's Room~
+What is this place? There's enough shadows and smoke to put anyone to serious
+coughing spells.  Although you can't be sure.  You think you see a figure in the
+smoke.  As you look closer, you notice that smoke is actually coming from this
+person.  Unfortunately, you ran into Smoke's domain, and he detests trespassers.
+Looks like your luck just ran out.
+~
+2 45064 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 268
+S
+#270
+Shang Tsung's Room~
+Shang Tsung has lived well off of the tournament.  All around you you see
+beautifully crafted works of art and dozens and dozens of paintings with
+frames made out of gold, silver, and other precious metals.  Each of these
+have embedded in them dozens upon dozens of gems such as diamonds, rubys,
+emeralds, and sapphires.  Upon a solid gold throne you see Shang Tsung.
+Shang Tsung notices you, then all of a sudden he turns into Reptile and then
+just disappears.  Suddenly he reappears three feet in front of you, prepared
+for battle.  You have a feeling that this won't be easy.
+~
+2 45064 0
+0d0+0 0 0
+D0
+A big, solid gold throne is here.
+~
+throne~
+2 292 271
+D2
+There's a door here to escape the throne room.  Better use it quick.
+~
+door~
+1 -1 261
+S
+#271
+Goro's Lair~
+If Shang Tsung's room was very nice, this place is a disaster zone.  In the
+background, you see a lot of eyes and they're looking at YOU! Suddenly, you
+hear a roar and you look around quickly.  There you come to face to face with
+Goro, Prince of the Outworld.  He sees you and sends forth a massive fireball
+but you duck it.  Get ready because this battle is going to take a while.
+~
+2 12297 0
+0d0+0 0 0
+D0
+A stone wall is blocking any furthur attempt to go on.
+~
+wall~
+2 296 272
+D2
+~
+throne~
+1 -1 270
+S
+#272
+Furthur into the Lair~
+Farther into the lair you notice that there are more eyes now then there were
+before.  You feel like you are on parade for all these eyes and you want to
+get out of here quickly.  To the north you see a glint of light.  It might be
+the way out of this mess.  Suddenly a huge form steps in front of the light.
+You think to yourself "This is not going to be pretty."
+~
+2 12313 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 273
+D2
+~
+wall~
+1 -1 271
+S
+#273
+Kintaro's Lair~
+As soon as you enter the room you run face to chest with Kintaro.  He heard
+the battle sounds with you and Goro.  Now that you have stepped into his
+domain, you are now his prey.  To your fortune you see a ladder leading up and
+notices your desperate attempt to escape and yells "MORTAL YOU MUST FACE ME TO
+GET THE KEY!!!!"  He then sends a fireball that knocks you off the ladder.
+You better get ready to rumble 'cause it's going to be a long one.
+~
+2 12297 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 272
+D4
+A trapdoor is above the ladder.
+~
+trapdoor~
+2 261 274
+S
+#274
+Your Final Resting Place~
+As you leave the tunnel, you find yourself before a huge set of doors. Above
+the doors you read "BEYOND THESE DOORS LIES THE ALL POWERFUL SHAO KAHN. MORTALS
+TREMBLE IN FEAR!!!!"  With your fist you bang three times on the door.  The door
+opens, and you step in.........
+~
+2 12316 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 275
+D5
+~
+trapdoor~
+1 -1 273
+S
+#275
+Shao Kahn's Throne Room~
+"Welcome to your final battle Mortals!!!" Shao Kahn shouts and then he dashes
+literally at you.  You've never seen a guy that large move that fast.  You 
+barely escaped getting rammed and head toward the door that's north of you.
+Unfortunately you find it locked up tight.  With a sigh of resignation, you
+prepare yourself for the final battle.
+~
+2 12296 0
+0d0+0 0 0
+D0
+The door to finally end this journey is to the north.
+~
+door~
+2 262 276
+D2
+~
+~
+0 -1 274
+S
+#276
+Victory!~
+Congratulations!  You have become one of the few, the proud, The Supreme
+Mortal Kombat Master!  All the people are cheering you as you go around
+the stadium.  Yet somehow you still get the feeling you aren't out of trouble
+yet.
+~
+2 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 277
+D1
+~
+~
+0 -1 278
+D2
+~
+door~
+1 -1 275
+D3
+~
+~
+0 -1 284
+S
+#277
+The Throne of Mortal Kombat!!!~
+Here you are greeted by your new found fans.   Congratulations you have become
+a Supreme Mortal Kombat Master.  Good job.  Now you can stay here and bask in
+all your glory, but if you go down you'll return to Midgaard.
+~
+2 12416 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 276
+D5
+~
+~
+0 -1 3001
+S
+#278
+The East Side of the Stadium~
+Looks like everyone came out in full force to meet you.  There's people
+clapping, cheering, and just having a good time.  One person grabs you and
+gives you a big kiss.  You could learn to like this.
+~
+2 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 279
+D3
+~
+~
+0 -1 276
+S
+#279
+Along the East Side of the Stadium~
+Just more people cheering for you.  Some people are even throwing flowers.
+~
+2 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 280
+D2
+~
+~
+0 -1 278
+S
+#280
+Edge of the Stadium Wall~
+While you are enjoying all this praise you better be careful up here.  Looking
+down over the edge you see some green goo at the bottom of the castle. This 
+goo doesn't look too friendly either.
+~
+2 12416 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 285
+D2
+~
+~
+0 -1 279
+D3
+~
+~
+0 -1 281
+S
+#281
+Behind The Throne~
+You keep looking around cause you have this feeling of being attacked. But you
+don't see anyone or anything around.  While you are looking you look at this
+"goo" down at the bottom of the castle.  Definitely not friendly looking, in
+fact it looks downright nasty.
+~
+2 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 285
+D1
+~
+~
+0 -1 280
+D3
+~
+~
+0 -1 282
+S
+#282
+Western Edge of the Stadium~
+You love these fans.  They cheer you on and on and you are loving every minute
+of it.  Yet somehow you feel you are being stalked and you can't shake the
+feeling.
+~
+2 12416 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 285
+D1
+~
+~
+0 -1 281
+D2
+~
+~
+0 -1 283
+S
+#283
+Along the Western Edge of the Stadium~
+You are being showered by tons of flowers and coins.  When you look closely
+at the coins, you notice they have Shao Kahn's picture on them.  In other
+words the coins are worthless.  You might keep one though for a souvenir.
+~
+2 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 282
+D2
+~
+~
+0 -1 284
+S
+#284
+Western Side of the Stadium~
+You are loved and adored as you come over here.  You shake some hands, give
+out your autograph, and are even kissed by some women.  They cheer more when
+you show off some of your fighting moves.  But you can't help feeling that
+someone's out there and he's watching you........
+~
+2 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 283
+D1
+~
+~
+0 -1 276
+S
+#285
+The Acid Pool~
+With you being so over-confident, you didn't notice you were too far to the
+edge until it was too late.  As you fall you hear screams of fear and dismay,
+and your own scream is of terror.
+
+DOWN........
+
+           DOWN......
+
+                       DOWN you go all the way to the bottom......
+
+SPLASH!  Right into the goo.  Suddenly this goo begins EATING YOU! This isn't
+goo, It's ACID!!! You scream desperately as the acid begins to eat through 
+your equipment, your skin, and finally your muscles.....
+
+Fortunately you died before the acid got to your brain.
+*Anyone for nice fresh skeleton?*
+Sorry Master, you just died.
+~
+2 12434 0
+1d1+199 90 0
+D2
+~
+~
+0 -1 281
+S
+#286
+T&E's Pizza Parlor~
+MMMMMM Boy!  Does it smell good in here.  The smell of pizza here fills the
+whole room.  Looking around you see other mouthwatering goodies as well.
+~
+2 47112 0
+0d0+0 0 0
+D8
+~
+~
+0 -1 231
+S
+#287
+Brittany's Armor Shop~
+Talk about being in the pink here.  This entire place is painted pink.  Looking
+around you also see dozens of pictures covering the place.  Looking closer you
+see that most of the pictures are of Brittany herself but every now and then
+you see a picture of the Chipettes in general or even one including the
+Chipmunks as well.  But this isn't Memory Lane, so I guess you better go about 
+your business.
+~
+2 47112 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 231
+S
+#288
+Alvin's Weapons Shop~
+Boy is this place a mess!!!  You see boxes and crates of stuff just lying around
+and you begin to wonder if this place is even ready to open.  Yet you do
+see some glass cases with some weapons with price tags on them so they must be
+ready to sell (at least you guess anyway).
+~
+2 38920 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 231
+S
+#289
+~
+~
+2 0 0
+0d0+0 0 0
+S
+#290
+MK Shang Morphs holding block~
+This room holds all extra morphs of Shang Tsung.
+~
+2 14336 0
+0d0+0 0 0
+S
+#291
+Nightwolf's Sanctuary~
+Steping into the Earth Realm, you find yourself on holy ground.  The only person
+here you see is a strong Native Americain chanting a prayer for the Earth
+Warriors fighting for the survival of the realm.
+~
+2 47109 0
+0d0+0 0 0
+D4
+~
+secret special~
+2 278 231
+S
+$

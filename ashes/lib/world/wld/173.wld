@@ -1,0 +1,2249 @@
+#17300
+Lag Square~
+You are now in Lag Square.  To the west is a forest and the towers of a
+very large castle can be seen to the northwest.  The main part of town
+is to the south and then east or west.
+~
+173 20 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17399
+D2
+~
+~
+0 -1 17201
+D3
+~
+~
+0 -1 17301
+S
+#17301
+A Small street~
+You have left town and are headed into the wilderness.  The houses are
+fewer and the distance between them is greater.  The smog and busyness
+of the city are slowly fading away.
+~
+173 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 17300
+D3
+~
+~
+0 -1 17302
+S
+#17302
+A Dark Path~
+You are traveling down a dark path through the forest.  You journey onward
+in search of adventure, glory, levels, and money.
+~
+173 1 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17303
+D1
+~
+~
+0 -1 17301
+S
+#17303
+A Dark Path~
+You are traveling down a dark path in the forest.  You have a little trouble
+seeing where you are going, but continue on your journey.
+~
+173 5 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17304
+D2
+~
+~
+0 -1 17302
+S
+#17304
+Entrance to the Lag forest~
+You have entered a small, bright forest.  The sunlight shines down on you
+through the holes in the treeline.  The sounds of birds singing and small
+animals scampering throught the forest can be heard.  In the distance
+a large castle can be seen with many towers and brightly colored flags.
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17311
+D1
+~
+~
+0 -1 17307
+D2
+~
+~
+0 -1 17303
+D3
+~
+~
+0 -1 17306
+D6
+~
+~
+0 -1 17312
+D7
+~
+~
+0 -1 17310
+S
+#17305
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17309
+D1
+~
+~
+0 -1 17306
+D6
+~
+~
+0 -1 17310
+S
+#17306
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17310
+D1
+~
+~
+0 -1 17304
+D3
+~
+~
+0 -1 17305
+D6
+~
+~
+0 -1 17311
+D7
+~
+~
+0 -1 17309
+S
+#17307
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17312
+D1
+~
+~
+0 -1 17308
+D3
+~
+~
+0 -1 17304
+D6
+~
+~
+0 -1 17313
+D7
+~
+~
+0 -1 17311
+S
+#17308
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17313
+D3
+~
+~
+0 -1 17307
+D7
+~
+~
+0 -1 17312
+S
+#17309
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17314
+D1
+~
+~
+0 -1 17310
+D2
+~
+~
+0 -1 17305
+D6
+~
+~
+0 -1 17315
+D8
+~
+~
+0 -1 17306
+S
+#17310
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17315
+D1
+~
+~
+0 -1 17311
+D2
+~
+~
+0 -1 17306
+D3
+~
+~
+0 -1 17309
+D6
+~
+~
+0 -1 17316
+D7
+~
+~
+0 -1 17314
+D8
+~
+~
+0 -1 17304
+D9
+~
+~
+0 -1 17305
+S
+#17311
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17316
+D1
+~
+~
+0 -1 17312
+D2
+~
+~
+0 -1 17304
+D3
+~
+~
+0 -1 17310
+D6
+~
+~
+0 -1 17317
+D7
+~
+~
+0 -1 17315
+D8
+~
+~
+0 -1 17307
+D9
+~
+~
+0 -1 17306
+S
+#17312
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17317
+D1
+~
+~
+0 -1 17313
+D2
+~
+~
+0 -1 17307
+D3
+~
+~
+0 -1 17311
+D6
+~
+~
+0 -1 17318
+D7
+~
+~
+0 -1 17316
+D8
+~
+~
+0 -1 17308
+D9
+~
+~
+0 -1 17304
+S
+#17313
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17318
+D2
+~
+~
+0 -1 17308
+D3
+~
+~
+0 -1 17312
+D7
+~
+~
+0 -1 17317
+D9
+~
+~
+0 -1 17307
+S
+#17314
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17319
+D1
+~
+~
+0 -1 17315
+D2
+~
+~
+0 -1 17309
+D6
+~
+~
+0 -1 17320
+D8
+~
+~
+0 -1 17310
+S
+#17315
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17320
+D1
+~
+~
+0 -1 17316
+D2
+~
+~
+0 -1 17310
+D3
+~
+~
+0 -1 17314
+D6
+~
+~
+0 -1 17321
+D7
+~
+~
+0 -1 17319
+D8
+~
+~
+0 -1 17311
+D9
+~
+~
+0 -1 17309
+S
+#17316
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17321
+D1
+~
+~
+0 -1 17317
+D2
+~
+~
+0 -1 17311
+D3
+~
+~
+0 -1 17315
+D6
+~
+~
+0 -1 17322
+D7
+~
+~
+0 -1 17320
+D8
+~
+~
+0 -1 17312
+D9
+~
+~
+0 -1 17310
+S
+#17317
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17322
+D1
+~
+~
+0 -1 17318
+D2
+~
+~
+0 -1 17312
+D3
+~
+~
+0 -1 17316
+D6
+~
+~
+0 -1 17323
+D7
+~
+~
+0 -1 17321
+D8
+~
+~
+0 -1 17313
+D9
+~
+~
+0 -1 17311
+S
+#17318
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17323
+D2
+~
+~
+0 -1 17313
+D3
+~
+~
+0 -1 17317
+D7
+~
+~
+0 -1 17322
+D9
+~
+~
+0 -1 17312
+S
+#17319
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17324
+D1
+~
+~
+0 -1 17320
+D2
+~
+~
+0 -1 17314
+D3
+~
+~
+0 -1 17329
+D6
+~
+~
+0 -1 17325
+D8
+~
+~
+0 -1 17315
+S
+#17320
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17325
+D1
+~
+~
+0 -1 17321
+D2
+~
+~
+0 -1 17315
+D3
+~
+~
+0 -1 17319
+D6
+~
+~
+0 -1 17326
+D7
+~
+~
+0 -1 17324
+D8
+~
+~
+0 -1 17316
+D9
+~
+~
+0 -1 17314
+S
+#17321
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17326
+D1
+~
+~
+0 -1 17322
+D2
+~
+~
+0 -1 17316
+D3
+~
+~
+0 -1 17320
+D6
+~
+~
+0 -1 17327
+D7
+~
+~
+0 -1 17325
+D8
+~
+~
+0 -1 17317
+D9
+~
+~
+0 -1 17315
+S
+#17322
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17327
+D1
+~
+~
+0 -1 17323
+D2
+~
+~
+0 -1 17317
+D3
+~
+~
+0 -1 17321
+D6
+~
+~
+0 -1 17328
+D7
+~
+~
+0 -1 17326
+D8
+~
+~
+0 -1 17318
+D9
+~
+~
+0 -1 17316
+S
+#17323
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 17328
+D2
+~
+~
+0 -1 17318
+D3
+~
+~
+0 -1 17322
+D7
+~
+~
+0 -1 17327
+D9
+~
+~
+0 -1 17317
+S
+#17324
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 17325
+D2
+~
+~
+0 -1 17319
+D8
+~
+~
+0 -1 17320
+S
+#17325
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 17326
+D2
+~
+~
+0 -1 17320
+D3
+~
+~
+0 -1 17324
+D8
+~
+~
+0 -1 17321
+D9
+~
+~
+0 -1 17319
+S
+#17326
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 17327
+D2
+~
+~
+0 -1 17321
+D3
+~
+~
+0 -1 17325
+D8
+~
+~
+0 -1 17322
+D9
+~
+~
+0 -1 17320
+S
+#17327
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 17328
+D2
+~
+~
+0 -1 17322
+D3
+~
+~
+0 -1 17326
+D8
+~
+~
+0 -1 17223
+D9
+~
+~
+0 -1 17321
+S
+#17328
+The Lag Forest~
+You look at the beautiful trees surrounding you and can't help but feel at
+peace with yourself . . . until you hear it.  NO, it can't be.  The echoes
+of the dreaded word, "Ni!"   FEAR the word Ni!!!!!!!!
+~
+173 0 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 17323
+D3
+~
+~
+0 -1 17327
+D9
+~
+~
+0 -1 17322
+S
+#17329
+A Knight guarding the gate~
+Here stands a large knight guarding a gate to a large wall to the north.
+The wall seems to go on for miles in either direction so you decide to
+approach the gate.   "HALT," the guard cries out!  "We are the knights who
+say NI, in order for you to pass you must bring us a sacrafice . . . . . .
+We demand a shrubbery!!"
+~
+173 4 11
+0d0+0 0 0
+D0
+A gate.~
+gate~
+2 17300 17330
+D1
+~
+~
+0 -1 17319
+S
+#17330
+A Small Road~
+You are now on a small road headed toward the large castle that you have
+been wondering about.  The road joins a much larger road comming from the
+west up ahead.
+~
+173 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 17331
+D2
+~
+gate~
+2 17300 17329
+S
+#17331
+A Large Road~
+This large road heads directly into the castle gate.  The road going to
+the west is blocked because of all of the flooding that happens during
+this time of year.
+~
+173 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 17332
+D2
+~
+~
+0 -1 17330
+S
+#17332
+The Main Gate~
+You stand on a drawbrige looking up at a gigantic castle.  The castle has
+a large cast iron gate and tall stone walls.  The castle is surrounded by
+a moat and has thousands of brightly colored flags waving in the wind.  The
+castle rests on a fairly large hill and is an impressive sight to behold.
+~
+173 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17334
+D2
+~
+~
+0 -1 17331
+S
+#17333
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17336
+D1
+~
+~
+0 -1 17334
+S
+#17334
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17337
+D1
+~
+~
+0 -1 17335
+D2
+~
+~
+0 -1 17332
+D3
+~
+~
+0 -1 17333
+S
+#17335
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17338
+D3
+~
+~
+0 -1 17334
+S
+#17336
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17339
+D1
+~
+~
+0 -1 17337
+D2
+~
+~
+0 -1 17333
+S
+#17337
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17340
+D1
+~
+~
+0 -1 17338
+D2
+~
+~
+0 -1 17334
+D3
+~
+~
+0 -1 17336
+S
+#17338
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17341
+D2
+~
+~
+0 -1 17335
+D3
+~
+~
+0 -1 17337
+S
+#17339
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17342
+D1
+~
+~
+0 -1 17340
+D2
+~
+~
+0 -1 17336
+S
+#17340
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17343
+D1
+~
+~
+0 -1 17341
+D2
+~
+~
+0 -1 17337
+D3
+~
+~
+0 -1 17339
+S
+#17341
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17344
+D2
+~
+~
+0 -1 17338
+D3
+~
+~
+0 -1 17340
+S
+#17342
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17345
+D1
+~
+~
+0 -1 17343
+D2
+~
+~
+0 -1 17339
+D3
+~
+~
+0 -1 17348
+S
+#17343
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17346
+D1
+~
+~
+0 -1 17344
+D2
+~
+~
+0 -1 17340
+D3
+~
+~
+0 -1 17342
+S
+#17344
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17347
+D1
+~
+~
+0 -1 17353
+D2
+~
+~
+0 -1 17341
+D3
+~
+~
+0 -1 17343
+S
+#17345
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17346
+D2
+~
+~
+0 -1 17342
+S
+#17346
+The Great Hall of Castle Lag~
+You have entered a Very large room.  The ceiling is covered with brightly
+colored paintings depicting the history of The Land of Lag.  The gigantic
+walls are covered with pictures of the royal family and many large mirrors.
+People are constantly walking in and out of the room creating a lot of noise
+and confusion.  The King and Queen are in their private room on the West side
+of the castle, but remember to be polite or they might send you to the dungeon.
+~
+173 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17347
+D2
+~
+~
+0 -1 17343
+D3
+~
+~
+0 -1 17345
+S
+#17347
+The Main Stairway~
+You notice the red velvet carpet covering the marble staircase as you slowly
+climb to the second floor.  There are two diamond lighting fixtures on either
+side of the landing.  You marvel at the amount of money that must have been
+spent to build this castle.
+~
+173 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 17344
+D3
+~
+~
+0 -1 17346
+D4
+~
+~
+0 -1 17387
+S
+#17348
+The Reception~
+You are now in a small room off of the main hall.  This is where the royal
+schedule is arranged.  The royal family is very busy and rarely has time to
+talk to people.  Good luck getting an appointment!  As you look to your West
+you see a giant red door.
+~
+173 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17342
+D3
+~
+door~
+1 17318 17349
+S
+#17349
+The Red Room~
+You have entered a long red room.  It has a large wooden dining table with
+candles, several paintings of the her majesty, the Queen of Lag, and several
+red chairs.  To the South is an enormous black door.
+~
+173 0 0
+0d0+0 0 0
+D1
+~
+door~
+1 17318 17348
+D2
+~
+door~
+1 -1 17350
+S
+#17350
+The Black Room~
+This small room is entirely black in memory of the recent death of the
+King's uncle.  A small picture of him rests on the table in the center
+of the room.  You begin to get a cold, mysterious feeling and decide
+that it would be good to get out of this room.  A giant golden door
+stands before you.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17349
+D2
+~
+door~
+1 -1 17351
+S
+#17351
+The Room of gold~
+WOW! Gold in every direction!!!!!!!  This is where the king keeps his
+his spending money.  In the corner is, yet another, picture of the royal
+family.  To the south is a huge white door.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17350
+D2
+~
+door~
+1 -1 17352
+S
+#17352
+The Room of White~
+You are blinded by the light reflecting off of the walls.  After your eyes
+have adjusted you realize that you are in the royal reception.  Before you
+sits the King and Queen of Lag.  You bow humbly and approach them.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17351
+S
+#17353
+A Dark Hallway~
+You are traveling down a dark hallway.  It appears to be part of an older
+section of the castle.  There is also an unpleasant musty smell comming from
+ahead.
+~
+173 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17354
+D3
+~
+~
+0 -1 17344
+S
+#17354
+A Dark Hallway~
+You are traveling down a dark hallway.  It appears to be part of an older
+section of the castle.  There is also an unpleasant musty smell comming from
+ahead.
+~
+173 1 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17355
+D2
+~
+~
+0 -1 17353
+S
+#17355
+A Dark Hallway~
+You are traveling down a dark hallway.  It appears to be part of an older
+section of the castle.  There is also an unpleasant musty smell comming from
+ahead.
+~
+173 1 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17356
+D3
+~
+~
+0 -1 17354
+S
+#17356
+A Dark Hallway~
+You are traveling down a dark hallway.  It appears to be part of an older
+section of the castle.  There is also an unpleasant musty smell comming from
+ahead.
+~
+173 1 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17357
+D3
+~
+~
+0 -1 17355
+S
+#17357
+A Dark Hallway~
+You are traveling down a dark hallway.  It appears to be part of an older
+section of the castle.  There is also an unpleasant musty smell comming from
+ahead.
+~
+173 1 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 17358
+D3
+~
+~
+0 -1 17356
+S
+#17358
+A Dark Hallway~
+You are traveling down a dark hallway.  It appears to be part of an older
+section of the castle.  There is also an unpleasant musty smell comming from
+ahead.
+~
+173 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17357
+D3
+~
+~
+0 -1 17359
+S
+#17359
+A Dark Hallway~
+You are traveling down a dark hallway.  It appears to be part of an older
+section of the castle.  There is also an unpleasant musty smell comming from
+ahead.
+~
+173 1 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17358
+D2
+~
+~
+0 -1 17360
+S
+#17360
+Down into the Dungeon~
+You must travel down a flight of stone stairs into the Dungion of Castle Lag.
+The sounds of misery and dispear can be heard from below.  In addition, the
+faint glow of torches can be seen ahead.
+~
+173 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17359
+D5
+~
+~
+0 -1 17362
+S
+#17361
+A Cell~
+The sight of this smelly room with no light or window is enough to make
+anyone obey the law.  The stench is almost unbearable and you pity the
+poor soul that has to live in this filthy mess.  If they are still alive
+they must be tough.
+~
+173 1 0
+0d0+0 0 0
+D1
+~
+door~
+1 17334 17362
+S
+#17362
+The Dungeon Hallway~
+You notice that the hallway is lit by numerous glowing torches which line the
+walls.  On either side of you is a dungeon cell where some type of offender is
+being held.  At the end of the hall you notice an open door on the West and
+a passage to the East.
+~
+173 0 0
+0d0+0 0 0
+D1
+~
+door~
+1 17334 17363
+D2
+~
+~
+0 -1 17365
+D3
+~
+door~
+1 17334 17361
+D4
+~
+~
+0 -1 17360
+S
+#17363
+A Cell~
+The sight of this smelly room with no light or window is enough to make
+anyone obey the law.  The stench is almost unbearable and you pity the
+poor soul that has to live in this filthy mess. If  they are still alive
+they must be tough.
+~
+173 1 0
+0d0+0 0 0
+D3
+~
+door~
+1 17334 17362
+S
+#17364
+A Cell~
+The sight of this smelly room with no light or window is enough to make
+anyone obey the law.  The stench is almost unbearable and you pity the
+poor soul that has to live in this filthy mess.  If they are still alive
+they must be tough.
+~
+173 1 0
+0d0+0 0 0
+D1
+~
+door~
+1 17334 17365
+S
+#17365
+The Dungeon Hallway~
+You notice that the hallway is lit by numerous glowing torches which line the
+walls.  On either side of you is a dungeon cell where some type of offender is
+being held.  At the end of the hall you notice an open door on the West and
+a passage to the East.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17362
+D1
+~
+door~
+1 17334 17366
+D2
+~
+~
+0 -1 17368
+D3
+~
+door~
+1 17334 17364
+S
+#17366
+A Cell~
+The sight of this smelly room with no light or window is enough to make
+anyone obey the law.  The stench is almost unbearable and you pity the
+poor soul that has to live in this filthy mess.  If they are still alive
+they must be tough.
+~
+173 1 0
+0d0+0 0 0
+D3
+~
+door~
+1 17334 17365
+S
+#17367
+A Cell~
+The sight of this smelly room with no light or window is enough to make
+anyone obey the law.  The stench is almost unbearable and you pity the
+poor soul that has to live in this filthy mess.  If they are still alive
+they must be tough.
+~
+173 1 0
+0d0+0 0 0
+D1
+~
+door~
+1 17334 17368
+S
+#17368
+The Dungeon Hallway~
+You notice that the hallway is lit by numerous glowing torches which line the
+walls.  On either side of you is a dungeon cell where some type of offender is
+being held.  At the end of the hall you notice an open door on the West and
+a passage to the East.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17365
+D1
+~
+door~
+1 17334 17369
+D2
+~
+~
+0 -1 17371
+D3
+~
+door~
+1 17334 17367
+S
+#17369
+A Cell~
+The sight of this smelly room with no light or window is enough to make
+anyone obey the law.  The stench is almost unbearable and you pity the
+poor soul that has to live in this filthy mess.  If they are still alive
+they must be tough.
+~
+173 1 0
+0d0+0 0 0
+D3
+~
+door~
+1 17334 17368
+S
+#17370
+A Cell~
+The sight of this smelly room with no light or window is enough to make
+anyone obey the law.  The stench is almost unbearable and you pity the
+poor soul that has to live in this filthy mess.  If they are still alive
+they must be tough.
+~
+173 1 0
+0d0+0 0 0
+D1
+~
+door~
+1 17334 17371
+S
+#17371
+The Dungeon Hallway~
+You notice that the hallway is lit by numerous glowing torches which line the
+walls.  On either side of you is a dungeon cell where some type of offender is
+being held.  At the end of the hall you notice an open door on the West and
+a passage to the East.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17368
+D1
+~
+door~
+1 17334 17372
+D2
+~
+~
+0 -1 17374
+D3
+~
+door~
+1 17334 17370
+S
+#17372
+A Cell~
+The sight of this smelly room with no light or window is enough to make
+anyone obey the law.  The stench is almost unbearable and you pity the
+poor soul that has to live in this filthy mess.  If they are still alive
+they must be tough.
+~
+173 1 0
+0d0+0 0 0
+D3
+~
+door~
+1 17334 17371
+S
+#17373
+The office of the Dungeon Keeper~
+You enter a small office with dirt and grime everywhere.  It looks as if it
+has never been cleaned.  There is a small desk behind which is sitting the
+powerful Keeper of the Dungeon.  In the corner you see large barrels used
+for storing the Lag Dragon's food.  The Keeper smiles at you as you enter
+because feeding the dragon is a lot of work you'll be saving him.
+~
+173 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17374
+S
+#17374
+The Dungeon Hallway~
+You notice that the hallway is lit by numerous glowing torches which line the
+walls.  On either side of you is a dungeon cell where some type of offender is
+being held.  At the end of the hall you notice an open door on the West and
+a passage to the East.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17371
+D1
+~
+~
+0 -1 17375
+D3
+~
+~
+0 -1 17373
+S
+#17375
+A Dark Hallway~
+This hallway is in even worse condition than the previous one.  The Ceiling
+looks like it could give way at any moment . . . The walls are covered with
+all sorts of insects and worms.  From ahead you hear the sounds of death, 
+fire, and almost certain destruction.
+~
+173 1 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17376
+D3
+~
+~
+0 -1 17374
+S
+#17376
+A Dark Hallway~
+This hallway is in even worse condition than the previous one.  The Ceiling
+looks like it could give way at any moment . . . The walls are covered with
+all sorts of insects and worms.  From ahead you hear the sounds of death, 
+fire, and almost certain destruction.
+~
+173 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17377
+D3
+~
+~
+0 -1 17375
+S
+#17377
+A Dark Hallway~
+This hallway is in even worse condition than the previous one.  The Ceiling
+looks like it could give way at any moment . . . The walls are covered with
+all sorts of insects and worms.  From ahead you hear the sounds of death, 
+fire, and almost certain destruction.
+~
+173 1 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17378
+D2
+~
+~
+0 -1 17376
+S
+#17378
+A Dark Hallway~
+This hallway is in even worse condition than the previous one.  The Ceiling
+looks like it could give way at any moment . . . The walls are covered with
+all sorts of insects and worms.  From ahead you hear the sounds of death, 
+fire, and almost certain destruction.
+~
+173 1 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17379
+D3
+~
+~
+0 -1 17377
+S
+#17379
+The Dragon's Lair~
+This is the home of the most powerful creature in all of the land.  FEAR the
+Lag Dragon!  The Lair is well lit and as you enter you hear cheering.  When
+you look up you see hundreds of spectators watching you from above.  The 
+King and Queen are even in attendance.  Good Luck!
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17381
+D1
+~
+~
+0 -1 17380
+D2
+~
+~
+0 -1 17378
+S
+#17380
+The Dragon's Lair~
+This is the home of the most powerful creature in all of the land.  FEAR the
+Lag Dragon!  The Lair is well lit and as you enter you hear cheering.  When
+you look up you see hundreds of spectators watching you from above.  The 
+King and Queen are even in attendance.  Good Luck!
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17382
+D3
+~
+~
+0 -1 17379
+S
+#17381
+The Dragon's Lair~
+This is the home of the most powerful creature in all of the land.  FEAR the
+Lag Dragon!  The Lair is well lit and as you enter you hear cheering.  When
+you look up you see hundreds of spectators watching you from above.  The 
+King and Queen are even in attendance.  Good Luck!
+~
+173 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17382
+D2
+~
+~
+0 -1 17379
+S
+#17382
+The Dragon's Lair~
+This is the home of the most powerful creature in all of the land.  FEAR the
+Lag Dragon!  The Lair is well lit and as you enter you hear cheering.  When
+you look up you see hundreds of spectators watching you from above.  The 
+King and Queen are even in attendance.  Good Luck!
+~
+173 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 17380
+D3
+~
+~
+0 -1 17381
+S
+#17383
+The Prince's Room~
+The first impression that you get from the room is that it would be every
+child's dream.  The walls are a bright blue color with clowns and animals
+painted on them.  Toys and books are scattered throught the room.  The large
+bed in the center of the room is almost completely covered with blocks and
+other toys.
+~
+173 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 17385
+S
+#17384
+The Court Magician's Room~
+As you enter you feel as if you have been swept into a land of ancient
+mystery.  Hundereds of old books line the walls collecting dust.  You walk
+up to one that is lying open on the floor and looks as if it is in another
+language.  As you look over at the Magician you can see lightning strike
+outside the window directly behind him.  This gives you an uneasy feeling.
+~
+173 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 17387
+S
+#17385
+The Northwest corner~
+You have come to a small corner hallway connecting several rooms.  This is the
+corner of the building that the young Prince of Lag roams in search of
+someone to bother.  Due to the granting of every whim and desire that the
+Prince has he has become a rather spoiled brat.  His favorite activity is
+to drive the servents, especially his Nanny, crazy.
+~
+173 0 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 17386
+D2
+~
+~
+0 -1 17388
+D4
+~
+~
+0 -1 17383
+S
+#17386
+The Nanny's room~
+This must be the most organized room that you have ever entered.  The bed is
+neatly made and could pass even the strictest military inspection.  The
+Nanny's clothes are arranged by day worn and are neatly hanging in her open
+closet.  No trace of dust can be found anywhere in her room, which is quite
+a feat considering the mess that the Prince makes.  
+~
+173 0 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 17387
+D3
+~
+door~
+1 -1 17385
+S
+#17387
+The Northeast corner~
+This small hallway connects several rooms with the Main Stairway of Castle
+Lag.  To the south is the King's meeting hall where important decisions
+regarding the kingdom are made.  You hear people talking and decide that
+they probably won't mind if you take a look in.  To the West you hear all
+sorts of noise.
+~
+173 4 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 17389
+D3
+~
+door~
+1 -1 17386
+D4
+~
+~
+0 -1 17384
+D5
+~
+~
+0 -1 17347
+S
+#17388
+The Toy Room~
+You enter a room with thousands of toys piled up throught the room.  You
+are amazed at the number of them; how could he possibly have the time!!!
+The room is a bright yellow color with large windows on the west wall.  To
+the south is the King's private study.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17385
+D2
+~
+door~
+1 -1 17390
+S
+#17389
+The Meeting Room~
+Several important figures sit in this room discussing the affairs of state.
+The King, due to his busy schedule is absent today.  The ministers of various
+departments are talking about the kingdom in their elegant gold chairs.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17387
+D2
+~
+~
+0 -1 17391
+S
+#17390
+The King's Private Study~
+This long room is where the king spends time relaxing and reading.  The walls s
+are lined with thousands of books on just about everything.  The room is well
+furnished with a large wooden desk and several fancy wooden chairs.  This is
+where the king hides from the everyday commotion that keeps him busy.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17388
+D2
+~
+~
+0 -1 17392
+S
+#17391
+The Meeting Room~
+Several important figures sit in this room discussing the affairs of state.
+The King, due to his busy schedule is absent today.  The ministers of various
+departments are talking about the kingdom in their elegant gold chairs.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17389
+D2
+~
+door~
+1 -1 17393
+S
+#17392
+The King's Private Study~
+This long room is where the king spends time relaxing and reading.  The walls
+are lined with thousands of books on just about everything.  The room is well
+furnished with a large wooden desk and several fancy wooden chairs.  This is
+where the king hides from the everyday commotion that keeps him busy.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17390
+D2
+~
+door~
+1 -1 17394
+S
+#17393
+The Queen's Reading Room~
+The light colors and beautiful smell indicate that you must be in the
+room of a lady.  This is where the queen goes to read her favorite books
+about knights and romance.  A stack of books sits on a small table next to
+the fireplace.  To the north is the meeting room and the south is the
+southwest corner of the castle.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17391
+D2
+~
+door~
+1 -1 17396
+S
+#17394
+The Southwest corner~
+This hallway connects the King's study with the room of the captain of the
+guard.  It is a small, but well decorated hallway with two small windows
+overlooking the surrounding countryside.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17392
+D1
+~
+door~
+1 -1 17395
+D4
+~
+~
+0 -1 17397
+S
+#17395
+The Office of the Captain of the Guard~
+The room that you have entered is oval in shape with a slightly domed
+ceiling.  A beautiful red tapestry hangs on the north wall and crossed
+swords hang above the doorways.  The corner hallways are to the east and
+west.
+~
+173 0 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 17396
+D3
+~
+door~
+1 -1 17394
+S
+#17396
+The Southeast Corner~
+This corner of the castle connects the queen's reading room with the
+Captain of the Guard's room and the Southeast tower.  From the small
+windows you can get a good view of The Land of Lag and beyond.
+~
+173 0 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17393
+D3
+~
+door~
+1 -1 17395
+D4
+~
+~
+0 -1 17398
+S
+#17397
+The Southwest Tower~
+The southern towers serve as look out posts because they are much taller
+than the northern towers.  From here you can see anywhere in the kingdom
+and beyond!
+~
+173 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 17394
+S
+#17398
+The Southeast Tower~
+The southern towers serve as look out posts because they are much taller
+than the northern towers.  From here you can see anywhere in the kingdom
+and beyond!
+~
+173 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 17396
+S
+#17399
+The Hut of a Shrubber~
+You have entered a small hut on the northern edge of town.  It has a straw
+thatched roof and thin log walls.  It is dimly lit by the fire glowing in
+the northeast corner of the hut.  Brian the shrubber sits on his old stool
+arranging a shrubbery for sale.
+~
+173 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 17300
+S
+$

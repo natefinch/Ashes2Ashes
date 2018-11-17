@@ -1,0 +1,145 @@
+#4201
+rabbit bunny~
+a rabbit~
+A white, fluffy rabbit scampers around the yard.
+~
+As you look at it, it's head jerks up and it stares
+straight at you. When you approach, it runs off at
+full speed.
+~
+2185 40 200 W2
+2 1 10 1d6+10 1d4+1
+0 165
+8 8 0
+13 0 13 13 18 13 0
+19 0 3
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#4202
+boy annoying little spam~
+a spam boy~
+An annoying little boy looks at you mischievously.
+~
+Spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam!
+Spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam!
+Spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam!
+Spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam!
+Spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam!
+It's the spam boy. Enough said.
+~
+8233 16777224 -1000 W2
+7 100 10 100d100+1000 50d3+40
+100 5000
+8 8 1
+18 100 13 13 18 13 0
+18 1 0
+100 0 6 0 0
+80 80 80 80 80
+0 0 0
+6 10
+~
+#4203
+hog eq pig swine equipment~
+an EQ hog~
+An equipment hog walks up to you as you slowly inch closer to his eq.
+~
+This pig-like creature is fully equipped with top of the line armors and
+weapons in this realms. You Marvel at the sight of it, wishing you had the
+same thing. He carries in his hands multiple copies of his worn equipment,
+but you are absolutely sure that the last thing he would do is share with
+you a piece of them.
+~
+301071 0 -250 W2
+110 50 -28 1d1+4999 10d10+50
+50000 100000
+8 8 0
+18 100 13 13 18 13 0
+18 3 0
+-280 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#4204
+adventurer mort mortal frozen~
+a frozen mortal~
+An adventurer stuck in a thick sheet of ice stands here motionless.
+~
+Here is someone who has probably done some bad deeds in this realms and
+therefore punished by the gods. A thick layer of ice covers his entire body.
+He will most likely never walk again in this realms.
+~
+36874 8 11 W2
+22 10 -5 0d0+250 3d5+10
+10 1000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-50 0 2 0 0
+45 45 45 45 45
+16 0 0
+6 0
+~
+#4205
+janitor~
+a janitor~
+A janitor stands here sweeping off all the trash on the ground.
+~
+A bald-headed guy stands here working very hard trying to make this place
+a cleaner environment. A key can be seen dangling on the side of his pants.
+~
+276813 1156 1000 W2
+36 100 -15 40d40+100 100d100+100
+100 15000
+8 8 1
+18 100 13 13 18 13 0
+13 2 2
+-150 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#4206
+girl young~
+a young girl~
+A young girl stands here pouring homemade lemonade into some cups.
+~
+  A cute little girl with big eyes and pouty lips stands here smiling
+at you innocently. She holds up a cup toward you and asks, "Would you
+like to try some lemonade? I made them myself."
+~
+10 0 0 W2
+14 5 0 0d0+200 2d2+5
+0 0
+8 8 2
+13 0 13 13 13 13 0
+0 1 2
+0 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#4299
+buddy dog ~
+Buddy~
+Jahana's cute little puppy stands here wagging his tail
+~
+Standing here is the cutest dog you've ever seen.  He is a medium sized 
+dog that has the face of a golden retriever and the color of german
+shepherd. If you're not careful he's likely to lick you to death.
+~
+74 0 0 W2
+0 0 0 100d100+100 100d100+100
+0 0
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+$

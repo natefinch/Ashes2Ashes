@@ -1,0 +1,66 @@
+CircleMUD v3.0 Shop File~
+#8400~
+8416
+8417
+8418
+8419
+8420
+-1
+2.0 
+1.0 
+2
+3
+4
+8
+22
+-1
+Umm, sorry. We don't carry those.~
+Ahem...Which item might that be? I don't see you carrying one.~
+Try the store next door. We don't want those.~
+Hmm, I seem to be short on cash. Try some other time.~
+Dreams a bit bigger than your purse, eh?~
+There you are. That will be %d coins.~
+I'll take that off your hands for %d coins.~
+0 
+1 
+8420 
+0 
+8420 
+-1
+0 
+12 
+12 
+0 
+#8401~
+8421
+8422
+8423
+8424
+8425
+-1
+2.0 
+1.0 
+1
+8
+11
+15
+22
+-1
+Umm, sorry. We don't carry those.~
+Ahem...Which item might that be? I don't see you carrying one.~
+Try the store next door. We don't want those.~
+Hmm, I seem to be short on cash. Try some other time.~
+Dreams a bit bigger than your purse, eh?~
+There you are. That will be %d coins.~
+I'll take that off your hands for %d coins.~
+0 
+1 
+8421 
+0 
+8416 
+-1
+0 
+12 
+12 
+0 
+$~

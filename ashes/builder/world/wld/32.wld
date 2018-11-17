@@ -1,0 +1,1092 @@
+#3200
+Under the Bridge~
+   The arch under the bridge is covered by seaweed for one foot above the
+surface of the river.  The water gently flows through an opening in the lower
+part of the city wall.
+~
+32 0 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3201
+D3
+~
+~
+0 -1 3206
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  Looks pretty solid.
+~
+S
+#3201
+On the River~
+   North of here you see the miserable buildings of the poor alley.  The
+river flows west towards the bridge.  The riverbanks are too steep to climb.
+~
+32 0 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3202
+D3
+~
+~
+0 -1 3200
+D7
+~
+~
+0 -1 3025
+S
+#3202
+On the River~
+   North of here you see the dump.  The river flows from east to west.  The
+riverbanks are too steep to climb.
+~
+32 0 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3203
+D3
+~
+~
+0 -1 3201
+S
+#3203
+On the River~
+   The levee is directly north of here.  The river flows in an east west
+direction.
+~
+32 0 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3204
+D3
+~
+~
+0 -1 3202
+S
+#3204
+On the River~
+   You see the warehouse on the northern riverbank.  East of here you see the
+city wall.  The river flows west towards the levee.
+~
+32 0 7
+0d0+0 0 0
+D1
+~
+~
+0 -1 3205
+D3
+~
+~
+0 -1 3203
+S
+#3205
+On the River~
+   The river enters from a hole in the eastern city wall.  The hole has been
+blocked by several vertically positioned iron bars set into the wall.
+~
+32 0 7
+0d0+0 0 0
+D1
+The iron bars make it impossible to pass through the hole in the wall.
+Beyond the bars you see the great plains.
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 3204
+S
+#3206
+On the River~
+You are just slowly floating downt he river, nice and lazy like.  The breeze
+ruffles your hair and you just chill out.
+~
+32 14336 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3200
+D3
+~
+~
+0 -1 3207
+S
+#3207
+On the River~
+You are just slowly floating down the river, nice and lazy like.  The breeze
+ruffles your hair and you just chill out.
+~
+32 14336 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3206
+D3
+~
+~
+0 -1 3208
+S
+#3208
+On the River~
+You are just slowly floating downt he river, nice and lazy like.  The breeze
+ruffles your hair and you just chill out.
+~
+32 14336 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3207
+D3
+~
+~
+0 -1 3209
+S
+#3209
+On the River~
+You are just slowly floating downt he river, nice and lazy like.  The breeze
+ruffles your hair and you just chill out.
+~
+32 14336 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3208
+D3
+~
+~
+0 -1 3210
+S
+#3210
+On the River~
+You are just slowly floating downt he river, nice and lazy like.  The breeze
+ruffles your hair and you just chill out.
+~
+32 14336 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3209
+D3
+~
+~
+0 -1 3211
+S
+#3211
+On the River~
+You are just slowly floating downt he river, nice and lazy like.  The breeze
+ruffles your hair and you just chill out.
+~
+32 14336 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3210
+D9
+~
+~
+0 -1 3212
+S
+#3212
+On the River~
+You are just slowly floating downt he river, nice and lazy like.  The breeze
+ruffles your hair and you just chill out.
+~
+32 14336 6
+0d0+0 0 0
+D2
+~
+~
+0 -1 3213
+D6
+~
+~
+0 -1 3211
+S
+#3213
+A faster flowing section of the river~
+You are on a wider, faster flowing portion of the river, there is a large
+barge heading your way.  I would advise moving around it as the captain 
+can not see you.
+~
+32 14336 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 3212
+D8
+~
+~
+0 -1 3215
+S
+#3214
+IN THE PATH OF THE BARGE, IF YOU ARE A NEWBIE, DO NOT COME HERE!!!~
+You are in the direct path of the barge.  Its currect won't allow you to
+swim out of the way, you have to fight him now, or swim MUCH FASTER!!!
+~
+32 14336 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 3213
+D8
+~
+~
+0 -1 3216
+S
+#3215
+Around the barge~
+Wow, that barge would have hurt if you hadn't swam over here...ahead there
+is a large port with parked barges and so on.  The port smells real
+funny as well.
+~
+32 14336 6
+0d0+0 0 0
+D2
+~
+~
+0 -1 3216
+D7
+~
+~
+0 -1 3213
+S
+#3216
+On the River, Before the Port of New Sparta~
+You are floating along and the current has pulled here.  You had it planned
+all along :)  There is a really nasty smell, but, you made it.
+~
+32 14340 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 3215
+D2
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 -1
+S
+#3217
+The other side of the river~
+You are standing on the other side of the river.  There is tall grass
+et cetera growing everywhere.  You can see a dirt road beginning on
+the this side of the river.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3203
+D2
+~
+~
+0 -1 3218
+S
+#3218
+A dirt road~
+You are standing on a dirt road.  There are trees and son on surrounding
+the area.  You can here nature making its normal noises.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3128
+D2
+~
+~
+0 -1 3219
+S
+#3219
+Standing on a well, looking over the county~
+You are standing on top of the well, looking over the county.  To the north
+you can see midgaard, to the south you can see a farm.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3218
+D2
+~
+~
+0 -1 3220
+D5
+~
+~
+0 -1 3221
+S
+#3220
+A field~
+You are standing in a small field, you here bugs and stuff tweeting 
+and so on.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3219
+D2
+~
+~
+0 -1 3222
+S
+#3221
+Falling down the well, this is a DT!~
+You are falling down the well, this is gonna HURT like a bitch!
+~
+32 30723 0
+1d1+199 90 0
+D5
+~
+~
+0 -1 3072
+S
+#3222
+A long path heading toward a barn~
+You are on a long path heading toward a barn, a smell of animal poop
+reigns throughout the area.  There is a wind that is blowing across you
+from right to left.  There is tall grass that is growing all around you.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3220
+D1
+~
+~
+0 -1 3226
+D2
+~
+~
+0 -1 3223
+D3
+~
+~
+0 -1 3226
+S
+#3223
+A long path heading toward a barn~
+You are on a long path heading toward a barn, a smell of animal poop
+reigns throughout the area.  There is a wind that is blowing across you
+from right to left.  There is tall grass that is growing all around you.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3222
+D1
+~
+~
+0 -1 3226
+D2
+~
+~
+0 -1 3224
+D3
+~
+~
+0 -1 3226
+S
+#3224
+A long path heading toward a barn~
+You are on a long path heading toward a barn, a smell of animal poop
+reigns throughout the area.  There is a wind that is blowing across you
+from right to left.  There is tall grass that is growing all around you.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3223
+D1
+~
+~
+0 -1 3226
+D2
+~
+~
+0 -1 3225
+D3
+~
+~
+0 -1 3226
+S
+#3225
+A long path heading toward a barn~
+You are on a long path heading toward a barn, a smell of animal poop
+reigns throughout the area.  There is a wind that is blowing across you
+from right to left.  There is tall grass that is growing all around you.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3224
+D1
+~
+~
+0 -1 3226
+D2
+~
+~
+0 -1 3227
+D3
+~
+~
+0 -1 3226
+S
+#3226
+Lost in the tall grass~
+You seem to be lost in the tall grass, it is so high you can't see anything.
+~
+32 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3226
+D1
+~
+~
+0 -1 3226
+D2
+~
+~
+0 -1 3226
+D3
+~
+~
+0 -1 3226
+S
+#3227
+Just outside the barn~
+You are standing just outside the Duke family barn.  It is white, there is
+a large car sitting in the middle of the room.  It is orange with the
+# 01 on it.  On the hood is the confederate flag.  There is an old man
+here working on something and grumbling.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3225
+D2
+~
+~
+0 -1 3228
+S
+#3228
+Within the barn~
+You are standing within the barn, the car that you saw, dominates the center
+of the room. There is a man here in a blue jumper and a red hate, grumbling.
+~
+32 14337 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3227
+D2
+~
+~
+0 -1 3230
+D4
+~
+~
+0 -1 3229
+S
+#3229
+Up in the barn~
+You are in the loft of the barn, Bo and Luke have been shovelling hay
+all day long.  They are wondering what the hell you are doing in
+their loft.
+~
+32 14345 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3228
+S
+#3230
+The road in front of the Duke farm~
+You are standing on the road that leads out of the Duke farm.  There are
+chickens and what not that are running around here.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3228
+D1
+~
+~
+0 -1 3226
+D2
+~
+~
+0 -1 3231
+D3
+~
+~
+0 -1 3226
+S
+#3231
+Road into downtown Hazzard~
+You are on the road into Hazzard county, you can see a cop car in a ditch
+to the south of here.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3230
+D1
+~
+~
+0 -1 3226
+D2
+~
+~
+0 -1 3232
+D3
+~
+~
+0 -1 3226
+S
+#3232
+On a road into hazzard county~
+You are on the main road into hazzard county.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3231
+D1
+~
+~
+0 -1 3226
+D2
+~
+~
+0 -1 3233
+D3
+~
+~
+0 -1 3226
+S
+#3233
+A fork in the road~
+You see a fork in the road, both ways seem the same.  It is your call as
+to which way to go, you realize though that somewhere west of here
+lies Chickesaw county.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3232
+D1
+~
+~
+0 -1 3226
+D2
+~
+~
+0 -1 3226
+D3
+~
+~
+0 -1 3226
+D8
+~
+~
+0 -1 3235
+D9
+~
+~
+0 -1 3234
+S
+#3234
+a paved road~
+You are standing on a paved road, this is definately the road the Chickesaw,
+I would leave now before Sherieff Little catches you!
+~
+32 14336 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 3233
+S
+#3235
+a dirt road~
+You are on the road that definitely runs into Hazzard county, you see a
+tow truck ahead of you, fixing a car.
+~
+32 0 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 3233
+D8
+~
+~
+0 -1 3236
+S
+#3236
+a dirt road~
+You are standing on what appears to be a stick up!  Better flee now before
+the thugs get you!
+~
+32 14336 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 3235
+D8
+~
+~
+0 -1 3237
+S
+#3237
+Outside of downtown hazzard.~
+You are standing just within the city limits.  There are building and what
+not around you.  Since this is a TV show, all the buildings are fake but
+one.  And that is right in front of you.
+~
+32 14336 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3238
+D7
+~
+~
+0 -1 3236
+S
+#3238
+Outside of city hall: Hazzard County~
+You are standing outside a large white building, there are people walking
+around and doing what not.  Inside you see a lot of stuff and a large fat
+buddy standing there gloating.
+~
+32 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3237
+D2
+~
+~
+0 -1 3239
+S
+#3239
+Within City Hall: Hazzard County~
+You are standing within city hall of Hazzard county.  You see a large fat
+man standing here, smoking a cigar and thinking of the duke's farm.
+~
+32 14344 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3238
+D5
+~
+secret~
+2 -1 3261
+S
+#3250
+A sand barge~
+You have come apon a sand barge in the middle of the river
+~
+32 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3203
+D5
+~
+~
+0 -1 3251
+S
+#3251
+Quick-Sand~
+As you look down, you realize you are sinking, but as you move your feet,
+you realize that this stuff isn't as potent as you think..as you descend
+your feet hit something hard, like stairs.
+~
+32 14336 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 3250
+D5
+~
+~
+0 -1 3252
+S
+#3252
+HOLD YER BREATHE!~
+You are now almost engulfed in the quicksand, you realize there is no
+escape now, you must continue down the steps.
+~
+32 14336 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3253
+S
+#3253
+a hole~
+This seems to be a hole into some lost room.
+~
+32 10240 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3261
+S
+#3254
+A hidden room~
+You seem to be in some sort of ruins or something.  As you look forward, there
+are shadows dancing everywhere.
+~
+32 12297 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3255
+D2
+~
+~
+0 -1 3270
+S
+#3255
+In the center of the room~
+You are standing in what is clearly some sort of temple.
+~
+32 12297 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3256
+D2
+~
+~
+0 -1 3254
+S
+#3256
+Before an altar~
+You are standing before a great altar, there seems to be a corpse lying
+apon it.
+~
+32 12297 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3255
+D4
+~
+~
+0 -1 3257
+S
+#3257
+Climbing up onto the altar~
+You are climbing onto the altar
+~
+32 12297 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3258
+D5
+~
+~
+0 -1 3256
+S
+#3258
+On the altar~
+You are standing upon the altar.  There is some wierd square, with a keyhole
+on the surface of the altar.
+~
+32 12297 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3259
+D2
+~
+~
+0 -1 3257
+D5
+~
+secret~
+2 3258 3299
+S
+#3259
+Climbing down the altar~
+You are climbing down the altar, you see someone standing before you.
+~
+32 12297 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3258
+D5
+~
+~
+0 -1 3260
+S
+#3260
+Behind the altar~
+You stand behind the altar of Death.  Here resides the queen of power.
+The scales riple along her back as you enter.  She is insulted by your
+pathetic mortalness.  Even the IMP Sheol fears her power over him.  She
+has lost her pet Tiamat and sees you as something that can keep her busy
+for a round or 2.
+~
+32 12297 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 3259
+S
+#3261
+Entrance to the Great Temple of Asgaard~
+You are standing before a wall with a door.  Above the door lies
+the the letter Temple of Asgaard
+There are 2 large guardian statues that stand blankly before you.
+The seem to form the columns that would have held up a roof.  Instead
+of their being a roof.  There is a ceiling of sand.  The doors stand about
+25 feet tall, but are glowing brightly.
+~
+32 14345 0
+0d0+0 0 0
+D0
+~
+door~
+2 3250 3262
+D4
+~
+secret~
+1 -1 3239
+S
+#3262
+Within the Great Temple of Asgaard~
+You are standing just within the temple doors.  Before you, you see
+a city in ruins.  These were the last vistages of the people that lived
+before the great destruction.  Before you lies what appears to be the
+main street.
+~
+32 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3263
+D2
+~
+door~
+2 3250 3261
+S
+#3263
+Central walkway~
+You are walking down the central walkway.  Before you lies this lost
+city.  Far ahead is the main temple.
+~
+32 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3264
+D2
+~
+~
+0 -1 3262
+S
+#3264
+Central Walkway~
+You are on the central walkway.  There are empty houses and piles of bones
+everywhere.  Everything you see here is glowing with a bright light.
+~
+32 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3265
+D2
+~
+~
+0 -1 3263
+S
+#3265
+Central Walkway~
+You are on the central walkway.  There are empty houses and piles of bones
+everywhere.  Everything you see here is glowing with a bright light.
+~
+32 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3266
+D2
+~
+~
+0 -1 3264
+S
+#3266
+Central Walkway~
+You are on the central walkway.  There are empty houses and piles of bones
+everywhere.  Everything you see here is glowing with a bright light.
+~
+32 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3267
+D2
+~
+~
+0 -1 3265
+S
+#3267
+Central Walkway~
+You are on the central walkway.  There are empty houses and piles of bones
+everywhere.  Everything you see here is glowing with a bright light.
+~
+32 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3268
+D2
+~
+~
+0 -1 3266
+S
+#3268
+Central Walkway~
+You are on the central walkway.  There are empty houses and piles of bones
+everywhere.  Everything you see here is glowing with a bright light.
+~
+32 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3270
+D2
+~
+~
+0 -1 3267
+S
+#3270
+Entrance to a small temple~
+You are standing outside a small temple.  The doors are closed and
+bolted from the inside.
+The facade of the building is rusted and withered.
+~
+32 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3254
+D2
+~
+door~
+1 -1 3268
+S
+#3299
+Realm of the Dead~
+You are standing in the ethereal realm of the Dead.
+~
+32 6285 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3299
+D1
+~
+~
+0 -1 3299
+D2
+~
+~
+0 -1 3299
+D3
+~
+~
+0 -1 3299
+D5
+~
+secret~
+1 -1 3030
+S
+$

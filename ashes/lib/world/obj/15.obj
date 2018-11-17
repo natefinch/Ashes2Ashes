@@ -1,0 +1,973 @@
+#1500
+claws teddy furry~
+Teddy's Sharp Claws~
+A sharp pair of claws lies here, waiting to slash you.~
+~
+5 10467328 24577 4096
+0 0 16
+0 12 2 11
+2 9999 9999
+A
+18 4
+A
+17 4
+#1501
+shield pain~
+the Pain Shield~
+A large, dark shield lies here, awaiting its next owner.~
+~
+9 8810496 513 8192
+0 0 0
+10 0 0 0
+5 99999 0
+A
+18 3
+A
+17 1
+#1502
+teddy shield wrath~
+Teddy's Shield of Wrath~
+A magically enchanted shield hovers over the ground.~
+~
+9 65619 513 32
+0 0 0
+10 0 0 0
+2 12345 12345
+A
+13 4
+A
+10 30
+#1503
+teddy bear hug bearhug ferocious~
+Teddy's ferocious bearhug~
+Teddy's bearhug lays here unattended and unappreciated.~
+~
+11 837633 1025 131072
+0 0 0
+0 0 0 0
+0 25000 0
+A
+10 35
+A
+13 5
+E
+bearhug bear hug teddy teddy's~
+You look at the hug and it seems warm and cosy inside it.  Slipp it on
+doesn't it give you that warm and fuzzy feeling?
+~
+#1504
+teddy handcuff submission~
+the Handcuffs of Submission~
+A pair of handcuffs lie here, tempting you to lock them on your wrist.~
+~
+11 8400897 4097 0
+0 0 0
+0 0 0 0
+1 999999 999999
+A
+17 1
+A
+18 3
+#1505
+teddy ring beastly might~
+Teddy's Ring of Beastly Might~
+A powerful ring lies here unnoticed~
+~
+11 8532008 3 32768
+0 0 0
+0 0 0 0
+5 50000 50000
+A
+17 3
+A
+18 3
+A
+1 2
+A
+16 -4
+#1506
+sarnoth mysterious amulet~
+Sarnoth's mysterious amulet~
+An oddly shaped amulet hovers a few inches off the ground!~
+~
+23 65619 5 2112
+0 8 1
+5000 100 6 0
+2 12345 12345
+A
+6 -2
+A
+12 -25
+A
+9 15
+A
+3 2
+A
+4 2
+A
+5 2
+E
+sarnoth amulet mysterious~
+A flat, diamond-shaped piece of wood is attached to a gold chain.
+The wood is painted blue, and a red straw sticks an inch out of the
+front of the amulet. It feels slipery to the touch, almost as if
+you can't quit make contact with it.
+~
+#1507
+sleeves power~
+the Sleeves of Power~
+The sleeves of power lie here, glowing with a bright light!~
+~
+11 9187361 257 0
+0 0 0
+0 0 0 0
+10 1000000 1000000
+A
+17 3
+A
+18 2
+A
+5 1
+#1508
+bittersweet memories~
+Bittersweet Memories~
+Someone's memories lie here, discarded.~
+~
+8 152 17 32
+0 55 8
+0 0 0 0
+12 320000 0
+A
+18 2
+A
+17 3
+A
+16 3
+A
+7 5
+E
+bittersweet memories mem bitter bit~
+Everything you regret but wouldn't change if you had the chance, every
+thought that causes you pain that you refuse to forget, everything hope
+unfulfilled, everything wonderful with painful consequences or hopeless
+circumstances, is all concentrated into this ring of energy.
+~
+#1509
+cloak stars~
+the Cloak of Stars~
+The night sky shows through a hole in the ground here.~
+~
+11 10412112 1025 32768
+0 0 0
+0 0 0 0
+1 10000 0
+A
+13 6
+A
+10 15
+A
+24 5
+E
+cloak~
+This cloak looks like it has been made from the night sky itself. The
+material feels just like normal cloth, but when you look at it you cannot
+focus on the cloak, instead looking into a window on space. The stars
+twinkle every now and then, and if you stare long enough you can watch
+them move. Even the inside of the cloak looks like this, seeming to
+transport you into space as you wrap it about yourself.
+~
+#1510
+cloak brilliance~
+the Cloak of Brilliance~
+Dawn's radiance shines up from the ground here.~
+~
+11 10408016 1025 33554432
+0 0 0
+0 0 0 0
+1 10000 0
+A
+7 6
+A
+10 25
+A
+24 3
+A
+13 4
+E
+cloak~
+This cloak looks like it has been made from a sunrise. The material feels
+just like normal cloth, but when you look at it you are unable to focus on
+it, always staring into the rising sun no matter what angle you hold it
+at. The inside looks just like the outside, and it is so realistic that
+you can almost feel the suns warming rays as you wrap it about yourself.
+
+~
+#1511
+sarnoths poofy pantaloons~
+Sarnoth's poofy pantaloons~
+Some ridiculous looking pantaloons lie here.~
+~
+11 1345616 33 0
+0 0 0
+1 0 0 0
+1 75000 0
+A
+13 6
+A
+10 20
+A
+6 2
+A
+15 5
+E
+sarnoths poofy pantaloons sarn poof pant~
+These are the poofiest pantaloons you've ever seen! And to top it off, one
+leg is neon orange, and the other is hot pink!
+~
+#1512
+trenchcoat black long~
+a long black trenchcoat~
+A long black trenchcoat lies in a heap here.~
+~
+9 8417537 1025 1048576
+33 0 0
+17 0 0 0
+10 1000000 1000000
+A
+24 2
+#1513
+ashes reborn light~
+Ashes of the Reborn~
+A small pile of ash is here.~
+~
+1 314625 16385 33554436
+0 0 0
+0 0 -1 0
+0 1000000 1000000
+A
+13 5
+A
+24 5
+A
+7 10
+#1514
+phoenix talon~
+Phoenix's Magical Talons~
+The magical talons of Phoenix lie here!~
+~
+11 968706 129 32
+0 0 0
+12 0 0 0
+15 999999 999999
+A
+13 4
+A
+10 30
+A
+16 -4
+#1515
+power thunderbird phoenix~
+the Power of the Thunderbird~
+The Power of the Thunderbird lies here, smoldering in ashes.~
+~
+11 2000912 5 8
+0 0 0
+0 0 0 0
+1 999999 999999
+A
+13 5
+A
+10 25
+A
+6 2
+#1516
+shroud moonlight~
+a shroud of moonlight~
+A patch of moonlight deepens the shadows in the corners of the room.~
+~
+1 607320 16385 4096
+56 0 0
+0 0 -1 0
+5 23 23
+A
+16 -11
+A
+11 10
+#1517
+ceylon sapphire ring~
+a Ceylon Sapphire Ring~
+A ring lies here with a beautiful, soft blue stone in its center.~
+~
+9 444440 16387 0
+1 0 0
+5 0 0 0
+2 570000 570000
+A
+13 4
+A
+10 30
+A
+22 -4
+E
+ceylon sapphire~
+To my beloved.  For eternity has lead us to one place,
+and there, together, we shall remain.  Sweet as wine,
+more precious than diamonds, a love everlasting --
+a flame undying.
+~
+#1518
+pelt tindalos hound time~
+the pelt from a Tindalos Hound of Time~
+The pelt of a unique time-hound sits here.~
+~
+11 966656 2049 65536
+0 0 0
+0 0 0 0
+3 100000 100000
+A
+10 15
+A
+13 6
+A
+24 5
+A
+16 -4
+#1519
+boots stealth green~
+Boots of Stealth~
+A pair of forest green boots lie on the floor.~
+~
+11 10107906 65 64
+0 0 0
+12 0 0 0
+10 999999 999999
+A
+17 2
+A
+18 3
+A
+11 10
+#1520
+link rusted barbed wire~
+a Link of Rusted Barbed Wire~
+A link of rusted barbed wire lies on the ground here, small droplets of blood drip from it's edges.~
+~
+11 8468608 2049 262144
+0 0 0
+0 0 0 0
+5 1000000 0
+A
+18 3
+A
+17 3
+A
+11 10
+#1521
+apron grease plastic~
+Plastic Apron covered in grease~
+This over greasy apron is lying here melting in the hot noon sun~
+~
+25 8862208 9 0
+1 0 0
+75 0 0 0
+1 200000 200000
+A
+24 2
+A
+18 3
+A
+17 2
+A
+11 20
+#1522
+essense pure evil~
+the Essense of Pure Evil~
+The essense of pure evil surrounds you... taking control of your soul.~
+~
+5 9665024 24577 0
+8 0 0
+0 6 5 10
+1 0 0
+A
+17 4
+A
+18 4
+#1523
+tombstone marble blood rip~
+a Tombstone Dripping Blood (R.I.P.)~
+You see your name etched in blood on a large block of marble.  Rest in pieces.~
+~
+15 9673344 513 32
+8 0 0
+1000 0 0 0
+1 6 6
+A
+18 2
+A
+17 2
+A
+1 6
+#1524
+moon moonshadows shadows shadow light moonlight midnight~
+Moonshadows created by moonlight at midnight~
+A shadow created by the moon at midnight stretches across the floor.~
+~
+12 204944 1025 294912
+0 0 5
+0 0 0 0
+0 500000 500000
+A
+18 3
+A
+17 2
+A
+16 -4
+E
+shadows shadow moon moonshadow moonlight light midnight~
+These dark shadows consist of everything dark and mysterious.  They are
+the cloak that shrouds MidKnight at all times.  They seem to writhe and
+expand as you stare at them, reaching out tendrils of deepest night to
+draw your soul inward.  The touch is cool, yet not uncomfortable, and you
+find yourself yearning to be a part of the darkness.
+~
+#1525
+night~
+the Night~
+A patch of the deepest, most dark night slowly sucks the light from the room.~
+~
+5 1253400 8193 0
+0 0 4
+0 18 1 12
+0 1000000 1000000
+A
+17 4
+A
+18 4
+A
+1 4
+A
+14 -20
+E
+night~
+This is the essence of the Night itself, terribly powerful.  Its use is
+shaped by the intent of its owner.  The power can only be fully controlled
+by MidKnight himself, all others attempting to do so, slowly lose their
+lifeforce to the devouring hunger of the darkness.
+~
+#1526
+star midknight~
+the Star of MidKnight~
+You see a small, seven pointed star floating just above the floor here.~
+~
+11 541777 5 5120
+0 0 0
+0 0 0 0
+1 500000 500000
+A
+18 3
+A
+17 3
+A
+14 10
+E
+star midknight~
+ Looking at the star, it seems to glow and hum before your very eyes.
+There is a snake coiled into the sign of infinity in the center, biting
+it's own tail like the great world serpent.  The stars seems at first to
+be a normal six pointed star, but when you look more carefully you see that
+there are actually seven points.  As you move closer, you think you notice
+movement out of the corner of your eye.  Was it a trick of the light, or
+did that snake start to writhe?
+~
+#1527
+deep purple bracer christened tears innocent children~
+a deep purple bracer christened by the tears of innocent children~
+A deep purple bracer lies on the floor.~
+~
+9 10056728 4097 4096
+9 32 0
+9 0 0 0
+1 200000 200000
+A
+11 10
+A
+14 5
+A
+4 2
+E
+deep purple bracer christened tears innocent children~
+This wrist armor was blessed by the tears of the innocent children Jericho
+fought to protect in a battle long ago.  Made of a strange deep purple metal,
+it sparkles in anything but the deepest darkness, showing the power of
+sacrifice for another. Jericho gave the bracer to MidKnight after he saved
+Jericho's life.
+~
+#1528
+drazzst kaleidoscope light~
+Drazzst's Kaleidoscope~
+A large pair of gloves lie here.
+~
+~
+1 8402945 16385 1024
+0 0 0
+0 0 -1 0
+5 50000 50000
+A
+17 2
+A
+18 2
+#1529
+Acedyne dagger~
+Acedyne Dagger~
+An eerie green dagger, with a snake head hilt, is floating here.~
+~
+5 10479625 8193 0
+4 0 0
+0 7 4 11
+7 250000 250000
+A
+13 4
+A
+10 35
+A
+3 2
+E
+snake hilt~
+A hilt formed into the head of a striking cobra is fashioned from some green
+material, and is attached to an eerily glowing green blade.
+~
+#1530
+legs marionette ranger~
+the Legs of the Marionette~
+Puppet legs are lying here.~
+~
+25 9108672 33 0
+0 0 12
+80 0 0 0
+3 200000 200000
+A
+17 2
+A
+18 2
+A
+16 -4
+A
+12 25
+A
+11 20
+#1531
+key legendary~
+the legendary key~
+A key belonging to the great immortal legends lies here.~
+~
+18 14 1 0
+0 0 0
+0 0 0 0
+1 0 0
+#1532
+silhouette boots~
+the Silhouette Boots~
+A shadow is casts here by the Silhouette Boots.~
+~
+9 9747457 65 32768
+0 0 28
+12 0 0 0
+1 999999 999999
+A
+2 2
+#1533
+ring iron will garet~
+the Ring of Iron Will~
+The ring of Iron Will lies here, sturdy as ever.~
+~
+9 8728986 3 0
+0 0 9
+12 0 0 0
+3 500000 500000
+A
+11 25
+#1534
+garetjax sleeve blessing~
+Garetjax's Blessing~
+Garetjax's Warrior Blessing is here to be bestowed on the holy helpers.~
+~
+11 10408017 257 8192
+4 0 0
+0 0 0 0
+1 500000 500000
+A
+13 4
+A
+10 25
+#1535
+cloak stars~
+the Cloak of Stars~
+The night sky shows through a hole in the ground here.~
+~
+11 2015312 1025 32768
+0 0 0
+0 0 0 0
+1 10000 0
+A
+7 6
+A
+10 25
+A
+24 3
+A
+13 4
+E
+cloak star stars~
+This cloak looks like it has been made from the night sky itself. The
+material feels just like normal cloth, but when you look at it you cannot
+focus on the cloak, instead looking into a window on space. The stars twinkle
+every now and then, and if you stare long enough you can watch them move.
+Even the inside of the cloak looks like this, seeming to transport you into
+space as you wrap it about yourself.
+~
+#1536
+amber shield fairy~
+a shield of amber encasing a fairy~
+A large piece of polished amber lies here. Something is trapped inside.~
+~
+11 1359960 513 0
+0 0 0
+0 0 0 0
+1 65000 65000
+A
+10 25
+A
+13 5
+A
+24 4
+A
+16 -10
+E
+amber shield amb shi~
+It is a polished lens made from a large piece of amber which has entombed
+an unlucky fairy. Runes are etched in a ring around the outside. There are
+no straps, it stays in place with some kind of magic.
+~
+#1537
+rogue luck~
+a rogue's luck~
+Luckily, you see a faint magical aura on the ground.~
+~
+12 700512 513 262144
+0 0 0
+0 0 0 0
+1 100000 100000
+A
+18 2
+A
+17 2
+A
+1 3
+A
+2 3
+#1538
+key~
+secret key~
+~
+~
+18 0 0 0
+0 0 0
+0 0 0 0
+1 0 0
+#1539
+key legendary~
+the legendary key~
+A key belonging to the great immortal legends lies here.~
+~
+18 14 1 0
+0 0 0
+0 0 0 0
+1 0 0
+#1540
+ring statue legends memory~
+an anodized ring of Statue Legends~
+A bright, blue ring engraved with an enscription has obviously been dropped
+here by mistake.~
+~
+11 2 3 0
+0 0 0
+0 0 0 0
+3 100000 100000
+A
+18 3
+A
+17 2
+A
+6 1
+E
+ring legend ri leg an ano anodized~
+This ring is dedicated to all those that have enjoyed doing battle in the God
+Museum over the years. And also, it is dedicated to those who shall do battle
+in the Museum in the future.
+~
+#1541
+baldric belt great warrior~
+the baldric of a great warrior~
+A belt used to hold a scabbard is lying on the ground.~
+~
+9 28688 2049 32
+0 0 13
+17 0 0 0
+6 100000 100000
+#1542
+moccasins boots high asita beads~
+Knee high moccasins adorned with beads and fringes~
+An elaborate pair of knee high moccasins adorned with beads lay here.~
+~
+11 525313 65 1048576
+0 0 3
+0 0 0 0
+1 222 222
+A
+18 3
+A
+17 2
+#1543
+feather raven asita strand~
+a single enchanted raven feather dangling from a leather strand~
+A single enchanted raven feather attached to a leather strand lays here.~
+~
+11 1359872 2049 4096
+0 0 3
+0 0 0 0
+1 222 222
+A
+13 6
+A
+10 15
+A
+6 2
+#1544
+raven shadow asita~
+Asita's Raven Shadow~
+A shadow in the shape of a raven lies here.~
+~
+11 3 4097 0
+0 0 0
+0 0 0 0
+3 27500 27500
+A
+18 3
+A
+17 1
+A
+16 -4
+E
+bangle~
+This bangle bracelet is engraved with a language only the gods can read.
+~
+#1545
+key~
+a small key~
+A small key rests in the dust.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#1546
+key~
+a small key~
+A small key rests in the dust.~
+~
+18 4 16385 0
+0 0 0
+0 0 0 0
+1 0 0
+#1547
+key~
+a small key~
+A small key rests in the dust.~
+~
+18 4 5 0
+0 0 0
+0 0 0 0
+1 0 0
+#1548
+belt barbed wire~
+a barbed wire belt~
+A small circle of barbed wire sits on the ground.~
+~
+11 42250240 2049 0
+0 0 0
+0 0 0 0
+5 1000000 0
+A
+18 3
+A
+17 3
+A
+14 5
+#1549
+medal purple heart~
+a purple heart medal~
+A small heart shaped medal lies in the dust, forgotten.~
+~
+12 9466136 16385 32
+0 0 13
+0 0 0 0
+1 1000000 1000000
+A
+16 -17
+#1550
+sleeves power~
+the Sleeves of Power~
+The sleeves of power lie here, glowing with a bright light!~
+~
+11 9187361 257 0
+0 0 0
+0 0 0 0
+10 1000000 1000000
+A
+17 3
+A
+18 2
+A
+5 1
+#1551
+symbol holy leather thong~
+a holy symbol on a leather thong~
+A small holy symbol on a leather thong lies in the dust.~
+~
+11 1998864 5 0
+0 0 0
+0 0 0 0
+1 999999 999999
+A
+13 5
+A
+10 30
+#1552
+aurora borealis northern lights~
+the Aurora Borealis~
+Spectacular streamers of light fill the northern sky.~
+~
+1 68468739 16385 0
+0 0 0
+0 0 -1 0
+1 999999 999999
+A
+10 15
+A
+13 5
+#1553
+tome ancient book gods~
+an ancient tome of the gods~
+An ancient book lies on the ground.~
+~
+12 1360209 16385 0
+0 0 0
+0 0 0 0
+1 999999 999999
+A
+10 35
+A
+13 5
+#1554
+ball brilliant light~
+a brilliant ball of light~
+A brilliant ball of light brightens the room.~
+~
+1 257 16385 0
+0 0 56
+0 0 -1 0
+1 999999 999999
+A
+16 -11
+#1555
+breastplate engraved steel~
+an engraved steel breastplate~
+A beautiful breastplate lies in the corner.~
+~
+9 9990144 9 0
+0 0 56
+18 0 0 0
+40 999999 999999
+#1556
+bracer ivory enchanted~
+an enchanted ivory bracer~
+A bracer made of ivory lies on the floor.~
+~
+9 1060864 4097 0
+0 0 0
+9 0 0 0
+1 999999 999999
+#1557
+defense master martial artist impenetrable~
+the impenetrable defense of a master martial artist~
+The skill of a master martial artist lies on the floor, useless.~
+~
+12 9367584 513 0
+0 0 56
+0 0 0 0
+1 999999 999999
+A
+16 -4
+#1558
+sleeve blessing god~
+a God's Blessing~
+A powerful god's blessing is here to be bestowed on the holy helpers.~
+~
+11 10408017 257 8192
+0 0 4
+0 0 0 0
+1 500000 500000
+A
+13 4
+A
+10 25
+#1559
+tattoo love hate psychic~
+tattoos of "LOVE" and "HATE"~
+Score! Someone has dropped some fake tattoos on the ground here.~
+~
+9 67110929 129 8
+0 0 0
+10 0 0 0
+8 1000000 1000000
+A
+17 3
+A
+18 1
+A
+1 1
+E
+tattoos love hate~
+I'm just too sexy for these tattoos.
+~
+#1560
+hysteria total strobe strobing~
+Total Hysteria (STROBING)~
+An explosive ball of electric energy is feverishly bouncing around the room.~
+~
+1 67108888 16385 0
+0 0 0
+0 0 -1 0
+12 200000 200000
+A
+17 2
+A
+18 2
+A
+1 2
+#1561
+Hysteria thunder charm bracelet~
+Hysteria's thunder charm~
+A bracelet is rumbling on the ground causing the floor to vibrate.~
+~
+11 68470810 4097 0
+0 0 0
+0 0 0 0
+6 100000 100000
+A
+13 4
+A
+10 30
+A
+16 -3
+$

@@ -1,0 +1,202 @@
+#4550
+pot magic~
+a small pot~
+A small earthenware pot is here, providing you with life giving water.~
+~
+17 0 0 0
+0 0 0
+20 12 0 0
+17 0 0
+#4551
+magic dust~
+magic dust~
+A small amount of glittering dust.~
+$n sprinkle$c the dust all over $N and $E vanish$K!~
+3 0 16385 0
+0 0 0
+30 1 1 29
+1 0 0
+#4552
+fire armor~
+Fire Armor~
+An armor made of pure flame.~
+~
+9 1077249 9 0
+1 2 4
+14 0 0 0
+50 3000 3000
+A
+18 2
+#4553
+fire armor~
+Fire Armor~
+An armor made of pure flame.~
+~
+9 0 9 0
+1 2 0
+13 0 0 0
+50 1000 1000
+#4554
+flame blade~
+a flame blade~
+A blade of fire is ready to wield~
+~
+5 43397120 8193 0
+0 2 1
+0 4 6 3
+3 1000 1000
+#4555
+electric shield~
+an Electric Shield~
+A sizzling shield is helping you to deflect blows~
+~
+9 41943042 513 0
+4 32 0
+5 0 0 0
+10 2000 2000
+A
+13 4
+A
+2 1
+#4556
+electric shield~
+an Electric Shield~
+A sizzling shield is helping you to deflect blows~
+~
+9 2 513 0
+0 0 4
+6 0 0 0
+10 500 500
+#4557
+lightning bolt~
+a lightningbolt~
+A bolt of pure electric energy is here.~
+~
+5 43003904 8193 0
+0 2 4
+0 4 6 14
+3 1000 1000
+#4558
+seaweed belt~
+a belt of seaweed~
+A belt of kelp.~
+~
+22 0 2049 0
+0 0 1
+0 0 0 0
+4 1400 1400
+A
+24 1
+A
+25 2
+#4559
+wave whip~
+a wave whip~
+A whip that mimics the movement of the waves.~
+~
+5 1048576 8193 0
+0 4 2
+0 4 6 2
+3 1000 1000
+#4560
+ parka~
+a parka~
+A warm parka protects you from the wind.~
+~
+11 0 1033 0
+0 0 2
+0 0 0 0
+13 850 850
+A
+16 -4
+#4561
+icicle dagger~
+an icicle~
+A weapon made of pure ice is here.~
+~
+5 1056768 8193 0
+2 1 0
+0 5 6 11
+7 10000 10000
+A
+17 2
+A
+13 2
+#4562
+icicle~
+an icicle~
+A weapon made of pure ice is here.~
+~
+5 0 8193 0
+0 0 0
+0 3 7 11
+7 250 250
+#4563
+a boulder helmet~
+a boulder helmet~
+A carved out rock would make an intersting helmet for you.~
+~
+9 0 17 8519680
+0 8 4
+5 0 0 0
+20 3500 3500
+A
+21 2
+A
+9 -3
+A
+25 3
+#4564
+a boulder helmet~
+a boulder helmet~
+A carved out rock would make an intersting helmet for you.~
+~
+9 0 17 8388608
+0 8 4
+5 0 0 0
+20 3500 3500
+A
+9 -3
+A
+25 1
+#4565
+a sharp stone~
+a sharp stone~
+A sharp, small, pointed rock.~
+~
+5 0 8193 0
+0 0 0
+0 4 6 5
+7 1000 1000
+#4566
+fireball fire ball~
+a fireball~
+A ball of hot flame.~
+$n point$c the ball of fire at $N and let$c go!!~
+3 3 16385 0
+0 0 0
+15 1 1 61
+1 0 0
+#4567
+invisiblesword1~
+an invisible sword~
+An invisible sword is being held by the illusionist.~
+~
+12 32 8192 0
+0 0 0
+0 0 0 0
+1 0 0
+#4568
+elemental amulet~
+an elemental amulet~
+An amulet with a picture of each of the elements on it.~
+~
+11 67 5 0
+0 0 0
+0 0 0 0
+5 5000 5000
+A
+17 3
+A
+10 5
+$

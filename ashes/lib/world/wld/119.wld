@@ -1,0 +1,1810 @@
+#11900
+~
+~
+119 0 0
+0d0+0 0 0
+S
+#11901
+Above the Mountain of Norn~
+You are surrounded by a dark hazy mist as you begin to fly above the great
+mountain of Norn and feel a chilling cold to your very bones as the wind
+whips around you.
+~
+119 524308 9
+0d0+0 0 0
+D4
+~
+~
+0 -1 11902
+S
+#11902
+In the Air~
+Surrounded by nothing but clouds you float and fly higher and higher until
+even the great mountain of Norn is but a tiny spec on the plains of the frost
+giants.
+~
+119 524288 9
+0d0+0 0 0
+D4
+~
+~
+0 -1 11903
+D5
+~
+~
+0 -1 11901
+S
+#11903
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11904
+D1
+~
+~
+0 -1 11905
+D2
+~
+~
+0 -1 11906
+D3
+~
+~
+0 -1 11907
+D4
+~
+~
+0 -1 11908
+D5
+~
+~
+0 -1 11902
+D6
+~
+~
+0 -1 11910
+D7
+~
+~
+0 -1 11911
+D8
+~
+~
+0 -1 11912
+D9
+~
+~
+0 -1 11913
+S
+#11904
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11904
+D1
+~
+~
+0 -1 11904
+D2
+~
+~
+0 -1 11904
+D3
+~
+~
+0 -1 11905
+D4
+~
+~
+0 -1 11906
+D5
+~
+~
+0 -1 11903
+D6
+~
+~
+0 -1 11908
+D7
+~
+~
+0 -1 11909
+D8
+~
+~
+0 -1 11910
+D9
+~
+~
+0 -1 11911
+S
+#11905
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11904
+D1
+~
+~
+0 -1 11904
+D2
+~
+~
+0 -1 11904
+D3
+~
+~
+0 -1 11906
+D4
+~
+~
+0 -1 11907
+D5
+~
+~
+0 -1 11904
+D6
+~
+~
+0 -1 11909
+D7
+~
+~
+0 -1 11910
+D8
+~
+~
+0 -1 11911
+D9
+~
+~
+0 -1 11912
+S
+#11906
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11905
+D1
+~
+~
+0 -1 11905
+D2
+~
+~
+0 -1 11905
+D3
+~
+~
+0 -1 11907
+D4
+~
+~
+0 -1 11908
+D5
+~
+~
+0 -1 11905
+D6
+~
+~
+0 -1 11910
+D7
+~
+~
+0 -1 11911
+D8
+~
+~
+0 -1 11912
+D9
+~
+~
+0 -1 11913
+S
+#11907
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11906
+D1
+~
+~
+0 -1 11907
+D2
+~
+~
+0 -1 11905
+D3
+~
+~
+0 -1 11908
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11906
+D6
+~
+~
+0 -1 11911
+D7
+~
+~
+0 -1 11912
+D8
+~
+~
+0 -1 11913
+D9
+~
+~
+0 -1 11914
+S
+#11908
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11915
+D1
+~
+~
+0 -1 11914
+D2
+~
+~
+0 -1 11912
+D3
+~
+~
+0 -1 11913
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11911
+D7
+~
+~
+0 -1 11912
+D8
+~
+~
+0 -1 11914
+D9
+~
+~
+0 -1 11915
+S
+#11909
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11917
+D1
+~
+~
+0 -1 11916
+D2
+~
+~
+0 -1 11913
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11911
+D7
+~
+~
+0 -1 11912
+D8
+~
+~
+0 -1 11914
+D9
+~
+~
+0 -1 11917
+S
+#11910
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11918
+D1
+~
+~
+0 -1 11916
+D2
+~
+~
+0 -1 11913
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11903
+D6
+~
+~
+0 -1 11911
+D7
+~
+~
+0 -1 11912
+D8
+~
+~
+0 -1 11914
+D9
+~
+~
+0 -1 11918
+S
+#11911
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11918
+D1
+~
+~
+0 -1 11916
+D2
+~
+~
+0 -1 11913
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11903
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11919
+D8
+~
+~
+0 -1 11914
+D9
+~
+~
+0 -1 11918
+S
+#11912
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11918
+D1
+~
+~
+0 -1 11916
+D2
+~
+~
+0 -1 11913
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11903
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11919
+D8
+~
+~
+0 -1 11921
+D9
+~
+~
+0 -1 11921
+S
+#11913
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11918
+D1
+~
+~
+0 -1 11916
+D2
+~
+~
+0 -1 11913
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11903
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11916
+D8
+~
+~
+0 -1 11921
+D9
+~
+~
+0 -1 11922
+S
+#11914
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11918
+D1
+~
+~
+0 -1 11916
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11903
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11916
+D8
+~
+~
+0 -1 11921
+D9
+~
+~
+0 -1 11922
+S
+#11915
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11918
+D1
+~
+~
+0 -1 11916
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11916
+D8
+~
+~
+0 -1 11924
+D9
+~
+~
+0 -1 11922
+S
+#11916
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11918
+D1
+~
+~
+0 -1 11916
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11925
+D8
+~
+~
+0 -1 11920
+D9
+~
+~
+0 -1 11922
+S
+#11917
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11913
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11917
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11922
+S
+#11918
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11917
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11922
+S
+#11919
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11922
+S
+#11920
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11929
+S
+#11921
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11929
+S
+#11922
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11929
+S
+#11923
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11929
+S
+#11924
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11929
+S
+#11925
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11929
+S
+#11926
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11929
+S
+#11927
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11929
+S
+#11928
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11929
+S
+#11929
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11907
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11930
+S
+#11930
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11911
+D2
+~
+~
+0 -1 11923
+D3
+~
+~
+0 -1 11915
+D4
+~
+~
+0 -1 11909
+D5
+~
+~
+0 -1 11931
+D6
+~
+~
+0 -1 11903
+D7
+~
+~
+0 -1 11928
+D8
+~
+~
+0 -1 11926
+D9
+~
+~
+0 -1 11929
+S
+#11931
+The Pentagram Chamber~
+This room surrounds you with the smell of burning flesh and rotten eggs...you
+only wish that those glowing red eyes at the center weren't your fate to face
+as you move forward to face Diablo himself...but only you can stop diablo
+from waking the mighty Ragnarok to destroy Midgaard prepare yourself for the
+end.
+~
+119 524288 9
+0d0+0 0 0
+D5
+~
+~
+0 -1 11932
+S
+#11932
+Diablo's Lair~
+Not that you'll have time to read this but the great master of the undead the
+sentient being of all evil the plotter of all destruction the Really big
+REally bad REAlly mean REALly ugly REALLy furious REALLY KILLING YOU Diablo
+is here!
+~
+119 524288 9
+0d0+0 0 0
+S
+#11933
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11909
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 -1 11911
+D5
+~
+~
+0 -1 11907
+S
+#11934
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11909
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 -1 11911
+D5
+~
+~
+0 -1 11907
+S
+#11935
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11909
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 -1 11911
+D5
+~
+~
+0 -1 11907
+S
+#11936
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11909
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 -1 11911
+D5
+~
+~
+0 -1 11907
+S
+#11937
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11909
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 -1 11911
+D5
+~
+~
+0 -1 11907
+S
+#11938
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11909
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 -1 11911
+D5
+~
+~
+0 -1 11907
+S
+#11939
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11909
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 -1 11911
+D5
+~
+~
+0 -1 11907
+S
+#11940
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11909
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 -1 11911
+D5
+~
+~
+0 -1 11907
+S
+#11941
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11909
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 -1 11911
+D5
+~
+~
+0 -1 11907
+S
+#11942
+Further in the Air~
+The Clouds surrounding you seem to gain substance and you hear the sound of
+music coming from one just east of here.  Perhaps the birds voices are
+stronger here where the wind whips you about like a feather, but that sounds
+an awful like drums and not whistles.
+~
+119 524288 9
+0d0+0 0 0
+D0
+~
+~
+0 -1 11927
+D1
+~
+~
+0 -1 11909
+D2
+~
+~
+0 -1 11910
+D3
+~
+~
+0 -1 11911
+D5
+~
+~
+0 -1 11907
+S
+#11943
+A Burning Guest Bedroom~
+~
+119 6144 0
+0d0+0 0 0
+S
+#11944
+A Guest Bedroom filled with chanting~
+~
+119 0 0
+0d0+0 0 0
+S
+#11945
+A room Filled with Streams and Fountains~
+~
+119 0 0
+0d0+0 0 0
+S
+#11946
+A room Filled with billowing clouds~
+~
+119 0 0
+0d0+0 0 0
+S
+#11947
+A Burning Guest Bedroom~
+~
+119 0 0
+0d0+0 0 0
+S
+#11948
+A Frozen Guest Bedroom~
+~
+119 0 0
+0d0+0 0 0
+S
+#11949
+A room Filled with streams and trickling fountains~
+~
+119 0 0
+0d0+0 0 0
+S
+#11950
+Giant Guard station~
+~
+119 0 0
+0d0+0 0 0
+S
+$

@@ -1,0 +1,1947 @@
+#24300
+Section Chief Scott Blevins' office~
+The first thing you notice upon entering this office is how tidy it is.
+This office is well-lit and the windows are wide-opened to allow fresh air
+to ventilate throughout.  There's a man sitting behind a desk working on a
+personal computer.  He seems to be writing a report or a personnel profile
+of someone.  The man doesn't seem to sense your presence in this room as he
+is busy working hard on his task.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+door office~
+1 -1 24304
+S
+#24301
+Walter Skinner's office~
+This office is not very well-lit and it's pretty stuffy in here.  The
+windows are kept shut and the main light switches are taped so that they
+will not be turned on.  There are couches here on both sides of the room
+and the walls here are bare.  A large desk is lying on the middle of this
+office and someone is sitting behind it.  He looks like a smei bald-headed
+man with glasses.  He seems to be busy talking on the phone and he's
+careful not to speak too loud...because the walls have ears...
+~
+243 4105 0
+0d0+0 0 0
+D2
+~
+door office~
+2 -1 24302
+S
+#24302
+The 3rd Floor (north hallway)~
+There's a door here guarded by two alert security officers.  They seem to
+have their hands on their side arms everytime someone approaches them.
+Someone in there must be pretty darn important for the guards to behave in
+this manner.  The name label on the door reads 'Assistant Director of the
+F.B.I. Walter S. Skinner.'
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+door office~
+2 24386 24301
+D2
+~
+~
+0 -1 24310
+S
+#24303
+The 3rd Floor (west hallway)~
+There's nothing unusual about this area of the floor.  Security guards are
+walking behind you and you can feel them staring at you as though you were
+a shoplifter in a store.  The elevator entrance is just east of where
+your're standing and the hallway continues south.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24310
+D2
+~
+~
+0 -1 24304
+S
+#24304
+The 3rd Floor (west hallway)~
+There are lots of guards here passing you by and looking you up and down as
+though you're under suspicion.  A door is located west of here and there's
+a name label on this door thtat reads 'Section Chief Scott Blevins.'  The
+hallway continues south and north of here.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24303
+D2
+~
+~
+0 -1 24305
+D3
+~
+door office~
+1 -1 24300
+S
+#24305
+The 3rd Floor (south hallway)~
+You can feel the security cameras immediately zoom into your direction as
+you walk into this area of the floor.  The cameras here record all areas
+in the building making sure that foreign spies could not leave here with
+top-secret files.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24304
+D1
+~
+~
+0 -1 24306
+S
+#24306
+The 3rd Floor (south hallway)~
+Security guards are still here checking ID badges and security is tighter
+than ever.  Anyone who is caught in a suspicious act is immediately
+confined to a holding cell.  This hallway continues east and west of where
+you're standing.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24307
+D3
+~
+~
+0 -1 24305
+S
+#24307
+The 3rd Floor (south hallway)~
+This entire hallway seems to go in circles and you're beginning to wonder
+where's the exit from this floor.  This hallway is dull much like the other
+hallways on the other floors.  Each area is so much alike that it's hard to
+remeber where you've been or came in from.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24308
+D3
+~
+~
+0 -1 24306
+S
+#24308
+The 3rd Floor (east hallway)~
+There's nothing different in this area of the hallway.  The guards are
+still behind you making sure that you're not here to cause any problems.  A
+door is located east of here and the label on that door reads 'Section
+Chief Joseph McGrath.'
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24309
+D1
+~
+door office~
+1 -1 24399
+D2
+~
+~
+0 -1 24307
+S
+#24309
+The 3rd Floor (east hallway)~
+You notice that the security guards here are checking your every movement
+and they seem to be following you to make sure you're not trying anything
+funny.  There are hidden security cameras on all parts of this floor.  The
+hallway continues west and south of here.
+~
+243 4104 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 24308
+D3
+~
+~
+0 -1 24310
+S
+#24310
+The 3rd Floor (elevator entrance)~
+There seems to be more security officers here than the two previous floors
+beneath you.  The officers seem to be checking badges of every single
+visitor on this floor and they're about to check yours as well.  This
+hallway continues east and west of here, and to your north there's a door
+guarded by two security officers.  The elevator entrance/exit is just south
+of where you're standing.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24302
+D1
+~
+~
+0 -1 24309
+D2
+~
+elevator door doors~
+1 24300 24311
+D3
+~
+~
+0 -1 24303
+S
+#24311
+Inside the elevator (at the 3rd Floor)~
+As soon as you arrive at this level of the elevator, a computerized voice
+tells you that only personnel with priority one clearance may pass through
+this door.  The computer access panel is here waiting for you to slide in
+your access card so that they can validate your ID.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+elevator door doors~
+1 24300 24310
+D5
+~
+~
+0 -1 24331
+S
+#24312
+Fox Mulder's secret files~
+There are about ten large file cabinets stacked on top of one another.  
+Each cabinet seems to be filled with information of top-secret files that
+even the most higher-ups in the Pentagon have never seen.  Each cabinet
+seems to be locked and probably only Fox Mulder has the key to access to
+these files.
+~
+243 4105 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24313
+S
+#24313
+Further inside a secret entrance~
+The darkness is making you trip and bump into anything that is lying in the
+middle of the walkway.  This entrance seems to be built within the very
+walls of the F.B.I. building and probably only this 'Agent Mulder' knows
+about this secret area.
+~
+243 4105 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24314
+D2
+~
+~
+0 -1 24312
+S
+#24314
+Inside a secret entrance~
+It's very dark in here...  What could be lying south of this secret
+entrance, you think to yourself.  There is no light switch in this room and
+you can't sense anything dangerous near here.
+~
+243 4105 0
+0d0+0 0 0
+D0
+~
+secret entrance north n wall~
+2 24315 24315
+D2
+~
+~
+0 -1 24313
+S
+#24315
+Fox Mulder's office~
+This office is a complete mess.  Everywhere you look there are documents,
+books, journals, and research paper lying on the tables, chairs, and even
+the floor.  There are also food cartons and coffee cups stacked to the top
+in a small garbage can.  The walls are covered corner to corner by hundreds
+of articles that seem to focus mostly on U.F.O. sitings and abductions.  In
+the middle of the room, there's a small desk and two agents are here
+sitting next together discussingon something.  One of the special agents is
+a man and he seems to be doing his research using his computer, and the
+other special agent is a gorgeous red-haired woman who is here studying
+curiously on what the other agent is doing.  As you look around this small
+office, you notice an outline on the wall of what seems to be some sort of
+a secret entrance south of here.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+door office~
+1 -1 24316
+D2
+~
+secret entrance south s wall~
+2 24315 24314
+S
+#24316
+The 2nd Floor (south hallway)~
+There's a door south of here and on that door a label reads 'Special Agent
+Fox Mulder.'  A poster is also taped to the door.  It's a picture of a
+flying saucer of some sort and the words on it reads 'The Truth is Out
+There...'  There are people inside this office as you try to listen in on
+their conversation.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24317
+D2
+~
+door office~
+1 -1 24315
+S
+#24317
+The 2nd Floor (south hallway)~
+The south hallway seems to a complete stop here but it really
+continues south of here.  And at a distance, south of where you're standing
+there's a door there.  The lights around this area seem to be dimmer than
+the rest of the hallway.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24318
+D2
+~
+~
+0 -1 24316
+S
+#24318
+The 2nd Floor (south hallway)~
+The tedium of walking back and forth trying to find your way around this
+floor is beginning to make you think twice about getting out of this area.
+This hallway seems to continue all the way east and west of here.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24319
+D3
+~
+~
+0 -1 24317
+S
+#24319
+The 2nd Floor (south hallway)~
+The southern hallway of this floor seems to be endless.  The walk from
+east-to-west and west-to-east is beginning to confuse your sense of
+direction.  There are agents here moving quickly passing you by as though
+they seem to be in a hurry.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24325
+D3
+~
+~
+0 -1 24318
+S
+#24320
+Dana Scully's office~
+Amazingly this office is tidy unlike most of the offices here in the
+building.  Not only is the place clean but it also smells nice.  There's a
+desk in the middle of the room and on top of it, there's a picture of a
+beautiful woman.  She has pretty shoulder-length red hair and pouty red
+lips to match...she's just gorgeous.  Suddenly, you sense you're not alone
+in this room.  Someone else is here and she seems to be waiting patiently
+for someone, probably the cute woman-agent in the photo.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+door office~
+1 -1 24321
+S
+#24321
+The 2nd Floor (south hallway)~
+You're standing before a door south of here.  The label on this door reads
+'Special Agent Dana Scully.'  As you were about to walk away you sense
+someone is inside this room.  It's probably just this 'Agent Scully' doing
+her business in there.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24322
+D2
+~
+door office~
+1 -1 24320
+S
+#24322
+The 2nd Floor (south hallway)~
+There's nothing special to look at around here.  Agents and security
+officers are just everywhere on this floor and everyone here seems busy
+with some task at hand.  From a distance, south of where you're standing,
+an office door is located there.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24326
+D2
+~
+~
+0 -1 24321
+S
+#24323
+The 2nd Floor (west hallway)~
+There are no paintings on the walls and monuments standing on the sides of
+the hallway.  All you see around this section of the floor are special
+agents walking pass you carrying loads of documents on their arms.  From a
+distance, you can see the elevator is just located east of here.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24330
+D2
+~
+~
+0 -1 24324
+S
+#24324
+The 2nd Floor (west hallway)~
+You are immediately bored by this area of the hallway because there's nothing
+exciting going on around this place.  The special agents here are just
+working diligently on their tasks and they don't have time to give you a
+tour to their rooms.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24323
+D2
+~
+~
+0 -1 24325
+S
+#24325
+The 2nd Floor (south hallway)~
+Special agents from all departments in the building are moving back and
+forth trying to get things done.  Everyone here looks hard-working and
+dedicated to their work.  The south hallway continues all the way east and
+west of here and the west hallway is to your north.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24324
+D1
+~
+~
+0 -1 24326
+D3
+~
+~
+0 -1 24319
+S
+#24326
+The 2nd Floor (south hallway)~
+You've reached an intersection between three hallways.  The southern
+hallway seems to lead to an office there.  The west hallway looks like it
+stretches for miles and the east hallway seems much shorter.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24327
+D2
+~
+~
+0 -1 24322
+D3
+~
+~
+0 -1 24325
+S
+#24327
+The 2nd Floor (east hallway)~
+The hallway here looks like a maze to confuse people.  The walls and floors
+are all alike and there's no way to track a route from one place to
+another.  The confusion has made you go in circles as you try to find your
+way around this labyrinth.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24328
+D3
+~
+~
+0 -1 24326
+S
+#24328
+The 2nd Floor (east hallway)~
+You notice there are security cameras placed at a ceiling everywhere you
+go.  The F.B.I. wants to make sure that no one without authorization may
+wander into this building without notice.  This hallway continues south and
+north of here.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24329
+D2
+~
+~
+0 -1 24327
+S
+#24329
+The 2nd Floor (east hallway)~
+There's nothing exciting happening around here.  All you see are special
+agents moving from room to room carry research documents and security
+equipment from one place to another.  This hallway continues west and south
+of where you're standing.
+~
+243 4104 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 24328
+D3
+~
+~
+0 -1 24330
+S
+#24330
+The 2nd Floor (elevator entrance)~
+An elevator is located south of here and there's an access panel that's
+ready to validate your access card.  You can see the security camera up on
+the ceiling zooming in to your direction making sure you don't fool around 
+with panel.  This 2nd Floor hallway continues east and west.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24329
+D2
+~
+elevator door doors~
+1 24305 24331
+D3
+~
+~
+0 -1 24323
+S
+#24331
+Inside the elevator (at the 2nd Floor)~
+The elevator stops here at the 2nd Floor but the doors doesn't
+automatically open.  Instead a computerized voice coming out from a speaker
+panel requests for an identification card.  It seems all floor in this
+F.B.I. building requires an access verification of some sort.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+elevator door doors~
+1 24305 24330
+D4
+~
+~
+0 -1 24311
+D5
+~
+~
+0 -1 24367
+S
+#24332
+Inside a research confinement~
+The first thing you notice upone entering this room is the frightened man
+sitting in the corner with his arms and hands covering his face.  It's as
+though he fears someone or something would come inside this room and take
+him away.  The poor man keeps muttering about 'them' coming back for him.
+This mental patient looks harmless but WATCHOUT!  He's know to have killed
+a few people and kidnapped an F.B.I. agent.
+~
+243 4104 0
+0d0+0 0 0
+D2
+~
+door cell~
+1 -1 24341
+S
+#24333
+Inside a research confinement~
+As you walk inside this room, you sense that there's danger all around you.
+A danger by the name of Eugene Tooms, a mental patient who loves to murder
+and mutilate his victims for their livers!  You can hear heavy breathing in
+the darkness but you can't see where Tooms is around this room.  He's
+hiding like a natural predator until he's ready to strike...
+~
+243 4104 0
+0d0+0 0 0
+D2
+~
+door cell~
+1 -1 24337
+S
+#24334
+A top-secret research laboratory~
+You are amazed by what you see around you.  Some of the patients here
+aren't like any human on earth...these patients look more like outer space
+aliens!  You can't take your eyes off the strange patients all around you.
+There's also a strange humanoid 'fish-man' chained inside a large fish tank
+next to a wall.  Also you see a grey-skin man with lesions covering most of
+his face.  This laboratory is more like a circus freak show than any
+research department.
+~
+243 4104 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 24335
+S
+#24335
+A top-secret research laboratory~
+There are things here that are not meant for anyone outside the department
+to see.  Everywhere you look, there are patients here in straitjackets and
+their mouths are in protective muffles.  The patients here must be pretty
+dangerous to let loose around this room and some of them are acting
+violently as you walk close to them.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24334
+D1
+~
+door~
+2 24385 24336
+S
+#24336
+The Research for the Unexplained Department~
+There's a large door with an access card panel next to it.  There must be
+something important behind this door that only the most qualified, rank and
+experience, may enter inside.  The large sign on this door reads 
+'AUTHORIZED PERSONNEL ONLY - trespassers will be prosecuted.'
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24337
+D3
+~
+door ~
+2 24385 24335
+S
+#24337
+The Research for the Unexplained Department~
+There are a lot of activities going on west of here and most of the
+scientists stationed in this department are crowded there.  A door is
+located south of where you're standing and the door label reads 'Mental
+Patient: Eugene Victor Tooms - DO NOT ENTER.'
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+door cell~
+1 -1 24333
+D1
+~
+~
+0 -1 24338
+D3
+~
+~
+0 -1 24336
+S
+#24338
+The Research for the Unexplained Department~
+You've been inside this department for some time now and you notice that
+there's a 'whispering' on the loud speakers.  You try to make out the words
+from this whispering and the only words you can understand are 'deny
+everything...'  The F.B.I. must be trying to brainwash their employees with
+subliminal messages so that they would not leak out top-secret information.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24339
+D3
+~
+~
+0 -1 24337
+S
+#24339
+The Research for the Unexplained Department~
+This strange area of the building is beginning to make you think twice
+before going any further.  Security guards are everywhere and you can see
+surveillance cameras on the ceiling zooming back and forth.  This Research
+Department continues east and west.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24340
+D3
+~
+~
+0 -1 24338
+S
+#24340
+The Research for the Unexplained Department~
+Everywhere you look, doctors and scientists are running back and forth
+tending to their tasks.  You can see doctors and their assistants here
+moving patients on medical emergency beds.  The patients on these beds
+don't look anything like human beings to you -- they have large, dark
+almond eyes and their skin pigment is unlike anything you've seen on a
+normal person.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24341
+D3
+~
+~
+0 -1 24339
+S
+#24341
+The Research for the Unexplained Department~
+Only the most qualified scientists and doctors may enter this section of
+the floor.  This is the area where the F.B.I. doesn't want anyone to know
+about and what Fox Mulder and the 'Lone Gunmen' are trying to uncover to
+the public.  The secrets in this large department could put the nation in a
+widespread panic and thus everything in this department is national
+security.  There's a door north of here and the label on this door reads
+'Mental Patient: Duane Barry - DO NOT ENTER.'
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 24332
+D2
+~
+south southdoor 2.door sdoor 2door~
+2 24385 24352
+D3
+~
+~
+0 -1 24340
+S
+#24342
+A smoke-filled room~
+It's dark as heck in here!  The light-switch doesn't seem to be functional
+and the smoke doesn't help much either.  Someone is definitely here and
+he's sitting behind a desk.  The silhouette figure behind the desk seems to
+be that of a man smoking a cigarette.  He's talking on the phone and 
+whispering every single word from his mouth.  The conversation must be 
+important that he didn't sense your presence here in his office.  As you
+look over his desk you see his ash tray filled to the top with ashes and
+cigarette butts.  This strange man is going to die from lung cancer before
+he reaches his prime.
+~
+243 4105 0
+0d0+0 0 0
+D1
+~
+door office~
+1 -1 24350
+S
+#24343
+The Paranormal/Psychic Research Department~
+There are a lot of scientists and doctors here performing tests of all
+sorts in this room.  You notice a strange 'sensation' as you walk inside
+this laboratory.  There's an aura that surrounds some of the patients here
+and the feeling you get from what the auras emit is something you can't
+find the words to explain.  Suddenly, you feel a sharp pain in your head
+as though something is 'squeezing' your brain for information.  The blood
+from your nose pour out quickly and you feel yourself losing consciousness.
+The psychic energy in this room is too much to bear for someone who has no
+experience dealing with psychics and paranormals.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+door office~
+2 -1 24348
+S
+#24344
+The Cryogenics Research Lab~
+You are in awe as you walk inside this large research laboratory.  There
+are large steel cannisters here lying beside the walls and tubes of strange
+liquid are being fed into them.  It's about thirty degrees in this room and
+you feel yourself shivering from this freezing temperature.  There's a
+strange man here just sitting there and staring at one of the cannisters.
+He doesn't look like he works around this lab and you're not about to ask
+him what is his business in this room.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24356
+S
+#24345
+Inside a dark holding cell~
+It's getting darker and darker as you go further and further into this
+strange holding cell.  You sense you're not alone inside this room -- you
+can hear heavy breathing, not from one person but by many.  There must be
+an army in here that is surrounding you and preparing to strike!
+~
+243 4105 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 24346
+S
+#24346
+Inside a dark holding cell~
+It's dark and dank inside this strange room.  The windows here are all
+barred and boarded shut.  Someone wants this place to remain locked but why
+would anyone want to do that unless of course, there's someone or
+somethings locked inside this large cell.  You can feel something is
+watching you from the darkness...something that doesn't seem friendly...
+~
+243 4105 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24345
+D3
+~
+door doors~
+2 24385 24354
+S
+#24347
+Basement Floor (main hallway - south)~
+There's a lot of doctors/scientists here walking back and forth attending
+to their tasks at hand.  The guards are carefully looking for any possible
+intruders that enter this section of the floor.  The main hallway continues
+east and west of here.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24357
+D3
+~
+~
+0 -1 24348
+S
+#24348
+Basement Floor (main hallway - southwest corner)~
+There's a door south of here and the label on this door reads
+'Paranormal/Psychic Research.'  You are curious to enter this room and find
+what's behind this door.  Doctors and scientists from around this section
+seem to walk in and out from this research office.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24349
+D1
+~
+~
+0 -1 24347
+D2
+~
+door office~
+1 -1 24343
+S
+#24349
+Basement Floor (main hallway - west)~
+As you walk along this section of the hallway, you notice immediately the
+light coming from the north.  It's bright and very strong...something is
+definitely happening there.  There are not a lot of guards here patrolling
+this area and they seem to be staying away as far as possible from what 
+lies north of here.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24350
+D2
+~
+~
+0 -1 24348
+S
+#24350
+Basement Floor (main hallway - west)~
+There's a light coming from north of here and it's very bright.  You are
+curious to find out what is causing this light from that direction.  A door
+is also west of here and something in there smells funny.  There are 
+cigarette smokes coming from beneath that door, and you can hear a faint
+whispering inside.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24351
+D2
+~
+~
+0 -1 24349
+D3
+~
+door office~
+1 -1 24342
+S
+#24351
+A white laboratory room~
+This entire room is completely white!  There are strange metallic patient-
+beds on the sides of the room and funny-looking medical equipments lying on
+tables.  In the middle of the room, there are doctors here dressed in
+weird 'costumes' as though they are trying to look like aliens.  These
+'doctors' seem to be operating on a woman patient and she looks very
+nervous and frightened even in her near-unconscious state.  One of the
+doctors here are instructing the others on their performance and he's 
+speaking to them in a foreign language...
+~
+243 4108 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 24350
+S
+#24352
+Basement Floor (main hallway - east)~
+Almost every scientists and doctors on this floor are going inside that
+northern entrance.  The door is guarded by two soldiers who make sure that
+the person has the proper access card.  The access panel is next to that
+door and it is the only thing that will unlock this heavily-guarded door.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+door access~
+2 24385 24341
+D2
+~
+~
+0 -1 24353
+S
+#24353
+Basement Floor (main hallway - east)~
+Doctors and scientists are moving everywhere around this area as though
+something important is happening here.  All the doctors/scientists seem to
+head north of here...there must be something there that draws them to that
+direction.  You are curious (very curious) to find out what lies north.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24352
+D2
+~
+~
+0 -1 24354
+S
+#24354
+Basement Floor (main hallway - east)~
+The first thing you notice when you step into this room is a door east of
+where you're standing.  The door is made of the same armored metal as the
+elevator door you came from.  Something important must lie behind this
+tough barrier and the only thing that keeps you from entering inside is a
+certain access card... 
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24353
+D1
+~
+door doors~
+2 24385 24346
+D2
+~
+~
+0 -1 24355
+S
+#24355
+Basement Floor (main hallway - southeast corner)~
+As you walk along this main hallway, you notice that this floor is much
+larger than most floors on this building.  There must be something 
+important going on in this floor that the F.B.I. doesn't want anyone to
+find out about.  The main hallway continues north and west.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24354
+D3
+~
+~
+0 -1 24356
+S
+#24356
+Basement Floor (main hallway - south)~
+There's nothing unusual about this area of the hallway.  A room lies just
+south of here and the label on that door reads 'Cryogenics Research.'  The
+door is left wide open and someone seems to be in there probably testing or
+researching on this subject.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24355
+D2
+~
+~
+0 -1 24344
+D3
+~
+~
+0 -1 24357
+S
+#24357
+Basement Floor (main hallway - south)~
+Just as you step into this area of the hallway, you notice that this place
+smells like a hospital.  There are doctors and scientists walking 
+everywhere around the hallway back and forth.  Security guards are also
+very active as they make sure that no one around here is an 'unauthorized'
+visitor.  They are verifying badges and checking on their list to make sure
+everyone on this floor are what they seem to be.  It would be smart for you
+to avoid these guards when exploring around this section of the hallway.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24361
+D1
+~
+~
+0 -1 24356
+D3
+~
+~
+0 -1 24347
+S
+#24358
+Basement Floor (west elevator-hallway)~
+This floor doesn't look like any basement floor from any building you've
+been in.  The hallway is well-lit and the walls here are painted light blue.
+There are also doctors and scientists here walking pass you, and you wonder
+to yourself, what would doctors and scientists be doing at the basement
+floor of the F.B.I. building?
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24365
+D2
+~
+~
+0 -1 24359
+S
+#24359
+Basement Floor (west elevator-hallway)~
+The scientists and doctors are beginning to annoy you as they accidentally
+bump into you when they try making their way to their destination point.
+Everyone here seems to be in a hurry to get to somewhere.  This hallway
+continues north and south of here.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24358
+D2
+~
+~
+0 -1 24360
+S
+#24360
+Basement Floor (west elevator-hallway)~
+There's nothing unusual about this area of the hallway.  More doctors and
+scientists are passing you going east as though something is happening
+there.  Not far east of here, you can see that there is an entrance that
+can take you to another hallway.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24359
+D1
+~
+~
+0 -1 24361
+S
+#24361
+Basement Floor (exit/entrance elevator-hallway)~
+The entrance to another hallway lies south of here and there seems to be
+more activities going on there.  The doctors and scientists are mostly
+entering into that part of the area.  There must be something important
+that's happening there and it might be dangerous for you to find out what!
+From a distance, you can see security guards walking around making sure 
+there's no one here that'll cause any trouble.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24362
+D2
+~
+~
+0 -1 24357
+D3
+~
+~
+0 -1 24360
+S
+#24362
+Basement Floor (east elevator-hallway)~
+The sounds of footsteps by doctors and scientists are pretty loud as they
+walk along the concrete hallway.  Some of the doctors here are scampering
+quickly about as though they are in a hurry to deliver a baby.  The hallway
+continues north and west of here.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24363
+D3
+~
+~
+0 -1 24361
+S
+#24363
+Basement Floor (east elevator-hallway)~
+More and more doctors/scientists are passing you by as they seem to be in a
+hurry to get to a sick patient.  The basement floor of this building is
+suprisingly well-lit and the walls are painted white.  This doesn't look
+like any basement floor in any building you've seen.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24364
+D2
+~
+~
+0 -1 24362
+S
+#24364
+Basement Floor (east elevator-hallway)~
+There are no soldiers with guns around this area and hardly any special
+agents here carrying loads of documents.  This entire area is occupy by
+people wearing long white doctor's uniforms.  Hmmm...  what would doctors
+(or scientists) be doing here working in the basement floor of this 
+building, you think to yourself.
+~
+243 4104 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 24363
+D3
+~
+~
+0 -1 24365
+S
+#24365
+Basement Floor (elevator-hallway)~
+Just as soon as you step into this area you notice a large gold-plated sign
+reading 'Top-Secret area, Authorized Personnel Only.'  The sign is so huge
+that it's impossible not to notice it.  There's also a small phrase beneath
+this warning sign that reads 'Deny Everything...'  What a strange place
+this is, you think to yourself.  This hallway continues east and west.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24364
+D2
+~
+elevator door doors~
+2 24300 24366
+D3
+~
+~
+0 -1 24358
+S
+#24366
+Inside the elevator (at the Basement)~
+This underground level of the building looks quite suspicious.  To open
+this door one must have priority one status and an access card that can be
+validated by the slider.  The door is impossible to pry open because it's
+made of some sort of armored metal that you've never seen before...
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+elevator doors door~
+2 24300 24365
+D4
+~
+~
+0 -1 24367
+S
+#24367
+Inside the elevator (at the Main Floor)~
+This elevator looks large from the inside and it may probably fit more than
+twenty people.  The walls of the elevator are covered by shiny metal plates
+much like the elegant hotels in Beverly Hills.  There's a large panel that
+is placed next to the exit/entrance of this elevator.  An access card 
+slider is also there next to the control panel.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+elevator door doors~
+1 24305 24371
+D4
+~
+~
+0 -1 24331
+D5
+~
+~
+0 -1 24366
+S
+#24368
+The Main Floor (east hallway)~
+The people around you are moving quickly back and forth, moving documents
+from one place to the other.  The F.B.I. building is always busy during the
+day and even during night-time.  This hallway continues north and the
+entrance/exit is just west of where you're standing.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24369
+D3
+~
+~
+0 -1 24375
+S
+#24369
+The Main Floor (east hallway)~
+As soon as you enter this section of the main floor, you notice a door just
+north of here.  It's a plain office door in the department.  The name plate
+on the door reads 'Special Agent Alex Krycek'...he must be one of the
+special agents here in the building.
+~
+243 266248 0
+0d0+0 0 0
+D0
+~
+door office~
+1 -1 24370
+D2
+~
+~
+0 -1 24368
+S
+#24370
+Alex Krycek's office~
+This office looks neat and tidy.  All you see is a desk in the middle of
+the room with a big pile of documents stacked almost close to the ceiling.
+This office doesn't seem to have a window much like the other offices here
+in the building.  There's a special agent here sitting behind the desk 
+whispering on the phone.  He seems to be talking secretly to someone who is
+important (judging by the expression on his face).  The agent doesn't seem
+to notice your presence in his office.  That phone call must be from
+someone of great importance.
+~
+243 4104 0
+0d0+0 0 0
+D2
+~
+door office~
+1 -1 24369
+S
+#24371
+The Main Floor (elevator entrance)~
+It's not a good idea to fool around with the access panel.  It might alert
+those hundreds or even thousands of F.B.I. agents to your location.  The
+panel requires an insertion of an appropriate access card and only some of
+the special agents carry that card.  You might as well just turn back now
+because without a special access card, you can't get anywhere besides the
+Main Floor.
+~
+243 4104 0
+0d0+0 0 0
+D2
+~
+elevator door doors ~
+1 24305 24367
+D3
+~
+~
+0 -1 24372
+S
+#24372
+The Main Floor (west hallway)~
+Special agents are walking back and forth carrying tons of documents on
+their arms.  There's a lot of research and development that need to be 
+done around this building in order for a thorough investigation.  To the
+east, there seems to be an elevator but there's also an ID validation/
+security panel beside it.  Without a proper access card there's no way
+you can enter into the other floors.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24371
+D2
+~
+~
+0 -1 24373
+S
+#24373
+The Main Floor (west hallway)~
+This building is nicely maintained by the janitors who work here.  The nice
+red carpet looks dustfree and the walls look clear of any dirty fingerprints.
+The lighting in this hallway is perfect for any person to conduct their
+daily business.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24372
+D2
+~
+~
+0 -1 24374
+S
+#24374
+The Main Floor (west hallway)~
+There's nothing special about this section of the main floor.  The agents
+here are too busy minding their own business to stop and chat with you.
+The west hallway seems to continue north and the entrance/exit from this
+building is just east of here.
+~
+243 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24373
+D1
+~
+~
+0 -1 24375
+S
+#24375
+Inside the F.B.I. building~
+Everywhere you look there are special agents walking around the building.
+There's nothing special around here that you notice, the interior of this
+complex is just like any other building you've been in.  This looks like
+the first floor of this building and you can't find the elevator anywhere
+close to you.  It must be on the opposite end of this floor.
+~
+243 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24368
+D2
+~
+door doors~
+1 -1 24376
+D3
+~
+~
+0 -1 24374
+S
+#24376
+On the F.B.I. building perimeter~
+As you pass the gates, you notice the guards here standing close by to make
+sure you don't try anything funny.  After you passed that fencing behind
+you, the guards suspect that you already had proper authorization to enter
+the building so they were not suspicious of your motives.  The F.B.I.
+building is just north of here and the door there seems to be unlocked.
+~
+243 4096 11
+0d0+0 0 0
+D0
+~
+door doors~
+1 -1 24375
+D2
+~
+gate gates fence fencing~
+2 24310 24377
+S
+#24377
+The F.B.I. checkpoint~
+As you walk into this area, you notice a small checkpoint booth.  There's a
+guard inside this booth who looks like he's ready to pull out his pistol
+and shoot someone.  Without verification, no one may pass the tall electric
+fencing that surrounds this entire complex.  Only the F.B.I. agents and
+maybe a few government officials may pass through this gate.
+~
+243 0 11
+0d0+0 0 0
+D0
+~
+gate gates fence fencing~
+1 24310 24376
+D2
+~
+~
+0 -1 24378
+E
+gate door entrance gates doors~
+This gate is the only entrance to the F.B.I. building and it's locked
+tight.  The only way to get pass it is to either get the key from the
+guard or get someone who has the skill to pick a lock.  
+~
+S
+#24378
+End of President Avenue~
+Finally, you've arrived at the end of this long road.  The activities
+around here are lesser than the other parts of this street.  To your north,
+there's a walkway that'll take you to a large complex.  The sign there seems
+to read 'Federal Bureau of Investigations.'  That must be the building where
+those F.B.I. people gather together for a nation-wide assignment.  There's
+a large fence from a distance and there are security guards that surrounds
+the building.
+~
+243 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24377
+D3
+~
+~
+0 -1 24379
+S
+#24379
+President Avenue~
+There's nothing unusual about this area of the road.  More people are
+walking pass you and they seem to be in a hurry.  No one is taking time to
+slow down and everyone seems to be trying to beat a deadline.  Cars on the
+road are just as busy as the people on the sidewalks but they don't move as
+fast due to this street's one-lane traffic.
+~
+243 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 24378
+D3
+~
+~
+0 -1 24380
+S
+#24380
+President Avenue~
+As you walk further along this road, you see more and more people 
+scampering all along the sidewalk.  Everyone is busy with something and no
+one seems to have time to stop to say 'hi' to you.  The business men and
+women here are all carrying the same boring brown briefcases and wearing
+dull grey/blue suits.  You're the only person here who dresses like a 
+'normal' person but people around here are too busy to notice that.
+~
+243 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 24379
+D2
+~
+~
+0 -1 24381
+S
+#24381
+President Avenue~
+There's nothing going on around you.  Everyone looks like they're busy with
+one thing or another and no one here has time to show you directions.  This
+scenic route is beginning to bore you.  There's no excitement here and
+everything seems to look dull to you.  The people here all dress the same
+and the buildings look alike.  This road seems to continue north and west
+of where you're standing.
+~
+243 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24380
+D3
+~
+~
+0 -1 24388
+S
+#24382
+Fox Mulder's apartment~
+You notice this room is dark, very dark...  But the television is left on
+by someone who may or may not be still here.  It looks like a taping of an
+alien autopsy program of some sort.  As you look around this smelly, messy
+apartment you'll notice the large stacks of tabloid magazines left all over
+the floor.  There are also source books and journals everywhere.  The nut
+living here must be a paranoid 'alien-researcher' judging by his taste in
+reading materials and his selected programming.
+~
+243 9 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 24383
+S
+#24383
+13th Floor~
+This is the only floor where there is a light coming from the hallway.
+There must be someone living on this floor, probably the only person living
+in this entire building.  The hallway seems to look nice unlike the
+downstair's.  The red carpet is vacuumed and the cobwebs on the ceiling seem
+to be absent.  To your east, you notice an old wooden door.
+~
+243 8 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 24382
+D5
+~
+~
+0 -1 24384
+S
+#24384
+Walking on the old concrete stairway~
+You feel you're not alone just as soon as you reach this part of the
+stairway.  There is something that is staring down at you but you can't see
+what it is.  Your heart is starting to pound so fast that it's about to
+burst.  You notice a dim light just a few more steps from you.
+~
+243 9 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 24383
+D5
+~
+~
+0 -1 24385
+S
+#24385
+Walking on the old concrete stairway~
+You are appalled by the conditions in this large building.  There are
+cockroaches everywhere and you can hear yourself stepping over and cracking
+their tiny hard eggs which are scattered everywhere.  It's dark in this
+stairway and there's no light here that'll guide you towards your destination.
+~
+243 9 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 24384
+D5
+~
+~
+0 -1 24386
+S
+#24386
+Inside a 3rd-rate hotel~
+Just as soon as you enter this old building, you can see rats on the floor
+gnawing at your shoes.  You gasp in horror as you kick them away and
+squish some of them with your large boots.  Who could live in such a
+dump, you think to yourself.  There's a stairway that will take you to the
+upper floors.  The antique elevator seems to be out-of-order.
+~
+243 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 24387
+D4
+~
+~
+0 -1 24385
+S
+#24387
+Alien Road~
+The sunlight from above is quickly covered by a strange mist!  This road
+looks more like an alley for bums to live in.  It's so dark in here you
+can bearly even move around.  There's a large building on the end of this
+short and narrow road.  The old building looks like some cheap hotel and
+it doesn't look very sturdy as you can see the cracks all along the sides
+of this mammoth complex.
+~
+243 1 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24388
+D2
+~
+door~
+1 -1 24386
+S
+#24388
+President Avenue~
+There's nothing unusual about this road nor this part of the area.  People
+all around you are scampering as though they have a deadline of some sort
+in a business project.  As you walk further along this road you notice an
+intersection that stretches to your south.  This southern road looks narrow
+and dark much like that eerie roadway that you came from earlier...
+~
+243 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 24381
+D2
+~
+~
+0 -1 24387
+D3
+~
+~
+0 -1 24389
+S
+#24389
+President Avenue~
+The sky is beginning to clear as you walk further along this well-paved
+road.  the fog is disappearing as quickly as the clouds in the sky.  You
+can feel the sunlight shining above you and the sounds of birds singing
+everywhere.  There are a few people walking this street doing their daily
+business.  The road continues east and west.
+~
+243 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 24388
+D3
+~
+~
+0 -1 24395
+S
+#24390
+The research lab/library~
+Books and books are everywhere you look...  The shelves that hold these
+books seem to be getting weaker and weaker by the moment.  There are 
+scientific newspapers and journals stacked head-high on the floor which
+leaves very little space for you to walk on.
+~
+243 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24391
+S
+#24391
+The printing press~
+There's a large printing press that is lying in the middle of the room.  It
+looks as though it has been turned on all night and has been printing non-
+stop.  You can see the articles that are being printed by this large
+press...it reads 'Government denies everything...Clinton has been abducted
+by aliens...'  This must be some sort of a tabloid newspaper operation but
+why are the people here printing this paper inside this place, you think to
+yourself.  Why the secrecy over these unbelievable, exaggerated stories?
+~
+243 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24392
+D1
+~
+~
+0 -1 24393
+D2
+~
+~
+0 -1 24390
+S
+#24392
+The computer/surveillance room~
+Everywhere you look there's a computer there that is turned on and 
+configuring some strange data.  Wires and circuit breakers are everywhere
+along the floor.  There are research papers and science books that are left
+all over the place.  As you turn your head towards the corner of the room,
+you notice a poorly-dressed man working diligently on his computer.
+~
+243 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 24391
+S
+#24393
+Inside the Lone Gunmen~
+It's dark in here but you sense someone or something is living in this
+dump.  You can hear whispering and the tapping of keys as though someone
+was typing on a computer keyboard.  There are some dim, flickering lights
+just a few feet from where you're standing.  Now you know there are 
+definitely someone living in this supposedly abandoned building.
+~
+243 9 0
+0d0+0 0 0
+D1
+~
+board exit boards~
+1 -1 24394
+D3
+~
+~
+0 -1 24391
+S
+#24394
+President Avenue~
+The fog seems to suddenly disappear...  You can feel the warm sunshine
+showering you from above, and the birds around you are singing a beautiful
+tune.  To the west there's a small white building standing there.  It looks
+deserted because the windows and all of its exits are boarded up.  The
+board that covers the small back exit seems to be loose...
+~
+243 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 24395
+D3
+~
+board exit boards~
+1 -1 24393
+S
+#24395
+The end of X Street~
+It seems this street ends here and you see an intersection from your left
+and right.  You try to point your light-source at the street sign to find
+where you're at.  The street sign reads 'President Avenue.'  You must be in
+Washington D.C. and walking along one of this State's most popular road.
+As you look around you notice some people walking around, some people here
+are jogging and walking their dogs, etc.  Everything here looks normal
+unlike the abandon road that you came from.
+~
+243 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24396
+D1
+~
+~
+0 -1 24389
+D3
+~
+~
+0 -1 24394
+S
+#24396
+Walking on X Street~
+The fog is so thick that you're beginning to run into things.  You try hard
+to find your way out of this fog but it seems to follow you wherever you
+go.  Even with your light-source you find it difficult to see where you are
+headed.  This street looks like it ends close by but you're not sure...
+~
+243 5 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24397
+D2
+~
+~
+0 -1 24395
+S
+#24397
+Walking on X Street~
+You sense the fog around you is beginning to thicken.  It's only mid-day
+and the sky is beginning to go dark.  You can hear the dogs howling as you
+walk closer and closer down the street.  The houses that you pass by look
+as though they're vacant.  Everywhere you look there are no lights coming
+from the porches nor the streetlights.
+~
+243 1 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24398
+D2
+~
+~
+0 -1 24396
+S
+#24398
+The beginning of X Street~
+As soon as you walk onto this road, you notice something is watching you.
+You can hear footsteps and whispering behind you.  There's something moving
+behind those thick bushes but it could be just cats prowling around the
+night.  You sense a light fog is surrounding you as you walk slowly, slowly
+down this eerie street...
+There's a small, painted sign on the side of this road.
+~
+243 4 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 3071
+D2
+~
+~
+0 -1 24397
+E
+sign board painted~
+    
+      Welcome to Nigel's         XXXX     XXXX
+                                   X       X
+                                     X   X
+            T H E          ( X ) - F I L E S          Z O N E
+                                     X   X
+                                   X       X
+                                 XXXX     XXXX
+
+                     "The Truth is Out There..."
+
+      The X-Files (tm) (c) is produced by Ten Thirteen Productions in
+      association with Fox Television and Chris Carter.
+
+~
+S
+#24399
+Section Chief Joseph McGrath's office~
+There's nothing special about this room except for the steel file cabinets
+that are set against the walls.  You can see a man sitting behind a desk
+looking through personnel files and writing long notes.  The room here is
+well-lit and the windows are wide-opened.  This entire room looks pretty
+clean except for the hundreds and thousands of files that are neatly
+piled up on almost every available space.
+~
+243 4104 0
+0d0+0 0 0
+D3
+~
+door office~
+1 -1 24308
+S
+$

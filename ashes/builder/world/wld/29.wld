@@ -1,0 +1,952 @@
+#2900
+The center of town~
+You're standing in the center of a small town.  The streets are strangely
+bare, though a few hardy shopkeepers have kept their businesses open.  A wise
+old man stands next to the fountain here, ready to help those who are in need
+of information.  You can get anything you need from the friendly people of
+this town, for the right price.  The sky is blue and cloudless, yet there is
+an unnatural gloom that has settled over this place.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2913
+D1
+~
+~
+0 -1 2924
+D2
+~
+~
+0 -1 2901
+D3
+~
+~
+0 -1 2904
+D6
+~
+~
+0 -1 2903
+D7
+~
+~
+0 -1 2902
+S
+#2901
+In front of the healer's home~
+You stand in front of a small home just to the south of the town center.
+The house is simple, but has a real homey quality to it.  You can hear
+the fountain in the town square gurgling, and birds fly high above you,
+crying out in beautiful song.  Everything is serene and beautiful, and
+it seems like anything is possible.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2900
+S
+#2902
+In front of the tavern~
+You are standing in front of what was probably once a bustling tavern.  The
+bar where dozens of people used to drink now sits empty.  Ogden still keeps
+the place a clean as a whistle for the occasional customer.  He'll sell you a
+drink or a bite to eat for a reasonable price.
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2913
+D2
+~
+~
+0 -1 2904
+D6
+~
+~
+0 -1 2923
+D8
+~
+~
+0 -1 2900
+D9
+~
+~
+0 -1 2904
+S
+#2903
+In front of the blacksmith's shop~
+You're standing in front of the town's smithy.  A large man stands before
+you, his arms crossed.  As you look at his wares he keeps an eye on you, just
+in case you become a little sticky fingered.  The forge burns hotly just a
+few feet back in the building, and you start to sweat even from this
+distance.
+~
+29 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2913
+D7
+~
+~
+0 -1 2923
+D8
+~
+~
+0 -1 2924
+D9
+~
+~
+0 -1 2900
+S
+#2904
+Between the tavern and the healer's home~
+You are standing between two buildings.  Light pours out of the tavern
+to the north, and you can hear birds singing from above Pepin's home
+to the south.  A small path leads off to the northwest towards the bar
+run by Gillian.  Loud music floats down from the bar, drawing your
+attention.  Perhaps Gillian would like to talk for a while, she always
+has some piece of gossip to pass around.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2902
+D1
+~
+~
+0 -1 2900
+D6
+~
+~
+0 -1 2903
+D7
+~
+~
+0 -1 2931
+S
+#2905
+A path between the rocks~
+This small path winds between huge boulders that jut out of the ground,
+leading towards a bridge over a river to the west.  To the south a
+fissure has opened up in the ground, and hot, noxious fumes waft up out
+of it.  You can feel the presence of pure evil emanating from the crack
+and you somehow know that it will lead you to hell itself.
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2931
+D2
+~
+~
+0 -1 2906
+D3
+~
+~
+0 -1 2907
+S
+#2906
+The entrance to hell~
+You have entered a large fissure in the ground.  The vapors rising up
+out of it cloud your mind and make you dizzy.  The heat is oppressive,
+making it even harder to breathe than it already is.  
+
+You see a big sign here posted by MidKnight:
+
+DO NOT GO INTO THIS PART OF DIABLO UNLESS YOU ARE PART OF A VERY VERY
+LARGE GROUP OF LEVEL 100 CHARACTERS WHO ARE READY TO TAKE ON THE
+HARDEST MOBS IN THE MUD.  ALL OTHERS SHOULD *TURN* *BACK* *NOW*!!!!
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2905
+D5
+~
+~
+0 -1 2949
+S
+#2907
+Before the bridge~
+You are standing at the end of a small path.  To the east you can see a small
+wooden bridge leading to the opposite shore.  A medium sized river runs
+perpendicular to this path, and goes under the bridge to fall away to the
+south.  There are large rocks all around, and across the river you can see
+what looks like a cave.
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2905
+D3
+~
+~
+0 -1 2908
+S
+#2908
+On the bridge~
+You are standing on a bridge overlooking a rushing river.  The water flows
+under your feet and droplets splash up onto you.  The wood creaks as you walk
+across and a sudden unconnected thought comes into your head.  You wonder if
+there are trolls under the bridge, but no, this isn't a fairy tale.  Across
+the river you can see an opening in the side of a rock which looks to be a
+small cave.
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2907
+D3
+~
+~
+0 -1 2909
+S
+#2909
+Beyond the bridge~
+To the west you see a large dark opening in the rocks, the mouth of a cave.
+The path which ended on the other side of the bridge continues here, turning
+to the north.  This place is riddled with boulders, but up to the north you
+can see a tree rising above the rocks, with something small sitting under it.
+From the mouth of the cave you can hear what sounds like moaning, but perhaps
+it's just the wind.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2910
+D1
+~
+~
+0 -1 2908
+D3
+~
+~
+0 -1 2912
+S
+#2910
+A small path~
+This small path winds in and around the rocks, turning left and right with
+barely enough room for you to squeeze through.  Ahead you can see a large,
+lone tree growing amid the rocks.  A small boy sits under its branches,
+watching you as you approach.  The path begins to widen slightly as it nears
+the small clearing under the tree.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2911
+D2
+~
+~
+0 -1 2909
+S
+#2911
+Under a small tree~
+A large tree grows here, standing high and proud, in defiance of the
+barrenness of the surrounding land.  Its branches have long since lost their
+leaves, yet it still seems majestic.  Sitting up against it is a small boy,
+one of his legs replaced by a wooden stick.  Grass grows in this small
+clearing in the rocks, not thickly but enough to soften the edges of the
+rocks all around.
+~
+29 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2910
+S
+#2912
+The entrance to the caves~
+The wind whistles through the caves, making the room resonate with
+what sounds like moans.  The cave goes into the rock for about twenty
+feet and then turns sharply downward.  As you move in deeper, the
+moaning sounds grow louder, and you're not entirely sure that they're
+actually just the wind.  Agonized cries chill you to the bone, and
+the howling of a thousand trapped souls fills you with fear.
+
+A sign posted by MidKnight is here:
+
+DO NOT ENTER THIS PLACE UNLESS YOU ARE AT LEAST LEVEL 90 WITH VERY
+GOOD EQUIPMENT.  DANGER LIES AROUND EVERY TURN, AND THE SLIGHTEST
+MISTAKE WILL MEAN YOUR DOOM.
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2909
+D5
+~
+~
+0 -1 2948
+S
+#2913
+Between the blacksmith's shop and the tavern~
+A chill wind blows from the east, whipping your clothing about your body. You
+get goosebumps for a minute and shiver.  The broad blue sky opens above you,
+yet you get the feeling that it's all just an illusion.  The wind tells tales
+no human would dare.  On the wind you can feel the true terror that runs
+through the town.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2923
+D1
+~
+~
+0 -1 2903
+D2
+~
+~
+0 -1 2900
+D3
+~
+~
+0 -1 2902
+S
+#2914
+Behind the blacksmith's shop~
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2930
+D1
+~
+~
+0 -1 2929
+D3
+~
+~
+0 -1 2923
+D6
+~
+~
+0 -1 2916
+S
+#2915
+Behind the tavern~
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2923
+D7
+~
+~
+0 -1 2937
+S
+#2916
+Along the river~
+The path leads on to a bridge to the north.  The river rushes past you to the
+east, and a small house sits just to the west of the path.  The house looks
+very cozy, yet there doesn't seem to be anyone living here. The grass has
+grown up around the building and the windows look dusty.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2917
+D2
+~
+~
+0 -1 2929
+D9
+~
+~
+0 -1 2914
+S
+#2917
+In front of the bridge~
+The path here runs up to a small wooden bridge spanning the river.  You can
+see a large field across the river, dotted with a couple trees.  To the
+northeast you can see a small gazebo in a field full of cows.  The grass
+spreads out lush and thick as your gaze leaves the confines of the town
+proper.  A low rock wall surrounds the area, keeping the cows to their
+grazing pasture.
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2918
+D2
+~
+~
+0 -1 2916
+S
+#2918
+On the bridge~
+You are standing on a small wooden bridge.  The planks beneath your feet are
+damp and slightly slippery from the spray of the river.  You gaze down the
+length of the river and can envision days spent fishing from this very spot.
+Poles made of simple sticks and string, sitting back and fishing not to catch
+fish but just for the joy of sitting in the outdoors and talking.
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2919
+D3
+~
+~
+0 -1 2917
+S
+#2919
+Beyond the bridge~
+You've crossed over the bridge and are now at the southern end of a large
+field.  Trees dot the landscape, and the path continues to the northeast,
+though it seems less travelled than before the bridge.  The grass is green
+and untouched, left to grown naturally.  A breeze stirs the blades, creating
+waves that ripple across the field.  The weeds and grass have begun to
+encroach on the path, giving the area an earthy feel.
+~
+29 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2918
+D6
+~
+~
+0 -1 2920
+S
+#2920
+A small field~
+You are standing in the middle of a large field.  The path you have been
+following has all but peetered out, the grass growing over the dirt track.
+Small animals scurry amidst the tall grass, and the wind cools your face as
+it blows across the field.  Up ahead a ways, at the northern side of the
+grassy field, you can see a small shack perched on a hill.
+~
+29 0 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 2921
+D9
+~
+~
+0 -1 2919
+S
+#2921
+Further in the field~
+You have reached the northern end of the field.  Up ahead is a small shack on
+a low hill.  It seems to be run down, at first glance, but as you get closer,
+you can see that there are flowers around the base of the structure, and the
+area surrounding it is well taken care of.
+~
+29 0 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 2922
+D9
+~
+~
+0 -1 2920
+S
+#2922
+In front of the witch's shack~
+You are standing in front of a small run down shack.  It looks so run down,
+it is hard to believe anyone actually lives there.  Adria does though, so it
+is obviously not that bad.  The grass around here is lush and green, and the
+shack does have a nice view of the river.  After the long walk from the town
+proper, you can appreciate the privacy this woman has.
+~
+29 0 0
+0d0+0 0 0
+D9
+~
+~
+0 -1 2921
+S
+#2923
+A space between three buildings~
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2914
+D2
+~
+~
+0 -1 2913
+D3
+~
+~
+0 -1 2915
+D8
+~
+~
+0 -1 2903
+D9
+~
+~
+0 -1 2902
+S
+#2924
+Between two buildings~
+To the north you can see Griswold's blacksmith shop, and to the south
+is a small house.  The river is just a little ways off to the east, you
+can hear the water rushing down and away from the town.  A path to the
+east runs along the river, going behind the house and the smithy.
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2925
+D3
+~
+~
+0 -1 2900
+D7
+~
+~
+0 -1 2903
+S
+#2925
+By the river~
+You are walking along the banks of a good sized river.  A small path winds
+along beside it, leading down in front of a small house to the south, and up
+behind the smithy to the north.  Sounds of a hammer on an anvil echo down the
+river, carried along with the water.  A fish jumps from the water to snap at
+a fly.  The rush of the water is soothing and peaceful and makes you want to
+sit down to an impromptu picnic.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2928
+D2
+~
+~
+0 -1 2926
+D3
+~
+~
+0 -1 2924
+S
+#2926
+Behind a building~
+The river to the east runs down and away from the town to some sea far away.
+A small, run down house sits to your east, looking all but abandoned.  The
+paint on the shingles has long ago peeled off, leaving the wood bare to the
+elements.  A window in the attic is broken, and as run down as it is, it
+seems someone does live here, as smoke curls up lazily from the chimney.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2925
+D9
+~
+~
+0 -1 2927
+S
+#2927
+A small nook beside the building~
+A small space between the old house and the rocks to the south is filled by a
+small tree and the withered form of a man past his prime. The tree looks well
+cared for, though the terrain makes it hard to flourish.  The branches scrape
+against the side of the house, and the lack of paint on the shingles tell of
+time now lost.  The shadows grow long and fortell of a darker time ahead.
+~
+29 0 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 2926
+S
+#2928
+Between the blacksmith's shop and the river~
+The heat from the smithy and the cool spray from the river compete for
+dominance as this small path skirts between them.  The back of the smithy is
+grey with the spray of water from the river, as the water crashes against the
+rocks along its banks.  The rush of the water and pounding of the hammer on
+the anvil war against each other, each trying to drown out the other.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2929
+D2
+~
+~
+0 -1 2925
+S
+#2929
+Next to the river~
+You have reached an intersection in the path.  You can go south behind the
+blacksmith shop, or west towards the center of town, or north along the
+river.  Up ahead you can see a bridge spanning the river, and there's a small
+house off to the northeast.
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2916
+D2
+~
+~
+0 -1 2928
+D3
+~
+~
+0 -1 2914
+S
+#2930
+A small path leading away from town~
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2932
+D2
+~
+~
+0 -1 2914
+D3
+~
+~
+0 -1 2940
+S
+#2931
+In front of the bar~
+loud music assaults your ears from inside the bar.  Gillian stands at
+the swinging doors, ready to greet all those who would patronize her
+establishment.  Though the player piano is playing up a storm and smoke
+wafts out of the doorway, when you look inside you see only a few old
+men trying to drown their problems in their cups.  Perhaps things
+aren't as good as they seem.
+~
+29 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 2905
+D8
+~
+~
+0 -1 2904
+S
+#2932
+A large field~
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2933
+D2
+~
+~
+0 -1 2930
+S
+#2933
+In the middle of a large field~
+~
+29 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2932
+D7
+~
+~
+0 -1 2934
+S
+#2934
+In front of a small gazebo~
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2935
+D3
+~
+~
+0 -1 2936
+D8
+~
+~
+0 -1 2933
+S
+#2935
+The entrance to the catacombs~
+~
+29 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2934
+D5
+~
+~
+0 -1 2947
+S
+#2936
+A small graveyard~
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2934
+D2
+~
+~
+0 -1 2945
+S
+#2937
+A small road~
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2938
+D8
+~
+~
+0 -1 2915
+S
+#2938
+On the road~
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2939
+D2
+~
+~
+0 -1 2937
+S
+#2939
+A T intersection~
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2940
+D2
+~
+~
+0 -1 2938
+D3
+~
+~
+0 -1 2941
+S
+#2940
+Behind the stable~
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2930
+D3
+~
+~
+0 -1 2939
+S
+#2941
+Along a stone wall~
+~
+29 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 2939
+D3
+~
+~
+0 -1 2942
+S
+#2942
+A break in the stone wall~
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2943
+D1
+~
+~
+0 -1 2941
+S
+#2943
+In front of a large abandoned church~
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2944
+D1
+~
+~
+0 -1 2945
+D2
+~
+~
+0 -1 2942
+S
+#2944
+Inside the church, to the dungeons~
+~
+29 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 2943
+D5
+~
+~
+0 -1 2946
+S
+#2945
+A small, ruined cemerary~
+~
+29 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 2936
+D3
+~
+~
+0 -1 2943
+S
+#2946
+Stairs down to the dungeons~
+~
+29 4 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 2944
+D5
+~
+~
+0 -1 2537
+S
+#2947
+Stairs down to the catacombs~
+~
+29 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 2935
+D5
+~
+~
+0 -1 2642
+S
+#2948
+Stairs down to the caves~
+This area is not quite done yet.  I'll let you know when you can
+come here to die.
+~
+29 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 2912
+S
+#2949
+Stairs down to hell~
+This level is still being worked on, please come back later and
+it will be ready for you to die in.
+~
+29 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 2906
+D5
+~
+~
+0 -1 3390
+S
+$

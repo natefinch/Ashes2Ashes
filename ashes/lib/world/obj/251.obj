@@ -1,0 +1,413 @@
+#25100
+armor terminator~
+Terminator armor~
+A heavy piece of armor lies here on the ground. 
+~
+~
+9 8813056 9 0
+0 0 0
+10 0 0 0
+10 10000 0
+A
+18 1
+A
+17 2
+#25101
+boltgun gun~
+Boltgun~
+A gun lies here on the ground. 
+~
+~
+5 8813056 8193 0
+0 0 0
+0 5 5 6
+10 10000 0
+#25102
+collar khorne~
+Collar of Khorne~
+A collar lies here on the ground. 
+~
+~
+9 969216 5 0
+0 0 0
+4 0 0 0
+10 10000 0
+A
+3 2
+A
+23 -10
+#25103
+boltpistol pistol~
+Boltpistol~
+A pistol lies here on the ground. 
+~
+~
+5 8813056 8193 0
+0 0 0
+0 5 5 6
+0 0 0
+A
+18 1
+A
+17 1
+#25104
+chain axe~
+Chain Axe~
+~
+~
+5 8813056 8193 0
+0 0 0
+0 5 6 3
+10 10000 0
+A
+1 2
+A
+17 2
+#25105
+Space Marine Armor~
+Space Marine Armor~
+~
+~
+9 8813056 9 0
+0 0 0
+7 0 0 0
+10 10000 0
+A
+17 1
+A
+18 1
+#25106
+Chaos Cloak~
+Chaos Cloak~
+A cloak lies here on the ground. 
+~
+~
+9 969216 1025 0
+0 0 0
+6 0 0 0
+10 10000 0
+A
+4 2
+A
+3 3
+#25107
+Scout Armor~
+Scout Armor~
+Some armor lies here on the ground. 
+~
+~
+9 8813056 9 0
+0 0 0
+5 0 0 0
+10 10000 0
+A
+17 2
+#25108
+collar~
+Collar~
+A collar lies here on the ground. 
+~
+~
+11 133632 4101 0
+0 0 0
+0 0 0 0
+10 10000 0
+A
+17 1
+#25109
+Pike~
+Beastman's Pike~
+A pike lies here on the ground. 
+~
+~
+5 8534528 8193 0
+0 0 0
+0 5 3 3
+10 10000 0
+A
+17 1
+A
+18 1
+#25110
+Khorne Mark~
+Mark of Khorne~
+A mark lies here on the ground. 
+~
+~
+11 8813056 5 0
+0 0 0
+0 0 0 0
+10 10000 0
+A
+17 2
+A
+18 2
+#25111
+Terminator Traitor Armor~
+Traitor Terminator Armor~
+Some heavy armor lies here on the ground. 
+~
+~
+9 9337344 9 0
+0 0 0
+1 0 0 0
+20 10000 0
+A
+17 3
+A
+18 2
+#25112
+Horus Claw~
+the Claw of Horus~
+A claw lies here on the ground. 
+~
+~
+9 8813056 129 0
+0 0 0
+0 0 0 0
+10 10000 0
+A
+18 2
+A
+17 2
+#25113
+Seal Unpure~
+Seal of the Unpure~
+A seal lies here on the ground. 
+~
+~
+9 969216 5 0
+0 0 0
+3 0 0 0
+4 60000 0
+A
+10 25
+A
+13 3
+#25114
+Cloud Decay~
+Cloud of Decay~
+A cloud lies here on the ground. 
+~
+~
+9 8813056 1025 0
+0 0 0
+0 0 0 0
+10 10000 0
+A
+18 3
+A
+17 3
+#25115
+sword corrupt~
+Corrupt Sword~
+A sword lies here on the ground. 
+~
+~
+5 8813056 8193 0
+0 0 0
+0 12 2 3
+10 10000 0
+A
+17 4
+A
+18 3
+#25116
+shield~
+Shield of Corruption~
+A shield lies here on the ground. 
+~
+~
+9 969216 513 0
+0 0 0
+2 0 0 0
+10 10000 0
+A
+10 25
+#25117
+robe robes damnation~
+Robes of Damnation~
+A robe lies here on the ground. 
+~
+~
+9 969216 1025 0
+0 0 0
+1 0 0 0
+10 10000 0
+A
+10 30
+A
+13 3
+#25118
+band ring rot~
+Band of rot~
+A band lies here on the ground. 
+~
+~
+9 969216 3 0
+0 0 0
+0 0 0 0
+10 10000 0
+A
+10 25
+A
+13 5
+#25119
+Skull Katam~
+Skull of Katam~
+A skull lies here on the ground. 
+~
+~
+1 969216 16385 0
+0 0 0
+0 0 30000 0
+10 10000 0
+A
+10 25
+A
+13 5
+#25120
+~
+~
+~
+~
+0 8813056 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#25121
+~
+~
+~
+~
+0 8813056 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#25122
+~
+~
+~
+~
+0 8813056 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#25123
+~
+~
+~
+~
+0 8813056 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#25124
+~
+~
+~
+~
+0 8813056 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#25125
+~
+~
+~
+~
+0 8813056 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#25126
+~
+~
+~
+~
+0 8813056 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#25127
+~
+~
+~
+~
+0 8813056 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#25128
+~
+~
+~
+~
+0 8813056 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#25193
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+95 0 0 0
+0 0 0
+#25194
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#25195
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+100 0 0 0
+0 0 0
+#25196
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+5 0 0 0
+0 0 0
+#25197
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 10 10 0
+0 0 0
+#25198
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+1000 8 25078 0
+0 0 0
+#25199
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+100 0 0 0
+0 0 0
+$

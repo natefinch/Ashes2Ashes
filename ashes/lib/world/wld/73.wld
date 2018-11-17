@@ -1,0 +1,1340 @@
+#7300
+The ABC's of Ashes to Ashes~
+The brownish red bricks that make up this building are chipped and
+some are missing, but you can tell that the building is still being
+used by the ringing of voices from the halls and the laughing of
+children. Because the building is still in use, you think you
+might be able to find the knowledge you seek from within those
+walls. ***New mudders*** Please type 'look sign' for directions
+for entering the school.
+~
+73 512 0
+0d0+0 0 0
+D4
+Up to the holy temple of Midgaard.
+~
+~
+0 -1 3072
+E
+sign~
+This is the mud school of Ashes to Ashes.  If you do not
+know how to play a mud or if you have played muds, but need to learn
+the basic commands for these realms, then please type north. This
+will only work for those of you that are less than level 10.
+
+Directions on moving:  To go in any of the directions you do not
+have to type out the whole word for the direction.  Most of them
+can be shortened down to the first letter of that direction.
+(n,e,s,w,u,d), but we also have northwest, northeast and directions
+like that which can be shortened to their components (nw,sw,etc).
+~
+S
+#7301
+Entrance of the school~
+Glancing down the hallway you see quite a few kids running around
+in the hall.  Some are flying paper airplanes, while others are
+having a rubberband fight.  This school doesn't look too organized,
+or like it enforces the rules too heavily.  A sign hangs overhead
+(to read type: look sign).  The principal's office is to the right
+and the nurses station is to the left.
+~
+73 2060 0
+0d0+0 0 0
+D0
+Yelling and screaming kids... You really want to go there?
+~
+~
+0 -1 7304
+D1
+~
+~
+0 -1 7302
+D2
+~
+~
+0 -1 7300
+D3
+The nurses station looks like a very sanitary and healthy place to be.
+~
+~
+0 -1 7303
+E
+sign~
+Here we have few rules, but when you leave these halls you
+should know them all.
+~
+S
+#7302
+Principal's office~
+The piles of papers stacked up on Principal Jack's desk give
+you an idea of how much work he actually does.  You would think
+that a man of his position would have a secretary, but you
+don't see her anywhere around.  The bright lights are a complete
+change from the dreary lights of the hallway.  You can see
+almost everything in this room and there seem to be no shadows.
+Principal Jack seems more than willing to help you train
+for the challanges to come.
+~
+73 524 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 7301
+S
+#7303
+Nurses Station~
+This room is completly white.  The windows allow in a huge amount
+of sunlight which is reflected off all white surfaces and which
+nearly blinds you in its intensity.  Everything in this room looks
+spic and span.  You know there is no danger of catching a disease
+in this room.
+~
+73 524 0
+0d0+0 0 0
+D1
+Peering out the door, you can see the Principal's office across
+the hall.
+~
+~
+0 -1 7301
+S
+#7304
+Hallway~
+Kids wander around the hall throwing airplanes and shooting rubberbands
+at each other.  The floor of the hallway is a mess with piles of paper
+on the floor and other toys and loose rubberbands all over.  There seems
+to be two classrooms here.  One to the east and one to the west.  The
+hall continues north.  There is another sign here.  Please read it.
+~
+73 520 0
+0d0+0 0 0
+D0
+The hallway continues.
+~
+~
+0 -1 7307
+D1
+Looks like a giant map of the mudschool lies this way.
+~
+~
+0 -1 7355
+D2
+Back to the enterance.
+~
+~
+0 -1 7301
+D3
+The newbie general store.  Good place to get stuff.
+~
+~
+0 -1 7309
+E
+sign~
+The best way to go through this school is to go into the east
+classroom first.  It will make some things easier to understand.
+If you do happen to go into the west room first and are confused
+about something it refers to, that will probably be explained in
+the east room.
+~
+S
+#7305
+Class of Considering~
+There are a few students sitting in this class trying to understand
+how to consider a mobile.  The teacher at the head of the class is
+beginning to look a little warn out with these students.  Please
+type look sign to go through this class.
+~
+73 520 0
+0d0+0 0 0
+D3
+The hallway still seems to be packed with students.
+~
+~
+0 -1 7307
+S
+#7306
+Class of Wimpy and Fleeing~
+The students in this classroom seem to be trying to get away from
+the very stern looking teacher.  As the teacher hits them over the
+head with a ruler, they seem to go into a panic as they run into
+the walls.  Every once in a while, one of them leaves the room.
+To learn how to set your wimpy and how to flee from monsters, 
+please read the sign in this room.
+~
+73 520 0
+0d0+0 0 0
+D1
+The hallway still seems full of students.
+~
+~
+0 -1 7307
+S
+#7307
+Hallway~
+Some more students are running around here.  It looks remarkably
+similiar to the last stretch of hall that you passed through.  And
+it proves that age old point that school builders are incapable of
+doing something a little different every now and then.  There is a
+tiny little sign sitting way up in one corner.
+~
+73 520 0
+0d0+0 0 0
+D0
+The hallway continues.
+~
+~
+0 -1 7347
+D1
+Students are looking at other students closely in this room.
+~
+~
+0 -1 7305
+D2
+Back towards the enterance.
+~
+~
+0 -1 7304
+D3
+Students in this room seem to be running from the teacher.
+~
+~
+0 -1 7306
+E
+tiny little sign~
+This MudSchool is brought to you mostly thru the work of Cati
+with assistance from Ryno and proofreading by MacLeod.
+~
+S
+#7308
+Class of Renting and Quitting~
+Looking around the room you notice students begin to disappear.  Some
+of them seem to be counting their objects, discarding some and then
+disappearing. You are slightly amazed by the fact that they don't
+reappear for a while.  The teacher smiles lazily as he watches his
+students disappear.  There is a sign here on the blackboard.
+~
+73 520 0
+0d0+0 0 0
+D3
+Back out to the hall.
+~
+~
+0 -1 7343
+S
+#7309
+Newbies 'R' Us~
+It's a general store.  You might need a bag or two to carry your
+newfound equipment in.  Or you may want a lantern to light your
+way. Either why, this store is for you.
+~
+73 520 0
+0d0+0 0 0
+D1
+Back to the hallway with kids.
+~
+~
+0 -1 7304
+S
+#7310
+Sandbox~
+You are standing in the middle of a huge sand box. The sand feels
+warm to your touch since the sun has been beating down on it all
+day. The sand is about 6 inchs deep, except on the west side where
+there is a huge sand castle. It looks as if you can get inside of
+it. You hear kids all around you, playing ball, playing around the
+swings, and playing in the sand. Behind you is the entrance of the
+school. Off to the east is a six foot high, red and white striped
+swing set. There is only one kid on it right now. The sand has alot
+of little groves in it, where insects have walked. There are all
+kinds of bugs in the sand around your feet.  Off to the north you
+see a small baseball field where kids are playing kickball.
+~
+73 516 0
+0d0+0 0 0
+D0
+The kickball field is to the north.
+~
+~
+0 -1 7322
+D1
+~
+ ~
+0 -1 7311
+D2
+The entrance of the school lies to the south.
+~
+~
+0 -1 7321
+D3
+~
+drawbridge~
+1 -1 7312
+S
+#7311
+Swing Set~
+You are standing in front of a 6 foot high, red and white striped 
+swing set. There is a very large kid sitting in the middle swing. 
+He won't let any of the other children near the swing. To the
+west you see a very large sandbox. You can see teachers all around
+the school yard. One of them seems to be coming over. You hope
+it is to get the bully off the swing so you can have a turn.
+~
+73 512 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 7310
+S
+#7312
+Inside the Sand Castle~
+You have stuffed yourself into this passage and have found a
+mini-sandcastle! Obviously, the designers are not exactly Harvard
+grads so watch the walls and ceilings.  Oddly enough, there seems
+to be a strong stench coming from the west.  It is completely dark
+and you wonder how do the kids (or whatever) get around in here?
+~
+73 520 0
+0d0+0 0 0
+D1
+~
+drawbridge~
+1 -1 7310
+D3
+~
+~
+0 -1 7313
+S
+#7313
+Closer to the stench..~
+It smells worse now that you have mistakenly decided to go this
+way. It seems to be a mix of child excrement and rotted lunches
+(pew). You also see the leg of a student Hmm...it seems to go
+into the wall north.
+~
+73 520 0
+0d0+0 0 0
+D0
+A clean door
+~
+door~
+1 -1 7314
+D1
+~
+~
+0 -1 7312
+D3
+~
+~
+0 -1 7315
+S
+#7314
+Safe haven!~
+This room seems quite out of place. It is well furnished, smells
+nice, and seems like a safe place to rest (hint).  Just kick back
+and watch cartoons or something like that.  Anything to furthur
+promote atrophy of the brain.
+~
+73 524 0
+0d0+0 0 0
+D2
+A clean door.
+~
+door~
+1 -1 7313
+S
+#7315
+More and more stench..:P~
+Disallowing all your sane thoughts of not going this way you
+decide to trek further into this stinking mess.  It seems to be
+a conventional kitchen, with icebox, wood-fed stove and oven,
+and a meager larder.  Some of the food is still "edible".  Some
+fruit and water and wine :) litters the ground.  The produce
+which did not spoil has been eaten by rats (or little kids)
+judging by the little marks and feces (btw..dont step in it).
+~
+73 520 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 7313
+D3
+~
+~
+0 -1 7316
+S
+#7316
+Swampy area..eww~
+A mud room, overcoats, galoshes, hats, and umbrellas.  Obviously
+unused but they do seem to be a bit on the small side.
+~
+73 520 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 7315
+D3
+~
+~
+0 -1 7317
+S
+#7317
+Dead END!!!~
+You are barely able to stop yourself short from plummeting off the
+ledge that you placed yourself on.  The wind is strong and you shiver
+as you think of what could happen if a strong gust decided to pull you
+off and into the abyss at your feet.  Other than straight down to your
+death and back the way you came, there is no other way out of here.
+~
+73 648 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 7316
+D5
+~
+trapdoor~
+1 -1 7335
+S
+#7318
+Hallway~
+This part of the hallway looks like all the others.  Lockers line
+the sides of the hallway while papers line the floor.  Students run
+rampid throughout the hallway throwing things at each other and
+trying to dodge what is being thrown at them.  You wonder about
+the man that runs such a place.
+~
+73 520 0
+0d0+0 0 0
+D0
+More hallway.. a little closer to the outside though.
+~
+~
+0 -1 7343
+D1
+People just seem to be randomly appearing in this room.
+~
+~
+0 -1 7342
+D2
+Back towards the enterance.
+~
+~
+0 -1 7347
+D3
+The students are reciting scrolls at each other.
+~
+~
+0 -1 7346
+S
+#7319
+Finding and Avoiding Deathtraps~
+Students are peering around carefully before they take a step.
+You see some of them give up looking around and just start
+aimlessly walking. Suddenly they fall to the ground lifeless.
+A little later they start to breathe again, get up and start
+to peer around carefully again. There is a sign here to teach
+you how to search for and avoid death traps (DTs).
+~
+73 520 0
+0d0+0 0 0
+D1
+Back to the hallway.
+~
+~
+0 -1 7343
+S
+#7320
+Using the help files~
+The students here seem to be looking through a very thick book.
+Sometimes one of them goes up to the teacher and says that
+something is not in the book.  The teacher then writes it down
+to fix later.  Other don't even look through the book, instead
+they go to the teacher and ask her how to do something.  The
+teacher then points to the book and tells them to use it.
+~
+73 520 0
+0d0+0 0 0
+D1
+Back to the hallway.
+~
+~
+0 -1 7347
+S
+#7321
+Outside~
+You glance around, glad to be out in the fresh air.  You notice a 
+sandbox just ahead of you to the north and a swingset just beyond
+that. This looks like it could be really fun!  Then you begin
+think. You did go into every room in the school, right?  If not
+you could have missed some valuable information.
+~
+73 516 0
+0d0+0 0 0
+D0
+The sandbox lies to the north.
+~
+~
+0 -1 7310
+D2
+Back into the school.
+~
+~
+0 -1 7333
+S
+#7322
+The Outfield~
+You wander into the field by the kickball players.  The sandbox
+is to the south and the kickball players on the baseball field
+are to the north.
+~
+73 516 2
+0d0+0 0 0
+D0
+Towards second base.
+~
+~
+0 -1 7323
+D1
+The shady fields behind 3rd base.
+~
+~
+0 -1 7331
+D2
+Kids are playing in the sandbox to the south.
+~
+~
+0 -1 7310
+D3
+The sunny fields behind first base
+~
+~
+0 -1 7330
+S
+#7323
+Second base~
+You have arrived at second base.  Should you run to east to third,
+west to first, or just wait here?  *ponder*  The kickball players
+are looking at you strangely though, so you might want to leave.
+~
+73 512 0
+0d0+0 0 0
+D0
+The pitchers mound is between you and Home plate.
+~
+~
+0 -1 7327
+D2
+Towards the sandbox.
+~
+~
+0 -1 7322
+D6
+Third base.  On the way HOME!!!!
+~
+~
+0 -1 7325
+D7
+Running towards first?  Isn't that going backwards?
+~
+~
+0 -1 7324
+S
+#7324
+First Base~
+Ahh... Fist base, a very good place to start, but where do you go
+from here?
+~
+73 512 0
+0d0+0 0 0
+D1
+The pitchers mound stand between you and Third base.
+~
+~
+0 -1 7327
+D2
+The sunny right fields.
+~
+~
+0 -1 7330
+D6
+HOME PLATE!!!!!
+~
+~
+0 -1 7326
+D8
+Second base and beyond that THIRD!!!
+~
+~
+0 -1 7323
+S
+#7325
+Third Base~
+You are now standing on third base. Should you run home or stay here??
+You check the third base coach for a sign.
+~
+73 512 0
+0d0+0 0 0
+D2
+The shady left fields.
+~
+~
+0 -1 7331
+D3
+The pitcher's mound is between you and first base.
+~
+~
+0 -1 7327
+D7
+HOME PLATE!!!!!!  Maybe you can score a point.
+~
+~
+0 -1 7326
+D9
+Running to Second.  That's going backwards.
+~
+~
+0 -1 7323
+S
+#7326
+Home Plate~
+You stand on home plate, watching the ball roll toward you. You try yo
+kick it, but you end up on your bottom in the dust. Your humiliation
+is complete - you can exit in defeat to first base, third base, pitchers
+mound, or one of the two team benches.
+~
+73 512 0
+0d0+0 0 0
+D1
+The player's dugout.  That must be your team, since you're not
+a mob.
+~
+~
+0 -1 7329
+D2
+The pitcher's mound is between you and second base.
+The pitcher looks like he's going to try and strike you out.
+~
+~
+0 -1 7327
+D3
+The mob's dugout.  Enemies of the players.  They're rougher and
+tougher than the players are, but in a game of kickball you can
+probably take them.
+~
+~
+0 -1 7328
+D8
+Third base, but I think you have to go to first for the run to
+be legal.
+~
+~
+0 -1 7325
+D9
+First base, You're on the right track.
+~
+~
+0 -1 7324
+S
+#7327
+Pitchers Mound~
+You've made it to the pitcher's mound, and you think you are
+awfully special because of it. After all, you ARE in the center
+of everyone's attention. Better pay attention thou, or that nasty
+belly-itcher taunt may rise to haunt you. You may pitch the ball
+north to home plate, or go to first base, second base or third base.
+~
+73 512 0
+0d0+0 0 0
+D0
+HOME PLATE!!!
+~
+~
+0 -1 7326
+D1
+Third Base.
+~
+~
+0 -1 7325
+D2
+Second base.
+~
+~
+0 -1 7323
+D3
+First base.
+~
+~
+0 -1 7324
+S
+#7328
+The Mob's dugout~
+You walk down the stairs into the dugout of the opposing team.  They
+look at you in anger, ready to pounce if you do anything wrong, even
+look at them strangely.  The old, green overhang is the only shelter
+you have from the weather, but it looks like you may need shelter
+from that because of how old it is.  It might be best to get out
+of here.
+~
+73 520 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 7326
+S
+#7329
+The player's dugout~
+You walk down the stairs into the nice clean dugout of the players.
+They look at you and smile.  Some give you the thumbs up signal,
+others try to hi-five you.  It looks like all these guys are 
+having fun.  The benches along the wall look safe enough to sit
+on, being very sturdy and made out of solid wood.  The green
+overhang looks strong enough to shelter you from ANY weather
+that could come up.
+~
+73 520 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 7326
+S
+#7330
+Right field~
+Standing out in right field you're getting kind of warm.  The
+sun is beating down on you making you sweat.  You begin to feel
+sick from the warmth when suddenly the sun is blocked by the ball
+that was just kicked.  Too bad you didn't notice it in time to
+catch it instead of letting it bounce off your head.  Your
+teammates don't look too happy with you, but it is after all,
+only a game.  They forget about it just after it happened and
+go on playing the game.
+~
+73 512 2
+0d0+0 0 0
+D0
+First base, and beyond that, Home plate.
+~
+~
+0 -1 7324
+D1
+The outfield
+~
+~
+0 -1 7322
+S
+#7331
+Left Field~
+This is fun.  Out in left field where the sun is shaded by that
+big oak tree.  Waiting for someone to actually kick the ball...
+actually, it's boring.  You REALLY want to do something.  Hmm...
+Perhaps you should move closer to the action.
+~
+73 512 2
+0d0+0 0 0
+D0
+Third base.
+~
+~
+0 -1 7325
+D3
+The outfield
+~
+~
+0 -1 7322
+S
+#7332
+GRADUATION!!!!!!!~
+Well, you're here.  Your graduation day is right ahead of you, but
+there seems to be a little problem.  The diploma giver doesn't seem
+to want to give you your diploma.  Looks like you'll have to fight
+for it.
+~
+73 520 0
+0d0+0 0 0
+D1
+Back to the hallway.  Out of the party zone.
+~
+~
+0 -1 7333
+S
+#7333
+Hallway~
+You have reached the end of the hallway.  Further to the north,
+you can hear students making lots of noise on the playground. But
+it looks like there are two more rooms to visit.  But maybe these
+will be a little more interesting than all the other ones.  They
+certainly sound like a lot more fun.
+~
+73 520 0
+0d0+0 0 0
+D0
+The fresh aire blows in from outside.
+~
+~
+0 -1 7321
+D1
+Sounds like a bit of a wild party is going on in here.  You can
+clearly hear the bass pounding through the fingers clasped to your
+ears. It looks like a lot of fun in there.
+~
+~
+0 -1 7334
+D2
+Back towards the beginning.  More hallway.
+~
+~
+0 -1 7343
+D3
+Sounds like there is some big formal hoe-down goind in there and
+you have never been one to miss a little party.  Why not check it out?
+~
+~
+0 -1 7332
+S
+#7334
+After Graduation Reception~
+As you enter the room, the total atmosphere is one of relaxation.
+Many of your classmates are here talking and joking with each other.
+Small groups form and break up almost continuously and you begin to
+wonder what is going on.  Then a sign hanging over the punchbowl
+catches your attention.
+~
+73 524 0
+0d0+0 0 0
+D3
+~
+door~
+0 -1 7333
+S
+#7335
+Down the windy ladder~
+You crazy SOB..why are you climbing down here!!! You lose your breath
+and fear your pathetic mortal life as the wind blows you with an
+intensity which drives you insane..Yet..down below, you hear
+singing and chants of silly children..you hear..itsy bitsy spider.. 
+~
+73 649 0
+0d0+0 0 0
+D4
+~
+trapdoor~
+1 -1 7317
+D5
+~
+~
+0 -1 7336
+S
+#7336
+Uh oh..~
+You climb further down the ladder..the end seems to be nowhere near
+and you can't even sweat because it may cause you to lose your
+grip on the weak ladder..CRASH..uh oh..the ladder above you has
+broken :P lucky you..nowhere but down I guess.
+~
+73 905 0
+0d0+0 0 0
+D1
+There seems to be some sort of door in the wall.
+~
+door~
+1 -1 7341
+D5
+~
+~
+0 -1 7338
+S
+#7337
+Hidden Worlds~
+Neato! you found the secret cavern..and yes..it is safe, for now
+hmm..remember than chanting and singing? It's coming from here.
+Oh and..dont go back west..you would fly right out of this cavern.
+~
+73 512 0
+0d0+0 0 0
+S
+#7338
+Near the darkness~
+The wind has started to dissapate and it is much warmer.  You
+can now wipe your brow and approach the darkness which fills
+the area below (and you might want a light).
+~
+73 2824 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 7336
+D5
+~
+~
+0 -1 7339
+S
+#7339
+Darkness..~
+Boy, you can't see anything.  Lucky for you, you brought your light (I
+hope).  To the north you see a LOT of mist and you hear some things
+walking around that don't sound like humans.  Maybe you'd just be
+better off going back up the ladder to where you KNOW it's relatively
+safe.
+~
+73 521 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 7340
+D4
+~
+~
+0 -1 7338
+S
+#7340
+Toward mist~
+You are approaching this misty area, obviously the source of the mist
+above.  You can hardly see in front of you and you know if you go
+much farther it will be VERY easy to get lost.  In the silence
+you can hear... and smell, something certainly very much not a human.
+Use caution when entering this area as very few newbies come out
+alive.
+~
+73 525 0
+0d0+0 0 0
+D0
+Mist.
+~
+~
+0 -1 7348
+D2
+~
+~
+0 -1 7339
+S
+#7341
+Basement to store~
+There are crates and boxes scattered all around here.  Spiderwebs
+cover the ceiling and walls making it look as if no-one cleans
+down here.  You notice a bit of light coming from up the stairs
+in the east wall.  
+~
+73 512 0
+0d0+0 0 0
+D4
+Going up the stairs.
+~
+~
+0 -1 7309
+S
+#7342
+Room of Recall~
+This room is an exact duplicate of the Temple of Midgaard.  Well, maybe
+not an EXACT duplicate as there are none of the spiffy items like the ATM
+or the all-purpose IMP board.  Also, the exit to the east goes into the
+hallway and not the donation room and there is no exit west.  And there
+are no people just popping into this room... well, except for that mud 
+school student that just recited a scroll of recall.  He looks terrified
+of something.
+~
+73 520 0
+0d0+0 0 0
+D3
+Back into the hallway with kids.
+~
+~
+0 -1 7318
+S
+#7343
+Hallway~
+Students still run rampid through this part of the hallway, more lockers,
+more papers.  This is getting quite repedative you think as you walk
+around examining your surroundings while dodging items that are being
+thrown at you.
+~
+73 520 0
+0d0+0 0 0
+D0
+The hallway continues, but you're near the end.
+~
+~
+0 -1 7333
+D1
+The students seem to be disappearing quickly from this room.
+~
+~
+0 -1 7308
+D2
+Back towards the beginning.
+~
+~
+0 -1 7318
+D3
+The students seem to be watching thier step as they walk around.
+~
+~
+0 -1 7319
+S
+#7344
+Room of Doors~
+Entering this room, the first thing you notice are all of the doors
+in this room.  As you enter you are warned by the teacher that all of
+the doors have different names and it's up to you to figure out
+what each one is.  You see some students walking into doors having
+figured out how to open them and others walking out of them back into
+the room you're in.  They keep doing this until they've figured out 
+all of the doors and then they are promoted to the next room.
+~
+73 520 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 7345
+D1
+~
+gate~
+1 -1 7345
+D2
+~
+screen~
+1 -1 7345
+D3
+Back into the hallway.
+~
+~
+0 -1 7347
+D4
+~
+attic~
+1 -1 7345
+D5
+~
+trapdoor~
+1 -1 7345
+D6
+~
+secret~
+1 -1 7345
+D7
+~
+wooden~
+1 -1 7345
+D8
+~
+arch~
+1 -1 7345
+D9
+~
+grate~
+1 -1 7345
+S
+#7345
+The Room~
+This room is very bare.  In the middle of the room is a sign which
+reads:  YOU HAVE FIGURED OUT THE WAY OF THE DOOR!
+~
+73 2568 0
+0d0+0 0 0
+D1
+~
+grate~
+1 -1 7344
+S
+#7346
+Identify room~
+The students in this room are reading off from scrolls and looking at
+other students or different objects in the room.  The scrolls then
+disentigrate in the students hands and they pull out another one and
+continue again.  The teacher seems calm and collected through all of this
+as the students continue reading scroll after scroll.
+~
+73 2568 0
+0d0+0 0 0
+D1
+Back into the hallway with kids.
+~
+~
+0 -1 7318
+S
+#7347
+Hallway~
+This part of the hallway looks quite a bit like the other parts.
+Lockers line the sides of the hallways and papers line the floor.
+Gum is stuck to the ceiling here along with pencils and pens that
+were thrown up and stuck in the ceiling.  Students wander the halls
+aimlessly as they shoot rubberbands or throw water balloons at 
+people.  Watch it.. you might get hit by something.
+~
+73 512 0
+0d0+0 0 0
+D0
+The hallway continues.
+~
+~
+0 -1 7318
+D1
+This seems to be a room with a LOT of doors in it.
+~
+~
+0 -1 7344
+D2
+Back towards the enterance.
+~
+~
+0 -1 7307
+D3
+The students in this room are looking through a VERY big book.
+~
+~
+0 -1 7320
+S
+#7348
+The Mist~
+The mist makes it difficult to make out anything, but you see some mobs
+in the distance.  Better be careful.  
+~
+73 2569 0
+0d0+0 0 0
+D0
+Mist.
+~
+~
+0 -1 7349
+D1
+Mist.
+~
+~
+0 -1 7349
+D2
+Mist.
+~
+~
+0 -1 7340
+D3
+Mist.
+~
+~
+0 -1 7350
+S
+#7349
+The Mist~
+The mist makes it difficult to make out anything, but you see some mobs
+in the distance.  Better be careful.  
+~
+73 2569 0
+0d0+0 0 0
+D0
+Mist.
+~
+~
+0 -1 7350
+D1
+Mist.
+~
+~
+0 -1 7348
+D2
+Mist.
+~
+~
+0 -1 7350
+D3
+Mist.
+~
+~
+0 -1 7351
+S
+#7350
+The Mist~
+The mist makes it difficult to make out anything, but you see some mobs
+in the distance.  Better be careful.  
+~
+73 2569 0
+0d0+0 0 0
+D0
+Mist.
+~
+~
+0 -1 7348
+D1
+Mist.
+~
+~
+0 -1 7349
+D2
+Mist.
+~
+~
+0 -1 7351
+D3
+Mist.
+~
+~
+0 -1 7349
+S
+#7351
+The Mist~
+The mist makes it difficult to make out anything, but you see some mobs
+in the distance.  Better be careful.  
+~
+73 2569 0
+0d0+0 0 0
+D0
+Mist.
+~
+~
+0 -1 7350
+D1
+Mist.
+~
+~
+0 -1 7349
+D2
+Mist.
+~
+~
+0 -1 7352
+D3
+Mist.
+~
+~
+0 -1 7348
+S
+#7352
+The Mist~
+The mist makes it difficult to make out anything, but you see some mobs
+in the distance.  Better be careful.  
+~
+73 2569 0
+0d0+0 0 0
+D0
+Mist.
+~
+~
+0 -1 7353
+D1
+Mist.
+~
+~
+0 -1 7350
+D2
+Mist.
+~
+~
+0 -1 7351
+D3
+Mist.
+~
+~
+0 -1 7348
+S
+#7353
+The Mist~
+The mist makes it difficult to make out anything, but you see some mobs
+in the distance.  Better be careful.  
+~
+73 2569 0
+0d0+0 0 0
+D0
+Mist.
+~
+~
+0 -1 7352
+D1
+He's tough, he's bad.. the Sand King RULES the castle.
+~
+~
+0 -1 7354
+D2
+Mist.
+~
+~
+0 -1 7348
+D3
+Mist.
+~
+~
+0 -1 7349
+S
+#7354
+Lair of the Sand Castle King.~
+Everything in this room is made out of sand, the walls, the throne,
+even the crown that the boy sitting on the throne is wearing is made
+out of sand.  The "king" wields a sceptre in his right hand and
+he looks tiredly at you as if you are no threat.
+~
+73 2568 0
+0d0+0 0 0
+D0
+Mist.
+~
+~
+0 -1 7348
+D1
+Mist.
+~
+~
+0 -1 7348
+D2
+Mist.
+~
+~
+0 -1 7348
+D3
+Mist.
+~
+~
+0 -1 7348
+S
+#7355
+You are HERE!~
+The only thing worthwhile in this room is the map of the school.  Other
+students are standing in front of it looking at it and as you push your
+way forward to try and read the map, they begin to shove you.
+~
+73 512 0
+0d0+0 0 0
+D3
+Back to the hallway.
+~
+~
+0 -1 7304
+E
+map~
+                          Kickball Field
+                                |
+              Sand Castle----Sand Box----Swing Set
+                                |
+                            Back Door
+               Graduation ----- | ----- Reception
+                                H
+               Death Trap ----- A ----- Renting/Quiting
+                                L
+                       ID ----- L ----- Recall
+                                W
+                     Help ----- A ----- Doors
+                                Y
+                    Store ----- | ----- Map Room
+                                |
+                   Nurse ---- Enter ---- Principal
+~
+S
+#7398
+Cati's~
+ None.
+~
+73 8 0
+0d0+0 0 0
+S
+#7399
+MudSchool Arena~
+Your are standing in a large arena. The ground is coated with blood and corpses from other peoples kills.
+~
+73 520 0
+0d0+0 0 0
+S
+$

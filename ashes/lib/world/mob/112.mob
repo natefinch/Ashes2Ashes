@@ -1,0 +1,206 @@
+#11200
+druid warrior lock caerid~
+Caerid Lock~
+Caerid Lock: Master Warrior of Paranor Keep
+~
+This Great warrior has proved himself to be the elite of the best warriors to
+ever roam these lands.  He also holds the only key that will magickally
+unlock these massive gates.
+~
+2385995 37781672 1000 W3
+140 85 -35 30d30+19000 12d12+77
+55000 1
+8 8 1
+25 0 25 25 25 25 25
+20 2 2
+-350 5 12 400 25 25
+10 10 10 10 10
+17 0 6
+6 1
+~
+#11201
+elite druid guard paranor man robed~
+Elite Guard~
+A member of the Paranor Elite guard
+~
+This is but one of the many well-trained fighting machines that protect these
+hallowed halls of Paranor, but will they be enough to stand against the great
+Warlock Lord?
+~
+19052617 55935080 0 W3
+50 60 -10 33d33+3300 10d10+55
+5000 40000
+8 8 1
+18 100 18 18 25 18 18
+19 5 5
+-100 13 6 100 50 0
+50 50 50 25 25
+0 7 0
+6 1
+~
+#11202
+warlock lord brona druid black evil~
+the Warlock Lord Brona~
+The Warlock Lord wanders among his troops
+~
+This is the Great Warlock Lord Brona who was exiled from the Keep of Paranor
+for his use of dark magick over a thousand years ago.  It is said that
+through his power hungry escapades while still a member of the Druid forces
+he gained access to dark artifacts that gave great power...but at a great
+cost.
+~
+20875337 156411112 -1000 W3
+130 70 -33 45d24+14000 12d12+75
+20000 1000
+8 8 0
+25 0 25 25 25 25 0
+8 3 0
+-335 13 10 200 50 50
+10 10 10 10 10
+16 1 0
+6 15
+~
+#11203
+troll warrior tracker black evil~
+Troll Warrior~
+A twisted black Troll Warrior
+~
+This is but one of the many Troll Warriors that have fallen under the control
+of the Warlock Lord.  At one time they were a peaceful race content to live
+in the mountains and eat rocks...but now they have been twisted by the evil
+of Brona's magicks.
+~
+3811401 135364712 -1000 W3
+50 65 -20 30d30+2000 10d10+25
+5000 40000
+8 8 0
+18 100 1 1 25 25 1
+17 5 0
+-200 0 3 500 50 0
+100 100 100 100 100
+2 1 32
+6 15
+~
+#11204
+bremen druid magick good white~
+Bremen the Arch-Druid~
+Bremen the Arch-Druid
+~
+This old druid still practices the magicks of the Faerie age and believes
+that only through the proper combinations of magick and old science will the
+races ever truly be united.
+~
+4169739 156341480 1000 W3
+127 70 -32 30d30+15667 12d12+65
+55000 1
+8 8 1
+25 0 25 25 25 25 25
+8 2 0
+-320 0 10 50 75 30
+1 5 5 5 5
+6 1 56
+5 10
+~
+#11205
+kinson ravenlock kin raven dwarf hunter~
+Kinsen Ravenlock~
+Kinson Ravenlock stands here sharpening his dagger.
+~
+Kinsen Ravenlock, Son of the night father of all burrows master druid hunter
+and just all around nice guy.  This dwarf is huge for his clan...almost six
+foot two and towers over all the other dwarves by about 3 and a half feet. He
+don't look like somebody you'd wanna mess with even in the brightest of suns
+when he would be blind.
+~
+20899913 253736168 500 W3
+140 69 -30 70d5+13000 16d12+50
+15000 5
+8 8 1
+25 0 25 25 25 25 25
+20 3 2
+-300 11 10 500 25 30
+10 10 10 10 10
+20 1 0
+6 10
+~
+#11206
+high druid elder kahuna atha athabasca~
+Athabasca The High Druid~
+The High Druid Athabasca stands here weaving a spell.
+~
+Athabasca, although against the use of magick has bitten his lip and allowed
+bremen to enter into his fortress and attempt to protect it against the
+oncoming forces of the Warlock Lord to prevent another destruction of
+mankind.
+~
+4186123 190297320 0 W3
+150 74 -20 30d30+19899 12d12+75
+20000 10000
+8 8 1
+18 100 18 19 25 18 25
+18 2 2
+-200 10 10 100 35 30
+1 5 5 5 5
+0 3 56
+10 1
+~
+#11207
+Galaphile's Shade~
+Galaphile's Shade~
+The Shade of the once high-druid Galaphile
+~
+Through Knowledge Power--he repeats these words over and over in the old
+language of the Elves--Elit Druin...Elit Druin...the words cut you to the
+very core.  Perhaps he is begging for help or maybe sensing that you have
+come to remove him from his unrest.
+~
+1304699 23049322 1000 W3
+170 70 -70 25d25+30000 12d12+35
+0 1
+8 8 0
+0 0 25 25 25 0 25
+15 5 0
+-700 10 8 1000 20 40
+10 10 10 10 10
+56 0 7
+6 1
+~
+#11208
+tay tref elf high trefenwyd~
+Tay Trefenwyd~
+Tay Trefenwyd stands here fighting for Justice
+~
+Tay Trefenwyd gloriously battled the masses at Magma to return the Black
+Elfstone to Bremen.  But unfortunatly he was forced to use it to keep it from
+the hands of the Evil Brona and it engulfed his soul forcing him to use the
+Druid's Sleep to destroy himself thereby keeping himself whole.
+~
+18873673 252773608 1000 W3
+130 71 -20 24d24+14000 12d12+55
+20000 30
+8 8 1
+25 0 25 25 25 25 25
+10 2 1
+-200 10 11 225 25 0
+5 5 5 5 5
+0 1 0
+10 15
+~
+#11209
+level guardian~
+the Level Guardian~
+The Level Guardian stands here making sure you don't get by.
+~
+~
+8388618 40 0 W3
+1 0 10 0d0+1 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 1
+~
+$

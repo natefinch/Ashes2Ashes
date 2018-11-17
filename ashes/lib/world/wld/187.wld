@@ -1,0 +1,2470 @@
+#18700
+Guard's rest area~
+After an entire day of work the trail warriors relax in this
+luxurious room.  There's a large pool with a nice spa at its
+side.  The guards can buy themselves a drink at the bar located
+to your south.  If a troll warrior wants to practice his skills
+he can go into the training room.
+~
+187 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18702
+D2
+~
+~
+0 -1 18701
+D3
+~
+~
+0 -1 18744
+S
+#18701
+Troll's Bar~
+The troll's bar is always open to serve their tired customer.
+There's a bartender here to serve an assortment of drinks.
+Everywhere you look, the bar is packed with drunken troll
+warriors.  You're not going to find a table around this place --
+might as well just leave.
+~
+187 8200 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18700
+S
+#18702
+Volkov's training school~
+The troll warriors test their skills in this room.  They
+challenge other trolls to a fight -- sometimes it's friendly and
+other times it's not.  There are many varieties of weapons
+hanging on wooden racks.  Everywhere you look, you can see trolls
+attack one another in violent combat.
+~
+187 8200 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 18700
+S
+#18703
+A pier on the Endless Sea~
+This port is totally deserted...  No one would be foolish enough
+to ship out to the Endless Sea -- for sailors have been known to
+"disappear"  once they sail into this vast ocean.  There's a
+strange old man here sitting on his passenger raft.  He looks at
+you and smiles.  Then he turns his head and said, "Go back, young
+traveler, if you value your life."  The old man is trying to warn
+you about the dangers in the Endless Sea.  Maybe you should take
+him seriously -- turn back.
+~
+187 8192 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 10599
+D2
+~
+~
+0 -1 18704
+E
+map sign post~
+012345678901234567890123456789012345678901234567890123456789012
+
+                  N                               port
+                  |                                |
+           W -- --|-- -- E                       __|
+                  |                             |  |
+                  S                             |  |
+                                                |  |
+                               Dark  __ __ __ __|  |__ __
+                               Castle  |      typhoon    |
+                                       |            __ __|
+                              Satanish's           |
+                              Deathtrap            |
+                               |                 Zola's
+ Bora Bora's __ __   Lair of   |                 Domain
+ uncharted        Fin Fang Foom|                   |
+ island                     |  |  Monstro's        |  Devil's
+                            |__|__Territory__ __ __|__Island
+~
+S
+#18704
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18703
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18726
+D3
+~
+~
+0 -1 18799
+S
+#18705
+The vast expanse of the Endless Sea~
+Something's wrong here... Your boat is swaying back and forth.  You look
+up to the sky as it darken.  There's a typhoon coming your way.  Turn
+back, quickly, before that storm swallows you up!
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18736
+D2
+Trust me, you don't want to go in there.
+
+~
+south s~
+0 -1 18707
+D3
+~
+~
+0 -1 18737
+S
+#18706
+a whirlpool~
+As you entered into this whirlpool, your boat begins to get sucked underwater.
+The power of this whirlpool is so strong, not even the mightiest of
+warriors can swim out.  Slowly, you begin to feel your arms tire...  You
+begin gasping for air!  The force of the whirlpool is overwhelming.  As
+you descend deeper into this sea, you wonder to yourself -- why was I so
+stupid to fall into this trap?
+
+Sorry, young traveler, your journey ends here... :(
+~
+187 28678 7
+1d1+199 90 0
+D5
+~
+~
+0 -1 3001
+S
+#18707
+A very powerful typhoon!~
+The power of this typhoon is INCREDIBLE!  It tosses your boat around like
+a salad.  You can feel the wind slamming into your face.  Paddling in 
+the waters is beginning to tire you.  You begin to slip into unconsciousness.
+Glug...
+      Glug...
+            Glug...
+Sorry, pal, you've drowned and gone to heaven.
+~
+187 28678 7
+1d1+199 90 0
+D5
+~
+~
+0 -1 3001
+S
+#18708
+The shores of an uncharted island~
+You've reached the shores of a small island.  There are tropical trees
+everywhere you look.  You wonder if there is anyone living on this
+island.  As you walk along the shore, you notice a few bones lying on
+the ground...  The bones don't look like any animal bones you've seen.
+Suddenly, you sense the horror!  Theses are human bones...  You can hear
+the sound of drums from a distance...  There must be cannibals on this
+island.  This is where you make a life or death decision -- will you
+risk your life to go into this jungle because of your foolish curiosity?
+~
+187 12288 0
+0d0+0 0 0
+D1
+~
+wall door barrier doors invisible~
+2 18726 18724
+D3
+~
+~
+0 -1 18711
+D7
+~
+~
+0 -1 18712
+D9
+~
+~
+0 -1 18710
+S
+#18709
+The village of cannibals~
+You must be a fool to have entered into this area.  The tribe of
+savages lives here.  As you enter into this village, you notice
+all eyes are focused towards you.  You can see these barbarians
+begin to drool as though they see you as a fatten cattle.  In the
+center of the village, you notice a large black cauldron.  You
+can see human heads bobbing from the broth that they are brewing.
+These crazy monsters begin advancing towards you...they come 
+closer and closer...you see them licking their lips...
+~
+187 12288 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18710
+D7
+~
+~
+0 -1 18713
+S
+#18710
+In the tropical jungle~
+Those savages are playing their drums as though they're having a
+festival.  It gets louder and louder as you go further and further
+into this jungle.  There is a light to the south of where you are
+standing.  The noises seem to be coming from there.
+~
+187 12288 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18711
+D2
+~
+~
+0 -1 18709
+D3
+~
+~
+0 -1 18713
+D7
+~
+~
+0 -1 18714
+S
+#18711
+In the tropical jungle~
+There are a lot of animal life in this jungle besides those sadistic
+cannibal killers.  You can see large pythons hanging on tree limbs,
+waiting to spring on their prey.  There are wild boars which run pass
+you as though there was something chasing them.  You can hear the
+mosquitoes buzzing at your ears.  You begin to sweat profusely as the
+humidity becomes more annoying.
+~
+187 12288 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18712
+D1
+~
+~
+0 -1 18708
+D2
+~
+~
+0 -1 18710
+D3
+~
+~
+0 -1 18714
+D7
+~
+~
+0 -1 18715
+D9
+~
+~
+0 -1 18713
+S
+#18712
+In the tropical jungle~
+You can hear a very loud roar as you walk through this area.  Something
+lives in this part of the jungle...something very big -- too big to be
+any animal.  The roar comes from the east of where you're standing.
+You are curious to find out where that roar comes from.  The roar of
+that creature doesn't sound too friendly...
+~
+187 12288 3
+0d0+0 0 0
+D2
+~
+~
+0 -1 18711
+D3
+~
+~
+0 -1 18715
+D9
+~
+~
+0 -1 18714
+S
+#18713
+In the tropical jungle~
+Though this island looks small from a distance, the jungle seems to be
+endless.  Sweat begins dripping from your brow...  You can hear those
+blood-thirsty savages closing in on you.  They must know you're on this
+island!
+~
+187 14336 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18714
+D1
+~
+~
+0 -1 18710
+D6
+~
+~
+0 -1 18711
+S
+#18714
+In the tropical jungle~
+The humidity is almost unbearable.  You can feel the mosquitoes biting
+at your arms and the rest of your exposed skin.  Your legs are 
+beginning to tire because of the many obstacles in the jungle.  You can
+turn back now before you faint from this killer heat.  Who knows?  If 
+you become unconscious you may end up a meal for the cannibals.
+~
+187 12288 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 18715
+D1
+~
+~
+0 -1 18711
+D2
+~
+~
+0 -1 18713
+D6
+~
+~
+0 -1 18712
+D8
+~
+~
+0 -1 18710
+S
+#18715
+In the tropical jungle~
+What you saw was incredible!  There's a large T-Rex standing in front
+of you.  He's feasting on the flesh of a Triceratop.  He stands a good
+four stories tall.  Suddenly,  the meat-eater detects your presence in
+his territory.  He begins to growl...then slowly he turns his head
+towards you.  Watch Out!  He's about to spring at you!
+~
+187 12288 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 18712
+D2
+~
+~
+0 -1 18714
+D8
+~
+~
+0 -1 18711
+S
+#18716
+a whirlpool~
+The force of the whirlpool takes you with ease as your boat
+begins circling into the center.  Ultimately, you and your little
+ship will be swallowed up by the sea.  You begin screaming for 
+help as you struggle to stay above water...
+If you survive this catastrophe, you notice this whirlpool can 
+take you deeper underwater.  You can go deeper to explore the
+terrains beneath -- that is, if you can hold your breath long enough!
+~
+187 20487 7
+1d1+199 90 0
+D0
+~
+~
+0 -1 18771
+D1
+~
+~
+0 -1 18778
+D2
+~
+~
+0 -1 18787
+D3
+~
+~
+0 -1 18779
+D5
+~
+~
+0 -1 18717
+S
+#18717
+an underwater passage~
+The whirlpool seems to be pulling you deeper and deeper underwater.  You
+are curious to find what lurks beneath the Endless Sea.  There are rumors
+of five great beasts living in this vast sea...could one of them be 
+living on the ocean floor?
+~
+187 12288 7
+0d0+0 0 0
+D4
+~
+~
+0 -1 18716
+D5
+~
+~
+0 -1 18718
+S
+#18718
+an underwater passage~
+The force of the whirlpool is becoming stronger it seems.  As you swim
+towards the bottom floor, you notice the many strange marine life.
+Suddenly, you feel something is watching your every every movement.  
+You see large shadows in these murky depths.  These shadows seem to
+be closing in on you!
+~
+187 12288 7
+0d0+0 0 0
+D4
+~
+~
+0 -1 18717
+D5
+~
+~
+0 -1 18719
+S
+#18719
+the sea floor~
+You're on the sea floor.  The first thing you notice is a cave to the
+west of where you're standing.  You know something is living in there...
+you can see large air bubbles coming out from within the cave.  Would
+you be a fool enough to enter that cave -- it looks pretty dark...
+~
+187 12288 7
+0d0+0 0 0
+D1
+~
+~
+0 -1 18720
+D4
+~
+~
+0 -1 18718
+S
+#18720
+inside the cave~
+It's so dark in here -- even your powerful light-source looks dim.  As
+you walk further into this cave, to your surprise, you see a very large
+dragon and he looks pretty angry.  You've entered the cave of the
+mighty dragon know as Fin Fang Foom.  He's ready to turn your flesh into
+cinder -- Watch Out!!!
+~
+187 12289 7
+0d0+0 0 0
+D3
+~
+~
+0 -1 18719
+S
+#18721
+The vast expanse of the Endless Sea~
+As you row your ship towards this area, you notice your boat begins to
+wobble...  Something is in the waters, something very big.  Suddenly,
+you see a large shark fin coming towards you at an incredible speed.
+You tell yourself, there's no way there can be a shark that huge --
+nothing is that huge.  You have only seconds to figure out what to do
+before that shark gobbles you up!
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18760
+D1
+~
+~
+0 -1 18767
+D2
+~
+~
+0 -1 18775
+D3
+~
+~
+0 -1 18768
+S
+#18722
+The vast expanse of the Endless Sea~
+CRACK!  Something is hitting the ship from below.  CRACK!  Something
+powerful is slamming against the ship -- the ship can't take another
+blow or else it will sink!  There's something underwater that wants
+to take you down...  As you try taking a closer peek to see what's
+attacking you...suddenly, four pair of blood-sucking tentacles begin
+to wrap you up!  It drags you underwater!  You notice it's a large
+octopus -- the largest octopus you've ever seen!  It wants to make a
+meal out of you, but first, it'll have to squeeze the life out of
+you with its deadly tentacles!
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18754
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18762
+D3
+~
+~
+0 -1 18799
+S
+#18723
+The vast expanse of the Endless Sea~
+As you row you ship into this area, a large wave forces your ship to
+overturn.  What could cause the waters to suddenly produce a wave like
+that?  You turn your head towards something HUGE coming your way.  It
+looks like a gigantic whale.  It's swimming towards you -- that overgrown
+fish thinks you were trying to take his territory -- it's closing in 
+for the kill!
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18784
+D1
+~
+~
+0 -1 18793
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18794
+S
+#18724
+The vast expanse of the Endless Sea~
+You row your ship into a forbidden area of the Endless Sea.  There's
+an island to the west -- it looks like an ancient island because of
+its natural landscapes.  You wonder if there is anything edible on
+that island.  Suddenly you hear a voice coming out of nowhere...
+
+     "Do not attempt to land on to this island, young journeyman.
+      For it is I, Bora Bora, who protects it from invaders such 
+      as you!"
+
+The voice comes from a very, very LARGE turtle.  He's blocking your
+path towards the island and he looks dead serious about what he'd
+just said.  Even if you could sneak by this great beast, you will
+not be able to pass through the invisible wall that surrounds this
+mysterious island.  The only way you can get to the island is
+to kill Bora Bora!
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18779
+D2
+~
+~
+0 -1 18789
+D3
+~
+wall door invisible barrier doors~
+2 18726 18708
+S
+#18725
+Island of the Dark Castle~
+Where is this place?  You've reached a small island.  There's 
+nothing around you but at a distance, you can see shadowy figures
+running towards you.  The inhabitants of this strange island don't
+look too friendly.  The only escape you have is back to the sea.
+~
+187 12288 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18728
+D1
+~
+~
+0 -1 18735
+S
+#18726
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18704
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18729
+D3
+~
+~
+0 -1 18727
+S
+#18727
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18726
+D2
+~
+~
+0 -1 18730
+D3
+~
+~
+0 -1 18799
+S
+#18728
+Along a rugged path~
+This path is slowing your movement quite a bit.  The rugged path 
+below you is becoming an obstacle.  As you begin walking along
+this road you notice that there are others following your path.
+Are they hostile?  Maybe you better just move a little faster so
+you don't have to find out.
+~
+187 12288 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18732
+D2
+~
+~
+0 -1 18725
+S
+#18729
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18726
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18733
+D3
+~
+~
+0 -1 18730
+S
+#18730
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18727
+D1
+~
+~
+0 -1 18729
+D2
+~
+~
+0 -1 18734
+D3
+~
+~
+0 -1 18799
+S
+#18731
+Entrance to the Dark Castle~
+WOW!  Look at the size of this castle!  It's painted black from
+the outside which gives it a dark, eerie feeling.  The castle is
+made of large blocks of stone and you can see vines hanging on
+the side of the walls.  There's a large door that'll take you
+inside this mammoth complex.  However, first you will have to
+get pass the guard...and it's not going to be that easy.
+~
+187 12288 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 18732
+D3
+~
+door gate dark castle doors~
+1 18755 18764
+S
+#18732
+Along a rugged path~
+There's no escape!  They are everywhere.  You have nowhere to run.
+No matter where you go, they will follow!  These strange beings
+that are following you are carrying long swords and wearing battle
+gears.  They are definitely not the friendly type.  The only 
+chance you have right now is FIGHT!
+~
+187 12288 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 18731
+D2
+~
+~
+0 -1 18728
+S
+#18733
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18729
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18737
+D3
+~
+~
+0 -1 18734
+S
+#18734
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18730
+D1
+~
+~
+0 -1 18733
+D2
+~
+~
+0 -1 18738
+D3
+~
+~
+0 -1 18799
+S
+#18735
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12292 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18741
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18725
+S
+#18736
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18742
+D3
+~
+~
+0 -1 18705
+S
+#18737
+The vast expanse of the Endless Sea~
+Somethings wrong here...  Your boat is shaking back and forth.  You look
+up to the sky as it darken.  There's a typhoon coming your way.  Turn
+back, quickly, before that storm swallows you up!
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18733
+D1
+~
+~
+0 -1 18705
+D2
+Trust me, you don't want to go in there.
+
+~
+south s~
+0 -1 18707
+D3
+~
+~
+0 -1 18738
+S
+#18738
+The vast expanse of the Endless Sea~
+Somethings wrong here...  Your boat is shaking back and forth.  You look
+up to the sky as it darken.  There's a typhoon coming your way.  Turn
+back, quickly, before that storm swallows you up!
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18734
+D1
+~
+~
+0 -1 18737
+D2
+Trust me, you don't want to go in there.
+
+~
+south s~
+0 -1 18707
+D3
+~
+~
+0 -1 18739
+S
+#18739
+The vast expanse of the Endless Sea~
+Somethings wrong here...  Your boat is shaking back and forth.  You look
+up to the sky as it darken.  There's a typhoon coming your way.  Turn
+back, quickly, before that storm swallows you up!
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18738
+D2
+Trust me, you don't want to go in there.
+
+~
+south s~
+0 -1 18707
+D3
+~
+~
+0 -1 18740
+S
+#18740
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18739
+D2
+~
+~
+0 -1 18746
+D3
+~
+~
+0 -1 18741
+S
+#18741
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18740
+D2
+~
+~
+0 -1 18747
+D3
+~
+~
+0 -1 18735
+S
+#18742
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18736
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18748
+D3
+~
+~
+0 -1 18799
+S
+#18743
+On the shores of Devil's Island~
+You've landed on the shores of the mysterious Devil's Island!  This
+small island is well-known for it's unfriendly inhabitants.  As you
+begin exploring this strange island...you sense something is watching
+you.  Maybe it's not a good idea to go any further.  To the south
+there's a large castle.
+~
+187 8192 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 18744
+D3
+~
+~
+0 -1 18790
+S
+#18744
+Walking along a very dark and dangerous path...~
+You are totally surrounded by darkness!!!  You can hear footsteps
+closer and closer to where you are standing.  You can hear your heart
+beat faster as something from the darkness begins advancing towards
+you...  There's a large castle to your south -- if you hurry now, you
+might escape to there with your life!
+~
+187 8193 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 18743
+D1
+~
+~
+0 -1 18700
+D2
+~
+~
+0 -1 18745
+D3
+~
+~
+0 -1 23599
+S
+#18745
+The Castle of the Troll Lord~
+There's definitely something evil living in this centuries-old 
+castle.  You can see cobwebs hanging everywhere you look.  There's
+dust all over the place.  The floor is covered by dead and rotting
+corpses of rodents.  The stench in this castle is almost unbearable. 
+There's a staircase that'll take you up to the tower.
+~
+187 8201 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 18744
+D4
+~
+~
+0 -1 18766
+S
+#18746
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18740
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18753
+D3
+~
+~
+0 -1 18747
+S
+#18747
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18741
+D1
+~
+~
+0 -1 18746
+D2
+~
+~
+0 -1 18754
+D3
+~
+~
+0 -1 18799
+S
+#18748
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18742
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18749
+S
+#18749
+The vast expanse of the Endless Sea~
+Somethings wrong here...  Your boat is shaking back and forth.  You look
+up to the sky as it darken.  There's a typhoon coming your way.  Turn
+back, quickly, before that storm swallows you up!
+~
+187 12288 7
+0d0+0 0 0
+D0
+Trust me, you don't want to go in there.
+
+~
+north n~
+0 -1 18707
+D1
+~
+~
+0 -1 18748
+D2
+If you value your life, stay away from there.
+
+~
+south s~
+0 -1 18706
+D3
+~
+~
+0 -1 18750
+S
+#18750
+The vast expanse of the Endless Sea~
+Somethings wrong here...  Your boat is shaking back and forth.  You look
+up to the sky as it darken.  There's a typhoon coming your way.  Turn
+back, quickly, before that storm swallows you up!
+~
+187 12288 7
+0d0+0 0 0
+D0
+Trust me, you don't want to go in there.
+
+~
+north n~
+0 -1 18707
+D1
+~
+~
+0 -1 18749
+D2
+~
+~
+0 -1 18756
+D3
+~
+~
+0 -1 18751
+S
+#18751
+The vast expanse of the Endless Sea~
+Somethings wrong here...  Your boat is shaking back and forth.  You look
+up to the sky as it darken.  There's a typhoon coming your way.  Turn
+back, quickly, before that storm swallows you up!
+~
+187 12288 7
+0d0+0 0 0
+D0
+Trust me, you don't want to go in there.
+
+~
+north n~
+0 -1 18707
+D1
+~
+~
+0 -1 18750
+D2
+~
+~
+0 -1 18757
+D3
+~
+~
+0 -1 18752
+S
+#18752
+The vast expanse of the Endless Sea~
+Somethings wrong here...  Your boat is shaking back and forth.  You look
+up to the sky as it darken.  There's a typhoon coming your way.  Turn
+back, quickly, before that storm swallows you up!
+~
+187 12288 7
+0d0+0 0 0
+D0
+Trust me, you don't want to go in there.
+
+~
+north n~
+0 -1 18707
+D1
+~
+~
+0 -1 18751
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18753
+S
+#18753
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18746
+D1
+~
+~
+0 -1 18752
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18754
+S
+#18754
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18747
+D1
+~
+~
+0 -1 18753
+D2
+~
+~
+0 -1 18722
+D3
+~
+~
+0 -1 18799
+S
+#18755
+A powder room~
+No man, no warrior has ever dare to walk into this room!  Only
+the King is allowed in here... As you walk inside this room you
+notice that this is a powder room -- you can smell the perfume
+all over the place.  There are mirrors on every wall.
+Hmmm...You think to yourself, Gobi's not the type to put on 
+lady's perfume -- who uses this room?
+~
+187 12296 0
+0d0+0 0 0
+D2
+~
+door doors~
+2 -1 18763
+S
+#18756
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18750
+D1
+If you value your life, stay away from there.
+
+~
+east e~
+0 -1 18706
+D2
+~
+~
+0 -1 18760
+D3
+~
+~
+0 -1 18757
+S
+#18757
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18751
+D1
+~
+~
+0 -1 18756
+D2
+~
+~
+0 -1 18761
+D3
+~
+~
+0 -1 18799
+S
+#18758
+Falling off the staircase~
+Ouch!  You fell right off the staircase.  You feel your bones 
+shattered as you hit the solid stone floor.  You can feel the warm
+blood coming out from your cracked skull as you cry out in pain.
+If you're a strong warrior you may be able to survive this fall but
+if you're not...then your journey ends here and now.
+~
+187 28687 0
+1d1+199 90 0
+D5
+~
+~
+0 -1 3001
+S
+#18759
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+If you value your life, stay away from there.
+
+~
+north n~
+0 -1 18706
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18767
+D3
+~
+~
+0 -1 18760
+S
+#18760
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18756
+D1
+~
+~
+0 -1 18759
+D2
+~
+~
+0 -1 18721
+D3
+~
+~
+0 -1 18761
+S
+#18761
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18757
+D1
+~
+~
+0 -1 18760
+D2
+~
+~
+0 -1 18768
+D3
+~
+~
+0 -1 18799
+S
+#18762
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18722
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18769
+D3
+~
+~
+0 -1 18799
+S
+#18763
+Gobi's room of terror~
+King Gobi, the lord of the living skeletal warriors, lives in
+this room.  He sits on his mighty throne and laughs at you as you
+walk into his room.  Gobi tells you, 'Little man-warrior, do you
+have what it takes to defeat me?'  If you want to face the 
+dreaded Gobi you will probably need assistance, not many warriors
+can face this tyrant alone...  There's a door to the north of
+where you're standing.
+~
+187 12296 0
+0d0+0 0 0
+D0
+~
+door powder room~
+2 18757 18755
+D1
+~
+door bedroom doors~
+2 18756 18773
+S
+#18764
+Inside the Dark Castle~
+The insides of this castle is very well maintained.  There are
+guards everywhere patrolling this castle.  You struggle to make
+yourself unconspicuous...but these guards are just oo alert --
+your presence has been detected.  Time to run...
+~
+187 12296 0
+0d0+0 0 0
+D1
+~
+door gate doors dark castle~
+1 18755 18731
+D4
+~
+~
+0 -1 18765
+S
+#18765
+On the spiral staircase~
+Guards are everywhere!  There's nowhere to run.  As you climb
+every step of this staircase you encounter a guard who's ready to
+cut you up.  It's not easy trying to get to your destination.
+Just as long as you keep advancing upwards the guards here will
+diminish and there will be less resistance at the top.
+~
+187 12296 0
+0d0+0 0 0
+D1
+Warning: Falling off the staircase is bad for your health.
+
+~
+east e~
+0 -1 18758
+D3
+Warning: Falling off the staircase is bad for your health.
+
+~
+west w~
+0 -1 18758
+D4
+~
+~
+0 -1 18773
+D5
+~
+~
+0 -1 18764
+S
+#18766
+On the old staircase~
+Watch Out!!!  There are guards everywhere in this castle.  They're 
+here to protect their leader from invaders such as yourself.  You
+are surrounded by troll soldiers.  They're about to attack you!
+~
+187 12297 0
+0d0+0 0 0
+D1
+Warning: Falling off a staircase is bad for your health.
+
+~
+east e~
+0 -1 18758
+D3
+Warning: Falling off the staircase is bad for your health.
+
+~
+west w~
+0 -1 18758
+D4
+~
+~
+0 -1 18772
+D5
+~
+~
+0 -1 18745
+S
+#18767
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18759
+D1
+~
+~
+0 -1 23711
+D2
+~
+~
+0 -1 18774
+D3
+~
+~
+0 -1 18721
+S
+#18768
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18761
+D1
+~
+~
+0 -1 18721
+D2
+~
+~
+0 -1 18776
+D3
+~
+~
+0 -1 18799
+S
+#18769
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18762
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18777
+D3
+~
+~
+0 -1 18770
+S
+#18770
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18769
+D2
+~
+~
+0 -1 18778
+D3
+~
+~
+0 -1 18771
+S
+#18771
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18770
+D2
+This whirlpool is an obvious deathtrap but something's different
+about it...  You have chosen the wrong path that could have taken
+you "around" this deathtrap.
+~
+south s~
+0 -1 18716
+D3
+If you value your life, stay away from there.
+
+~
+west w~
+0 -1 18706
+S
+#18772
+The hallway of horror~
+You reached the second floor of this dreaded castle.  You may think
+you're safe but there are troll guards here that patrol the area.  
+As you turn your head you notice a large troll guard standing in 
+front of you!  Behind this large, ugly troll is a bedroom door.
+~
+187 12297 0
+0d0+0 0 0
+D0
+~
+door bedroom~
+2 18723 18782
+D5
+~
+~
+0 -1 18766
+S
+#18773
+On top of the staircase~
+This is it.  You've reached the top of this staircase.  However,
+there are still guards here coming after you.  To your west, you
+notice a door made of pure gold and studded with rare gems and 
+emeralds.  You drool at the thought of what you can do with the
+wealth that's probably locked behind that door.  But first, 
+you'll have to kill off that damn guard that's blocking your way!
+~
+187 12296 0
+0d0+0 0 0
+D3
+~
+door bedroom doors~
+2 18756 18763
+D5
+~
+~
+0 -1 18765
+S
+#18774
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18767
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18780
+D3
+~
+~
+0 -1 18775
+S
+#18775
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18721
+D1
+~
+~
+0 -1 18774
+D2
+~
+~
+0 -1 18781
+D3
+~
+~
+0 -1 18776
+S
+#18776
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18768
+D1
+~
+~
+0 -1 18775
+D2
+~
+~
+0 -1 18706
+D3
+~
+~
+0 -1 18799
+S
+#18777
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18769
+D1
+~
+~
+0 -1 18799
+D2
+~
+~
+0 -1 18785
+D3
+~
+~
+0 -1 18778
+S
+#18778
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18770
+D1
+~
+~
+0 -1 18777
+D2
+~
+~
+0 -1 18786
+D3
+This whirlpool is an obvious deathtrap but something is different
+about it...  There is another way to go "around" this
+whirlpool if you do not wish to die.
+~
+west w~
+0 -1 18716
+S
+#18779
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+If you value your life, stay away from there.
+
+~
+north n~
+0 -1 18706
+D1
+This whirlpool is an obvious deathtrap but there's something different
+about it...  There is another way to get "around" it if you don't
+want to enter here.
+~
+east e~
+0 -1 18716
+D2
+~
+~
+0 -1 18788
+D3
+~
+~
+0 -1 18724
+S
+#18780
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18774
+D1
+~
+~
+0 -1 18799
+D2
+There's something fishy about this whirlpool...
+
+~
+south s~
+0 -1 18790
+D3
+~
+~
+0 -1 18781
+S
+#18781
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18775
+D1
+~
+~
+0 -1 18780
+D2
+~
+~
+0 -1 18791
+D3
+If you value your life, stay away from there.
+
+~
+west w~
+0 -1 18706
+S
+#18782
+The room of the Troll Lord~
+You've entered the room of the bloodthirsty Troll Lord -- King of
+all troll warriors!  The Troll Lord is not happy that you've entered
+his room uninvited.  He begins strapping on his battle gear as 
+though he is ready to do battle.  The Troll Lord growls at you as
+he displays his large bloody battle-axe.
+~
+187 12297 0
+0d0+0 0 0
+D2
+~
+door bedroom~
+2 18723 18772
+S
+#18783
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+If you value your life, stay away from there.
+
+~
+east e~
+0 -1 18706
+D2
+~
+~
+0 -1 18793
+D3
+~
+~
+0 -1 18784
+S
+#18784
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18799
+D1
+~
+~
+0 -1 18783
+D2
+~
+~
+0 -1 18723
+D3
+~
+~
+0 -1 18785
+S
+#18785
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18777
+D1
+~
+~
+0 -1 18784
+D2
+~
+~
+0 -1 18794
+D3
+~
+~
+0 -1 18786
+S
+#18786
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18778
+D1
+~
+~
+0 -1 18785
+D2
+~
+~
+0 -1 18795
+D3
+~
+~
+0 -1 18787
+S
+#18787
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+This whirlpool is an obvious deathtrap but something is different
+about it...  You are now choosing a path that can take you around
+this deathtrap.
+~
+north n~
+0 -1 18716
+D1
+~
+~
+0 -1 18786
+D2
+~
+~
+0 -1 18796
+D3
+~
+~
+0 -1 18788
+S
+#18788
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18779
+D1
+~
+~
+0 -1 18787
+D2
+~
+~
+0 -1 18797
+D3
+~
+~
+0 -1 18789
+S
+#18789
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18724
+D1
+~
+~
+0 -1 18788
+D2
+~
+~
+0 -1 18798
+D3
+~
+~
+0 -1 18799
+S
+#18790
+a whirlpool~
+There's something unusual about this whirlpool...  It seems to be only
+an illusion to fool outsiders.  There's an island to you east.  It looks
+dark and covered in thick fog.  If you're thinking about going there
+maybe you should think again...
+~
+187 12292 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18780
+D1
+~
+~
+0 -1 18743
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18791
+S
+#18791
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18781
+D1
+There's something fishy about this whirlpool...
+
+~
+east e whirlpool~
+0 -1 18790
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18792
+S
+#18792
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+If you value your life, stay away from there.
+
+~
+north n~
+0 -1 18706
+D1
+~
+~
+0 -1 18791
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18793
+S
+#18793
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18783
+D1
+~
+~
+0 -1 18792
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18723
+S
+#18794
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18785
+D1
+~
+~
+0 -1 18723
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18795
+S
+#18795
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18786
+D1
+~
+~
+0 -1 18794
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18796
+S
+#18796
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18787
+D1
+~
+~
+0 -1 18795
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18797
+S
+#18797
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18788
+D1
+~
+~
+0 -1 18796
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 18798
+S
+#18798
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12288 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18789
+D1
+~
+~
+0 -1 18797
+D2
+~
+~
+0 -1 18799
+D3
+~
+~
+0 -1 24201
+S
+#18799
+The vast expanse of the Endless Sea~
+You are surrounded by water from all directions...  The only living things
+out here are marine life.  As you sail on the Endless Sea, you wonder to
+yourself if you`ll ever get back to shore.  
+~
+187 12292 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 18733
+D1
+~
+~
+0 -1 18727
+D2
+~
+~
+0 -1 18733
+D3
+~
+~
+0 -1 18730
+S
+$

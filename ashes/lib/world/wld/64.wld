@@ -1,0 +1,757 @@
+#6400
+South-Western Parking Lot~
+You are standing in the south-western parking lot area outside of an
+enormous theme park.  The parking lot is jam packed full of station wagons,
+buses, and bratty children.
+~
+64 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6402
+D1
+~
+~
+0 -1 6401
+D3
+~
+~
+0 -1 22233
+S
+#6401
+South-Eastern Parking Lot~
+You are standing in the south-eastern parking lot area outside of an
+enormous theme park.  The parking lot is jam packed full of station wagons,
+buses, and bratty children.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6403
+D3
+~
+~
+0 -1 6400
+S
+#6402
+North-Western Parking Lot~
+You are standing in the north-western parking lot.  To the north you see a
+large gate and a LONG line of people.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6404
+D1
+~
+~
+0 -1 6403
+D2
+~
+~
+0 -1 6400
+S
+#6403
+North-Eastern Parking Lot~
+You are standing in the north-eastern parking lot area outside of an
+enormous theme park.  The parking lot is jam packed full of station wagons,
+buses, and bratty children.
+~
+64 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 6401
+D3
+~
+~
+0 -1 6402
+S
+#6404
+Disney Land Entrance~
+You have entered a line as long as a mile.  Standing around you is a horde
+of whining children.  There are ticket booths everywhere.
+To the north is Main Street.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6405
+D2
+~
+~
+0 -1 6402
+S
+#6405
+Main Street~
+Around you is the wonderous world of Disney Land.  You have never seen
+anything so fantastic!  You can board a train to the east and go to 
+Tommorrow Land.  To the north Main Street continues.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6406
+D1
+~
+~
+0 -1 6415
+D2
+~
+~
+0 -1 6404
+S
+#6406
+Main Street~
+You are standing in New Orleans square.  North and south is Main Street.
+To the east is a snack bar, and to the west is a gift shop.
+There is a poster on a wall here.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6407
+D1
+~
+~
+0 -1 6442
+D2
+~
+~
+0 -1 6405
+D3
+~
+~
+0 -1 6441
+E
+poster~
+	BEWARE !!!
+There is a crazy axe murderer loose
+somewhere in Disneyland !!!
+Please protect you children !!!
+Thank you for coming.
+Have a nice day!
+~
+S
+#6407
+The Electric Parade~
+This is the north end of Main Street.  Here is where everyone patiently waits
+for the Electric Light Parade which is supposed to happen after it gets dark.
+To the east and west are some rides that look like lots of fun.
+~
+64 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 6409
+D2
+~
+~
+0 -1 6406
+D3
+~
+~
+0 -1 6408
+S
+#6408
+A Walkway~
+You are on a walkway outside of the Haunted Mansion and Pirates of the
+Carribean.  There are some benches here to sit on while you gather your wits.
+To the north, the walkway continues.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6427
+D1
+~
+~
+0 -1 6407
+D2
+~
+~
+0 -1 6423
+D3
+~
+~
+0 -1 6420
+S
+#6409
+A Walkway~
+You are on a walkway going east.  To the south is Star Tours, and to the north
+is another path for more rides.  You notice that the line for Star Tours is
+four times as long as the line at the entrance!
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6411
+D1
+~
+~
+0 -1 6414
+D2
+~
+~
+0 -1 6410
+D3
+~
+~
+0 -1 6407
+S
+#6410
+Star Tours~
+You have made it through the longest line you've ever stood in.  All around
+is wounderous technological devices.  You are having FUN!  Aren't you?
+~
+64 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6409
+S
+#6411
+Path by the Matterhorn~
+You are on a path going north and south.  To the west is Matterhorn Mountain.
+It looks like fun, but kinda scary... 
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6425
+D2
+~
+~
+0 -1 6409
+D3
+~
+~
+0 -1 6412
+S
+#6412
+Matterhorn Mountain~
+You are on the rollercoaster ride.  WHHHEEEEEEEEEE !!!!!!!! What fun!!
+You could climb the mountain if you want, but it looks kinda scary.
+To the east is the path.
+~
+64 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6411
+D4
+~
+~
+0 -1 6413
+S
+#6413
+Atop Matterhorn Mountain~
+You are in a cave on the top of Matterhorn Mountain.  Something seems very
+spooky...
+~
+64 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 6412
+S
+#6414
+Below the People-Mover~
+You are on a walkway going east and west.  To the north is the raceway.  You
+can ride the people movers going up. To the east is the train station and
+to the south is Captain EO 3D.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6416
+D1
+~
+~
+0 -1 6415
+D2
+~
+~
+0 -1 6419
+D3
+~
+~
+0 -1 6409
+D4
+~
+~
+0 -1 6417
+S
+#6415
+Tommorrowland Train Station~
+You have arrived at Tommorrowland.  You may keep riding around Disneyland if
+you go north.  To the west is Tommorrowland, where you can ride the future.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6440
+D3
+~
+~
+0 -1 6414
+S
+#6416
+Raceway~
+You are in another long line for another boring ride.  Sure, it looks like
+fun from a mile away.  BORING!  Brats are all around you tugging at your
+trousers.
+~
+64 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 6414
+S
+#6417
+The People Mover~
+You have climbed aboard the People Mover.  This is the transportation of the
+future.  You may ride the People Mover west or you can go east to the
+Monorail, a train from the future.  The exit down leads to Tommorrowland.
+~
+64 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6418
+D3
+~
+~
+0 -1 6422
+D5
+~
+~
+0 -1 6414
+S
+#6418
+The Monorail~
+The Monorail is a sleek, futuristic train that travels at a high speed on a
+single rail above the ground.  The Monorail will take you to the Temple of
+Midgaard if you go east.
+~
+64 0 0
+0d0+0 0 0
+D1
+The Monorail will take you to the Temple of Midgaard.
+~
+monorail~
+1 -1 3001
+D3
+~
+~
+0 -1 6417
+S
+#6419
+Captain EO 3D~
+You are in a large theatre.  Things seem to just fly out of the screen at
+your face.  What a trip!  Don't you wish you were plastered?
+~
+64 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6414
+S
+#6420
+The Graveyard~
+This is the beginning of a very long line.  To the north is the front of the
+Haunted Mansion.  There are some tombstones here saying very witty things.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6421
+D1
+~
+~
+0 -1 6408
+S
+#6421
+Haunted Mansion~
+You are in a haunted mansion.  OOOOOOOOHHHHHH SCARY!!!
+You get the feeling you are not alone.  Better run while you can!
+~
+64 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 6420
+S
+#6422
+Toon Town~
+You have discovered Toon Town.  It's a funny place full of cartoon people.
+The People Mover arrives above you. If you want to leave, just go up.
+~
+64 0 1
+0d0+0 0 0
+D4
+The People Mover has just arrived.
+~
+~
+0 -1 6417
+S
+#6423
+The Pirates of the Caribbean~
+Probably the most popular ride among adults is the stupid Pirates of the
+Caribbean.  The ride goes south and the entrance is north.  Many parents
+wait patiently for hours to go on this ride.
+~
+64 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6408
+D2
+~
+~
+0 -1 6424
+S
+#6424
+The Pirate's Room~
+You are in a room with a bunch of dumb drunk pirates.  Cool, huh?
+North is the entrance.  Leave while you can!
+~
+64 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6423
+S
+#6425
+Beneath the Castle~
+You are walking on a pathway beneath the enormous magical castle.  To the 
+north is Fantasyland.  There is a pathway leading south and west.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6436
+D2
+~
+~
+0 -1 6411
+D3
+~
+~
+0 -1 6426
+D4
+~
+~
+0 -1 6438
+S
+#6426
+A pathway around the magical castle~
+You are on a pathway going east and west. 
+~
+64 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 6425
+D3
+~
+~
+0 -1 6427
+S
+#6427
+A pathway around the Matterhorn~
+You are on a pathway going east, south, and west.  South-east is Matterhorn
+Mountain.  You can see a large castle to the north-east.  To the west is
+Frontierland.
+~
+64 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6426
+D2
+~
+~
+0 -1 6408
+D3
+~
+~
+0 -1 6428
+S
+#6428
+Frontierland~
+You are in Frontierland.  Exits lead in all directions.  East is a pathway.
+South is the Country Bear Jamboree. North is Tom Sawyer Island, but you
+will need a boat to go there.  To the west is the train station.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6431
+D1
+~
+~
+0 -1 6427
+D2
+~
+~
+0 -1 6429
+D3
+~
+~
+0 -1 6430
+S
+#6429
+Bear Country~
+You are in a theater with a bunch of screaming kids and silly dancing bears.
+Your only hope is the exit to the north.
+~
+64 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 6428
+S
+#6430
+Frontierland Train Station~
+You have arrived at Frontierland.  You may exit to the east or continue
+riding south.
+~
+64 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 6428
+D2
+~
+~
+0 -1 6405
+S
+#6431
+River~
+You are on a river. To the north is Adventure Island.  To the south is
+Frontierland.
+~
+64 4 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 6432
+D2
+~
+~
+0 -1 6428
+S
+#6432
+Tom Sawyer Island~
+You are on Tom Sawyer Island.  A small island packed with wierdos.
+South is the river and north is the barrel bridge leading to Adventureland.
+
+~
+64 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 6433
+D2
+~
+~
+0 -1 6431
+S
+#6433
+Adventureland~
+You are in Adventureland.  To the east is Fantasyland and to the south is
+the barrel bridge to Tom Sawyer Island.  To the west is the jungle cruise.
+~
+64 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 6435
+D2
+~
+~
+0 -1 6432
+D3
+~
+~
+0 -1 6434
+S
+#6434
+The Jungle Cruise~
+You are taken through the jungle on a small boat with a group of kids.
+Halfway through the cruise you are sprayed by a wet hippo (no, it's not
+your mother!).  You may go east back to Adventureland.
+~
+64 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 6433
+S
+#6435
+Fantasyland~
+You have entered Fantasyland.  The train station is north.  To the west is
+Adventureland.  South is the Tea Cups and east is the entrance to It's A
+Small World.  You can hear the dreaded chanting from over here!
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6440
+D1
+~
+~
+0 -1 6436
+D2
+~
+~
+0 -1 6439
+D3
+~
+~
+0 -1 6433
+S
+#6436
+Entrance to It's A Small World~
+You can barely take to dreaded chanting of the music coming from the hell-
+house to the north.  You may choose to flee west to Fantasyland or south
+to go below the castle.  Whatever you do, don't go north!
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6437
+D2
+~
+~
+0 -1 6425
+D3
+~
+~
+0 -1 6435
+S
+#6437
+It's A Small World~
+AAAAARRRRRGGGHHHH !!!!!! You have dared to enter into the world of sillyness!
+South is your only hope from these silly chanting dolls!
+~
+64 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 6436
+S
+#6438
+Fantasia~
+You have discovered Mickey's room.
+~
+64 0 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 6425
+S
+#6439
+The Tea Cup~
+The most tolerable ride for you here is the Tea Cups.  Wheeeeee!!!  You
+have never had so much fun!  North is Fantasyland.
+~
+64 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 6435
+S
+#6440
+Train Station at Fantasyland~
+You have arrived at Fantasyland.  Exit to the south or continue riding to
+the west.
+~
+64 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 6435
+D3
+~
+~
+0 -1 6430
+S
+#6441
+Gift Shop~
+You are in a gift shop.  East is the only exit.
+~
+64 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6406
+S
+#6442
+Snack Bar~
+You are in a snack bar.  West is the only exit.
+~
+64 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 6406
+S
+$

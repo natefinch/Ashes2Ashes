@@ -1,0 +1,2016 @@
+#17200
+Spam Square~
+This is spam square.  The center of The Land of lag.  You can barely
+moven in here because of all of the phrases and movements people are making.
+To the East is the theater and a small cafe.  To the west is city hall, the
+police station and the Lagmaster's guild.
+~
+172 16 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 17201
+D1
+~
+~
+0 -1 17212
+D2
+~
+~
+0 -1 17202
+D3
+~
+West Spam Boulevard~
+0 -1 17216
+S
+#17201
+The Temple of The Lag Gods~
+A massive marble temple with a golden alter in the center of it.  People
+bow before the temple and worship deeply.  They come here to beg the lag
+Gods for mercy and to stop lagging their computers.  To the North is Lag
+Square and to the south is the main exit to The Land of Lag.  To the south
+and to the immediate east or west is The City of Lag.
+~
+172 20 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 17300
+D1
+~
+~
+0 -1 17299
+D2
+~
+~
+0 -1 17200
+S
+#17202
+South Lag Way~
+You are now at the City of Lag.  To the north is the temple to the Lag
+Gods.  To the North and immediate east and west is the city.  To the South
+is the exit to The Land of Lag.
+~
+172 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 17200
+D2
+~
+~
+0 -1 17203
+S
+#17203
+South Lag Way~
+You are almost there.  The road continues north to spam square.  On either
+side of the square is The City of Lag.  In the distance you can see a large
+castle.
+~
+172 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 17202
+D2
+~
+~
+0 -1 17204
+S
+#17204
+South Lag Way~
+As you head down the street you wonder if you are ever going to get there.  
+The Street continues to the north and south from here.  The houses are not
+quite as far appart as they were before.
+~
+172 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 17203
+D2
+~
+~
+0 -1 17206
+S
+#17205
+The Post Office~
+The post office in The Land of Lag is not the best place to send your mail.
+In fact, if you could mail your mail here at all it would be a surprise.
+The building is falling down and the post master looks as if he has been here
+for a loooooooooooooong time.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17218
+S
+#17206
+Entrance to The Land of Lag~
+Welcolme to The Land of Lag!  Everything here moves a little slowly, . . .
+well, except the spam.  You see a large golden structure with a tower in the
+distance ahead of you.  Even further in the distance the outline of a castle
+can be seen to the northwest.
+~
+172 20 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 17204
+D2
+~
+~
+0 -1 17207
+D8
+~
+~
+0 -1 17210
+D9
+~
+~
+0 -1 17211
+S
+#17207
+A Valley of Lag~
+AAAAAAAAAAAAAAAAAAAAAARGH!!!!!! LAAAAAAAAAAAAAG!!!!!!!!!! You have fallen
+into a valey of lag.  Your terminal freezes up and you will just have to
+wait for it to go away.  Luckily it will only be for one or two ticks this
+time =)
+~
+172 14468 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 17206
+D2
+~
+~
+0 -1 17208
+S
+#17208
+A Dark Pathway~
+You continue on your journey until you come to a fork in the road.
+Decisions, decisions, decisions . . . hmmmmmmm.  Which way to go?
+~
+172 5 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 17207
+D2
+~
+~
+0 -1 17209
+D6
+~
+~
+0 -1 17210
+D7
+~
+~
+0 -1 17211
+S
+#17209
+A Dark Pathway~
+You head along a dark pathway through the wilderness.  You are having trouble
+seeing where you are going and almost trip.  You continue along the path
+hoping that you will find something good.
+~
+172 5 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 17208
+D2
+~
+~
+0 -1 6100
+S
+#17210
+A Path Around the Valley~
+This path leads around the valley of lag.  The birds are chirping as you
+make your way around the valley.  You notice that there is a nice view of
+the City from up here.
+~
+172 0 11
+0d0+0 0 0
+D7
+~
+~
+0 -1 17206
+D9
+~
+~
+0 -1 17208
+S
+#17211
+A Path Around the Valley~
+This path leads around the valley of lag.  As the animals play and the birds
+chirp you get a warm fuzzy feeling.  You notice the wonderful view of the
+city you get from up here.
+~
+172 1 11
+0d0+0 0 0
+D6
+~
+~
+0 -1 17206
+D8
+~
+~
+0 -1 17208
+S
+#17212
+East Spam Boulevard~
+You travel down a small paved road.  To the north you hear the sounds of a
+blacksmith busy at work.  To the south you hear the sounds of explosions and
+the whistle of steam being released from a glass container.  It must be the
+shop of a magician.  To the west is spam square and to the east is the cafe
+and theater.
+~
+172 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 17220
+D1
+~
+~
+0 -1 17213
+D2
+~
+~
+0 -1 17265
+D3
+~
+~
+0 -1 17200
+S
+#17213
+East Spam Boulevard~
+You travel down a paved road.  To the north is the entrance to a small cafe.
+To the south is the ticket booth of the theater and spam square is to the
+west.
+~
+172 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 17221
+D1
+~
+~
+0 -1 17214
+D2
+~
+~
+0 -1 17235
+D3
+~
+~
+0 -1 17212
+S
+#17214
+East Spam Boulevard~
+You are almost at the end of a paved road.  To the north is the entrance to
+a small cafe.  To the south is the entrance to the Lag Theater.  If you
+travel to the west you will be at lag square.
+~
+172 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 17222
+D1
+~
+~
+0 -1 17215
+D2
+~
+~
+0 -1 17236
+D3
+~
+~
+0 -1 17213
+S
+#17215
+East Spam Boulevard~
+You have come to the end of a paved road.  To the south is the entrance to
+the Lag Theater and to the north is a small cafe.  If you travel to the
+west you will come to lag square, the center of town.
+~
+172 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 17223
+D2
+~
+~
+0 -1 17237
+D3
+~
+~
+0 -1 17214
+S
+#17216
+West Spam Boulevard~
+You are traveling on a large paved road.  To the north is the armory and to
+the south is a small grocery store.  To the immediate east is lag square.
+~
+172 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 17266
+D1
+~
+~
+0 -1 17200
+D2
+~
+~
+0 -1 17294
+D3
+~
+~
+0 -1 17217
+S
+#17217
+West Spam Boulevard~
+You are traveling on a large paved road.  To the north is the water shop and
+to the south the sound of swords and armor crashing can be heard. This must
+be the famous Lagmaster's Guild.  If you travel to the east you will reach
+spam square.
+~
+172 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 17267
+D1
+~
+~
+0 -1 17216
+D2
+~
+~
+0 -1 17281
+D3
+~
+~
+0 -1 17218
+S
+#17218
+West Spam Boulevard~
+You are traveling on a large paved road.  To the north is the large set of
+stairs which go up to city hall.  To the south is the infamous Post Office.
+If you travel to the east you will reach spam square.
+~
+172 8 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 17268
+D1
+~
+~
+0 -1 17217
+D2
+~
+~
+0 -1 17205
+D3
+~
+~
+0 -1 17219
+S
+#17219
+West Spam Boulevard~
+You are at the end of a large paved road.  To the north is the headquarters
+of the City of Lag's Police.  To the south is a small pet shop.  If you
+travel to the east you will reach spam square.
+~
+172 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 17274
+D1
+~
+~
+0 -1 17218
+D2
+~
+~
+0 -1 17279
+S
+#17220
+The Weapon Shop~
+You enter the weapon shop.  Weapons of mass destruction and death await your
+purchase on the neatly arranged shelves.  A small piece of paper sits on the
+counter.
+~
+172 4232 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 17212
+S
+#17221
+A Small Cafe~
+You have entered a small cafe.  There is a lot of singing and drinking going
+on.  The cafe is full of vikings and customers from town.  Today's special is
+SPAM, just as it is on most days here.  There does not appear to be any tables
+left so you head north to the counter.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17224
+D1
+~
+~
+0 -1 17222
+D2
+~
+~
+0 -1 17213
+S
+#17222
+A Small Cafe~
+You have entered a small cafe.  The room is filled with people drinking,
+singing, and just having a good time.  There are all sorts of people, from
+vikings to people from town.  All of the tables appear to be full so you
+go north towards the counter.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17225
+D1
+~
+~
+0 -1 17223
+D2
+~
+~
+0 -1 17214
+D3
+~
+~
+0 -1 17221
+S
+#17223
+A Small Cafe~
+You enter a small cafe.  It is full of all sorts of people.  Since there is
+no room left at any of the tables you head toward the northwest where there
+is a small counter.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17226
+D2
+~
+~
+0 -1 17215
+D3
+~
+~
+0 -1 17222
+S
+#17224
+A Small Cafe~
+You are almost completely surrounded by people as you make your way to the 
+back of the cafe.  There is a strange smell that is almost like perfume
+coming from the west.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17227
+D1
+~
+~
+0 -1 17225
+D2
+~
+~
+0 -1 17221
+D3
+~
+door~
+2 17231 17234
+S
+#17225
+A Small Cafe~
+You are in the center of a small cafe.  You are surrounded by vikings and
+drunks!  To the North is the counter and to the south is the entrance
+of the cafe.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17228
+D1
+~
+~
+0 -1 17226
+D2
+~
+~
+0 -1 17222
+D3
+~
+~
+0 -1 17224
+S
+#17226
+A Small Cafe~
+You are in a small cafe.  You head north trying to make your way to the
+counter through the crowd of drunks or vikings or both.  To the South is
+the entrance to the cafe.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17229
+D2
+~
+~
+0 -1 17223
+D3
+~
+~
+0 -1 17225
+S
+#17227
+A Small Cafe~
+You are in a small cafe.  A strong stench is coming from the west.  There
+is still a large gathering of drunks and vikings having a great time singing.
+To the north is the counter and to the south is the entrance to the cafe.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17230
+D1
+~
+~
+0 -1 17228
+D2
+~
+~
+0 -1 17224
+D3
+~
+door~
+2 17230 17233
+S
+#17228
+A Small Cafe~
+You are in the middle of a small cafe.  To the north is the small counter of
+the cafe.  You are in luck as there are a few stools open.  To the south is the
+entrance to the cafe.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17231
+D1
+~
+~
+0 -1 17229
+D2
+~
+~
+0 -1 17225
+D3
+~
+~
+0 -1 17227
+S
+#17229
+A Small Cafe~
+You are in the back of a small cafe.  The counter is to the northwest and
+the entrance is to the south.  A large wooden door stands to your north.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17232
+D2
+~
+~
+0 -1 17226
+D3
+~
+~
+0 -1 17228
+S
+#17230
+At the Counter~
+You are at the counter.  The smell of freshly cooked spam rises from the
+steaming grills.  You wonder what the menue looks like, but think that it
+would be better if you didn't know.  To the south is the entrance to the
+cafe.
+~
+172 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17231
+D2
+~
+~
+0 -1 17227
+S
+#17231
+At the Counter~
+You are at the counter.  There are a few extera stools here so you decide
+to take a seat and join in the singing.  You immediately know you have made
+a mistake and realize it would be safer if you just watched.  To the south
+is the entrance to the cafe.
+~
+172 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 17228
+D3
+~
+~
+0 -1 17230
+S
+#17232
+The Manager's Office~
+You have entered the office of the manager.  It is painted a light blue
+color and has a small artificial plant in the northwest corner.  The
+frayed grey carpet almost falls apart as you walk on it.  To the south is
+the small cafe.
+~
+172 0 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 17229
+S
+#17233
+The Men's Room~
+PEEEEEEEE-U!!!!!!! It stinks in here.  It does not look as if anyone has
+cleaned this room since dinosaurs roamed the earth!  Toilet paper litters
+the floor and the sink is coated with a thick black grime.  It would
+probably be a good idea to head east back into the cafe.
+~
+172 8 0
+0d0+0 0 0
+D1
+~
+door~
+2 17230 17227
+S
+#17234
+Lady's Room~
+This room is not nearly as bad as the mens room.  Luckily the cafe decided
+to hire a janitor to fix up some some things, including the rest rooms.  Good
+thing you didn't come here yesturday.  To the east is the small cafe.
+~
+172 8 0
+0d0+0 0 0
+D1
+~
+door~
+2 17231 17224
+S
+#17235
+The Ticket Booth~
+You hav entered a small ticket booth.  You can buy tickets to the next movie
+in the Lag Theater here.  You are kind of afraid of what a movie would look
+like in The Land of Lag.  To the north is east spam boulevard.
+~
+172 4232 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17213
+S
+#17236
+Theater Entrance~
+You push your way through a small line and make your way into the theater
+You must pass through the large revolving glass door and hand the usher
+your ticket.  To the south is the theater lobby and to the north is east
+spam boulevard
+~
+172 6156 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17214
+D2
+~
+~
+0 -1 17239
+D8
+~
+~
+0 -1 17240
+D9
+~
+~
+0 -1 17238
+S
+#17237
+Theater Entrance~
+You push your way through the small line and make your way into the theater
+You must pass through a large revolving glass door and hand the usher your
+ticket.  To the south is the theater lobby and to the north is east spam
+boulevard.
+~
+172 6156 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17215
+D2
+~
+~
+0 -1 17240
+D9
+~
+~
+0 -1 17239
+S
+#17238
+The Lobby~
+You are in the front of a large lobby.  People are wandering around buying
+food and playing the arcade games to the west.  The entrance to the
+theater is to the northeast and the smell of popcorn is coming from the
+southeast.
+~
+172 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17239
+D2
+~
+~
+0 -1 17241
+D3
+~
+door~
+1 -1 17295
+D6
+~
+~
+0 -1 17236
+S
+#17239
+The Lobby~
+You are in the front of a large lobby.  People are wandering around buying
+all sorts of food and candy.  The smell of popcorn and other movie snacks
+is coming from the south.  The entrance to the theater is to the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17236
+D1
+~
+~
+0 -1 17240
+D2
+~
+~
+0 -1 17242
+D3
+~
+~
+0 -1 17238
+D6
+~
+~
+0 -1 17237
+S
+#17240
+The Lobby~
+You are in the front of the lobby.  People are wandering around buying
+food and candy.  The smell of freshly buttered popcorn is coming from the
+southwest.  The theater entrance is to the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17237
+D2
+~
+~
+0 -1 17243
+D3
+~
+~
+0 -1 17239
+D7
+~
+~
+0 -1 17236
+S
+#17241
+The Lobby~
+You are now in the middle of the lobby.  The smell of popcorn and pretzels
+comes from the east.  The crowd is slowly starting to move south because
+the movie is about to start.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17238
+D1
+~
+~
+0 -1 17242
+D2
+~
+~
+0 -1 17244
+S
+#17242
+Consessions~
+You see a long white counter with all sorts of food and candy behind it.  The
+counter continues to the the south from here and the entrance to the theater
+is to the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17239
+D1
+~
+~
+0 -1 17243
+D2
+~
+~
+0 -1 17245
+D3
+~
+The Lobby~
+0 -1 17241
+S
+#17243
+The Lobby~
+You are now in the middle of the lobby.  The smell of popcorn and pretzels
+comes from the west.  The crowd is slowly starting to move south because the
+movie is about to start.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17240
+D2
+~
+~
+0 -1 17246
+D3
+~
+~
+0 -1 17242
+S
+#17244
+The Lobby~
+You are in the middle of the lobby.  The smell of freshly buttered popcorn
+and warm pretzels comes from the the east.  The crowd continues it's way
+south into the theater.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17241
+D1
+~
+~
+0 -1 17245
+D2
+~
+~
+0 -1 17247
+S
+#17245
+Concessions~
+You see a long white counter with all sorts of food and candy behind it.
+The counter continues to the north and the entrance to the movie hall is
+south of here.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17242
+D1
+~
+~
+0 -1 17246
+D2
+~
+~
+0 -1 17248
+D3
+~
+~
+0 -1 17244
+S
+#17246
+The Lobby~
+You are in the middle of the lobby.  The smell of freshly buttered popcorn
+and warm pretzels comes from the west.  People are still moving to the south
+hoping to get a good seat in the movie hall before it starts.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17243
+D2
+~
+~
+0 -1 17249
+D3
+~
+~
+0 -1 17245
+S
+#17247
+The Lobby~
+You are now in the back of the lobby.  The lights are slowly being turned
+down and people are scrambeling to their seats.  The entrance to the movie
+hall is to the southeast and the smell of popcorn is coming from the
+northeast.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17244
+D1
+~
+~
+0 -1 17248
+D8
+~
+~
+0 -1 17251
+S
+#17248
+The Lobby~
+You are now in the back of the lobby.  The crowd is slowly pushing it's way
+south as the lights are being turned down.  The wonderful smell of movie
+popcorn is coming from the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17245
+D1
+~
+~
+0 -1 17249
+D2
+~
+~
+0 -1 17251
+D3
+~
+~
+0 -1 17247
+S
+#17249
+The Lobby~
+You are now in the back of the lobby.  The crowd is scrambeling to the
+southwest as the lights in the movie hall are slowly turned down. The
+wonder smell of freshly buttered popcorn comes from the northwest.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17246
+D1
+~
+door~
+1 -1 17250
+D3
+~
+~
+0 -1 17248
+D9
+~
+~
+0 -1 17251
+S
+#17250
+The Manager's Office~
+You enter a small business office.  There are no windows in this room and
+it seems to be very boring.  The walls and carpet are grey with navy blue
+patterns and the pictures on the wall look like they came with the frame.
+The lobby is to the west.
+~
+172 6152 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 17249
+S
+#17251
+The Entrance to the Movie Theater~
+As you make your way into the movie theater the lights are almost completely
+out.  You scramble forward to find a seat before the movie starts.  The backk of
+the theater is to the south and the lobby is to the north.  The sounds of
+someone running around can be heard from above.
+~
+172 6156 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17248
+D2
+~
+~
+0 -1 17254
+D4
+You see a door.
+~
+door~
+1 17239 17252
+D6
+~
+~
+0 -1 17249
+D7
+~
+~
+0 -1 17247
+D8
+~
+~
+0 -1 17255
+D9
+~
+~
+0 -1 17253
+S
+#17252
+The Projection Booth~
+You have entered the projection booth.  This is a very small room where the
+the projectionist works.  The movie is running late so everything is a mess!
+Film canisters and papers are everywhere.  To the south is the entrance to the
+movie theater.
+~
+172 6152 0
+0d0+0 0 0
+D5
+You see a door.
+~
+door~
+1 17239 17251
+S
+#17253
+In the Back of the Theater~
+You are in the back of the movie theater.  It looks kind of crowded but you
+see some seats to the south.  The lights are out now and people are starting
+to look at their watches since the movie is late as always.  The entrance to
+the theater is to the northeast.
+~
+172 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17254
+D2
+~
+~
+0 -1 17256
+D6
+~
+~
+0 -1 17251
+S
+#17254
+In The Back of the Theater~
+You are in the back of the movie theater.  The lights have just gone
+out and people are impatiently waiting for the movie to start.  To the
+south there are some empty seats and to the north is the theater
+entrance.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17251
+D1
+~
+~
+0 -1 17255
+D2
+~
+~
+0 -1 17257
+D3
+~
+~
+0 -1 17253
+S
+#17255
+In the Back of the Theater~
+You are in the back of the theater.  The lights have just gone out and
+it is difficult to see your way, but it looks like there are some seats
+to the south.  The entrance to the movie theater is to the northwest.
+~
+172 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 17258
+D3
+~
+~
+0 -1 17254
+D7
+~
+~
+0 -1 17251
+S
+#17256
+In the Middle~
+You have moved closer to the front of the theater.  You see a few seats
+here, but decide to get a closer look at the movie.  It appears to only
+be moving one frame at a time.  The problem is that no one seems to
+notice except you.  Since you can not believe your eyes you move
+further south.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17253
+D1
+~
+~
+0 -1 17257
+D2
+~
+~
+0 -1 17259
+S
+#17257
+In the Middle~
+You are much closer to the front of the movie theater now.  As the movie
+starts you notice something peculiar. The movie is only moving one frame
+at a time.  No, it can't be!  You move south to get a closer look.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17254
+D1
+~
+~
+0 -1 17258
+D2
+~
+~
+0 -1 17260
+D3
+~
+~
+0 -1 17256
+S
+#17258
+In the Middle~
+You are now much closer to the front of the movie theater.  The movie
+has just started and you notice something odd.  The movie is only moving
+one frame every one or two seconds.  No, it can't be!  You move south
+to get a better look.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17255
+D2
+~
+~
+0 -1 17261
+D3
+~
+~
+0 -1 17257
+S
+#17259
+In the Middle~
+You are very close to the front of the movie theater.  When you try to ask
+someone what is wrong all you get is a loud SHHHHHH from the people in the
+theater.  You continue south in hopes of finding out what is wrong with the
+movie
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17256
+D1
+~
+~
+0 -1 17260
+D2
+~
+~
+0 -1 17262
+S
+#17260
+In the Middle~
+You are now very close to the front of the movie theater.  When you try
+to ask someone what is wrong with the movie, all you get is a resounding
+SHHHHHH!!! from the people in the theater.  You decide to go to the front
+of the theater in search of an answer.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17257
+D1
+~
+~
+0 -1 17261
+D2
+~
+~
+0 -1 17263
+D3
+~
+~
+0 -1 17259
+S
+#17261
+In the Middle~
+You are very close to the front of the movie theater.  When you ask
+someone what is wrong with the movie you get a resounding SHHHHHH
+from the rest of the people watching the movie.  You decide to go
+further south to find out what is wrong.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17258
+D2
+~
+~
+0 -1 17264
+D3
+~
+~
+0 -1 17260
+S
+#17262
+In the Front~
+You are now in the front of the movie theater.  You can not believe
+your eyes, the movie is only moving a frame every one or two seconds!
+Laaaaaaaaaaaaaaaaaag!!!!!!!  You decide that it is not worth it and
+leave to the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17259
+D1
+~
+~
+0 -1 17263
+S
+#17263
+In the Front~
+You have made your way to the front of the theater.  When you get here
+you still can not believe your eyes.  The movie is only moving a frame
+every one or two seconds.  Laaaaaaaaaaaaag!!!!!!!!! You get frustrated
+and decide to leave to the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17260
+D1
+~
+~
+0 -1 17264
+D3
+~
+~
+0 -1 17262
+S
+#17264
+In the Front~
+You are now at the front of the theater.  You rub your eyes and look at
+the screen again.  No, it can't be!!!! Laaaaaaaaaaaaag!!!!!!  You decide
+that it isn't even worth watching and leave to the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17261
+D3
+~
+~
+0 -1 17263
+S
+#17265
+The Great Lagini's~
+You have entered the shop of The Great Lagini.  It is an old shop with
+stone walls and a wooden roof.  Potions, scrolls, and wands line the
+walls on shelves.  A counter with a list on it sits in the middle of
+the room.
+~
+172 4232 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17212
+S
+#17266
+The Armory~
+You are in the shop cluttered with all sorts of armor.  Large stone
+shelves line the walls of the tiny shop.  You notice a large counter
+on the west side of the room with a small piece of paper on it.
+~
+172 4232 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 17216
+S
+#17267
+The Water Shop~
+You have entered a busy shop off of west spam boulevard.  The main
+food of this town is spam which is so darn salty that everyone comes
+here for a quick drink.  A piece of paper sits on a small red counter
+on the east side of the room.
+~
+172 4232 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 17217
+S
+#17268
+The Lobby of City Hall~
+You are now in the large lobby of The Land of Lag's city hall.
+The large ceiling has elaborate pictures of the founding of the city.
+The walls are a light green color to match the paintings.  The Mayor's
+office is to the east and the council's chamber is to the north.
+~
+172 12 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17270
+D1
+~
+door~
+1 -1 17269
+D2
+~
+~
+0 -1 17218
+S
+#17269
+The Mayor's office~
+You are now in Mayor Bob's office.  There is a large desk in the center of
+the room covered with thousands of papers.  You notice the pretty rose color
+of the ceiling and walls.  To the west is the loby of city hall.
+~
+172 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 17268
+S
+#17270
+The Council's Chamber~
+You are now in the chamber of the city council.  Several members sit at the
+large oak table.  Several of the large red chairs, however, remain empty.
+The meeting is about to come to order so they better hurry!
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17273
+D2
+~
+door~
+1 -1 17268
+D3
+~
+~
+0 -1 17271
+S
+#17271
+The Council's Chamber~
+The council meeting is about to begin.  Several late members rush through
+the door as the President's wooden gavel strikes the table.  All is silent
+as the president clears his throat to begin.
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17272
+D1
+~
+~
+0 -1 17270
+S
+#17272
+The Council's Chamber~
+You are now in the back of the council chamber.  To the north is a small
+window and an air conditioning unit.  You wait for the chamber to quiet
+down so the President can begin the meeting.
+~
+172 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17273
+D2
+~
+~
+0 -1 17271
+S
+#17273
+The Council's Chamber~
+The council is sitting and talking while the President of the council
+impatiently waits for them to quiet down.  Some are even staring out the
+small window to the north, wishing that they were somewhere else.
+~
+172 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 17270
+D3
+~
+~
+0 -1 17272
+S
+#17274
+The Entrance to the Police Station~
+You walk up a small set of stone stairs which lead up to the police
+station.  The police station is small and it has a small staff.  There is
+not much need for a police station since the crime rate here is so low.
+You enter the police station through a large set of black doors.
+~
+172 12 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17275
+D2
+~
+~
+0 -1 17219
+S
+#17275
+The Police Station~
+You have entered a room with solid white walls and bright lights.  To the
+east and west are prison cells in the event that there should actually be
+a crime.  To the north is the office of the chief of police
+~
+172 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 17278
+D1
+~
+door~
+1 17251 17277
+D2
+~
+~
+0 -1 17274
+D3
+~
+door~
+1 17251 17276
+S
+#17276
+A Holding Cell~
+You are now in a room with stone walls and cold iron bars for a door.
+This is where all of the prisoners are kept before they are taken away
+to a larger jail.  Since there are not that many crimes commited in the
+Land of Lag they usually just stay here.
+~
+172 8 0
+0d0+0 0 0
+D1
+~
+door~
+1 17251 17275
+S
+#17277
+A Holding Cell~
+You enter a room with stone walls and cold iron bars for a door.  The
+prisoners would be taken to a larger jail after being sentenced, but there
+is no need for that due to the low crime rate.
+~
+172 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 17251 17275
+S
+#17278
+The Chief's Office~
+The Chief's office is painted blue and has a large picture window on the
+north wall.  His hat rests on a small dresser on the west side of the room
+To the south is the main room of the police station.
+~
+172 8 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 17275
+S
+#17279
+The Pet Shop~
+The pet shop is new and just opened up recently.  There are hundreds of cages
+with animals in them lining the walls.  The pets, however, are kind of strange
+here.  They are not your usual cats, dogs, or even wolf, but they will serve
+you well.  A piece of paper rests on a small blue counter.
+~
+172 4232 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17219
+S
+#17280
+Room for pets to load~
+Hiya all,
+Just a place for the mobs in the pet shop to load =)
+~
+172 4104 0
+0d0+0 0 0
+S
+#17281
+Entrance To the Lag Guild~
+You must walk inbetween two giant marble pillars to enter the lagmaster's
+guild.  Two giant golden knights stand guard over the gate.  Only a true
+master of lag may pass.  Since you are here you are probably going to end
+up fighting them to get in. =)
+~
+172 6156 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17217
+D2
+~
+~
+0 -1 17282
+S
+#17282
+The Lagmaster's Guild~
+You have entered the main room of the lagmaster's guild.  It has large glass
+skylights and a huge arena in the center of it.  Here the lagmaster's fight
+and practice for their neverending battle against their evil foe LAG!!!!!
+To the south is the lagmaster's dining hall, to the east is the office of
+the grand lagmaster, and the entrance is to the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17281
+D1
+~
+~
+0 -1 17283
+D2
+~
+~
+0 -1 17285
+S
+#17283
+The Waiting Room of the Grand Lagmaster~
+The waiting room of the grand lagmaster has a small table with all sorts
+of magazines on it.  The walls are a plain brown color and the floor is
+made of wood.  The main room of the lagmaster's guild is to the west.
+~
+172 6152 0
+0d0+0 0 0
+D1
+~
+door~
+1 17226 17284
+D3
+~
+~
+0 -1 17282
+S
+#17284
+The Office of the Grand Lagmaster~
+You are now in a large office with blue walls and white trim.  You notice the
+pictures of the grand lag masters previous kills hanging on the wall.  You
+also notice the mess of papers and office supplies scattered all over his
+beautiful wooden desk.
+~
+172 6152 0
+0d0+0 0 0
+D3
+~
+door~
+1 17226 17283
+S
+#17285
+The Lagmaster's Dining Hall~
+This is the largest room in the guild.  Lagmasters can be seen in every
+direction eating, drinking and, in general, having a good time.  You
+notice the many beautiful waitresses wandering through the hall.  The
+exit to the hall is to the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17282
+D1
+~
+~
+0 -1 17286
+D2
+~
+~
+0 -1 17288
+S
+#17286
+The Lagmaster's Dining Hall~
+This is the largest room in the guild.  Lagmasters can be seen in every
+direction eating, drinking and, in general, having a good time.  You
+notice the many beautiful waitresses wandering through the hall.  The
+exit to the hall is to the west and north.
+~
+172 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 17287
+D2
+~
+~
+0 -1 17289
+D3
+~
+~
+0 -1 17285
+S
+#17287
+The Lagmaster's Dining Hall~
+This is the largest room in the guild.  Lagmasters can be seen in every
+direction eating, drinking and, in general, having a good time.  You
+notice the many beautiful waitresses wandering through the hall.  The
+exit to the hall is to the west and north.
+~
+172 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 17290
+D3
+~
+~
+0 -1 17286
+S
+#17288
+The Lagmaster's Dining Hall~
+This is the largest room in the guild.  Lagmasters can be seen in every
+direction eating, drinking and, in general, having a good time.  You
+notice the many beautiful waitresses wandering through the hall.  The
+exit to the hall is to the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17285
+D1
+~
+~
+0 -1 17289
+D2
+~
+~
+0 -1 17291
+S
+#17289
+The Lagmaster's Dining Hall~
+This is the largest room in the guild.  Lagmasters can be seen in every
+direction eating, drinking and, in general, having a good time.  You
+notice the many beautiful waitresses wandering through the hall.  The
+exit to the hall is to the west and north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17286
+D1
+~
+~
+0 -1 17290
+D2
+~
+~
+0 -1 17292
+D3
+~
+~
+0 -1 17288
+S
+#17290
+The Lagmaster's Dining Hall~
+This is the largest room in the guild.  Lagmasters can be seen in every
+direction eating, drinking and, in general, having a good time.  You
+notice the many beautiful waitresses wandering through the hall.  The
+exit to the hall is to the west and north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17287
+D2
+~
+~
+0 -1 17293
+D3
+~
+~
+0 -1 17289
+S
+#17291
+The Lagmaster's Dining Hall~
+This is the largest room in the guild.  Lagmasters can be seen in every
+direction eating, drinking and, in general, having a good time.  You
+notice the many beautiful waitresses wandering through the hall.  The
+exit to the hall is to the north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17288
+D1
+~
+~
+0 -1 17292
+S
+#17292
+The Lagmaster's Dining Hall~
+This is the largest room in the guild.  Lagmasters can be seen in every
+direction eating, drinking and, in general, having a good time.  You
+notice the many beautiful waitresses wandering through the hall.  The
+exit to the hall is to the west and north.
+~
+172 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17289
+D1
+~
+~
+0 -1 17293
+D3
+~
+~
+0 -1 17291
+S
+#17293
+The Lagmaster's Dining Hall~
+This is the largest room in the guild.  Lagmasters can be seen in every
+direction eating, drinking and, in general, having a good time.  You
+notice the many beautiful waitresses wandering through the hall.  The
+exit to the hall is to the west and north.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17290
+D3
+~
+~
+0 -1 17292
+S
+#17294
+Lagmart~
+You have entered a tiny grocery store.  You better hurry because there is a
+special on rost spam this week.  The shelves of the store are full of all
+sorts of interesting stuff.  A small list sits on the yellow counter.
+~
+172 4232 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17216
+S
+#17295
+The Arcade~
+The arcade is full of kids playing their favorite games.  The movie
+theater, however has not updated it's video games since the late 80's.
+All sorts of bleeps and other noises can be heard.  The Lobby is to the
+east.
+~
+172 6152 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 17238
+D2
+~
+~
+0 -1 17296
+S
+#17296
+The Arcade~
+You have moved farther back into the arcade.  The cheers of children as they
+play with the once great video games can be heard from every direction.  The
+Lobby is to the north of here.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17295
+D2
+~
+~
+0 -1 17297
+S
+#17297
+The Arcade~
+You are almost at the back of the arcade now.  Children are running
+all around in search of more quarters to continue playing.  Just south
+of here is the very back of the arcade, and the lobby is north and east.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17296
+D2
+~
+~
+0 -1 17298
+S
+#17298
+The Arcade~
+You are now in the back of the arcade.  You can hear the children running all
+throught the arcade.  If you head to the north and then east you will come
+to the lobby.
+~
+172 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 17297
+S
+#17299
+The Complaint Department~
+You have entered the City of Lag's complaint department.  This is where
+the people of the city go to register complaints about anything from taxes
+to litter.  Unfortunately,  This is probably going to do no good since
+everyone reacts so slowly.
+~
+172 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 17201
+S
+$

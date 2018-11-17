@@ -1,0 +1,352 @@
+#1700
+key~
+a special key~
+A special key is here.~
+~
+18 4 16385 0
+0 0 0
+1700 0 0 0
+1 0 0
+#1701
+hauberk chain mail guard~
+a guard's chain mail hauberk~
+A chain mail hauberk lies on the floor.~
+~
+9 0 9 0
+0 0 0
+5 0 0 0
+60 2000 500
+#1702
+sword long~
+a long sword~
+A long sword has been left here.~
+~
+5 8400896 8193 0
+0 0 0
+0 1 8 3
+8 600 0
+#1703
+helm enchanted steel~
+an enchanted steel helm~
+A steel helm has been left here.~
+~
+9 0 17 0
+0 0 0
+5 0 0 0
+6 3000 0
+A
+17 1
+A
+5 1
+#1704
+leggings enchanted chainmail~
+enchanted chainmail leggings~
+A glowing pair of chainmail leggings has been left here.~
+~
+9 8400960 33 0
+0 0 0
+8 0 0 0
+0 0 0
+A
+18 1
+A
+17 2
+#1705
+demon demonic amulet~
+a demonic amulet~
+A demonic amulet is here.~
+~
+11 0 5 0
+0 0 0
+0 0 0 0
+0 0 0
+#1706
+iron key large~
+a large iron key~
+A large iron key is here.~
+~
+18 0 1 0
+0 0 0
+1706 0 0 0
+1 1 0
+E
+key large iron~
+This looks like the key to a large gate.
+~
+#1707
+rune blade sword runeblade runesword~
+a runeblade~
+A large black sword covered in blood-red runes is on the ground here.~
+~
+5 8796736 8193 0
+0 0 0
+0 6 4 3
+18 100000 0
+A
+18 3
+A
+17 3
+#1708
+jackboots boots jack steel leather combat~
+steel plated jackboots~
+A pair of leather combat boots are on the ground here.~
+~
+9 8532544 65 0
+0 0 0
+4 0 0 0
+8 25000 0
+A
+18 2
+A
+12 25
+#1709
+blood stone bloodstone pendant~
+a bloodstone pendant~
+A small pendant with a blood-red stone in the center is lying here.~
+~
+11 966720 5 0
+0 0 0
+0 0 0 0
+1 50000 0
+A
+13 3
+A
+10 30
+#1710
+eternal dagger night black steel runes~
+the dagger of eternal night~
+You see a black steel dagger covered in silvery runes.~
+~
+5 8534080 8193 0
+0 0 0
+0 5 5 11
+2 150000 0
+A
+17 5
+A
+18 5
+#1711
+orb chaos sphere shimmering~
+the orb of chaos~
+A shimmering multi-coloured sphere hovers in mid-air here.~
+~
+1 8400960 16385 0
+0 0 0
+0 0 -1 0
+4 200000 0
+A
+18 2
+A
+17 2
+#1712
+mace ebon onyx obsidian silver~
+a mace of obsidian and onyx etched with silver runes~
+An ebon mace, made of onyx and obsidian, lies here.~
+~
+5 409600 8193 0
+0 0 0
+0 9 3 6
+16 10000000 0
+A
+10 30
+A
+13 5
+#1713
+armor ebon flame~
+a suit of ebon armor~
+A suit of armor belonging to the Order of the Ebon Flame has been left here.~
+~
+9 8663040 9 0
+0 0 0
+16 0 0 0
+100 1000000 100000
+A
+2 2
+A
+5 2
+#1714
+black cloak silver rune runes~
+a long black cloak covered in silver runes~
+A runed cloak has been left here.~
+~
+9 8532480 1025 0
+0 0 0
+8 0 0 0
+4 300000 50000
+A
+18 2
+A
+2 1
+#1718
+deathstone death stone~
+the Deathstone~
+A large pulsing chunk of black stone.~
+~
+3 160 16385 0
+0 0 0
+99 0 0 27
+2 100000 0
+A
+18 5
+A
+16 100
+#1720
+key iron small~
+a small iron key~
+A small iron key has been left here.~
+~
+18 4 16385 0
+0 0 0
+1720 0 0 0
+1 1 0
+#1721
+chest~
+a small chest~
+A small chest lies here.~
+~
+15 0 1 0
+0 0 0
+50 3 1720 0
+100 1 0
+#1722
+flamer flame thrower~
+a flamer~
+A large flame-thower lies here.~
+~
+3 0 16385 0
+0 0 0
+50 99 99 27
+1 1010 15
+#1723
+demon demonic amulet~
+a demonic amulet~
+A demonic amulet is here.~
+~
+9 8400896 5 0
+0 0 0
+8 0 0 0
+2 100000 0
+A
+17 3
+A
+18 3
+#1724
+flamer flame thrower~
+a flamer~
+A large flame-thower lies here.~
+~
+3 0 16387 0
+0 0 0
+50 99 99 27
+1 0 0
+#1750
+scroll teleport~
+a teleport scroll~
+A small scroll lies here.~
+~
+2 0 16385 0
+0 0 0
+50 0 0 2
+1 0 0
+#1751
+trenchcoat long black army surplus~
+long black trenchcoat~
+An army surplus all-weather trenchcoat is hanging on a peg.~
+~
+11 0 1025 0
+0 0 0
+0 0 0 0
+1 0 0
+#1752
+faded pair levi jeans~
+a faded pair of Levi's~
+A faded yet comfortable pair of Levi 501's have been left here.~
+~
+11 0 33 0
+0 0 0
+0 0 0 0
+1 0 0
+#1753
+converse shoes pair hitops~
+a pair of Converse hi-tops~
+A pair of black Chuck T's have been left here.~
+~
+11 0 65 0
+0 0 0
+0 0 0 0
+2 0 0
+#1754
+shirt t-shirt black ~
+black t-shirt~
+A black t-shirt lies here. It used to be a concert shirt, but it is very faded.~
+~
+11 0 9 0
+0 0 0
+0 0 0 0
+1 0 0
+#1755
+leather belt~
+leather belt~
+A plain leather belt.~
+~
+11 0 2049 0
+0 0 0
+0 0 0 0
+1 0 0
+#1756
+pineapple juice~
+a glass of pineapple juice~
+A small glass of pineapple juice is here.~
+~
+17 0 4097 0
+0 0 0
+20 20 6 0
+25 0 0
+#1757
+karma gun~
+a Karma Gun~
+A deadly, always lethal Karma Gun has been foolishly left here.~
+zap~
+5 0 8193 0
+0 0 0
+100 5 5 5
+12 0 0
+#1760
+dragonlance dragon lance gilthanas~
+Gilthanas's DragonLance~
+A mighty DragonLance lies on the ground.  It has the name 'Gilthanas' etched
+in silvery runes on the shaft of the lance.~
+~
+5 3393 24577 0
+0 0 0
+0 0 0 11
+3 10000000 1000000
+#1761
+helm helmet paladine~
+Helm of the Order of Paladine~
+You see a bright shiny helm lying here.~
+~
+9 3392 17 0
+0 0 0
+0 0 0 0
+1 1000000 0
+#1762
+solamnic armor knights rose~
+Solamnic Armor of the Knights of the Rose~
+Some battered armor lies here.  It has seen many great battles.~
+~
+9 3392 9 0
+0 0 0
+0 0 0 0
+5 1000000 0
+#1763
+amulet ankh necklace~
+a holy Ankh necklace~
+A silver ankh on a golden chain lies here.  It belongs to the elven mage,
+Gilthanas, who would not brook its theft lightly.~
+~
+1 323 16389 0
+0 0 0
+0 0 -1 0
+1 10000000 0
+$

@@ -1,0 +1,797 @@
+#24800
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that Arnold Schwarzenegger? All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24801
+D2
+~
+~
+0 -1 12793
+S
+#24801
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24820
+D2
+~
+~
+0 -1 24800
+S
+#24802
+Inside the Studio~
+You are standing on a long road inside the studios. Ahead of you you can see
+all of the sound stages where the magic of movies is made. Maybe you'll even
+get to see some stars! Whee!
+~
+248 2048 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24804
+D2
+~
+gate gates~
+2 24800 24803
+S
+#24803
+In Front of the Gates~
+You see two gigantic wrought-iron gates looming in front of you. Guarding it
+is some big, fat, ugly, slob munching on a dozen donuts and drinking a big
+cup of coffee. On his sleeve you see a patch that says "Rent-A-Copper".
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+gates~
+2 24800 24802
+D2
+~
+~
+0 -1 24830
+S
+#24804
+Inside the Studio~
+You are standing in the heart of the studio. To your left and right you can
+see sound stages with red lights blinking above the doors. You remember from
+your trips to Universal Studios that these lights mean a "hot" stage.
+~
+248 2048 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24805
+D1
+~
+~
+0 -1 24812
+D2
+~
+~
+0 -1 24802
+D3
+~
+~
+0 -1 24811
+S
+#24805
+Inside the Studio~
+You are standing in the heart of the studio. To your left and right you can
+see sound stages with red lights blinking above the doors. You remember from
+your trips to Universal Studios that these lights mean a "hot" stage.
+~
+248 2048 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24806
+D1
+~
+~
+0 -1 24814
+D2
+~
+~
+0 -1 24804
+D3
+~
+~
+0 -1 24813
+S
+#24806
+Inside the Studio~
+You are standing in the heart of the studio. To your left and right you can
+see sound stages with red lights blinking above the doors. You remember from
+your trips to Universal Studios that these lights mean a "hot" stage.
+~
+248 2048 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24807
+D1
+~
+~
+0 -1 24816
+D2
+~
+~
+0 -1 24805
+D3
+~
+~
+0 -1 24815
+S
+#24807
+Inside the Studio~
+You are standing in the heart of the studio. To your left and right you can
+see sound stages with red lights blinking above the doors. You remember from
+your trips to Universal Studios that these lights mean a "hot" stage.
+~
+248 2048 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24808
+D1
+~
+~
+0 -1 24818
+D2
+~
+~
+0 -1 24806
+D3
+~
+~
+0 -1 24817
+S
+#24808
+Inside the Studio~
+You are standing in the heart of the studio. To your left and right you can
+see sound stages with red lights blinking above the doors. You remember from
+your trips to Universal Studios that these lights mean a "hot" stage.
+~
+248 2048 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24819
+D2
+~
+~
+0 -1 24807
+D6
+~
+door~
+1 -1 24809
+S
+#24809
+The Janitor's Closet~
+You are standing in a small janitor's closet filled with sponges and brooms
+and a garbage can filled with garbage.
+~
+248 131081 11
+0d0+0 0 0
+D9
+~
+door~
+1 -1 24808
+S
+#24810
+Inside the Studio~
+You are standing in the heart of the studio. To your left and right you can
+see sound stages with red lights blinking above the doors. You remember from
+your trips to Universal Studios that these lights mean a "hot" stage.
+~
+248 2048 11
+0d0+0 0 0
+S
+#24811
+Studio 1A~
+You are standing in a gigantic studio with many different sets placed around
+the room.  In one area you see what looks like and old apartment.  In another
+you see what seems to be a professional boxing ring.  Then you realize, 
+you're on the set from the Rocky movies!
+~
+248 2056 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24804
+S
+#24812
+Studio 1B~
+You are standing in the cavernous Studio 1B. There are snakes all over the
+place! You hear someone exclain 'Snakes...why'd it have to be snakes?'. Hey!
+That's Harrison Ford!
+~
+248 2056 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 24804
+S
+#24813
+Studio 2A~
+As you look around this studio you notice there are hundreds of long-haired
+male barbarians running around killing each other. One face stands out from
+the others...you feel as if you've seen him somewhere before...
+~
+248 2056 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24805
+S
+#24814
+Studio 2B~
+As you look around this stage you see blood and gore all over the place. You
+notice in the center of the room there is a large cage with a man inside of it.
+upon closer inspection you see that the man is none other than Anthony Hopkins!
+~
+248 2057 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 24805
+S
+#24815
+Studio 3A~
+It looks like they are shooting a comericial in this studio. There is a big
+muscle-bound man here that is in it. It seems to be for shoes and that guy
+seems to be VERY protective of the shoes.
+~
+248 2056 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24806
+S
+#24816
+Studio 3B~
+In this studio you see swashbuckling pirates, little lost boys, and yes, even
+Tinkerbell! Off in the corner stands Captain Hook (as played by Dustin Hoffman)
+dueling with Peter Pan (Robin Williams).
+~
+248 2056 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 24806
+S
+#24817
+Studio 4A~
+You are standing on a street in New York. It is rather busy and you see people
+getting mugged all over the place. You also see a lot of people with black suits
+and gold chains. I wonder who they are??? Duh! There are a whole bunch of them
+that look like they are protecting some old guy near them.
+~
+248 2056 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24807
+S
+#24818
+Studio 4B~
+You are on a set that is inside the building. There are lots of weird gagdets
+and things laying around. You seem some guys eating some food at a table in
+the corner and then you here a bell ring. They all jump up and run off. This
+looks like something you've seen before. I know! it's the Ghost Busters!
+~
+248 2056 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 24807
+S
+#24819
+The Last Studio~
+On this set you are standing in the middle of the desert. In front of you is
+some actor. He is wearing a fighter piliot outfit and has his parachute open
+and is dragging something big in it. That thing smells! The actor yells at the
+thing and then kicks it.
+~
+248 2056 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 24831
+D2
+~
+~
+0 -1 24808
+S
+#24820
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24821
+D2
+~
+~
+0 -1 24801
+S
+#24821
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24822
+D2
+~
+~
+0 -1 24820
+S
+#24822
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24823
+D2
+~
+~
+0 -1 24821
+S
+#24823
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24824
+D2
+~
+~
+0 -1 24822
+S
+#24824
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24825
+D2
+~
+~
+0 -1 24823
+S
+#24825
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24830
+D2
+~
+~
+0 -1 24824
+S
+#24826
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24827
+D2
+~
+~
+0 -1 24825
+S
+#24827
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24828
+D2
+~
+~
+0 -1 24826
+S
+#24828
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24829
+D2
+~
+~
+0 -1 24827
+S
+#24829
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24830
+D2
+~
+~
+0 -1 24828
+S
+#24830
+A Street in Hollywood~
+You are walking down one of the streets in Hollywood. Boy, is it crowded!
+Hey! Isn't that... oh never mind. All the way down the street you see
+the gates to a HUGE studio. Lots of people are heading there. You see some
+real big stars and some people hoping to become stars heading in.
+~
+248 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 24803
+D2
+~
+~
+0 -1 24825
+S
+#24831
+Back Parking Lot~
+You are standing in a wide open parking lot behind the studio. There are tons
+of fancy cars here and some stars hanging out by there cars. You try to act cool
+when you see all the stars. You see a valet standing here with a grin on his
+face. He must love getting to park those cars.
+~
+248 2048 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24834
+D1
+~
+~
+0 -1 24832
+D2
+~
+door~
+1 -1 24819
+S
+#24832
+Back Parking Lot~
+You are standing in a wide open parking lot behind the studio. There are tons
+of fancy cars here and some stars hanging out by there cars. You try to act cool
+when you see all the stars. You see a valet standing here with a grin on his
+face. He must love getting to park those cars.
+~
+248 2048 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24833
+D3
+~
+~
+0 -1 24831
+S
+#24833
+Back Parking Lot~
+You are standing in a wide open parking lot behind the studio. There are tons
+of fancy cars here and some stars hanging out by there cars. You try to act cool
+when you see all the stars. You see a valet standing here with a grin on his
+face. He must love getting to park those cars.
+~
+248 2048 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 24832
+D3
+~
+~
+0 -1 24834
+S
+#24834
+Back Parking Lot~
+You are standing in a wide open parking lot behind the studio. There are tons
+of fancy cars here and some stars hanging out by there cars. You try to act cool
+when you see all the stars. You see a valet standing here with a grin on his
+face. He must love getting to park those cars.
+~
+248 2048 0
+0d0+0 0 0
+D0
+~
+car door~
+2 24812 24835
+D1
+~
+~
+0 -1 24833
+D2
+~
+~
+0 -1 24831
+S
+#24835
+Inside the Car~
+You jump into the back seat of the car as it speeds off to who knows where...
+~
+248 2048 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 24836
+S
+#24836
+Entrance to the Playboy Mansion~
+You are standing at the entrance of Hugh Hefner's Playboy Mansion. You see
+armed guards standing inside the 20 foot tall barbed wire lined fences. You
+can hear the sounds of a party going on inside.
+~
+248 0 0
+0d0+0 0 0
+D0
+The Gates to the Playboy Mansion
+~
+gate~
+2 24815 24837
+S
+#24837
+Inside the Gate~
+You look around and see nicely manicured lawns, perfectly trimmed bushes,
+flowers, trees, and a HUGE mansion. There's also about a dozen brawny looking
+guys here with sub-machine guns. Don't piss them off! These guys are the
+elite Playboy Police.
+~
+248 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24838
+D2
+~
+gate~
+2 24815 24836
+S
+#24838
+Inside Playboy Mansion~
+You are inside the largest mansion you've ever seen. Everywhere you look are
+drop dead gorgeous girls wearing skimpy little bikinis. If you go north you'll
+end up outside by the pool, go upstairs...well, figure it out...
+~
+248 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24839
+D2
+~
+~
+0 -1 24837
+D4
+~
+~
+0 -1 24842
+S
+#24839
+Behind Playboy Mansion~
+You are standing out behind the Mansion. In front of you is a pool, with more
+hot women swimming around. Lining the sides of the pool are beach chairs with
+even more women in them.
+~
+248 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24840
+D2
+~
+~
+0 -1 24838
+S
+#24840
+In the Pool~
+You are swimming in the deep beautiful pool behind the huge Playbody Mansion.
+They must be having one of their parties right now because there are not only 
+hot girls. There is lots of music and lots other people other then Playboy
+models. Actually you even see some actors and acrtesses here swimming and you
+saw some inside dancing and conversing.
+~
+248 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 24839
+D5
+~
+~
+0 -1 24841
+S
+#24841
+Under Water~
+You dive under water but with all these people here you can't find any room
+to swim up through. You are running short of breath.
+You have less......
+
+And less.......
+
+And less.....
+
+Then none.....
+~
+248 16386 0
+1d1+199 90 0
+D5
+~
+~
+0 -1 3001
+S
+#24842
+The Stairs~
+You are walking up a huge case of stars as you walk by beautiful girls and men
+following behind them practically slobbering on them. You continue up the 
+twisted staircase and start to ask yourself 'How long is this stair case?'.
+~
+248 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 24843
+D5
+~
+~
+0 -1 24838
+S
+#24843
+The Stairs~
+You are walking up a huge case of stars as you walk by beautiful girls and men
+following behind them practically slobbering on them. You continue up the 
+twisted staircase and start to ask yourself 'How long is this stair case?'.
+~
+248 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 24842
+D2
+~
+~
+0 -1 24844
+S
+#24844
+The Stairs~
+You are walking up a huge case of stars as you walk by beautiful girls and men
+following behind them practically slobbering on them. You continue up the 
+twisted staircase and start to ask yourself 'How long is this stair case?'.
+~
+248 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 24843
+S
+#24845
+The Stairs~
+You are walking up a huge case of stars as you walk by beautiful girls and men
+following behind them practically slobbering on them. You continue up the 
+twisted staircase and start to ask yourself 'How long is this stair case?'.
+~
+248 0 0
+0d0+0 0 0
+S
+#24933
+~
+~
+248 0 0
+0d0+0 0 0
+S
+$

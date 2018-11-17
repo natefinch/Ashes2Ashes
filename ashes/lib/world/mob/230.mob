@@ -1,0 +1,596 @@
+#23000
+rat giant rodent~
+the giant rat~
+A giant rat wanders nearby looking for food.
+~
+This beast is nearly three feet in length, and two feet tall. The rat
+probably wieghs on the order of three hundred pounds or so. It smells like
+sewage, and rotting flesh. When it sees you staring it begins to hiss.~
+8 0 -1000 W
+10 0 0 20d9+0 2d9+10
+1000 15000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#23001
+vamp vampire bat~
+the vampire bat~
+A vampire bat flies around the room looking for its next meal.
+~
+This is one of the largest bats you have ever seen. Its wingspan is nearly
+three feet. The fangs on this beast are nearly two inches long. When it sees
+you it begins to shriek, and attack.~
+8 0 -1000 W
+14 10 -5 10d9+0 2d9+10
+1000 15000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-50 0 4 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#23002
+slime~
+a slime~
+A green slime oozes towards you.
+~
+This is a small blob about the size of a basket ball. It doesn't look very
+threatening. However you are unsure if a weapon will harm it. When it sees you
+it oozes faster towrds you.~
+8200 0 -1000 W
+27 10 -50 20d9+10 2d9+12
+1000 20000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-500 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#23003
+spirit~
+a spirit~
+A spirit floats here mourning its mortal life.
+~
+Part life, part death, this ethereal form moans loadly as you pass. Part fog,
+part energy, this lifeform is nearly impervious to mortal weapons. When it
+sees you, it shrieks, and attacks!
+~
+270376 786432 -1000 W
+29 15 -50 20d9+10 2d9+14
+1000 25000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-500 0 2 0 0
+25 25 25 25 25
+16 0 0
+6 10
+#23004
+ghost~
+a ghost~
+A ghost floats here looking for a victim.
+~
+Part life, part death, this ethereal form moans loadly as you pass. Part fog,
+part energy, this lifeform is nearly impervious to mortal weapons. When it
+sees you, it shrieks, and attacks!
+~
+270376 786432 -1000 W
+57 15 -50 50d9+10 2d9+14
+1000 35000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-500 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 10
+#23005
+wraith~
+a wraith~
+A wraith floats here contemplating taking your soul.
+~
+Part life, part death, this ethereal form moans loadly as you pass. Part fog,
+part energy, this lifeform is nearly impervious to mortal weapons. When it
+sees you, it shrieks, and attacks!
+~
+262184 786432 -1000 W
+80 15 -50 20d9+900 2d9+14
+1000 45000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-500 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 10
+#23006
+orc green~
+the orc~
+A short green orc growls menacingly at you.
+~
+This short burly fellow stands about five feet tall, and two feet wide. He
+shakes a rock at you and growls... GRRRRRRRR Maybe you should run away...
+or you could kill him.~
+8 16777216 -1000 W
+16 18 0 10d9+200 3d9+11
+2000 30000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 0
+#23007
+kobold short brown~
+the kobold~
+A short brown skinned kobold searches through the dirt for gems.
+~
+When you look at him you notice that he is slightly cleaner than the rest of
+the inhabitants of this lair. His clothes are not full of the usual holes, 
+or covered with the usual  dirt, and grime. When he notices you he mumbles
+to himself, and continues with his work.~
+8 0 -1000 W
+26 18 0 10d9+250 3d9+13
+2000 30000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+0 0 6 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#23008
+razor wyrm red~
+the razor wyrm~
+A small red razor wyrm crawls here in the dirt.
+~
+As you look at this beast, you notice that it is staring right back at you.
+What appear to be merely dark spots on its foreheads, are in fact eyes. Although
+it is inly a foot long, its razor covered body appears to be capable of dealing
+considerable damage if threatened.
+~
+10 17563688 -1000 W
+71 50 10 5d9+1200 10d9+50
+1000 25000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#23009
+salamander mander fire flame red~
+the salamander~
+A firey red salamander crawls in the dirt before you.
+~
+The salamander is about a foot and a half long. It is covered from head to tail
+by bright orange spots. The rest of its body is solid red. When it sees you it
+turns, and begins to crawl away.
+~
+11 40 0 W
+20 7 10 18d18+257 2d2+1
+1 5000
+8 8 1
+13 0 13 13 13 13 0
+12 5 0
+100 0 2 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#23010
+golem clay~
+a clay golem~
+A clay golem stands here guarding the dungeon.
+~
+The golem towers over you. He is the product of archane sorcery. Given life
+from the heart of a dragon, and the words of a master necromancer, his will
+is the will of his creator.
+~
+10 0 0 W
+26 10 0 20d9+800 5d9+25
+2000 35000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#23011
+iron golem~
+an iron golem~
+An iron golem stands here guarding the dungeon.
+~
+The golem towers over you. He is the product of archane sorcery. Given life
+from the heart of a dragon, and the words of a master necromancer, his will
+is the will of his creator.
+~
+10 0 0 W
+38 20 -10 20d9+1000 5d9+25
+2000 40000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#23012
+steel golem~
+a steel golem~
+A steel golem stands here guarding the dungeon.
+~
+The golem towers over you. He is the product of archane sorcery. Given life
+from the heart of a dragon, and the words of a master necromancer, his will
+is the will of his creator.
+~
+10 0 0 W
+55 40 -20 20d9+1200 5d9+25
+2000 45000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-200 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#23013
+titanium steel golem~
+a titanium steel golem~
+A titanium steel golem stands here guarding the dungeon.
+~
+The golem towers over you. He is the product of archane sorcery. Given life
+from the heart of a dragon, and the words of a master necromancer, his will
+is the will of his creator.
+~
+10 0 0 W
+48 60 -30 20d9+1300 5d9+25
+3000 65000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-300 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#23014
+pit monster~
+a pit monster~
+The floor quivers as you step on it.
+~
+The floor is disclolored, and moves slightly every few seconds... Strange.
+~
+8238 32 -1000 W
+15 15 10 5d9+75 2d9+10
+10000 32000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+100 0 4 0 0
+60 60 60 60 60
+0 0 0
+6 10
+#23015
+fire drake red~
+the fire drake~
+A Great Red Fire Drake sits here guarding its lair.
+~
+This beast is nearly twenty feet long, and ten feet tall. It's scaley skin
+is covered with tiny barbs, and spikes. When it sees you it rears its head
+back, and belows.
+~
+264235 16778408 -1000 W
+85 40 -10 20d9+1400 5d9+25
+50000 60000
+8 8 1
+18 100 13 13 13 13 0
+12 5 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#23016
+air drake blue~
+the air drake~
+A Great Blue Air Drake rests here guarding his hoard.
+~
+This beast is nearly twenty feet long, and ten feet tall. It's scaley skin
+is covered with tiny barbs, and spikes. When it sees you it rears its head
+back, and belows.
+~
+264235 16778408 -1000 W
+98 40 -10 20d9+1400 5d9+25
+50000 60000
+8 8 1
+18 100 13 13 13 13 0
+16 5 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#23017
+frost drake white~
+the frost drake~
+A Great White Frost Drake peers icily at you across his hoard.
+~
+This beast is nearly twenty feet long, and ten feet tall. It's scaley skin
+is covered with tiny barbs, and spikes. When it sees you it rears its head
+back, and belows.
+~
+264235 16778408 -1000 W
+98 40 -10 20d9+1400 5d9+25
+50000 60000
+8 8 1
+18 100 13 13 13 13 0
+14 5 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#23018
+great drake horned~
+the great horned drake~
+The Great Horned Drake lurches forward, and attacks you!
+~
+This beast is nearly twenty feet long, and ten feet tall. It's scaley skin
+is covered with tiny barbs, and spikes. When it sees you it rears its head
+back, and belows.
+~
+264235 16778408 -1000 W
+70 40 -10 20d9+1900 10d9+50
+50000 70000
+8 8 1
+18 100 13 13 13 13 0
+20 5 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#23019
+skeleton warrior~
+the skeleton warrior~
+A skeleton warrior wanders aimlessly about the room.
+~
+This is the dead remains of a warrior. Animated by some powerful sorcery,
+he is now devoid of purpose, or feeling. He now serves a hidden master.
+~
+9 16777216 0 W
+34 20 0 20d9+300 3d9+15
+4000 35000
+8 8 1
+13 0 13 13 13 13 0
+20 5 0
+0 0 6 0 0
+15 15 15 15 15
+0 0 0
+6 0
+#23020
+zombie undead body~
+the zombie~
+A zombie wanders around the room without purpose.
+~
+Once a living person, this animated for now wanders around with out purpose,
+or life. He does not even react when he sees you, he simply continues to stumble
+around the room.
+~
+8 0 0 W
+20 15 -1 20d9+200 3d9+13
+4000 30000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-10 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#23021
+zombie master undead body~
+the zombie master~
+The zombie master looks at you, and screams for his minions to attack!
+~
+Once a living person, this animated for now wanders around with out purpose,
+or life. He does not even react when he sees you, he simply continues to stumble
+around the room.
+~
+42 16777344 0 W
+72 15 -1 20d9+900 5d9+25
+4000 70000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-10 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#23022
+troll green brown~
+the troll~
+A green and brown troll glares evily at you.
+~
+A behemoth of a creature, the troll stands over twelve feet tall, and four feet
+wide. He growls menecingly at you when you stare at him, and begins to snarl.
+~
+264201 16777216 -1000 W
+41 22 -3 5d9+400 3d9+20
+4000 40000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-30 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#23023
+dragon red fire~
+the red fire dragon~
+A red fire dragon calmly watches you from across the room.
+~
+This huge winged lizard is a crimson red. Huge puffs smoke pour from his
+nostrils. His eyes burn with fire that lights up the room. When he sees you
+he hisses, and then sit back calmly and watches.
+~
+264203 16777344 2 W
+124 46 -10 20d100+4000 5d9+25
+200000 90000
+8 8 1
+18 100 13 13 13 13 0
+12 5 4
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#23024
+dragon great horned~
+the great horned dragon~
+A great horned dragon peers at you through the smoke.
+~
+This huge winged lizard is a crimson red. Huge puffs smoke pour from his
+nostrils. His eyes burn with fire that lights up the room. When he sees you
+he hisses, and then sit back calmly and watches.
+~
+264203 16777344 2 W
+117 46 -10 20d100+7000 5d9+25
+200000 90000
+8 8 1
+18 100 13 13 13 13 0
+20 5 4
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#23025
+wall souls scream screams~
+the wall of souls~
+The wall pulses and moves when you aproach it.
+~
+The wall screams from within. It moves, and pulses when you walk closer.
+~
+262154 0 -1000 W
+72 44 -30 20d100+5000 10d9+50
+30000 70000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-300 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#23026
+elemental fire demon~
+the fire elemental~
+A demon engulfed in flames rushes to attack you!
+~
+A beast of flames dances before you. The heat is intense enough to kill most
+adventurers. When it notices you it screams a battle cry, and lurches forward
+to attack.
+~
+264233 16777384 -1000 W
+127 48 -30 20d100+5000 10d9+20
+3000 90000
+8 8 0
+13 0 13 13 13 13 0
+12 5 0
+-300 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#23027
+plasma plasmite light lite xion~
+Xion~
+Xion, the plasmite, floats in mid-air humming.
+~
+A fearsom beast, the plasmite warrior, Xion, is a single piercing light floating
+a few feet off the ground. The heat emenating from the light is nearly unbearable.
+A booming voice says Turn back mere mortal, or may whatever God you believe in
+have mercy upon your soul.
+~
+264207 1192 0 W
+127 100 -25 5d6+500 34d30+100
+100000 200000
+8 8 1
+18 100 13 13 13 13 0
+15 0 0
+-250 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#23028
+lich skeleton sorcerer wizard man demon~
+the lich~
+The Lich screams a greating battle cry and attacks you!
+~
+This demon is the product of arcane sorcery, and necromancy. Given the soul of
+the living, and the body of the dead, the lich is one of the most fearsom of all
+oponants.
+~
+2218 16778408 -1000 W
+127 50 -10 20d100+9000 5d9+25
+200000 127000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#23029
+great wyrm green~
+the great wyrm~
+A huge wyrm attacks as you enter his lair.
+~
+As you look at this beast, you notice that it is staring right back at you.
+What appear to be merely dark spots on its forehead, are in fact eyes. This
+beast is nearly twenty feet long, and looks quite fearsome.~
+10 17563688 -1000 W
+114 100 -10 50d9+750 20d9+100
+20000 130000
+8 8 1
+18 100 13 13 13 13 0
+0 5 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#23038
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#23099
+wraith~
+a wraith~
+A wraith floats here contemplating taking your soul.
+~
+Part life, part death, this ethereal form moans loadly as you pass. Part fog,
+part energy, this lifeform is nearly impervious to mortal weapons. When it
+sees you, it shrieks, and attacks!
+~
+262186 786432 -1000 W
+80 15 -50 20d9+900 2d9+14
+1000 45000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-500 0 6 0 0
+10 10 10 10 10
+16 0 0
+6 10
+$

@@ -1,0 +1,1059 @@
+#15800
+ranger forest police policeman authority ~
+a forest ranger~
+A forest ranger is here, checking on all visitors to the forest.
+~
+The ranger is a big man and he looks tough to hurt.  He wears a
+clean blue uniform with a ranger's hat.  His tall, black boots
+give him an appearance that he's a strict man, one who follows
+order and is intolerant to rule-breakers.
+~
+286794 136 1000 W3
+200 40 -100 10d10+30000 2d1+0
+0 100000
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+-1000 0 0 0 200 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#15801
+bear grizzly ~
+a bear~
+A large, brown bear is here looking for some wild berries.
+~
+There's nothing special about this bear.  All throughout the
+forest, these brown bears roam around here searching for food.  It
+doesn't look hostile nor does it look like a ferocious meat-
+eater.  This bear weighs about a ton and when it's threatened it
+will fight back.
+~
+8 0 0 W3
+4 2 6 1d1+90 1d4+0
+0 6000
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15802
+deer white-tail buck~
+a white-tail deer~
+There's a white-tail deer here, prancing around the forest.
+~
+This deer looks tall and strong. It has long, powerful horns that look quite
+threatening.  The young deer is here just wandering in the forest, as though
+nothing could harm it.
+~
+8 0 0 W3
+2 1 8 1d1+50 1d3+0
+0 3600
+8 8 0
+13 0 13 13 13 13 0
+0 2 3
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15803
+boar pig~
+a wild boar~
+A wild boar is here charging through the forest.
+~
+The boars in this forest look like they're rabid or something.
+They just love charging through the forest even when there's no
+sign of danger anywhere.  It would be advisable for you not to
+get in their way.  This boar has two strong tusks and it probably
+weighs more than 200 pounds.
+~
+8 0 0 W3
+3 2 7 1d1+70 1d4+0
+0 3000
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15804
+alligator gator~
+an alligator~
+An alligator is coming closer and closer to you!
+~
+Messing with an alligator is dangerous for your health!  This
+reptile has a set of teeth that can scar steel.  Its body is
+massive and in this swamp it's the king of all predators.
+~
+10 0 0 W3
+4 2 6 1d1+90 1d4+0
+0 6000
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15805
+anaconda snake~
+an anaconda~
+There's a large anaconda here dangling on a tree branch.
+~
+The anaconda is one of the most dangerous snakes in the world.
+Its coil could wrap you up and escape from them is almost 
+always impossible.  This anaconda weighs about a hundred pounds
+and it could be as long as 25 feet.
+~
+10 0 0 W3
+3 2 7 1d1+70 1d4+0
+0 4500
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15806
+jaguar jag ~
+a jaguar~
+A hungry jaguar is here looking for something to kill.
+~
+Never mess with a big cat that's very hungry.  This jaguar has
+powerful claws and its slash can rip through flesh like butter.
+The jaguar is a beautiful animal with one of the most prized
+animal pelts in the world.
+~
+8 0 0 W3
+4 2 6 1d1+90 1d4+0
+0 6000
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15807
+gorilla ape~
+a gorilla~
+An ugly gorilla is here sleeping on a soft bed of leaves.
+~
+This gorilla is very BIG.  Its powerful hands could easily 
+uproot small trees...its fist can make dents on steel plates.
+When a gorilla is mad or frighten, its strength can increase by
+three folds and he would go berserk and kill anything that 
+threatens it.
+~
+8 0 0 W3
+4 2 6 1d1+90 1d4+0
+0 6000
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15808
+possum opossum~
+a possum~
+A tree-climbing possum is here looking for some beetles.
+~
+Did you know that a possum is the only non-primates with an
+opposable thumb?  Just wanted to share something I learned from
+watching public service television.  This small North-American
+marsupial is here looking for fresh beetles which is one of their
+main diets.  The possum would eat almost anything that it comes
+across.
+~
+8 0 0 W3
+2 1 8 1d1+50 1d3+0
+0 3900
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15809
+tiger ~
+a tiger~
+A ferocious tiger is looking forward to having some venison for supper.
+~
+This predator is indeed ferocious!  Being one of the biggest of 
+the big cats in this world, this striped beast could easily be
+called the king of the jungle.  With its powerful sharp claws and
+its threatening long teeth, the tiger is the most feared predator
+in any jungle or forest.
+~
+8 0 0 W3
+5 3 6 1d1+110 1d5+0
+0 8400
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+60 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15810
+elephant~
+an elephant~
+An enormous, grey elephant is here feasting on some shrubbery.
+~
+With its long, majestic tusks this great beast is considered by
+many to be the most beautiful animal on Earth.  The elephant is
+probably the most feared animal in the jungle...not even the big
+cats would dare come close to attacking these big-eared mammals.
+~
+8 0 0 W3
+4 2 6 1d1+90 1d4+0
+0 6000
+8 8 0
+13 0 13 13 13 13 0
+0 4 3
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15811
+woodpecker pecker wood bird~
+a woodpecker~
+A red woodpecker is here pecking on a petrified tree.
+~
+Not exactly being the smartest bird in the animal kingdom, the
+woodpecker is close to extinction.  Though it's one of the most
+prettiest of birds, the woodpecker has a brain smaller that a pea!
+~
+8 0 0 W3
+1 1 9 1d1+30 1d3+0
+0 2700
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15812
+lizard~
+a lizard~
+There's a colorful lizard here crawling on the ground.
+~
+This lizard is quite a colorful critter.  It has a horned nose
+and its eyes are large and round.  It moves almost faster than
+the eye can see.
+~
+8 0 0 W3
+1 1 9 1d1+30 1d3+0
+0 1700
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15813
+spider~
+a spider~
+A large, hairy spider is here looking for some insects.
+~
+It's big and it's hairy.  This spider is also quite venomous and
+it can paralyze its victim before they escape this eight-legged
+predator.  This spider is hungry for big, juicy insects.
+~
+8 0 0 W3
+1 1 9 1d1+30 1d3+0
+0 1700
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15814
+rhinoceros rhino~
+a rhinoceros~
+There's a big rhinoceros here eating some plants.
+~
+This horned beast could scare even the greatest predator away.
+WIth its powerful horn, which could pierce steel plates, this
+rhinoceros has no natural enemies.  Its body is also tougher than
+sun-dried leather and its head is shielded with strong boney plates.
+~
+8 0 0 W3
+4 2 6 1d1+90 1d4+0
+0 6000
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15815
+chimpanzee chimp~
+a chimpanzee~
+A funny-looking chimpanzee is here eating a big banana.
+~
+This chimpanzee looks quite happy with his life.  He looks like
+he's having fun just eating a plain banana.  The chimp is playing
+with his food at the same time he's eating it.
+~
+8 0 0 W3
+2 1 8 1d1+50 1d3+0
+0 3900
+8 8 0
+13 0 13 13 13 13 0
+0 2 3
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15816
+wolf~
+a wolf~
+A grey wolf is running around the forest, looking for his pack.
+~
+This wild animal is always dangerous anywhere and when it's with
+a pack, he could become fearless and kill preys as big as a
+buffalo.  This wolf has sharp flesh-piercing teeth and it can
+tear open throats with the simplest of ease.
+~
+8 0 0 W3
+3 2 7 1d1+70 1d4+0
+0 4500
+8 8 0
+13 0 13 13 13 13 0
+0 2 3
+70 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#15817
+caterpillar worm~
+a caterpillar~
+There's a green caterpillar crawling on the forest grounds.
+~
+This caterpillar looks plump and juicy, it would make a fine treat
+for any bird or any other predators in the wild.  The caterpillar
+is here crawling on the ground, searching for some green plants
+to nibble on.
+~
+8 0 0 W3
+1 1 9 1d1+30 1d3+0
+0 2700
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15818
+butterfly fly~
+a butterfly~
+A monarch butterfly is here fluttering its large wings.
+~
+The monarch butterfly is the largest butterfly in the world.
+With a wing span that could spread a good twelve inches it would
+make a great meal for any hungry predator.  The entire forest is 
+inhabited by many of these grand butterflies, they are of great
+importance to the food chain.
+~
+8 0 0 W3
+1 1 9 1d1+30 1d3+0
+0 2700
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15819
+beetle bug~
+a beetle~
+There's a round beetle here running across the forest grounds.
+~
+This large beetle looks frighten of anything that comes close to
+it.  This bug is a great specimen for any bug collector.  Its rich,
+dark color and those strange orange spots on its body are just
+magnificent.
+~
+8 0 0 W3
+1 1 9 1d1+30 1d3+0
+0 2700
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15820
+sloth three-toed~
+a three-toed sloth~
+A three-toed sloth is slowly, slowly climbing up a tree.
+~
+The sloth is probably the slowest moving mammal on Earth.  It
+takes its time as it tries to climb up a tree.  Though the furry
+creature seems lazy, it's slow because of its unique bone 
+structure.
+~
+8 0 0 W3
+2 1 8 1d1+50 1d3+0
+0 3900
+8 8 0
+13 0 13 13 13 13 0
+0 2 3
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15821
+armadillo~
+an armadillo~
+An armadillo is searching for a meal of small bugs.
+~
+With its hard body covering, the armadillo is an obstacle for any
+hungry predator.  Not many great beasts could rip through the
+armadillo's stronghold, even the fierce badger would have a tough
+time trying to cut through the armadillo's defense.
+~
+8 0 0 W3
+2 1 8 1d1+50 1d3+0
+0 3900
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15822
+rabbit hare ~
+a rabbit~
+A grey rabbit is hopping up and down and all around.
+~
+This grey hare is probably the food of choice for all medium-
+sized predators.  It's not the fastest moving animal and also not
+the brightest, thus this rabbit tends to become the main diet of
+wolves, bobcats, owls, and many other animals.
+~
+8 0 0 W3
+2 1 8 1d1+50 1d3+0
+0 3900
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15823
+frog toad~
+a frog~
+There's a poisonous frog here, croaking on a log.
+~
+Don't touch this frog...it looks poisonous.  From the exotic
+color and the size of this frog, anyone can tell this frog looks
+dangerous.  The aborigines of Brazil used these frogs to make
+poison arrows.
+~
+8 0 0 W3
+2 1 8 1d1+50 1d3+0
+0 3900
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15824
+snail slug~
+a snail~
+A slimy little snail is moving slowly across the ground.
+~
+The tiny snail is here looking for some plant leaves to chew on.  
+This little shelled bug is one of nature's most destructive
+insect because of their appetite for fresh green leaves.  The
+snail has a slimy body and a protective shell.
+~
+8 0 0 W3
+1 1 9 1d1+30 1d3+0
+0 2700
+8 8 0
+13 0 13 13 13 13 0
+0 0 3
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15825
+parrot bird~
+a parrot~
+a rainbow-colored parrot is here eating a wild fruit.
+~
+The parrot is one of the forest's most beautiful birds because
+they come in a variety of magnificent colors.  The parrot is a
+friendly bird but it's unfortunate that many people use traps to
+catch these lovely birds and sell them.  Many of the rare parrots
+today are very close to extinction and there's not much anyone
+can do about it.
+~
+8 0 0 W3
+1 1 9 1d1+30 1d3+0
+0 2700
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15826
+bigfoot foot big~
+Bigfoot~
+The elusive Bigfoot is here looking to get his photo taken.
+~
+This strange primate is here wandering through the forest.  You
+are fascinated by this great beast as he passes you by.  He looks
+very shy and is about to run away.  The Bigfoot is a huge 
+creature.  He stands about eight feet tall and his knuckles are
+almost to the floor.  This freak-of-nature has the strength of
+ten men and can kill when it becomes frighten for any reason.
+~
+8 524288 0 W3
+10 5 2 1d1+210 4d1+2
+0 25000
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#15827
+bob hunter~
+Hunter Bob~
+Hunter Bob is here carefully cleaning his Winchester.
+~
+Hunter Bob looks like a fierce hunter.  He's a big man with a big
+gun and this hunter is no push-over when it comes to a good
+fight.  Hunter Bob has conquered the jungles of Africa, South
+America, Austrailia, and now he's trying to hunt all the animals
+in the Newbie Forest.  He's a merciless hunter and he makes sure
+that the animal he kills will have a place in his trophy case!
+~
+10 0 -1000 W3
+12 6 0 1d1+270 5d1+3
+275 40000
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+0 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#15828
+painter smurf artist~
+Painter Smurf~
+Painter Smurf is here looking for his ideal model for his painting.
+~
+Painter is the best artist in the Smurf village.  His brush-
+strokes are absolutely the best in the world.  Painter has a thin
+moustache and he speaks with a strange French accent.  He wears a
+painter's cap and always carry with him , his lucky paintbrush.
+~
+16392 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15829
+farmer smurf~
+Farmer Smurf~
+Farmer Smurf is working hard to gather all the crops for winter.
+~
+Farmer is the most prolific Smurf in the village.  His crops have
+saved many Smurfs from starvation in the winter.  Every year, 
+Farmer was given the trust of all the Smurfs to plant and
+fertilize the crops for next year's harvest.
+~
+16394 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15830
+greedy smurf ~
+Greedy Smurf~
+Greedy Smurf is keeping all of the Smurfberries for himself.
+~
+Greedy Smurf is not as greedy as most think he is.  He doesn't
+always do things for himself.  Sometimes he would help others in
+need like the time when Gargamel destroyed the Smurf's winter
+food reserves, it was Greedy who was willing to share his goods
+and thus saving the entire village from starvation.
+~
+16392 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15831
+grouchy smurf grouch~
+Grouchy Smurf~
+Grouchy Smurf doesn't feel like being happy today.
+~
+This Smurf may be the only Smurf in town who is rarely if ever
+happy.  Unlike the others, Grouchy Smurf is simply happy by not
+being happy...er, in expression sense, Grouchy may look unhappy
+but really, he's seriously happy.
+~
+16392 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15832
+baby smurf~
+Baby Smurf~
+Baby Smurf is here crying for Smurfette's attention.
+~
+This strange little Smurf is the cutest of all Smurfs in the
+village.  Everyone just loves Baby Smurf because he's just 
+irresistable.  The little critter is also a powerful mutant
+magician.  His special powers have saved the Smurfs countless
+times during encounters with Gargamel and other evil baddies.
+~
+16394 0 0 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15833
+vanity smurf ~
+Vanity Smurf~
+Vanity Smurf is here modeling front of his mirror.
+~
+Is there anyone who could be more vainglorious than Vanity Smurf
+himself?  Vanity sits in front of a mirror all day long and
+admires himself just because he looks better than the rest of the
+Smurfs.  He may be conceited sometimes but this little Smurf is
+also sensitive and kind...when he wants to be.
+~
+16394 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15834
+handy smurf~
+Handy Smurf~
+Handy Smurf is pointing a wooden, handcrafted gadget at your face!
+~
+Handy Smurf is the best carpenter and inventor in town.  No other
+can match him in the skill of building and inventing new gadgets.
+Handy Smurf wears a white overall with a pencil on his ear.
+Because of his intelligence, Handy Smurf is admired by Smurfette so
+much that even Hefty Smurf can't do a thing about it.
+~
+16394 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15835
+hefty smurf strongman weightlifter~
+hefty smurf~
+Hefty Smurf tells you, 'Wanna wrestle, you big ogre?'
+~
+Hefty Smurf is the strongest Smurf in the village.  He could beat 
+three or four other Smurfs in a tug-o-war.  Hefty wears a heart
+tattoo on his right arm and he's constantly flexing his muscles.
+He's one of Smurfette's main suitors and he's always competing
+with Handy Smurf for her attention.
+~
+16394 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15836
+brainy smurf nerd~
+Brainy Smurf~
+Brainy Smurf is picking up all those useless books on the floor.
+~
+Who's this little Steve Erckel look-alike?  Why he's Brainy
+Smurf, the self-proclaimed Papa Smurf's advisor.  Brainy Smurf
+is not as smart as you think he is.  Though he wears those thick
+spectacles, Brainy is no smarter than the rest of the other 
+Smurfs.  Brainy has a knack for always getting into trouble
+because he thinks himself as being wise and thoughtful like
+Papa Smurf.  He loves to command other Smurfs to do things because
+he believes he's second-in-command when Papa Smurf is absent.
+~
+16394 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15837
+smurfette smurf~
+Smurfette~
+Smurfette is trying to cook a Smurfberry pie for Papa Smurf.
+~
+Smurfette is the prettiest Smurf in the world.  Of course, she is
+also the only adult female Smurf in town.  Smurfette has the most
+gorgeous blonde hair and her nice, white dress really reflects 
+her beauty.  She's also an excellent cook and right now she's 
+baking a homemade Smurfberry pie for the beloved Papa Smurf.
+~
+16394 0 1000 W3
+8 4 3 1d1+170 1d4+2
+125 21000
+8 8 2
+13 0 13 13 13 13 0
+0 1 3
+30 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#15838
+papa smurf~
+Papa Smurf~
+Papa Smurf is experimenting with some very powerful potions.
+~
+Papa Smurf is the wisest of all Smurfs.  Not only is he the
+leader of the village, he's also a teacher to all.  Papa Smurf
+teaches his little Smurfs the lessons in life and how to better
+oneself.  His wise decisions and thoughtful ideas have saved the
+Smurfs from danger many, many times.  Papa Smurf wears some red
+spandex pants and a red cap.  He also has a nicely trimmed white
+beard.
+~
+16394 0 1000 W3
+12 6 0 1d1+270 1d5+3
+275 41000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+0 0 2 0 0 0
+70 70 70 70 70
+0 0 0
+6 0
+~
+#15839
+poet smurf~
+Poet Smurf~
+Poet Smurf is reciting a poem for all the Smurfs to hear.
+~
+Poet Smurf is the absolute master of all poets across the land.
+The way he uses his words in his poetry could grab the attention
+of all his audiences.  This little Smurf also talks in rhymes, and
+enjoys daily recitation in the village square.
+~
+16392 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15840
+clumsy smurf ~
+Clumsy Smurf~
+Clumsy Smurf is bumping into things and knocking them to the ground.
+~
+Clumsy Smurf is the clumsiest Smurf in the entire village.  He'll
+trip and fall everywhere he goes.  Not only is Clumsy Smurf
+clumsy, he also looks clumsy.  He's wearing spandex pants that
+seems like it's falling down and his cap is drooping forward as
+though it's about to fall off.  Clumsy is the best friend of
+Brainy Smurf, and he admires Brainy so much that he'll do anything
+for his nerd buddy.
+~
+16394 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15841
+jokey smurf~
+Jokey Smurf~
+Jokey Smurf wants you to open his present right now...hee hee.
+~
+Jokey is the prankster in the village.  There's no one in the
+village who has ever escape one of Jokey's most commonly-used
+trick, the exploding gift box.  Though Jokey's pranks are
+harmless, he gets into serious trouble when he goes a bit too
+far.
+~
+16394 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15842
+gargamel wizard beggar~
+Gargamel~
+Gargamel is catching Smurfs to make some Smurf-soup for supper.
+~
+This evil fiend is named Gargamel and he's always trying to find
+a way to catch the Smurfs.  Gargamel has failed many times trying
+to catch the Smurfs but it seems today is his lucky day.  This
+evil sorcerer wears a long black robe with grey patches everywhere.
+He's a balding, old man with a face that resembles a bulldog.
+Gargamel towers over the little Smurfs and he's crushing and 
+stomping the mushroom houses.
+~
+16392 0 0 W3
+10 5 2 1d1+210 1d5+3
+0 34000
+8 8 0
+13 0 13 13 13 13 0
+0 3 3
+20 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#15843
+azrael cat~
+Azrael~
+A mangy, alley cat named Azrael is here pouncing on some Smurfs.
+~
+This plain-looking alley cat is Gargamel's only friend in the
+world.  Azrael is always craving for some Smurf stew and though
+he has come close to getting his wish, there's always something
+that goes wrong.  Together with Gargamel, these two have caused
+many problems for the Smurfs and they'll keep making problems
+until their diabolical plans actually work.
+~
+16392 0 1000 W3
+8 4 3 1d1+170 1d4+3
+125 25000
+8 8 2
+13 0 13 13 13 13 0
+0 1 3
+30 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#15844
+smurf lost~
+a lost Smurf~
+A lost Smurf is trying to find his way back to the Smurf Village.
+~
+This poor little Smurf is lost and can't find his way back home.
+The small Smurf Village must be somewhere in this forest but
+where?  The lost Smurf is moving back and forth trying to figure
+out where is his original trail from the village.
+~
+8 0 0 W3
+2 1 8 1d1+50 1d3+0
+0 3600
+8 8 0
+13 0 13 13 13 13 0
+0 2 3
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15845
+smurf blue~
+a Smurf~
+A little, blue Smurf is frightened by your presence.
+~
+There's nothing special about this Smurf.  He's a blue-skin troll
+no bigger than a GI Joe action figure.  This Smurf is wearing a
+pair of white spandex pants and a white cap.  He looks too small
+to hurt anyone.
+~
+8 0 0 W3
+2 1 8 1d1+50 1d3+0
+0 3900
+8 8 0
+13 0 13 13 13 13 0
+0 2 3
+80 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15846
+salmon fish pink ~
+a pink salmon~
+A large, pink salmon is here trying to make it upstream.
+~
+This salmon looks like it's ready to spawn.  It struggles to make it
+upstream so it can lay its eggs.  The pink salmon is the grizzly's
+main diet and it's also food to many birds as well.  
+~
+16394 0 0 W3
+1 1 9 1d1+30 1d3+0
+0 3000
+8 8 0
+13 0 13 13 13 13 0
+0 1 3
+90 0 2 0 0 0
+95 95 95 95 95
+0 0 0
+6 0
+~
+#15847
+jungle smurf~
+Jungle Smurf~
+Jungle Smurf is here swinging on vines and playing with the animals.
+~
+Unlike the other Smurfs, Jungle Smurf was brought up in the wild.  
+Raised by animals, this Smurf learned to adapt to a harsh enviroment.
+Though he reunited with his fellow Smurfs, Jungle Smurf could not
+adjust to their simple lifestyle.  He chose to stay here in the wild,
+so that he may protect his animals friends from hunters and poachers.
+~
+16394 0 1000 W3
+6 3 5 1d1+130 1d5+0
+75 18000
+8 8 1
+13 0 13 13 13 13 0
+0 1 3
+50 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#15848
+camper camp~
+a camper~
+A camper is here, trying to find his way around the forest.
+~
+He's an ordinary camper who's trying to find some rest and
+relaxation here in the wild.  He seems to be lost and can't find 
+his way back...but lucky for him, he always carry a map wherever
+he goes.  With this map, no one could ever get lost here.
+~
+8 0 0 W3
+4 2 6 1d1+90 1d4+0
+100 7500
+8 8 1
+13 0 13 13 13 13 0
+0 2 3
+60 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+$

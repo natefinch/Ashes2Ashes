@@ -1,0 +1,546 @@
+#9500
+robot terminator~
+a terminator robot~
+A terminator robot is standing here destroying everything in sight.
+~
+This is a terminator robot. It's eyes glow red. It looks pretty scary. You aren't sure if you want to fight him.~
+34888 8 -700 W3
+33 20 1 0d0+990 2d6+15
+0 57000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 4 0 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#9501
+terminator man mechanical~
+the Terminator~
+A mechanical looking man is standing here.
+~
+This man looks mechanical. He is wearing the clothes of the man he beat up and stripped. He is wearing leather pants and a jacket over a white t-shirt. He is also wearing black leather boots and black sunglasses. He looks REALLY strong.
+~
+321611 16786568 0 W3
+127 75 -21 20d10+17000 12d10+60
+50000 1000000
+8 8 0
+18 100 18 18 18 18 0
+20 2 0
+-210 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#9502
+metal liquid man officer police liquidmetal terminator~
+the liquid metal Terminator~
+You see a police officer here looking for some boy.
+~
+You see a medium height man standing here. He has a neatly ironed police uniform and a badge. He is asking everyone here if they've seen a sertain boy. You wonder why he is looking for him.
+~
+288843 16778376 -1000 W3
+130 88 -30 20d10+23000 15d10+80
+50000 90000
+8 8 0
+18 100 18 18 25 18 0
+20 2 0
+-300 12 8 0 25 25
+10 10 10 10 10
+16 0 0
+6 0
+~
+#9503
+employee cyberdine man person~
+a Cyberdine employee~
+You see a Cyberdine employee standing here.
+~
+You see a Cyberdine employee. He is wearing a nice suit. He is carrying a 
+briefcase and a Cyberdine card.
+~
+8 0 0 W3
+8 3 7 0d0+300 4d1+1
+1000 100
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+70 0 2 0 0 0
+80 80 80 80 80
+0 0 0
+6 0
+~
+#9504
+john connor kid punk~
+John Connor~
+John Connor is here stealing some cash from an ATM.
+~
+You see a brown haired punky looking kid. He is riding his motorcycle and
+messing with his laptop computer. He's planning to rip off some cash from
+an ATM machine.
+~
+12 0 0 W3
+88 43 0 0d0+10000 9d6+20
+10000 10000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9505
+supervisor cyberdine~
+a Cyberdine Supervisor~
+A Cyberdine Supervisor is here, making sure the secrets stay safe.
+~
+  The supervisor looks like a stereotype nerd.  He has bad hair,
+glasses fixed with masking tape, mismatched socks.  But there is 
+something else about him...  He keeps looking nervously towards the
+big steel door at the south of the hallway.  It's almost like he's
+afraid of something.
+~
+321544 128 0 W3
+85 38 -15 1d1+8000 15d6+19
+10000 150000
+8 8 1
+13 0 18 18 13 13 0
+0 2 2
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9506
+young sarah connor girl~
+Young Sarah Connor~
+You see a young woman hiding behind a man here.
+~
+You see a young blond girl before you. She seems to be hiding behind this man
+here who seems to be protecting her from this other man. She seems very scared
+and is screaming in terror.
+~
+26634 1160 1000 W3
+127 82 -20 10d4+16500 10d10+55
+50000 500000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9508
+kyle reece~
+Kyle Reece~
+You see a man with a shotgun shooting at some other guy who seems unaffected.
+~
+You see a strong man here with a nice shotgun and a cool trenchcoat. He is here
+shooting at another guy. The other man seems unaffected. This guy seems like
+he is only trying to protect this one young blond girl. I wonder why.
+~
+319755 1160 1000 W3
+127 75 -22 10d10+17000 10d11+55
+45000 498000
+8 8 1
+18 100 18 18 18 18 0
+17 2 0
+-220 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9512
+evil terminator man~
+the Evil Terminator~
+You see a mechincal looking man shooting at a man and woman.
+~
+You see a big strong man standing in front of you. He has all sorts of guns all
+sorts of guns and things with him. He seems to be wearing all leather. He seems
+to be getting shot but unaffected by the bullets.
+~
+26635 168 -1000 W3
+127 75 0 10d15+17000 10d12+60
+0 450000
+8 8 0
+18 100 18 18 18 18 0
+19 2 0
+0 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9581
+supervisor factory worker boss~
+the factory supervisor~
+The supervisor stands here shouting something about productivity.
+~
+This man stands before you with a clipboard.  He has sweat stains under is
+arms and looks like he has never had a shower at all. He looks mean
+and like he is not gonna let you out til you work for it.
+~
+262187 1160 500 W3
+150 89 -36 1d1+20000 10d6+120
+25000 75000
+8 8 0
+18 100 13 13 20 13 0
+12 5 0
+-360 9 8 0 25 25
+10 10 10 10 10
+0 0 0
+6 10
+~
+#9582
+survivor child war survivor~
+a child who is a survivor of war.~
+A child, who is a survivor of war, Cringes from you here.
+~
+This child looks as though they have been through more in it's young
+life than you will ever go through in all of yours. The childs face and 
+clothes are dirty and the child looks scared.
+~
+6216 8 1000 W3
+43 18 -15 28d28+200 4d4+12
+5 60000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-150 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9583
+survivor war survivor~
+a survivor of the War.~
+A survivor of the war stands here prepared for anything.
+~
+This person looks like they are ready for anything that comed their way.
+They seem almost nervous but you think that it might just be anticipation
+of the next battle.
+~
+6216 8 1000 W3
+43 18 -15 28d28+200 4d4+12
+5 60000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-150 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9584
+hotel customer guest female~
+a female guest at this hotel.~
+A female guest is standing here waiting for her boyfriend.
+~
+This girl looks like she is having fun with her boyfriend and she looks 
+like she doesn't want you in her room.
+~
+2091 8 500 W3
+42 18 -15 36d36+70 5d5+6
+500 58000
+8 8 2
+13 0 13 13 13 13 0
+17 5 0
+-150 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#9585
+Hotel customer guest male~
+a Male guest at the Hotel.~
+A male hotel guest is here for a weekend with his girlfriend.
+~
+This man looks like he just wants some fun and games with his girl But he
+looks like he doesn't want any crap from you either.
+~
+2091 8 500 W3
+42 18 -15 36d36+70 5d5+6
+500 58000
+8 8 1
+13 0 13 13 13 13 0
+17 5 0
+-150 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#9586
+Marty clerk~
+Marty, The Motel clerk.~
+Marty, The motel clerk, stands here picking his teeth.
+~
+This guy looks like he should be in a zoo. His clothes are dirty and he
+smells pretty bad.
+~
+4105 128 -500 W3
+34 25 0 10d12+40 2d4+5
+2000 15000
+8 8 1
+13 0 13 13 13 13 0
+20 2 2
+0 0 6 0 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#9587
+Barney the bouncer ~
+Barney, The bouncer.~
+Barney, The bouncer.
+~
+Barney looks like he could stop a mack truck with one arm.  His biceps, 
+triceps, and deltoids are all bulging.  The girls swoon over him and want 
+to be once of the lucky few that get to touch his bulging arm.
+~
+321550 128 300 W3
+82 30 -10 1d1+2800 1d1+45
+15000 50000
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9588
+Fiona lady front door~
+Fiona, The front door lady.~
+Fiona , the front door lady, stands here taking your money.
+~
+Fiona is a rather large lady who is not wearing much in the way of clothing.
+  You wonder if maybe she has been in some industrial accident cause her hair
+is the color of a lime and her makeup appears to have been applied with a 
+paint sprayer.
+~
+321546 136 500 W3
+127 55 -10 6d5+3130 1d1+70
+13500 55000
+8 8 2
+18 0 13 13 13 13 0
+0 5 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9589
+trish tacky lead singer~
+Trish, The tacky lead singer of the band.~
+Trish, The tacky lead singer, is standing here screaming into the microphone.
+~
+Trish is sooo tacky  her hair is fried, dyed, and laid to the side.  Her 
+make-up resembles that of a clown in a circus.  Trish's clothes look like
+the zoo got lose on her clothes....Zebra print pants and a tiger striped
+jacket.  Sheesh is this girl blind or what?
+~
+262219 196736 -1000 W3
+96 44 -15 0d0+4000 10d5+40
+25000 35000
+8 8 2
+13 0 13 13 13 13 0
+12 2 0
+-150 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9590
+brent drummer band member~
+Brent, The drummer in this band.~
+Brent, The drummer, sits here playing withhis sticks.
+~
+Brent's hair is almost as long as any girls here.  His hair is bleached 
+blonde and he is wearing almost as much make-up as your mother wears 
+to church.  Brent's t-shirt says "drummers do it with both hands".
+~
+266315 131200 500 W3
+91 20 -10 1d1+4000 6d5+30
+10000 300000
+8 8 1
+13 0 13 13 13 13 0
+7 2 2
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9591
+joe piano jumpin~
+Jumpin' Joe, Piano player for the band.~
+Jumpin' Joe , the piano player, is here playing a mean piano.
+~
+This man looks like he has some soul and heart when it comes to his music.
+HE seems to feel ever note that he plays and he addss zest to his playing
+with the gyrations of his body with ever note.
+~
+43274 129 100 W3
+65 35 -10 1d1+4000 5d5+40
+5000 20000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#9592
+magic mike d.j. dj~
+Magic Mike, The clubs D.J.~
+Magic Mike is standing here flirting with the girls.
+~
+This is the sleaziest man you have ever seen.  His hair has more grease 
+in it than a car.
+~
+272394 128 -300 W3
+73 30 -10 1d1+4000 1d1+33
+5000 15000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+-100 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#9593
+female club goer club-goer~
+a Female Club-goer~
+A female club-goer is here putting on lipstick.
+~
+This female club-goer looks like she is A hooker,  Her makeup is way too 
+dark and her hair is way too high.
+~
+2063 0 100 W3
+13 8 3 2d2+100 2d2+10
+500 10000
+6 6 2
+13 0 13 13 13 13 0
+17 1 2
+30 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#9594
+female club goer club-goer~
+a Female Club-goer~
+A female club-goer is here drinking.
+~
+This female club-goer looks like she is A hooker,  Her makeup is way too 
+dark and her hair is way too high.
+~
+2063 0 100 W3
+13 8 3 2d2+100 2d2+10
+500 10000
+6 6 2
+13 0 13 13 13 13 0
+17 1 2
+30 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#9595
+male club goer club-goer~
+a male club-goer~
+A male club-goer is sitting here drinking.
+~
+This guy looks like he has had a few too many drinks.  His eye lids look
+like they would close if he weren't holding them open.
+~
+2125 0 100 W3
+13 8 3 2d2+100 2d2+10
+500 10000
+6 6 1
+13 0 13 13 13 13 0
+17 1 2
+30 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#9596
+female club goer club-goer~
+a female club-goer~
+A female club-goer is here, bumping and grinding.
+~
+  This ladies make-up  is way too dark and her hair looks as though
+she stood on her head and sprayed it with hairspray.
+~
+2125 0 100 W3
+13 8 3 2d2+100 2d2+10
+500 10000
+8 8 2
+13 0 13 13 13 13 0
+17 2 2
+30 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#9597
+male club goer club-goer~
+a Male club-goer~
+A male club-goer is here dancing, Or whatever you call what he is doing.
+~
+  This man's arms are flapping about like he is trying to fly,  Makes 
+you wonder what he has been drinking.
+~
+2125 0 100 W3
+13 8 3 2d2+100 2d2+10
+500 10000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+30 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#9598
+Male club goer club-goer~
+a Male club-goer~
+A male club-goer is here vainly checking his hair.
+~
+ This man looks like he wears more mousse than any of the women in this
+club.  His hair is almost as coiffed as all of the ladies.
+~
+2063 0 100 W3
+13 8 3 2d2+100 2d2+10
+500 10000
+8 8 1
+13 0 13 13 13 13 0
+17 2 2
+30 0 2 0 0 0
+65 65 65 65 65
+0 0 0
+6 0
+~
+#9599
+female club goer club-goer~
+a Female Club-goer~
+A female club-goer is here making out with her boyfriend.
+~
+This female club-goer looks like she is A hooker,  Her makeup is way too 
+dark and her hair is way too high.
+~
+2063 128 100 W3
+16 12 3 4d4+100 2d2+10
+500 10000
+8 8 2
+13 0 13 13 13 13 0
+17 1 2
+30 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 0
+~
+$

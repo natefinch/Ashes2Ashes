@@ -1,0 +1,414 @@
+#1500
+midknightstatue statue mstatue~
+Statue of Midknight~
+A statue of Midknight stands here before you.
+~
+You see before you a tall man shroded in shadow.  He wears a long hooded
+black cloak, and his face is hidden deep inside it.  There is an aura of
+power around him, as if everything here were under his complete control. In
+contrast to the darkness surrounding him, you see a small star shaped pendant
+hanging from around his neck, glowing gently.  Midknight's deep resonant
+voice emerges from the darkness, "I am the shadows of the moon- light.  I am
+the essence of your fantasies, your nightmares.  I am the night.... And I am
+watching."  His eyes flash, "Fear the Knight!"
+~
+325722 16778280 0 W2
+127 85 -29 1d100+30000 12d12+80
+54000 200000
+8 8 1
+18 100 18 18 21 18 0
+0 5 0
+-290 9 6 1000 20
+10 10 10 10 10
+0 0 17
+6 0
+~
+#1501
+sarnothstatue statue sstatue~
+Statue of Sarnoth~
+The statue of Sarnoth stands here among multicolored spheres of energy.
+~
+You see before you a statue of a tall mage in flowing robes. The face has
+a hawk-like quality to it. The eyes always seem to be looking at you, even
+though the statue doesn't move. The hands are carved in an intricate
+pattern, as if in the process of spell casting. Power trickles from the
+hands, making them warm to the touch. Runes carved in the robes pulse very
+slowly and faintly.
+
+~
+325706 168 1000 W2
+127 80 -29 1d100+15000 12d12+80
+52000 200000
+8 8 1
+18 100 18 18 21 13 0
+0 2 0
+-290 12 6 1000 20
+10 10 10 10 10
+0 0 34
+6 0
+~
+#1502
+phoenixstatue statue pstatue~
+Statue of Phoenix~
+A Statue of Phoenix is here before you.
+~
+It's big.  It's bad.  And it's gonna EAT YOU UP!
+~
+321626 168 1000 W2
+127 80 -29 1d100+15000 12d12+80
+52000 200000
+8 8 2
+18 100 18 18 21 18 0
+0 2 1
+-290 8 6 1000 20
+10 10 10 10 10
+0 0 17
+6 0
+~
+#1503
+statue tindalosstatue~
+Statue of Tindalos~
+A statue of Tindalos stands here.
+~
+Glowing red eyes stare at you from a distant past.
+Even as you look at him, you cannot remember what
+he looks like.  A strange sense of deja vu takes
+over your memory as your mind tries to catch up
+with the present.
+~
+452698 1192 -1000 W2
+127 76 -29 1d100+15000 12d12+80
+53000 200000
+8 8 1
+18 100 18 18 21 18 0
+0 2 1
+-290 7 6 1000 20
+10 10 10 10 10
+0 0 12
+6 0
+~
+#1504
+statue teddystatue~
+Statue of Teddy~
+Teddy stands here ready to hug you to death.
+~
+Teddy is standing here look very huggly.  She seems nice enough.. but whats
+that looks she is giving you.  The feeling of alarm starts deep in your 
+stomach as you realize she is heading your way to hug you. BETTER RUN!!!!!
+~
+325707 16777384 1000 W2
+127 80 -29 1d100+15000 12d12+80
+54000 200000
+8 8 2
+18 100 18 18 21 18 0
+0 5 0
+-290 4 6 1000 20
+10 10 10 10 10
+0 0 17
+6 0
+~
+#1505
+statue lapostatue~
+Statue of Lapo~
+A Big arse man stands here Wielding a Spatula.
+~
+This statue stands over 50 feet tall and is hunched down in the Buddha
+posistion rubbing his belly and thinking of happier times when beer and love
+were a mix that was just too good to be true. He wears no ornaments of any
+kind except for a very tall hat that seems to reach the skies themselves and
+get engulfed in the clouds. He laughs and smiles at you as you enter and
+offers you a beer.
+~
+325722 20971688 -1000 W2
+127 80 -29 1d100+15000 12d12+80
+54000 200000
+8 8 1
+18 100 18 18 21 18 18
+0 5 0
+-290 10 6 1000 20
+10 10 10 10 10
+0 0 48
+6 0
+~
+#1506
+statue Drazzststatue~
+Statue of Drazzst~
+A big cow is standing here.
+~
+Standing at a short 5'2", the Statue of Drazzst looks just like the real
+thing.  Stark white hair, contrasting against an ebony skin.  Just remember,
+the Statue of Drazzst may look nice right now, but attacking him, will only
+upset him.  And you don't want to deal with an upset Drazzst.
+~
+321611 1192 500 W2
+127 80 -29 5d600+10000 10d10+70
+53000 150000
+8 8 1
+18 100 18 18 18 25 25
+18 3 0
+-290 9 6 600 25
+10 10 10 10 10
+0 0 7
+6 0
+~
+#1507
+statue cardinalstatue~
+a Statue of Cardinal~
+A statue of Cardinal stands here watching your every move.
+~
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 9 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1508
+statue Garetjaxstatue~
+Statue of Garetjax~
+A statue of Garetjax stands here.
+~
+This statue is dressed all in black -- loose tunic and pants, forest cloak,
+and boots. The statue appears to have just looked at you with flint grey
+eyes, yet the statue turns away from you as you may not be that important to
+him. You think to yourself that the legendary weapons master may not be too
+worried that you are here.
+~
+321611 1192 500 W2
+127 80 -29 5d600+15000 12d12+80
+53000 150000
+8 8 1
+18 100 18 18 18 25 25
+18 3 0
+-290 9 6 600 25
+10 10 10 10 10
+0 0 11
+6 0
+~
+#1509
+statue diostatue~
+Statue of Dio~
+Dio stands here
+~
+
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1510
+statue sargonstatue~
+Statue of Sargon~
+Sargon is standing here watching over the museum.
+~
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1511
+Statue starfallstatue~
+Statue of Starfall~
+The statue of the mysterious warrior Starfall stands here.
+~
+Starfall's statue is here with its eyes gazing out into the universe. The
+mysterious warrior came from unknown lands in a search for truth, a battle
+for justice, and his destiny. His destiny led to the this world where he
+fought his many fights.
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#1512
+statue wintermutestatue~
+Statue of Wintermute~
+The Statue of Wintermute is standing here, shining with his webmaster abilities
+~
+You do a double take when you look at him, you thought at first it was a man,
+but now you realize that it's pure code, an AI, a being born out of a sea of
+data into our collective unconsicousness. At a closer glance you see that
+he's not made of flesh as you supposed, but densely packed pieces of code, a
+body formed of pure information. Tesselating fractals.
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#1513
+statue wybaarstatue~
+Statue of Wybaar~
+A statue of Wybaar stands here watching over the museum.
+~
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#1514
+progphoenix phoenix false~
+the Phoenix~
+The Phoenix is Reborn!
+~
+The Phoenix stares at you with ice-cold eyes, you have
+murdered it, and now it is reborn with vengence!
+~
+22568 1052712 1000 W2
+127 35 -20 100d2+3000 15d4+50
+0 100000
+8 8 2
+13 0 13 13 13 13 13
+0 4 4
+-200 8 5 0 0
+20 20 20 20 20
+0 0 0
+6 13
+~
+#1515
+lapo egg eggshell~
+an Egg~
+This egg was created by lapo to help in his fight against evil!
+~
+~
+8386586 0 0 W2
+0 30 10 100d3+800 10d10+50
+0 1000
+8 8 0
+13 0 13 13 13 13 13
+0 0 0
+100 0 2 0 100
+100 100 100 100 100
+23 0 0
+6 1
+~
+#1516
+statue morphinestatue~
+Statue of Morphine~
+The statue of Morphine is here.
+~
+
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1517
+statue meribahstatue~
+Statue of Meribah~
+The statue of Meribah is here.
+~
+
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1518
+statue billybobstatue~
+Statue of Billybob~
+The statue of Billybob is here.
+~
+
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1519
+statue eomerstatue~
+Statue of Eomer~
+The statue of Eomer is here.
+~
+
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 1
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#1520
+statue Asitastatue~
+Statue of Asita~
+A statue of Asita roams the hallways.
+~
+
+~
+9 40 100 W2
+127 55 -14 1d100+2000 1d5+40
+10000 308325
+8 8 2
+18 100 15 15 18 13 0
+20 2 2
+-140 13 4 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+$

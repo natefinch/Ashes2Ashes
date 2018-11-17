@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+
+cp ../../lib/world/zon/$1.zon zon
+cp ../../lib/world/mob/$1.mob mob
+cp ../../lib/world/obj/$1.obj obj
+cp ../../lib/world/wld/$1.wld wld
+cp ../../lib/world/prg/$1.prg prg
+cp ../../lib/world/shp/$1.shp shp

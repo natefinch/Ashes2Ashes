@@ -1,0 +1,1795 @@
+#5100
+The Entrance to a vast Underground City~
+You are at the entrance to a small mysterious city.  A great adamantite gate
+lies to the north, limitting access to the city.
+~
+51 4233 0
+0d0+0 0 0
+D0
+A huge gate opens to the north allowing passage into the city.
+~
+gate~
+2 5121 5101
+D4
+~
+door~
+1 5160 4174
+E
+gate~
+A large adamantite gate with giant spider shaped emblems stands here.~
+S
+#5101
+Southern Drow Square~
+You enter a large central square of the drow city.  Travellers of all sorts move
+about the courtyard freely. Exits leave in all directions.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5105
+D1
+~
+~
+0 -1 5103
+D2
+A large adamantium gate lies to the south
+~
+gate~
+0 5121 5100
+D3
+~
+~
+0 -1 5102
+D6
+~
+~
+0 -1 5104
+D7
+~
+~
+0 -1 5106
+S
+#5102
+Drow Courtyard~
+The size of this courtyard would amaze even the biggest of all creatures within
+the realm.  It seems to be a place that the drow people use for celebrations
+and every day life activity.  To the west appears to be an alley or a back
+street. A little spider scurries out from under your feet.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5106
+D1
+~
+~
+0 -1 5101
+D3
+~
+~
+0 -1 5136
+D6
+~
+~
+0 -1 5105
+S
+#5103
+Drow Courtyard~
+This corner of the courtyard appears to be no different then the rest. Small
+debris trickles across the ground due to the light breeze.  Exits lead in all
+directions.
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5104
+D1
+~
+~
+0 -1 5107
+D3
+~
+~
+0 -1 5101
+D7
+~
+~
+0 -1 5105
+S
+#5104
+Eastern Drow Courtyard~
+This is the eastern most point of the courtyard.  Travellers of all shapes and
+sizes share stories with each other as they interact.  For some reason you do
+not seem to fit in here.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5121
+D2
+~
+~
+0 -1 5103
+D3
+~
+~
+0 -1 5105
+S
+#5105
+Center of Drow Square~
+This is the center of this enourmous courtyard.  Drow common folk move around
+doing there normal day-to-day activities.  To the far north you make out the
+faint outline of the drow place of worship.  Exits lead in all directions.
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5122
+D1
+~
+~
+0 -1 5104
+D2
+~
+~
+0 -1 5101
+D3
+~
+~
+0 -1 5106
+D6
+~
+~
+0 -1 5121
+D7
+~
+~
+0 -1 5123
+D8
+~
+~
+0 -1 5103
+D9
+~
+~
+0 -1 5102
+S
+#5106
+Western Drow Courtyard~
+The size of this courtyard continues to amaze you. This is the western most end
+of the courtyard.  Small spiders seem to be moving from east to west everytime
+you notice one.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5123
+D1
+~
+~
+0 -1 5105
+D2
+~
+~
+0 -1 5102
+D6
+~
+~
+0 -1 5122
+D8
+~
+~
+0 -1 5101
+S
+#5107
+City street~
+You walk along a highly ornate city street leading east-west.  To the north
+lies the guild of the cleric class and to the south that of the mage.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5111
+D1
+~
+~
+0 -1 5114
+D2
+~
+~
+0 -1 5108
+D3
+~
+~
+0 -1 5103
+S
+#5108
+Entrance to the Mage's Guild~
+The mage - the mage is a hard char to play if you are new to the game.  Most 
+find the mage really hard to level and hard to keep alive due to its lack of
+hit points.  They are usually best when in large groups needing extra power.
+The mage hold some really powerful spells and are capable of being very 
+useful if you know how to use them.  Here you stand in the entrance to the
+mage guild.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5107
+D3
+~
+~
+0 -1 5109
+S
+#5109
+Spike's Bar~
+Here yo are in the bar of choice for the mage.  Spik'es Bar is a well known
+bar bt seems to be losing it's popularity among the patrons of the realm.  It
+still serves as a nice place to shoot some stick and grab a couple drinks.
+~
+51 4248 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5108
+D5
+~
+~
+0 -1 5110
+S
+#5110
+Guildmaster's Inner Sanctum~
+The sanctum of your guildmaster - Here, one may practice the arts that the mage
+class has developed through the centuries.  The guildmaster is very capable
+of teaching you all the spells you will need to know during your stay here at
+ROI. Your guildmaster sits in the corner waiting to assist you.
+~
+51 4120 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 5109
+S
+#5111
+Entrance to the Cleric's Guild~
+The cleric - A relatively easy character to play for a person with patience.
+Har to level in the later levels, the cleric is an essential part of any big
+group. Good clerics get much respect within the realms.  You stand here in 
+the entrance to the guild.
+~
+51 4120 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5107
+D5
+~
+~
+0 -1 5112
+S
+#5112
+The Bar~
+Just your typical bar.  Patrons of clerical descent walk around enjoying a 
+couple drinks and sharing stories.  A waiter is here to get you your spirits.
+~
+51 4248 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 5111
+D5
+~
+~
+0 -1 5113
+S
+#5113
+Guildmaster's Inner Sanctum~
+The guildmaster's inner sanctum - Here the guildmaster stands waiting to help
+you learn the tricks of the clerical trade.  
+~
+51 4105 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 5112
+S
+#5114
+City street~
+You walk along a highly ornate city street leading north and west.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5115
+D3
+~
+~
+0 -1 5107
+S
+#5115
+City street~
+You walk along a highly ornate street running north-south. Not much is going on over here.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5116
+D2
+~
+~
+0 -1 5114
+S
+#5116
+City Street~
+You walk along a highly ornate city street within the drow commons.  The street
+continues in a east-west direction, while another exit leads off to the south.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5137
+D2
+~
+~
+0 -1 5115
+D3
+~
+~
+0 -1 5117
+S
+#5117
+City street~
+You walk along a highly ornate city street. To the north lies the entrance
+to the thieve's guild.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5118
+D1
+~
+~
+0 -1 5116
+D3
+~
+~
+0 -1 5121
+S
+#5118
+Entrance to the Thieve's Guild~
+The thief - the thief is one of the easiest characters to play on the realm.
+They level faster than most other classes here.  One problem with the thief
+is that their usefullness comes randomly and sometimes rarely.  The thieve's
+deadly backstab is a very lethal weapon.  
+~
+51 4120 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5117
+D5
+~
+~
+0 -1 5119
+S
+#5119
+The Brickyard~
+An up and coming bar in the drow area. This bar is commonly mentioned when thinking of good beer specials and occassionally when a good band comes to the area. A nice place to just kick back and enjoy some spirits.
+~
+51 4248 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5120
+D4
+~
+~
+0 -1 5118
+S
+#5120
+Guildmaster's Inner Sanctum~
+You have entered the guildmaster's inner sanctum.  Daggers stck in the wall
+and broken chairs make you wonder if the old man sitting in the shadows can
+teach you anything.  Although old in his age, he gleems of knowledge and wisdom.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5119
+S
+#5121
+Drow Courtyard~
+This north-eastern corner of the courtyard is busy like the rest.  To the east
+lies a city street while other exits lead back towards the courtyard.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5117
+D2
+~
+~
+0 -1 5104
+D3
+~
+~
+0 -1 5122
+S
+#5122
+Northern-End of Drow Courtyard~
+This the the far northern end of the courtyard.  To the north lies Drow Main
+Street and the temple of the Drow city.  Noises can be heard coming from the
+north.
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5188
+D1
+~
+~
+0 -1 5121
+D2
+~
+~
+0 -1 5105
+D3
+~
+~
+0 -1 5123
+D8
+~
+~
+0 -1 5104
+D9
+~
+~
+0 -1 5106
+S
+#5123
+Drow Courtyard~
+This bustling city revolves around the activity of his people. To the north 
+lies the General Store while other exits lead off in all directions.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5155
+D1
+~
+~
+0 -1 5122
+D2
+~
+~
+0 -1 5106
+D3
+~
+~
+0 -1 5124
+D8
+~
+~
+0 -1 5105
+S
+#5124
+A Back Alley~
+You have entered a back alley way.  To the north lies the guild of the ranger.
+This alley contiunes to the west.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5131
+D1
+~
+~
+0 -1 5123
+D3
+~
+~
+0 -1 5125
+S
+#5125
+A Back Alley~
+This alley way continues to the south and back to the east.  Sounds from the
+city can be faintly heard from here.  To the south you see a good size spider
+crawl up the city wall.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5124
+D2
+~
+~
+0 -1 5134
+S
+#5126
+The Tunnel of Terror~
+You have entered a narrow tunnel which is densly covered with cobwebs.  You 
+can see a pair of gleeming red eyes further down the tunnel. A very itchy
+feeling crawls over your skin.
+~
+51 14361 0
+0d0+0 0 0
+D3
+An entrance to a tunnel is here.
+~
+tunnel~
+1 -1 5134
+D5
+~
+secret~
+1 -1 5127
+S
+#5127
+Deeper into the Tunnel~
+This is a very strange tunnel.  Chunks of the wall seem to be carved out as if
+though someone or something has been using the wall as a sharpening tool.  The
+room seems to be getting even thicker with cobwebs. You feel very uneasy.
+~
+51 14617 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5128
+D4
+~
+secret~
+1 -1 5126
+S
+#5128
+The end of the Tunnel~
+What was that?! A big furry legged spider just crossed across your eyes. A 
+number of cacoon shaped objects can be found strung from the ceiling.  A cool
+breeze passes through the tunnel which makes you recollect that feeling just 
+before you heard your last death announcement.
+~
+51 14617 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5127
+D3
+~
+~
+0 -1 5129
+S
+#5129
+Before the Web~
+As you venture deeper into this tunnel, the walls seem to slope slightly 
+downward while you fight your way through small cobwebs.  You can feel a great
+deal of energy coming from this room.  Something is not right here. You feel as
+though your very existance is in danger.
+~
+51 14489 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5128
+D3
+~
+~
+0 -1 5130
+S
+#5130
+The Web~
+You have entered into a cavern bare on the northern and southern walls, but 
+decorated with a enourmous tapestry like web on the western wall.  The 
+beauty of this web is magestic and seems to put you in a trance.  Besides
+the pike of assorted bones beneath the web, you would think that this was a
+beautiful treasure you just found.
+~
+51 14489 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5129
+S
+#5131
+Entrance to the Ranger's Guild~
+The ranger - A very skilled class with the ability to render its victim 
+helpless. A wise choice in adventurer if you are unfamiliar with your 
+surroundings. Some find the ranger a little frustrating and hard to handle.
+~
+51 4120 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5124
+D5
+~
+~
+0 -1 5132
+S
+#5132
+Alex's Cantina~
+A very poplar bar of the drow people.  Many gather here after a long days work
+and drink down a few cold ones. At night, this bar is hoppin with live dance
+music and is a great social surrounding.
+~
+51 4248 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5133
+D4
+~
+~
+0 -1 5131
+S
+#5133
+Guildmaster's Inner Sanctum~
+The sanctum of your guildmaster - Here one may practice the arts that the  
+ranger kind have developed over its relatively short existance.  The room
+seems to have a spiritual feeling and you notice your guildmaster sitting in
+the corner waiting to help you.
+~
+51 4120 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5132
+S
+#5134
+A Back Alley~
+Litter and debris line this alley way.  From the looks of it, it would appear 
+that not many travelers venture into this part of the city - not even the drow
+people. Exits lead north and south.  Something about this room pulls your
+soul into your stomach.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5125
+D1
+A hidden tunnel is here.
+~
+tunnel~
+1 -1 5126
+D2
+~
+~
+0 -1 5135
+S
+#5135
+A back Alley~
+This alley way continues to the north and back towards the courtyard to the
+east. Faint sounds coming from the courtyard can stil be heard.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5134
+D1
+~
+~
+0 -1 5136
+S
+#5136
+A Back Alley~
+You have entered into a back alley way. To the east is the drow courtyard while to the west you can't yet determine what your future holds.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5102
+D3
+~
+~
+0 -1 5135
+S
+#5137
+City Street~
+You have come to the end of this city street.  Another street intersects this
+one to your east.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5139
+D3
+~
+~
+0 -1 5116
+S
+#5138
+Entrance to the Warrior's Guild~
+The warrior - the warrior is one of the easier classes to control.  Built with
+brute strength, the warrior kin are the bulk of most any group.  Although 
+adapt in fighting, the warrior kin lacks the ability of magic.  You stand in
+the warrior's guild.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5146
+D3
+~
+~
+0 -1 5177
+S
+#5139
+Midnight Way~
+You are on Midnight Way.  By the look of it, you can figure out pretty easily,
+why this street is named such.  Dark shadows loom in from what little light
+comes into this street.
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5142
+D2
+~
+~
+0 -1 5140
+D3
+~
+~
+0 -1 5137
+S
+#5140
+Midnight Way~
+It would appear that you have come to the end of the street. to the south is
+the local watering hole while the street continues in the direction you came 
+from.
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5139
+D2
+~
+~
+0 -1 5141
+S
+#5141
+Water Shop of the Lost Traveler~
+The heat and humidity of the realms will bring great thirst to your body.
+Here, the shopkeeper can help you control your thirst with his wares. He has
+a list of things to sell you.
+~
+51 4248 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5140
+S
+#5142
+Midnight Way~
+Midnight Way, runs north-south along the eastern most part of the city's
+boundaries. Silent as a ninja in the dark, this street gives you a very
+creepy feeling
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5143
+D2
+~
+~
+0 -1 5139
+S
+#5143
+Midnight Way~
+Midnight way, so named for the darkness which unnaturally falls on this street, runs north-south from here. 
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5144
+D2
+~
+~
+0 -1 5142
+D3
+~
+~
+0 -1 5146
+S
+#5144
+Midnight Way~
+As light seeps into this street as you continue north, you can make out small
+figures cowering in the remaining shadows. The light from the north, faintly
+outlines a small shop hidden away in the corner.
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5145
+D2
+~
+~
+0 -1 5143
+S
+#5145
+The Unholy Statistician~
+Besides what your guildmasters can teach you, the statistician can give you
+powers like no one else can. Sent as a prophet from a higher power, he can make
+alterations to your soul with swirl of a finger.
+~
+51 4248 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5144
+S
+#5146
+WidowMaker~
+This particular street has a crooked twist in it. The walls seem to slant in
+obscure directions and seem to be made of some unusal type of rock.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5143
+D2
+~
+~
+0 -1 5138
+D3
+~
+~
+0 -1 5147
+S
+#5147
+WidowMaker~
+Here the street bends to the north. A small shop lies to your west while 
+you continue on your journey throw the drow combines.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5149
+D1
+~
+~
+0 -1 5146
+D3
+~
+~
+0 -1 5148
+S
+#5148
+Penny-anti Armory~
+The walls are lined with pieces of equipment that appear to be under repair.
+A glowing light comes from beneath the shopkeepers counter.  Maybe he does
+have something of worth afterall.
+~
+51 4248 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5147
+S
+#5149
+WidowMaker~
+As a small spider scuries from underneath your foot step, it reminds you of how fortunate you are to be so big. Well at least in your mind anyway.  This street appears to only have exits leading north-south
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5150
+D2
+~
+~
+0 -1 5147
+S
+#5150
+Intersection of Oliver Lane & WidowMaker~
+This intersection is a very busy part of town. Drow commoners leave off west to go worship while other fell-o's stand around conversing. 
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5151
+D2
+~
+~
+0 -1 5149
+D3
+~
+~
+0 -1 5185
+S
+#5151
+WidowMaker~
+You stand at the end of WidowMaker.  You can hear the sounds of the city coming
+from the south while the exit to the east appears to lead to a much quieter
+part of the city.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5152
+D2
+~
+~
+0 -1 5150
+S
+#5152
+A Dusty Side Street~
+This little side street is covered with dust.  The swirl of dust makes it hard
+to see and has a blinding effect. From what you can make out, there appears to
+be an exit to the south
+~
+51 4120 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5153
+D3
+~
+~
+0 -1 5151
+S
+#5153
+A Dusty Side Street~
+As you continue through the swirl of dust, it only seems to get thicker and
+thicker. You should probably get out of here.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5152
+D2
+~
+~
+0 -1 5154
+S
+#5154
+A Dust Storm~
+The swirl of dust FRINGES your skin! OUCH! as small debris kicks up and hits
+you in the head you realize that you have made a wrong turn.
+~
+51 30746 0
+1d1+199 90 0
+D0
+~
+~
+0 -1 5153
+S
+#5155
+The General Store~
+Little knick knacks line the walls of this shop.  Here, one can buy some of the
+necessities that might be needed during the may adventures within the realm.
+Make sure you have everything you need and the cash for it.
+~
+51 4248 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5123
+S
+#5156
+The Musty Bakery~
+The smell of fresh baked goods immediately entice your hunger.  The baker here
+has a list of fine goods to sell you.  To the east lies the might temple of
+Yochlol.
+~
+51 4248 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5197
+S
+#5157
+News of the Forgotten fool~
+This is a small room which is lined with small pieces of furniture.  News of
+upcoming events and other things can be found on the board.  Travellers stand
+here looking at the board.
+
+~
+51 4248 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5198
+S
+#5158
+The Black-Magic Shop~
+All types of potions and scrolls line the shelves of this small room.  The s
+shopkeeper is here to help you find what you need.
+
+~
+51 4248 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5195
+S
+#5159
+Wicked Dagger Weapon Shop~
+All types of weapons can be purchased here for various prices.  To see what 
+the shop keeper has take a look at the list on the counter.
+~
+51 4248 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5194
+S
+#5160
+Guildmaster of the Unholy ~
+As you enter this room, you can feel all the forces of evil creep within your
+soul. The guildmaster of the Antipaladin race, stands before you surrounded
+by a deadly aura.
+~
+51 4104 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5165
+S
+#5161
+drow production room~
+this room is just for holding more mobs that will come out as the game goes
+on.
+~
+51 4105 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5171
+D4
+~
+~
+0 -1 5105
+S
+#5162
+~
+~
+51 0 0
+0d0+0 0 0
+S
+#5163
+~
+~
+51 0 0
+0d0+0 0 0
+S
+#5164
+Paladin's & AntiPaladin's Guild~
+This is the entrance to the guild of the multi paladins.  Split at creation,
+myth has it that the antipaladin is the evil brother of its holy counterpart,
+the paladin.  Stairs going up lead to a social gathering of travelers.
+~
+51 4120 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5196
+D4
+~
+~
+0 -1 5165
+S
+#5165
+Toe's Tavern~
+Adventurers of the Paladin kin sit here and jovialy put down some spirits and
+brab about their travels.  Anotherset of stairs lead up while a dark dismal
+room leads off to the west.
+~
+51 4248 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5160
+D4
+~
+~
+0 -1 5166
+D5
+~
+~
+0 -1 5164
+S
+#5166
+Guildmaster of the Holy~
+Your guildmaster is here to help you learn the tricks of the trade.  By 
+PRACTICING, you can advance your knowledge in various attributes.  For some 
+ominous reason the noise from the bar below can not be heard from within
+the guildmaster's sanctum.  This room feels very sacred.
+~
+51 4120 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 5165
+S
+#5167
+~
+~
+51 16 0
+0d0+0 0 0
+S
+#5168
+~
+~
+51 0 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5169
+D4
+~
+~
+0 -1 5186
+S
+#5169
+The Dark Passage~
+This passage is the entry way to the great arena up above.  Sounds of swords
+clanging and chains smashing on the ground fil this room.
+~
+51 4121 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5186
+D4
+~
+~
+0 -1 5170
+S
+#5170
+Arena of Death~
+Adventurers of all kin come here to do battle.  Blood is scatterd about and
+broken shields, bats swords armor, etc can bee seen all about.
+~
+51 4105 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5171
+D2
+~
+~
+0 -1 5175
+D3
+~
+~
+0 -1 5172
+D5
+~
+~
+0 -1 5169
+D7
+~
+~
+0 -1 5173
+D9
+~
+~
+0 -1 5174
+S
+#5171
+Arena of Death~
+The blood stained ground here emits a horrible odor. More broken items litter
+the battle area here.
+~
+51 4105 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5170
+D3
+~
+~
+0 -1 5173
+D9
+~
+~
+0 -1 5172
+S
+#5172
+Arena of Death~
+This arena was built for one thing as its intentions -- killing!  Body parts of those who have tried there luck strewn the grounds here.
+~
+51 4105 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5173
+D1
+~
+~
+0 -1 5170
+D2
+~
+~
+0 -1 5174
+D6
+~
+~
+0 -1 5171
+D8
+~
+~
+0 -1 5175
+S
+#5173
+Arena of Death~
+Similar to every other corner of this battle field, this room is in the same
+condition as the rest. Broken bones and equipment lie before you.
+~
+51 4105 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5171
+D2
+~
+~
+0 -1 5172
+D8
+~
+~
+0 -1 5170
+S
+#5174
+Arena of Death~
+Just another place where killing in mass quantities has taken place.  The 
+ground here is saturated with blood.  Exits lead off in all directions.
+~
+51 4105 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5172
+D1
+~
+~
+0 -1 5175
+D6
+~
+~
+0 -1 5170
+S
+#5175
+Arena of Death~
+A less fought in corner of the arena. Maybe this is where you should spill your blood. To the north lies the entrance to the arena.
+~
+51 4105 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5170
+D3
+~
+~
+0 -1 5174
+D7
+~
+~
+0 -1 5172
+S
+#5176
+The Dark Pitstop~
+This thriving bar is a rest stop for weery travellers. Warrior type adventurers
+move about the room toasting each others success.  A waiter is here to help
+you.
+~
+51 4248 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5138
+D3
+~
+~
+0 -1 5178
+S
+#5177
+Beach Shack~
+Once a thriving nightclub/bar, this place is now a small privately own eatery.
+The bar owner has moved on and is now promoting other local clubs.  Nothing
+goes on here anymore
+~
+51 6288 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5178
+D1
+~
+~
+0 -1 5138
+S
+#5178
+Guildmaster's Inner Sanctum~
+You are in the guildmaster's inner sanctum.  Weapons of all type line the walls
+while other warrior type seem to be fine tuning their skills.  Your guildmaster
+awaits your bidding.
+
+~
+51 4120 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 5177
+S
+#5179
+~
+~
+51 0 0
+0d0+0 0 0
+S
+#5180
+Oliver Lane - West~
+The path you were following comes to an abrut stop here.  Looking at the wall
+to the west you can see a an inscription which looks like a small tunnel with
+a large web at the end.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5181
+S
+#5181
+Oliver Lane - West~
+You are on a very un populated section of this road.  Sounds of whips can
+be heard to your west.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5182
+D3
+~
+~
+0 -1 5180
+S
+#5182
+Oliver Lane - West~
+A very quiet street. Not much traffic comes down this direction it would appear.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5183
+D3
+~
+~
+0 -1 5181
+S
+#5183
+Entrance to the Dark Temple~
+The huge temple looms over you from here.  You can make out some faint markings
+of a large spider above the door of the temple.  A very quiet street leads to
+the west and also branches to the east.
+~
+51 4232 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5193
+D1
+~
+~
+0 -1 5184
+D2
+~
+~
+0 -1 5186
+D3
+~
+~
+0 -1 5182
+S
+#5184
+Oliver Lane - East~
+This part of the street leads towards a very populous area within the drow
+city. As common folk cruise by, you wonder if there is something going on
+that you do not know about.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5185
+D3
+~
+~
+0 -1 5183
+S
+#5185
+Oliver Lane - East~
+The sounds of a thriving community can distinctly be heard from here.  A major
+intersection lies to the east, while the exit to the west runs back towards
+the temple.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5150
+D3
+~
+~
+0 -1 5184
+S
+#5186
+Drow Main Street~
+This is a very busy section in the drow city.  To the east lies the Post Office
+fo writing other adventurers.  The west exit leads towards the arena where
+travelers can sharpen their skills, while the ominous temple can be seen to 
+the north.
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5183
+D1
+~
+~
+0 -1 5191
+D2
+~
+~
+0 -1 5187
+D3
+~
+~
+0 -1 5169
+S
+#5187
+Drow Main Street~
+This section of the street looks nothing different from the rest. Exits lead
+off to the north and south.
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5186
+D2
+~
+~
+0 -1 5188
+S
+#5188
+Drow Main Street~
+This street is scattered with debris and small spiders.  The sounds of the 
+courtyard can be heard to the south while people seem to be moving to the 
+north.
+~
+51 4121 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5187
+D2
+~
+~
+0 -1 5122
+S
+#5189
+~
+~
+51 0 0
+0d0+0 0 0
+S
+#5190
+~
+~
+51 0 0
+0d0+0 0 0
+S
+#5191
+The Lobby to the Post Office~
+This is the lobby to the Post Office.  To the east lies the post master.  This
+room is extravagantly decorated with rugs and tapestries.  Small chairs line
+the northern wall.
+~
+51 4120 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5192
+D3
+~
+~
+0 -1 5186
+S
+#5192
+The Post Office~
+This is the post office.  From here you can send and receive mail.  the 
+postmaster is very reliable in the handling of your mail. What mal goes through
+him is confidential.
+~
+51 4248 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 5191
+S
+#5193
+Foyer of the Dark Temple~
+Upon entering this large temple you feel a cold chill pass through the room.
+There are satanic markings around every corner.  By the appearnace of this 
+massive temple you can only imagine the size of the rest of the city.  This
+temple is obviously what the drow civilization operates around.
+~
+51 4124 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5196
+D1
+~
+~
+0 -1 5194
+D2
+~
+~
+0 -1 5183
+D3
+~
+~
+0 -1 5198
+D6
+~
+~
+0 -1 5195
+D7
+~
+~
+0 -1 5197
+S
+#5194
+South-Eastern Corner of the Dark Temple~
+A huge statue of the almighty yochlol stands in the center of this room. Looking
+at this specimen reminds you of how good it is to be human. You hope you never
+meet this hideous creature face to face.
+~
+51 4120 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5195
+D1
+~
+~
+0 -1 5159
+D3
+~
+~
+0 -1 5193
+S
+#5195
+North-Eastern Corner of the Dark Temple~
+This end of the temple is very similar to the rest.  To the east lies the magic
+shop. The evilness of this room sends a chill down your spine
+~
+51 4124 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5158
+D2
+~
+~
+0 -1 5194
+D3
+~
+~
+0 -1 5196
+D9
+~
+~
+0 -1 5193
+S
+#5196
+Northern-end of the Dark Temple~
+You are in the northern end of the temple.  More sadistic markings can be
+found here along with a huge mural on the floor that seems to stretch into
+other rooms in all directions. To the north is the gild of the paladin kind.
+~
+51 4124 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5164
+D1
+~
+~
+0 -1 5195
+D2
+~
+~
+0 -1 5193
+D3
+~
+~
+0 -1 5197
+D8
+~
+~
+0 -1 5194
+D9
+~
+~
+0 -1 5198
+S
+#5197
+North-western corner of the Temple~
+This corner is no different from the other rooms of the temple.  More strange
+markings an scattered debris can be found in this room.
+~
+51 4124 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 5196
+D2
+~
+~
+0 -1 5198
+D3
+~
+~
+0 -1 5156
+D8
+~
+~
+0 -1 5193
+S
+#5198
+South-Western Corner of the Dark Temple~
+Portraits of the great arachnid yochlol line this ocrner of the temple.  To the
+west lies the reading room whereas to the east, the entrance/exit to the temple.
+~
+51 4124 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 5197
+D1
+~
+~
+0 -1 5193
+D3
+~
+~
+0 -1 5157
+D6
+~
+~
+0 -1 5196
+S
+#5199
+~
+~
+51 0 0
+0d0+0 0 0
+S
+$

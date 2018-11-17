@@ -1,0 +1,428 @@
+#21700
+hill giant~
+a hill giant~
+A hill giant lumbers around here, looking for something to smash.
+~
+Hill giants are ugly humanoids, about 10 1/2 feet tall and very strong. They
+aren't very smart, but what they lack in intelligence they more than make up
+for in brutality and strength. This one isn't happy to see you.
+~
+173 0 -750 W
+35 25 -2 12d4+550 7d5+10
+5000 68500
+8 8 1
+18 10 7 7 9 18 0
+18 3 5
+-20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#21701
+hill giant giantess~
+a hill giantess~
+A female hill giant roams around here, looking for humans to kill and eat.
+~
+Female hill giants are no prettier than their male counterparts, being only
+slightly shorter and with the same low brow and brutish jawline. While they
+are not quite as strong as their menfolk, they are certainly stronger than 
+you are...you'd best hope this one hasn't seen you!
+~
+173 0 -750 W
+31 25 0 12d3+475 6d5+8
+4350 57500
+8 8 1
+18 0 7 7 10 18 0
+19 3 5
+0 0 4 0 0
+20 20 20 20 20
+0 0 0
+6 10
+#21702
+wolf dire~
+a dire wolf~
+A dire wolf poises itself to leap at your throat!
+~
+This wolf looks lean and hungry...it's probably living off whatever carrion
+it's hill giant masters don't claim for themselves. It slavers eagerly as it
+contemplates your succulent flesh...
+~
+4139 263208 -100 W
+18 27 4 15d5+200 5d2+5
+0 24500
+8 8 0
+13 0 13 13 13 13 0
+4 2 3
+40 0 4 0 0
+55 55 55 55 55
+0 0 0
+6 10
+#21703
+hill giant raider~
+a hill giant raider~
+A hill giant raider advances on you with murder in his eyes!
+~
+This hill giant is even taller and uglier than the norm, which is really
+saying something. His arms look powerful enough to crush granite, and the
+stench rising from his unwashed body is nearly palpable. He looks as if he
+could cheerfully tear off all your limbs and eat them while you watch.
+~
+173 0 -750 W
+41 27 -1 18d4+600 7d3+13
+6750 80000
+8 8 1
+18 20 9 9 10 18 0
+18 3 5
+-10 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#21704
+guthru chodak giant hill king~
+Chodak Guthru~
+Chodak Guthru, King of the Hill Giants, contemplates your imminent demise.
+~
+Chodak Guthru is an awesome sight. Nearly twelve feet tall, his brutish 
+features show great cunning, as well as numerous battle scars. His mighty
+arms look strong enough to crack granite, or at the very least, every bone
+in your body. His expression says that unless you are a very fast runner,
+your bones will be decorating his hall tonight...
+~
+8237 0 -750 W
+47 29 -3 22d4+750 7d5+10
+10000 115000
+8 8 1
+18 30 9 7 9 18 0
+18 3 5
+-30 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#21705
+stone giant~
+a stone giant~
+A tall and lanky stone giant ignores your presence.
+~
+Stone giants are lankier than their brethren of the hills, though taller.
+This one stands nearly twelve feet high, with a complexion like old granite
+and eyes like tarnished steel. He appears not to notice your presence in his
+home, and it doesn't look like it would concern him if he did. Bothering him
+or molesting his peers would probably not be a good idea, however.
+~
+141 0 0 W
+41 27 -1 18d4+600 7d3+13
+6750 80000
+8 8 1
+18 20 9 9 10 18 0
+17 3 5
+-10 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#21706
+stone giantess~
+a stone giantess~
+A stone giantess calmly goes about her business here.
+~
+This stone giantess has a rather plain, homely look about her, but not nearly
+as fearsome as the hill giantesses. Perhaps it is the lack of a bloodthirsty
+snarl that does it. This giantess is perfectly content to leave you be, as
+long as you are content to do the same. Otherwise, she might simply have to
+squeeze you to a bloody pulp, and we don't want that, now, do we?
+~
+141 0 0 W
+33 27 -1 18d4+600 7d3+13
+3750 65000
+8 8 2
+18 10 10 10 10 18 0
+19 3 5
+-10 0 4 0 0
+15 15 15 15 15
+0 0 0
+6 0
+#21707
+stone giant crusher rock~
+a stone giant rock-crusher~
+A stone giant rock-crusher is here, searching for attractive gemstones.
+~
+Stone giants have a primitive's love of pretty stones, hence their profession
+of rock-crusher. These giants basically tear promising ore from the caves
+with their bare hands and squeeze it into shiny gems. This one is intent on
+his task, and does not appear to notice you. You shudder as you contemplate
+what those hands might do to your soft and yielding flesh!
+~
+13 1024 0 W
+50 30 -1 18d4+600 7d5+15
+12000 131000
+8 8 1
+18 20 9 9 10 18 0
+17 3 5
+-10 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#21708
+kechke aandaan chief giant stone~
+Aandaan Kechke~
+Aandaan Kechke, Chief of the Stone Giants, examines the latest ore sample.
+~
+Aandaan Kechke is rather unimpressive for a chief of the stone giants, but
+he is widely known for his discerning eye in ore quality. Even the dwarves
+have a grudging respect for his skills. However, his task demands a lot of
+concentration, so it would probably be wise to leave before you disturb him.
+~
+9 0 0 W
+54 32 -4 20d6+700 7d5+18
+14500 150000
+8 8 1
+18 50 12 12 12 18 0
+17 3 5
+-40 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#21709
+bear cave~
+a huge cave bear~
+A huge cave bear cocks its head at you quizzically.
+~
+Stone giants are known to be fond of cave bears, and frequently keep them
+around as pets. This is a huge example of the type, and looks very well fed.
+It doesn't seem aggressive, but you probably don't want to mess with it.
+~
+4233 1024 0 W
+31 28 2 2d4+450 4d10+6
+0 65000
+8 8 0
+18 20 6 6 13 18 0
+17 3 3
+20 0 4 0 0
+20 20 20 20 20
+0 0 0
+6 0
+#21710
+frost giant~
+a frost giant~
+A frost giant ambles around here, singing guttural songs of bloodshed.
+~
+This frost giant towers over you, almost 15 feet tall. His skin is ivory in
+color, with a bit of red from the biting wind whistling around you. His hair
+is a vibrant yellow color, and his bushy beard is the same. His eyes are as
+blue as the northern ice, and narrowed in anger as he detects your presence.
+It's probably about time you left, don't you think?
+~
+2057 131072 -750 W
+50 31 0 8d8+700 7d5+15
+10000 131000
+8 8 1
+18 80 10 10 11 18 0
+20 4 5
+0 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#21711
+frost giantess~
+a frost giantess~
+A frost giantess wanders the area, looking for humans to kill for supper.
+~
+This is one big lady! She is at least twice the height of the tallest of
+humans, and the yellow braids hanging from her head are as thick as hawsers
+used to moor ships to the docks. She might be considered attractive if she
+was a bit cleaner, and closer to your size, and didn't consider you a source
+of food. Probably best just to stay away.
+~
+6153 131072 -750 W
+38 31 -2 8d8+650 7d5+12
+7500 80000
+8 8 2
+18 25 10 10 11 18 0
+19 4 5
+-20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#21712
+frost giant berserker~
+a frost giant berserker~
+A frost giant berserker screams a battle cry and attacks you!
+~
+This frost giant looks much like the others, except his body is crisscrossed
+with scars of various size and severity. It looks as if he has seen many a
+battle, and the mad fury in his eyes tells you that he is about to see one
+more, and that he is fairly sure of who will win...
+~
+270377 132096 -750 W
+60 33 2 8d8+800 7d7+18
+30000 200000
+8 8 1
+18 90 9 9 13 18 0
+18 4 5
+20 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#21713
+wolf winter~
+a winter wolf~
+A winter wolf drifts silently out of the snow and pounces on you!
+~
+This wolf is pure white except for its mouth and eyes, both of which are
+bright red. You notice smoke rising from its mouth, then realize that it is
+not smoke at all, but a killing frost! That frost could chill a man to his
+bones, you think, as you prepare to be deep-frozen.
+~
+4233 132104 -350 W
+42 28 2 2d4+450 4d10+6
+0 90000
+8 8 0
+14 0 9 9 17 16 0
+14 2 3
+20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#21714
+djanneskald jakan frost giant thegn~
+Jakan Djanneskald~
+Jakan Djanneskald, Thegn of the Frost Giants, howls a battle cry and attacks!
+~
+Jakan Djanneskald, the mighty Thegn of the Frost Giants, was once a berserker
+who took one too many blows to the head from the fire giants. As a result,
+he has discovered that he has a brain, and though he is still unskilled in
+its use, he is still VERY capable of tearing you to pieces. Wait just a
+moment, and he will demonstrate...
+~
+270379 132096 -750 W
+63 35 -3 8d8+875 7d7+20
+31250 275000
+8 8 1
+18 100 12 9 13 18 0
+20 4 5
+-30 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#21715
+fire giantess~
+a fire giantess~
+A fire giantess frowns pitilessly at you, puny human invader.
+~
+Fire giantesses are similar to human nobles in that they are haughty and
+arrogant, not to be bothered by a puny human such as yourself. This one is
+sort of attractive in a dusky way, but the stare of disgust she gives you as
+you look her over quells any urges you might be feeling. She's still a very
+big girl, so it would not be wise to anger her.
+~
+12297 132096 -750 W
+41 33 2 6d6+775 7d5+18
+9000 90000
+8 8 2
+18 30 13 13 13 18 0
+19 4 5
+20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#21716
+fire giant~
+a fire giant~
+A fire giant bares his orange-red teeth at you in a terrifying grimace.
+~
+Though not quite as tall as their cold-weather kinsmen atop the mountain,
+fire giants are a bit more powerful, and quite a bit more intelligent. This
+one has coal-black skin and bristly hair of fiery orange. His eyes glow a
+malevolent red as he looks you over and decides to dispose of you quickly.
+~
+12329 132096 -750 W
+63 33 -4 8d8+800 7d7+20
+30000 275000
+8 8 1
+18 95 13 13 13 18 0
+20 4 5
+-40 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#21717
+fire giant warrior~
+a fire giant warrior~
+A fire giant warrior grits his teeth in rage as you approach! RUN FOR IT!
+~
+Fire giant warriors are very disciplined, at least compared to other giants.
+They are usually well-armed and armored, and while their tactics may be a
+bit inferior to those of the human and demi-human races, their huge size and
+strength compensate for this rather well. You might as well lie down...dead
+people aren't supposed to be walking around.
+~
+12329 132096 -500 W
+75 37 -6 10d10+1000 7d8+26
+65000 350000
+8 8 1
+18 95 13 13 13 18 0
+20 4 5
+-60 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#21718
+hound hell hellhound~
+a hell hound~
+A grim and evil hell hound snarls and poises itself to spring...
+~
+Hell hounds look much like large black rottweilers, as large as a man, with
+sooty black fur and baleful red eyes. They are boon companions of fire giants,
+who often use them for hunting (humans). Their fangs are strong and sharp,
+and they have the ability to breathe fire as well. Trouble!
+~
+4233 132104 -350 W
+38 32 0 2d4+450 5d12+6
+0 75000
+8 8 0
+14 0 9 9 17 16 0
+12 2 3
+0 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#21719
+akbar ab sholom fire giant lord~
+Sholom ab Akbar~
+Sholom ab Akbar, Lord of the Fire Giants, roars in fury as you enter!
+~
+Sholom ab Akbar is the tallest of the fire giants, standing nearly 13 feet
+high. His coal-black skin bears the marks of many battles, and his cruel red
+eyes have seen much bloodshed. Your presence here disturbs him greatly, and
+he is about to do a little disturbing of his own...
+~
+274475 132096 -500 W
+86 40 -8 12d12+1450 8d8+30
+80000 400000
+8 8 1
+18 100 14 14 13 18 0
+20 4 5
+-80 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#21720
+cordruin endros buel giant storm king~
+Buel Endros Cordruin~
+Buel Endros Cordruin, King of the Storm Giants, is being held prisoner here.
+~
+This majestic storm giant would tower over you if he were standing, but a
+heavy set of black iron chains hold him to the ground. His eyes are proud
+and furious at this violation of his dignity, but he is unable to free
+himself in the presence of all of these fire giants. He catches your eye
+with a desperate glance, hoping you will free him from his torment.
+~
+270345 132104 500 W
+101 43 -12 20d20+1500 10d8+35
+100000 450000
+6 6 1
+18 100 18 18 13 18 0
+8 4 5
+-120 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+$

@@ -1,0 +1,1176 @@
+#10501
+Wild Valley~
+   You move slowly through the green vines and thick undergrowth that
+cover the valley floor.  It would appear that not many have come here
+in ages.  To the west, the land rises to leave the valley.  To the
+east the vegetation clears to give way to a strange uprising of stone.
+~
+105 0 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 10599
+D1
+The uprising looks like some huge beast set to pounce.
+~
+~
+0 -1 10502
+D2
+~
+~
+0 -1 12066
+D3
+~
+~
+0 -1 10598
+E
+uprising stone~
+The uprising looks like some huge beast set to pounce.
+~
+S
+#10502
+Before the Dragon~
+   You stand before the Dragon Ancalador.  You can still make out its
+petrified form despite the earth that has filled in the crevices
+between its limbs and the huge oaks, dwarfed by the dragon itself,
+which have grown there.  A vague evil emanates from the once-alive
+stone that terrorized nations long ago.
+~
+105 0 4
+0d0+0 0 0
+D1
+The huge maw lies frozen in midsnarl.  You could find enough purchase
+to scale the tongue and enter inside, should you want to.
+~
+~
+0 -1 10503
+D3
+~
+~
+0 -1 10501
+S
+#10503
+In the Dragon's Mouth~
+   Rows of stone teeth as large as trolls line the walls here.  A
+tongue of pitted stone leads east, behind stone molars as large as
+iron shields.
+~
+105 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10504
+D3
+~
+~
+0 -1 10502
+S
+#10504
+By Stone Tonsils~
+   You are in the back of the dragon's mouth.  The throat continues
+down and something oozes from petrified sinuses above.
+~
+105 9 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 10503
+D5
+~
+~
+0 -1 10505
+S
+#10505
+Throat of Stone~
+   The floor is uneven -- the middle of the passage being lower than
+the sides, which rise up to the walls.  The whole passage is slightly
+graded, moving east and downward.
+~
+105 9 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 10504
+D5
+~
+~
+0 -1 10506
+S
+#10506
+Further Down the Dragon's Throat~
+   The tunnel begins to lose its steepness and merely runs eastward
+now.  The shapes of what might be petrified muscles line the walls.
+~
+105 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10507
+D4
+~
+~
+0 -1 10505
+S
+#10507
+Junction~
+
+   You are in a four way junction.  The dragon's throat continues east
+and west, but by squeezing under some stone flaps you can make out
+tunnels leading north and south.
+
+~
+105 9 0
+0d0+0 0 0
+D0
+You peer under the petrified flap and see a faint light amid darkness.
+~
+~
+0 -1 10508
+D1
+~
+~
+0 -1 10560
+D2
+You peer under the petrified flap and see a faint light amid darkness.
+~
+~
+0 -1 10511
+D3
+~
+~
+0 -1 10506
+E
+flaps flap~
+Who can say which part of draconian anatomy this might be?
+~
+S
+#10508
+Stone Tunnel~
+   This circular passage of stone gradually curves up to a place of
+great light and heat.
+~
+105 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10507
+D4
+All you can see upwards in a great glare followed by gusts of hot wind.
+~
+~
+0 -1 10509
+S
+#10509
+Dragon Lung~
+   Ancient fires burns here, awaiting the rebirth of their master.
+~
+105 8 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 10508
+S
+#10510
+Heart of the Dragon~
+   Runes which glow with a blue light are carved into the stone walls
+of Ancalagor's heart chamber here.  Their magical purity counters his
+evil and makes for a holy balance that is Neutrality.  It seems some
+music lover has set up residence here, judging by all the instruments
+and sheet music floating here.
+~
+105 520 0
+0d0+0 0 0
+D0
+You see the chamber wall dilate open for you, leading to the tunnel beyond.
+~
+~
+0 -1 10560
+D5
+A disc of sparking energy opens to the Midgaard temple below.
+~
+~
+0 -1 3001
+S
+#10511
+Stone Tunnel~
+   This stone passage is lit by a great light and fierce heat from its
+far end, which lies above.
+~
+105 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10507
+D4
+You must cover your eyes rather than peer into the sun-like brightness.
+~
+~
+0 -1 10512
+S
+#10512
+Dragon Lung~
+   The nuclear fires that empowered the dragon with its frightful
+breath are here, and though they have been smoldered for so very
+long, they scorch you and make you rue the choice wearing of metal
+armor.
+~
+105 8 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 10511
+S
+#10513
+Ancalagor's Stomach~
+   The dragon's throat ends, revealing a huge cavern lit from below by
+eerie and diffuse lights of yellow and green.  Even more amazingly, a
+wooden bridge spans the the stalactite-roofed cavern!  A steep grade
+leads down to the cavern floor safely enough and the bridge leads
+east.
+~
+105 12 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10514
+D3
+~
+~
+0 -1 10560
+D5
+Though steep, the climb down seems arduous, but not overly hazardous.
+~
+~
+0 -1 10521
+S
+#10514
+Wooden Bridge~
+   You cannot imagine who would want to build a bridge in this
+fantastic cavern.  Large stalagmites sit and rise up while the eerie
+lights seem to move in the mists below.  The bridge continues to the
+east.
+~
+105 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10515
+D3
+You see the entrance ledge to the stomach chamber.
+~
+~
+0 -1 10513
+D5
+The stalagmites look up menacingly at you.
+~
+~
+0 -1 10517
+S
+#10515
+Wooden Bridge~
+   You are in the middle of the wooden bridge. Large stalagmites rise
+around you and the eerie lights continue to dance in the mists below.
+The bridge continues to the east and west.
+~
+105 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10516
+D3
+~
+~
+0 -1 10514
+D5
+The stalagmites look up menacingly at you.
+~
+~
+0 -1 10517
+S
+#10516
+Wooden Bridge~
+   The wood here is old and acid eaten, similar to the rest of the
+bridge. The deadly stalagmites jut up from below and more of the green
+and yellow light can be seen to move in the mists below.  The bridge
+ends at a small plateau to the east.
+~
+105 8 0
+0d0+0 0 0
+D1
+You see the bridge meet the end of the cavern.
+~
+~
+0 -1 10527
+D3
+~
+~
+0 -1 10515
+D5
+The stalagmites look up menacingly at you.
+~
+~
+0 -1 10517
+S
+#10517
+Stalagmite~
+   You take the plunge and find yourself impaled upon a rainbow hued
+stalagmite.  THAT REALLY HURT!  Your lifeblood seeps from you as you
+thrash your limbs ineffectually to pry your self off.  Things become
+dark...
+~
+105 16394 0
+1d1+199 90 0
+D0
+~
+~
+0 -1 10516
+D1
+~
+~
+0 -1 10515
+D2
+~
+~
+0 -1 10514
+S
+#10518
+Acid Forest~
+   Sharp stalagmites reach up wards, created by the mineral ichors
+dripping off stalactites far above.  Pools of acid fill every crevice
+on the craggy cavern floor.  The cavern continues to the south and
+east.
+~
+105 8 4
+0d0+0 0 0
+D1
+~
+~
+0 -1 10519
+D2
+~
+~
+0 -1 10521
+S
+#10519
+Acid Forest~
+   The stalagmites here are large and rainbow-hued, like giants in
+jester's garb.  Puddles of weak stomach acid are pooled on the floor.
+The cavern stretches in all directions but north.
+~
+105 8 4
+0d0+0 0 0
+D1
+~
+~
+0 -1 10520
+D2
+~
+~
+0 -1 10522
+D3
+~
+~
+0 -1 10518
+S
+#10520
+Acid Forest~
+   Sharp stalagmites reach upwards, created by the mineral ichors
+dripping off stalactites far above.  Pools of acid fill every crevice
+on the craggy cavern floor.
+~
+105 8 4
+0d0+0 0 0
+D2
+~
+~
+0 -1 10523
+D3
+~
+~
+0 -1 10519
+S
+#10521
+Acid Forest~
+   You stand before an amazing sight.  Wrapped within the mists here
+on the cavern floor is a forest of oddly shaped stalagmites surrounded
+everywhere by puddles of what must be the remnants of the dragons
+stomach acid.
+~
+105 8 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 10518
+D1
+~
+~
+0 -1 10522
+D2
+~
+~
+0 -1 10524
+D4
+You see the ledge at the entrance to the stomach cavern.
+~
+~
+0 -1 10513
+S
+#10522
+Acid Forest~
+   You are in the center of the dragons stomach cavern.  A wooden
+bridge passes far overhead.  Sharp stalagmites poise here to meet
+those who would drop from it.
+~
+105 8 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 10519
+D1
+~
+~
+0 -1 10523
+D2
+~
+~
+0 -1 10525
+D3
+~
+~
+0 -1 10521
+S
+#10523
+Acid Forest~
+   The stalagmites here are large and rainbow-hued, like giants in
+jester's garb.  Puddles of weak stomach acid are pooled on the floor.
+A steep climb up leads to a large plateau at the end of the cavern.
+~
+105 8 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 10520
+D2
+~
+~
+0 -1 10526
+D3
+~
+~
+0 -1 10522
+E
+u up~
+Apparently it is too steep a climb to go back up.
+~
+S
+#10524
+Acid Forest~
+   Mists swirl around strange crystal egg shells here.  The cavern
+continues to the north and to the east.
+~
+105 8 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 10521
+D1
+~
+~
+0 -1 10525
+S
+#10525
+Acid Forest~
+   Sharp stalagmites reach upwards, created by the mineral ichors
+dripping off stalactites far above.  Pools of acid fill every crevice
+on the craggy cavern floor.
+~
+105 8 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 10522
+D1
+~
+~
+0 -1 10526
+D3
+~
+~
+0 -1 10524
+S
+#10526
+Acid Forest~
+   The stalagmites here are large and rainbow-hued, like giants in
+jester's garb.  Puddles of weak stomach acid are pooled on the floor.
+The cavern stretches to the north and west.
+~
+105 8 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 10523
+D3
+~
+~
+0 -1 10525
+S
+#10527
+End of the Stomach~
+   The wooden bridge ends here, on a large plateau above the cavern
+floor. The plateau overlooks the entire forest of acid and stone
+below.  A tunnel set in the cavern wall to the east has been shored up
+with a wall of plaster and bones.  Two very large skull-knobbed doors
+have been set in it.
+~
+105 9 0
+0d0+0 0 0
+D1
+You see a huge set of doors fashioned from bones.
+~
+door doors skull~
+1 10519 10561
+D3
+You see the wooden bridge.
+~
+~
+0 -1 10516
+D5
+You see a steep climb down to the cavern floor.
+~
+~
+0 -1 10523
+S
+#10528
+The Dragon's Pancreas~
+   You are in an oddly shaped chamber, what might have been some foul
+organ of Ancalador.  A yellowish light fills the room from nowhere, as
+if only by the dragon's will alone.  The feeling of malignant evil is
+great here, which is only compounded by the large sign overhead which
+reads, 'Memento Mori', or in the common tongue, 'Remember to Die.'
+The chamber has exits worked into it, to the east and down.
+~
+105 8 0
+0d0+0 0 0
+D0
+You see a fissure in the organ wall.
+~
+fissure~
+1 -1 10561
+D1
+~
+~
+0 -1 10550
+D5
+~
+~
+0 -1 10554
+S
+#10529
+Small Intestine~
+   You enter a featureless tunnel of what must be the beginning of the
+dragon's small intestine.  Small piles of human bones and armor bits
+have been left here.  The tunnel continues north and to the west a
+rougher tunnel can be seen.
+~
+105 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10530
+D3
+~
+~
+0 -1 10561
+S
+#10530
+Small Intestine~
+   The tunnel twists to the south and to the east.
+~
+105 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10531
+D2
+~
+~
+0 -1 10529
+S
+#10531
+Small Intestine~
+   The smooth tunnel curves to the west and to the south.
+~
+105 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10532
+D3
+~
+~
+0 -1 10530
+S
+#10532
+Small Intestine~
+   The blank walls of the tunnel run north and south.
+~
+105 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10531
+D2
+~
+~
+0 -1 10533
+S
+#10533
+Small Intestine~
+   The tunnel comes from the north and dips sharply downward here.
+~
+105 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10532
+D5
+~
+~
+0 -1 10534
+S
+#10534
+Small Intestine~
+   The featureless tunnel leads up and north.  Echo bounce off the
+blank walls, whether from near or far, you cannot tell.
+~
+105 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10535
+D4
+~
+~
+0 -1 10533
+S
+#10535
+Small Intestine~
+   Bits of broken equipment from long dead adventurers have been
+collected here.  The tunnel runs north and south.
+~
+105 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10536
+D2
+~
+~
+0 -1 10534
+S
+#10536
+Small Intestine~
+   The tunnel bends from the south to the east.  You imagine the
+remains of many a brave warrior who dared the dragon passed here, torn
+and unmourned.
+~
+105 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10537
+D2
+~
+~
+0 -1 10535
+S
+#10537
+Small Intestine~
+   The blank walls of the tunnel lead west and south.
+~
+105 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10538
+D3
+~
+~
+0 -1 10536
+S
+#10538
+Small Intestine~
+   The smooth tunnel contracts to the south of here into a new tunnel.
+~
+105 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10537
+D2
+The new tunnel seems composed of different textures.
+~
+~
+0 -1 10541
+S
+#10541
+Large Intestine~
+   Unlike the the small intestine, the walls here have a nook and
+cranny quality about them.  They are quite rough and dust fills many
+of the spaces.
+~
+105 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10538
+D1
+~
+~
+0 -1 10542
+S
+#10542
+Large Intestine~
+   The smell of dust is thick in this section of the tunnel that runs
+to the west and to the north.
+~
+105 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10543
+D3
+~
+~
+0 -1 10541
+S
+#10543
+Large Intestine~
+   The rough walls of the tunnel scrape your armor and cuts your
+exposed skin as you travel north or south.
+~
+105 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10544
+D2
+~
+~
+0 -1 10542
+S
+#10544
+Large Intestine~
+   The tunnel drops to the east but you find many handholds among the
+nooks and crannies.
+~
+105 9 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10545
+D2
+~
+~
+0 -1 10543
+S
+#10545
+Large Intestine~
+   The roughly hewn tunnel constricts to the south.
+~
+105 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10546
+D3
+~
+~
+0 -1 10544
+S
+#10546
+Stony Sphincter~
+   You are in a narrow tunnel, barely able to walk upright without
+knocking your head.  A breeze from the south swirls the dust here and
+you begin to believe that safety is not far off.
+~
+105 12297 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10545
+D1
+~
+~
+0 -1 10547
+S
+#10547
+Dragon's Tail~
+   You have never been so happy to see the light of day!  You are by
+the dragon's stone tail, which is covered with green, growing vines
+and small, violet flowers.  The birds sing and you can make out a
+faint path to the west, leading back around the dragon-hill.  A
+skull-topped signpost flanks an unused road to the north.
+~
+105 4 3
+0d0+0 0 0
+D0
+A winding dirt road leads into a strange, futuristic city!
+~
+~
+0 -1 641
+D3
+You see a path leading around the dragon, back to it's toothy maw.
+~
+~
+0 -1 10502
+E
+sign signpost~
+The Penultimate Tower of Wizardry was rumored to exist, once, just
+down this road...who knows if this is true?  For though many have went
+on to see, none have returned to claim it true...
+
+--Mercutio the Bard of the Realm
+~
+S
+#10550
+Undead Garden~
+   Shaking shrubberies and quivering palms surround a few skeletal
+trees that make up this gruesome garden.  The shriveled plantlife, set
+in niches within the deformed chamber walls, seem to have all died and
+come back from the afterlife somehow.  Openings in the petrified organ
+wall lead west and down.
+~
+105 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 10528
+D5
+~
+~
+0 -1 10555
+S
+#10551
+Private Chambers~
+   This small room seems to have been carved by hand from the pancreas
+of Ancalador.  It has some amenities, like a soft bed and a small
+alchemist's workbench, but if the dragon is ever freed from his stone
+prison, he will surely be quite unhappy about this situation. The only
+exit is west.
+~
+105 8 0
+0d0+0 0 0
+D3
+Outside is the ampitheatre chamber.
+~
+door coffin~
+1 -1 10552
+S
+#10552
+Macabre Ampitheather~
+   You are in on a wide, circular ledge overlooking a large slab of
+stone in the chamber below.  Crude seats are fashioned here from the
+surrounding porous rock and the walls are decorated with various
+bonesaws and a quote in blood, 'That fell arrest without bail.'  A
+coffin lid door is set in the east wall, while steps cut into the rock
+lead down and west.
+~
+105 8 0
+0d0+0 0 0
+D1
+You see a doorway made from a coffin's lid.
+~
+door coffin~
+1 -1 10551
+D3
+~
+~
+0 -1 10553
+D5
+~
+~
+0 -1 10556
+S
+#10553
+Temple to Death~
+   You are in a small shrine in honor of the 'Pale Priest of the Mute
+People.'  Here, Hell's Grim Tyrant is sought as a source of
+inspiration and wisdom by the Guildmembers.  The chamber walls open to
+exits heading down and east.
+~
+105 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 10552
+D5
+~
+~
+0 -1 10557
+S
+#10554
+Cold Storage~
+   The stink of this storage chamber make you balk at once.  Through
+your nausea you make out cadavers kept cool in niches in the stone
+walls.  Barrels of dust and decanters of blood fill the room.  On the
+wall, in some dark ink, is scrawled, 'That dreamless sleep.'  The
+chamber exits south and up.
+~
+105 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10557
+D4
+~
+~
+0 -1 10528
+S
+#10555
+Kennel of the Demised~
+   This chamber of hard stone is empty save for a sturdy iron ring set
+in the floor.  A large, heavy chain with collar at one end is attached
+to the ring.  Small print on the collar reads, 'Quietus.'
+~
+105 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 10556
+D4
+~
+~
+0 -1 10550
+S
+#10556
+Operating Room~
+   This circular chamber is dominated by a large stone slab in the
+center which bears the stains of countless horrible experiments.  The
+cruel work that goes on here is generally viewed from the ampitheatre
+above by the guild apprentices and patrons.
+~
+105 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10555
+D4
+~
+~
+0 -1 10552
+S
+#10557
+Guildhall~
+   This is the largest chamber cut from Ancalagor's pancreas.  A long
+feasting table made of coffins lashed together fills the length of the
+room.  On the wall, in the dried ichor that passes for blood in
+demons, is written, 'A debt we must all pay.'  A set of double
+coffin-lid doors is to the west, and other exits are to the north and
+up.
+~
+105 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 10554
+D3
+~
+door doors coffin~
+1 -1 10558
+D4
+~
+~
+0 -1 10553
+S
+#10558
+The Altar of Annihilation~
+   You stand before the horrific Altar of Annihilation where the magic
+and power of extinguishment and dissolution are full explored.  You
+feel the countless ceremonies of extinction performed here, like a
+gloom that pervades the altar, which looks like a huge rib cage
+centered with a demon's skull.  Before the altar is a black iron
+grating covering a dark pit where the ebb of life is glorified in
+sacrifice.
+~
+105 8 0
+0d0+0 0 0
+D1
+~
+door doors coffin~
+1 -1 10557
+D5
+You can't see much, but you don't like the little you do see.
+~
+grating grate~
+2 10506 10559
+S
+#10559
+The Darken Pit~
+   The very evil of this place seeks to extinguish your light as if
+the gloom had a nefarious soul of its own.  You know true fear as
+something moves in the darkness...toward you.
+~
+105 9 0
+0d0+0 0 0
+D4
+You see a black iron grating above you.~
+grating grate~
+2 10506 10558
+S
+#10560
+Stone Tunnel~
+   The dragon's throat continues east and west on a path which neither
+rises nor falls.  On the south wall, to the dragon's left, a warmth
+can be felt, followed by a feeling of pure evil.
+~
+105 9 0
+0d0+0 0 0
+D1
+You see the tunnel open up to a great cavern beyond.
+~
+~
+0 -1 10513
+D3
+~
+~
+0 -1 10507
+S
+#10561
+Stone Corridor~
+   You are in a circular tunnel of stone.  The walls are irregular and
+pockmarked.  The tunnel continues east and west.
+~
+105 13 0
+0d0+0 0 0
+D1
+You see the beginning of a new, smoother tunnel.
+~
+~
+0 -1 10529
+D2
+It seems you might be able to pry the fissure open.
+~
+fissure~
+1 -1 10528
+D3
+You see the bone doorway leading towards the stomach cavern.
+~
+door doors bone~
+1 10519 10527
+E
+walls~
+A small fissure appears to be set in the south wall.
+~
+S
+#10562
+Muddy Riverbank~
+   You are on the south bank of a rushing river.  An old, mossy and
+huge stone slab hangs over the riverbank, allowing you to cross
+towards a great forest.  A verdant valley stretches before you to the
+east, while the terrain to the west and south quickly become
+mountainous, and impassible.
+~
+105 0 5
+0d0+0 0 0
+D0
+You see the forest of Haon-Dor across a roiling river with bits of
+junk floating by occasionally from Midgaard, to the northeast.
+~
+~
+0 -1 6121
+D1
+~
+~
+0 -1 10501
+S
+#10598
+Before a strange portal~
+You are standing on what seems to be an ancient road of some sort, grass and
+small saplings grow up between cobblestones half buried in dirt.  The road is
+very wide and perfectly flat, master builders must have crafted this road for
+it to have lasted for so long.  Noticing that there's a big portal in the
+middle of the road you forget about the stonework and gaze upon what must be
+a rip in the fabric of time itself.  Waves of power emanate from the portal
+making your hair stand on end.  Moving closer, you barely see through it, a
+great sprawling city with spectacular stone buildings... perhaps this portal
+leads back to the time when this abandoned road was used regularly.
+~
+105 4 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 10501
+D3
+~
+~
+0 -1 12065
+S
+#10599
+The beginning of a long pier~
+You walk down a long pier towards the Endless Sea.. Strangely enough there
+are no birds caling above your head, and the beach is lacking shells of any
+sort.  This is a fearful place, this Endless Sea. You look down the rocky
+beach to each side of you, the seascape stretching as far as the eye can see.
+A chill wind blows from offshore... the waves crash against the rocks, yet
+everything is silent, and you have a feeling of stillness, almost stagnation.
+The boards creak under your feet as your heart begins to pound harder and
+louder in your chest.  Perhaps the rumors were true about this fell sea.
+~
+105 4 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4700
+D2
+~
+~
+0 -1 10501
+D3
+~
+~
+0 -1 18703
+S
+$

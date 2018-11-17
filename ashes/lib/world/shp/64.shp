@@ -1,0 +1,47 @@
+CircleMUD v3.0 Shop File~
+#30~
+3050
+6418
+6406
+6427
+6428
+-1
+1.5 
+0.5 
+1
+2
+4
+5
+6
+-1
+7
+9
+10
+14
+15
+16
+8
+3
+13
+11
+17
+12
+0
+%s I wish I had that too, little one.~
+%s Say that again, man?~
+%s Sorry, but that won't sell very well here in Disneyland.~
+%s Sorry, but I'm clean outta cash!~
+%s Looks like your pockets are empty, bub!~
+%s Alrighty, %d is your total.  Have a nice day!~
+%s Whoopie!  I've always wanted one of those!  Here is %d gold.~
+1 
+1 
+6440 
+0 
+6441 
+-1
+0 
+28 
+0 
+0 
+$~

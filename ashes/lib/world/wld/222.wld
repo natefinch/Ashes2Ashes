@@ -1,0 +1,1618 @@
+#22200
+Entrance to Acme Acres~
+You have somehow managed to find the glorious land of Acme Acres...
+Before you is the entrance to Acme Looniversity where all your favorite
+cartoon misfits learn to be more devious!!!
+~
+222 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 22233
+D2
+A Desert Trail.
+~
+~
+0 -1 22201
+S
+#22201
+Courtyard of Acme Looniversity~
+This is the courtyard right in front of the Looniversity, you see a large
+fountain to the south, and the School is just south past the fountain...
+Happy Learning!
+~
+222 0 2
+0d0+0 0 0
+D0
+A Desert Trail.
+~
+~
+0 -1 22200
+D2
+A Desert Lane.
+~
+~
+0 -1 22202
+S
+#22202
+Fountain by the Courtyard~
+There is a large fountain here spewing forth fresh water, and spraying the
+students who are hurrying to class!!  You see the school to the south...
+To the east you see a nice shady spot to study!
+~
+222 0 2
+0d0+0 0 0
+D0
+A Desert Trail.
+~
+~
+0 -1 22201
+D1
+~
+~
+0 -1 22204
+D2
+A Desert Lane.
+~
+~
+0 -1 22203
+S
+#22203
+Steps to the Looniversity~
+You have stumbled onto the steps of the Looniversity, you see before you, the
+steps of the great school which brought forth such greats as Bugs Bunny,
+Elmer Fudd, Lord knows how he got a diploma!
+~
+222 0 2
+0d0+0 0 0
+D0
+A Desert Lane.
+~
+~
+0 -1 22202
+D2
+A Sandy Road.
+~
+~
+0 -1 22205
+S
+#22204
+Study Break~
+This is the room to do all your pre-battle preparation, and or studying as
+some of the students are doing and they are asking you to be quiet too!
+How Rude!
+~
+222 0 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 22202
+E
+flower cactus~
+They have beautiful pink, blue, and yellow blossoms.
+~
+S
+#22205
+Entrance to Acme Looniversity~
+The doors to the school look a little contorted, perhaps its just you, or
+maybe the fact they are cartoons and drawn that way, no matter...
+You may enter through to the south or go back to the courtyard...
+~
+222 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 22203
+D2
+~
+~
+0 -1 22206
+S
+#22206
+Grand Hall of Acme Looniversity~
+You have entered the grand entrance hall of the school, you see students
+racing to get to their classes, you hope you are not late as Principal
+Yosemite Sam is not a kind and understanding soul!
+~
+222 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22205
+D1
+A Sandy Road.
+~
+~
+0 -1 22207
+D3
+~
+~
+0 -1 22223
+S
+#22207
+Hallway in Acme Looniversity~
+It is a hallway as long as the eye can see, but you do see each classroom
+and frantically start to look for your class!!!  To the east the hall
+continues with more classrooms!
+~
+222 8 0
+0d0+0 0 0
+D1
+The Great Gates of Agrabah.
+~
+~
+0 -1 22208
+D3
+A Sandy Road.
+~
+~
+0 -1 22206
+S
+#22208
+Hallway in Acme Looniversity~
+The hallway continues east and west, but a classroom marked, Physics, lies
+to the north, you wonder how tough this could be, then you see the instructor
+Wile E. Coyote, GULP, you hope there is a curve!
+~
+222 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22299
+D1
+Inside the Great Gates.
+~
+~
+0 -1 22209
+D3
+A Sandy Road.
+~
+~
+0 -1 22207
+E
+gate~
+The massive gates look to be made of solid iron, and very impenetrable.
+~
+S
+#22209
+Hallway in Acme Looniversity~
+The hallway continues, you can go east and west, and you notice another
+classroom to the south, it is labeled the Home Ec. Lab
+Prof. Taz will be waiting for you inside!
+~
+222 8 0
+0d0+0 0 0
+D1
+West Camel Walk.
+~
+~
+0 -1 22210
+D2
+~
+~
+0 -1 22298
+D3
+The Great Gates of Agrabah.
+~
+gate~
+0 -1 22208
+S
+#22210
+Hallway in Acme Looniversity~
+The ever endless hallway continues to the east and west, there is also the
+classroom to the north, labeled the Common Sense of Tooning class...
+Prof. Elmer Fudd presiding, how this happened, we do not know!
+~
+222 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22297
+D1
+West Camel Walk.
+~
+~
+0 -1 22211
+D3
+Inside the Great Gates.
+~
+~
+0 -1 22209
+S
+#22211
+North-East corner of Acme Looniversity~
+You have made it to the corner of the school and can continue south or west.
+To the south you can see more classrooms as well as to the west!
+~
+222 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 22212
+D3
+West Camel Walk.
+~
+~
+0 -1 22210
+S
+#22212
+East Hallway of Acme Looniversity~
+The hallway continues north and south and there are some more classes to the
+south, you hope they will be as easy as the other classes were...a few students pass you and say Hi and slap your back, you feel foolish for some reason!
+~
+222 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22211
+D2
+~
+~
+0 -1 22213
+S
+#22213
+East Hallway of Acme Looniversity~
+The eastern hallway is no different than any other hallway in the school
+but you do notice another class to the west, labeled Speech...
+Prof. Foghorn Leghorn is your teacher, again, we don't know how this happened
+~
+222 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22212
+D2
+~
+~
+0 -1 22214
+D3
+West Camel Walk.
+~
+~
+0 -1 22296
+S
+#22214
+South-East corner of Acme Looniversity~
+The corner of this school is kinda messy, you wonder why then you see that
+this is the corner where Elmira tosses her pets when she is done with them!
+You hope to GOD she is not around or is in class! Exits to the north and west!
+~
+222 8 0
+0d0+0 0 0
+D0
+Palace Walk.
+~
+~
+0 -1 22213
+D3
+West Camel Walk.
+~
+~
+0 -1 22215
+S
+#22215
+Southern Hallway of Acme Looniversity~
+You notice more classes to the west and a messy corner to the east!
+You hear noise to the west as well...probably the cafeteria!!
+~
+222 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22214
+D3
+West Camel Walk.
+~
+~
+0 -1 22220
+S
+#22216
+Southern Hallway of Acme Looniversity~
+The hallway is much the same as the rest, lockers, classrooms, and the cafeteria entrance is to the west!  You hear a lot of noise coming from that direction!
+~
+222 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22215
+D3
+West Camel Walk.
+~
+~
+0 -1 22217
+S
+#22217
+Entrance to the Cafeteria~
+You see food smeared all over the windows of the cafe, it appears the good
+Principal Sam has not been through here lately, and God save these poor
+kids if he does, maybe you should pass on lunch today!
+~
+222 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22216
+D3
+West Camel Walk.
+~
+~
+0 -1 22216
+S
+#22219
+Palace Walk~
+You are on a walk made of sandstone leading north and south through town.
+~
+222 0 1
+0d0+0 0 0
+D2
+The Central Square.
+~
+~
+0 -1 22214
+S
+#22220
+Southern Hallway of Acme Looniversity~
+You catch a whiff of the lovely fragrance of the cafe to the west...you get sick
+to your stomach, and pass out, BUT when you recover you can go west or east!
+East, back the way you came, or west, to certain doom, errr the Cafeteria!
+~
+222 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22215
+D3
+~
+~
+0 -1 22221
+S
+#22221
+Entrance to the Cafeteria~
+You notice food smeared all over the windows, it would appear the good Principal Sam has not seen this section of school today!
+Maybe you should tell him, or flee before you get blamed!
+~
+222 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22220
+D3
+~
+~
+0 -1 22222
+S
+#22222
+The Cafeteria of Acme Looniversity~
+Food is scattered all over the place, you notice some of the students just
+sitting by calmly eating their lunches, others are engaged in other
+activities.  The special of the day...mystery meat...flee, save yourself!
+~
+222 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22221
+S
+#22223
+Hallway in Acme Looniversity~
+Much the same as the other halls in this big establishment, long, filled with
+lockers, and classrooms all about!  You also see a big room to the west, you
+wonder what it is for?  What room could need to be so big!?
+~
+222 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22206
+D3
+~
+~
+0 -1 22224
+S
+#22224
+Hallway in Acme Looniversity~
+You continue down the hallway and notice that huge room to the west seems to
+be growing as you get closer!  You also see a classroom to the north!
+Dirty Tricks to Play on Your Friends...Daffy Duck teaches this one!
+~
+222 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22295
+D1
+~
+~
+0 -1 22223
+D3
+~
+~
+0 -1 22225
+S
+#22225
+Hallway in Acme Looniversity~
+The hall continues east and west, but that room to the west has continued to
+grow and you are beginning to fear what may be inside!  There is another
+classroom to the south titled Porky's Etiquette and Charm Class 122!
+~
+222 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22224
+D2
+~
+~
+0 -1 22294
+D3
+~
+~
+0 -1 22226
+S
+#22226
+Hallway in Acme Looniversity~
+You look and see there is another classroom to the north, this is the class
+you have been waiting for, Bugs Bunny's Class on Wit, Sly Tactics, and all
+Around Good Fun!!!!  His class is to the north, or there's east and west!
+~
+222 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22293
+D1
+~
+~
+0 -1 22225
+D3
+~
+~
+0 -1 22227
+S
+#22227
+North-West Corner of Acme Looniversity~
+The hallway is much the same as the others, but to the west you see the sign
+for Detention!!  To the south is more hallway, slightly darker however, and
+more craziness you assume!  The choice is yours, you could go back east too!
+~
+222 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22226
+D2
+~
+~
+0 -1 22229
+D3
+~
+~
+0 -1 22228
+S
+#22228
+Detention Room~
+There are enough seats in here to fill most college lecture halls, no wonder
+it is so large, most the students from the school are here everyday as if
+THIS were a normal class as well!!!  And they looked like such nice toons!
+There is a desk here with writing on it which reads, Reserved for Max!
+~
+222 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22227
+S
+#22229
+Western Hallway in Acme Looniversity~
+It is very dark here, the hallway continues north and south, towards the south
+You can slightly make out the resemblance of stairs, you hope they are stairs!
+In this place there's no telling what it could be!
+~
+222 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22227
+D2
+~
+~
+0 -1 22230
+S
+#22230
+Western Hallway in Acme Looniveristy~
+The hallway still continues north and south, to the north you know whats there
+but you do not know what awaits you at the end of this hallway, but you can
+almost make out the shape of stairs to the south!
+~
+222 9 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22229
+D2
+~
+~
+0 -1 22231
+S
+#22231
+Stairs to the Principal's Office~
+These stairs seem to go up into the very atmosphere, but you know they go to
+a much worse place!  The principal's office!!!!  Prepare yourself before you
+enter, I hear the principal isn't know for his patience!!
+~
+222 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22230
+D4
+~
+~
+0 -1 22292
+S
+#22233
+Portal to Cartoon and Disney Land(s)~
+There are portals, on all sides taking you to different areas of toonland!
+You may enter the one with which you desire to visit now!!
+Have a safe trip!
+~
+222 4 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 6400
+D2
+~
+~
+0 -1 22200
+D4
+~
+~
+0 -1 3815
+D5
+~
+~
+0 -1 3073
+S
+#22235
+Hidden Lair of the Anime Legends~
+A secret lair where the people at Warner Brothers sit and try to figure out
+what makes Anime so damn popular and so they can duplicate it and make even
+more millions off it.  All the legends of the screen stand here being looked
+at by a producer or director of some kind.
+~
+222 6144 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 22236
+D3
+~
+door~
+1 22203 22246
+S
+#22236
+Room of Anime Legends~
+A continuance of the secret laboratories of Warner Brothers studios attempt
+to steal the Anime market over here.  They have more guests from the famed
+cartoons and are interrogating them tremendously.
+I doubt some of them will take much more of this.
+~
+222 14336 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 22239
+D1
+~
+door~
+1 -1 22238
+D2
+The door~
+door~
+1 -1 22235
+D3
+~
+door~
+1 -1 22237
+S
+#22237
+A schoolyard~
+A schoolyard filled with children all dressed in uniforms and looking nice.
+A certain group catches your eye however, a group with a large pudgy lil guy
+a cute little girl and two distinctly different styles of students.  They
+both look like they know their way around but one has a determination while 
+the other has a look of drive and hatred that nothing will stop him from his
+plans.
+~
+222 14336 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 22236
+S
+#22238
+Neo-Tokyo~
+A replica of the famed Neo-Tokyo where Akira is known to have destroyed the
+entire city with a mere thought.  Akira was the most powerful telekinetic
+force to ever hit the world, and he showed it.  He aided in the saving
+of a young boy who had not yet mastered his powers, Tetsuo.  They with their
+friend Kaneida stand here defiantly.
+~
+222 14336 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 22236
+S
+#22239
+Further into the Dark hallways of the Warner Brothers Anime files~
+As you continue down the hallway you see more doors and wonder who has been
+hidden behind them for they are worn and slightly tattered about the hinges.
+You wonder if now is a good time to get out of here before whatever is behind
+the door senses you and bursts out of the room.
+~
+222 14336 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 22241
+D1
+the door
+~
+door~
+1 -1 22242
+D2
+~
+door~
+1 -1 22236
+D3
+~
+door~
+1 -1 22240
+S
+#22240
+A castle out in a field of future Earth~
+A time and place in the future when mutants have come about thanks to man's
+desire to make more money and has killed the eco structure as we know it.
+It has brought us mutants such as werewolves and vampires and the half-breeds
+of both.  This is where you will find the more dreaded of all mutants, the
+one they call D.  He is a vampeil, or half vampire, half human.  He is rumored
+to come from the greatest vampire that ever lived or still does live, Dracula!
+~
+222 14336 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 22239
+S
+#22241
+A old japanese temple~
+An old japanese temple brought back to its glory by the power of the goddess
+Belldandy.  She made the place brand new when her and the boy who accidentily
+wished for a girl like her to be by his side forever when she offered him one
+wish.  He later came to love the goddess and after the arrival of her sisters
+they became a giddy little family.
+~
+222 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22279
+D2
+~
+door~
+1 -1 22239
+S
+#22242
+King of Fighters Tournament~
+A big arena is in this room and in the arena are some of the meanest fighters
+the world has ever known, and they want to beat you to a bloody pulp!
+You have often pondered life and what your purpose here is, but getting killed
+by these monsters of incredible force was not it you are thinking.
+~
+222 14336 0
+0d0+0 0 0
+D1
+~
+curtain~
+2 22238 22273
+D3
+the door
+~
+door~
+1 -1 22239
+S
+#22243
+Entrance to Warner Brother Studios~
+As you stand before the great studios that have spawned the Lethal Weapon
+series and such family greats as those wild and crazy cartoons you all know
+and love.  You hope to get a glimpse of what is beyond the gate and maybe
+see a movie being made, but to the north you notice a gate and a guard!
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22244
+D3
+~
+~
+0 -1 10302
+S
+#22244
+The Gate to Warner Brothers Studios~
+The gate which seperates stardom from the hum drum of everyday life is what
+lies here in front of you.  You see the guard post here that has a assortment
+of snacks and goodies to be eaten but the owner seems to off somewhere, must
+be an emergency for him to leave the post unguarded!
+~
+222 0 0
+0d0+0 0 0
+D0
+The gate
+~
+gate~
+1 22211 22245
+D2
+~
+~
+0 -1 22243
+S
+#22245
+Warner Brothers Studio Lot~
+As you look upon the grand scape of everything here on this rather compact
+studio, you still see the buildings where they actually shoot the movies
+and you wonder if maybe you could get a sneak peek at a upcoming movie!
+You decide against it as you figure you are in here against rules anyway,
+best not to push your luck!  There are two studios, one to the east and
+on to the west, the gate is to the south.
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22248
+D1
+The door
+~
+door~
+1 -1 22246
+D2
+The gate
+~
+gate~
+1 22211 22244
+D3
+The door
+~
+door~
+1 -1 22247
+S
+#22246
+Warner Brothers Studio A~
+As you enter into Studio A of the Warner Brothers Studio you notice a face
+that women die for!  Mel Gibson is standing over there, and he is as
+studly as all the ladies remember!  This must be the new Lethal Weapon movie!
+You wonder where that annoying little pest who played Leo Getz is!
+~
+222 14336 0
+0d0+0 0 0
+D1
+~
+door~
+2 22203 22235
+D3
+The door
+~
+door~
+1 -1 22245
+S
+#22247
+Warner Brothers Studio B~
+You enter this studio wondering what star you might bump into, and in fact,
+it is empty!  The Warner Brothers team must be slowing down a bit!  There is
+some old movie props lying around but that is it.  This is a ghost studio
+from what you can see!!
+~
+222 0 0
+0d0+0 0 0
+D1
+The door
+~
+door~
+1 -1 22245
+S
+#22248
+Warner Brothers Studio Lot~
+As you meander through the studios lot, you notice another studio north...
+to the south is two studios and farther up north you see a huge water tower.
+You wonder what could be in it, it looks far to old to be in use!
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22249
+D2
+~
+~
+0 -1 22245
+S
+#22249
+Warner Brothers Studio Lot~
+You look around and see a nice office building to the east, there is also
+another studio to the west.  You can see that large water tower to the north
+and to the south is more studios.  There are people running everywhere, they
+must be getting ready for the big production number, when a explosion from
+the nearby studio almost rocks you to the ground!  THAT is what they were
+running from!
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22259
+D1
+The door
+~
+door~
+1 -1 22251
+D2
+~
+~
+0 -1 22248
+D3
+The door
+~
+door~
+1 -1 22250
+S
+#22250
+Warner Brothers Studio C~
+As you enter the studio it is filled with a dense smoke and a heat like you
+have never experienced, as you enter you look around and see that some huge
+bomb or explosive device has been triggered and you look to see what movie
+it is.  As you scan the area you can see the director and the cameramen...
+then while looking you see the star of the show...JEAN-CLAUDE VAN DAMME!!!
+~
+222 0 0
+0d0+0 0 0
+D1
+The door
+~
+door~
+1 -1 22249
+S
+#22251
+Office Building of Warner Brothers Studio~
+As you enter the nice cool air conditioned atmosphere you feel relaxed and
+feel you can look around and maybe get to talk with one of the big wigs
+about getting you in a movie, after all you have fought a few battles.  You
+have definately made a few stories that you could take pride in!
+~
+222 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22252
+D3
+~
+~
+0 -1 22249
+S
+#22252
+Secretary's Office~
+A large wooden desk sits here with papers scattered and a cup of steaming
+coffee on the desk.  You look for the owner of the desk to try and see about
+getting an appointment with the director.
+To no avail she must have just stepped out to get him something, maybe you
+should wait, or maybe you could just walk in and talk to him.
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22253
+D3
+~
+~
+0 -1 22251
+S
+#22253
+Hallway of the office building~
+As you have snuck past the secretary, you look for the door to the directors
+office in the hopes of getting your story put on film so you can be a multi
+millionaire and not have to run around killing things anymore.  You hear 
+someone coming, you duck in a doorway.
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22254
+D2
+~
+~
+0 -1 22252
+S
+#22254
+Hallway in a office building~
+As you continue down the hallway you notice two doors here...one labeled
+Dr. Scratchinsniff, local psychiatrist.  The other is labeled 'Nurse'.
+This is not the time you think for a mental examination, you have broke
+into a movie studio, are galavanting around snooping through studios, and
+now you want to have your life story made into a movie...your perfectly sane!
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22257
+D1
+The door
+~
+door~
+1 -1 22255
+D2
+~
+~
+0 -1 22253
+D3
+The door
+~
+door~
+1 -1 22256
+S
+#22255
+Dr. Scratchinsniff's Office~
+You walk into the office looking for the good doctor, when instead you see
+his couch and a nice comfy pillow on it, you can't resist!  As you lay back
+and stretch out and enjoy the couch a voice from behind you says 'So! How
+are you feeling today??' That has got to be the worst accent you have ever
+heard!!  You begin to look for the exit before you have to kill him to get
+him to shut up!!!
+~
+222 0 0
+0d0+0 0 0
+D3
+The door
+~
+door~
+1 -1 22254
+S
+#22256
+Nurse's Station~
+You look around in this almost blinding white room.  This is the brightest
+room you have ever seen it is almost to much until your eyes start to adjust,
+that's when you notice the "hardware" of the typical nurse, you see the
+degree on the wall and the obvious qualifications of the nurse on staff!
+You hear a voice call from behind the door saying "Remove your clothes, I'll
+be with you in a moment"  The voice was female...you get a little jittery
+and look for the exit!
+~
+222 0 0
+0d0+0 0 0
+D1
+The door
+~
+door~
+1 -1 22254
+S
+#22257
+Hallway in a office building~
+You have reached the end of the hallway.  You see a big door labeled Director
+at last you have found what you have been seeking here.  You give a faint
+knock, no reply, you knock again, nothing.  You wonder if anyone is even in
+there, and so you decide to peep your head in the door to see!!
+~
+222 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 22254
+D3
+The door
+~
+door~
+1 -1 22258
+S
+#22258
+Director's Office~
+You have stumbled upon the office of that director extrordinaire! Steven
+Spielberg is here wondering what you want with him.  He looks over something
+and you see a script in the corner that has dust and must not have made it
+past the stage it is at right now...it looks to be labeled E.T. 2!!!
+You better make it quick, he looks to be very busy!
+~
+222 0 0
+0d0+0 0 0
+D1
+The door
+~
+door~
+1 -1 22257
+S
+#22259
+Warner Brothers Studio Lot~
+As you look through this part of the lot you notice that huge water tower
+is directly to the north.  You can also see the Acme Labs to the west and
+a road leading back behind the studios.  Where it goes there is only one
+way to find out.
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22261
+D1
+~
+~
+0 -1 22266
+D2
+~
+~
+0 -1 22249
+D3
+The door
+~
+door~
+1 -1 22260
+S
+#22260
+Acme Labs~
+This is the laboratory of the great minds of the Acme company!  This is where
+those genius' of young and old can get their hands on cool equipment!
+It is also the home of those two lovable mice that plan for world domination!
+You look around for them to see if they are still in their cage!
+~
+222 0 0
+0d0+0 0 0
+D1
+The door
+~
+door~
+1 -1 22259
+S
+#22261
+Base of the Water Tower~
+You are at the base of a high water tower, it is yellow with the Warner
+Brothers symbol painted on it way at the top you can see a wheel that
+when turned looks like it could open the entire tower up!
+There is a rusty ladder that goes up the tower and you can see it goes to the
+very top, so if your feeling adventurous go for it!
+~
+222 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 22259
+D4
+~
+~
+0 -1 22262
+S
+#22262
+On the Water Tower~
+As you climb the tower you can see the whole lay of the land.  You see the
+studios and all the people running around and you see that pudgy little
+guard that you snuck by to get into the studio!  UT OH!! He sees you too!!
+You better hurry up and get down before he gets some friends and comes
+and removes you the hard way!
+~
+222 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 22263
+D5
+~
+~
+0 -1 22261
+S
+#22263
+On the Water Tower~
+You continue climbing and begin to get winded, both tired and you notice the
+wind is picking up at this altitude!  You wonder what you will find up here
+or maybe you can at least get a good vantage point to see the entire land!
+You see the opening of the floor of the tower right above you, or you can
+climb your way back down!
+~
+222 0 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 22264
+D5
+~
+~
+0 -1 22262
+S
+#22264
+On top of the Water Tower~
+As you reach the top of the water tower you can look out and see the horizon
+and see the beginning and end of the day here.  It is a magnificent view, you
+wonder why no one else ever comes up here to enjoy the view.  You then see
+the wheel that once you turn the tower may be opened...you fear what may be
+inside, maybe it DOES still contain water, who knows, turn it and see!
+~
+222 0 0
+0d0+0 0 0
+D0
+The tower
+~
+tower~
+1 22211 22265
+D5
+~
+~
+0 -1 22263
+S
+#22265
+Inside the Water Tower~
+As you look around inside the tower you notice toys and clothes and fur,
+that's right FUR everywhere!  You continue to look around in the hopes of
+finding what dwells in this mess, this chaos gone wild, and then, as if
+an answer to your questions, you see...THEM!!!  THE WARNER BROTHERS!!!!
+AND The Warner Sister!!!!  FLEE!!!!  FLEE AT ONCE!!!!!!!!!!!!!!  CLOSE
+THE DOOR QUICK!!!!!!
+~
+222 0 0
+0d0+0 0 0
+D2
+The tower
+~
+tower~
+1 22211 22264
+S
+#22266
+Back Road~
+A back road around the back of the studio is what you find, you wonder what
+could live out in these back woods, but you figure something will present
+itself and if you have to you can defend yourself.  You pat your weapon just
+to check it is still there.
+~
+222 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22267
+D3
+~
+~
+0 -1 22259
+S
+#22267
+Back Road~
+You walk down this back road some more you see it continues to the north with
+very little deviation.  It is a normal paved road, but why is it in the middle
+of a movie studio???  Oh well, you look north and see farther down a big tree!
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22268
+D3
+~
+~
+0 -1 22266
+S
+#22268
+Back Road~
+Moving along down the road you notice the tree to the north is a rather large
+one with a mailbox in front of it, you wonder, who the hell has mail in a tree
+you have begun to stop asking questions in this wild and crazy studio.
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22269
+D2
+~
+~
+0 -1 22267
+S
+#22269
+Back Road~
+You can keep following the road to the north and to a pretty house, or you
+can go west here and examine this tree a little closer.  You read the mailbox
+and it reads Slappy Squirrel.  You begin to think this is a joke but stranger
+things have happened to you on this studio!
+~
+222 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22271
+D2
+~
+~
+0 -1 22268
+D3
+~
+~
+0 -1 22270
+S
+#22270
+An Old Oak Tree~
+This tree stretches to the sky and opens up its branches as if to say HI!!!
+Unfortunately the owner of this tree does not share its happy attitude!
+You poor soul, you have stumbled upon the home of the crankiest of creatures
+in the whole wide world, this is the home of Slappy Squirrel, a one time
+famous cartoon star, now a old, cranky squirrel, she also lives with
+her nephew Skippy...You better go before she drops a brick on you or something
+~
+222 0 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22269
+S
+#22271
+End of a Back Road~
+The back road dead ends abruptly here for some reason, there is a rather
+nice house to the east, it is fenced in with a little blonde girl playing
+in the yard and a dog watching the little girl carefully.  The gate appears
+to be all that is holding the kid in, she is tearing around chasing butterflies
+~
+222 0 0
+0d0+0 0 0
+D1
+The gate
+~
+gate~
+1 -1 22272
+D2
+~
+~
+0 -1 22269
+S
+#22272
+Mindy's House~
+A big colorful house that appears to show the owners to be well off.  There
+is a little girl here asking you "What'cha doin?" and then proceding to ask
+you "Why" after every answer. GOD that is annoying!!  She exits proclaiming
+"O.K. I love you buh bye!!!"
+~
+222 0 0
+0d0+0 0 0
+D3
+The gate
+~
+gate~
+1 -1 22271
+S
+#22273
+A side room from the tournament~
+A shadow filled back hallway that seems to denote trouble around the bend and
+if the competition in the ring is any indication maybe you would be best to
+leave this area.  You hear someone laughing manically seemingly from all
+sides that sends a shiver to the bone.  The walls seem to close in on you and
+you feel very claustrophobic all of the sudden.  You hate the fear and you
+want to find what is causing it and you see it...In the shadows to the right
+you see a IMMENSE human being in a full coat of armor and giving off enough
+energy and ki to make your hair stand on end.  He speaks to you, "Are you
+Terry Bogard?"  You calmly state that you are not and he then says too bad
+and says, "Entertain me" you fear his kind of entertainment!  Someone shouts
+Krauser you are a fool leave these piddly insignificants alone and go find
+Bogard!  At this the man in the shadows says to you, "Another time then."
+You feel relieved.
+~
+222 6145 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22275
+D3
+~
+curtain~
+1 0 22242
+D4
+trap door~
+trapdoor~
+1 -1 22274
+S
+#22274
+Geese Howard's Office~
+A huge spacious office with a nice window overlooking the King of the Fighters
+tournament going on at this moment.  You look around and see that Geese is
+a man of taste and has a large oak desk with a couple bookcases and a hidden
+compartment in his desk springs open and scares you.  You look inside to see
+a scroll wrapped up and as you unravel it to look at it, Geese
+is upon you demanding you to join his cause as you must be good to get by
+Krauser.  He doesn't like no by the way.  He cackles maniacally at your
+refusal to join him and it seems to echo all over, now you know where that
+came from earlier.  You feel humble before this great warrior who only seeks
+to gain revenge on Terry Bogard for defeating him and placing the huge
+scar on his chest as a permenent reminder of his loss.
+~
+222 14336 0
+0d0+0 0 0
+D5
+~
+trapdoor~
+1 -1 22273
+S
+#22275
+Further down the dark hallway~
+As you strain to see around you as the dark just seems to swallow every bit
+of light like a shark swallows a fish whole.  You notice a odd little hole
+placed on a pedastal here.  It looks to be about the size of a retangular
+object.  You wonder what it opens, but since you have not found what could
+possibly go there you just look around for another exit.
+~
+222 6144 0
+0d0+0 0 0
+D1
+pedestal~
+pedestal~
+2 22238 22276
+D2
+~
+~
+0 -1 22273
+S
+#22276
+A hidden room~
+A hidden room found only by using the necklace that Sulia carries around her
+neck at all times.  It is where the story of her lineage is told and where the
+mystical Armor of Mars and it's power is explained by the pictures on the
+wall.  The pictures also demonstrate how the origins of both Terry and Andy's
+fighting style began.  As well as Krauser's!  This explains why he
+was so powerful, he was spawned in a lineage that had the Armor of Mars.
+It is said that whoever controls all six pieces is the most powerful
+human living and if you are a direct decendent of Goddemaus himself as
+Laocorn and Sulia are, you will become a GOD.  There is one minor thing though
+while you are staring at the pictures the guardians of the room are here.
+They do not seem impressed by your being this close to their master.
+~
+222 14336 0
+0d0+0 0 0
+D1
+wall~
+wall~
+1 0 22277
+D3
+pedestal
+~
+pedestal~
+2 22238 22275
+S
+#22277
+Deeper in the hidden room~
+As you stroll around looking at the other pictures in the room you notice the
+detail and the storyline unfold more.  It shows Goddemaus ransacking villages
+left and right being a immense ruler of the roman times and eventually 
+causing the fall of the roman empire because he defeated Alexander to a
+point that he never recovered and started the vicious downward spiral.
+The power Goddemaus showed was unstoppable *CRACK* you turn and see someone
+sitting indian style on the floor looking up at you.  He does not appear
+pleased with you here, and looks to be the guardian of the room.  He is
+taller if nto as tall as Krauser and seems to send out waves of energy
+from the ground up.  You hope he is not the kind who shoots and asks questions
+later.  He stands up and assumes a stance and attacks you full force!
+~
+222 14336 0
+0d0+0 0 0
+D1
+wall~
+wall~
+2 22253 22278
+D3
+wall~
+wall~
+1 0 22276
+S
+#22278
+The chamber of the map~
+This is the room with the map of where all the pieces to the Armor of Mars
+was buried, that's right, WAS.  It seems Laocorn has succeeded in attaining
+all 6 pieces of the armor and he now plans to dominate the world.  You hope
+your group is tough enough to stop him because he does not seem impressed
+with your puny attacks and the fact your mortal flesh can only do so much.
+He has surpassed humanity and become a GOD and now it appears you will be
+the first to know what it feels like to have one beat you into a bloody
+mess because here he comes!
+~
+222 14337 0
+0d0+0 0 0
+D3
+wall~
+wall~
+2 22253 22277
+S
+#22279
+An open field in Japan~
+A wide open space with nothing but flowers and wide open spaces.  You feel 
+the need to stretch out and languishly relax.  You look around and see a 
+wierd looking warrior ranting and raving about how hungry he is.  He is
+accompanied by a wierd looking bird creature with pointy wings that make
+you wonder how the thing flies by itself, lil alone with a saddle on it's
+back for the rider.
+~
+222 14336 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22280
+D2
+~
+~
+0 -1 22241
+S
+#22280
+Another form of tournament~
+Another tournament is being held here much like the King of Fighters version
+but this one is involving all races of creatures from all over the galaxy.
+It appears the contest has been narrowed down to two contestants and they
+would not appriciate you interrupting them.  There is a square ring with 
+a dragon looking female at one end and a short lil pointy eared demon at
+the other.  They appear to mean business but if you know this anime show
+you know it will not be without it's humor as well.
+~
+222 14336 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 22279
+S
+#22292
+Principals Office~
+This is the office of Principal Yosemite Sam!  He is the one who keeps the
+peace in this school, if you have been summoned, begin praying now!  If you
+have an appointment, take a seat and wait, if neither apply, WHY are you here?
+~
+222 8 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 22231
+S
+#22293
+Bugs' Class for Humor, Wit, and Good Clean Fun!~
+You look around to see that this teacher loves his carrots!  There are pictures
+ everywhere, and a box on his desk which looks like a cigar box but is labeled
+Big Orange, picked fresh daily!  We know where his payment goes!
+~
+222 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 22226
+S
+#22294
+Porky's Class for Etiquette and Charm 122~
+The classroom is remarkably neat and tidy, it will probably stay this way for
+a long time too as this teacher is notorious for neat and cleanliness...
+At least until Prof. Taz comes down and demolishes the place again!
+~
+222 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22225
+S
+#22295
+Daffy's classroom for Dirty Tricks 101~
+You look to see this room is filled with all kinds of devices that would be
+most bothersome to rabbits, you wonder if this is going to be the focus of
+the course.  He has many volumes of books on "How to Fool Your Friend"
+~
+222 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 22224
+S
+#22296
+Foghorn's classroom for speech~
+As you enter you notice a big nest in the corner, prolly for his breaks,
+there is also a big sign by the clock saying, Pay Attention Boy!
+This looks to be boring...flee while you can!!!
+~
+222 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 22213
+S
+#22297
+A basic classroom, with one minor difference, it has a old hunting rifle~
+This is a normal classroom, but judging from the way it is kept, it does
+not bode well you will learn much.  There are several old posters of
+rabbits and slashes through them...the teacher doesn't like rabbits!
+~
+222 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 22210
+S
+#22298
+Home Ec. Class~
+You have walked into a classroom loaded with ovens and other kitchen items
+There appears to be a cookbook out with a the page turned to Rabbit
+Sandwich must be the chef's favorite, the book is half eaten though!
+~
+222 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 22209
+S
+#22299
+Physics Lab~
+You just walk in and notice the Prof. has not yet made his appearance...
+There are beakers a plenty, and blueprints for grand devices...and a
+poster of a lil blue bird with a slash through it...
+~
+222 0 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 22208
+S
+$

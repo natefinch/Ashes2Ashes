@@ -1,0 +1,2296 @@
+#4700
+Out in the bay off the southern tip of Cinnabar Island~
+As you set sail on the bay, the wind whips up your hair and a smile comes
+across your face as you think about the adventures that lie ahead.  The deep,
+blue water gently rocks your boat and through the fog you can just make out
+Cinnabar Island.  After double-checking your gear, you figure you're ready
+for come serious Poke'mon collecting.
+~
+47 4 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4701
+D2
+~
+~
+0 -1 10599
+S
+#4701
+Middle of the bay, south of Cinnabar Island~
+Looking off to the Northeast from here you can just make out the tops of the
+Seafoam Islands.  The water here is deep, making it difficult to tell whether
+there are any monsters swimming in the area.  Suddenly, a splash creates a
+wave that breaks over the side of your boat.  Was that a Magikarp?
+~
+47 4 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4702
+D2
+~
+~
+0 -1 4700
+S
+#4702
+The shallow water off Cinnabar Island~
+Finally, the sandy shoreline of Cinnabar Island comes into view.  Along the
+shoreline you can see a half-dozen homes at the base of the mountain that
+takes up most of the island.  With a million eager questions flying through
+your mind, you are ready to storm the beach like an invading army.
+~
+47 4 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4704
+D2
+~
+~
+0 -1 4701
+S
+#4703
+Cinnabar Island~
+You're eager to get started collecting Poke'mon but who could pass up a trip
+to the genetic research lab.  Maybe you can get in line early and be the
+first one to get in there.  That'll give you just the edge you need to defeat
+a few Supernerds.  Maybe you can do a little experimenting of your own.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4705
+D1
+~
+~
+0 -1 4704
+D3
+~
+~
+0 -1 4865
+D6
+~
+~
+0 -1 4706
+D9
+~
+~
+0 -1 4706
+S
+#4704
+Among the shorline homes of Cinnabar Island~
+Ahhhh Cinnabar Island.  This is where it all happens.  Cinnabar is home of
+the famous genetics research lab where they created Mewtwo.  At the moment,
+the town is over run with psychic Poke'mon and tourists.  With all these
+tourists around, there's probably no chance of getting close to any rare
+Poke'mon.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4706
+D1
+~
+~
+0 -1 4703
+D2
+~
+~
+0 -1 4702
+D3
+~
+~
+0 -1 4703
+D7
+~
+~
+0 -1 4705
+S
+#4705
+Among the shorline homes of Cinnabar Island~
+Theres a beautiful view here off the North side of the Island.  Looking North
+out on the bay the Sun is glistening off the small waves and a slight wind is
+blowing light mist on you.  You can clearly see a town across the water to
+the North.  That must be Pallet Town!
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4712
+D1
+~
+~
+0 -1 4706
+D2
+~
+~
+0 -1 4703
+D8
+~
+~
+0 -1 4704
+S
+#4706
+Cinnabar Island~
+These tourists are getting rather annoying.  It's still early and maybe they
+haven't invaded the other towns.  Wishful thinking.  This place is teaming
+with tourists during the visitor season.  You're here aren't you?  It must be
+100 degrees here on Cinnabar but to the east toward the Seafoam Islands there
+appears to be ice in the water. Go figure.
+~
+47 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 4707
+D2
+~
+~
+0 -1 4704
+D3
+~
+~
+0 -1 4705
+D6
+~
+~
+0 -1 4703
+D9
+~
+~
+0 -1 4703
+S
+#4707
+The bay towards the Seafoam Islands~
+The temperature has suddenly dropped to sub-zero and the wind is bitter cold.
+Your boat is bumping against chunks of ice in the water.  Overhead, swarms of
+birds are soaring and calling.  The Seafoam Islands are due East.  Wouldn't
+it be nice to catch a glimpse of one of the legendary bird trio?
+~
+47 4 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 4708
+D3
+~
+~
+0 -1 4706
+S
+#4708
+The bay towards the Seafoam Islands~
+The temperature has suddenly dropped to sub-zero and the wind is bitter cold.
+Your boat is bumping against chunks of ice in the water.  Overhead, swarms of
+birds are soaring and calling.  The Seafoam Islands are just ahead.  The
+shore is steep.  Pick your landing spot carefully
+~
+47 4 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4708
+D1
+~
+~
+0 -1 4708
+D2
+~
+~
+0 -1 4708
+D3
+~
+~
+0 -1 4707
+D6
+~
+~
+0 -1 4713
+S
+#4709
+The bay between Cinnabar Island and Pallet Town~
+The hometown for new trainers and rivals, Pallet Town, comes into full view.
+Now's your chance to finally see Professor Oak's house. Just leave all those
+freshly caught Poke'mon in the boat, this place seems like a low crime area.
+~
+47 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4710
+D2
+~
+~
+0 -1 4710
+D6
+~
+~
+0 -1 4710
+D7
+~
+~
+0 -1 4743
+S
+#4710
+The bay between Cinnabar Island and Pallet Town~
+The water here is thriving with Water element Poke'mon.  Throw out the anchor
+and grab your tackle.  What could be better? Looks like you've beat the
+crowd.  There isn't a rival trainer or tourist in sight.
+~
+47 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4709
+D1
+~
+~
+0 -1 4711
+D2
+~
+~
+0 -1 4710
+S
+#4711
+The bay between Cinnabar Island and Pallet Town~
+The water here is thriving with Water element Poke'mon.  Throw out the anchor
+and grab your tackle.  What could be better? Looks like you've beat the
+crowd.  There isn't a rival trainer or tourist in sight.
+~
+47 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4711
+D1
+~
+~
+0 -1 4712
+D2
+~
+~
+0 -1 4711
+D3
+~
+~
+0 -1 4710
+S
+#4712
+The bay between Cinnabar Island and Pallet Town~
+Still somewhat distracted by what you've seen at Cinnabar Island, you try and
+shake it off and refocus on your mission.  The water here is thriving with
+Water element Poke'mon.  Throw out the anchor and grab your tackle.  A few
+quick catches is just the ticket to brighten things up.
+~
+47 4 6
+0d0+0 0 0
+D2
+~
+~
+0 -1 4705
+D3
+~
+~
+0 -1 4711
+S
+#4713
+West Seafoam Island~
+The Seafoam Islands are worth a stop and look around.  It's the only place
+you're gonna find Krabby, Kingler, and Articuno, if you're lucky.  And if you
+find those crablegs are to your liking, check out the bay off Fuchsia City
+for further seafood cuisine.
+~
+47 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 4714
+D7
+~
+~
+0 -1 4708
+D9
+~
+~
+0 -1 4708
+S
+#4714
+East Seafoam Island~
+The Seafoam Islands are worth a stop and look around.  It's the only place
+you're gonna find Krabby, Kingler, and Articuno, if you're lucky.  And if you
+find those crablegs are to your liking, check out the bay off Fuchsia City
+for further seafood cuisine.
+~
+47 0 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 4713
+D6
+~
+~
+0 -1 4715
+D8
+~
+~
+0 -1 4708
+S
+#4715
+The bay area off the coast of Fuchsia City~
+The waters in the bay are overflowing with Water element Poke'mon. It's a
+great day for sailing and an even greater day for fishing. You'll be patching
+many holes in your monster collection on this outting.  There are Seels,
+Magikarps, and Horseas as far as the eye can see.  Hope you brought a boat
+load of Poke' Balls.
+~
+47 4 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4717
+D6
+~
+~
+0 -1 4718
+D9
+~
+~
+0 -1 4714
+S
+#4716
+The bay area off the coast of Fuchsia City~
+The waters in the bay are overflowing with Water element Poke'mon. It's a
+great day for sailing and an even greater day for fishing. You'll be patching
+many holes in your monster collection on this outting.  There are Seels,
+Magikarps, and Horseas as far as the eye can see.  Hope you brought a boat
+load of Poke' Balls.
+~
+47 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4721
+D1
+~
+~
+0 -1 4717
+D2
+~
+~
+0 -1 4733
+D7
+~
+~
+0 -1 4720
+D9
+~
+~
+0 -1 4718
+S
+#4717
+The bay area off the coast of Fuchsia City~
+The waters in the bay are overflowing with Water element Poke'mon. It's a
+great day for sailing and an even greater day for fishing. You'll be patching
+many holes in your monster collection on this outting.  There are Seels,
+Magikarps, and Horseas as far as the eye can see.  Hope you brought a boat
+load of Poke' Balls.
+~
+47 0 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 4718
+D2
+~
+~
+0 -1 4715
+D3
+~
+~
+0 -1 4716
+D7
+~
+~
+0 -1 4721
+D9
+~
+~
+0 -1 4734
+S
+#4718
+Fuchsia City~
+Here in the streets of Fuchsia City, Poke'mon of all types run amuck both
+playing and fighting.  Bulbasaur, Venusaur, Ivysaur, Sandslash, and more are
+all here ready for a friendly? battle. When you've gotten your fill of
+fighting, be sure to visit the park east of town.
+~
+47 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4723
+D1
+~
+~
+0 -1 4719
+D3
+~
+~
+0 -1 4717
+D7
+~
+~
+0 -1 4722
+D9
+~
+~
+0 -1 4715
+S
+#4719
+Fuchsia City~
+Here in the streets of Fuchsia City, Poke'mon of all types run amuck both
+playing and fighting.  Bulbasaur, Venusaur, Ivysaur, Sandslash, and more are
+all here ready for a friendly? battle. When you've gotten your fill of
+fighting, be sure to visit the park east of town.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4724
+D3
+~
+~
+0 -1 4718
+D6
+~
+~
+0 -1 4725
+D7
+~
+~
+0 -1 4723
+S
+#4720
+The bay area off the coast of Fuchsia City~
+The waters in the bay are overflowing with Water element Poke'mon. It's a
+great day for sailing and an even greater day for fishing. You'll be patching
+many holes in your monster collection on this outting.  There are Seels,
+Magikarps, and Horseas as far as the eye can see.  Hope you brought a boat
+load of Poke' Balls.
+~
+47 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4726
+D1
+~
+~
+0 -1 4721
+D8
+~
+~
+0 -1 4716
+D9
+~
+~
+0 -1 4720
+S
+#4721
+Under the Fuchsia City Bay Bridge~
+The waters in the bay are overflowing with Water element Poke'mon. It's a
+great day for sailing and an even greater day for fishing. You'll be patching
+many holes in your monster collection on this outting.  There are Seels,
+Magikarps, and Horseas as far as the eye can see.  Hope you brought a boat
+load of Poke' Balls.
+~
+47 0 6
+0d0+0 0 0
+D2
+~
+~
+0 -1 4716
+D3
+~
+~
+0 -1 4720
+D5
+~
+~
+0 -1 4875
+D6
+~
+~
+0 -1 4728
+D7
+~
+~
+0 -1 4726
+D8
+~
+~
+0 -1 4717
+S
+#4722
+Fuchsia City Bay Bridge~
+From here on the bridge, there is a spectacular view in all directions.  To
+the North you can see a great view of Celadon City with Mt. Moon in the
+background.  To the south you can see the Seafoam Islands.  Pallet town is to
+the West and Fuchsia City to the East.  To the Northeast you can clearly see
+the docks of Vermilion City with a cruise ship out anchored offshore.
+~
+47 0 1
+0d0+0 0 0
+D7
+~
+~
+0 -1 4727
+D8
+~
+~
+0 -1 4718
+S
+#4723
+Fuchsia City~
+Here in the streets of Fuchsia City, Poke'mon of all types run amuck both
+playing and fighting.  Bulbasaur, Venusaur, Ivysaur, Sandslash, and more are
+all here ready for a friendly? battle. When you've gotten your fill of
+fighting, be sure to visit the park east of town.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4729
+D1
+~
+~
+0 -1 4724
+D2
+~
+~
+0 -1 4718
+D6
+~
+~
+0 -1 4730
+D8
+~
+~
+0 -1 4719
+S
+#4724
+Fuchsia City Square~
+Here in the town Square of Fuchsia City is a Poke'mon Center, where Poke'mon
+can recover after each battle.  You can also log onto one of the many
+computers here to check in with Professor Oak in order to see how you're
+doing compared to other trainers, and store your Poke'mon in a special
+storage system.
+~
+47 128 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4730
+D1
+~
+~
+0 -1 4725
+D2
+~
+~
+0 -1 4719
+D3
+~
+~
+0 -1 4723
+S
+#4725
+Fuchsia City~
+Here in the streets of Fuchsia City, Poke'mon of all types run amuck both
+playing and fighting.  Bulbasaur, Venusaur, Ivysaur, Sandslash, and more are
+all here ready for a friendly? battle. When you've gotten your fill of
+fighting, be sure to visit the park east of town.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4731
+D3
+~
+~
+0 -1 4724
+D7
+~
+~
+0 -1 4730
+D9
+~
+~
+0 -1 4719
+S
+#4726
+The bay area off the coast of Fuchsia City~
+The waters in the bay are overflowing with Water element Poke'mon. It's a
+great day for sailing and an even greater day for fishing. You'll be patching
+many holes in your monster collection on this outting.  There are Seels,
+Magikarps, and Horseas as far as the eye can see.  Hope you brought a boat
+load of Poke' Balls.
+~
+47 0 6
+0d0+0 0 0
+D2
+~
+~
+0 -1 4720
+D3
+~
+~
+0 -1 4718
+D6
+~
+~
+0 -1 4733
+D8
+~
+~
+0 -1 4721
+S
+#4727
+Fuchsia City Bay Bridge~
+From here on the bridge, there is a spectacular view in all directions.  To
+the North you can see a great view of Celadon City with Mt. Moon in the
+background.  To the south you can see the Seafoam Islands.  Pallet town is to
+the West and Fuchsia City to the East.  To the Northeast you can clearly see
+the docks of Vermilion City with a cruise ship out anchored offshore.
+~
+47 4 11
+0d0+0 0 0
+D7
+~
+~
+0 -1 4732
+D8
+~
+~
+0 -1 4722
+S
+#4728
+The bay area off the coast of Fuchsia City~
+The waters in the bay are overflowing with Water element Poke'mon. It's a
+great day for sailing and an even greater day for fishing. You'll be patching
+many holes in your monster collection on this outting.  There are Seels,
+Magikarps, and Horseas as far as the eye can see.  Hope you brought a boat
+load of Poke' Balls.
+~
+47 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4734
+D1
+~
+~
+0 -1 4729
+D7
+~
+~
+0 -1 4733
+D9
+~
+~
+0 -1 4721
+S
+#4729
+The bay area off the coast of Fuchsia City~
+The waters in the bay are overflowing with Water element Poke'mon. It's a
+great day for sailing and an even greater day for fishing. You'll be patching
+many holes in your monster collection on this outting.  There are Seels,
+Magikarps, and Horseas as far as the eye can see.  Hope you brought a boat
+load of Poke' Balls.
+~
+47 4 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4729
+D2
+~
+~
+0 -1 4723
+D3
+~
+~
+0 -1 4728
+D6
+~
+~
+0 -1 4729
+D7
+~
+~
+0 -1 4734
+S
+#4730
+Fuchsia City~
+Here in the streets of Fuchsia City, Poke'mon of all types run amuck both
+playing and fighting.  Bulbasaur, Venusaur, Ivysaur, Sandslash, and more are
+all here ready for a friendly? battle. When you've gotten your fill of
+fighting, be sure to visit the park east of town.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4880
+D1
+~
+~
+0 -1 4731
+D2
+~
+~
+0 -1 4724
+D8
+~
+~
+0 -1 4725
+D9
+~
+~
+0 -1 4723
+S
+#4731
+Fuchsia City~
+Here in the streets of Fuchsia City, Poke'mon of all types run amuck both
+playing and fighting.  Bulbasaur, Venusaur, Ivysaur, Sandslash, and more are
+all here ready for a friendly? battle. When you've gotten your fill of
+fighting, be sure to visit the park east of town.
+~
+47 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 4725
+D3
+~
+~
+0 -1 4730
+D6
+~
+~
+0 -1 4825
+S
+#4732
+A path through the Celadon City Forest~
+Finally, you might have some luck getting a few bug and grass element
+Poke'mon to add to your resume.  Seems the other trainers have been scarfing
+them up and leaving you with none.  Keep an eye out for a stray Oddish,
+Gloom, Paras or Vileplume.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4735
+D8
+~
+~
+0 -1 4727
+S
+#4733
+The bay area off the coast of Fuchsia City~
+The waters in the bay are overflowing with Water element Poke'mon. It's a
+great day for sailing and an even greater day for fishing. You'll be patching
+many holes in your monster collection on this outting.  There are Seels,
+Magikarps, and Horseas as far as the eye can see.  Hope you brought a boat
+load of Poke' Balls.
+~
+47 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4718
+D1
+~
+~
+0 -1 4734
+D8
+~
+~
+0 -1 4728
+D9
+~
+~
+0 -1 4726
+S
+#4734
+The bay area off the coast of Fuchsia City~
+The waters in the bay are overflowing with Water element Poke'mon. It's a
+great day for sailing and an even greater day for fishing. You'll be patching
+many holes in your monster collection on this outting.  There are Seels,
+Magikarps, and Horseas as far as the eye can see.  Hope you brought a boat
+load of Poke' Balls.
+~
+47 0 6
+0d0+0 0 0
+D0
+~
+~
+0 -1 4734
+D2
+~
+~
+0 -1 4728
+D3
+~
+~
+0 -1 4733
+D6
+~
+~
+0 -1 4718
+D8
+~
+~
+0 -1 4729
+S
+#4735
+A path through the Celadon City Forest~
+Finally, you might have some luck getting a few bug and grass element
+Poke'mon to add to your resume.  Seems the other trainers have been scarfing
+them up and leaving you with none.  Keep an eye out for a stray Oddish,
+Gloom, Paras or Vileplume.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4736
+D2
+~
+~
+0 -1 4732
+S
+#4736
+A path through the Celadon City Forest~
+Finally, you might have some luck getting a few bug and grass element
+Poke'mon to add to your resume.  Seems the other trainers have been scarfing
+them up and leaving you with none.  Keep an eye out for a stray Oddish,
+Gloom, Paras or Vileplume.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4737
+D2
+~
+~
+0 -1 4735
+S
+#4737
+A path through the Celadon City Forest~
+Finally, you might have some luck getting a few bug and grass element
+Poke'mon to add to your resume.  Seems the other trainers have been scarfing
+them up and leaving you with none.  Keep an eye out for a stray Oddish,
+Gloom, Paras or Vileplume.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4738
+D2
+~
+~
+0 -1 4736
+S
+#4738
+Southern edge of Celadon City~
+Standing here on the edge of Celadon City, you recall the stories you've
+heard in the other towns about the fierce fighters that roam these streets.
+Shaking off those tall tales and dismissing them as pure myth, it's time to
+find a Poke'mon Center and store these newly caught monsters.
+~
+47 4 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4827
+D2
+~
+~
+0 -1 4737
+D6
+~
+~
+0 -1 4828
+D7
+~
+~
+0 -1 4826
+S
+#4739
+The streets of Pallet Town~
+So much to do and so little time.  Professor Oak must be around here
+somewhere.  Though, he's probably trying to avoid these crowds. You hope
+something truly exciting happens on this trip so you don't have to make up
+lies about your vacation like last year's trip to Six Flags.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4741
+D6
+~
+~
+0 -1 4742
+D7
+~
+~
+0 -1 4740
+S
+#4740
+The streets of Pallet Town~
+Everything here is town is a little crispy and charred.  The Pallet Town fire
+department must be exhausted.  All these low level Poke'mon are cute for the
+tourists and clumsy new trainers.  But, you crave the big dogs. Keep moving.
+This whole place can't be a kiddie park can it?
+~
+47 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 4741
+D6
+~
+~
+0 -1 4744
+D8
+~
+~
+0 -1 4739
+S
+#4741
+Pallet Town Square~
+Here in the center of Pallet Town is a beautiful steaming fountain.  It must
+have cost a small fortune to build.  You find it somewhat disappointing that
+this place is so commercialized.  You have a strong urge to kill all these
+camera happy vacationers.  Perhaps, you can get your picture taken by the
+fountain first.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4744
+D1
+~
+~
+0 -1 4742
+D2
+~
+~
+0 -1 4739
+D3
+~
+~
+0 -1 4740
+S
+#4742
+The streets of Pallet Town~
+Pallet Town sits on the South edge of the mainland and is dotted with average
+looking small homes.  Currently the town is nearly taken over with Fire
+element Poke'mon and tourists.  Probably a bad thing for most tourists.  But
+for a skilled hunter like you, it's a gift from heaven and an opportunity of
+a lifetime.
+~
+47 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 4743
+D3
+~
+~
+0 -1 4741
+D7
+~
+~
+0 -1 4744
+D9
+~
+~
+0 -1 4739
+S
+#4743
+The streets of Pallet Town~
+Oh sheesh, is this place ever crowded.  Seemed like a good idea but you were
+nowhere near being the first person to think so.  Maybe just skip Pallet Town
+and head on up to Veridian City.  Hold up.  Is that a Charizard?
+~
+47 4 11
+0d0+0 0 0
+D3
+~
+~
+0 -1 4742
+D8
+~
+~
+0 -1 4709
+S
+#4744
+The streets of Pallet Town~
+Having gotten yourself a few new low level Poke'mon to add to your growing
+collection, it's time to move on.  Across the grassy clearing to the
+Northwest, is the outline of a small town.  Give yourself a little reassuring
+pep talk and get going.
+~
+47 0 11
+0d0+0 0 0
+D2
+~
+~
+0 -1 4741
+D7
+~
+~
+0 -1 4745
+D8
+~
+~
+0 -1 4742
+D9
+~
+~
+0 -1 4740
+S
+#4745
+The rolling hills of Southern Viridian~
+Seems surprising that this perfectly landscaped field is vacant. You'd think
+it to be Poke'mon paradise.  With a gorgeous view of the bay to the west and
+the Celadon forest as a backdrop to the east, you may want to stop and let
+some of your Poke'mon out of their Poke' Balls for a bit.
+~
+47 4 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 4746
+D8
+~
+~
+0 -1 4744
+S
+#4746
+The rolling hills of Southern Viridian~
+Seems surprising that this perfectly landscaped field is vacant. You'd think
+it to be Poke'mon paradise.  A rival trainer has definitely beat you to the
+goodies.  Can't let this happen all day.  Pick up the pace!
+~
+47 4 4
+0d0+0 0 0
+D0
+~
+~
+0 -1 4747
+D2
+~
+~
+0 -1 4745
+S
+#4747
+Viridian City~
+Arriving in Veridian City, you notice the place is crawling with poisonous
+Poke'mon.  Better check your supply of antidote or perhaps there's a Poke'
+Mart around here somewhere.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4748
+D2
+~
+~
+0 -1 4746
+S
+#4748
+Viridian City~
+Most of the side streets here in town are barricaded.  Looks like they're
+getting ready for a parade.  The sidewalks are lined with spectators. You
+notice a trainer carefully handling a Venonant and about bust a gut laughing
+as he gets bitten and starts to cry.  Sucker.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4749
+D2
+~
+~
+0 -1 4747
+S
+#4749
+Viridian City~
+Running low on antidote? Good news is there's a Poke' Mart right here. Bad
+news is its closed.  Be careful with these posionous monsters. One wrong move
+and this vacation will be all over, just like the time you stepped on that
+starfish in Florida.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4750
+D2
+~
+~
+0 -1 4748
+S
+#4750
+Viridian City~
+Trying to sort through all these posionous Poke'mon is tricky.  Hope you
+brought a list of them all because this is getting complicated. Got a Weedle,
+Nidoran male and female, Beedrill, Venonat, and what's the name of that other
+one.....?
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4751
+D2
+~
+~
+0 -1 4749
+S
+#4751
+Viridian City~
+The road splits here at the North end of town.  A sign with an arrow points
+Northeast and reads "To Pewter City".  Another sign points west and reads "to
+Indigo Plateau".
+~
+47 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 4750
+D3
+~
+~
+0 -1 4752
+D6
+~
+~
+0 -1 4773
+S
+#4752
+Viridian City~
+You stop here in a quiet spot on the edge of the city.  You've heard rumors
+that Mewtwo is somewhere up on Mt. Moon after escaping the Lab on Cinnabar
+Island.  It would be awsome to go on over there and scout around for Mewtwo,
+but you're too young to die, so a better plan would be to spend some time at
+Indigo Plateau gathering a little more experience.
+~
+47 4 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 4751
+D7
+~
+~
+0 -1 4753
+S
+#4753
+The path to Indigo Plateau~
+The wooded path to Indigo Plateau would be an ideal spot for capturing some
+bug and grass element Poke'mon.  And a few minutes ago you could have.  Some
+rival trainers in desperate need of them are a few steps ahead of you today
+and the area is picked clean.
+~
+47 4 11
+0d0+0 0 0
+D7
+~
+~
+0 -1 4754
+D8
+~
+~
+0 -1 4752
+S
+#4754
+The path to Indigo Plateau~
+The wooded path to Indigo Plateau would be an ideal spot for capturing some
+bug and grass element Poke'mon.  And a few minutes ago you could have.  Some
+rival trainers in desperate need of them are a few steps ahead of you today
+and the area is picked clean.
+~
+47 4 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4755
+D8
+~
+~
+0 -1 4753
+S
+#4755
+The path to Indigo Plateau~
+The wooded path to Indigo Plateau would be an ideal spot for capturing some
+bug and grass element Poke'mon.  And a few minutes ago you could have.  Some
+rival trainers in desperate need of them are a few steps ahead of you today
+and the area is picked clean.
+~
+47 4 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4756
+D2
+~
+~
+0 -1 4754
+S
+#4756
+The entrance to Indigo Plateau~
+Standing here at the edge of the famous Plateau, the excitement boils your
+blood.  Many legendary trainers have made and lost reputations on this very
+soil.  Today, you'll get the same chance they had.  Ancient pillars line the
+walkway and you can almost feel the electric energy in the air.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4758
+D2
+~
+~
+0 -1 4755
+S
+#4757
+Indigo Plateau~
+The towns and cities are where all the action is and Indigo Plateau is no
+exception.  The electric element Poke'mon here are constantly engaging in
+battles.  They come here attracted by the energy of the powerplant.  Often
+this creates havoc for the towns.  The intense battles here sometimes cause
+power outages.  It's rumored that professor Oak himself can occasionally be
+found here spying on the new trainers to check on their progress.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4760
+D1
+~
+~
+0 -1 4758
+D6
+~
+~
+0 -1 4761
+D9
+~
+~
+0 -1 4765
+S
+#4758
+Indigo Plateau~
+The towns and cities are where all the action is and Indigo Plateau is no
+exception.  The electric element Poke'mon here are constantly engaging in
+battles.  They come here attracted by the energy of the powerplant.  Often
+this creates havoc for the towns.  The intense battles here sometimes cause
+power outages.  It's rumored that professor Oak himself can occasionally be
+found here spying on the new trainers to check on their progress.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4761
+D1
+~
+~
+0 -1 4759
+D2
+~
+~
+0 -1 4756
+D3
+~
+~
+0 -1 4757
+D6
+~
+~
+0 -1 4762
+D7
+~
+~
+0 -1 4760
+S
+#4759
+Indigo Plateau~
+The towns and cities are where all the action is and Indigo Plateau is no
+exception.  The electric element Poke'mon here are constantly engaging in
+battles.  They come here attracted by the energy of the powerplant.  Often
+this creates havoc for the towns.  The intense battles here sometimes cause
+power outages.  It's rumored that professor Oak himself can occasionally be
+found here spying on the new trainers to check on their progress.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4762
+D3
+~
+~
+0 -1 4758
+D7
+~
+~
+0 -1 4761
+D8
+~
+~
+0 -1 4763
+S
+#4760
+Indigo Plateau~
+The towns and cities are where all the action is and Indigo Plateau is no
+exception.  The electric element Poke'mon here are constantly engaging in
+battles.  They come here attracted by the energy of the powerplant.  Often
+this creates havoc for the towns.  The intense battles here sometimes cause
+power outages.  It's rumored that professor Oak himself can occasionally be
+found here spying on the new trainers to check on their progress.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4763
+D1
+~
+~
+0 -1 4761
+D2
+~
+~
+0 -1 4757
+D6
+~
+~
+0 -1 4764
+D8
+~
+~
+0 -1 4758
+S
+#4761
+Indigo Plateau Power Plant~
+The power plant was rumored to be over on the east bay, but here it is at
+Indigo Plateau.  Heh, don't believe everything you read on the internet.
+Professor Oak is here peeking out one of the side entrances.  He's checking
+up on a new trainer. As you rush up on him like an over-eager puppy, you
+nearly trip on a trapdoor on the floor.
+~
+47 14340 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4764
+D1
+~
+~
+0 -1 4762
+D2
+~
+~
+0 -1 4758
+D3
+~
+~
+0 -1 4760
+D5
+Team Rocket wishes you hadn't noticed this door!
+~
+tunnel secret door trapdoor~
+4 4852 4766
+D6
+~
+~
+0 -1 4765
+D7
+~
+~
+0 -1 4763
+D8
+~
+~
+0 -1 4759
+D9
+~
+~
+0 -1 4757
+S
+#4762
+Indigo Plateau~
+The towns and cities are where all the action is and Indigo Plateau is no
+exception.  The electric element Poke'mon here are constantly engaging in
+battles.  They come here attracted by the energy of the powerplant.  Often
+this creates havoc for the towns.  The intense battles here sometimes cause
+power outages.  It's rumored that professor Oak himself can occasionally be
+found here spying on the new trainers to check on their progress.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4765
+D2
+~
+~
+0 -1 4759
+D3
+~
+~
+0 -1 4761
+D7
+~
+~
+0 -1 4764
+D9
+~
+~
+0 -1 4758
+S
+#4763
+Indigo Plateau~
+The towns and cities are where all the action is and Indigo Plateau is no
+exception.  The electric element Poke'mon here are constantly engaging in
+battles.  They come here attracted by the energy of the powerplant.  Often
+this creates havoc for the towns.  The intense battles here sometimes cause
+power outages.  It's rumored that professor Oak himself can occasionally be
+found here spying on the new trainers to check on their progress.
+~
+47 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 4764
+D2
+~
+~
+0 -1 4760
+D7
+~
+~
+0 -1 4759
+D8
+~
+~
+0 -1 4761
+S
+#4764
+Indigo Plateau~
+The towns and cities are where all the action is and Indigo Plateau is no
+exception.  The electric element Poke'mon here are constantly engaging in
+battles.  They come here attracted by the energy of the powerplant.  Often
+this creates havoc for the towns.  The intense battles here sometimes cause
+power outages.  It's rumored that professor Oak himself can occasionally be
+found here spying on the new trainers to check on their progress.
+~
+47 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 4765
+D2
+~
+~
+0 -1 4761
+D3
+~
+~
+0 -1 4763
+D8
+~
+~
+0 -1 4762
+D9
+~
+~
+0 -1 4760
+S
+#4765
+Indigo Plateau~
+The towns and cities are where all the action is and Indigo Plateau is no
+exception.  The electric element Poke'mon here are constantly engaging in
+battles.  They come here attracted by the energy of the powerplant.  Often
+this creates havoc for the towns.  The intense battles here sometimes cause
+power outages.  It's rumored that professor Oak himself can occasionally be
+found here spying on the new trainers to check on their progress.
+~
+47 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 4762
+D3
+~
+~
+0 -1 4764
+D6
+~
+~
+0 -1 4757
+D9
+~
+~
+0 -1 4761
+S
+#4766
+Secret tunnel to Team Rocket's Headquarters~
+Now this is getting better.  You've always wanted a chance to give that Team
+Rocket a thrashing.  A grin comes over your face as you think about punting a
+couple of field goals with that clepto cat, Meowth.  The tunnel smells
+extremely foul from all the gross Poke'mon that Team Rocket stores down here.
+Clinch your nose and grab a Poke' ball.  You can have a good laugh later when
+Jesse and James find all their prize monsters missing.
+~
+47 2317 0
+0d0+0 0 0
+D4
+Finally, you found the way out of here.
+~
+door secret tunnel~
+4 4852 4761
+D8
+~
+~
+0 -1 4767
+S
+#4767
+Secret tunnel to Team Rocket's Headquarters~
+Now this is getting better.  You've always wanted a chance to give that Team
+Rocket a thrashing.  A grin comes over your face as you think about punting a
+couple of field goals with that clepto cat, Meowth.  The tunnel smells
+extremely foul from all the gross Poke'mon that Team Rocket stores down here.
+Clinch your nose and grab a Poke' ball.  You can have a good laugh later when
+Jesse and James find all their prize monsters missing.
+~
+47 265 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4766
+D8
+~
+~
+0 -1 4768
+S
+#4768
+Secret tunnel to Team Rocket's Headquarters~
+Now this is getting better.  You've always wanted a chance to give that Team
+Rocket a thrashing.  A grin comes over your face as you think about punting a
+couple of field goals with that clepto cat, Meowth.  The tunnel smells
+extremely foul from all the gross Poke'mon that Team Rocket stores down here.
+Clinch your nose and grab a Poke' ball.  You can have a good laugh later when
+Jesse and James find all their prize monsters missing.
+~
+47 265 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4769
+D7
+~
+~
+0 -1 4767
+S
+#4769
+Secret tunnel to Team Rocket's Headquarters~
+Now this is getting better.  You've always wanted a chance to give that Team
+Rocket a thrashing.  A grin comes over your face as you think about punting a
+couple of field goals with that clepto cat, Meowth.  The tunnel smells
+extremely foul from all the gross Poke'mon that Team Rocket stores down here.
+Clinch your nose and grab a Poke' ball.  You can have a good laugh later when
+Jesse and James find all their prize monsters missing.
+~
+47 265 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4770
+D3
+~
+~
+0 -1 4768
+S
+#4770
+Secret tunnel to Team Rocket's Headquarters~
+Now this is getting better.  You've always wanted a chance to give that Team
+Rocket a thrashing.  A grin comes over your face as you think about punting a
+couple of field goals with that clepto cat, Meowth.  The tunnel smells
+extremely foul from all the gross Poke'mon that Team Rocket stores down here.
+Clinch your nose and grab a Poke' ball.  You can have a good laugh later when
+Jesse and James find all their prize monsters missing.
+~
+47 265 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4771
+D3
+~
+~
+0 -1 4769
+S
+#4771
+Secret tunnel to Team Rocket's Headquarters~
+Now this is getting better.  You've always wanted a chance to give that Team
+Rocket a thrashing.  A grin comes over your face as you think about punting a
+couple of field goals with that clepto cat, Meowth.  The tunnel smells
+extremely foul from all the gross Poke'mon that Team Rocket stores down here.
+Clinch your nose and grab a Poke' ball.  You can have a good laugh later when
+Jesse and James find all their prize monsters missing.
+~
+47 265 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 4772
+D3
+~
+~
+0 -1 4770
+S
+#4772
+Secret tunnel to Team Rocket's Headquarters~
+The tunnel comes to an end here and the air down here is completely
+unbearable.  As you prepare to give up your search and head back the way you
+came in, a possible exit on the ceiling catches your eye.  Pausing quietly,
+you can barely hear voices above you.
+~
+47 2317 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 4771
+D4
+
+~
+door secret tunnel~
+3 -1 4780
+S
+#4773
+The thick forest outside Pewter City~
+The wooded path to Pewter City would be yet another ideal spot for capturing
+some bug and grass element Poke'mon.  However, those rival trainers must
+still be in desperate need of them and are still a few steps ahead of you and
+the area here is picked clean as well.
+~
+47 4 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4774
+D9
+~
+~
+0 -1 4751
+S
+#4774
+The thick forest outside Pewter City~
+The wooded path to Pewter City would be yet another ideal spot for capturing
+some bug and grass element Poke'mon.  However, those rival trainers must
+still be in desperate need of them and are still a few steps ahead of you and
+the area here is picked clean as well.
+~
+47 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4775
+D2
+~
+~
+0 -1 4773
+S
+#4775
+The thick forest outside Pewter City~
+The wooded path to Pewter City would be yet another ideal spot for capturing
+some bug and grass element Poke'mon.  However, those rival trainers must
+still be in desperate need of them and are still a few steps ahead of you and
+the area here is picked clean as well.
+~
+47 0 3
+0d0+0 0 0
+D0
+~
+~
+0 -1 4776
+D2
+~
+~
+0 -1 4774
+S
+#4776
+Southern edge of Pewter City~
+If your collection is lacking in the pheasant variety, then prepare to be
+compensated.  Rumor has it that Pewter City is home to several foul species
+of pocket monsters.
+~
+47 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4778
+D2
+~
+~
+0 -1 4775
+S
+#4777
+Touring Pewter City~
+Pewter City has been invaded by birds and rats.  If you're in need of a
+Pidgeot, Raticate, or Dodrio, you're in luck.  Back in Pallet Town there are
+rumors that Team Rocket have a secret meeting place somewhere near Pewter
+City.  Could be worth investigating. Looking to the Northeast, you can see
+Mt. Moon against the horizon.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4781
+D1
+~
+~
+0 -1 4778
+D9
+~
+~
+0 -1 4786
+S
+#4778
+Touring Pewter City~
+Pewter City has been invaded by birds and rats.  If you're in need of a
+Pidgeot, Raticate, or Dodrio, you're in luck.  Back in Pallet Town there are
+rumors that Team Rocket have a secret meeting place somewhere near Pewter
+City.  Could be worth investigating. Looking to the Northeast, you can see
+Mt. Moon against the horizon.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4782
+D1
+~
+~
+0 -1 4779
+D2
+~
+~
+0 -1 4776
+D3
+~
+~
+0 -1 4777
+S
+#4779
+Touring Pewter City~
+Pewter City has been invaded by birds and rats.  If you're in need of a
+Pidgeot, Raticate, or Dodrio, you're in luck.  Back in Pallet Town there are
+rumors that Team Rocket have a secret meeting place somewhere near Pewter
+City.  Could be worth investigating. Looking to the Northeast, you can see
+Mt. Moon against the horizon.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4783
+D3
+~
+~
+0 -1 4778
+D8
+~
+secret door tunnel~
+3 4850 4780
+S
+#4780
+Team Rocket's Headquarters~
+Rushing into the room, you've no doubt caught these losers off guard.  But,
+too bad you weren't as prepared as you thought.  All those things you wanted
+to say to these guys get stuck in your throat.  Hanging on the walls and
+thrown about the room are sketched out plans and notes.  Before you can even
+think about grabbing anything here, you're gonna have to kick some Team
+Rocket butt.
+~
+47 8 0
+0d0+0 0 0
+D5
+~
+secret door tunnel~
+3 -1 4772
+D7
+~
+secret door tunnel~
+3 4850 4779
+S
+#4781
+Touring Pewter City~
+Pewter City has been invaded by birds and rats.  If you're in need of a
+Pidgeot, Raticate, or Dodrio, you're in luck.  Back in Pallet Town there are
+rumors that Team Rocket have a secret meeting place somewhere near Pewter
+City.  Could be worth investigating. Looking to the Northeast, you can see
+Mt. Moon against the horizon.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4784
+D2
+~
+~
+0 -1 4777
+S
+#4782
+Pewter City Square~
+Here in the town Square of Pewter City is a Poke'mon Center, where Poke'mon
+can recover after each battle.  You can also log onto one of the many
+computers here to check in with Professor Oak in order to see how you're
+doing compared to other trainers, and store your Poke'mon in a special
+storage system.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4785
+D2
+~
+~
+0 -1 4778
+S
+#4783
+Touring Pewter City~
+Pewter City has been invaded by birds and rats.  If you're in need of a
+Pidgeot, Raticate, or Dodrio, you're in luck.  Back in Pallet Town there are
+rumors that Team Rocket have a secret meeting place somewhere near Pewter
+City.  Could be worth investigating. Looking to the Northeast, you can see
+Mt. Moon against the horizon.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4786
+D2
+~
+~
+0 -1 4779
+S
+#4784
+Touring Pewter City~
+Pewter City has been invaded by birds and rats.  If you're in need of a
+Pidgeot, Raticate, or Dodrio, you're in luck.  Back in Pallet Town there are
+rumors that Team Rocket have a secret meeting place somewhere near Pewter
+City.  Could be worth investigating. Looking to the Northeast, you can see
+Mt. Moon against the horizon.
+~
+47 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 4785
+D2
+~
+~
+0 -1 4781
+S
+#4785
+Touring Pewter City~
+Pewter City has been invaded by birds and rats.  If you're in need of a
+Pidgeot, Raticate, or Dodrio, you're in luck.  Back in Pallet Town there are
+rumors that Team Rocket have a secret meeting place somewhere near Pewter
+City.  Could be worth investigating. Looking to the Northeast, you can see
+Mt. Moon against the horizon.
+~
+47 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 4882
+D1
+~
+~
+0 -1 4786
+D2
+~
+~
+0 -1 4782
+D3
+~
+~
+0 -1 4784
+S
+#4786
+Touring Pewter City~
+Pewter City has been invaded by birds and rats.  If you're in need of a
+Pidgeot, Raticate, or Dodrio, you're in luck.  Back in Pallet Town there are
+rumors that Team Rocket have a secret meeting place somewhere near Pewter
+City.  Could be worth investigating. Looking to the Northeast, you can see
+Mt. Moon against the horizon.
+~
+47 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 4787
+D2
+~
+~
+0 -1 4783
+D3
+~
+~
+0 -1 4785
+D6
+~
+~
+0 -1 4777
+S
+#4787
+A path to Mt. Moon~
+Yes! Mt. Moon in full view.  Theres nothing between you and the summit of Mt.
+Moon except this path and a few Supernerds. The Supergeeks won't be too happy
+to see you getting close to the mountain and they challenge any new trainer
+that wanders across this path.
+~
+47 4 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 4788
+D3
+~
+~
+0 -1 4786
+S
+#4788
+A path to Mt. Moon~
+Theres nothing between you and the summit of Mt. Moon except this path and a
+few Supernerds. The Supergeeks won't be too happy to see you getting close to
+the mountain and they challenge any new trainer that wanders across this
+path.
+~
+47 0 11
+0d0+0 0 0
+D3
+~
+~
+0 -1 4787
+D6
+~
+~
+0 -1 4789
+S
+#4789
+A path to Mt. Moon~
+Theres nothing between you and the summit of Mt. Moon except this path and a
+few Supernerds. The Supergeeks won't be too happy to see you getting close to
+the mountain and they challenge any new trainer that wanders across this
+path.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4790
+D9
+~
+~
+0 -1 4788
+S
+#4790
+A path to Mt. Moon~
+Theres nothing between you and the summit of Mt. Moon except this path and a
+few Supernerds. The Supergeeks won't be too happy to see you getting close to
+the mountain and they challenge any new trainer that wanders across this
+path.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4791
+D2
+~
+~
+0 -1 4789
+S
+#4791
+A path to Mt. Moon~
+Theres nothing between you and the summit of Mt. Moon except this path and a
+few Supernerds. The Supergeeks won't be too happy to see you getting close to
+the mountain and they challenge any new trainer that wanders across this
+path.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4792
+D2
+~
+~
+0 -1 4790
+S
+#4792
+A path to Mt. Moon~
+Theres nothing between you and the summit of Mt. Moon except this path and a
+few Supernerds. The Supergeeks won't be too happy to see you getting close to
+the mountain and they challenge any new trainer that wanders across this
+path.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4793
+D2
+~
+~
+0 -1 4791
+S
+#4793
+A path to Mt. Moon~
+Theres nothing between you and the summit of Mt. Moon except this path and a
+few Supernerds. The Supergeeks won't be too happy to see you getting close to
+the mountain and they challenge any new trainer that wanders across this
+path.
+~
+47 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 4794
+D2
+~
+~
+0 -1 4792
+S
+#4794
+The base of Mt. Moon~
+Standing here at the base of Mt. Moon you realize the time is near for the
+ultimate showdown between master and Poke'mon.  Mewtwo is somewhere here on
+the Mountain and you're determined to find him. There's no direct path up the
+steep sides, but there's a loose boulder here.  You just might be able to
+wedge it open.
+~
+47 4 4
+0d0+0 0 0
+D1
+~
+boulder door tunnel~
+1 -1 4795
+D2
+~
+~
+0 -1 4793
+S
+#4795
+A tunnel beneath Mt. Moon~
+This tunnel, although narrow, is crawling with Rock element Poke'mon .  While
+you're looking for clues to the whereabouts of Mewtwo, you may as well bag a
+few of these rare monsters.  If you're in need of a Dugtrio or a Clefairy,
+you're in the right place.
+~
+47 265 0
+0d0+0 0 0
+D3
+~
+boulder door tunnel~
+1 -1 4794
+D8
+~
+~
+0 -1 4796
+S
+#4796
+A tunnel beneath Mt. Moon~
+This tunnel, although narrow, is crawling with Rock element Poke'mon .  While
+you're looking for clues to the whereabouts of Mewtwo, you may as well bag a
+few of these rare monsters.  If you're in need of a Dugtrio or a Clefairy,
+you're in the right place. There's a patch of ceiling here that doesn't look
+quite right.
+~
+47 16649 0
+0d0+0 0 0
+D4
+The psychic barrier is very strong, indeed.
+~
+barrier psychic mountaintop~
+4 4851 4797
+D7
+~
+~
+0 -1 4795
+D8
+~
+~
+0 -1 4798
+S
+#4797
+Top of Mt. Moon~
+Here at the top of Mt. Moon sits Mewtwo in a half-conscious state of
+meditation.  You can look down and see all the towns, from Cinnabar Island to
+Indigo Plateau to Lavender Town. Here armed with full confidence, having
+kicked butt and taken names in all those towns, you are ready to take down
+the big dog himself...errr big cat.  Aren't you?
+~
+47 2111556 5
+0d0+0 0 0
+D5
+~
+barrier psychic secret~
+4 4851 4796
+S
+#4798
+A tunnel beneath Mt. Moon~
+This tunnel, although narrow, is crawling with Rock element Poke'mon .  While
+you're looking for clues to the whereabouts of Mewtwo, you may as well bag a
+few of these rare monsters.  If you're in need of a Dugtrio or a Clefairy,
+you're in the right place.
+~
+47 265 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 4796
+D8
+~
+boulder door~
+1 -1 4799
+S
+#4799
+Western edge of Cerulean City~
+Standing here at the base of Mt. Moon you realize the time is near for the
+ultimate showdown between master and Poke'mon.  Mewtwo is somewhere here on
+the Mountain and you're determined to find him. There's no direct path up the
+steep sides, but there's a loose boulder here.  You just might be able to
+wedge it open.
+~
+47 4 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 4800
+D7
+~
+boulder tunnel door~
+1 -1 4798
+S
+$

@@ -1,0 +1,557 @@
+#0
+bug~
+a bug~
+A bug is here, used to be mail or a magic mushroom.
+~
+~
+5 9206816 0 0
+0 0 0
+0 0 0 3
+20 100000 0
+E
+ring band~
+The ring is a band of gold.  Its worth lies in the promises made, and not
+in the value of the gold it is made of.  May you be happy, and prosper.
+~
+#1
+coupon quest armor~
+coupon for an Imm armor~
+Coupon for an Imm armor~
+~
+10 65536 1 0
+0 0 0
+0 0 0 0
+1 5 5
+#2
+map midgaard~
+a map of midgaard~
+A map of Midgaard lies here.~
+Temple of Midgaard~
+16 0 1 0
+0 0 0
+0 0 0 0
+1 300 1
+#4
+double standard~
+a double standard~
+Just like life.....here it is!~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#9
+~
+a hand~
+Someone lost their hand!~
+~
+5 2093068 8193 0
+0 0 0
+0 5 6 11
+1 0 0
+A
+17 4
+E
+hand~
+It's your hand!
+~
+#10
+mushroom magic~
+a Magic Mushroom~
+A really delicious looking magic mushroom lies here.~
+~
+19 4 1 0
+0 0 0
+24 0 0 0
+1 0 0
+#11
+berries~
+a bunch of berries~
+A bunch of berries lies here.
+~
+~
+19 4 1 0
+0 0 0
+12 0 0 0
+1 0 0
+#12
+bracer leather hide~
+a leather bracer~
+A thick, sturdy bracer made from the hide of a ferocious animal lies here.~
+~
+9 4160 4097 0
+0 0 0
+0 100 0 0
+0 0 0
+#13
+collar leather hide~
+a thick leather collar~
+A thick collar made from the hide of a ferocious beast lies here discarded.~
+~
+9 4160 5 0
+0 0 0
+0 0 0 0
+0 0 0
+#14
+cloak leather hide~
+a leather cloak~
+A cloak made from the hide of a ferocious animal hangs from a hook here.~
+~
+9 4160 1025 0
+0 0 0
+0 5 5 0
+0 9 0
+#15
+breast plate hide breastplate~
+a leather breastplate~
+A breast plate made from the hide of some fearsome animal gathers dust here.~
+~
+9 4160 9 0
+0 0 0
+0 0 0 0
+0 0 0
+#16
+helmet leather hide~
+a leather helmet~
+A small helmet made from the hide of a ferocious beast is here.~
+~
+9 4160 17 0
+0 0 0
+0 0 0 0
+0 0 0
+#17
+sleeves leather hide~
+a pair of leather sleeves~
+A pair of sleeves made from the hide of a ferocious beast lies here unused.~
+~
+9 4160 257 0
+0 0 0
+0 0 0 0
+0 0 0
+#18
+leggings leather hide~
+a pair of leather leggings~
+A pair of leggings made from the hide of a ferocious beast is here.~
+~
+9 4160 33 0
+0 0 0
+0 0 0 0
+0 0 0
+#19
+boots leather hide thick~
+a pair of thick leather boots~
+A thick pair of boots made from the hide of a ferocious beast lies here.~
+~
+9 4160 65 0
+0 0 0
+0 0 0 0
+0 0 0
+#20
+shield leather hide~
+a sturdy leather shield~
+A shield made from the hide of a ferocious beast lies here in the mud.~
+~
+9 4160 513 0
+0 0 0
+0 0 0 0
+0 0 0
+#21
+belt leather hide~
+a leather belt~
+A belt made from the cured hide of a ferocious beast is here getting dirty.~
+~
+9 4160 2049 0
+0 0 0
+0 0 0 0
+0 0 0
+#22
+gloves leather hide~
+a pair of thick leather gloves~
+A thick pair of gloves made from the hide of a ferocious beast is here.~
+~
+9 4160 129 0
+0 0 0
+0 0 0 0
+0 0 0
+#23
+steak~
+a large steak~
+A large steak lies here.
+~
+~
+19 4 1 0
+0 0 0
+24 0 0 0
+1 0 0
+#24
+red hot coal light~
+a red hot coal~
+A red hot coal is burning here.
+~
+~
+1 1 16385 0
+0 0 0
+0 0 30 0
+1 0 0
+A
+16 -2
+#25
+acolyte monks robes~
+acolyte monks' robes~
+Some robes for an acolyte monk are folded neatly.
+~
+~
+11 0 9 0
+0 0 0
+0 0 0 0
+1 0 0
+A
+16 -4
+#26
+simple pair sandals~
+a simple pair of sandals~
+A pair of sandals is on the floor.~
+~
+11 0 65 0
+0 0 0
+0 0 0 0
+1 0 0
+A
+16 -3
+#76
+turban dusty~
+a small, dusty turban~
+A turban is here, covered in dust.~
+~
+11 0 17 0
+0 0 0
+0 0 0 0
+1 20 20
+A
+16 -2
+#77
+boots leather~
+a pair of worn leather boots~
+A pair of worn leather boots sits on the floor, discarded.~
+~
+9 0 65 0
+0 0 0
+2 0 0 0
+1 60 60
+#78
+scimitar~
+a scimitar~
+A sharp scimitar lies here, abandoned.~
+~
+5 1077248 8193 0
+0 0 0
+0 3 2 3
+1 60 60
+#79
+sword~
+sword~
+Short sword
+~
+~
+5 0 8193 0
+0 0 0
+0 5 5 3
+0 0 0
+#80
+footsoldier soldier spear small~
+a small footsoldier's spear~
+A long wooden spear is lying here, its tip covered with a clear silver coating.~
+~
+5 8417280 24577 0
+0 0 0
+0 1 9 11
+4 20 2
+E
+spear~
+This is a short spear used for jabbing at an opponent, and is usually wielded
+in one hand. It is standard military issue, used by poor footmen on the front
+lines. The entire item measure 5 feet, ending at a wicked point. There is a
+length of looped rope tied at one end, with which to wear this slung across
+the back during travel. Just slide loop up spear, and wear it.
+~
+#81
+mace acolyte simple~
+a simple acolyte's mace~
+An acolyte has dropped his spiked mace here.~
+~
+5 8441856 24577 0
+0 0 0
+0 2 3 6
+6 40 2
+E
+mace~
+A small metal head with protruding metal spikes is mounted on a stout wooden
+haft. The entire weapon is well polished. These maces have been specially
+consecrated for use in defending the faith, and only priests may use them.
+~
+#82
+dirk apprentice~
+an apprentice's dirk~
+A wizard apprentice's personal dirk lies here.~
+~
+5 8192 24577 0
+0 0 0
+0 1 6 3
+2 30 2
+E
+dirk~
+A traditional graduation gift presented by a mage to his apprentice. It is
+also used as a sign of expulsion... Some are exceptionally crafted, others
+are shabby. This one is nice. There is even a rune carved on the hilt: &r
+~
+#83
+dagger commoner~
+a sharp commoner's dagger~
+The dagger of a dead commoner lies abandoned here.~
+~
+5 8192 24577 0
+0 0 0
+0 3 2 11
+3 20 2
+E
+dagger~
+This is a typical commoner's dagger. Being that some consider this their most
+valuable possession (next to their keg), it is well polished and personally
+kept sharp by the owner. Uses include eating, defense, and settling grudges.
+~
+#84
+breastplate plate leather soldier's~
+a common soldier's hard leather breastplate~
+A soldier has left his leather breastplate here.~
+~
+9 8409088 9 0
+0 0 0
+5 0 0 0
+25 40 4
+E
+leather breastplate~
+This leather breastplate was made in a workshop specializing in supplying
+soldiers and warriors. The layered steerhide was boiled in oil and shaped
+while hot, and then hardened. It is stiff and barely flexible.
+~
+#85
+robe combat priest cloth grey~
+a militant priest's combat robe~
+A thick pile of lumpy grey cloth lies here.~
+~
+9 8409088 9 0
+0 0 0
+5 0 0 0
+40 100 3
+E
+combat robe~
+This is the fighting robe of a militant cleric. It is made of tough grey
+cloth material, and also has strategically placed inside pockets where metal
+plates have been inserted and sewn in. 
+~
+#86
+robe cloth~
+a long hooded robe~
+A pile of brown cloth lies here.~
+~
+9 0 1033 0
+0 0 0
+4 0 0 0
+5 15 10
+E
+robe~
+This is a long hooded robe of a dark brown color, very unobtrustive. It is
+thick, tough, and very loose-fitting. In fact, you'd gather that it provides
+a good amount of protection for the wearer, more than one would guess...
+~
+#87
+leather streetjacket jacket~
+a thick leather streetjacket~
+Some fool dropped his leather jacket right here.~
+~
+9 4096 9 0
+0 0 0
+4 0 0 0
+5 100 4
+E
+leather jacket streetjacket~
+This is a finely tailored jacket made from thick, yet supple leather. Metal
+inserts are sewn into strategically placed inside pockets, especially over
+the back, shoulders, and upper chest. Studs are also riveted to it.
+~
+#88
+ring mage runed silver~
+a mage's ring of plain silver~
+A small silver ring with a personal rune embossed on it is lying here.~
+~
+11 8446016 3 0
+0 0 0
+0 0 0 0
+0 0 1
+A
+16 -4
+E
+ring mage's mage~
+Once in his or her life, upon performing the last rituals needed for becoming
+a full mage, a spell student will be imbued with the magical energy to create
+_one_ ring of his very own, that will be his signature and his protection.
+This is such a ring. One can kill another mage for their ring...
+~
+#89
+cloak cloth~
+a long, flowing dark grey cloak~
+A pile of black cloth lies here gathering dirt.~
+~
+9 0 1025 0
+0 0 0
+4 0 0 0
+3 10 1
+E
+cloak cloth~
+This is a long, flowing cloak of supple, yet hardy material. It is darkish
+grey, almost black, in color.
+~
+#90
+iron shield~
+a simple iron shield~
+An old, dented metal shield lies here on the floor.~
+~
+9 8409088 16897 0
+0 0 0
+3 0 0 0
+10 20 2
+E
+iron shield~
+An old, round shield made of iron, with leather straps on the inside for an
+arm to slide through and a hand to grip. This shield is dented in places,
+and has many scratches over it's surface. There are sure to be more soon.
+~
+#91
+leather buckler~
+a small leather buckler~
+A round leather buckler lies here.~
+~
+9 0 16897 0
+0 0 0
+2 0 0 0
+3 10 1
+E
+leather buckler~
+This is a round buckler made of leather. It has straps to hold it to one's
+arm, thus freeing up the hand for other work, such as for a weapon or for
+casting. It is used for minor protection. Do not expect it to protect fully.
+~
+#92
+tabard white squire paladin~
+the white tabard of a paladin squire~
+A finely made tabard lies here, of clean white felt and gold threading.~
+~
+9 8418624 1033 0
+0 0 0
+4 0 0 0
+3 400 2
+E
+tabard felt~
+Made from wool of purest white, impregnated with gold threading at random to
+give a sparkling effect, this is the special dress tabard of a paladin squire.
+~
+#93
+shield white kite~
+a white shield emblazoned with a holy symbol~
+A white shield belonging to a holy warrior lies here.~
+~
+9 8410176 513 0
+0 0 0
+4 0 0 0
+10 300 3
+E
+shield white kite~
+This is a simply made kite shield, so-called because of it's longer tapering
+lower half, causing the entire shield to look like a kite. It is primarily
+used by knights to protect not only the body, but also the leg, from attacks.
+~
+#94
+lance footman's footman~
+a light footman's lance~
+A light wooden lance with a sharp metal point lies here.~
+~
+5 8418304 24577 0
+0 0 0
+0 1 9 11
+6 30 1
+E
+lance~
+A light lance used primarily by squires in support of their mounted knights,
+though it can also be used on horseback. It is of lightweight, but strong
+wood, and the point looks capable of piercing chain mail.
+~
+#95
+symbol holy~
+a shining holy symbol~
+A bright, glowing holy symbol lies here in the dirt.~
+~
+1 1025 18437 0
+0 0 0
+0 0 -1 0
+0 0 0
+A
+16 -2
+E
+symbol holy~
+The symbolic representation of one's deity. A source of divine and mundane
+light... One prays with this, one looks to this for inspiration, one is
+calmed by this, one is heartened by this... a symbol of one's Faith.
+~
+#96
+breastplate plate leather black~
+a pitch-black leather breastplate~
+A black leather breastplate is piled here.~
+~
+9 8843264 9 0
+0 0 0
+5 0 0 0
+8 1000 0
+E
+plate breastplate~
+The breastplate is made from fine leather.  Its unnatural pitch-black
+color would assist those who attack from the shadows.
+~
+#97
+shield red~
+a red shield~
+A large red shield has been left here.~
+~
+9 8843264 513 0
+0 0 0
+3 0 0 0
+5 500 0
+E
+shield red~
+The shield is made of hardened leather and is the dark-red color of
+dried blood.
+~
+#98
+bastard sword~
+a bastard sword~
+A sword has been discarded here.~
+~
+5 0 2049 0
+0 0 0
+0 1 9 0
+4 200 0
+E
+bastard sword~
+A medium length sword with a long hilt.
+~
+#99
+bracelet black chain~
+a black chain bracelet~
+A length of black chain has been left here.~
+~
+11 8712256 4097 0
+0 0 0
+0 0 0 0
+0 0 0
+A
+16 -5
+$

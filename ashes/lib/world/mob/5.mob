@@ -1,0 +1,1009 @@
+#500
+Russian Guard~
+Russian Guard~
+A tall, serious looking guard stands here with a red design on his uniform.
+~
+~
+14442 1160 0 W3
+89 40 -1 100d50+500 6d4+15
+3000 203750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#501
+Russian Guard~
+Russian Guard~
+A strong, tight lipped guard stands before you with a red insignia on his uniform.
+~
+~
+6248 1032 0 W3
+56 15 -1 100d45+100 6d5+10
+2500 121250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#502
+Guard Dog~
+Guard Dog~
+A large black dog, bares his fangs at you and leaps for your throat!!
+~
+A large black dog.
+~
+8238 1060 0 W3
+125 60 -20 100d20+10000 6d4+30
+0 20000
+8 8 0
+18 0 13 13 18 9 0
+0 2 0
+-200 4 4 0 0 0
+10 10 10 10 10
+0 0 63
+6 10
+~
+#503
+Guard Dog~
+Guard Dog~
+A large black dog leaps at your throat!!
+~
+A large black dog.
+~
+4204 1024 -500 W3
+25 30 -1 30d20+20 3d3+8
+50 43750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-10 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 10
+~
+#504
+American Guard~
+American Guard~
+A guard in a green uniform launches himself at you!!!
+~
+An tall muscular guard wearing a green uniform.
+~
+6186 525448 750 W3
+81 30 -4 100d30+100 6d5+25
+10000 183750
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#505
+Max Batu~
+Max Batu~
+A small, imp like guy turns his evil eye towards you.
+~
+You see a guy who has an impish appearance.  He is very evil, but yet
+regrets what he has become.  He turns his evil eye towards you, pray
+that your heart is strong.
+~
+8780 525448 -1000 W3
+96 45 -20 100d50+600 5d8+10
+10000 221250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#506
+Boris Dragosni~
+Boris Dragosni~
+A strange looking man.
+~
+A strange looking man with long fingernails and hair.  He has an evil
+sense about him.  He evilly grins at you and you notice the long, white
+fangs with saliva dripping off of them.  His eyes being to glow a 
+crimson red as he prepares to dine, Can you guess who he is having
+for dinner?
+~
+10442 1152 -1000 W3
+76 30 -3 75d10+1500 6d8+15
+35000 171250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-30 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#507
+Alec Kyle~
+Alec Kyle~
+An unnoticed leader.
+~
+You see a dejected man before you.  He lost one of his best friends and
+now has suddenly found himself in charge of the American Esp team.
+Little does he know that he is hurtling towards his doom.
+~
+12300 136 500 W3
+39 35 0 6d8+20 2d10+15
+50000 78750
+6 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#508
+Igor Vlady~
+Igor Vlady~
+Igor is here looking at the future.
+~
+You see a middle-aged man.  He seems to be staring right through you.
+He has a far away look, its seems that he is looking at a picture that
+only he can see.  Suddenly he comes back to the present and smiles
+at you.
+~
+6216 1032 750 W3
+36 20 0 55d10+550 5d8+8
+5000 71250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#509
+Harry Newton~
+Harry Newton~
+A man with a blank stare.
+~
+You see a man lost in deep concentration.  You feel a slight presence
+touch your mind and probe slightly into your memories.  You realize
+that he is using his mind to probe yours.
+~
+6216 1032 750 W3
+38 22 0 70d10+500 5d8+15
+8000 76250
+8 5 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#510
+Trevor Jordan~
+Trevor Jordan~
+Trevor is trying to read your mind, unsuccessfully as usual.
+~
+A young man, full of energy and ready for adventure.  His untried 
+telepathic abilities make him strive even harder to prove to his
+friends that he is a valuable part of the team.  He is the kind
+of person that you just can't help, but like.
+~
+12488 1032 1000 W3
+68 25 0 70d10+525 10d6+20
+10000 151250
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#511
+Ben Trask~
+Ben Trask~
+Ben is wondering if you told the truth, hmmmmm.
+~
+You see a middle-age man with an honest face.  He studies you intently.
+This man is called the human lie-dectector because he knows when
+your telling the truth to him.  He doesn't like to be lied to and
+gets very angry when someone does.
+~
+4172 0 1000 W3
+33 25 0 70d10+530 5d8+12
+15000 63750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#512
+Gregor Borowitz~
+Gregor Borowitz~
+Gregor Borowitz
+~
+A strong looking man.  This man is a Russian in every sense of the word.
+His belief in the Russian Esp team is unquestionable.  This man is
+also a full for because the man he trusts will lead to his 
+destruction.
+~
+12366 65672 0 W3
+92 30 -4 100d7+2700 8d2+20
+65000 211250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#513
+Mikhail Gerkhov~
+Mikhail Gerkhov~
+Mikhail is here praying he never gets promoted!!
+~
+A strong Russian soldier dedicated to the cause.  His only passion is
+to serve is commanding officer and he seeks nothing more.  A very
+simple and loyal man.
+~
+6154 8 -1000 W3
+46 25 0 75d10+600 5d8+10
+35000 96250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#514
+Andrei Ustinov~
+Andrei Ustinov~
+Andrei is here plotting Gregor's downfall.
+~
+This Russian is very POWER hungry.  In time he would run the esp
+branch for Russian, but he can't wait he wants it all.  So he
+has plotted treachory only soon to be undone by a necromancer.
+~
+4170 0 -1000 W3
+44 35 0 75d10+600 5d8+10
+35000 91250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#515
+Ivan Gerenko~
+Ivan Gerenko~
+An average man with a unique ability.
+~
+This man appears average in every sense of the word.  Its his unique
+ability of deflection thats sets him above the rest.  Trying to 
+attack him straight on and you will always miss, but doing it
+unintentionally could seal his doom.
+~
+309449 536872072 0 W3
+130 89 -35 100d35+15000 28d7+50
+20000 15000
+8 8 1
+13 0 13 13 18 13 0
+12 2 0
+-350 0 9 500 5 22
+10 10 10 10 10
+0 0 0
+6 0
+~
+#516
+Felix Krakovitch~
+Felix Krakovitch~
+Felix is searching for others of his kinds.
+~
+A Russian citizen to the end.  He totally believes in doing his part for
+his country.  He is quite good at realizing when people may be a problem,
+especially other espers need to fear him for he knows when there about.
+~
+4236 8 500 W3
+67 35 -1 100d30+1000 6d8+5
+50000 148750
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+-10 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#517
+Guy Roberts~
+Guy Roberts~
+Guy is here trying to come up with the warning pictures.
+~
+A patroit to the end is his motto.  He seems to be trying to decipher
+something only he can read.  His importance is highly rated for sometimes
+he can give advanced warnings about the future that lets our boys
+avoid mistakes.
+~
+4168 1160 1000 W3
+62 30 0 100d30+1500 5d8+5
+30000 136250
+5 5 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#518
+Simon Gower~
+Simon Gower~
+Simon is here worrying about tomorrow.
+~
+You see a worried man.  He has very deep, wrinkles in his face from
+fear.  He just knows something is going to go wrong, because nothing
+can ever go right.
+~
+4200 0 0 W3
+33 20 0 80d10+350 5d8+8
+8000 63750
+6 6 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+15 15 15 15 15
+0 0 0
+6 10
+~
+#519
+Ken Layard~
+Ken Layard~
+Ken is here searching the world for his next victim.
+~
+This man has a far away look.  Suddenly a smile crosses his lips
+and he quickly heads off towards the map room, for he has found
+the location of his prey.
+~
+12424 262312 1000 W3
+94 30 0 100d35+1850 5d8+5
+100000 216250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#520
+Carl Quint~
+Carl Quint~
+Carl is here reading your destiny.
+~
+This man has a far away look when you enter.  He seems to be watching
+a screen that only he can see.  He suddenly comes back to the present
+with a horrible scream and flees from the room.
+~
+4234 8 650 W3
+38 20 0 100d8+300 5d8+8
+35000 76250
+8 5 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#521
+Darcy Clarke~
+Darcy Clarke~
+Darcy is here wondering which friend will die next due to his skill.
+~
+This man smiles and seems very sure of himself.  For his skill always
+finds some way to keep him out of trouble.  Some times he wishes he 
+never had this skill because it puts his friends in danger to save
+him.
+~
+274632 168 1000 W3
+127 55 -20 100d50+2000 6d8+15
+55000 308750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#522
+Zek Foener~
+Zek Foener~
+Zek Foener is here delving into your mind.
+~
+A beatiful lady gazes at you and smiles fondly.  She is the pawn of 
+evil men and wishes only to escape the terrible life she is forced
+into.  Her freedom will come from none other than Harry Keogh.
+~
+4296 8 350 W3
+25 20 0 100d5+400 2d6+8
+3000 43750
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#523
+Other~
+the Other~
+The other is devouring a corpse.
+~
+Huge tentacles snaked towards you, seeking a hold.  A small body emerges
+from the ground on the other end of the tentacles with a huge mouth 
+dominating the creature's body.
+~
+40 525448 -1000 W3
+127 55 -26 100d80+3500 4d1+40
+125000 356250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-260 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#524
+Thibor Ferenczy~
+Thibor Ferenczy~
+Thibor is here plotting the death of his creator.
+~
+A huge warrior from times gone by.  His only goal in life is to overthrow
+his creator and to take control of this tower.  He believes that it is
+his right to rule this domain and he will crush the other wamphyri
+under his rule to mindless slaves.
+~
+273929 525448 -1000 W3
+117 72 -25 100d30+7000 10d5+60
+50000 273750
+8 8 1
+13 0 13 13 13 13 0
+18 2 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#525
+Yulian Bodescu~
+Yulian is plotting against thibor.~
+Yulian is here trying to escape thibor!!
+~
+A weird man who is fascinated by death.  He thinks he has achieved 
+unreachable goals, but in reality he understands nothing.  His hate
+for Thibor grows because he has been banished to this cellar to 
+he figures out his powers.
+~
+3592 525480 -1000 W3
+85 30 -2 100d10+2000 4d4+30
+35000 193750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#526
+Janos Ferenczy~
+Janos Ferenczy~
+Janos is here waiting to destroy you!!
+~
+The Wamphyri in every sense stands before you.  His heart is filled with
+the purest evil.  His only desire is to bring death and destruction to his
+enemies.  He calls Thibor his brother by name only.  He seeks, as do all
+Wamphyri, to increase his own powers while decreasing the powers of his
+fellow Wamphyri.
+~
+46 525448 -1000 W3
+92 30 0 100d30+2500 4d1+30
+65000 211250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#527
+Guardian Beast~
+Guardian Beast~
+Guardian Beast leaps to DESTROY you!!
+~
+A huge black creature, with crimson eyes and huge black wings.  His only
+purpose is to kill all who dare enters his master's domain.
+~
+40 1160 -1000 W3
+117 40 -6 100d50+2000 6d8+12
+100000 273750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#528
+Fess Ferenczy~
+Fess Ferenczy~
+Fess is here plotting pillage and rape.
+~
+Another Evil-hearted Ferenczy stands before you.  He loves to destroy
+things and enjoys plotting desctruction and death.  Nothing makes him
+happy then to do battle with his own kind, unless its killing things
+weaker then himself.
+~
+263689 525448 -1000 W3
+127 65 -25 100d50+4000 8d5+60
+50000 468750
+8 8 1
+13 0 13 13 13 13 0
+18 2 0
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#529
+Faethor Ferenczy~
+Faethor Ferenczy~
+Faethor screams, "You DARE to invade my home, PREPARE TO MEET YOUR MAKER!!"
+~
+This Wamphyri represents evil in all its glory.  His eyes grow bright
+red as he meets your gaze.  His fangs are long and look very sharp indeed.
+He cackles with total madness as he rises from his throne.  You realize
+that your facing total evilness reincarnated.
+~
+306763 1160 -1000 W3
+127 70 -10 100d50+5000 2d10+65
+175000 441250
+8 6 1
+13 0 13 13 13 13 0
+8 2 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#530
+Dramal Doombody~
+Dramal Doombody~
+Dramal is here designing his new tower.
+~
+An evil, hideous Wamphyri stands before you.  He is the father to
+Lady Karen and built this tower.  His one love is to bring utter
+destruction to his enemies, so I wouldn't suggest getting in his
+way.  His goal currently is to build a new tower for him to rule
+from when he destroys the rest of his foes.
+~
+11786 525442 -1000 W3
+105 50 -17 100d30+2500 4d4+30
+50000 243750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-170 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#531
+Lascula Longtooth~
+Lascula Longtooth~
+Lascula is here study a new transformation.
+~
+His powers of metamorphis are beyond your understanding.  He has the
+powers to grows claws just by thinking about it.  As he peers at
+you deciding how to kill you, you notice his jaws seems to be stretching
+till he has jaws like a shark easier to devour you.
+~
+327179 525448 0 W3
+101 70 -18 100d30+6500 9d5+67
+50000 233750
+8 8 1
+13 0 13 13 13 13 0
+14 2 0
+-180 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#532
+Shaithis~
+Shaithis~
+Shaithis is here looking for battle.
+~
+Shaithis is the most fearsome of the Wamphyri, though by his appearance
+you wouldn't realize this.  Though most Wamphyri respect no one, they
+all respect the power of Shaithis.  Make sure your affairs are in order
+and your friends know which next of kin to notify when you challenge
+him, for to challenge him is to court death itself.
+~
+296459 1160 -1000 W3
+127 70 -30 100d65+6500 6d5+60
+100000 516250
+8 8 1
+13 0 13 13 13 13 0
+15 2 0
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#533
+Wolf Brother~
+Wolf Brother~
+Wolf stands here guarding his master's property.
+~
+A huge, grey wolf eyes you hungrily.  He has sworn to protect his master
+and will fight you to the death before letting you pass.  His
+jaw seems capable of crushing even the hardest stone and you hope
+that they won't end up around your throat.
+~
+4139 1160 50 W3
+69 62 -15 100d50+1000 8d5+35
+1000 153750
+8 8 0
+13 0 13 13 13 13 0
+20 2 0
+-150 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#534
+Harry Keogh, Jr.~
+Harry Keogh, Jr.~
+Harry is here fighting his disease.
+~
+An empossing human wearing a mask that covers his entire face.  Crimson
+eyes meet your gaze and you see great sorrow and pain within those eyes.
+He regrets taking his mother away from his father and feels pain for
+what he has become due to his helping nature.  For the one thing he
+detests is Wamphyri and that is the very thing he has become.
+~
+289035 1192 750 W3
+130 84 -30 100d75+10000 12d5+65
+10000 20000
+8 8 1
+25 0 16 14 19 19 25
+8 2 0
+-300 3 9 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#535
+Mother Vampire~
+Mother Vampire~
+Mother Vampire is in a feeding frenzy.
+~
+A mother Vampire covered in bloods looks at you hungrily.  Her plans
+was to inhabit Karen and use her to create new vampires, but thanks
+to Harry Keogh she had to leave her host to seek blood, but she
+seems to be very happy right where she is.
+~
+2361391 1160 -1000 W3
+140 86 -35 100d5+25000 70d2+60
+5000 1
+8 8 2
+25 100 20 20 25 25 25
+8 3 1
+-350 4 9 600 20 20
+10 10 10 10 10
+0 0 0
+6 10
+~
+#536
+Fighter Beast~
+a Fighter Beast~
+Fighter Beast attacks you on sight!!
+~
+You see a black hideous creature, with huge bat-like wings.  This
+whole creature is designed for battle from his huge fangs, to his
+long sharp claws.  This creature has excellent vision and only seeks
+to destroy there master's foes.
+~
+10286 1160 0 W3
+110 35 -4 100d50+3000 6d4+25
+2500 256250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#537
+Dweller~
+Dweller~
+Dweller slithers towards you looking for food!!!
+~
+A huge, ancient beast that looks very hungry.  Karen keeps him
+very close in case she needs to fly off in a hurry to take care
+of matters.  He is totally loyal to her and serves no one else.
+~
+2090 525480 0 W3
+105 60 -25 100d50+2500 6d8+40
+35000 243750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-250 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#538
+Lady Karen~
+Lady Karen~
+Lady Karen gives you an icey stare.
+~
+Karen has cold, statue like beauty.  Her beauty is unearthly and you
+believe that she is the most beautiful woman you have ever seen.
+Her white dress hugs her body showing off her curves quite nicely.
+You know you stand before a picture of a goddess and all you wish
+to do is drop to your knees in worship.
+~
+299023 1160 300 W3
+140 86 -30 100d65+18000 35d4+70
+10000 1
+8 8 2
+25 0 25 25 25 25 25
+0 2 0
+-300 5 9 300 30 30
+10 10 10 10 10
+0 0 0
+6 0
+~
+#539
+Harry Keogh~
+Harry Keogh~
+Harry Keogh is opening Mobius doors here.
+~
+A man who loves life.  He is beloved of the dead for he was the only
+one who could bring light into there life.  Now he is a Wamphyri who
+deeply loves Karen.  He is a gentle man, but challenge his love and
+you will find out that he is truely a Wamphryi
+~
+301071 1160 500 W3
+127 80 -35 100d50+12000 18d4+90
+10000 20000
+8 8 1
+18 100 18 18 21 19 20
+18 2 0
+-350 13 8 200 15 10
+10 10 10 10 10
+0 0 0
+6 0
+~
+#540
+Trog~
+Trog~
+Trog is here serving his master.
+~
+Trog is a loyal slave to his master.  You can see the hardships of
+that slavery.
+~
+104 1032 -1000 W3
+40 20 0 50d50+200 2d8+10
+1000 81250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#541
+ferenczy guardian~
+Ferenczy Guardian~
+A guardian for the Ferenczy domain is waiting here.
+~
+You see a black hideous creature, with huge bat-like wings.  This
+whole creature is designed for battle from his huge fangs, to his
+long sharp claws.  This creature has excellent vision and only seeks
+to destroy there master's foes.
+~
+4073487 525448 0 W3
+125 70 -26 100d50+27000 12d4+40
+2500 15000
+8 8 0
+18 80 13 13 18 13 0
+7 2 0
+-265 3 7 800 100 100
+10 10 10 10 10
+0 0 0
+6 0
+~
+#542
+avenging spirit~
+the Avenging Spirit~
+The Anvenging Spirit is here, attacking YOU!
+~
+The Avenging Spirit of Harry Keogh is attacking you and will make you pay!
+~
+34603 17040520 -1000 W3
+65 55 -22 20d5+2500 4d1+40
+0 100000
+8 8 0
+18 100 18 13 18 18 0
+15 5 0
+-220 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#543
+vampire~
+Rampaging vampire~
+A rampaging vampire looking for blood!!!
+~
+You see a black hideous creature, with huge bat-like wings.  This
+whole creature is designed for battle from his huge fangs, to his
+long sharp claws.  This creature has excellent vision and only seeks
+to destroy there master's foes.
+~
+2402413 541590666 0 W3
+150 72 -30 100d50+6000 8d5+45
+2500 10000
+8 8 0
+18 100 13 13 19 25 20
+12 2 0
+-300 0 10 125 20 20
+10 10 10 10 10
+0 0 0
+6 10
+~
+#544
+vampire~
+Rampaging vampire~
+A rampaging vampire looking for blood!!!
+~
+You see a black hideous creature, with huge bat-like wings.  This
+whole creature is designed for battle from his huge fangs, to his
+long sharp claws.  This creature has excellent vision and only seeks
+to destroy there master's foes.
+~
+2369583 604513288 -1000 W3
+150 75 -31 100d50+6000 8d5+40
+2500 20000
+8 8 0
+18 100 13 13 20 13 0
+12 2 0
+-310 4 9 120 20 20
+10 10 10 10 10
+0 0 63
+6 10
+~
+#545
+vampire~
+Rampaging vampire~
+A rampaging vampire looking for blood!!!
+~
+You see a black hideous creature, with huge bat-like wings.  This
+whole creature is designed for battle from his huge fangs, to his
+long sharp claws.  This creature has excellent vision and only seeks
+to destroy there master's foes.
+~
+2369583 537396360 -1000 W3
+145 92 -35 100d50+13000 40d4+40
+2500 5000
+8 8 0
+18 100 13 13 25 13 0
+12 2 0
+-350 4 8 0 30 30
+10 10 10 10 10
+0 0 0
+6 10
+~
+#555
+~
+~
+~
+~
+8 0 0 W3
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#580
+One~
+Dark One~
+The Dark One gives you the evil eye of death.
+~
+A hideous experiment went wrong.  Shaithis was looking for the ultimate
+monster, and he found it.  Just one thing went wrong, not even his powers
+can control the dark one of evil.
+~
+262191 1160 -1000 W3
+127 70 -27 100d65+8000 8d5+70
+10000 548750
+8 8 0
+13 0 13 13 13 13 0
+15 2 0
+-270 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#590
+Papa Smurf~
+Papa Smurf~
+Papa Smurf is here practicing magic.
+~
+An Annoying smurf you want to kill him.
+~
+8 0 1000 W3
+3 0 0 100d1+0 1d1+0
+0 100
+8 8 1
+13 0 13 13 13 13 0
+0 0 0
+0 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#591
+Smurfette~
+Smurfette~
+Smurfette is here looking pretty.
+~
+An annoying smurf that deserves to be stepped on.
+~
+8 0 1000 W3
+3 0 0 100d1+13 1d1+0
+0 0
+8 8 2
+13 0 13 13 13 13 0
+0 0 0
+0 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+$

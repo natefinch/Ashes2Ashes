@@ -1,0 +1,924 @@
+#25000
+Clergy holy man~
+a member of the Clergy~
+A man dressed in robes stand here.
+~
+You see a man dressed in simple robes walking around minding his own business
+He wonders if he will become a Grand Librarian like his father. 
+~
+2056 0 0 W3
+60 20 -2 10d10+1100 10d3+10
+2500 85000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-20 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25001
+priest clergy holy man~
+Priest~
+A Priest goes silently about his work.
+~
+You see a priest standing here studying a scroll. He appears not to notice you
+as he strolls on his way. 
+~
+2056 1 0 W3
+101 23 -4 10d10+1100 10d3+15
+6000 95000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25002
+apothecary man holy~
+Apothecary~
+The Apothecary stands patiently staring at you.
+~
+You see an Apothecary standing here looking for people to heal. He has a
+medical box in one hand and a huge gun holstered at his hip. You can only
+guess what the gun is used for. 
+~
+2313 132 0 W3
+55 23 -4 2d5+600 7d5+15
+6000 85000
+8 8 1
+18 0 13 13 13 13 0
+18 5 0
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25003
+space marine scout man metal armor~
+Space Marine Scout~
+A man in light scout armor glares at you nervously.
+~
+This man wears a light type of the armor you've seen in some of the cases
+around this Cathedral. He walks around looking for evil to destroy. 
+~
+9 17334412 0 W3
+50 40 -7 10d10+600 10d5+10
+4000 68000
+8 8 1
+13 0 13 13 13 13 0
+4 5 0
+-70 0 6 100 0 0
+1 1 1 1 100
+0 0 0
+6 0
+~
+#25004
+veteran space marine man~
+Veteran Space Marine~
+A man in robotic metal armor glares at you through his gun sight.
+~
+This man is dressed in normal, tactical, body armor of his chapter. He looks as
+if he has seen many battles and will see many more. He glares at you, but
+keeps walking by. 
+~
+2312 16777348 0 W3
+60 23 -4 5d5+700 10d5+10
+5000 90000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25005
+Terminator space marine~
+Terminator Space Marine~
+A man encased in robotic metal armor makes his way towards you.
+~
+This man is dressed in the chapters finest armor, terminator armor. He wanders
+around the complex looking for evil to snuff out. He looks as if he'd do a
+good job at it also. 
+~
+2313 16777348 0 W3
+74 40 -8 5d7+1075 4d9+25
+10000 95000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-80 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25006
+tech marine techmarine space marine man~
+Techmarine~
+A techmarine walks past you going about his bussiness.
+~
+The chapters life-blood, the techmarine. Without him the chapter would never be
+able to fix the complicated technology they use to destroy evil. He carries a
+wrench and a gun with him as he smiles at you. 
+~
+2056 128 0 W3
+37 25 2 5d7+290 3d12+15
+6000 37000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+20 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25007
+tactical space marine man~
+Tactical Space Marine~
+A Tactical Space Marine carries on a conversation over his com.
+~
+This man is dressed in tactical body armor. He stalks the complex for evil,
+which he will then destroy. He carries a gun which looks like it could blow a
+hole in anything. 
+~
+2313 16778380 0 W3
+55 30 -3 5d7+670 3d9+10
+5000 55000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-30 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25008
+cook man~
+cook~
+A cook is busy making dinner for the troops.
+~
+You see a non-descript cook here cleaning up and making some kind of gruel for
+the troops. He waves his hand at you saying that you'll have to wait your
+turn. 
+~
+2187 16777216 0 W3
+18 10 3 5d7+180 2d9+4
+5000 18000
+8 8 1
+13 0 13 13 13 13 0
+17 5 0
+30 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#25009
+assistant cook man~
+cook's assistant~
+A man hurries around assisting the cook.
+~
+This man seems to never stop moving, he's either getting things for the cook or
+doing his own feeble cooking. He glares at you and tells you to step aside 
+~
+6282 0 1000 W3
+10 3 4 5d7+100 1d9+5
+100 10000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+40 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#25010
+serf man lacky~
+serf~
+A man walks around, laboring and toiling for his master.
+~
+A serf, what else can I say? He wears cheap clothes and smells of sweat. He
+asks politely if you could help him with some of his many chores. 
+~
+2185 65536 0 W3
+6 0 6 5d7+20 1d9+3
+1 6000
+8 8 1
+13 0 13 13 13 13 0
+5 5 0
+60 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#25011
+Dreadnought machine robot~
+Space Marine Dreadnought~
+A huge, mechanical robot stands here.
+~
+This robot is the chapter's pride and joy. It is huge, standing eleven feet
+tall and has as many weapons as a squad of troops does. It's chest is covered
+with the emblem of the chapter and it has company markings on either arm.
+There's no mixing this up with another chapter's dreadnought. 
+~
+2056 16777344 0 W3
+75 26 -5 5d5+950 10d5+15
+7000 70000
+8 8 1
+18 100 13 13 18 13 0
+0 5 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25012
+bandar squad leader~
+Bandar Squad Leader~
+The Bandar Squad Leader beckons for the rest of his troops to follow.
+~
+Bandar is a sort of hero in his own mind. He sees his life as one major victory
+after another. Even if he does lose a fight, he still wins when the space
+ships orbitting over head start their atomic bombardment. 
+~
+2313 16777348 1000 W3
+80 55 -10 5d7+2750 3d9+17
+10000 80000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25013
+thad quarter master quartermaster~
+Thad Quarter Master~
+The quartermaster is keep logs of troop supplies.
+~
+Thad is losing most of his hair having to deal with the logistics of the
+chapter. Do you have any idea how much toliet paper the chapter uses in a
+month? He does and he also knows how much underware the chapter needs washed
+each day. What a job! 
+~
+38922 132 1000 W3
+60 25 -4 10d5+650 5d6+20
+8000 65000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25014
+Imperial Psychic~
+Imperial Psychic~
+The Imperial Psychic reads your mind.
+~
+This tall slender man is the chapter's psychic. He deals with the trouble of
+traveling in the warp and handle any warp storms when they occur. His head,
+not to be rude, is the size of a watermelon! He wears a robe and carries a
+side-arm at his side, of course. 
+~
+301322 16777350 1000 W3
+65 30 -5 5d15+1000 6d6+15
+30000 90000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25015
+Librarian Mage Wizard~
+the Grand Librarian~
+A man in dark robes stands here chanting something.
+~
+The Grand Librarian, the high magus of the chapter stands here with all his
+glory. He seems to be full of energy as he looks at you. His eyes peering deep
+into your soul. You feel a bit queasy after the whole experience. 
+~
+264459 16777348 1000 W3
+75 58 -5 5d6+5000 10d10+50
+20000 176000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25016
+Marine man Codicier~
+a Codicier Marine~
+A man in metal armor engraved with runes stands here.
+~
+This magus is the second in comand for the chapter, if the Grand Librarian ever
+falls in battle it is the Codicier's job to take his place. He wears body
+armor just like his troops. 
+~
+262152 16777348 0 W3
+60 25 -4 7d7+600 10d5+12
+4000 86000
+8 8 1
+18 100 13 13 13 13 0
+0 5 0
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25017
+Cassius Man marine~
+Cassius~
+You see old Cassius standing here.
+~
+Cassius is the oldest member of the chapter, over 600 years old to be exact. He
+loves to tell stories about the days of old and starts into one right now. We
+I was a young pup, like yourself, we didn't have automatic flushing toliets we
+had to jiggle the handle and wait for it to....RUN!!!! Before you are bored to
+death! 
+~
+264201 16777348 1000 W3
+60 30 -4 5d6+800 5d7+20
+10000 166000
+8 8 1
+18 100 13 13 13 13 0
+5 5 0
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25018
+Olof man Marine~
+Olof the Techmarine~
+Crazy Olof the Techmarine stands here.
+~
+Olof is completely mad! He is wearing no armor and has only a wrench to fend
+off attackers. He has a bald head and his teeth are all missing except one. He
+can be heard muttering to himself about fixing up his bike for the next
+battle, or making new types of wierd weapons, that would do more harm to the
+user than to anyone else. What no one knows is that Olof is not the original
+Olof, but a clone, actually he is the 137 clone of Olof. After all those
+clones you would be crazy too! 
+~
+2056 16777348 1000 W3
+40 17 2 7d7+550 3d10+25
+3 35000
+8 8 1
+13 0 13 13 18 13 0
+0 5 0
+20 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25019
+Thandor Man Marine~
+Thandor Marine Captian~
+Thandor the Ultramarine's Captian is standing here.
+~
+Thandor is the chapter's captain, which he does a very good job at. He leads
+his men into battle and is the first to lead his men out of battle, if it is
+very quickly or not. He stares at you asking himself why you are here. 
+~
+264201 128 1000 W3
+60 25 -5 5d7+550 5d7+20
+9000 60000
+8 8 1
+13 0 13 13 13 13 0
+20 5 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25020
+Dandor Marine Man~
+Dandor Marine Instructor~
+Dandor the Ultramarine's Instructor stands here bellowing out orders.
+~
+Dandor, Thandor's brother, used to be captian, but he was caught in th leg with
+a lascannon blast that left him somewhat handicapped. He now teachs young
+recruits how to more effectively dodge those nasty lascannon blasts. 
+~
+2313 16777348 0 W3
+127 65 -38 5d7+8250 5d7+42
+150000 150000
+8 8 1
+18 100 13 13 13 13 0
+20 5 0
+-380 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25021
+Robot Marine~
+a Space Marine Robot.~
+A Space Marine Robot stands here.
+~
+A robot stands here waiting for orders. He is rusty and seems to be missing
+some armor, but that doesn't bother it, just as long as it gets it's weekly
+oil treatment. 
+~
+8 0 0 W3
+50 20 -5 5d7+800 6d5+18
+2000 50000
+8 8 1
+13 0 13 13 13 13 0
+0 3 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25022
+man monk robed~
+a monk~
+A robed man stands here studying from a book.
+~
+You see a tall robed figure standing before you. He is concentrating
+on studying what ever is written in the book before him.  When he
+sees you he says "Hey! Get outta here!"
+~
+264463 140 0 W3
+40 23 -3 5d4+400 10d3+14
+10000 65000
+8 8 1
+18 100 13 13 13 13 0
+4 5 0
+-30 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25029
+chaplain terminator man marine~
+the Chaplain~
+The Chaplain is here praying.
+~
+As you enter the room you notice this man praying infront of an alter. He wears
+Terminator armour. His armour is the heaviest in the Imperium. It is made of
+about three inches of ceremite and has a nuclear power plant running it. 
+~
+264203 128 1000 W3
+120 65 -6 27d27+14000 6d5+23
+180000 323000
+8 8 1
+25 100 13 13 25 13 0
+5 3 0
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25078
+Cultist man~
+a Cultist~
+An evil Cultist stands here.
+~
+Foam drips from this crazed man's mouth as he looks around blindly. He is
+dressed in robes that are stained with blood and gore. 
+~
+137 1 0 W3
+6 2 6 5d7+60 4d1+4
+50 6000
+8 8 1
+13 0 13 13 13 13 0
+5 2 0
+60 0 2 0 0 0
+85 85 85 85 85
+0 0 0
+6 0
+~
+#25079
+trooper man cultist~
+a cultist trooper~
+You see an evilt Cultist trooper standing here.
+~
+This man is dressed in robes and has a deadly look on his face. He looks to be
+a natural leader and a aura of command hangs about him. 
+~
+2057 0 -50 W3
+19 10 3 5d7+180 4d5+10
+500 15000
+8 8 1
+13 0 13 13 13 13 0
+17 5 0
+30 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#25080
+dog chaos~
+a Chaos dog~
+A chaos dog stands here.
+~
+Calling this thing a dog, would be an insult to the dog. It has huge teeth
+stained yellow and large limbs. It stands about 5 feet tall at the shoulder
+and stinks badly. 
+~
+137 0 -25 W3
+9 0 6 5d7+80 4d1+6
+500 9000
+8 8 1
+13 0 13 13 13 13 0
+4 5 0
+60 0 4 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#25081
+cultist leader man~
+a cultist leader~
+You see a cultist leader standing here.
+~
+Leader of the Cultists this man wears a simple dress uniform. The uniform has
+lots of shiny medals on it and looks to be important. He walks with the
+dignity of a general. 
+~
+2089 0 -500 W3
+21 15 0 5d7+180 5d4+12
+700 20000
+8 8 1
+13 0 13 13 13 13 0
+17 5 0
+0 0 4 0 0 0
+45 45 45 45 45
+0 0 0
+6 10
+~
+#25082
+beastman man beast~
+a beastman~
+A beastman stands here.
+~
+This thing looks to be a cross between a ram and a human. It has a vagely human
+shape to it, but it's head is one of a ram. It walks with a limp and has no
+verbal skills. 
+~
+2057 16777728 -1000 W3
+30 20 3 5d7+500 5d4+16
+250 30000
+8 8 1
+13 0 13 13 13 13 0
+17 5 0
+30 0 6 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#25083
+chaos fleshhound flesh hound dog fido~
+a chaos fleshhound~
+A chaos fleshhound stands here glaring.
+~
+~
+2061 128 -1000 W3
+30 20 0 5d8+350 6d6+12
+1 35000
+8 8 1
+13 0 13 13 13 13 0
+20 5 0
+0 0 6 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#25084
+marine chaos scout~
+Chaos marine scout~
+A Chaos Marine Scout stands here.
+~
+Standing before you is a man clad in light scout armor of the Imperial Space
+Marines. The armor is dented up and looks to be decaying. His face is covered
+up by a small helmet, with it's blast shield down. 
+~
+2057 16777224 -1000 W3
+35 25 -3 5d7+400 5d5+10
+2000 35000
+8 8 1
+13 0 13 13 13 13 0
+17 5 0
+-30 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25085
+wizard chaos man~
+Chaos Wizard~
+A Chaos Wizard stands here muttering to himself.
+~
+A man stands here in long decaying robes. He has a hood covering his face, but
+you can see two small glowing eyes in the darkness of the hood. A stench hangs
+around him and he sways as he moves. 
+~
+264201 16777346 -1000 W3
+51 45 0 5d7+1550 5d8+25
+2000 110000
+8 8 1
+18 100 13 13 13 13 0
+8 5 0
+0 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25086
+marine tactical chaos man~
+Tactical Chaos Marine~
+A Tactical Chaos Marine stands here aiming his gun at you.
+~
+A man stands here clad in some kind of metal armor. It has dents and holes all
+over it, as well as burn marks from laser fire. 
+~
+6281 16778376 -1000 W3
+55 25 -3 5d7+650 5d5+15
+4000 55000
+8 8 1
+13 0 13 13 13 13 0
+5 5 0
+-30 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25087
+death guard chaos man~
+Death Guard~
+A member of the Death Guard stands here.
+~
+This man looks more of a monster than a man. His suit looks as if it is grafted
+to his body and in places it is. His helmet is only a face mask and a tube
+attached to his mouth. His eyes are completely white. 
+~
+2057 16777344 -1000 W3
+65 25 -4 5d7+1075 5d5+14
+4500 66000
+8 8 1
+13 0 13 13 13 13 0
+17 5 0
+-40 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25088
+terminator marine chaos man~
+Chaos Chaos Terminator~
+A Chaos Marine Terminator stands here.
+~
+Huge describes this man the most. The armor he wears is the biggest you have
+ever seen. Huge plates connect to cover his entire body, they must be about
+three inches thick. 
+~
+2088 16777344 -1000 W3
+65 25 -5 5d5+700 5d5+18
+9000 67000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#25089
+Chaos Dreadnought robot~
+Chaos Dreadnought~
+A Chaos Dreadnought stands here
+~
+A lone dreadnought, or robot, stands here guarding something, what you do not
+know. It seems almost dead as it doesn't move a muscle, or metal arm in this
+case. 
+~
+301068 16777344 -1000 W3
+60 20 -22 5d5+700 5d5+15
+180000 60000
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+-220 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#25090
+Palindor man chaos~
+Palindor the Unforgiven~
+Palindor the Unforgiven stands here.
+~
+Palindor is more of a walking corpse than a man.  His dead eyes stare
+at you with burning hate.  His black robe flows about his body as 
+lunges to attack you!  His body oder isn't exactly zestfully clean
+either. Ick!
+~
+264233 16777344 -1000 W3
+90 35 -5 5d10+3000 5d10+25
+10000 90000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-50 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#25091
+katam man chaos~
+Katam~
+Katam stands here.
+~
+Katam is dressed in robves that have a rotten stench about them. He is tall and
+has black matted hair, that falls around his shoulders and across his chest.
+His eyes pierce into your soul. 
+~
+262315 16777344 -1000 W3
+90 45 -10 5d7+4450 4d10+25
+20000 168000
+8 8 1
+18 100 13 13 13 13 0
+18 5 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#25092
+lord corruption chaos man~
+Lord of Corruption~
+The Lord of Corruption stands here.
+~
+A huge mass of flesh sits here on the ground. It has two arms that seem to just
+grow out of the middle of the mass. It's head, if you could call it that, sits
+on the top of all the flesh. It's eyes, huge and yellow, seem to tear into
+your heart. 
+~
+264235 16777344 -1000 W3
+100 71 -17 10d10+7500 5d7+30
+100000 137000
+8 8 1
+18 100 13 13 13 13 0
+12 5 0
+-170 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#25093
+Ragmor damned man chaos~
+Ragmor the Damned~
+Ragmor the Damned stands here.
+~
+Ragmor the Damned stands here eminating huge clouds of death. When hit by a
+wave of one such cloud you reel in pain and agony, for that is what Ragmor
+strives for. Ragmor sends your stomach reeling and your mind into panic. 
+~
+2091 16777346 -1000 W3
+109 40 -6 5d6+2800 10d4+25
+15000 150000
+8 8 1
+18 100 13 13 13 13 0
+18 5 0
+-60 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#25094
+zeathos destroyer man chaos~
+Zeathos the Destroyer~
+Zeathos the Destroyer stands here.
+~
+Zeathos the Destroyer is here seeking blood for his blood god. He looks at you
+and charges into battle screaming at the top of his lungs, Blood for the Blood
+God!!! He has spittle and foam flowing from his mouth as he cleaves into you. 
+~
+41 16777344 -1000 W3
+90 60 -14 10d10+9500 6d8+50
+270000 127000
+8 8 1
+18 100 13 13 13 13 0
+18 5 0
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#25095
+Khorne Champion chaos man~
+Khorne Champion~
+A Khorne Champion stands here.
+~
+This beast lives for only one reason, and that is to serve his god. And that
+god is the mighty Khorne, ruler of all that is war. The beast seems almost
+human like, that is if you could call a nine foot tall, horned, minotuar
+headed, rat human like. 
+~
+2089 16777344 -1000 W3
+126 55 -16 5d7+8250 5d7+42
+100000 126000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-160 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#25096
+Traitor Terminator man chaos~
+Traitor Terminator~
+A Traitor Terminator stands here.
+~
+This terminator is rather normal looking, if you look past the many skulls and
+body parts stuck to his armor. He struggles to keep at least some humanity
+working for the chaos gods, but after centuries of torment he has finally
+failed and been taken over by the gods evil corruption. 
+~
+264233 16777344 -1000 W3
+127 55 -16 5d7+8250 5d7+44
+150000 132000
+8 8 1
+13 0 13 13 13 13 0
+18 5 0
+-160 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#25097
+Kelin corrupt man chaos~
+Kelin the Corrupt~
+Kelin the Corrupt stands here
+~
+Kelin used to be commander for the Cresant Hawks before the Horus Hersey, but
+now he commands the lowly beastmen of the chaos legions. He doesnot like his
+job and seems to want to take it out on you. 
+~
+264235 16777344 -1000 W3
+100 70 -17 10d8+5000 5d5+50
+100000 126000
+8 8 1
+13 0 13 13 18 13 0
+12 5 0
+-170 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#25098
+magus chaos man~
+Chaos Magus~
+A Chaos Magus stands here.
+~
+A non-descript magus stands here studying some sort of scroll, when he looks
+up. He instantly sends a wave of death rolling forward into your ranks. He
+seems to be evilly grinning at you as he points his finger. 
+~
+2089 16777346 -1000 W3
+106 50 -30 5d7+2750 5d7+0
+150000 106000
+8 8 1
+13 0 13 13 13 13 0
+15 5 0
+-300 0 2 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#25099
+Gorath Unpure man chaos~
+Gorath the Unpure~
+Gorath the Unpure stands here.
+~
+Gorath stands here studying what is left of his poor ship.  He used to command
+this vessel years ago when it was thought of as a merchant ship, but
+now he flys the cosmos to bring other civilizations into the light,
+err, darkness of his god.
+~
+264235 16777346 -1000 W3
+90 50 -15 5d10+4000 10d10+50
+50000 117000
+8 8 1
+18 100 13 13 13 13 0
+18 5 0
+-150 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+$

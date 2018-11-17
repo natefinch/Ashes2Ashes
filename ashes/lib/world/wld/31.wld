@@ -1,0 +1,1077 @@
+#3100
+Northwest end of Concourse~
+   You are at the concourse, the city wall is just west.  A small promenade
+goes east, and the bridge is just north of here.  The concourse continues
+south along the city wall.
+~
+31 32768 1
+0d0+0 0 0
+D0
+You see the Bridge.
+~
+~
+0 -1 3051
+D1
+You see the promenade.
+~
+~
+0 -1 3101
+D2
+The promenade continues far south.
+~
+~
+0 -1 3127
+S
+#3101
+Promenade~
+   The river gently flows west just north of here.  The promenade continues
+further east and to the west you see the city wall.  Park Road leads south
+from here.
+~
+31 32768 1
+0d0+0 0 0
+D1
+The promenade.
+~
+~
+0 -1 3102
+D2
+Park Road leads south.
+~
+~
+0 -1 3131
+D3
+You see the Concourse.
+~
+~
+0 -1 3100
+S
+#3102
+Promenade~
+   The river gently flows west just north of here.  The promenade continues
+both east and west.  South of here you see the entrance to the park, and a
+small building seems to be just west of the entrance.
+~
+31 0 1
+0d0+0 0 0
+D1
+You see the promenade.
+~
+~
+0 -1 3103
+D2
+You see the park entrance.
+~
+~
+0 -1 3105
+D3
+You see the promenade.
+~
+~
+0 -1 3101
+S
+#3103
+Promenade~
+   The river gently flows west just north of here.  The promenade continues
+both east and west.  A small path leads south.  Looking across the river you
+see the levee.
+~
+31 0 1
+0d0+0 0 0
+D1
+You see the Concourse.
+~
+~
+0 -1 3104
+D2
+The small path leads south.
+~
+~
+0 -1 3132
+D3
+You see the promenade.
+~
+~
+0 -1 3102
+S
+#3104
+Northeast end of Concourse~
+A the northeast end of the concourse, the smooth stone of the city wall
+blocks the way east.  The great paving blocks that make up the roadway
+here give way to the small stones of Mockingbird Lane which wanders to
+the north.  A large, black bird sits in a tree overhead, looking down
+at you speculatively.  South, the concourse follows the city wall.
+~
+31 0 1
+0d0+0 0 0
+D0
+Mockingbird Lane wanders north from here.
+~
+~
+0 -1 3145
+D2
+The path continues.
+
+~
+~
+0 -1 3130
+D3
+You see the promenade.
+~
+~
+0 -1 3103
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3105
+Park Entrance~
+   You are standing just inside the small park of Midgaard.  To the north is
+the promenade and a small path leads south into the park.  To your east is
+the famous Park Cafe.
+~
+31 4 1
+0d0+0 0 0
+D0
+You see the promenade.
+~
+~
+0 -1 3102
+D1
+You see Park Cafe.
+~
+~
+0 -1 3106
+D2
+You see the park.
+~
+~
+0 -1 3108
+S
+#3106
+Park Cafe~
+   You are inside Park Cafe, a very cozy place with many tables and seats
+where you can relax and enjoy the view.  To the east you can see the 
+entrance to the park.
+~
+31 8 0
+0d0+0 0 0
+D3
+You see the park entrance.
+~
+~
+0 -1 3105
+S
+#3107
+Small path through the park~
+   You are walking along a small path through the park.  The path continues
+south and east.
+~
+31 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3108
+D2
+~
+~
+0 -1 3113
+S
+#3108
+Small path in the park~
+   You are standing on a small path inside the park.  The park entrance is
+just north of here, and Park Cafe is just east of the entrance.  The path
+leads further east and west.
+~
+31 0 1
+0d0+0 0 0
+D0
+You see the northern park entrance.
+~
+~
+0 -1 3105
+D1
+~
+~
+0 -1 3109
+D3
+~
+~
+0 -1 3107
+S
+#3109
+Small path in the park~
+   You are on a small path running through the park.  It continues west and
+south and just north of here you see the southern wall of Park Cafe.
+~
+31 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 3115
+D3
+~
+~
+0 -1 3108
+S
+#3110
+Cityguard Headquarters~
+   You are inside a tidy office.
+~
+31 8 0
+0d0+0 0 0
+D1
+You see the park road.
+~
+door~
+1 3120 3111
+S
+#3111
+Park Road~
+   The road continues north and south.  A building is just west of here, you
+notice a sign on the door.  The park entrance is to the east.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3131
+D1
+You see the park entrance.
+~
+~
+0 -1 3112
+D2
+~
+~
+0 -1 3118
+D3
+You see the cityguard head quarters.
+~
+door~
+1 3120 3110
+E
+building door sign~
+The sign on the door says:-
+
+                 Cityguard Head Quarters
+
+           WARNING: Authorized Personnel Only!
+~
+S
+#3112
+Western Park Entrance~
+   You are standing at the western end of the park.  A small path leads east
+into the park and going west through the entrance you will reach Park Road.
+~
+31 4 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3113
+D3
+~
+~
+0 -1 3111
+S
+#3113
+A path in the park~
+   You are in the park.  The paths lead north and west.  Westward is the
+park entrance and to the east you see a small pond.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3107
+D1
+You see the pond.
+~
+~
+0 -1 3114
+D3
+You see the western park entrance.
+~
+~
+0 -1 3112
+S
+#3114
+The Pond~
+   You are swimming around in the pond, feeling rather stupid.  You can get
+back on the path from the eastern and western end of the pond.
+~
+31 0 6
+0d0+0 0 0
+D1
+~
+~
+0 -1 3115
+D3
+~
+~
+0 -1 3113
+S
+#3115
+A path in the park~
+   You are in the park.  The paths lead north and east.  Eastward is the
+park entrance and to the west you see a small pond.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3109
+D1
+~
+~
+0 -1 3116
+D3
+~
+~
+0 -1 3114
+S
+#3116
+Eastern Park Entrance~
+   You are standing at the eastern end of the park.  A small path leads west
+into the park.  Going east through the entrance you will reach Emerald
+Avenue.
+~
+31 4 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3117
+D3
+~
+~
+0 -1 3115
+S
+#3117
+Emerald Avenue~
+   You are standing on the north end of Emerald Avenue.  To the north is the
+promenade and to the west is the park entrance.  To the east is the not very
+big Town Hall of Midgaard.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3132
+D1
+~
+~
+0 -1 3137
+D2
+~
+~
+0 -1 3119
+D3
+~
+~
+0 -1 3116
+S
+#3118
+Park Road~
+   You are on Park Road which leads north and south.
+A cottage is just east of here.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3111
+D1
+You see a small cottage with an oaken door.  A name plate has been set on it.~
+door~
+2 3300 3118
+D2
+~
+~
+0 -1 3135
+E
+plate name~
+The name 'Papi Llon' has been carved into the name plate.
+~
+S
+#3119
+Emerald Avenue~
+  You are standing on Emerald Avenue.  The road leads north and south.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3117
+D2
+~
+~
+0 -1 3133
+S
+#3120
+Road Crossing~
+   You are in the middle of the road cross.  Roads lead in all directions.
+A huge black iron chain as thick as a tree trunk is fastened into the ground
+at the center of the road cross.  Its other end leads directly upwards towards
+the sky.
+A road sign is here.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3133
+D1
+~
+~
+0 -1 3136
+D2
+~
+~
+0 -1 3134
+D3
+~
+~
+0 -1 3135
+D4
+The chain disappears in the clouds.~
+~
+0 -1 7914
+E
+chain~
+The chain reaches the clouds high above you.  It must take some really
+powerful magic to hold such a chain in place.
+~
+E
+sign~
+The sign points in all directions:
+
+   North - Emerald Avenue.
+   East  - Park Road.
+   South - Emerald Avenue.
+   West  - Park Road.
+
+Someone has added the following with red paint:
+
+   Up    - Redferne's Flying Citadel.
+~
+S
+#3121
+Emerald Avenue~
+   You are standing at a bend on Emerald Avenue.  The road leads south and
+east.
+~
+31 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3134
+D2
+~
+~
+0 -1 3125
+S
+#3122
+Park Road~
+   You are on Park Road which leads south and north.  Elm Street is east of
+here.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3136
+D1
+~
+~
+0 -1 3123
+D2
+~
+~
+0 -1 3126
+S
+#3123
+Elm Street~
+   You are on Elm street.  Park Road is to the west and Elm Street continues
+in eastward direction.
+~
+31 4 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3124
+D3
+~
+~
+0 -1 3122
+S
+#3124
+The end of Elm street~
+   You are at the end of Elm Street.
+An old elm tree grows here.
+~
+31 0 1
+0d0+0 0 0
+D3
+~
+~
+0 -1 3123
+E
+elm tree~
+The fresh young leaves of the elm tree wave gently in the wind.
+~
+S
+#3125
+Emerald Avenue~
+   You are on Emerald Avenue which continues north.  The Concourse is south
+of here.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3121
+D2
+~
+~
+0 -1 3128
+S
+#3126
+Park Road~
+   You are on Park Road which continues north.  The Concourse is south of
+here.
+An old two-story house is to the east.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3122
+D1
+A heavy oaken door is to the east.~
+door~
+2 3301 -1
+D2
+~
+~
+0 -1 3129
+E
+house~
+The house is obviously very old and needs painting.  The heavy oaken door is
+equipped with a brass door knocker shaped as a goblin's head.  No name plate
+is to be seen anywhere.
+~
+E
+door knocker~
+As you look at it, the goblin door knocker comes alive!
+
+The head splutters 'Tiz iz da houze uff Kwiff...  Kuiffe...  Qwiff...  Erhm...'
+The head splutters 'Quiff...  Quiffil...  Ne'er mind!  Quiffy livez ere!'
+
+It opens its mouth wide and gobbles 'Unlokk me!'
+~
+S
+#3127
+On the Concourse~
+   You are at the southwest corner of the city wall.  The Concourse leads
+both north and east.
+~
+31 32768 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3100
+D1
+~
+~
+0 -1 3128
+D2
+~
+~
+0 -1 12700
+S
+#3128
+On the Concourse~
+   The Concourse continues both east and west.  Emerald Avenue is north of
+here.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3125
+D1
+~
+~
+0 -1 3129
+D3
+~
+~
+0 -1 3127
+S
+#3129
+On the Concourse~
+   The Concourse continues both east and west.  Park Road is north of here
+and an iron grate leads south to the graveyard.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3126
+D1
+~
+~
+0 -1 3130
+D2
+Through the solid iron bars you see the graveyard.
+~
+grate~
+2 3121 3129
+D3
+~
+~
+0 -1 3128
+S
+#3130
+On the Concourse~
+   You are at the southeast corner of the city wall.  The Concourse leads
+both north and west.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3104
+D3
+~
+~
+0 -1 3129
+S
+#3131
+Park Road~
+   You are at Park Road which continues north and south.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3101
+D2
+~
+~
+0 -1 3111
+S
+#3132
+Emerald Avenue~
+   You are at Emerald Avenue which continues north and south.  Penny Lane leads
+east from here.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3103
+D1
+~
+~
+0 -1 3139
+D2
+~
+~
+0 -1 3117
+S
+#3133
+Emerald Avenue~
+   You are standing at a bend on Emerald Avenue.  To the east the road goes on
+and to the south is the Road Crossing.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+Emerald Road
+~
+0 -1 3119
+D1
+~
+~
+0 -1 3119
+D2
+~
+~
+0 -1 3120
+S
+#3134
+Emerald Avenue~
+   You are standing at a bend on Emerald Avenue.  To the west the road goes on
+and to the north is the Road Crossing.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3120
+D3
+~
+~
+0 -1 3121
+S
+#3135
+Park Road~
+   You are at a bend on Park Road.  To the north the road goes on and to the
+east is the Road Crossing.
+~
+31 0 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3118
+D1
+~
+~
+0 -1 3120
+S
+#3136
+Park Road~
+   You are at a bend on Park Road.  To the south the road goes on and to the
+west is the Road Crossing.
+~
+31 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 3122
+D3
+~
+~
+0 -1 3120
+S
+#3137
+The Waiting Room~
+   You are standing in the waiting room at the town hall.  Wooden chairs stand
+along the walls and a long desk with a typewriter is placed in the middle of
+the room.
+~
+31 8 0
+0d0+0 0 0
+D1
+It looks like some kind of office.
+~
+~
+0 -1 3138
+D3
+The exit west leads to Emerald Avenue.
+~
+~
+0 -1 3117
+E
+chair chairs~
+Not the very least comfortable.
+~
+E
+desk~
+An extremely heavy desk.  It is so large that it doesn't even need drawers.
+Everything can be stored on its top.
+~
+E
+typewriter~
+It is an ancient Quifatronic T-1000 mk I.  These machines are known for their
+incredible durability, and for their even more incredible weight.  They make
+a Cray II look like a laptop.
+~
+S
+#3138
+The Mayor's Office~
+   You are in the not very big office of the Mayor of Midgaard.  A large and
+polished but completely empty desk is standing in front of an armchair that
+looks so comfortable that it most of all resembles a bed with the head end
+raised slightly.
+~
+31 8 0
+0d0+0 0 0
+D3
+The waiting room is to the west.
+~
+~
+0 -1 3137
+E
+desk~
+This desk is obviously very old.  Nevertheless it looks as if has never been
+used.
+~
+E
+chair armchair~
+This chair is really a masterpiece.  A chair where one can sit as comfortably
+as in a bed.  All auditoriums should be equipped with these things.  A shame
+that there wouldn't be room for the students too, though.
+~
+S
+#3139
+Penny Lane~
+   You are on Penny Lane.  Emerald Avenue is to the west and Penny Lane
+continues in eastward direction.
+~
+31 0 1
+0d0+0 0 0
+D1
+~
+~
+0 -1 3140
+D3
+~
+~
+0 -1 3132
+S
+#3140
+Penny Lane~
+   You are on Penny Lane.  The narrow road continues north and west.
+~
+31 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 3141
+D3
+~
+~
+0 -1 3139
+S
+#3141
+End of Penny Lane~
+   You are at the end of Penny Lane.  The only exit appears to be south.
+~
+31 0 1
+0d0+0 0 0
+D2
+~
+~
+0 -1 3140
+S
+#3142
+Reimbursement File Update Room~
+-----
+There's nothing unusual about this small 10' by 10' room.  Nothing except
+for a door located to your south.  There's a large sign next to that door
+and it's glowing as though it begs for your attention.  The words on that
+sign look important, please read it before you pass through this door!
+-----
+PLEASE READ THIS SIGN BEFORE OPENING THIS DOOR! (GLOWING)
+~
+31 28 0
+0d0+0 0 0
+D2
+Behind this door is a DT, please, please, read the sign before going in
+there!
+~
+door south~
+1 -1 3143
+E
+sign board post~
+There's a Deathtrap (DT) behind this door.  The purpose for this DT is to
+help players get their reimbursement files updated.  It's the most convient
+way to get an update since accidental pwipes can happen at anytime.  There
+will be no con lost if you die in this DT so don't worry.  If you suspect
+your corpse has been looted by someone, please contact an immort asap or if
+there is no immort on to help you, please mail Bigh or Jahana.
+* We are not responsible if you do not come back in time to retrieve your
+  corpse.  If it is left sitting there and your corpse dissolves, it will
+  become fair game for anyone who picks up the gear.
+~
+S
+#3143
+LAST CHANCE!  NEWBIES BEWARE!  WARNING: DEATHTRAP SOUTH OF HERE!~
+-----
+You can feel DEATH's numbing cold fingers as she tickles your spine.  To
+the south, there's a cloud of strange green gas coming to your direction.
+You still have a chance to run back to the door but you remember that the
+reason you're here is to receive that reimbursement file update.  Go south
+if you are ready to DIE.
+-----
+~
+31 28 0
+0d0+0 0 0
+D0
+This exit would take you back to the room you came from.
+~
+door north~
+1 -1 3142
+D2
+If you are ready to die, just walk into that room south of here!
+~
+south s dt deathtrap~
+0 -1 3144
+S
+#3144
+THE GAS CHAMBER (Reimbursement File Update Successful!)~
+-----
+Just as soon as you enter this room, a cloud of thick gas surrounds you.
+You choke as you gasp for air!  The lethal toxic fumes you breathed in are
+giving you excruciating pain in your lungs.  You're beginning to slowly
+drop to the floor as your screams of agony go unnoticed.
+If you did actually survive this DT, please walk back north and re-enter
+this room again.
+-----
+~
+31 16414 0
+1d1+199 90 0
+D0
+~
+~
+0 -1 3143
+S
+#3145
+On Mockingbird Lane~
+Small stones pave a dark lane which wanders north through a very old
+area of town.  Huge trees grow on either side reaching out over the
+way in a fashion that seems almost menacing rather than protective.
+A large, dark bird croaks harshly, looking down from the heights.
+~
+31 0 1
+0d0+0 0 0
+D0
+Mockingbird Lane wanders north.
+~
+~
+0 -1 3146
+D2
+The concourse is here.
+~
+~
+0 -1 3104
+S
+#3146
+On Mockingbird Lane~
+The cobbles of Mockingbird Lane are hard underfoot and every sound
+rings loudly, echoing slightly.  The dark trees on either side make the
+way here dim, no matter if it be night or day.  In the bushes along side 
+path, small, bright eyes glitter, looking out curiously.
+~
+31 4 1
+0d0+0 0 0
+D0
+Mockingbird Lane wanders north.
+~
+~
+0 -1 14590
+D2
+Mockingbird Lane wanders south.
+~
+~
+0 -1 3145
+S
+#3147
+Entrance to the Psionicist's Guild~
+As you walk into this place, your mind is assaulted by buzzing and static.
+Small items on your person leap out of pockets and bags as neophite
+psionicists try to harness the power of their minds.  Scraps of conversations
+fill your ears, though you realize they are actually being projected into
+your head.  There is an interesting little creature next to the door who mews
+at some of the people entering.  Perhaps this little monster can detect
+latent psionics.  Looking around you see the exit to the back room covered by
+a heavy tarp that is pulled back to allow people entrance.
+~
+31 32784 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 3148
+D2
+~
+~
+0 -1 3045
+S
+#3148
+The Bar of Psionicists~
+A waiter sits behind the counter, as bottles and glasses move around the room
+by themselves.  You realize he must be controlling them with his mind.  It is
+completely quiet, though looking carfully you can see people's facial
+expressions change as silent discussions take place.  A plate of food
+suddenly bursts into flame and just as quickly, the flames die down, leaving
+the stak underneath done just perfectly.  There certainly do seem to be
+advanages to having a psionic barkeep.
+~
+31 32912 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 3147
+D3
+~
+~
+0 -1 3149
+S
+#3149
+The Psionicists' Practice Yard~
+The heavy curtain falls back down behind you, and you immediately discern
+it's purpose as a good sized chunk of the floor explodes right next to you.
+Miraculously, though it was scant inches from your feet, you remain unharmed.
+You can see similar holes throughout the floor, and off to the rear of the
+building you see mortar and stones floating down to patch holes on that side
+of the room.  Scorch marks line the walls, and you see several students
+around the yard practicing their art.  At least you assume they are, it's
+pretty hard to tell.
+~
+31 32912 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 3148
+S
+#3199
+A paved road~
+You're standing on a road paved with a layer of gravel.  To the west, the
+East Gate of Migaard is located there and to the east, this road extends
+further to that direction.  This simple paved road has an intersection
+that'll take you south and north of here to some charted area.
+~
+31 32768 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 4000
+D1
+~
+~
+0 -1 3071
+D2
+~
+~
+0 -1 3711
+D3
+~
+~
+0 -1 3053
+S
+$

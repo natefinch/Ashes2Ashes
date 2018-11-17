@@ -1,0 +1,463 @@
+CircleMUD v3.0 Shop File~
+#0~
+22586
+22553
+22554
+22555
+22556
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't make that item - try list!~
+%s I am a craftsman! I don't buy!~
+%s I am a craftsman! I don't buy!~
+%s I am a craftsman! I don't buy!~
+%s You insult me! My work is worth every penny I charge!~
+%s Thank you, that will be just %d coins.~
+%s Uhhh - bug.~
+1 
+3 
+22553 
+0 
+22553 
+-1
+0 
+28 
+0 
+0 
+#1~
+22557
+22558
+22559
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't have that item - try list!~
+%s I dont buy!~
+%s I dont buy!~
+%s I dont buy!~
+%s Sure, I suppose your pocket has a hole in it. Get outta here, pal.~
+%s That will be %d coins.~
+%s Uhh - bug.~
+1 
+3 
+22551 
+0 
+22551 
+-1
+0 
+28 
+0 
+0 
+#2~
+22561
+22562
+22563
+22565
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't have that item - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s My valuables cost money - which I see you don't have.~
+%s That will be just %d coins.~
+%s Uhh - bug.~
+1 
+3 
+22501 
+0 
+22572 
+-1
+0 
+28 
+0 
+0 
+#3~
+22567
+22566
+22564
+-1
+1.3 
+1.0 
+-1
+$s Me apologies - I do not serve that pleasure!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I'm zorry Missiour - I cannot serve free drinks!~
+%s Merci, Missiour - That costs just %d coins.~
+%s Uhh - bug.~
+1 
+3 
+22564 
+0 
+22564 
+-1
+0 
+28 
+0 
+0 
+#4~
+22568
+22569
+22570
+22571
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't carry that kind of thing!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Sorry, I cant give it to you for free!~
+%s That will be just %d coins.~
+%s Bug~
+1 
+3 
+22571 
+0 
+22571 
+-1
+0 
+28 
+0 
+0 
+#5~
+22572
+22573
+22574
+22575
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't carry that particular cut!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s That will be just %d coins.~
+%s bug~
+1 
+3 
+22570 
+0 
+22570 
+-1
+0 
+28 
+0 
+0 
+#6~
+22576
+22577
+22578
+22580
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't mix that variety of potion!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s That will be %d coins.~
+%s bug~
+1 
+3 
+22562 
+0 
+22562 
+-1
+0 
+28 
+0 
+0 
+#7~
+22513
+22514
+22515
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't make that baked good!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s That will be just %d coins.~
+%s bug~
+1 
+3 
+22569 
+0 
+22569 
+-1
+0 
+28 
+0 
+0 
+#8~
+22589
+22590
+22591
+22592
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't sell that.~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s That will be %d coins.~
+%s bug~
+1 
+3 
+22568 
+0 
+22568 
+-1
+0 
+28 
+0 
+0 
+#9~
+22595
+22594
+22593
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't sell that type of musical instrument.~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s That will be just %d coins.~
+%s bug~
+1 
+3 
+22560 
+0 
+22560 
+-1
+0 
+28 
+0 
+0 
+#10~
+22517
+22599
+22598
+22597
+22519
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't sell that type of weapon.~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s That will be %d coins.~
+%s bug~
+1 
+3 
+22567 
+0 
+22567 
+-1
+0 
+28 
+0 
+0 
+#11~
+22520
+22524
+22521
+22523
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't sell that type of clothing.~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s That will be %d coins.~
+%s bug~
+1 
+3 
+22566 
+0 
+22566 
+-1
+0 
+28 
+0 
+0 
+#12~
+22528
+22527
+22526
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I don't carry that type of water container.~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s That sells for only %d coins.~
+%s bug~
+1 
+3 
+22557 
+0 
+22557 
+-1
+0 
+28 
+0 
+0 
+#13~
+22530
+22529
+-1
+1.3 
+1.0 
+-1
+%s I don't have that - I only sell pistachios!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s That is just %d gold coins.~
+%s bug~
+1 
+3 
+22578 
+0 
+22578 
+-1
+0 
+28 
+0 
+0 
+#14~
+22531
+22532
+22533
+-1
+1.3 
+1.0 
+-1
+%s I don't sell that - I only sell figs!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s That costs just %d coins.~
+%s bug %d~
+1 
+3 
+22577 
+0 
+22577 
+-1
+0 
+28 
+0 
+0 
+#15~
+22534
+22535
+-1
+1.3 
+1.0 
+-1
+%s Sorry, I only deal in dates - the FOOD kind.~
+%s I don't buy.~
+%s I don't buy.~
+%s I don't buy.~
+%s I can't give it to you for free!~
+%s Thats just %d coins.~
+%s bug %d ~
+1 
+3 
+22576 
+0 
+22576 
+-1
+0 
+28 
+0 
+0 
+#16~
+22538
+22537
+22536
+22516
+-1
+1.3 
+1.0 
+-1
+%s I don't sell that type of fruit.~
+%s I Don't buy!~
+%s I Don't buy!~
+%s I Don't buy!~
+%s I can't give it to you for free!~
+%s That costs %d coins. Thanks!~
+%s bug %d ~
+1 
+3 
+22575 
+0 
+22575 
+-1
+0 
+28 
+0 
+0 
+#17~
+22581
+22583
+22584
+22585
+22588
+-1
+1.3 
+1.0 
+-1
+%s I don't carry that type of armor!~
+%s I dont Buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s I can't give it to you for free!~
+%s Excellent choice.  That will be just %d coins.~
+%s bug!~
+1 
+3 
+22561 
+0 
+22561 
+-1
+0 
+28 
+0 
+0 
+$~

@@ -1,0 +1,1937 @@
+#8800
+The Theater Entrance~
+You stand before a large theater waiting to get in.  The line slowly moves
+through the large double doors taking you inside.  You notice that the
+people standing around you look kind of different.  You realize that you
+are surrounede my muppets!
+~
+88 4 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8804
+D2
+~
+~
+0 -1 8801
+S
+#8801
+The Sidewalk~
+You travel down a sidewalk towards an old theater.  You hear the sounds of
+music and laughter coming from the north and think that there must be
+something going on inside.
+~
+88 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 8800
+D1
+~
+~
+0 -1 8802
+S
+#8802
+The Sidewalk~
+You travel down a sidewalk towards an old theater.  You hear the sounds of
+music and laughter coming from the northwest and think that there must be
+something going on inside.
+~
+88 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 3060
+D3
+~
+~
+0 -1 8801
+S
+#8803
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8807
+D1
+~
+~
+0 -1 8804
+S
+#8804
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8808
+D1
+~
+~
+0 -1 8805
+D2
+~
+~
+0 -1 8800
+D3
+~
+~
+0 -1 8803
+S
+#8805
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8809
+D1
+~
+~
+0 -1 8806
+D3
+~
+~
+0 -1 8804
+S
+#8806
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8810
+D3
+~
+~
+0 -1 8805
+S
+#8807
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8811
+D1
+~
+~
+0 -1 8808
+D2
+~
+~
+0 -1 8803
+S
+#8808
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8812
+D1
+~
+~
+0 -1 8809
+D2
+~
+~
+0 -1 8804
+D3
+~
+~
+0 -1 8807
+S
+#8809
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8813
+D1
+~
+~
+0 -1 8810
+D2
+~
+~
+0 -1 8805
+D3
+~
+~
+0 -1 8808
+S
+#8810
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8814
+D2
+~
+~
+0 -1 8806
+D3
+~
+~
+0 -1 8809
+S
+#8811
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8815
+D1
+~
+~
+0 -1 8812
+D2
+~
+~
+0 -1 8807
+S
+#8812
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8816
+D1
+~
+~
+0 -1 8813
+D2
+~
+~
+0 -1 8808
+D3
+~
+~
+0 -1 8811
+S
+#8813
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8817
+D1
+~
+~
+0 -1 8814
+D2
+~
+~
+0 -1 8809
+D3
+~
+~
+0 -1 8812
+S
+#8814
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8818
+D1
+~
+door~
+1 -1 8819
+D3
+~
+~
+0 -1 8813
+S
+#8815
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8831
+D1
+~
+~
+0 -1 8816
+D2
+~
+~
+0 -1 8811
+S
+#8816
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8817
+D2
+~
+~
+0 -1 8812
+D3
+~
+~
+0 -1 8815
+S
+#8817
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8818
+D2
+~
+~
+0 -1 8813
+D3
+~
+~
+0 -1 8816
+S
+#8818
+Inside the Theater~
+You are in a seemingly endless sea of muppets!  It appears that almost all
+of the dark red seats of the theater are taken.  To the north you see the
+bright lights of the stage and to the south is the main exit to the theater.
+the laugh of distant hecklers can also be heard from somewhere to the east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8832
+D2
+~
+~
+0 -1 8814
+D3
+~
+~
+0 -1 8817
+S
+#8819
+The Stairs~
+The dark red carpet of the theater leads up to a set of stairs derectly in front
+of you.  The sounds of music and people laughing can be heard from the west.
+The sounds of laughter are even louder from above.
+~
+88 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 8814
+D4
+~
+~
+0 -1 8820
+S
+#8820
+Up The Stairs~
+You travel up the carpeted metal stair case wondering where it leads to.  The
+sounds of your feet hitting the hollow metal stairs echo throught the the
+room.  You realize that you must go up another flight in order to reach the
+top.
+~
+88 8 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 8821
+D5
+~
+~
+0 -1 8819
+S
+#8821
+At the Top of the Stairs~
+A large wooden door is at the end of the stairs.  From the other side of it
+you can hear what seems like old men laughing.  Out of curiousity you think
+it might be a good idea to see what is so funny.
+~
+88 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 8822
+D5
+~
+~
+0 -1 8820
+S
+#8822
+The Box~
+You now overlook the theater.  You are in a small box with red velvet walls
+which surround the theater side at about waist level.  Behind you the giant
+wall of the theater extends up to the molded plaster ceiling.  You hear the
+laughing and heckling of the two old men seated in front of you.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 8821
+S
+#8823
+The Orchestra Pit~
+You are inside a pit which is painted entirely in black.  It is surrounded
+by a gold railing and is has small walls.  The conductor gives you an
+evil look as you wander through his orchestra.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8827
+D1
+~
+~
+0 -1 8824
+D4
+~
+~
+0 -1 8831
+S
+#8824
+The Orchestra Pit~
+You are inside a pit which is painted entirely in black.  It is surrounded
+by a gold railing and is has small walls.  The conductor gives you an
+evil look as you wander through his orchestra.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8828
+D1
+~
+~
+0 -1 8825
+D3
+~
+~
+0 -1 8823
+S
+#8825
+The Orchestra Pit~
+You are inside a pit which is painted entirely in black.  It is surrounded
+by a gold railing and is has small walls.  The conductor gives you an
+evil look as you wander through his orchestra.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8829
+D1
+~
+~
+0 -1 8826
+D3
+~
+~
+0 -1 8824
+S
+#8826
+The Orchestra Pit~
+You are inside a pit which is painted entirely in black.  It is surrounded
+by a gold railing and is has small walls.  The conductor gives you an
+evil look as you wander through his orchestra.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8830
+D3
+~
+~
+0 -1 8825
+D4
+~
+~
+0 -1 8832
+S
+#8827
+The Orchestra Pit~
+You are inside a pit which is painted entirely in black.  It is surrounded
+by a gold railing and is has small walls.  The conductor gives you an
+evil look as you wander through his orchestra.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8828
+D2
+~
+~
+0 -1 8823
+S
+#8828
+The Orchestra Pit~
+You are inside a pit which is painted entirely in black.  It is surrounded
+by a gold railing and is has small walls.  The conductor gives you an
+evil look as you wander through his orchestra.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8829
+D2
+~
+~
+0 -1 8824
+D3
+~
+~
+0 -1 8827
+S
+#8829
+The Orchestra Pit~
+You are inside a pit which is painted entirely in black.  It is surrounded
+by a gold railing and is has small walls.  The conductor gives you an
+evil look as you wander through his orchestra.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8830
+D2
+~
+~
+0 -1 8825
+D3
+~
+~
+0 -1 8828
+S
+#8830
+The Orchestra Pit~
+You are inside a pit which is painted entirely in black.  It is surrounded
+by a gold railing and is has small walls.  The conductor gives you an
+evil look as you wander through his orchestra.
+~
+88 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8826
+D3
+~
+~
+0 -1 8829
+S
+#8831
+The Stairs to the Stage~
+The dark red carpet of the theater leads up the stairs and stops at the
+edge of the wooden stage.  Three or four stairs to the north lead up to
+the stage.  From below you can hear the trombones crank out the beginning
+to the main theme of the show.  The house of the theater is to the south.
+~
+88 12 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8833
+D2
+~
+~
+0 -1 8815
+D5
+~
+~
+0 -1 8823
+S
+#8832
+The Stairs to the Stage~
+The dark red carpet of the theater leads up the stairs and stops at the
+edge of the wooden stage.  Three or four stairs to the north lead up to
+the stage.  From below you can hear the trombones crank out the beginning
+to the main theme of the show.  The house of the theater is to the south.
+~
+88 12 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8836
+D2
+~
+~
+0 -1 8818
+D5
+~
+~
+0 -1 8826
+S
+#8833
+The Stage~
+As the bright lights beam down on you the show continues.  A variety of acts
+come on and off of the stage as you make your way around.  To the south is
+the house of the theater and backstage is to the west.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8837
+D1
+~
+~
+0 -1 8834
+D2
+~
+~
+0 -1 8831
+D3
+~
+~
+0 -1 8844
+S
+#8834
+The Stage~
+As the bright lights beam down on you the show continues.  A variety of acts
+come on and off of the stage as you make your way around.  To the south is
+the house of the theater and backstage is to the west.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8838
+D1
+~
+~
+0 -1 8835
+D3
+~
+~
+0 -1 8833
+S
+#8835
+The Stage~
+As the bright lights beam down on you the show continues.  A variety of acts
+come on and off of the stage as you make your way around.  To the south is
+the house of the theater and backstage is to the west.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8839
+D1
+~
+~
+0 -1 8836
+D3
+~
+~
+0 -1 8834
+S
+#8836
+The Stage~
+As the bright lights beam down on you the show continues.  A variety of acts
+come on and off of the stage as you make your way around.  To the south is
+the house of the theater and backstage is to the west.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8840
+D2
+~
+~
+0 -1 8832
+D3
+~
+~
+0 -1 8835
+S
+#8837
+The Stage~
+As the bright lights beam down on you the show continues.  A variety of acts
+come on and off of the stage as you make your way around.  To the south is
+the house of the theater and backstage is to the west.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8838
+D2
+~
+~
+0 -1 8833
+D3
+~
+~
+0 -1 8848
+S
+#8838
+The Stage~
+As the bright lights beam down on you the show continues.  A variety of acts
+come on and off of the stage as you make your way around.  To the south is
+the house of the theater and backstage is to the west.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8839
+D2
+~
+~
+0 -1 8834
+D3
+~
+~
+0 -1 8837
+S
+#8839
+The Stage~
+As the bright lights beam down on you the show continues.  A variety of acts
+come on and off of the stage as you make your way around.  To the south is
+the house of the theater and backstage is to the west.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8836
+D2
+~
+~
+0 -1 8835
+D3
+~
+~
+0 -1 8838
+S
+#8840
+The Stage~
+As the bright lights beam down on you the show continues.  A variety of acts
+come on and off of the stage as you make your way around.  To the south is
+the house of the theater and backstage is to the west.
+~
+88 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8836
+D3
+~
+~
+0 -1 8839
+S
+#8841
+Muppet Labratories~
+A black table sits in the center of the room with all sorts of glass test
+tubes and beakers arrayed across it.  Inside the tubes strange colored
+liquids are steaming and bubbeling.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8845
+D1
+~
+~
+0 -1 8842
+S
+#8842
+The News Set~
+As you enter you see a row of plain, black rimmed clocks lining the dull
+yellow wall.  A small window can be seen, as with most news shows, but this
+one has the picture of a cow in it.  The only other difference seems to be
+the sound of a large object falling from above.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8846
+D1
+~
+~
+0 -1 8843
+D3
+~
+~
+0 -1 8841
+S
+#8843
+Pigs In Space~
+From out of nowhere you suddenly hear the voice of an announcer yell, "
+PIIIIGS IIIIN SPAAAAAAAAAACE!"  This set is covered with little lights and
+buttons.  The walls have a silvery color which matches the uniforms of the
+pigs.  Several pigs sit behind a central control counter talking to each
+other.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8847
+D1
+~
+~
+0 -1 8844
+D3
+~
+~
+0 -1 8842
+S
+#8844
+Backstage~
+Muppets are running in every direction in order to keep the show going
+smoothly.  Sets are being brought on and off stage as the show moves along.
+Several of the shows main sets are to the west and and the dressing rooms
+are up a set of wooden stairs to the north.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8848
+D1
+~
+~
+0 -1 8833
+D3
+~
+~
+0 -1 8843
+S
+#8845
+The Back Door~
+The only light in this corner comes from the blinking exit sign.  It is right
+over a large metal door that has been proped open with a cinder block.  The
+distant sound of a car traveling down a road can be heard.
+~
+88 12 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8846
+D2
+~
+~
+0 -1 8841
+D3
+~
+~
+0 -1 8859
+S
+#8846
+Veterinarian Hospital~
+You enter a clean room with a bright bowl shaped light pointing down onto
+a table.  Surgival instruments have been carelessly left on a tray beside a
+table here.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8847
+D2
+~
+~
+0 -1 8842
+D3
+~
+~
+0 -1 8845
+S
+#8847
+The Swedish Chef's Kitchen~
+You are now in a small kitchen with a long white counter.  Knives and cooking
+ingredients are scattered throught the room.  You realize that the chef might
+be a little messy when he cooks.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8848
+D2
+~
+~
+0 -1 8843
+D3
+~
+~
+0 -1 8846
+S
+#8848
+Backstage~
+Muppets are running back and forth getting ready for their next scene.
+You notice the set of old wooden stairs here which lead up to the show's
+dressing rooms.  You might actually run into some guest stars up there.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8849
+D1
+~
+~
+0 -1 8837
+D2
+~
+~
+0 -1 8844
+D3
+~
+~
+0 -1 8847
+S
+#8849
+An old wooden staircase~
+The stairs creak beneath your feet as you travel up them.  You can hear the
+sounds of singing and of a chicken coming from above.
+~
+88 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8848
+D4
+~
+~
+0 -1 8850
+S
+#8850
+A Dimly Lit Hallway~
+You enter a small hallway.  Over the railing you can see the backstage and
+several of the sets which are used during the show.  You see several doors
+which line the hallway.  In front of you is an open door with a star hanging
+on it.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8857
+D3
+~
+~
+0 -1 8851
+D5
+~
+~
+0 -1 8849
+S
+#8851
+A Dimly Lit Hallway~
+As you travel down the hallway you start to hear strange noises.  From the
+north you hear what seems to be the sound of a chicken and from the west.
+you can faintly hear someone singing.  You think it might just be your
+imagination, but you never know.  In front of you is another open door
+with a star on it.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8856
+D1
+~
+~
+0 -1 8850
+D3
+~
+~
+0 -1 8852
+S
+#8852
+A Dimly Lit Hallway~
+The sound of the singing is much stronger now and appears to be coming from
+the door which is to the north.  It is yet another door with a star painted
+on it, but this one seems much nicer than the others.  The hallway continues
+to the west.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8855
+D1
+~
+~
+0 -1 8851
+D3
+~
+~
+0 -1 8853
+S
+#8853
+The End of the Hallway~
+As you come to the end of the hallway all becomes silent.  The room to the
+north is quiet and dark.  The door is open and you wonder what is inside.
+The only way out, besides the room, seems to be the hallway back to the
+east.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8854
+D1
+~
+~
+0 -1 8852
+S
+#8854
+A Dark And Spooky Room~
+You see a candle opera on a dresser in the corner of the room.  There are
+cobwebs everywhere and it is hard to see around the room.  You suddenly
+realize that a person in the far corner has been watching you ever since
+you entered the room.
+~
+88 9 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8853
+S
+#8855
+A Nice Dressing Room~
+The large dressing room you have entered is bright and well furnished.  The
+mirror over the desk in the corner is surrounded by small lights.  There
+appears to be no other exits than the door behind you.
+~
+88 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8852
+S
+#8856
+A Disorganized Dressing Room~
+The room before you has small white feathers scattered all over it.  It has
+the usual desk with a mirror over it and lights surrounding the mirror.  The
+paintings on the walls are crooked and the furniture looks to be fairly old.
+The only visible exit is behind you.
+~
+88 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8851
+S
+#8857
+A Bright Dressing Room~
+A Large desk is in the corner with a mirror surrounded by lights. It is
+covered with what seem to be love letters from a pig.  The room is painted
+green and has a rack of costumes on the back wall.  The only exit seems to be
+behind you.
+~
+88 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8850
+S
+#8858
+A Dead End~
+You come to the end of the street and realize that the only diraction to
+go is back the way you came.  You look at the dark buildings surounding
+you for a moment and then turn around.
+~
+88 1 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 8859
+S
+#8859
+A Small Sidestreet~
+You stand in the middle of a street in a small town.  To the east you see
+the back door entrance to an old theater.  To the south the street lights
+are out and you can not see what is in that direction.  The the north the
+street becomes wider and there are people traveling down it.
+~
+88 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 8860
+D1
+~
+~
+0 -1 8845
+D2
+~
+~
+0 -1 8858
+S
+#8860
+A Street~
+You walk along the sidewalk now as the traffic picks up.  The road makes a
+sharp turn here and merges with a small highway that heads off into the
+country.
+~
+88 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 8862
+D2
+~
+~
+0 -1 8859
+S
+#8861
+The Highway~
+You come to a large orange sign sitting in the middle of the road.  On it,
+in black letters, is printed 'ROAD CLOSED  BRIDGE OUT AHEAD'  You decide
+that it is best to turn around and try the other direction.
+~
+88 0 11
+0d0+0 0 0
+D3
+~
+~
+0 -1 8862
+S
+#8862
+The Highway~
+You are now on a small, two lane highway.  It stretches for miles to the
+east and west.  Over a small hill you can see the steeple of a church to
+the northwest.
+~
+88 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 8861
+D2
+~
+~
+0 -1 8860
+D3
+~
+~
+0 -1 8863
+S
+#8863
+The Highway~
+As you go over the small hill you see an exit to the highway.  There is a
+very small town there with a restraunt and a car dealership.  The church
+is now much larger and you can see an old bus parked outside of it.
+~
+88 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 8864
+D1
+~
+~
+0 -1 8862
+D3
+~
+~
+0 -1 8872
+S
+#8864
+An Exit Ramp~
+The curve of the two lane exit-entrance ramp takes you to a small road.  To
+the north is an old used car dealership and to the east is a small cafe.
+~
+88 4 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 8865
+D1
+~
+~
+0 -1 8870
+D2
+~
+~
+0 -1 8863
+S
+#8865
+The Used Car Lot~
+Hundreds of old, beat up cars are sitting in this parking lot.  The pavement
+is cracked and grass is slowly making its way through the holes.  You hurry
+through the lot in hopes that you can avoid the dreaded used car salesman.
+~
+88 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 8868
+D2
+~
+~
+0 -1 8864
+D3
+~
+~
+0 -1 8866
+S
+#8866
+The Used Car Lot~
+Hundreds of old, beat up cars are sitting in this parking lot.  The pavement
+is cracked and grass is slowly making its way through the holes.  You hurry
+through the lot in hopes that you can avoid the dreaded used car salesman.
+~
+88 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 8867
+D1
+~
+~
+0 -1 8865
+D2
+~
+~
+0 -1 8869
+S
+#8867
+The Used Car Lot~
+Hundreds of old, beat up cars are sitting in this parking lot.  The pavement
+is cracked and grass is slowly making its way through the holes.  You hurry
+through the lot in hopes that you can avoid the dreaded used car salesman.
+~
+88 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 8868
+D2
+~
+~
+0 -1 8866
+S
+#8868
+The Used Car Lot~
+Hundreds of old, beat up cars are sitting in this parking lot.  The pavement
+is cracked and grass is slowly making its way through the holes.  You hurry
+through the lot in hopes that you can avoid the dreaded used car salesman.
+~
+88 0 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 8865
+D3
+~
+~
+0 -1 8867
+S
+#8869
+The Used Car Salesman's Office~
+You enter a warm office with a nice picture of the salesman on the back
+wall.  The office is neat and will organized.  Here is where the salesman
+tries to make you comfortable as he tries to unload his collection of
+trashy cars.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8866
+S
+#8870
+Frog's Legs Cafe~
+You enter a small diner with a counter and stills.  There are also several
+booths and tables with customers sitting at them.  To the north waiters are
+going in and out of the kitchen with food.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8871
+D3
+~
+~
+0 -1 8864
+S
+#8871
+The Kitchen~
+The large kitchen is full of waiters and cooks getting food ready for the
+dinner crowd which is about to come in.  It looks as if some of the frogs
+are trying to make a break for it and that they are trying to catch them.
+~
+88 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8870
+S
+#8872
+The Highway~
+As you continue down the highway you pass in front of a large wooden church.
+The white paint on the church is slowly starting to fade and peel from the
+weather and the steps in front show signs of wear.
+~
+88 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 8873
+D1
+~
+~
+0 -1 8863
+D3
+~
+~
+0 -1 8879
+S
+#8873
+Inside The Church~
+You enter a medium sized colonial church.  It has white pews with red velvet
+cussions.  The ceiling has high ceilings and the sound carries well in it.
+To the north you see another set of pews and the alter beyond them.  To
+the south is the exit.
+~
+88 12 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8875
+D2
+~
+~
+0 -1 8872
+D3
+~
+~
+0 -1 8874
+S
+#8874
+In The Back Corner Of The Church~
+Another row of pews is here.  The music starts as you make your way through
+them.  To the north are more pews and then the alter.  To the west is the
+other corner of the church.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8875
+D1
+~
+~
+0 -1 8873
+S
+#8875
+In The Front Of The Church~
+You see in front of you the alter and the choir loft.  The pulpit and the
+lectern have been moved to the side of the church to make room for the
+band which is accompanying the chior.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8877
+D1
+~
+~
+0 -1 8876
+D2
+~
+~
+0 -1 8873
+S
+#8876
+In The Front Of The Church~
+You see in front of you the alter and the choir loft.  The pulpit and the
+lectern have been moved to the side of the church to make room for the
+band which is accompanying the chior.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8878
+D2
+~
+~
+0 -1 8873
+D3
+~
+~
+0 -1 8875
+S
+#8877
+The Chior Loft~
+Rows of pews are used as the chior loft.  They rise several feet and allow
+for the voices of the chior to project well in the large sanctuary.  To the
+South is the sanctuary.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8878
+D2
+~
+~
+0 -1 8875
+S
+#8878
+The Chior Loft~
+Rows of pews are used as the chior loft.  They rise several feet and allow
+for the voices of the choir to project well in the large sanctuary.  To the
+South is the sanctuary.
+~
+88 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8876
+D3
+~
+~
+0 -1 8877
+S
+#8879
+The Highway~
+The small highway begins to climb out of the small valley where the church
+is located.  To the southwest a local bar can be seen and to the northeast is
+a small colonail looking church.
+~
+88 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 8872
+D3
+~
+~
+0 -1 8880
+S
+#8880
+The Highway~
+As the highway continues its climb out of the valley it passes the local bar.
+To the west vast fields of corn and livestock can be seen.  To the south is
+the bar.
+~
+88 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 8879
+D2
+~
+~
+0 -1 8881
+D3
+~
+~
+0 -1 8883
+S
+#8881
+A Bar~
+The bar has a large counter with all sorts of drinks on it.  People are moving
+around the many tables set up to face the stage.  At the end of the bar a      
+brown dog is playing the piano.  On stage a fuzzy bear attempts to tell jokes.
+~
+88 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 8880
+D1
+~
+~
+0 -1 8882
+S
+#8882
+The Stage~
+The large wooden stage has large lights which shine down on it.  The stage's
+sound system barely makes up for the clatter and commotion going on around the
+bar and the only thing which seems to quiet them down are the comedians bad
+jokes.
+~
+88 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 8881
+S
+#8883
+The Highway~
+You travel down the highway and come to the top of another small hill.  In t
+the distance you can see a large city and you can also see what looks to be
+a fire coming for somewhere ahead.  The Highway continues to the west.
+~
+88 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 8880
+D3
+~
+~
+0 -1 8884
+S
+#8884
+A Fork In The Road~
+Here the road splits off in two directions.  The road to the northwest
+continues to go toward a large city and the smaller road to the southwest
+heads toward the fire.
+~
+88 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 8883
+D7
+~
+~
+0 -1 8890
+D9
+~
+~
+0 -1 8885
+S
+#8885
+A Road~
+This small gravel road dead ends into a small fire circle.  Here a fire is lit
+and a great deal of socializing is going on.  The fields surrounding it
+stretch for miles in every direction.  With the stars overhead it is a very
+peacefull setting.
+~
+88 4 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 8886
+D6
+~
+~
+0 -1 8884
+S
+#8886
+The Fire Circle~
+You notice the soft glow of the fire as you slowly make your way around the
+circle.  From above the stars brightly shine through the clear night sky.
+All seems calm and peacefull.
+~
+88 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 8885
+D2
+~
+~
+0 -1 8887
+D3
+~
+~
+0 -1 8889
+S
+#8887
+The Fire Circle~
+You notice the soft glow of the fire as you slowly make your way around the
+circle.  From above the stars brightly shine through the clear night sky.
+All seems calm and peacefull.
+~
+88 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 8886
+D3
+~
+~
+0 -1 8888
+S
+#8888
+The Fire Circle~
+You notice the soft glow of the fire as you slowly make your way around the
+circle.  From above the stars brightly shine through the clear night sky.
+All seems calm and peacefull.
+~
+88 0 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 8889
+D1
+~
+~
+0 -1 8887
+S
+#8889
+The Fire Circle~
+You notice the soft glow of the fire as you slowly make your way around the
+circle.  From above the stars brightly shine through the clear night sky.
+All seems calm and peacefull.
+~
+88 0 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 8886
+D2
+~
+~
+0 -1 8888
+S
+#8890
+The Highway~
+As you continue down the highway you notice that it is quite a ways to the
+city.  The building that you are headed towards is now in sight.  It is the
+tall office building of a famous movie industry.  Hopefully the director
+will be able to meet with you.
+~
+88 0 11
+0d0+0 0 0
+D3
+~
+~
+0 -1 8891
+D8
+~
+~
+0 -1 8884
+S
+#8891
+The Highway~
+As other cars start to appear on the road you realize that you are slowly
+entering civilization.  The long grey highway continues on its way towards
+the city as you wonder about what is in store for you ahead.
+~
+88 4 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 8890
+D3
+~
+~
+0 -1 8892
+S
+#8892
+The Highway~
+The heavy traffic and congested roads if a major city are now visible.  You
+are much closer now and should be inside the city soon.  The cornfields and
+farms are slowly turning into suburban developments.
+~
+88 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 8891
+D3
+~
+~
+0 -1 8893
+S
+#8893
+The Highway~
+Here the highway starts to enter the city.  More lanes open up and the
+highway slowly starts to turn into a city street.  Around you tall buildings
+rise and surround you.  People line the streets as they make their way back
+from their afternoon lunch breaks.
+~
+88 0 11
+0d0+0 0 0
+D1
+~
+~
+0 -1 8892
+D3
+~
+~
+0 -1 8894
+S
+#8894
+A Large City Street~
+As you look to the north you see that you are standing in front of the giant
+office building of the movie company.  The huge class windows almost 
+completely cover the front side of the building.  You hear the woosh of air
+as a man in a suit makes his way through the revolving doors.
+~
+88 0 11
+0d0+0 0 0
+D0
+~
+~
+0 -1 8895
+D1
+~
+~
+0 -1 8893
+S
+#8895
+The Lobby~
+The large ornate marble walls of the loby are quite remarkable.  You notice
+that there are pictures of famous actors and directors hanging on the walls.
+As you make your way through you ask the clerk at the desk which floor to go
+too.  You are directed to the second floor.  Seeing the long line at the
+elevator you decide it is better just to take the stairs.
+~
+88 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 8894
+D3
+~
+~
+0 -1 8896
+S
+#8896
+The Stairs~
+The musty smell of an enclosed set of stairs catches your nose as you enter
+through the doorway.  In front of you an iron set of stairs ascends toward
+the second floor.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 8895
+D4
+~
+~
+0 -1 8897
+S
+#8897
+At The Top of The Stairs~
+You arrive at the top of a platform and see a door with the number two
+painted on it.  You take a second to take a deep breath and walk into
+the office.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 8898
+D5
+~
+~
+0 -1 8896
+S
+#8898
+The Waiting Room~
+The nice blue color of the walls and the quiet music catch your attention as
+you enter the room.  A row of chairs are along the north and south walls
+of the room with a few people sitting in them.  To the north is the desk
+of the directors receptionist and the door to his office.  You notice
+that the receptionist has the key to his office in her hand.
+~
+88 8 0
+0d0+0 0 0
+D1
+~
+door~
+1 8834 8899
+D3
+~
+door~
+1 -1 8897
+S
+#8899
+The Director's Office~
+You enter a large corner office with a huge wooden desk.  The walls are
+covered with the pictures of famous actors and friends of the director.
+There is a large leather chair behind the desk which is turned to face the
+window.  As you enter the chair slowly turns around to face you.
+~
+88 8 0
+0d0+0 0 0
+D3
+~
+door~
+1 8834 8898
+S
+$

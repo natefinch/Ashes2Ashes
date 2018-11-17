@@ -1,0 +1,1596 @@
+#13000
+head tournament judge tom wylie~
+Head Tounament Judge, Tom Wylie~
+Head Tounament Judge, Tom Wylie, makes sure you know the rules.
+~
+   This is the head judge of the tournament. Any decision he makes is the final word - he is God here.
+He notices your interest in the tournament and points to the sign on the wall stating the tournament rules.
+You know that to break these rules is to incur his wrath.
+~
+4251722 1064 0 W3
+127 100 -100 1d1+29999 5d5+50
+0 0
+8 8 1
+18 100 18 18 18 18 0
+0 2 2
+-1000 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13001
+dakkon blackblade man warrior~
+Dakkon Blackblade~
+A warrior in blackened armor awaits your challenge.
+~
+   Though he's no larger than you, the man who startes out at you from under
+his helmet's visor shows no fear of your power. From the way he carries his
+jagged sword, and spiked shield, you doubt that they ever leave his hands.
+He's ready for you, and as you approach, he intones:
+   My power is as vast as the plains,
+   My strength is that of mountains,
+   Each wave that crashes upon the shore,
+   Thunders like blood in my veins. 
+~
+305163 0 -100 W3
+120 88 -27 10d10+29900 14d14+50
+50000 450000
+8 8 1
+18 100 18 18 18 18 0
+18 2 0
+-270 3 6 0 50 55
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13002
+beast guardian~
+Guardian Beast~
+A four-armed beast with glowing eyes stalks toward you.
+~
+   The guardian beast was created by a powerful wizard to guard his most prized
+posessions. While the beast lives, no one can touch these most valuable
+artifacts. The beast is ever vigilant, and never needs food or rest. If you
+want its treasure, you must kill it. 
+~
+321547 40 -400 W3
+120 85 -20 10d10+20000 5d5+20
+120000 75000
+8 8 1
+13 0 13 13 13 13 0
+15 2 0
+-200 0 6 200 25 25
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13003
+khabal ghoul skull~
+Khabal Ghoul~
+In the darkness you see a skull looking at you.
+~
+   Wearing dark clothing on its humanoid form, the only prominant feature of
+the Khabal Ghoul is its yellowed skull. Drawing energy from the death of other
+beings, the ghoul is most deadly in areas of great carnage. 
+~
+319593 16778408 -700 W3
+130 90 -30 10d10+9950 15d10+70
+20000 120000
+8 8 0
+18 100 13 13 18 13 0
+9 2 0
+-300 0 6 500 25 25
+10 10 10 10 10
+2 0 0
+6 10
+~
+#13004
+efreet efreeti ifh biff ifh-biff~
+Ifh-Biff Efreet~
+A powerful efreet is flying around, free of his bottle.
+~
+   With black hair and a green complexion, the efreet hardly looks
+intimidating. His ease of movement throught the air and the aura of greenish
+energy that surrounds him makes up for his whimsical appearance. 
+~
+321673 1192 500 W3
+130 85 -36 10d10+10000 15d10+70
+25000 80000
+8 8 1
+18 100 18 18 18 18 0
+18 3 2
+-360 0 6 500 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13005
+colossus sardia statue giant~
+Colossus of Sardia~
+A huge statue towers over you.
+~
+   Over 100 feet tall, this is easily the largest moving object you've ever met
+up with. Originally meant to stand watch over the entrance to the harbor of
+Sardia, some wizard thought that by animating it, he would have an unstoppable
+killing machine. It looks like he was right. 
+~
+45065 0 0 W3
+50 80 -40 10d10+8950 12d12+90
+20000 250000
+8 8 0
+18 100 13 13 13 13 0
+18 5 2
+-400 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13006
+king man bearded suleiman~
+King Suleiman~
+A bearded, kingly man with a staff watches you haughtily
+~
+   Every bit the Arabian king, Suleiman is dressed in purple, and adorned with
+gold. He appears well-fed, and highly refined, with an air of kingly dignity
+to him. He is renoun for his power over the djinn and efreeti that are so
+powerful in his native realm. 
+~
+14729 2621568 800 W3
+40 65 -25 10d10+950 10d8+40
+120000 15000
+8 8 1
+15 0 18 18 14 12 0
+8 2 2
+-250 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13007
+juzam djinn green~
+Juzam Djinn~
+A huge, green, horned Djinn towers over you and grins.
+~
+   This monster you swallow you whole if he ever got ahold of you. His pupiless
+eyes stare at you, and his muscular green frame tenses for combat. The large
+gold nose-ring, and tiny goatee only enhance his sinister appearance, and
+heighten your fear. 
+~
+16820269 1032 -900 W3
+50 80 -37 10d10+4950 15d15+50
+50000 200000
+8 8 1
+18 0 18 18 18 18 0
+8 2 2
+-370 10 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#13008
+gaea gaea's avenger~
+Gaea's Avenger~
+Gaea's Avenger seeks to destroy the artificers.
+~
+   A being created from the material of the earth itself, Gaea's Avenger
+gathers its strength from its rage at the defiling of Nature. Its purpose in
+existing it to destroy those whose artifice corrupted the land, and reclaim
+Nature for Gaea's creatures. 
+~
+14348 4096 200 W3
+45 70 -20 10d10+15950 15d15+100
+2000 220000
+8 8 0
+18 0 13 13 13 13 0
+0 4 2
+-200 3 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13009
+atog~
+an Atog~
+A disgusting Atog scavenges for artifacts.
+~
+  The Atog is a boulder-sized, mushroom-shaped, purple creature, with glowing
+orange eyes and a mouth that takes up most of its body. Once used by wizards
+to dispose of dangerous artifacts, the Atogs gained power from the artifacts
+they ate and destoyed their masters. Now, as a race of their own, they have
+become the bane of all artificers. 
+~
+8205 1024 -300 W3
+20 10 -100 10d10+1950 5d5+10
+2000 20000
+8 8 0
+13 0 13 13 13 13 0
+5 2 2
+-1000 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13010
+man achaeologist argivian~
+the Argivian Archaeologist~
+An archaeologist is picking through the ruins, looking for artifacts
+~
+   The archaeologist is a middle-aged man with unkempt blond hair and glasses.
+He's on his knees marking out an excavation site with little wooden stakes and
+string. He's so intent on his work that he is completely ignoring you. 
+~
+8399 524288 500 W3
+35 50 -15 10d10+950 8d3+10
+24500 23000
+8 8 1
+13 0 18 13 13 13 0
+8 2 0
+-150 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13011
+halfdane man~
+Halfdane~
+You see a man who begins to look like you.
+~
+   When you first see Halfdane, he appears as a heavy-set, bearded Norseman.
+However, as you look at him, he grins and begins to take your shape. This
+fight you may end up[ battling yourself. 
+~
+14345 8 -50 W3
+45 68 -20 10d10+2950 10d12+45
+35000 85000
+8 8 1
+18 0 18 18 18 18 0
+20 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13012
+johan man~
+Johan~
+A strange red and black-faced man stands here.
+~
+   Johan is one of the greatest generals ever to have lived. He is as famous
+for his red face-paint, and his horned, blue battle gear as he is for his
+amazing hit and run tactics, that leave his troops in primedefensive positions
+after an attack. 
+~
+14345 16777248 400 W3
+50 75 -24 10d10+3950 12d10+50
+1000 190000
+8 8 1
+18 0 18 18 18 18 0
+17 2 0
+-240 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13013
+ramses overdark assassin~
+Ramses Overdark~
+An assassin stalks you.
+~
+   Ramses Overdark is a fearsome bringer of death. Despite his spiked, demonic
+armor he is silent and invisible as death. His helm obscures any human
+features behind red glowing eyes, spider mandibles, and scorpion tails. He is
+renoun for his ability to track anything that is enchanted with magic. 
+~
+16787496 787464 -200 W3
+52 60 -30 10d10+2950 15d10+50
+65000 145000
+8 8 1
+18 0 18 18 18 18 0
+0 2 0
+-300 11 6 0 0 0
+10 10 10 10 10
+0 0 0
+10 15
+~
+#13014
+rasputin dreamweaver man cleric~
+Rasputin Dreamweaver~
+A man in clerical robes nods at your presence.
+~
+   Rasputin Dreamweaver is an elder cleric. Dressed in simple robes, and with a
+beard that suggests great age, he puts forth an image of a gruff but kindly
+priest. The staff he carries is rumored to hold powerful healing magic, but
+anyone who has seen it used must have died of old age long ago. 
+~
+272459 40 950 W3
+127 75 -34 10d10+4000 12d12+40
+50 77777
+8 8 1
+13 0 13 18 13 13 0
+10 2 0
+-340 0 8 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13015
+craw giant~
+a Craw Giant~
+An invincible-looking giant stands in your way.
+~
+   With the craw giant's physique, and human would be formidable. When you take
+into account that the giant's muscles are made of stone, you shudder to think
+of the damage he could cause. The giant seems good-natured enough, laughing
+heartily at the sight of an armed group approaching. Looking at your own
+weapons and back to him, you be inclined to agree with his opinion of your
+odds. 
+~
+292873 16778376 400 W3
+130 84 -30 10d10+9000 20d20+10
+2000 50000
+8 8 1
+18 100 13 13 18 13 0
+20 2 0
+-300 13 4 300 25 25
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13016
+rabid wombat~
+Rabid Wombat~
+A little wombat is here, frothing at the mouth.
+~
+   Wombats are generally considered to be fairly harmless creatures. Ever
+wonder what happens when you expose them to magic? ,,,probably not. Well,
+wombats go completely insane when enchanted, and the more magic effecting
+them, the crazier --and more powerful-- they get. This little fella looks
+pretty magicked-up... 
+~
+41001 0 1 W3
+35 100 10 10d10+3950 5d5+25
+0 45000
+8 8 0
+13 0 13 13 13 13 0
+18 1 0
+100 9 16 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#13017
+aerathi rathi berserkers men group~
+Aerathi Berserkers~
+A group of berserkers waits for you to make the first move.
+~
+   The Aerathi Berserkers are a fierce group who revel in carnage. They fight
+bare-chested, shunning armor, and wield huge axes, stained with blood. The
+wear their hair long and unbound, and braid their moustaches. 
+~
+16788489 0 -250 W3
+40 70 -5 10d10+3950 5d8+20
+15000 55000
+8 8 1
+18 0 13 13 13 13 0
+18 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13018
+tempest efreet wild~
+Tempest Efreet~
+A wild efreet flies around you.
+~
+   The efreet's body is only corporeal from the waist up. It's head is bald
+except for a top-knot of long purple hair. Two thin horns curve up from the
+side, and its pupiless eyes stare right through you. You can't be certain what
+this acrane creature wants with you, or even if it's really aware that you're
+here. 
+~
+10248 262154 -100 W3
+35 55 -20 10d10+2950 10d5+30
+35000 135000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-200 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13019
+akron legionnaire man~
+Akron Legionnaire~
+An Akron Legionnaire stands guard here.
+~
+   The Akron Legionnaire wears the traditional garb of his order. He wears a
+yellow tabard emblazoned with a red sunburst, and black plate armor on his
+arms and legs. His helmet is also black with only a "T"-shaped slot revealing
+the eyes and nose, and two downturned prongs jutting from the sides. 
+~
+28939 4096 750 W3
+50 60 -22 10d10+3950 12d12+50
+40000 150000
+8 8 1
+18 100 15 18 18 18 0
+1 2 2
+-220 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13020
+eater dead creature~
+Eater of the Dead~
+Some kind of creature is devouring corpses.
+~
+   The Eater of the Dead is a repugnant creature. It has a fanged, dog-like
+face, with horns ressembling those of a bull. It survives solely on the flesh
+and bones of dead creatures, even the remnants of animated corpses. It is
+believed that anything other than carrion would be poisonous to the Eater. 
+~
+28687 1024 -600 W3
+40 58 -10 10d10+3950 7d5+30
+50000 30000
+8 8 0
+13 0 13 13 13 13 0
+5 3 2
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13021
+leviathan~
+Leviathan~
+The legendary Leviathan drifts slowly through the water.
+~
+   The very name "Leviathan" means huge. In this case, it is an
+underestimation. Swimming slowly through the water near the sunken city, the
+Leviathan could easily _swallow_ the entire city! the only thing you'd have in
+your favor in fighting it, it that there is so much room inside it that you
+could survive being swallowed. 
+~
+319498 1192 2 W3
+130 90 -30 10d10+9950 30d20+50
+130000 275000
+8 8 0
+18 100 13 13 18 13 0
+0 2 0
+-300 4 4 0 50 50
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13022
+scarwood bandit bandits man men~
+Scarwood Bandits~
+Several camouflaged men hide nearby.
+~
+   With their bodies painted to camouflage themselves with the forest, the
+Scarwood Bandits are all but invisible. They prey on those who travel in the
+woodlands without enough guards. Beware your posessions around these rogues. 
+~
+8333 786432 200 W3
+30 45 -12 10d10+1950 6d8+15
+36000 25000
+8 8 1
+13 0 13 13 13 13 0
+5 2 0
+-120 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#13023
+ball lightning~
+Ball Lightning~
+A ball of lightning flashes toward you.
+~
+   Lightning is one of the most destructive forces of nature...or at least the
+quickest destructive force of nature. Wizards have found a way to conjure up
+the rarest and most dangerous form of lightning--Ball Lightning. While the
+ball lightning may not bedurable like conjured creatures are, it provides a
+quick and decisive blow against a foe. 
+~
+168 327680 0 W3
+40 100 10 1d10+0 6d100+0
+0 20000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+100 12 2 0 0 0
+10 10 10 10 10
+4 0 0
+6 10
+~
+#13024
+lord pit demon~
+Lord of the Pit~
+A huge, winged demon rises up to slay you.
+~
+   Many a wizard has called upon such a beast only to be slain by it. The Lord
+of the Pit is among the most powerful of demons. It's bulky frame sppears
+skeletal, with reddish-black skin stretched tightly over its bones. Its long
+arms have wings extended from them, and its hands are little more than vicious
+claws. It turns its horned head toward you, and the look in its dull red eyes
+lets you know that you mean little more to it than a meal. 
+~
+321643 16777384 -990 W3
+150 78 -36 10d10+9000 15d10+60
+35000 500000
+8 8 1
+18 100 18 16 25 18 0
+12 4 0
+-360 8 8 400 0 50
+10 10 10 10 10
+0 0 5
+6 10
+~
+#13025
+demonic horde hordes demon demons~
+Demonic Hordes~
+A horde of demons ravages the countryside.
+~
+   About a thousand knee-high demons are rioting across the land, destroying
+everything in their path. Completely black except for razor-sharp white fangs
+and glowing red eyes, they shriek in glee when they see you. You contemplate
+just how those teeth will feel as they rend the flesh from your bones. 
+~
+16820268 16778248 -999 W3
+48 75 -22 10d10+4950 18d9+10
+98000 330000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-220 0 6 0 0 0
+10 10 10 10 10
+0 0 1
+6 10
+~
+#13026
+juggernaut~
+Juggernaut~
+A juggernaut is rumbling over everything in its path, to squish you.
+~
+The Juggernaut consists of a huge, wheeled platform with a totem statue on it.
+The "wheels" of the platform are more like giant, spiked rollers, designed to
+crush anything that gets in the juggernauts path. This particular juggernaut
+seems magically enchanted to propell itself, unlike normal ones which are
+pulled by hordes of slaves. 
+~
+16820265 0 -1 W3
+40 80 -10 10d10+2950 10d10+30
+0 200000
+8 8 0
+13 0 13 13 13 13 0
+18 2 0
+-100 6 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 15
+~
+#13027
+royal assassin~
+Royal Assassin~
+An assassin slips stealthily from shadow to shadow.
+~
+   A ragged looking older man with an eye-patch, this assassin hardly seems the
+ruthless murderer his title would indicate. Then again, if all killers looked
+like killers, then criminal justice would be much simpler. Rodent-like men
+such as this one can be invaluable tools to the ambitious and powerful. 
+~
+8232 786432 -250 W3
+44 85 -40 10d10+950 50d9+40
+35000 200000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-400 14 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#13028
+brass man~
+Brass Man~
+A man made of brass awaits someone's command.
+~
+   A crudely build mechanical man, the brass man requires a continual supply of
+mana to function. Built out of what look to be the spare parts of a tuba and a
+washtub, it must have taken some ingenuity to even make it walk. 
+~
+8328 8 20 W3
+35 50 -10 10d10+2950 3d20+30
+10000 35000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13029
+black knight~
+Black Knight~
+A black knight on a horse charges toward you.
+~
+   Seemingly right out of the midieval tales of chivalry, the black knight
+wears black armor, and rides a black horse. Though honorable, the black knight
+lives to kill and dominate. A perversion of the knightly code, all goodly
+knights will challenge the black knight whenever they encounter him. 
+~
+15945 8192 -800 W3
+40 58 -24 10d10+1950 8d8+50
+20000 80000
+8 8 1
+13 0 13 13 13 13 0
+19 2 2
+-240 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13030
+sorceress queen woman~
+Sorceress Queen~
+A beautiful woman with glowing red eyes glares haughtily at you.
+~
+   The Sorceress Queen is a beautiful, but evil, woman. She has thick, dark
+hair and a full figure. The only odd thing about her appearance is the fact
+that her eyes are red. The red eyes might be the result of dark-elf heritage,
+which would also explain her magical prowess. She wears skpimy clothing that
+leaves little to the imagination, and only a tiny crown indicates her royal
+status. 
+~
+4241609 132136 -750 W3
+50 48 -18 10d10+950 10d4+20
+50000 65000
+8 8 2
+12 0 18 18 18 12 0
+8 2 0
+-180 0 4 0 0 90
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13031
+phantom monster~
+Phantom Monster~
+Some sort of phantom flies around.
+~
+   An amorphous creature, the Phantom Monster changes shape to suit the fears
+of its enemies. While is may seem to be non-corporeal, you'll think otherwise
+when those "phantasmal" teeth bite into you. 
+~
+12360 262152 -5 W3
+35 40 -11 10d10+2950 20d1+30
+111 40000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-110 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13032
+gaea gaea's liege man green~
+Gaea's Liege~
+A green man with a long beard walks by.
+~
+   Gaea's Liege is the most powerful of Gaea's mortal followers. His duty is to
+reclaim the wilderness from civilization. Through his magic he can grow trees
+in even the most inhospitable climates. Wizards have often manipulated the
+liege to turn lands controlled by their opponents into forests, thus
+corrupting their mana. 
+~
+10508 262176 800 W3
+49 66 -8 10d10+5950 12d9+60
+5 140000
+8 8 1
+18 0 18 18 18 18 0
+0 2 0
+-80 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13033
+force nature avatar~
+Force of Nature~
+The force of nature has taken an avatar.
+~
+   The Force of Nature is a greenish, roughly humanoid figure that looks like
+it could crush boulders with its bare hands. The more distinctive of human
+features are blurred on its bulk. In fact, it gives the impression of a burly
+football player wearing a trash bag over his body. 
+~
+12361 16777248 0 W3
+53 84 -26 10d10+7950 18d12+50
+0 340000
+8 8 0
+18 0 18 18 18 18 0
+18 5 0
+-260 10 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13034
+keldon warlord man warrior huge~
+Keldon Warlord~
+An incredibly huge warrior trudges toward you.
+~
+   This huge warrior looks like he's on steroids. His muscles are impossibly
+large for a human. He goes around bare-chested, wearing a monster's horned
+head for a helmet. He is carrying a sword that is thicker than one of your
+legs and as long as a grown man's body. 
+~
+14345 0 -400 W3
+50 80 -30 10d10+5950 15d10+45
+35000 210000
+8 8 1
+18 0 4 4 18 18 0
+20 2 0
+-300 3 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13035
+rock hydra~
+Rock Hydra~
+A six-headed rock hydra roars as you draw near.
+~
+   Hydras are akin to dragons. They are large vicious lizards with many heads.
+The more heads the hydra has, the older, and more powerful it is. Fortunately,
+hydras are unlike dragons, in that they can't breath fire. 
+~
+8296 16778240 -350 W3
+47 70 -27 10d10+5950 9d8+40
+2050 150000
+8 8 0
+13 0 13 13 13 13 0
+0 2 2
+-270 4 10 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#13036
+shivan dragon red~
+Shivan Dragon~
+A red dragon swoops down at you.
+~
+   Known for its cruelty, the Shivan Dragon is one of the most fearsome
+creatures known. Upon hearing it's shriek, every wilderness creature goes into
+hiding. The Shivan does mind the inconvenience of having to chase down its
+prey; it enjoys the fear that its mere presence inspires. 
+~
+16787561 16778280 -700 W3
+53 82 -30 10d10+4950 15d15+40
+120000 550000
+8 8 1
+18 0 18 18 18 18 0
+12 5 0
+-300 8 6 0 0 0
+10 10 10 10 10
+0 2 1
+4 12
+~
+#13037
+hero benalish warrior woman~
+Benalish Hero~
+A warrior woman watches you and prepares for battle.
+~
+   Dressed in a leather jerkin and wearing her hair short, she could easily be
+mistaken for a man from behind. The Benalish are a war-like people, and any of
+them is formidable in combat. 
+~
+6217 0 800 W3
+28 40 -10 10d10+950 5d6+20
+12000 40000
+8 8 2
+13 0 13 13 13 13 0
+17 2 0
+-100 0 4 0 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#13038
+paladin northern man holy warrior~
+Northern Paladin~
+A holy warrior from the north stands here stoically.
+~
+   The paladin is a noble being. Devoting his life to the protection of others,
+he is willing to sacrifice his life even for a complete stranger. Dressed in
+chain mail and wearing a tabard that bears his god's holy symbol, the Northern
+Paladin is always ready to do battle. 
+~
+10569 4100 999 W3
+42 60 -30 10d10+2950 10d7+50
+20000 45000
+8 8 1
+18 0 18 18 18 18 0
+1 2 0
+-300 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13039
+personal incarnation avatar~
+Personal Incarnation~
+An incarnation of one of the wizards prepares fight for its master.
+~
+   A glowing, yellow field of energy formed by the magic and life force of a
+wizard stands before you. Armed with sword and shield, this deadly avatar can
+draw upon the power of the wizard who created it to heal its wounds. Though
+physically strong, the incarnation can be dangerous for a wizard to use. The
+wizard's lifeforce becomes entwined with the incarnation, and he loses some of
+his lifeforce if it is destroyed. 
+~
+43081 66728 400 W3
+50 70 -38 10d10+5950 10d10+50
+0 430000
+8 8 0
+18 0 18 18 18 18 0
+18 2 0
+-380 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13040
+serra angel~
+Serra Angel~
+A haughty angel looks down at you.
+~
+   With long, golden hair, large feathery wings, and tanned skin, the Serra
+Angel is quite beautiful. She is wearing a simple gown, and carries a golden
+sword sheathed at her hip. Don't be fooled by her appearance; she is a
+powerful warrior for the cause of goodness, and knows how to use her sword
+with great efficiency. 
+~
+41290 0 999 W3
+46 75 -30 10d10+3950 15d7+20
+17000 70000
+8 8 2
+18 0 18 18 18 18 0
+0 2 0
+-300 3 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13041
+white knight~
+White Knight~
+A white knight on a horse charges toward you.
+~
+   Seemingly right out of the midieval tales of chivalry, the white knight
+wears white armor, and rides a white horse. With his sword gleaming in the
+sunlight, he charges into battle to fight the forces of evil. Ever on the
+look-out for evil, the White Knight will fight with all his heart against any
+knight that has forsaken his oath and turned to evil. 
+~
+14665 8192 800 W3
+40 58 -24 10d10+1950 8d8+50
+20000 80000
+8 8 1
+13 0 13 13 13 13 0
+19 2 2
+-240 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13042
+time elemental insect  winged clockwork~
+Time Elemental~
+Some sort of winged,  clockwork insect is flying around.
+~
+   You're not quite sure what to make  of this clockwork being. It doesn't
+look like any living  creature you've ever encountered. It flutters around
+for a while, then looks at you. You feel somewhat disoriented, and then
+realize that the  sun has moved in the sky. This creature just transported
+you through time!
+~
+299016 0 0 W3
+30 -20 -50 10d10+1950 1d1+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+-500 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#13043
+Hazezon Tamar man warrior sand leader~
+Hazezon Tamar~
+The leader of the sand warriors watches you.
+~
+   Dressed in the garb of a desert raider and armed with
+a pair of scimitars, Hazezon looks quite fearsome. He commands a
+band of sand warriors who are the scourge of the deserts.
+His followers will come to his aid in times of need, and are
+ready and willing to give their lives for their beloved leader.
+~
+4208652 524288 100 W3
+48 65 -27 5d5+3985 10d9+50
+45000 85000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-270 3 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13044
+sand warrior~
+a sand warrior~
+A sand warrior is here to aid Hazezon Tamar.
+~
+   Camouflaged in the colors of the desert sands, this
+stealthy warrior could walk right past you in the desert without
+you ever noticing. His master, Hazezon Tamar, will always find him close by in times of need.
+~
+4169 786432 0 W3
+20 50 -15 5d5+985 10d5+20
+2000 24000
+8 8 1
+13 0 13 13 13 13 0
+18 2 0
+-150 0 6 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13051
+goblin goblins raider raiders~
+Goblin Raiders~
+Some goblin raiders snarl at you, but don't dare attack.
+~
+   Among the varied races, goblins recruit more of their population into the
+military than any other. It's ironic though, that they are one of the most
+poorly suited races to the art of war. They are unruly, stupid, and more
+vicious to each other than to any enemy. 
+~
+74 1024 -500 W3
+25 15 5 1d1+99 2d5+10
+2500 7500
+8 8 0
+13 0 3 5 13 13 0
+0 2 0
+50 0 6 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#13052
+goblin goblins digging team shovel shovels bunch~
+Goblin Digging Team~
+A bunch of goblins with shovels are hanging around.
+~
+   Being subterranean creatures, there is a lot of demand for new tunnels,
+which the digging teams build. When pressed into military service, they tumble
+the walls of the opposing armies. Not being terribly clever creatures, they
+often topple those walls down onto themselves. 
+~
+74 1024 -450 W3
+20 16 2 1d1+99 5d2+12
+2000 7000
+8 8 0
+13 0 3 3 13 13 0
+0 2 0
+20 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13053
+goblin surgeon chirurgeon~
+Goblin Chirurgeon~
+A goblin that appears to be some sort of surgeon is here.
+~
+   While many of the finer arts of civilization are completely lacking amongthe
+goblins, not so with surgery. Goblin surgical techniques may be grizzly, and
+disgusting --usually involving using one goblin as spare parts for another--
+but they are definitely effective. You've noticed that many of the goblins
+around here sport limbs that don't appear to fit quite right. Now you know
+why. The limb undoubtedly started out belonging to some other hapless goblin. 
+~
+262218 1024 -700 W3
+35 18 1 1d1+199 5d5+10
+12000 12500
+8 8 0
+13 0 8 9 13 13 0
+0 2 0
+10 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13054
+goblin wizard shaman~
+Goblin Wizard~
+Some kind of goblin shaman or wizard is chanting something odd.
+~
+   Every race has its superstitions. To go along with those superstitions comes
+someone smartenough to exploit them. While it doesn't take much to fool a
+goblin, their wizards do actually have to know some magic to gain acceptance
+as someone of importance in the clan. 
+~
+75 1032 -600 W3
+30 14 4 1d1+99 3d5+8
+8000 15000
+8 8 0
+13 0 12 10 13 13 0
+8 2 0
+40 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#13055
+goblin hero~
+Goblin Hero~
+The goblin version of a hero is lounging around.
+~
+   Hmmm, decent weapons...armor appears functional...even seems to know which
+end of his sword to hold. Perhaps you've finally found a competant goblin. You
+meet its gaze and notice the dull look in its eyes. Then you dismiss your
+silly delusions about competant goblins. 
+~
+74 1024 -400 W3
+40 20 -2 1d1+199 6d5+12
+6000 14000
+8 8 0
+13 0 6 3 13 13 0
+0 2 0
+-20 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13056
+goblin mutant~
+Goblin Mutant~
+A mutated goblin sulks here, shunned by the others.
+~
+   What has three heads, two arms, and half a brain? A Goblin Mutant. They are
+most likely the result of the goblin wizards' frequent attempts to "improve"
+the goblin race. They are big and strong, and dumb as dirt. 
+~
+10 525312 -350 W3
+40 20 -5 1d1+299 7d5+20
+1000 20000
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+-50 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13057
+basal thrull creature pathetic~
+Basal Thrull~
+Some pathetic creature limps along miserably.
+~
+   Basal Thrulls were bred by wizards to be infused with mana. When sacrificed,
+they release that mana in a form useable to the wizard. Hideously deformed,
+they were shunned by other beings, and left to their doom at the hands of the
+wizards. Eventually an uprising among the thrulls won their freedom--and their
+masters' deaths. 
+~
+74 66560 -300 W3
+20 12 3 1d1+199 10d1+5
+55 6000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13058
+armor thrull creature spiked nasty~
+Armor Thrull~
+A nasty, spiked creature cowers as you approach.
+~
+   Armor Thrulls were bred by wizards to have a hard, spiked carapace, ideal
+for the making of armor. Many a wizard's mercenary soldier has been made to
+wear a dead armor thrull into battle. If they knew how tough they were, armor
+thrulls could be dangerous. 
+~
+10 66560 -400 W3
+20 15 -5 1d1+299 1d15+10
+100 10500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-50 0 6 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13059
+mindstab thrull creature deformed hideous hideously~
+Mindstab Thrull~
+A hideously deformed creature stumbles about.
+~
+   Mindstab Thrulls were designed to attack another wizard's mind. The suicide
+of a mindstab thrull causes any nearby wizard immense mental pain, resulting
+in the loss of some of his spells from memory. If the wizards that created the
+mindstab thrulls had any sense, they would have found a way to protect
+themselves from the effect. When the thrulls rebelled, the sacrifice of the
+mindstabs made all the difference.
+   This particular little creature seems to be made entirely out of arms,
+stitched together, and supporting a head. 
+~
+74 0 -600 W3
+30 18 -2 1d1+199 10d2+8
+2000 12500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-20 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#13060
+necrite thrull scarry creature~
+Necrite~
+A really scarry-looking creature grins as you.
+~
+   The Necrites are the assassins of the thrulls. When they were first created
+by the wizards,they would gladly give their lives to destroy one of the
+wizards' enemies. They're fearsome appearance allowed them to literally scare
+their victims to death. It wasn't until the thrull rebellion that the necrites
+realized that their gruesome powers could be used on their creators. 
+~
+32842 3072 -500 W3
+25 16 1 1d1+199 8d2+8
+1000 13500
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 6 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#13061
+thrull champion warrior~
+Thrull Champion~
+A warrior thrull flicks its tongue out and hisses at you.
+~
+   With four arms, three faces of fanged teeth and bulging eyes, and a
+serpentine body, the Thrull Champion was bred for combat. A forked tongue
+flicks out at you, waiting for you to give some indication that you want to
+fight. The champion may be proficient in combat, but it is still too cowardly
+to start a fight on its own. 
+~
+12298 1056 -600 W3
+35 24 -5 1d1+299 3d8+15
+12000 20000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-50 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13062
+icatian infantry soldier soldiers~
+Icatian Infantry~
+A group of soldiers guard the town.
+~
+   While a peace-loving folk, the Icatians are beseiged by armies of the more
+warlike races on a regular basis. As a result, they have a rather large
+standing army for a farming town. 
+~
+6218 0 600 W3
+20 12 3 1d1+99 4d3+12
+1000 8000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13063
+icatian javelineers soldiers soldier~
+Icatian Javelineers~
+A group of soldiers carrying javelins patrol the streets.
+~
+   The Icatian army is well-known for its javelineers. Used as a first-strike
+weapon, the javelins decimate an enemy's ranks before they even close to melee
+distance with the main Icatian army. As a result, the javelineers are well
+respected among the citizenry. 
+~
+4170 0 600 W3
+22 14 2 1d1+99 6d3+13
+2300 10000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 4 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#13064
+icatian lieutenant officer soldier~
+Icatian Lieutenant~
+An officer in the Icatian military surveys his troops.
+~
+   The officers in the Icatian army are the cream of the crop. Far too
+practical to sell commissions, or give out the positions as political favors,
+the Ications impose rigorous standards on their military leadership. Their
+officers must conform to the highest standards of competance, honor, and
+integrity. Their survival depends on it. 
+~
+2378 0 700 W3
+27 19 0 1d1+199 9d2+16
+8000 13000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0 0
+30 30 30 30 30
+0 0 0
+6 0
+~
+#13065
+icatian scout~
+Icatian Scout~
+A forward scout for the Icatians surveys the terrain.
+~
+   Little more than a boy, this scout is doing his duty to his homeland.
+Camouflaging himself in the terrain, the scout watches for signs of invaders
+coming toward his town in Icatia. 
+~
+72 524288 650 W3
+20 13 4 1d1+99 10d1+10
+45 8500
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13066
+flying man~
+Flying Man~
+A man on a flying carpet flies by you.
+~
+   Dressed in the garb of an Arabian warrior and flying on a carpet, you're so
+struck by the fantastic appearance of the man that you almost forget what a
+potential threat he is. Armed with a scimitar, he could be very troublesome,
+if he decided to fly circles around you while he attacked. 
+~
+2120 0 400 W3
+18 20 -10 1d1+99 10d2+10
+3500 9000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#13067
+dragon engine machine~
+Dragon Engine~
+A machine made to look like a dragon rumbles toward you.
+~
+   This construction is basically a hollowed out metal statue of a dragon that
+has had machinery put into it. A motorizedand magically powered set of wheels
+propells italong the ground, and an ominous spout pokes out between its teeth,
+presumably to shoot flames. 
+~
+42057 0 0 W3
+25 20 -8 1d1+299 10d2+20
+1200 25000
+8 8 0
+13 0 13 13 13 13 0
+12 4 0
+-80 0 2 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#13068
+phyrexian gremlin gremlins~
+Phyrexian Gremlins~
+A bunch of little gremlins swarm toward the nearest machine.
+~
+   To wizards they are the most a annoying creatures in existance. Gremlins in
+general like to make nuisances of themselves, and Phyrexian Gremlins are
+particularly adept with magical constructs. Climbing in and a mong the gears,
+they can disable any artifact and prevent its repair for as long as they
+remain. 
+~
+8328 1024 -650 W3
+20 10 -12 1d1+99 3d12+10
+7500 12000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-120 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13069
+sorcerer prodigal man Tim~
+Prodigal Sorcerer~
+A man dressed as a sorcerer smiles at you.
+~
+   Wearing a puffy purple hat and sporting a little goatee, the prodigal
+sorcerer looks a bit silly. An amatuer wizard, he makes his living selling his
+skills to wizards who want some extra firepower. 
+~
+2120 0 200 W3
+20 15 -6 1d1+99 2d5+8
+3000 16000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-60 0 4 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13070
+uncle istvan man hermit old crazy~
+Uncle Istvan~
+A carzy old hermit looks at you with wild eyes.
+~
+   Driven into the woods years ago by his disgust with humanity, Istvan seems
+to have little humanity left in him. He doesn't seem to goom himself, since
+his hair is full of leaves and dirst, and his tangled beard reaches his knees.
+He gives you a sort of wild, snarling look, and you wonder if there is any
+reasoning with this madman. 
+~
+8264 0 -600 W3
+34 20 -45 1d1+299 4d7+10
+1531 28000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-450 0 4 0 0 0
+15 15 15 15 15
+0 0 0
+6 0
+~
+#13071
+carrion ants army~
+Carrion Ants~
+An army of ants scavenges for food.
+~
+   Larger than any ants you've ever seen, the Carrion Ants are a force to be
+reckoned with. These ants don't go after picnic food, they prefer to feed on
+humanoid corpses, which they are fully capable of gathering themselves. 
+~
+77 0 -100 W3
+40 24 -10 1d1+599 10d3+10
+3400 35000
+8 8 0
+13 0 13 13 13 13 0
+4 2 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13072
+rag man old rags~
+Rag Man~
+An old man wearing rags shambles along.
+~
+   With his features hidden behind a cowl of rags, the Rag Man can easily be
+mistaken for a living creature. He is not. Once he was a powerful necromancer,
+dealing in the magicks of death. The magic eventually consumed him, leaving
+him a disgusting thing of death and decay. Now he prowls the streets of
+cities, and the nightmares of children, stalking... 
+~
+41545 66568 -500 W3
+35 30 3 1d1+99 10d4+10
+12000 50000
+8 8 1
+13 0 13 13 13 13 0
+9 2 0
+30 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#13073
+cat warriors warrior~
+Cat Warriors~
+A pack of cat warriors surrounds you.
+~
+   Striped like tigers, the Cat Warriors wear green cloaks to help them hide in
+the forest, which they do extremely well. They can stalk through the forest so
+silently as not to disturb the birds. Watch your back, they might be right
+behind you. 
+~
+4168 262144 200 W3
+22 17 -5 1d1+199 3d10+10
+1000 13000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0 0
+45 45 45 45 45
+0 0 0
+6 0
+~
+#13074
+sprites sprite fire tiny~
+Fire Sprites~
+Some tiny sprites flitter around you, trailing fire.
+~
+   Like all sprites, the Fire Sprites are mischevious little things. With their
+innate ability to produce flame, they often harrass people by singeing the
+tips of their ears and noses. Generally consideredto be a harmless buisance,
+most people do their best to ingore the sprites. Getting upset at them only
+encourages theis behavior. 
+~
+45193 263208 100 W3
+10 10 -5 1d1+99 5d2+5
+50 8000
+8 8 0
+13 0 13 13 13 13 0
+12 2 0
+-50 0 2 0 0 0
+75 75 75 75 75
+0 0 0
+6 0
+~
+#13075
+martyrs korlis bodyguards men man~
+Martyrs of Korlis~
+A group of men is here, waiting to be martyred.
+~
+   A sort of doomsday cult, the Martyrs of Korlis wish to be remembered in
+glory. Believing that they are doomed anyway, they will save anyone from
+anything. When wandering by a battle, the Martyrs have been known to throw
+themselves into the fray and put themselves between a sword and its intended
+victim. They have also been known to arrange for people's lives to be put in
+danger, just so they can die gloriously by saving them. 
+~
+4169 0 900 W3
+30 20 -10 1d1+599 3d8+10
+2000 20000
+8 8 1
+13 0 13 13 13 13 0
+1 2 0
+-100 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#13076
+apprentice mage wizard wizard's~
+Apprentice Wizard~
+A wizard's apprentice wanders by you, absent-mindedly.
+~
+   The Appreantice Wizard looks like he's trying real hard to seem like a
+full-fledged wizard. He's wearing elaborate robes, and a bit, wide-brimmed,
+pointy mage hat. You'd guess that he is a rich merchant or nobleman's son that
+paid some down-on-his-luck wizard to let him be an apprentice. 
+~
+8265 8 200 W3
+20 5 9 1d1+99 1d5+0
+1000 4000
+8 8 1
+13 0 13 13 13 13 0
+8 2 0
+90 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13077
+d'avenant archer woman grim~
+D'Avenant Archer~
+A grim archer woman nocks an arrow.
+~
+   You see a female archer with a high-quality bow. Seemingly well at easy with
+her weapon, you suspect that she could shoot you dead where you stand if you
+crossed her. Her quiver is full of arrows, and she appears to be ready to
+defend herself against whatever violent intentions you have. 
+~
+72 0 500 W3
+24 15 2 1d1+199 5d2+10
+2000 9000
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+20 0 6 0 0 0
+40 40 40 40 40
+0 0 0
+6 0
+~
+#13078
+caribou token~
+a Caribou~
+A caribou is grazing peacefully.
+~
+   A herd creature, the caribou are the food source
+for many nomadic tribes. Their combat ability is virtually
+non-existant.
+~
+74 0 650 W3
+20 13 4 1d1+99 5d3+5
+45 7000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 0
+~
+#13097
+Lisa~
+~
+Lisa Ramoana Aservathos
+~
+38 24 and a real nice ass the configuration of this goddess.
+Brunet hair about shloulder length and a tan that make will make you glad
+to have eyes.
+~
+4194317 0 200 W3
+0 0 0 60d60+30000 0d0+0
+0 0
+8 8 2
+13 0 13 13 13 13 0
+5 2 2
+0 0 2 0 0 0
+100 100 100 100 100
+0 0 0
+6 0
+~
+#13098
+Fransica~
+~
+Fransica Ivan Rivera
+~
+36-26-36
+THANK GOD FOR HISPANICS Iee Krumba !!
+present miss latina this woman is definatly something to look at.
+standing about 5ft 6 she is definately something to write home about
+~
+4194317 0 0 W3
+0 0 0 60d60+30000 0d0+0
+0 0
+8 8 2
+13 0 13 13 13 13 0
+5 2 2
+0 0 2 0 0 0
+100 100 100 100 100
+16 0 0
+6 0
+~
+$

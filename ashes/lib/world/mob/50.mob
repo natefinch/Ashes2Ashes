@@ -1,0 +1,292 @@
+#5000
+dervish raggity~
+the dervish~
+A raggity dervish walks on aimlessly.
+~
+Dressed in loose fitting rags, this man looks like he could use some rest.
+~
+204 524288 900 W
+6 5 5 1d10+100 2d4+0
+70 2250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#5001
+dervish large~
+the dervish~
+A large dervish watches for signs of trouble.
+~
+Dressed in loose fitting rags, this man looks like he could use LOTS of rest.
+~
+104 524288 650 W
+12 8 3 3d6+166 2d6+1
+150 7250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#5002
+snake coral~
+the coral snake~
+A brightly colored snake slithers along the sands.
+~
+This relatively harmless snake has bright alternating bands of red, yellow
+and black.
+~
+72 0 -10 W
+5 3 4 1d6+66 1d9+0
+0 1250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#5003
+scorpion small~
+the small scorpion~
+A small, red scorpion scuttles away at your approach.
+~
+The little tail is mighty dangerous for such a small creature.
+~
+72 0 -50 W
+5 3 1 1d6+66 1d8+0
+0 1250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#5004
+worm giant purple~
+the sand worm~
+A giant, purple sand worm thrusts up out of the sand and attacks!
+~
+He's big, mean, and purple.  Watch out!
+~
+43 40 -300 W
+28 20 3 3d10+533 3d7+14
+2540 47250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0
+30 30 30 30 30
+0 0 0
+6 10
+#5005
+dragon brass~
+the brass dragon~
+A very large brass dragon steps out of the darkness and says "Hello".
+Then adds to it, "Prepare to die, have a nice day!"
+~
+~
+43 136 950 W
+30 19 0 3d6+500 3d6+4
+1500 52250
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 10
+#5006
+nomad leader~
+the nomad leader~
+The nomad leader sits silently in prayer.
+~
+He is clad in silk robes lined with gold thread. At his side is a large,
+engraved cutlass.  He has an especially haughty air about him.
+~
+2186 8 950 W
+18 13 0 3d6+283 2d8+5
+1000 22250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#5007
+nomad commander~
+the nomad commander~
+The nomad commander stands here staring at you suspiciously.
+~
+This is the nomad leader's second in command.  His clothes are richly woven
+of silk and gold thread.  A nasty cutlass hangs at his side.
+~
+2186 0 900 W
+14 12 1 3d6+225 2d5+3
+600 12250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#5008
+nomad warrior~
+the nomad warrior~
+A proud nomad warrior stands here.
+~
+~
+10 0 700 W
+10 9 2 1d6+175 2d6+1
+300 6250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 0
+#5009
+slave young~
+the slave~
+A young slave sits here staring at you with pleading eyes.
+~
+~
+138 0 1000 W
+2 2 9 1d4+41 1d5+0
+0 500
+5 5 2
+13 0 13 13 13 13 0
+0 2 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#5010
+dracolich lich~
+the dracolich~
+A pile of bones rises up to form a skeletal dracolich.
+~
+The dracolich is now only bone with pieces of flesh hanging from it.
+Obviously it no longer fears death.
+~
+8235 138 -1000 W
+77 20 -6 10d10+1500 3d5+35
+75000 169750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-60 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#5011
+drider drow~
+the drider~
+The drider looks at you viciously while it draws its sword.
+~
+This half-spider, half-drow creature is a formidable opponent.
+~
+104 8 -1000 W
+11 8 2 1d6+158 2d6+2
+200 4750
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+20 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#5012
+duergar dark dwarf~
+the dark dwarf~
+A duergar is here mining precious stones with his pick.
+~
+The duergar could crush your head as easily as it does those rocks.
+~
+104 8 -850 W
+7 4 3 1d11+100 2d5+1
+170 3250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 10
+#5013
+myconoid~
+the myconoid~
+A myconoid lumbers along peacefully.
+~
+The myconoid looks something like a giant mushroom (and probably has the same
+effect).
+~
+200 8 850 W
+8 5 4 1d12+113 2d7+0
+50 4250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#5014
+myconoid shaman~
+the myconoid shaman~
+A rather large myconoid stands here chanting in a strange tongue.
+~
+The shaman shoots spores into the air.
+~
+2445 0 136 W
+8 1 10 1d12+288 1d7+2
+2500 4250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#5015
+dustdigger~
+the dustdigger~
+A small oasis invites you to dive in.
+~
+~
+46 0 -200 W
+11 10 1 1d6+141 3d4+0
+450 4750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+10 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#5017
+camel rabid~
+the rabid camel~
+A very dangerous rabid camel snorts at you.
+~
+Don't mess with this animal.
+~
+42 0 -351 W
+9 8 6 1d6+100 2d4+3
+270 5250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+60 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 10
+$

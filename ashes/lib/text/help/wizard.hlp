@@ -1,0 +1,1095 @@
+ADVANCE
+
+Usage: advance <player> <level>
+
+Advances a player to the specified level, giving them xp and stat
+increases as if they advanced normaly. Advancing to immortal levels
+does not go through each level individualy, instead it changes the
+character apropriatly to be an immortal and sets their xp and level.
+You cannot reverse advance someone. In other words, you can only
+increase their level. The exception to this is immortals. If you
+reverse advance an immortal, they are automaticaly remorted and then
+advanced to the level you specified.
+
+See also: REMORT SET
+
+#
+ARENA
+
+Usage: arena [restrict <closed | groups | all | open>]
+
+The arena command by itself will display the state of the arena.
+Arena restrict will change the state of the arena. You can open it
+to all combat, close it to challenging all, close it to group
+combat (which includes challenging all), or close it completely.
+
+#
+ASSASSIN
+
+Usage: assassin <player> <accept | reject>
+
+Assassin accept will make an assassin out of a player requesting
+assassin. Assassin reject will take assassinship away from an assassin.
+
+#
+AT
+
+Usage: at <location> <command>
+
+At is used to do commands as if you were in a different place without
+actualy going there. Location can be a room vnum, a character name,
+or an object name.
+
+See also: GOTO
+
+#
+AUTOREBOOT
+
+Usage: autoreboot [now]
+
+Autoreboot will toggle autoreboot on and off. When autoreboot is on and
+the uptime is greater than 24 hrs, the mud will give a 10 minute
+countdown with page all and then reboot. Autoreboot can be turned off
+in the middle of a countdown to cancel the reboot. When it is turned
+back on the reboot count will start over at 10 minutes. If you specify
+"now" with the autoreboot command it will start a reboot countdown
+right away no matter what the uptime.
+
+See also: SHUTDOWN
+
+#
+AVATAR
+
+Usage: avatar
+
+Avatar will toggle your avatar mode on and off. When in avatar mode
+you can be hurt and killed and mobs will consider you as possible
+targets when a random target is needed. If you want to be attacked
+by agro mobs, you also need to turn off nohassle.
+
+See also: NOHASSLE
+
+#
+AWARD
+
+Usage: award [file] <name> <# of qp>
+
+Award will give quest points to or take quest points from a player.
+<# of qp> can be 1000 to -1000.
+
+#
+BACKTRACE
+
+Usage: backtrace [room_num]
+
+Backtrace will show you all the rooms that connect to the room you're
+in as well as information on the exits that connect the rooms. You can
+specify a room number if you want to find the exits leading to a room
+other than the one you're in.
+
+#
+BAN
+
+Usage: ban [<all | select | new> <site>]
+
+Ban by itself will display the list of banned sites. Ban all will ban
+all logins from the site specified. Ban select will ban all characters
+from the site specified that do not have the SITEOK flag set. Ban new
+will ban all new characters from the site.
+
+See also: SET UNBAN
+
+#
+DATE
+
+Usage: date
+
+Date will show you the current machine time.
+
+#
+DC
+
+Usage: DC <connection number>
+
+DC will kill a player's link. You must specify the connection number
+to disconnect, not the player's name. You can find the connection
+number using users.
+
+See also: USERS
+
+#
+DELWORD
+
+Usage: delword <line> <word>
+
+Delword deletes a word from the description of the room you are
+standing in. Line is the line number in the description, and word
+is the number of the word on the line.
+
+See also: INSWORD OLC
+
+#
+ECHO
+
+Usage: echo <text>
+
+Echo will display a message in the room you're in. It does not show
+up as coming from any source, the text is just displayed to those
+in the room.
+
+See also: GECHO QECHO SEND
+
+#
+EXTRACT
+
+Usage: extract <player> <id>
+
+Extract lets you take an item out of the rent file of a player that
+is not currently playing. Player is the name of the player, and id
+is the item's id number, which you can see with show rent.
+
+See also: SHOW
+
+#
+FAKELOAD
+
+Usage: fakeload <obj | mob> <number>
+
+Fakeload is used to load items that have no stats, but look like and
+have the same restrictions as the original. Fakeload does not change
+anything about mobs.
+
+See also: LOAD
+
+#
+FORCE
+
+Usage: force <player | room | all> <command>
+
+Force makes players or mobs do the command you specify. You cannot
+force a character to do a command they are not able to do. You can
+force a character by name, force every character in the room, or
+force every player in the game.
+
+#
+FORCEHOLD
+
+Usage: forcehold <mob> <item>
+
+Forces the mob named to hold the item specified. They must have the
+item in inventory and be able to see it.
+
+See also: FORCEREMOVE FORCEWEAR FORCEWIELD
+
+#
+FORCEREMOVE
+
+Usage: forceremove <mob> <item>
+
+Forces the mob named to remove the item specified. They must be able
+to see the item and have room for it in inventory and strength enough
+to hold it.
+
+See also: FORCEHOLD FORCEWEAR FORCEWIELD
+
+#
+FORCEWEAR
+
+Usage: forcewear <mob> <item>
+
+Forces the mob named to wear the item specified. They must have the
+item in inventory and be able to see it.
+
+See also: FORCEHOLD FORCEREMOVE FORCEWIELD
+
+#
+FORCEWIELD
+
+Usage: forcewield <mob> <item>
+
+Forces the mob named to wield the item specified. They must have the
+item in inventory and be able to see it.
+
+See also: FORCEHOLD FORCEREMOVE FORCEWEAR
+
+#
+FORMAT
+
+Usage: format [<mob | obj | room> <number>]
+
+Format with no arguments toggles automatic formatting of olc strings
+on and off. When format is on, text strings entered in olc will be
+split into lines with as many words on a line as will keep the line
+shorter than 80 characters. You can format the strings of a specific
+mob, object or room, by specifying what you are formatting followed
+by it's vnum.
+
+See also: DELWORD INSWORD OLC
+
+#
+FREEZE
+
+Usage: freeze <player>
+
+Freeze will cause a player to be unable to do anything. It is used
+for punishment or to force a player to stop what they are doing
+so you can talk to them (usualy about punishment :).
+
+See also: MUTE NOTITLE THAW
+
+#
+FREIMB
+
+Usage: freimb [file] <player>
+
+Freimb will reimburse a player no matter what the cirsumstances.
+It will reimburse items that will cause dupes and will work even
+if the reimb file is newer than the last reboot. Reimb should always
+be used first so you are aware of any dupe posabilities or other
+problems. Freimb can always be used after reimb to reimburse those
+items that reimb did not.
+
+See also: REIMB
+
+#
+GECHO
+
+Usage: gecho <text>
+
+Gecho is like echo, except it displays a message to everyone in the game.
+
+See also: ECHO QECHO
+
+#
+GOTO
+
+Usage: goto <location>
+
+Goto will move you to the location specified. Location can be a room
+vnum, character name, or item name.
+
+See also: AT TELEPORT TRANSFER
+
+#
+GRANT
+
+Usage: grant [file] <player> <command>
+
+Grant gives a higher immortal command to a lower level immortal.
+Grant by itself will list grantable commands. Use grant file to
+grant commands to people who are not online. Granting a command
+that they already have granted will take the grant away. Grants
+cannot be given to mortals, however they can be taken away from
+them if the need ever arises.
+
+#
+GREP
+
+Usage: grep [lines_from_end] <file> <search string>
+
+Grep searches a file for the string you specify and displays all
+lines that contain that string. Grep by itself will give a list
+of files that can be grepped. The search string is case sensative
+and can be more than one word. Lines_from_end is optional and
+will cause grep to only search the last number of lines that you
+specify.
+
+See also: IGREP
+
+#
+HANDBOOK
+
+Usage: handbook
+
+Handbook lets you read the immortal handbook. If you're seeing this
+help before having read the handbook, you better go read it. You can
+learn about your powers once you learn what you should and should not
+be doing with them.
+
+#
+HOLYLIGHT
+
+Usage: holylight
+
+Holylight turns on and off holylight mode. When holylight is on, you
+can see in the dark, see invisible things, and see hidden things.
+
+#
+IEDIT
+
+Usage: iedit <item>
+
+Iedit lets you edit an item you are holding or wearing. You can change
+the stats on the item, and they will be that way for only that unique
+item. You can also remove the dupe flag from an item (useful if you
+destroyed one item of a dupe pair and don't want to see the warning
+from the other item anymore). You cannot change an item's ID number,
+nothing can change that.
+
+See also: OEDIT
+
+#
+IGREP
+
+Usage: igrep [lines_from_end] <file> <search string>
+
+Igrep searches a file for the string you specify and displays all
+lines that contain that string. Igrep by itself will give a list
+of files that can be grepped. The search string is not case
+sensative and can be more than one word. Lines_from_end is optional
+and will cause igrep to only search the last number of lines that
+you specify.
+
+See also: GREP
+
+#
+IMOTD
+
+Usage: imotd
+
+Imotd displays the message of the day for immortals (this is the
+message you see when you first log on).
+
+#
+INSWORD
+
+Usage: insword <line> <word> <phrase>
+
+Insword inserts text in the room description of the room you are
+standing in. Line is the line number. Word is the number of the
+word on the line before which you want to add the text. Phrase is
+the text you want to add, it can be more than one word. If you
+want to add text at the end of a line, give a word number 1 higher
+than the number of the last word on the line.
+
+Insword is an unfinished olc command.
+
+See also: DELWORD FORMAT
+
+#
+INVIS
+
+Usage: invis [level]
+
+Invis with no argument will toggle you between fully visible and
+invisible at the highest level possible. If you specify a level,
+you will become invisible to anyone lower than that level, however
+you cannot specify a level higher than your level.
+
+#
+LAST
+
+Usage: last <player>
+
+Last shows the last login date, time, and site for a player.
+
+#
+LOAD
+
+Usage: load <mob | obj> <number>
+
+Loads a mob or object by vnum. Objects load in your inventory, mobs
+load in the room with you.
+
+#
+MLIST
+
+Usage: mlist <zone>
+
+Mlist displays the names and a short list of stats of every mob
+in a zone. Zone is the number of the zone, found with show zones.
+
+See also: OLIST RLIST SHOW ZLIST
+
+#
+MPSTAT
+
+Usage: mpstat <mob>
+
+Mpstat displays the mob prog of the mob named, if it has one.
+
+See also: STAT
+
+#
+MUTE
+
+Usage: mute <player>
+
+Mute will prevent a player from using any public channels. Using
+mute on someone already muted will remove the mute.
+
+See also: FREEZE NOTITLE
+
+#
+NODISTURB
+
+Usage: nodisturb
+
+Nodisturb toggles your building deafness on and off. When it is on
+you won't see any channels or get any tells or see weather messages
+when you are editting something. (building) will show up in your
+title to inform others that you editting in nodisturb mode.
+
+#
+NOHASSLE
+
+Usage: nohassle
+
+Nohassle toggles on and off your protection from agro mobs.
+
+#
+NOTITLE
+
+Usage: notitle <player>
+
+Notitle will make it so a player cannot change their title. Using
+it on someone who is already notitled will make it so they can
+change their title again.
+
+See als: FREEZE MUTE
+
+#
+NOWIZNET
+
+Usage: nowiznet
+
+Nowiznet will turn off and on the immortal channel.
+
+See also: WIZNET
+
+#
+OLIST
+
+Usage: olist <zone>
+
+Olist displays the names and a short list of stats of every object
+in a zone. Zone is the number of the zone, found with show zones.
+
+See also: MLIST RLIST SHOW ZLIST
+
+#
+PAGE
+
+Usage: page <name | all> <text>
+
+Page sends a beep and a message to a player or to everyone.
+The recipient sees who the message is from.
+
+#
+PEDIT
+
+Usage: pedit <player>
+
+Pedit edits a player in an editor simmilar to the mob editor. The
+player must be in the game when you start and finish editing for it
+to work. You can change much more with pedit than you can with set.
+It is the best way to try to fix problems with messed up characters.
+If you can't fix it with pedit, it probably can't be fixed.
+
+See also: MEDIT
+
+#
+POOFIN POOFOUT
+
+Usage: poofin <text>
+       poofout <text>
+
+Poofin and poofout set the description people will see when you enter
+and leave the room with goto. The message will show up:
+<your name> <text>
+So if Bob typed: poofin enters through a portal.
+When he entered a room with goto, people would see:
+Bob enters through a portal.
+
+Poofin and poofout without any arguments will display your current
+poofin and poofout.
+
+#
+PURGE
+
+Usage: purge [name]
+
+Purge with no arguments will get rid of every mob and object in
+the room with you, but will not affect players. You can specify
+the name of something in the room with you to purge just that
+thing. It can be a mob, object, or player. Purgeing a mob or
+player will drop anything they are carrying on the ground. A
+purged player will enter the game when they reconnect as if they
+had quit out, and will have whatever items they had when they
+last saved.
+
+#
+QECHO
+
+Usage: qecho <text>
+
+Qecho sends a message to everyone on the quest channel. They do
+not see who the message comes from, they just see the text.
+
+See also: ECHO GECHO
+
+#
+REIMBURSE
+
+Usage: reimburse [file] <player>
+
+Reimburse will give the objects in a players reimb file to the player.
+It will not give back !rent items or items that would cause a dupe,
+and it will not work if the reimb file is newer than the last crash
+or reboot. Any items that reimb does not give back will be reported
+with the reason they were not reimbursed and will be saved in a new
+reimb file for that player.
+
+See also: FREIMB
+
+#
+RELOAD
+
+Usage: reload <option>
+
+Reload will cause the mud to re-read some text component, usualy
+because it has been updated and you want the new version in without
+having to reboot the mud. Options are:
+wizlist          reloads the wizlist
+immlist          reloads the immlist
+news             reloads the news file
+credits          reloads the credits
+motd             reloads the mortal message of the day
+imotd            reloads the immortal message of the day
+help             reloads the help page seen with help with no arguments
+info             reloads the info file
+policy           reloads the policy
+handbook         reloads the immortal handbook
+background       reloads the background story
+greeting         reloads the screen everyone sees when they connect
+xhelp            reloads all the help files
+all              reloads everything
+*                same as all
+
+#
+REMORT
+
+Usage: remort <player>
+
+Remort is used to totaly clear a player of all the changes immorting
+them makes, and starts them over at level 1.
+
+#
+RESTORE
+
+Usage: restore <player>
+
+Restore used on a mob or a mortal will set their hp, mana, and move
+back to max. When used on an immortal it will turn off their hunger,
+thirst, and drunk, and set all their skills to max, as well as
+setting their hp, mana, and move to max.
+
+#
+RETURN
+
+Usage: return
+
+Return will put you back in your own body when you are switched.
+
+See also: SWITCH
+
+#
+RLIST
+
+Usage: rlist <zone>
+
+Rlist displays the names and a short list of stats of every room
+in a zone. Zone is the number of the zone, found with show zones.
+
+See also: MLIST OLIST SHOW ZLIST
+
+#
+ROOMFLAGS
+
+Usage: roomflags
+
+Roomflags toggles on and off your ability to see the flags in a room.
+
+#
+SEND
+
+Usage: send <player> <text>
+
+Send will display a message to the player specified. They will not
+see who the message came from.
+
+See also: ECHO GECHO QECHO
+
+#
+SET
+
+Usage: set [file] <name> <field> <value>
+
+Set will change something about the player or mob named. Set file
+is used to change something on a player that is not online. Set
+by itself will give you a list of fields you can change.
+
+See also: PEDIT
+
+#
+SHOW
+
+Usage: show <option> [argument]
+
+Show by itself will give you a list of options. Some options
+require an argument such as a zone number or player name.
+
+See also: STAT
+
+#
+SHUTDOWN
+
+Usage: shutdown [reboot | pause | die]
+
+Shutdown by itself will reboot the mud. There will be a short
+delay before it comes back up. Shutdown reboot will reboot the
+mud and it will begin booting imediatly after the shutdown.
+Shutdown pause will shut down the mud and create the file "pause"
+in the account which will keep the mud from rebooting until it
+is removed. Shutdown die will shutdown the mud and kill the
+autorun script so the mud will not reboot.
+
+#
+SKILLSET
+
+Usage: skillset <player> 'skillname' <percent>
+
+Skillset will change the level of practiced of a skill for the
+player specified. The skill name must be in single quotes. For
+skills superb is 85%, for spells superb is 95%. Immortals normaly
+have all skills at 100%.
+
+#
+SLOWNS
+
+Usage: slowns
+
+Slowns toggles nameserver_is_slow on and off. When it is on, sites
+will only be shown by i.p. address. When it is off, site names will
+be resloved and shown.
+
+#
+SNOOP
+
+Usage: snoop <player>
+
+Snoop will let you see everything the player specified sees. Snoop
+by itself will stop you from snooping. Snoop is ONLY for use when
+there is suspected illegal activity or when you have permision from
+the victim to use it for some other reason such as helping them
+figure out a problem. Considder it like a wire tap, and you are
+the police. Correct use is good, but use for personal reasons is
+a serious offense.
+
+#
+SNOWBALL
+
+Usage: snowball <victim>
+
+Snoball is just an immortal only social.
+
+#
+STAT
+
+Usage: stat [room | mob | player | file | object | zone] <argument>
+
+Stat shows a lot of information on many things. Stat room will show
+you information on the room you are in. You can specify a vnum to
+see stats on a different room. Stat mob will show you the stats on
+a mob. Argument must be the name of the mob. Stat player will show
+information on a player. Argument must be the player's name and they
+must be in the game. Stat file will show you information on a
+player not in the game. Argument must be the player's name. Stat
+object will show you information on an object. Argument must be the
+name of the object. Stat zone will show information on a zone
+and it's reset commands. Argument must be a zone number. If you use
+stat with an argument, but no option, it will look for a player,
+mob, or object by that name.
+
+See also: VSTAT
+
+#
+SWITCH
+
+Usage: switch <mob>
+
+Switch will let you take control of the mob named. You cannot use
+immortal commands while in the mob.
+
+See also: RETURN
+
+#
+SYSLOG
+
+Usage: syslog <off | brief | normal | complete>
+
+Syslog refers to the infomation messages in brackets that immortals
+get. The syslog command changes how much information you will see.
+The higher your level and the higher your syslog state, the more
+information you see.
+
+Here is a list of everything imms can see (and some things staff can
+see), and what level of syslog will show it.
+
+BRIEF
+arena deaths
+bad passwords
+connections
+dupe warnings
+emergency unwizlock from account
+freezes/thaws
+level gains
+pedit
+player entering game with fubared rent file
+purging a player
+remorts
+rerolls
+zreset of the entire mud
+
+NORMAL
+connection denied by wizlock (staff+)
+deletions
+force rents by qquit
+iedit
+immortal handling of items (give, drop, etc)
+looting notification
+losing link
+most god commands
+new players
+non-edit building commands
+players entering game
+reconnects
+relogins
+
+COMPLETE
+assassin request (staff+)
+autowiz notification
+bug/idea/typo
+connection denied by ban (staff+)
+deaths
+deathtraps
+disconnects (of any type, including the dc command)
+edit building commands
+force rents by idle
+forceremove
+immortal junking of items (and eating)
+loot info (list of every item looted)
+normal purging
+wizlist update
+zone errors
+zone resets (the ones done by the mud, not with zreset) (staff+)
+
+#
+TELEPORT
+
+Usage: teleport <character> <location>
+
+Teleport will move the character named to the location, which can
+be a room vnum, a character name, or an object name.
+
+See also: GOTO TRANSFER
+
+#
+THAW
+
+Usage: thaw <player>
+
+Thaw will unfreeze the player named, unless they were frozen by
+someone higher level than you.
+
+See also: FREEZE
+
+#
+TRANSFER
+
+Usage: transfer <character>
+
+Transfer will bring the character named to your location.
+
+See also: GOTO TELEPORT
+
+#
+UNAFFECT
+
+Usage: unaffect <character>
+
+Unaffect will remove all spell and skill affects from the character
+named. It will not remove permanent affects on mobs such as sanc.
+
+#
+UNBAN
+
+Usage: unban <site>
+
+Unban will remove the ban from the site specified.
+
+#
+UPTIME
+
+Usage: uptime
+
+Uptime will show the date and time the mud booted and how long it
+has been up.
+
+#
+USERS
+
+Usage:
+users [-l minlev[-maxlev]] [-n name] [-h host] [-c class] [-d] [-p] [-s]
+
+Users displays information about the connections in the game and
+lists linkless players. There are several options:
+-l  lets you specify a level or level range to list
+-n  lets you look for a specific name, you cannot abreviate
+-h  lets you look for a specific host or part of a host
+-c  lets you look only for people of a certain class, you can
+    list as many classes as you want, each class is specified by
+    the letter used to pick it from the class list, you cannot
+    have spaces in between the class letters
+-d  lets you list only deadweight connections (those not in the
+    game, such as main menu and rolling)
+-p  lets you list only connections that are in the game (playing)
+-s  will sort the users list by host
+
+#
+VNUM
+
+Usage: vnum <mob | obj | room | zone> <name> [exact]
+
+Vnum will list all objects,  mobs, rooms, or zones who's names match the
+name you specify. If you specify exact after the name, it will not use
+abreviations, otherwise it will.
+
+See also: vstat
+
+#
+VSTAT
+
+Usage: vstat <mob | obj> <number>
+
+Vstat will show the same information that stat does about a mob
+or object, but it doesn't have to be in the game. Number is the
+vnum of the mob or object.
+
+See also: STAT VNUM
+
+#
+WIZHELP
+
+Usage: wizhelp
+
+Wizhelp will display all immortal commands available to you.
+
+#
+WIZLOCK
+
+Usage: wizlock [level]
+
+Wizlock by itself will display the current wizlock state. If you
+specify a level, no one lower than that level may enter the game.
+If the level is 1, every existing character may enter, but no new
+characters can be created.
+
+#
+WIZNET
+
+Usage: wiznet <text>
+       wiznet *<text>
+       wiznet #<level> <text>
+       wiznet *<level> <text>
+       wiznet @
+
+Wiznet is the immortal channel. The wiznet command lets you talk on
+it, and can be abreviated with "/" or ";". If the first character
+of the text is an asterisk (*), it will be replaces with an arrow
+pointing at you. This is a wiznet emote. You can talk on wiznet
+so only people of a certain level can hear if the first "word" is
+a number sign followed by the level you wish to be able to see the
+message, with no space. For example:
+wiznet #104 Only admin can see this :P
+You can wiznet emote so only a certain level can see it by replacing
+the number sign in the above example with an asterisk.
+Wiznet @ will list the immortals currently on wiznet.
+
+See also: NOWIZNET
+
+#
+WIZUPDATE
+
+Usage: wizupdate
+
+Wizupdate will recreate the wizlist and immlist with the current
+immortals and reload the lists.
+
+See also: RELOAD
+
+#
+ZBOTTOM
+
+Usage: zbottom <zone> <number>
+
+Zbottom will change the lowest vnum of a zone. Zone must be the
+zone number, and number is the new vnum. This command does not
+change the top vnum in any way, so moving the bottom vnum will
+change the size of the zone.
+
+See also: ZBOTTOM ZTOP
+
+#
+ZCLOSE
+
+Usage: zclose <zone>
+
+Zclose will close the zone, specified by number, for construction.
+Mortals cannot enter closed zones by any means.
+
+See also: ZOPEN
+
+#
+ZCREATE
+
+Usage: zcreate <zone> <bottom> <top>
+
+Zcreate will create a new zone. Bottom and top are the lowest and
+highest vnums you want included in the zone, and they, and the space
+between them must not be part of any zone. Zone is the the number
+you want the zone to have, and must be higher than the first zone
+below the bottom vnum and lower then the first zone above the top
+vnum.
+
+See also: ZBOTTOM ZLIFESPAN ZNAME ZRMODE ZTOP
+
+#
+ZDELETE
+
+Usage: zdelete <zone>
+
+Zdelete permanently deletes a zone, specified by number, and every
+room, mob, and object contained in it.
+
+#
+ZLIFESPAN
+
+Usage: zlifespan <zone> <length>
+
+Zlifespan sets the length of time between resets for a zone. Zone
+must be the zone number, and length is the length of time, in minutes.
+
+See also: ZRMODE
+
+#
+ZLIST
+
+Usage: zlist <zone>
+
+Zlist shows the name and stats about every room in a zone as well
+as what mobs and objects are in those rooms. Zone is the number of
+the zone, found with show zones.
+
+See also: MLIST OLIST RLIST SHOW
+
+#
+ZLOCK
+
+Usage: zlock <zone>
+
+Zlock will lock a zone, specified by number for editting. You do
+not need to have a zone locked to use the editors, but you do need
+to have one locked for other building related commands, such as
+loading. You can use zlock and zunlock to set up a starting framework
+of zone reset commands for zedit.
+
+See also: ZEDIT ZUNLOCK
+
+#
+ZNAME
+
+Usage: zname <zone> <name>
+
+Zname changes the name of the zone, specified by number, to
+the name you give.
+
+#
+ZOPEN
+
+Usage: zopen <zone>
+
+Zopen opens the zone, specified by number, for playing in. Once
+a zone is open, mortals can walk into it (assuming it's connected
+somewhere) and they can random teleport into it.
+
+See also: ZCLOSE
+
+#
+ZPURGE
+
+Usage: zpurge [. | number]
+
+Zpurge by itself, or with a period as an argument will purge the
+zone you are standing in. If a number is given, it will purge the
+zone specified. Zpurge destroys every mob and object in every room
+of a zone, but does not harm players.
+
+See also: PURGE
+
+#
+ZRESET
+
+Usage: zreset <. | number | *>
+
+Zreset with a period as an argument will reset the zone you are
+standing in. Zreset with a number as an argument will reset the
+zone specified. Zreset with an asterisk as an argument will reset
+every zone. Beware, resetting every zone could take over a minute,
+and the mud will be frozen until the reset is done.
+
+#
+ZRMODE
+
+Usage: zrmode <zone> <mode>
+
+Zrmode changes the reset mode of the zone, specified by number.
+Mode must be one of the following numbers:
+0   never reset
+1   reset only once the lifespan is reached and there are no
+    players in the zone
+2   reset whenever the lifespan is reached
+
+See also: ZLIFESPAN
+
+#
+ZTOP
+
+Usage: ztop <zone> <top>
+
+Ztop changes the highest vnum of the zone, specified by number,
+to the number given as top. This does not affect the zone bottom,
+so changing the top changes the size of the zone.
+
+See also: ZBOTTOM
+
+#
+ZUNLOCK
+
+Usage: zunlock <save | nosave>
+
+Zunlock unlocks the zone you have locked. With nosave, the zone
+reset commands will not be altarred. With save, reset commands
+will be made for the current state of any doors in the zone, the
+locations and types of mobs in the zone, and the objects in the
+zone and on the mobs in the zone. Any commands that match the new
+commands will be kept as they are (so load probabilities and
+limits will not change). Any commands in the new list that do not
+exist will be added, and any existing zone reset commands that
+are not in the new list will be deleted.
+
+See also: ZEDIT ZLOCK
+
+#
+$
+

@@ -1,0 +1,135 @@
+CircleMUD v3.0 Shop File~
+#0~
+3100
+3101
+3102
+3002
+1110
+-1
+1.1 
+0.9 
+-1
+%s I got no such drink.~
+%s I see no such thing.~
+%s I do not buy, would you like a drink?~
+%s BUG, Please report~
+%s You can't afford such a fine drink.~
+%s Fine, that'll be %d gold pieces.~
+%s Bug, please report (%d).~
+0 
+0 
+1113 
+0 
+1116 
+-1
+6 
+23 
+23 
+24 
+#1~
+3100
+3101
+3102
+3002
+1110
+-1
+1.1 
+0.9 
+-1
+%s I got no such drink.~
+%s I see no such thing.~
+%s I do not buy, would you like a drink?~
+%s BUG, Please report~
+%s You can't afford such a fine drink.~
+%s Fine, that'll be %d gold pieces.~
+%s Bug, please report (%d).~
+0 
+0 
+1130 
+0 
+1144 
+-1
+6 
+23 
+23 
+24 
+#2~
+1111
+1112
+-1
+1.5 
+0.4 
+1
+15
+19
+13
+8
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a treasure.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0 
+0 
+1118 
+0 
+1105 
+-1
+0 
+28 
+0 
+0 
+#3~
+-1
+1.3 
+0.4 
+5
+9
+11
+6
+4
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a treasure.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0 
+0 
+1120 
+0 
+1107 
+-1
+0 
+28 
+0 
+0 
+#0~
+1103
+-1
+1.1 
+1.0 
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0 
+0 
+1119 
+0 
+1121 
+-1
+0 
+28 
+0 
+0 
+$~

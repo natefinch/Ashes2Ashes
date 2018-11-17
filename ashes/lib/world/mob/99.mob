@@ -1,0 +1,128 @@
+#9900
+trooper assault alien~
+an alien assault trooper~
+An alien assault trooper is hovering high above trying to eliminate human scum!
+~
+These troopers are the first offensive wave against earth's defenses.
+These guards are brown colored and wear blue jackets.  Though moderately
+armored, some troopers have exhibited high resistance to injury.
+~
+17049657 1064 0 W3
+200 60 -30 0d0+6000 10d6+50
+250000 0
+8 8 0
+18 100 14 14 22 5 1
+20 2 0
+-300 12 6 0 0 60
+10 10 10 10 10
+0 0 0
+3 5
+~
+#9901
+captain assault alien~
+an Assault Captain~
+An Assault Captain has teleported to your location.
+~
+These troopers are the first offensive wave against earth's defenses.
+These guards are brown colored and wear blue jackets.  Though moderately
+armored, some troopers have exhibited high resistance to injury.
+~
+17049659 1192 0 W3
+200 80 -30 0d0+18000 30d6+120
+250000 0
+8 8 0
+18 100 14 14 22 5 1
+15 2 0
+-300 12 8 0 0 60
+10 10 10 10 10
+0 0 0
+3 5
+~
+#9902
+pig cop alien~
+a Pig Cop~
+A Pig Cop cannot wait to blast you into oblivion.
+~
+Pig Cops are mutated alien operatives positioned to supress residual human
+opposition and to police the new centers of alien power on Earth.  They
+have extremely high intolerance to the presence of humans, and exhibit blind
+rage when they detect human scent.
+~
+17049659 1192 0 W3
+200 85 -30 0d0+22000 30d6+120
+250000 0
+8 8 0
+18 100 14 14 22 5 1
+15 5 0
+-300 12 8 0 0 60
+10 10 10 10 10
+0 0 0
+3 5
+~
+#9903
+pig cop alien~
+a Pig Cop~
+A Pig Cop cannot wait to blast you into oblivion.
+~
+Pig Cops are mutated alien operatives positioned to supress residual human
+opposition and to police the new centers of alien power on Earth.  They
+have extremely high intolerance to the presence of humans, and exhibit blind
+rage when they detect human scent.
+~
+17049659 1192 0 W3
+200 85 -30 0d0+25000 30d6+120
+250000 0
+8 8 0
+18 100 14 14 22 5 1
+15 5 0
+-300 12 8 0 0 60
+10 10 10 10 10
+0 0 0
+3 5
+~
+#9904
+duke nukem~
+Duke Nukem~
+Duke Nukem is here holding the key to end this insanity.
+~
+He stands about 7 feet tall and weighs about 350 pounds.  With those
+bulging muscles, spiked blond hair, and shades...he loves to look at
+himself in the mirror and tell himself how pretty he is.  Sporting
+numerous hard core weapons and an endless supply of ammo...he isn't
+going down easy...if at all.
+~
+305179 536872104 1000 W3
+200 80 -25 0d0+30000 20d15+75
+500000 0
+8 8 1
+25 0 18 18 25 18 25
+20 4 2
+-250 12 9 0 0 0
+10 10 10 10 10
+0 0 0
+6 1
+~
+#9905
+redcoat british soldier army man~
+a British Redcoat soldier~
+A soldier of the British Redcoat Army is here to fight you to the death. 
+~
+Since 1656 the British Monarch has had a personal bodyguard, now known as the household
+division. One of the most enduring images of British Military History is that of the 
+long, thin line of red coated infantry, pouring out its deadly fire against whichever
+enemy troops had dared to challenge its supremacy on the field of battle. The Redcoat
+has fought, marched and died on all five continents of the world, leaving a trail of
+brave deeds, sacrifice tragedy and heroism unmatched by any other army in the world.
+~
+272409 536904744 -400 W3
+200 127 20 0d0+4000 1d5+5
+50000 100000
+8 8 1
+18 75 14 14 25 5 1
+20 3 2
+200 12 3 0 200 100
+1 1 1 1 1
+0 63 0
+6 10
+~
+$

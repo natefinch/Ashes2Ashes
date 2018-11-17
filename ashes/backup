@@ -1,0 +1,21 @@
+#!/bin/sh
+#
+
+if [ -r ../backup/ashes.2.tar.gz ]; then
+  rm ../backup/ashes.2.tar.gz
+fi
+
+mv ../backup/ashes.1.tar.gz ../backup/ashes.2.tar.gz
+mv ../backup/ashes.tar.gz ../backup/ashes.1.tar.gz
+
+if [ -r ashes.tar.gz ]; then
+  rm ashes.tar.gz
+fi
+
+if [ -r ashes.tar ]; then
+  rm ashes.tar
+fi
+
+tar -cf ashes.tar *
+gzip -9 ashes.tar
+mv ashes.tar.gz ../backup

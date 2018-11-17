@@ -1,0 +1,2412 @@
+#3800
+The Town Square~
+You stand in the crowded square of this charming castle town, enjoying
+the warm day and admiring the city sights.  The square is bustling with
+activity, and you are forced to apologize to more than one villager as
+you unintentionally impede their way.  Looking around, you see exits
+in all directions.  There is a huge sign here, that catches your attention.
+~
+38 0 1
+0d0+0 0 0
+D0
+You look north and see a small drawbridge in the distance.
+~
+Path to a Drawbridge~
+0 -1 3801
+D1
+To the west you see a busy street.
+~
+Square Street~
+0 -1 3809
+D2
+To the south is the entrance to this enchanting castle town.
+~
+The Crossroads to Devil's Wood~
+0 -1 3808
+D3
+To the west you see a busy street.
+~
+Square Street~
+0 -1 3810
+D6
+You see to the northeast, a quaint shop specializing in magic items.
+~
+The Magic Shop~
+0 -1 3805
+D7
+You see a store full of knick knacks to the northwest.
+~
+The General Store~
+0 -1 3804
+D8
+You see a large store, filled with armors of all sorts.
+~
+The Armory~
+0 -1 3806
+D9
+You see a store inundated with exotic weapons.
+~
+The Weaponsmith~
+0 -1 3807
+E
+sign huge~
+The baby prince has been kidnapped by an evil Demon Lord.  We are now looking
+for any adventurer who is willing to brave the dangers of Devil's Wood to
+reach the Demon Lord's castle in the west.  You will be handsomely rewarded.
+-- The King
+~
+S
+#3801
+A Drawbridge~
+You stand on a small drawbridge which leads into a sumptious palace.  The
+waters of the moat ripple in the cool breeze and gently splash onto the
+sturdy drawbridge periodically.  Sniffing the air, you catch the scent of
+wine rushing towards you from the large chamber you see ahead of you.
+~
+38 0 1
+0d0+0 0 0
+D0
+To the north, you see a large hall past the open portcullis of the castle.
+~
+The Entrance Hall of the Castle~
+0 -1 3802
+D2
+You see a path that leads to a busy town square.
+~
+The Town Square~
+0 -1 3800
+S
+#3802
+The Entrance Hall of the Castle~
+You step into a rather large room with many wall trappings hanging around
+you. The floor is made of stone blocks and in front of you is the throne
+room where you can see the King and Queen, even from this distance.
+~
+38 8 0
+0d0+0 0 0
+D0
+To the north is the throne room, where the King and Queen are clearly
+visible.
+~
+The Throne Room~
+0 -1 3803
+D2
+You see to the south the drawbridge which you crossed to get into the 
+castle.
+~
+The Drawbridge~
+0 -1 3801
+S
+#3803
+The Throne Room~
+The size of the throne room is comparable to that of the entrance hall which
+preceded it.  Here you find various pages, squires, and other members of the
+court gossipping amongst themselves.  To the north you can see a raised
+platform where the King and Queen sit.
+~
+38 8 0
+0d0+0 0 0
+D2
+To the south is an entrance hall.  It looks quite familiar.
+~
+The Entrance Hall of the Castle~
+0 -1 3802
+S
+#3804
+The General Store~
+This is a cozy, little shop which has everything that you'll ever
+need. It is full of little items which you will need on quests as
+well as foodstuff to whet your pallette.  Behind the counter is the
+store's owner.  Please remember to pay him for the items which you
+buy.
+~
+38 8 0
+0d0+0 0 0
+D2
+To the south, you see a busy street.
+~
+Square Street~
+0 -1 3810
+D8
+You see the bustling town square to the southeast.
+~
+The Town Square~
+0 -1 3800
+S
+#3805
+The Magic Shop~
+You see a pleasant, little shop, specializing in all sorts of knick-knacks
+and magickal items.  Perhaps you will find something of use in this store,
+something that will guarantee your safety within the dangerous forest
+known as "Devil's Wood".
+~
+38 8 0
+0d0+0 0 0
+D2
+You see a busy street to the south.
+~
+Square Street~
+0 -1 3809
+D9
+You see to the southwest, the bustling town square.
+~
+The Town Square~
+0 -1 3800
+S
+#3806
+The Armory~
+You enter this large shop, which is filled with different armours of 
+different designs which are suited to different classes.  You have
+heard rumors about this shop, which is known to sell the legendary
+"assault armor" which is supposedly imparts its wearer with great 
+protection, as well as superior attacking abilities.  You pray that
+the armor is not too expensive and looking at the eyes of the shopkeeper,
+you know that the armor will be expensive but fairly priced.
+~
+38 8 0
+0d0+0 0 0
+D0
+To the north is a busy street.
+~
+Square Street~
+0 -1 3809
+D7
+You see to your northwest, the bustling town square.
+~
+The Town Square~
+0 -1 3800
+S
+#3807
+The Weaponsmith~
+Filled with weapons of all designs, this shop is inundated with all the
+tools of war.  One may hesitate to wonder what one kingdom has with need
+of all these weapons.
+~
+38 8 0
+0d0+0 0 0
+D0
+To the north you see a busy street.
+~
+Square Street~
+0 -1 3810
+D7
+To the northwest, you see the bustling town square
+~
+The Town Square~
+0 -1 3800
+S
+#3808
+The entrance to a small castle town~
+You find yourself at the entrance of a small, enchanting castle town.  You
+look to your north and see the busy streets of the shopping district, and
+to your south you see the guild district where all sorts of adventurers 
+go to practice their skills.  You stop to take a rest and to decide on where
+you would like to go.
+~
+38 0 1
+0d0+0 0 0
+D0
+To the north is the bustling town square of a small castle town.
+~
+The Town Square~
+0 -1 3800
+D1
+You see a dirt path to the east.
+~
+A dirt path~
+0 -1 3811
+D2
+To your south you see Guild Square.
+~
+~
+0 -1 3885
+D3
+To the west you see Devil's Wood.
+~
+~
+0 -1 3816
+S
+#3809
+Square Street~
+You stand on a busy street, bustling with activity.  Around you are
+various shops of different kinds, as well as many houses in which the
+native villagers live in.  People are going in and out, talking at the
+main square to the west and buying items at the shops.
+~
+38 0 1
+0d0+0 0 0
+D0
+To the north is a quaint shop specializing in magic items.
+~
+The Magic Shop~
+0 -1 3805
+D1
+You see to the east a peaceful church.
+~
+The Church~
+0 -1 3821
+D2
+To the south is a large store specializing in armors.
+~
+The Armory~
+0 -1 3806
+D3
+To the west is the bustling town square.
+~
+The Town Square~
+0 -1 3800
+S
+#3810
+Square Street~
+You stand in a busy street, bustling with activity.  People are going
+around, talking in the main square, and buying items at the various
+shops around here.
+~
+38 0 1
+0d0+0 0 0
+D0
+To the north is a quaint shop specializing in many items.
+~
+The General Store~
+0 -1 3804
+D1
+To the east you see the bustling town square.
+~
+The Town Square~
+0 -1 3800
+D2
+To the south is a large store specializing in weapons.
+~
+The Weaponsmith~
+0 -1 3807
+D3
+To the east you see a small shop.
+~
+The Pawn Shop~
+0 -1 3822
+S
+#3811
+A dirt path~
+To your west, you can finally see the entrance to a castle town.  You can
+hear the sound of busy streets and the smell of baked desserts assault your
+nostrils.  You quicken your pace so that you can shop to your heart's
+content, and get all the supplies you need.  To your north is the castle
+wall, and to your south is a dense forest.
+~
+38 0 3
+0d0+0 0 0
+D1
+You see a dirt path to your east.
+~
+A dirt path~
+0 -1 3812
+D3
+You see an intersection in a forest to your west.
+~
+The Crossroads to Devil's Wood~
+0 -1 3808
+S
+#3812
+A dirt path~
+You stand on a dirt path through a sparsely wooded area.  You feel a
+menacing presence from the south in the deep, dark woods...
+~
+38 0 3
+0d0+0 0 0
+D1
+To your east you see a dirt path.
+~
+A dirt path~
+0 -1 3813
+D3
+To your west you see a dirt path.
+~
+A dirt path~
+0 -1 3811
+S
+#3813
+A dirt path~
+You stand on a dirt path through a sparsely wooded area.  You feel a
+menacing presence from the south in the deep, dark woods...
+~
+38 0 3
+0d0+0 0 0
+D1
+To your east you see a dirt path.
+~
+A dirt path~
+0 -1 3814
+D3
+To your west you see a dirt path.
+~
+A dirt path~
+0 -1 3812
+S
+#3814
+A dirt path~
+You stand on a dirt path through a sparsely wooded area.  You feel a
+menacing presence from the south in the deep, dark woods...
+~
+38 0 3
+0d0+0 0 0
+D1
+To your east you see a dirt path.
+~
+A dirt path~
+0 -1 3815
+D3
+To your west you see a dirt path.
+~
+A dirt path~
+0 -1 3813
+S
+#3815
+A dirt path~
+You stand at a path which leads to the beautiful castle town which lies
+east of the the legendary Devil's Wood.  There have been reports that
+the Prince of this kingdom has been kidnapped by an evil sorcerer, and
+that they are looking for skilled adventurers to rescue him.  You
+wonder if that you are up to such a challenge.  I any case, the town is
+known to be a good supplier of weapons, armor, and even magical items.
+Even if you don't take up the case, you can buy some goods here.  Looking
+around, you see a sign hung by a tree branch.
+~
+38 0 3
+0d0+0 0 0
+D3
+To your west you see a dirt path.
+~
+A dirt path~
+0 -1 3814
+D5
+~
+~
+0 -1 22233
+E
+sign~
+To all adventurers:
+Welcome to the world of Devil's Wood.  This zone is based on a story arc
+from the japanese animation series, Koko wa Greenwood, or roughly translated,
+"Here is Greenwood".  It is a zone inteded for the lower levels, for 15 levels
+and under, but there are some pretty tough mobs here, so make sure you 
+consider every enemy so you don't go in over your head.  And if you encounter
+any screwy persons who say their name, but when you fight them, their names
+are in opposite order, don't mind that, it's just that in japanese, people
+say their names last name first, but here, they say first name first.  It
+was done this way to preserve the feeling of the japanese, but stil have it
+accessible for us U.S. guys.  Other than that, please try out the zone, and
+if you can, watch the video's, their well worth your time.
+~
+S
+#3816
+The Crossroads~
+You enter an open area in a forest.  Clearly this is the entrance to Devil's
+Wood.  You can see that if you continue westward, you will enter the 
+accursed forest.
+~
+38 0 3
+0d0+0 0 0
+D1
+~
+~
+0 -1 3808
+D3
+To your west is Devil's Wood.
+~
+~
+0 -1 3817
+S
+#3817
+Devil's Wood~
+This is a deep forested area, full of various wild animals that look
+very threatening.  The animals hide behind the trees around you, and
+look as if they will not attack you... that is, unless you provoke
+them...
+~
+38 0 3
+0d0+0 0 0
+D1
+To your east is the Crossroads.
+~
+~
+0 -1 3816
+D2
+To the south is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3818
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3825
+S
+#3818
+Devil's Wood~
+Entering deeper into Devil's Wood, you can see all sorts of wild animals
+still hiding behind the dark trees around you.  They look fearsome and 
+dangerous, but you do not think they will attack unless provoked.
+~
+38 0 3
+0d0+0 0 0
+D0
+To the north is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3817
+D2
+To the south is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3819
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3831
+S
+#3819
+Devil's Wood~
+This is a deep forested area, full of various wild animals who look
+very threatening.  The animals hide behind the trees around you, and
+look as if they will not attack you... that is, unless you provoke 
+them...
+~
+38 0 3
+0d0+0 0 0
+D0
+To the north is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3818
+D2
+To the south is more of Devil's Wood
+~
+Devil's Wood~
+0 -1 3820
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3837
+S
+#3820
+Devil's Wood~
+This is a deep forested area, full of various wild animals who look
+very threatening.  The animals hide behind the trees around you, and
+look as if they will not attack you... that is, unless you provoke 
+them...
+~
+38 0 3
+0d0+0 0 0
+D0
+To the north is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3819
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3823
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3843
+S
+#3821
+The Holy Church of Sanctus~
+This is the church of Sanctus, where one may sleep freely if one needs a
+place to stay.  The people here are kind, and the place is funded by those
+in the Guild of Sanctus.  You may buy potions to assist your quests here.
+~
+38 156 0
+0d0+0 0 0
+D3
+To the west is Square Street.
+~
+Square Street~
+0 -1 3809
+S
+#3822
+The Pawn Shop~
+This shop specializes in selling and buying items.  Here, you will find
+many an obscure item that may catch your fancy.  You may sell items here
+when you find the other shopkeepers don't have enough money to buy those
+priceless artifacts you wish to sell.
+~
+38 8 0
+0d0+0 0 0
+D1
+You see a busy street to your east.
+~
+Square Street~
+0 -1 3810
+S
+#3823
+Devil's Wood~
+This is a deep forested area, full of various wild animals who look
+very threatening.  The animals hide behind the trees around you, and
+look as if they will not attack you... that is, unless you provoke 
+them...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3820
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3824
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3849
+S
+#3824
+Devil's Wood~
+This is a deep forested area, full of various wild animals who look
+very threatening.  The animals hide behind the trees around you, and
+look as if they will not attack you... that is, unless you provoke 
+them...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3823
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3861
+D3
+To the west is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3855
+S
+#3825
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3817
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3831
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3826
+S
+#3826
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3825
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3832
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3827
+S
+#3827
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3826
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3833
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3828
+S
+#3828
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3827
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3834
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3829
+S
+#3829
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3828
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3835
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3830
+S
+#3830
+a small hut~
+You find yourself in a small hut, where you can hear sounds of whining
+and squealing.  You wonder where you are and look around.  You think that
+this is a safe place to stay, and wonder how long you should stay.
+~
+38 8200 0
+0d0+0 0 0
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3829
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3836
+S
+#3831
+A quiet clearing~
+You reach a quiet clearing in Devil's Wood.  Looking around, you find a
+small spring where you can refresh yourself.  By the spring you also see
+2 statues dedicated to some sort of deities who guard this place.  You
+think you'd better make an offering to the deities before you move on
+your way.  On the base of the statues, you notice a plaque.
+~
+38 4 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3825
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3818
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3837
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3832
+E
+statue statues deities plaque god~
+"Dedicated to the two who nurtured and protected this land,
+Herb, the wandering God, who spared some time to build this place,
+Linna, the fiery Goddess, who spared some time to lend a hand,
+to create this country for the peoples of this world.
+~
+S
+#3832
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3826
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3831
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3838
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3833
+S
+#3833
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3827
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3832
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3839
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3834
+S
+#3834
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3828
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3833
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3840
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3835
+S
+#3835
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3829
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3834
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3841
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3836
+S
+#3836
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3830
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3835
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3842
+S
+#3837
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3831
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3819
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3843
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3838
+S
+#3838
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3832
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3837
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3844
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3839
+S
+#3839
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3833
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3838
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3845
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3840
+S
+#3840
+A Small Lake~
+You find yourself floating on a small lake.  It is calm and peaceful, 
+and this looks like as good a place as any to get some rest, before
+you go back into Devil's Wood.  Looking up you can see the blue sky, 
+and below you is glittering, clear water.
+~
+38 8196 6
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3834
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3839
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3846
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3841
+D5
+Below you, you can see a room below the surface of the water.
+~
+lake~
+2 3861 3893
+S
+#3841
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3835
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3840
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3847
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3842
+S
+#3842
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3836
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3841
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3848
+S
+#3843
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3837
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3820
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3849
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3844
+S
+#3844
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3838
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3843
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3850
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3845
+S
+#3845
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3839
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3844
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3851
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3846
+S
+#3846
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3840
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3845
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3852
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3847
+S
+#3847
+Wood of Despair~
+An eerie presence can be felt here.  The aura of evil surrounding Devil's
+Wood is stronger here than in any other part of the dark wood.  Tormented
+souls howl with the fury of the wind, venting their anger upon the living.
+This is the place where spirits go when they die in these woods.  Unable
+to move on to an afterlife, they roam around here eternally, their anger
+and hatred adding to the darkness that can be felt here.
+~
+38 8193 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3841
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3846
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3853
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3848
+S
+#3848
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3842
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3847
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3854
+S
+#3849
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3843
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3823
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3850
+S
+#3850
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3844
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3849
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3856
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3851
+S
+#3851
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3845
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3850
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3857
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3852
+S
+#3852
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3846
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3851
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3858
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3853
+S
+#3853
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3847
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3852
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3859
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3854
+S
+#3854
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3848
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3853
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3860
+S
+#3855
+Office of Kazuhiro Hasukawa~
+This is a normal looking doctor's office.  A skeleton is off to the side
+of one wall, modeling the skeletal structure of the human anatomy.  Being
+inside here reminds you of the time when you were little and went to
+get your booster shots (ick...).  A mixture of formaldehyde and cleaner
+mingles in the air, nearly suffocating you.
+~
+38 8192 0
+0d0+0 0 0
+D1
+You see more of Devil's Wood
+~
+Devil's Wood~
+1 -1 3824
+S
+#3856
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3850
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3863
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3857
+S
+#3857
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3851
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3856
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3864
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3858
+S
+#3858
+a clearing in Devil's Wood~
+You walk into a beautiful clearing, where you can actually the bright
+skies again.  Resting in this lovely area, you can hear the trickle of
+a nearby spring or stream.  You smell the flowers which lie in the field
+and feel refreshed, and yet, despite your relaxation, you can not help but
+feel on edge.
+~
+38 0 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3852
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3857
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3865
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3859
+S
+#3859
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3853
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3858
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3866
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3860
+S
+#3860
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3854
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3859
+D2
+To the south you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3867
+S
+#3861
+an abandoned tavern~
+You find yourself in an abandoned tavern, one which you imagine, once stood
+as a safe haven for weary travellers who wished to make their way through
+these once tranquil woods that led to the beautiful lake and waterfalls to
+the south.  Looking around, you find that there are a few barrels which lie
+here, and you think that this is a good place to replenish your canteen.  To
+your south, you can see a fireplace which still burns, strangely enough.
+~
+38 8200 0
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3824
+D2
+To your south you see a bright fireplace.  It looks a bit peculiar in some
+way...
+~
+fireplace~
+2 3862 3894
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3862
+E
+fireplace fire place~
+You see to your south a burning fire.  Strangely enough, in this abandoned
+tavern, a fire still burns at the fireplace.  As you see the flames lick
+the stone walls of the fireplace, you can't help but notice that there is
+always a spot where the flames to not touch, a hole in the fire that is
+ever present...
+~
+S
+#3862
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3861
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3863
+S
+#3863
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3856
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3862
+D3
+The the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3864
+S
+#3864
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3857
+D1
+To the east is mor of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3863
+D3
+To the west is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3865
+S
+#3865
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3858
+D1
+To the east is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3864
+D3
+To the west is more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3866
+S
+#3866
+a clearing in Devil's Wood~
+You enter a clearing within Devil's Wood.  Here it is quiet and peaceful,
+and you notice that to the west is a depression, which marks that you are
+standing on a hill.  On top of the hill are a few people, dressed in strange
+clothing and pointing a strange device at the ground below the hill.
+~
+38 0 2
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3859
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3865
+D3
+To the west you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3867
+S
+#3867
+Devil's Wood~
+You walk deeper and deeper into the unknown woods, and feel a threatening
+presence draw nearer to you from all directions...
+~
+38 8192 3
+0d0+0 0 0
+D0
+To the north you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3860
+D1
+To the east you see more of Devil's Wood.
+~
+Devil's Wood~
+0 -1 3866
+D2
+You see the exit to Devil's Wood to your south.
+~
+~
+0 -1 3868
+S
+#3868
+Outside Devil's Wood~
+You find yourself at a clearing, outside the forest of Devil's Wood.  You
+now face a large pond which you must cross.  To your left is a small shop
+where you may rent a boat.
+~
+38 8192 2
+0d0+0 0 0
+D0
+You see the entrance to Devil's Wood to your north.
+~
+~
+0 -1 3867
+D1
+To the east you see a field by the pond.
+~
+~
+0 -1 3872
+D2
+You see a pond to your south.
+~
+~
+0 -1 3869
+S
+#3869
+On a Large Pond~
+You find yourself floating on a large pond.  You hear a sweet song lulling
+you towards a small island which you spot to the south...
+~
+38 8192 6
+0d0+0 0 0
+D0
+To the north you see a clearing which has led you out of Devil's Wood.
+~
+~
+0 -1 3868
+D1
+You see more of the large pond to your east.
+~
+~
+0 -1 3873
+D2
+To the south you see a large island.
+~
+~
+0 -1 3870
+S
+#3870
+The Island of the Siren~
+You reach a small island which lies within the middle of the large pond.
+This is the island of the siren, according to the raftsman, and hopefully,
+you can avoid confrontation with the siren... but her sweet song resonates
+throughout the island...
+~
+38 8192 2
+0d0+0 0 0
+D0
+To your north you see the lake heading towards Devil's Wood.
+~
+~
+0 -1 3869
+D1
+To your east you see water.
+~
+~
+0 -1 3874
+D2
+To your south you see a pond.
+~
+~
+0 -1 3871
+S
+#3871
+On a Large Pond~
+You find yourself floating outside a large pond.  You hear a silent echo
+of a sweet song in the distance...
+~
+38 8192 6
+0d0+0 0 0
+D0
+You see an island to your north.
+~
+~
+0 -1 3870
+D1
+To your east you see nothing but empty space.  Looking down, you see a 
+rushing waterfall spashing downward a good distance.
+~
+~
+0 -1 3875
+D2
+To your south you can see a small desert.
+~
+~
+0 -1 3878
+S
+#3872
+On an Open Field Near the Pond~
+You walk along the pond and find yourself on a grassy field which meets
+the still pond.  From the distance, you hear the sweet song of a creature,
+lulling you closer...
+~
+38 8192 2
+0d0+0 0 0
+D1
+To your east you see a cliff face that looks like an easy climb.
+~
+~
+0 -1 3876
+D2
+To the south you see a large pond.
+~
+~
+0 -1 3873
+D3
+To the west you see a field with a small shop.
+~
+~
+0 -1 3868
+S
+#3873
+On a Large Pond~
+You find yourself floating on a large pond, being drawn in closer to the
+southeast by some whispered song...
+~
+38 8192 6
+0d0+0 0 0
+D0
+To the north you see an open field.
+~
+~
+0 -1 3872
+D2
+To your south you see more of a large pond.
+~
+~
+0 -1 3874
+D3
+You see more of the large pond to your west.
+~
+~
+0 -1 3869
+S
+#3874
+On a Large Pond~
+You find yourself floating on a large pond.  To your west is a small
+island which is the source of a lulling song which draws you to it.  To
+your east is a rushing waterfall whose waters come from the top of a
+small cliff face.  To your south is the top of another waterfall where
+the water in the pond drains to.
+~
+38 8192 6
+0d0+0 0 0
+D0
+To your north you see more of the large pond.
+~
+~
+0 -1 3873
+D1
+You see a waterfall rushing down to your east.
+~
+waterfall~
+2 3896 3898
+D2
+To your south you see nothing but empty space.  Looking downwards, you see
+a rushing waterfall splashing merrily a good distance downward.
+~
+~
+0 -1 3875
+D3
+You see a small island to your west.
+~
+~
+0 -1 3870
+S
+#3875
+A Waterfall~
+You find yourself
+D
+O
+W
+N
+a waterfall.  You think you have done smarter things in your life.  
+Luckily, you were saved by the large pools of water at the bottom of the
+waterfall.  Unluckily, you are surrounded on all sides by water and have
+no obvious way out of this predicament.
+~
+38 4 6
+0d0+0 0 0
+D4
+Above you, all you can see is fog.
+~
+fog~
+2 3863 3895
+S
+#3876
+On a Cliff~
+You find yourself climbing a small cliff.  Looking to your south you can
+see a medium sized waterfall which feeds the pond to the southwest.  
+Looking directly south of you, you can see a small desert, and in the 
+center of it, is an ancient castle...
+~
+38 8192 5
+0d0+0 0 0
+D2
+To your south you see a small plateau.
+~
+~
+0 -1 3877
+D3
+To your west you see an open field next to a pond.
+~
+~
+0 -1 3872
+S
+#3877
+On a Small Plateau~
+You find yourself standing on a small plateau.  Below your feet is a medium
+sized waterfall.  Beyond that waterfall, you see a large desert which lies
+in the center of a steep valley.  There is no way to reach it from here,
+since the waterfall blocks your way.  You can see an ancient castle in
+the distance...
+~
+38 8192 5
+0d0+0 0 0
+D0
+To your north you see a cliff face.
+~
+~
+0 -1 3876
+D4
+Above you, you see the hot, blazing sun.  You are almost blinded by the
+intense light.  Looking up, you can see a few sunspots before you must
+turn your head away.  But for some reason, they look quite peculiar.  You
+think you had best be on your journey and not pursue looking at the sun
+anymore.  It'd be healthier for you.
+~
+sunspot~
+2 3865 3897
+S
+#3878
+In the middle of a small desert~
+You find yourself on the top of a cliff face after crossing the pond.  To
+your north you can still hear the dull echo of the siren's song and to your
+south you can see a large valley, where the castle of the Demon Lord is.
+The only way down to the valley is to jump off the cliff, which isn't
+the smartest thing to do, in your opinion.  But the only other avenue open
+to you is to go back to town with your tail between your legs.
+~
+38 8192 3
+0d0+0 0 0
+D0
+To your north you can see a small pond.
+~
+~
+0 -1 3871
+D2
+To the south you see nothing but a LONG drop.
+~
+~
+0 -1 3879
+S
+#3879
+A deep desert valley~
+You scream in terror as you fall furiously toward the hard rock valley!!!
+Heading faster and faster to your doom, you find yourself almost passing
+out from fear but wake yourself up when you pee in your pants.  The ground
+is coming closer and closer until you impact the floor with a loud boom!
+You are dead.
+Or you wish you were in any case.  You lift yourself up from the ground 
+and feel yourself to check that everything is working and in the right place.
+Fortunately, the valley floor which looked like hard sandstone from a 
+distance is in actuality a soft, cuishoning sand.  You look around you and
+see to the west, the fruits of your labor.
+~
+38 8192 5
+0d0+0 0 0
+D3
+To your west you see your goal.  The dark castle, belonging to the Demon
+Lord Clorets is there, terrifying in it's evilness.
+~
+door~
+1 -1 3880
+S
+#3880
+Inside the Demon Lord's Castle~
+You find yourself inside the castle of the Demon Lord.  It is a dimly lit,
+frightening place which you've only seen in your worst nightmares.  You
+hear the echo of a pained moan in the distance.  Looking around you, you
+feel your hair stand up on end, and an electrifying fear now possesses you.
+To your north you can see a slightly open doorway which leads to a spiral
+staircase, and to your west, you can see a giant sandfall which looks as if
+it's source is above you.
+~
+38 8192 0
+0d0+0 0 0
+D0
+To your north you see a spiral staircase.
+~
+~
+0 -1 3881
+D1
+To your east you see the entrance which brought you to this dank castle.
+~
+door~
+1 -1 3879
+D3
+To the west, you see a giant sandfall...
+~
+sandfall~
+2 3864 3896
+S
+#3881
+A spiral staircase~
+You find yourself standing at the steps of a spiral staircase which leads
+high into the towers of this dark castle.  It looks as if this is the only
+way to go, and you sense that this path will lead you to your goal.
+~
+38 8200 0
+0d0+0 0 0
+D2
+You see a large chamber to your south.
+~
+~
+0 -1 3880
+D4
+Above you, you see a spiral staircase.
+~
+~
+0 -1 3882
+S
+#3882
+At the top of the spiral staircase~
+You find yourself at the top of the spiral staircase, facing a set of
+double doors to your west.  You sense great power behind those doors and
+wonder if you should really open them...
+~
+38 8200 0
+0d0+0 0 0
+D3
+You see a large chamber to your west.
+~
+door~
+2 -1 3883
+D5
+Below you, you see the bottom of the spiral staircase.
+~
+~
+0 -1 3881
+S
+#3883
+The Demon Lord's chamber~
+You find yourself in a large chamber with an incredibly high ceiling, and
+several large pillars to support the great height.  To the far end of the
+west wall, you can see a giant sandfall whose sands fall through a gaping
+hole in a strange altar.  You feel a sense of dread as you inch further
+into the large chamber.
+~
+38 8200 0
+0d0+0 0 0
+D0
+To your north you see a small chamber.
+~
+~
+0 -1 3884
+D1
+To your east you see a spiral staircase.
+~
+door~
+2 -1 3882
+S
+#3884
+A small chamber~
+You enter a small chamber where you hope you will find a moment to rest 
+after your trying ordeals.  However, before you get a chance to rest, the
+whole castle begins shaking violently, and starts to rumble and sink back
+into the sands of time which flowed through it.  You look around to find a
+window facing the north.  You gulp as you look through it and see that it is
+quite a drop to the cliff face beyond... but it's your only hope...
+~
+38 8200 0
+0d0+0 0 0
+D0
+To your north you see the open air... below you can see the cliff face 
+where you can escape the earthquake which threatens to consume this 
+castle.
+~
+~
+0 -1 3877
+E
+south s~
+You look through the ruined passageway which you just passed through... it
+seems though your only venue of escape is to the north.
+~
+S
+#3885
+Guild Square~
+You find yourself in a square which leads to all the guilds which surround
+you. You pause to see the view of all sorts of adventurers walking around,
+conversing amongst themselves of the thread of the demon lord.  You wander
+around and wonder if you should practice your skills at your respective
+guild.
+~
+38 0 1
+0d0+0 0 0
+D0
+To your north you see the entrace to this town.
+~
+~
+0 -1 3808
+D1
+You see the Mage's Guild to your east.
+~
+~
+0 -1 3888
+D2
+To your south you see the Warrior's Guild.
+~
+~
+0 -1 3887
+D3
+To your west you see the Cleric's Guild.
+~
+~
+0 -1 3886
+D4
+Above you, you see the Ranger's Guild.
+~
+~
+0 -1 3890
+D5
+Below you see the Thieve's Guild.
+~
+~
+0 -1 3889
+D8
+To your southeast you see the Anti-Paladin's Guild.
+~
+~
+0 -1 3892
+D9
+To your southwest you see the Paladin's Guild.
+~
+~
+0 -1 3891
+S
+#3886
+The Cleric's Guild~
+You find yourself in a quiet place, where many around you pray to their
+respective gods.  You find an inner peace here, and wonder if you are
+experienced enough to practice some more advanced spells.
+~
+38 8 0
+0d0+0 0 0
+D1
+You see Guild Square to your east.
+~
+~
+0 -1 3885
+S
+#3887
+The Warrior's Guild~
+You find yourself in a large training field, where many of your fellow
+warriors practice upon practice dummies, and on each other.  You wonder
+if you should test your mettle against one of your colleagues, or if you
+should practice your battle skills some more.
+~
+38 8 0
+0d0+0 0 0
+D0
+You see Guild Square to your north.
+~
+~
+0 -1 3885
+S
+#3888
+The Mage's Guild~
+You find yourself in a dark, dimly lit room, where many of your fellow
+mages sit and study texts of arcane knowledge.  You find yourself able
+to concentrate better in this dark place, where the scent of strange
+spices used as spell components fills your lungs with their sweet odors.
+You wonder if you should take up a book and study some more.
+~
+38 8 0
+0d0+0 0 0
+D3
+You see Guild Square to your west.
+~
+~
+0 -1 3885
+S
+#3889
+The Thieve's Guild~
+You find yourself in a very dark place, where you look around and almost
+get backstabbed by one of your more enthusiastic colleages.  The others
+chastise him on his eagerness as you calm yourself down from that initial
+shock. You smile wickedly and wonder if you should practice a bit of
+your own skills.
+~
+38 8 0
+0d0+0 0 0
+D4
+Above you, you see Guild Square.
+~
+~
+0 -1 3885
+S
+#3890
+The Ranger's Guild~
+You find yourself in a very natural environment, in a treehouse above
+Guild Square.  Inside, you are greeted by all sorts of animals, and by
+your fellow rangers who are practicing their skills in forestry.  You 
+wonder if you should do the same.
+~
+38 8 0
+0d0+0 0 0
+D5
+Below you, you see Guild Square.
+~
+~
+0 -1 3885
+S
+#3891
+The Paladin's Guild~
+You find yourself in a holy place, where you see many of your fellow
+holy knights on their knees, praying to their respective gods.  You
+look around and see many others practicing their battle skills against
+each other, and you wonder what you should do.
+~
+38 8 0
+0d0+0 0 0
+D6
+To your northeast you see Guild Square.
+~
+~
+0 -1 3885
+S
+#3892
+The Anti-Paladin's Guild~
+You find yourself in a dark place where many of your colleagues pray to
+their dark gods, and practice the dark spells which will help them to
+be the victor in many a battle.  You wonder if you should spar with one
+of them, or if you should study the spells that are your birthright.
+~
+38 8 0
+0d0+0 0 0
+D7
+To your northwest you see Guild Square.
+~
+~
+0 -1 3885
+S
+#3893
+Udine's room~
+You find yourself in a cozy room, with a large pool in the center.  It
+is very comfortable, and very cool in here.  It smells slightly of sea
+water and you can hear the sounds of the ocean nearby.  Looking around,
+you find yourself wondering what the water elemental has hidden here.
+~
+38 8200 0
+0d0+0 0 0
+D4
+Above you, you see a small lake.
+~
+lake~
+2 3861 3840
+D8
+To your southwest you feel a lot of heat through an open door.
+~
+~
+0 -1 3894
+S
+#3894
+Ifrit's room~
+You find yourself in a cozy room.  It is warm in here, and the color of the
+furniture is bright red, as expected from a fire elemental.  The room smells
+of sweet incense, and a touch of the scent of a campfire resides in this
+place of magic.  You look around and wonder what treasures could be in a 
+place such as this.
+~
+38 8200 0
+0d0+0 0 0
+D0
+To the north you see a tavern.
+~
+fireplace~
+2 3862 3861
+D6
+To your northeast you can feel a pocket of cool air coming from an open
+door.
+~
+~
+0 -1 3893
+S
+#3895
+Sylph's room~
+You find yourself suspended in the air, in the middle of a dense fog 
+created by the seaspray of the waterfall.  Looking around, you see some
+furniture floating in the air, all in white, blending in with the fog.
+You wonder what type of things an air elemental would keep in her room.
+~
+38 8200 0
+0d0+0 0 0
+D0
+To your north you see a small pond.
+~
+~
+0 -1 3874
+D3
+To your west you see a small pond.
+~
+~
+0 -1 3871
+D5
+Below you, you can see a large waterfall.
+~
+fog~
+2 3863 3875
+S
+#3896
+Gaia's room~
+You enter a room which should not be there.  For some reason, someone has
+put a room underneath the drawbridge.  You wonder what purpose this room
+was to serve...
+~
+38 8200 0
+0d0+0 0 0
+D1
+To your east you can see a sandfall blocking your way.
+~
+sandfall~
+2 3864 3880
+S
+#3897
+The heavens~
+You find yourself in a bright, fiery place, with so much heat you can barely
+stand it for much longer.  Looking around you, you see clouds below you, and
+blistering fire all around you.  You stand at the threshold of the heavens,
+and you wonder what you are doing here...
+~
+38 24586 0
+1d1+199 90 0
+D5
+Below you, you see a valley where you came from.
+~
+sunspot~
+2 3865 3899
+S
+#3898
+Luna's room~
+You enter a room that should not be here.  For some reason, someone has
+put a room underneath the waterfall.  You wonder who this room belongs to.
+Looking above you, you can see a crack in the mountainside where the
+water flows.  Looking above you, you can see a crescent moon beaming 
+down at you.
+~
+38 8456 0
+0d0+0 0 0
+D3
+You see a doorway blocked by a waterfall to your west.
+~
+waterfall~
+2 3896 3874
+D4
+You see the crescent moon above you.
+~
+crescent~
+2 3866 3899
+S
+#3899
+Within a thunderstorm~
+You find yourself floating in the air, held aloft by some mysterious power.
+As you hang in the air, silhouetted by the moon, you feel very confused, and
+ponder your situation.  Around you, you can hear the roar of thunder, as
+a storm rolls in, and yet, in the clouds above you, you can see a hole where
+the sun shines brightly...
+~
+38 14344 0
+0d0+0 0 0
+D4
+Above you, you see a strange sight, as the sun shines through the break in
+the clouds, there seems to be a black spot on the sun... and even in this
+distance, you feel the tremendous heat of the sun... you wonder if you should
+go forward...
+~
+sunspot~
+2 3865 3865
+D5
+You see a small cavern without a roof below you.
+~
+crescent~
+2 3866 3898
+S
+$

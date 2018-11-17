@@ -1,0 +1,2529 @@
+#15100
+A Waterfall~
+This is the violent, rushing waterfall on the soulease river.  You find that
+the water pressure is too severe, and you are pummeled against the rocks
+at the base of the fall.  It hurts.  A lot.
+~
+151 16390 7
+1d1+199 90 0
+D3
+To the west, the Soulease river winds it's way westward.
+~
+~
+0 -1 15125
+S
+#15101
+A Modern City Street~
+ You find yourself standing on the edge of a busy, modern city street.  Cars
+are whizzing past you at breakneck speeds, and the smell of exhaust and burnt
+rubber fill the air.  This is a busy 5-lane city highway, but you think you
+can make it across to the other side safely, you hope.
+~
+151 0 1
+0d0+0 0 0
+D0
+You see the busy city street
+~
+~
+0 -1 15102
+D2
+To the south, you can see a small dirt path, leading to a dirt road.
+~
+~
+0 -1 3080
+S
+#15102
+City Street~
+ You were, unfortunately, wrong.  As you step off the curb, ready to dash
+across the street, you hear a squealing noise, followed by a sudden, VERY
+strong <THUD>, and you suddenly find yourself sailing through the air, only
+to impact on the pavement rather painfully.  As you try to crane your neck
+around to see what hit you, things start to fade to black.  The only thing
+you can see is a bright red light, pulsing through the darkness...
+~
+151 131080 0
+0d0+0 0 0
+D2
+To the south, you can see the sidewalk along a busy city street.
+~
+~
+0 -1 15101
+S
+#15103
+Kevin's Watch~
+ You find yourself standing on a VERY high stone plateau, cut into the side
+of an enourmous cliff.  From here, you can see for miles the lush, green,
+natural beauty of a land filled with life.  As you look back, you can see
+no entrance into the cliff.  Wherever you just came from is gone.  The only
+exit you can see is a LONG staircase, cut into the very rock, which leads
+down through the wispy clouds.  They looks solid, but if one were to slip,
+the fall would be....very painful.
+~
+151 0 5
+0d0+0 0 0
+D5
+These stairs are very sturdy, but the winds make the climb treacherous.
+Be careful on the climb down.
+~
+~
+0 -1 15194
+S
+#15104
+Outside Mithil Stonedown~
+Here, at the base of the stairway leading up to Kevin's Watch, as you look
+around, you see the beauty of the land was not exaggerated by the extreme
+height from which you first saw it.  Lush and vibrant, this land seems the
+very essence of life!  To the east, you can see the small village of Mithil
+Stonedown.  A path leads directly into the the heart of town.
+~
+151 4 4
+0d0+0 0 0
+D1
+This path leads into the center of Mithil Stonedown
+~
+~
+0 -1 15108
+D4
+This is the beginning of the LONG stairway up to Kevin's Watch
+~
+~
+0 -1 15103
+S
+#15105
+A small, private home~
+This is a small house, made of cobbled stones mortared together.  It is very
+simply made, but very durable, and almost resonates with earthpower, in a
+subdued way.  It feels very inviting and warm.
+~
+151 8 0
+0d0+0 0 0
+D0
+This door leads to the western edge of Mithil Stonedown
+~
+door~
+1 -1 15108
+D1
+This door leads to the southern edge of Mithil Stonedown
+~
+door~
+1 -1 15106
+S
+#15106
+The southern edge of Mithil Stonedown~
+You are in a clearing between a small home and an older looking building,
+south of the town square.  The wonderful smell of fresh baked bread is
+wafting from the east, a small stonedown home sits to the west, and to the
+south, the Southron Range provides a secure shield for the village.
+~
+151 0 1
+0d0+0 0 0
+D0
+To the north, you see the Mithil Stonedown village square
+~
+~
+0 -1 15109
+D1
+The smell of freshly baked bread is coming from behind this door
+~
+door~
+1 -1 15107
+D3
+This door leads to a small village home
+~
+door~
+1 -1 15105
+S
+#15107
+The Mithil Stonedown Bakery~
+This room smells of flour and fresh baked bread.  It is obvious this is the
+place the village gets its baked goods, and from the smell, you can guess
+why.  ~
+151 8 0
+0d0+0 0 0
+D3
+This door leads to the southern edge of Mithil Stonedown
+~
+door~
+1 -1 15106
+S
+#15108
+The western edge of Mithil Stonedown~
+This is the western edge of the small village of Mithil Stonedown.  Here,
+in the shadow of Kevin's Watch and the western edge of the Southron Range,
+this community thrives with the help of the Gravelingases of the Rhadhamaerl,
+who have mastered the art of coaxing the earthpower innate in stone from it,
+and learned to shape this power and the stone it inhabits.  This is a close
+knit, family oriented community, and you can see this in the way they greet
+each other, and in the way they nod politely to you as they see you entering
+the village limits.  To the south, you can see a small stonedown home.
+~
+151 0 1
+0d0+0 0 0
+D1
+To the east, you can see the village square of Mithil Stonedown
+~
+~
+0 -1 15109
+D2
+You see a small stonedowner dwelling
+~
+door~
+1 -1 15105
+D3
+This path leads west out of Mithil Stonedown, towards Kevin's Watch
+~
+~
+0 -1 15104
+S
+#15109
+Mithil Stonedown Village Square~
+This is the center of Mithil Stonedown proper, as well as being the obvious
+center of this village's social life.  Here wives share the local gossip,
+children come out to play, and men come to exaggerate stories about their
+various youths.  The sense of community here is staggering.  A building to
+the east bears a strange symbol on the door.
+~
+151 0 1
+0d0+0 0 0
+D0
+To the north, you can see the northern edge of Mithil Stonedown, as well
+as a path leading out of town.
+~
+~
+0 -1 15112
+D1
+To the east sits a building with an odd rune inscribed upon the door
+~
+door~
+1 -1 15110
+D2
+To the south, you can see the southern edge of Mithil Stonedown
+~
+~
+0 -1 15106
+D3
+To the west, you can see the western edge of town
+~
+~
+0 -1 15108
+E
+rune~
+ Above this door, a strange rune, resembling a mountain peak, has been
+painstakingly carved.  This is the smoothest carving you have ever seen,
+and it appears to signify something (or someone) of great importance.
+~
+S
+#15110
+Gravelingases Workshop~
+This is the workplace of Mithin Stonedown's Rhadhamaerl.  It is in this place
+the light and heat are coaxed from the very rocks to light and heat the
+entire stonedown.  This place has that dusty smell you'd normally associate
+with a quarry, but regardless, it's surprisingly warm and clean.
+~
+151 8 0
+0d0+0 0 0
+D0
+This door leads to the village well
+~
+door~
+1 -1 15113
+D3
+This door leads back to the Mithil Stonedown village square
+~
+door~
+1 -1 15109
+S
+#15111
+A small, private home~
+This is the home of the Rhadhamaerl for Mithil Stonedown.  Here, he, his
+wife and his daughter live.  This place has a well worn, but well loved feeling
+to it.  It is warm, well lit and inviting.
+~
+151 8 0
+0d0+0 0 0
+D1
+This door leads back out to the northern edge of Mithil Stonedown
+~
+door~
+1 -1 15112
+S
+#15112
+Northern edge of Mithil Stonedown~
+This is the northern edge of Mithil Stonedown.  To the south you can see the
+village square, to the east the village well, to the west a small private
+home, and to the north, a lesser-travelled path leads out of the village into
+the wilder land beyond.
+~
+151 0 1
+0d0+0 0 0
+D0
+This path leads out of town
+~
+~
+0 -1 15114
+D1
+To the east you can see the village well
+~
+~
+0 -1 15113
+D2
+To the south you can see the center of the stonedown.
+~
+~
+0 -1 15109
+D3
+This door leads to a small, private residence
+~
+door~
+1 -1 15111
+S
+#15113
+Mithil Stonedown Well~
+This small alcove within Mithil Stonedown contains the village well.  This
+is the central water source for the entire village, as well as a major
+social gathering place for the villagers.  Much is duscussed here.
+~
+151 0 0
+0d0+0 0 0
+D2
+This door leads to the Village Gravelingases workshop
+~
+door~
+1 -1 15110
+D3
+To the west is the northern edge of Mithil Stonedown, as well as a path
+leading north out of the village
+~
+~
+0 -1 15112
+S
+#15114
+A path towards the woods~
+This is a well worn path, leading south into Mithil Stonedown, and northwest
+into a wooded plain.  From here, you can see a single, large tree standing
+tall in the center of the woods, as if ruling all it can see.
+~
+151 4 2
+0d0+0 0 0
+D2
+To the south you can see the northern edge of Mithil Stonedown
+~
+~
+0 -1 15112
+D7
+To the northeast you can see a grassy forest
+~
+~
+0 -1 15117
+S
+#15115
+A wooded plain~
+This wood is lush and vibrant.  Even without looking, you can just 'feel'
+the life in this area.  To the northeast, you can see a clearing with a
+single, large tree in it.  From that direction, you can hear the sound of
+voices...
+~
+151 0 3
+0d0+0 0 0
+D0
+To the north, the woods continue
+~
+~
+0 -1 15118
+D1
+To the east, the woods continue
+~
+~
+0 -1 15116
+D6
+You can see a large clearing with a single, towering tree in the center
+~
+~
+0 -1 15119
+S
+#15116
+A wooded plain~
+This wood is lush and vibrant.  Even without looking, you can just 'feel' the
+life in this area.  To the north, you can see a clearing with a single,
+large tree in it.  From that direction, you can hear the sound of voices...
+~
+151 0 3
+0d0+0 0 0
+D0
+You can see a large clearing with a single, towering tree in it
+~
+~
+0 -1 15119
+D1
+To the east, the woods continue
+~
+~
+0 -1 15117
+D3
+To the west, the wood continue
+~
+~
+0 -1 15115
+D6
+To the northeast, the woods continue
+~
+~
+0 -1 15120
+D7
+To the northwest, the woods continue
+~
+~
+0 -1 15118
+S
+#15117
+A wooded plain~
+This wood is lush and vibrant.  Even without looking, you can just 'feel'
+the life in this area.  To the northwest, you can see a clearing with a single
+large tree in it.  From that direction, you can hear voices...
+~
+151 0 3
+0d0+0 0 0
+D0
+To the north, the woods continue
+~
+~
+0 -1 15120
+D3
+To the west, the woods continue
+~
+~
+0 -1 15116
+D7
+You can see a large clearing with a single, towering tree in it
+~
+~
+0 -1 15119
+D8
+This path leads out of the wooded plains and towards Mithil Stonedown
+~
+~
+0 -1 15114
+S
+#15118
+A wooded plain~
+This wood is lush and vibrant.  Even without looking, you can just 'feel'
+the life in this area.  To the east, you can see a clearing with a single,
+large tree in it.  From that direction, you can hear the sound of voices...
+~
+151 0 3
+0d0+0 0 0
+D0
+To the north, the woods continue
+~
+~
+0 -1 15121
+D1
+You can see a large clearing with a single, towering tree in it
+~
+~
+0 -1 15119
+D2
+To the south, the woods continue
+~
+~
+0 -1 15115
+D6
+To the northeast, the woods continue
+~
+~
+0 -1 15122
+D8
+To the southeast, the woods continue
+~
+~
+0 -1 15116
+S
+#15119
+The base of Revelwood~
+This is a large clearing in the midst of this wooded and grassy area.  Here,
+you can see the base of an extremely large tree, which, as you look up, 
+reaches high into the sky.  This is the tree-village of Revelwood, home of
+the art of lillianrill, the wood-lore of the Land.  It is in these branches
+that the hirebrands learn their craft to aid the people of the Land.  All
+about you is evidence of their success.
+~
+151 0 3
+0d0+0 0 0
+D0
+The path north leads back into the woods
+~
+~
+0 -1 15122
+D1
+The path east leads back to the woods
+~
+~
+0 -1 15120
+D2
+The path south leads back to the woods
+~
+~
+0 -1 15116
+D3
+The path west leads back to the woods
+~
+~
+0 -1 15118
+D4
+Above you can be seen a large netted area
+~
+~
+0 -1 15196
+D6
+The path northeast leads back to the woods
+~
+~
+0 -1 15123
+D7
+The path northwest leads back to the woods
+~
+~
+0 -1 15121
+D8
+The path southeast leads back to the woods
+~
+~
+0 -1 15117
+D9
+The path southwest leads back to the woods
+~
+~
+0 -1 15115
+S
+#15120
+A wooded plain~
+This wood is lush and vibrant.  Even without looking, you can just 'feel'
+the life in this area.  To the west, you can see a clearing with a single,
+large tree in it.  From that direction, you can hear the sound of voices...
+~
+151 0 3
+0d0+0 0 0
+D0
+To the north, the woods continue
+~
+~
+0 -1 15123
+D2
+To the south, the woods continue
+~
+~
+0 -1 15117
+D3
+You can see a large clearing with a single, towering tree in it
+~
+~
+0 -1 15119
+D7
+To the northwest, the woods continue
+~
+~
+0 -1 15122
+D9
+To the southwest, the woods continue
+~
+~
+0 -1 15116
+S
+#15121
+A wooded plain~
+This wood is lush and vibrant.  Even without looking, you can just 'feel'
+the life in this area.  To the southeast, you can see a clearing with a
+single, large tree in it.  From that direction, you can hear the sound of
+voices...
+~
+151 0 3
+0d0+0 0 0
+D1
+To the east, the woods continue
+~
+~
+0 -1 15122
+D2
+To the south, the woods continue
+~
+~
+0 -1 15118
+D8
+You can see a large clearing with a single, towering tree in it
+~
+~
+0 -1 15119
+S
+#15122
+A wooded shore~
+This part of the woods is more humid.  To the south lies the base of
+Revelwood, surrounded by wooded plains.  To the north, you can see the
+violent waters of the Soulease river.  The roar of the water is almost
+deafening as if thunders past this shoreline.
+~
+151 0 3
+0d0+0 0 0
+D0
+The Soulease river lies to the north, with it's dark, rushing waters
+~
+~
+0 -1 15125
+D1
+To the east, the woods continue
+~
+~
+0 -1 15123
+D2
+You can see a large clearing with a single, towering tree in it
+~
+~
+0 -1 15119
+D3
+To the west, the woods continue
+~
+~
+0 -1 15121
+D8
+To the southeast, the woods continue
+~
+~
+0 -1 15120
+D9
+To the southwest, the woods continue
+~
+~
+0 -1 15118
+S
+#15123
+A wooded plain~
+This wood is lush and vibrant.  Even without looking, you can just 'feel'
+the life in this area.  To the southwest, you can see a clearing with a
+single, large tree in it.  From that direction, you can hear the sound of
+voices...
+~
+151 0 3
+0d0+0 0 0
+D2
+To the south, the woods continue
+~
+~
+0 -1 15120
+D3
+To the west, the woods continue
+~
+~
+0 -1 15122
+D9
+You can see a large clearing with a single, towering tree in it
+~
+~
+0 -1 15119
+S
+#15124
+The Soulease river~
+ The rough and violent waters of the Soulease here turn northerly, and
+ease their activity, blending with the smoother waters of the White River.
+On either side of the river, you can see the hills give way to smoother,
+more flattened lands, which people have converted into fields, and begun
+farming.
+~
+151 4 7
+0d0+0 0 0
+D1
+You can see the more violent waters of the Soulease stretching out to the 
+east, leading back to the woods of Revelwood
+~
+~
+0 -1 15125
+D7
+You can see, to the northwest, the bend where the Soulease river ends, and
+the gentler waters of the White river begin
+~
+~
+0 -1 15126
+S
+#15125
+The Soulease River~
+You set out into the violent waters of the Soulease River.  Tossed hither
+and fro by the waves, you soon begin to feel the slightest bit unwell, but
+this is the only way to reach Revelstone Keep.
+~
+151 0 7
+0d0+0 0 0
+D1
+To the east, you can see the deadly pounding of a violent waterfall!
+~
+~
+0 -1 15100
+D2
+You can see the shore at the northern edge of the woods of Revelwood
+~
+~
+0 -1 15122
+D3
+You can see the waters of the Soulease becoming more gentle as then mingle
+with the waters of the White river
+~
+~
+0 -1 15124
+S
+#15126
+The White River~
+This section of the river, called the White River because of the white sands
+on the banks, is much smoother.  It meanders through the countryside, winding
+between hills and fields ripe with grain and feed crops, and tended to by
+people who's life has been dedicated to harvesting that which the land has
+to offer.  They look happy and healthy, and wave merrily at you as you float
+by on your way to Revelstone.
+~
+151 0 7
+0d0+0 0 0
+D0
+You can see a small lake that forms the end of the river, and beyond, a
+large stone keep
+~
+~
+0 -1 15127
+D8
+You can see, to the southeast, the bend where the White river ends, and the
+turbulent waters of the Soulease begin
+~
+~
+0 -1 15124
+S
+#15127
+The northern end of the White River~
+Here the White river seems to end in a large pool.  Rumor has it that this
+river continues underground, but no one was quite sure.  To the north, you
+can see a white sand shore, and farther inland, a path leading towards a
+large, intimidating, walled stone keep.
+~
+151 0 7
+0d0+0 0 0
+D0
+To the north, you see a beautiful white sand beach
+~
+~
+0 -1 15128
+D2
+You can see the gentle waters of the White river
+~
+~
+0 -1 15126
+S
+#15128
+A white sand beach~
+This beach is covered with pure white sand, giving the river whose waters lap
+up onto it it's name.  The beach extends a ways to the north, and extends
+around the edges of a small lake.  To the extreme north, you can see the
+beginning of a path leading over a hill, heading towards a keep that can only
+be Revelstone, the home of the Lords of the Land.
+~
+151 0 4
+0d0+0 0 0
+D0
+You see a path leading north through the hills towards Revelstone
+~
+~
+0 -1 15129
+D2
+You see the small lake that ends the White rivers northward journey
+~
+~
+0 -1 15127
+S
+#15129
+A path through the hills~
+The path beneath your feet is beaten through long grassy hills.  As you walk,
+you come to an intersection of sorts, with paths going both to the north and
+to the east.  To the north, the walls surrounding the large keep loom closer
+than before, and you can make out a gate through the walls, as well as the
+tower within.  To the east, the paths leads through the hills, and, far
+away, into a thick, green forest.
+~
+151 4 0
+0d0+0 0 0
+D0
+You can see the gates through the outer wall of Revelstone
+~
+~
+0 -1 15130
+D1
+To the east, another path leads onward through the hills.
+~
+~
+0 -1 15190
+D2
+You can see the white sand beach at the northern end of the White river
+~
+~
+0 -1 15128
+S
+#15130
+The entrance to Revelstone~
+ Through an enourmous gate, you can see a tunnel that leads into the central
+area of Revelstone.  The gigantic walls look worn with the passage of time,
+yet still strong enough to withstand any assault.  The stone seems somehow
+alive and vibrant, as if it draws its strength directly from the live around
+it.  The keep within looks tall and resolute, and you feel somehow awed as
+you stand beneath its shadow.
+~
+151 14336 4
+0d0+0 0 0
+D0
+You can see, through an archway, the Close, the center of Revelstone
+~
+~
+0 -1 15133
+D2
+You can see the path leading back south through the hills
+~
+~
+0 -1 15129
+S
+#15131
+The war room~
+ This room contains several firepots for light and heat, and a waist-level
+table which is covered in maps, troop lists and stategies for fighting the
+Despisers armies.  You also see names of places familiar to you, like Mithil
+Stonedown and Revelwood, as well as places you've never heard of.
+~
+151 14344 0
+0d0+0 0 0
+D0
+This archway leads back into the hall east of the Close
+~
+~
+0 -1 15134
+S
+#15132
+The stairway~
+ These stairs, which seem almost an extension of the stone that makes up
+walls of the keep, circle upwards towards the second floor.  This part of
+Revelstone appears a bit more comfortable, and it is on the second floor
+that the Lords of the Land have their private rooms.
+~
+151 14344 0
+0d0+0 0 0
+D1
+Through this archway you can see the Close, the center of Revelstone
+~
+~
+0 -1 15133
+D4
+The stairs lead up to the second floor of Revelstone
+~
+~
+0 -1 15139
+S
+#15133
+The Close~
+ This is the central hall in Revelstone Keep: The Close.  It is here that
+all other parts of the keep are accessable through, and it is also here that
+the Lords of Revelstone meet to hear the problems of the people of the land
+and to decide the laws that govern all who uphold goodness and law.  A low
+hallway leads out to the east, a small holding cell is to the north, and
+a stairway is seen through an archway to the west.  The entire hall is lit
+with glowing pots which are tended to by the Gravelingases.
+~
+151 14344 0
+0d0+0 0 0
+D0
+This door leads to a small, dark holding cell
+~
+door~
+1 15102 15135
+D1
+This archway leads into a slightly narrow hallway
+~
+~
+0 -1 15134
+D2
+South, you see the entrance to the close, leading you back outside
+~
+~
+0 -1 15130
+D3
+Through this archway, you see stairs going up
+~
+~
+0 -1 15132
+S
+#15134
+A hallway~
+ This is a slightly narrow hallway leading from the close to a 'T' 
+intersection.  To the north, the smell of fresh air draws your gaze to an
+archway into an enclosed courtyard.  To the south you can see a small room
+with a parchment-covered table.  It appears to be a meeting room of sorts.
+~
+151 14344 0
+0d0+0 0 0
+D0
+This archway leads to an open-air terrace of some sort
+~
+~
+0 -1 15136
+D2
+Through this archway, a small room with a table covered in parchments can
+be seen
+~
+~
+0 -1 15131
+D3
+This archway leads back into the Close, the center of Revelstone
+~
+~
+0 -1 15133
+S
+#15135
+A holding cell~
+This is a dark room, with no visable light source, save what filters in
+from the doorway.  There is no other exit, except the door to the south.
+~
+151 14345 0
+0d0+0 0 0
+D2
+Past the door, you can see the Close, the center of Revelstone
+~
+door~
+1 15102 15133
+S
+#15136
+Training field~
+ This area is an open-air terrace which has been converted into a training
+field for the warriors of Revelstone.  It is here that Warmark Quann and
+First-Haft Amorine train the young men and women to defend the peoples of
+the land.
+~
+151 14336 5
+0d0+0 0 0
+D2
+Through this archway, the hallway east of the Close can be seen
+~
+~
+0 -1 15134
+S
+#15137
+Hall of Artifacts~
+ This is the Hall of Artifacts.  Herein lie all the treasures of the Land
+that are either unusable or undecipherable by the Lords.  There are all
+manner of objects and scrolls here.  Nothing looks familiar, and you can't
+understand the language the scrolls are written in, but this must be very
+important to the Lords for them to take such precautions to keep it secure.
+~
+151 14345 0
+0d0+0 0 0
+D0
+Banded with blue-tinted iron, this door looks impenitrable
+~
+door~
+2 15103 15139
+S
+#15138
+Lord Hyrims quarters~
+ This is the room of Lord Hyrim.  You can tell from the furninshings of this
+chamber that this lord is one who is fond of wine and food.  This room has
+a simple bed, bureau and wardrobe.
+~
+151 14344 0
+0d0+0 0 0
+D1
+This door leads back the the stairs
+~
+door~
+1 -1 15139
+S
+#15139
+2nd floor stairway~
+The stairs end at this landing.  There are doors leading north, south, east
+and west, as well as a small circular staircase leading up to a trapdoor in
+the ceiling.  These doors all look the same, except for the door leading
+south, which stands barred and obviously locked.  You have to wonder what
+is so important that it must be so heavily guarded against intrusion...
+~
+151 14344 0
+0d0+0 0 0
+D0
+This door leads to Lord Mhoram's chambers
+~
+door~
+1 -1 15141
+D1
+This door leads to the chambers of Lord Shetra
+~
+door~
+1 -1 15140
+D2
+Banded with blue-tinted iron, this door looks almost impenitrable
+~
+door~
+2 15103 15137
+D3
+This door leads to Lord Hyrim's chambers
+~
+door~
+1 -1 15138
+D4
+This door leads to High Lord Elena's chambers
+~
+trapdoor~
+1 -1 15142
+D5
+These stairs lead back down to the first floor of Revelstone
+~
+~
+0 -1 15132
+S
+#15140
+Lord Shetra's quarters~
+ This is the chamber of Lord Shetra.  Apart from the bed, bureau and small
+wardrobe, there is very little here to help you know her, except for a small
+stone heart hung on her wall, with the word "Variol" impressed into it.
+~
+151 14344 0
+0d0+0 0 0
+D3
+This door leads back to the stairway
+~
+door~
+1 -1 15139
+S
+#15141
+Lord Mhoram's quarters~
+ This is Lord Mhoram's chambers.  Here are a collection of items that give
+you a true sense of the compassion of this individual.  Here are several
+paintings and sculptures, along with a bed, bureau and small wardrobe.
+~
+151 14344 0
+0d0+0 0 0
+D2
+This door leads back to the stairway
+~
+door~
+1 -1 15139
+S
+#15142
+High Lord Elana's quarters~
+ This is the chambers of the Elena, the High Lord of the Council of Lords of
+Revelstone Keep.  She has been head of the council for over a score years, and
+is rumored to be the grand-daughter of Thomas Covenant himself.  Her room is
+rather bare, except for a beautiful stone sculpture of a bearded man in robes,
+with only three fingers on his left hand.
+~
+151 12296 0
+0d0+0 0 0
+D5
+This door leads back down to the second floor of Revelstone
+~
+trapdoor~
+1 -1 15139
+E
+stone sculpture man~
+ This statues seems far too smooth to have been carved.  You surmise that it
+must have been made by a special stone-melding magic.  The figure represented
+in the sculpture has a severe visage, but his eyes seems kind, almost gentle,
+and on his half-hand is the visage of a ring...
+~
+S
+#15143
+The Hills of Andelain~
+ These hills are lush with life, and a feeling of peace eiminates from the
+very ground you walk upon.  That feeling of peace is shattered, though, by
+a very strong sense of an evil presence.  Over the hills, you can see small
+dancing motes of light.  Could these be the fabled wraiths of Andelain?
+~
+151 0 4
+0d0+0 0 0
+D0
+To the north the Hills of Andelain continue
+~
+~
+0 -1 15146
+D3
+To the west, the Hills of Andelain spread before you.
+~
+~
+0 -1 15193
+D7
+To the northwest the base of the Tree-town Soaring Woodhelven can be seen.
+~
+~
+0 -1 15145
+S
+#15144
+The Forest of Grimmerdhore~
+These forests have none of the tranquility of the Revelwood woods.  Here,
+there seems an almost perceptable feeling of evil, eminating from the east.
+Looking eastward, you see the forest give wayto the hills of Andelain.  They
+appear lush and inviting, but the feeling of dread persists.
+~
+151 0 0
+0d0+0 0 0
+D0
+To the north the forest of Grimmerdhore continues.
+~
+~
+0 -1 15147
+D1
+To the east is the base of the Tree-town of Soaring Woodhelven.
+~
+~
+0 -1 15145
+D2
+To the south, the forest of Grimmerdhore continues.
+~
+~
+0 -1 15192
+D6
+To the northeast the forest of Grimmerdhore continues.
+~
+~
+0 -1 15148
+D8
+To the southeast, you can see the Hills of Andelain beginning.
+~
+~
+0 -1 15193
+S
+#15145
+Soaring Woodhelven~
+This is the base of the tree-town of Soaring Woodhelven.  Poised in the
+forest of Grimmerdhore and on the edge of the Hills of Andelain, this large
+tree is home to hardy folk of the land.  They live here, far from the
+protection of the Lords, and in the shadow of Mount Thunder.
+~
+151 0 3
+0d0+0 0 0
+D0
+To the northwest is the forest of Grimmerdhore.
+~
+~
+0 -1 15148
+D2
+To the south, you see the Hills of Andelain.
+~
+~
+0 -1 15193
+D3
+To the west, you can see the Forests of Grimmerdhore.
+~
+~
+0 -1 15144
+D4
+Above you is the central meeting place of Soaring Woodhelven.
+~
+~
+0 -1 15149
+D7
+To the northwest is the forest of Grimmerdhore.
+~
+~
+0 -1 15147
+D8
+To the southeast you see the Hills of Andelain
+~
+~
+0 -1 15143
+D9
+To the southwest you see the forest of Grimmerdhore.
+~
+~
+0 -1 15192
+S
+#15146
+The Hills of Andelain~
+ These hills are lush with life, and a feeling of peace eminates from the
+very ground you walk upon.  That feeling of peace is shattered, though by
+a very strong sense of an evil presence.  Over the hills, you can see small,
+dancing motes of light.  Could these be the fabled wraiths of Andelain?
+~
+151 0 4
+0d0+0 0 0
+D1
+This path heads east towards Mount Thunder.
+~
+~
+0 -1 15150
+D2
+To the south, the Hills of Andelain continue.
+~
+~
+0 -1 15143
+D9
+To the southwest, the Hills of Andelain continue.
+~
+~
+0 -1 15193
+S
+#15147
+The Forest of Grimmerdhore~
+These forests have none of the tranquility of the Revelwood woods.  Here,
+there seems an almost perceptable feeling of evil, eminating from the east.
+Looking eastward, you see the forest give way to the hills of Andelain.
+They appear lush and inviting, but the feeling of dread persists.
+~
+151 0 3
+0d0+0 0 0
+D1
+To the east, the Forest of Grimmerdhore continues.
+~
+~
+0 -1 15148
+D2
+To the south the Forest of Grimmerdhore continues.
+~
+~
+0 -1 15144
+D7
+To the northwest, you can see a beautiful field of waving grain.
+~
+~
+0 -1 15191
+D8
+To the southeast the base of the Tree-town of Soaring Woodhelven can be seen.
+~
+~
+0 -1 15145
+S
+#15148
+The Forest of Grimmerdhore~
+ These forests have none of the tranquility of the Revelwood woods.  Here,
+there seems an almost perceptable feeling of evil, eminating from the east.
+Looking southeast-ward, you see the forest give way to the Hills of Andelain.
+They appear lush and inviting, but the feeling of dread persists.
+~
+151 0 3
+0d0+0 0 0
+D2
+To the south you can see the base of the Tree-town Soaring Woodhelven.
+~
+~
+0 -1 15145
+D3
+To the west the Forest of Grimmerdhore continues.
+~
+~
+0 -1 15147
+D9
+To the southwest the Forest of Grimmerdhore continues.
+~
+~
+0 -1 15144
+S
+#15149
+Soaring Woodhelven~
+This is the central square of Soaring Woodhelven.  It is here that councils
+of peace and war are held.  Below is the base of this massive tree-village,
+and above your heads is the home and office of the Heer of the Woodhelven.
+~
+151 0 3
+0d0+0 0 0
+D4
+Above you is the home of the Heer of the Woodhelven.
+~
+~
+0 -1 15195
+D5
+Below, you see the base of Soaring Woodhelven.
+~
+~
+0 -1 15145
+S
+#15150
+A rocky path~
+Here, the woods quickly give way to rocky terrain, as the path leads quickly
+into the mountains.  It is here, below the peak known as Mount Thunder, that
+Drool Rockworm resides in Kiril Threndor, the seat of the cavewights power.
+The terrain grows quickly more treacherous, and footing becomes questionable.
+~
+151 4 5
+0d0+0 0 0
+D3
+To the west the path leads into the Hills of Andelain.
+~
+~
+0 -1 15146
+D8
+This path leads into the mountains, towards Mt. Thunder.
+~
+~
+0 -1 15151
+S
+#15151
+A rocky path~
+This path leads through the mountanous countryside just west of Mount
+Thunder.  The air is dry and uncomfortable, and the mountain looms darkly
+to the east, casting a death-like pall over the entire area.
+~
+151 0 5
+0d0+0 0 0
+D1
+To the east, the path leads onto the lower slopes of Mount Thunder.
+~
+~
+0 -1 15152
+D7
+This path leads back towards the Hills of Andelain.
+~
+~
+0 -1 15150
+S
+#15152
+The Slopes of Mount Thunder~
+ You stand on the lower slopes of Mount Thunder.  Above you, the mount
+itself peaks towards the sky.  It looks ominous and threatening for some
+reason, and you feel very small next to it.  To the southeast, the
+path continues, and to the east, you can see a very small cave opening into
+the mount itself.
+~
+151 0 5
+0d0+0 0 0
+D1
+This cave entrance leads into Mount Thunder.
+~
+~
+0 -1 15153
+D3
+To the west, a rocky path leads west out of the mountains.
+~
+~
+0 -1 15151
+D8
+This path leads towards the Plains of Ra.
+~
+~
+0 -1 15159
+S
+#15153
+A cave entrance~
+ This low cavern leads back and down, into the bowels of Mount Thunder.
+From somewhere below, you can hear the sounds of someone, or something, moving
+around, and occasionally a screech of rage filters up from the depths. You
+can only imagine what lies below you.
+~
+151 12 0
+0d0+0 0 0
+D3
+To the west, through the cave entrance, you can see the lower slopes of
+Mount Thunder.
+~
+~
+0 -1 15152
+D5
+This passage leads down into Mount Thunder.
+~
+~
+0 -1 15154
+S
+#15154
+The passage to Kiril Threndor~
+The passage leads down into a full cavern, with a bridge over a river of
+lava that flows through this cavern.  There is a blue barrier of some kind
+stretching across the center of the bridge.  This appears to be a locked word
+of binding, and nothing save the the conjuring staff can unlock it.  A
+lord could bend the binding, but you don't have one with you.
+~
+151 14345 0
+0d0+0 0 0
+D0
+The word of binding stretches across the bridge here, blocking your path.
+~
+word~
+2 15120 15155
+D4
+This passage leads up to the cave entrance to Kiril Threndor.
+~
+~
+0 -1 15153
+E
+word binding~
+To the north, this sheet of blue energy stretches completely across the
+bridge.  The smell of ozone is sharp in the air, and as you toss a rock at
+the word as a test, it is vaporized by the power of the binding.  The ONLY
+way you can get through this is to unlock it with the staff that created it.
+~
+S
+#15155
+A darkened passage~
+ This is a low, dark, dank passage from the river of lava towards Kiril
+Threndor, the seat of Drool Rockworm's power.  Further down this passage,
+you can see a light, and hear more clearly the rantings and ravings of a
+madman.  You can only assume this is Drool.
+~
+151 14345 0
+0d0+0 0 0
+D0
+To the north, an antechamber can be seen.
+~
+~
+0 -1 15156
+D2
+To the south, you see the word of binding across the lava river bridge.
+~
+word~
+2 15120 15154
+S
+#15156
+Antechamber~
+This room is the antechamber of Kiril Threndor.  To the north lies the
+throne room where Drool Rockworm is said to be.  Echoes of his ranting are
+still in the air as you survey this chamber.
+~
+151 14345 0
+0d0+0 0 0
+D0
+To the north, the cavernous chamber of Kiril Threndor can be seen.
+~
+~
+0 -1 15157
+D2
+To the south is a dark passage back out of Kiril Threndor.
+~
+~
+0 -1 15155
+S
+#15157
+Kiril Threndor~
+  As you enter this cavernous chamber, you realize that this is Kiril
+Threndor, the dark heart of Mount Thunder.  The room is dimly lit by a
+softly glowing type of rock imbedded into the walls.  In the center of the
+room is a raised dias of blackened rock which looks like it was once
+whole, and has been melted to it's present shape by an incredible force.
+~
+151 14345 0
+0d0+0 0 0
+D0
+The northern wall of this chamber looks a bit.....unusual.
+~
+wall~
+2 15123 15158
+D2
+To the south you can see the Antechamber to Kiril Threndor
+~
+~
+0 -1 15156
+S
+#15158
+Hidden Chamber~
+ This room is small and dark.  The only exit is south, through the hidden
+door back into Kiril Threndor.  In this room, there is a small, slender stone
+dias, standing about waist level.  It almost seems as though the dias was
+raised up out of the very stone.
+~
+151 14349 0
+0d0+0 0 0
+D2
+The wall on the northern edge of the cavern looks a bit.....unusual.
+~
+wall~
+2 15123 15157
+S
+#15159
+A long path~
+ This long pathway leads from the slopes of Mount Thunder, and farther to
+the southeast, into the fabled Plains of Ra.  As you travel this pathway,
+you marvel at the size of the Land and the variety of life in it.
+~
+151 4 2
+0d0+0 0 0
+D7
+To the northwest, you can see the slopes of Mount Thunder.
+~
+~
+0 -1 15152
+D8
+To the southeast, you can see the beginning of the Plains of Ra.
+~
+~
+0 -1 15172
+S
+#15160
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15164
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15161
+D6
+To the northeast, the plains continue.
+~
+~
+0 -1 15165
+S
+#15161
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15165
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15162
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15160
+D6
+To the northeast, the plains continue.
+~
+~
+0 -1 15166
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15164
+S
+#15162
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15166
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15163
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15161
+D6
+To the northeast, the plains continue.
+~
+~
+0 -1 15167
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15165
+S
+#15163
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 0
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15167
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15162
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15166
+S
+#15164
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15168
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15165
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15160
+D6
+To the northeast, the plains continue.
+~
+~
+0 -1 15169
+D8
+To the southeast, the plains continue.
+~
+~
+0 -1 15161
+S
+#15165
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 0
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15169
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15166
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15161
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15164
+D6
+To the northeast, the plains continue.
+~
+~
+0 -1 15198
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15168
+D8
+To the southeast, the plains continue.
+~
+~
+0 -1 15162
+D9
+To the southwest, the plains continue.
+~
+~
+0 -1 15160
+S
+#15166
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 0
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15170
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15167
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15162
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15165
+D6
+To the northeast, the plains continue.
+~
+~
+0 -1 15171
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15198
+D8
+To the southeast, the plains continue.
+~
+~
+0 -1 15163
+D9
+To the southwest, the plains continue.
+~
+~
+0 -1 15161
+S
+#15167
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 0
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15171
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15163
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15166
+D6
+To the northeast, you see a path leading into the Shattered Hills.
+~
+~
+0 -1 15176
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15170
+D9
+To the southwest, the plains continue.
+~
+~
+0 -1 15162
+S
+#15168
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 0
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15172
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15169
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15164
+D6
+To the northeast, the plains continue.
+~
+~
+0 -1 15173
+D8
+To the southeast, the plains continue.
+~
+~
+0 -1 15165
+S
+#15169
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15173
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15170
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15165
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15168
+D6
+To the northeast, the plains continue.
+~
+~
+0 -1 15174
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15172
+D8
+To the southeast, the plains continue.
+~
+~
+0 -1 15198
+D9
+To the southwest, the plains continue.
+~
+~
+0 -1 15164
+S
+#15170
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15174
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15171
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15166
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15169
+D6
+To the northeast, the plains continue.
+~
+~
+0 -1 15175
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15173
+D8
+To the southeast, the plains continue.
+~
+~
+0 -1 15167
+D9
+To the southwest, the plains continue.
+~
+~
+0 -1 15198
+S
+#15171
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D0
+To the north, the plains continue.
+~
+~
+0 -1 15175
+D1
+To the east, you see a path leading towards the Shattered Hills.
+~
+~
+0 -1 15176
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15167
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15170
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15174
+D9
+To the southwest, the plains continue.
+~
+~
+0 -1 15166
+S
+#15172
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15173
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15168
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15159
+D8
+To the southeast, the plains continue.
+~
+~
+0 -1 15169
+S
+#15173
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15174
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15169
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15172
+D8
+To the southeast, the plains continue.
+~
+~
+0 -1 15170
+D9
+To the southwest, the plains continue.
+~
+~
+0 -1 15168
+S
+#15174
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D1
+To the east, the plains continue.
+~
+~
+0 -1 15175
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15170
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15173
+D8
+To the southeast, the plains continue.
+~
+~
+0 -1 15171
+D9
+To the southwest, the plains continue.
+~
+~
+0 -1 15169
+S
+#15175
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  These are the Plains of
+Ra, home to the Ranyhyn, the great noble horses of the Land.
+~
+151 0 2
+0d0+0 0 0
+D2
+To the south, the plains continue.
+~
+~
+0 -1 15171
+D3
+To the west, the plains continue.
+~
+~
+0 -1 15174
+D8
+To the southeast, a path leads towards the Shattered Hills.
+~
+~
+0 -1 15176
+D9
+To the southwest, the plains continue.
+~
+~
+0 -1 15170
+S
+#15176
+A path into the mountains~
+ This path leads away from the Plains of Ra, and turns towards the crags of
+the Shattered Hills.  The pathway forks here, going both northeast and
+southeast.  To the northeast, you can see the red glow of Lava as the molten
+River known as Hotash Slay flows slowly across the path.  To the southeast,
+you see a treacherous path as it winds upwards along a high cliff face.
+If only you knew which path was safer to travel...
+~
+151 4 2
+0d0+0 0 0
+D3
+To the west, you can see the Plains of Ra.
+~
+~
+0 -1 15171
+D6
+To the northeast, you can see a deadly river of Lava!
+~
+~
+0 -1 15177
+D8
+To the southeast, you can see a treacherous looking path leading along a
+ridge into the mountains of the Shattered Hills.
+~
+~
+0 -1 15178
+S
+#15177
+Hotash Slay~
+ You have entered Hotash Slay, the lava river that runs the north-western
+edge of the Shattered Hills.  If you were a giant, you could do this without
+injury.  But, as you're not, this hurts a LOT!  What ever possessed you
+to wade into a lava river?
+~
+151 16386 5
+1d1+199 90 0
+D9
+Here is the pathway into the shattered hills.
+~
+~
+0 -1 15176
+S
+#15178
+The Ridge Path~
+ As you climb this treacherous path, the ground drops away beneath your
+feet.  You can see, to the southeast, the path goes higher and higher into
+the Shattered Hills.  There, amidst the rocky crags, lies Foul's Creche,
+the seat of the evil power that is infesting this land.
+~
+151 0 5
+0d0+0 0 0
+D7
+To the northwest, you can see a path leading out of the mountains.
+~
+~
+0 -1 15176
+D8
+To the southeast, a path through the mountains can be seen.
+~
+~
+0 -1 15179
+S
+#15179
+Mountain Path~
+This pathway leave the ridge path, and travels deep into the crags of the
+mountains of the Shattered Hills.  To the southeast, you can see the path
+leads up to a large spire with a huge double door set in it.
+~
+151 0 0
+0d0+0 0 0
+D7
+To the northwest, you can see a path along a steep ridge.
+~
+~
+0 -1 15178
+D8
+To the southeast, a huge spire with doors set into it can be seen.
+~
+~
+0 -1 15180
+S
+#15180
+A mountain spire~
+ This spire in the Shattered Hills reaches towards the sky in an almost
+obscene fashion, as if hurling insults to the very stars.  Imbedded in the
+spire is a large set of double doors, leading east.  The doors look like
+they have been there forever, and have stood the test of time against
+thieves and heroes alike.
+~
+151 0 5
+0d0+0 0 0
+D1
+To the east, you see a large set of double doors.
+~
+door doors double~
+2 15128 15181
+D7
+To the northwest, a path meanders through the mountains.
+~
+~
+0 -1 15179
+S
+#15181
+Entrance Hall~
+This is the entrance hall to Foul's Creche.  You can feel the evil as you
+enter this place.  It's like smoke: it chokes you, clings to you, and makes
+you feel as if you will never be able to rid yourself of it.  To the east,
+the ground slopes sharply down, and you can hear noises from that direction.
+~
+151 14349 0
+0d0+0 0 0
+D1
+To the east, the tunnel slopes down towards Foul's Creche proper.
+~
+~
+0 -1 15184
+D3
+To the west, you can see a large set of double doors.
+~
+door~
+2 15128 15180
+S
+#15182
+A low stone cavern~
+This low stone cavern has no visible light, and the rough stone walls
+seem to exude a sense of oily, permeating evil.  This area has a very
+ominous feel to it, as if your death were waiting just around the bend...
+~
+151 14345 0
+0d0+0 0 0
+D0
+To the north, the cavern continues.
+~
+~
+0 -1 15184
+D1
+To the east, the cavern continues.
+~
+~
+0 -1 15183
+S
+#15183
+A low stone cavern~
+This low stone cavern has no visible light, and the rough stone walls
+seem to exude a sense of oily, permeating evil.  This area has a very
+ominous feel to it, as if your death were waiting just around the bend...
+~
+151 14345 0
+0d0+0 0 0
+D0
+To the north, the cavern continues.
+~
+~
+0 -1 15185
+D3
+To the west, the cavern continues.
+~
+~
+0 -1 15182
+S
+#15184
+A low stone cavern~
+This low stone cavern has no visible light, and the rough stone walls
+seem to exude a sense of oily, permeating evil.  This area has a very
+ominous feel to it, as if your death were waiting just around the bend...
+~
+151 14349 0
+0d0+0 0 0
+D0
+To the north, the cavern continues.
+~
+~
+0 -1 15186
+D2
+To the south, the cavern continues.
+~
+~
+0 -1 15182
+D3
+To the west, you can see the entrance to Foul's Creche.
+~
+~
+0 -1 15181
+S
+#15185
+A low stone cavern~
+This low stone cavern has no visible light, and the rough stone walls
+seem to exude a sense of oily, permeating evil.  This area has a very
+ominous feel to it, as if your death were waiting just around the bend...
+~
+151 14349 0
+0d0+0 0 0
+D0
+To the north, the cavern continues.
+~
+~
+0 -1 15187
+D1
+To the east, the cavern opens up into a huge chamber.
+~
+~
+0 -1 15188
+D2
+To the south, the cavern continues.
+~
+~
+0 -1 15183
+S
+#15186
+A low stone cavern~
+This low stone cavern has no visible light, and the rough stone walls
+seem to exude a sense of oily, permeating evil.  This area has a very
+ominous feel to it, as if your death were waiting just around the bend...
+~
+151 14345 0
+0d0+0 0 0
+D1
+To the east, the cavern continues.
+~
+~
+0 -1 15187
+D2
+To the south, the cavern continues.
+~
+~
+0 -1 15184
+S
+#15187
+A low stone cavern~
+This low stone cavern has no visible light, and the rough stone walls
+seem to exude a sense of oily, permeating evil.  This area has a very
+ominous feel to it, as if your death were waiting just around the bend...
+~
+151 14345 0
+0d0+0 0 0
+D2
+To the south, the cavern continues.
+~
+~
+0 -1 15185
+D3
+To the west, the cavern continues.
+~
+~
+0 -1 15186
+S
+#15188
+A large stone cavern~
+  As you enter this huge cavern, the evil hits you like a stiff wind of
+corruption.  This is Foul's Creche, the seat of evil and corruption in the
+Land.  Towards the back of the chamber, in front of a tunnel leading further
+to the east, there is a large stone dias with a huge throne, made of a
+thick, black rock.  The throne itself seems to glow with a slight, sickened
+greenish tinge, providing you with the visual equivilant of a bad smell.
+~
+151 14345 0
+0d0+0 0 0
+D1
+To the east, you can see a door with a sick green light glowing at the edges.
+~
+door~
+2 15129 15189
+D3
+To the west, you see a low stone cavern.
+~
+~
+0 -1 15185
+S
+#15189
+A glowing green cavern~
+  This cavern glows with a residual green light that instantly makes you
+feel like wretching.  This light seems to contain all the 'wrongness' of
+betrayal, death, disease, famine, greed, despair, and corruption.  This is
+the illearth chamber, the home of the illearth stone.  You feel ill.
+~
+151 14348 0
+0d0+0 0 0
+D0
+To the north, an odd blue portal seems to lead elsewhere.
+~
+~
+0 -1 15101
+D3
+To the west, you can see a door leading to Foul's Creche.
+~
+door~
+2 15129 15188
+S
+#15190
+Path from Revelstone~
+ This pathway leads from the entrance of Revelstone to the east.  Far off
+in the distance, you can see a large forest, and a beautiful tree that grows
+in the center of it.  It looks similar to Revelwood, but this tree seems to
+have a feeling of sadness to it, even from this distance.
+~
+151 0 4
+0d0+0 0 0
+D1
+To the east, the path leads into a large, grassy field.
+~
+~
+0 -1 15191
+D3
+To the west, you can see the intersection with the path to Revelstone.
+~
+~
+0 -1 15129
+S
+#15191
+Path into Grimmerdhore~
+ The hills give way to beautiful field of tall, waving grasses.  To the
+southeast, you can see the Forest of Grimmerdhore, and in the center of it,
+the tree-village of Soaring Woodhelven, sitting in the shadow of Mount
+Thunder to the east.
+~
+151 4 2
+0d0+0 0 0
+D3
+To the west, the path grows more hilly, and leads back to Revelstone.
+~
+~
+0 -1 15190
+D8
+To the southeast, you see the forest of Grimmerdhore
+~
+~
+0 -1 15147
+S
+#15192
+The Forest of Grimmerdhore~
+These forests have none of the tranquility of the Revelwood woods.  Here,
+there seems an almost perceptable feeling of evil, eminating from the east.
+Looking eastward, you see the forest give way to the hills of Andelain.
+They appear lush and inviting, but the feeling of dread persists.
+~
+151 0 3
+0d0+0 0 0
+D0
+To the north the forest of Grimmerdhore continues.
+~
+~
+0 -1 15144
+D1
+To the east you can see the Hills of Andelain.
+~
+~
+0 -1 15193
+D6
+To the northeast you can see the base of the Tree-town of Soaring Woodhelven.
+~
+~
+0 -1 15145
+S
+#15193
+The Hills of Andelain~
+These hills are lush with life, and a feeling of peace eminates from the
+very ground you walk upon.  That feeling of peace is shattered, though, by
+a very strong sense of an evil presence.  Over the hills, you can see small,
+dancing motes of light.  Could these be the fabled wraiths of Andelain?
+~
+151 0 4
+0d0+0 0 0
+D0
+To the north you can see the base of the Tree-town of Soaring Woodhelven.
+~
+~
+0 -1 15145
+D1
+The the east the Hills of Andelain continue.
+~
+~
+0 -1 15143
+D3
+To the west, you can see the forests of Grimmerdhore.
+~
+~
+0 -1 15192
+D6
+To the northeast the Hills of Andelain continue.
+~
+~
+0 -1 15146
+D7
+To the northwest you can see the forest of Grimmerdhore.
+~
+~
+0 -1 15144
+S
+#15194
+A long stairway~
+This stairway seems to go on forever.  As you finally descend through the
+clouds, you can see you have hundreds of feet to go.  The surface of the
+earth never looked so good as you approach...
+~
+151 0 5
+0d0+0 0 0
+D4
+Up these stairs is the plateau called Kevin's Watch
+~
+~
+0 -1 15103
+D5
+Down these stairs, you can see the surface of the land
+~
+~
+0 -1 15104
+S
+#15195
+The Heer's Chambers~
+ Here is the chamber of Llaura, the Heer of Soaring Woodhelven.  It is here
+that the decisions regarding the safety and properity of the entire 
+Woodhelven is made.  The room is sparse and utilitarian, and seems to give
+off a sense of seriousness and dedication.
+~
+151 8 0
+0d0+0 0 0
+D5
+Below, you can see the central meeting chamber of the Woodhelven.
+~
+~
+0 -1 15149
+S
+#15196
+The center of Revelwood~
+ You stand within the large, central area of Revelwood.  All about you, a
+net has been drawn of vine and attached to various branches, creating a
+flexible plateau of sorts, which allow for large numbers of people to all
+gather in one place.  This appears to be the main social area of this
+rather unusual village, and is suprisingly stable for it's construct.
+~
+151 8 3
+0d0+0 0 0
+D4
+Looking up, you see a large hollow in the tree trunk
+~
+~
+0 -1 15197
+D5
+You look down and see the base of Revelwood
+~
+~
+0 -1 15119
+S
+#15197
+The Loresraat~
+Here is the center of learning for the land.  Here, the secrets of High
+Lord Kevin's lore are studied.  The secrets of the lillianril are
+attempted by the Hirebrands, and the mysteries of the Rhadhamaerl are
+studied by the Gravelingases.  All the lore that is learned here is passed
+on the lord of Revelstone for use by those entrusted with the care of
+the land.  Here, in what seems a natural hollow in the trunk of this
+enourmous tree, the sense of earthpower is truly staggering!
+~
+151 8 0
+0d0+0 0 0
+D5
+Looking down, you can see the netted main area of Revelwood
+~
+~
+0 -1 15196
+S
+#15198
+The Plains of Ra~
+ As far as the eye can see are acres and acres of tall grasses, waving in
+the warm, mild breezes that roll across this area.  It is here that the
+Ramen, the people whose lives are dedicated to tending the Ranyhyn, have 
+set up their camp.  Here is where the ramen congregate, to get their
+water, and to socialize.
+~
+151 0 2
+0d0+0 0 0
+D6
+To the northeast, the plains continue.
+~
+~
+0 -1 15170
+D7
+To the northwest, the plains continue.
+~
+~
+0 -1 15169
+D8
+To the southeast, the plains continue.
+~
+~
+0 -1 15166
+D9
+To the southwest, the plains continue.
+~
+~
+0 -1 15165
+S
+#15199
+Transition point~
+This is a flat, featurless point in netherspace.
+~
+151 8196 0
+0d0+0 0 0
+D5
+Below, you can see flat rock...
+~
+portal~
+1 -1 15103
+S
+$

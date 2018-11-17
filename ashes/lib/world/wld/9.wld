@@ -1,0 +1,1445 @@
+#900
+Inside a prison cell~
+You are standing inside a prison cell.  The door is in front of you,
+while you can see a hallway running left and right.
+~
+9 6153 0
+0d0+0 0 0
+D0
+~
+cell~
+1 900 901
+S
+#901
+Outside a cell, standing in the middle of a hallway~
+You are standing outside a cell, there are nazi's coming from everywhere.
+The sirens are blaring and you know you are in trouble.
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 902
+D2
+~
+cell~
+1 900 900
+D3
+~
+~
+0 -1 916
+S
+#902
+A Hallway~
+You are standing in a hallway.  The sirens are blaring loudly, you also
+hear men's voices around you speaking German.  The hallway runs east
+and west.
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 903
+D3
+~
+~
+0 -1 901
+S
+#903
+A corner in a hallway~
+You are standing at the corner of the hallway, the hallway continues north
+and west.  As you stand admiring the grey walls, the voices of German 
+soldiers rings in your ears.  You feel the need to keep on moving.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 904
+D3
+~
+~
+0 -1 902
+S
+#904
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 905
+D2
+~
+~
+0 -1 903
+S
+#905
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 906
+D2
+~
+~
+0 -1 904
+S
+#906
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 907
+D2
+~
+~
+0 -1 905
+S
+#907
+A corner in a hallway~
+You are standing at a corner of the hallway.  The hallway continues south
+and west from here.  The walls are grey and covered in slime.  For some
+reason the voices have quieted.  Does this mean they are gone, or that
+they are close and trying to surprise you!
+~
+9 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 906
+D3
+~
+~
+0 -1 908
+S
+#908
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 907
+D3
+~
+~
+0 -1 909
+S
+#909
+A Hallway~
+You are standing in the hallway.  To the north there is a large steel door,
+while the hallway continues east and west.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 966
+D1
+~
+~
+0 -1 908
+D3
+~
+~
+0 -1 910
+S
+#910
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 909
+D3
+~
+~
+0 -1 911
+S
+#911
+A corner in a hallway~
+You are standing at a decision spot, you can go south or go east, but the
+German voices are blaring as well as the sirens.  You get move quickly 
+before you are captured and certainly killed.
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 910
+D2
+~
+~
+0 -1 912
+S
+#912
+A Hallway~
+You are standing in a section of the hallway that looks like every other
+you have been in.  Yet, to the north the wall seems to have been moved
+recently.  They say the walls here hold many secrets.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 911
+D2
+~
+~
+0 -1 913
+D3
+~
+secret~
+1 -1 967
+S
+#913
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 912
+D2
+~
+~
+0 -1 914
+S
+#914
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 913
+D2
+~
+~
+0 -1 915
+S
+#915
+A corner in a hallway~
+You are standing in a corner of 2 hallways, the hallway runs north south
+and east west, going east and north of course.  You can hear footsteps, 
+better keep moving.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 914
+D1
+~
+~
+0 -1 916
+S
+#916
+A Hallway~
+You are standing in a hallway.  The jail cell that you broke out of is to
+the east, while the hallway continues to the west.
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 901
+D3
+~
+~
+0 -1 915
+S
+#917
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 918
+D3
+~
+~
+0 -1 968
+S
+#918
+A corner of a hallway~
+You are standing in the corner of a hallway.  The hallway itself runs
+south and west.  There is a siren flashing above you.
+~
+9 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 919
+D3
+~
+~
+0 -1 917
+E
+siren~
+Ayup - A siren allrighty.
+~
+S
+#919
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 918
+D2
+~
+~
+0 -1 920
+S
+#920
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 919
+D2
+~
+~
+0 -1 921
+S
+#921
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 920
+D2
+~
+~
+0 -1 922
+S
+#922
+A corner of a hallway~
+You are standing at the corner of a hallway.  The hallway runs north and
+west.  You hear footsteps coming from both the north and west, pick
+a way to die my friend.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 921
+D3
+~
+~
+0 -1 923
+S
+#923
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 922
+D3
+~
+~
+0 -1 924
+S
+#924
+A Hallway~
+You are standing in a hallway, the sirens are blasting as they have in
+every other room.  Ask you walk through this room you can hear voices
+coming from inside the wall to the north.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+secret~
+1 -1 969
+D1
+~
+~
+0 -1 923
+D3
+~
+~
+0 -1 925
+S
+#925
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 924
+D3
+~
+~
+0 -1 926
+S
+#926
+A corner of a hallway~
+You are standing in the corner of the hallway.  The Hallway runs both north
+and east.  The 2nd Level reminds you a lot of the first level, excpet
+this one is much harder.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 927
+D1
+~
+~
+0 -1 925
+S
+#927
+A Hallway~
+You are standing in a hallway, the sirens are blaring their acknowledgement
+of your presence in this zone.  You can hear men all around you.  To the
+east a few steps you can see a large steel door.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 928
+D1
+You see a steel door, just a step or two in this direction.
+~
+~
+0 -1 970
+D2
+~
+~
+0 -1 926
+S
+#928
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 929
+D2
+~
+~
+0 -1 927
+S
+#929
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 930
+D2
+~
+~
+0 -1 928
+S
+#930
+A corner of a hallway~
+You are standing at a corner of a hallway.  The hallway itself runs east and
+south.  The sirens are going off but not as loud as they were on the first
+level.
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 931
+D2
+~
+~
+0 -1 929
+S
+#931
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 968
+D3
+~
+~
+0 -1 930
+S
+#932
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 933
+D2
+~
+~
+0 -1 971
+S
+#933
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 934
+D2
+~
+~
+0 -1 932
+S
+#934
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 935
+D2
+~
+~
+0 -1 933
+S
+#935
+A corner in the hallway~
+Unlike the previous levels, this one does not seem to follow the same
+pattern.  The hallway continues south and west.  There are footsteps
+all around you.  Keep moving!
+~
+9 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 934
+D3
+~
+~
+0 -1 936
+S
+#936
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 935
+D3
+~
+~
+0 -1 937
+S
+#937
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 936
+D3
+~
+~
+0 -1 938
+S
+#938
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 937
+D3
+~
+~
+0 -1 939
+S
+#939
+A corner of a hallway~
+You are standing in the corner of a hallway.  Though there are footsteps
+throughout the area, you realize that the people you are fighting against
+are much harder to defeat as before.
+The hallway continues, east and south.
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 938
+D2
+~
+~
+0 -1 940
+S
+#940
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 939
+D2
+~
+~
+0 -1 941
+S
+#941
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 940
+D2
+~
+~
+0 -1 942
+S
+#942
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 941
+D2
+~
+~
+0 -1 943
+S
+#943
+A corner of a hallway~
+You are standing in a corner of a hallway.  To the east, the hallway seems
+to end, while the hallway countinues to the north.  The hallway seems to be
+getting much quieter the more eastern direction you head.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 942
+D1
+~
+~
+0 -1 944
+S
+#944
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 945
+D3
+~
+~
+0 -1 943
+S
+#945
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 946
+D3
+~
+~
+0 -1 944
+S
+#946
+End of a hallway~
+You are at the end of the hallway.  There walls around you seem to have never
+been touched.  Up there is a hatch, while down there seems to be a secret
+of some sorts.
+~
+9 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 945
+D4
+~
+hatch~
+2 997 972
+D5
+~
+secret~
+2 997 978
+S
+#947
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 948
+D2
+~
+~
+0 -1 973
+S
+#948
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 949
+D2
+~
+~
+0 -1 947
+S
+#949
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 950
+D2
+~
+~
+0 -1 948
+S
+#950
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 951
+D3
+~
+~
+0 -1 949
+S
+#951
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 950
+D1
+~
+~
+0 -1 952
+S
+#952
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 953
+D3
+~
+~
+0 -1 951
+S
+#953
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 954
+D3
+~
+~
+0 -1 952
+S
+#954
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 953
+D1
+~
+~
+0 -1 955
+S
+#955
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 956
+D3
+~
+~
+0 -1 954
+S
+#956
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 957
+D3
+~
+~
+0 -1 955
+S
+#957
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 958
+D3
+~
+~
+0 -1 956
+S
+#958
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 959
+D2
+~
+~
+0 -1 957
+S
+#959
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 958
+D3
+~
+~
+0 -1 960
+S
+#960
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 961
+D1
+~
+~
+0 -1 959
+S
+#961
+A Hallway~
+You are standing in a hallway, there are sirens blasting everywhere.  You 
+can hear men rushing toward you speaking German.  Better run quick!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 962
+D2
+~
+~
+0 -1 960
+S
+#962
+Decisions, Decisions~
+You are standing at a split in the path, go east, or go west, you can hear
+the sound of a helicopter a helicopter in the background, the sound
+is loudest coming from the east.
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 963
+D2
+~
+~
+0 -1 961
+D3
+~
+~
+0 -1 964
+S
+#963
+A Hallway~
+The sounds of the helicopter are deafening, you can see the chopper and
+you might be able to catch the REAL Adolph if you run!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 976
+D3
+~
+~
+0 -1 962
+S
+#964
+A Hallway~
+The sound of the chopper is about even now, coming from either direction,
+but you can feel the beat of the air coming from the north.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 965
+D1
+~
+~
+0 -1 962
+S
+#965
+A Hallway~
+You can hear the chopper very loudly now, though it is taking a little
+longer then you thought to get to the chopper, better start running now.
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 975
+D2
+~
+~
+0 -1 964
+S
+#966
+Entrance to the 2nd Level~
+You are standing before a large steel door.  There is a large "2" imprinted
+on the door itself.  
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+steel~
+2 904 968
+D2
+~
+~
+0 -1 909
+S
+#967
+a secret~
+You have found a secret!, Congrats ya ding-a-ling, cause the SS knew
+about the secret LONG before you did!.
+Have fun and die well.
+~
+9 14345 0
+0d0+0 0 0
+D1
+~
+secret~
+1 -1 912
+S
+#968
+Entrance to the 2nd Level~
+You are on the other sie of the large steel door.  It looks identical
+to the first floor, except it is reversed of the last.
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 917
+D2
+~
+steel~
+2 904 966
+D3
+~
+~
+0 -1 931
+S
+#969
+a secret~
+Congrats, you have found a secret!  Unfortunately, The SS Commander knows
+about this secret as well.
+~
+9 6153 0
+0d0+0 0 0
+D2
+~
+secret~
+1 -1 924
+S
+#970
+Entrance to the 3rd Level~
+You are standing before the Entrance to the 3rd level.  There is a large
+steel door before you, it is bolted closed and there is only a small
+key hole.  You try and pick at it, but it shocks you, this is key only.
+~
+9 6152 0
+0d0+0 0 0
+D1
+~
+steel~
+2 907 971
+D3
+~
+~
+0 -1 927
+S
+#971
+Entrance to the 3rd Level~
+You are standing within the 3rd level entrance, unlike the other 2 levels,
+the hall runs north from the entrance, you can hear men banging on the
+door behind you, better run now before you get it!
+~
+9 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 932
+D3
+~
+steel~
+1 907 970
+S
+#972
+A secret conference room~
+You have found the secret conference room.  Before you stands a man that
+looks just like Adolph Hitler, but, for some reason, just isn't.
+~
+9 6153 0
+0d0+0 0 0
+D0
+~
+steel~
+1 999 974
+D4
+~
+secret~
+1 -1 973
+D5
+~
+hatch~
+2 997 946
+S
+#973
+Loh and behold, a secret!~
+You thought this zone was done and over with didn't you!  Aha, only
+you have realized that Adolph was a CLONE!, find the real adolph and
+find the real key.
+~
+9 6153 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 947
+D5
+~
+secret~
+1 -1 972
+S
+#974
+A teleporter back to the end, congrats!~
+Congrats, you have finished what you thought was the end of the game,
+but the message appears on your screen..........
+
+
+
+
+Loh and behold the REAL Adolph has fled the scene, thanks for letting
+him get away, the whole world is going to die, it is all your fault!
+~
+9 6152 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3030
+S
+#975
+On the helipad~
+You jump out onto the tarmack and....
+
+
+
+You were ONE SECOND TOO late, the chopper has just lifted off and flies
+away while you can stand there doing nothing.  As you turn
+around you realize that a steel door has closed and slammed behind you.
+There is nothing left to do but jump off the roof and pray that
+There is a way home.
+~
+9 14336 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3001
+E
+south~
+You see a steel door that is closed, there is NO WAY for you to go
+south, just jump, Sheol has made it easy for you.
+~
+S
+#976
+On the helipad~
+You got here JUST IN TIME, a steel door closes behind you.
+
+Adolph Hitler looks at you.
+
+Adolph Hitler says 'It is you unt me now!'
+
+~
+9 14336 0
+0d0+0 0 0
+D4
+~
+chopper~
+2 998 977
+S
+#977
+Within the helicopter~
+Congratulations!  You have destroyed the nazi regime and killed the leaders!
+You take a Loooooooong look at the helicopter pilot, he looks back at you
+smiles, shows you a card.
+
+Roger, CIA
+
+Enjoy the ride home, mission: ACCOMPLISHED.
+~
+9 6144 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 3072
+S
+#978
+Entrance to the Cyborg lab~
+You have found the secret zone in Wolfenstein.  There are red flashing
+lights around you.  There are no alarms as you enter here.  This is not
+usual for the zone as you have seen.  I would be weary here, this is going
+to be very hard in comparison to the topside.
+~
+9 6153 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 979
+D4
+~
+secret~
+1 997 946
+S
+#979
+Standing inside the cyborg lab~
+You are standing within the cyborg lab, there are incomplete cyborgs standing
+and watching you with red eyes.  You should just destroy them while you are
+here.
+~
+9 6153 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 980
+D2
+~
+~
+0 -1 978
+S
+#980
+Standing inside the cyborg lab~
+You are standing within the cyborg lab, there are incomplete cyborgs standing
+and watching you with red eyes.  You should just destroy them while you are
+here.
+~
+9 6153 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 981
+D2
+~
+~
+0 -1 979
+S
+#981
+Standing inside the cyborg lab~
+You are standing within the cyborg lab, there are incomplete cyborgs standing
+and watching you with red eyes.  You should just destroy them while you are
+here.
+~
+9 6153 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 982
+D2
+~
+~
+0 -1 980
+S
+#982
+Standing inside the cyborg lab~
+You are standing within the cyborg lab, there are incomplete cyborgs standing
+and watching you with red eyes.  You should just destroy them while you are
+here.
+~
+9 6153 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 983
+D2
+~
+~
+0 -1 981
+S
+#983
+Standing inside the cyborg lab~
+You are standing within the cyborg lab, there are incomplete cyborgs standing
+and watching you with red eyes.  You should just destroy them while you are
+here.
+~
+9 6153 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 984
+D3
+~
+~
+0 -1 982
+S
+#984
+Mad scientist's office~
+You are standing within a small office in the back of the Cyborg lag.  
+There are 2 large cyborgs, not as big as the one you encountered at
+the beginning of the area, but these 2 guys are real big.  You small
+a small man huddling in the back.
+~
+9 14345 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 983
+S
+#999
+A secret mission: NEWBIES BEWARE! HIGH LEVEL ONLY~
+Welcome soldier boy/girl/thing!.  You think you are tuff enough to  take
+out a world threat, then you just go NORTH.  But, if you are under level 45
+please, do not enter this area, you will DIE!
+~
+9 6156 0
+0d0+0 0 0
+D0
+~
+mission~
+2 995 900
+D4
+~
+~
+0 -1 2216
+S
+$

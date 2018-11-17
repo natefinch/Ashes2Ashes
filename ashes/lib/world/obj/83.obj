@@ -1,0 +1,685 @@
+#8300
+dress tight fitting~
+a tight-fitting dress~
+A tight-fitting dress hangs provocatively from a hook here.~
+~
+11 64 9 0
+0 0 0
+0 0 0 0
+5 6000 0
+A
+21 -3
+A
+13 4
+#8301
+veil silk heavy~
+a heavy silk veil~
+A heavy silk veil is here, awaiting some beautiful woman's face.~
+~
+11 64 17 0
+0 0 0
+0 0 0 0
+4 6000 0
+A
+23 -4
+A
+21 -4
+#8302
+spectacles glasses humfrey~
+Humfrey's spectacles~
+A very small pair of spectacles is here, the lenses growing smudged.~
+~
+11 64 17 0
+0 0 0
+0 0 0 0
+1 9000 0
+A
+3 3
+A
+11 -20
+#8303
+book big answers humfrey~
+Humfrey's Big Book of Answers~
+A big book belonging to Good Magician Humfrey is here. It looks well-used.~
+~
+3 65 16385 0
+0 0 0
+50 30 20 1
+20 100000 0
+#8304
+sword wooden long~
+a wooden longsword~
+A wooden longsword used in training lies here discarded.~
+~
+5 4096 8193 0
+0 0 0
+0 1 5 7
+6 400 0
+A
+17 -2
+A
+18 1
+#8305
+cutlet veal tasty~
+a tasty veal cutlet~
+A tasty veal cutlet is here, carefully wrapped in wax paper.~
+~
+19 0 16385 0
+0 0 0
+6 0 0 0
+6 6 0
+#8306
+pork chop meaty~
+a meaty pork chop~
+A meaty pork chop is here, fresh from Angril's Butcher Shop.~
+~
+19 0 16385 0
+0 0 0
+8 0 0 0
+8 8 0
+#8307
+tomato beef steak beefsteak~
+a beefsteak tomato~
+A very large brown tomato is here, dripping bloody juices.~
+~
+19 0 16385 0
+0 0 0
+12 0 0 0
+12 12 0
+#8308
+ham honey glazed large~
+a large honey-glazed ham~
+A large ham is here, well-glazed with honey and juices. It looks great!~
+~
+19 0 16385 0
+0 0 0
+16 0 0 0
+16 16 0
+#8309
+pie multi meat presentation~
+a multi-meat-ia presentation~
+A large meat pie is here. It looks like it contains several types of meat.~
+~
+19 0 16385 0
+0 0 0
+24 0 0 0
+24 24 0
+#8310
+chair sturdy wooden~
+a sturdy wooden chair~
+A sturdy wooden chair is here, perfect for sitting or putting in light bulbs.~
+~
+13 0 16385 0
+0 0 0
+0 0 0 0
+20 100 0
+#8311
+keg wooden huge~
+a huge wooden keg~
+A huge wooden keg is here...hmmm, wonder what's in it?~
+~
+17 0 1 0
+0 0 0
+500 0 0 0
+35 250 0
+#8312
+chest wooden solid heavy~
+a heavy wooden chest~
+A heavy chest made of solid wood sits here, its lid tightly closed.~
+~
+15 0 1 0
+0 0 0
+1000 1 0 0
+50 450 0
+#8313
+figurine carved wooden delicate~
+a delicately carved wooden figurine~
+A delicately carved wooden figurine is here, brightening up the room.~
+~
+8 0 16385 0
+0 0 0
+0 0 0 0
+1 50 0
+#8314
+stick walking cane carved beautiful~
+a walking stick~
+A beautifully carved walking stick is here, waiting to guide your steps.~
+~
+5 0 24577 0
+0 0 0
+0 1 6 7
+4 100 6
+A
+12 5
+A
+15 1
+#8315
+cloak warm woolen~
+a warm woolen cloak~
+A warm woolen cloak with a hood hangs from a peg here. Wonder whose it is?~
+~
+11 0 1025 0
+0 0 0
+0 0 0 0
+3 20 0
+#8316
+tunic woolen colorful~
+a colorful woolen tunic~
+A woolen tunic of many different colors lies here in a pile.~
+~
+11 0 9 0
+0 0 0
+0 0 0 0
+4 12 0
+#8317
+leggings cloth pair~
+a pair of cloth leggings~
+A pair of leggings made of cloth lie here in the mud, getting stepped on.~
+~
+11 0 33 0
+0 0 0
+0 0 0 0
+4 10 0
+#8318
+dress sundress pretty linen sheer~
+a pretty linen sundress~
+A pretty sundress made of sheer linen is here, waiting to be tried on.~
+~
+11 0 9 0
+0 0 0
+0 0 0 0
+6 30 0
+#8319
+socks pair warm woolen~
+a pair of warm-looking woolen socks~
+A warm-looking pair of woolen socks wait here to comfort your cold toesies.~
+~
+11 0 65 0
+0 0 0
+0 0 0 0
+1 2 0
+#8320
+helmet small xanth steel~
+a small helmet made of Xanthian steel~
+A small helmet forged from Xanthian steel is buried in the dirt here.~
+~
+9 9457728 17 0
+0 0 0
+5 0 0 0
+5 250 0
+A
+22 -1
+A
+23 -1
+#8321
+shield small xanth steel~
+a small shield of Xanthian steel~
+A small shield forged from Xanthian steel is here, collecting dust.~
+~
+9 9457728 513 0
+0 0 0
+5 0 0 0
+5 250 0
+A
+22 -1
+A
+23 -1
+#8322
+sword long steel xanth~
+a longsword of Xanthian steel~
+A sharp longsword forged from Xanthian steel sticks out of the ground here.~
+~
+5 8400960 8193 0
+0 0 0
+0 1 8 3
+5 100 0
+A
+17 1
+A
+18 1
+#8323
+axe battle steel xanth heavy~
+a battle axe of Xanthian steel~
+A heavy battle axe forged of Xanthian steel is here, ready for combat.~
+~
+5 8679488 8193 0
+0 0 0
+0 2 4 6
+9 250 0
+A
+18 1
+A
+17 -1
+#8324
+dagger sharp steel xanth~
+a dagger of Xanthian steel~
+A sharp dagger made from Xanthian steel sits here in its scabbard.~
+~
+5 8256 8193 0
+0 0 0
+0 1 4 11
+2 50 0
+A
+17 2
+A
+18 1
+#8325
+tapestry plain landscape xanth~
+a plain tapestry of a landscape of Xanth~
+A rather plain tapestry depicting a landscape of Xanth is here.~
+~
+8 0 16385 0
+0 0 0
+30 14 15 43
+3 10 0
+#8326
+tapestry fancy dor king xanth~
+a fancy tapestry of King Dor of Xanth~
+A fancy tapestry depicting King Dor of Xanth hangs from the wall here.~
+~
+8 0 16385 0
+0 0 0
+20 5 26 66
+5 30 0
+#8327
+tapestry beautiful woman unicorn~
+a beautiful tapestry of a woman and a unicorn~
+A beautiful tapestry depicting a woman and a unicorn brightens this room.~
+~
+8 0 16385 0
+0 0 0
+0 0 0 0
+8 50 0
+#8328
+curtains set fancy~
+a fancy set of curtains~
+A very fancy set of woven curtains is here, covering the window.~
+~
+13 0 1 0
+0 0 0
+0 0 0 0
+10 80 0
+#8329
+carpet thick beautiful cozy~
+a beautifully thick and cozy carpet~
+A beautifully thick and cozy carpet is on the floor here. Remove your shoes!~
+~
+13 0 1 0
+0 0 0
+0 0 0 0
+30 200 0
+#8330
+breadfruit bread fruit loaf stem~
+a loaf of breadfruit~
+A large, steaming loaf of bread with a stem on one end lies here.~
+~
+19 0 16385 0
+0 0 0
+12 0 0 0
+1 12 0
+#8331
+cookie sugar nena bush~
+a sugar cookie from one of Nena's private bushes~
+A sugar cookie from one of Nena's private bushes is here, soon to be eaten.~
+~
+19 0 16385 0
+0 0 0
+4 0 0 0
+1 4 0
+#8332
+pie papaya spinach sea whistle~
+a papaya pie~
+A whistling papaya pie is here, smelling of spinach and the sea...~
+~
+19 0 16385 0
+0 0 0
+6 0 0 0
+3 6 0
+#8333
+muffin nena extra special~
+one of Nena's extra-special muffins~
+One of Nena's extra-special muffins is here unguarded! What luck!~
+~
+19 0 16385 0
+0 0 0
+8 0 0 0
+1 8 0
+#8334
+cake chocolate fudge nena doom~
+Nena's chocolate-chocolate-fudge cake of DOOM~
+Nena's chocolate-chocolate-fudge cake of DOOM sits here ominously...~
+~
+19 0 16385 0
+0 0 0
+24 0 0 1
+10 48 0
+#8335
+helmet steel blue plume watchman~
+the Watchman's helmet~
+A sturdy steel helmet with a blue plume sits here in a place of honor.~
+~
+9 9983296 17 0
+0 0 0
+8 0 0 0
+8 10000 0
+A
+23 -2
+A
+22 -2
+#8336
+plate breast breastplate watchman circle blue~
+the Watchman's breastplate~
+A steel breastplate with a blue circle in the center of it lies here.~
+~
+9 9983296 9 0
+0 0 0
+8 0 0 0
+8 50000 0
+A
+22 -2
+A
+23 -2
+#8337
+sword watchman long longsword steel~
+the Watchman's longsword~
+You see a plain steel longsword here, well-polished and sharpened.~
+~
+5 8926272 8193 0
+0 0 0
+0 6 3 3
+5 25000 3
+A
+17 2
+A
+18 1
+#8338
+bow long longbow watchman yew~
+the Watchman's longbow~
+A longbow made of yew wood sits here unstrung.~
+~
+5 8942656 8193 0
+0 0 0
+0 6 3 11
+5 25000 3
+A
+17 2
+A
+18 1
+#8339
+bracer leather bowman~
+a leather bowman's bracer~
+A heap of leather designed to protect a bowman's arm lies here.~
+~
+9 4096 4097 0
+0 0 0
+2 0 0 0
+2 50 0
+A
+17 1
+#8340
+quiver leather~
+a plain leather quiver~
+An unadorned leather quiver lies half-covered by a pile of leaves.~
+~
+15 0 16385 0
+0 0 0
+100 0 0 0
+8 100 0
+#8341
+ironwood longbow bow wood iron~
+an ironwood longbow~
+An ironwood longbow, complete with string, awaits the return of a bowman.~
+~
+5 8400896 8193 0
+0 0 0
+0 2 4 11
+5 250 4
+A
+17 1
+#8342
+archer long wood bow~
+an archer's longbow~
+A well-maintained longbow lies here, gleaming brightly.~
+~
+5 8400896 8193 0
+0 0 0
+0 3 4 11
+7 350 0
+A
+17 2
+#8343
+bow long steel yeoman~
+a yeoman's longbow~
+A sturdy longbow, reinforced with steel, lies here awaiting a return to combat.~
+~
+5 8417280 8193 0
+0 0 0
+0 4 4 11
+10 500 0
+A
+17 3
+#8344
+sword short steel xanth~
+a shortsword of Xanthian steel~
+A shortsword forged from Xanthian steel is here in its leather sheath.~
+~
+5 8400960 24577 0
+0 0 0
+0 1 6 11
+3 80 0
+A
+17 2
+A
+18 1
+#8345
+sword bastard hand half steel xanth~
+a bastard sword of Xanthian steel~
+A hand-and-a-half bastard sword of Xanthian steel lies here on the ground.~
+~
+5 8417344 8193 0
+0 0 0
+0 1 10 6
+10 250 0
+A
+18 1
+A
+17 -1
+#8346
+sword two handed steel xanth huge~
+a two-handed sword of Xanthian steel~
+A huge two-handed sword of Xanthian steel hangs proudly from the wall.~
+~
+5 8679488 8193 0
+0 0 0
+0 3 4 6
+18 450 4
+A
+18 2
+A
+17 -2
+#8347
+rope coil 50 hemp~
+a 50' coil of hemp rope~
+A fifty-foot coil of strong hemp rope sits here awaiting a use.~
+~
+13 0 16385 0
+0 0 0
+0 0 0 0
+10 10 0
+#8348
+rope coil 50 silk~
+a 50' coil of silk rope~
+A strong, supple 50' coil of silk rope hangs from a spike here.~
+~
+13 0 16385 0
+0 0 0
+0 0 0 0
+5 20 0
+#8349
+rope coil 100 silk~
+a 100' coil of silk rope~
+A smooth, strong 100' coil of silk rope sits here on the ground, forgotten.~
+~
+13 0 16385 0
+0 0 0
+0 0 0 0
+10 40 0
+#8350
+rope coil 200 hemp~
+a 200' coil of hemp rope~
+A HUGE 200' coil of hemp rope awaits a sailing vessel here.~
+~
+13 0 16385 0
+0 0 0
+0 0 0 0
+40 80 0
+#8351
+rope coil 100 hemp~
+a 100' coil of hemp rope~
+A strong 100' coil of hemp rope is partially unwound here.~
+~
+13 0 16385 0
+0 0 0
+0 0 0 0
+20 40 0
+#8352
+spectacles glasses humfrey~
+Humfrey's spectacles~
+A very small pair of spectacles is here, the lenses growing smudged.~
+~
+11 64 17 0
+0 0 0
+0 0 0 0
+1 9000 0
+A
+7 10
+A
+10 25
+#8353
+book big answers humfrey~
+Humfrey's Big Book of Answers~
+A big book belonging to Good Magician Humfrey is here. It looks well-used.~
+~
+3 838720 16385 0
+0 0 0
+50 10 10 34
+20 100000 0
+A
+13 4
+A
+10 20
+#8354
+book big answers humfrey~
+Humfrey's Big Book of Answers~
+A big book belonging to Good Magician Humfrey is here. It looks well-used.~
+~
+12 64 16385 0
+0 0 0
+50 30 20 0
+20 100000 0
+A
+3 3
+A
+4 3
+#8355
+book big answers humfrey~
+Humfrey's Big Book of Answers~
+A big book belonging to Good Magician Humfrey is here. It looks well-used.~
+~
+12 64 16385 0
+0 0 0
+50 30 20 0
+20 100000 0
+A
+3 2
+A
+4 1
+#8356
+veil gorgon~
+the Gorgon's veil~
+A small veil rests on the ground here... wonder what maiden could have dropped it.~
+~
+12 8933440 17 0
+0 0 0
+0 0 0 0
+1 100 0
+A
+18 2
+A
+17 1
+#8357
+talent hugo fruit creation staff~
+Hugo's talent of fruit creation~
+ A small magical glow lies on the ground, it must be someone's lost talent.~
+~
+4 65 16385 0
+0 0 0
+50 50 50 12
+0 1000 0
+#8358
+shelves shelf book books~
+shelves (books)~
+Tall shelves line the walls, filled with books of all sorts.~
+These shelves are lined with books, tomes and librams on every subject imaginable.~
+15 0 0 0
+0 0 0
+1080 0 0 0
+1000 0 0
+#8359
+shelves shelf vial vials~
+shelves (vials)~
+Tall shelves line the walls, filled with vials of all sorts of different potions.~
+The shelves are line with countless kinds of potions, philters and vials.~
+15 0 0 0
+0 0 0
+1020 0 0 0
+1000 0 0
+E
+shelf shel she sh shelves shelve~
+The shelves are lined with countless kinds of potions, philters and vials.~
+#8360
+vial potion blue~
+a vial filled with blue liquid~
+A small vial of blue liquid sits here gathering dust.~
+~
+10 64 0 0
+0 0 0
+10 62 0 0
+1 0 0
+#8361
+flask potion smokey~
+a flask filled with smokey liquid~
+A flask filled with swirling smokey liquid sits on the ground here.~
+~
+10 64 0 0
+0 0 0
+10 1 0 0
+1 0 0
+#8362
+vial potion amber~
+a small amber vial~
+A small amber vial sits here gathering dust.~
+~
+10 64 0 0
+0 0 0
+10 15 0 0
+1 0 0
+#8363
+philter green potion~
+a large philter of green liquid~
+A large philter of green liquid sits here.~
+~
+10 64 0 0
+0 0 0
+30 39 0 0
+1 0 0
+#8398
+mouse tasty looking~
+a tasty-looking mouse~
+A tasty-looking mouse scurries around, trying to stay away from Cati.~
+~
+19 0 1 0
+0 0 0
+1 0 0 0
+1 500 0
+$

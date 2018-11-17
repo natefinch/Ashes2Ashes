@@ -1,0 +1,1130 @@
+#8500
+elminster shadowdale sage old mage wizard archmage el eladar elmara~
+Elminster~
+An old man with a long, white beard, calmly puffs on his pipe
+~
+   This is the legendary Sage of Shadowdale, Elminster. The oldest and most
+powerful wizard ever to have lived, he was taught magic by Mystra herself over
+a millenium ago. His appearance only hints at about 60 of his 1200 years of
+age, and his tall, thin frame has held up well to the passing centuries,
+thanks to his status as on of Mystra's Chosen. Though he could use his magic
+to take over the world, he is wise enough to know that such action would tear
+the Realms apart, thus he spends his power in thwarting such schemes made by
+others, most notably the Zhentarim, led by their High Lord, Manshoon. In fact,
+Elminster can boast of having killed Manshoon more times than anyone else (23
+times in fact, due to Manshoon's habit of being brought back to life in
+clones). Were it not for the intervention of Elminster, the Realms would have
+been destroyed on several occasions. 
+~
+4509705 267404 1000 W3
+145 85 -37 5d5+14000 28d5+48
+500 20000
+8 8 1
+20 0 18 18 20 15 0
+17 2 0
+-370 0 9 600 20 20
+10 10 10 10 10
+16 0 0
+6 0
+~
+#8501
+simbul witch queen sorceress mage chosen~
+the Simbul~
+The Simbul paces restlessly, awaiting Elminster's return.
+~
+   This simbul is the Queen of the eastern nation of Aglarond. She keeps
+at bay the forces of the Red Wizards of Thay, almost single-handedly. Her
+power in magic is rivalled by only a select few in the Realms. Speaking
+of a select few, she is also one of the Seven Sisters (the most powerful
+of the Seven), and one of the Chosen of Mystra. She is very fond of
+Elminster, since he is one of the few individuals in all the world who
+can understand her predicament. She can never truly trust anyone, because
+so many people would want to destroy her, and even loyal servants could
+be twisted by magic. With Elminster she has someone who is fond of her,
+and is well beyond the power of any mortal's magical influence.
+~
+276811 132140 500 W3
+127 69 -23 5d5+7985 10d10+30
+0 960000
+8 8 2
+13 0 18 15 13 13 0
+8 2 0
+-230 0 6 0 0 0
+10 10 10 10 10
+0 0 63
+6 0
+~
+#8502
+shandril girl young woman~
+Shandril~
+a young woman smiles at you warmly.
+~
+  Shandril Shessair is on of very few individuals who wield the power of
+Spellfire. Spellfire is the power to absorb energy (most notably magic) and
+convert it into raw power, with devestating results. Shandril's power has been
+sought by agents of the Zhentarim, the Cult of the Dragon, and several other
+powerful individuals. If not for the intervention, of Elminster, the Knights
+of Myth Drannor, and the Harpers, she would surely have been either killed or
+enslaved. With her newlywed husband Narm, she has crossed half the Realms in
+flight from those who would do her harm...so she doesn't have to burn them to
+cinders. 
+~
+22537 131072 800 W3
+40 30 -5 1d1+1499 20d2+20
+12000 225000
+8 8 2
+13 0 13 13 13 13 0
+12 2 0
+-50 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8503
+narm mage mageling wizard man~
+Narm~
+a man dressed in plain mage-robes is standing here.
+~
+   Narm is the husband of the spell-fire wielder, Shandril Shessair. Other than
+that distinction, there is little of conseqence about Narm. His magic is
+powerful enough that he could most likely magick himself out of a paper
+bag...if sorely pressed. 
+~
+6153 65544 650 W3
+17 20 9 10d10+400 3d5+4
+2000 54600
+8 8 0
+13 0 15 13 13 13 0
+8 2 0
+90 0 2 0 0 0
+55 55 55 55 55
+0 0 0
+6 0
+~
+#8504
+lord mourngrym man~
+Lord Mourngrym~
+Lord Mourngrym smiles and welcomes you to Shadowdale.
+~
+   The Lord of Shadowdale is a not-quite-middle-aged man, originally from
+Waterdeep. He was made Lord of the Dale following a tradition that no dalesman
+will have rule over another. Instead heroes of the Dale are given the
+position, in a semi-democratic vote. As a former member of the Knights of Myth
+Drannor, Mourgrym qualified and was willing to take the job. He rules the dale
+fairly and justly, and has not let the powqer of his postion make him
+high-and-mighty. He is a man of his word, and an all-around nice guy. 
+~
+4225097 0 800 W3
+72 40 -10 20d10+1600 6d5+30
+35000 171000
+8 8 1
+16 0 15 17 13 14 0
+20 2 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8505
+lady shaerl woman~
+Lady Shaerl~
+Lady Shaerl waves to you and smiles.
+~
+  The Lady of Shadowdale, was first sent to the dale as a spy for the kingdom
+of Cormyr. However, she fell in love with the man she was sent to spy on, and
+became the Lady of the Dale instead. Though, like Mourngrym, she is
+approaching middle age, she remains youthful at heart--a handy trait when the
+often-childish Knights of Myth Drannor are always aroud your home. 
+~
+30728 0 750 W3
+50 35 -10 10d10+1400 10d2+20
+20000 109125
+8 8 2
+13 0 15 13 17 11 0
+0 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8506
+Lhaeo scribe cook man~
+Lhaeo~
+Elminster's scribe, Lhaeo, is preparing a meal fit for an archmage.
+~
+  Lhaeo is a thin, soft-spoken man, wearing an apron stained with inkspots. He
+does the housekeeping for Elminster while he's away (and while he's home too)
+and he cooks meals for the sage. In return, Elminster has kept him hidden from
+his enemies. Lhaeo is the last of the Royal house of the nation of Tethyr, and
+those who seized power would want him dead...if they learned he was even
+alive.
+   Also, it would have been nearly impossible to spend so much time around
+Elminster and not learn any magic, and Lhaeo has learned more than just a
+little from the most mighty mage in the Realms. 
+~
+4257803 131080 500 W3
+65 56 -15 20d10+2300 10d3+25
+10000 289200
+8 8 1
+15 0 17 13 13 13 0
+8 2 0
+-150 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8507
+florin falconhand knight ranger man warrior~
+Florin~
+Florin Falconhand looks at you and wonders if you are a threat to the dale.
+~
+  Florin Falconhand is the leader of the Knights of Myth Drannor (and the most
+serious of the bunch). He is a ranger by trade, and the most formiddable of
+the Knights in melee combat. 
+~
+22537 32 800 W3
+60 47 -20 20d20+2600 5d4+50
+25000 224800
+8 8 1
+18 10 15 17 18 15 0
+19 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8508
+merith strongbow knight mage fighter elf elven~
+Merith~
+Merith is here, wondering where Jhessail wandered off to.
+~
+   Merith Strongbow is the only elven member of the Knights of Myth Drannor. He
+is practiced in both the arts of fighting and of wizardry, making him a
+valuable asset to the Knights. One of the more subdued of the Knights,
+Merith's playful sense of humor is all the more surprising when he displays
+it. his love of Jhessail of the Knights, a human, has made him more
+open-minded than most elves. 
+~
+4233481 328748 850 W3
+65 40 -15 15d10+2000 5d4+40
+1000 249900
+8 8 1
+13 0 17 16 18 9 0
+8 2 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8509
+Jhessail knight mage wizard lady woman~
+Jhessail~
+Jhessail is here, waiting for Merith.
+~
+   Jhessail is the more powerful of the two mages of the Knights of Myth
+Drannor. She is in love with the lef, Merith, and since elves live so much
+longer than humans, she seeks to extend her lifespan through the use of her
+magic. If she can't do that she will die of old age before her elven husband
+passes the prime of his youth. 
+~
+63497 131084 700 W3
+75 30 -7 10d10+1800 20d1+20
+34000 222600
+8 8 2
+13 0 18 13 13 13 0
+8 2 0
+-70 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8510
+illistyl knight mage lady woman~
+Illistyl~
+ Illistyl of the Knights is laughing at a joke someone made.
+~
+ Illistyl is the youngest of the Knights of Myth Drannor, and a mage. Though
+she is technically an apprentice of Jhessail, she is an accomplished
+spellcaster in her own right. Onne of the more rowdy of the Knights, she and
+her sometimes-lover, Torm, make sure that the Knights' adventures stay
+interesting--even if they don't mean to. 
+~
+14345 65544 700 W3
+65 25 -2 10d10+1500 7d2+14
+2000 186600
+8 8 2
+13 0 18 14 16 13 0
+8 2 0
+-20 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8511
+Torm knight thief man lord~
+Torm~
+Torm of the Knights smiles slyly, making you suspect he's up to something.
+~
+  The most interesting and least moral of the Knights of Myth Drannor, Torm is
+a thief by trade. He has given up crime (for the most part) and devoted his
+life to tormenting his closest friend in the Knights, Rathan. Torm always has
+a witty, and usually ill-considered remark for everything. Combined with his
+habit of chasing women, some of them married, it is amazing that he has
+managed to live as long as he has--and barring repeated intervention of his
+fellow Knights, he wouldn't have. 
+~
+30860 262144 450 W3
+60 35 -14 10d10+1500 3d5+26
+75000 116625
+8 8 1
+13 0 14 13 18 13 0
+0 2 0
+-140 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8512
+rathan preist cleric knight man~
+Rathan~
+Rathan takes a flask from his belt and drinks from it.
+~
+  Rathan of the Knights of Myth Drannor is a prist of Tymora, the Godess of
+Luck. In her service he takes many rash and reckless actions, and thus he is
+the perfect companion for Torm, who throws caution to the wind even without
+divine aid. But recklessness is not in Rathan's nature, and so to help him
+deal with it, he drinks. To keep himself from getting drunk in the process, he
+eats enough for 3 men, and thus has a rather large waistline. 
+~
+30985 4236 750 W3
+60 30 -10 20d10+2300 10d4+10
+20000 385600
+8 8 1
+13 0 16 18 13 18 0
+10 3 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8513
+lanseril druid knight man lord~
+Lanseril~
+Lanseril is watching over the people of the dale.
+~
+  Lanseril of the Knights of Myth Drannor is a druid. As a powerful agent of
+the forest gods, he is able to change into the shape of woodland animals. In
+more civilized areas, though, he is more reserved. He rarely speaks, and even
+then it is usually only in answer to someone speaking to him. In this way he
+is unique among the Knights...he can keep his mouth shut for more than a
+minute a t a time. 
+~
+22537 65568 1 W3
+43 30 -3 10d10+1400 8d3+15
+3 116400
+8 8 1
+13 0 13 18 13 13 0
+10 2 0
+-30 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8514
+storm silverhand woman bard chosen lady~
+Storm Silverhand~
+Storm Silverhand, Bard of Shadowdale, is working in the fields, hunning.
+~
+  Though the bard of Shadowdale appears to be in her early forties, she is
+actually only 12 years shy of her 600th birthday. As one of the Chosen of
+Mystra, she has seen more and done more than most mortals ever will. She is
+among the greatest bards in history, and her swordsmanship is the finest in
+all the Dales. Storm is also one of the younger of the Seven Sisters, and a
+senior member of the Harpers. One of the duties she has taken upon herself is
+to see to the safety of Elminster. Even though he is the most powerful mage in
+the world, she knows that he is mortal, and though it always seems that her
+help in unnecessary, it may one day save the life of the Sage of Shadowdale. 
+~
+4208907 16908316 900 W3
+85 65 -22 20d20+3600 5d4+69
+10000 457200
+8 8 2
+18 50 18 18 18 17 0
+8 2 0
+-220 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#8515
+man dalesman~
+a man of the dale~
+a dalesman goes about his business
+~
+  The dalesmen are friendly fork, but cautious. Once the realize you can be
+trusted, they will extend you their every hospitality. Killing them will _not_
+help them trust you any... 
+~
+20680 0 500 W3
+30 25 3 10d10+250 5d3+15
+1200 22875
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+30 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#8516
+woman daleswoman lady~
+a woman of the dale~
+a daleswoman is going about her daily routine
+~
+   Woman are treated as equals in the dales. They share in the work and enjoy
+the same priviledges as the men, except for the tradition of the dale being
+ruled by a "Lord" and not a "Lady." They are also involved in the defense of
+the dale, so you might want to think twice about attacking any of them. 
+~
+20680 0 500 W3
+30 25 2 10d10+240 4d3+15
+1300 22125
+8 8 2
+13 0 13 13 13 13 0
+0 2 0
+20 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#8517
+child small young boy~
+a small child~
+a small child is playing at being a great wizard.
+~
+  This little child wants to be a mage some day. Dressed up in a blanket
+(robes) and brandishing a stick (wand), you can picture this child's dreams
+coming true some day. 
+~
+4194511 262144 1000 W3
+4 5 9 10d10+10 2d2+2
+3 7800
+8 8 1
+13 0 13 13 13 13 0
+8 2 0
+90 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8518
+child small young girl~
+a small child~
+a small child is playing at being a great wizard.
+~
+  This little child wants to be a mage some day. Dressed up in a blanket
+(robes) and brandishing a stick (wand), you can picture this child's dreams
+coming true some day. 
+~
+4194511 262144 1000 W3
+4 5 9 10d10+10 2d2+2
+3 7800
+8 8 2
+13 0 13 13 13 13 0
+8 2 0
+90 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8519
+ghost witch sylune chosen mage sorceress wizard spirit shade~
+the Ghost of Sylune~
+The ghost of a dead witch resides here.
+~
+   Sylune, the Witch of Shadowdale, was once one of the Chosen of Mystra, and a
+defender of the dale, using her magic along side Elminster. ON one occasion,
+in defense of the dale, she fought a dragon, and had to break her Staff of the
+Magi to detroy it. The resulting explosion levelled part of the dale,
+including her small hut, and destroyed her corporeal form. She now lives in
+the house of her sister Storm, where she helps out in any way she is still
+capable of. 
+~
+4495371 660490 800 W3
+51 55 -42 14d20+1400 6d6+15
+0 201110
+8 8 2
+3 0 18 13 13 3 0
+8 2 0
+-420 0 2 0 0 0
+10 10 10 10 10
+16 0 0
+6 0
+~
+#8520
+Jhael Silvermane bartender innkeeper woman~
+Jhael Silvermane~
+Jhael Silvermane welcomes you to the Old Skull inn.
+~
+   Jhael Silvermane has lived in Shadowdale all her life, and knows all of the
+residents by name. As the innkeeper at the Old Skull, the only inn in
+Shadowdale, she is the first to hear almost all the gossip of the dale. 
+~
+6155 0 600 W3
+30 20 4 20d10+700 3d7+10
+20000 20000
+8 8 2
+13 0 13 13 13 13 0
+5 2 0
+40 0 2 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#8550
+cyric god prince avatar lord man~
+Cyric, the Prince of Lies~
+A hawk-nose man, surrounded by darkness, slouches in a dark throne
+~
+   This hawk-nosed man before you seems a weak avatar for the God of Strife.
+Don't let this form fool you though, it is only a shadow of his former
+mortality, the shape he wore the day that Ao, the overgod, bestowed godhood
+upon him. His power is not limited to the physical constraints of this form.
+His divine mantles include Lord of the Dead, God of Strife, Lord of Murder,
+and God of Deception. If he had but one of these titles, he would be more than
+a match for any mortal. Holding all four, he is more than a match for most
+gods. Your only hope to save your life-- not to mention your very soul-- is
+that he is not as powerful in the realm of mortals. 
+~
+319535 140840 -1000 W3
+127 72 -28 100d100+21000 15d17+40
+0 579000
+5 5 1
+18 100 18 3 18 18 0
+7 3 0
+-280 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8551
+manshoon lord high zhentarim mage wizard sorcerer~
+High Lord Manshoon~
+A wizard dressed in black stares coldly at you as he begins casting a spell.
+~
+   This is Manshoon, High Lord of the Zhentarim and the true ruler of
+Zhentil Keep. He is dressed in all black and dark blue, with his face
+obscured behind a mask. He is wearing long-sleeved black robes, and
+a high-horned cloak. All about him he carries powerful items of magic.
+If not for his deadly magical prowess, he would have been "replaced"
+by one of his ambitious underlings long ago. But Manshoon has learned
+to cheat death. He has found a way to keep clones of himself prepared
+to receive his consciousness when he dies, so he can go on living
+even after being killed. Now, hundreds of years old, Manshoon has no
+fear of death, neither of his own nor inflicting it upon others in the most
+horrible fashion.
+~
+2400303 132280 -850 W3
+132 90 -35 10d10+11000 20d9+40
+12000 25000
+8 8 1
+18 100 18 18 20 13 0
+8 5 0
+-350 10 8 300 25 25
+10 10 10 10 10
+3 0 0
+6 10
+~
+#8552
+fzoul chembryl priest bane highpriest~
+Fzoul Chembryl~
+A large, red-headed man wearing black platemail looks sternly at you.
+~
+   Fzoul Chembryl was once the high priest of Bane, and a man feared by
+every man woman and child in Zhentil Keep, expect perhaps Manshoon, who
+viewed him as a worthy ally. After the Time of Troubles, when Bane was
+dead, Fzoul turned reluctantly to the worship of Cyric. His ceremonial
+black platemail which once bore the holy symbol of Bane, now is just
+black.
+   Even without the full powers of a high priest, Fzoul is still a
+formiddable opponent. He is a large man, well trained in battle, and with
+years of experience with killing. Don't let the red hair and ringed
+moustache fool you. Fzoul is as much a threat now as almost any cleric
+in the Realms.
+~
+326155 136 -400 W3
+127 78 -32 10d10+6100 9d9+60
+50000 100000
+8 8 1
+18 0 13 18 13 13 0
+4 2 0
+-320 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8553
+clone manshoon manshoonclone man mage wizard archmage~
+a recently animated clone of Manshoon~
+A man looking exactly like Manshoon is standing here.
+~
+   This exact copy of Manshoon has had the dead mage's mind
+transferred to it. For all intents and purposes, it IS Manshoon now. It's
+as if he had never died, except that he is still a bit weak.
+~
+59403 132136 -900 W3
+80 40 -10 10d10+4050 5d6+10
+10000 100000
+8 8 1
+13 0 18 13 13 13 0
+8 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8554
+sarhthor mage man sinister wizard~
+Sarhthor~
+A sinister-looking wizard glares at you.
+~
+   While Sarhthor may look and act every bit the evil Zhentarim mage,
+he secretly holds allegience to the Harpers, an organization devoted
+to keeps the Realms safe from the likes of the Zhentilar. He is one of
+the only people that High Lord Manshoon has ever really trusted, since
+Sarhthor made it clear that he was content to remain Manshoon's
+underling. Don't let his loyalties fool you. Sarhthor may have the down-
+fall of the Zhentarim at heart, but he is willing to do almost anything to
+maintain the false trust of Manshoon.
+~
+59915 131112 320 W3
+80 67 -10 20d25+8000 8d3+15
+55000 85000
+8 8 1
+13 0 18 13 13 13 0
+8 2 0
+-100 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8555
+semmemon wizard mage man evil~
+Semmemon~
+An evil-looking man watches you curiously.
+~
+   Semmemon is third in command of the Zhentarim, and will likely
+never rise above that position. While manshoon values him for the power
+of the spells he can wield, he doesn't trust Semmemon at all. Loyalty
+isn't a common trait among the Zhentilar, but Semmemon surpasses
+almost any of them in duplicity. Were it not for his usefulness, he would
+most likely have "disappeared" long ago. Even then, it's only a matter
+of time until Manshoon can no longer tolerate him.
+~
+59435 131080 -700 W3
+75 60 -8 10d20+7900 7d3+15
+75000 60000
+8 8 1
+13 0 17 13 13 13 0
+8 2 0
+-80 0 4 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8556
+chess lord fat fop foppish~
+Lord Chess~
+A fat, foppish man grumbles about his "underlings."
+~
+   Lord Chess rules Zhentil Keep, if only in name. The real power in the
+city is Manshoon, and his beholder allies. However, puppet ruler he may
+be, but Chess does hold some power. To keep up appearances, he has
+"command" over all the armies of Zhentil Keep, and he is allowed to
+attend the meetings of the inner cirlce of the Zhentarim.
+   You could hardly ask for a more appropriate slob to set up as a figure-
+head, though. Chess has a certain charm about him, and can carry
+himself as a ruler should. One would hope so,since he was once a
+priest of Leira, godess of deceit. Secretly, Chess continues to worship
+the Lady of the Mists, but with the church of Cyric being dominant in
+his city, he dares not let that secret out.
+~
+26761 0 -200 W3
+60 35 -15 30d30+4000 10d5+25
+140000 55000
+8 8 1
+13 0 13 13 13 13 0
+17 2 0
+-150 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8557
+xeno mirrormane priest high~
+Xeno Mirrormane~
+The high-priest of Cyric is performing a dark ritual.
+~
+   This wild-eyed lunatic is the high priest of the most evil of gods. He
+seems more like a mad-scientist though, judging by the way he acts.
+He rants and raves, and talks of revenge for even the most insignificant
+of offenses. As Cyric's high priest, he feels that it is his duty to slaughter
+every last heretic in the Realms--a heretic being anyone who slights
+Cyric in any way, in thought, speech, or action. He proudly wears the
+silver bracers that all priests of Cyric wear to show their enslavement
+to the darkest of gods.
+   For all his apparent insanity, he is more than competant as an
+adversary.
+~
+32783 67240 -950 W3
+90 60 -20 66d66+666 6d6+66
+25000 489090
+8 8 1
+13 0 13 13 13 13 0
+9 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8558
+priest man robes robed~
+a priest of Cyric~
+A man in dark purple robes glares at you with contempt.
+~
+   Dressed in dark purple robes and a holy symbol depicting a skull in
+the middle of a sunburst, this man does not look friendly. You see the
+silver bracers on his wrists that mark him as a willing slave to the god
+Cyric. Cyrics priests profit from their slavery, however, and their god
+gives them considerable power in return for their souls.
+~
+26635 680 -800 W3
+30 30 -10 10d10+800 10d2+30
+12000 145350
+8 8 1
+13 0 13 13 13 13 0
+9 2 0
+-100 0 4 0 0 0
+25 25 25 25 25
+0 0 0
+6 0
+~
+#8559
+thug man churchman~
+a church-hired thug~
+A big thug with a club is looking for sacrifices for the priests.
+~
+   This brainless thug was hired by the chruch to scour the back alleys
+of Zhentil Keep for victims to use for dark ceremonies. They'll attack
+anyone who's not under the protection of the church (and occasionally
+those who are). If you look tough, and intimidating, maybe they'll leave
+you alone. They may be stupid, but attacking heavily armed adventurers
+is possible beyond even their stupidity.
+~
+16968 1024 -600 W3
+25 20 -1 10d20+600 5d5+19
+1000 52875
+8 8 1
+13 0 5 13 13 13 0
+0 2 0
+-10 0 6 0 0 0
+35 35 35 35 35
+0 0 0
+6 0
+~
+#8560
+child feral kid thief boy girl~
+a feral child~
+a feral child cheers and beckons for his friends to chase you.
+~
+   This is one of many children in Zhentil Keep who either have no
+parents, or have parents who don't care about them. As a result, they
+wander the streets in groups, like pack animals, doing as they please, 
+and answering to no one.
+~
+205 524290 -200 W3
+3 5 4 1d1+99 3d3+5
+1313 7500
+8 8 1
+13 0 13 13 18 13 0
+5 2 0
+40 0 2 0 0 0
+90 90 90 90 90
+0 0 0
+6 0
+~
+#8561
+beholder eyed manyeyed floating ball~
+the beholder~
+A many-eyed floating ball of flesh looks at you, with all it's eyes.
+~
+   This is a beholder, a large floating orb of many eyes, dominated by
+a large, toothy maw and a large central eye. Each eye other than the
+central one is at the end of a writhing eyestalk. When you look into
+the bloodshot central eye, you can see only your own impending
+death!
+~
+38954 8389664 -850 W3
+60 45 -30 10d20+4000 10d3+30
+200 307875
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+-300 0 0 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8562
+eye eyestalk charmpersoneye~
+an eyestalk~
+A writhing eystalk swivels around to stare at you.
+~
+   This eye eye is on the end of a stalk that is about two feet long. As
+you being to ponder the consequences of having an eye out that far
+from your body (catching it in doors, etc.) you suddenly realize that if
+you don't pay attention, this eye's magical power could destroy you.
+~
+61450 8912936 -850 W3
+40 10 -20 20d20+700 2d2+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8563
+eye eyestalk charmmonstereye~
+an eyestalk~
+A writhing eystalk swivels around to stare at you.
+~
+   This eye eye is on the end of a stalk that is about two feet long. As
+you being to ponder the consequences of having an eye out that far
+from your body (catching it in doors, etc.) you suddenly realize that if
+you don't pay attention, this eye's magical power could destroy you.
+~
+61450 8912936 -850 W3
+40 10 -20 20d20+700 2d2+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8564
+eye eyestalk sleepeye~
+an eyestalk~
+A writhing eystalk swivels around to stare at you.
+~
+   This eye eye is on the end of a stalk that is about two feet long. As
+you being to ponder the consequences of having an eye out that far
+from your body (catching it in doors, etc.) you suddenly realize that if
+you don't pay attention, this eye's magical power could destroy you.
+~
+61450 8912936 -850 W3
+40 10 -20 20d20+700 2d2+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8565
+eye eyestalk telekinesiseye~
+an eyestalk~
+A writhing eystalk swivels around to stare at you.
+~
+   This eye eye is on the end of a stalk that is about two feet long. As
+you being to ponder the consequences of having an eye out that far
+from your body (catching it in doors, etc.) you suddenly realize that if
+you don't pay attention, this eye's magical power could destroy you.
+~
+61450 8912936 -850 W3
+40 10 -20 20d20+700 2d2+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8566
+eye eyestalk stoneeye~
+an eyestalk~
+A writhing eystalk swivels around to stare at you.
+~
+   This eye eye is on the end of a stalk that is about two feet long. As
+you being to ponder the consequences of having an eye out that far
+from your body (catching it in doors, etc.) you suddenly realize that if
+you don't pay attention, this eye's magical power could destroy you.
+~
+61450 8912936 -850 W3
+40 10 -20 20d20+700 2d2+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8567
+eye eyestalk disintegrateeye~
+an eyestalk~
+A writhing eystalk swivels around to stare at you.
+~
+   This eye eye is on the end of a stalk that is about two feet long. As
+you being to ponder the consequences of having an eye out that far
+from your body (catching it in doors, etc.) you suddenly realize that if
+you don't pay attention, this eye's magical power could destroy you.
+~
+61451 8912936 -850 W3
+40 10 -20 20d20+700 2d2+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+13 1 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8568
+eye eyestalk feareye~
+an eyestalk~
+A writhing eystalk swivels around to stare at you.
+~
+   This eye eye is on the end of a stalk that is about two feet long. As
+you being to ponder the consequences of having an eye out that far
+from your body (catching it in doors, etc.) you suddenly realize that if
+you don't pay attention, this eye's magical power could destroy you.
+~
+61450 8912936 -850 W3
+40 10 -20 20d20+700 2d2+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8569
+eye eyestalk sloweye~
+an eyestalk~
+A writhing eystalk swivels around to stare at you.
+~
+   This eye eye is on the end of a stalk that is about two feet long. As
+you being to ponder the consequences of having an eye out that far
+from your body (catching it in doors, etc.) you suddenly realize that if
+you don't pay attention, this eye's magical power could destroy you.
+~
+61450 8912936 -850 W3
+40 10 -20 20d20+700 2d2+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8570
+eye eyestalk causewoundseye~
+an eyestalk~
+A writhing eystalk swivels around to stare at you.
+~
+   This eye eye is on the end of a stalk that is about two feet long. As
+you being to ponder the consequences of having an eye out that far
+from your body (catching it in doors, etc.) you suddenly realize that if
+you don't pay attention, this eye's magical power could destroy you.
+~
+61450 8912936 -850 W3
+40 10 -20 20d20+700 2d2+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8571
+eye eyestalk deathrayeye~
+an eyestalk~
+A writhing eystalk swivels around to stare at you.
+~
+   This eye eye is on the end of a stalk that is about two feet long. As
+you being to ponder the consequences of having an eye out that far
+from your body (catching it in doors, etc.) you suddenly realize that if
+you don't pay attention, this eye's magical power could destroy you.
+~
+61450 8912936 -850 W3
+40 10 -20 20d20+700 2d2+0
+0 15000
+8 8 0
+13 0 13 13 13 13 0
+0 1 0
+-200 0 2 0 0 0
+10 10 10 10 10
+0 0 0
+6 0
+~
+#8572
+zhent zhentarim soldier man~
+a Zhentarim soldier~
+A Zhentarim soldier partols the area.
+~
+   Big, nasty-looking, wearing black plate armor. That about summs up
+any Zhentarim warrior you'll ever meet. They're long on brute force, weak
+on subtlety, stealth, and brains. Any adventurer worth his salt could
+take down half a dozen of them without breaking a sweat.
+~
+18536 0 -500 W3
+52 30 -10 10d10+800 10d5+20
+8000 67875
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8573
+sentry zhentarim man zhent~
+a Zhentarim senty~
+A Zhentarim sentry tries to stop you!!
+~
+   Their lives depend on nobody getting past them without permission.
+From that point of view, you can understnad why they as attack on
+sight at the slightest chance of that happening. They're better trained
+than the normal Zhent soldiers, and might actually be able to stop you.
+~
+63530 0 -600 W3
+55 40 -20 20d20+2000 10d5+40
+20000 158250
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-200 0 6 0 0 0
+10 10 10 10 10
+0 0 0
+6 10
+~
+#8574
+stone golem~
+a huge stone golem~
+A huge stone golem guards the door.
+~
+   Carved from a block of stone, this 20 foot tall guardian might prove
+to be a bit tough to move. At least the stupid thing doesn't seem to
+mind you being here, as long as you don't try to go through the door
+it's guarding.
+~
+57386 131072 0 W3
+75 40 -30 1d1+19999 20d20+20
+0 1000000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-300 0 4 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#8575
+spectral armor suit spectre~
+an armored spectral guardian~
+A suit of armor stands against one one of the room.
+~
+   This suit of armor gives you the creeps. It seems to emit a feeling
+of cold and fear. Perhaps this is just an illusion that Manshoon created
+to unnerve unwanted guests.
+   Heh, if you knew Manshoon, you'd know better than to think he'd
+want anything non-lethal guarding him.
+~
+319530 552 -900 W3
+35 60 -10 20d20+1100 5d5+10
+0 90750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-100 0 6 0 0 0
+10 10 10 10 10
+16 0 0
+6 10
+~
+#8576
+rxudya~
+a devious spell-ward~
+a devious spell-ward is here to stop you however it can.
+~
+   A small ward is carved into the floor, designed to kill people who
+aren't meant to be here.
+~
+61483 524456 0 W3
+15 -20 -100 10d10+30 0d1+0
+0 5000
+8 8 0
+13 0 13 13 13 13 0
+14 0 0
+-1000 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 10
+~
+#8577
+ikdetk~
+a nasty spell-ward~
+a nasty spell-ward is carved into the floor.
+~
+   A small ward is carved into the floor, designed to kill people who
+aren't meant to be here.
+~
+61483 524456 0 W3
+15 -20 -100 10d10+30 0d1+0
+0 5000
+8 8 0
+13 0 13 13 13 13 0
+12 0 0
+-1000 0 2 0 0 0
+60 60 60 60 60
+0 0 0
+6 10
+~
+#8578
+oodtj~
+a deadly spell-ward~
+a deadly spell-ward is giving off an aura of death.
+~
+   A small ward is carved into the floor, designed to kill people who
+aren't meant to be here.
+~
+61483 524456 0 W3
+20 -20 -100 10d10+30 0d1+0
+0 5000
+8 8 0
+13 0 13 13 13 13 0
+16 0 0
+-1000 0 2 0 0 0
+50 50 50 50 50
+0 0 0
+6 10
+~
+$

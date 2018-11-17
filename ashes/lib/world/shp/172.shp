@@ -1,0 +1,168 @@
+CircleMUD v3.0 Shop File~
+#0~
+17202
+17204
+17206
+-1
+1.3 
+0.7 
+5
+6
+7
+4
+-1
+%s I don't carry anything like that in stock.~
+%s You have nothing like that one you!~
+%s I don't buy such rubbish! Take it elsewhere.~
+%s I can't afford such a great weapon!~
+%s If you can't pay in cash, you don't get the merchandise.~
+%s That will cost you just %d coins. Enjoy your new toy.~
+%s Here, you can have %d coins for that.~
+0 
+0 
+17200 
+0 
+17220 
+-1
+0 
+28 
+0 
+0 
+#1~
+17207
+17208
+17209
+17210
+-1
+1.2 
+0.8 
+1
+15
+19
+13
+8
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a treasure.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0 
+0 
+17203 
+0 
+17294 
+-1
+0 
+28 
+0 
+0 
+#2~
+17215
+17216
+17217
+-1
+1.2 
+0.7 
+9
+11
+12
+-1
+%s Haven't got anything like that on storage - try list!~
+%s You don't seem to have anything like that.~
+%s I only buy the best armors.. Go away!~
+%s That is too expensive for me - Try a wizard!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0 
+0 
+17201 
+0 
+17266 
+-1
+0 
+28 
+0 
+0 
+#3~
+17200
+17201
+17203
+-1
+1.05 
+0.15 
+2
+3
+4
+10
+-1
+%s Sorry, I haven't got exactly that item.~
+%s You don't seem to have that.~
+%s I don't buy such items.~
+%s That is too expensive for me!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0 
+0 
+17204 
+0 
+17265 
+-1
+0 
+24 
+0 
+0 
+#4~
+17211
+17212
+17213
+17214
+-1
+1.0 
+1.0 
+17
+23
+-1
+%s Sorry, I don't have that kind of container -- try list!~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, but here, no money means no water!~
+%s That will be %d coins, please.  Thank you.~
+%s Oops - %d a minor bug - please report.~
+0 
+0 
+17202 
+0 
+17267 
+-1
+0 
+28 
+0 
+0 
+#17205~
+-1
+1.0
+1.0
+-1
+?~
+?~
+?~
+?~
+?~
+?~
+?~
+-1
+0
+17205
+0
+-1
+0
+24
+0
+0
+$~

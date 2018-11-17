@@ -1,0 +1,566 @@
+#4100
+doctor witch hobgoblin~
+the witch doctor~
+A hobgoblin witch doctor growls as your arrival disrupts his ritual.
+~
+Clad in feathers and painted strangely, the witch doctor has a frightening
+appearance. It might not be a good idea to annoy him.
+~
+47 1032 -100 W
+16 10 2 5d20+166 2d6+0
+2500 7500
+8 8 1
+13 0 13 13 13 13 0
+8 2 2
+20 0 2 0 0
+60 60 60 60 60
+0 0 0
+6 10
+#4101
+ogre magi~
+the ogre magi~
+An ogre magi is here, lurking in ambush for you.
+~
+Well, it looks dangerous!
+~
+47 1064 -800 W
+14 12 1 3d10+166 2d7+1
+500 6500
+8 8 1
+13 0 13 13 13 13 0
+17 3 2
+10 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 10
+#4102
+snake cobra black~
+the black cobra~
+A terrifying black cobra raises its head to confront you.
+~
+You see a evil creature.
+~
+47 1024 -700 W
+13 12 5 10d10+83 3d5+2
+0 1500
+8 8 1
+13 0 13 13 13 13 0
+6 2 0
+50 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 10
+#4103
+thief hobgoblin assassin~
+the hobgoblin assassin~
+A hobgoblin assassin unsheathes his dagger and grins toothily.
+~
+Funny how you didn't notice him before...
+~
+77 1034 -400 W
+11 7 3 1d10+166 2d5+2
+100 8500
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+30 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#4104
+orc~
+the orc~
+A ugly orc is standing here.
+~
+It's quite disgusting to look at.
+~
+236 1024 -200 W
+8 6 4 1d5+150 2d4+1
+200 4000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 10
+#4105
+centipede~
+a centipede~
+A small harmless centipede is here.
+~
+Well it doesn't seem to pay any attention to you.
+~
+8 0 300 W
+7 5 4 5d10+83 1d8+1
+0 3000
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#4106
+raider hobgoblin~
+the hobgoblin raider~
+A hobgoblin raider appears out of nowhere and attacks!
+~
+He doesn't look friendly at all...
+~
+108 1024 -300 W
+12 10 3 5d10+166 2d6+2
+500 2000
+8 8 1
+13 0 13 13 13 13 0
+0 2 2
+30 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#4107
+goblin~
+the goblin~
+A nasty little goblin is here, waving a rock at you.
+~
+It looks slimy..
+~
+108 0 -100 W
+11 6 4 6d10+41 1d9+1
+20 750
+8 8 1
+13 0 13 13 13 13 0
+0 1 2
+40 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 10
+#4108
+mantis thri-kreen~
+a thri-kreen~
+A thri-kreen moves around here, going about its incomprehensible business.
+~
+Thri-kreen, or "mantis warriors" as they are sometimes called, are a race of
+intelligent insectoids slightly shorter than humans. They have four arms, any
+of which is as mobile as a human arm, though not quite as strong, and a shiny
+black carapace that is tougher than most kinds of armor. They are not evil,
+and will not usually attack unless provoked.
+~
+4196493 1064 0 W
+14 12 0 10d8+160 3d4+0
+650 6000
+8 8 0
+13 0 13 13 13 13 0
+19 2 2
+0 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 0
+#4109
+mantis warrior thri-kreen~
+the thri-kreen warrior~
+An insectoid mantis warrior moves to prevent your intrusion.
+~
+The thri-kreen, or "mantis warriors" as they are sometimes called, are a race
+of intelligent insectoids. They are slightly shorter than humans, on average.
+They have four arm-like appendages, all of which are capable of wielding
+weapons. They also have a hard, shiny exoskeleton that is as tough as some of
+humankind's best armor. This one is a warrior, and does not appear pleased to
+see you.
+~
+4208681 1064 0 W
+20 14 -1 10d4+200 2d6+2
+750 4000
+8 8 0
+13 0 13 13 13 13 0
+17 2 2
+-10 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 10
+#4110
+loremaster thri kreen thri-kreen~
+the thri-kreen loremaster~
+The loremaster of the thri-kreen raises his ant-like head at your arrival.
+~
+This thri-kreen is smaller than most of the others. He wears a robe with some
+very odd mystical symbols on it, none of which look at all familiar. He 
+carries an odd-looking dagger as well. He does not look amused at your
+presence in his laboratory, so you might want to think about leaving.
+~
+10379 1064 0 W
+19 12 0 10d4+220 1d6+1
+1000 5500
+8 8 0
+13 0 13 13 13 13 0
+8 2 2
+0 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 0
+#4111
+hivemaster~
+the Hivemaster~
+The Hivemaster sits here on his throne, wondering what to do
+~
+The thri-kreen Hivemaster is truly an awesome spectacle of insectoid splendor.
+His exoskeleton looks like burnished ebony, and his limbs are strong and
+supple. Truly a noble example of the breed. He eyes you inquisitvely, perhaps
+wondering if he should have you killed for disturbing him.
+~
+4225035 1032 0 W
+26 17 -3 3d12+300 2d5+2
+1500 12000
+6 6 1
+13 0 13 13 13 13 0
+20 2 2
+-30 0 6 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#4112
+thri-kreen mantis concubine~
+a thri-kreen concubine~
+A thri-kreen concubine is lying here, awaiting the Hivemaster's pleasure.
+~
+This thri-kreen is a bit smaller than most of the others you've seen so far.
+It is also shaped a little differently. The position it is lying in is
+probably very provocative, if one is a human-sized insect.
+~
+4194447 1032 11 W
+18 10 0 1d8+160 3d3+0
+350 5000
+5 5 2
+13 0 13 13 13 13 0
+19 2 2
+0 0 2 0 0
+55 55 55 55 55
+0 0 0
+6 0
+#4113
+kuo-toa fish humanoid~
+the kuo-toa~
+A fish-faced humanoid surfaces from under the water and attacks!
+~
+Kuo-toa are slightly shorter than humans, with webbed feet and hands, and the
+faces of some very evil-looking fish. They are cruel, heartless, and evil,
+and this one is on its home turf in the water. You're definitely in trouble.
+~
+2220 1064 -750 W
+19 13 0 4d10+200 3d5+2
+1500 7000
+8 8 0
+13 0 13 13 13 13 0
+0 2 2
+0 0 4 0 0
+50 50 50 50 50
+0 0 0
+6 10
+#4114
+warrior kuo-toa fish~
+a kuo-toa warrior~
+A kuo-toa warrior swims toward you with hate in its eyes.
+~
+Larger than the average kuo-toa, this warrior has powerfully built arms and
+legs, perfect for long harpoon casts and rapid swimming, respectively. But
+you have probably already discovered this...
+~
+2089 1064 -750 W
+24 15 -1 5d6+250 4d6+0
+2250 6500
+8 8 0
+16 0 13 13 13 13 0
+18 2 2
+-10 0 4 0 0
+40 40 40 40 40
+0 0 0
+6 10
+#4115
+mage kuo-toa fish~
+the kuo-toa mage~
+A kuo-toa mage raises its arms in a threatening gesture.
+~
+Despite their fishy appearance, kuo-toa are able to become quite powerful
+as magicians. This one is certainly no exception. Time to flee...
+~
+10415 1064 -750 W
+28 17 -1 5d6+250 2d10+0
+3000 13500
+8 8 0
+13 0 13 13 13 13 0
+8 2 2
+-10 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 10
+#4116
+priestess high kuo-toa blipdoolpoolp~
+the kuo-toa high priestess~
+The high priestess of Blipdoolpoolp hisses at your defamation of her shrine!
+~
+The high priestess is a bit shorter than the average kuo-toa, but as she
+hisses at you and bares her one-inch fangs, you feel distinctly uneasy.
+The way she is waving her arms at you is distinctly disquieting as well.
+~
+6319 1064 -1000 W
+35 20 -3 10d4+350 5d5+1
+5000 12000
+8 8 2
+13 0 13 13 13 13 0
+10 2 2
+-30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#4117
+duergar grey dwarf miner gray~
+a duergar miner~
+A muscular duergar miner is here, sweat streaming from his brow as he labors.
+~
+Duergar, or grey dwarves as they are sometimes known to humanity, are about
+the same size as their brethren who live aboveground. Their coloration is
+completely different, however. Their skins are a dusty grey, hair either
+white or black, and their eyes are an eerie-looking grey, with no pupils or
+iris in evidence. Also, they do not like humans, so you had better watch
+your step with them.
+~
+6155 132096 0 W
+23 13 -1 10d6+250 3d5+5
+2500 5000
+8 8 1
+18 0 13 13 13 13 0
+17 1 2
+-10 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 0
+#4118
+duergar grey gray dwarf miner~
+an angry duergar~
+An angry duergar miner, blinded by your lights, attacks with a shout!
+~
+This duergar looks much the same as the others, but his eyes are apparently
+a bit more sensitive to the light than his brethren. Duergar do not much
+like surface-dwellers in the first place, especially humans, and you doubt
+that you will get out of this one without a fight...
+~
+2091 132096 -350 W
+22 10 0 10d6+250 3d5+5
+2500 6600
+8 8 1
+18 0 13 13 13 13 0
+17 1 2
+0 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 10
+#4119
+grey gray dwarf miner duergar off-duty~
+an off-duty duergar miner~
+An off-duty duergar miner is sleeping the sleep of the exhausted here.
+~
+Duergar, or grey dwarves as they are sometimes called by humans, are short,
+squat fellows, averaging a little over four feet in height. They are very
+broad and muscular, and this one looks as if he has been working hard for
+a long time. It's probably not a good idea to wake him.
+~
+2091 132096 -150 W
+23 13 -1 10d6+250 3d5+5
+2500 7000
+4 4 1
+18 0 13 13 13 13 0
+17 1 2
+-10 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 10
+#4120
+grey gray dwarf duergar guard~
+a duergar guard~
+A duergar guard is here, making sure nothing untoward happens.
+~
+Short and broad, this particular grey dwarf looks as solid as a rock. He eyes
+you with firm contempt, and it is easy to tell that he doesn't like you much.
+After a quick look at his sturdy-looking weapon, you wonder if it might no
+be a good idea to leave before he gets angry...
+~
+4105 132096 0 W
+32 15 -1 12d8+270 2d10+4
+3500 8000
+8 8 1
+18 0 13 13 13 13 0
+20 1 2
+-10 0 4 0 0
+20 20 20 20 20
+0 0 0
+6 0
+#4121
+duergar mine master minemaster~
+the duergar mine master~
+The duergar mine master screams a battle cry and attacks!
+~
+This dwarf looks as if he attained the position of mine master by taking on
+all the other duergar in the mine in combat...and winning. He is very angry
+at your disruption of his proceedings, and he hates humans anyway. You are
+definitely in deep trouble.
+~
+43 132096 -500 W
+38 18 -3 10d6+400 3d9+3
+6500 15000
+8 8 1
+18 0 13 13 13 13 0
+20 1 2
+-30 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#4122
+troll huge green~
+a huge green troll~
+A huge green troll emerges from the shadows and attacks!
+~
+Fully nine feet tall, with green, rubbery skin and huge black claws and
+fangs, trolls are among the most fearsome beasts one can encounter. They
+lack much intelligence, but possess great cunning, and their ability to
+regenerate any damage not caused by fire or acid makes them almost invincible.
+If you have any will to live at all, run now!
+~
+8237 1064 -500 W
+28 15 0 10d8+300 5d5+0
+3000 11500
+8 8 0
+18 0 13 13 13 13 0
+4 3 2
+0 0 6 0 0
+30 30 30 30 30
+0 0 0
+6 10
+#4123
+troll reaver~
+a troll reaver~
+A troll reaver bellows in rage and hurls itself at you!
+~
+Even larger than the average troll, troll reavers are also more to be
+feared than their brethren. They are big, ugly, and have very little
+intelligence. They live to kill anything that moves, and you qualify...
+~
+8233 1064 -500 W
+34 17 -1 12d6+370 4d7+1
+4000 12000
+8 8 0
+18 0 13 13 13 13 0
+18 3 2
+-10 0 6 0 0
+15 15 15 15 15
+0 0 0
+6 10
+#4124
+troll king trollking~
+the troll king~
+The largest troll of them all bares its fangs at you and attacks!
+~
+This troll is HUGE. It must be almost ten feet tall! You'd better run while
+you still have the legs to do it with!
+~
+8235 1064 -500 W
+43 22 -3 8d5+500 5d7+0
+10000 18000
+8 8 1
+18 0 13 13 13 13 0
+20 4 2
+-30 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#4125
+mind flayer mage~
+the mind flayer~
+An evil mind flayer prepares to devour your brain.
+~
+Mind flayers are sickening-looking humanoids, approximately human height but
+not quite as broad. They have purple skin, and bulging, milky white eyes with
+no pupils. They have a number of long tentacles where their mouths should be.
+They are very intelligent, and wholly evil. The are also very potent
+magic-users. 
+~
+26799 1192 -1000 W
+50 22 -5 8d5+300 3d7+2
+10000 20000
+8 8 0
+13 0 13 13 13 13 0
+8 2 2
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#4150
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#4160
+~
+~
+~
+~
+8 0 0 W
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+100 100 100 100 100
+0 0 0
+6 0
+#4198
+anarchy wolf companion~
+Anarchy~
+Anarchy, another of Dyrewulf's lupine companions, rests here peacefully.
+~
+Anarchy is a huge grey wolf, a little smaller than Chaos, but sleeker as well.
+He wears a black leather collar studded with spikes, and a silver nameplate
+informs you of his name. He is resting right now, so he doesn't feel like
+bothering with you, but you'd better not try anything funny!
+~
+4220939 132136 0 W
+50 40 -40 0d0+30000 10d10+40
+0 0
+5 5 1
+13 0 13 13 13 13 0
+18 3 3
+-400 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#4199
+chaos wolf companion~
+Chaos~
+Chaos, one of Dyrewulf's lupine companions, rests here by the fire.
+~
+Chaos is a very large black wolf, with formidable-looking fangs and claws.
+He wears a black leather collar studded with spikes, and a silver nameplate
+on the collar proclaims his name in large block letters. He looks far too
+tough for you to handle, so you'd better treat him with some respect!
+~
+4204555 132136 0 W
+50 40 -40 0d0+30000 10d10+40
+0 0
+5 5 1
+13 0 13 13 13 13 0
+17 3 3
+-400 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+$

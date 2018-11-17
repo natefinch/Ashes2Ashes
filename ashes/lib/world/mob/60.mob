@@ -1,0 +1,363 @@
+#6000
+john lumberjack~
+John the Lumberjack~
+John the Lumberjack is here, looking for some trees to chop down.
+~
+He is six feet tall and looks quite strong, muscles bulging under his heavy,
+chequered shirt.  His features are worn with hard work and his expression is
+one of a peaceful man leading a simple life.
+~
+2124 32 370 W
+7 5 6 1d12+100 1d4+3
+100 2625
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+60 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#6001
+rabbit~
+the rabbit~
+A small rabbit is foraging in the bushes here.
+~
+It is a small, furry creature with long ears and big feet.
+~
+72 0 0 W
+2 0 6 1d4+1 1d4+0
+0 150
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+60 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#6002
+bear~
+the brown bear~
+A big, brown, angry-looking bear is here.
+~
+The bear is a big, brown, furry animal with very large claws and very sharp
+teeth.  It doesn't resemble those cute little dolls from toy shops at all.
+~
+1128 0 -50 W
+13 7 3 1d12+163 2d6+2
+0 10000
+4 8 0
+13 0 13 13 13 13 0
+0 5 0
+30 0 2 0 0
+65 65 65 65 65
+0 0 0
+6 10
+#6003
+rabbit~
+the ferocious rabbit~
+A ferocious rabbit is here, glaring hungrily at you.
+~
+This small, furry creature with long ears and big feet has been attacked by
+the dreaded rabbit rabies, a horrible disease that turns helpless and innocent
+rabbits into ferocious and bloodthirsty monsters.
+~
+104 0 -150 W
+4 3 6 1d4+43 1d8+0
+0 875
+4 8 0
+13 0 13 13 13 13 0
+0 5 0
+60 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 10
+#6004
+deer~
+the fallow deer~
+A fallow deer is grazing peacefully here.
+~
+She is a graceful creature on long, slender legs, and with large, brown eyes
+looking back at you with an air of watchful interest.
+~
+74 8 350 W
+3 1 5 3d8+13 1d6+0
+0 575
+8 8 2
+13 0 13 13 13 13 0
+0 5 0
+50 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#6005
+fox~
+the brown fox~
+A brown fox is stalking rabbits through the underbrush here.
+~
+It is a large fox with beautiful, red-brown fur and a long, thick bushy tail.
+~
+72 0 -50 W
+3 2 6 1d4+30 1d6+0
+0 562
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+60 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#6006
+bird large~
+the bird~
+A large bird with a broken wing has been cornered here.
+~
+The bird isn't going to live much longer, by the looks of it.
+~
+10 0 0 W
+2 3 10 3d3+1 1d2+1
+0 62
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#6007
+bobcat cat~
+the bobcat~
+A medium sized bobcat is stalking a bird here.
+~
+The bobcat has sharp claws and teeth, and will probably eat you instead of the
+bird if you give it the chance.
+~
+42 32 -150 W
+9 5 5 1d12+100 2d4+3
+0 2750
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+50 0 2 0 0
+75 75 75 75 75
+0 0 0
+6 10
+#6008
+sparrow~
+the sparrow~
+A sparrow is flapping around by the ground.
+~
+The sparrow looks like it is enjoying life.
+~
+72 0 200 W
+1 0 9 5d3+1 1d4+0
+0 62
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#6009
+robin~
+the robin~
+A robin is hopping around looking for bugs to eat.
+~
+The robin looks quite intent on finding a bug or worm to eat.
+~
+72 0 200 W
+1 0 9 5d3+1 1d4+0
+0 62
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+90 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#6010
+squirrel~
+the squirrel~
+A squirrel is here seeking refuge in it's nest.
+~
+It peers out of it's next at you anxiously, seeming to plead silently with you
+to leave it alone.
+~
+10 0 200 W
+2 0 8 1d7+15 1d5+0
+0 300
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+80 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#6011
+badger~
+the sleepy badger~
+A furry brown badger is curled up under a log here.
+~
+The badger is slowly awakening and peering up at you from it's burrow. You know
+that it won't be moving this slow for long.  It's sharp claws and teeth catch
+your attention when you consider killing it.
+~
+10 0 50 W
+6 3 5 1d5+80 2d3+2
+0 1625
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+50 0 2 0 0
+85 85 85 85 85
+0 0 0
+6 0
+#6012
+grey squirrel~
+the grey squirrel~
+A grey squirrel with a bushy tail is foraging for nuts here.
+~
+This happy creature seems to pay you no heed as it goes about it's search for
+nuts among the leaves and twigs on the ground here.
+~
+72 524288 150 W
+3 1 8 1d12+36 1d6+0
+0 500
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+80 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#6013
+chipmunk~
+the small chipmunk~
+A small brown-red chipmunk dashes from tree to tree here.
+~
+The absolute zenith of hyperactivity, this small rodent seems to never tire of
+running up, down, and around the trees in this area.  If you could ever catch
+it, you imagine it would make an easy meal.
+~
+72 524288 170 W
+2 0 5 3d5+5 1d4+0
+0 500
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+50 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#6014
+crow black bird~
+the large black crow~
+A large black crow flits about here, picking at bits of carrion.
+~
+The bird eyes you warily, but continues with it's meal.
+~
+266 0 -20 W
+3 1 8 1d12+36 1d5+1
+3 500
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+80 0 2 0 0
+90 90 90 90 90
+0 0 0
+6 0
+#6015
+grotesque vulture~
+the grotesque vulture~
+A grotesque vulture covered in blood and gore is here feeding madly.
+~
+It sickens you to even look at this foul bird.  Bits of dried gore stick to
+it's beak, and unidentifiable organs hang from it's talons and feathers.  
+It sees you and attacks, protecting it's horrible feast!
+~
+46 16416 -700 W
+8 5 4 1d12+113 2d3+2
+14 4375
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 10
+#6016
+buck deer~
+the young buck~
+A young 5-point buck is drinking from the lake here.
+~
+This young male deer is drinking from the edge of the lake and watching you
+warily.  His antlers are not full size yet, and will no doubt be quite 
+impressive in a few years.
+~
+74 8 350 W
+7 3 4 1d12+80 1d5+3
+0 1875
+8 8 1
+13 0 13 13 13 13 0
+0 5 0
+40 0 2 0 0
+80 80 80 80 80
+0 0 0
+6 0
+#6017
+fish~
+the fish~
+~
+The fish looks about the right size for a meal.
+~
+10 0 100 W
+1 0 10 3d5+0 1d3+0
+0 75
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+100 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+#6097
+guard ranger~
+the ranger's guild guard~
+A guard dressed in dark green watches you carefully.
+~
+The guard seems to blend in with the forest around him.  He is
+wearing dark green clothes which leave his arms bare to the
+shoulder. His long stringy muscles are defined along his arms
+giving you the impression of strength and edurance.
+~
+2059 0 400 W
+52 20 -9 100d50+3000 4d10+15
+10000 550000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+-90 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#6099
+wise old man~
+a wise old man~
+A very old man squats near the fire warming his hands.
+~
+An old man wearing nothing but a loincloth.  His skin naturally dark
+but also darkened and wrinkled from years of exposure to the sun.
+A mane of long gray hair is pulled back into a pony tail behind his
+head.
+~
+2059 136 300 W
+127 30 -10 100d50+6000 10d5+15
+0 1000000
+8 8 1
+13 0 13 13 13 13 0
+3 2 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+$

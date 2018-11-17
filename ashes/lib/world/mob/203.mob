@@ -1,0 +1,782 @@
+#20300
+green slime~
+a Green Slime~
+The Green Slime is here oozing around your body.
+~
+This thing is think and green, and is surrounding your entire body.  Every
+place it touches you seems to burn like a thousand sharp needles poking into
+your body.  Kill it before it kills you!
+~
+32815 0 -1000 W
+24 24 10 10d10+500 3d3+15
+0 37250
+5 5 0
+18 0 3 18 13 18 0
+18 5 0
+100 0 2 0 0
+40 40 40 40 40
+0 0 0
+6 10
+#20301
+red spotted jelly~
+a Red-Spotted Jelly~
+A Red-Spotted Jelly is here sucking at your flesh!
+~
+This is one of the most hideous things you've ever seen.  It has to be
+at least 3 meters in width, and seems to be made a a spongy material.  It's
+all white, except for some large red blotches.  It also makes a hideous
+sucking noise as it attempts to kill you!
+~
+32810 0 -1000 W
+30 32 10 10d7+750 3d11+3
+1500 52250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+100 0 4 0 0
+25 25 25 25 25
+0 0 0
+6 10
+#20302
+black crud~
+a Black Crud~
+A Black Crud is here tickling your toes.
+~
+This thing is almost like mold, but not really.  It's black and fuzzy, and
+lies in think patches around your feet.  You're not really sure it's alive,
+but it's secreting something that makes your feet burn right through your
+armour!  Better kill it if you can!
+~
+42 0 -1000 W
+21 24 10 20d11+800 3d5+2
+0 29750
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+100 0 2 0 0
+45 45 45 45 45
+0 0 0
+6 10
+#20303
+vorpal pudding~
+a Vorpal Pudding~
+A Vorpal Pudding falls off the ceiling and onto your head!
+~
+This is one pudding you (and Bill Cosby!) don't want to mess with!  It's
+a vorpal pudding, and at any time it could slice your head off with one
+razor-sharp blow.  I'd recommend killing it VERY quickly!
+~
+42 0 -1000 W
+29 10 -4 10d5+200 1d99+1
+0 49750
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-40 0 2 0 0
+25 25 25 25 25
+0 0 0
+6 10
+#20304
+neon mold~
+a Neon Mold~
+a Neon Mold lies here on the tomb.
+~
+This mold is all the colours of the rainbow.  If there's one thing it's not
+though, that's boring.  It's bright and neon, and seems to change colours
+every few minutes.  It's kind of cute in a perverted sort of way...
+~
+4106 0 0 W
+11 10 10 3d11+232 3d5+1
+0 4750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#20305
+crimson fungus~
+a Crimson Fungus~
+A Crimson Fungus is here growing on the tomb.
+~
+This mushroom looks pretty tasty, but it would probably be a very bad idea
+to try and eat it.  It might be nice looking, but you can rest assured that
+it packs a vicious punch!
+~
+4106 0 -500 W
+11 10 10 3d11+232 3d5+1
+0 4750
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#20306
+gold golden ooze~
+a Golden Ooze~
+a Golden Ooze is here in a big puddle.
+~
+The whole casket seems to be covered in a large golden ooze.  Actually,
+you can't be sure this thing is even alive, or how many of them there are
+since it seems to be one large mess!  Are you sure you want to mess with
+it?  No...I didn't think so...
+~
+4106 0 -1000 W
+11 10 10 3d11+232 3d5+1
+0 4750
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+100 0 2 0 0
+70 70 70 70 70
+0 0 0
+6 0
+#20307
+beer bottle miller draft mgd~
+a Bottle of Miller Genuine Draft~
+a Bottle of Miller Genuine Draft stands here with a scowl on its face.
+~
+This is one tough-looking customer.  This bottle of Miller Genuine Draft
+looks like it's been through its fair share of fights.  There are several
+little specks of glass missing, and if you're not careful he might just
+kick your ass.
+~
+43 0 -1000 W
+36 38 0 10d10+950 5d5+5
+1000 82250
+8 8 0
+13 0 13 13 13 13 0
+16 3 0
+0 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#20308
+bottle beer molson ice~
+a Bottle of Molson Ice~
+a Bottle of Molson Ice sits stands here ready to freeze you!
+~
+This is one beer who doesn't take orders from anyone!  He's bad, and he knows
+it.  Molson Ice is the only ice beer which is brewed at a temp...hey...
+who let the commercials in here?
+~
+8 0 -500 W
+28 35 -1 5d5+500 4d5+2
+0 47250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-10 0 4 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#20309
+bottle rolling rock beer~
+a Bottle of Rolling Rock~
+a Bottle of Rolling Rock stands here ready to pummel you!
+~
+This bottle of beer is one nasty customer.  He doesn't care how drunk you
+are, he fully intends to make it much worse.  Soon, you'll be praying to
+the porcelain gods for mercy!
+~
+522 0 -500 W
+32 34 -5 10d10+1000 5d5+2
+1000 62250
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+-50 0 4 0 0
+20 20 20 20 20
+0 0 0
+6 0
+#20310
+pint guinness beer~
+a Pint of Guinness~
+a Pint of Guinness stands here with a nice head on it.
+~
+If there's a perfect beer, this must be it.  This tall pint of Guinness
+is just the right temperature, and has just the right amount of head on it.
+Drink up...because Guinness is good for you!
+~
+270474 0 0 W
+38 40 8 10d50+2000 2d2+2
+0 92250
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+80 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20311
+beer keg~
+a fast-flowing stream of beer~
+a fast-flowing stream of beer has been shot from a keg!
+~
+OUCH!  Someone's aiming the keg at you and spraying you with beer.  On
+a normal day this would be a good thing, but the pressure's turned up
+too high and it really hurts!
+~
+32808 0 0 W
+35 44 -20 0d0+500 1d2+1
+0 77250
+8 8 0
+13 0 13 13 13 13 0
+0 0 0
+-200 0 2 0 0
+10 10 10 10 10
+16 0 0
+6 10
+#20312
+40 can fosters beer~
+a 25.4oz Can of Fosters~
+a 25.4oz Can of Fosters is here staring at you through beergoggles.
+~
+This is one mean looking customer!  You have no doubt that this guy could
+pummel you into submission with just one blow.  But it's so tasty...beer...
+is there anything it can't do?
+~
+42 136 0 W
+55 48 2 10d50+1800 5d5+10
+0 222250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#20313
+grape pop tart poptart~
+a Grape Pop Tart~
+a Grape Pop Tart jumps out of the box and attacks you!
+~
+This is one tasty looking dude!  It's a grape pop tart, frosted of course.
+Just because he's tasty doesn't mean he's not dangerous though.  You'd best
+think twice before messing with him!
+~
+8202 0 0 W
+49 50 10 10d50+2500 5d5+5
+0 147250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20314
+brown cinnamon sugar pop tart poptart frosted~
+a Frosted Brown Sugar Cinnamon Pop-Tart~
+a Frosted Brown Sugar Cinnamon Pop-Tart is here ready to please your mouth.
+~
+Ahhh.....frosting, brown sugar, AND cinnamon.  What could be more perfect?
+Not you if you don't get out of here alive!  This is one bad customer, and
+his dream is to obliterate you.  Now isn't that a pleasant thought?
+~
+262186 128 0 W
+63 52 10 10d50+2000 3d5+10
+1500 217250
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#20315
+heating coil red hot~
+a Red-Hot Heating Coil~
+The Red-Hot heating coil is scorching you from all sides!
+~
+What in the world ARE you doing standing here?  You're standing in the 
+middle of some very intense heat.  You MUST have a death wish to take the
+time to look around!
+~
+42 0 0 W
+55 43 -15 5d5+485 5d5+50
+0 177250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-150 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 10
+#20316
+smores pop tart poptart s'mores~
+a S'mores Pop-Tart~
+a S'mores Pop-Tart is here, melting in the heat.
+~
+Don't you wonder who thought up this crazy combination?  Chocolate, graham
+crackers, and marshmallows?  Must have been someone who was either drunk
+or stoned at the time!  That doesn't mean it couldn't kick your ass though!
+~
+10 128 0 W
+38 52 10 10d10+1200 5d5+5
+0 92250
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20317
+pop tart poptart raspberry frosted~
+a Frosted Raspberry Pop-Tart~
+a Frosted Raspberry Pop-Tart stands here licking its lips.
+~
+This is one nasty fruit pastry!  It's red and it's mean.  You might want
+to reconsider messing with it, since raspberries are not known as one of
+the kinder fruits.
+~
+10 128 0 W
+43 43 10 5d11+1500 5d5+10
+0 117250
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20318
+grimace~
+Grimace~
+Grimace is here, taking a leak.
+~
+Grimace is one big dude!  He's probably about 7 feet tall and weighs in at
+around 700 pounds.  He could probably really hurt you if he was to sit on
+you.  His massive pythons could probably crush you as well.
+~
+10 128 0 W
+53 47 10 10d50+3000 3d7+12
+0 167250
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20319
+mayor mccheese~
+Mayor McCheese~
+Mayor McCheese stands here spitting on your hamburger.
+~
+This guy is really rather silly looking.  He's wearing a very nice suit, but
+he has a cheeseburger for a head.  Now THAT is odd.  You're glad you don't
+have to spend anymore time in this strange place, or you'd probably go
+completely insane in the membrane!
+~
+10 128 0 W
+50 43 -2 10d10+800 5d5+25
+0 152250
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+-20 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20320
+pimple pimply teen teenager~
+a Pimply-Faced Teenager~
+a Pimply-Faced Teenager is here ready to take your order.
+~
+This kid may have a face covered with zits, but he's not one to mess with!
+He's a graduate of Hamburger University, and his skills with the cash
+register show it.  Type list if you'd like him to give you a menu.
+~
+262154 128 0 W
+101 38 -5 10d50+5000 5d5+35
+0 407250
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-50 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20321
+a large speghetti noodle~
+a large speghetti noodle~
+a large speghetti noodle sits at the bottle of the bowl.
+~
+This noodle is cooked just perfectly....not too firm and not too tender.
+It's just the perfect noodle.  Shame you have to eat it...
+~
+8 0 0 W
+31 24 10 5d50+900 5d5+10
+0 57250
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+100 0 4 0 0
+20 20 20 20 20
+0 0 0
+6 0
+#20322
+large penne noodle~
+a large penne noodle~
+a large penne noodle is here soaking up the pasta sauce.
+~
+This noodle is just perfect.  Nice and round, and perfectly cut.  It soaks
+up just enough sauce, but not too much.  There's nothing more you could ask
+for in a piece of pasta!
+~
+8 0 0 W
+32 24 10 5d50+900 5d5+15
+0 62250
+8 8 0
+13 0 13 13 13 13 0
+0 4 0
+100 0 4 0 0
+20 20 20 20 20
+0 0 0
+6 0
+#20323
+tomato sauce pasta~
+some tomato sauce~
+some tomato sauce is here covering the pasta.
+~
+This sauce has it all!  Onions, green peppers, black olives, garlic, and
+just the right hint of basil and oregano.  It's probably one of the best
+sauces you've ever tasted!  It's got a wicked bite though, so be careful!
+~
+8 0 0 W
+37 20 -10 10d10+400 3d3+10
+0 87250
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+-100 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#20324
+pint ice cream chubby hubby~
+a pint of Chubby Hubby~
+a pint of Chubby Hubby is here, filled with chocolate and pretzels.
+~
+This is some fantastic ice cream!  It's vanilla ice cream with peanut butter
+filled pretzels and chocolate.  It's so filling though that you can't stand
+too much more of it!
+~
+2058 0 0 W
+36 25 -4 10d50+450 4d4+6
+2000 80000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20325
+pint ice cream cherry garcia~
+a pint of Cherry Garcia~
+a pint of Cherry Garcia is here, filled with cherries and chocolate.
+~
+This ice cream is nearly perfect!  Filled with plump and juicy cherries, it
+makes your mouth water.  Then, there are the little flecks of chocolate that
+make you drool.  Mmmmm......
+~
+2058 0 0 W
+36 25 -4 10d50+450 4d4+6
+2000 80000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20326
+pint ice cream chunky monkey~
+a pint of Chunky Monkey~
+a pint of Chunky Monkey is here looking like the rainforest.
+~
+Chunky Monkey is definitely an odd ice crema.  It's filled with nuts, vanilla
+ice cream, bananas, and some chocolate.  It's an odd combo, but certainly very
+tasty!  You're nuts if you skip it!
+~
+2058 0 0 W
+36 25 -4 10d50+450 4d4+6
+2000 80000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20327
+pint ice cream mint chocolate cookie~
+a pint of mint chocolate cookie ice cream~
+a pint of mint chocolate cookie ice cream sits here filled with chocolate.
+~
+This pint of ice cream looks very tasty.  It's mint ice cream with great big
+chunks of Oreo cookies in it.  Sounds tasty doesn't it?  Well, that's a good 
+thing since it is!
+~
+2058 0 0 W
+36 25 -4 10d50+450 4d4+6
+2000 80000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20328
+pint ice cream chocolate fudge brownie~
+a pint of chocolate fudge brownie ice cream~
+a pint of chocolate fudge brownie ice cream is here...it's VERY rich.
+~
+This is some of the richest ice cream you've ever tasted.  It's chocolate ice
+cream to begin with, and then it's filled with huge chunks of brownie.  It's
+so rich that you can't eat the whole pint!
+~
+2058 0 0 W
+36 25 -4 10d50+450 4d4+6
+2000 80000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20329
+pint ice cream egg nog~
+a pint of Egg Nog ice cream~
+a pint of Egg Nog ice cream is here celebrating the holidays.
+~
+Egg Nog ice cream?  It must be the special Christmas holliday flavour of the
+month.  It's a very rich ice cream with lots of cinnamon and spices sprinkled
+in it.  Kind of tasty if you ask me...
+~
+2058 0 0 W
+36 25 -4 10d50+450 4d4+6
+2000 80000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20330
+pint ice cream coffee~
+a pint of coffee ice cream~
+a pint of coffee ice cream is here...loaded with caffiene!
+~
+Whoever invented coffee ice cream must have been crazy!  It's bad enough that
+all the sugar gives you a rush, but when the caffiene kicks in you get a
+double whammy!
+~
+2058 0 0 W
+36 25 -4 10d50+450 4d4+6
+2000 80000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20331
+pint ice cream apple pie~
+a pint of apple pie ice cream~
+a pint of apple pie ice cream is here, ready for the 4th of July
+~
+What a great idea!  This vanilla ice cream is filled with big chunks of apple
+pie and sprinkled with nutmeg and cinnamon.  The apple pie is baked by 
+recovering alcoholics, and helps to fund their treatment.
+~
+8 0 0 W
+36 25 -4 10d50+450 4d4+6
+2000 80000
+8 8 0
+13 0 13 13 13 13 0
+0 2 0
+-40 0 2 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20332
+huge kettle mac cheese kraft dinner~
+a Huge Kettle of Kraft Dinner~
+A kettle is here, full of boiling water.
+~
+This magical orange delight, Kraft Dinner, is also known as Macaroni and
+Cheese in some places.  It's such a bright orange colour that it just can't
+be real!
+~
+2058 128 0 W
+80 55 -10 2d100+1600 4d5+25
+5000 250000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20333
+captain cucumber~
+Captain Cucumber~
+Captain Cucumber hovers here, ready to introduce you to your maker!
+~
+Captain Cucumber is one lean green fighting machine!  He's about 20 feet tall,
+and green from head to foot.  He wears a red cape made out of radishes around
+his neck, and onion ring armbands.  Prepare to meet your maker!
+~
+305166 131200 0 W
+120 58 -10 10d50+6000 5d7+35
+15000 550000
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+-100 0 4 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20334
+pesto pasta sauce~
+a serving of pesto sauce~
+a serving of pesto sauce is here, covered in pine nuts and olive oil.
+~
+This is one good-tasting sauce!  Finely-mashed pine nuts are complemented
+with just the right amounts of basil, oregano, and olive oil.  It's a deep
+and rich green colour, so flavourful and tasty...
+~
+8 0 0 W
+37 23 -10 10d10+400 3d3+10
+0 87250
+8 8 0
+13 0 13 13 13 13 0
+0 3 0
+-100 0 4 0 0
+10 10 10 10 10
+16 0 0
+6 0
+#20335
+keg meister kegmeister drunk~
+the Kegmeister~
+the Kegmeister is wobbling around here, ready to pour you a beer!
+~
+This man is the life of the party!  The kegmeister's the guy who controls
+the keg and decides who does and does not get a beer.  He guards the keg
+as if it's one of his children.  He reeks of beer, but that doesn't stop
+you from getting closer to the sweet nectar.
+~
+8 0 0 W
+25 21 1 2d5+186 5d5+5
+150 39750
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 6 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#20336
+fake id peddler~
+the Fake ID Peddler~
+a man in a long trenchcoat is here, with ID for sale.
+~
+This is one shady character!  This man was a one-time photography major, but
+has decided that he can make much more money selling you fake ID.  Of course,
+you can't figure out why ANYONE would need one...
+~
+8 0 0 W
+25 21 1 2d5+190 5d5+3
+1000 39000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+10 0 6 0 0
+35 35 35 35 35
+0 0 0
+6 0
+#20337
+bouncer thug tough~
+the bouncer~
+the bouncer is here, ready to check your ID.
+~
+This is one mean-looking dude!  The bouncer is about 6'4 and weighing in
+at about 250.  He's probably on the college football team and just working
+here to get free beer.  Isn't that how it works?
+~
+8 0 0 W
+28 24 0 2d5+225 5d5+7
+250 50000
+8 8 1
+13 0 13 13 13 13 0
+0 3 0
+0 0 6 0 0
+30 30 30 30 30
+0 0 0
+6 0
+#20338
+ronald mcdonald clown~
+Ronald McDonald~
+Ronald McDonald is here, looking really stupid!
+~
+This is perhaps the silliest looking clown you've ever seen!  He (or it!)
+is wearing silly striped overalls and a stupid red wig!  Quick...kill it
+before it has a chance to reproduce!
+~
+8207 128 500 W
+90 53 -10 10d10+4500 6d5+10
+50000 350000
+8 8 1
+13 0 13 13 13 13 0
+18 3 0
+-100 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20339
+willard scott~
+Willard Scott~
+WIllard Scott stands here, warning you that it's COLD in the freezer!
+~
+I'd like to wish a happy 100th birthday to...oh stuff it Willard!  This 
+guy's so fat and balding that he's never going to get anywhere close to
+100 himself!
+~
+10 0 0 W
+53 39 0 10d50+3000 3d7+12
+5000 167000
+8 8 1
+13 0 13 13 13 13 0
+0 2 0
+0 0 6 0 0
+10 10 10 10 10
+0 0 0
+6 0
+#20399
+sheep~
+Sheep~
+A sheep is here saying 'Baaaaaaaaaa'
+~
+~
+10 0 0 W
+2 0 0 1d1+1 99d99+99
+0 0
+8 8 0
+13 0 13 13 13 13 0
+0 5 0
+0 0 2 0 0
+95 95 95 95 95
+0 0 0
+6 0
+$

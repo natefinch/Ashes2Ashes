@@ -1,0 +1,479 @@
+#7300
+sign~
+Flee sign~
+A sign to teach wimpy and flee stands here.  ~
+Fleeing is a way to get out of a fight.  To use flee, you must
+type: flee.  If you flee from a battle, you will lose experience
+points, but it will save you from the 25% chance of con loss if
+you die.  Flee doesn't always work, so you may have to do it more
+than once to get out of a battle.  Flee will take you into a room
+surrounding the room you fled from.
+
+Wimpy is a way to have the computer flee for you.  To use wimpy,
+you must type: wimpy {a number less than your max hit points}
+Wimpy will have the computer try to flee for you when your current
+hit points is less than the current wimpy setting.
+Example:
+Your maximum is 30 hit points and your current is 22.  You type:
+wimpy 20.  A creature hits you and you lose 4 hit points so your
+current hit points will be 18.  The computer will try to flee since
+you have 18 hit points which is less than the current wimpy
+setting of 20.
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#7301
+sign~
+Con sign~
+A sign to teach you consider stands here.~
+Consider is used to compare your level and the creatures level.
+To use consider, type: consider {creature} or con {creature}
+Consider will give you a message depending on your level and how
+much higher or lower the creature is.
+The messages are:
+You ARE mad!   The mob is MUCH higher than you.
+Are you mad??   Mob has a lot of levels on you, probably 20 or so.
+Do you feel lucky punk?   Mob has probably 15 levels on you.
+You would need a lot of luck.   The mob has you by about 5-10 levels.
+The perfect match!  You and the mob are the same level.
+Easy. You have the mob by about 1-5 levels.
+Now where did that chicken go.   Should be a real easy fight.  You
+have the mob by 5-10 levels.
+These are only to be used as a reference. Levels are not always
+accurate, but they are usually close.
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#7302
+sign~
+No Rent sign~
+A sign to teach renting and quiting stands here.~
+There is no formal rent here.  Just quit and leave where ever you
+want. There is a maximum of 35 items which you can save here.  You
+can't quit with more than 35 items.  If you lose link, we give you
+1 hour to come back.  If you do not come back within 1 hour, you
+are force-saved. If you have over 35 items, the game will take the
+items that have the least monetary value.  This may mean you lose
+a lot of good equipment.  Please try to get back within the hour we
+give to save your equipment.  When you return to game, if you quit
+you start where you quit.  Don't try to use quit to get back to the
+temple. If you come back from a crach or force-save, you will start
+in the temple.
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#7303
+coins lunch money coin gold~
+lunch money~
+A pile of coins lies here, it appears to be someones lunch money.~
+~
+20 0 1 0
+0 0 0
+100 0 0 0
+0 0 0
+#7304
+sign~
+Help sign~
+A sign to teach you to use help stands here. ~
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+Help is used to teach you how to do things or give you information 
+about things you're not sure about.  The way to use the help file
+is to type: help <word>, with <word> being the word you want help
+on. If you try to find help on something, but can't seem to find
+any help on it, tell an immortal and they will make sure it gets
+updated in the help file.
+~
+#7305
+DT sign~
+DT sign~
+A sign to teach you about DeathTraps, DT, stands here.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+Most muds have gotten rid of deathtraps (dt), but we think
+that it adds a little spice to the game and makes characters
+a bit more cautious.  The old saying "look before you leap"
+works well here.  If you are in a new (to you) area make sure
+you read the room description that you're in before you go any
+farther. If you still have questions if the next room is a
+dt then look in that direction (type: look <direction>).  Usually,
+if it is a dt then the creator of that area has given you some
+warning either in the description of the room, or in the description
+of the exit.  Remember that it is a deadly world out there.
+~
+#7306
+Guild sign~
+Guild Sign~
+There is a sign here to teach you how to practice your skills.~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+First of all, type practice.  The first line should say " you have <#>
+practices left."  This is the number of practices that you can use. 
+Under that line is a list of your skills and the level that you can
+learn each skill at.  If, instead of a level it says <not known> it 
+means that you can learn that skill now.  Choose one of these skills
+that you can learn and practice that.  It is wise to practice the main
+skill you will be using up to superb because you will be better at
+it then others, depending on what it is, it could mean that you can
+hit more often, or heal more often than failing.  
+
+After that you're on your own to remember to use your new skills.
+~
+#7307
+Shop help sign~
+Shop help sign~
+There is a sign here, read it to find out how to use the shop.~
+The store is a place where you can buy supplies to use during
+your adventuring days.   Whether it is a light you need, or
+just a little bag to keep stuff in, this is how it works:
+
+Type: list  -  will show a list of what the shop can sell you
+Type: buy {object}  -  will have you pay for and get the item
+Type: sell {object}  -  will have you try and sell an object
+Type: value {object}  -  will tell you how much a shop will pay
+for an object.
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+There are a variety of things you can do in a shop.  You can
+list, buy, sell, or value.  Here is what each of them do.
+
+list - Lists the items that a shopkeeper has to sell to you.
+buy - buy <item> to buy the item.
+sell - sell <item> to sell that item.
+value - value <item> to find out what the shopkeeper will pay
+for the item you wish to sell, before you sell it.
+~
+#7308
+diploma mudschool~
+mudschool diploma~
+A mudschool diploma lies here.~
+~
+12 0 16385 0
+0 0 0
+0 0 0 0
+5 1000 5
+A
+4 1
+#7309
+cap paper graduation~
+a paper graduation cap~
+A red graduation cap made of paper lies here.~
+~
+9 0 17 0
+0 0 0
+3 0 0 0
+5 500 1
+A
+3 1
+#7310
+gown paper graduation~
+a paper graduation gown~
+A paper graduation gown lies here in shreads.~
+~
+9 0 1025 0
+0 0 0
+3 0 0 0
+5 0 5
+A
+10 5
+A
+11 5
+#7311
+kickball ball~
+a kickball~
+A kickball is sitting here waiting to be used.~
+~
+5 0 8193 0
+0 0 0
+0 2 5 7
+5 500 5
+A
+18 1
+#7312
+shorts short blue red~
+a pair of red shorts with blue stripes.~
+A pair of red shorts with blue stripes lies here.~
+~
+9 0 2049 0
+0 0 0
+4 0 0 0
+5 500 5
+A
+14 1
+A
+13 1
+#7313
+socks sock black pair~
+a pair of black socks~
+A pair of black socks lies here.~
+~
+9 0 33 0
+0 0 0
+4 0 0 0
+5 500 5
+A
+15 2
+#7314
+whistle~
+a whistle~
+A old whistle lies here.~
+~
+9 0 5 0
+0 0 0
+3 0 0 0
+5 500 5
+A
+5 1
+#7315
+sign~
+Socials Sign~
+You see a large sign hanging over the punchbowl.~
+Besides being concerned about all the nasty critters running
+around in here, you also have to deal with all the players.  So
+there is a whole mess of things that you and others players can
+do to each other (all in fun of course).  So just type 'SOCIALS'
+and take a look at all the fun stuff you can do.  Then go out and
+practice on the mobs to see what they do.
+~
+16 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#7316
+water brook stream bubbling~
+a Bubbling Brook~
+A small, clean, bubbling brook flows through the playground here.~
+This is a tiny little stream of perfectly clean water.  It looks
+like it would be very safe to quench your thirst here.
+~
+23 64 0 0
+0 0 0
+30000 30000 15 0
+0 0 0
+E
+brook bubbling small stream water~
+This is a tiny little stream of perfectly clean water.  It looks
+like it would be very safe to quench your thirst here.
+~
+#7317
+sign~
+Recall Sign~
+There is a sign floating in the middle of the room, calling for your
+attention.
+~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+Midgaard is a very safe place, but once you begin to wander away from
+Midgaard it is very wise to carry at least one scroll of recall with you.
+There are certain places in these realms that are very difficult to
+get out of without a scroll of recall.  Also, if you are finding it
+impossible to flee during combat, a scoll of recall is a good way to
+get out of the fight, if you are in a room that lets you recall from
+it, without dying and losing your equipment.
+~
+#7318
+sign~
+Door Sign~
+There is a sign here just SCREAMING for you to read it.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+Doors can be tricky even if they aren't locked and you have to find
+a key.  They reason is because they can be called so many different things.
+Just because it is a door doesn't mean it's going to be called a door.
+There are a variety of ways to find out what they are called.  One of
+these ways is to guess, another is to look in the direction you think the
+door is (that will tell you what is closed), the third is to just walk
+in every direction that doesn't have a door and it will tell you what
+is closed.  Every wall in this room has a door by a different name
+then all the other doors.  Some of them are commonly used throughout
+the realms.  Try your luck at opening all of these doors.
+~
+#7319
+sign~
+an ID sign.~
+A sign hangs on the wall, patiently waiting for you to read it.~
+~
+13 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+An identify (ID) scroll can be use for a variety of things.  Not only
+can it be used to find out how good a weapon is or what affections are
+on an object, but it can also be used to find out your HitRoll (how
+good your chances are to hit the monster) and your DamageRoll (how
+much damage you could possibly do when you hit the monster).  You
+can also use these scrolls on mobs to find out certain things, for 
+example, thieves would like to know if certain mobs are !sharp which
+means thier piercing weapons that they use for backstab won't work on
+the mob, which is VERY deadly to thieves.  Use an ID scroll and it
+will tell you if the mob is !sharp or not.  It will also give you
+the other Affections of the mob.  Using an ID scroll along with conning
+a mob is a very safe way to go through the realms.
+~
+#7320
+staff ~
+the Sandcastle king's staff.~
+A staff made from sand lies here.~
+~
+4 0 16385 0
+0 0 0
+5 4 4 23
+0 0 0
+A
+11 10
+E
+staff~
+This staff has been made from sand.  It looks as if it can be useful but
+not very powerful.
+~
+#7321
+sandcrown crown~
+a crown of sand~
+A crown made out of sand sits neglected here.~
+~
+11 0 17 0
+0 0 0
+0 0 0 0
+1 10 0
+A
+17 2
+A
+18 -1
+E
+crown~
+The crown is made out of sand.  It looks like there must be something
+special about it, but you're not sure what.
+~
+#7336
+book diploma~
+Book of Cthulhu~
+This powerful book lies here ~
+~
+8 393889 16385 0
+0 0 0
+0 0 0 0
+10 100000 0
+A
+3 2
+A
+13 25
+#7350
+sword small wooden~
+a small wooden sword~
+A small fragile wooden sword has been left here.~
+~
+5 1 24577 0
+0 0 0
+0 1 8 3
+5 10 0
+A
+18 -3
+A
+2 1
+#7351
+book doh~
+Integral Calculus Book~
+This nice book makes you look and uh..seem smarter..at
+fighting!!~
+~
+11 0 16385 0
+0 0 0
+0 0 0 0
+10 1000 0
+A
+3 1
+A
+4 1
+#7394
+macleod short sword~
+MacLeod's Ceremonial Short Sword~
+Before you, you can see a beautifully carved ceremonial short
+sword dated back to the days of the samurai.
+~
+~
+5 67 24577 0
+0 0 0
+0 0 0 3
+0 0 0
+E
+sword short macleod~
+This looks like a very ancient and well-cared for ceremonial
+samurai sword.  You have seen this same sword in many movies.
+The owner always seems to treasure it fondly, right before he
+commits ritual disembowelment.  You shudder at the thought.
+~
+#7398
+freedom wedding ring~
+Freedom's Wedding Ring~
+A wedding ring is lying here, abandoned.~
+~
+9 0 3 0
+0 0 0
+2 0 0 0
+1 25000 500
+E
+inscription~
+Let this ring be a symbol oy my eternal love for you. A love so great, it is
+hard to describe in words. The sky is all cloudy and grey when your not
+around, the sky clears up and the sun comes out when you get here, and I know
+you are mine. When I look into your eyes, all I can do is smile. My heart
+skips a beat when you get on. Love always, Ryno 
+~
+E
+ring~
+This ring is a band of pure gold, covered with beautful designs.  There
+are hearts engraved on the rings surface, a well as twining vines and
+leaves. It is a complicated and beautiful design, just like love itself.
+~
+#7399
+limited edition mudschool sword~
+limited edition mudschool sword~
+A sword from the mudschool lies here. It seems to be of a rare type.~
+~
+5 0 8193 0
+0 0 0
+0 2 4 3
+8 5000 50
+A
+16 -1
+A
+7 1
+$

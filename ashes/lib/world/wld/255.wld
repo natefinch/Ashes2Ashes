@@ -1,0 +1,1954 @@
+#25500
+The Studio~
+This is Sargon's favorite place, his space at the craft center.  Two large
+tables define the north and south boundries.  On these tables are several
+clay vessels in various stages of completion.  The concrete wall to the east
+is covered with posters.  Against the wall is a desk full of clay tools and
+ceramics books.  Next to the desk is a large garbage can of aging clay and
+several recycle buckets.  The western border is a heavy shelving unit full
+of completed ceramic wares.  In the center of the floor is a crappy Shimpo
+throwing wheel.
+~
+255 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 1204
+S
+#25501
+Opening Credits~
+Along time ago, in a galaxy far, far away...
+~
+255 4096 0
+0d0+0 0 0
+S
+#25502
+In Space - Outside the Hanger Bay - Exploding into a Thousand Bits.~
+----------------------------------------------------------------------------
+
+  "The Hitchhikers Guide to the Galaxy says that if you can hold a lungful
+       of air you can survive the total vacuum of space. However, it does
+       go on to say that with space being the mind boggling size that it is
+       your chances of being picked up in that thirty seconds are 2 to the 
+       power of 267709 to 1 against."
+
+   Congratulations on Finding One of the "Top 3 most obvious Dt's" on 
+     mud.
+
+Please stop by again!!!!!
+~
+255 55299 0
+1d1+4 3 1
+D2
+~
+Hatch~
+1 -1 25568
+D3
+~
+blastdoor~
+1 25500 25510
+S
+#25503
+Entrance Ramp of the Millenium Falcon~
+You have just stepped onto the ramp leading into the Millenium Falcon.  At 
+the top you see a scruffy looking man waiting for nothing in particular.  The
+Falcon looks prepped and ready to leave for some exotic location.  You hurry
+up the ramp to talk to the man who is the only one that will let you in.  
+Hope you brought your wallet because it's going to cost you to ride.
+~
+255 47116 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 25582
+D5
+~
+hatch ramp door~
+2 25523 25510
+S
+#25504
+Tie Pilot's Rec Room~
+This is where all the Tie Fighter pilots come after a long day shooting
+Rebel star-fighters out of the sky.  It's quite cozy.  Posters all over
+the wall and carpeting with nice soft beds.  The Empire likes to treat
+it's pilots well, mainly because the first mission is usually a rookies
+last.
+~
+255 32768 0
+0d0+0 0 0
+D1
+To the east, the Hangar Bay continues.
+~
+~
+0 -1 25505
+D3
+~
+door~
+1 -1 25534
+S
+#25505
+Death Star Hangar Bay 1824~
+This is the secondary hanger bay, actually one of the many secondary bays.
+The hanger is as large as the one you entered in the Falcon.  The ships 
+outside the bay are buzzing around coming and going from here never allowing
+the grass to grow beneath the pilot's feet.  You feel sorry for the many
+pilots leaving from this bay.  Most won't return.  Oh well at least it's 
+not you.
+~
+255 32776 0
+0d0+0 0 0
+D2
+To the south, you can see the Hangar Bay's Landing Zone.
+~
+~
+0 -1 25510
+D3
+To the west, the Hangar Bay continues.
+~
+~
+0 -1 25504
+D9
+~
+~
+0 -1 25509
+S
+#25506
+Garbage Compactor~
+The walls in this room are large and very slick.  The room is strewn with
+garbage.  The stench is very bad.  You wish you had a gas mask to filter
+this overpowering gas.  Of course the gas is not where the real danger lies
+in this room.  As you entered the walls started closing in.  Fortunately
+for you after crushing you the machine just stops.
+~
+255 49163 0
+1d1+199 90 0
+D5
+~
+~
+0 -1 25507
+S
+#25507
+Service Tunnel~
+These tunnels allow service personel to fix whatever goes wrong on the 
+Death Star if the lifts don't work.  They all look the same to you, but
+the service personel must be able to tell the difference.  The tunnel
+is all grey and very cold.  Fortunately it's safe.  And that's all that 
+matters to you right now.
+~
+255 33033 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 25508
+D3
+~
+~
+0 -1 25567
+D7
+~
+~
+0 -1 25562
+S
+#25508
+Service Tunnel~
+These tunnels allow service personel to fix whatever goes wrong on the 
+Death Star if the lifts don't work.  They all look the same to you, but
+the service personel must be able to tell the difference.  The tunnel
+is all grey and very cold.  Fortunately it's safe.  And that's all that 
+matters to you right now.
+~
+255 33033 0
+0d0+0 0 0
+D0
+
+~
+~
+0 -1 25507
+D2
+~
+~
+0 -1 25514
+D9
+~
+~
+0 -1 25534
+S
+#25509
+Starfighter Maintenance Shed~
+This small room is where the maintenance crews come for tools or spare parts.
+You can't see anything really special about the room other then that it is
+quite cluttered and some really neat looking space ship peices.
+~
+255 32776 0
+0d0+0 0 0
+D1
+To the east, you see the Hangar Bay's Landing Zone
+~
+~
+0 -1 25510
+D2
+~
+~
+0 -1 25515
+D3
+~
+Door~
+1 -1 25535
+D6
+To the northeast, the Hangar Bay continues.
+~
+~
+0 -1 25505
+S
+#25510
+Death Star Hanger Bay 1823~
+From here all the arriving ships land.  Be they friend or foe it doesn't
+matter.  The Millenium Falcon is sitting in this bay, an innocent victim
+in an enemy territory.  The huge tractor beam projectors are also in this 
+room ready to snare any ship without the proper clearance codes.
+Fortunately there are no guards here so you can escape from the Falcon without
+fear of capture.  Enjoy your stay on the Death Star, may it be your first of
+many.
+~
+255 32776 0
+0d0+0 0 0
+D0
+To the north, the Hangar Bay continues.
+~
+~
+0 -1 25505
+D1
+To the East is outer space. Get a flight suit before you enter.~
+blastdoor~
+1 25500 25502
+D2
+To the south, the Hangar Bay continues.
+~
+~
+0 -1 25516
+D3
+To the west, the Hangar Bay continues.
+~
+~
+0 -1 25509
+D4
+~
+hatch ramp door~
+2 25523 25584
+S
+#25511
+Space~
+You can see stars all around you. The ones in space and the ones infront of
+your eyes.  The oxygen deprevation is getting to you.  That and the 
+pressure.  You could stay but there really is no reason to.  After all your
+about to be dead.
+~
+255 16391 0
+1d1+199 90 0
+D0
+~
+~
+0 -1 25577
+D3
+To the west, you can see the Hangar Bay's Landing Zone.
+~
+~
+0 -1 25510
+S
+#25512
+Service Tunnel~
+Of all the places to go you had to pick here.  This is the chute that
+runs to the compactor.  The piles of moving trash are wierd mutations
+and nothing at all to worry about.  Unfortunately once you've passed you
+can't go back.  Oh well it's a swell ride.
+~
+255 33033 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 25506
+S
+#25513
+Dimly Lit Corridor~
+Your encounter with the Emperor is over.  You feel relieved.  This room is
+kept dark to try to get you to still feeling afraid.  Of course after meeting
+the Emperor this room is just a walk in the park.
+~
+255 6157 0
+0d0+0 0 0
+D3
+~
+door~
+2 25501 25560
+D5
+~
+~
+0 -1 3001
+S
+#25514
+Death Star Hangar Bay - Western Wall~
+--------------------------------------------------------------------------------
+
+Below you, the polished black floor echos your footsteps as you make your
+way through the numerous Stormtrooper Squads assembled for the arrival of
+the Emperor's private shuttle escort.  Various power cell chargers and
+droid maintenance workers populate the area.
+~
+255 32768 0
+0d0+0 0 0
+D0
+To the north, the Hangar Bay continues.
+~
+~
+0 -1 25508
+D1
+To the east, the Hangar Bay continues.
+~
+~
+0 -1 25515
+S
+#25515
+Death Star Hangar Bay - Main Platform~
+--------------------------------------------------------------------------------
+
+Below you, the polished black floor echos your footsteps as you make your
+way through the numerous Stormtrooper Squads assembled for the arrival of
+the Emperor's private shuttle escort.  Various power cell chargers and
+droid maintenance workers populate the area.
+
+~
+255 32768 0
+0d0+0 0 0
+D0
+To the north, the Hangar Bay continues.
+~
+~
+0 -1 25509
+D1
+To the east, the Hangar Bay continues.
+~
+~
+0 -1 25516
+D3
+To the west, the Hangar Bay continues.
+~
+~
+0 -1 25514
+D6
+To the northeast, you can see the Hangar Bay's Landing Zone.
+~
+~
+0 -1 25510
+S
+#25516
+Unshielded Hanger Bay~
+This hangar is currently under repair. The magnetic shielding is faulty
+and offers no protection from the harshness of space.  As you keep standing
+here you can feel your blood start to burst.  You realize you had better
+leave if you want to survive.
+~
+255 49166 0
+1d1+4 3 1
+D0
+To the north, you can see the Hangar Bay's Landing Zone.
+~
+~
+0 -1 25510
+D3
+~
+~
+0 -1 25515
+S
+#25517
+Turbo Lift~
+This high speed elevator platform is a much better impovement to the cable
+and counterweight elevators of old.  It works on repulsor-lift technology.
+The lift is extremely fast and can rise fifty floors in what seems like a 
+heartbeat.  Hold on it's about to move.
+~
+255 32776 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 25518
+D5
+~
+~
+0 -1 25528
+S
+#25518
+Detention Level Corridor~
+This corridor is short and dimly lit.  Suiting the detention level spirit.
+The prisoners are brought in through this corridor and lead to either a
+long jail stay with little or no chance of leaving, or a long and painful
+death.  Enjoy your visit to this level.  You might be staying awhile.
+~
+255 32776 0
+0d0+0 0 0
+D1
+
+~
+~
+0 -1 25519
+D3
+
+~
+~
+0 -1 25517
+S
+#25519
+Detention Level Security Checkpoint~
+This security checkpoint is armed with your average security Laser cannon. 
+The cannon is turning towards you so you better run.
+~
+255 32768 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25520
+D3
+~
+~
+0 -1 25518
+S
+#25520
+Detention Level Cell-block A~
+This is the last sight many inmates see before they are imprisoned.  Not a 
+pretty sight.  The hall is short with what looks like red running lights
+in it.  Not a great sight to see when you're about to be imprisoned.
+Of course this isn't a cruise this is a prison, and most of the inmates
+are either gone mentally or just plain gone.  Hopefully you don't become
+one of them.
+~
+255 32776 0
+0d0+0 0 0
+D0
+
+~
+door~
+1 -1 25521
+D1
+
+~
+~
+0 -1 25524
+D2
+
+~
+door~
+1 -1 25522
+D3
+~
+~
+0 -1 25519
+S
+#25521
+Cell~
+This is quite a bare cell.  The only furniture in it is the bench for
+prisoners to sleep on.  You are glad you aren't one of the poor
+helpless prisoners.  This would be a horrible place to die.  Nothing
+to look at or do.  No wonder many prisoners give the Empire the
+information that the Empire wants to hear.
+~
+255 32776 0
+0d0+0 0 0
+D2
+
+~
+door~
+1 -1 25520
+S
+#25522
+Cell~
+This is quite a bare cell.  The only furniture in it is the bench for
+prisoners to sleep on.  You are glad you aren't one of the poor
+helpless prisoners.  This would be a horrible place to die.  Nothing
+to look at or do.  No wonder many prisoners give the Empire the
+information that the Empire wants to hear.
+~
+255 32776 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25520
+D5
+~
+panel~
+1 -1 25527
+S
+#25523
+Cell~
+This is quite a bare cell.  The only furniture in it is the bench for
+prisoners to sleep on.  You are glad you aren't one of the poor
+helpless prisoners.  This would be a horrible place to die.  Nothing
+to look at or do.  No wonder many prisoners give the Empire the
+information that the Empire wants to hear.
+~
+255 32776 0
+0d0+0 0 0
+D2
+~
+door~
+1 -1 25524
+S
+#25524
+Detention Level Cell-block B~
+This is the last sight many inmates see before they are imprisoned.  Not a 
+pretty sight.  The hall is short with what looks like red running lights
+in it.  Not a great sight to see when you're about to be imprisoned.
+Of course this isn't a cruise this is a prison, and most of the inmates
+are either gone mentally or just plain gone.  Hopefully you don't become
+one of them.
+~
+255 32776 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25523
+D1
+~
+door~
+1 -1 25526
+D2
+~
+door~
+1 -1 25525
+D3
+~
+~
+0 -1 25520
+S
+#25525
+Cell~
+This is quite a bare cell.  The only furniture in it is the bench for
+prisoners to sleep on.  You are glad you aren't one of the poor
+helpless prisoners.  This would be a horrible place to die.  Nothing
+to look at or do.  No wonder many prisoners give the Empire the
+information that the Empire wants to hear.
+~
+255 32776 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25524
+S
+#25526
+Cell~
+This is quite a bare cell.  The only furniture in it is the bench for
+prisoners to sleep on.  You are glad you aren't one of the poor
+helpless prisoners.  This would be a horrible place to die.  Nothing
+to look at or do.  No wonder many prisoners give the Empire the
+information that the Empire wants to hear.
+~
+255 32776 0
+0d0+0 0 0
+D3
+~
+door~
+1 -1 25524
+S
+#25527
+Service Tunnel~
+Of all the places to go you had to pick here.  This is the chute that
+runs to the compactor.  The piles of moving trash are wierd mutations
+and nothing at all to worry about.  Unfortunately once you've passed you
+can't go back.  Oh well it's a swell ride.
+~
+255 33033 0
+0d0+0 0 0
+D4
+~
+panel~
+1 -1 25522
+D5
+~
+~
+0 -1 25512
+S
+#25528
+Turbo Lift~
+This high speed elevator platform is a much better impovement to the cable
+and counterweight elevators of old.  It works on repulsor-lift technology.
+The lift is extremely fast and can rise fifty floors in what seems like a 
+heartbeat.  Hold on it's about to move.
+~
+255 32776 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 25517
+D5
+~
+~
+0 -1 25537
+D6
+~
+~
+0 -1 25531
+D8
+~
+~
+0 -1 25530
+S
+#25529
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25536
+D7
+~
+~
+0 -1 25530
+S
+#25530
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25531
+D7
+~
+~
+0 -1 25528
+D8
+~
+~
+0 -1 25529
+S
+#25531
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 25530
+D6
+~
+~
+0 -1 25532
+D9
+~
+~
+0 -1 25528
+S
+#25532
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+
+~
+255 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25566
+D1
+~
+~
+0 -1 25533
+D9
+~
+~
+0 -1 25531
+S
+#25533
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25567
+D3
+~
+~
+0 -1 25532
+D8
+~
+~
+0 -1 25534
+S
+#25534
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 32776 0
+0d0+0 0 0
+D1
+~
+door~
+1 -1 25504
+D2
+~
+~
+0 -1 25535
+D6
+~
+~
+0 -1 25508
+D7
+~
+~
+0 -1 25533
+S
+#25535
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25534
+D1
+~
+door~
+1 -1 25509
+D9
+~
+~
+0 -1 25536
+S
+#25536
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 32776 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 25529
+D6
+~
+~
+0 -1 25535
+S
+#25537
+Turbo Lift~
+This high speed elevator platform is a much better impovement to the cable
+and counterweight elevators of old.  It works on repulsor-lift technology.
+The lift is extremely fast and can rise fifty floors in what seems like a 
+heartbeat.  Hold on it's about to move.
+~
+255 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25538
+D4
+~
+~
+0 -1 25528
+S
+#25538
+Security Checkpoint~
+The walls, floors, and ceiling in this room are polished, grey metal.  This
+is a standard security checkpoint.  A Red security computer monitors the 
+station.  You were scanned for intent and concealed weapons the moment you
+stepped into the room.  Cameras are recording your every movement and the
+defensive grid has been charged.
+~
+255 14 0
+1d1+4 3 1
+D1
+~
+~
+0 -1 25539
+D3
+~
+~
+0 -1 25537
+S
+#25539
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25540
+D1
+~
+~
+0 -1 25548
+D3
+~
+~
+0 -1 25538
+D8
+~
+~
+0 -1 25547
+S
+#25540
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25541
+D2
+~
+~
+0 -1 25539
+D6
+~
+~
+0 -1 25542
+D8
+~
+~
+0 -1 25548
+S
+#25541
+Tractor Beam Control Room~
+This is where the tractor beam controls are.  The room is alive with flashing
+lights and a powerful hum.  The hum is coming from just behind the wall.
+The actual control for the tractor beam is several large levers on the wall.
+You can look down over the edge of the ledge and see a huge chasm.  You
+wish you could see the bottom.
+~
+255 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25542
+D2
+~
+~
+0 -1 25540
+D5
+~
+~
+0 -1 25576
+S
+#25542
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25543
+D3
+~
+~
+0 -1 25541
+D9
+~
+~
+0 -1 25540
+S
+#25543
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 25542
+D4
+~
+door~
+0 25501 25556
+D8
+~
+~
+0 -1 25544
+S
+#25544
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25554
+D2
+~
+~
+0 -1 25545
+D7
+~
+~
+0 -1 25543
+D9
+~
+~
+0 -1 25549
+S
+#25545
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25544
+D2
+~
+~
+0 -1 25553
+D7
+~
+~
+0 -1 25549
+D9
+~
+~
+0 -1 25546
+S
+#25546
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25553
+D2
+~
+~
+0 -1 25552
+D3
+~
+~
+0 -1 25547
+D6
+~
+~
+0 -1 25545
+S
+#25547
+Main Corridor~
+This is a long winding corridor through the Death Star.  The floors are clean
+enough to eat off of, and you can see your smiling(or maybe fearful) face in
+it.  The walls are nondescript mainly because this battle station is the size
+of a small moon and finding pretty pictures for all of them would take a   
+couple of years to do.  You look around and realize that one corridor is
+identical to another save for the way it leads.  Hopefully you don't get lost.
+~
+255 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25546
+D2
+~
+door~
+1 -1 25551
+D7
+~
+~
+0 -1 25539
+S
+#25548
+Radiation Shield Room~
+This is a very large room with a very large warning symbol in it.  
+"The Reactor is guarded from intrusion, enter at your own risk". 
+The room you are in is safe enough but do you really want to try your
+luck in the next room.  A small part of you is saying go for it
+while another is saying don't even think about it.  Of course you
+need to get the key to enter.  To get the key you have to persuade
+the Moff to let go of it.  Think you can do it?
+~
+255 8 0
+0d0+0 0 0
+D1
+~
+shield~
+2 25502 25550
+D3
+~
+~
+0 -1 25539
+D7
+~
+~
+0 -1 25540
+S
+#25549
+Radiation Shield Room~
+This is a very large room with a very large warning symbol in it.  
+"The Reactor is guarded from intrusion, enter at your own risk". 
+The room you are in is safe enough but do you really want to try your
+luck in the next room.  A small part of you is saying go for it
+while another is saying don't even think about it.  Of course you
+need to get the key to enter.  To get the key you have to persuade
+the Moff to let go of it.  Think you can do it?
+~
+255 8 0
+0d0+0 0 0
+D3
+~
+shield~
+2 25502 25550
+D6
+~
+~
+0 -1 25544
+D8
+~
+~
+0 -1 25545
+S
+#25550
+Inside the Reactor~
+This large room is the home of the reactor.  The room is big enough
+to fit several small fighters in it.  The reactor itself dominates the
+middle of the room.  It glows and pulses giving off an ominous light.
+This room is big enough to hide a ship in it.  Wonder what else it may
+hide?
+~
+255 14344 0
+0d0+0 0 0
+D1
+~
+shield~
+2 25502 25549
+D3
+~
+shield~
+2 25502 25548
+S
+#25551
+Grand Moff Tarkin's Office~
+This is the Moff's lavish office.  It has art from many an extinct
+cultures.  The chairs and the couch are pure leather.  From here you can 
+see outside to a limited degree.  The dark cieling and dark floor help
+you to see the starry sky from a little window in the wall.  The Moff
+usually hides in here from the many nagging questions of the lower
+ranking officials.  If you want to stay onboard to fight the Dark Lord 
+maybe you should hide in here also.
+~
+255 8 0
+0d0+0 0 0
+D0
+~
+door~
+1 -1 25547
+D1
+~
+door~
+1 -1 25552
+S
+#25552
+War Room~
+This is where the strategy for destroying the Rebels and for keeping planets
+loyal to the Empire takes place.  The Officers are always bickering about
+whose territory to protect more.  This room is sometimes graced by the Moff
+but usually the quarrels are not worth the Moff's time.
+There is a long table with many chairs seated around it here.  The Moff
+sits at the head of the table while the others sit on the sides.
+~
+255 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25546
+D3
+~
+door~
+1 -1 25551
+D6
+~
+~
+0 -1 25553
+S
+#25553
+Observation Room~
+From here you can see what the super laser destroys.  It's almost a front
+row seat.  Except for the poor souls on the planet who get a better view.
+The viewport is very large to accommadate all the viewers.  It also 
+provides you with an excellent view of space.  The rest of the room is
+quite dull so as to not distract the viewers.
+~
+255 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25545
+D3
+~
+~
+0 -1 25546
+D9
+~
+~
+0 -1 25552
+S
+#25554
+Super Laser Control Room~
+This is where the real power of the Death Star is controlled.  These screens
+analyze the makeup of a planet and then allow the controllers to blow up 
+the planet.  This one laser is more powerful then half the entire fleet.  The
+many computers display different planets and technical reports for the 
+laser firing crew.  With the levers and dials in this room life as we know
+it on some planets will cease to exhist.  Mainly because the planet will 
+be gone.
+~
+255 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 25544
+D5
+~
+grate~
+1 -1 25555
+S
+#25555
+In the Super Laser Cannon~
+This is where the super laser originates.  This cannon can vaporize planets
+with a single blast.  The cannon is just huge.  You can't see where the
+laser exits the cannon from.  Hopefully you are not present when they fire t
+this thing.  The blast would be quite deadly to a single person.
+~
+255 264 0
+0d0+0 0 0
+D4
+~
+grate~
+1 -1 25554
+S
+#25556
+Security Checkpoint~
+The walls, floors, and ceiling in this room are polished, grey metal.  This
+is a standard security checkpoint.  A Red security computer monitors the 
+station.  You were scanned for intent and concealed weapons the moment you
+stepped into the room.  Cameras are recording your every movement and the
+defensive grid has been charged.
+~
+255 14 0
+1d1+4 3 1
+D3
+~
+~
+0 -1 25557
+D5
+~
+~
+0 -1 25543
+S
+#25557
+Secondary Security Checkpoint.~
+This check point has a similar setup to the room you just left.  The room is
+grey and sterile, because NOTHING that comes in here without proper clearance
+leaves this room alive.  Warning sirens blare, warning the station of your
+attempted....
+Sorry, you're dead.
+~
+255 14 0
+1d1+4 3 1
+D1
+~
+~
+0 -1 25556
+D4
+~
+~
+0 -1 25558
+S
+#25558
+Royal Guard's Post~
+Here stands the Emperor's personnally trained bodyguards.  The two of them
+alone are usually enough.  If not then the Emperor has two with him at all
+times.  The room is rather small.  The only real space in here is for
+the few visitors and for the guards.  The room is an off-white color with
+the Death Stars usual grey floors.  This room is rather cramped.  Maybe
+you won't have to fight in this tight space.
+~
+255 6152 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25559
+D5
+~
+~
+0 -1 25557
+S
+#25559
+Dimly Lit Corridor~
+This is a very dark hall.  The floor is hard to see in the low lighting.
+This lighting adds to the mood of seeing the almighty Emperor Palpatine.
+To the south you can barely see a small room.  And to the east is the 
+throne room.  Do you dare go in?
+~
+255 6153 0
+0d0+0 0 0
+D1
+~
+door~
+2 25501 25560
+D2
+~
+~
+0 -1 25561
+D3
+~
+~
+0 -1 25558
+S
+#25560
+Emperor Palpatine's Throne Room~
+From this room the Emperor controls most of the galaxy.  He sits in a
+high backed, swiveling chair.  This allows him to peer out the viewport
+or look at his humble subjects.  You can feel immense power radiating
+from this room.  The fact that the two openings to the north and south
+lead straight to the reactor doesn't help.  Don't get to close or you
+might fall in.
+~
+255 6152 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25576
+D1
+~
+door~
+2 25501 25513
+D2
+~
+~
+0 -1 25576
+D3
+~
+door~
+0 -1 25559
+S
+#25561
+Dignitary's Lodgings~
+This is where the dignitaries from around the Empire come to wait for
+an audience with the Emperor.  The room is very plush.  The walls
+are covered with paintings of faraway places.  The room is lined with
+several very comfortable couches. Maybe you should rest here a bit
+before you seek out the Emperor.
+~
+255 6153 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25559
+S
+#25562
+Service Tunnel~
+These tunnels allow service personel to fix whatever goes wrong on the 
+Death Star if the lifts don't work.  They all look the same to you, but
+the service personel must be able to tell the difference.  The tunnel
+is all grey and very cold.  Fortunately it's safe.  And that's all that 
+matters to you right now.
+~
+255 33033 0
+0d0+0 0 0
+D8
+~
+~
+0 -1 25507
+D9
+~
+~
+0 -1 25564
+S
+#25563
+Stormtrooper Garrison - Locker Area~
+This is where all the Stormtroopers keep their belongings.
+This room is a soothing grey compared to the cold grey of the hall.
+Each locker has an identification number so that the Stormtroopers
+know which locker is theirs.  None of these lockers are empty.
+Unless something has happened to the owner.
+~
+255 32776 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 25566
+D3
+~
+~
+0 -1 25564
+S
+#25564
+Stormtrooper Garrison - Kitchen Area~
+Here is where all the Stormtroopers prepare their meals.
+Actually all they have to do is heat the pre-prepared meals.
+The kitchen is white all the way down to the grey floors.  An
+occasional food stain is on the wall, but that will soon be cleaned
+up.
+~
+255 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25563
+D2
+~
+~
+0 -1 25565
+D6
+~
+~
+0 -1 25562
+D8
+~
+~
+0 -1 25566
+S
+#25565
+Stormtrooper Garrison - Sleeping Quarters~
+Welcome to the bedroom of Stormtroopers.  All the beds look very
+comfortable.  Nobody is sleeping in any of them thanks to the reports
+of intruders being onboard the station.  This room is kept dark so that
+the stormtroopers don't have to deal with the lights.  Hopefully they
+don't come back while you are napping here.
+~
+255 32777 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25564
+D1
+~
+~
+0 -1 25566
+S
+#25566
+Stormtrooper Garrison~
+This is where the Stormtroopers live.  They are treated very well.
+This room appears to be a living room.  There are tables and chairs
+and a couch scattered around.  The room is a nice soothing tan.  It
+conveys peace to the stormtroopers who get to go out and blow stuff
+up.
+~
+255 32776 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25563
+D1
+~
+~
+0 -1 25567
+D2
+~
+~
+0 -1 25532
+D3
+~
+~
+0 -1 25565
+D7
+~
+~
+0 -1 25564
+S
+#25567
+Armory~
+This is the Stormtrooper's Armory.  All of there weapons are kept here
+when not in use.  The room is bathed in a bright white light.  With
+the white walls in here the light is reflected around leaving no nook
+without at least a splash of light.  The weapons in here are arranged
+nicely in long rows all the around the room.  The armor is also stored
+in here.
+~
+255 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25507
+D2
+~
+~
+0 -1 25533
+D3
+~
+~
+0 -1 25566
+S
+#25568
+Access Ramp~
+This is the entrance to the Modified Corvette Mescue.  It is one of the
+best corvettes in the fleet.  This ship was designed as a blockade
+runner and has served that purpose time and again.  You look around and
+see the hydrolics that work the hatch.  Occasionally a jet of steam will
+shoot out of the coolant outlets.  
+~
+255 32777 0
+0d0+0 0 0
+D0
+~
+hatch~
+1 -1 25502
+D4
+~
+~
+0 -1 25569
+S
+#25569
+Main Hall of Corvette Mescue~
+The hall you are in as well as the others in this corvette are all white,
+save for the grey steel floor.  The hall lacks pizazz.  It just is a hall.
+You wonder as you stare out ahead of you, how could anybody stand to work
+in these conditions day in and day out.  Then you realize your job is 
+life or death and the people on this corvette have it easy.  You stare at
+these walls that remind you of the life you lead and think, "I hate these
+walls".
+~
+255 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25570
+D3
+~
+~
+0 -1 25574
+D4
+~
+~
+0 -1 25573
+D5
+~
+~
+0 -1 25568
+S
+#25570
+Hall of the Corvette Mescue~
+The hall you are in as well as the others in this corvette are all white,
+save for the grey steel floor.  The hall lacks pizazz.  It just is a hall.
+You wonder as you stare out ahead of you, how could anybody stand to work
+in these conditions day in and day out.  Then you realize your job is 
+life or death and the people on this corvette have it easy.  You stare at
+these walls that remind you of the life you lead and think, "I hate these
+walls".
+~
+255 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25571
+D3
+~
+~
+0 -1 25569
+D5
+~
+~
+0 -1 25572
+S
+#25571
+Engine Room~
+This is the maintenance area for the engine system of the corvette.  You can
+hear the roar of the engines through the bulkhead.  The engine room is bare
+with no real need for any decorations.  The white walls and the grey of the
+floor are shiny enough to see your face in.  The engine compartment itself 
+is off limits.  The noise alone would deafen you without earprotection.
+Fortunately for you the room is sealed shut.
+~
+255 32776 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 25570
+S
+#25572
+Bottom Gun Turret~
+This is the other major gun emplacement.  The view is quite similar to the
+top view.  All of space can be seen, save for the part blocked by the ships
+own hull.  This gun has seen better days.  The fireing mechanism seems to
+be broken.  Maybe that is why the corvette is orbiting the Death Star.
+~
+255 32777 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 25570
+S
+#25573
+Top Gun Turret~
+This is one of the main gun emplacements on the ship.  It gives a great view
+of space.  This is needed of course.  This is where the gunners shoot down
+enemy craft.  From here you can see the Death Star and several battle scars
+on the top of the craft.  Almost everywhere you look are Tie squadrons 
+patrolling for incoming enemy craft.  Hopefully this turret won't come into
+use while you are here.
+~
+255 32777 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 25569
+S
+#25574
+Hall of the Corvette Mescue~
+The hall you are in as well as the others in this corvette are all white,
+save for the grey steel floor.  The hall lacks pizazz.  It just is a hall.
+You wonder as you stare out ahead of you, how could anybody stand to work
+in these conditions day in and day out.  Then you realize your job is 
+life or death and the people on this corvette have it easy.  You stare at
+these walls that remind you of the life you lead and think, "I hate these
+walls".
+~
+255 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25569
+D3
+~
+~
+0 -1 25575
+S
+#25575
+Bridge~
+This is where all the command decesions are made on the corvette Mescue.
+Captain Rhein makes all the decisions here.  You can see many terminals
+ablaze with activity.  The crewman are very busy.  The Emperor wants
+security tight around here and these men are just the ones to do it.
+The viewport shows the Death Star in all it's glory.  This corvette is
+just waiting to take the Emperor back to Coruscant after he finishes
+approving the construction.  
+~
+255 32776 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 25574
+S
+#25576
+Central Chasm~
+That wasn't too smart, jumping over the railing like that.  You are sailing
+through the central chasm of the battle station on a direct course to the
+reactor.  The walls are made of smooth metal so there is nothing you can grab
+to stop your fall.  Gravity is your captain and we hope you enjoy your flight.
+~
+255 538668 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 25550
+S
+#25577
+Beginning of the Movie~
+...
+
+Little does Luke know that the GALACITC EMPIRE has secretly begun
+construction on a new armored space station even more powerful than the
+first dreaded Death Star.
+
+When completed, this ultimate weapon will spell certain doom for the
+small band of rebels struggling to restore freedom to the galaxy...
+~
+255 14349 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25592
+D2
+~
+~
+0 -1 25511
+S
+#25578
+Pain Chamber~
+Pain... Yep, that's what you are feeling right now.  This room is all that
+is left of the alternate universe brought on by the ion storm.  Dr. F. still
+uses this room to torture TV's Frank.
+DEEP HURTING... DEEEEEEEEEP HUUUUURTING...
+~
+255 14338 0
+1d1+4 3 1
+D3
+~
+~
+0 -1 25594
+S
+#25579
+Elevator to the Surface~
+You are now 13 floors below the surface.  The walls were roughly hewn
+into the rock.  Is the green lighting coming from the photoelectric mosses
+growing on the ceiling, or just the cheap studio lights.  Up leads to
+safety and the other exit leads to insanity.
+~
+255 14340 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 25594
+D4
+~
+~
+0 -1 3072
+S
+#25580
+Inside the Millenium Falcon~
+You are standing in the center of the crew quarters.  One wall is occupied 
+by the navi-computer.  In another corner is a Dejarik table.  Han installed
+smuggling compartments in the floor.  A few chairs are scattered around the
+room. This is a cargo ship and not a passenger liner so comfort isn't in
+abundance.
+~
+255 47116 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 25503
+D6
+~
+~
+0 -1 25581
+E
+smuggling compartments~
+Under the movable floorboards are large holes, used for smuggling.
+~
+E
+Dejarik table~
+Dejarik is a game similar to chess.  The board is round and the pieces are
+generated holographically.
+~
+S
+#25581
+Cockpit of the Millenium Falcon~
+This is a rather small compartment.  The back three walls are covered with
+buttons, switches, dials, and flashing lights.  In front of you are the main
+controls that fly this ship.  Through the canopy, the stars appear as white
+streaks because you are traveling at .5 past light speed.  There are four
+captain's chairs so you can sit back and enjoy the ride.
+~
+255 47116 0
+0d0+0 0 0
+D9
+~
+~
+0 -1 25582
+S
+#25582
+Inside the Millenium Falcon~
+You are standing in the center of the crew quarters.  One wall is occupied 
+by the navi-computer.  In another corner is a Dejarik table.  Han installed
+smuggling compartments in the floor.  A few chairs are scattered around the
+room. This is a cargo ship and not a passenger liner so comfort isn't in
+abundance.
+~
+255 47116 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 25584
+D6
+~
+~
+0 -1 25583
+E
+Dejarik table~
+Dejarik is similar to chess.  The board is round and the pieces are generated
+holographically.
+~
+E
+smuggling compartments~
+Under the movable floorboards are large holes, used for smuggling.
+~
+S
+#25583
+Cockpit of the Millenium Falcon~
+This is a rather small compartment.  The back three walls are covered with
+buttons, switches, dials, and flashing lights.  In front of you are the main
+controls that fly this ship.  Through the canopy, the stars appear as white
+streaks because you are traveling at .5 past light speed.  There are four
+captain's chairs so you can sit back and enjoy the ride.
+~
+255 47116 0
+0d0+0 0 0
+D9
+~
+~
+0 -1 25582
+S
+#25584
+Entrance Ramp of the Millenium Falcon~
+You have just stepped onto the ramp leading into the Millenium Falcon.  The
+guy who brought you here is nowhere to be found.  Hope that the old man got
+the tractor beam out of comission and pray you can fly this bucket of bolts.
+~
+255 47116 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 25580
+D5
+~
+hatch ramp door~
+2 25523 24513
+S
+#25590
+Control room of the S.O.L.~
+You are standing in the control room of the Satellite of Love.  It looks
+like the walls have been decorated with household garbage then spray
+painted with gray primer.  Then there's that corny blue mood lighting.  On
+the west wall is a Hex-field viewscreen, on which a nuclear bomb is whining
+about not being needed.  In the east wall is a porthole that looks into the
+vastness of space.  The opening to the Umbilicon is in the floor, and a large
+set of double doors is south.  In the center of the room is a long
+countertop with three warning lights in the center.  The lights begin to
+flash....Oh No, It's Movie Sign!
+~
+255 14344 0
+0d0+0 0 0
+D2
+It's a door, so it looks like a door.
+~
+door doors double~
+1 -1 25591
+D5
+The opening leads to a dark tube.
+~
+~
+0 -1 25593
+S
+#25591
+Hall of doors~
+On a regular basis as you walk down the hall, a door slides, swings, falls
+open in front of you.  It seems like you are walking from one end of the
+satellite to the other.  It also feels like you are in some kind of countdown.
+The decor of this hallway leaves something to be desired, being the same as
+is the control room.  A cockroach barely avoids the underside of your shoe as
+it scurries across the floor.
+~
+255 14344 0
+0d0+0 0 0
+D0
+~
+door double~
+1 -1 25590
+D2
+The hatch looks like a round, heavy safe door, complete with a wheel latch.
+~
+door hatch~
+1 -1 25592
+E
+roach cockroach~
+Ack, the roach looks like every other roach you've ever seen; brown, six legs,
+long antennae. This one has an attitude, almost daring you to step on it.
+~
+S
+#25592
+Theatre~
+This room, like every other theatre, is completely dark.  The only lights come
+the door which you just entered and from the projector, so it is almost
+impossible to make out the details of this room.  You can see that there is
+only one row of seats.  Some silly 'B' rated Sci-Fi movie is playingso sit
+down and make a few cracks about it.
+~
+255 14345 0
+0d0+0 0 0
+D0
+It's dark...
+~
+door hatch~
+1 -1 25591
+D2
+A long time ago, in a galaxy far, far away...
+~
+~
+0 -1 25577
+E
+movie screen~
+A long time ago in a galaxy far, far away...
+~
+S
+#25593
+In the Umbili-con~
+The Umbili-con is a scientific breakthrough, making the Satellite of Love the
+first tethered object in orbit.  You can't believe that you actually squeezed
+yourself into this tube, the Umbili-con just isn't wide enough to fit people.
+It is a thirty-mile long, one-foot diameter, corrugated, black pipe.  You
+feel yourself getting heavier, so you must be getting closer to the surface.
+Remember to hold your breath, because space is a vacuum...
+~
+255 263 0
+10d10+25 5 1
+D4
+~
+~
+0 -1 25590
+D5
+~
+~
+0 -1 25594
+S
+#25594
+Deep 13~
+Deep 13 is the lab where Dr. Forrester runs the experiment on Mike and the
+Bots.  Deep 13 is aptly named, this room was carved out of the rock thirteen
+stories below the surface by the Gizmonic Institute.  The room's lack of
+light gives off an eerie feeling of Hell.  One corner of the room is filled
+with cheesy movies, the worst we can find.  On one of the walls
+is a large viewscreen so that Deep 13 is always in contact with the S.o.L.
+Ahhhh, push the button Frank.
+~
+255 14345 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 25579
+D1
+~
+~
+0 -1 25578
+D4
+~
+~
+0 -1 25593
+S
+#25599
+~
+~
+255 0 0
+0d0+0 0 0
+S
+$

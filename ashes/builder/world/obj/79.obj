@@ -1,0 +1,252 @@
+#7900
+key large steel~
+a large key~
+A large steel key has been left here.~
+~
+18 4 1 0
+0 0 0
+2 0 0 0
+2 10 0
+E
+steel key~
+This huge key is made from solid steel.
+~
+#7901
+key copper~
+a copper key~
+A copper key has been left on the floor.~
+~
+18 4 1 0
+0 0 0
+2 0 0 0
+2 10 0
+E
+copper key~
+This little key is made from copper.
+~
+#7902
+ring naris falcon~
+the ring of the Naris~
+A ring with a falcon on it lies here.~
+~
+9 690208 3 0
+0 0 0
+5 0 0 0
+5 1000000 10000
+A
+10 30
+A
+13 3
+#7909
+treasure coins coin gold~
+a huge treasure~
+There is a huge treasure here, looking moderately valuable.~
+~
+20 0 1 0
+0 0 0
+7734 0 0 0
+0 0 0
+E
+treasure~
+This looks like a whole lot of coins, though not as many as you expected.
+~
+#7910
+chest~
+a wooden chest~
+A wooden chest stands in the corner.~
+~
+15 0 1 0
+0 0 0
+100 15 7911 0
+400 100 3000
+E
+chest~
+It is a robust chest made from short, heavy planks that have been fastened
+together with tenons.  It is equipped with a simple brass lock.
+~
+#7911
+key brass small~
+a small brass key~
+A small brass key lies here.~
+~
+18 4 1 0
+0 0 0
+7910 0 0 0
+1 10 4
+E
+key~
+It is a small, simple brass key with no inscriptions or marks of any kind.
+~
+#7912
+sword bastard~
+a huge bastard sword~
+There is a huge bastard sword here.~
+slash~
+5 3136 8193 0
+0 0 0
+0 2 9 3
+18 17000 8000
+A
+17 1
+A
+18 3
+E
+bastard sword~
+Quite a heavy weapon, with a pure white hilt.
+~
+#7913
+shield white red cross~
+a white shield with a red cross blazed upon it~
+You see a white and red shield lying here.~
+~
+9 805896 513 0
+0 0 0
+10 0 0 0
+5 11234 123123
+A
+18 2
+A
+13 5
+#7914
+~
+~
+~
+~
+0 0 0 0
+0 0 0
+0 0 0 0
+0 0 0
+#7915
+sabre light~
+a light sabre~
+On the floor lies a strange looking sabre.~
+~
+1 3136 16385 0
+0 0 0
+0 0 10000 0
+50 1500 90000
+A
+17 10
+E
+light sabre~
+This looks as a sabre out of an well-known SF-movie.  This item shouldn't be
+in circulation amoung mortals, hence the high rent.
+~
+#7917
+breastplate breast plate silvery~
+a silvery breast plate~
+There is a silvery breast plate on the floor.~
+~
+9 3392 9 0
+0 0 0
+8 0 0 0
+110 25000 13000
+E
+plate breast~
+On the breast plate you notice a relief of large rose. The metal seems to be 
+some kind of silver or platinum.
+~
+#7918
+greaves silvery~
+a pair of silvery greaves~
+On the floor you see a shiny pair of greaves.~
+~
+9 3392 33 0
+0 0 0
+8 0 0 0
+40 12500 8000
+E
+greaves~
+They seem to be made from silver or platinum. You see the outline of a rose.
+~
+#7919
+gauntlets silvery~
+a pair of silvery gauntlets~
+You can see a pair of gauntlets on the floor.~
+~
+9 3392 129 0
+0 0 0
+8 0 0 0
+24 9000 8000
+A
+17 1
+E
+gauntlets~
+They seem to be made from silver or platinum. You see the outline of a rose.
+~
+#7920
+helmet silvery~
+a silvery helmet~
+A silvery helmet lies here.~
+~
+9 3392 17 0
+0 0 0
+8 0 0 0
+40 12000 13000
+A
+4 2
+A
+10 15
+E
+helmet~
+The helmet is made from platinum or silver and has a white fur brush attached
+on the top.
+~
+#7921
+shield rose~
+a shield of the rose~
+A shield of the rose rests on the floor.~
+~
+9 3392 513 0
+0 0 0
+8 0 0 0
+60 15000 9000
+A
+2 1
+E
+shield~
+On the shield you see a clear and perfect painting of a dark red rose on a 
+white background.  You also notice the inscription :'Pax Est Sanctuum'.
+~
+#7922
+boots silvery~
+a pair of silvery plated boots~
+A pair of heavy plated boots stand on the floor.~
+~
+9 3392 65 0
+0 0 0
+8 0 0 0
+40 2000 9000
+A
+12 20
+E
+boots~
+The boots are made from a silvery metal.
+~
+#7923
+plates arm silvery~
+a pair of silvery arm plates~
+On the floor you see some arm plates.~
+~
+9 3392 257 0
+0 0 0
+8 0 0 0
+40 12500 8000
+E
+plates arm~
+They seem to be made from silver or platinum. You see the outline of a rose.
+~
+#7999
+ring diamond redferne wedding~
+Redferne's wedding ring~
+You see a ring with the word Redferne on it.~
+~
+9 2048 16387 0
+0 0 0
+5 0 0 0
+5 10000 100000
+A
+18 -2
+A
+11 25
+$

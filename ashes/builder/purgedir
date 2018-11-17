@@ -1,0 +1,11 @@
+#!/bin/sh
+#
+
+cd plrobjs/$1
+echo "  Purging $1"
+../../../bin/delobjs ../../etc/players *.objs >> ../deleted
+../../../bin/delobjs ../../etc/players *.reimb >> ../deleted
+cd ../../plrtext/$1
+../../../bin/delobjs ../../etc/players *.alias >> ../deleted
+../../../bin/delobjs ../../etc/players *.mail >> ../deleted
+cd ../..

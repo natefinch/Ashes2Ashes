@@ -1,0 +1,95 @@
+#2500
+barrel~
+a barrel~
+A large barrel rests on the ground.
+~
+It's a barrel.  It's large.  Get the picture?
+~
+8036363 0 0 W2
+0 0 10 0d0+1 0d0+0
+0 0
+8 8 0
+13 0 13 13 13 13 13
+9 3 1
+100 0 0 0 200
+100 100 100 100 100
+0 0 0
+6 1
+~
+#2501
+zombie~
+a zombie~
+A zombie shambles towards you, its arms out-stretched.
+~
+This thing is a walking corpse; pieces are falling off everywhere.
+~
+40 40 0 W2
+28 9 10 100d4+1 2d6+5
+65 16000
+8 8 0
+13 0 13 13 13 13 0
+0 2 1
+100 13 2 0 0
+70 70 70 70 70
+0 0 0
+6 1
+~
+#2502
+skeleton~
+a skeleton~
+A skeleton wielding an axe is coming right at you.
+~
+White bones, big axe. 'nuff said.
+~
+40 40 0 W2
+20 9 10 80d4+1 2d6+5
+65 16000
+8 8 0
+13 0 13 13 13 13 0
+0 2 1
+100 13 2 0 0
+70 70 70 70 70
+0 0 0
+6 1
+~
+#2503
+scavenger~
+a scavenger~
+A small scuttling scavenger comes over to gnaw on your leg.
+~
+This thing is all red, running on two legs hunched over. It scuttles around
+from one place to the next, attacking and then running away. It's large teeth
+like to rip through flesh and bone.
+~
+72 0 0 W2
+20 8 3 1d100+150 5d3+10
+75 14000
+8 8 0
+17 0 13 13 13 13 0
+0 2 3
+30 4 2 0 0
+75 75 75 75 75
+0 0 0
+10 2
+~
+#2504
+goblin fallen one~
+a Fallen One~
+A strange little goblin like creature comes up and attacks you.
+~
+This little creature looks sort of like a goblin.  It is wielding a spear and
+thrusts it at you menacingly.  Its body is barely covered by the rags it
+wears, and it bares its teeth at you as it attacks.
+~
+200 0 0 W2
+20 6 3 1d100+150 4d3+5
+75 14000
+8 8 0
+17 0 13 13 13 13 0
+0 2 3
+30 11 2 0 0
+75 75 75 75 75
+0 0 0
+6 2
+~
+$

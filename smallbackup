@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+
+cd ashes
+tar -cf backup.tar lib/etc/* lib/plrobjs/* lib/plrtext/*
+gzip -9 backup.tar
+rm ../backup.tar.gz
+mv backup.tar.gz ..

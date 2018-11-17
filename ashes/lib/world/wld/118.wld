@@ -1,0 +1,1960 @@
+#11800
+Standing just outside the portal.~
+You are standing before a glowing portal and there is light all around you.
+To the north the light gets brighter and brighter. Although the light
+seems very intense your eyes are not being hurt at all.  All around you 
+there are voices urging you ahead.
+~
+118 135172 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 11801
+D4
+~
+altar~
+1 -1 6155
+S
+#11801
+A portal of some kind.~
+You are standing in a spacious room that is filled with smoke and fog.  You 
+can barely see your hand in front of your face much less the exits out 
+of this room.  There are images that seem to pass in front of your eyes
+just barely out of reach and just barely visible to you.  You seem 
+to be able to pick out images of your holidays from the past. Hmmmm
+kinda wierd.   There is a slight bit of music that is filtering in from 
+some where but you cannot seem to make out what it is or where it is 
+coming from.  There is a Large sign just before you.
+~
+118 14476 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11826
+D2
+~
+~
+0 -1 11800
+D3
+~
+~
+0 -1 11802
+D6
+~
+~
+0 -1 11810
+E
+sign large~
+The sign says:
+
+WELCOME TO HOLIDAY HELL......
+HASN'T YOUR FAMILY PUT YOU THROUGH THIS ALREADY?!??!
+
+This zone is brought to you By the Teddy Construction company. 
+With help from independant contractors Lapo and Sheol.
+~
+E
+Sign large~
+The sign says:
+
+              WELCOME TO HOLIDAY HELL.....
+                   HASN'T YOUR FAMILY PUT YOU THROUGH THIS ALREADY???
+~
+S
+#11802
+A wintery wonderland.... You think.~
+There is snow all around you that glistens like flakes of pure gold.  Just 
+before you there is a large castle that seems to hover and vibrate ever
+so slightly. The snow shows no sign of anyone traveling this way in 
+quite some time.  As you look at the castle you notice no signs of life 
+there either....hmmm you wonder if anyone lives there at all.  The castle
+is covered in the same glistening snow that covers the trees and the 
+ground.  The sphires jut gracefully into the sky as if announcing that
+tehy too are royalty as well as the inhabitants of this grandios castle.
+~
+118 131076 4
+0d0+0 0 0
+D1
+~
+~
+0 -1 11801
+D3
+There is a drawbridge that is leading to a castle built of gold.
+~
+drawbridge~
+2 11828 11803
+E
+Castle~
+The castle is huge and it apprears to hover before you. The caslte
+is so lovely and sparkly that you nearly have to shield your eyes
+from the light that it puts out.
+~
+S
+#11803
+The Drawbridge.~
+You are standing in from of the castle.  There is a large wooden drawbridge
+in front of you.  The planks Of the drawbridge look like they have been 
+joined by golden spikes.  The rope looks like it is pure gold spun
+into a large rope that would hold up anything. AS you look around you see
+that nearly everything looks like it has been touched with gold.
+The tree's have golden leaves on them and the Bricks of the castle 
+look like pure gold bricks.  There ius snow drifted up all around the 
+castle walls and the moat is filled with molten gold that seems to flow 
+all around you and fill you with the warm feeling.
+~
+118 131204 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11804
+D1
+~
+drawbridge~
+1 -1 11802
+S
+#11804
+Entrance foyer to the Castle.~
+You are in a long room.  There are tapestries on the walls that are laced
+with gold thread and look to be worth a fortune.  There are large portraits
+on either side of this room and on each end as well.  The portaits look 
+to be off the people who inhabit this wonderfulm castle.  There is a small
+table that is long and slender and sits against on wall.  On this 
+table there are candlesticks and platters in gold with lovely designs 
+engraved into them. Should you go further into the castle without the 
+permission of those who live here?
+~
+118 135304 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11805
+D2
+~
+~
+0 -1 11803
+D3
+~
+~
+0 -1 11818
+D7
+~
+~
+0 -1 11808
+E
+sign~
+You are now afk to do as you please.  Get a coke, smoke a cigerette, or 
+just to go potty please hurry back as all lifeless adventures are sent
+back to their creator after a set time.
+0
+~
+S
+#11805
+A hallway~
+You are standing in a long dark hallway in an old musty castle. There are 
+torches lighting the way as you creep down the hallway.  There seems to be 
+some light coming from somewhere up ahead.  The walls are made of rock
+and seem to be impentrable to the weather and enemy attacks.
+~
+118 136 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11817
+D2
+~
+~
+0 -1 11804
+S
+#11806
+Father Time's Clock room.~
+You are in a large room that has several thousand clocks lining the walls
+and ceiling.  There are big clocks, small clocks, Grandfather clocks, and
+cuckoo clocks.  The clocks are a bit odd however, they do not count
+hours or minutes, they count days, weeks, and the year.  The ceiling 
+is high above you but yet it is covered in clocks too. The floor is
+made of marble and it makes one huge clock that seems to vibrate below
+you.
+~
+118 8200 0
+0d0+0 0 0
+D0
+You see a large grandfather clock here...it seems to stand out a bit...
+almost like it is standing open
+~
+clock~
+2 11801 11850
+D2
+~
+~
+0 -1 11817
+S
+#11807
+Baby New Year's Nursery and Playroom.~
+You are in a nursery.  There are little ducks all over the wallpaper.
+Over the crib is a mobile that has ducks and cute little critters all
+over it.  The toy box is brimming with lots of things little ones 
+like to play with.  There is a changing table that has diapers and 
+powder sitting on it as if the baby just had his bath.
+~
+118 8216 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11819
+S
+#11808
+A Hallway in the damaged wing.~
+You are in a long hallway that appears to have been damaged by the heavy 
+amounts of snow that must fall around here.  The ceiling looks to be 
+damaged and swaying in the breeze.  It seems to be dangerously 
+close to falling.
+~
+118 14344 0
+0d0+0 0 0
+D7
+~
+~
+0 -1 11820
+D8
+~
+~
+0 -1 11804
+S
+#11809
+A Room in the damaged wing.~
+You are standing in a room in the damaged wing of the castle.  The ceiling
+has caved in here and it appears to be snowing inside the building.  There
+is snow covered debris everywhere.
+~
+118 18442 0
+1d1+199 90 0
+D0
+~
+~
+0 -1 11821
+D8
+~
+~
+0 -1 11820
+S
+#11810
+A large open field.~
+You are standing in a spacious field. There are all sorts of wild flowers
+growing in all directions.  The color here is amazing..and the scent.
+It is like an assault on all of your senses.  The color, the feel of 
+the flowers brushing against your legs, and the scent of the sweet
+flowers wafting up to you. You could stay in this field forever 
+and never see everything it has to offer.
+~
+118 8192 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 11813
+D5
+~
+~
+0 -1 11811
+D9
+~
+~
+0 -1 11801
+S
+#11811
+A hole in the ground.~
+As you descend into the ground you wonder if this is a good idea..it seems
+..risky at best.  There is dirt all arounf you and you can see the roots 
+of trees sticking out of the dirt. There are some tracks here but you can't
+figure out what kind of animal they belong into.
+~
+118 273 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 11812
+D4
+~
+~
+0 -1 11810
+S
+#11812
+A groundhog's home.~
+This is the den of some animal.  There are tracks all around and you 
+can just barely make out the leavings of his last meal.  From down
+here you can see the tree roots a little better and there is dirt
+all around you and above you.  There is a no light here except for 
+what you brought with you.
+~
+118 8217 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 11842
+D3
+~
+~
+0 -1 11811
+S
+#11813
+A large heart shaped arch.~
+You are beneath a large heart shaped red arch.  There are small hearts 
+dangling from the larger one you are walking through.  As you look just 
+past the arches there is a body of water just ahead.  There are 
+stores and other businesses on either side of the water.
+~
+118 384 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 11814
+D2
+~
+~
+0 -1 11810
+S
+#11814
+The tunnel of love.~
+You are floating quietly down a water filled trail.  There are stores a
+and other business to either side of you and you see that the heart
+shaped arch you just came through now creates arches above your head.
+~
+118 12296 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 11876
+D1
+~
+~
+0 -1 11823
+D2
+~
+~
+0 -1 11813
+S
+#11815
+The tunnel of love.~
+In this tunnel there are red arches that hang aboce your head in 
+the shape of hearts. The water glistens all around you and the 
+stars twinkle above you with a golden glow.  As you float slowly 
+down the tunnel you think back to your love and wonder what you 
+are doing here without them.
+~
+118 2184 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 11816
+D2
+~
+~
+0 -1 11814
+D3
+~
+~
+0 -1 11824
+S
+#11816
+The tunnel of love.~
+There is an entrance to Valentine manor directly north of here.  There 
+is the sound of the water lapping against the boat and the sound o 
+ music lilting in from somewhere.  The red hearts fold out before you 
+to a huge mansion that is covered from top to bottum in red hearts.
+The mansion is the most beautiful thing you have ever seen.
+~
+118 6152 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 11825
+D1
+~
+~
+0 -1 11822
+D2
+~
+~
+0 -1 11815
+S
+#11817
+A hallway~
+The hallway continues to the north from here.  There is some light streaming
+from a room just ahead of you and there is a sound of loud ticking.  The 
+light from the torches on the wall dance with a breeze of unknown orgin.
+The flicker of the flames leaves eerie shadows cast on the hard rock 
+walls.
+~
+118 8328 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11806
+D2
+~
+~
+0 -1 11805
+S
+#11818
+A hallway~
+You are standing in an enormous hallway and there are woven tapestries on 
+the walls that are several feet long and wide.  The torch light glows
+off of the spoils of war that are on display.
+~
+118 2184 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11804
+D3
+~
+~
+0 -1 11819
+S
+#11819
+A hallway~
+This is a hallway in the illustrious castle.  There are tapestries on the 
+walls and on the tables there are golden candle holders.  Against one
+wall there are a set of 8 golden plates gleaming in the torch light.
+~
+118 2056 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11818
+D3
+~
+~
+0 -1 11807
+S
+#11820
+A Hallway in the damaged wing.~
+You are standing an a wing of the castle that appears to have been damaged
+by the heavy snow.  The roof looks as though it can't take another hard
+winter.  It looks dangerous ...maybe you should turn back.
+~
+118 12296 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11846
+D7
+~
+~
+0 -1 11809
+D8
+~
+~
+0 -1 11808
+S
+#11821
+A Room in the damaged wing.~
+The ceiling caved in on you..check your wounds ...do you live?
+~
+118 16394 0
+1d1+199 90 0
+D2
+~
+~
+0 -1 11809
+S
+#11822
+Land of Hearts Marriage chapel.~
+This is the guadiest place you have ever seen.  There are big red hearts 
+appliqued to everything that would stand still for it.  The ceiling has
+fake stars and moon on it.  The carpet is the most hideous shade of red 
+you have ever seen and it is making you nauseous to jsut stand on it.
+There is a big sign here.
+~
+118 2184 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11894
+D3
+~
+~
+0 -1 11816
+E
+sign~
+
+NO SHIRT.....NO SHOES........NO SERVICE
+NO EXCEPTIONS!!!!!!!
+~
+S
+#11823
+Cupid's floral shop.~
+You are in the largest floral shop you have ever seen.  There are so 
+many differet colored flowers around that your eyes can't seem to find 
+aplace to rest upon.  The scent of the flowers is so overwhelming that 
+you cannot smell anything else.  You here a happy person singing somwhere
+you might need to find that person to buy some flowers.
+~
+118 4104 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 11814
+S
+#11824
+A chocolate affair confection factory.~
+You are standing in a large factory that makes chocolate.  There is a 
+heavenly smell coming from the factory.  As you look around you see that
+there are all kinds of chocolates sitting around in shiny papers and 
+bright colorful boxes with bows on them.  You the noise from the factory 
+makes you think your ears might just start bleeding.
+~
+118 12296 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11815
+S
+#11825
+Entrance Valentine manor.~
+You are standing before a large mansion.  There are  large weeping willows
+draping across the large rolling lawn. There are rose bushes in full bloom
+lining the front porch.  Above the porch is a balcony that is as long
+as the house itself and wraps around each side and continues around to 
+the back of the house.  There are a set of large gates, that are always 
+open, with big red hearts hanging on the black wrought iron gates.
+~
+118 12296 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 11851
+D2
+~
+~
+0 -1 11816
+S
+#11826
+A large open field bathed in color.~
+You are standing in a large field that is covered in knee-high weeds.
+The field appears to be cast in every color of the rainbow.  There are 
+blues and violet streams of light all around you making you a part if 
+the color streaked field.
+~
+118 8324 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 11829
+D2
+~
+~
+0 -1 11827
+D3
+~
+~
+0 -1 11801
+S
+#11827
+A lovely rope bridge spanning a small canyon.~
+There is a canyon that is far below you as you cross the quaint rope
+bridge.  The rocks jut out from the walls as if tell you they will 
+catch you, should you fall.  Their sharp edges are a reminder to you
+that you do not want to hang around on this bridge any longer than 
+necessary.
+~
+118 14608 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 11826
+D9
+~
+~
+0 -1 11828
+S
+#11828
+In front of a small cottage~
+ Just before you is a small modest cabin.  Although it is small it is 
+tidy and looks well cared for.  The shutters on each window looks 
+to be freshly painted. The windows sparkle brilliantly. On the door
+into the cabin there is a shamrock painted in a bright green color.
+Wonder if that is for good luck?
+~
+118 12 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11841
+D6
+~
+~
+0 -1 11827
+S
+#11829
+On a Beautiful rainbow.~
+You are walking across a rainbow and you are amazed by the colors. There 
+are beams of light everywhere and they are so warm and beautiful to look 
+at. As you continue you wonder if that story about the pot of gold is 
+true.
+~
+118 10368 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 11826
+D6
+~
+~
+0 -1 11830
+S
+#11830
+On a Beautiful rainbow.~
+You are still walking along the rainbow and still it seems to continue
+forever.  The colors seem to be glowing brightly now.  You feel as 
+if the colors are coming up through your feet and filling your whole 
+body with a glowing feeling.
+~
+118 139520 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11831
+D9
+~
+~
+0 -1 11829
+S
+#11831
+On a Beautiful rainbow.~
+Still the rainbow continues...... The colors are starting to annoy you 
+at this point. You have been walking along this rainbow forever and 
+it seems to never end.
+~
+118 2068 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 11830
+D8
+~
+~
+0 -1 11832
+S
+#11832
+At the end of the rainbow.~
+FINALLY the end of the rainbow. As you sit down to rest you notice the 
+mystic pot of gold lying at your feet...but it seems big enough to 
+get into.  Should you really chance going into a pot?  But wait
+it is rumored to be filled with gold....
+~
+118 10244 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 11832
+D5
+~
+~
+0 -1 11833
+D7
+~
+~
+0 -1 11831
+S
+#11833
+A pot 'o Gold~
+You are just inside the mouth of the pot of gold.  Gold glitters all around
+you.  The sight is blinding and until you eyes adjust to the brightness y
+squint and your eyes water.  There is someone singing but it seems like it
+is coming from further down in the pot of gold
+~
+118 14344 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 11832
+D5
+~
+~
+0 -1 11834
+S
+#11834
+A pot 'o Gold~
+You are further down in the pot of gold now. The singing seems to be coming 
+from even further down in the pot of gold.  You eyes have now adjusted
+to the sight of all the gold that is glittering all around you.
+~
+118 24 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 11833
+D5
+~
+~
+0 -1 11835
+S
+#11835
+A pot 'o Gold~
+You are standing at the very bottum of the pot of gold.  There is a small 
+man here and he appears to be guarding the gold...daring you to take any.
+~
+118 24 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 11834
+S
+#11836
+A large kitchen.~
+You are in a Large industrial looking kitchen. On the enormous stove there
+are huge pots of boiling water.  In the pots of boiling water there are 
+thousands of eggs being boiled.  The kitchen is painted with a loved pastel
+yellow-pink-blue color scheme. There are eggs sitting everywhere cooling and
+boiling ...cooling and boiling.... Who needs this many boiled eggs?
+~
+118 4104 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11832
+D3
+~
+~
+0 -1 11837
+S
+#11837
+The Color room.~
+This is a large room.  The colors in here are the same as in the kitchen. 
+There are huge vats of colored water here in every color you could imagine
+...and a few you couldn't ( puce easter eggs?)  Sitting around on all the 
+tables there are eggs that have been colored waiting to dry and waiting 
+to be distributed around the world.
+~
+118 10248 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11836
+D3
+~
+~
+0 -1 11838
+S
+#11838
+The candy room.~
+This is an enormous room that is used to make all the easter bunnies goodies
+in.  There are choclates and marshmellow candies everywhere. Some are in 
+colorful packages while others are waiting to be wrapped.  There are 
+candies that are shaped as bunnies, chicks, eggs, lambs and other cute 
+things (YUCK!).  This room is bustling with people and you can pass-by 
+unnoticed as there is no way these people could hear you
+even if you screamed.
+~
+118 8200 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11837
+D3
+~
+~
+0 -1 11839
+S
+#11839
+The egg laying room.~
+There are several hundred chickens here laying enough eggs so that the 
+easter bunny might make children happy. The smell in here is horrible, 
+the heat is stifling and your eyes are watering from the combination.
+ There are chicken feathers floating through the air and you are walking
+on something squishy, yet you don't WANT to know what it is.
+~
+118 8 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11838
+D2
+~
+~
+0 -1 11840
+S
+#11840
+The Easter Bunny's Basket.~
+You are in a sacred place.....THE basket of THE easter bunny.  There are 
+eggs of every shape and size all around it.  The eggs are all pretty 
+much easter colors with the exception of one way doen in the bottom of 
+the basket.  This egg in the bottom of the basket is red white and blue.
+Seems a little odd to have a red white and blue egg for easter...
+~
+118 14360 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11839
+D5
+This is a huge egg....so large that you might could sit in it.  It has 
+red and white stripes on it and bigh stars in it...Seems kinda strange for 
+an easter egg
+~
+egg~
+1 -1 11843
+E
+egg~
+This is a large Red, White, and Blue egg here ...IT seems awful large 
+to be an easter egg...and those colors...it seems to have a seam
+in the middle as if it might split open..........
+~
+S
+#11841
+Front Room in a Small Cottage~
+The room is modestly furnished in lovely green plaid material.  There is 
+a sofa and a chair are here.  The shelves built into the walls appear to be
+overflowing with well worn books.  There is a large window on one wall that
+lets the sunshine in to brighten things up just a bit.  The room looks 
+so cheerful that it brightens your day just to gaze upon it.
+~
+118 131096 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11828
+D1
+~
+~
+0 -1 11889
+D3
+~
+~
+0 -1 11888
+S
+#11842
+Groundhogs Bedroom~
+There is a small about of nesting material in a corner of this room.  There
+seems to be no one here at this time.  This room has been carved out of the 
+dirt from the other rooms so it seems a bit more rough and the walls are not 
+smooth like the ones in the other rooms.
+~
+118 8201 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 11812
+S
+#11843
+Red, White, and Blue Egg.~
+This egg seems to be a hallway or tunnel of sorts.  There is nothing much 
+here to see or do.   There are a few blank white washed walls and that 
+is it.
+~
+118 8448 0
+0d0+0 0 0
+D4
+~
+door~
+2 -1 11840
+D5
+~
+egg~
+0 -1 11844
+S
+#11844
+Red, White, and Blue Flag room.~
+You are standing in a large hall that seems dedicated to The United States
+Flag.  The entire room is Empty except for a roped off area in the center 
+of the room that houses a Flag.  The flag is on a flag pole and seem to be
+quite old.  There are not that many stars on it so apparently it is rather
+old.  There is a skylight in the ceiling so that natural light might flow
+in over it. This Flag seems pretty important...though you can't recall 
+just why....?
+~
+118 14360 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 11845
+D4
+You see a huge Red, White, and Blue egg here.  Wonder what it does... It
+appears to open.
+~
+egg~
+1 -1 11843
+S
+#11845
+Uncle Sam's Office~
+There is a enourmous oak and marble desk in the middle of this huge office.
+There is a large red white and blue flag in the corner.  There is a skylight
+that shines light from up above and it is centered over the desk.  The desk
+looks like someone important might work there.  The name plate on the desk
+says Uncle Sam...you didn't know your uncle had a cool office like this
+did you?
+~
+118 24 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11844
+D7
+~
+~
+0 -1 11847
+S
+#11846
+Out in a Rocky Field~
+You are standing in a large rocky field.  There is very littl grass and where
+there is a small patch of grass it is full of sand and rocks. You could 
+not walk more than a few feet without having to step over some rocks.
+~
+118 14476 5
+0d0+0 0 0
+D0
+~
+~
+0 -1 11849
+D2
+~
+~
+0 -1 11820
+S
+#11847
+Hall of Statues.~
+You are standing in a Large room.  The mood in this room is sober and solemn,
+this rooms houses the statues of veterans that have fallen in the protection 
+of our freedom.  Along the walls there are photographs taken of our men in 
+the field, away from their home.  In the center of the room is a large statue
+showing several men trying to raise an american flag, In each of the faces of
+the statue you can see the pride each has for the country they love.
+~
+118 12304 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11848
+D8
+~
+~
+0 -1 11845
+S
+#11848
+Veteran's Memorial.~
+You stand before a memorial to the men who lost their lives in war.  There 
+are a lot of people standing around, some are crying.  In this memorial 
+you see the faces of fathers, husbands, brothers, and sons.  There 
+are several pictures around the room with small brass name plates 
+telling the names of the people who lost their lives in war and some 
+who are still considered missing action.
+~
+118 24 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11864
+D2
+~
+~
+0 -1 11847
+E
+memorial statue~
+There is an enormous memorial here to the men and women that have lost their
+lives in war.  There are many people standing here crying and reliving 
+some of the darkest days in their lives.
+~
+S
+#11849
+In a Dark Field.~
+You are in a large dark field. There is only on tree that stands in this 
+field and it looks as if the tree died some years ago and someone 
+forgot to come and cut it down.  The only thing in this field that is 
+alive is the vulture that is eyeing you suspiciously.
+~
+118 131089 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 11864
+D2
+~
+~
+0 -1 11846
+S
+#11850
+In a Grandfather Clock.~
+You are standing inside an enormous clock.  You look from side to side and y
+can see the gears and interworkings of the clock.  There is a large pedalum
+swinging back and forth and keeping time.  
+~
+118 6285 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11806
+S
+#11851
+Hall in Valentine Manor~
+The room has high exposed beam ceilings.  The walls seem to go on and on and 
+are covered in the latest most up to date art.  There are tapestries from 
+australia and paintings from paris.  There is a sculpture in the center
+of the room that looks like the old legend cupid.
+~
+118 4104 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11825
+D6
+~
+~
+0 -1 11852
+D7
+~
+~
+0 -1 11853
+S
+#11852
+Library in Valentine Manor~
+The walls in this room are covered with books and more books.  The greatest 
+number of them look like first editions and worth a great deal of money.
+Off in one corner of the room is a large desk that has a light above it so 
+that you can read anytime at all.  On on side of the room is a huge window
+over looking the grounds of this enormous mansion.  Just below the window in
+a window seat so that you can sit and read while looking at the horse stables.
+~
+118 131096 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 11854
+D9
+~
+~
+0 -1 11851
+S
+#11853
+Kitchen in Valentine Manor~
+This looks like the kitchen you might see in a four star resteraunt. The 
+industrial sized stove has a huge pot of some delicious smelling substance
+cooking on it.  The kitchen is hot and it is humid and you can already feel 
+the sweat breaking out on your forehead.
+~
+118 2072 0
+0d0+0 0 0
+D4
+~
+~
+0 -1 11855
+D8
+~
+~
+0 -1 11851
+S
+#11854
+Before the Throne~
+The throne before you is done in a beautiful crushed red velvet.  The arms 
+and legs of the throne are made of oak and are polished so that they will 
+shine.  There is a large portrait of the former St Valentine that hangs
+above the throne.  There is a group of musicians here playing some sort
+of love song that you can never remember the words to ..except for the 
+first 2 words..."ONLY YOU" da da dada. 
+~
+118 6152 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 11852
+D7
+~
+~
+0 -1 11856
+S
+#11855
+Before the Throne~
+The throne before you is done in a beautiful crushed red velvet.  The arms 
+and legs of the throne are made of oak and are polished so that they will 
+shine.  There is a large portrait of the former St Valentine that hangs
+above the throne.  There is a group of musicians here playing some sort
+of love song that you can never remember the words to ..except for the 
+first 2 words..."ONLY YOU" da da dada. 
+~
+118 6152 0
+0d0+0 0 0
+D5
+~
+~
+0 -1 11853
+D6
+~
+~
+0 -1 11856
+S
+#11856
+St. Valentine's Throne of Hearts.~
+There is a large throne here that is in the shape of a large heart and it has
+lovely red velvet covering every square inch.  In fact as you look around 
+you can't see hardly anything that isn't red or anything that doesn't have 
+some red on it or in it.
+~
+118 10248 0
+0d0+0 0 0
+D5
+There is a heart shaped trapdoor here.  Wonder where it goes?
+~
+Trapdoor~
+2 11845 11857
+D8
+~
+~
+0 -1 11854
+D9
+~
+~
+0 -1 11855
+S
+#11857
+The dungeon Of Lost Loves.~
+The red lined walls and halls that your eyes have become attuned to have
+changed to a dingy and decaying grey of moldy blood.  The stench of lost 
+love hangs in the air, and the floor is littered with pieces of broken
+hearts and downtrodden love letters.
+~
+118 4125 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11862
+D4
+There is a heart shaped trap door here.  Wonder where it goes?
+~
+trapdoor~
+2 11845 11856
+S
+#11858
+A cell in the Dungeon.~
+You are in a dark, dank cell.  There is little to do here and even less to 
+look at.  The small room is devoid of light and color.  There is a stench 
+here that takes your breath and leaves you gasping for air.  On one side 
+of the room there is a small cot that contains a soul who let his pride over
+rule his love for his soulmate and thus must spend his life in an eternal
+hell with no love.
+~
+118 14352 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11862
+S
+#11859
+A cell in the dungeon.~
+The cell you are standing in is damp and hot.  There is a small slit of a w
+window at the top of one of the walls and it barely lets enough air in the 
+breath much less cool this small place.  There is a person here wandering 
+around the cell like they aren't sure what to do with themselves.
+~
+118 14360 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 11862
+S
+#11860
+A cell in the dungeon.~
+You are in a small room that has 3 cinder block walls and one wall of iron 
+bars.  There is almost no light in here as there are no windows for light
+to come through.   There is a small cot to one side of the room.  On the 
+cot is a thin mattress and a filthy blanket and pillow.  There is a person
+sitting here on the floor sobbing.
+~
+118 14360 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11863
+S
+#11861
+A cell in the Dungeon.~
+You are in a small cell that is home to the people who have thrown love 
+away for pride, money, or other reasons.  The cell has cinder block walls
+andthere is almost no light coming though the iron bars.  In the corner 
+is a small cot containing a filthy blanket and a thin mattress.  There
+is a person here laying on the thin mattress with a despondant look 
+on their face.
+~
+118 14360 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 11863
+S
+#11862
+Tunnel of Desolution~
+This is where the lost loves and forgotten or abandoned affairs go after
+they are thrown aside to sit and fester in the darkest corners of our
+hearts.  The moans of un-requited love crys from the cells to the east
+and the west.
+~
+118 25 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11863
+D1
+There are some iron bars here.. The people here must be very dangerous..
+To others or is it themselves.
+~
+cell~
+2 11845 11859
+D2
+~
+~
+0 -1 11857
+D3
+There are some iron bars here.  Are the prisoners here dangerous?
+~
+cell~
+2 11845 11858
+S
+#11863
+Tunnel of Desolution~
+Love lost and tost begins to bring a tear to your eye.  The misery of these
+lost causes makes you want to destroy everything in your path and tear
+at your eyes.  The crying of the doomed or ignored rests in this dungeon
+and you wish to the gods that be for escape from this fate.
+~
+118 8201 0
+0d0+0 0 0
+D1
+There are some iron bars here enclosing the cell.  There are crys coming 
+from the other side of the bars.
+~
+cell~
+2 11845 11861
+D2
+~
+~
+0 -1 11862
+D3
+there are some iron bars here.  There is a face looking out between them 
+with a forlorn look on it.
+~
+cell~
+2 11845 11860
+S
+#11864
+Before a Large Pumpkin~
+The massive glowing eyes and mouth of the pumpkin before you seem to flicker
+as if infested with demons and shadowy ghouls of the dark.  You begin to 
+think twice about entering as you hear the moans and screams that issue
+forth from the orifaces of the Great Pumpkin.  It is more than your puny
+force of will can muster just to keep you on your feet without fainting
+at the sight.
+~
+118 14469 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11865
+D2
+~
+~
+0 -1 11848
+D9
+~
+~
+0 -1 11886
+S
+#11865
+Entrance to a Haunted Pumpkin~
+Passing through the gaping maw of the pumpkin you almost belive all is well
+as the screams are drawn to the slightest muffle and a haunting laugh echoes
+through the hall as if to bid you welcome to this hall of hells.  The light
+you had noticed before is emitted by a HUGE candelabra standing in the foyer
+of this demonically carved pumkin.
+~
+118 6152 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11864
+D3
+~
+~
+0 -1 11866
+S
+#11866
+Front room in a haunted Pumpkin~
+This pumpkin seems infinitly larger on the inside than on the outside, and
+the dripping goo and candlewax from the walls seems to put out an evil glow
+that you can't quite understand.  The shadows seem to be almost alive as if
+they are watching you enter this might foyer, and a hideous laughter erupts
+from above as you wander farther into this domain!
+~
+118 6153 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11865
+D3
+~
+~
+0 -1 11867
+S
+#11867
+Further in a Haunted Pumpkin~
+A dank stairway has been molded out of mounds of pumpkin seeds and human
+flesh.  The walls lining it are adorned with halloween masks and ghoulish
+gargoyles.  The laughter seems nearer and the darkness seems to flow from
+the walls themselves.
+~
+118 14345 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11866
+D4
+~
+~
+0 -1 11868
+S
+#11868
+2nd Floor in the haunted pumpkin~
+This hallway, like every other room in this moldy pumpkin, is covered with
+the smell of rotting flesh and seeds.  And the odd glow is brighter here
+almost blinding you to the distance to the end of the hall.
+~
+118 6153 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11869
+D5
+~
+~
+0 -1 11867
+S
+#11869
+2nd floor in the Haunted pumpkin~
+The smell of burnt flesh and rotten candy bars waifs from the eastern end
+of this hall.  You notice trick or treat bags and half burnt masks strewn
+about the floor.  The hideous laughter, or maniacal screaming, is almost
+deafining.
+~
+118 139273 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11870
+D3
+~
+~
+0 -1 11868
+S
+#11870
+2nd floor in the haunted pumpkin~
+The halls eternal darkness is almost shattered by the glowing of what seems
+to be a pair of flickering red eyes.  They seem to be further east but within
+this house of horrors who is to know.
+~
+118 6153 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11871
+D3
+~
+~
+0 -1 11869
+S
+#11871
+2nd floor in the Haunted pumpkin~
+The Will-o-Wisp that lead you here has mysteriously disappeared and the eyes
+and laughter float all around you before they dissapear up these stairs made
+of bone and candy apple sticks.  You think to yourself what kind of madman
+would be found in a house like this, and slightly remember a childhood story
+of a man with a pumpkin for a head.  Dismissing this notion you trudge onward
+and upward
+~
+118 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 11870
+D4
+~
+~
+0 -1 11872
+S
+#11872
+The Attic in the Haunted pumpkin~
+Clearing away cobwebs and dust covered sheets you have entered the attic of
+this pumpkin without nary a sign of the owner.  Perhaps you were mistaken to
+have ever entered these halls in search of adventure, for all it has brought
+you to is darkness and thoughts of a childhood stomach-ache from too much
+Halloween candy.
+~
+118 6153 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 11873
+D5
+~
+~
+0 -1 11871
+S
+#11873
+Jack Pumpkinhead's Throne room~
+This room's centerpiece is a large throne made of sticks and stones welded
+together with locks of childrens hair and marrow from thier bones.  Bits
+of costumes and garments of long forgotten trick or treaters are strewn about
+the room, as are pieces of shining razor blades and bottles of poison.  The
+person who resides here is one sick individual.  A DEATHLY CHILLING wind
+howls from the window set in the western wall, making you think twice about
+jumping out of Jack's way.
+~
+118 6153 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11872
+D3
+~
+~
+0 -1 11874
+S
+#11874
+Out the Window~
+You should have looked before you lept.  After the ferocity of Jack, didn't
+you figure he was letting you out just a bit too easy?  Or did you think
+escape was in his list of things to let you little mortals do?
+
+~
+118 16386 0
+1d1+199 90 0
+D0
+~
+~
+0 -1 11864
+S
+#11875
+Out to sea~
+You are floating out to see and all you can see is the salt water of the sea.
+You must be near to something as you seem to have been floating aimlessly 
+for days.  The salt air seems to do something to you and  it makes you 
+jittery and anxious to get to land.
+~
+118 1 7
+0d0+0 0 0
+D1
+~
+~
+0 -1 11877
+D3
+~
+~
+0 -1 11876
+S
+#11876
+Tunnel Of Love~
+You continue to float down the water towards the Valentine mansion.  There
+is music floating in from someplace and it is some sweet, sappy, and just
+plain gross love song that is playing over and over and over....
+~
+118 6152 7
+0d0+0 0 0
+D0
+~
+~
+0 -1 11815
+D1
+~
+~
+0 -1 11875
+D2
+~
+~
+0 -1 11814
+S
+#11877
+Out to sea~
+You are floating aimlessly out at sea.  There is nothing around you except 
+for lots of salt water and the occasionaly fish that might jump out of the 
+water. You feel like you have been floating on the sea for forever and you 
+can't wait to get your feet back on solid ground.
+~
+118 2068 7
+0d0+0 0 0
+D1
+~
+~
+0 -1 11878
+D3
+~
+~
+0 -1 11875
+S
+#11878
+A port at sea.~
+You have finally come to a port at sea.   There isn't much  here it seems 
+besides a fort and some indians. This must be the famous plymoth rock, 
+where the mayflower landed with the pilgrams.
+~
+118 12304 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 11879
+D3
+~
+~
+0 -1 11877
+S
+#11879
+Before the Fort~
+You are standing before a large fort that has been made from trees inserted 
+into the ground. The fort look sturdy and appears to have several families
+living in it.  There are soldiers wandering around outside of the open fort
+and there are some indians going in and out of the fort. 
+~
+118 6160 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 11887
+D1
+~
+~
+0 -1 11882
+D2
+~
+~
+0 -1 11878
+D6
+~
+~
+0 -1 11884
+S
+#11880
+Before a large table~
+Before you is a grand table that is full of wonderful foods. In the center
+of the table is a HUGE turkey that looks like it was roasted and it is 
+the perfect golden brown color.  There are other treats here as well.
+There are pies and other desserts that are waiting on a nearby table for 
+the diners to finish eating their feast.
+~
+118 8208 2
+0d0+0 0 0
+D2
+~
+~
+0 -1 11887
+D3
+~
+~
+0 -1 11881
+D6
+~
+~
+0 -1 11896
+D7
+~
+~
+0 -1 11897
+S
+#11881
+At the table~
+You are at the table now and you can see that the faces around this table 
+are very different.  Seated at each end of the table are people who have 
+been enemies for some time.  At one end is the Man who runs the fort and 
+at the other end is the Indian chief.  There are men and women seated around
+the table that would normally be scared of each other and be 
+trying to hurt each other.
+~
+118 6160 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 11880
+S
+#11882
+By a teepee~
+This is a Teepee that has been made by using animal hides stretched over a
+frame made of wood.  There are colorful picture painted on the outside as 
+some sort of symbol.  Just in front of the teepee is a cooking fire and 
+it is blazing brightly and some sort of roasting meat is in the fire.
+~
+118 6160 2
+0d0+0 0 0
+D1
+~
+~
+0 -1 11883
+D3
+~
+~
+0 -1 11879
+S
+#11883
+In the teepee~
+You are in a the teepee of the chief os this tribe of indians.  There are 
+colorful pictures painted on the inner walls of this teepee.  There are
+hides of animals piled to one side of the teepee to keep them warm in the
+winter.  To the west is the entrance that you just came in from and will 
+lead you back out to the fort.
+~
+118 10256 2
+0d0+0 0 0
+D3
+~
+~
+0 -1 11882
+S
+#11884
+In a field~
+You are standing in a large open filed that is growing some plants. As you 
+look closer you realize it is the crop of some industrious farmer.  Here in
+this field there are all kinds of vegatables growing.  You see the neat
+rows of corn, carrots, and other gourd type vegtables.
+~
+118 8320 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 11885
+D9
+~
+~
+0 -1 11879
+S
+#11885
+In the field~
+You are standing in a field that looks to be well cared for.  There are neat
+little rows of carrots and beans going as far as the eye can see.  You see 
+what looks to be the start of a pumpkin patch here.
+~
+118 6144 0
+0d0+0 0 0
+D6
+~
+~
+0 -1 11886
+D9
+~
+~
+0 -1 11884
+S
+#11886
+In a large pumpkin patch.~
+You are standing in a large pumpkin patch, with pumpkins reaching as far 
+as the eye can see.  There are 2 odd looking children here that seem to be 
+waiting for something.  It seems odd that childern would wait in a darkened
+pumpkin patch for anything
+~
+118 6161 2
+0d0+0 0 0
+D6
+~
+~
+0 -1 11864
+D9
+~
+~
+0 -1 11885
+S
+#11887
+In the fort~
+You are standing just inside the gate of a large fort.  There are people 
+alking around you as they go about their day to day business.  There 
+are several indians here as well.  It looks like they are getting ready 
+for quite a feast. 
+~
+118 0 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11880
+D2
+~
+~
+0 -1 11879
+S
+#11888
+Bedroom in a Small cottage~
+There is a Twin bed in the corner of this otherwise bare room.  There are 
+a few books on a nightstand that stands next to the small bed. This room,
+like all the others, is immaculate.  The bed is covered in a tidy 
+bedspread that is green and white plaid. The window has a curtain of the 
+same material.  There is a shamrock painted on the wall over the bed..
+....How strange.
+~
+118 12296 0
+0d0+0 0 0
+D1
+~
+~
+0 -1 11841
+S
+#11889
+In the Kitchen in the Small Cottage~
+The kitchen in this quaint cottage looks like it came from a magazine. 
+The cupboard are of the whitest white with green trim and brass handles.
+The dishes are all neatly stacked in their places and the sink shines 
+with a star-like brillance.  There is a small breakfast alcove with a 
+small wrought iron table and chairs.  The table cloth and seat covers
+are of the same green and white plaid that is in the front room.
+~
+118 131096 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11890
+D3
+~
+~
+0 -1 11841
+S
+#11890
+Out Behind the Small cottage~
+You are in a field behind the cottage.  There is a hactchet where someone
+was chopping wood for a fire.  Along one side of the cabin you see
+a large pile of neatly stacked wood.  From where you stand you can 
+see the mountains that surround this small cottage.  The view here is
+breathtaking.
+~
+118 10384 2
+0d0+0 0 0
+D0
+~
+~
+0 -1 11889
+S
+#11891
+Dressing room~
+You are in a small room where people who are getting married come to change
+into their wedding attire.  There are clothes handing from hooks on the 
+back side of the door.  Above you a bare light bulb shines harsh light down 
+on you.
+~
+118 8 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 11893
+D6
+~
+~
+0 -1 11894
+S
+#11892
+Amongst the guest~
+You are walking amongst the guests at this quicky wedding.  There are people
+all around you dressed in guady clothing and crying very theatrically.  You
+better sit down if you don't want to miss any of it.
+~
+118 8 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11894
+S
+#11893
+Amongst the guest~
+Youa re walking amongst the guest at a wedding ceremony, if you could call it 
+that.  Everyone is sobbing quietly and holding tissues to dab their eyes.  The
+minister is just starting the ceremony...you better sit down.
+~
+118 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11894
+D1
+~
+~
+0 -1 11891
+D3
+~
+~
+0 -1 11822
+S
+#11894
+Aisle~
+You are walking down an aisle in this quicky marriage chapel.  Just before you
+is the minster who will change into a couple.  Are you sure your ready to be
+tied down to one person, to give up your freedom?  There are guests on 
+either side of the aisle crying and lightly dabbing their eyes with tissues.
+~
+118 8 0
+0d0+0 0 0
+D0
+~
+~
+0 -1 11892
+D1
+~
+~
+0 -1 11895
+D2
+~
+~
+0 -1 11893
+D3
+~
+~
+0 -1 11822
+D9
+There is a door here that  has a small sign on it that says Dressing room.
+~
+door~
+1 -1 11891
+S
+#11895
+Before the Minster~
+This is your last chance to listen to your cold feet.  RRRRUUUUUUUNNNNNNNN!
+The minster stand here looking at you and has just asked you to take this
+person for your spouse...forever...and ever......What are you gonna do?
+~
+118 6152 0
+0d0+0 0 0
+D3
+~
+~
+0 -1 11894
+S
+#11896
+Before a Pilgrams house~
+Standing before a quaint little cottage, You notice the plume of smoke
+rising through the chimney and realize someone must be home. You see 
+the flicker of candlelight through the small panes of glass in the 
+window. Through the window you see the Pilgram family sitting down 
+to their supper.
+~
+118 8320 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 11898
+D9
+~
+~
+0 -1 11880
+S
+#11897
+Before a Pilgrams house~
+You stand before a small cottage built from logs.  It is small but yet looks 
+warm and comfy inside. There is a billowy plume of smoke coming from the 
+chimney.  Through the windows you can see that the famil that lives there 
+and they look perfectly happy in their homes and with their family 
+surrounding them.
+~
+118 4 1
+0d0+0 0 0
+D0
+~
+~
+0 -1 11899
+D8
+~
+~
+0 -1 11880
+S
+#11898
+In a Pilgrams House~
+You are standing in a one room cottage.  This house is decorated a little 
+more than the other one but this family must have a bit more money.  In 
+this house there are sleeping quarters up in the attic.  There is a ladder
+that leads up to the beds.  You can see the shelves which serve as a pantry
+and they are stocked full for the long winter.  There is a pot on the stove
+that looks to be full of some delicious smelling substance.  
+~
+118 136 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11896
+S
+#11899
+In a Pilgrams House~
+You are standing in a functional one room cottage.  There are sleeping cots 
+stacked up along one side of the room.  In the fireplace there is a fire
+going that is quite warm and cozy.  There is a long wooden table in the 
+center of the room with long benches on either side.  There aren't many 
+decorations around as it is to be functional and life here is hard.  The 
+only decoration you see is a large quilt that is hanging over the rocking
+chair in the corner.
+~
+118 136 0
+0d0+0 0 0
+D2
+~
+~
+0 -1 11897
+S
+$

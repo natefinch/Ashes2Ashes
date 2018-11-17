@@ -1,0 +1,91 @@
+CircleMUD v3.0 Shop File~
+#0~
+3637 
+3638 
+3639 
+-1
+1.3 
+0.6 
+19
+13
+8
+1
+22
+-1
+%s Sorry big fella, but I don't seem to have anything like that right now.~
+%s Hey friend, don't try and cheat me. You don't have on of those.~
+%s Sorry, but I don't buy anything like that, perhaps you should try the 
+pawnbroker's shop.~
+%s Oh man, I would kill to have one of those. Unfortunately I am a little 
+short on funds this week. Perhaps next time.~~
+%s Sorry friend, but your bankroll can't cover your purchases.~
+%s Very nice choice. I'll just take %d coins for that.~
+%s Pleasure doing business with you, here's %d coins for that.~
+0 
+0 
+3605 
+0 
+3626 
+-1
+0 
+28 
+0 
+0 
+#1~
+3686 
+3687 
+3688 
+-1
+1.3 
+0.6 
+17
+15
+19
+-1
+%s Ain't got any of that son, try something else.~
+%s Sorry, but you don't have none of that to sell me.~
+%s Sorry, but I don' buy that, try the pawnbrokers shop.~
+%s I'd love to have that one, but I just can't afford it right now.~
+%s You ain't got the cash to make the deal, get outta my shop.~
+%s I'll just need %d coins to make this all legal now.~
+%s There ya go, %d coins for your trouble.~
+0 
+0 
+3660 
+0 
+3779 
+-1
+0 
+28 
+0 
+0 
+#2~
+-1
+1.5 
+0.5 
+5 
+9 
+11 
+8 
+4
+-1
+%s What are you, blind? I haven't had one of those in over a month!~
+%s What do you take me for? You don't even have one of those!~
+%s Sorry my friend, but I only purchase quality, honest merchandise at 
+this store.~
+%s I'd love to have that, but I just can't come up with the money.~
+%s You'd better go find another shop with cheaper items since you can't 
+seem to afford my wares.~
+%s Been a pleasure doing business with ya, that'll be %d coins.~
+%s Man, i been wanting this. Here's %d coins for your trouble.~
+0 
+0 
+3669 
+0 
+3777 
+-1
+0 
+28 
+0 
+0 
+$~
