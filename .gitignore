@@ -4,3 +4,6 @@ log/
 ashes/lib/plrobjs/
 ashes/lib/plrtext/
 ashes/lib/etc/
+
+# dammit apple
+.DS_Store
